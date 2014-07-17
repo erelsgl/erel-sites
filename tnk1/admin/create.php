@@ -93,9 +93,9 @@ Go to the main page: http://localhost/tnk1/
 function create_database_and_user() {
 	$link = sql_connect(
 		$_POST['db_host'],
-		$_POST['db_user'],
-		$_POST['db_pass']);
-
+		$_POST['root_username'],
+		$_POST['root_password']);
+	
 	if (!$link)
 		die('Could not connect as $_POST[db_user]: ' . sql_get_last_message());
 
