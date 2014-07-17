@@ -10,7 +10,7 @@
  * @author Rent a Brain - http://tora.us.fm/rentabrain
  */
 
-function sql_connect($server, $database, $password, $newlink=false, $flags=0) { return mysql_connect($server, $database, $password, $newlink, $flags|128); } // 128 is needed to allow "load data local infile".
+function sql_connect($server, $database, $password, $newlink=false, $flags=0) { return @mysql_connect($server, $database, $password, $newlink, $flags|128); } // 128 is needed to allow "load data local infile".
 function sql_pconnect($server, $database, $password) { return mysql_pconnect($server, $database, $password); }
 function sql_select_db($database, $link) { return mysql_select_db($database, $link); }
 function sql_get_last_message() { return mysql_error(); }
