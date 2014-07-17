@@ -28,11 +28,17 @@ update_create_page();
 
 
 function show_create_page() {
-	@include_once("db_connect_params.php"); // only if it exists
-	set_coalesce($GLOBALS['db_name'], coalesce($GLOBALS['db_name'],''));
+	@include_once(dirname(__FILE__) . "/db_connect_params.php"); // only if it exists
+	set_coalesce($GLOBALS['root_username'], coalesce($GLOBALS['root_username'],'root'));
+	set_coalesce($GLOBALS['root_password'], coalesce($GLOBALS['root_password'],''));
+	set_coalesce($GLOBALS['db_host'], coalesce($GLOBALS['db_host'],'localhost'));
+	set_coalesce($GLOBALS['db_name'], coalesce($GLOBALS['db_name'],'tnk1'));
 	set_coalesce($GLOBALS['db_user'], coalesce($GLOBALS['db_user'],''));
 	set_coalesce($GLOBALS['db_pass'], coalesce($GLOBALS['db_pass'],''));
-
+	set_coalesce($GLOBALS['GOOGLE_API_KEY'], coalesce($GLOBALS['GOOGLE_API_KEY'],''));
+	set_coalesce($GLOBALS['GOOGLE_CSE_ID'], coalesce($GLOBALS['GOOGLE_CSE_ID'],''));
+	set_coalesce($GLOBALS['is_local'], coalesce($GLOBALS['is_local'],'false'));
+	
 	print "
 ## Credentials
 
