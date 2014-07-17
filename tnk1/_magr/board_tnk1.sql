@@ -88,3 +88,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/tov.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-17 07:37:48'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-17 07:42:34'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
