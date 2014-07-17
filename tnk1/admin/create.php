@@ -26,6 +26,11 @@ require_once("$SCRIPT/coalesce.php");
 show_create_page();
 update_create_page();
 
+function read($vartitle, $varname) {
+	$default = coalesce($GLOBALS[$varname],"");
+	print "$vartitle [$default]: "; $varvalue = trim(fgets(STDIN));
+	$_POST[$varname] = $varvalue? $varvalue: $default;
+}
 
 function show_create_page() {
 	@include_once(dirname(__FILE__) . "/db_connect_params.php"); // only if it exists
@@ -35,8 +40,6 @@ function show_create_page() {
 	set_coalesce($GLOBALS['db_name'], coalesce($GLOBALS['db_name'],'tnk1'));
 	set_coalesce($GLOBALS['db_user'], coalesce($GLOBALS['db_user'],''));
 	set_coalesce($GLOBALS['db_pass'], coalesce($GLOBALS['db_pass'],''));
-	set_coalesce($GLOBALS['GOOGLE_API_KEY'], coalesce($GLOBALS['GOOGLE_API_KEY'],''));
-	set_coalesce($GLOBALS['GOOGLE_CSE_ID'], coalesce($GLOBALS['GOOGLE_CSE_ID'],''));
 	set_coalesce($GLOBALS['is_local'], coalesce($GLOBALS['is_local'],'false'));
 	
 	print "
@@ -44,48 +47,18 @@ function show_create_page() {
 
 ";
 	$_POST['db_host'] = $GLOBALS['db_host'];
-	print "MySQL username [$GLOBALS[db_user]]: "; $db_user = trim(fgets(STDIN));
-	$_POST['db_user'] = $db_user? $db_user: $GLOBALS['db_user'];
-	print "MySQL password [********]: "; $db_pass = trim(fgets(STDIN));
-	$_POST['db_pass'] = $db_pass? $db_pass: $GLOBALS['db_pass'];
-		
+	read("MySQL root username", "root_username");
+	read("MySQL root password", "root_password");
+
 	print "
 ## New database data
 
 ";
-	print "New database name [$GLOBALS[db_name]]: "; $db_name = trim(fgets(STDIN));
-	$_POST['db_name'] = $db_name? $db_name: $GLOBALS['db_name'];
+	read("New database name", "db_name");
+	read("New user name", "db_user");
+	read("New user password", "db_pass");
 	print "Drop existing database if it exists? [no]: "; $drop_db = trim(fgets(STDIN));
-	$_POST['drop_db']=($drop_db=='yes'); 
-}
-
-function update_create_page() {
-	@include_once("db_connect_params.php"); // only if it exists
-
-	print "
-## New database creation
-
-";
-
-	print "* create_database_and_user();
-";	create_database_and_user();
-
-	print "* create_db_connect_params();
-";	create_db_connect_params();
-	
-	print "* require('db_connect.php');
-";	require('db_connect.php');
-
-	print "* create_database_tables();	
-";	create_database_tables();
-
-	print "
-
-## Done!
-
-Go to the search page: http://localhost/tnk/findpsuq.php
-
-"; 
+	$_POST['drop_db']=($drop_db=='yes');
 }
 
 
