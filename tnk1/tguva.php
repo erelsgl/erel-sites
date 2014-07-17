@@ -14,9 +14,7 @@ echo xhtml_header(
 		'tguvot',
 		array("_themes/klli_script.css"),
 		"
-		<script type='text/javascript' src='elements.js'></script>
 		<script type='text/javascript' src='$jquery'></script>
-		<script type='text/javascript' src='jquery.taconite.js'></script>
 		");
 
 require_once("$SCRIPT/system.php");
