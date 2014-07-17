@@ -1,0 +1,43 @@
+/*
+	style sheet for forms - 
+	adapted from http://alistapart.com/articles/practicalcss
+*/
+
+form {
+	clear:both;
+	padding: 5px;
+}
+
+form div.row {
+	clear:both;
+	padding-top:10px;
+}
+
+form div.row label {
+	float: left;
+	width: 20%;
+	text-align: right;
+}
+
+form div.row span.input {
+	float: right;
+	width: 78%;
+	text-align: left;
+}
+
+form div.row .comment {
+	font-size:0.8em
+}
+
+form div.submit {
+	padding-top:10px;
+	padding-left:20%;
+	clear:both;
+}
+
+div.spacer {
+	clear: both;
+}
+
+
+

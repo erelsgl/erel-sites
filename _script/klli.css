@@ -1,0 +1,448 @@
+@charset "windows-1255";
+/*
+	A generic stylesheet for all http://tora.us.fm sites
+*/
+
+
+/*
+text size and weight
+*/
+
+body { font-weight:normal; font-size:1.25em; font-family: sans-serif}
+
+small { font-size: 0.6em }
+.NiwutElyon .NiwutElyon { font-size: 0.9em }
+.versionlink { font-size:0.8em }
+.formerversions { font-size:0.8em }
+table.nkdim td { font-size: 0.7em }
+
+/* make quotations look the same in IE and other browsers */
+q:before {content: no-open-quote}
+q:after {content: no-close-quote}
+
+/* old: cite small, .citut small, small cite, small .citut {font-size: 0.6em} */
+
+textarea, input { font-family: 'Courier', monospace; font-size: 12pt } /* for easier text entry */
+textarea.code { font-size: 0.6em }
+
+button { font-size: 0.6em }
+
+.txtit { font-size: 0.75em }   /* bottom part of document */
+.date { font-size: 0.8em }  /* date stamp near a reply, in the replies section */
+
+.teur_tguva { font-size: 0.6em }  /* link to parent document, in the top of reply documents */
+.followup .teur_tguva {display: none}  /* don't display link to parent when displaying as a reply */
+
+.followup {margin-right:1ex; border-right:solid 1pt #eee}
+
+h1 { font-weight:normal; font-size:2.5em; text-align:center; margin:auto }
+h2 { font-weight:normal; font-size:1.6em }
+h3 { font-weight:normal; font-size:1.3em }
+h4 { font-weight:normal; font-size:1.2em }
+h5 { font-weight:normal; font-size:1.1em }
+h6 { font-weight:normal; font-size:1em }
+
+
+
+
+
+
+/* special sections of text */
+
+
+
+
+
+/* WYMeditor */
+
+/* advanced */
+p.advanced, span.advanced, .advanced {
+	background-color:#eee; border:dotted 1pt;
+	/* background-color:#eee; border:dotted 1pt; */
+}
+
+/* future */
+p.future, span.future, .future {
+	font-size:smaller; background-color:#ccc;
+	/* font-size:smaller; background-color:#ccc; */
+}
+
+q { 
+	font-size:1.2em;  color: #800; 
+	/* font-size:1.2em; color: #800; */
+}
+
+q { 
+	font-family: 'Liberation Serif', serif; 
+}
+
+/* psuq */
+q.psuq { 
+	color: #008; 
+	/* color: #008; */
+}
+
+/* mfrj */
+q.mfrj { 
+	color: #080; font-style:italic; 
+	/* color: #080; font-style:italic; */
+}
+
+
+/* small */
+small.small { 
+	
+}
+
+
+/* /WYMeditor */
+
+a.psuq { color: normal; font-weight: normal; }
+
+.notes {font-style:italic; font-size:smaller}
+.requirements {color:#880000}
+div.requirements li li {color: black; font-style:italic; font-size:smaller}
+
+.revisions {background-color: #eee; font-size:smaller}
+
+.versionid {border: solid 1pt #008; background: #ccf; float:right; margin:0 2em 0 2em; text-align:center; width:4em}
+
+/*
+other tags
+*/
+
+/* img { background:white; color:black } /* make transparent images look better */
+td { vertical-align:top } /* standard table look */
+form table tr { background:#dfdfdf; color:black }  /* emphasize tables inside forms */
+a u, a .u {font-weight: bolder; border-bottom: solid 1px} /* emphasize underlined text inside a link */
+.u { text-decoration:underline } /* use as a replacement to the "u" tag, which is not xhtml-compliant */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {text-decoration:none}
+label { font-weight: bold}
+table {border-spacing: 0}
+table td {border-style:ridge; border-width:1pt}
+dfn {text-decoration:underline; border-bottom: solid 1pt}
+
+
+
+/*
+classes and parts of the document
+*/
+
+
+/* navigation bars */
+
+.NiwutElyon {  font-family: monospace;
+	padding-top: 0.5em; padding-bottom: 0.5em;  border-top: 2px ridge;  border-bottom: 2px ridge; }
+.NiwutElyon .NiwutElyon { border: none; padding: 0; margin: 0 }
+.NiwutElyon .NiwutElyon a { margin-left: 10pt; margin-right: 10pt }
+
+/* see ktov_xipus.js */
+
+p.niwut { padding-bottom: 0; margin-bottom: 0 }
+
+/* keywords, author, receiver - written under the header */
+
+#idfields, #visible_idfields { text-align:center; margin:0.5em auto 0.5em auto; padding:0.5em 0 0.5em 0; font-style:italic } 
+
+
+/* links to print version etc. */
+
+.versionselectors {clear:both; width:100%; text-align:center; font-size:0.7em; margin:0em 0 1em 0; padding:0em 0 1em 0}
+.versionselectors td {border:none; text-align:center}
+
+/* links to other languages - under the header in bi-lingual documents: */
+
+.versionlink {text-align:center; font-style:italic}
+.versionlink a {text-decoration:none; font-weight:bold; border:solid 1px}
+
+.versionselector  {text-align:center}
+
+
+
+.teur_tguva {clear:both}
+#tokn {clear:both}
+
+
+
+/* the main part of the document, when it is edited in IE: */
+	
+.edited { border: dashed 1px }
+.deletion {color: #880000; border:dashed 1pt}
+
+
+/* sections that are part of bi-lingual elements (the borders are there to make it easier to edit without destroying the sections): */
+
+div.lang { border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; padding-top: 1em }
+span.lang { border-left: 1px solid #eeeeee; border-right: 1px solid #eeeeee }
+
+
+/* javascript code sections */
+
+textarea.code { background:#eeeeff; color:black; margin:auto }
+button {margin:auto; text-align:center}
+body.jsfunction, body.jsalgorithm { text-align:center; margin:auto }
+
+
+/* date stamp near a reply, in the replies section */
+
+.date { margin-right: 2em }
+
+
+/* a special paragraph, that seperates subjects in a forum: */
+
+.none { line-height: 0em; height: 0em; margin: 0 0 0 0;	padding: 0 0 0 0; border-top: solid 0.25px }
+
+
+/* print.php with followups=1 creates links to the static version, to enable replying */
+
+.linktoreply { text-align:center; margin:auto; font-style:italic }
+
+
+/* links to former versions - near the bottom of the document */
+
+.formerversions { padding:0; margin:0; background:white; color:black; text-align:center; margin:auto }
+
+/* the group of buttons in the bottom of the document */
+
+p.buttons { text-align:center; margin:auto }
+/*table.buttons { margin:auto  }*/
+table.buttons td {border-style:none; border-width:0pt}
+
+
+/* the buttons near input files in javascript documents */
+
+a.edit_input , a.showorhide_input {text-decoration:none; border:solid 1px; margin:0.5em; font-size:0.8em}
+
+
+/* the bottom of each document */
+
+.txtit { text-align: center; font-family: monospace;
+	padding-top: 1em; padding-bottom: 1em;  border-top: 2px ridge;  border-bottom: 2px ridge; }
+
+
+/* tables inside lists (used in automatically generated collections in tnk, tryg, tokxot) */
+
+li table {border: none}
+li table td {border: groove 1.1px rgb(230,230,184)}
+li table td a {text-decoration: none}
+
+
+.bnim .followup {border:solid 1px #eee; margin:1px}
+.bnim li div {}
+.bnim li div cite {}
+
+.see_above {font-style:italic}
+.see_external {font-style:italic}
+
+.hodaa .NiwutElyon {background-color:red}
+
+
+/*
+ * From open office documents
+ */
+
+.sdfootnoteanc, .sdfootnotesym {
+	vertical-align: super;
+	font-size:0.8em; 
+}
+
+
+
+
+/**
+ * forum
+ */
+
+
+.shortforum {
+	font-size:12pt;
+}
+
+.shortforum h1 {
+	display:inline;
+	font-size:1.3em;
+	padding:0 0 0.5em 2em;
+}
+
+.longforum .author {
+	font-weight: bold;
+}
+
+.longforum .created_at {
+	font-style: italic;
+}
+
+.longforum ul {
+	padding-right:2ex;
+	margin-right:0ex;
+}
+
+
+.longforum ul li {
+	padding-right:0ex;
+	margin-right:0ex;
+
+	margin-top:1ex;
+}
+
+.longforum ul ul li {
+	margin-top:0;
+}
+
+.shortforum div.pnim, .longforum div.pnim, .rewrite div.pnim {
+	margin:0
+}
+
+
+/*
+ * sortable - see http://kryogenix.org/code/browser/sorttable/
+ */
+
+table.sortable a.sortheader {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+}
+table.sortable span.sortarrow {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+/* style for tables */
+.col0 {background: #ccc}
+.col1 {background: #fcc}
+.col2 {background: #cfc}
+.col3 {background: #ccf}
+.col4 {background: #ffc}
+.col5 {background: #cff}
+.col6 {background: #fcf}
+.col7 {background: #eee}
+
+div.introduction {
+	text-align:center;
+	border: solid 1pt;
+}
+
+
+table.inbox .new {
+	font-weight:bold;
+}
+
+.diff {
+	background:#f0f0f0;
+	padding-top:1em;
+	padding-bottom:1em;
+}
+
+
+
+/* For GFC gadgets */
+
+div#rate_gadget, div#rate_gadget iframe {
+	float:left; text-align:right; direction: rtl;
+	width:98%;
+	border:1px solid #ccffcc
+}
+
+div#addtext_gadget, div#addtext_gadget iframe {
+	float:left; text-align:right; direction: rtl;
+	width:49%;
+	border:1px solid #ccffcc;
+	height:500px;
+}
+
+div#members_gadget, div#members_gadget iframe {
+	float:right; text-align:left; direction: ltr; 
+	width:49%; 
+	border:1px solid #ccffcc
+}
+
+div#formerversions iframe {
+	width:100%;
+	height:50px;
+	background:#ccc
+}
+
+
+
+
+/*
+   TGUVOT 
+*/
+
+iframe.tguvot {
+	border:none;
+	border-bottom:solid 1pt black;
+	width:100%;
+	/*height:50em;*/
+}
+
+.parity0 {
+	background-color:#efe;
+}
+
+.parity1 {
+	background-color:#dfd;
+}
+
+
+
+body.tguvot input {
+	font-size:9pt;
+}
+
+body.tguvot textarea {
+	width:100%;
+}
+
+
+.tguva td {
+	border:none;
+}
+
+.tguva .author {
+	font-weight:normal;
+	font-size:7pt;
+	float:right;
+	width:8em;
+	height:100%;
+	text-align:center;
+	vertical-align:top;
+}
+
+.new .author {
+	font-size:9pt;
+	vertical-align:middle;
+}
+
+.tguva .author .gfc_thumbnail {
+	width:5em;
+	height:5em;
+}
+
+.tguva .body {
+	/*font-weight:bold;
+	background-color:#eee;*/
+	padding-right:4pt;
+	/*border-right:solid 2pt #8f8;*/
+	margin-right:4pt;
+	margin-top:-1em;
+	margin-bottom:-1em;
+}
+
+body.adventurer .tguva .body p { line-height:100%; margin:0; padding:0;}
+.tguva .body, body.tguvot textarea { font-size:11pt; font-family:sans-serif; }
+	.tguva .delete { font-weight:normal; font-size:9pt; text-align:left; }
+
+
+
+
+div.wym_tools.wym_section.wym_buttons ul  {margin:2px; padding:2px;}
+div.wym_tools.wym_section.wym_buttons ul li {margin:2px; padding:2px;}
+div.wym_tools.wym_section.wym_buttons ul li a {height: 50px;}
+
+
