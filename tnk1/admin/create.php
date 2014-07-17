@@ -119,6 +119,9 @@ function create_database_and_user() {
 		TO $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass'])." WITH GRANT OPTION");
 	sql_query_or_die("GRANT RELOAD ON *.* 
 		TO $db_user_quoted");
+	
+	sql_query_or_die("GRANT ALL PRIVILEGES ON tnk.*
+		TO $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass'])." WITH GRANT OPTION");
 
 	sql_close($link); // root logs out
 }
