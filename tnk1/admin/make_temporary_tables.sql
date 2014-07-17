@@ -1513,58 +1513,6 @@ GROUP BY sfr, prq0, psuq;
 
 
 
-DROP TABLE IF EXISTS findpsuq;
-CREATE TABLE findpsuq
-SELECT 
-	sfrim_prqim.kotrt_sfr,
-	sfrim_prqim.kotrt,
-	sfrim_prqim.ktovt,
-	psuqim_gross.verse_number,
-	psuqim.kotrt AS verse_letter,
-	psuqim_gross.verse_text,
-	trgumim_im_ktovt.ktovt AS ktovt_trgum,
-	CONCAT("tnk1/ktuv/",LEFT(sfrim_prqim.qod,3),RIGHT(sfrim_prqim.qod,2),"-",psuqim.qod_mlbim,".html") AS ktovt_trgum_xdj,
-	CONCAT("sfr=",sfrim_prqim.qod_sfr_2,"&prq=",sfrim_prqim.mspr_prq,"&psuq=",psuqim_gross.verse_number) AS ktovt_sikum
-FROM psuqim_gross 
-INNER JOIN sfrim_prqim ON (
-	psuqim_gross.book=sfrim_prqim.qod_sfr AND
-	psuqim_gross.chapter=sfrim_prqim.kotrt_prq)
-INNER JOIN tnk.prqim AS psuqim ON (
-	psuqim_gross.verse_number=psuqim.mspr)
-LEFT JOIN trgumim_im_ktovt ON (
-	trgumim_im_ktovt.sfr=sfrim_prqim.qod_sfr AND
-	trgumim_im_ktovt.prq0=sfrim_prqim.kotrt_prq AND
-	trgumim_im_ktovt.psuq=psuqim_gross.verse_number)
-ORDER BY sfrim_prqim.ktovt
-;
-
-UPDATE findpsuq
-SET verse_text = 
-replace(
-	replace(
-	replace(
-	replace(
-	replace(
-	replace(
-	replace(
-		verse_text,".",""
-	),"-"," "
-	),"</P>",""
-	),"<BR>",""
-	),"~",""
-	),":",""
-	),";",""
-);
-
-UPDATE findpsuq
-SET ktovt_trgum=ktovt_trgum_xdj
-WHERE kotrt BETWEEN "משלי א" AND "משלי כז";
-
-
-
-
-
-
 /* trgumim statistics */
 
 DROP TABLE IF EXISTS trgumim_im_ktovt_wikisource;
