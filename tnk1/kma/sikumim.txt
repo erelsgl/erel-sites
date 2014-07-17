@@ -1,0 +1,51 @@
+bereshit.htm    ../xidon/jelot/
+BMDBR4.DOC	tora/bmdbr/bm-04.doc
+BMDBR7.DOC	tora/bmdbr/bm-07.doc
+Conc10doc.zip	[ljon/sikumim/]
+CONC10.ZIP	[ljon/sikumim/]
+CONC1DOC.ZIP	[ljon/sikumim/]
+CONC1.ZIP	[ljon/sikumim/]
+dvrim28.doc	tora/dvrim/dm-28-tvla.doc
+dwd_mqomot.doc  /dev/null
+GIVAA.DOC       nvir/joftim/jf-2029-2103.doc
+IJAIH18.DOC     nvia/yjayhu/yj-18-0406.doc
+$ir-xd$.rtf	/dev/null
+jmot.rtf	/dev/null
+kings.rtf	nvir/kings.rtf
+kings-yhuda.rtf	nvir/kings-yhuda.rtf
+mb-02.doc	nvir/mlkimb/mb-02.doc
+MILIM1.DOC	ljon/sikumim/milim1.doc
+MILIM1.RTF	/dev/null
+MILIM2.DOC	ljon/sikumim/milim2.doc
+MILIM2.RTF	/dev/null
+milim-okl.doc	ljon/sikumim/
+MLKIM.XLS	nvir/jnot_hmlkim.xls
+mp.doc		ljon/sikumim
+MQOMOT.DOC	ezor/ezorim.doc
+MSPRIM.DOC	ljon/sikumim/msprim.doc
+MSPRIN.DOC	ljon/sikumim/msprin.doc
+ndirot20.doc	ljon/sikumim/ndirot_a-k.doc
+Ndirot3.doc	ljon/sikumim/ndirot_l-p.doc
+NDIROT4.DOC	ljon/sikumim/ndirot_q-t.doc
+otiot.doc	ljon/sikumim/
+otiototiot.doc	ljon/sikumim/
+pi2.html	/dev/null
+PSUQIM.DOC	kma/hvdlim1/psuqim.doc
+PSUQIN.DOC	ktuv/mjly/psuqin.doc
+PSUQIO0.DOC	/dev/null
+PSUQIO.DOC	kma/hvdlim1/knanim.doc
+QADO$.DOC	ljon/sikumim/jm1.doc
+qhlt.doc	ktuv/mgilot/qhlt.doc
+README.PLEASE
+rjimot.rtf	kma/rjimot.rtf
+SIKUMIM.DOC	kma/hvdlim1/sikumim.doc
+SIKUMIN.DOC	kma/hvdlim2/sikumin.doc
+sikumin.rtf	/dev/null
+sikumio.doc	/dev/null
+tokn.html
+tokn.old.html	/dev/null
+toldot.zip	[dmut/]
+xirm.rtf
+kma/qdj/	ljon/
+kma/mqomot/	ezor/
+

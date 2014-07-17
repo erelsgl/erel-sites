@@ -1,0 +1,14 @@
+[27-Nov-2006 00:07:26] PHP Warning:  main(../_script/callback.php): failed to open stream: No such file or directory in /home/tora/public_html/tnk1/klli/limud/nextword.php on line 15
+[27-Nov-2006 00:07:26] PHP Fatal error:  main(): Failed opening required '../_script/callback.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tora/public_html/tnk1/klli/limud/nextword.php on line 15
+[24-Apr-2007 05:59:38] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[24-Apr-2007 10:01:25] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[24-Apr-2007 12:37:10] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[24-Apr-2007 14:31:35] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 04:15:03] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 05:29:25] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 06:25:31] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 06:55:05] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 12:47:02] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[25-Apr-2007 13:14:35] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[26-Apr-2007 07:42:28] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13
+[31-May-2007 12:45:53] PHP Warning:  mysql_connect(): Lost connection to MySQL server during query in /home/tora/public_html/_script/mysql.php on line 13

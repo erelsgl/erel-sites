@@ -1,0 +1,22 @@
+<html dir="rtl" lang="he">
+	<head>
+<link rel='stylesheet' href='../../_script/klli.css' />
+<link rel='stylesheet' href='../_themes/klli.css' />
+		<title>ניהול מאגר-הנתונים של האיזורים בעולם התנ"ך</title>
+	</head>
+<script type='text/javascript'>
+dataFrameIsOutdated = false;
+function RefreshIfNeeded() {
+	if (dataFrameIsOutdated) {
+		location.reload(1);
+	}
+}
+username='צחור';
+password='רכבי';
+</script>
+	
+<frameset rows="1%,1%,98%"> <!-- onload="alert('reloading');prtimFrame.location.reload(true);qjrimFrame.location.reload(true)"-->
+	<FRAME id="prtimFrame" name="prtimFrame" src="../../_magr/prt_ezor.txt" scrolling="no" frameborder="0">
+	<FRAME id="qjrimFrame" name="qjrimFrame" src="../../_magr/qjr_ezor_ezor.txt" scrolling="no" frameborder="0">
+	<FRAME id="formFrame" name="formFrame" src="edit.html" scrolling="yes" marginwidth="10" marginheight="15" frameborder="0">
+</frameset>

@@ -1,0 +1,664 @@
+TGUVA	\N	2004-09-14 11:05:19	2004-09-14 11:05:19	tokxot/messages/xuqim_xvrot6_0_0.html	אין לי מושג	אראל	\N	\N
+TGUVA	\N	2004-09-14 12:20:02	2004-09-14 12:20:02	tokxot/messages/klklt_txbura_xinm_1_0.html	תגובה ל: תחבורה ציבורית חינם - האם זה הפתרון לבעיות התחבורה?	שרי ויזנטל	\N	\N
+TGUVA	\N	2004-09-14 13:51:37	2005-05-26 04:27:07	tokxot/messages/thra_tvila_prtit0_0.html	תגובה ל: טבילה - בלי לעמוד בעירום לפני הבלנית	הרב שלמה שלוש	\N	\N
+tokxot/messages/thra_tvila_prtit0_0.html	\N	2005-05-26 04:27:07	2005-05-26 04:27:07	tokxot/messages/thra_tvila_prtit0_0_0.html	תגובה ל: תגובה ל: טבילה - בלי לעמוד בעירום לפני הבלנית	שי בוארון מטה המאבק לצדק חברתי	\N	\N
+TGUVA	\N	2004-09-18 12:57:26	2004-09-18 12:57:26	tokxot/messages/avtla_sibot_0.html	תגובה ל: אבטלה ועובדים זרים - סיבות וחסרונות	זיוה	\N	\N
+TGUVA	\N	2004-09-23 11:01:34	2004-09-23 11:01:34	tokxot/messages/txbura_rkvt_0.html	תגובה ל: רכבת של מכוניות	אושרי	\N	\N
+TGUVA	\N	2004-09-23 11:04:30	2004-09-23 11:04:30	tokxot/messages/mtn_menh_lmtabdym_btxbwrh_cybwryt0.doc	תגובה ל: תחבורה ציבורית חינם [קובץ]	פרופ דניאל	\N	\N
+TGUVA	\N	2004-09-25 08:30:29	2004-09-25 08:30:29	tokxot/messages/kibuj_arvim_xiluf_0.html	תגובה	עידו כץ	\N	\N
+TGUVA	\N	2004-09-27 01:05:02	2004-09-27 01:05:02	tokxot/messages/kibuj_arvim_pinuy_0.html	תגובה ל: מה רע בפינוי התנחלויות	יאיר יצחק גאאש	\N	\N
+TGUVA	\N	2004-09-28 02:33:12	2004-09-28 12:39:10	tokxot/messages/xuqim_xvrot3_0.html	תגובה ל: חוק החברות 3	שלמא אור	\N	\N
+tokxot/messages/xuqim_xvrot3_0.html	\N	2004-09-28 12:28:58	2004-09-28 12:28:58	tokxot/messages/xuqim_xvrot3_0_0.html	עמותות	אראל	\N	\N
+tokxot/messages/xuqim_xvrot3_0.html	\N	2004-09-28 12:39:10	2004-09-28 12:39:10	tokxot/messages/xuqim_xvrot3_0_1.html	חוק העמותות	-	\N	\N
+TGUVA	\N	2004-10-03 23:35:33	2006-03-16 02:36:53	tokxot/messages/emt_ksf_0.html	מה דעתכם את בינרג'י	יוני	\N	\N
+tokxot/messages/emt_ksf_0.html	\N	2004-10-03 23:40:35	2006-03-16 02:36:53	tokxot/messages/emt_ksf_0_0.html	סליחה התכוונתי סינרג'	יוני	\N	\N
+tokxot/messages/emt_ksf_0_0.html	\N	2006-03-16 02:35:20	2006-03-16 02:35:20	tokxot/messages/emt_ksf_0_0_0.html	תגובה על: סליחה התכוונתי סינרג	ויויאן	\N	\N
+tokxot/messages/emt_ksf_0_0.html	\N	2006-03-16 02:36:53	2006-03-16 02:36:53	tokxot/messages/emt_ksf_0_0_1.html	תגובה על: סליחה התכוונתי סינרג	ויויאן	\N	\N
+TGUVA	\N	2004-10-08 16:51:59	2004-10-09 12:12:17	tokxot/messages/txbura_teunot_0.html	תוספת ל: מניעת תאונות דרכים	במכתבים לנוגעים בנושא אני מזוהה	\N	\N
+tokxot/messages/txbura_teunot_0.html	\N	2004-10-09 12:12:17	2004-10-09 12:12:17	tokxot/messages/txbura_teunot_0_0.html	שלילת רשיונות של עברייני תנועה	אראל	\N	\N
+TGUVA	\N	2004-10-19 12:51:56	2008-05-16 01:20:30	tokxot/xrut/nfj.html	כליאת אנשים בבתי-חולים פסיכיאטריים	-	\N	\N
+tokxot/xrut/nfj.html	\N	2004-10-19 16:35:10	2004-10-19 16:35:10	tokxot/messages/xrut_nfj_0.html	מסמכים שימושיים	אראל	\N	\N
+tokxot/xrut/nfj.html	\N	2004-10-30 08:58:00	2004-10-30 08:58:00	tokxot/xrut/nfj_psd.html	פסקי דין	אראל	\N	\N
+tokxot/xrut/nfj.html	\N	2004-11-23 14:27:40	2004-11-23 14:27:40	tokxot/messages/YJ_LBFL_AT_XWQ_HAJPWZ_HKPWY_LANJYM_JMSWKNYM_LECMM_MJWM_JXYY_ADM_JYYKYM_LADM_ECMW_WLA_LMDYNH0.	תגובה ל: כליאת אנשים בבתי-חולים פסיכיאטריים [קובץ]	נחום שקורי	\N	\N
+tokxot/xrut/nfj.html	\N	2004-11-23 14:29:05	2004-11-23 14:29:05	tokxot/messages/YJ_LBFL_AT_XWQ_HAJPWZ_HKPWY_LANJYM_JMSWKNYM_LECMM_MJWM_JXYY_ADM_JYYKYM_LADM_ECMW_WLA_LMDYNh1.	תגובה ל: כליאת אנשים בבתי-חולים פסיכיאטריים [קובץ]	נחום שקורי	\N	\N
+tokxot/xrut/nfj.html	\N	2004-11-26 12:27:50	2006-04-26 21:19:07	tokxot/xrut/nfj_hnxyot_mqdimot.html	הנחיות רפואיות מקדימות	הוועדה המשותפת של ועדת העבודה, הרווחה והבריאות ווע	\N	\N
+tokxot/xrut/nfj_hnxyot_mqdimot.html	\N	2004-11-29 13:58:28	2004-11-29 13:58:28	tokxot/messages/xrut_nfj_hnxyot_mqdimot_0.html	העברתי	טל דהן - רכזת מידע - האגודה לזכויות האזרח	\N	\N
+tokxot/xrut/nfj_hnxyot_mqdimot.html	\N	2004-12-30 08:32:44	2004-12-30 08:32:44	tokxot/messages/xrut_nfj_hnxyot_mqdimot_1.html	העברנו	מזכירות וועדת העבודה, הרווחה והבריאות של הכנסת	\N	\N
+tokxot/xrut/nfj_hnxyot_mqdimot.html	\N	2004-12-31 15:19:20	2006-04-26 21:19:07	tokxot/messages/xrut_nfj_hnxyot_mqdimot_2.html	תגובה ל: אישפוז פסיכיאטרי	דוד פיזאנטי	\N	\N
+tokxot/messages/xrut_nfj_hnxyot_mqdimot_2.html	\N	2006-04-26 21:19:07	2006-04-26 21:19:07	tokxot/messages/xrut_nfj_hnxyot_mqdimot_2_0.html	נושא חדש על: תגובה ל: אישפוז פסיכיאטרי	student	\N	\N
+tokxot/xrut/nfj_hnxyot_mqdimot.html	\N	2005-01-28 06:21:07	2005-01-28 06:21:07	tokxot/messages/xrut_nfj_hnxyot_mqdimot_3.html	תיקונים לרעיון	גיל שבתאי	\N	\N
+tokxot/xrut/nfj.html	\N	2004-11-26 16:29:44	2006-05-10 12:06:48	tokxot/xrut/nfj_htndvut.html	התנדבות במחלקות סגורות	אראל	\N	\N
+tokxot/xrut/nfj_htndvut.html	\N	2004-12-05 18:45:34	2004-12-05 18:45:34	tokxot/messages/xrut_nfj_htndvut_0.html	אנו מחוייבים לשלב מתנדבים במסגרות המופעלות ע"י אגף הרווחה	אביבה כדורי	\N	\N
+tokxot/xrut/nfj_htndvut.html	\N	2004-12-05 18:47:29	2004-12-05 18:47:29	tokxot/messages/xrut_nfj_htndvut_1.html	אשמח אם אוכל לעזור	יוני כהן	\N	\N
+tokxot/xrut/nfj_htndvut.html	\N	2004-12-05 18:51:02	2004-12-05 18:51:02	tokxot/messages/xrut_nfj_htndvut_2.html	אנו מתמקדים בעיקר בגילאים צעירים יותר	הילה מגדל, סמנכל פרח ארצי	\N	\N
+tokxot/xrut/nfj_htndvut.html	\N	2006-02-09 17:39:59	2006-02-09 17:39:59	tokxot/messages/xrut_nfj_htndvut_3.html	הייתי שמחה.....	ברכה	\N	\N
+tokxot/xrut/nfj_htndvut.html	\N	2006-05-10 12:06:48	2006-05-10 12:06:48	tokxot/messages/xrut_nfj_htndvut_4.html	יש לנו פרוייקט כזה	רמי סטויצקי, מנכל המרכז הישראלי להתנדבות נוער	\N	\N
+tokxot/xrut/nfj.html	\N	2004-11-27 07:40:05	2008-05-16 01:20:30	tokxot/xrut/nfj13.html	המחלקה הסגורה - 13 ליקויים	אראל	\N	\N
+tokxot/xrut/nfj13.html	\N	2005-03-03 18:01:47	2005-11-18 06:28:53	tokxot/messages/xrut_nfj13_0.html	תגובה ל: המחלקה הסגורה - 13 ליקויים	מנהלת ביח, דר ל.מוגילנסקי	\N	\N
+tokxot/messages/xrut_nfj13_0.html	\N	2005-03-03 18:03:41	2005-11-18 06:28:53	tokxot/messages/xrut_nfj13_0_0.html	בקשר לתגובת המנהלת	יעל ואראל	\N	\N
+tokxot/messages/xrut_nfj13_0_0.html	\N	2005-11-18 06:28:53	2005-11-18 06:28:53	tokxot/messages/xrut_nfj13_0_0_0.html	תגובה ל: בקשר לתגובת המנהלת	גלית	\N	\N
+tokxot/xrut/nfj.html	\N	2005-04-22 19:01:09	2005-04-22 19:01:09	tokxot/messages/xrut_nfj_0.html	תגובה ל: כליאת אנשים בבתי-חולים פסיכיאטריים	תמיר חודורוב	\N	\N
+tokxot/xrut/nfj.html	\N	2005-04-27 08:35:09	2005-05-01 12:00:51	tokxot/messages/xrut_nfj_1.html	תגובה ל: כליאת אנשים בבתי-חולים פסיכיאטריים	האזרח דרור	\N	\N
+tokxot/messages/xrut_nfj_1.html	\N	2005-05-01 12:00:51	2005-05-01 12:00:51	tokxot/messages/xrut_nfj_1_0.html	כבר יש, אבל לא מספיק	אראל	\N	\N
+tokxot/xrut/nfj.html	\N	2005-10-27 09:57:33	2005-10-27 09:57:33	tokxot/xrut/nfj_ktovot.html	כתובות שימושיות	אראל	\N	\N
+TGUVA	\N	2004-10-20 17:05:45	2004-10-20 17:05:45	tokxot/messages/px_deot_qdumot_tfqid_0.html	תגובה ל: דעות קדומות משרתות צרכים נפשיים של בעליהן	רחל	\N	\N
+TGUVA	\N	2004-10-21 10:19:18	2004-10-21 10:19:18	tokxot/messages/mxzur_mklim_0.html	תגובה ל: מיחזור מיכלים ובקבוקים	בומש	\N	\N
+TGUVA	\N	2004-10-31 21:03:23	2004-11-01 17:04:32	tokxot/messages/xtuna_str_0.html	תגובה ל: נישואין בסתר	אלסי	\N	\N
+tokxot/messages/xtuna_str_0.html	\N	2004-11-01 17:04:32	2004-11-01 17:04:32	tokxot/messages/xtuna_str_0_0.html	תגובה ל: תגובה ל: נישואין בסתר	אראל	\N	\N
+TGUVA	\N	2004-11-01 15:19:11	2004-11-01 16:46:34	tokxot/messages/xtuna_qdujt_hnisuin_0.html	שאלה	ליאור	\N	\N
+tokxot/messages/xtuna_qdujt_hnisuin_0.html	\N	2004-11-01 16:46:34	2004-11-01 16:46:34	tokxot/messages/xtuna_qdujt_hnisuin_0_0.html	תגובה ל: שאלה	אראל	\N	\N
+../../tokxot/messages/sgulot_mtim_dorot_0.html	\N	2004-11-14 18:41:41	2004-11-14 18:41:41	tokxot/messages/sgulot_mtim_dorot_0_0.html	תגובה ל: איזה תפוקים מי יאמין לדבר הזה ...חחחחח!!!!!	DrakulaY	\N	\N
+TGUVA	\N	2004-11-04 18:06:05	2008-05-02 02:49:56	tokxot/avtla/tora.html	אבטלה ועובדים זרים - על-פי הנביאים	אראל	\N	\N
+TGUVA	\N	2004-11-10 16:07:57	2004-11-10 16:07:57	tokxot/messages/trbut2_ngiaa_0.html	תגובה ל: איסור נגיעה לפני החתונה	סימסון	\N	\N
+TGUVA	\N	2004-11-11 19:59:28	2004-11-11 19:59:28	tokxot/messages/thra_7nqyim_ptron_0.html	תגובה ל: כללי זהירות לזוגות שאינם שומרים 7 נקיים	פשפש	\N	\N
+TGUVA	\N	2004-11-13 16:26:09	2005-06-25 10:23:10	tokxot/messages/emt_mlm_jut_1.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	הדס	\N	\N
+tokxot/messages/emt_mlm_jut_1.html	\N	2005-06-25 10:23:10	2005-06-25 10:23:10	tokxot/messages/emt_mlm_jut_1_0.html	שאלה: תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	אנה	\N	\N
+TGUVA	\N	2004-11-14 14:38:32	2004-11-14 14:38:32	tokxot/messages/kibuj_arvim_kvst_hrj_0.html	תגובה ל: מדינת ישראל - כבשת הרש	הראל	\N	\N
+TGUVA	\N	2004-11-14 14:42:56	2004-11-14 14:42:56	tokxot/messages/index_0.html	תוספת ל: האתר למחאות מקוריות	הראל נבאתי	\N	\N
+TGUVA	\N	2004-11-21 17:48:12	2004-11-21 17:48:12	tokxot/messages/EL_EWNJ_HMWWT0.pdf	תגובה ל: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות [קובץ]	בועז סנגרו	\N	\N
+TGUVA	\N	2004-11-22 09:14:11	2004-11-22 09:14:11	tokxot/messages/emt_mlm_alonim_0.html	מה לגבי זה?	עודד	\N	\N
+TGUVA	\N	2004-11-23 16:51:31	2004-11-23 16:51:31	tokxot/messages/thra_tvilt_rwqot_puah_0.html	תגובה ל: טבילת רווקות - ויכוח עם רבני מכון פועה	דר רוזן	\N	\N
+TGUVA	\N	2004-11-23 17:28:31	2004-11-23 17:28:31	tokxot/messages/thra_tvilt_rwqot_jrlo_0.html	תוספת ל: טבילת רווקות - ויכוח עם הרב יובל שרלו	דר רוזן	\N	\N
+TGUVA	\N	2004-11-23 19:16:32	2004-11-23 19:16:32	tokxot/messages/onj_mwt_jut_0.html	תגובה ל: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות	בר	\N	\N
+TGUVA	\N	2004-11-23 22:46:20	2004-11-23 22:46:20	tokxot/messages/thra_tvilt_rwqot_puah_1.html	תגובה ל: טבילת רווקות - ויכוח עם רבני מכון פועה	דר רוזן	\N	\N
+TGUVA	\N	2004-11-24 10:12:16	2004-11-24 10:12:16	tokxot/messages/thra_tvila_btva_0.html	תגובה ל: טבילה בטבע	דר רוזן	\N	\N
+TGUVA	\N	2004-11-25 17:19:35	2007-05-16 01:07:38	tokxot/messages/xyim_alimut_0.html	תוספת ל: אלימות - גורמים ודרכי-מניעה	אלימות	\N	\N
+tokxot/messages/xyim_alimut_0.html	\N	2004-11-25 17:20:39	2004-11-26 13:34:31	tokxot/messages/xyim_alimut_0_0.html	תגובה ל: תוספת ל: אלימות - גורמים ודרכי-מניעה	אלימות	\N	\N
+tokxot/messages/xyim_alimut_0_0.html	\N	2004-11-26 11:52:49	2004-11-26 13:34:31	tokxot/messages/xyim_alimut_0_0_0.html	תגובה ל: תגובה ל: תוספת ל: אלימות - גורמים ודרכי-מניעה	דר רוזן	\N	\N
+tokxot/messages/xyim_alimut_0_0_0.html	\N	2004-11-26 13:34:31	2004-11-26 13:34:31	tokxot/messages/xyim_alimut_0_0_0_0.html	הרעיון מעניין - אנא הבא קישורים למחקרים	אראל	\N	\N
+TGUVA	\N	2004-11-26 16:23:42	2004-11-26 16:23:42	tokxot/messages/px_mnhigut_0.html	דעת הרבי בנושא "משיח"	הרבי מליובביטש זצל	\N	\N
+TGUVA	\N	2004-11-28 14:50:26	2004-11-28 14:50:26	tokxot/messages/emt_mlm_jut_2.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	ירון	\N	\N
+TGUVA	\N	2004-11-28 15:11:52	2005-10-20 08:18:06	tokxot/messages/emt_mlm_alonim_1.html	כיצד להפוך הוצעה חודשית קבועה להכנסה	ירון	\N	\N
+tokxot/messages/emt_mlm_alonim_1.html	\N	2004-11-28 16:51:40	2005-10-20 08:18:06	tokxot/messages/emt_mlm_alonim_1_0.html	תוי קניה - כאב-ראש רציני	אראל	\N	\N
+tokxot/messages/emt_mlm_alonim_1_0.html	\N	2005-09-13 16:17:30	2005-10-20 08:18:06	tokxot/messages/emt_mlm_alonim_1_0_0.html	תגובה ל: תוי קניה - כאב-ראש רציני	יוסי	\N	\N
+tokxot/messages/emt_mlm_alonim_1_0_0.html	\N	2005-09-13 18:54:20	2005-10-20 08:18:06	tokxot/messages/emt_mlm_alonim_1_0_0_0.html	הזדמנויות עסקיות בתחום מוצרי הבריאות	אראל	\N	\N
+tokxot/messages/emt_mlm_alonim_1_0_0_0.html	\N	2005-10-20 08:18:06	2005-10-20 08:18:06	tokxot/messages/emt_mlm_alonim_1_0_0_0_0.html	תגובה ל: הזדמנויות עסקיות בתחום מוצרי הבריאות	jdagan	\N	\N
+tokxot/messages/emt_mlm_alonim_1.html	\N	2004-11-28 18:18:04	2004-11-28 18:18:04	tokxot/messages/emt_mlm_alonim_1_1.html	האם באמת אין סיכון?	אראל	\N	\N
+TGUVA	\N	2004-11-28 17:29:16	2008-03-22 16:41:12	tokxot/emt/mlm_prti.html	הזדמנויות עסקיות - דוגמאות ומקרים פרטיים	-	\N	\N
+tokxot/emt/mlm_prti.html	\N	2004-11-28 18:03:58	2007-08-19 04:37:01	tokxot/emt/mlm_synergy.html	סינרג'י - שיווק מוצרים קוסמטיים ואחרים	אראל	\N	\N
+tokxot/emt/mlm_synergy.html	\N	2005-01-13 01:31:28	2006-12-13 10:44:33	tokxot/messages/emt_mlm_synergy_0.html	תגובה ל: סינרגי - שיווק מוצרים קוסמטיים ואחרים	שמעון	\N	\N
+tokxot/emt/mlm_prti.html	\N	2005-06-17 16:12:13	2005-06-17 16:12:13	tokxot/messages/emt_mlm_prti_0.html	שאלה: הזדמנויות עסקיות - דוגמאות ומקרים פרטיים	סמדר	\N	\N
+tokxot/emt/mlm_prti.html	\N	2005-07-20 09:57:34	2005-07-20 10:49:51	tokxot/messages/emt_mlm_prti_2.html	מאמר: הזדמנויות עסקיות - דוגמאות ומקרים פרטיים	הפוך את הסלולרי למקור הכנסה!	\N	\N
+tokxot/messages/emt_mlm_prti_2.html	\N	2005-07-20 10:49:51	2005-07-20 10:49:51	tokxot/messages/emt_mlm_prti_2_0.html	פרסומות בנייד - טרטור רציני	אראל	\N	\N
+TGUVA	\N	2004-11-30 13:01:30	2004-11-30 13:01:30	tokxot/messages/txbura_teunot_1.html	תוספת ל: מניעת תאונות דרכים	דניאלה	\N	\N
+TGUVA	\N	2004-11-30 18:33:10	2004-11-30 18:33:10	tokxot/messages/xyim_alimut_1.html	תוספת ל: אלימות - גורמים ודרכי-מניעה	דליה	\N	\N
+TGUVA	\N	2004-12-04 20:44:59	2004-12-04 20:44:59	tokxot/messages/emt_mlm_jut_3.html	מתענינת בהצעות לשיווק רב שכבתי	עדי	\N	\N
+TGUVA	\N	2004-12-05 17:09:31	2004-12-05 17:09:31	tokxot/messages/ezrxut_mluka_kvrba_0.html	תגובה ל: משיח כבר בא	בחלק אתם צודקים ובחלק טועים ואפילו משקרים	\N	\N
+TGUVA	\N	2004-12-06 07:49:49	2004-12-06 07:49:49	tokxot/messages/DYYG_BALSQH0.JPG	תוספת ל: חובת הגיוס לצבא [קובץ]	nizan	\N	\N
+TGUVA	\N	2004-12-06 23:49:29	2004-12-07 09:58:29	tokxot/messages/thra_tvilt_rwqot_ptron_0.html	תגובה ל: איך נשים לא נשואות יכולות לטבול בימינו?	איתיאל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_ptron_0.html	\N	2004-12-07 09:58:29	2004-12-07 09:58:29	tokxot/messages/thra_tvilt_rwqot_ptron_0_0.html	ה' כבר עשה את חשבונות הללו	הכותב	\N	\N
+TGUVA	\N	2004-12-08 17:49:26	2004-12-08 17:49:26	tokxot/messages/px_qonformyut_0.html	תגובה ל: קונפורמיות	רועי ויצמן	\N	\N
+TGUVA	\N	2004-12-20 03:04:03	2004-12-20 03:04:03	tokxot/messages/ezrxut_mluka_kvrba_1.html	תגובה ל: משיח כבר בא	מאמר של הרבי בנושא	\N	\N
+TGUVA	\N	2004-12-20 19:00:32	2004-12-20 19:00:32	tokxot/messages/px_toqpnut_nlmdt_xizuqim_0.html	תגובה ל: תוקפנות - לימוד עי חיזוקים חיוביים	MA	\N	\N
+TGUVA	\N	2004-12-22 20:00:03	2004-12-22 20:00:03	tokxot/messages/axdut_index_0.html	תוספת ל: אחדות עם ישראל ואהבת חינם	הרב גברי אל	\N	\N
+TGUVA	\N	2004-12-24 19:48:16	2004-12-24 19:48:16	tokxot/messages/FBYLH_LPNWYH0.pdf	איסור טבילה לפנויה [קובץ]	אבי יומטוביאן	\N	\N
+TGUVA	\N	2004-12-28 01:36:37	2004-12-28 01:36:37	tokxot/messages/brieut_prsomot_0.html	תגובה ל: פרטיות בחדרי היולדות	שרית דבורקין	\N	\N
+TGUVA	\N	2004-12-28 01:50:20	2004-12-28 01:50:20	tokxot/messages/thra_njim_mtbyjot_0.html	תגובה ל: נשים מתביישות לעמוד עירומות לפני נשים אחרות - גם במקלחות בבריכה	שרית דבורקין	\N	\N
+TGUVA	\N	2004-12-28 03:20:41	2005-01-24 07:41:41	tokxot/messages/thra_tvila_prtit0_1.html	תגובה על השאלות בסקר	שרית דבורקין	\N	\N
+tokxot/messages/thra_tvila_prtit0_1.html	\N	2005-01-24 07:41:41	2005-01-24 07:41:41	tokxot/messages/thra_tvila_prtit0_1_0.html	אז מה עשית בסוף?	אראל	\N	\N
+TGUVA	\N	2005-01-01 11:33:57	2005-01-01 11:33:57	tokxot/messages/onj_mwt_muskmot_0.html	תגובה ל: עונש מוות לא מחייה את המתים	גלית	\N	\N
+TGUVA	\N	2005-01-01 21:15:08	2005-01-01 21:15:08	tokxot/messages/1800_crknut_0.html	תוספת ל: אתרים למחאות ותלונות של צרכנים על סוחרים ונותני-שירותים שונים	חני דיין	\N	\N
+TGUVA	\N	2005-01-02 00:00:51	2005-01-02 00:00:51	tokxot/messages/emt_mlm_jut_4.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	רני	\N	\N
+TGUVA	\N	2005-01-05 11:55:19	2007-10-27 00:58:33	tokxot/messages/1800_index_0.html	מכתב ל"תנופה"	אראל	\N	\N
+TGUVA	\N	2005-01-07 10:13:17	2005-01-07 10:13:17	tokxot/messages/trbut2_ngiaa_1.html	נגיעה בפנויה - מתי זה "ייהרג ואל יעבור"?	הרב משה פיינשטיין [תרגום:אראל סגל]	\N	\N
+TGUVA	\N	2005-01-08 17:46:45	2005-01-08 17:46:45	tokxot/messages/ezrxut_mluka_wmqdj_0.html	תגובה ל: מלך לפני מקדש	בובי רן כהן	\N	\N
+TGUVA	\N	2005-01-10 22:19:57	2006-01-08 14:28:36	tokxot/messages/trbut2_ngiaa_2.html	תגובה ל: איסור נגיעה לפני החתונה	ליאל	\N	\N
+tokxot/messages/trbut2_ngiaa_2.html	\N	2005-01-11 19:07:53	2006-01-08 14:28:36	tokxot/messages/trbut2_ngiaa_2_0.html	תגובה ל: איסור נגיעה לפני החתונה	יעל	\N	\N
+tokxot/messages/trbut2_ngiaa_2_0.html	\N	2006-01-08 14:28:36	2006-01-08 14:28:36	tokxot/messages/trbut2_ngiaa_2_0_0.html	תגובה ל: תגובה ל: איסור נגיעה לפני החתונה	שרית דבורקין	\N	\N
+TGUVA	\N	2005-01-12 13:55:41	2005-01-12 13:55:41	tokxot/messages/emt_mlm_jut_5.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	עבודה יצרנית?	\N	\N
+TGUVA	\N	2005-01-13 14:10:45	2005-01-13 14:13:13	tokxot/messages/klklt_txbura_xinm_2_0.html	תגובה ל: תחבורה ציבורית חינם - האם זה הפתרון לבעיות התחבורה? (המשך)	עזרא	\N	\N
+tokxot/messages/klklt_txbura_xinm_2_0.html	\N	2005-01-13 14:13:13	2005-01-13 14:13:13	tokxot/messages/klklt_txbura_xinm_2_0_0.html	תגובה ל: תגובה ל: תחבורה ציבורית חינם - האם זה הפתרון לבעיות התחבורה? (המשך)	עזרא	\N	\N
+TGUVA	\N	2005-01-17 13:46:23	2005-01-17 13:46:23	tokxot/messages/1800_qijurim_0.html	תגובה ל: המדריך למוחה ולמוכיח	ישי אהרוני	\N	\N
+TGUVA	\N	2005-01-17 13:58:41	2005-01-17 13:58:41	tokxot/messages/1800_qijurim_1.html	תגובה ל: המדריך למוחה ולמוכיח	ישי אהרוני	\N	\N
+TGUVA	\N	2005-01-22 10:22:43	2005-01-22 10:22:43	tokxot/messages/jlom_mlxmthmfrc_0.html	תגובה ל: לקחי מלחמת המפרץ	לא רואים את המידע תיהיו בראים	\N	\N
+TGUVA	\N	2005-01-23 07:33:15	2005-01-23 07:33:15	tokxot/messages/thra_tvila_prtit0_2.html	תגובה ל: טבילה - בלי לעמוד בעירום לפני הבלנית	אסתר	\N	\N
+TGUVA	\N	2005-01-26 14:17:47	2005-05-09 13:08:27	tokxot/messages/emt_mlm_jut_6.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	עודד	\N	\N
+tokxot/messages/emt_mlm_jut_6.html	\N	2005-05-09 13:08:27	2005-05-09 13:08:27	tokxot/messages/emt_mlm_jut_6_0.html	לקחתי גבול תחתון	אראל	\N	\N
+TGUVA	\N	2005-01-28 04:47:20	2005-01-28 04:47:20	tryg/goyim62_lnciguyot.html	מכתב לנציגויות של ישראל במדינות עניות	יעל ואראל	\N	\N
+TGUVA	\N	2005-01-28 04:53:17	2005-01-28 04:53:17	tokxot/messages/xmc_goyim62_0.html	תרומת חמץ למדינות עניות	יעל ואראל	\N	\N
+TGUVA	\N	2005-01-28 04:54:30	2005-01-28 04:54:30	tokxot/xmc/goyim62_lnciguyot.html	תרומת החמץ של מדינת ישראל למדינות עניות	יעל ואראל	\N	\N
+TGUVA	\N	2005-01-28 05:30:04	2005-01-28 05:30:04	tokxot/xmc/goyim62_harav.html	תגובה מאתר הרב מרדכי אליהו	harav@harav.org, David Belhasen [mailto:david18@ni	\N	\N
+TGUVA	\N	2005-01-28 06:01:40	2008-05-18 16:10:03	tokxot/messages/xmc_bayot_erel_0.html	פיקטיביות מכירת החמץ	אורנה	\N	\N
+TGUVA	\N	2005-01-28 06:05:36	2005-01-28 06:05:36	tokxot/messages/emt_al_hnyr_0.html	כבר נפסק בשולחן ערוך	הרב נסים ישעיהו	\N	\N
+TGUVA	\N	2005-01-28 12:55:03	2006-10-23 15:07:05	tokxot/messages/ezrxut_index_0.html	תוספת ל: הממשל במדינה וחוקי המדינה	ישי אהרוני	\N	\N
+tokxot/messages/ezrxut_index_0.html	\N	2005-01-28 12:58:11	2006-10-23 15:07:05	tokxot/messages/ezrxut_index_0_0.html	תגובה ל: תוספת ל: הממשל במדינה וחוקי המדינה	ישי אהרוני	\N	\N
+tokxot/messages/ezrxut_index_0_0.html	\N	2005-07-19 14:31:11	2005-07-19 14:31:11	tokxot/messages/ezrxut_index_0_0_0.html	שאלה: מאבק בביטוח לאומי	אסתר בנון	\N	\N
+tokxot/messages/ezrxut_index_0_0.html	\N	2005-08-12 16:40:47	2005-08-12 16:40:47	tokxot/messages/ezrxut_index_0_0_1.html	תגובה: מאבק בביטוח לאומי	חדד חיה	\N	\N
+tokxot/messages/ezrxut_index_0_0.html	\N	2005-09-16 23:22:47	2005-09-16 23:22:47	tokxot/messages/ezrxut_index_0_0_2.html	תגובה ל: מאבק בביטוח לאומי	אילן כ.	\N	\N
+tokxot/messages/ezrxut_index_0_0.html	\N	2005-09-17 10:21:33	2005-09-17 10:21:33	tokxot/messages/ezrxut_index_0_0_3.html	תגובה: מאבק בביטוח לאומי	אביגל מישל	\N	\N
+tokxot/messages/ezrxut_index_0_0.html	\N	2006-10-23 15:07:05	2006-10-23 15:07:05	tokxot/messages/ezrxut_index_0_0_4.html	תגובה על: מאבק בביטוח לאומי	מקושקשת	\N	\N
+TGUVA	\N	2005-02-01 08:16:39	2005-02-01 08:16:39	tokxot/gyus_xrdim/mtbx_jut.html	תשובות לטענות	אראל	\N	\N
+TGUVA	\N	2005-02-01 09:37:13	2005-05-24 07:34:02	tokxot/messages/thra_tvilt_rwqot_mqor_0.html	תגובה ל: טבילת רווקות - תולדות האיסור	זאת האמת שלי	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0.html	\N	2005-02-01 13:23:44	2005-03-12 19:33:12	tokxot/messages/thra_tvilt_rwqot_mqor_0_1.html	כמה נשים את מכירה, שיסכימו שבעלן ייקח אישה שניה?	אראל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0_1.html	\N	2005-02-06 05:53:40	2005-03-02 16:02:06	tokxot/messages/thra_tvilt_rwqot_mqor_0_1_0.html	תגובה ל: כמה נשים את מכירה, שיסכימו שבעלן ייקח אישה שניה?	תגובה	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0_1_0.html	\N	2005-03-02 16:02:06	2005-03-02 16:02:06	tokxot/messages/thra_tvilt_rwqot_mqor_0_1_0_0.html	תגובה ל: תגובה ל: כמה נשים את מכירה, שיסכימו שבעלן ייקח אישה שניה?	יעל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0_1.html	\N	2005-03-12 19:33:12	2005-03-12 19:33:12	tokxot/messages/thra_tvilt_rwqot_mqor_0_1_1.html	תגובה ל: כמה נשים את מכירה, שיסכימו שבעלן ייקח אישה שניה?	דניאל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0.html	\N	2005-03-12 19:28:12	2005-03-12 19:28:12	tokxot/messages/thra_tvilt_rwqot_mqor_0_2.html	תגובה: תגובה ל: טבילת רווקות - תולדות האיסור	דניאל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0.html	\N	2005-03-12 19:36:24	2005-03-12 19:36:24	tokxot/messages/thra_tvilt_rwqot_mqor_0_3.html	תגובה ל: תגובה ל: טבילת רווקות - תולדות האיסור	דניאל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_mqor_0.html	\N	2005-05-24 07:34:02	2005-05-24 07:34:02	tokxot/messages/thra_tvilt_rwqot_mqor_0_4.html	תגובה ל: תגובה ל: טבילת רווקות - תולדות האיסור	שושנה	\N	\N
+TGUVA	\N	2005-02-01 09:43:43	2005-02-01 13:25:05	tokxot/messages/emt_index_1.html	"זכור את יום השבת לקדשו"	רינה	\N	\N
+tokxot/messages/emt_index_1.html	\N	2005-02-01 13:25:05	2005-02-01 13:25:05	tokxot/messages/emt_index_1_0.html	יישר כוחך	אראל	\N	\N
+TGUVA	\N	2005-02-02 09:31:23	2005-05-18 14:45:30	tokxot/messages/thra_tvila_prtit0_3.html	מכתב	אראל סגל	\N	\N
+tokxot/messages/thra_tvila_prtit0_3.html	\N	2005-04-14 12:21:08	2005-04-14 12:21:08	tokxot/messages/thra_tvila_prtit0_3_0.html	תגובה ל: מכתב	אבי יומטוביאן [הוקלד עי אראל]	\N	\N
+tokxot/messages/thra_tvila_prtit0_3.html	\N	2005-05-18 14:45:30	2005-05-18 14:45:30	tokxot/messages/thra_tvila_prtit0_3_1.html	תגובה ממזכירתו של הרב שלמה שלוש	אראל	\N	\N
+TGUVA	\N	2005-02-07 14:52:21	2005-02-07 14:52:21	tokxot/messages/etl20360.jpg	תגובה ל: קונפורמיות [קובץ]	מושיק	\N	\N
+TGUVA	\N	2005-02-08 07:56:10	2005-02-08 07:56:10	tokxot/messages/QWMWNYQF_CBE_QFN0.jpg	תוספת ל: בין פנויים לפנויות [קובץ]	קולטורה	\N	\N
+TGUVA	\N	2005-02-10 18:07:48	2005-02-10 18:07:48	tokxot/messages/mcwot_lo_tosif_0.html	תגובה ל: לא תוסיפו על הדבר אשר אנכי מצוה אתכם - ולא תגרעו ממנו	דן	\N	\N
+TGUVA	\N	2005-02-10 19:53:38	2006-01-08 00:40:16	tokxot/messages/gyus_xrdim_gyus_wzkuyot_0.html	תגובה ל: גיוס לצבא וזכויות אזרח	צלופחד	\N	\N
+tokxot/messages/gyus_xrdim_gyus_wzkuyot_0.html	\N	2005-02-16 02:07:31	2005-02-16 02:07:31	tokxot/messages/gyus_xrdim_gyus_wzkuyot_0_0.html	המדינה לא חייבת לתת לך זכות להשתתף בבחירות	אראל	\N	\N
+tokxot/messages/gyus_xrdim_gyus_wzkuyot_0.html	\N	2006-01-08 00:40:16	2006-01-08 00:40:16	tokxot/messages/gyus_xrdim_gyus_wzkuyot_0_1.html	תגובה ל: תגובה ל: גיוס לצבא וזכויות אזרח	איציק כהן	\N	\N
+TGUVA	\N	2005-02-14 21:02:50	2005-02-14 21:02:50	tokxot/messages/emt_mlm_jut_7.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	אורי	\N	\N
+TGUVA	\N	2005-02-15 10:56:21	2005-02-15 10:56:21	tokxot/messages/onj_mwt_muskmot_1.html	תגובה ל: עונש מוות לא מחייה את המתים	*	\N	\N
+TGUVA	\N	2005-02-20 14:40:28	2005-02-20 14:40:28	tokxot/messages/onj_mwt_tokix_0.html	תגובה ל: מותר להרוג רוצחים? תוכיח!	האל נתן ורק האל ייקח.. עונש מוות לדעתי צריך להיות	\N	\N
+TGUVA	\N	2005-02-28 08:49:38	2005-03-27 18:00:08	tokxot/messages/ezrxut_bitul_0.html	תוספת ל: מחאות נגד המוסד לביטוח לאומי	אילן זהבי	\N	\N
+tokxot/messages/ezrxut_bitul_0.html	\N	2005-02-28 08:51:25	2005-02-28 08:51:25	tokxot/messages/ezrxut_bitul_0_0.html	תגובה ל: תוספת ל: מחאות נגד המוסד לביטוח לאומי	אילן זהבי	\N	\N
+tokxot/messages/ezrxut_bitul_0.html	\N	2005-03-27 18:00:08	2005-03-27 18:00:08	tokxot/messages/ezrxut_bitul_0_1.html	תגובה ל: תוספת ל: מחאות נגד המוסד לביטוח לאומי	יאיר יצחק גאאש	\N	\N
+TGUVA	\N	2005-02-28 19:52:27	2005-02-28 19:52:27	tokxot/messages/EQRWNWT_LEYTWNWT0.doc	תגובה ל: הצעת חוק לביטול איסור פרסום בבית המשפט לענייני משפחה [קובץ]	לא לפרסם שמי	\N	\N
+TGUVA	\N	2005-03-02 16:10:53	2005-03-02 16:10:53	tokxot/messages/ezrxut_mjpt_0.html	חלוקת תקציבים במערכת המשפט	יעל	\N	\N
+TGUVA	\N	2005-03-07 10:24:50	2005-03-07 10:24:50	tokxot/messages/px_mnhigut_tkunot_0.html	תגובה ל: מה הופך אדם למנהיג?	נירית	\N	\N
+TGUVA	\N	2005-03-10 11:31:35	2005-03-10 11:31:35	tokxot/messages/px_toqpnut_wtskul_0.html	שאלה: תופעת התקה	יולי	\N	\N
+TGUVA	\N	2005-03-21 22:29:00	2005-03-21 22:29:00	tokxot/messages/sgulot_xy_o_mt_0.html	תגובה ל: חי או מת?	נאור כהן	\N	\N
+TGUVA	\N	2005-03-27 15:16:26	2005-03-27 15:16:26	tokxot/messages/jlom_mlxmthmfrc_1.html	תגובה ל: לקחי מלחמת המפרץ	מאיה כפיר	\N	\N
+TGUVA	\N	2005-03-31 15:34:37	2005-03-31 15:34:37	tokxot/xyim/tmxt2.html	סכנה בתחנה המרכזית החדשה בת"א	אראל	\N	\N
+TGUVA	\N	2005-04-27 12:46:05	2005-05-01 12:16:44	tokxot/messages/thra_index_0.html	תוספת ל: טהרת נידה וטבילה במקוה	דר אורן רוזן	\N	\N
+tokxot/messages/thra_index_0.html	\N	2005-05-01 12:16:44	2005-05-01 12:16:44	tokxot/messages/thra_index_0_0.html	דווקא משיקולי בריאות יש לפתוח את המקוואות לכולם	אראל	\N	\N
+TGUVA	\N	2005-04-27 13:13:14	2005-05-01 12:17:33	tokxot/messages/thra_tvilt_rwqot_puah_2.html	תגובה ל: טבילת רווקות - ויכוח עם רבני מכון פועה	דר אורן רוזן	\N	\N
+tokxot/messages/thra_tvilt_rwqot_puah_2.html	\N	2005-05-01 12:17:33	2005-05-01 12:17:33	tokxot/messages/thra_index_0_0.html	דווקא משיקולי בריאות יש לפתוח את המקוואות לכולן	אראל סגל	\N	\N
+TGUVA	\N	2005-04-30 12:22:41	2005-09-05 08:49:34	tokxot/messages/txbura_teunot_2.html	דרוש/ה מתנדב/ת להדרכה בנושא תאונות דרכים	לי	\N	\N
+tokxot/messages/txbura_teunot_2.html	\N	2005-09-05 08:49:34	2005-09-05 08:49:34	tokxot/messages/txbura_teunot_2_0.html	תגובה ל: דרוש/ה מתנדב/ת להדרכה בנושא תאונות דרכים	ישראל פרידמן	\N	\N
+TGUVA	\N	2005-05-04 20:26:29	2005-05-04 20:26:29	tokxot/messages/txbura_teunot_3.html	תוספת ל: מניעת תאונות דרכים	גינת אבירם	\N	\N
+TGUVA	\N	2005-05-07 22:24:36	2005-05-07 22:24:36	tokxot/messages/kibuj_arvim_htnk_wharc_1_0.html	תגובה ל: לא להשתמש בתנך כאמצעי להוכחת בעלותנו על הארץ	לואי מוסלם	\N	\N
+TGUVA	\N	2005-05-13 08:39:28	2005-05-13 08:39:28	tokxot/messages/brieut_mda_0.html	תגובה ל: התנדבות במדא כחלק מחוק חינוך חובה	uppw	\N	\N
+TGUVA	\N	2005-05-28 16:41:56	2005-05-28 16:41:56	tokxot/messages/px_mjika_yofi_0.html	שאלה: משיכה בין אישית - השפעת המראה החיצוני	אלינור	\N	\N
+TGUVA	\N	2005-05-31 12:32:24	2005-05-31 12:32:24	tokxot/thra/jut.html	טבילה בפרטיות - תשובות לטענות נפוצות	-	\N	\N
+TGUVA	\N	2005-06-02 03:37:20	2005-06-02 07:30:55	tokxot/messages/trbut2_ngiaa_3.html	תגובה: איסור נגיעה לפני החתונה	מרן שליטא	\N	\N
+tokxot/messages/trbut2_ngiaa_3.html	\N	2005-06-02 07:30:55	2005-06-02 07:30:55	tokxot/messages/trbut2_ngiaa_3_0.html	האם תוכל להביא מקורות מדוייקים?	אראל	\N	\N
+TGUVA	\N	2005-06-04 10:06:05	2005-06-04 10:06:05	tokxot/messages/XWLCH_0030.jpg	תוספת ל: אלימות - גורמים ודרכי-מניעה [קובץ]	ואגו	\N	\N
+TGUVA	\N	2005-06-06 16:31:46	2005-06-06 16:31:46	tokxot/messages/kibuj_arvim_pinuy_1.html	תגובה ל: מה רע בפינוי התנחלויות	לא משנה	\N	\N
+TGUVA	\N	2005-07-13 09:25:16	2005-07-13 09:25:16	tokxot/messages/px_toqpnut_norjt_0.html	האם הוכח הקשר הזה בהשלכה ישירה בבני אדם?	קארין זלצברג	\N	\N
+TGUVA	\N	2005-07-17 13:00:09	2005-07-17 17:06:13	tokxot/messages/thra_7nqyim_ptron_1.html	תגובה ל: כללי זהירות לזוגות שאינם שומרים 7 נקיים	נרי	\N	\N
+tokxot/messages/thra_7nqyim_ptron_1.html	\N	2005-07-17 17:06:13	2005-07-17 17:06:13	tokxot/messages/thra_7nqyim_ptron_1_0.html	אצל נידה זה הפוך	אראל	\N	\N
+TGUVA	\N	2005-07-26 19:02:57	2005-07-26 19:02:57	tokxot/messages/xtuna_minimum_0.html	תגובה ל: חתונה מינימלית - המינימום שחייב להיות בחתונה כדי שהיא תהיה כשרה	עילום שם	\N	\N
+TGUVA	\N	2005-07-27 12:17:52	2005-07-27 12:17:52	tokxot/messages/kibuj_arvim_pinuy_2.html	תגובה ל: מה רע בפינוי התנחלויות	אבי	\N	\N
+TGUVA	\N	2005-07-31 06:59:48	2005-08-09 19:55:23	tokxot/1800/pirsum.html	מדריך לאמצעי-פירסום	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:45:45	2005-08-09 19:45:45	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:47:02	2005-08-09 19:47:02	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:49:03	2005-08-09 19:49:03	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:51:08	2005-08-09 19:51:08	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:52:49	2005-08-09 19:52:49	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+tokxot/1800/pirsum.html	\N	2005-08-09 19:55:23	2005-08-09 19:55:23	_magr/pirsum.txt	pirsum [קובץ]	אראל	\N	\N
+TGUVA	\N	2005-08-02 17:13:09	2005-08-02 17:13:09	tokxot/messages/sgulot_igrot_0.html	תגובה ל: פתיחה באגרות הקודש	יאיר	\N	\N
+TGUVA	\N	2005-08-02 17:24:25	2005-08-02 17:24:25	tokxot/messages/sgulot_igrot_2.html	תגובה ל: פתיחה באגרות הקודש	אסתי	\N	\N
+TGUVA	\N	2005-08-04 19:24:55	2005-08-05 14:15:27	tokxot/messages/gyus_xrdim_jwyon_gyus_3.html	תגובה ל: שויון בגיוס לצהל - עיקרון ריק	יוגב חגאג	\N	\N
+tokxot/messages/gyus_xrdim_jwyon_gyus_3.html	\N	2005-08-05 14:15:27	2005-08-05 14:15:27	tokxot/messages/gyus_xrdim_jwyon_gyus_3_0.html	אני משתתף בצערך, אולם לא זו הכתובת	אראל	\N	\N
+TGUVA	\N	2005-08-09 20:13:14	2005-08-09 20:13:14	tokxot/messages/sgulot_index_0.html	פסיכולוגיה של עבודה זרה	דוד אקסלרוד	\N	\N
+TGUVA	\N	2005-08-09 20:16:28	2005-08-09 20:16:28	tokxot/messages/PSYKWLWGYH_JL_EBWDH_ZRH.rtf	תוספת ל: מניעת עבודה זרה [קובץ]	דוד אקסלרוד	\N	\N
+TGUVA	\N	2005-08-12 08:33:19	2005-08-12 08:33:19	tokxot/messages/1800_crknut_1.html	תוספת ל: אתרים למחאות ותלונות של צרכנים על סוחרים ונותני-שירותים שונים	gidon	\N	\N
+TGUVA	\N	2005-08-15 20:51:33	2005-08-15 20:51:33	tokxot/messages/sgulot_mtim_dorot_1.html	תגובה ל: תקשורת עם מתים לאורך הדורות	דוד אקסלרוד	\N	\N
+TGUVA	\N	2005-08-27 17:57:20	2005-08-27 17:57:20	tokxot/messages/emt_mlm_jut_9.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	אדם	\N	\N
+TGUVA	\N	2005-08-30 20:28:43	2005-08-30 20:28:43	tokxot/messages/px_index_0.html	טקסט מופרד בטאבים: מבוא לפסיכולוגיה חברתית (פסיכולוגיה חינוכית 2)	עינבל בלימה	\N	\N
+TGUVA	\N	2005-09-03 20:18:56	2005-09-03 20:18:56	tokxot/messages/xtuna_str_1.html	תגובה ל: נישואין בסתר	GODSVAMPIRE	\N	\N
+TGUVA	\N	2005-09-06 14:20:14	2006-02-05 16:04:47	tokxot/thra/lxkim.html	מכתב לחברות-כנסת	אראל	\N	\N
+tokxot/thra/lxkim.html	\N	2006-02-05 16:04:47	2006-02-05 16:04:47	tokxot/messages/thra_lxkim_0.html	תגובה על: מכתב לחברות-כנסת	טל	\N	\N
+TGUVA	\N	2005-09-06 14:40:01	2005-09-06 14:40:01	tokxot/xrut/atudaim.html	דחיית שירות לעתודאים	יעל	\N	\N
+TGUVA	\N	2005-09-06 14:42:31	2007-06-14 12:47:00	tokxot/klkla/bzqrt.html	בזקרט	אראל	\N	\N
+TGUVA	\N	2005-09-06 15:09:34	2006-02-07 13:23:32	tokxot/klkla/bzq_tknyon.html	ביטול טלפונים ציבוריים בטכניון	אמירה איילון	\N	\N
+tokxot/klkla/bzq_tknyon.html	\N	2005-10-11 05:26:20	2005-10-11 05:26:20	tokxot/messages/klkla_bzq_tknyon_0.html	תגובה ל: ביטול טלפונים ציבוריים בטכניון	אראל	\N	\N
+tokxot/klkla/bzq_tknyon.html	\N	2005-11-07 04:23:56	2005-11-07 04:23:56	tokxot/messages/klkla_bzq_tknyon_1.html	תגובה ל: ביטול טלפונים ציבוריים בטכניון	אופירה איילון	\N	\N
+tokxot/klkla/bzq_tknyon.html	\N	2006-02-07 13:23:32	2006-02-07 13:23:32	tokxot/messages/klkla_bzq_tknyon_2.html	66% הצלחה	אראל	\N	\N
+TGUVA	\N	2005-09-06 19:02:39	2006-04-12 17:27:25	tokxot/messages/px_mjika_tdirut_0.html	תגובה ל: ההשפעה של תדירות הפגישות על החיבה	נגה	\N	\N
+tokxot/messages/px_mjika_tdirut_0.html	\N	2005-09-06 20:20:32	2005-09-06 20:20:32	tokxot/messages/px_mjika_tdirut_0_0.html	נסי בספר "לא לבדו" של האוניברסיטה הפתוחה	אראל	\N	\N
+tokxot/messages/px_mjika_tdirut_0.html	\N	2006-04-12 17:27:25	2006-04-12 17:27:25	tokxot/messages/px_mjika_tdirut_0_1.html	שאלה על: תגובה ל: ההשפעה של תדירות הפגישות על החיבה	צירקין יוליה	\N	\N
+TGUVA	\N	2005-09-17 00:39:02	2005-09-17 00:39:02	tokxot/messages/klkla_aqrayut_0.html	תגובה ל: צדקה באקראי - לקט, שכחה ופאה	יונתן	\N	\N
+TGUVA	\N	2005-09-17 01:20:02	2005-09-17 18:36:17	tokxot/messages/xtuna_grujin_btlmud_0.html	איך דברי ר' עקיבא מסתדרים עם "הבל החן ושקר היופי"?	יונתן	\N	\N
+tokxot/messages/xtuna_grujin_btlmud_0.html	\N	2005-09-17 18:36:17	2005-09-17 18:36:17	tokxot/messages/xtuna_grujin_btlmud_0_0.html	אמת לעומת רגש	אראל	\N	\N
+TGUVA	\N	2005-09-19 09:29:54	2005-09-19 09:29:54	tokxot/thra/latrim.html	מכתב לאתרי הכנה לחתונה	אראל	\N	\N
+TGUVA	\N	2005-09-19 10:07:56	2005-09-19 10:07:56	tokxot/thra/kruzim.html	כרוזים של רבני דורנו נגד טבילת רווקות	אראל	\N	\N
+TGUVA	\N	2005-09-19 11:05:35	2005-09-19 11:05:35	tokxot/thra/tvilt_rwqot_mqor_meor_israel.html	תגובה מבית-המדרש של הרב עובדיה יוסף	אראל	\N	\N
+TGUVA	\N	2005-09-20 21:08:41	2005-09-20 21:08:41	tokxot/messages/wikuxim_index_0.html	תגובה: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	שלומי	\N	\N
+TGUVA	\N	2005-09-22 00:51:18	2005-09-22 00:51:18	tokxot/messages/gyus_xrdim_index_0.html	מאמר: דיונים עקרוניים בסוגיית גיוס החרדים	דוד999	\N	\N
+TGUVA	\N	2005-09-22 15:00:01	2005-09-22 15:00:01	tokxot/messages/emt_mlm_jut_10.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	אריאלה	\N	\N
+TGUVA	\N	2005-09-22 23:11:50	2005-09-22 23:11:50	tokxot/messages/px_cyut_0.html	תגובה ל: ציות לסמכות	שלומי	\N	\N
+TGUVA	\N	2005-10-09 21:42:11	2005-10-09 21:42:11	tokxot/messages/emt_mlm_jut_2.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	יוסף	\N	\N
+TGUVA	\N	2005-10-14 10:37:01	2005-10-14 13:34:13	tokxot/messages/thra_tvilt_rwqot_nimuq_0.html	תגובה ל: הנימוקים שמביאים רבנים לאיסור טבילת רווקות	רחל	\N	\N
+tokxot/messages/thra_tvilt_rwqot_nimuq_0.html	\N	2005-10-14 13:34:13	2005-10-14 13:34:13	tokxot/messages/thra_tvilt_rwqot_nimuq_0_0.html	למה לא טבלו?	אראל	\N	\N
+TGUVA	\N	2005-10-16 00:31:28	2005-10-16 00:31:28	tokxot/messages/ev.pdf	ev [קובץ]	yigaell	\N	\N
+TGUVA	\N	2005-10-17 06:12:57	2008-07-08 06:54:12	tokxot/messages/odot_1.html	תולדות האתר	אראל	\N	\N
+TGUVA	\N	2005-10-17 06:45:42	2005-10-17 06:45:42	tokxot/messages/sgulot_index_1.html	תגובה ל: עבודה זרה מודרנית - הגדרות והסברים	עדי	\N	\N
+TGUVA	\N	2005-10-18 19:16:56	2005-10-18 19:16:56	tokxot/messages/xtift_yldim_imuc_0.html	תגובה ל: אימוץ סגור ואימוץ פתוח	דנה כץ	\N	\N
+TGUVA	\N	2005-10-27 11:10:31	2005-11-21 16:21:50	tokxot/ezrxut/sukot.html	המשטרה מצאה לה אויב חדש - הסוכות	אראל	\N	\N
+tokxot/ezrxut/sukot.html	\N	2005-11-21 16:19:08	2005-11-21 16:21:50	tokxot/ezrxut/sukot_brq.html	מכתב לאהרן ברק	צחי צויג	\N	\N
+tokxot/ezrxut/sukot_brq.html	\N	2005-11-21 16:21:50	2005-11-21 16:21:50	tokxot/messages/ezrxut_sukot_brq_0.html	תגובה ל: מכתב לאהרן ברק	אראל	\N	\N
+TGUVA	\N	2005-10-27 23:36:55	2005-10-28 13:02:58	tokxot/messages/knisa_0.html	תגובה ל: האתר למחאות מקוריות - מטרות ומבנה	ירון זכאי	\N	\N
+tokxot/messages/knisa_0.html	\N	2005-10-28 13:02:58	2005-10-28 13:02:58	tokxot/messages/knisa_0_0.html	החלוקה ל"דתי" ו"חילוני" היא קצת מלאכותית	אראל	\N	\N
+TGUVA	\N	2005-11-02 22:16:35	2005-11-02 22:16:35	tokxot/messages/emt_mlm_jut_8.html	תגובה ל: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	לאה כהן	\N	\N
+TGUVA	\N	2005-11-10 13:06:15	2005-11-10 13:06:15	tokxot/1800/azumot.html	החתמת עצומות - חוויות ומסקנות לעתיד	אראל	\N	\N
+TGUVA	\N	2005-11-10 13:19:59	2005-11-10 13:19:59	tokxot/messages/mca_mca_lxkim_0.html	תגובת ח"כ מיכאל קליינר	אראל	\N	\N
+TGUVA	\N	2005-11-12 08:35:11	2005-11-13 09:02:45	tokxot/messages/xtuna_str_2.html	שאלה: נישואין בסתר	uri	\N	\N
+tokxot/messages/xtuna_str_2.html	\N	2005-11-13 09:02:45	2005-11-13 09:02:45	tokxot/messages/xtuna_str_2_0.html	אין צורך לעבור במשרד הפנים	אראל	\N	\N
+TGUVA	\N	2005-11-30 09:15:39	2006-12-26 09:31:43	tokxot/brieut/sl.html	סל הבריאות - איזה תרופות להכניס?	אראל	\N	\N
+TGUVA	\N	2005-11-30 13:55:57	2005-11-30 13:55:57	tokxot/brieut/zihum.html	קרן פיצויים על זיהום אויר	אראל	\N	\N
+TGUVA	\N	2005-11-30 16:04:40	2005-11-30 16:04:40	tokxot/messages/px_toqpnut_nlmdt_xiquy_0.html	תגובה ל: תוקפנות - לימוד עי חיקוי	לילי	\N	\N
+TGUVA	\N	2005-12-01 08:35:55	2007-12-26 09:10:20	tokxot/klkla/qrqa.html	מה המדינה באמת חייבת לאזרחיה?	אראל	\N	\N
+tokxot/klkla/qrqa.html	\N	2005-12-01 11:28:18	2006-05-26 14:33:14	tokxot/klkla/qrqa1.html	הפיצוי המגיע לאזרחים במקום הקרקע שהמדינה הלאימה - המשך	אראל	\N	\N
+tokxot/klkla/qrqa1.html	\N	2005-12-04 19:32:35	2005-12-04 19:32:35	tokxot/klkla/qrqa_xkim.html	תגובות	חברי-כנסת ופוליטיקאים	\N	\N
+tokxot/klkla/qrqa1.html	\N	2005-12-21 10:21:34	2005-12-21 10:21:34	tokxot/klkla/qrqa_mnhl.html	תגובה ממנהל מקרקעי ישראל - בירור פרטים על הבעלות הנוכחית של הקרקעות	אראל	\N	\N
+tokxot/klkla/qrqa1.html	\N	2006-05-26 14:33:14	2006-05-26 14:33:14	tokxot/messages/klkla_qrqa1_0.html	מה לעשות עם הכסף	אראל	\N	\N
+TGUVA	\N	2005-12-01 08:54:23	2005-12-01 08:54:23	tokxot/messages/odot_2.html	מצע בנושאי חברה, כלכלה ובריאות	אראל	\N	\N
+TGUVA	\N	2005-12-01 10:22:13	2005-12-01 10:22:13	tokxot/xyim/alimut_picuy.html	קרן פיצויים לנפגעי אלימות	אראל	\N	\N
+TGUVA	\N	2005-12-01 11:24:30	2007-12-26 09:10:20	tokxot/klkla/qrqa.html	מה המדינה באמת חייבת לאזרחיה?	אראל	\N	\N
+tokxot/klkla/qrqa.html	\N	2005-12-01 11:28:18	2006-05-26 14:33:14	tokxot/klkla/qrqa1.html	הפיצוי המגיע לאזרחים במקום הקרקע שהמדינה הלאימה - המשך	אראל	\N	\N
+tokxot/klkla/qrqa1.html	\N	2005-12-04 19:32:35	2005-12-04 19:32:35	tokxot/klkla/qrqa_xkim.html	תגובות	חברי-כנסת ופוליטיקאים	\N	\N
+tokxot/klkla/qrqa1.html	\N	2005-12-21 10:21:34	2005-12-21 10:21:34	tokxot/klkla/qrqa_mnhl.html	תגובה ממנהל מקרקעי ישראל - בירור פרטים על הבעלות הנוכחית של הקרקעות	אראל	\N	\N
+tokxot/klkla/qrqa1.html	\N	2006-05-26 14:33:14	2006-05-26 14:33:14	tokxot/messages/klkla_qrqa1_0.html	מה לעשות עם הכסף	אראל	\N	\N
+TGUVA	\N	2005-12-02 19:31:14	2005-12-02 19:31:14	tokxot/messages/emt_mlm_jut_11.html	שאלה: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	שיר	\N	\N
+TGUVA	\N	2005-12-10 15:52:47	2005-12-10 15:52:47	tokxot/messages/yldim_mskort_0.html	תגובה ל: אפשר להתייחס לגידול ילדים כאל מקצוע	adva	\N	\N
+TGUVA	\N	2005-12-13 22:15:07	2008-05-16 03:12:09	tokxot/messages/1800_index_1.html	מאמר: תגובה למאמרו של הרב שלמה אבינר	yigaell	\N	\N
+tokxot/messages/1800_index_1.html	\N	2005-12-13 22:15:58	2005-12-13 22:15:58	tokxot/messages/Ath_KN_CYWNY.doc	אתה כן ציוני [קובץ]	yigaell	\N	\N
+tokxot/messages/1800_index_1.html	\N	2006-07-26 00:59:00	2008-03-31 14:28:23	tokxot/messages/1800_index_1_0.html	נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	שרון	\N	\N
+tokxot/messages/1800_index_1_0.html	\N	2006-08-13 10:16:58	2006-08-13 10:16:58	tokxot/messages/1800_index_1_0_0.html	תגובה על: נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	אביה אמויאל	\N	\N
+TGUVA	\N	2005-12-16 23:39:45	2005-12-16 23:39:45	tokxot/messages/jlom_mlxmthmfrc_2.html	מה היתה הגישה של ארה"ב למלחמה?	אלון	\N	\N
+TGUVA	\N	2005-12-20 07:21:37	2005-12-20 08:51:10	tokxot/messages/xtift_yldim_imuc_1.html	שאלה: אימוץ סגור ואימוץ פתוח	א.	\N	\N
+tokxot/messages/xtift_yldim_imuc_1.html	\N	2005-12-20 08:51:10	2005-12-20 08:51:10	tokxot/messages/xtift_yldim_imuc_1_0.html	אין לי פרטים	עורך האתר	\N	\N
+TGUVA	\N	2005-12-21 08:26:28	2006-04-24 19:38:40	tokxot/messages/ezrxut_bitul_1.html	תוספת ל: מחאות נגד המוסד לביטוח לאומי	נעם	\N	\N
+tokxot/messages/ezrxut_bitul_1.html	\N	2006-01-31 11:16:17	2006-01-31 11:16:17	tokxot/messages/ezrxut_bitul_1_0.html	תגובה על: תוספת ל: מחאות נגד המוסד לביטוח לאומי	אחד כמוך	\N	\N
+tokxot/messages/ezrxut_bitul_1.html	\N	2006-04-24 19:38:40	2006-04-24 19:38:40	tokxot/messages/ezrxut_bitul_1_1.html	תגובה על: תוספת ל: מחאות נגד המוסד לביטוח לאומי	דגיטו	\N	\N
+TGUVA	\N	2005-12-23 12:40:55	2008-04-24 04:18:30	tokxot/messages/emt_mlm_alonim_2.html	תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	אורן	\N	\N
+tokxot/messages/emt_mlm_alonim_2.html	\N	2006-02-16 06:35:15	2008-04-01 07:58:17	tokxot/messages/emt_mlm_alonim_2_0.html	תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	אריה	\N	\N
+tokxot/messages/emt_mlm_alonim_2_0.html	\N	2006-03-09 11:38:58	2008-04-01 07:58:17	tokxot/messages/emt_mlm_alonim_2_0_0.html	תגובה על: תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	איילת	\N	\N
+TGUVA	\N	2005-12-26 17:05:23	2005-12-26 17:05:23	tokxot/jlom/sruv_lrbnim.html	סרוב פקודה - למה רק בהתנתקות?!	אראל	\N	\N
+TGUVA	\N	2005-12-29 09:39:07	2005-12-29 09:39:07	tokxot/messages/px_jknua_omr_0.html	תגובה ל: שכנוע - השפעת האומר	אדם	\N	\N
+TGUVA	\N	2006-01-07 13:50:51	2006-01-07 21:00:16	tokxot/messages/gyus_xrdim_jwyon_gyus_0.html	שאלה: שויון בגיוס לצהל - עיקרון ריק	איציק כהן	\N	\N
+tokxot/messages/gyus_xrdim_jwyon_gyus_0.html	\N	2006-01-07 16:23:52	2006-01-07 21:00:16	tokxot/messages/gyus_xrdim_jwyon_gyus_0_0.html	לא הבנתי את השאלה	אראל	\N	\N
+tokxot/messages/gyus_xrdim_jwyon_gyus_0_0.html	\N	2006-01-07 16:49:55	2006-01-07 21:00:16	tokxot/messages/gyus_xrdim_jwyon_gyus_0_0_0.html	תגובה ל: לא הבנתי את השאלה	איציק כהן	\N	\N
+tokxot/messages/gyus_xrdim_jwyon_gyus_0_0_0.html	\N	2006-01-07 21:00:16	2006-01-07 21:00:16	tokxot/messages/gyus_xrdim_jwyon_gyus_0_0_0_0.html	אני לא מכיר את החוק בנושא זה	אראל	\N	\N
+TGUVA	\N	2006-01-07 14:31:46	2006-01-07 16:24:38	tokxot/messages/mcwot_tokix_0.html	תגובה ל: תוכיח!	איציק כהן	\N	\N
+tokxot/messages/mcwot_tokix_0.html	\N	2006-01-07 16:24:38	2006-01-07 16:24:38	tokxot/messages/mcwot_tokix_0_0.html	הסברים מוכחים	אראל	\N	\N
+TGUVA	\N	2006-01-08 22:04:13	2006-01-08 22:04:13	tokxot/messages/kfya1_kfya_mhi_0.html	תגובה ל: מהי כפיה?	זואי	\N	\N
+TGUVA	\N	2006-01-09 10:01:06	2006-12-25 09:13:57	tokxot/messages/xuqim_xvrot9_0.html	שאלה: חוק החברות 9	ראובן פוליטי	\N	\N
+tokxot/messages/xuqim_xvrot9_0.html	\N	2006-01-10 11:56:29	2006-12-25 09:13:57	tokxot/messages/xuqim_xvrot9_0_0.html	לא כאן המקום...	אראל	\N	\N
+TGUVA	\N	2006-01-10 15:40:23	2006-01-10 15:40:23	tokxot/messages/px_toqpnut_nlmdt_xiquy_1.html	תגובה: תוקפנות - לימוד עי חיקוי	מורג	\N	\N
+TGUVA	\N	2006-01-11 12:09:30	2007-05-16 01:07:38	tokxot/messages/xyim_alimut_0.html	תוספת ל: אלימות - גורמים ודרכי-מניעה	אורוש	\N	\N
+TGUVA	\N	2006-01-11 13:20:16	2006-01-11 13:20:16	tokxot/messages/brieut_prsomot_1.html	תגובה: פרטיות בחדרי היולדות	שרית דבורקין	\N	\N
+TGUVA	\N	2006-01-11 17:11:44	2006-01-12 07:23:03	tokxot/messages/px_emda_bdiqa_0.html	תגובה ל: כלים לבדיקת עמדות באופן ישיר - שאלונים	משהי שאכפת לה	\N	\N
+tokxot/messages/px_emda_bdiqa_0.html	\N	2006-01-12 07:23:03	2006-01-12 07:23:03	tokxot/messages/px_emda_bdiqa_0_0.html	להיפך	אראל	\N	\N
+TGUVA	\N	2006-01-24 13:21:36	2006-01-24 13:21:36	tokxot/messages/sgulot_igrot_1.html	תגובה על: פתיחה באגרות הקודש	יפית	\N	\N
+TGUVA	\N	2006-01-30 10:59:16	2007-10-27 00:47:21	tokxot/messages/xtift_yldim_pizmonim_0.html	תגובה על: החזירו לי את הילדים	מתתיהו	\N	\N
+TGUVA	\N	2006-02-08 08:15:18	2006-02-08 08:15:18	tokxot/mca/xrut.html	תגובה מתנועת "חרות"	מיכאל קליינר	\N	\N
+TGUVA	\N	2006-02-08 08:48:03	2006-02-08 08:48:03	tokxot/messages/px_mnhigut_tkunot_1.html	מה אפשר להסיק מתוצאות הבחירות הקודמות (2003)?	אראל	\N	\N
+TGUVA	\N	2006-02-09 09:15:55	2006-02-09 09:15:55	tokxot/1800/xkim2.html	מחקר המשך - אחרי הבחירות לכנסת ה-16	אראל	\N	\N
+TGUVA	\N	2006-02-11 17:50:05	2006-02-11 17:50:05	tokxot/messages/emt_mlm_jut_12.html	מאמר על: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	ariknavon	\N	\N
+TGUVA	\N	2006-02-16 21:10:30	2008-05-18 16:32:06	tokxot/messages/kibuj_arvim_ksf_0.html	תגובה על: ההתנחלויות לא אשמות בבעיות הכלכליות	shlomo	\N	\N
+TGUVA	\N	2006-02-19 20:22:43	2006-04-25 12:21:34	tokxot/emt/mlm_xok.html	הצעת חוק - איסור פרסום של מוצר למכירה תחת הכותרת "הצעת עבודה"	אראל	\N	\N
+tokxot/emt/mlm_xok.html	\N	2006-03-09 09:14:45	2006-03-09 09:14:45	tokxot/emt/mlm_xoq_tmt.html	תגובה1	ראומה אפק-ששון - הממונה על השירותים לצרכן באתר התמ	\N	\N
+tokxot/emt/mlm_xok.html	\N	2006-04-25 12:21:34	2006-04-25 12:21:34	tokxot/messages/emt_mlm_xok_0.html	תגובה 2	רעיסה חיריק - עוזרת סגנית השרה מרינה סולודקין	\N	\N
+TGUVA	\N	2006-02-21 11:14:44	2006-02-21 11:14:44	tokxot/messages/kibuj_arvim_hstorya_bqicur_1.html	תגובה על: אלה העובדות בקיצור אודות המאבק בישראל היום [עברית]	משה	\N	\N
+TGUVA	\N	2006-02-23 17:04:58	2008-05-03 08:07:07	tokxot/messages/1800_index_2.html	מאמר על: מכתב של הרבי לבן גוריון על המצב בארץ הקודש !	דוד	\N	\N
+TGUVA	\N	2006-03-01 01:12:14	2008-08-22 08:34:19	tokxot/wikuxim/2.html	"עד מתי אתם פוסחים על שתי הסעיפים" - סתירה	אראל	\N	\N
+tokxot/wikuxim/2.html	\N	2006-03-16 21:46:27	2006-03-17 06:45:03	tokxot/messages/wikuxim_2_0.html	תגובה על: עד מתי אתם פוסחים על שתי הסעיפים - סתירה	shlomo	\N	\N
+tokxot/messages/wikuxim_2_0.html	\N	2006-03-17 06:45:03	2006-03-17 06:45:03	tokxot/messages/wikuxim_2_0_0.html	נכון, תיקנתי	אראל	\N	\N
+tokxot/wikuxim/2.html	\N	2006-04-17 17:30:06	2006-04-17 17:30:06	tokxot/messages/wikuxim_2_1.html	תגובה על: עד מתי אתם פוסחים על שתי הסעיפים - סתירה	עמית	\N	\N
+TGUVA	\N	2006-03-01 16:34:02	2008-05-18 16:38:19	tokxot/messages/xtuna_kisui_rosh_0.html	שאלה על: כיסוי ראש לנשים נשואות - האמנם זו חובה?	יעל	\N	\N
+TGUVA	\N	2006-03-02 07:54:14	2006-03-02 07:54:14	tokxot/messages/kfya2_tmunot_0.html	תגובה על: הצעת שיפור לפקודה האופי המוסרי במסגרת צהל	נחמיה שיף	\N	\N
+TGUVA	\N	2006-03-15 13:10:58	2006-03-15 16:38:33	tokxot/messages/emt_mlm_alonim_3.html	שאלה על: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	ליה	\N	\N
+tokxot/messages/emt_mlm_alonim_3.html	\N	2006-03-15 16:38:33	2006-03-15 16:38:33	tokxot/messages/emt_mlm_alonim_3_0.html	פני לאיתן מור או למערכת של אתר ynet	גולש	\N	\N
+tokxot/1800/myda_mjpt.html	\N	2007-12-26 05:11:01	2007-12-26 05:11:01	http://www.what2do.co.il	אתר: ייעוץ לנפגעים	אראל		\N
+TGUVA	\N	2006-03-24 10:06:22	2006-03-24 10:07:14	tokxot/ezrxut/bxirot5766.html	בחירות ה'תשס"ו 2006 - האם להצביע?	אראל	\N	\N
+tokxot/ezrxut/bxirot5766.html	\N	2006-03-24 10:07:14	2006-03-24 10:07:14	tokxot/ezrxut/bxirotdgl.html	דגל ליום הבחירות	אראל	\N	\N
+TGUVA	\N	2006-03-29 07:01:44	2006-03-29 07:01:44	tokxot/ahvt_xinm/b7.html	לא תתגודדו, הבחירות, וערוץ 7	אראל סגל	\N	\N
+TGUVA	\N	2006-04-01 17:47:13	2006-04-01 17:47:13	tokxot/xmc/modaa.html	מודעה - איסוף חמץ לגויים עניים	יעל ואראל	\N	\N
+TGUVA	\N	2006-04-04 12:40:46	2006-04-04 12:40:46	tokxot/messages/thra_tvilt_rwqot_ptron_1.html	תגובה על: איך נשים לא נשואות יכולות לטבול בימינו?	ניר פידל	\N	\N
+TGUVA	\N	2006-04-04 12:56:53	2006-04-04 12:56:53	tokxot/messages/thra_tvilt_rwqot0_0.html	תגובה על: טהרה - לא לנשואות בלבד	ניר פידל	\N	\N
+TGUVA	\N	2006-04-09 08:26:05	2006-05-14 12:51:05	tokxot/messages/px_mnhigut_tkunot_2.html	תגובה על: מה הופך אדם למנהיג?	אני	\N	\N
+tokxot/messages/px_mnhigut_tkunot_2.html	\N	2006-05-14 12:51:05	2006-05-14 12:51:05	tokxot/messages/px_mnhigut_tkunot_2_0.html	איך צריך מנהיג להתנהג?	ימית	\N	\N
+TGUVA	\N	2006-04-15 09:20:57	2006-04-15 09:20:57	tokxot/messages/px_mjika_0.html	תגובה על: משיכה בין-אישית	ליאת לוי	\N	\N
+TGUVA	\N	2006-04-20 20:41:14	2006-04-20 20:41:14	tokxot/kibuj_arvim/free.html	התנתקות ללא פינוי	אראל	\N	\N
+TGUVA	\N	2006-04-21 10:19:12	2008-04-04 01:14:14	tokxot/klkla/xsdcdq.html	חסד שמתחפש לצדק	אראל	\N	\N
+TGUVA	\N	2006-04-23 09:40:50	2006-04-23 09:40:50	tokxot/messages/mcwot_emt_0.html	תגובה על "ככה לא חיים עם ההלכה"	אראל	\N	\N
+TGUVA	\N	2006-04-26 09:55:32	2006-04-26 09:55:32	tokxot/messages/px_emda_bdiqa_1.html	תגובה על: כלים לבדיקת עמדות באופן ישיר - שאלונים	ורד	\N	\N
+TGUVA	\N	2006-05-08 13:44:36	2006-05-08 13:44:36	tokxot/messages/kfya2_nofj2_0.html	תגובה על: אופיים של ימי הנופש בצבא - תגובה לתגובה	אביהו איתן חדד	\N	\N
+TGUVA	\N	2006-05-09 11:27:34	2006-05-11 06:45:36	tokxot/messages/kibuj_arvim_tokix_0.html	תגובה על: ארץ ישראל שייכת לעם ישראל? תוכיח!	נועם	\N	\N
+tokxot/messages/kibuj_arvim_tokix_0.html	\N	2006-05-11 06:45:36	2006-05-11 06:45:36	tokxot/messages/kibuj_arvim_tokix_0_0.html	מוסר או תועלת	אראל	\N	\N
+TGUVA	\N	2006-05-10 12:16:11	2006-05-10 12:16:11	tokxot/messages/wikuxim_milim_a7_0.html	תגובה על: מונחון - מילון ערוץ 7 לעברית המשודרת	חד אבחנה	\N	\N
+TGUVA	\N	2006-05-18 08:35:07	2008-05-18 16:46:09	tokxot/xinuk/index.html	לימוד תורה, חינוך לחיי תורה	-	\N	\N
+tokxot/xinuk/index.html	\N	2006-05-18 08:41:55	2008-05-18 16:46:09	tokxot/xinuk/tx.html	מחאה על מצב לימוד התורה כיום	תלמיד חכם חרדי, החפץ בעילום שמו	\N	\N
+tokxot/xinuk/tx.html	\N	2006-05-21 15:23:48	2006-05-21 15:23:48	tokxot/xinuk/tx_erel.html	דוגמאות	אראל	\N	\N
+tokxot/xinuk/index.html	\N	2006-05-18 08:42:55	2006-05-18 08:42:55	tokxot/xinuk/lyjivot.html	הצעות ורעיונות לשיפור תוכניות הלימודים בישיבות	אראל, יעל	\N	\N
+tokxot/xinuk/index.html	\N	2006-05-24 14:30:57	2006-05-24 14:30:57	tokxot/messages/xinuk_index_1.html	מחאה על אי לימוד טעמי המצוות	עמית פליס	\N	\N
+TGUVA	\N	2006-05-30 13:00:15	2006-05-30 13:00:15	tokxot/messages/wikuxim_milim_a7_1.html	תגובה על: מונחון - מילון ערוץ 7 לעברית המשודרת	אייל בארי	\N	\N
+TGUVA	\N	2006-05-30 19:45:24	2006-05-30 19:45:24	tokxot/messages/thra_index_1.html	שאלה על: טהרת נידה וטבילה במקוה	לולו	\N	\N
+TGUVA	\N	2006-06-03 13:57:30	2006-06-03 13:57:30	tokxot/messages/xyim_alimut_1.html	תגובה על: אלימות - גורמים ודרכי-מניעה	יעקב	\N	\N
+TGUVA	\N	2006-06-13 14:34:58	2007-07-15 23:30:58	tokxot/xrut/pinuy.html	הכנות לפינוי הבא	אראל	\N	\N
+tokxot/xrut/pinuy.html	\N	2006-06-14 08:16:58	2006-06-14 08:16:58	tokxot/messages/xrut_pinuy_0.html	תגובה לשבת עיון על הכנות להתכנסות	אראל	\N	\N
+tokxot/xrut/pinuy.html	\N	2006-08-03 13:06:54	2006-09-28 14:30:58	tokxot/xrut/xzon.html	חזון החופש	אראל	\N	\N
+tokxot/xrut/xzon.html	\N	2006-08-21 07:39:47	2006-08-21 07:39:47	http://he.manhigut.org/content/view/2859/140/	פורסם כאן [חיצוני]	אליצור סגל	\N	\N
+tokxot/xrut/xzon.html	\N	2006-08-27 10:02:10	2006-08-27 10:02:10	tokxot/messages/xrut_xzon_0.html	תגובה	אלישבע; אראל	\N	\N
+tokxot/xrut/xzon.html	\N	2006-09-28 14:30:58	2006-09-28 14:30:58	tokxot/messages/xrut_xzon_1.html	תגובה 2	ר דב שטיין; אראל	\N	\N
+TGUVA	\N	2006-06-17 08:04:32	2006-06-17 08:04:32	tokxot/messages/px_knst_0.html	שאלה על: קונסנזוס ופונקציות ייצוגיות בכנסת ישראל	דודו	\N	\N
+TGUVA	\N	2006-06-17 13:55:20	2006-06-17 13:55:20	tokxot/messages/px_mjika_dmyon_0.html	תגובה על: משיכה בין דומים	עינת	\N	\N
+TGUVA	\N	2006-06-26 15:27:57	2006-06-26 15:27:57	tokxot/messages/trbut2_ngiaa_4.html	תגובה על: איסור נגיעה לפני החתונה	jmj	\N	\N
+TGUVA	\N	2006-07-12 11:36:04	2006-07-12 20:33:45	tokxot/messages/thra_index_2.html	שאלה על: טהרת נידה וטבילה במקוה	שרונה	\N	\N
+tokxot/messages/thra_index_2.html	\N	2006-07-12 20:33:45	2006-07-12 20:33:45	tokxot/messages/thra_index_2_0.html	תגובה על: שאלה על: טהרת נידה וטבילה במקוה	אראל	\N	\N
+TGUVA	\N	2006-07-20 09:08:08	2006-07-20 09:08:08	tokxot/messages/yldim_mskort_1.html	תגובה על: אפשר להתייחס לגידול ילדים כאל מקצוע	קרן	\N	\N
+TGUVA	\N	2006-07-27 15:15:28	2006-07-27 15:15:28	axrimpl/hydepark/1355220_1.html	מערכת המשפט הישראלית - טובה ליהודים?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-28 07:01:18	2006-12-06 15:04:20	tokxot/jlom/kibuj.html	כיבוש - הדרך ההומאנית ביותר לסיים מלחמה	אראל	\N	\N
+TGUVA	\N	2006-08-08 07:14:47	2006-08-08 07:14:47	http://he.manhigut.org/content/view/2795/164/	תוכחה על סרבנות במלחמת לבנון [חיצוני]	אראל	\N	\N
+TGUVA	\N	2006-08-09 12:51:34	2006-12-13 23:25:54	tokxot/jlom/lvnon2.html	תוכחות הקשורות למלחמת לבנון השניה	אראל	\N	\N
+tokxot/jlom/lvnon2.html	\N	2006-08-09 12:54:05	2006-08-09 12:54:05	tokxot/messages/jlom_lvnon2_0.html	מוסר המלחמה ו"כוחי ועוצם ידי"	אראל	\N	\N
+tokxot/jlom/lvnon2.html	\N	2006-08-09 12:55:40	2006-08-09 12:55:40	tokxot/messages/jlom_lvnon2_1.html	מוסר המלחמה - האם אין צדיקים בלבנון?	אראל	\N	\N
+tokxot/jlom/lvnon2.html	\N	2006-08-09 13:17:09	2006-08-09 13:17:09	tokxot/messages/jlom_lvnon2_2.html	סרבנות גיוס	אראל	\N	\N
+tokxot/jlom/lvnon2.html	\N	2006-08-09 13:21:53	2006-09-28 14:30:58	tokxot/xrut/xzon.html	חזון החופש	אראל	\N	\N
+tokxot/jlom/lvnon2.html	\N	2006-08-09 13:32:14	2006-08-09 13:32:14	http://he.manhigut.org/content/view/2751/140/	קנאה באויבים [חיצוני]	אראל	\N	\N
+TGUVA	\N	2006-10-19 11:43:06	2006-10-19 11:43:06	tokxot/messages/ezrxut_bitul_2.html	תגובה על: מחאות נגד המוסד לביטוח לאומי	אלמוני	\N	\N
+TGUVA	\N	2006-10-19 11:46:13	2006-10-19 11:46:13	tokxot/messages/ezrxut_bitul_3.html	תגובה על: מחאות נגד המוסד לביטוח לאומי	אלמוני	\N	\N
+TGUVA	\N	2006-11-22 04:10:46	2006-11-22 04:10:46	tokxot/messages/thra_tvila_btva_1.html	שאלה על: טבילה בטבע	ביישנית. מאוד.		\N
+TGUVA	\N	2006-11-29 06:47:58	2006-11-29 06:47:58	http://yakir602.smser.co.il	קישור למאמר באתר זה על: הזדמנויות עסקיות - כסף קל על-חשבון תמימותם של אחרים	yakir321	yakir602 @ walla.co.il	\N
+tokxot/brieut/sl.html	\N	2006-12-02 23:46:14	2006-12-02 23:46:14	http://medethics.org.il/articles/ASSIA/ASSIA9/R0091039.asp	משאבים מוגבלים ברפואה - שיקולים כספיים בהצלת חיי אדם	הרב יצחק זילברשטיין, פרופ' מתתיהו וייסנברג	אסיא	\N
+TGUVA	\N	2006-12-04 21:03:22	2006-12-04 21:03:22	tokxot/messages/axdut_index_1.html	הודעה חשובה על: אחדות עם ישראל ואהבת חינם	בועז אופיר	boazof @ bezeqint.net	\N
+tokxot/jlom/kibuj.html	\N	2006-12-06 15:04:20	2006-12-06 15:04:20	tokxot/messages/jlom_kibuj_0.html	תגובה על: כיבוש - הדרך ההומאנית ביותר לסיים מלחמה	שלומי		\N
+tokxot/messages/emt_mlm_synergy_0.html	\N	2006-12-13 10:44:33	2006-12-13 10:44:33	tokxot/messages/emt_mlm_synergy_0_0.html	תגובה על: תגובה ל: סינרגי - שיווק מוצרים קוסמטיים ואחרים	אורח		\N
+tokxot/jlom/lvnon2.html	\N	2006-12-13 22:41:53	2006-12-13 22:41:53	axrimpl/hydepark/2001628_1.html	ויכוח על התגייסות לצבא, ומי צריך לקבל החלטות בנושאים צבאיים	טל, אראל, אזרחי	ישיבת הגולשים	\N
+tokxot/jlom/lvnon2.html	\N	2006-12-13 23:25:54	2006-12-13 23:25:54	axrimpl/hydepark/2026101_1.html	תלונות, ועדות חקירה, ועוד	מחברים שונים	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-19 09:05:25	2006-12-19 09:05:25	tokxot/messages/px_emda_0.html	תודה על האתר	ימית		\N
+TGUVA	\N	2006-12-19 09:13:22	2006-12-19 09:13:22	tokxot/messages/xrut_index_3.html	צו מנהלי ליהודים ולערבים	מחברים שונים	דואל מטה צפון	\N
+TGUVA	\N	2006-12-21 12:46:22	2006-12-21 12:46:22	axrimpl/hydepark/2103738_1.html	דיון בנושא עקרות הלכתית ושבעה נקיים	מחברים שונים	הצופה, עצור כאן חושבים	\N
+tokxot/messages/xuqim_xvrot9_0_0.html	\N	2006-12-25 09:13:57	2006-12-25 09:13:57	tokxot/messages/xuqim_xvrot9_0_0_0.html	שאלה על: לא כאן המקום...	עלי סלימאן	alisleman_33 @ hotmail.com	\N
+TGUVA	\N	2006-12-26 05:50:48	2006-12-26 05:50:48	axrimpl/hydepark/2062845_1.html	צבא העם? (האם עוד יש טעם בחוק גיוס חובה?)	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 05:51:24	2006-12-26 05:51:24	axrimpl/hydepark/2061244_1.html	האם יש הצדקה לאיסור על סמים?	אראל	עצור כאן חושבים	\N
+tokxot/brieut/sl.html	\N	2006-12-26 09:31:43	2006-12-26 09:31:43	axrimpl/hydepark/2093987_2.html	אין מחיר לחיים?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2007-01-17 07:51:48	2007-01-17 12:50:53	tokxot/messages/1800_xkim_0.html	תגובה על: מחקר: תגובות של חברי-כנסת לפניות בדואל	גדעון זהבי	gid1 @ netvision.net.il	\N
+tokxot/messages/1800_xkim_0.html	\N	2007-01-17 12:50:53	2007-01-17 12:50:53	tokxot/messages/1800_xkim_0_0.html	חפש באתר הכנסת	אראל		\N
+TGUVA	\N	2007-01-23 08:10:48	2007-01-23 08:10:48	tokxot/messages/klklt_txbura_xinm_0.html	מאמר חדש על: תחבורה ציבורית חינם - האם זה הפתרון?	ליל		\N
+tokxot/emt/mlm_synergy.html	\N	2007-01-31 01:45:07	2007-01-31 01:45:07	tokxot/messages/emt_mlm_synergy_1.html	מאמר חדש על: סינרגי - שיווק מוצרים קוסמטיים ואחרים	יהודה		\N
+TGUVA	\N	2007-02-01 07:23:11	2007-02-01 07:23:11	tokxot/messages/onj_mwt_jut_1.html	תגובה על: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות	אלון		\N
+TGUVA	\N	2007-02-03 17:06:16	2007-02-03 17:06:16	tokxot/messages/03.jpg	3	נכון כוסון? תגידו שלא נראה אותכם!		\N
+TGUVA	\N	2007-02-06 23:56:31	2007-02-06 23:56:31	tokxot/messages/klkla_index_0.html	תגובה על: כלכלה - כסף ועבודה	הלל		\N
+tokxot/xmc/goyim62.html	\N	2007-02-21 01:21:53	2007-02-21 01:21:53	tokxot/xmc/goyim67.html	תרומת החמץ לילדים רעבים בעולם	אראל	מכתב אל הרב ישראל מאיר לאו	\N
+tokxot/xmc/index.html	\N	2007-03-11 04:10:17	2007-03-11 04:10:17	tokxot/xmc/goyim67.html	תרומת החמץ לילדים רעבים בעולם	אראל	הרב ישראל מאיר לאו	\N
+tokxot/onj_mwt/tokix.html	\N	2007-02-22 22:16:48	2007-02-22 22:16:48	tokxot/messages/onj_mwt_tokix_2.html	תגובה על: מותר להרוג רוצחים? תוכיח!	חומני		\N
+tokxot/trbut2/ngiaa.html	\N	2007-03-05 23:50:44	2007-03-09 06:00:47	tokxot/messages/trbut2_ngiaa_5.html	תגובה על: איסור נגיעה לפני החתונה	קורין		\N
+tokxot/txbura/teunot.html	\N	2007-03-09 03:51:33	2007-06-05 12:55:27	tokxot/messages/txbura_teunot_6.html	הודעה חשובה על: מניעת תאונות דרכים	חדוי נוה	nave @ nave.co.il	\N
+tokxot/txbura/teunot.html	\N	2007-03-09 05:58:23	2007-06-05 12:55:27	tokxot/messages/txbura_teunot_6.html	רעיון: התקנת פסי האטה בכניסה לצמתים	חדוי נוה		\N
+tokxot/messages/trbut2_ngiaa_5.html	\N	2007-03-09 06:00:47	2007-03-09 06:00:47	tokxot/messages/trbut2_ngiaa_5_0.html	תגובה על: תגובה על: איסור נגיעה לפני החתונה	אראל		\N
+tokxot/xtift_yldim/hcaot_lxkim.html	\N	2007-02-27 07:47:17	2008-05-07 00:44:23	tokxot/messages/xtift_yldim_hcaot_lxkim_3.html	הודעה חשובה על: הצעות לשינוי חוקי הרווחה בקשר להוצאת ילדים מביתם	izak77@walla.co.il		\N
+tokxot/xtift_yldim/hcaot_lxkim.html	\N	2007-02-27 08:37:42	2008-05-07 00:44:23	tokxot/messages/xtift_yldim_hcaot_lxkim_3.html	דרושה עזרה בהצלת ילדים ממתקן כליאה	איזק		\N
+tokxot/cdl/cdl2.html	\N	2007-03-18 14:53:14	2007-03-18 14:53:14	tokxot/messages/cdl_cdl2_0.html	תגובה על: מה עושה משרד החוץ להצלת אנשי צדל?	מרגישה וחייה את זה ביום יום..		\N
+tokxot/cdl/cdl2.html	\N	2007-03-19 02:31:07	2007-03-19 02:31:07	tokxot/messages/cdl_cdl2_0.html	תגובה	נערה שמרגישה וחיה את זה ביום יום...		\N
+tokxot/px/hjpaa.html	\N	2007-03-25 06:53:46	2007-03-25 06:53:46	tokxot/messages/px_hjpaa_0.html	תגובה על: תודה רבה על האתר	קובי		\N
+tokxot/px/hjpaa.html	\N	2007-03-25 09:59:48	2007-03-25 09:59:48	tokxot/messages/px_hjpaa_0.html	תודה רבה על האתר	קובי		\N
+tokxot/px/mnhigut_sugim.html	\N	2007-04-15 12:36:08	2007-04-15 12:36:08	tokxot/messages/px_mnhigut_sugim_0.html	נושא חדש על: מנהיגות מסוגים שונים	אנשים לא אהבים הנהגה		\N
+tokxot/xrut/pinuy.html	\N	2007-04-17 10:51:54	2007-04-29 01:22:16	tokxot/xrut/xomj.html	עליה לחומש	אראל		\N
+tokxot/xrut/xomj.html	\N	2007-04-29 01:22:16	2007-04-29 01:22:16	axrimpl/moreshet/88244.html	עליה לחומש לפני שבת	הרב יובל שרלו	שות מורשת	\N
+tokxot/onj_mwt/jut.html	\N	2007-05-07 23:12:08	2007-05-07 23:12:08	axrimpl/hydepark/904777_2.html	דיון על מוסריות עונש המוות	מחברים שונים	עצור כאן חושבים	\N
+tokxot/xrut/pinuy.html	\N	2007-05-08 00:38:39	2007-05-08 00:38:39	axrimpl/hydepark/2062712_1.html	האם לסלוח לחיילים שהשתתפו בגירוש?	מחברים שונים	ישיבת הגולשים	\N
+tokxot/txbura/teunot.html	\N	2007-05-12 12:57:06	2007-05-12 12:57:06	http://www.bechar.co.il	קישור למאמר באתר אחר על: מניעת תאונות דרכים	עורך דין בכר		\N
+tokxot/txbura/ntc.html	\N	2007-05-14 11:55:14	2007-05-14 11:55:14	tokxot/messages/txbura_ntc_0.html	תגובה על: אחדות ישראל והקטנת העומס בכבישים	שירלי	shirly-t @ bezeqint.net	\N
+tokxot/txbura/ntc.html	\N	2007-05-14 12:40:08	2007-05-14 12:40:08	tokxot/messages/txbura_ntc_0.html	הצעה לחברות הסעות פרטיות	שירלי		\N
+tokxot/txbura/ntc.html	\N	2007-05-14 12:40:22	2007-05-14 12:40:22	tokxot/messages/txbura_ntc_0.html	הצעה לחברות הסעות פרטיות	שירלי		\N
+tokxot/messages/xyim_alimut_0.html	\N	2007-05-16 01:07:38	2007-05-16 01:07:38	tokxot/messages/xyim_alimut_0_0.html	תגובה על: תוספת ל: אלימות - גורמים ודרכי-מניעה	דיק		\N
+tokxot/messages/xyim_alimut_0.html	\N	2007-05-16 01:07:38	2007-05-16 01:07:38	tokxot/messages/xyim_alimut_0_1.html	תגובה על: תוספת ל: אלימות - גורמים ודרכי-מניעה	דיק		\N
+tokxot/txbura/teunot.html	\N	2007-05-19 22:14:20	2007-05-19 22:14:20	tokxot/messages/txbura_teunot_7.html	נפצעת או היית מעורב בתאונת דרכים?	שי ברקן	sh_teuna @ walla.co.il	\N
+tokxot/messages/txbura_teunot_6.html	\N	2007-06-05 09:24:57	2007-06-05 09:24:57	tokxot/messages/txbura_teunot_6_0.html	הצעה חדשה למניעת תאונות הדרכים בישראל	גיל איתם	gilleitam @ gmail.com	\N
+tokxot/messages/txbura_teunot_6.html	\N	2007-06-05 12:55:27	2007-06-05 12:55:27	tokxot/messages/txbura_teunot_6_0.html	הוספת פסי האטה - במקום חוקים וקנסות חדשים	גיל איתם		\N
+tokxot/klkla/bzqrt.html	\N	2007-06-13 13:30:00	2007-06-13 13:30:00	tokxot/messages/klkla_bzqrt_0.html	תגובה על: בזקרט כן יש שימוש רב בבזקרט נא לא לבטל תודה	סול		\N
+tokxot/klkla/bzqrt.html	\N	2007-06-13 13:30:18	2007-06-13 13:30:18	tokxot/messages/klkla_bzqrt_1.html	תגובה על: בזקרט כן יש שימוש רב בבזקרט נא לא לבטל תודה	סול		\N
+tokxot/klkla/bzqrt.html	\N	2007-06-14 12:47:00	2007-06-14 12:47:00	tokxot/messages/klkla_bzqrt_1.html	לא לבטל	אראל		\N
+tokxot/xmc/lo.html	\N	2007-07-03 03:36:29	2007-07-03 03:36:29	http://www.orvishua.org.il/heb/articles/art/1144659147.pdf	קישור למאמר באתר אחר על: מה לא טוב במנהג מכירת חמץ הנוהג בימינו	הרב אליהו רחמים זייני שליט"א/ראש ישיבת "אור וישועה		\N
+tokxot/messages/xtift_yldim_hcaot_lxkim_3.html	\N	2007-06-18 23:11:14	2007-06-18 23:11:14	tokxot/messages/xtift_yldim_hcaot_lxkim_3_1.html	תגובה על: הודעה חשובה על: הצעות לשינוי חוקי הרווחה בקשר להוצאת ילדים מביתם	יעקב רפיאן	zak77 @ walla.co.il	\N
+tokxot/xrut/pinuy.html	\N	2007-07-15 22:43:01	2007-07-15 22:43:01	http://www.yeshiva.org.il/ask/default.asp?id=26915	פיצוי למציל שהניצול טוען שלא היה בו צורך	הרב דב ליאור	שות בית אל	\N
+tokxot/xrut/pinuy.html	\N	2007-07-15 23:30:58	2007-07-15 23:30:58	http://www.moriya.org.il/shut/indexid.asp?id=46120	סירוב פקודה בגירוש עקב חוב שכולו ריבית	הרב משה עמיאל	שות מוריה	\N
+tokxot/txbura/ntc.html	\N	2007-07-24 04:41:09	2007-07-24 04:41:09	tokxot/messages/txbura_ntc_1.html	תגובה על: אחדות ישראל והקטנת העומס בכבישים	אחדות ישראל		\N
+tokxot/axdut/index.html	\N	2007-07-24 04:49:38	2007-07-24 04:49:38	tokxot/messages/axdut_index_2.html	נושא חדש על: אחדות עם ישראל ואהבת חינם	נינה		\N
+tokxot/axdut/index.html	\N	2007-07-24 04:58:35	2007-07-24 04:58:35	tokxot/messages/axdut_index_3.html	נושא חדש על: אחדות עם ישראל ואהבת חינם	נינה		\N
+tokxot/txbura/tguvot.html	\N	2007-07-24 12:01:16	2007-07-24 12:01:16	tokxot/messages/txbura_tguvot_0.html	תגובה על: תאונות דרכים - תגובות הגולשים	אילנה		\N
+tokxot/thra/bdiqa_bzmn_ptron.html	\N	2007-08-07 19:42:22	2007-08-07 19:42:22	tokxot/messages/thra_bdiqa_bzmn_ptron_0.html	תגובה על: בדיקת הגוף בזמן הטבילה - פתרונות	אירית		\N
+tokxot/emt/mlm_synergy.html	\N	2007-08-19 04:37:01	2007-08-19 04:37:01	tokxot/messages/emt_mlm_synergy_2.html	תגובה על: סינרגי - שיווק מוצרים קוסמטיים ואחרים	שרית שוורץ		\N
+tokxot/txbura/teunot.html	\N	2007-08-23 05:24:28	2007-08-23 05:25:11	tokxot/messages/txbura_teunot_8.html	נושא חדש על: מניעת תאונות דרכים	אתר הפיצויים		\N
+tokxot/messages/txbura_teunot_8.html	\N	2007-08-23 05:25:11	2007-08-23 05:25:11	http://www.what2do.co.il/Page9710.asp	קישור למאמר באתר אחר על: נושא חדש על: מניעת תאונות דרכים	תאונת דרכים		\N
+tokxot/klklt_txbura/xinm_0.html	\N	2007-08-31 23:10:56	2007-08-31 23:10:56	tokxot/messages/klklt_txbura_xinm_0_0.html	תגובה על: תחבורה ציבורית חינם	miriy2005		\N
+tokxot/messages/xtift_yldim_pizmonim_0.html	\N	2007-10-27 00:47:21	2007-10-27 00:47:21	http://gabylaw.com	קישור למאמר באתר אחר על: תגובה על: החזירו לי את הילדים	עו"ד מויאל גבי	gmlaw @ walla.co.il	\N
+tokxot/messages/1800_index_0.html	\N	2007-10-27 00:58:33	2007-10-27 00:58:33	tokxot/messages/1800_index_0_0.html	הודעה חשובה על: מכתב לתנופה	mgaby	gmlaw @ walla.co.il	\N
+tokxot/klklt_txbura/xinm.html	\N	2007-10-30 12:15:06	2007-10-30 12:15:06	tokxot/messages/klklt_txbura_xinm_1.html	תגובה על: תחבורה ציבורית חינם - האם זה הפתרון?	לא זה לא אני		\N
+tokxot/xtuna/kisui_rosh.html	\N	2007-11-06 00:41:54	2007-11-06 00:41:54	http://www.kova.co.il/kshirot	קישור למאמר באתר אחר על: כיסוי ראש לנשים נשואות - האמנם זו חובה?	סיון		\N
+tokxot/jlom/pdyon_jvuyim.html	\N	2007-11-08 01:52:09	2007-11-08 01:52:09	http://www.walla.co.il	קישור למאמר באתר זה על: פדיון שבויים והמצב הבטחוני	dfgdf	gbffgbfgbfg @ walla.com	\N
+tokxot/thra/tvila_prtit0.html	\N	2007-11-08 14:42:49	2007-11-08 14:42:49	tokxot/messages/thra_tvila_prtit0_4.html	הודעה חשובה על: טבילה - בלי לעמוד בעירום לפני הבלנית	בלהה	bilha1 @ bezeqint.net	\N
+tokxot/wikuxim/2.html	\N	2007-11-11 10:56:13	2007-11-11 10:56:13	tokxot/messages/wikuxim_2_2.html	תגובה על: עד מתי אתם פוסחים על שתי הסעיפים - סתירה	yukim		\N
+tokxot/onj_mwt/jut.html	\N	2007-11-28 16:13:42	2007-11-28 16:13:42	tokxot/messages/onj_mwt_jut_2.html	 כמו עונש מוות.	אלנה		\N
+tokxot/1800/myda_mjpt.html	\N	2007-12-26 05:11:29	2007-12-26 05:11:29	http://www.ovdim.org.il	אתר: ייעוץ לעובדים	אראל		\N
+tokxot/klkla/qrqa.html	\N	2007-12-26 09:10:20	2007-12-26 09:10:20	tokxot/klkla/qrqa_mnhigut.html	הצעת חוק מקוצרת בנושא זה	אראל	מנהיגות יהודית	\N
+tokxot/1800/myda_mjpt.html	\N	2008-01-02 16:49:47	2008-01-02 16:49:47	http://www.h-lapoal.co.il	הוצאה לפועל - פשיטת רגל	דני123		\N
+tokxot/1800/myda_mjpt.html	\N	2008-01-02 16:50:43	2008-01-02 16:50:43	http://www.al-a.co.il	תעבורה - נהיגה בשכרות	דני123		\N
+tokxot/1800/myda_mjpt.html	\N	2008-01-02 16:51:41	2008-01-02 16:51:41	http://www.lawguide.co.il	עורכי דין - חיפוש עורכי דין	דני123		\N
+tokxot/1800/myda_mjpt.html	\N	2008-01-02 16:51:49	2008-01-02 16:51:49	http://www.lawguide.co.il	עורכי דין - חיפוש עורכי דין	דני123		\N
+tokxot/txbura/teunot.html	\N	2008-01-02 17:09:21	2008-01-02 17:09:21	http://www.what2do.co.il	 תאונות דרכים	עידו		\N
+tokxot/ezrxut/index.html	\N	2008-01-02 17:14:00	2008-01-02 17:14:00	http://www.hov.what2do.co.il/Page16318.asp	קישור למאמר באתר אחר על: הממשל במדינה וחוקי המדינה	אמיר		\N
+tokxot/ezrxut/index.html	\N	2008-01-02 17:14:40	2008-01-02 17:14:40	http://www.hov.what2do.co.il/Page16318.asp	תעבורה - עורכי דין תעבורה	אמיר		\N
+tokxot/messages/xtift_yldim_hcaot_lxkim_3.html	\N	2008-01-02 17:16:27	2008-01-02 17:16:27	http://www.what2do.co.il/Page10607.asp	רשלנות רפואית	אמיר		\N
+tokxot/messages/emt_mlm_alonim_2_0_0.html	\N	2008-01-17 03:04:23	2008-04-01 07:58:17	tokxot/messages/emt_mlm_alonim_2_0_0_0.html	תגובה על: תגובה על: תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	אורן		\N
+tokxot/thra/tvilt_rwqot0.html	\N	2008-01-20 23:05:08	2008-01-20 23:05:08	tokxot/messages/thra_tvilt_rwqot0_1.html	הכזונה יעשה את אחותינו???	talchabad		\N
+tokxot/emt/mlm_jut.html	\N	2008-02-05 09:36:04	2008-02-05 09:36:04	axrimpl/moreshet/98531.html	שיווק רשתי - חשש גזל	הרב שלמה אישון, מכון כתר - כלכלה על-פי התורה	שות מורשת	\N
+tokxot/xyim/htnxluyot.html	\N	2008-02-12 07:22:31	2008-02-12 07:22:31	tokxot/messages/xyim_htnxluyot_0.html	תגובה על: התנחלויות למניעת השמדה המונית	מיאו		\N
+tokxot/onj_mwt/jut.html	\N	2008-02-24 23:19:38	2008-02-24 23:19:38	tokxot/messages/onj_mwt_jut_3.html	נושא חדש על: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות	אסיר עולם לשעבר סמי אלקיים		\N
+tokxot/px/toqpnut_nlmdt_xizuqim.html	\N	2008-03-01 22:50:09	2008-03-01 22:50:09	tokxot/messages/px_toqpnut_nlmdt_xizuqim_1.html	תגובה על: תוקפנות - לימוד עי חיזוקים חיוביים	צבי		\N
+tokxot/knisa.html	\N	2008-03-22 05:34:55	2008-03-22 05:34:55	tokxot/messages/knisa_1.html	תגובה על: האתר למחאות מקוריות - מטרות ומבנה	יגאל עמיר רצח המונים ולא רק רק יצחק רבין		\N
+tokxot/knisa.html	\N	2008-03-22 11:10:09	2008-03-22 11:10:09	tokxot/messages/knisa_2.html	רוצח זו לא סיסמה דרוש עונש מוות	מאת סמי אלקיים  samirina		\N
+tokxot/onj_mwt/mdrgot.html	\N	2008-03-22 13:22:55	2008-05-09 05:54:20	tokxot/messages/onj_mwt_mdrgot_0.html	נושא חדש על: עונש מות וחיסולים	מאת סמי אלקיים		\N
+tokxot/px/deot_qdumot_jinuy.html	\N	2008-03-22 14:01:48	2008-04-24 04:36:58	tokxot/messages/px_deot_qdumot_jinuy_0.html	מאמר חדש על: דעות קדומות - איך ניתן לשנות אותן?	מאת סמי אלקיים		\N
+tokxot/emt/mlm_prti.html	\N	2008-03-22 16:41:12	2008-03-22 16:41:12	tokxot/messages/emt_mlm_prti_1.html	תגובה על: הזדמנויות עסקיות - דוגמאות ומקרים פרטיים	גיא	guyhatu @ walla.com	\N
+tokxot/messages/onj_mwt_mdrgot_0.html	\N	2008-03-23 07:38:08	2008-03-23 07:38:08	tokxot/messages/onj_mwt_mdrgot_0_0.html	קישור למאמר באתר זה על: נושא חדש על: עונש מות וחיסולים	  samirina	samirina @ nana.co.il	\N
+tokxot/px/deot_qdumot.html	\N	2008-03-23 11:29:22	2008-03-23 11:31:51	tokxot/messages/px_deot_qdumot_0.html	מאמר חדש על: דעות קדומות, סטיריאוטיפים	מאת סמי אלקיים דעות קדוחות לא רק סטרוטיפ	samirinawww.nana.co.il	\N
+tokxot/messages/px_deot_qdumot_0.html	\N	2008-03-23 11:31:51	2008-03-23 11:31:51	tokxot/messages/px_deot_qdumot_0_0.html	קישור למאמר באתר אחר על: מאמר חדש על: דעות קדומות, סטיריאוטיפים	  samirina	samirinawww.nana.co.il	\N
+tokxot/wikuxim/index.html	\N	2008-03-24 09:48:11	2008-03-24 09:49:48	tokxot/messages/wikuxim_index_1.html	מאמר חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	העברית של עם ישראל היא שפה גנובה	samirinawww.nana.co.il	\N
+tokxot/messages/1800_index_1_0.html	\N	2008-03-31 14:28:23	2008-03-31 14:28:23	tokxot/messages/1800_index_1_0_1.html	תגובה על: נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	מאור		\N
+tokxot/messages/emt_mlm_alonim_2_0_0_0.html	\N	2008-04-01 07:58:17	2008-04-01 07:58:17	tokxot/messages/emt_mlm_alonim_2_0_0_0_0.html	פונקציה ניתנת להרצה על: תגובה על: תגובה על: תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	מנחם		\N
+tokxot/messages/onj_mwt_mdrgot_0.html	\N	2008-03-24 12:54:47	2008-03-24 12:54:47	tokxot/messages/onj_mwt_mdrgot_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: עונש מות וחיסולים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/ivrit/bal.html	\N	2008-03-24 14:25:44	2008-03-24 14:28:44	tokxot/messages/ivrit_bal_0.html	מאמר חדש על: אישי ולא בעלי	מאת סמי אלקיים אישי לעומת בעלי	samirinawww.nana.co.il	\N
+tokxot/onj_mwt/jut.html	\N	2008-03-24 14:49:54	2008-04-24 03:19:34	tokxot/messages/onj_mwt_jut_4.html	קישור למאמר באתר אחר על: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/klkla/xsdcdq.html	\N	2008-04-04 01:11:00	2008-04-04 01:14:14	tokxot/messages/klkla_xsdcdq_0.html	מאמר חדש על: חסד שמתחפש לצדק	חיים - יעקוב הלוי		\N
+tokxot/wikuxim/index.html	\N	2008-04-09 05:28:16	2008-05-10 12:54:53	tokxot/messages/wikuxim_index_2.html	תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים		\N
+tokxot/xyim/alimut.html	\N	2008-04-12 06:10:39	2008-05-07 08:45:53	tokxot/messages/xyim_alimut_2.html	קישור למאמר באתר זה על: אלימות - גורמים ודרכי-מניעה	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_2.html	\N	2008-04-13 01:27:50	2008-05-10 12:54:53	tokxot/messages/wikuxim_index_2_0.html	נושא חדש על: תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_2_0.html	\N	2008-04-13 01:29:31	2008-04-13 01:29:31	tokxot/messages/wikuxim_index_2_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/hstorya_bqicur.html	\N	2008-04-13 02:01:20	2008-04-24 03:31:03	tokxot/messages/kibuj_arvim_hstorya_bqicur_0.html	נושא חדש על: אלה העובדות בקיצור אודות המאבק בישראל היום [עברית]	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_hstorya_bqicur_0.html	\N	2008-04-13 02:02:26	2008-04-13 02:02:26	tokxot/messages/kibuj_arvim_hstorya_bqicur_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: אלה העובדות בקיצור אודות המאבק בישראל היום [עברית]	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/klkla/parim.html	\N	2008-04-14 00:32:28	2008-05-13 03:44:59	tokxot/messages/klkla_parim_0.html	נושא חדש על: צמצום פערים כלכליים וחברתיים	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/wikuxim/muskmot.html	\N	2008-04-15 01:13:46	2008-04-15 01:13:46	tokxot/messages/wikuxim_muskmot_1.html	קישור למאמר באתר אחר על: מוסכמות - שימוש מבלבל בעובדות מוסכמות	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/wikuxim/ajma.html	\N	2008-04-14 03:38:45	2008-04-23 23:17:54	tokxot/messages/wikuxim_ajma_0.html	נושא חדש על: אשמה - הטלת האשמה על גורם יחיד	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/wikuxim/muskmot.html	\N	2008-04-15 01:10:50	2008-04-15 01:10:50	tokxot/messages/wikuxim_muskmot_0.html	פונקציה ניתנת להרצה על: מוסכמות - שימוש מבלבל בעובדות מוסכמות	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/lbclm.html	\N	2008-04-15 22:37:36	2008-04-15 22:37:36	tokxot/messages/kibuj_arvim_lbclm_0.html	שלום, נתקלתי במאמר זה רק בימנו, למרות שנכתב ב-2002, ואולי אף בגלל הזמן הרב שעבר מאז- עוד יותר קל לראות עד כמה המאמר הזה חשוב ומדויק.	קוראת		\N
+tokxot/jlom/index.html	\N	2008-04-16 03:25:12	2008-04-24 03:27:12	tokxot/messages/jlom_index_0.html	נושא חדש על: שלום ומלחמה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_index_0.html	\N	2008-04-16 03:26:16	2008-04-16 03:26:16	tokxot/messages/jlom_index_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: שלום ומלחמה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/lbclm.html	\N	2008-04-16 06:35:06	2008-04-16 06:35:06	tokxot/messages/kibuj_arvim_lbclm_1.html	קישור למאמר באתר אחר על: בצלם מפלים בין דם לדם	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/lbclm.html	\N	2008-04-16 07:30:55	2008-04-16 07:33:15	tokxot/messages/kibuj_arvim_lbclm_2.html	נושא חדש על: בצלם מפלים בין דם לדם	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_lbclm_2.html	\N	2008-04-16 07:33:15	2008-04-16 07:33:15	tokxot/messages/kibuj_arvim_lbclm_2_0.html	קישור למאמר באתר אחר על: נושא חדש על: בצלם מפלים בין דם לדם	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/xyim/index.html	\N	2008-04-17 00:15:54	2008-04-24 03:26:02	tokxot/messages/xyim_index_1.html	נושא חדש על: חיים ומוות - ערך החיים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/xyim_index_1.html	\N	2008-04-17 00:16:43	2008-04-17 01:17:22	tokxot/messages/xyim_index_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: חיים ומוות - ערך החיים	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/xyim_index_1_0.html	\N	2008-04-17 01:17:22	2008-04-17 01:17:22	tokxot/messages/xyim_index_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: חיים ומוות - ערך החיים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/jlom/simtrya.html	\N	2008-04-23 04:34:37	2008-04-24 03:24:52	tokxot/messages/jlom_simtrya_0.html	נושא חדש על: יהודים לעומת ערבים - אין סימטריה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_simtrya_0.html	\N	2008-04-23 04:35:28	2008-04-24 03:23:34	tokxot/messages/jlom_simtrya_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: יהודים לעומת ערבים - אין סימטריה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/zaqa/sbi.html	\N	2008-04-23 10:41:24	2008-04-24 03:21:44	tokxot/messages/zaqa_sbi_0.html	נושא חדש על: זעקה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/zaqa_sbi_0.html	\N	2008-04-23 10:42:13	2008-04-24 03:21:44	tokxot/messages/zaqa_sbi_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: זעקה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_simtrya_0.html	\N	2008-04-23 10:51:40	2008-04-23 10:51:40	tokxot/messages/jlom_simtrya_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: יהודים לעומת ערבים - אין סימטריה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/zaqa_sbi_0.html	\N	2008-04-23 10:54:00	2008-04-23 10:54:00	tokxot/messages/zaqa_sbi_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: זעקה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/zaqa_sbi_0.html	\N	2008-04-23 11:03:12	2008-04-23 11:03:12	tokxot/messages/zaqa_sbi_0_2.html	קישור למאמר באתר אחר על: נושא חדש על: זעקה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/zaqa/sbi.html	\N	2008-04-23 11:53:58	2008-04-23 11:53:58	tokxot/messages/zaqa_sbi_1.html	קישור למאמר באתר אחר על: זעקה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/xyim_alimut_2.html	\N	2008-04-23 12:18:50	2008-04-23 12:18:50	tokxot/messages/xyim_alimut_2_1.html	קישור למאמר באתר אחר על: קישור למאמר באתר זה על: אלימות - גורמים ודרכי-מניעה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_ajma_0.html	\N	2008-04-23 23:10:02	2008-04-23 23:17:54	tokxot/messages/wikuxim_ajma_0_1.html	פונקציה ניתנת להרצה על: נושא חדש על: אשמה - הטלת האשמה על גורם יחיד	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_ajma_0_1.html	\N	2008-04-23 23:17:54	2008-04-23 23:17:54	tokxot/messages/wikuxim_ajma_0_1_0.html	קישור לקובץ קוד אחר כדי להשתמש בפונקציות שלו על: פונקציה ניתנת להרצה על: נושא חדש על: אשמה - הטלת האשמה על גורם יחיד	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/wikuxim/index.html	\N	2008-04-24 01:51:25	2008-05-07 08:25:24	tokxot/messages/wikuxim_index_3.html	נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_3.html	\N	2008-04-24 01:52:38	2008-05-07 08:22:13	tokxot/messages/wikuxim_index_3_0.html	קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_3_0.html	\N	2008-04-24 03:15:18	2008-04-24 03:15:18	tokxot/messages/wikuxim_index_3_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/onj_mwt_jut_4.html	\N	2008-04-24 03:19:34	2008-04-24 03:19:34	tokxot/messages/onj_mwt_jut_4_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: עונש מוות לרוצחים - תשובות לשאלות וטענות נפוצות	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/zaqa_sbi_0_0.html	\N	2008-04-24 03:21:44	2008-04-24 03:21:44	tokxot/messages/zaqa_sbi_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: זעקה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_simtrya_0_0.html	\N	2008-04-24 03:23:34	2008-04-24 03:23:34	tokxot/messages/jlom_simtrya_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: יהודים לעומת ערבים - אין סימטריה	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_simtrya_0.html	\N	2008-04-24 03:24:52	2008-04-24 03:24:52	tokxot/messages/jlom_simtrya_0_2.html	קישור למאמר באתר אחר על: נושא חדש על: יהודים לעומת ערבים - אין סימטריה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/xyim_index_1.html	\N	2008-04-24 03:26:02	2008-04-24 03:26:02	tokxot/messages/xyim_index_1_1.html	קישור למאמר באתר אחר על: נושא חדש על: חיים ומוות - ערך החיים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/jlom_index_0.html	\N	2008-04-24 03:27:12	2008-04-24 03:27:12	tokxot/messages/jlom_index_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: שלום ומלחמה	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/wikuxim/muskmot.html	\N	2008-04-24 03:28:52	2008-04-24 03:28:52	tokxot/messages/wikuxim_muskmot_2.html	קישור למאמר באתר אחר על: מוסכמות - שימוש מבלבל בעובדות מוסכמות	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_hstorya_bqicur_0.html	\N	2008-04-24 03:31:03	2008-04-24 03:31:03	tokxot/messages/kibuj_arvim_hstorya_bqicur_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: אלה העובדות בקיצור אודות המאבק בישראל היום [עברית]	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_2.html	\N	2008-04-24 03:32:57	2008-04-24 03:32:57	tokxot/messages/wikuxim_index_2_1.html	קישור למאמר באתר אחר על: תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/emt_mlm_alonim_2.html	\N	2008-04-24 04:15:55	2008-04-24 04:18:30	tokxot/messages/emt_mlm_alonim_2_1.html	תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/emt_mlm_alonim_2_1.html	\N	2008-04-24 04:17:50	2008-04-24 04:18:30	tokxot/messages/emt_mlm_alonim_2_1_0.html	קישור למאמר באתר אחר על: תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/emt_mlm_alonim_2_1_0.html	\N	2008-04-24 04:18:30	2008-04-24 04:18:30	tokxot/messages/emt_mlm_alonim_2_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: תגובה על: תגובה ל: ההזדמנות העסקית המשתלמת ביותר... האמנם?!	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/px_deot_qdumot_jinuy_0.html	\N	2008-04-24 04:36:58	2008-04-24 04:36:58	tokxot/messages/px_deot_qdumot_jinuy_0_0.html	קישור למאמר באתר אחר על: מאמר חדש על: דעות קדומות - איך ניתן לשנות אותן?	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_2_0.html	\N	2008-04-24 04:38:10	2008-05-10 12:54:53	tokxot/messages/wikuxim_index_2_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/px/jknua.html	\N	2008-04-24 05:30:36	2008-04-24 05:31:25	tokxot/messages/px_jknua_0.html	מאמר חדש על: דרכים לשכנוע ושינוי עמדות	מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/px_jknua_0.html	\N	2008-04-24 05:31:25	2008-04-24 05:31:25	tokxot/messages/px_jknua_0_0.html	קישור למאמר באתר אחר על: מאמר חדש על: דרכים לשכנוע ושינוי עמדות	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/ezrxut/jxitut.html	\N	2008-04-29 02:59:46	2008-04-29 03:00:35	tokxot/messages/ezrxut_jxitut_0.html	נושא חדש על: שחיתות במערכות השלטון במדינה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/ezrxut_jxitut_0.html	\N	2008-04-29 03:00:35	2008-04-29 03:00:35	tokxot/messages/ezrxut_jxitut_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: שחיתות במערכות השלטון במדינה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_index_3.html	\N	2008-04-29 03:04:57	2008-04-29 03:04:57	tokxot/messages/wikuxim_index_3_1.html	קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/xtift_yldim/pizmonim.html	\N	2008-04-29 03:55:03	2008-04-29 07:12:44	tokxot/messages/xtift_yldim_pizmonim_1.html	נושא חדש על: החזירו לי את הילדים	מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xtift_yldim_pizmonim_1.html	\N	2008-04-29 03:55:35	2008-04-29 03:55:35	tokxot/messages/xtift_yldim_pizmonim_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: החזירו לי את הילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/wikuxim/mdrgot.html	\N	2008-04-29 04:43:03	2008-04-29 04:43:31	tokxot/messages/wikuxim_mdrgot_0.html	נושא חדש על: מדרגות - ויכוחים על זכות הקיום של מצב הביניים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_mdrgot_0.html	\N	2008-04-29 04:43:31	2008-04-29 04:43:31	tokxot/messages/wikuxim_mdrgot_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: מדרגות - ויכוחים על זכות הקיום של מצב הביניים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xtift_yldim_pizmonim_1.html	\N	2008-04-29 07:12:44	2008-04-29 07:12:44	tokxot/messages/xtift_yldim_pizmonim_1_1.html	קישור למאמר באתר אחר על: נושא חדש על: החזירו לי את הילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/wikuxim/reqot.html	\N	2008-04-29 17:06:16	2008-04-29 17:07:02	tokxot/messages/wikuxim_reqot_0.html	נושא חדש על: טענות ריקות - טענות שהן כל-כך כלליות עד שהן לא אומרות בעצם שום דבר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_reqot_0.html	\N	2008-04-29 17:07:02	2008-04-29 17:07:02	tokxot/messages/wikuxim_reqot_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: טענות ריקות - טענות שהן כל-כך כלליות עד שהן לא אומרות בעצם שום דבר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/pinuy.html	\N	2008-04-29 17:37:18	2008-05-13 03:42:02	tokxot/messages/kibuj_arvim_pinuy_3.html	מאמר חדש על: מה רע בפינוי התנחלויות	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_pinuy_3.html	\N	2008-04-29 17:37:48	2008-04-29 17:37:48	tokxot/messages/kibuj_arvim_pinuy_3_0.html	קישור למאמר באתר אחר על: מאמר חדש על: מה רע בפינוי התנחלויות	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/hstorya.html	\N	2008-04-30 02:12:50	2008-04-30 02:13:41	tokxot/messages/kibuj_arvim_hstorya_0.html	נושא חדש על: עובדות הסטוריות על ארץ ישראל ועל הסכסוך בין יהודים לערבים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_hstorya_0.html	\N	2008-04-30 02:13:41	2008-04-30 02:13:41	tokxot/messages/kibuj_arvim_hstorya_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: עובדות הסטוריות על ארץ ישראל ועל הסכסוך בין יהודים לערבים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/kfya2/index.html	\N	2008-05-01 04:13:19	2008-05-01 04:43:31	tokxot/messages/kfya2_index_0.html	נושא חדש על: גירויים מיניים כפויים	 מאת סמי אלקיים משפחה וילדים	 samirina @ nana.co.il	\N
+tokxot/messages/kfya2_index_0.html	\N	2008-05-01 04:14:01	2008-05-01 04:14:01	tokxot/messages/kfya2_index_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: גירויים מיניים כפויים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kfya2_index_0.html	\N	2008-05-01 04:43:31	2008-05-01 04:43:31	tokxot/messages/kfya2_index_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: גירויים מיניים כפויים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/mcwot/dtyim.html	\N	2008-05-01 05:14:32	2008-05-01 05:15:07	tokxot/messages/mcwot_dtyim_0.html	נושא חדש על: היחס לדתיים - בתורה ובציבור הכללי	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/mcwot_dtyim_0.html	\N	2008-05-01 05:15:07	2008-05-01 05:15:07	tokxot/messages/mcwot_dtyim_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: היחס לדתיים - בתורה ובציבור הכללי	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/ezrxut/ezrxut.html	\N	2008-05-01 05:46:23	2008-05-01 05:47:04	tokxot/messages/ezrxut_ezrxut_0.html	נושא חדש על: אזרחות במדינה וזכויות שמקנה האזרחות	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/ezrxut_ezrxut_0.html	\N	2008-05-01 05:47:04	2008-05-01 05:47:04	tokxot/messages/ezrxut_ezrxut_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: אזרחות במדינה וזכויות שמקנה האזרחות	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/px/mnhigut.html	\N	2008-05-01 06:08:22	2008-05-01 06:08:58	tokxot/messages/px_mnhigut_1.html	נושא חדש על: מנהיגות ומנהיגים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/px_mnhigut_1.html	\N	2008-05-01 06:08:58	2008-05-01 06:08:58	tokxot/messages/px_mnhigut_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: מנהיגות ומנהיגים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/txbura/teunot.html	\N	2008-05-01 08:13:41	2008-05-13 03:47:11	tokxot/messages/txbura_teunot_9.html	נושא חדש על: מניעת תאונות דרכים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/txbura_teunot_9.html	\N	2008-05-01 08:14:11	2008-05-01 08:14:11	tokxot/messages/txbura_teunot_9_0.html	קישור למאמר באתר אחר על: נושא חדש על: מניעת תאונות דרכים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/klkla/globlizcya.html	\N	2008-05-02 02:19:26	2008-05-13 03:38:24	tokxot/messages/klkla_globlizcya_0.html	נושא חדש על: הגולם קם על יוצרו	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/klkla_globlizcya_0.html	\N	2008-05-02 02:19:59	2008-05-02 02:19:59	tokxot/messages/klkla_globlizcya_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: הגולם קם על יוצרו	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/avtla/tora.html	\N	2008-05-02 02:49:02	2008-05-02 02:49:56	tokxot/messages/avtla_tora_0.html	נושא חדש על: אבטלה ועובדים זרים - על-פי הנביאים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/avtla_tora_0.html	\N	2008-05-02 02:49:56	2008-05-02 02:49:56	tokxot/messages/avtla_tora_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: אבטלה ועובדים זרים - על-פי הנביאים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/mcwot/emt.html	\N	2008-05-02 03:29:24	2008-05-02 03:30:04	tokxot/messages/mcwot_emt_1.html	נושא חדש על: קיום מצוות בצורה אמיתית - בלי להוסיף ובלי לגרוע	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/mcwot_emt_1.html	\N	2008-05-02 03:30:04	2008-05-02 03:30:04	tokxot/messages/mcwot_emt_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: קיום מצוות בצורה אמיתית - בלי להוסיף ובלי לגרוע	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_2.html	\N	2008-05-03 08:06:28	2008-05-03 08:07:07	tokxot/messages/1800_index_2_0.html	נושא חדש על: מאמר על: מכתב של הרבי לבן גוריון על המצב בארץ הקודש !	מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_2_0.html	\N	2008-05-03 08:07:07	2008-05-03 08:07:07	tokxot/messages/1800_index_2_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: מאמר על: מכתב של הרבי לבן גוריון על המצב בארץ הקודש !	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/wikuxim/binryut.html	\N	2008-05-04 00:35:46	2008-05-04 00:36:28	tokxot/messages/wikuxim_binryut_0.html	נושא חדש על: שלמות - פסילת פתרון חלקי רק בגלל שאינו מושלם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_binryut_0.html	\N	2008-05-04 00:36:28	2008-05-04 00:36:28	tokxot/messages/wikuxim_binryut_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: שלמות - פסילת פתרון חלקי רק בגלל שאינו מושלם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/ezrxut/bgc.html	\N	2008-05-04 01:27:57	2008-05-04 01:28:47	tokxot/messages/ezrxut_bgc_0.html	נושא חדש על: פוליטי או אריסטוקרטי? כנסת או בגץ?	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/ezrxut_bgc_0.html	\N	2008-05-04 01:28:47	2008-05-04 01:28:47	tokxot/messages/ezrxut_bgc_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: פוליטי או אריסטוקרטי? כנסת או בגץ?	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/yldim/index.html	\N	2008-05-04 04:15:15	2008-05-04 04:15:54	tokxot/messages/yldim_index_0.html	נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/yldim_index_0.html	\N	2008-05-04 04:15:54	2008-05-04 04:15:54	tokxot/messages/yldim_index_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kibuj_arvim_pinuy_3.html	\N	2008-05-04 05:21:11	2008-05-04 05:22:04	tokxot/messages/kibuj_arvim_pinuy_3_1.html	קישור למאמר באתר אחר על: מאמר חדש על: מה רע בפינוי התנחלויות	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kibuj_arvim_pinuy_3_1.html	\N	2008-05-04 05:22:04	2008-05-04 05:22:04	tokxot/messages/kibuj_arvim_pinuy_3_1_0.html	link to a file in another site: קישור למאמר באתר אחר על: מאמר חדש על: מה רע בפינוי התנחלויות	מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/thra/7nqyim0.html	\N	2008-05-04 09:14:28	2008-05-04 09:15:15	tokxot/messages/thra_7nqyim0_0.html	תגובה על: ריחוק בין איש לנידה - התורה וההחמרה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/thra_7nqyim0_0.html	\N	2008-05-04 09:15:15	2008-05-04 09:15:15	tokxot/messages/thra_7nqyim0_0_0.html	קישור למאמר באתר אחר על: תגובה על: ריחוק בין איש לנידה - התורה וההחמרה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/kfya1/mdina.html	\N	2008-05-04 10:31:50	2008-05-04 10:32:33	tokxot/messages/kfya1_mdina_0.html	נושא חדש על: המדינה לא צריכה לעשות הכל	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kfya1_mdina_0.html	\N	2008-05-04 10:32:33	2008-05-04 10:32:33	tokxot/messages/kfya1_mdina_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: המדינה לא צריכה לעשות הכל	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/trbut2/index.html	\N	2008-05-05 00:32:04	2008-05-05 00:32:35	tokxot/messages/trbut2_index_0.html	נושא חדש על: צניעות - בין איש לאשה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/trbut2_index_0.html	\N	2008-05-05 00:32:35	2008-05-05 00:32:35	tokxot/messages/trbut2_index_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: צניעות - בין איש לאשה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/ezrxut/tqlot.html	\N	2008-05-05 00:59:51	2008-05-05 01:00:29	tokxot/messages/ezrxut_tqlot_0.html	תגובה על: מערכת תקלות עבור המדינה ו/או המפלגה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/ezrxut_tqlot_0.html	\N	2008-05-05 01:00:29	2008-05-05 01:00:29	tokxot/messages/ezrxut_tqlot_0_0.html	קישור למאמר באתר אחר על: תגובה על: מערכת תקלות עבור המדינה ו/או המפלגה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/kibuj_arvim/lbclm.html	\N	2008-05-05 01:35:49	2008-05-05 01:43:36	tokxot/messages/kibuj_arvim_lbclm_3.html	נושא חדש על: בצלם מפלים בין דם לדם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kibuj_arvim_lbclm_3.html	\N	2008-05-05 01:36:22	2008-05-05 01:36:22	tokxot/messages/kibuj_arvim_lbclm_3_0.html	קישור למאמר באתר אחר על: נושא חדש על: בצלם מפלים בין דם לדם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kibuj_arvim_lbclm_3.html	\N	2008-05-05 01:42:35	2008-05-05 01:43:36	tokxot/messages/kibuj_arvim_lbclm_3_1.html	קישור למאמר באתר אחר על: נושא חדש על: בצלם מפלים בין דם לדם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/kibuj_arvim_lbclm_3_1.html	\N	2008-05-05 01:43:36	2008-05-05 01:43:36	tokxot/messages/kibuj_arvim_lbclm_3_1_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: בצלם מפלים בין דם לדם English Title	סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/ezrxut/mdrgot.html	\N	2008-05-05 11:01:07	2008-05-05 11:02:45	tokxot/messages/ezrxut_mdrgot_0.html	תגובה על: פשרה בדמוקרטיה - האם חייבים לוותר על הדמוקרטיה כדי לשרוד?	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/ezrxut_mdrgot_0.html	\N	2008-05-05 11:01:51	2008-05-05 11:02:45	tokxot/messages/ezrxut_mdrgot_0_0.html	קישור למאמר באתר אחר על: תגובה על: פשרה בדמוקרטיה - האם חייבים לוותר על הדמוקרטיה כדי לשרוד?	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/ezrxut_mdrgot_0_0.html	\N	2008-05-05 11:02:45	2008-05-05 11:02:45	tokxot/messages/ezrxut_mdrgot_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: תגובה על: פשרה בדמוקרטיה - האם חייבים לוותר על הדמוקרטיה כדי לשרוד?	סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/emt/mdinyut.html	\N	2008-05-06 05:46:42	2008-05-06 06:00:31	tokxot/messages/emt_mdinyut_0.html	נושא חדש על: כשהיתר חד-פעמי הופך למדיניות	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/emt_mdinyut_0.html	\N	2008-05-06 05:47:21	2008-05-06 05:47:21	tokxot/messages/emt_mdinyut_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: כשהיתר חד-פעמי הופך למדיניות	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/emt_mdinyut_0.html	\N	2008-05-06 06:00:31	2008-05-06 06:00:31	tokxot/messages/emt_mdinyut_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: כשהיתר חד-פעמי הופך למדיניות	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/mcwot/lo_tisa.html	\N	2008-05-06 06:41:35	2008-05-06 06:42:16	tokxot/messages/mcwot_lo_tisa_0.html	תגובה על: לא תישא את שם ה א-להיך לשווא	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/mcwot_lo_tisa_0.html	\N	2008-05-06 06:42:16	2008-05-06 06:42:16	tokxot/messages/mcwot_lo_tisa_0_0.html	קישור למאמר באתר אחר על: תגובה על: לא תישא את שם ה א-להיך לשווא	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xtift_yldim_hcaot_lxkim_3.html	\N	2008-05-07 00:28:08	2008-05-07 00:44:23	tokxot/messages/xtift_yldim_hcaot_lxkim_3_2.html	תגובה על: הודעה חשובה על: הצעות לשינוי חוקי הרווחה בקשר להוצאת ילדים מביתם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xtift_yldim_hcaot_lxkim_3_2.html	\N	2008-05-07 00:29:05	2008-05-07 00:29:05	tokxot/messages/xtift_yldim_hcaot_lxkim_3_2_0.html	קישור למאמר באתר אחר על: תגובה על: הודעה חשובה על: הצעות לשינוי חוקי הרווחה בקשר להוצאת ילדים מביתם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xtift_yldim_hcaot_lxkim_3_2.html	\N	2008-05-07 00:44:23	2008-05-07 00:44:23	tokxot/messages/xtift_yldim_hcaot_lxkim_3_2_1.html	קישור למאמר באתר אחר על: תגובה על: הודעה חשובה על: הצעות לשינוי חוקי הרווחה בקשר להוצאת ילדים מביתם	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/jlom/xuqim.html	\N	2008-05-07 01:21:11	2008-05-07 08:32:37	tokxot/messages/jlom_xuqim_0.html	נושא חדש על: לחשוב שנתיים קדימה - חוקים למניעת מלחמה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/jlom_xuqim_0.html	\N	2008-05-07 01:22:06	2008-05-07 01:23:00	tokxot/messages/jlom_xuqim_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: לחשוב שנתיים קדימה - חוקים למניעת מלחמה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/jlom_xuqim_0_0.html	\N	2008-05-07 01:23:00	2008-05-07 01:23:00	tokxot/messages/jlom_xuqim_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: לחשוב שנתיים קדימה - חוקים למניעת מלחמה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_3.html	\N	2008-05-07 02:33:56	2008-05-07 08:25:24	tokxot/messages/wikuxim_index_3_2.html	תגובה על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	שלומי	admin @ expresss.co.il	\N
+tokxot/wikuxim/0xlufot.html	\N	2008-05-07 03:57:17	2008-05-07 03:58:39	tokxot/messages/wikuxim_0xlufot_0.html	מאמר חדש על: חלופות - העברת ביקורת על מעשה שאין לו חלופה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_0xlufot_0.html	\N	2008-05-07 03:58:39	2008-05-07 03:58:39	tokxot/messages/wikuxim_0xlufot_0_0.html	קישור למאמר באתר אחר על: מאמר חדש על: חלופות - העברת ביקורת על מעשה שאין לו חלופה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_3_2.html	\N	2008-05-07 05:18:35	2008-05-07 08:25:24	tokxot/messages/wikuxim_index_3_2_0.html	תגובה על: תגובה על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_3_2_0.html	\N	2008-05-07 05:20:18	2008-05-07 05:20:18	tokxot/messages/wikuxim_index_3_2_0_0.html	קישור למאמר באתר אחר על: תגובה על: תגובה על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_3_0.html	\N	2008-05-07 08:22:13	2008-05-07 08:22:13	tokxot/messages/wikuxim_index_3_0_1.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_3_2_0.html	\N	2008-05-07 08:25:24	2008-05-07 08:25:24	tokxot/messages/wikuxim_index_3_2_0_1.html	קישור למאמר באתר אחר על: תגובה על: תגובה על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/jlom_xuqim_0.html	\N	2008-05-07 08:32:37	2008-05-07 08:32:37	tokxot/messages/jlom_xuqim_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: לחשוב שנתיים קדימה - חוקים למניעת מלחמה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xyim_alimut_2.html	\N	2008-05-07 08:45:15	2008-05-07 08:45:53	tokxot/messages/xyim_alimut_2_2.html	קישור למאמר באתר אחר על: קישור למאמר באתר זה על: אלימות - גורמים ודרכי-מניעה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xyim_alimut_2_2.html	\N	2008-05-07 08:45:53	2008-05-07 08:45:53	tokxot/messages/xyim_alimut_2_2_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: קישור למאמר באתר זה על: אלימות - גורמים ודרכי-מניעה	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/px/mnhigut_sugim.html	\N	2008-05-09 01:46:44	2008-05-09 01:50:44	tokxot/messages/px_mnhigut_sugim_1.html	מאמר חדש על: מנהיגות מסוגים שונים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/px_mnhigut_sugim_1.html	\N	2008-05-09 01:49:53	2008-05-09 01:50:44	tokxot/messages/px_mnhigut_sugim_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: מנהיגות מסוגים שונים	סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/px_mnhigut_sugim_1_0.html	\N	2008-05-09 01:50:44	2008-05-09 01:50:44	tokxot/messages/px_mnhigut_sugim_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: מאמר חדש על: מנהיגות מסוגים שונים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/wikuxim/index.html	\N	2008-05-09 02:26:49	2008-05-09 02:39:16	tokxot/messages/wikuxim_index_4.html	נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_4.html	\N	2008-05-09 02:27:36	2008-05-09 02:37:12	tokxot/messages/wikuxim_index_4_0.html	קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_4_0.html	\N	2008-05-09 02:37:12	2008-05-09 02:37:12	tokxot/messages/wikuxim_index_4_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_4.html	\N	2008-05-09 02:39:16	2008-05-09 02:39:16	tokxot/messages/wikuxim_index_4_1.html	קישור למאמר באתר אחר על: נושא חדש על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/kfya1/simtrya.html	\N	2008-05-09 03:48:33	2008-05-09 03:49:46	tokxot/messages/kfya1_simtrya_0.html	נושא חדש על: סימטריה בויכוחים על דת ומדינה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kfya1_simtrya_0.html	\N	2008-05-09 03:49:07	2008-05-09 03:49:46	tokxot/messages/kfya1_simtrya_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: סימטריה בויכוחים על דת ומדינה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kfya1_simtrya_0_0.html	\N	2008-05-09 03:49:46	2008-05-09 03:49:46	tokxot/messages/kfya1_simtrya_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: סימטריה בויכוחים על דת ומדינה	סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/onj_mwt_mdrgot_0.html	\N	2008-05-09 05:54:20	2008-05-09 05:54:20	tokxot/messages/onj_mwt_mdrgot_0_2.html	קישור למאמר באתר אחר על: נושא חדש על: עונש מות וחיסולים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/xtuna/xtuna.html	\N	2008-05-09 20:31:17	2008-05-09 20:31:53	tokxot/messages/xtuna_xtuna_0.html	נושא חדש על: נישואין - יתרונות, בעיות, פתרונות וחובות	מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/xtuna_xtuna_0.html	\N	2008-05-09 20:31:53	2008-05-09 20:31:53	tokxot/messages/xtuna_xtuna_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: נישואין - יתרונות, בעיות, פתרונות וחובות	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/txbura/ntc.html	\N	2008-05-10 04:09:09	2008-05-10 04:09:43	tokxot/messages/txbura_ntc_2.html	מאמר חדש על: אחדות ישראל והקטנת העומס בכבישים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/txbura_ntc_2.html	\N	2008-05-10 04:09:43	2008-05-10 04:09:43	tokxot/messages/txbura_ntc_2_0.html	קישור למאמר באתר אחר על: מאמר חדש על: אחדות ישראל והקטנת העומס בכבישים	 מאת סמי אלקיים	samirina @ nana.co,il	\N
+tokxot/messages/wikuxim_index_2_0_1.html	\N	2008-05-10 12:54:53	2008-05-10 12:54:53	tokxot/messages/wikuxim_index_2_0_1_0.html	link to a file in another site: קישור למאמר באתר אחר על: נושא חדש על: תגובה על: דמגוגיה למתקדמים - תבניות חוזרות וטעויות נפוצות בויכוחים English Title	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/ahvt_xinm/ahvt_xinm1.html	\N	2008-05-12 21:24:54	2008-05-12 21:24:54	tokxot/messages/ahvt_xinm_ahvt_xinm1_0.html	מאמר חדש על: חכמינו קובעים כי השנאה הורסת את ישראל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/ahvt_xinm/ahvt_xinm1.html	\N	2008-05-12 21:24:55	2008-05-12 21:26:43	tokxot/messages/ahvt_xinm_ahvt_xinm1_1.html	מאמר חדש על: חכמינו קובעים כי השנאה הורסת את ישראל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/ahvt_xinm_ahvt_xinm1_1.html	\N	2008-05-12 21:25:40	2008-05-12 21:25:40	tokxot/messages/ahvt_xinm_ahvt_xinm1_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: חכמינו קובעים כי השנאה הורסת את ישראל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/ahvt_xinm_ahvt_xinm1_1.html	\N	2008-05-12 21:26:43	2008-05-12 21:26:43	tokxot/messages/ahvt_xinm_ahvt_xinm1_1_1.html	קישור למאמר באתר אחר על: מאמר חדש על: חכמינו קובעים כי השנאה הורסת את ישראל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/klkla_globlizcya_0.html	\N	2008-05-13 03:38:24	2008-05-13 03:38:24	tokxot/messages/klkla_globlizcya_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: הגולם קם על יוצרו	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_pinuy_3.html	\N	2008-05-13 03:41:21	2008-05-13 03:42:02	tokxot/messages/kibuj_arvim_pinuy_3_2.html	קישור למאמר באתר אחר על: מאמר חדש על: מה רע בפינוי התנחלויות	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_pinuy_3_2.html	\N	2008-05-13 03:42:02	2008-05-13 03:42:02	tokxot/messages/kibuj_arvim_pinuy_3_2_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: מאמר חדש על: מה רע בפינוי התנחלויות	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/klkla_parim_0.html	\N	2008-05-13 03:44:59	2008-05-13 03:44:59	tokxot/messages/klkla_parim_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: צמצום פערים כלכליים וחברתיים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/txbura_teunot_9.html	\N	2008-05-13 03:46:30	2008-05-13 03:47:11	tokxot/messages/txbura_teunot_9_1.html	קישור למאמר באתר אחר על: נושא חדש על: מניעת תאונות דרכים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/txbura_teunot_9_1.html	\N	2008-05-13 03:47:11	2008-05-13 03:47:11	tokxot/messages/txbura_teunot_9_1_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: מניעת תאונות דרכים	 מאת סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/xrut/nfj.html	\N	2008-05-14 03:02:37	2008-05-15 00:14:37	tokxot/messages/xrut_nfj_2.html	נושא חדש על: כליאת אנשים בבתי-חולים פסיכיאטריים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj_2.html	\N	2008-05-14 03:03:20	2008-05-15 00:14:37	tokxot/messages/xrut_nfj_2_0.html	קישור למאמר באתר אחר על: נושא חדש על: כליאת אנשים בבתי-חולים פסיכיאטריים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj_2_0.html	\N	2008-05-14 03:04:44	2008-05-15 00:14:37	tokxot/messages/xrut_nfj_2_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: כליאת אנשים בבתי-חולים פסיכיאטריים	סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj_2_0_0.html	\N	2008-05-14 03:05:33	2008-05-15 00:14:37	tokxot/messages/xrut_nfj_2_0_0_0.html	link to a file in another site: קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: כליאת אנשים בבתי-חולים פסיכיאטריים English Title	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/kvst_hrj.html	\N	2008-05-15 00:01:19	2008-05-15 00:02:35	tokxot/messages/kibuj_arvim_kvst_hrj_1.html	נושא חדש על: מדינת ישראל - כבשת הרש	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_kvst_hrj_1.html	\N	2008-05-15 00:02:02	2008-05-15 00:02:35	tokxot/messages/kibuj_arvim_kvst_hrj_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: מדינת ישראל - כבשת הרש	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_kvst_hrj_1_0.html	\N	2008-05-15 00:02:35	2008-05-15 00:02:35	tokxot/messages/kibuj_arvim_kvst_hrj_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: מדינת ישראל - כבשת הרש	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj_2_0_0_0.html	\N	2008-05-15 00:14:37	2008-05-15 00:14:37	tokxot/messages/xrut_nfj_2_0_0_0_0.html	link to a file in another site: link to a file in another site: קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: כליאת אנשים בבתי-חולים פסיכיאטריים English Title English Title	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/xrut/nfj13.html	\N	2008-05-16 01:16:48	2008-05-16 01:20:30	tokxot/messages/xrut_nfj13_1.html	מאמר חדש על: המחלקה הסגורה - 13 ליקויים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj13_1.html	\N	2008-05-16 01:17:42	2008-05-16 01:20:30	tokxot/messages/xrut_nfj13_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: המחלקה הסגורה - 13 ליקויים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj13_1_0.html	\N	2008-05-16 01:19:27	2008-05-16 01:20:30	tokxot/messages/xrut_nfj13_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: מאמר חדש על: המחלקה הסגורה - 13 ליקויים	סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xrut_nfj13_1_0_0.html	\N	2008-05-16 01:20:30	2008-05-16 01:20:30	tokxot/messages/xrut_nfj13_1_0_0_0.html	link to a file in another site: קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: מאמר חדש על: המחלקה הסגורה - 13 ליקויים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_1.html	\N	2008-05-16 02:57:24	2008-05-16 03:12:09	tokxot/messages/1800_index_1_1.html	נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_1_1.html	\N	2008-05-16 02:57:54	2008-05-16 02:58:26	tokxot/messages/1800_index_1_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_1_1_0.html	\N	2008-05-16 02:58:26	2008-05-16 02:58:26	tokxot/messages/1800_index_1_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/1800_index_1_1.html	\N	2008-05-16 03:12:09	2008-05-16 03:12:09	tokxot/messages/1800_index_1_1_1.html	קישור למאמר באתר אחר על: נושא חדש על: מאמר: תגובה למאמרו של הרב שלמה אבינר	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/px/toqpnut_bsrtim.html	\N	2008-05-18 03:28:31	2008-05-18 03:29:23	tokxot/messages/px_toqpnut_bsrtim_0.html	נושא חדש על: השפעת הצפיה הסרטים אלימים על רמת התוקפנות	סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/px_toqpnut_bsrtim_0.html	\N	2008-05-18 03:29:23	2008-05-18 03:29:23	tokxot/messages/px_toqpnut_bsrtim_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: השפעת הצפיה הסרטים אלימים על רמת התוקפנות	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/wikuxim/dmyon.html	\N	2008-05-18 12:46:56	2008-05-18 12:47:38	tokxot/messages/wikuxim_dmyon_0.html	נושא חדש על: דמיון - קביעת עמדה בנושא מסויים על-סמך מקרה פרטי שנמצא בדמיון שלנו	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_dmyon_0.html	\N	2008-05-18 12:47:38	2008-05-18 12:47:38	tokxot/messages/wikuxim_dmyon_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: דמיון - קביעת עמדה בנושא מסויים על-סמך מקרה פרטי שנמצא בדמיון שלנו	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/xtift_yldim/pizmonim.html	\N	2008-05-18 15:28:03	2008-05-18 15:28:03	tokxot/messages/xtift_yldim_pizmonim_2.html	תגובה על: החזירו לי את הילדים	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/messages/xmc_bayot_erel_0.html	\N	2008-05-18 16:10:03	2008-05-18 16:10:03	tokxot/messages/xmc_bayot_erel_0_0.html	תגובה על: פיקטיביות מכירת החמץ	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/wikuxim/2.html	\N	2008-05-18 16:23:52	2008-05-18 16:23:52	tokxot/messages/wikuxim_2_3.html	תגובה על: עד מתי אתם פוסחים על שתי הסעיפים - סתירה	מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/messages/kibuj_arvim_ksf_0.html	\N	2008-05-18 16:32:06	2008-05-18 16:32:06	tokxot/messages/kibuj_arvim_ksf_0_0.html	תגובה על: ההתנחלויות לא אשמות בבעיות הכלכליות	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/messages/xtuna_kisui_rosh_0.html	\N	2008-05-18 16:33:17	2008-05-18 16:33:17	tokxot/messages/xtuna_kisui_rosh_0_0.html	תגובה על: שאלה על: כיסוי ראש לנשים נשואות - האמנם זו חובה?	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/messages/xtuna_kisui_rosh_0.html	\N	2008-05-18 16:38:19	2008-05-18 16:38:19	tokxot/messages/xtuna_kisui_rosh_0_1.html	תגובה על: כיסוי ראש לנשים נשואות - האמנם זו חובה?	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/xinuk/tx.html	\N	2008-05-18 16:46:09	2008-05-18 16:46:09	tokxot/messages/xinuk_tx_0.html	תגובה על: מחאה על מצב לימוד התורה כיום	שי בוארון מטה המאבק לצדק חברתי	shay98 @ 012.net.il	\N
+tokxot/yldim/index.html	\N	2008-05-19 00:55:14	2008-05-21 03:53:16	tokxot/messages/yldim_index_1.html	נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/yldim_index_1.html	\N	2008-05-19 00:55:47	2008-05-19 00:56:52	tokxot/messages/yldim_index_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/yldim_index_1_0.html	\N	2008-05-19 00:56:52	2008-05-19 00:56:52	tokxot/messages/yldim_index_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים משפחה וילדים	 samirina @ nana.co.il	\N
+tokxot/messages/yldim_index_1.html	\N	2008-05-21 03:36:34	2008-05-21 03:53:16	tokxot/messages/yldim_index_1_1.html	נושא חדש על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/yldim_index_1_1.html	\N	2008-05-21 03:37:20	2008-05-21 03:37:20	tokxot/messages/yldim_index_1_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/yldim_index_1_1.html	\N	2008-05-21 03:53:16	2008-05-21 03:53:16	tokxot/messages/yldim_index_1_1_1.html	קישור למאמר באתר אחר על: נושא חדש על: נושא חדש על: משפחה וילדים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/xyim/alimut.html	\N	2008-05-22 11:06:23	2008-05-22 11:12:09	tokxot/messages/xyim_alimut_3.html	נושא חדש על: אלימות - גורמים ודרכי-מניעה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xyim_alimut_3.html	\N	2008-05-22 11:12:09	2008-05-22 11:12:09	tokxot/messages/xyim_alimut_3_0.html	קישור למאמר באתר אחר על: נושא חדש על: אלימות - גורמים ודרכי-מניעה	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/xyim/piqux_nfj.html	\N	2008-05-24 04:46:17	2008-05-24 04:48:28	tokxot/messages/xyim_piqux_nfj_0.html	נושא חדש על: האמנם אנחנו נגד אלימות? - הבעיה בעיקרון פיקוח נפש דוחה הכל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xyim_piqux_nfj_0.html	\N	2008-05-24 04:46:55	2008-05-24 04:48:28	tokxot/messages/xyim_piqux_nfj_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: האמנם אנחנו נגד אלימות? - הבעיה בעיקרון פיקוח נפש דוחה הכל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/xyim_piqux_nfj_0_0.html	\N	2008-05-24 04:48:28	2008-05-24 04:48:28	tokxot/messages/xyim_piqux_nfj_0_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: האמנם אנחנו נגד אלימות? - הבעיה בעיקרון פיקוח נפש דוחה הכל	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/wikuxim/arkim.html	\N	2008-05-24 23:53:36	2008-05-24 23:54:20	tokxot/messages/wikuxim_arkim_0.html	נושא חדש על: ערכים - שימוש מטעה בערכים מקודשים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/wikuxim_arkim_0.html	\N	2008-05-24 23:54:20	2008-05-24 23:54:20	tokxot/messages/wikuxim_arkim_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: ערכים - שימוש מטעה בערכים מקודשים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/1800/index.html	\N	2008-05-25 09:22:33	2008-05-25 09:22:33	tokxot/messages/1800_index_3.html	קישור למאמר באתר אחר על: קישורים שיעזרו לכם למחות בעצמכם	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/emt/hatqot2.html	\N	2008-05-25 23:38:17	2008-05-25 23:40:57	tokxot/messages/emt_hatqot2_0.html	נושא חדש על: מניעת העתקות בחידוני תנך	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/emt_hatqot2_0.html	\N	2008-05-25 23:39:04	2008-05-25 23:39:04	tokxot/messages/emt_hatqot2_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: מניעת העתקות בחידוני תנך	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/emt_hatqot2_0.html	\N	2008-05-25 23:40:07	2008-05-25 23:40:57	tokxot/messages/emt_hatqot2_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: מניעת העתקות בחידוני תנך	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/messages/emt_hatqot2_0_1.html	\N	2008-05-25 23:40:57	2008-05-25 23:40:57	tokxot/messages/emt_hatqot2_0_1_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: נושא חדש על: מניעת העתקות בחידוני תנך	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tokxot/kibuj_arvim/htnk_wharc_1.html	\N	2008-07-06 05:33:49	2008-07-06 05:36:00	tokxot/messages/kibuj_arvim_htnk_wharc_1_1.html	מאמר חדש על: לא להשתמש בתנך כאמצעי להוכחת בעלותנו על הארץ	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_htnk_wharc_1_1.html	\N	2008-07-06 05:34:40	2008-07-06 05:36:00	tokxot/messages/kibuj_arvim_htnk_wharc_1_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: לא להשתמש בתנך כאמצעי להוכחת בעלותנו על הארץ	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/kibuj_arvim_htnk_wharc_1_1_0.html	\N	2008-07-06 05:36:00	2008-07-06 05:36:00	tokxot/messages/kibuj_arvim_htnk_wharc_1_1_0_0.html	קישור למאמר באתר אחר על: קישור למאמר באתר אחר על: מאמר חדש על: לא להשתמש בתנך כאמצעי להוכחת בעלותנו על הארץ	סמי אלקיים	samirina @ nana.co.il	\N
+tokxot/messages/odot_1.html	\N	2008-07-08 06:54:12	2008-07-08 06:54:12	tokxot/messages/odot_1_1.html	תגובה על: תולדות האתר	טובה		\N
+tokxot/emt/mlm.html	\N	2008-08-21 03:06:14	2008-08-21 03:06:14	http://cafe.themarker.com/view.php?t=97202	ניתוח של חברת אגל	אורי טל-טנא	קפה דמרקר	\N
+tokxot/emt/mlm.html	\N	2008-08-21 03:11:24	2008-08-21 03:11:24	http://mymoney.nana10.co.il/Article/?ArticleID=424589	ניתוח נוסף של חברת אגל	אסף אביר	נענע 10	\N
+tokxot/emt/mlm.html	\N	2008-08-21 03:30:25	2008-08-21 03:30:25	http://www.mlm-thetruth.com/5RedFlags-summary.htm	5 שאלות לשאול לפני שנכנסים לשיווק רשתי	Consumer Awareness Institute	Truth on MLM	\N
+tokxot/wikuxim/2.html	\N	2008-08-22 08:34:19	2008-08-22 08:34:19	tokxot/messages/wikuxim_2_4.html	תגובה על: עד מתי אתם פוסחים על שתי הסעיפים - סתירה	תגובה לסתירה מס' 1 כביכול		\N
+tokxot/wikuxim/0xlufot.html	\N	2008-08-22 11:43:15	2008-08-22 11:45:03	tokxot/messages/wikuxim_0xlufot_1.html	נושא חדש על: חלופות - העברת ביקורת על מעשה שאין לו חלופה	מאת סמי אלקיים		\N
+tokxot/messages/wikuxim_0xlufot_1.html	\N	2008-08-22 11:45:03	2008-08-22 11:45:03	tokxot/messages/wikuxim_0xlufot_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: חלופות - העברת ביקורת על מעשה שאין לו חלופה	מאת סמי אלקיים		\N

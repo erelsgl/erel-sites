@@ -1,0 +1,104 @@
+RewriteEngine ON
+RewriteOptions inherit
+
+Redirect Permanent /tnk1/daian http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
+Redirect Permanent /tnk1/daian1 http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
+
+RewriteRule ^xidon(.*)$ http://ipaper.co.il/cgi-bin/v.cgi?id=nachat&sp=3 [R]
+RewriteRule ^prq$ /tnk1/prqim/t0.htm [R]
+RewriteRule ^tnk1/find(.*)$ /tnk/find$1 [R]
+RewriteRule ^tnk1/(.*)$ /tnk1/$1 [R]
+RewriteRule ^ljon/dqduq_h([a-z]+).html$ /tnk1/ljon/dq/$1.html [R]
+
+Redirect Permanent /_script/findpsuq.php http://tora.us.fm/tnk/find.php
+Redirect Permanent /_script/find.php http://tora.us.fm/tnk/find.php
+
+Redirect Permanent /tnk1/ktuv/mjly/mj-24-07b.html http://tora.us.fm/tnk1/ktuv/mjly/mj-24-07.html
+
+Redirect Permanent /tnk1/tora/brejit/masy_avot_simn_lbnim.html http://www.yeshiva.org.il/midrash/shiur.asp?id=81
+Redirect Permanent /tnk1/nvir/jmuela/mamd_hmlk_bam.html http://www.yeshiva.org.il/midrash/shiur.asp?id=79
+Redirect Permanent /tnk1/tora/bmdbr/mfqd_bny_ysrel_bprjt_bmdbr.html http://www.yeshiva.org.il/midrash/shiur.asp?id=71
+Redirect Permanent /tnk1/tora/brejit/mi_mqbl_et_hbkora.html http://yeshiva.org.il/midrash/shiur.asp?id=81
+Redirect Permanent /tnk1/tora/jmot/jmotaw_jl_h1.html http://www.yeshiva.org.il/midrash/shiur.asp?id=112
+
+Redirect Permanent /tnk1/ktuv/mjly/acl.html http://tora.us.fm/tnk1/kma/qjrim1/acl.html
+Redirect Permanent /tnk1/ktuv/mjly/af_ki.html http://tora.us.fm/tnk1/kma/qjrim1/afki.html
+Redirect Permanent /tnk1/ktuv/mjly/lv_smx.html http://tora.us.fm/tnk1/ktuv/mjly/rux_nkea.html
+Redirect Permanent /tnk1/ktuv/mjly/lv.html http://tora.us.fm/tnk1/kma/qjrim1/lv.html
+Redirect Permanent /tnk1/ktuv/mjly/xsr_lv.html http://tora.us.fm/tnk1/kma/qjrim1/xsrlv.html
+Redirect Permanent /tnk1/ktuv/mjly/ewilim.html http://tora.us.fm/tnk1/kma/qjrim1/ewil.html
+Redirect Permanent /tnk1/ktuv/mjly/ksil.html http://tora.us.fm/tnk1/kma/qjrim1/ksil.html
+Redirect Permanent /tnk1/ktuv/mjly/ksilim.html http://tora.us.fm/tnk1/kma/qjrim1/ksil.html
+Redirect Permanent /tnk1/ktuv/mjly/lcim1.html http://tora.us.fm/tnk1/kma/qjrim1/lc.html
+Redirect Permanent /tnk1/kma/qjrim1/nisui1.html http://tora.us.fm/tryg/mcwa/424.html
+Redirect Permanent /klli/limud/emu.html http://tora.us.fm/tnk1/klli/limud/emu.html
+Redirect Permanent /tnk1/klli/jirim/od_yijma.html http://tora.us.fm/tnk1/prqim/t1133.htm#10
+Redirect Permanent /tnk1/msr/4oyv.html http://tora.us.fm/tryg/sug/erua-ecm_mlxma-nkry.html
+
+Redirect Permanent /tnk1/nvia/tryasr/yn-ayznbrg.html http://www.daat.ac.il/daat/tanach/trayasar/yona3.htm
+Redirect Permanent /tnk1/nvir/jmuelb/em_bt7.html http://tora.us.fm/tnk1/dmut/dmut/719.html
+
+Redirect Permanent /tnk1/nvia/yxzqel/hkruv.html http://www.daat.ac.il/daat/tanach/achronim/yehezkel7-4.htm
+Redirect Permanent /tnk1/nvia/yxzqel/htw.html http://www.daat.ac.il/daat/tanach/achronim/yehezkel7a-4.htm
+Redirect Permanent /tnk1/nvia/yxzqel/wefrs_knfi_alyk.html http://www.daat.ac.il/daat/tanach/achronim/yehezkel13-4.htm
+Redirect Permanent /tnk1/nvia/yxzqel/ahvt_hxte.html http://www.daat.ac.il/daat/tanach/achronim/yehezkel13a-4.htm
+Redirect Permanent /tnk1/nvia/yxzqel/yx-16-botim.html http://www.daat.ac.il/daat/tanach/achronim/yehezkel13b-4.htm
+
+Redirect Permanent /tnk1/kma/hvdlim1/pws-knan.doc http://tora.us.fm/tnk1/kma/hvdlim1/knan.html
+Redirect Permanent /tnk1/tora/brejit/mg-az.doc http://tora.us.fm/tnk1/tora/brejit/az.html
+Redirect Permanent /tnk1/tora/brejit/mg-az0.doc http://tora.us.fm/tnk1/tora/brejit/az.html
+Redirect Permanent /tnk1/messages/BN_HDD.doc http://tora.us.fm/tnk1/kma/hvdlim1/bn_hdd.html
+Redirect Permanent /tnk1/messages/BN_HDD0.doc http://tora.us.fm/tnk1/kma/hvdlim1/bn_hdd.html
+Redirect Permanent /tnk1/messages/NTELMH_HLKH_MMJH.doc http://tora.us.fm/tnk1/tora/hlka.html
+Redirect Permanent /tnk1/messages/NTELMH_HLKH_MMJH0.doc http://tora.us.fm/tnk1/tora/hlka.html
+Redirect Permanent /tnk1/messages/NTELMH_MMNW_HLKH_MJH.xls http://tora.us.fm/tnk1/tora/hlka.html
+Redirect Permanent /tnk1/messages/NTELMH_MMNW_HLKH_MJH0.xls http://tora.us.fm/tnk1/tora/hlka.html
+Redirect Permanent /tnk1/messages/TWSPT_LERK_JMWT_HMRGLYM.doc http://tora.us.fm/tnk1/messages/dmut_dmut_1341_0.html
+Redirect Permanent /tnk1/tora/dvrim/dm-28-tvla.doc http://tora.us.fm/tnk1/tora/dvrim/bq.html
+
+Redirect Permanent /tnk1/sofrim/hagay/BDGY_HKHNYM_BMQDJ.pdf http://tora.us.fm/tnk1/sofrim/hagay/BGDY_HKHNYM_BMQDJ.pdf
+
+Redirect Permanent /tnk1/tora/dvrim/dm-20-1018_e.html  http://tora.us.fm/tnk1/tora/dvrim/dm-20-1018.html?en
+Redirect Permanent /tnk1/tora/dvrim/dm-08-0614.html  http://tora.us.fm/tnk1/tora/dvrim/dm-08-0614a.html
+Redirect Permanent /tnk1/ktuv/mjly/gm_jnyhm.html http://tora.us.fm/tnk1/kma/qjrim1/gm2hm.html
+Redirect Permanent /tnk1/ktuv/mjly/tknun_bicua.html http://tora.us.fm/tnk1/ktuv/mjly/lv_xjv.html
+Redirect Permanent /tnk1/ktuv/mjly/mj-18-15.html http://tora.us.fm/tnk1/ktuv/mjly/xkma_bina_wguf.html
+
+
+Redirect Permanent /tnk1/tora/bmdbr/knisa_mmzrx_jrlo.html http://www.moreshet.co.il/web/shut/shut2.asp?id=14491
+Redirect Permanent /tnk1/tora/ayn_txt_ayn.html http://www.moreshet.co.il/web/shut/shut2.asp?id=7750
+Redirect Permanent /tnk1/nvir/jmuela/tfilt_xna.html http://www.moreshet.co.il/web/shut/shut2.asp?id=1080
+Redirect Permanent /tnk1/tora/dvrim/hsgt_qrqa.html http://hydepark.hevre.co.il/hydepark/topic.asp?topic_id=978101
+
+Redirect Permanent /tnk1/nvir/dwd_jrlo.html http://www.moreshet.co.il/web/shut/shut2.asp?id=4874
+Redirect Permanent /tnk1/tora/brejit/3ymim.html http://www.moreshet.co.il/web/shut/shut2.asp?id=4443
+Redirect Permanent /tnk1/kma/hvdlim2/4prqim.html http://www.daat.ac.il/daat/tanach/tora/arbaa.htm
+
+Redirect Permanent /tnk1/messages/7000.html http://tora.us.fm/tnk1/messages/7002.html
+Redirect Permanent /tnk1/messages/7001.html http://tora.us.fm/tnk1/messages/7002.html
+Redirect Permanent /tnk1/messages/7007.html http://tora.us.fm/tnk1/messages/7006.html
+Redirect Permanent /tnk1/messages/7008.html http://tora.us.fm/tnk1/messages/7006.html
+Redirect Permanent /tnk1/messages/7035.html http://tora.us.fm/tnk1/messages/7037.html
+Redirect Permanent /tnk1/messages/7046_0.html http://tora.us.fm/tnk1/messages/7046.html
+Redirect Permanent /tnk1/messages/7058.html http://tora.us.fm/tnk1/messages/7061.html
+Redirect Permanent /tnk1/messages/7075.html http://tora.us.fm/tnk1/tora/wyqra/tm01.html
+Redirect Permanent /tnk1/tora/dvrim/dm-08-0614.html http://tora.us.fm/tora/dvrim/dm-08-0614a.html
+
+Redirect Permanent /tnk1/klli/mdrjim/og.html http://www.biu.ac.il/JH/Parasha/chukath/kos.html
+
+Redirect Permanent /tnk1/ezor/jmot.html http://tora.us.fm/tnk1/messages/ezor_index_2.html
+
+Redirect Permanent /tnk1/tora/brejit/index.html http://tora.us.fm/tnk1/prqim/t01.htm
+Redirect Permanent /tnk1/tora/jmot/index.html http://tora.us.fm/tnk1/prqim/t02.htm
+Redirect Permanent /tnk1/tora/wyqra/index.html http://tora.us.fm/tnk1/prqim/t03.htm
+Redirect Permanent /tnk1/tora/bmdbr/index.html http://tora.us.fm/tnk1/prqim/t04.htm
+Redirect Permanent /tnk1/tora/dvrim/index.html http://tora.us.fm/tnk1/prqim/t05.htm
+
+Redirect Permanent /tnk1/jdl/hqdma.htm http://tora.us.fm/tnk1/jdl/hqdma.html
+Redirect Permanent /tnk1/kma/qjrim1/pilgj.html http://tora.us.fm/tnk1/kma/qjrim1/plgj.html
+
+
+RewriteRule ^go/(.*)$ /tnk1/go.php?page=$1 [R,L,NC]
+RewriteRule ^new/(.*)$ /tnk1/go.php?page=$1 [L,NC]
+
+########################################################################

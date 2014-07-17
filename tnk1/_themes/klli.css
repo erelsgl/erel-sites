@@ -1,0 +1,934 @@
+/*
+    style sheet for Bible navigation site: http://tora.us.fm/tnk1
+    (See also generic stylesheet: http://tora.us.fm/_script/klli.css)
+*/
+
+
+/* sizes - override http://tora.us.fm/_script/klli.css */
+
+
+/* colors and font styles */
+
+
+body {
+    background-image: url('forest5.jpg');
+    background-color: #21362f;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+a:link { color: #990033 }
+a:visited { color: #006633 }
+a:active, body a:hover { 
+	color: #ff6600; background:transparent;
+}
+
+
+
+/* logo */
+
+img.logo {
+    position:absolute; right:3em; top:2em; text-decoration:none; border:none
+}
+
+div.tt_jorjim ul li span { font-size: 0.8em }
+div.tt_jorjim ul li span.mbwa { font-size: 1em }
+span.mbwa { font-size: 1em }
+
+.none {line-height:0em; height:0; margin:0 0 0 0; padding:0 0 0 0; border-top: solid 0.25px;}
+
+
+div.pnim {
+	margin:1em; 
+	padding:1em;
+	background: #fff;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div {
+	background: #fff;
+	color: #000; 
+}
+td div {
+	background-color:transparent; 
+	color:#000066
+}
+h1, h2, h3 {
+	color: #006; 
+	background: #fff
+}
+
+div.NiwutElyon {
+    color:#000;
+    background-color:#eee;
+    text-align:right;  /* Lea Tzahor says it looks better... */
+    padding-right: 5em;
+}
+
+
+body.RTE {
+	color: #000066; background:white
+}
+
+h1 { color: #333399; text-align: center }
+h2 { color: #006633 }
+h3 { color: #996600 }
+h4 { color: #333399 }
+h5 { color: #006633 }
+h6 { color: #996600 }
+
+.dmyoni { color: #000066; background-color: #ff0000 }
+.logmur { color: #000066; background-color: #ffff00 }
+.lopursm { color: #000066; background-color: #ff8000 }
+
+em { color: #008800 }
+
+.versionlink a.lang {background:yellow}
+
+
+/* for documents of commentators (ShaDaL, MaLBIM) */
+
+body.jdl .NiwutElyon, body.mlbim .NiwutElyon {font-family:sans-serif}
+body.jdl .NiwutElyon a, body.mlbim .NiwutElyon a {margin:0}
+
+body.jdl div {
+	background-color:#8888ff
+}
+body.jdl div.pnim {
+	margin:1.5em
+}
+body.jdl b {font-size:larger}
+
+
+/* for collections and lists of articles */
+
+.InlineSublists {padding-left: 5ex; padding-right:5ex}
+.InlineSublists li a { font-weight: bold }
+.InlineSublists li span a { font-size: 0.8em; font-weight:normal }
+.InlineSublists li span.prq a { font-size: 0.7em; font-weight: normal }
+ 
+/* Looks bad in IE7
+body.tnk_ol div.pnim, body.tnk_ul div.pnim {
+	background:transparent;
+}
+*/
+
+body.tnk_ol div.pnim #visible_idfields, body.tnk_ul div.pnim #visible_idfields {
+	margin:0;
+}
+
+body.tnk_ol table td {
+	border:none;
+	vertical-align:top;
+}
+
+body.tnk_ol h2 {
+	clear:both;
+}
+
+.awsp_mpwrt li, body.tnk_ol ul li {
+	display:block; 
+	float:right; 
+	width:29%; margin:1%; padding:1%;
+	min-height:100px;
+	background-image: url('forest5_grass_bhir_bhir.jpg');
+	background-color: #dde2ce;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+	text-align:center;
+	vertical-align:middle;
+}
+.awsp_mpwrt ul li div.dor2 {
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+	background:white;
+}
+.awsp_mpwrt a {
+	font-weight: bold;
+	font-size:18px;
+}
+.awsp_mpwrt .dor2 a, .awsp_mpwrt .nkdim a {
+	font-weight: normal;
+	font-size:12px;
+}
+.awsp_mpwrt .dor2 a {
+	display:list-item;
+	list-style-type:none;
+}
+.awsp_mpwrt li table {border: none}
+.awsp_mpwrt li span a {font-size: 0.8em; font-weight:normal}
+.awsp_mpwrt img {margin-bottom:-0.5ex}
+
+div.txtit {clear:both}
+
+
+
+
+
+
+
+
+
+/* for documents whose main content is a table */
+
+body.mbnh1 div#tokn td, body.mbnh2 div#tokn td {border:dashed 1px #00ff00}
+body.mbnh1 div#tokn table, body.mbnh2 div#tokn table {border:solid 1px #008800}
+
+body.hbdlym1 div#tokn td, body.hbdlym2 div#tokn td, body.htamh2 div#tokn td {border: dashed 1px silver}
+body.hbdlym1 div#tokn table, body.hbdlym2 div#tokn table, body.htamh2 div#tokn table {border: solid 1px teal}
+
+div.jorj { margin-left: 5ex; margin-right: 5ex }
+
+
+/* styles for the bible search results ("findpsuq.php") */
+
+body.findpsuq {font-size: 1.2em}
+body.findpsuq .versionselectors {display:none}
+body.findpsuq .formerversions {display:none}
+body.findpsuq .wikisource_format {margin: 0 60px 0 60px; padding:0 20px 20px 20px; border: 1px #888 dashed; font-size:x-small}
+body.findpsuq .wikisource_format textarea {font-size:x-small}
+
+span.subtitle {font-size: xx-small}
+
+/* styles for the article-index ("MPTX") */
+
+.mptx div.pnim div a {text-decoration:none}
+
+.mptx div {margin:1px; border-width:1px 10px 1px 10px}
+
+.mptx .ljwn_hmqra {border-color:#0000aa; border-style:solid}
+.mptx .mqwm_gyawgrpy_tnky, .mptx .mqwmwt_gyawgrpyym_tnkyym {border-color:#eeaa44; border-style:solid}
+.mptx .dmwt_mhtnk, .mptx .dmwywt_mhtnk {border-color: #ee44aa; border-style:solid}
+.mptx .awsp {border-color: #44aaee; border-style:solid}
+
+.mptx .spr { border-color: #88ff88; border-style:solid}
+.mptx .prjh_btnk { border-color: #88ff88; border-style:solid}
+.mptx .awsp_nwja { border-color: #88ff88; border-style:solid}
+
+.mptx .awsp_sgnwn { border-color: #44aaee; border-style:solid}
+.mptx .awsp_twspt { border-color: #44aaee; border-style:solid}
+
+
+/* for documents related to Biblical figures */
+
+/*
+body.dmwt .gbr { background: #ccffcc }
+body.dmwt .ajh { background: #ffcccc }
+body.dmwt, body.dmwywt, body.kll_dmwt, body.mnyeym2 { background: url(shadow.jpg) }
+*/
+
+/* for documents related to the Bible language */
+/*
+body.jwrj, body.jwrj1, body.jwrj2, body.ttjwrj, body.eljwrj_awt, body.eljwrj_sdr, body.rbjwrj, body.swg, body.dqdwq { background-image: url(root_kxolbhir.jpg) }
+body.hbdl, body.hgdrh { background-image: url(root_kxolbhir.jpg) }
+*/
+
+/* other special types of documents */
+
+body.la_gmwr {
+	background-image: url(jtil.gif);
+	padding: 0.5cm
+}
+
+body.pswq_dmywn, body.hpwk, body.ayn, body.symn {
+	background-image: url(ein_knisa.gif)
+}
+a.tblh, a.magr {background: #cccc44}
+a.la_pwrsm {background: #ffcc00}
+body.la_pwrsm {background: #ffbb00; padding: 0.5cm}
+a.psuq {font-size:10px}
+
+/*
+body.azwr, body.kll_azwr {
+	background-image: url(israel_sat.jpg) 
+}
+
+body.awsp_twspt {background: url(future_city_big.jpg)}
+*/
+
+a.cywr img {float:none; margin:10px}
+/*
+body.mbnh1, body.mbnh2 {
+	background-image:url(green_castle.jpg)
+}
+*/
+
+body.jyr {
+	background-image:url(tw.gif);
+}
+
+span.awt, span.mylh, span.mwpjf, span.ecm, span.kly, span.xyh, span.pwel, span.twar, span.hgdrh {font-weight:bold}
+
+/* see, for example, http://tora.us.fm/tnk1/nvia/yrmyhu/yr-02.html */
+
+.jura0 {background-color: #ffffff}
+.jura1 {background-color: #eeeeee}
+.jura2 {background-color: #dddddd}
+.jura3 {background-color: #cccccc}
+.jura4 {background-color: #bbbbbb}
+.tur1 {color: #880000}
+.tur2 {color: #008800}
+
+
+/* old styles - for backwards compatibility */
+
+.prq { font-weight: bolder; font-size: larger }
+.milon { color: maroon; text-indent: 10%; font-style: italic }
+.barur { font-size: larger; line-height: 200% }
+.mcwwt {font-weight: bold; border-bottom: solid 0.1px; text-align:center}
+
+body {text-align:right}
+
+
+
+
+
+/* styles for Shlomit Egozi's articles */
+
+.jlwmyt p {
+    width:70%;
+    text-align:justify;
+}
+
+.jlwmyt h2 {
+    color:black;
+}
+
+
+
+
+
+
+/* for documents related to entire books of the Bible */
+
+/*body.spr, body.sfr { background-image: url(books3_yroq.jpg) }
+.spr li span a, .sfr li span a { font-size: 0.8em }*/
+
+/*
+body.kll_spr { 
+	background-image: url(books3_yroq.jpg);
+}
+*/
+
+body.tnk_sfr {
+    background-image: url('forest5_grass_bhir_bhir.jpg');
+    background-color: #dde2ce;
+}
+
+
+/************ index.html styles ***********/
+
+body.index div.pnim, body.tnk_sfr div.pnim {
+    margin-left:0;
+    margin-right:0
+}
+
+body.index, body.find h2 {
+    text-align:center;
+}
+
+body.index h1, body.find h1 {
+	margin:0 0 6px 0; padding:0;
+}
+
+body.find h1 img { 
+	border:none 
+}
+
+body div.level0 {
+    text-align:right;
+}
+
+body.index h1, body.index h2, body.index div,
+body.find h1, body.find h2, body.find div,
+body.tnk_sfr h1, body.tnk_sfr h2, body.tnk_sfr div {
+    background-color:transparent;
+}
+
+div#top {
+	font-size:14px;
+}
+div#top, div#results, div.level0, div.level1 {
+	background:transparent; 
+}
+
+div#top div.side, div#top form, div#tips, div#results div, div.level1 div.level1pnim, body.index div.txtit {
+	/*background-image:url('forest5_bhir_bhir.jpg');
+	background-color:#c8d2c9;*/
+  background-color:white;
+}
+
+
+body div.level1 {
+    z-index:20;
+    font-size:15px;
+}
+
+    body.index div.level1 ul {
+        list-style-type: none;
+        padding:0;
+        margin:0;
+    }
+
+    div.level1 ul li {
+        padding:0;
+        margin:0;
+    }
+
+
+div.level1 div.dor2 {
+    background-image: url('forest5_grass_bhir_bhir.jpg');
+    background-color: #dde2ce;
+    z-index:10;
+    font-size:15px;
+}
+
+    body div.level1 div.dor2 a {
+        text-decoration:none;
+        font-size:0.9em;
+        display:list-item;
+    }
+
+        body.index div.level1 div.dor2 ul li {
+            border-bottom: solid 1px #4c0;
+        }
+
+        body.index div.level1 div.dor2 ul li a {
+            display:inline;  /* for forum topics and times... */
+            line-height:100%;
+        }
+
+    body.tnk_sfr div.dor2 a.prq {
+        display:inline;
+        font-size:2em;
+        font-weight:bold;
+        text-decoration:underline;
+    }
+
+
+        body.tnk_sfr ul#ulbnim {
+            list-style-type:none;
+            padding:0;
+            margin:0;
+            margin-left:1em;
+        }
+
+        /* http://css.maxdesign.com.au/listutorial/08.htm */
+        body.tnk_sfr ul#ulbnim a.dor1 {
+            display:block;
+            padding-right:3.5em;
+            margin-top:0.5em;
+            background-position: 100% 0em;
+            background-repeat:no-repeat;
+            background-image:url(mamr.gif);
+        }
+
+        body.tnk_sfr ul#ulbnim a.kll { background-image:url(kll.gif); }
+        body.tnk_sfr ul#ulbnim a.hgdrh { background-image:url(kll.gif); }
+        body.tnk_sfr ul#ulbnim a.mamr { background-image:url(mamr.gif); }
+        body.tnk_sfr ul#ulbnim a.mjxq { background-image:url(games.gif); }
+        body.tnk_sfr ul#ulbnim a.srf { background-image:url(srt.gif); }
+        body.tnk_sfr ul#ulbnim a.mamr_dmywny { background-image:url(ein_knisa.gif); }
+        body.tnk_sfr ul#ulbnim a.hbdlym { background-image:url(hvdlim.gif); }
+        body.tnk_sfr ul#ulbnim a.mbnh { background-image:url(mvne.gif); }
+        body.tnk_sfr ul#ulbnim a.sypwr { background-image:url(storybook.gif); }
+        body.tnk_sfr ul#ulbnim a.jyr { background-image:url(tw.gif); }
+        body.tnk_sfr ul#ulbnim a.cywr { background-image:url(cyur.jpg); }
+        body.tnk_sfr ul#ulbnim a.mamr_la_gmwr { background-image:url(jtil.gif); }
+        body.tnk_sfr ul#ulbnim a.mamr_jla_pwrsm { background-image:url(jtil.gif); }
+
+        body.tnk_sfr ul#ulbnim div.dor2 a { background-image:none }
+
+        /*body ul#ulbnim div.dor2 a,*/
+        body ul#ulsfrim div.dor2 a {
+            display:list-item;
+            list-style-type:disc;
+            font-size:1em;
+            font-weight:normal;
+            text-decoration:none;
+        }
+
+
+body.index div.level1 a.dor1:hover {
+    background-image: url('forest5_grass_bhir_bhir.jpg');
+    background-color: #dde2ce;
+    width:300px;
+    display:block;
+    margin-right:-100px;
+    padding-right:100px;
+}
+
+body.index div.dor2 a:hover {
+    margin-right:0;
+    padding-right:0;
+    background:transparent;
+    width:100%;
+}
+
+* html body.index div.level1 a.dor1:hover {
+    display:inline;
+    width:100%;   /* because IE does strange things in hover mode... */
+}
+
+
+
+
+/******* index.html widths and layouts ********/
+
+div.right {float:right}
+div.left  {float:left}
+div.center {float:none; text-align:center}
+
+body.index, body.find {
+	padding:0 1% 0 1%;
+}
+
+div#top, div#results, div#tips, div.level0 {
+	padding: 10px 1% 10px 1%;
+	width:98%;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div#tips {
+	padding: 0;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div#top div, div#results div {
+	margin:auto;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div#top form {
+	margin:auto;
+	padding:6px 0 3px 0;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div#top div.center {
+	width:44%;
+	padding:10px 1% 10px 1%;
+	margin:auto;
+}
+div#top div.side {
+	width:21%;
+	margin:0 1% 0 1%;
+	padding:10px 1% 10px 1%;
+}
+
+
+div#top div.center img {
+	width:98%;
+}
+div#top div.center input#find {
+	width:60%;
+	padding:2px;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+div#results {
+	margin:10px 0 10px 0
+}
+div#results div {
+	padding:0px
+}
+
+
+/* the middle section of the index page */
+body.index div.level0 {
+	position:relative;
+	height:1010px;
+	margin:10px 0% 20px 0%;
+}
+
+/* the left and right sections */
+body.index div.level1 {
+	height:350px;
+	width:29%;
+	padding:0px 0% 20px 0%;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+}
+
+body.index div.level1pnim, body.index div.txtit, body.index div#whatsnew_textia, body.index div#whatsnew_prjot div.news div {
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+	padding:10px 1% 10px 1%;
+}
+
+/* the middle "whatsnew" section */
+body.index div.level1 div.dor2 {
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+
+	position:absolute;
+	top:20px;
+	height:1060px;
+
+	right:30%;  /* this should be 1%+ the width of level1 above */
+	width:38%; /* this plus 2 times the width of level1 above should be about 96%, to leave room for margins */
+
+	padding:0px 1% 0px 1%;
+}
+
+
+
+
+
+
+/* widths and layouts for IE 6 - 800px is 100% */
+
+* html div#top, * html div#results, * html div#tips, * html div.level0 {
+	padding: 10px 8px 10px 8px;
+	width:784px;
+}
+
+* html div.level0 {
+    margin:10px 0 20px 0;
+}
+
+* html div#top div.center {
+	width:336px; 
+	padding: 10px 8px 10px 8px;
+}
+* html div#top div.side {
+	width:168px;
+	margin:0 8px 0 8px;
+	padding: 10px 8px 10px 8px;
+}
+* html div#top div.center input#find {
+	width:200px; /* < 60% of 352px */
+}
+
+* html body.index div.level1 {
+	width:224px;
+}
+
+/* the middle "whatsnew" section */
+* html body.index div.level1 div.dor2 {
+	right:240px;
+	width:304px;
+	padding:0 8px 0 8px;
+}
+
+/*
+*/
+
+
+
+/* widths and layouts - sfrim */
+
+body.tnk_sfr div.level1 {
+    height:760px;
+    width:30%;
+    padding:20px 2% 20px 2%;
+}
+
+body.tnk_sfr div.level1 div.dor2 {
+    position:absolute;
+    top:160px;
+    height:540px;
+
+    right:38%;
+    width:20%;
+
+    padding:0 2% 0 2%;
+
+    vertical-align:middle;
+}
+
+/* because IE calculates the width differently... */
+
+* html body.tnk_sfr div.level1 {
+    width:240px;
+    padding:20px 16px 20px 16px;
+}
+
+* html body.tnk_sfr div.level1 div.dor2 {
+    right:304px;
+    width:160px;
+    padding:0 16px 0 16px;
+}
+
+
+
+
+/* prqim */
+
+body.prq {
+   font-family: "Liberation Sans", sans-serif;
+   background: url(../_themes/books3_yroq.jpg) white;
+}
+body.prq div.pnim {
+  margin:1.5em;
+}
+body.prq p, body.prq div, body.prq h1, body.prq h2, body.prq h3, body.prq a {
+  background:white
+}
+
+body.prq p, body.prq div p {font-size:28pt;text-align:justify}
+body.prq p a, body.prq div a {font-size:12pt; font-style:italic}
+
+body.prq p.r {font-size:165%;text-align:right;}
+body.prq p.m {font-size:120%;text-align:justify;}
+body.prq p.s {font-size:small;text-align:justify;}
+
+body.prq tr {font-size:135%;}
+
+body.prq h1 {font-size:32pt}
+body.prq h2 {font-size:26pt;}
+body.prq h3 {font-size:22pt;}
+body.prq big {font-size:120%;}
+body.prq small {font-size:80%;}
+
+body.prq a:link       { color: #990033 }
+body.prq a:visited    { color: #006633 }
+body.prq a:active, body.prq a:hover     { color: #ff6600 }
+body.prq a img {border:0pt}
+
+body.prq a.qijur_lgrsa {font-size: x-small; background-color: transparent; padding: 1ex}
+body.prq a.qijur_lgrsa:link       { color: #990033 }
+body.prq a.qijur_lgrsa:visited    { color: #006633 }
+body.prq a.qijur_lgrsa:active, body.prq a.qijur_lgrsa:hover     { color: #ff6600 }
+
+body.prq a.mila {background-color: transparent; text-decoration: none; font-size: 100%; font-style:normal}
+body.prq a.mila:link, a.mila:visited {color:#336666}
+body.prq a.mila:active, a.mila:hover     { color: #ff6600 }
+
+body.prq .la_pwrsm {background-color: orange}
+
+body.prq div.kisuy {border: dotted white}
+body.prq .txtit {font-size: x-small; border-top:solid 1pt}
+body.prq .edited {border:dashed 1pt}
+
+
+body.prq .NiwutElyon { 
+  TEXT-ALIGN: center;
+  FONT-FAMILY: monospace;
+  FONT-SIZE: small;
+  PADDING-top: 1ex;
+  PADDING-bottom: 1ex;
+  BORDER-top: 2pt ridge;
+  BORDER-bottom: 2pt ridge;
+}
+body.prq .NiwutElyon .NiwutElyon { BORDER: none; PADDING: 0px; MARGIN: 0px;  }
+
+
+
+body#tnk1_sig_dyun1 div#tokn a,
+body#tnk1_sig_tokn1 div#tokn a,
+body#tnk1_sig_tokn2 div#tokn a,
+body#tnk1_sig_kllljon div#tokn a
+{
+    display:list-item;
+}
+
+
+/*body.tnk_ol ol li,*/
+body.mcwa ol li,
+body.mcwot ol li,
+body.mcwot0 ol li,
+body.mcwot1 ol li,
+body.mcwot_ecm ol li,
+body.mcwot_erua ol li,
+body.mcwot_rcon ol li,
+body.mcwot_sdr ol li,
+body.tokxot0 ol li,
+body.tokxot1 ol li,
+body.tokxot2 ol li,
+.TableSublists ol li,
+table {
+    clear:both;
+}
+
+/*body.tnk_ol div.dor2,*/
+body.mcwa div.dor2,
+body.mcwot div.dor2,
+body.mcwot0 div.dor2,
+body.mcwot1 div.dor2,
+body.mcwot_ecm div.dor2,
+body.mcwot_erua div.dor2,
+body.mcwot_rcon div.dor2,
+body.mcwot_sdr div.dor2,
+body.tokxot0 div.dor2,
+body.tokxot1 div.dor2,
+body.tokxot2 div.dor2,
+.TableSublists div.dor2 {
+    width:400px;
+}
+
+/*body.tnk_ol div.dor2 a,*/
+body.mcwa div.dor2 a,
+body.mcwot div.dor2 a,
+body.mcwot0 div.dor2 a,
+body.mcwot1 div.dor2 a,
+body.mcwot_ecm div.dor2 a,
+body.mcwot_erua div.dor2 a,
+body.mcwot_rcon div.dor2 a,
+body.mcwot_sdr div.dor2 a,
+body.tokxot0 div.dor2 a,
+body.tokxot1 div.dor2 a,
+body.tokxot2 div.dor2 a,
+.TableSublists div.dor2 a {
+    font-size:0.7em;
+    width:150px;
+    float:right;
+    border:solid 1px;
+    text-decoration:none;
+}
+
+
+table.milim_mjorj td, table.mamrim_mjorj td {
+    border:none;
+    padding:20px;
+}
+
+table.milim_mjorj col, table.mamrim_mjorj col {
+    width:50%;
+}
+
+.amnon {
+    font-size:0.7em;
+    background: #aef;
+   
+}
+
+/* For Google Friend Connect */
+.content-cell {
+    text-align:right;
+    direction:rtl;
+}
+
+.post-layout-table-alt {
+    text-align:right;
+    direction:rtl;
+}
+
+
+div#buttonGroup {margin-right:50%; margin-left:0; font-size:14px}
+
+
+#whatsnew img {height:48px; width:64px; margin:auto}
+#whatsnew img.author {height:24px; width:24px; margin:auto}
+
+/* textia_whatsnew on main page - copied from quest/world/world.css */
+
+#whatsnew_textia, #whatsnew_prjot div.news div {
+	height:auto; border:solid 1px #004; 
+
+	/*background-image:url('forest5_bhir_bhir.jpg');
+	background-color:#c8d2c9;*/
+  background-color:white;
+}
+
+#whatsnew_textia .news .text {font-size:13px}
+#whatsnew_textia .news img.gfc_thumbnail {height:24px; width:24px}
+#whatsnew_textia .news img.treasure {height:20px; width:20px}
+
+p.more {text-align:left; font-size:13px; margin:0; padding:0; font-style:italic}
+
+.news {padding:1px 1px 1px 1px;  background:#fff;}
+.news a {text-decoration:none}
+.news table {width:100%}
+.news td {vertical-align:middle; border:none}
+.news img.gfc_thumbnail {height:48px; width:48px}
+.news td.user {padding:1px 0 1px 0; margin:0}
+.news td.user a#link {text-decoration:none;border:none}
+.news .text {font-size:20px}
+.news td.text {padding:0 10px 0 0; margin:0}
+.news .time {font-size:12px}
+.news td.time {padding:0 10px 0 0; margin:0}
+.news div.time {text-align:left}
+.news h1 {text-align:center; font-size:18px; margin:0 0 12px 0}
+
+.sgulot_logo {
+	position:absolute; 
+	top:0; 
+	left:0;
+}
+
+.sgulot_logo img {
+	width:100px;
+	height:160px;
+}
+
+.tnk_jorj li div.dor2 {
+	display:inline;
+}
+
+.tnk_jorj .milim_mjorj li span {
+	font-weight: bold;
+}
+
+.tnk_jorj .milim_mjorj li div.dor2 span {
+	font-weight: normal;
+}
+
+div.daian {
+	width:100%;
+	padding:25px 0 25px 0;
+	background: url('daian90.jpg') no-repeat;
+	text-align:center;
+	vertical-align:middle;
+}
+
+body.find q {
+	font-family: sans-serif;
+}
+
+
+/* make quotations look the same in IE and other browsers */
+q:before {content: no-open-quote}
+q:after {content: no-close-quote}
+
+
+q { 
+	font-size:1.2em;  color: #800; 
+	/* font-size:1.2em; color: #800; */
+}
+
+q { 
+	font-family: 'Liberation Serif', serif; 
+}
+
+/* psuq */
+q.psuq { 
+	color: #008; 
+	/* color: #008; */
+}
+
+/* mfrj */
+q.mfrj { 
+	color: #080; font-style:italic; 
+	/* color: #080; font-style:italic; */
+}
+
+textarea, input { font-family: 'Courier', monospace; font-size: 12pt } /* for easier text entry */
+
+table.inner_navigation { width:100%; background-color:#cfc; border:#080 solid;}
+	table.inner_navigation td { border:none; }
+	table.inner_navigation a { text-decoration: none; }
+		table.inner_navigation td.previous {text-align: right; width:33%;}
+		table.inner_navigation td.current {text-align: center; width:33%;}
+		table.inner_navigation td.next {text-align: left; width:33%;}
+
+

@@ -1,0 +1,113 @@
+@media print {
+  .page {page-break-inside: avoid; background:white; }
+  .long {page-break-inside: avoid; background:white; }
+}
+
+body { font-family: "David CLM", "Liberation Sans"; }
+
+.page {
+  width: 19cm; 
+  margin:0 0 1mm 0; border: solid 2px black; 
+  overflow:auto; text-align:justify; border-radius: 20px; 
+  background:white;
+}
+.single_height { max-height: 27.7cm; background:white; }
+.double_height { max-height: 55.4cm; background:white; }
+
+.verse { background:#eee; text-align:center; background:white; }
+	.verse_text {font-size: 28px; font-weight: 900; letter-spacing: 1px; text-align:center; } 
+	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
+.short { border-top: dashed 1px black; font-size: 16px; background:white; }
+	.tirgum { padding: 0.1cm; }
+.long  { display: table; border-top: dashed 1px black; background:white; }
+	.long h3  { font-size: 14px; font-weight: bold; line-height:100%; margin: 12px 0 6px 0;}
+	.dquyot { font-size: 14px; }
+	.hqblot { font-size: 14px; }
+	.ecot   { font-size: 14px; }
+	.subtitle { border-bottom: dotted #fff 1px; font-size: 8px; text-align:center; margin:0; padding:0; line-height:100%; font-weight:normal; }
+	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm -2mm; }
+	.long .cell { 
+		padding: 2mm;
+		background-repeat: no-repeat;
+		background-position: top right; 
+		background-size: 20px 20px; 
+		border-left:dotted 1px #888; border-right:dotted 1px #888;
+	}
+	.long .cell table { border-collapse: collapse; }
+	.long .cell table td { border: solid 1px #888; }
+	.longcell { display: table-cell; min-width:20ex; }
+	.longright { float:right; width:5cm; border-bottom: dotted 1px #888; margin-left:0.2cm; }
+	.longleft  { float:left;  width:5cm; border-bottom: dotted 1px #888; margin-right:0.2cm; }
+	.longbig  {  }
+		.paint {
+			font-size: 24px; font-style: italic; text-align:center; background-color:#eee;
+			height: auto; border-top: dashed 1px black; padding: 1em; vertical-align:middle;
+		}
+	.copyright {text-align:center; border-top:dashed 1px #888; font-size:10px; margin-top:6px; }
+		.copyright td {vertical-align:middle; padding:6px;}
+		.copyright img {  }
+
+.gate {text-align:center;}
+.gate .verse .verse_text { font-size: 96px; }
+.gate .short { font-size:34px; }
+.gate .long, .gate .long .dquyot, .gate .long .hqblot, .gate .long .ecot {font-size:23px;}
+.gate .long .subtitle {font-size:24px; font-weight:bold;}
+.gate .longcell {min-width:0; }
+.gate .copyright {font-size:14px;}
+.gate .imgsubtitle { width:40px; height:40px; }
+.gate { margin: 5cm 0 5cm 0; }
+
+img.blessing {
+  width: 17cm; 
+  height: 24cm;
+  margin: 1.5cm 0;
+}
+
+p {margin:6px 0 0 0; padding:0}
+td {vertical-align:top}
+
+
+ul {margin:0 0 0 0;}
+ul li {margin:0 -2em 0 0;}
+
+
+table { border-collapse:collapse; }
+
+
+body.tirgum .page {height:auto}
+table.tirgum td { border-style:dotted; border-color:#888; border-width: 1px 0; padding:0 6px; }
+	table.tirgum .verse_text {font-size: 15px; text-align:right; border-left:1px dashed}
+	table.tirgum .verse_number { padding:0; margin:0; letter-spacing:0; font-size:10px; text-align:center; border-right:1px dashed; }
+	table.tirgum .tirgum     {font-size: 15px}
+	table.tirgum th     {text-align:center;}
+
+/* 19 = 4.8 + 0.2 + 7*2 */
+/* 27.6 = 4.8 + 0.2 + 11.6*2 */
+body.tirgum .page {width: 19cm; }
+body.tirgum td.verse_text {width: 4.8cm;}
+body.tirgum td.verse_number {width: 0.2cm;}
+body.tirgum td.tirgum     {width: 7cm;}
+
+
+q, .verse_text { font-family: "Times New Roman", "Liberation Serif"; }
+q.psuq { color: #008; }
+q.mfrj { color: #080; font-style:italic; }
+
+/* make quotations look the same in IE and other browsers */
+q:before {content: no-open-quote}
+q:after {content: no-close-quote}
+
+a.psuq {text-decoration:none; font-size:9px; }
+small {font-size:9px;}
+
+p.future, span.future, .future {	font-size:6px; background-color:#ccc; display:none; }
+
+/* http://stackoverflow.com/questions/11536806/html-columns-whose-width-automatically-changes-according-to-their-content/11734054?iemail=1#11734054 */
+.autowidth {visibility:hidden;height:0;} 
+.autowidth * {display:inline;}
+
+.autowidth1 {display:none;}
+
+
+
+

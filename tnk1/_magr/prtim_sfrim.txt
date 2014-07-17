@@ -1,0 +1,47 @@
+כתובים	כתובים	ספר	tnk_sfr	prqim/ktuv.html				2003-04-18
+מגילות	מגילות	ספר	tnk_sfr	prqim/ktuv_mgilot.html				2003-04-18
+נביאים אחרונים	נביאים אחרונים	ספר	tnk_sfr	prqim/nvia.html				2003-04-18
+תרי-עשר	תרי-עשר	ספר	tnk_sfr	prqim/nvia_tryasr.html				2003-04-18
+נביאים ראשונים	נביאים ראשונים	ספר	tnk_sfr	prqim/nvir.html				2003-04-18
+ספרי התנך	ספרי התנ"ך, פרקיהם, פסוקיהם, ומאמרים שמסבירים עליהם	ספר	tnk_ul	prqim/t0.htm				2003-02-20
+בראשית	בראשית	ספר	tnk_sfr	prqim/t01.htm				2003-04-17
+שמות	שמות	ספר	tnk_sfr	prqim/t02.htm				2003-04-17
+ויקרא	ויקרא	ספר	tnk_sfr	prqim/t03.htm				2003-04-17
+במדבר	במדבר	ספר	tnk_sfr	prqim/t04.htm				2003-04-17
+דברים	דברים	ספר	tnk_sfr	prqim/t05.htm				2003-04-17
+יהושע	יהושע	ספר	tnk_sfr	prqim/t06.htm				2003-04-17
+שופטים	שופטים	ספר	tnk_sfr	prqim/t07.htm				2003-04-17
+שמואל א	שמואל א	ספר	tnk_sfr	prqim/t08a.htm				2003-04-17
+שמואל ב	שמואל ב	ספר	tnk_sfr	prqim/t08b.htm				2003-04-17
+מלכים א	מלכים א	ספר	tnk_sfr	prqim/t09a.htm				2003-04-17
+מלכים ב	מלכים ב	ספר	tnk_sfr	prqim/t09b.htm				2003-04-17
+ישעיהו	ישעיהו	ספר	tnk_sfr	prqim/t10.htm				2003-04-17
+ירמיהו	ירמיהו	ספר	tnk_sfr	prqim/t11.htm				2003-04-17
+יחזקאל	יחזקאל	ספר	tnk_sfr	prqim/t12.htm				2003-04-17
+הושע	הושע	ספר	tnk_sfr	prqim/t13.htm				2003-04-17
+יואל	יואל	ספר	tnk_sfr	prqim/t14.htm				2003-04-17
+עמוס	עמוס	ספר	tnk_sfr	prqim/t15.htm				2003-04-17
+עובדיה	עובדיה	ספר	tnk_sfr	prqim/t16.htm				2003-04-17
+יונה	יונה	ספר	tnk_sfr	prqim/t17.htm				2003-04-17
+מיכה	מיכה	ספר	tnk_sfr	prqim/t18.htm				2003-04-17
+נחום	נחום	ספר	tnk_sfr	prqim/t19.htm				2003-04-17
+חבקוק	חבקוק	ספר	tnk_sfr	prqim/t20.htm				2003-04-17
+צפניה	צפניה	ספר	tnk_sfr	prqim/t21.htm				2003-04-17
+חגי	חגי	ספר	tnk_sfr	prqim/t22.htm				2003-04-17
+זכריה	זכריה	ספר	tnk_sfr	prqim/t23.htm				2003-04-17
+מלאכי	מלאכי	ספר	tnk_sfr	prqim/t24.htm				2003-04-17
+דברי הימים א	דברי הימים א	ספר	tnk_sfr	prqim/t25a.htm				2003-04-17
+דברי הימים ב	דברי הימים ב	ספר	tnk_sfr	prqim/t25b.htm				2003-04-17
+תהלים	תהלים	ספר	tnk_sfr	prqim/t26.htm				2003-04-17
+איוב	איוב	ספר	tnk_sfr	prqim/t27.htm				2003-04-17
+משלי	משלי	ספר	tnk_sfr	prqim/t28.htm				2003-04-17
+רות	רות	ספר	tnk_sfr	prqim/t29.htm				2003-04-17
+שיר השירים	שיר השירים	ספר	tnk_sfr	prqim/t30.htm				2003-04-17
+קהלת	קהלת	ספר	tnk_sfr	prqim/t31.htm				2003-04-17
+איכה	איכה	ספר	tnk_sfr	prqim/t32.htm				2003-04-17
+אסתר	אסתר	ספר	tnk_sfr	prqim/t33.htm				2003-04-17
+דניאל	דניאל	ספר	tnk_sfr	prqim/t34.htm				2003-04-17
+עזרא	עזרא	ספר	tnk_sfr	prqim/t35a.htm				2003-04-17
+נחמיה	נחמיה	ספר	tnk_sfr	prqim/t35b.htm				2003-04-17
+תורה	תורה	ספר	tnk_sfr	prqim/tora.html				2003-04-18
+0	0	0		index.html				0000-00-00

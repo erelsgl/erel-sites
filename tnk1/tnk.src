@@ -1,0 +1,36 @@
+# Plug-in for searching regular expressions in the Hebrew Bible
+# Created: 15.12.2005
+### Updated: 07.5.2006  - moved to a PHP search engine
+#
+# Author:  Erel Segal
+# Email:   tnksrc@tora.us.fm
+
+
+<search 
+   version="7.1"
+   name="Hebrew Bible RegExp"
+   description="Hebrew Bible (Tanakh) Regular Expression Search"
+   action="http://www.tora.us.fm/_script/findpsuq.php"
+   searchForm="http://www.tora.us.fm/tnk1"
+   method="GET"
+   queryCharset="windows-1255"
+>
+<input name="sourceid" value="Mozilla-search">
+<input name="erk" user>
+<input name="mslul" value="tnk1/psuqim_gross.csv">
+
+<interpret 
+    browserResultType="result" 
+    charset = "windows-1255"
+    resultListStart="<!--a-->" 
+    resultListEnd="<!--z-->" 
+    resultItemStart="<!--m-->" 
+    resultItemEnd="<!--n-->"
+>
+</search>
+
+<browser
+   update="http://mycroft.mozdev.org/update.php/id0/tnk.src"
+   updateIcon="http://mycroft.mozdev.org/update.php/id0/tnk.png"
+   updateCheckDays=7
+>

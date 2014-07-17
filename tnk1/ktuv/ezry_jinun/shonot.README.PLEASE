@@ -1,0 +1,49 @@
+These are the files in this directory:
+
+[NEW]	yrujlym-jli.rtf -- an article by David & [sent by Sigaliya].
+
+	madbeqiot.exe -- files for preparing stickers ("madbeqiot") with verses from
+	Sefer Mishlei. Written according to an idea of Roni Avikam from Haifa:
+		md-mjly.rtf -- 33 stickers, ready for printing. To create the stickers 
+			you should buy a special A4 sticker-paper (available at Mikhlol), with
+			36 stickers (12 rows * 3 columns). Then you should put it into your 
+			printer in the correct direction and print the file. (Note: the last 
+			row of the page is not used -- that's why there are only 33 stickers).
+		md0-mjly.rtf -- a "main-file" for creating new stickers. If you want
+			to create new stickers you should load this file and operate,
+			from the main menu:
+				/Tools/Mail-Merge
+				[/KELIM/MIZUG-DOAR in Hebrew]
+			and then follow the instructions. 
+			You will need an "address-book" ("SEFER KTOVOT"), which is actually 
+			the file where the verses themselves are written. An example of 
+			such file is:
+		sk-mjly.rtf -- a sample "address-book" for creating stickers. The fields in 
+			this address book are:
+				Mila1, Mila2, Mila3 -- the first half of the verse;
+				Mila4, Mila5, Mila6 -- the second half (printed one line below);
+				(Mila2 and Mila5 are printed in boldface).
+				Maqor -- the capital&verse-number
+				Miqqum -- where the sticker can be put.
+
+	tmj.exe -- Thilim, Mishley, Job. Contains the following files (written by Amos Azaria
+	from Moshav Beth Gamliel):
+		Thilim1.rtf, Thilim2,rtf -- Thilim1 contains the 1st half of each 
+			verse from the "Chomer", and Thilim2 contains the 2nd half of
+			each pasuq. To use these files, you should print
+			the file Thilim1.rtf, and then take the papers and insert 
+			them again into the printer in the correct direction (that
+			depends on the printer), and then print the file 
+			Thilim2.rtf. If you succeed, you'll have papers printed 
+			on both sides, such that the 1st half is written on one side
+			and the 2nd half is written on the other side. Then you can
+			cut each verse and use it to test yourself. You can also
+			invent a game that uses these "cards" (tell me if you have 
+			any idea for a game...).
+		Mishley1.rtf, Mishley2.rtf -- the same, with verses from Sefer Mishley.
+		Job1.rtf, Job2.rtf -- the same, with verses from Sefer Iyov.
+
+	mashov.rtf -- a feedback page that should be filled by the pupils
+		at the end of the preparation camp.
+
+		

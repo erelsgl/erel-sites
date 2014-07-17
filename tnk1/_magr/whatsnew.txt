@@ -1,0 +1,555 @@
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 00:25:05
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 00:25:20
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 00:25:33
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 00:26:27
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 01:06:52
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 01:16:53
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 01:17:42
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 01:21:57
+tokxot/messages/odot_4.html	ניסיון	rewrite	אראל	2006-11-05 01:22:48
+tokxot/messages/odot_4.html	ניסיון	delete	אראל	2006-11-05 01:23:51
+tokxot/messages/odot_5.html	בדיקה	create	אראל	2006-11-05 01:29:45
+tokxot/messages/odot_6.html	בדיקה	create	אראל	2006-11-05 01:32:12
+tokxot/odot.html	בדיקה	add reply link	אראל	2006-11-05 01:32:12
+tokxot/messages/odot_6.html		delete	אראל	2006-11-05 01:38:42
+tokxot/messages/odot_6.html	בדיקה	delete	אראל	2006-11-05 01:39:32
+tokxot/messages/odot_5.html	בדיקה	delete	אראל	2006-11-05 01:40:00
+tokxot/messages/odot_5.html	בדיקה	delete	אראל	2006-11-05 01:40:30
+tokxot/messages/odot_6.html	בדיקה	delete	אראל	2006-11-05 01:40:47
+tokxot/messages/odot_6.html	בדיקה	delete	אראל	2006-11-05 01:42:27
+tokxot/messages/odot_6.html	בדיקה	delete	אראל	2006-11-05 01:46:24
+tokxot/messages/odot_7.html	מאמר חדש על: ניסיון	create	אראל	2006-11-05 01:47:22
+tokxot/odot.html	אודות האתר למחאות מקוריות	add reply link	אראל	2006-11-05 01:47:23
+tokxot/messages/odot_8.html	מאמר חדש על: ניסיון	create	אראל	2006-11-05 01:48:10
+tokxot/odot.html	אודות האתר למחאות מקוריות	add reply link	אראל	2006-11-05 01:48:11
+tokxot/messages/odot_7.html	מאמר חדש על: ניסיון	delete	אראל	2006-11-05 01:51:38
+tokxot/messages/odot_7.html	מאמר חדש על: ניסיון	delete	אראל	2006-11-05 01:52:08
+tokxot/messages/odot_8.html	מאמר חדש על: ניסיון	delete	אראל	2006-11-05 01:52:28
+tnk1/messages/odot_10.html	מצב האתר	rewrite	אראל	2006-11-05 02:45:37
+tnk1/messages/odot_10.html	מצב האתר	rewrite	אראל	2006-11-05 02:46:57
+tnk1/messages/odot_10.html	מצב האתר	rewrite	אראל	2006-11-05 02:48:27
+tnk1/messages/odot_10.html	מצב האתר	rewrite	אראל	2006-11-05 02:49:10
+tnk1/messages/dmut_dmut_263_0_0.html	תגובה על: שושלת הכהנים הגדולים מזרע אהרן	rewrite	אראל	2006-11-05 02:52:59
+tnk1/messages/dmut_dmut_263_0_0_0.html	תגובה על: תגובה על: שושלת הכהנים הגדולים מזרע אהרן	rewrite	אראל	2006-11-05 02:56:47
+tnk1/messages/ktuv_mgilot_qh-07-07_0_0.html	אז מה הקשר בין הפסוק הזה לבין הפסוקים הקודמים?	rewrite	אראל	2006-11-05 02:57:27
+tnk1/messages/ktuv_mgilot_qh-07-07_0_0.html	אז מה הקשר בין הפסוק הזה לבין הפסוקים הקודמים?	rewrite	אראל	2006-11-05 02:57:37
+tnk1/tora/brejit/br-09-2027.html	חם חטא וכנען נענש	rewrite	אראל	2006-11-05 02:58:26
+tnk1/messages/tora_brejit_br-09-2027_0_0.html	שאלה על: תגובה על: חם חטא וכנען נענש	create	יהודה	2006-11-05 07:21:57
+tnk1/messages/tora_brejit_br-09-2027_0.html	תגובה על: חם חטא וכנען נענש	add reply link	יהודה	2006-11-05 07:22:02
+tnk1/messages/tora_brejit_br-09-2027_0_0_0.html	תגובה על: שאלה על: תגובה על: חם חטא וכנען נענש	create	רמי ניר	2006-11-05 07:53:23
+tnk1/messages/tora_brejit_br-09-2027_0_0.html	שאלה על: תגובה על: חם חטא וכנען נענש	add reply link	רמי ניר	2006-11-05 07:53:26
+tnk1/messages/ljon_jorj_rhh_0.html	שאלה על: רהה	rewrite	אראל	2006-11-05 08:05:10
+tnk1/messages/ljon_jorj_rhh_0.html	שאלה על: רהה	rewrite	אראל	2006-11-05 08:07:04
+tnk1/messages/ljon_jorj_rhh_0.html	שאלה על: רהה	rewrite	אראל	2006-11-05 08:07:59
+tnk1/messages/ljon_jorj_rhh_0.html	שאלה על: רהה	rewrite	אראל	2006-11-05 08:09:38
+tnk1/messages/ljon_jorj_rhh_0_0.html	תגובה על: שאלה על: רהה	delete	אראל	2006-11-05 08:10:05
+tnk1/kma/hvdlim1/kas1.html	האם זה טוב להיות עם אנשים שכועסים?	rewrite	אראל	2006-11-05 08:31:26
+tnk1/kma/qjrim1/amud.html	הגדרה: עמוד = דבר שעומדים עליו	rewrite	אראל	2006-11-05 08:57:04
+tryg/messages/mamr_4minim_0.html	גזכמנמ   נמעכמימ עכמ ציעצמ	delete	אראל	2006-11-05 11:32:12
+tryg/ribit0/gmx_hsbr.html	ארגונים להלוואה בלי ריבית - הסבר	rewrite	אראל	2006-11-06 01:02:29
+tokxot/messages/odot_9.html	ניסיון 2	create		2006-11-06 01:14:11
+tokxot/odot.html	אודות האתר למחאות מקוריות	add reply link		2006-11-06 01:14:12
+tokxot/messages/odot_9.html	ניסיון 2	delete	אראל	2006-11-06 01:30:26
+tnk1/messages/tora_brejit_br-09-2027_1.html	תגובה על: חם חטא וכנען נענש	create	אביתר כהן	2006-11-06 03:03:08
+tnk1/tora/brejit/br-09-2027.html	חם חטא וכנען נענש	add reply link	אביתר כהן	2006-11-06 03:03:11
+tnk1/messages/tora_brejit_br-09-2027_1_0.html	אראל , הסיסמא האישית שלי לא נקלטת.. אז לא יכולתי לערוך..	create	אביתר כהן	2006-11-06 03:13:04
+tnk1/messages/tora_brejit_br-09-2027_1.html	תגובה על: חם חטא וכנען נענש	add reply link	אביתר כהן	2006-11-06 03:13:10
+tryg/mamr/musr326.html	מצוה בין אדם למקום, הבאה בעבירה בין אדם לחבירו	add external link		2006-11-06 04:23:47
+tnk1/messages/tora_brejit_br-09-2027_2.html	תגובה על: חם חטא וכנען נענש	create	רמי ניר	2006-11-06 06:49:57
+tnk1/tora/brejit/br-09-2027.html	חם חטא וכנען נענש	add reply link	רמי ניר	2006-11-06 06:50:17
+tnk1/messages/tora_brejit_br-09-2027_1_0_0.html	אני עובד על זה...	create	אראל	2006-11-06 13:13:18
+tnk1/messages/tora_brejit_br-09-2027_1_0.html	אראל , הסיסמא האישית שלי לא נקלטת.. אז לא יכולתי לערוך..	add reply link	אראל	2006-11-06 13:13:22
+tokxot/odot.html	אודות האתר למחאות מקוריות	rewrite	מוטי	2006-11-06 15:19:31
+tokxot/odot.html	אודות האתר למחאות מקוריות	rewrite	מוטי	2006-11-06 15:20:30
+tnk1/messages/msr_1xsd_1.html	תגובה על: חסדי ה	create	מוטי 1	2006-11-06 15:46:12
+tnk1/msr/1xsd.html	חסדי ה	add reply link	מוטי 1	2006-11-06 15:46:15
+tnk1/messages/msr_1xsd_1.html	תגובה על: חסדי ה	delete	אראל	2006-11-06 15:46:36
+doar/tryg/ribit0/hani77.html	חני ביטון 2	rewrite	אראל	2006-11-06 16:48:01
+doar/tryg/ribit0/hani77.html	חני ביטון 2	rewrite	אראל	2006-11-06 16:48:18
+/.html	ורד גרימברג	create	אראל	2006-11-06 16:49:29
+doar/tryg/ribit0.html	הלוואות בלי ריבית	add reply link	אראל	2006-11-06 16:49:29
+doar/tryg/ribit0/vered.html	ורד גרימברג מנצרת	create	אראל	2006-11-06 16:53:15
+doar/tryg/ribit0.html	הלוואות בלי ריבית	add reply link	אראל	2006-11-06 16:53:15
+doar/tryg/ribit0/inbal.html	ענבל - היתר עסקא	rewrite	אראל	2006-11-06 17:00:04
+doar/tryg/ribit0/abikhzer.html	אביכזר - הורדה מהמאגר	create	אראל	2006-11-06 17:01:03
+doar/tryg/ribit0.html	הלוואות בלי ריבית	add reply link	אראל	2006-11-06 17:01:03
+doar/tryg/ribit0/y.html	שושנה חן - כתבה	rewrite	אראל	2006-11-06 17:01:47
+doar/tryg/ribit0/parinss.html	סיגל (סיסי) מקרית ביאליק	create	אראל	2006-11-06 17:03:08
+doar/tryg/ribit0.html	הלוואות בלי ריבית	add reply link	אראל	2006-11-06 17:03:08
+doar/tryg/ribit0/parinss.html	סיגל (סיסי) מקרית ביאליק	rewrite	אראל	2006-11-06 17:14:21
+doar/tryg/ribit0/parinss.html	סיגל (סיסי) מקרית ביאליק	rewrite	אראל	2006-11-06 17:15:49
+tryg/mamr/tora_sfrim.html	חנויות לספרי קודש ברשת	add external link		2006-11-06 23:21:46
+tnk1/messages/prqim_t11_1.html	נושא חדש על: ירמיהו	rewrite	ניסיון	2006-11-07 00:51:36
+~nachat/messages/a_178.html	דרכי הגעה לשבת נח"ת	create		2006-11-07 13:41:22
+~nachat/a.html	נושאים חדשים	add reply link		2006-11-07 13:41:24
+tnk1/messages/dmut_dmut_98_0.html	נושא חדש על: אברהם - מתי אברם התגורר בגרר	create	רמי ניר	2006-11-07 22:05:39
+tnk1/dmut/dmut/98.html	אברהם	add reply link	רמי ניר	2006-11-07 22:05:44
+tnk1/messages/dmut_dmut_324_0.html	נושא חדש על: תיעוד "ע?ין מ?ש??פ??ט ה?יא ק?ד?ש?" במסע כדרלעמר	create	רמי ניר	2006-11-08 11:53:56
+tnk1/dmut/dmut/324.html	כדרלעמר	add reply link	רמי ניר	2006-11-08 11:53:59
+tnk1/messages/ljon_jorj_ejn_0.html	תימרות עשן	create	אביתר כהן	2006-11-09 06:35:15
+tnk1/ljon/jorj/ejn.html	עשנ	add reply link	אביתר כהן	2006-11-09 06:35:22
+tnk1/messages/nvia_tryasr_xg-01_0.html	תגובה על: מבצע ההסברה לבניין המקדש	create	רמי ניר	2006-11-09 06:35:45
+tnk1/nvia/tryasr/xg-01.html	מבצע ההסברה לבניין המקדש	add reply link	רמי ניר	2006-11-09 06:35:48
+tnk1/messages/ljon_jorj_ejn_0.html	תימרות עשן	rewrite	אביתר כהן	2006-11-09 06:45:50
+tnk1/messages/sig_mvne2_4.html	מאמר חדש על: מבנה2 - מבנה וסדר של פרשות	create	יוסף פריאל	2006-11-09 08:31:33
+tnk1/sig/mvne2.html	מבנה2 - מבנה וסדר של פרשות	add reply link	יוסף פריאל	2006-11-09 08:31:37
+tnk1/messages/ljon_jorj_ejn_0_0.html	תגובה על: תימרות עשן - בין מעיין אתם ומדבר שור	create	רמי ניר	2006-11-09 11:24:59
+tnk1/messages/ljon_jorj_ejn_0.html	תימרות עשן	add reply link	רמי ניר	2006-11-09 11:25:02
+erelsgl/will.html	צוואה	rewrite	אראל	2006-11-10 03:24:18
+tnk1/klli/mdrjim/rlbg.html	עיונים בחכמת הרלב"ג	create	אראל	2006-11-10 03:51:37
+tnk1/sofrim/bezra/index.html	ספרים של דר אברהם בן עזרא	add reply link	אראל	2006-11-10 03:51:39
+tnk1/klli/mdrjim/rlbg.html	עיונים בחכמת הרלב"ג	rewrite	אראל	2006-11-10 03:54:04
+tnk1/klli/mdrjim/rlbg.html	עיונים בחכמת הרלבג	add external link	אראל	2006-11-10 03:56:25
+tnk1/klli/mdrjim/rlbg.html	עיונים בחכמת הרלב"ג	rewrite	אראל	2006-11-10 03:57:26
+tnk1/klli/mdrjim/rlbg.html	עיונים בחכמת הרלבג	add external link	אראל	2006-11-10 03:59:35
+tnk1/messages/tora_brejit_tarikim11_3.html	תגובה על: תאריכים מנוח עד אברהם	delete	אראל	2006-11-11 12:38:38
+tnk1/kma/qjrim1/onj_krt.html	עונש כרת	rewrite	אראל	2006-11-11 12:56:35
+tnk1/messages/tora_brejit_tarikim11_2.html	תגובה: תאריכים מנוח עד אברהם	rewrite	אראל	2006-11-11 12:57:22
+tokxot/messages/ezrxut_index_0_0.html	מאבק בביטוח לאומי	rewrite	אראל	2006-11-11 13:01:08
+tnk1/messages/kma_qjrim2_yciat_mcrym_1.html	מאמר חדש על: יציאת מצרים ממעיין למעיין 41 חנייות	create	רמי ניר	2006-11-11 13:28:39
+tnk1/kma/qjrim2/yciat_mcrym.html	יציאת מצרים - כל המאמרים	add reply link	רמי ניר	2006-11-11 13:28:51
+tnk1/messages/kma_qjrim2_yciat_mcrym_1_0.html	שיר על: מאמר חדש על: יציאת מצרים ממעיין למעיין 41 חנייות	create	רמי ניר	2006-11-12 07:47:18
+tnk1/messages/kma_qjrim2_yciat_mcrym_1.html	מאמר חדש על: יציאת מצרים ממעיין למעיין 41 חנייות	add reply link	רמי ניר	2006-11-12 07:47:29
+tryg/ribit0/bnq.html	בנק ריבית 0	rewrite	אראל	2006-11-12 13:06:54
+tryg/ribit0/lenyym.html	הלואה בלי ריבית לעניים	rewrite	אראל	2006-11-12 13:10:36
+tryg/ribit0/lenyym.html	הלואה בלי ריבית לעניים	rewrite	אראל	2006-11-12 13:13:06
+tryg/ribit0/lenyym.html	הלואה בלי ריבית לעניים	rewrite	אראל	2006-11-12 13:13:19
+tryg/ribit0/lenyym.html	הלואה בלי ריבית לעניים	rewrite	אראל	2006-11-12 13:18:15
+tryg/ribit0/msa.html	המסע שלי לקיום מצוות הלואה בלי ריבית	rewrite	אראל	2006-11-12 13:19:49
+tryg/ribit0/msa.html	המסע שלי לקיום מצוות הלואה בלי ריבית	rewrite	אראל	2006-11-12 13:20:15
+tnk1/messages/sofrim_index_2.html	אשר על המשכן - תכניות ממוחשבות של המשכן וכליו ובגדי הקודש	add external link	רפאל ב"ר אשר חגבי	2006-11-13 06:06:54
+tnk1/messages/sofrim_index_2_1.html	תגובה על: אשר על המשכן - תכניות ממוחשבות של המשכן וכליו ובגדי הקודש	create	רמי ניר	2006-11-13 07:23:37
+tnk1/messages/sofrim_index_2.html	אשר על המשכן - תכניות ממוחשבות של המשכן וכליו ובגדי הקודש	add reply link	רמי ניר	2006-11-13 07:23:45
+tnk1/messages/ktuv_mjly_zugotp_0.html	מקבילות בספר משלי	create	מוטי אהרוני	2006-11-13 08:58:48
+tnk1/ktuv/mjly/zugotp.html	זוגות של פסוקים מקבילים בספר משלי	add reply link	מוטי אהרוני	2006-11-13 08:58:56
+tnk1/messages/dmut_dmut_264_2.html	שיר על: כאבו של משה כי ידע את מחיר האחרית	create	רמי ניר	2006-11-13 10:28:45
+tnk1/dmut/dmut/264.html	משה	add reply link	רמי ניר	2006-11-13 10:28:53
+tnk1/messages/ktuv_thlim_th-92_0.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	create	אברהם שפיר	2006-11-14 02:37:02
+tnk1/ktuv/thlim/th-92.html	מה הקשר בין מזמור שיר לבין יום השבת?	add reply link	אברהם שפיר	2006-11-14 02:37:14
+tnk1/messages/ktuv_thlim_th-92_1.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	create	רמי ניר	2006-11-14 06:42:23
+tnk1/ktuv/thlim/th-92.html	îä ä÷ùø áéï îæîåø ùéø ìáéï éåí äùáú?	add reply link	øîé ðéø	2006-11-14 06:42:49
+tnk1/messages/ktuv_thlim_th-92_1_0.html	תגובה על: תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	create	רמי ניר	2006-11-14 09:18:28
+tnk1/messages/ktuv_thlim_th-92_1.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	add reply link	רמי ניר	2006-11-14 09:18:34
+tryg/messages/sug_erua_zmn_jbt_1.html	מאמר חדש על: כל 7 ימים - שבת	create	רמי ניר	2006-11-14 11:13:34
+tryg/sug/erua_zmn_jbt.html	כל 7 ימים - שבת	add reply link	רמי ניר	2006-11-14 11:13:34
+tnk1/messages/ktuv_thlim_th-92_0_0.html	תודה על ההפניה	create	אראל	2006-11-14 22:12:06
+tnk1/messages/ktuv_thlim_th-92_0.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	add reply link	אראל	2006-11-14 22:12:16
+tnk1/messages/dmut_dmut_1233_0.html	מאמר חדש על: נפלאות האחרית בנבואת מיכה	create	רמי ניר	2006-11-14 23:29:54
+tnk1/dmut/dmut/1233.html	îéëä	add reply link	øîé ðéø	2006-11-14 23:31:11
+tnk1/messages/dmut_dmut_1233_1.html	מאמר חדש על: נפלאות האחרית בנבואת מיכה	create	רמי ניר	2006-11-14 23:31:58
+tnk1/dmut/dmut/1233.html	מיכה	add reply link	רמי ניר	2006-11-14 23:32:12
+tnk1/messages/prqim_t08a09_0.html	שמואל א ט	create	מינוקה	2006-11-15 05:57:51
+tnk1/messages/prqim_t08a09_1.html	שמואל א ט	create	מינוקה	2006-11-15 05:59:21
+tnk1/messages/prqim_t08a09_1.html	שמואל א ט	delete	אראל	2006-11-16 07:21:24
+tnk1/messages/prqim_t08a09_0.html	שמואל א ט	delete	אראל	2006-11-16 07:21:44
+tnk1/messages/dmut_dmut_1233_0.html	מאמר חדש על: נפלאות האחרית בנבואת מיכה	delete	אראל	2006-11-16 07:22:24
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	create	רמי ניר	2006-11-16 21:57:01
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0.html	תגובה על: מניין השטרות	add reply link	רמי ניר	2006-11-16 21:57:10
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2.html	תגובה על: תגובה על: מניין השטרות	create	רמי ניר	2006-11-16 22:01:57
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0.html	תגובה על: מניין השטרות	add reply link	רמי ניר	2006-11-16 22:02:06
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_0.html	הודעה חשובה על: תגובה על: תגובה על: מניין השטרות	create	רמי ניר	2006-11-16 22:44:42
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2.html	תגובה על: תגובה על: מניין השטרות	add reply link	רמי ניר	2006-11-16 22:44:50
+tnk1/messages/ktuv_thlim_th-92_1.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	rewrite	אראל	2006-11-17 01:40:41
+tnk1/messages/ktuv_thlim_th-92_1_0.html	תגובה על: תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	delete	אראל	2006-11-17 01:41:03
+tnk1/messages/ktuv_thlim_th-92_1.html	תגובה על: מה הקשר בין מזמור שיר לבין יום השבת?	rewrite	אראל	2006-11-17 01:41:55
+tryg/messages/sug_rcon_herkh_0.html	תגובה בנושא: חורבן בית המקדש	create		2006-11-17 04:13:45
+tryg/sug/rcon_herkh.html	הערכה = נתינת ערך של עצם לאוצר המקדש	add reply link		2006-11-17 04:13:46
+tryg/messages/sug_rcon_herkh_0.html	תגובה בנושא: חורבן בית המקדש	delete	אראל	2006-11-17 05:13:42
+tnk1/ktuv/mjly/mj-31-0607.html	האם צריך לתת יין לעניים?	rewrite	אראל	2006-11-18 10:15:31
+tnk1/ktuv/mjly/mj-31-0607.html	האם צריך לתת יין לעניים?	rewrite	אראל	2006-11-18 10:15:57
+tnk1/ktuv/mjly/mj-31-0607.html	האם צריך לתת יין לעניים?	rewrite	אראל	2006-11-18 10:16:11
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_0_0.html	תגובה על: הודעה חשובה על: תגובה על: תגובה על: מניין השטרות	create	רמי ניר	2006-11-18 21:25:03
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_0.html	הודעה חשובה על: תגובה על: תגובה על: מניין השטרות	add reply link	רמי ניר	2006-11-18 21:25:11
+tnk1/messages/dmut_dmut_98_0.html	מתי אברם התגורר בגרר	rewrite	אראל	2006-11-18 23:14:07
+tnk1/messages/dmut_dmut_559_0.html	גרא = איטר	rewrite	אראל	2006-11-19 05:12:09
+tnk1/messages/ezor_index_2.html	איזורים שנקראו על-שם אירועים ("על כן קרא שמו")	rewrite	אראל	2006-11-19 05:22:30
+tnk1/messages/ezor_ToknLfiEzorYrujlym_2.html	תגובה על: "אבן השתייה" בירושלים	create	רמי ניר	2006-11-19 08:20:47
+tnk1/ezor/ToknLfiEzorYrujlym.html	אזורים - ירושלים	add reply link	רמי ניר	2006-11-19 08:21:01
+tnk1/messages/ezor_ToknLfiEzorEir_6.html	והדברים עתיקים	create	אביתר כהן	2006-11-19 08:43:29
+tnk1/ezor/ToknLfiEzorEir.html	אזורים - עיר	add reply link	אביתר כהן	2006-11-19 08:43:49
+tnk1/messages/ezor_ToknLfiEzorEir_6.html	והדברים עתיקים	rewrite	אביתר כהן	2006-11-19 09:09:20
+tnk1/messages/ezor_mqomot_mg04_0.html	תגובה על: ערים שנבנו כמה פעמים	create	רמי ניר	2006-11-19 09:35:41
+tnk1/ezor/mqomot/mg04.html	ערים שנבנו כמה פעמים	add reply link	רמי ניר	2006-11-19 09:35:57
+tnk1/msr/1.html	אמונה: עקרונות בהשקפת עולם ובקשר בין ה' לבינינו	rewrite	אראל	2006-11-20 03:33:47
+tnk1/messages/sig_mvne2_4.html	סמיכות הפרשיות בפרשת שלח, והקשר בין הציצית למרגלים בדרנ...	rewrite	אראל	2006-11-20 04:16:08
+tnk1/messages/sig_mvne2_4.html	סמיכות הפרשיות בפרשת שלח, והקשר בין הציצית למרגלים בדרנ...	rewrite	אראל	2006-11-20 04:28:12
+tnk1/messages/sofrim_rami_yx-4048_0.html	תגובה על: צורת בית המקדש העתידי על-פי חזונות יחזקאל	create	רמי ניר	2006-11-20 06:13:17
+tnk1/sofrim/rami/yx-4048.html	צורת בית המקדש העתידי על-פי חזונות יחזקאל	add reply link	רמי ניר	2006-11-20 06:13:24
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	create	מוטי אהרוני	2006-11-20 11:36:38
+tnk1/ezor/ToknLfiEzorEir.html	אזורים - עיר	add reply link	מוטי אהרוני	2006-11-20 11:36:45
+tryg/sug/ktybt_spr_twrh_prfy.html	כתיבת ספר תורה פרטי	add external link		2006-11-20 13:52:27
+tnk1/nvia/yjayhu/oc09.html	לשמוח כדי לעזור לאחרים	create	אראל	2006-11-20 15:11:31
+tnk1/prqim/t1049.htm	ישעיהו מט	add reply link	אראל	2006-11-20 15:11:33
+tnk1/nvia/yjayhu/oc09.html	לשמוח כדי לעזור לאחרים	rewrite	אראל	2006-11-20 15:12:52
+tnk1/nvia/yjayhu/yj-50-07.html	הבוטח בה' לא מתבייש להוכיח	create	אראל	2006-11-20 15:19:11
+tnk1/prqim/t1050.htm	ישעיהו נ	add reply link	אראל	2006-11-20 15:19:12
+tnk1/nvia/yjayhu/yj-50-07.html	הבוטח בה' לא מתבייש להוכיח	rewrite	אראל	2006-11-20 15:19:35
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	create	אראל	2006-11-20 15:36:11
+tnk1/prqim/t0516.htm	ãáøéí èæ	add reply link	àøàì	2006-11-20 15:36:41
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 15:37:52
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 15:38:06
+tnk1/sig/9jir.html	שיר - שירים על נושאים תנכיים	add external link	אראל	2006-11-20 15:41:20
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 15:50:23
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 15:55:51
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 15:56:53
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 16:08:35
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 16:09:18
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 16:09:55
+tnk1/tora/dvrim/dm-16-20.html	איך רודפים אחרי הצדק	rewrite	אראל	2006-11-20 16:11:28
+demo/messages/index_3.html	Test new article in English	create		2006-11-20 17:16:51
+demo/index.html	Demo site	add reply link		2006-11-20 17:16:51
+demo/messages/index_6.html	4minim	create		2006-11-20 17:19:02
+demo/index.html	Demo site	add reply link		2006-11-20 17:19:02
+demo/index.html	Demo site	add file link		2006-11-20 17:19:41
+demo/messages/index_6.html	4minim	delete	אראל	2006-11-20 17:22:10
+demo/index.html	Demo site	rewrite	אראל	2006-11-20 17:22:35
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1.html	תיקנתי את העלאת הקבצים	create	אראל	2006-11-20 17:28:19
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2.html	תגובה על: תגובה על: מניין השטרות	add reply link	אראל	2006-11-20 17:28:21
+tnk1/messages/nvia_yjayhu_yj-50-07_0.html	תגובה על: הבוטח בה לא מתבייש להוכיח	create	רמי ניר	2006-11-20 18:32:56
+tnk1/nvia/yjayhu/yj-50-07.html	הבוטח בה לא מתבייש להוכיח	add reply link	רמי ניר	2006-11-20 18:32:58
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1.html	תיקנתי את העלאת הקבצים	add file link	רמי ניר	2006-11-20 18:35:18
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1_0.html	תגובה על: תיקנתי את העלאת הקבצים	create	רמי ניר	2006-11-20 18:40:55
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1.html	תיקנתי את העלאת הקבצים	add reply link	רמי ניר	2006-11-20 18:40:57
+erelsgl/sis.html	סיסמאות	rewrite	אראל	2006-11-21 00:38:37
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	add file link	אראל	2006-11-21 00:41:56
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	add file link	אראל	2006-11-21 01:07:50
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	rewrite	אראל	2006-11-21 01:12:26
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0.html	תגובה על: מניין השטרות	rewrite	אראל	2006-11-21 01:13:07
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2.html	תגובה על: תגובה על: מניין השטרות	delete	אראל	2006-11-21 01:13:22
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	rewrite	אראל	2006-11-21 01:14:10
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_0.html	הודעה חשובה על: תגובה על: תגובה על: מניין השטרות	delete	אראל	2006-11-21 01:14:36
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	rewrite	אראל	2006-11-21 01:14:54
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_0_0.html	תגובה על: הודעה חשובה על: תגובה על: תגובה על: מניין השטרות	delete	אראל	2006-11-21 01:15:08
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	rewrite	אראל	2006-11-21 01:15:25
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1.html	תיקנתי את העלאת הקבצים	delete	אראל	2006-11-21 01:15:43
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_2_1_0.html	תגובה על: תיקנתי את העלאת הקבצים	delete	אראל	2006-11-21 01:15:59
+tnk1/messages/tora_jmot_mkot_1.html	עשרת המכות בספר תהילים	rewrite	אביתר כהן	2006-11-21 03:01:07
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1_0.html	תגובה על: נושא חדש על: תגובה על: מניין השטרות	create	רמי ניר	2006-11-21 04:11:39
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1.html	נושא חדש על: תגובה על: מניין השטרות	add reply link	רמי ניר	2006-11-21 04:11:41
+tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_1_0.html	תגובה על: נושא חדש על: תגובה על: מניין השטרות	add file link	רמי ניר	2006-11-21 04:15:00
+tnk1/messages/sofrim_rami_index_0.html	תגובה על: רמי ניר - שבר השלום והאמת	create	רמי ניר	2006-11-21 05:02:41
+tnk1/sofrim/rami/index.html	רמי ניר - שבר השלום והאמת	add reply link	רמי ניר	2006-11-21 05:02:43
+tnk1/nvir/jmuela/br31.html	איך להתמודד עם חשדות	create	אראל	2006-11-21 07:24:16
+tnk1/msr/3tokxot.html	העברת ביקורת - איך למתוח ביקורת?	add reply link	אראל	2006-11-21 07:24:24
+tnk1/nvir/jmuela/br31.html	איך להתמודד עם חשדות	rewrite	אראל	2006-11-21 07:27:14
+tnk1/msr/3tokxot.html	העברת ביקורת - איך למתוח ביקורת?	add external link	אראל	2006-11-21 07:28:25
+tnk1/dmut/dmut/1309.html	רות	add file link	רמי ניר	2006-11-21 07:31:37
+tnk1/ktuv/mjly/cdqa_tcil_mmwt.html	צדקה תציל ממוות	rewrite	אראל	2006-11-21 14:00:34
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 14:02:15
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 14:02:50
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 14:03:13
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 14:04:50
+tnk1/ktuv/mjly/mj-14-24.html	עטרת חכמים עשרם. איוולת כסילים איוולת.	rewrite	אראל	2006-11-21 14:08:13
+tnk1/ktuv/mjly/mj-25-19.html	למה לא כדאי לבגוד	rewrite	אראל	2006-11-21 14:17:35
+tnk1/ktuv/mjly/mj-25-19.html	למה לא כדאי לבגוד	rewrite	אראל	2006-11-21 14:19:54
+tnk1/ktuv/mjly/mj-25-19.html	למה לא כדאי לבגוד	rewrite	אראל	2006-11-21 14:20:21
+tnk1/ktuv/mjly/mj-25-19.html	למה לא כדאי לבגוד	rewrite	אראל	2006-11-21 14:20:52
+tnk1/ktuv/mjly/mj-19-22.html	עדיף לא להבטיח, מאשר להבטיח ולא לקיים	rewrite	אראל	2006-11-21 14:22:42
+tnk1/ktuv/mjly/mj-27-0102.html	תהילה אובייקטיבית	rewrite	אראל	2006-11-21 14:23:01
+tnk1/msr/0sod.html	שמירת סוד	rewrite	אראל	2006-11-21 14:23:58
+tnk1/msr/0sod.html	שמירת סוד	rewrite	אראל	2006-11-21 14:24:12
+tnk1/ktuv/mjly/mj-27-0710.html	לא לזלזל בידידות	rewrite	אראל	2006-11-21 14:57:26
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 14:59:41
+tnk1/kma/hvdlim1/et_kl_hon_beto.html	כסף לא יכול לקנות אהבה	rewrite	אראל	2006-11-21 15:04:46
+tnk1/kma/hvdlim1/et_kl_hon_beto.html	כסף לא יכול לקנות אהבה	rewrite	אראל	2006-11-21 15:05:00
+tnk1/kma/hvdlim1/et_kl_hon_beto.html	כסף לא יכול לקנות אהבה	rewrite	אראל	2006-11-21 15:05:56
+tnk1/ktuv/mjly/mj-14-24.html	עטרת חכמים עשרם. איוולת כסילים איוולת.	rewrite	אראל	2006-11-21 15:06:47
+tnk1/ktuv/mjly/ed_jqrim.html	עד שקרים, יפיח כזבים	rewrite	אראל	2006-11-21 15:11:16
+tnk1/msr/3hvtxot.html	הבטחות	add external link	אראל	2006-11-21 15:12:04
+tnk1/ktuv/mjly/yfix_kzvim.html	עדים שאינם מקיימים הבטחות	rewrite	אראל	2006-11-21 15:14:18
+tnk1/msr/3hvtxot.html	הבטחות	add external link	אראל	2006-11-21 15:14:35
+tnk1/ktuv/mjly/ed_jqrim.html	עד שקרים, יפיח כזבים	rewrite	אראל	2006-11-21 15:16:24
+tnk1/ktuv/mjly/ed_jqrim.html	עד שקרים, יפיח כזבים	rewrite	אראל	2006-11-21 15:18:30
+tnk1/ktuv/mjly/hon_ajir.html	הון עשיר קרית עוזו	rewrite	אראל	2006-11-21 15:19:50
+tnk1/ktuv/mjly/hon_ajir.html	הון עשיר קרית עוזו	rewrite	אראל	2006-11-21 15:20:22
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-21 15:21:51
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-21 15:22:06
+tnk1/ktuv/mjly/mj-23-0405.html	קשה להישאר עשיר	rewrite	אראל	2006-11-21 15:32:17
+tnk1/ktuv/mjly/mj-23-0405.html	קשה להישאר עשיר	rewrite	אראל	2006-11-21 15:32:35
+tnk1/messages/ktuv_mjly_yfix_kzvim_0.html	תגובה על: עדים שאינם מקיימים הבטחות	create	רמי ניר	2006-11-21 20:29:02
+tnk1/ktuv/mjly/yfix_kzvim.html	עדים שאינם מקיימים הבטחות	add reply link	רמי ניר	2006-11-21 20:29:04
+tnk1/messages/ktuv_mjly_ed_jqrim_0.html	תגובה על: עד שקרים, יפיח כזבים	create	רמי ניר	2006-11-21 21:00:28
+tnk1/ktuv/mjly/ed_jqrim.html	עד שקרים, יפיח כזבים	add reply link	רמי ניר	2006-11-21 21:00:36
+tnk1/ktuv/mjly/mj-23-0405.html	קשה להישאר עשיר	rewrite	אראל	2006-11-21 21:09:02
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:19:27
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:20:33
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:21:22
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:22:15
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:23:03
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:26:05
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-21 21:26:36
+tnk1/messages/sofrim_rami_index_0_0.html	תיקנתי את הקישור	create	אראל	2006-11-21 22:19:03
+tnk1/messages/sofrim_rami_index_0.html	תגובה על: רמי ניר - שבר השלום והאמת	add reply link	אראל	2006-11-21 22:19:07
+tnk1/messages/sofrim_rami_index_0_0.html	תיקנתי את הקישור	add file link	רמי ניר	2006-11-21 23:10:27
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:20:50
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:21:00
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:23:33
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:32:58
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:33:21
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:35:54
+tnk1/ktuv/mjly/xrf_oshu.html	מי שפוגע בעניים - מבזה את ה'	rewrite	אראל	2006-11-21 23:36:39
+tnk1/ktuv/mjly/oni.html	עוני בספר משלי	rewrite	אראל	2006-11-21 23:40:55
+tnk1/ktuv/mjly/dl_rj.html	דל מרעהו ייפרד - כל אחי רש שנאוהו	create	אראל	2006-11-21 23:41:00
+tnk1/ktuv/mjly/oni.html	עוני בספר משלי	add reply link	אראל	2006-11-21 23:41:05
+tnk1/ktuv/mjly/oni.html	עוני בספר משלי	rewrite	אראל	2006-11-21 23:42:03
+tnk1/kma/qjrim1/oni.html	לכל נצרך לפי צרכיו	rewrite	אראל	2006-11-21 23:43:36
+tnk1/ktuv/mjly/dl_rj.html	דל מרעהו ייפרד - כל אחי רש שנאוהו	rewrite	אראל	2006-11-21 23:47:00
+tnk1/ktuv/mjly/af_ki.html	קל וחומר בספר משלי	rewrite	אראל	2006-11-21 23:47:26
+tnk1/ktuv/mjly/dl_rj.html	דל מרעהו ייפרד - כל אחי רש שנאוהו	rewrite	אראל	2006-11-21 23:47:32
+tnk1/ktuv/mjly/af_ki.html	קל וחומר בספר משלי	rewrite	אראל	2006-11-21 23:50:05
+tnk1/ktuv/mjly/af_ki.html	קל וחומר בספר משלי	rewrite	אראל	2006-11-21 23:50:35
+tnk1/ktuv/mjly/dl_rj.html	דל מרעהו ייפרד - כל אחי רש שנאוהו	rewrite	אראל	2006-11-21 23:51:08
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-21 23:51:40
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:21:00
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-22 01:22:06
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-22 01:23:12
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:23:26
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:23:52
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:25:41
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:25:58
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:26:24
+tnk1/ktuv/mjly/mj-14-2021.html	זהירות מיחס שלילי למכרים העניים	create	אראל	2006-11-22 01:34:40
+tnk1/ktuv/mjly/oni.html	עוני בספר משלי	add reply link	אראל	2006-11-22 01:34:42
+tnk1/ktuv/mjly/mj-14-2021.html	זהירות מיחס שלילי למכרים העניים	rewrite	אראל	2006-11-22 01:35:42
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:35:50
+tnk1/ktuv/mjly/mj-19-07.html	כל אחי רש שנאוהו, אף כי מרעהו רחקו ממנו, מרדף אמרים לא/לו המה	rewrite	אראל	2006-11-22 01:36:07
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-22 01:37:17
+tnk1/ktuv/mjly/xvry_hksf.html	חברי הכסף	rewrite	אראל	2006-11-22 01:38:21
+tokxot/messages/thra_tvila_btva_1.html	שאלה על: טבילה בטבע English Title	create		2006-11-22 04:10:46
+tokxot/thra/tvila_btva.html	טבילה בטבע	add reply link		2006-11-22 04:10:47
+tnk1/messages/ktuv_mjly_mj-14-2021_0.html	תגובה על: זהירות מיחס שלילי למכרים העניים	create	רמי ניר	2006-11-22 04:51:51
+tnk1/ktuv/mjly/mj-14-2021.html	זהירות מיחס שלילי למכרים העניים	add reply link	רמי ניר	2006-11-22 04:51:53
+tnk1/messages/dmut_dmut_1436_0_1.html	תגובה על: קהלת בן דוד = הילד השני הוא אבשלום	create	רמי ניר	2006-11-22 06:57:30
+tnk1/messages/dmut_dmut_1436_0.html	קהלת בן דוד = החכמה שהוליד דוד ליום הקהל	add reply link	רמי ניר	2006-11-22 06:57:31
+tnk1/messages/dmut_dmut_1436_0_1_0.html	שאלה על: תגובה על: קהלת בן דוד = הילד השני הוא אבשלום	create	רמי ניר	2006-11-22 07:17:43
+tnk1/messages/dmut_dmut_1436_0_1.html	תגובה על: קהלת בן דוד = הילד השני הוא אבשלום	add reply link	רמי ניר	2006-11-22 07:17:45
+tnk1/messages/ktuv_mjly_ed_jqrim_0_0.html	נושא חדש על:איך שני עדי שקר חיסלו את נבות היזרעאלי	create	רמי ניר	2006-11-22 10:25:07
+tnk1/messages/ktuv_mjly_ed_jqrim_0.html	תגובה על: עד שקרים, יפיח כזבים	add reply link	רמי ניר	2006-11-22 10:25:09
+tnk1/tora/brejit/mgdlbvl.html	מגדל בבל (דור הפלגה) - כל המאמרים	add external link	נתנאל	2006-11-22 12:25:20
+tnk1/nvir/jmuela/br31.html	איך להתמודד עם חשדות	rewrite	אראל	2006-11-22 20:26:03
+tnk1/ktuv/mjly/mj-03-35.html	כבוד חכמים ינחלו, וכסילים מרים קלון	rewrite	אראל	2006-11-22 20:31:22
+tnk1/ktuv/mjly/mj-03-35.html	כבוד חכמים ינחלו, וכסילים מרים קלון	rewrite	אראל	2006-11-22 20:31:34
+tnk1/messages/dmut_dmut_600_0.html	מאמר חדש על: שמשון שפט 20 שנה חופף לימי שמואל	create	רמי ניר	2006-11-23 06:22:57
+tnk1/dmut/dmut/600.html	שמשון	add reply link	רמי ניר	2006-11-23 06:22:59
+tryg/messages/sug_cycyt_0.html	שאלה על: ציציות ופתילי-תכלת על כנפי הבגדים	create		2006-11-23 22:53:22
+tryg/sug/cycyt.html	ציציות ופתילי-תכלת על כנפי הבגדים	add reply link		2006-11-23 22:53:23
+tryg/messages/sug_cycyt_0.html	שאלה על: ציציות ופתילי-תכלת על כנפי הבגדים	add external link	אראל	2006-11-23 23:38:57
+tryg/messages/sug_cycyt_0.html	שאלה על: ציציות ופתילי-תכלת על כנפי הבגדים	rewrite	אראל	2006-11-23 23:40:09
+tnk1/messages/msr_3yojr_0.html	ויבז עשו את הבכורה = עשו ניסה לבזוז את הבכורה לאחר שמכר אותה	create	אראל	2006-11-24 01:59:45
+tnk1/msr/3yojr.html	יושר ואמת, התרחקות מרמאות, מאבק בשחיתות	add reply link	אראל	2006-11-24 01:59:47
+tnk1/messages/msr_3yojr_0.html	ויבז עשו את הבכורה = עשו ניסה לבזוז את הבכורה לאחר שמכר אותה	rewrite	אראל	2006-11-24 02:01:25
+tnk1/messages/msr_3yojr_0_0.html	תגובה על: ויבז עשו את הבכורה = עשו ניסה לבזוז את הבכורה לאחר שמכר אותה	create	רמי ניר	2006-11-24 03:05:43
+tnk1/messages/msr_3yojr_0.html	ויבז עשו את הבכורה = עשו ניסה לבזוז את הבכורה לאחר שמכר אותה	add reply link	רמי ניר	2006-11-24 03:05:45
+tnk1/dmut/dmut/1292.html	איוב	add file link	רמי ניר	2006-11-24 03:47:31
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	create	אראל	2006-11-25 08:38:42
+tnk1/msr/2nisuin.html	נישואין ומשפחה	add reply link	אראל	2006-11-25 08:38:43
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 08:44:40
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 08:45:43
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 08:49:23
+tnk1/kma/hvdlim1/et_kl_hon_beto.html	כסף לא יכול לקנות אהבה	rewrite	אראל	2006-11-25 08:50:06
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 08:50:27
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 08:58:49
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 09:03:44
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 09:09:44
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	rewrite	אראל	2006-11-25 09:12:26
+tnk1/messages/ktuv_mjly_mj-06-3435_0.html	תגובה על: היחס לנואף בספר משלי ובתורה	create	רמי ניר	2006-11-25 10:48:47
+tnk1/ktuv/mjly/mj-06-3435.html	היחס לנואף בספר משלי ובתורה	add reply link	רמי ניר	2006-11-25 10:48:49
+tnk1/messages/kma_qjrim2_yciat_mcrym_1.html	יציאת מצרים ממעיין למעיין 41 חנייות	add file link	רמי ניר	2006-11-25 11:45:59
+tnk1/messages/dmut_dmut_542_0.html	תגובה על: כלב והוא היה בן 85 שנה	create	רמי ניר	2006-11-25 23:13:23
+tnk1/dmut/dmut/542.html	כלב	add reply link	רמי ניר	2006-11-25 23:13:25
+tnk1/messages/ljon_jorj_ayl3_0.html	אייל = אנטילופה	create	אראל	2006-11-26 05:48:21
+tnk1/ljon/jorj/ayl3.html	איל3	add reply link	אראל	2006-11-26 05:48:28
+tnk1/tora/jmot/jm-07-23.html	ויפן פרעה ויבא אל ביתו ולא שת לבו גם לזאת	rewrite	אראל	2006-11-26 05:57:31
+tnk1/messages/tora_brejit_br-29-18_0.html	תגובה על: מדוע הציע יעקב ללבן לעבוד 7 שנים?	create	אראל	2006-11-26 06:04:14
+tnk1/tora/brejit/br-29-18.html	מדוע הציע יעקב ללבן לעבוד 7 שנים?	add reply link	אראל	2006-11-26 06:04:16
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:40:22
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:45:58
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:48:29
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:49:51
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:54:28
+tnk1/messages/ezor_ToknLfiEzorEir_7.html	נושא חדש על: אזורים - עיר -ערי הלוויים	rewrite	אראל	2006-11-26 06:54:50
+tnk1/messages/tora_brejit_br-29-18_0_0.html	תגובה על: תגובה על: מדוע הציע יעקב ללבן לעבוד 7 שנים?	create	רמי ניר	2006-11-26 07:09:20
+tnk1/messages/tora_brejit_br-29-18_0.html	תגובה על: מדוע הציע יעקב ללבן לעבוד 7 שנים?	add reply link	רמי ניר	2006-11-26 07:09:22
+tnk1/messages/ljon_jorj_ayl3_0_0.html	תגובה על: אייל = אנטילופה	create	רמי ניר	2006-11-26 07:31:21
+tnk1/messages/ljon_jorj_ayl3_0.html	אייל = אנטילופה	add reply link	רמי ניר	2006-11-26 07:31:22
+tnk1/messages/tora_brejit_br-29-18_0_0_0.html	איך אפשר לדעת את הגיל של נשי יעקב?	create	אראל	2006-11-26 10:36:57
+tnk1/messages/tora_brejit_br-29-18_0_0.html	תגובה על: תגובה על: מדוע הציע יעקב ללבן לעבוד 7 שנים?	add reply link	אראל	2006-11-26 10:36:59
+tnk1/messages/tora_brejit_br-29-18_0_0_0_0.html	תגובה על: איך אפשר לדעת את הגיל של נשי יעקב?	create	רמי ניר	2006-11-26 11:30:35
+tnk1/messages/tora_brejit_br-29-18_0_0_0.html	איך אפשר לדעת את הגיל של נשי יעקב?	add reply link	רמי ניר	2006-11-26 11:30:40
+tnk1/messages/tora_brejit_br-29-18_0_0_0_0_0.html	עדיין לא הבנתי	create	אראל	2006-11-26 22:54:34
+tnk1/messages/tora_brejit_br-29-18_0_0_0_0.html	תגובה על: איך אפשר לדעת את הגיל של נשי יעקב?	add reply link	אראל	2006-11-26 22:54:36
+tnk1/messages/tora_brejit_br-29-18_0_0_0_0_0_0.html	תגובה על: עדיין לא הבנתי	create	רמי ניר	2006-11-26 23:19:51
+tnk1/messages/tora_brejit_br-29-18_0_0_0_0_0.html	עדיין לא הבנתי	add reply link	רמי ניר	2006-11-26 23:19:52
+tnk1/sig/do1.html	חידות, משחקים ליחידים	add external link	אראל	2006-11-27 00:23:00
+tnk1/messages/ljon_jorj_cll_0.html	תגובה על: צלל, מהי הסיבה לכך שקיימים "צל" עם וללא דגש ב "צ"?	create	אריה בז	2006-11-27 02:48:05
+tnk1/ljon/jorj/cll.html	צלל	add reply link	אריה בז	2006-11-27 02:48:05
+demo/messages/index_7.html	new article: Demo site English Title	create		2006-11-27 04:01:46
+demo/index.html	Demo site	add reply link		2006-11-27 04:01:46
+demo/messages/index_7_0.html	תגובה על: new article: Demo site English Title English Title	create		2006-11-27 04:12:48
+demo/messages/index_7.html	new article: Demo site English Title	add reply link		2006-11-27 04:12:48
+tnk1/messages/dmut_ToknLfiDmutIja_1.html	תגובה על: נשים בתנ"ך ובתיה בת-פרעה - נעדרת מהרשימה	create	רמי ניר	2006-11-27 06:10:57
+tnk1/dmut/ToknLfiDmutIja.html	נשים	add reply link	רמי ניר	2006-11-27 06:10:57
+tnk1/messages/sig_do1_1.html	בקשר למשחק החדש "המילה הבאה"	create	אביתר כהן	2006-11-27 07:11:36
+tnk1/sig/do1.html	חידות, משחקים ליחידים	add reply link	אביתר כהן	2006-11-27 07:11:36
+tnk1/messages/dmut_ToknLfiDmutIja_1_0.html	העבדים והיוצאים ממצרים	create	אראל	2006-11-27 13:13:12
+tnk1/messages/dmut_ToknLfiDmutIja_1.html	תגובה על: נשים בתנך ובתיה בת-פרעה - נעדרת מהרשימה	add reply link	אראל	2006-11-27 13:13:12
+tnk1/messages/dmut_ToknLfiDmutIja_1_0_0.html	תגובה על: העבדים והיוצאים ממצרים	create	רמי ניר	2006-11-27 22:03:21
+tnk1/messages/dmut_ToknLfiDmutIja_1_0.html	העבדים והיוצאים ממצרים	add reply link	רמי ניר	2006-11-27 22:03:21
+tnk1/messages/dmut_ToknLfiDmutGvr_1.html	תגובה על: גברים	create	רמי ניר	2006-11-27 23:15:04
+tnk1/dmut/ToknLfiDmutGvr.html	גברים	add reply link	רמי ניר	2006-11-27 23:15:04
+tnk1/messages/dmut_ToknLfiDmutGvr_1_0.html	תגובה על: תגובה על: גברים	create	רמי ניר	2006-11-28 00:06:04
+tnk1/messages/dmut_ToknLfiDmutGvr_1.html	תגובה על: גברים	add reply link	רמי ניר	2006-11-28 00:06:08
+tnk1/messages/dmut_ToknLfiDmutGvr_1_0_0.html	הרשימה לא כוללת את נחמיה ודברי הימים...	create	אראל	2006-11-28 02:10:46
+tnk1/messages/dmut_ToknLfiDmutGvr_1_0.html	תגובה על: תגובה על: גברים	add reply link	אראל	2006-11-28 02:10:47
+tnk1/messages/dmut_ToknLfiDmutGvr_1_0_0_0.html	תגובה על: הרשימה לא כוללת את נחמיה ודברי הימים...	create	רמי ניר	2006-11-28 04:00:16
+tnk1/messages/dmut_ToknLfiDmutGvr_1_0_0.html	הרשימה לא כוללת את נחמיה ודברי הימים...	add reply link	רמי ניר	2006-11-28 04:00:16
+doar/messages/tryg_ribit0_0.html	נעמי צוובנר	create	אראל	2006-11-28 04:56:57
+doar/tryg/ribit0.html	הלוואות בלי ריבית	add reply link	אראל	2006-11-28 04:56:58
+tnk1/messages/prqim_t0108_0.html	ה' מחליט לא להעניש עוד את האנושות יחד עם שאר היקום	create	דוד אקסלרוד	2006-11-28 05:01:35
+tnk1/prqim/t0108.htm	בראשית ח	add reply link	דוד אקסלרוד	2006-11-28 05:01:36
+tnk1/messages/prqim_t0108_0_0.html	תגובה על: ה מחליט לא להעניש עוד את האנושות יחד עם שאר היקום	create	רמי ניר	2006-11-28 06:24:48
+tnk1/messages/prqim_t0108_0.html	ה מחליט לא להעניש עוד את האנושות יחד עם שאר היקום	add reply link	רמי ניר	2006-11-28 06:24:49
+tnk1/messages/sig_9jir_7.html	שיר על: נער השקד	create	רמי ניר	2006-11-28 21:07:01
+tnk1/sig/9jir.html	שיר - שירים על נושאים תנכיים	add reply link	רמי ניר	2006-11-28 21:07:01
+demo/index.html	Demo site	add file link	אראל	2006-11-29 05:53:50
+demo/index.html	Demo site	add file link	אראל	2006-11-29 05:54:56
+tnk1/kma/qjrim1/yqr.html	יקר = נכבד וחשוב	rewrite	אראל	2006-11-29 06:06:24
+tokxot/emt/mlm.html	הזדמנויות עסקיות - כסף קל על-חשבון תמימותם של אחרים	add external link		2006-11-29 06:47:58
+tnk1/messages/dmut_dmut_201_0.html	מאמר חדש על: אפרים "ויאמרו לו אמר נא שבלת ויאמר סבלת"	create	רמי ניר	2006-11-29 22:27:55
+tnk1/dmut/dmut/201.html	אפרים	add reply link	רמי ניר	2006-11-29 22:27:55
+tokxot/emt/mlm.html	"הזדמנויות עסקיות" - כסף קל על-חשבון תמימותם של אחרים	rewrite	אראל	2006-11-30 00:09:37
+tnk1/messages/prqim_t02_3.html	עין הרע ע"פ רש"י	rewrite	אראל	2006-11-30 05:12:36
+tnk1/messages/prqim_t02_3.html	עין הרע ע"פ רש"י	rewrite	אראל	2006-11-30 05:17:46
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0.html	תגובה על: במה חטאו ישראל בזמן המפקד	add external link	אראל	2006-11-30 05:22:34
+tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	המפקד בימי דוד	rewrite	אראל	2006-11-30 05:27:27
+tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	המפקד בימי דוד	rewrite	אראל	2006-11-30 05:29:13
+tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	המפקד בימי דוד	rewrite	אראל	2006-11-30 05:30:27
+tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	המפקד בימי דוד	rewrite	אראל	2006-11-30 05:52:39
+tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	המפקד בימי דוד	rewrite	אראל	2006-11-30 05:52:58
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0_1.html	למה חרה אף ה' בישראל	rewrite	אראל	2006-11-30 05:55:40
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0_1.html	למה חרה אף ה' בישראל	rewrite	אראל	2006-11-30 05:56:51
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0.html	תגובה על: במה חטאו ישראל בזמן המפקד	rewrite	אראל	2006-11-30 05:57:52
+tnk1/nvir/mlkima/ma-19-17.html	את מי המית אלישע?	rewrite	אראל	2006-11-30 05:58:51
+tnk1/kma/qjrim1/ayn.html	עין הרע = תחושת צער שנגרמת לאנשים מסויימים, כאשר הם רואים שהזולת נהנה מרכושם	rewrite	אראל	2006-11-30 06:01:51
+tnk1/messages/prqim_t02_3.html	עין הרע ע"פ רש"י	rewrite	אראל	2006-11-30 06:02:42
+tnk1/ljon/jorj/qna.html	קנא	add external link	אראל	2006-11-30 06:06:24
+tnk1/messages/ljon_jorj_qna_0.html	קנאה לעומת עין רעה	create	אראל	2006-11-30 06:08:48
+tnk1/ljon/jorj/qna.html	קנא	add reply link	אראל	2006-11-30 06:08:48
+tnk1/messages/prqim_t02_3.html	עין הרע ע"פ רש"י	rewrite	אראל	2006-11-30 06:09:36
+tnk1/messages/ljon_jorj_qna_0.html	קנאה לעומת עין רעה	rewrite	אראל	2006-11-30 06:10:42
+tnk1/messages/ljon_jorj_qna_0.html	קנאה לעומת עין רעה	rewrite	אראל	2006-11-30 06:14:08
+tnk1/messages/ljon_jorj_qna_0.html	קנאה לעומת עין רעה	rewrite	אראל	2006-11-30 07:02:51
+tnk1/messages/msr_0qnaa_0.html	קנאה במים	create	אראל	2006-11-30 07:07:33
+tnk1/msr/0qnaa.html	קנאה בזולת ונזקיה	add reply link	אראל	2006-11-30 07:07:33
+tnk1/ktuv/mjly/mj-10-08.html	לקחת את המצוות ללב	rewrite	אראל	2006-11-30 07:53:33
+tnk1/ktuv/mjly/mj-10-08.html	לקחת את המצוות ללב	rewrite	אראל	2006-11-30 07:53:50
+tnk1/messages/klli_mdrjim_prjnim_ljon_hqodj_1_1.html	תגובה על: מדור הפרשנים - לשון הקודש	create	מנחם בן	2006-11-30 09:48:18
+tnk1/klli/mdrjim/prjnim_ljon_hqodj_1.html	מדור הפרשנים - לשון הקודש	add reply link	מנחם בן	2006-11-30 09:48:18
+tnk1/messages/klli_mdrjim_prjnim_ljon_hqodj_1_1_0.html	אתה מנחם בן - מבקר הספרות?..	create	אביתר כהן	2006-11-30 10:41:22
+tnk1/messages/klli_mdrjim_prjnim_ljon_hqodj_1_1.html	תגובה על: מדור הפרשנים - לשון הקודש	add reply link	אביתר כהן	2006-11-30 10:41:22
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0_1_0.html	תגובה על: למה חרה אף ה בישראל	create	רמי ניר	2006-11-30 11:23:12
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0_1.html	למה חרה אף ה בישראל	add reply link	רמי ניר	2006-11-30 11:23:12
+tnk1/messages/nvir_mlkima_ma-19-15_0.html	תגובה על: משיחת חזאל, יהוא, ואלישע	create	רמי ניר	2006-11-30 12:01:43
+tnk1/nvir/mlkima/ma-19-15.html	משיחת חזאל, יהוא, ואלישע	add reply link	רמי ניר	2006-11-30 12:01:43
+tryg/messages/mamr_xnwkh_0.html	שיר על: נס חנוכה שלי	create	רמי ניר	2006-11-30 12:12:12
+tryg/mamr/xnwkh.html	חג חנוכה	add reply link	רמי ניר	2006-11-30 12:12:13
+tryg/messages/mamr_xnwkh_0.html	שיר על: נס חנוכה שלי	add file link	רמי ניר	2006-11-30 12:14:59
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:21:59
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:22:39
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:34:38
+tnk1/ktuv/mgilot/tklt_avrhm_liquyim.html	חישוב תאריכים של מאורעות הסטוריים ע"פ ליקויי מאורות	create	אראל	2006-11-30 21:54:02
+tnk1/ktuv/mgilot/tklt_avrhm_zihuy.html	זיהוי גיבורי המגילה	add reply link	אראל	2006-11-30 21:54:03
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:54:24
+tnk1/ktuv/mgilot/tklt_avrhm_liquyim.html	חישוב תאריכים של מאורעות הסטוריים ע"פ ליקויי מאורות	rewrite	אראל	2006-11-30 21:54:50
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:55:23
+tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html	מניין השטרות	rewrite	אראל	2006-11-30 21:57:57
+tryg/sug/jmyft_hybwl_bjbyeyt.html	שמיטת היבול בשביעית	add external link	אראל	2006-11-30 22:08:53
+tryg/sug/rcon-ecm_akilh-tbwah.html	אכילת יבול השדה, המטע או הכרם	add external link	אראל	2006-11-30 22:15:05
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1.html	מאמר חדש על: זיהוי גיבורי המגילה - כללי	create	רמי ניר	2006-11-30 22:29:15
+tnk1/ktuv/mgilot/tklt_avrhm_zihuy_klli.html	זיהוי גיבורי המגילה - כללי	add reply link	רמי ניר	2006-11-30 22:29:15
+tokxot/messages/emt_mlm_jut_14.html	הזדמנות עסקית - שיחות טלפון דרך האינטרנט- עלות נמוכה ביותר	create		2006-12-01 01:39:56
+tokxot/emt/mlm_jut.html	הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	add reply link		2006-12-01 01:39:56
+tokxot/messages/emt_mlm_jut_15.html	תגובה על: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	create		2006-12-01 01:41:05
+tokxot/emt/mlm_jut.html	הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	add reply link		2006-12-01 01:41:05
+tokxot/messages/emt_mlm_jut_15.html	תגובה על: הזדמנות עסקית: תשובות לשאלות וטענות נפוצות	delete	אראל	2006-12-01 02:14:07
+tokxot/messages/emt_mlm_jut_14.html	הזדמנות עסקית - שיחות טלפון דרך האינטרנט- עלות נמוכה ביותר	delete	אראל	2006-12-01 02:14:17
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1.html	מאמר חדש על: זיהוי גיבורי המגילה - כללי	add file link	רמי ניר	2006-12-01 04:17:17
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1_0.html	תגובה על: מאמר חדש על: זיהוי גיבורי המגילה - כללי	create	רמי ניר	2006-12-02 10:16:41
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1.html	מאמר חדש על: זיהוי גיבורי המגילה - כללי	add reply link	רמי ניר	2006-12-02 10:16:41
+horaa/messages/xinuk_qc_postmaan_0.html	תגובה על: קץ החינוך - האמנם?	create		2006-12-02 12:35:13
+horaa/xinuk/qc_postmaan.html	קץ החינוך - האמנם?	add reply link		2006-12-02 12:35:13
+tokxot/brieut/sl.html	סל הבריאות - איזה תרופות להכניס?	add external link	אראל	2006-12-02 23:46:14
+tnk1/messages/dmut_dmut_1099_3.html	מאמר חדש על: ישעיה נבואה אחרונה	create	רמי ניר	2006-12-03 22:47:28
+tnk1/dmut/dmut/1099.html	ישעיה	add reply link	רמי ניר	2006-12-03 22:47:28
+tnk1/messages/dmut_dmut_1099_3.html	מאמר חדש על: ישעיה נבואה אחרונה	add file link	רמי ניר	2006-12-03 22:49:37
+horaa/messages/xinuk_mrxoq_slomon_0.html	תגובה על: http://www.tora.us.fm - למידה מרחוק: האם למידה? האם מרחוק?	create		2006-12-04 02:13:17
+horaa/xinuk/mrxoq_slomon.html	http://www.tora.us.fm - למידה מרחוק: האם למידה? האם מרחוק?	add reply link		2006-12-04 02:13:17
+tokxot/messages/axdut_index_1.html	הודעה חשובה על: אחדות עם ישראל ואהבת חינם	create		2006-12-04 21:03:22
+tokxot/axdut/index.html	אחדות עם ישראל ואהבת חינם	add reply link		2006-12-04 21:03:22
+tnk1/messages/odot_11.html	מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף?	create	אראל	2006-12-04 21:51:44
+tnk1/odot.html	אודות האתר	add reply link	אראל	2006-12-04 21:51:45
+tnk1/messages/odot_11_0.html	תגובה על: מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף?	create	רמי ניר	2006-12-04 21:59:34
+tnk1/messages/odot_11.html	מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף?	add reply link	רמי ניר	2006-12-04 21:59:34
+math/messages/index_0.html	תגובה על: למה אני אוהב מתמטיקה?	create		2006-12-04 22:44:31
+math/index.html	למה אני אוהב מתמטיקה?	add reply link		2006-12-04 22:44:31
+math/index.html	למה אני אוהב מתמטיקה?	rewrite	אראל	2006-12-05 02:00:53
+tnk1/tora/midt_zmn.html	איפה ואיפה במדידת זמן עבודה	rewrite	אראל	2006-12-05 03:28:21
+tnk1/messages/odot_11_1.html	בעקרון אני אשמח	create	אביתר כהן	2006-12-05 03:57:36
+tnk1/messages/odot_11.html	מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף?	add reply link	אביתר כהן	2006-12-05 03:57:36
+tnk1/messages/klli_limud_prjot4_1_1.html	שנה שעברה ניסיתי	create	צחור	2006-12-05 06:06:15
+tnk1/messages/klli_limud_prjot4_1.html	הסדרים המסומנים בתנך קורן	add reply link	צחור	2006-12-05 06:06:15
+tnk1/messages/klli_limud_prjot4_2.html	תגובה על: פרשות השבוע בנביאים וכתובים	create	רמי ניר	2006-12-05 06:53:25
+tnk1/klli/limud/prjot4.html	פרשות השבוע בנביאים וכתובים	add reply link	רמי ניר	2006-12-05 06:53:25
+tnk1/messages/odot_11_1_0.html	תגובה על: בעקרון אני אשמח	create	אראל	2006-12-05 08:46:47
+tnk1/messages/odot_11_1.html	בעקרון אני אשמח	add reply link	אראל	2006-12-05 08:46:47
+tnk1/messages/odot_11_1.html	בעקרון אני אשמח	rewrite	אראל	2006-12-05 08:48:40
+tnk1/messages/dmut_dmut_565_0.html	מאמר חדש על: דבורה מתעדת את "כוכב יעקב"	create	רמי ניר	2006-12-05 08:51:58
+tnk1/dmut/dmut/565.html	דבורה	add reply link	רמי ניר	2006-12-05 08:51:58
+tnk1/messages/msr_2xvra_1.html	מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה	create	רמי ניר	2006-12-05 10:31:24
+tnk1/msr/2xvra.html	מעמד האיש ומעמד האישה	add reply link	רמי ניר	2006-12-05 10:31:24
+tnk1/messages/sig_do1_1_0.html	זה קצת מסובך	create	אראל	2006-12-06 04:14:26
+tnk1/messages/sig_do1_1.html	בקשר למשחק החדש המילה הבאה	add reply link	אראל	2006-12-06 04:14:26
+tnk1/messages/msr_2xvra_1.html	מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה	add external link	אראל	2006-12-06 04:38:12
+tnk1/messages/dmut_dmut_1436_0_1_0.html	שאלה על: תגובה על: קהלת בן דוד = הילד השני הוא אבשלום	delete	אראל	2006-12-06 04:44:10
+tnk1/messages/dmut_dmut_1436_0_1.html	תגובה על: קהלת בן דוד = הילד השני הוא אבשלום	rewrite	אראל	2006-12-06 04:44:37
+tnk1/messages/msr_2xvra_1_0.html	תגובה על: מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה	create	רמי ניר	2006-12-06 09:15:13
+tnk1/messages/msr_2xvra_1.html	מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה	add reply link	רמי ניר	2006-12-06 09:15:13
+tokxot/messages/jlom_kibuj_0.html	תגובה על: כיבוש - הדרך ההומאנית ביותר לסיים מלחמה	create		2006-12-06 15:04:20
+tokxot/jlom/kibuj.html	כיבוש - הדרך ההומאנית ביותר לסיים מלחמה	add reply link		2006-12-06 15:04:20
+tnk1/messages/msr_2xvra_1_0_0.html	תגובה על: תגובה על: מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה תיעוד ישעיה	create	רמי ניר	2006-12-06 21:45:09
+tnk1/messages/msr_2xvra_1_0.html	תגובה על: מאמר חדש על: מעמד האיש ומעמד האישה בעם שנבחר להיות סגולה	add reply link	רמי ניר	2006-12-06 21:45:10
+tnk1/dmut/dmut/702.html	אבשלום	add file link	רמי ניר	2006-12-06 22:38:28
+tnk1/dmut/dmut/692.html	דוד	add file link	רמי ניר	2006-12-07 10:59:11
+demo/index.html	Demo site	add file link	אראל	2006-12-09 12:11:49
+tnk1/messages/mftx_0.html	'חיפוש במפתח המאמרים' חזר במתכונת חדשה	create	אראל	2006-12-09 15:56:40
+tnk1/mftx.html	מפתח אלפביתי לנושאים בתנך - מילים בלשון המקרא, דמויות תנכיות, אזורים תנכיים ועוד	add reply link	אראל	2006-12-09 15:56:41
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1_0_0.html	שאלה על: תגובה על: מאמר חדש על: זיהוי גיבורי המגילה - כללי	create	רמי ניר	2006-12-09 18:57:44
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1_0.html	תגובה על: מאמר חדש על: זיהוי גיבורי המגילה - כללי	add reply link	רמי ניר	2006-12-09 18:57:44
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1_0_0_0.html	מפתח המאמרים לא מוצא את כל המאמרים אלא רק נושאים	create	אראל	2006-12-10 00:36:44
+tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_klli_1_0_0.html	שאלה על: תגובה על: מאמר חדש על: זיהוי גיבורי המגילה - כללי	add reply link	אראל	2006-12-10 00:36:45
+tnk1/messages/mftx_0.html	'חיפוש במפתח המאמרים' חזר במתכונת חדשה	rewrite	אראל	2006-12-10 00:44:41
+doar/messages/tnk1_index_7.html	נועם רפאל - טקסטים בחינם	create	אראל	2006-12-10 02:58:29
+doar/tnk1/index.html	פניות בקשר לאתר התנך	add reply link	אראל	2006-12-10 02:58:29
+doar/messages/tnk1_index_8.html	רענן אייכלר - גיוס תרומות	create	אראל	2006-12-10 02:59:40
+doar/tnk1/index.html	פניות בקשר לאתר התנך	add reply link	אראל	2006-12-10 02:59:40
+doar/messages/tnk1_index_7.html	נועם רפאל - טקסטים בחינם	rewrite	אראל	2006-12-10 03:02:17
+doar/messages/tnk1_index_9.html	יצחק פריד	create	אראל	2006-12-10 03:04:28
+doar/tnk1/index.html	פניות בקשר לאתר התנך	add reply link	אראל	2006-12-10 03:04:28
+doar/tnk1/mamre.html	מכון ממרא	rewrite	אראל	2006-12-10 03:07:05
+doar/tnk1/mamre.html	מכון ממרא	rewrite	אראל	2006-12-10 03:07:39
+doar/messages/tnk1_index_10.html	דינה גולדין	create	אראל	2006-12-10 03:08:55
+doar/tnk1/index.html	פניות בקשר לאתר התנך	add reply link	אראל	2006-12-10 03:08:55
+doar/axrim/maale.html	maale - מעלה - השתתפות	create	אראל	2006-12-10 03:10:39
+doar/axrim/index.html	אתרים אחרים	add reply link	אראל	2006-12-10 03:10:39
+tnk1/messages/prqim_t33_4.html	נושא חדש על: אסתר ואחשוורוש כמביזס	create	רמי ניר	2006-12-10 09:12:02
+tnk1/prqim/t33.htm	אסתר	add reply link	רמי ניר	2006-12-10 09:12:02
+tnk1/messages/msr_4jlom_0.html	שיר על: שלום ומלחמה - "הרוכב בשמי קדם"	create	רמי ניר	2006-12-10 12:28:39
+tnk1/msr/4jlom.html	שלום ומלחמה	add reply link	רמי ניר	2006-12-10 12:28:39
+tnk1/messages/msr_4jlom_1.html	תגובה על: שלום ומלחמה - הסדר הנכון	create	רמי ניר	2006-12-10 21:46:10
+tnk1/msr/4jlom.html	שלום ומלחמה	add reply link	רמי ניר	2006-12-10 21:46:11
+tnk1/messages/msr_4jlom_1_0.html	"שלום ומלחמה" זה הסדר בתורה	create	אראל	2006-12-11 01:57:43
+tnk1/messages/msr_4jlom_1.html	תגובה על: שלום ומלחמה - הסדר הנכון	add reply link	אראל	2006-12-11 01:57:43
+tnk1/messages/msr_4jlom_1_0_0.html	תגובה על: שלום ומלחמה זה הסדר בתורה	create	רמי ניר	2006-12-11 05:35:46
+tnk1/messages/msr_4jlom_1_0.html	שלום ומלחמה זה הסדר בתורה	add reply link	רמי ניר	2006-12-11 05:35:46
+tnk1/messages/msr_4jlom_2.html	נושא חדש על: שלום ומלחמה - איך יופל "פור" בטהרן	create	רמי ניר	2006-12-11 08:45:46
+tnk1/msr/4jlom.html	שלום ומלחמה	add reply link	רמי ניר	2006-12-11 08:45:46

@@ -1,0 +1,4 @@
+AuthName "tnk1_magr"
+AuthType Basic
+AuthUserFile "/home/tora/wwwwwd/doar/passwd"
+require valid-user

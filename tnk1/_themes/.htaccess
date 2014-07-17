@@ -1,0 +1,7 @@
+# Hotlink Protection
+RewriteEngine on
+RewriteOptions inherit
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?(tora.us.fm) [NC]
+RewriteRule \.(gif|GIF|jpg|JPG|bmp|BMP|swf|SWF)$ - [F]
+# Hotlink Protection

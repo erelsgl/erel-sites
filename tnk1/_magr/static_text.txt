@@ -1,0 +1,57 @@
+1	add	add	הוספה
+2	rewrite	rewrite	עריכה
+3	versionlist		
+4	undo	undo	שיחזור
+5	diff		
+6	newsite	New site creation	יצירת אתר חדש
+7	replacefile	replacefile	החלפת קובץ
+8	missing title	You forgot the title!	שכחת לכתוב נושא! נא לכתוב נושא ולשלוח שוב
+9	no title	[no title]	[ללא כותרת]
+10	no versions	no previous versions	אין מהדורות קודמות
+11	last version updated at	The formal version of the document was last updated at %s	הגירסה הרשמית עודכנה לאחרונה ב%s
+12	no other versions	No other versions.	אין גרסאות אחרות.
+13	file replace successful	File replaced successfully	הקובץ הוחלף בהצלחה
+14	file upload successful	file uploaded successfully	הקובץ הועלה בהצלחה
+15	the link to your file	The link to your file is:	הקישור לקובץ שהעלית הוא:
+16	the link to your table	If it is a table, you can also so it at	ואם הקובץ הוא טבלה, אז ניתן לראות אותה גם כאן:
+17	the link to your image	If it is an image, you can also so it here:	ואם הקובץ הוא תמונה, אז התמונה נמצאת כאן:
+18	your new message is here	Click here to open the new message	לחץ כאן כדי לעבור להודעה החדשה.
+56	reminder	The information you asked for is: %s	המידע שביקשת הוא: %s
+20	password changed	Password changed successfully	סיסמתך שונתה בהצלחה
+21	to delete	to delete	למחיקה
+22	empty body	Empty body posted - please notify the site admin!	התקבלה הודעה ריקה - אנא הודיעו למנהל האתר!
+23	other versions	Other versions	גירסאות אחרות
+24	version of date	created %s	מ%s
+25	version of person	by %s	בעריכת %s
+26	primary version	primary version	גירסה ראשונית
+27	additions	additions	תוספות
+28	show changes	show changes	הצג הבדלים
+29	show additions	show additions	הצג תוספות
+30	show file	show file	הצג קובץ
+31	hyperlink has spaces	Your hyperlink contains spaces - please fix it and send again!	הקישור מכיל רווחים - זו כנראה טעות - נא לתקן ולשלוח שוב!
+32	external	external	חיצוני
+33	file	file	קובץ
+34	time for versionlist	<span dir='ltr'>%s</span>, <span dir='ltr'>%s</span>	תאריך <span dir='ltr'>%s</span> שעה <span dir='ltr'>%s</span>
+35	unauthorized	You cannot access the %s form without a private password!	אינך רשאי לגשת לדף %s ללא סיסמה פרטית
+36	written at	written	נכתב ב-
+37	add external link	add external link	הוספת קישור חיצוני
+38	add file link	add link to file	הוספת קישור לקובץ
+39	add reply link	add link to reply	הוספת קישור לתגובה
+40	whatsnew	What's new	מה חדש באתר
+41	board	latest additions	תוספות אחרונות
+42	delete	delete	מחיקה
+43	create	create	יצירה
+44	ok	Completed successfully!	הפעולה הצליחה!
+45	register	Register	הרשמה לאתר
+46	changepassword	Changing password	שינוי סיסמה
+47	welcome to registration	Hello! Please choose a username and a password	שלום וברכה, נא לבחור שם משתמש וסיסמה
+48	forgot	You forgot to fill in the %s	שכחת למלא %s
+49	password	Password	סיסמה
+51	password again	Password - again	סיסמה - שוב
+50	username	Username	שם משתמש
+52	email	Email	דואל
+53	reminder email explanation	will be used only for sending password reminders	ישמש רק לצורך הזכרת הסיסמה
+54	save	Save	שמירה
+55	welcome new	Your details were registered. Welcome to the site!	הפרטים נרשמו. ברוך בואך לאתר!
+57	reminder sent	A reminder was sent to %s	התזכורת נשלחה ל-%s
+58	reminder request but no email	Sorry, %s! You didn't enter your email address when you registered, so you cannot get a reminder!	צר לי, %s! כתובת הדואל שלך לא רשומה במערכת, ולכן אי אפשר לשלוח לך תזכורת!

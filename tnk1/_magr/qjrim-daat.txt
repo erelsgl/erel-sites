@@ -1,0 +1,750 @@
+../daat/kitveyet/niv/sidram-2.htm	במד	א
+../daat/tanach/samet/bm1-2.htm	במד	א
+../daat/tanach/samet2/16-2.htm	במד	א-ד
+../daat/tanach/samet2/17-2.htm	במד	ה, יא-לא
+../daat/tanach/tora/md_nazir.htm	במד	ו
+../daat/kitveyet/maaliyot/zaharti-2.htm	במד	ט
+../daat/tanach/tora/berslavsky-3.htm	במד	י-יא
+../daat/tanach/samet/bm3-2.htm	במד	יא
+../daat/kitveyet/sde_chem/mazuz.htm	במד	יב
+../daat/tanach/tora/md_merag.htm	במד	יג
+../daat/kitveyet/niv/sidram-2.htm	במד	יג
+../daat/tanach/samet2/18-2.htm	במד	יד, לט-מה
+../daat/kitveyet/shmaatin/parashat-2.htm	במד	טו
+../daat/tanach/tora/md_korac.htm	במד	טז
+../daat/history/divrey/frame11.htm	במד	טז
+../daat/kitveyet/shmaatin/kehuna.htm	במד	טז
+../daat/tanach/tora/ptirat-2.htm	במד	כ
+../daat/tanach/tora/hashirim-2.htm	במד	כא
+../daat/kitveyet/maaliyot/bilam-2.htm	במד	כב
+../daat/tanach/samet/bm7-2.htm	במד	כב-כד
+../daat/tanach/tora/midyan.htm	במד	כב ו-לא
+../daat/tanach/achronim/beaharit.htm	במד	כד
+../daat/tanach/tora/mi-ata-2.htm	במד	כה
+../daat/tanach/samet3/9-2.htm	במד	כה
+../daat/kitveyet/niv/sidram-2.htm	במד	כו
+../daat/tanach/tora/md_nedar.htm	במד	ל
+../daat/tanach/tora/areygad.htm	במד	לב
+../daat/kitveyet/maaliyot/tnaey-2.htm	במד	לב
+../daat/tanach/tora/gvul-eli-1.htm	במד	לד
+../daat/kitveyet/shmaatin/nevo.htm	במד	לד
+../daat/kitveyet/niv/sidram-2.htm	במד	לד
+../daat/tanach/samet2/19-2.htm	במד	לו, א-יב
+../daat/kitveyet/sinay/vayehi-4.htm	ברא	א
+../daat/tanach/tora/mikra.htm	ברא	א-ב
+../daat/tanach/tora/bereshit-2.htm	ברא	א-ד
+../daat/kitveyet/maaliyot/asara-2.htm	ברא	א-ה
+../daat/kitveyet/taleley/ki-2.htm	ברא	ב
+../daat/kitveyet/sinay/ezhadat-4.htm	ברא	ג, ו
+../daat/kitveyet/sinay/amar-4.htm	ברא	ג ,ו
+../daat/tanach/tora/sefer-2.htm	ברא	ד
+../daat/kitveyet/taleley/kain-2.htm	ברא	ד
+../daat/kitveyet/hagigey/kain-2.htm	ברא	ד-ה
+../daat/kitveyet/betmikra/teyvat.htm	ברא	ו
+../daat/kitveyet/betmikra/higia.htm	ברא	ו-ט
+../daat/tanach/samet/b2-2.htm	ברא	יא
+../daat/tanach/tora/ber11eli-1.htm	ברא	יא
+../daat/kitveyet/betmikra/avraham.htm	ברא	יא
+../daat/history/divrey/frame1.htm	ברא	יב
+../daat/history/divrey/frame2.htm	ברא	יב
+../daat/kitveyet/taleley/shhem-2.htm	ברא	יב
+../daat/tanach/samet2/1-2.htm	ברא	יב-יג
+../daat/tanach/tora/avraham-2.htm	ברא	יב-כה
+../daat/tanach/tora/elitzur-4.htm	ברא	יג
+../daat/kitveyet/betmikra/halohem.htm	ברא	יד
+../daat/tanach/tora/ber4eli-1.htm	ברא	יד
+../daat/kitveyet/maaliyot/sipur-2.htm	ברא	יד
+../daat/tanach/maamarim/milot-2.htm	ברא	יד-טו
+../daat/kitveyet/betmikra/hator.htm	ברא	טו
+../daat/kitveyet/betmikra/elizor.htm	ברא	טו
+../daat/tanach/tora/gvul-eli-1.htm	ברא	טו
+../daat/kitveyet/shmaatin/nevo.htm	ברא	טו
+../daat/tanach/samet/b3-2.htm	ברא	טז
+../daat/kitveyet/betmikra/taane-2.htm	ברא	טז
+../daat/kitveyet/betmikra/kikayon.htm	ברא	יח
+../daat/kitveyet/maaliyot/hetey-2.htm	ברא	יח-יט
+../daat/kitveyet/michlol/sdom.htm	ברא	יט
+../daat/history/divrey/frame3.htm	ברא	יט
+../daat/tanach/tora/ber20eli-1.htm	ברא	כ, כא
+../daat/history/divrey/frame6.htm	ברא	כ
+../daat/tanach/samet/b4-2.htm	ברא	כא
+../daat/tanach/tora/al-gerush-2.htm	ברא	כא
+../daat/kitveyet/betmikra/avraham.htm	ברא	כא
+../daat/kitveyet/mahanaim/haakeda-2.htm	ברא	כב
+../daat/kitveyet/betmikra/hamaavak.htm	ברא	כב
+../daat/tanach/tora/kirkgor.htm	ברא	כב
+../daat/tanach/tora/nisayon.htm	ברא	כב
+../daat/tanach/tora/ishak.htm	ברא	כב
+../daat/art/akeda/akeda1.htm	ברא	כב
+../daat/kitveyet/taleley/akedat-2.htm	ברא	כב
+../daat/kitveyet/taleley/tsiduk-2.htm	ברא	כב
+../daat/kitveyet/betmikra/elizor.htm	ברא	כג
+../daat/kitveyet/betmikra/pgishot.htm	ברא	כד
+../daat/kitveyet/shana/nesher-2.htm	ברא	כה
+../daat/kitveyet/shmaatin/vainberg-1.htm	ברא	כה, כז
+../daat/tanach/tora/ber20eli-1.htm	ברא	כו
+../daat/history/divrey/frame4.htm	ברא	כו
+../daat/kitveyet/michlol/vinberg.htm	ברא	כה-כז
+../daat/tanach/maamarim/nashim-eli-1.htm	ברא	כז
+../daat/kitveyet/betmikra/vehaya.htm	ברא	כז
+../daat/tanach/tora/haomnam-2.htm	ברא	כז
+../daat/tanach/tora/ber11eli-1.htm	ברא	כח
+../daat/tanach/samet/b7-2.htm	ברא	כח-ל
+../daat/kitveyet/betmikra/pgishot.htm	ברא	כט
+../daat/kitveyet/betmikra/maavak.htm	ברא	כט
+../daat/tanach/tora/vayehi-2.htm	ברא	כט
+../daat/tanach/samet2/2-2.htm	ברא	כט, א-יב
+../daat/kitveyet/betmikra/yerushat.htm	ברא	כט-ל
+../daat/kitveyet/betmikra/ahavat.htm	ברא	כט, ל, לז
+../daat/tanach/maamarim/nashim-eli-1.htm	ברא	ל
+../daat/tanach/tora/shevtgad.htm	ברא	ל
+../daat/kitveyet/maaliyot/bilam-2.htm	ברא	לא
+../daat/tanach/tora/nashim.htm	ברא	לא, לה
+../daat/kitveyet/taleley/shhem-2.htm	ברא	לב
+../daat/tanach/samet/b8-2.htm	ברא	לב-לג
+../daat/tanach/tora/alitsor-1.htm	ברא	לג
+../daat/kitveyet/maaliyot/mekom-2.htm	ברא	לג-לו
+../daat/kitveyet/taleley/shimon-2.htm	ברא	לד
+../daat/kitveyet/betmikra/veaviv.htm	ברא	לה
+../daat/kitveyet/sde_chem/naeim-4.htm	ברא	לה
+../daat/kitveyet/mabua/40/bedamaih-2.htm	ברא	לה
+../daat/kitveyet/sde_chem/naeim-4.htm	ברא	לה
+../daat/tanach/samet2/3-2.htm	ברא	לה, טז-כ
+../daat/tanach/samet/b9-2.htm	ברא	לז
+../daat/tanach/tora/emek.htm	ברא	לז
+../daat/tanach/tora/solo-1.htm	ברא	לז
+../daat/kitveyet/shmaatin/ingber.htm	ברא	לז
+../daat/kitveyet/maaliyot/matay-2.htm	ברא	לז
+../daat/tanach/samet2/4-2.htm	ברא	לז-נ
+../daat/kitveyet/shmaatin/yaakov.htm	ברא	לז-לח
+../daat/tanach/tora/simon2-1.htm	ברא	לז-נ
+../daat/kitveyet/maaliyot/mekom-2.htm	ברא	לח
+../daat/tanach/tora/tamar-2.htm	ברא	לח
+../daat/tanach/tora/zika.htm	ברא	לח
+../daat/kitveyet/betmikra/tamar.htm	ברא	לח
+../daat/kitveyet/betmikra/lebaayat-2.htm	ברא	לט
+../daat/kitveyet/maaliyot/matay-2.htm	ברא	מב
+../daat/history/divrey/frame5.htm	ברא	מב-מג
+../daat/kitveyet/shmaatin/danino.htm	ברא	מב-מד
+../daat/tanach/tora/solo-1.htm	ברא	מב-מה
+../daat/tanach/tora/yosef-2.htm	ברא	מב-מו
+../daat/kitveyet/hamaayan/yeled-2.htm	ברא	מד, יח-לד
+../daat/kitveyet/betmikra/lidmuto.htm	ברא	מה, מח
+../daat/kitveyet/betmikra/lidmuto.htm	ברא	מה, מח
+../daat/kitveyet/mahanaim/gvaryaho-3.htm	ברא	מו, לג
+../daat/tanach/samet2/5-2.htm	ברא	מו
+../daat/tanach/samet2/6-2.htm	ברא	מח, ז
+../daat/tanach/achronim/beaharit.htm	ברא	מט
+../daat/kitveyet/shmaatin/habracha.htm	ברא	מט
+../daat/tanach/tora/ki-2.htm	ברא	מט
+../daat/kitveyet/betmikra/nahalato-2.htm	ברא	מט
+../daat/kitveyet/mahanaim/avramsky.htm	דני	ה
+../daat/kitveyet/mahanaim/milhamot-2.htm	דהא	ה
+../daat/kitveyet/mahanaim/milhamut-4.htm	דהא	יט
+../daat/kitveyet/mahanaim/maarahot-2.htm	דהא	יט
+../daat/tanach/divreyha/divreya2.htm	דהא	כד
+../daat/tanach/divreyha/divreya1.htm	דהא	כד-כה
+../daat/kitveyet/mahanaim/avramsky.htm	דהא	לו
+../daat/tanach/rishonim/gvaryahu-4.htm	דהב	א
+../daat/kitveyet/hagigey/tfilat-2.htm	דהב	ו
+../daat/tanach/divreyha/shlomo-2.htm	דהב	ח
+../daat/tanach/divreyha/divreyb4.htm	דהב	י
+../daat/tanach/divreyha/shishak.htm	דהב	יא
+../daat/kitveyet/sinay/beheker-4.htm	דהב	כו
+../daat/tanach/rishonim/maarehet-2.htm	דהב	כד
+../daat/tanach/divreyha/divreyb5.htm	דהב	כז-כח
+../daat/tanach/divreyha/divreyb3.htm	דהב	כט
+../daat/tanach/divreyha/divreyb2.htm	דהב	ל
+../daat/tanach/rishonim/masa.htm	דהב	לב
+../daat/tanach/rishonim/sanheriv.htm	דהב	לב
+../daat/tanach/divreyha/divreyb1.htm	דהב	לד
+../daat/tanach/divreyha/metsiat.htm	דהב	לד
+../daat/kitveyet/betmikra/shafan.htm	דהב	לד
+../daat/tanach/tora/neum-2.htm	דבר	א-ד
+../daat/tanach/tora/gvul-eli-1.htm	דבר	ב
+../daat/tanach/achronim/beaharit.htm	דבר	ד
+../daat/kitveyet/niv/grusman-1.htm	דבר	ד
+../daat/tanach/tora/arbaa.htm	דבר	ה, ו, ח
+../daat/ruach/shoah/kabed.htm	דבר	ה
+../daat/kitveyet/sinay/maamad-4.htm	דבר	ה
+../daat/tanach/tora/hahilufim-2.htm	דבר	ה
+../daat/tanach/samet/d2-2.htm	דבר	ו
+../daat/tanach/samet/d3-2.htm	דבר	ח
+../daat/tanach/samet2/20-2.htm	דבר	יב-יג
+../daat/kitveyet/maaliyot/yediat-2.htm	דבר	יג
+../daat/tanach/tora/tehorot.htm	דבר	יד
+../daat/kitveyet/sde_chem/shmini.htm	דבר	יד
+../daat/kitveyet/sinay/bhinat-2.htm	דבר	יד
+../daat/tanach/tora/dvarbeur.htm	דבר	יד 26-6
+../daat/tanach/tora/dvarshmi.htm	דבר	טו 1-3
+../daat/tanach/tora/mikra.htm	דבר	טו 18-12
+../daat/kitveyet/sinay/hayahid-4.htm	דבר	יז
+../daat/kitveyet/shmaatin/kehuna.htm	דבר	יח
+../daat/kitveyet/sinay/chubar-4.htm	דבר	יח, יא
+../daat/tanach/achronim/vikuah-2.htm	דבר	יח
+../daat/tanach/samet/d6-2.htm	דבר	כ
+../daat/tanach/tora/dvarcohn.htm	דבר	כ
+../daat/kitveyet/michlol/sorer1.htm	דבר	כא
+../daat/kitveyet/shmaatin/ushpez1.htm	דבר	כא
+../daat/tanach/parshanut/almenat-2.htm	דבר	כא
+../daat/tanach/tora/kitese.htm	דבר	כ-כו
+../daat/tanach/tora/dvariken.htm	דבר	כב
+../daat/tanach/tora/dvarybum.htm	דבר	כב
+../daat/tanach/tora/zika.htm	דבר	כה
+../daat/kitveyet/hamaayan/haim-2.htm	דבר	כה, יז-יט
+../daat/tanach/samet2/21-2.htm	דבר	כה, יז-יט
+../daat/tanach/samet/d7-2.htm	דבר	כו
+../daat/kitveyet/niv/sidram-2.htm	דבר	כז
+../daat/tanach/tora/grizim.htm	דבר	כז
+../daat/kitveyet/niv/grusman-1.htm	דבר	ל
+../daat/tanach/tora/vayelech.htm	דבר	לא
+../daat/kitveyet/sinay/hakhel-4.htm	דבר	לא
+../daat/tanach/samet2/22-2.htm	דבר	לא , ט-יג
+../daat/tanach/samet2/23-2.htm	דבר	לב, מח-נב
+../daat/kitveyet/niv/sidram-2.htm	דבר	לג
+../daat/tanach/tora/shevtgad.htm	דבר	לג
+../daat/tanach/tora/ki-2.htm	דבר	לג
+../daat/kitveyet/betmikra/nahalato-2.htm	דבר	לג
+../daat/kitveyet/shmaatin/habracha.htm	דבר	לג-לד
+../daat/history/divrey/frame12.htm	דבר	לד
+../daat/tanach/samet2/23-2.htm	דבר	לד, א-יב, א
+../daat/tanach/megilot/eyha2.htm	אכה	א
+../daat/tanach/megilot/eyha1.htm	אכה	ג
+../daat/kitveyet/sinay/darke-4.htm	אכה	ג, יא
+../daat/kitveyet/mahanaim/avramsky.htm	עזר	א
+../daat/kitveyet/betmikra/levenim.htm	עזר	ג
+../daat/kitveyet/betmikra/bizroa.htm	עזר	ד
+../daat/kitveyet/betmikra/shivat.htm	עזר	ד
+../daat/kitveyet/mahanaim/avramsky.htm	עזר	ו
+../daat/tanach/trayasar/hagay1.htm	חגי	א
+../daat/tanach/trayasar/hagay2.htm	חגי	א
+../daat/tanach/trayasar/hagay3.htm	חגי	ב
+../daat/tanach/trayasar/hoshea1.htm	הוש	א
+../daat/tanach/trayasar/hoshea2a.htm	הוש	ב
+../daat/tanach/trayasar/hoshea2b.htm	הוש	ב
+../daat/tanach/trayasar/hoshea3.htm	הוש	ג
+../daat/tanach/trayasar/hoshea4.htm	הוש	ד
+../daat/tanach/trayasar/hoshea5.htm	הוש	ה
+../daat/tanach/trayasar/hoshea6.htm	הוש	ו
+../daat/tanach/trayasar/hoshea7.htm	הוש	ז-ח
+../daat/tanach/trayasar/hoshea8.htm	הוש	ח
+../daat/tanach/trayasar/hoshea9.htm	הוש	ט
+../daat/tanach/trayasar/hoshea10.htm	הוש	י
+../daat/tanach/trayasar/hoshea11.htm	הוש	יא
+../daat/tanach/trayasar/hoshea13.htm	הוש	יג
+../daat/tanach/trayasar/hoshea14.htm	הוש	יד
+../daat/tanach/achronim/kohanim.htm	ירמ	א
+../daat/tanach/achronim/metforot.htm	ירמ	ב
+../daat/tanach/achronim/jer3eli-1.htm	ירמ	ג
+../daat/tanach/achronim/aramit.htm	ירמ	ז
+../daat/tanach/achronim/batsoret.htm	ירמ	יג
+../daat/tanach/tora/arbaa.htm	ירמ	טז
+../daat/tanach/tora/arbaa.htm	ירמ	יט
+../daat/tanach/achronim/vikuah-2.htm	ירמ	כח
+../daat/tanach/rishonim/tfisat.htm	ירמ	לב
+../daat/kitveyet/mahanaim/elitzor.htm	ירמ	לד
+../daat/kitveyet/deot/elyzor.htm	ירמ	לד
+../daat/history/divrey/frame25.htm	ירמ	לח
+../daat/tanach/trayasar/tsf2eli-1.htm	ירמ	מז
+../daat/tanach/achronim/yir47eli-1.htm	ירמ	מז
+../daat/tanach/achronim/beaharit.htm	ירמ	מח
+../daat/tanach/achronim/moav.htm	ירמ	מח
+../daat/kitveyet/betmikra/haoyev.htm	ירמ	מט
+../daat/kitveyet/betmikra/moshavam-2.htm	איב	א
+../daat/tanach/eyov/hasipur-2.htm	איב	א-ב
+../daat/kitveyet/sde_chem/iyov1.htm	איב	א, כט
+../daat/kitveyet/betmikra/maane.htm	איב	ג, לח
+../daat/kitveyet/mahanaim/mashmaut1-2.htm	איב	ה, ט, לט
+../daat/kitveyet/betmikra/iyun.htm	איב	טו-טז
+../daat/kitveyet/michlol/elihu.htm	איב	לב
+../daat/kitveyet/maaliyot/maane-2.htm	איב	לב
+../daat/tanach/emet/iyov2.htm	איב	לג-לד
+../daat/kitveyet/betmikra/haim.htm	איב	לח-מא
+../daat/tanach/eyov/felix-4.htm	איב	לח-מא
+../daat/kitveyet/betmikra/kanaf.htm	איב	לט
+../daat/tanach/emet/kanaf.htm	איב	לט
+../daat/tanach/megilot/kohelet2-3.htm	קהל	ב-ג
+../daat/tanach/megilot/kohelet7.htm	קהל	ז
+../daat/tanach/megilot/kohelet7-8.htm	קהל	ז
+../daat/kitveyet/sinay/beurim-4.htm	קהל	ז
+../daat/tanach/megilot/kohelet8.htm	קהל	ח
+../daat/tanach/megilot/kohelet.htm	קהל	יב
+../daat/tanach/rishonim/grosman1.htm	מלא	א
+../daat/kitveyet/betmikra/bartal.htm	מלא	א, כא
+../daat/kitveyet/betmikra/sheela.htm	מלא	ב
+../daat/kitveyet/sde_chem/shapira1-2.htm	מלא	ב, ז
+../daat/kitveyet/betmikra/mishpat.htm	מלא	ג
+../mishpat-ivri/skirot/102-2.htm	מלא	ג
+../daat/tanach/tora/zika.htm	מלא	ג
+../daat/tanach/divreyha/shlomo-2.htm	מלא	ג
+../daat/tanach/rishonim/mishpat-2.htm	מלא	ג
+../daat/tanach/rishonim/grosman2.htm	מלא	ד
+../daat/kitveyet/betmikra/asher.htm	מלא	ד, ו
+../daat/tanach/rishonim/atzey-4.htm	מלא	ה-ו
+../daat/kitveyet/betmikra/levenim.htm	מלא	ו
+../daat/history/divrey/frame19.htm	מלא	ו-ז
+../daat/tanach/rishonim/gvaryahu-4.htm	מלא	ז-ח
+../daat/kitveyet/hagigey/tfilat-2.htm	מלא	ח
+../daat/tanach/rishonim/havtahat-2.htm	מלא	ח-ט
+../daat/kitveyet/betmikra/matrat.htm	מלא	ט-י
+../daat/tanach/rishonim/grosman3.htm	מלא	יא
+../daat/tanach/divreyha/divreyb1.htm	מלא	יא
+../daat/kitveyet/deot/elyzor.htm	מלא	יא
+../daat/history/divrey/frame20.htm	מלא	יא
+../daat/kitveyet/hagigey/avodat-2.htm	מלא	יב
+../daat/tanach/divreyha/divreyb4.htm	מלא	יב
+../daat/tanach/rishonim/haran-4.htm	מלא	יב
+../daat/kitveyet/betmikra/hakbalot.htm	מלא	יא-יב
+../daat/tanach/rishonim/bat_paro.htm	מלא	יג
+../daat/tanach/rishonim/beyn-2.htm	מלא	יג
+../daat/tanach/rishonim/grosman4.htm	מלא	יד
+../daat/tanach/rishonim/grosman5.htm	מלא	טז
+../daat/tanach/rishonim/haeir-4.htm	מלא	טז
+../daat/tanach/rishonim/zehuto-2.htm	מלא	יז
+../daat/tanach/samet3/1-2.htm	מלא	יז, ב-ז
+../daat/tanach/samet3/2-2.htm	מלא	יז, ח-טז
+../daat/tanach/samet3/3-2.htm	מלא	יז, יז-כד
+../daat/kitveyet/taleley/eliyahu-2.htm	מלא	יח
+../daat/tanach/samet3/4-2.htm	מלא	יח, לו-לז
+../daat/tanach/samet3/5-2.htm	מלא	יח
+../daat/kitveyet/betmikra/hakbalot.htm	מלא	יט
+../daat/tanach/tora/harsinay.htm	מלא	יט, ח
+../daat/tanach/samet3/6-2.htm	מלא	יט, יא-יד
+../daat/tanach/samet3/7-2.htm	מלא	יט, יד
+../daat/tanach/samet3/8-2.htm	מלא	יט, י-כא
+../daat/tanach/rishonim/yadnsukt.htm	מלא	כ
+../daat/kitveyet/niv/vargon-1.htm	מלא	כ
+../daat/tanach/rishonim/keytsad-2.htm	מלא	כא
+../daat/kitveyet/shmaatin/bar-maoz-2.htm	מלא	כא
+../daat/tanach/samet2/9-2.htm	מלא	כא
+../daat/tanach/samet3/12-2.htm	מלא	כא, א-טז
+../daat/tanach/samet3/11-2.htm	מלא	כא, יז-כט
+../daat/tanach/samet3/13-2.htm	מלא	כא, יז-כט
+../daat/tanach/samet3/14-2.htm	מלא	כא, כ
+../daat/tanach/samet3/15-2.htm	מלא	כא, כז-כט
+../daat/tanach/samet3/16-2.htm	מלא	כא, כז
+../daat/tanach/samet3/17-2.htm	מלא	כא
+../daat/tanach/rishonim/grosman6.htm	מלא	כ-כב
+../daat/history/divrey/frame21.htm	מלא	כ-כב
+../daat/tanach/divreyha/divreyb1.htm	מלא	כא
+../daat/tanach/rishonim/melmet.htm	מלא	כב
+../daat/tanach/samet3/18-2.htm	מלב	א
+../daat/tanach/rishonim/eliyahu-4.htm	מלב	א
+../daat/tanach/samet3/19-2.htm	מלב	ב, ט-י
+../daat/tanach/samet3/20-2.htm	מלב	ב, יא-יב
+../daat/tanach/rishonim/zehuto-2.htm	מלב	ב
+../daat/tanach/rishonim/aderet-2.htm	מלב	ב
+../daat/tanach/rishonim/aliyato-2.htm	מלב	ב
+../daat/tanach/emet/shuva.htm	מלב	ג
+../daat/tanach/tora/ber4eli-1.htm	מלב	ג
+../daat/tanach/rishonim/melb3eli-1.htm	מלב	ג
+../daat/tanach/rishonim/rashey-4.htm	מלב	ד
+../daat/tanach/rishonim/haisha-2.htm	מלב	ד
+../daat/tanach/rishonim/midrash-2.htm	מלב	ד
+../daat/tanach/rishonim/elisha-2.htm	מלב	ה
+../daat/tanach/rishonim/dmuto-4.htm	מלב	ט-י
+../daat/tanach/rishonim/bney-4.htm	מלב	י
+../daat/tanach/rishonim/maarehet-2.htm	מלב	יב
+../daat/tanach/rishonim/grosman7.htm	מלב	יד
+../daat/kitveyet/sinay/beheker-4.htm	מלב	יד
+../daat/history/divrey/frame22.htm	מלב	יד-טו
+../daat/tanach/rishonim/gvaryahu-4.htm	מלב	טז
+../daat/tanach/rishonim/milhemet-4.htm	מלב	טז
+../daat/kitveyet/taleley/dat-2.htm	מלב	טז-כג
+../daat/tanach/rishonim/melmet.htm	מלב	יז
+../daat/history/divrey/frame23.htm	מלב	יז
+../daat/kitveyet/betmikra/neumo.htm	מלב	יח, י
+../daat/tanach/rishonim/hurban-4.htm	מלב	יח
+../daat/tanach/rishonim/masa.htm	מלב	יח-יט
+../daat/tanach/rishonim/sanheriv.htm	מלב	יח-יט
+../daat/tanach/rishonim/hizkiyaha-4.htm	מלב	יח-יט
+../daat/kitveyet/betmikra/keytsad.htm	מלב	יט
+../daat/history/divrey/frame24.htm	מלב	יט
+../daat/tanach/achronim/yeshaaya-2.htm	מלב	כ
+../daat/tanach/rishonim/malotahz.htm	מלב	כ
+../daat/tanach/rishonim/melb23eli-1.htm	מלב	כג
+../daat/kitveyet/betmikra/shafan.htm	מלב	כב
+../daat/tanach/achronim/yehkl11eli-1.htm	מלב	כד
+../daat/kitveyet/niv/vargon-1.htm	מלב	כד
+../daat/history/divrey/frame25.htm	מלב	כה
+../daat/tanach/ktuvim/mishley13.htm	משל	יג
+../daat/tanach/ktuvim/mishley16.htm	משל	טז
+../daat/tanach/ktuvim/mishley21.htm	משל	כא
+../daat/tanach/ktuvim/mishley25.htm	משל	כה
+../daat/tanach/ktuvim/mishley26.htm	משל	כו
+../daat/tanach/ktuvim/mishley29.htm	משל	כט
+../daat/tanach/ktuvim/mishley30.htm	משל	ל
+../daat/tanach/emet/mish30eli-1.htm	משל	ל, כד-כח
+../daat/tanach/trayasar/nachum.htm#p1	נחו	א
+../daat/kitveyet/sinay/beurim-4.htm	נחו	א
+../daat/tanach/trayasar/nachum.htm#p2	נחו	ב
+../daat/tanach/trayasar/nachum.htm#p3	נחו	ג
+../daat/kitveyet/betmikra/shivat.htm	נחמ	ג, לג-לח
+../daat/tanach/ktuvim/nehemya1.htm	נחמ	ד
+../daat/kitveyet/betmikra/igeret.htm	נחמ	ו
+../daat/tanach/ktuvim/lemashmauta-2.htm	נחמ	ט-י
+../daat/tanach/ktuvim/nehemya2.htm	נחמ	י
+../daat/kitveyet/betmikra/hator.htm	שיר	ב, יב
+../daat/tanach/samet/sh1-2.htm	שמת	א
+../daat/kitveyet/betmikra/haribuy.htm	שמת	א
+../daat/history/divrey/frame7.htm	שמת	א
+../daat/tanach/samet2/5-2.htm	שמת	א
+../daat/kitveyet/betmikra/pgishot.htm	שמת	ב
+../daat/history/divrey/frame8.htm	שמת	ב
+../daat/tanach/tora/nisayon.htm	שמת	ב-ד
+../daat/kitveyet/sde_chem/vaserman.htm	שמת	ב-ו
+../daat/tanach/tora/arov.htm	שמת	ה, טז
+../daat/tanach/samet/sh2-2.htm	שמת	ו
+../daat/kitveyet/hamaayan/veshmi-2.htm	שמת	ו, ג
+../daat/kitveyet/mahanaim/gvaryaho-3.htm	שמת	ח, כד; שמות יב, יב
+../daat/tanach/samet2/7-2.htm	שמת	יא
+../daat/history/divrey/frame9.htm	שמת	יב
+../daat/shabat/pesach/keneged-2.htm	שמת	יב-יג
+../daat/tanach/tora/yetsiat-2.htm	שמת	יג
+../daat/tanach/samet/sh4-2.htm	שמת	יד
+../daat/kitveyet/hamaayan/kriat-2.htm	שמת	יד
+../daat/kitveyet/sde_chem/havlin-1.htm	שמת	טו
+../daat/tanach/tora/berslavsky-3.htm	שמת	טז
+../daat/kitveyet/sde_chem/haman.htm	שמת	טז
+../daat/kitveyet/sinay/neriya-4.htm	שמת	טז ,יט
+../daat/tanach/samet2/21-2.htm	שמת	יז, יד
+../daat/kitveyet/hamaayan/haim-2.htm	שמת	יז
+../daat/tanach/samet2/8-2.htm	שמת	יז, ח-טז
+../daat/tanach/tora/harsinay.htm	שמת	יט
+../daat/tanach/tora/arbaa.htm	שמת	כ
+../daat/ruach/shoah/kabed.htm	שמת	כ
+../daat/kitveyet/sinay/maamad-4.htm	שמת	כ
+../daat/kitveyet/sinay/nevenzal-4.htm	שמת	כ
+../daat/tanach/tora/aseret-2.htm	שמת	כ
+../daat/tanach/samet2/9-2.htm	שמת	כ, יג
+../daat/tanach/tora/hahilufim-2.htm	שמת	כ
+../daat/tanach/samet/v8-2.htm	שמת	כא
+../daat/tanach/samet/sh6-2.htm	שמת	כא
+../daat/kitveyet/mahanaim/darkey-2.htm	שמת	כא
+../daat/tanach/tora/mikra.htm	שמת	כא, ב-ו
+../daat/tanach/samet2/10-2.htm	שמת	כא
+../daat/kitveyet/betmikra/im-lo.htm	שמת	כב, ז, י
+../daat/kitveyet/maaliyot/hine-2.htm	שמת	כג
+../daat/kitveyet/shana/adrihalut-2.htm	שמת	כה, ח-ט
+../daat/kitveyet/sinay/hacimboli-4.htm	שמת	כה-כח
+../daat/tanach/samet2/11-2.htm	שמת	כה-כח
+../daat/kitveyet/shana/adrihalut-2.htm	שמת	כח, טז
+../daat/tanach/tora/ktoret.htm	שמת	ל
+../daat/kitveyet/sinay/mefkad-4.htm	שמת	ל
+../daat/kitveyet/shmaatin/ktoret1.htm	שמת	ל
+../daat/kitveyet/hagigey/avodat-2.htm	שמת	לב
+../daat/history/divrey/frame10.htm	שמת	לב
+../daat/kitveyet/michlol/levin.htm	שמת	לב-לד
+../daat/kitveyet/betmikra/ki-bera1.htm	שמת	לב, כב
+../daat/kitveyet/betmikra/ki-bera2.htm	שמת	לב, כב
+../daat/tanach/samet3/5-2.htm	שמת	לב
+../daat/kitveyet/sinay/nevenzal-4.htm	שמת	לג-לד
+../daat/tanach/samet/bm1-2.htm	שמת	לח
+../daat/kitveyet/shmaatin/hana.htm	שמא	א-ב
+../daat/tanach/rishonim/ki-2.htm	שמא	ב
+../daat/kitveyet/betmikra/yerushat.htm	שמא	א-ג
+../daat/kitveyet/sde_chem/araret.htm	שמא	א-ג
+../daat/kitveyet/betmikra/hakdashat.htm	שמא	ג
+../daat/tanach/rishonim/even.htm	שמא	ד, ז
+../daat/tanach/rishonim/shmua5eli-1.htm	שמא	ה
+../daat/tanach/rishonim/dagon.htm	שמא	ה, ו
+../daat/kitveyet/michlol/kuperman.htm	שמא	ח
+../daat/kitveyet/sde_chem/boyer.htm	שמא	ח
+../daat/tanach/rishonim/groshmue.htm	שמא	ח
+../daat/tanach/rishonim/shmua8eli-1.htm	שמא	ח
+../daat/tanach/rishonim/tfisat.htm	שמא	ח
+../daat/kitveyet/betmikra/maavak.htm	שמא	ט
+../daat/history/divrey/frame16.htm	שמא	ט-י
+../daat/tanach/rishonim/nevua-2.htm	שמא	י
+../daat/tanach/tora/rachel/rachlmav.htm	שמא	י, ב
+../daat/kitveyet/mahanaim/maarahot-2.htm	שמא	ל
+../daat/tanach/rishonim/binyamin.htm	שמא	יא
+../daat/kitveyet/betmikra/diplomatya.htm	שמא	יא
+../daat/kitveyet/mahanaim/milhamut-4.htm	שמא	יג
+../daat/tanach/rishonim/mihmash-2.htm	שמא	יד
+../daat/tanach/rishonim/shmua15eli-1.htm	שמא	טו
+../daat/kitveyet/betmikra/milhemet.htm	שמא	טו
+../daat/tanach/rishonim/milhemet-2.htm	שמא	טו
+../daat/tanach/rishonim/haeyva.htm	שמא	טז
+../daat/tanach/rishonim/madua-2.htm	שמא	טז
+../daat/tanach/rishonim/milhemet1-2.htm	שמא	יז
+../daat/kitveyet/sde_chem/mazuz-4.htm	שמא	יז
+../daat/tanach/rishonim/nov.htm	שמא	כא
+../daat/tanach/rishonim/davidveshaul-2.htm	שמא	כד
+../daat/tanach/rishonim/melucha.htm	שמא	כד, כו
+../daat/tanach/rishonim/shmua22eli-1.htm	שמא	כד, כו
+../daat/kitveyet/betmikra/neum.htm	שמא	כה
+../daat/tanach/maamarim/nashim-eli-1.htm	שמא	כה
+../daat/kitveyet/michlol/drezner.htm	שמא	כה
+../daat/tanach/ktuvim/mishley13.htm	שמא	כו
+../daat/tanach/rishonim/shmua27eli-1.htm	שמא	כז
+../daat/tanach/rishonim/bgadav-2.htm	שמא	כח
+../daat/kitveyet/taleley/harey-2.htm	שמא	כח
+../daat/tanach/rishonim/haov.htm	שמא	כח
+../daat/history/divrey/frame17.htm	שמא	לא
+../daat/tanach/rishonim/hanaar-2.htm	שמא	לא
+../daat/kitveyet/mahanaim/milhamut-4.htm	שמא	כח
+../daat/tanach/emet/el-2.htm	שמא	ל
+../daat/tanach/rishonim/hanaar-2.htm	שמב	א
+../daat/kitveyet/sde_chem/bensipur.htm	שמב	ב-ה
+../daat/kitveyet/sde_chem/moshe.htm	שמב	ב-יא
+../daat/tanach/rishonim/plishtim-2.htm	שמב	ו
+../daat/tanach/rishonim/havtahat-2.htm	שמב	ז
+../daat/kitveyet/mahanaim/milhamot-2.htm	שמב	ח
+../daat/history/divrey/frame18.htm	שמב	ח-ט
+../daat/tanach/rishonim/sikumey-2.htm	שמב	ט-כ
+../daat/kitveyet/mahanaim/maarahot-2.htm	שמב	י
+../daat/kitveyet/mahanaim/milhamut-4.htm	שמב	י
+../daat/tanach/rishonim/yadnsukt.htm	שמב	יא
+../daat/kitveyet/betmikra/hasipur.htm	שמב	יא
+../daat/tanach/rishonim/shmub11eli-1.htm	שמב	יא-יב
+../daat/tanach/rishonim/shmua15eli-1.htm	שמב	יב
+../daat/kitveyet/betmikra/levenim.htm	שמב	יב
+../daat/tanach/rishonim/shmub12eli-1.htm	שמב	יב-טז
+../daat/kitveyet/sde_chem/araret.htm	שמב	יג
+../daat/tanach/rishonim/tfisat.htm	שמב	יג
+../daat/tanach/rishonim/yadinwar.htm	שמב	יג
+../daat/kitveyet/niv/vargon-1.htm	שמב	יג-יד
+../daat/tanach/rishonim/david-2.htm	שמב	יד
+../daat/tanach/rishonim/david1-2.htm	שמב	טו
+../daat/tanach/rishonim/ahitofel.htm	שמב	יז
+../daat/kitveyet/betmikra/habsora.htm	שמב	יח, י"ט-ל"ב
+../daat/kitveyet/sde_chem/shapira1-2.htm	שמב	יט, ל"ב-מ"א
+../daat/kitveyet/betmikra/asher.htm	שמב	כ, כד
+../daat/tanach/rishonim/shmub20eli-1.htm	שמב	כ
+../daat/kitveyet/michlol/gabai.htm	שמב	כא
+../daat/kitveyet/betmikra/iyun-2.htm	שמב	כא
+../daat/kitveyet/mahanaim/milhamut-4.htm	שמב	כג
+../daat/kitveyet/shmaatin/grozman-2.htm	שמב	כד
+../daat/tanach/maamarim/nashim-eli-1.htm	שופ	א
+../daat/tanach/rishonim/zehuto-2.htm	שופ	ב
+../daat/kitveyet/betmikra/ehud.htm	שופ	ג
+../daat/kitveyet/betmikra/pshuto.htm	שופ	ג
+../daat/tanach/melech/17.htm	שופ	ג
+../daat/tanach/rishonim/shof3eli-1.htm	שופ	ג
+../daat/tanach/rishonim/hatsor-2.htm	שופ	ד
+../daat/kitveyet/taleley/milhamot-2.htm	שופ	ד
+../daat/history/divrey/frame14.htm	שופ	ד
+../daat/tanach/melech/18.htm	שופ	ד-ה
+../daat/kitveyet/sinay/milhemet-4.htm	שופ	ד-ה
+../daat/kitveyet/sde_chem/havlin-1.htm	שופ	ה
+../daat/kitveyet/betmikra/emsisra.htm	שופ	ה
+../daat/tanach/rishonim/tfisat.htm	שופ	ו
+../daat/tanach/rishonim/zehuto-2.htm	שופ	ו
+../daat/tanach/melech/19.htm	שופ	ו-ח
+../daat/tanach/rishonim/malmtgid.htm	שופ	ו-ז
+../daat/kitveyet/taleley/milhemet-2.htm	שופ	ו-ז
+../daat/history/divrey/frame15.htm	שופ	ז-ח
+../daat/kitveyet/mahanaim/haloch.htm	שופ	ט
+../daat/kitveyet/betmikra/hamivne.htm	שופ	ט
+../daat/kitveyet/betmikra/sipur.htm	שופ	ט
+../daat/tanach/rishonim/shof10eli-1.htm	שופ	י-יב
+../daat/kitveyet/betmikra/diplomatya.htm	שופ	יא
+../daat/tanach/melech/20.htm	שופ	יא-יב
+../daat/tanach/rishonim/simon1-1.htm	שופ	יג
+../daat/tanach/rishonim/zehuto-2.htm	שופ	יג
+../daat/tanach/melech/21.htm	שופ	יג-טז
+../daat/kitveyet/betmikra/shimshon.htm	שופ	יג-טז
+../daat/kitveyet/sde_chem/araret.htm	שופ	יג-טז
+../daat/tanach/melech/22.htm	שופ	יז-כא
+../daat/tanach/rishonim/bayamim-2.htm	שופ	יז-כא
+../daat/tanach/tora/mi-ata-2.htm	שופ	כ
+../daat/kitveyet/betmikra/anonimi.htm	שופ	יט-כא
+../daat/tanach/emet/thlim1.htm	תהל	א
+../daat/tanach/emet/thlim1b.htm	תהל	א
+../daat/tanach/emet/thlim2.htm	תהל	ב
+../daat/tanach/emet/thlim3.htm	תהל	ג
+../daat/tanach/emet/thlim4.htm	תהל	ד
+../daat/kitveyet/shmaatin/leperush-2.htm	תהל	ד
+../daat/tanach/emet/thlim5.htm	תהל	ה
+../daat/tanach/emet/thlim6.htm	תהל	ו
+../daat/tanach/emet/thlim7.htm	תהל	ז
+../daat/kitveyet/mahanaim/avrams-3.htm	תהל	ח
+../daat/kitveyet/shmaatin/farbshtn.htm	תהל	ח, קמד
+../daat/tanach/emet/thlim8.htm	תהל	ח
+../daat/tanach/emet/ma-enosh-2.htm	תהל	ח
+../daat/tanach/emet/thlim10.htm	תהל	ט
+../daat/tanach/emet/thlim10b.htm	תהל	י
+../daat/tanach/emet/thlim11.htm	תהל	יא
+../daat/tanach/emet/thlim12.htm	תהל	יב
+../daat/tanach/emet/thlim13.htm	תהל	יג
+../daat/tanach/emet/thlim14.htm	תהל	יד
+../daat/tanach/emet/thlim15f.htm	תהל	טו
+../daat/tanach/emet/thlim15.htm	תהל	טו
+../daat/tanach/emet/thlim15b.htm	תהל	טו
+../daat/tanach/emet/thlim15c.htm	תהל	טו
+../daat/tanach/emet/thlim16.htm	תהל	טז
+../daat/tanach/emet/thlim21.htm	תהל	כא
+../daat/tanach/emet/thlim22.htm	תהל	כב
+../daat/tanach/emet/thlim23b.htm	תהל	כג
+../daat/tanach/emet/thlim23.htm	תהל	כג
+../daat/tanach/emet/tehilim23-2.htm	תהל	כג
+../daat/tanach/emet/thlim24.htm	תהל	כד
+../daat/kitveyet/michlol/levin.htm	תהל	כז
+../daat/tanach/emet/thlim27b.htm	תהל	כז
+../daat/tanach/emet/horeni-2.htm	תהל	כז
+../daat/tanach/emet/thlim32b.htm	תהל	לב
+../daat/tanach/emet/tehilim34.htm	תהל	לד
+../daat/kitveyet/sinay/tehilim-4.htm	תהל	לו
+../daat/tanach/emet/hevel-2.htm	תהל	לט
+../daat/tanach/emet/habitahon-2.htm	תהל	מד
+../daat/tanach/emet/elohim-2.htm	תהל	מו
+../daat/tanach/emet/kol-2.htm	תהל	מז
+../daat/kitveyet/taleley/tehilim-2.htm	תהל	מז
+../daat/tanach/rishonim/shaul-2.htm	תהל	נא
+../daat/kitveyet/sde_chem/moshe.htm	תהל	נא
+../daat/tanach/emet/thlim51b.htm	תהל	נא
+../daat/tanach/emet/thlim55b.htm	תהל	נה
+../daat/kitveyet/sinay/beurim-4.htm	תהל	נח
+../daat/tanach/emet/thlim61b.htm	תהל	סא
+../daat/tanach/emet/thlim62b.htm	תהל	סב
+../daat/tanach/emet/thlim65b.htm	תהל	סה
+../daat/tanach/emet/hatsaot-2.htm	תהל	עג
+../daat/tanach/emet/hatsedek-2.htm	תהל	עג
+../daat/kitveyet/sde_chem/mizmor-2.htm	תהל	עג
+../daat/tanach/emet/tehilim76b-1.htm	תהל	עו (עג,עד)
+../daat/tanach/emet/tehilim76-1.htm	תהל	עו
+../daat/tanach/emet/tehilim81-1.htm	תהל	פא
+../daat/tanach/emet/tehilim82-1.htm	תהל	פב
+../daat/tanach/ktuvim/tehilim-4.htm	תהל	פד
+../daat/kitveyet/sde_chem/yeru2.htm	תהל	פד
+../daat/tanach/emet/thlim89b.htm	תהל	פט
+../daat/kitveyet/sinay/perusho-4.htm	תהל	צ
+../daat/tanach/emet/torat-2.htm	תהל	צ-צא
+../daat/tanach/emet/thlim91b.htm	תהל	צא
+../daat/tanach/emet/tehilim92-1.htm	תהל	צב
+../daat/tanach/emet/geut-2.htm	תהל	צג
+../daat/tanach/emet/el-2.htm	תהל	צד
+../daat/kitveyet/sinay/veamar-4.htm	תהל	צה
+../daat/tanach/emet/torat1-2.htm	תהל	קג
+../daat/kitveyet/sinay/nevenzal-4.htm	תהל	קג-קד
+../daat/tanach/emet/thlim104b.htm	תהל	קד
+../daat/tanach/emet/tehilim30-1.htm	תהל	קד
+../daat/tanach/samet2/4-2.htm	תהל	קה
+../daat/tanach/tora/ber4eli-1.htm	תהל	קי
+../daat/tanach/emet/tehilim114-2.htm	תהל	קיד
+../daat/tanach/emet/tehilim119-1.htm	תהל	קיט
+../daat/tanach/tora/arbaa.htm	תהל	קטו, קלה
+../daat/kitveyet/sinay/hapsukim-2.htm	תהל	קיח
+../daat/kitveyet/sde_chem/yeru2.htm	תהל	קיח, קכב
+../daat/tanach/emet/thlim120b.htm	תהל	קכ
+../daat/tanach/emet/shuva.htm	תהל	קכו
+../daat/tanach/emet/thlim128b.htm	תהל	קכח
+../daat/kitveyet/shmaatin/yegia-2.htm	תהל	קכח
+../daat/kitveyet/sde_chem/barhama-1.htm	תהל	קכט
+../daat/tanach/emet/tehilim131-2.htm	תהל	קלא
+../daat/tanach/emet/thlim133.htm	תהל	קלג
+../daat/tanach/emet/thlim141.htm	תהל	קמא
+../daat/kitveyet/shmaatin/farbshtn.htm	תהל	קמד, ח
+../daat/tanach/emet/thlim149.htm	תהל	קמט
+../daat/tanach/samet/v1-2.htm	ויק	א-ב
+../daat/kitveyet/betmikra/hator.htm	ויק	א, יד
+../daat/tanach/samet2/12-2.htm	ויק	ו, יב-טו
+../daat/kitveyet/shmaatin/kehuna.htm	ויק	ז, ו-כג
+../daat/art/nesiat/ben-uri-2.htm	ויק	ט, כב
+../daat/kitveyet/shmaatin/nadav.htm	ויק	י
+../daat/tanach/samet/v3-2.htm	ויק	יא
+../daat/tanach/tora/shmini.htm	ויק	יא
+../daat/kitveyet/sde_chem/shmini.htm	ויק	יא
+../daat/kitveyet/sinay/bhinat-2.htm	ויק	יא
+../daat/tanach/samet2/13-2.htm	ויק	יא
+../daat/kitveyet/shmaatin/yomkipur.htm	ויק	טז
+../daat/tanach/samet/v5-2.htm	ויק	יח
+../daat/tanach/samet2/14-2.htm	ויק	יח, ח
+../daat/kitveyet/maaliyot/yediat-2.htm	ויק	יט
+../daat/tanach/samet/v7-2.htm	ויק	כב
+../daat/tanach/tora/chilul.htm	ויק	כב, לב
+../daat/tanach/tora/milot-2.htm	ויק	כג
+../daat/tanach/maamarim/milot-2.htm	ויק	כג
+../daat/tanach/samet2/15-2.htm	ויק	כג
+../daat/tanach/samet/v8-2.htm	ויק	כד
+../daat/tanach/tora/mikra.htm	ויק	כה
+../daat/kitveyet/mahanaim/darkey-2.htm	ויק	כה
+../daat/tanach/samet2/10-2.htm	ויק	כה
+../daat/tanach/tora/vayikra27eli-1.htm	ויק	כז
+../daat/kitveyet/hamaayan/hashkiva-2.htm	יחז	ד
+../daat/tanach/rishonim/gvaryahu-4.htm#p8	יחז	ח
+../daat/tanach/achronim/yehkl11eli-1.htm	יחז	ט
+../daat/tanach/achronim/yeh20eli-1.htm	יחז	יח ו-לג
+../daat/tanach/achronim/yehkl11eli-1.htm	יחז	כט
+../daat/tanach/achronim/bethamik.htm	יחז	מ
+../daat/tanach/tora/gvul-eli-1.htm	יחז	מד
+../daat/tanach/maamarim/nashim-eli-1.htm	יהש	א
+../daat/tanach/rishonim/shvartz1.htm#p2	יהש	ב
+../daat/kitveyet/shmaatin/haknisa-2.htm	יהש	ד
+../daat/tanach/rishonim/yosh5eli-1.htm	יהש	ה
+../daat/tanach/rishonim/yosh6eli-1.htm	יהש	ו-יא
+../daat/tanach/melech/6-2.htm	יהש	ו
+../daat/tanach/rishonim/shvartz2.htm#p8	יהש	ו
+../daat/tanach/rishonim/shvartz2.htm#p9	יהש	ו
+../daat/tanach/rishonim/shvartz2.htm#p11	יהש	ו
+../daat/kitveyet/deot/elyzor.htm	יהש	ז
+../daat/tanach/melech/7-2.htm	יהש	ז
+../daat/tanach/rishonim/shvartz2.htm#p12	יהש	ח
+../daat/tanach/tora/grizim.htm	יהש	ח
+../daat/tanach/rishonim/shvartz3.htm#p13	יהש	ח-ט
+../daat/tanach/melech/9-2.htm	יהש	ט
+../daat/kitveyet/taleley/kritat-2.htm	יהש	ט
+../daat/history/divrey/frame13.htm	יהש	י
+../daat/tanach/rishonim/shvartz3.htm#p14	יהש	י
+../daat/tanach/rishonim/shvartz3.htm#p15	יהש	י
+../daat/tanach/rishonim/shvartz3.htm#p16	יהש	יא
+../daat/tanach/rishonim/hatsor-2.htm	יהש	יא
+../daat/kitveyet/taleley/milhamot-2.htm	יהש	יא
+../daat/tanach/tora/gvul-eli-1.htm	יהש	יג
+../daat/tanach/tora/midyan.htm	יהש	יג
+../daat/tanach/rishonim/kibush.htm	יהש	טז
+../daat/tanach/tora/vayetse-2.htm	יהש	טז
+../daat/tanach/rishonim/gvulefraim-eli-1.htm	יהש	טז-יח
+../daat/kitveyet/taleley/nahalat-2.htm	יהש	יז
+../daat/tanach/rishonim/mishkan-2.htm	יהש	יח
+../daat/tanach/melech/20-2.htm	יהש	כ
+../daat/tanach/rishonim/altahalic.htm	יהש	כב
+../daat/tanach/tora/mi-ata-2.htm	יהש	כב
+../daat/tanach/tora/alitsor-1.htm	יהש	כב
+../daat/kitveyet/betmikra/kidmot.htm	ישע	ד
+../daat/tanach/achronim/yashuv.htm	ישע	ו
+../daat/tanach/achronim/yeshayau.htm	ישע	ו
+../daat/tanach/achronim/yashuv.htm	ישע	י
+../daat/tanach/rishonim/masa.htm	ישע	י, לו-לז
+../daat/tanach/rishonim/sanheriv.htm	ישע	י, לו-לז
+../daat/tanach/achronim/chazon.htm	ישע	יא
+../daat/tanach/achronim/ovdan-2.htm	ישע	יד
+../daat/tanach/achronim/moav.htm	ישע	טו-טז
+../daat/tanach/achronim/masa-4.htm	ישע	יט
+../daat/tanach/achronim/yish20eli-1.htm	ישע	כ
+../daat/tanach/achronim/hoy-2.htm	ישע	לב
+../daat/tanach/achronim/batsoret.htm	ישע	לב
+../daat/kitveyet/betmikra/neumo.htm	ישע	לו-לז
+../daat/history/divrey/frame24.htm	ישע	לו-לז
+../daat/kitveyet/betmikra/keytsad.htm	ישע	לז, לו
+../daat/tanach/achronim/yeshaaya-2.htm	ישע	לט
+../daat/tanach/achronim/lo-2.htm	ישע	מג
+../daat/tanach/achronim/dimuy-2.htm	ישע	מט
+../daat/tanach/achronim/eved-2.htm	ישע	נג
+../daat/kitveyet/betmikra/haoyev.htm	ישע	סג
+../daat/tanach/achronim/yom-2.htm	ישע	סג
+../daat/tanach/trayasar/yoel1.htm	יאל	א
+../daat/tanach/achronim/batsoret.htm	יאל	א-ב
+../daat/kitveyet/michlol/levi.htm	יאל	ג"
+../daat/tanach/trayasar/zeharia1.htm	זכר	א
+../daat/tanach/trayasar/zeharia2.htm	זכר	א
+../daat/kitveyet/betmikra/hazon.htm	זכר	ב
+../daat/tanach/trayasar/zeharia3.htm	זכר	ב
+../daat/tanach/trayasar/zeharia4.htm	זכר	ב
+../daat/tanach/trayasar/zeharia5.htm	זכר	ג
+../daat/tanach/trayasar/zeharia6.htm	זכר	ד
+../daat/kitveyet/mahanaim/menorat-2.htm	זכר	ד
+../daat/tanach/trayasar/zeharia7.htm	זכר	ה
+../daat/tanach/trayasar/zeharia8.htm	זכר	ה
+../daat/tanach/trayasar/zeharia6e.htm	זכר	ו
+../daat/tanach/trayasar/zeharia9.htm	זכר	ו
+../daat/tanach/trayasar/zehari10.htm	זכר	ז
+../daat/tanach/trayasar/zehari11.htm	זכר	ז
+../daat/tanach/trayasar/zehari12.htm	זכר	ח
+../daat/tanach/trayasar/zehari13.htm	זכר	ט
+../daat/tanach/trayasar/zehari14.htm	זכר	י-יא
+../daat/tanach/trayasar/zehari15.htm	זכר	יא
+../daat/tanach/trayasar/zehari16.htm	זכר	יב
+../daat/tanach/trayasar/zehari17.htm	זכר	יג
+../daat/tanach/trayasar/zehari18.htm	זכר	יד

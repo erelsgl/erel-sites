@@ -1,0 +1,17 @@
+Begin tables
+	mlkim
+		htxla:Real
+		jm:String
+		zmn:Real
+		rcx:Boolean
+End
+
+Begin subtables
+	dummy:mlkim
+		viewable as form.
+		with only the following fields
+			htxla:htxla
+			jm:jm
+			zmn:zmn
+			rcx:rcx
+End

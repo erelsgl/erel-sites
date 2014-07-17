@@ -1,0 +1,59 @@
+body {
+   font-family:David; 
+   background: url(../_themes/books3_yroq.jpg) white; 
+   margin:1.5em;  padding:1.5em
+}
+body div.pnim {
+  background: url(../_themes/books3_yroq.jpg)
+}
+p, div, h1, h2, h3, a {
+  background:white
+}
+
+p, div {font-size:28pt;text-align:justify}
+p a, div a {font-size:12pt; font-style:italic}
+
+p.r {font-size:165%;text-align:right;}
+p.m {font-size:120%;text-align:justify;}
+p.s {font-size:small;text-align:justify;}
+
+tr {font-size:135%;}
+
+h1 {font-size:32pt}
+h2 {font-size:26pt;}
+h3 {font-size:22pt;}
+big {font-size:120%;}
+small {font-size:80%;}
+
+a:link       { color: #990033 }
+a:visited    { color: #006633 }
+a:active, a:hover     { color: #ff6600 }
+a img {border:0pt}
+
+a.qijur_lgrsa {font: x-small; background-color: transparent; padding: 1ex}
+a.qijur_lgrsa:link       { color: #990033 }
+a.qijur_lgrsa:visited    { color: #006633 }
+a.qijur_lgrsa:active, a.qijur_lgrsa:hover     { color: #ff6600 }
+
+
+a.mila {background-color: transparent; text-decoration: none; font-size: 100%; font-style:normal}
+a.mila:link, a.mila:visited {color:#336666}
+a.mila:active, a.mila:hover     { color: #ff6600 }
+
+.la_pwrsm {background-color: orange}
+
+DIV.kisuy {border: dotted white}
+.txtit {font-size: x-small; border-top:solid 1pt}
+.edited {border:dashed 1pt}
+
+
+.NiwutElyon {  
+  TEXT-ALIGN: center;
+  FONT-FAMILY: monospace;
+  FONT-SIZE: small;
+  PADDING-top: 1ex;
+  PADDING-bottom: 1ex;
+  BORDER-top: 2pt ridge;
+  BORDER-bottom: 2pt ridge;
+}
+.NiwutElyon .NiwutElyon { BORDER: none; PADDING: 0px; MARGIN: 0px;  }

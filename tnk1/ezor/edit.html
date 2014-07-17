@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' dir="rtl" lang="he">
+<head>
+<link rel='stylesheet' href='../../_script/klli.css' />
+<link rel='stylesheet' href='../_themes/klli.css' />
+	<title>ניהול מאגר-הנתונים של האיזורים בעולם התנ"ך</title>
+		<style type='text/css'>
+body.azwr div.pnim {margin:1%}
+form {border: dashed 1pt}
+.delete, .edit {color:red}
+.deletion {color:darkred}
+.add, .search {color:green}
+table {width:100%}
+texarea {font-size:10pt; font-family:monospace}
+</style>
+<script type='text/javascript' src="../../_script/elements.js"></script>
+<script type='text/javascript' src="../../_script/frames.js"></script>
+<script type='text/javascript' src="../../_script/TSV.js"></script>
+<script type='text/javascript'>//<![CDATA[
+
+var theGlobalForm;
+
+function findpsuq(string) {
+	window.open(
+		'http://www.tora.us.fm/cgi-bin/findpsuq.pl?erk=' +
+		string.replace(/ [0-9]/g, "").replace(/[0-9]/g, "") +
+		'&mslul=..%2Fhttpdocs%2Ftnk1');
+}
+function ValidatePsuq(sfr,prq,psuq,citut) {
+	return	ValidateNotEmpty(sfr,"ספר") &&
+		ValidateNotEmpty(prq,"פרק") &&
+		ValidateNotEmpty(psuq,"פסוק") &&
+		ValidateNotEmpty(citut,"ציטוט");
+}
+function OpenTableEditor(datafile, pattern) {
+	window.open(
+		'../../_script/display.html?' + datafile + '+Table+' +
+		encodeURI(pattern),
+		'','scrollbars=yes,menubar=yes,height=600,width=800,resizable=yes,toolbar=yes,location=yes,status=yes');
+}
+// returns true if the given item (prt) already exists in prtimFrame
+function PrtKvrQym(prt) {
+prt = prt.replace(/-/," ");
+	text = frameText('prtimFrame');
+	//alert(text);
+	return	(text.indexOf("\n"+prt+"\t") > 0) ||
+		(text.indexOf(prt+"\t") == 0);
+}
+// returns true if the given relation (qjr) already exists in qjrimFrame
+function QjrKvrQym(prt1, qjr, prt2) {
+	text = frameText('qjrimFrame');
+	return	(text.search("\n"+prt1+"\t"+qjr+"\t"+prt2+"\t") > 0) ||
+		(text.search(prt1+"\t"+qjr+"\t"+prt2+"\t") == 0);
+}
+function OnSubmitShowVersions(theForm) {
+	parent.dataFrameIsOutdated = true;
+	theForm.username.value = theGlobalForm.username.value;
+	theForm.password.value = theGlobalForm.password.value;
+	//theForm.openpassword.value = theGlobalForm.openpassword.value;
+	//theForm.file.value=parent.dataFrame.location;
+	return true;
+}
+function OnSubmitEdit(theForm) {
+	if (theGlobalForm.username.value.length==0) {
+		alert('שכחת לכתוב שם!');
+		return false;
+	}
+	if (theGlobalForm.password.value.length==0) {
+		alert('שכחת לכתוב סיסמה!');
+		return false;
+	}
+	OnSubmitShowVersions(theForm);
+	alert('הבקשה נשלחה');
+	hide(theForm);
+	return true;
+}
+//]]></script>
+</head>
+
+
+
+<body class="azwr">
+	<div class="pnim">
+		<h1>האיזורים בעולם התנ"ך</h1>
+		<h2>חיפוש איזור במאגר הנתונים:</h2>
+		<p>
+			<a target="_blank" href="http://www.tora.us.fm/cgi-bin/csv_ezor.pl?csv=_magr%2Fprt_ezor.txt&amp;field=1&amp;sort=1&amp;search=ארץ">
+				כל הארצות ונחלות-השבטים </a>&nbsp;&nbsp;&nbsp; <a target="_blank" href="http://www.tora.us.fm/cgi-bin/csv_ezor.pl?csv=_magr%2Fprt_ezor.txt&amp;field=1&amp;sort=1&amp;search=עיר">
+				כל הערים </a>
+		
+<form action="../../../cgi-bin/csv_ezor.pl" method="get" target="_top">
+	<table>
+		<input type='hidden' name='csv' value='_magr/prt_ezor.txt'> <input type='hidden' name='field' value='0'>
+		<tr>	<td>
+			מחרוזת מתוך שם האיזור: (ניתן להשאיר ריק כדי לראות את כל האיזורים.)</td>
+			<td><input type="text" name="search" size="20" /></td></tr>
+		<tr>	<td>
+			סמן כאן להצגת מידע שנובע מפסוקים בלבד: נקה את הסימון להצגת המידע כולו..</td>
+			<td><input type="checkbox" name="rq_psuq" /></td></tr>
+		<tr>	<td>
+			סמן כאן להצגת הקשרים לפי סדר אלפביתי: נקה את הסימון להצגת הקשרים לפי סדר
+			הוספתם.</td>
+			<td><input type="checkbox" name="sort" /></td></tr>
+	</table>
+	<p style="text-align:center"><input class="search" type="submit" value="חפש" />
+</form>
+<p>ניתן להוריד את הטבלאות בשלמותן: <a href="../../_magr/prt_ezor.txt">טבלת הפרטים</a>
+	&nbsp;&nbsp;&nbsp; <a href="../../_magr/qjr_ezor_ezor.txt">טבלת הקשרים</a> 
+<p><span style='font-size:larger'>התוכנה, והטבלאות שנוצרו בעזרתה, ניתנות לשימוש חופשי על-פי הרשיון שב<a href="../../rjyon_bivrit.html">קישור</a>.</span> 
+<h2>זיהוי:</h2>
+<form id="global">
+<table>
+<tr>
+<td>השם שלך:</td>
+<td><script type='text/javascript'>document.write("<" + "input name='username' value='" + parent.username + "'>")</script></td></tr>
+<tr>
+<td>הסיסמה הפרטית:</td>
+<td><script type='text/javascript'>document.write("<" + "input name='password' type='password' value='" + parent.password + "'>")</script>
+<td style='display:none'>
+	(עם סיסמה פרטית, השינויים שלך ייכנסו לגרסה הרשמית. בלי סיסמה פרטית, השינויים שלך ייכנסו לגירסה לא רשמית)</td></tr>
+</table>
+</form>
+
+<script type='text/javascript'>
+theGlobalForm = document.getElementById('global');
+</script>
+
+<h2>הוספת פרטי איזור:</h2>
+<script type='text/javascript'>
+	function prt_show(theForm) {
+		show('prt');
+		hide('qjr');
+		hide('prt_hosf_psuq');
+		hide('prt_hosf_olam');
+		show(theForm);
+	}
+</script>
+	<p>
+		<button onclick="javascript:prt_show('prt_hosf_psuq')">הוספת איזור שנזכר בתנ"ך</button>&nbsp;
+		<button onclick="javascript:prt_show('prt_hosf_olam')">הוספת איזור שמופיע במפות של ימינו</button>&nbsp; 
+	<p>
+		<button onclick="javascript:parent.refreshifneeded();opentableeditor('_magr/prt_ezor.txt',document.getelementbyid('prt_arok_tvla_pattern').value)">עריכת הפרטים שמכילים את המחרוזת:</button>&nbsp;
+		<input name='prt_arok_tvla_pattern' id='prt_arok_tvla_pattern' onclick="javascript:parent.refreshifneeded()" /> 
+	<form style='border:0pt' id="prt_hcg_girsaot" target="_blank" action="../../../cgi-bin/rewrite.pl" method="post" onsubmit='return onsubmitshowversions(this)'>
+		<input type="hidden" name="file" value='_magr/prt_ezor.txt' />
+		<input type="hidden" name="username" />
+		<input type="hidden" name="password" />
+		<input type="submit" name="versionlist" value="הצג גרסאות קודמות" />
+	</form>
+	<div id="prt" style='display:none'>
+		<form id="prt_hosf_psuq" target="_blank" action="../../../cgi-bin/rewrite.pl" method="post"
+		onsubmit='addtextline.value=textfromfields(this); if (validatepsuq(prt_hosf_psuq_sfr,prt_hosf_psuq_prq,prt_hosf_psuq_psuq,prt_hosf_psuq_citut)) return onsubmitedit(this); else return false;'>
+			<input type="hidden" name="file" value='_magr/prt_ezor.txt' />
+			<input type="hidden" name="title" value='טבלת האיזורים' />
+			<input type="hidden" name="username" />
+			<input type="hidden" name="password" />
+			<input type="hidden" name="addtextline" />
+		<p>
+		<table>
+			<tr><td>שם האיזור (אם יש כמה איזורים עם אותו שם, יש להוסיף מספר סידורי) </td>
+			<td><input type="text" name="field0" id="prt_hosf_psuq_jm" size="20" onmouseout='javascript:if(prtkvrqym(this.value)) {alert("כבר יש איזור בשם זה בטבלה!\r\nאם יש שני איזורים שונים עם אותו שם, יש לתת לכל אחד מספר סידורי."); this.value=""}'></td></tr>
+			<tr><td>סוג</td>
+			<td><select name="field1" size="1">
+			<option value="עיר">עיר, כפר, יישוב </option>
+			<option value="ארץ">
+				ארץ, נחלה של שבט</option>
+			<option value="הר">
+				במה, גבעה, הר, רכס</option>
+			<option value="עמק">
+				עמק, בקעה, גיא, ככר</option>
+			<option value="מישור">
+				מישור, שדה, ערבה, מדבר, יער</option>
+			<option value="שער">
+				מבנה, שער, מגדל</option>
+			<option value="ים">
+				ים, אגם</option>
+			<option value="נהר">
+				נהר, נחל</option>
+			<option value="מעין">
+				מעין, בריכה</option>
+			</select></td></tr>
+		</table>
+		<table>
+			<tr><th>דוגמה לפסוק שבו נזכר האיזור:</th>
+			<td>
+			<a class="search" href="javascript:findpsuq(document.getElementById('prt_hosf_psuq_jm').value)">חפש את האיזור בתנך</a>
+			<input type='hidden' name="field2" value="פסוק" /></td>
+			<tr>
+			<td>ספר</td>
+			<td><input type="text" name="field3" id="prt_hosf_psuq_sfr" size="10" /></td></tr>
+			<tr>
+			<td>פרק</td>
+			<td><input type="text" name="field4" id="prt_hosf_psuq_prq" size="2" /></td></tr>
+			<tr>
+			<td>פסוק</td>
+			<td><input type="text" name="field5" id="prt_hosf_psuq_psuq" size="2" /></td></tr>
+			<tr>
+			<td>ציטוט</td>
+			<td><input type="text" name="field6" id="prt_hosf_psuq_citut" size="50" /></td></tr>
+		</table>
+		<p style="text-align:center">
+		<input class="add" type="submit" name="add" value="הוסף" />
+	</form>
+	<form id="prt_hosf_olam" target="_blank" action="../../../cgi-bin/rewrite.pl" method="post"
+		onsubmit='addtextline.value=textfromfields(this); return onsubmitedit(this);'>
+		<input type="hidden" name="file" value='_magr/prt_ezor.txt' />
+		<input type="hidden" name="username" />
+		<input type="hidden" name="password" />
+		<input type="hidden" name="title" value="טבלת האיזורים" />
+		<input type="hidden" name="addtextline" />
+		<p>
+		<table>
+			<tr>
+			<td>
+			שם האיזור (אם יש כמה איזורים עם אותו שם, יש להוסיף מספר סידורי)</td>
+			<td><input type="text" name="field0" size="20" /></td></tr>
+			<tr>
+			<td>סוג</td>
+			<td>
+			<select name="field1" size="1">
+				<option value="עיר">
+					עיר, כפר, יישוב</option>
+				<option value="ארץ">
+					ארץ, נחלה של שבט</option>
+				<option value="הר">
+					במה, גבעה, הר, רכס</option>
+				<option value="עמק">
+					עמק, בקעה, גיא, ככר</option>
+				<option value="מישור">
+					מישור, שדה, ערבה, מדבר, יער</option>
+				<option value="שער">
+					מבנה, שער, מגדל</option>
+				<option value="ים">
+					ים, אגם</option>
+				<option value="נהר">
+					נהר, נחל</option>
+				<option value="מעין">
+					מעין, בריכה</option>
+			</select></td></tr>
+		</table>
+		<table>
+			<tr>
+			<th>
+			המיקום הגיאוגרפי שבו נמצא האיזור בימינו:<td>
+			<input type='hidden' name="field2" value="עולם">
+			<tr>
+			<td>
+			מדינה<td><input type="text" name="field3" size="10">
+			<tr>
+			<td>
+			צד במדינה (צפון, דרום, מזרח, מערב, מרכז...)<td><input type="text" name="field4" size="10">
+			<tr>
+			<td>
+			מחוז (למשל "שפלת החוף", "מדרום לתל-אביב"...)<td><input type="text" name="field5" size="10">
+			<input type='hidden' name="field6" value="">
+		</table>
+		<p style="text-align:center"><input class="add" type="submit" name="add" value="הוסף">
+	</form>
+	</div>
+<h2>הוספת/מחיקת קשר בין שני איזורים:</h2>
+<script type='text/javascript'>
+	function qjr_show(theForm) {
+		AnalyzeFrameTableStructure('qjrimFrame');
+		show('qjr');
+		hide('prt');
+		hide('qjr_hosf');
+		show(theForm);
+	}
+</script>
+<p><button onclick="javascript:parent.refreshifneeded(); qjr_show('qjr_hosf');show('qjr_hosf_psuq');hide('qjr_hosf_mqor');getelementbyid('qjr_hosf').mqor.selectedindex=0">הוספת קשר שמבוסס על פסוק בלבד</button>&nbsp;
+	<button onclick="javascript:parent.refreshifneeded(); qjr_show('qjr_hosf');hide('qjr_hosf_psuq');show('qjr_hosf_mqor');getelementbyid('qjr_hosf').sfr.value='';getelementbyid('qjr_hosf').prq.value='';getelementbyid('qjr_hosf').psuq.value='';getelementbyid('qjr_hosf').citut.value='';getelementbyid('qjr_hosf').mqor.selectedindex=1">הוספת קשר שמבוסס על מקור אחר</button>
+<p><button onclick="javascript:parent.refreshifneeded(); opentableeditor('_magr/qjr_ezor_ezor.txt',document.getelementbyid('qjr_arok_tvla_pattern').value);">עריכת הקשרים שמכילים את המחרוזת:</button>&nbsp;
+	<input id="qjr_arok_tvla_pattern" onclick="javascript:parent.refreshifneeded()">
+	<form style='border:0pt' target="_blank" action="../../../cgi-bin/rewrite.pl" method="post" onsubmit='return onsubmitshowversions(this)'>
+		<input type="hidden" name="file" value='_magr/qjr_ezor_ezor.txt'>
+		<input type="hidden" name="title" value='טבלת הקשרים בין איזורים'>
+		<input type="hidden" name="username"><input type="hidden" name="password">
+		<input type="submit" name="versionlist" value="הצג גרסאות קודמות">
+	</form>
+	<div id="qjr" style='display:none'>
+	<form id="qjr_hosf" target="_blank" action="../../../cgi-bin/rewrite.pl" method="post"
+		onsubmit='addtextline.value=textfromfields(this)+"\r\n"; temp=field1.value; field1.value=opposite1.value; opposite1.value=temp; temp=field0.value; field0.value=field2.value; field2.value=temp; addtextline.value+=textfromfields(this); if (mqor.value!="פסוק" || validatepsuq(this.form.sfr,this.form.prq,this.form.psuq,this.form.citut)) return onsubmitedit(this); else return false;'>
+		<input type="hidden" name="file" value='_magr/qjr_ezor_ezor.txt'> <input type="hidden" name="username"><input type="hidden" name="password">
+		<input type="hidden" name="title" value='טבלת הקשרים בין איזורים'>
+		<input type="hidden" name="addtextline">
+		<p>
+		<table>
+			<script type='text/javascript'>
+AnalyzeFrameTableStructure('prtimFrame');
+menuHtml=MenuFromFrame();
+</script>
+			<tr>
+			<td>
+			איזור א<td><select name='field0' id="qjr_hosf_a" size="1"><script type='text/javascript'>document.write(menuHtml)</script></select>
+			<input type="hidden" value='ממערב ל' name="opposite1">
+			<tr>
+			<td>
+			הקשר בין האיזורים<td>
+			<select id="qjr_hosf_sug" name='field1' size="1" onchange='javascript:opposite1.value=this.options[this.selectedindex].opposite; if(qjrkvrqym(field0.value,field1.value,field2.value)) alert("הקשר כבר קיים בטבלה!")'>
+			<option opposite="ממערב ל" value="ממזרח ל">
+				ממזרח ל</option>
+			<option opposite="מדרום ל" value="מצפון ל">
+				מצפון ל</option>
+			<option opposite="ממזרח ל" value="ממערב ל">
+				ממערב ל</option>
+			<option opposite="מצפון ל" value="מדרום ל">
+				מדרום ל</option>
+			<option opposite="סמוך ל" value="סמוך ל">
+				סמוך ל [כאשר הכיוון לא ידוע]</option>
+			<option opposite="מכיל את" value="בתוך">
+				בתוך [למשל עיר בנחלת שבט]</option>
+			<option opposite="בתוך" value="מכיל את">
+				מכיל את</option>
+			<option opposite="נקרא גם" value="נקרא גם">
+				נקרא גם</option>
+			</select>
+			<tr>
+				<td>
+				איזור ב<td><select name='field2' id="qjr_hosf_b" onchange='if(qjrkvrqym(field0.value,field1.value,field2.value)) alert("הקשר כבר קיים בטבלה!")' size="1"><script type='text/javascript'>document.write(menuHtml)</script></select>
+			<tr>
+				<th>
+				המקור<td>
+		</table>
+		<table id="qjr_hosf_mqor">
+			<tr>
+			<td>
+			<select name='field3' size="1" id="mqor">
+				<option value="פסוק">
+					פסוק</option>
+				<option value="אותיות">
+					אותיות (דמיון מילולי)</option>
+				<option value="גיאוגרפיה">
+					גיאוגרפיה</option>
+				<option value="משפחה">
+					משפחה (מקומות על-שם בנים של שבטים)</option>
+				<option value="ארכיאולוגיה">
+					ארכיאולוגיה</option>
+				<option value="אחר">
+					אחר</option>
+			</select>
+		</table>
+		<table id="qjr_hosf_psuq">
+			<tr>
+			<td><a class="search" href="javascript:findpsuq(document.getElementById('qjr_hosf_a').value)">
+			חפש את איזור א בתנך
+			</a></td>
+			<td><a class="search" href="javascript:findpsuq(document.getElementById('qjr_hosf_b').value)">
+			חפש את איזור ב בתנך
+			</a></td></tr>
+			<tr>
+			<td>
+			ספר<td><input type="text" id="sfr" name='field4' size="10">
+			<tr>
+			<td>
+			פרק<td><input type="text" id="prq" name='field5' size="2">
+			<tr>
+			<td>
+			פסוק<td><input type="text" id="psuq" name='field6' size="2">
+			<tr>
+			<td>
+			ציטוט<td><input type="text" id="citut" name='field7' size="50">
+		</table>
+		<table>
+			<tr>
+			<td>
+			הסבר<td><input type="text" name='field8' size="60">
+			</table>
+			<p style="text-align:center"><input type="submit" name="add" class="add" value="הוסף">
+	</form>
+	</div>
+	<br />
+	<br />
+	<p style='text-align:center'>
+	תודה ל: <a href="http://www.mycgiscripts.com">MyCgiScripts.com</a> <a href="http://www.rgagnon.com">
+		Real's HowTo Javascript</a>
+	
+</body></html>

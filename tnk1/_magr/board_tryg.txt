@@ -1,0 +1,862 @@
+TGUVA	\N	2004-09-14 17:09:23	2004-09-14 17:09:23	http://toraland.org.il	מכון התורה והארץ - להסברת המצוות התלויות בארץ [חיצוני]	-	\N	\N
+TGUVA	\N	2004-09-15 16:06:00	2004-09-15 16:06:00	tryg/messages/symn_trmh0.doc	תוספת ל: הלכות לולב [קובץ]	יהודי בגולה זה אני	\N	\N
+tryg/jmita/xskon.html	\N	2004-09-20 22:24:03	2004-09-20 22:24:03	tryg/messages/jmita_xskon_0.html	תגובה ל: חסכון משנות-העבודה לשנה השביעית	רן	\N	\N
+tryg/jmita/xskon.html	\N	2004-09-20 22:31:04	2004-09-20 22:31:04	tryg/messages/jmita_xskon_1.html	עוד רעיון	רן	\N	\N
+TGUVA	\N	2004-09-21 14:32:59	2004-09-21 14:32:59	tryg/messages/hlkwt_tjwbh0.doc	סיכום להלכות התשובה [קובץ]	דניאל כהן	\N	\N
+TGUVA	\N	2004-09-24 22:52:05	2004-09-24 22:52:05	tryg/messages/mamr_himur_1.html	Is it ethical to promote lottery tickets?	Michael Gross	\N	\N
+TGUVA	\N	2004-09-30 11:14:48	2004-09-30 11:14:48	tryg/messages/sug_lwlb_0.html	תוספת ל: ארבעת המינים (אתרוג, לולב, הדס, ערבה)	אסף	\N	\N
+TGUVA	\N	2004-10-06 19:54:39	2004-10-09 13:40:17	tryg/messages/rmbm_hlkwt_swkh_0.html	תוספת ל: הלכות סוכה	ניסים סויסה	\N	\N
+tryg/messages/rmbm_hlkwt_swkh_0.html	\N	2004-10-09 13:40:17	2004-10-09 13:40:17	tryg/messages/rmbm_hlkwt_swkh_0_0.html	האם מותר לאכול בסוכה בשמיני עצרת?	אראל	\N	\N
+TGUVA	\N	2004-10-13 10:59:11	2004-10-13 10:59:11	tryg/ribit0/arvim_jrlo.html	הלואה בלי ערבים לעניים	אראל סגל; הרב יובל שרלו	\N	\N
+tryg/ribit0/gmx_hsbr.html	\N	2004-10-14 05:44:04	2004-10-14 05:44:04	tryg/messages/ribit0_gmx_hsbr_0.html	תגובה ל: ארגונים להלוואה בלי ריבית - הסבר	אריה גילאי	\N	\N
+TGUVA	\N	2004-10-14 08:42:53	2004-10-14 08:42:53	tryg/rgl/gyal.html	הגדרה: לעזור לבודדים ולנזקקים לעלות לרגל בשמחה	אראל	\N	\N
+TGUVA	\N	2004-10-14 08:52:24	2006-04-02 09:51:33	tryg/rgl/avr.html	מבצעי העבר	אראל	\N	\N
+tryg/rgl/avr.html	\N	2004-10-14 08:54:22	2004-10-14 08:54:22	tryg/rgl/6409.html	מבצע עליה לרגל - שבועות ה'תשס"ד	אראל	\N	\N
+tryg/rgl/avr.html	\N	2004-10-14 08:59:33	2004-10-14 08:59:33	tryg/rgl/6501.html	מבצע עליה לרגל - סוכות ה'תשס"ה	אראל	\N	\N
+tryg/rgl/avr.html	\N	2005-09-30 10:56:44	2005-09-30 10:56:44	tryg/rgl/6507.html	פסח ה'תשס"ה: הזמנת נזקקים לסדר-פסח בישיבת הכותל	אראל	\N	\N
+tryg/rgl/avr.html	\N	2006-04-02 09:50:40	2006-04-02 09:50:40	tryg/rgl/6601.html	סוכות ה'תשס"ו - טיול המשך לעיר דוד	אראל	\N	\N
+tryg/rgl/avr.html	\N	2006-04-02 09:51:33	2006-04-02 09:51:33	tryg/rgl/6607.html	פסח ה'תשס"ו - מודעה	אראל	\N	\N
+TGUVA	\N	2004-10-15 08:50:42	2004-10-15 08:50:42	tryg/mamr/hqrvt_guf.html	הקרבת חלקי גוף	אראל	\N	\N
+TGUVA	\N	2004-10-15 16:19:52	2004-10-15 16:19:52	tryg/messages/mqor_rbnim_0.html	עשה לך רב - והסתלק מן הספק?!	אראל [עורך]	\N	\N
+TGUVA	\N	2004-10-19 11:12:15	2004-10-19 11:12:15	tryg/messages/mqor_rbnim_1.html	דיונים על רבנים	מחברים שונים	\N	\N
+TGUVA	\N	2004-10-19 23:51:14	2004-10-19 23:51:14	tryg/messages/rmbm_hlkwt_mzwzh_0.html	תוספת ל: הלכות מזוזה	מוטי צביאלי	\N	\N
+tryg/mamr/mqdj_tnuot.html	\N	2004-10-20 01:08:42	2004-11-17 18:58:41	tryg/messages/mamr_mqdj_tnuot_0.html	תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	יואב וקנין	\N	\N
+tryg/messages/mamr_mqdj_tnuot_0.html	\N	2004-10-20 06:37:05	2004-10-20 06:37:05	tryg/messages/mamr_mqdj_tnuot_0_0.html	תגובה ל: תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	יואב וקנין	\N	\N
+tryg/messages/mamr_mqdj_tnuot_0.html	\N	2004-10-20 06:37:07	2004-10-20 06:37:07	tryg/messages/mamr_mqdj_tnuot_0_2.html	תגובה ל: תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	יואב וקנין	\N	\N
+tryg/messages/mamr_mqdj_tnuot_0.html	\N	2004-10-20 06:37:08	2004-10-20 06:37:08	tryg/messages/mamr_mqdj_tnuot_0_3.html	תגובה ל: תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	יואב וקנין	\N	\N
+tryg/messages/mamr_mqdj_tnuot_0.html	\N	2004-11-17 18:58:41	2004-11-17 18:58:41	tryg/messages/mamr_mqdj_tnuot_0_4.html	תגובה ל: תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	אתם דפוקים!!!!!	\N	\N
+tryg/ribit0/gmx_hsbr.html	\N	2004-10-29 17:52:33	2004-10-29 17:52:33	tryg/messages/ribit0_gmx_hsbr_1.html	תגובה ל: ארגונים להלוואה בלי ריבית - הסבר	לימור מזרחי	\N	\N
+TGUVA	\N	2004-11-04 06:02:30	2004-11-04 06:02:30	tryg/mqor/ase_lk_rv_zev.html	עשה לך רב - דיון עם הרב זאב	דיון עם הרב זאב מאתר ערכים	\N	\N
+TGUVA	\N	2004-11-08 09:22:21	2004-11-08 09:22:21	tryg/magrim.html	מאגרי נתונים שקשורים למצוות	אראל	\N	\N
+tryg/mqor/ase_lk_rv.html	\N	2004-11-10 10:17:33	2004-11-10 10:17:33	tryg/messages/mqor_ase_lk_rv_0.html	תגובה ל: עשה לך רב - והסתלק מן הספק?!	אודי	\N	\N
+TGUVA	\N	2004-11-10 14:04:01	2004-11-10 15:04:10	tryg/jmita/modaa.html	מודעה לחקלאים	אראל ויעל	\N	\N
+tryg/jmita/modaa.html	\N	2004-11-10 15:04:10	2004-11-10 15:04:10	tryg/jmita/lxqlaim_a50.doc	גרסה להדפסה [קובץ]	הנל	\N	\N
+TGUVA	\N	2004-11-16 14:57:30	2004-12-15 12:48:40	tryg/mamr/hcd_h2.html	הצד השני של הסיפור	יהודית סמט	\N	\N
+tryg/mamr/hcd_h2.html	\N	2004-12-15 11:59:47	2004-12-15 11:59:47	tryg/mamr/hcd_h2_09.html	מוסר כפול (קטעים)	יהודית סמט	\N	\N
+tryg/mamr/hcd_h2.html	\N	2004-12-15 12:44:41	2004-12-15 12:44:41	tryg/mamr/hcd_h2_10.html	עד שתגיע למקומו (קטעים)	יהודית סמט	\N	\N
+tryg/mamr/hcd_h2.html	\N	2004-12-15 12:46:52	2004-12-15 12:46:52	tryg/mamr/hcd_h2_10.html	עד שתגיע למקומו (קטעים)	יהודית סמט	\N	\N
+tryg/mamr/hcd_h2.html	\N	2004-12-15 12:48:40	2004-12-15 12:48:40	tryg/mamr/hcd_h2_10.html	עד שתגיע למקומו (קטעים)	יהודית סמט	\N	\N
+TGUVA	\N	2004-11-17 16:18:59	2004-11-17 16:18:59	tryg/messages/sug_ecm_adm_xbr_0.html	לרעך כמוך	דוד אריאב	\N	\N
+TGUVA	\N	2004-11-17 16:19:41	2006-08-02 13:42:45	tryg/mamr/lrek_kmok.html	לרעך כמוך	דוד אריאב	\N	\N
+tryg/mamr/lrek_kmok.html	\N	2006-08-02 13:42:45	2006-08-02 13:42:45	tryg/mamr/lrek_kmok_snaa.html	כללי האיסור	דוד אריאב	\N	\N
+tryg/ribit0/bclel.html	\N	2004-11-23 10:20:12	2004-11-23 10:20:12	tryg/messages/ribit0_bclel_0.html	יישר כוח!	יהודה	\N	\N
+TGUVA	\N	2004-11-30 10:02:52	2005-05-12 12:22:50	tryg/mqor/jut.html	חדשנות בפירוש המצוות - תשובות לשאלות וטענות נפוצות	אראל (עורך)	\N	\N
+tryg/mqor/jut.html	\N	2004-12-19 17:19:05	2004-12-19 17:19:05	tryg/mqor/rbnim_avr.html	האם מותר לחלוק על חכמי הדורות הקודמים?	אראל	\N	\N
+tryg/mqor/jut.html	\N	2005-02-22 01:21:12	2005-03-02 07:02:19	tryg/messages/mqor_jut_0.html	כמה הערות טכניות (מיועד ל-Fades)	אראל	\N	\N
+tryg/messages/mqor_jut_0.html	\N	2005-02-22 21:20:27	2005-03-02 07:02:19	tryg/messages/mqor_jut_0_0.html	תגובה ל: כמה הערות טכניות (מיועד ל-Fades)	Fades	\N	\N
+tryg/messages/mqor_jut_0_0.html	\N	2005-02-22 23:02:13	2005-03-02 07:02:19	tryg/messages/mqor_jut_0_0_0.html	שיחזרתי	אראל	\N	\N
+tryg/messages/mqor_jut_0_0_0.html	\N	2005-02-28 21:26:16	2005-03-02 07:02:19	tryg/messages/mqor_jut_0_0_0_0.html	הגדרות	Fades	\N	\N
+tryg/messages/mqor_jut_0_0_0_0.html	\N	2005-03-01 06:30:41	2005-03-01 06:30:41	tryg/messages/mqor_jut_0_0_0_0_0.html	דוגמה	אראל	\N	\N
+tryg/messages/mqor_jut_0_0_0_0.html	\N	2005-03-02 07:02:19	2005-03-02 07:02:19	tryg/messages/mqor_jut_0_0_0_0_1.html	השתדלתי לשחזר בדיוק	אראל	\N	\N
+tryg/mqor/jut.html	\N	2005-03-17 07:21:58	2005-03-17 07:21:58	tryg/mamr/jut1.html	גרסה ישנה	אראל	\N	\N
+tryg/mqor/jut.html	\N	2005-03-17 07:58:11	2005-03-17 07:58:11	tryg/messages/mqor_jut_1.html	ל-Fades - הפעם לא נגעתי בטענות שלך...	אראל	\N	\N
+tryg/mqor/jut.html	\N	2005-04-25 10:08:16	2005-05-12 12:22:50	tryg/messages/mqor_jut_2.html	תגובה ל: מקוריות בפירוש המצוות - תשובות לשאלות וטענות נפוצות	Fades	\N	\N
+tryg/messages/mqor_jut_2.html	\N	2005-05-01 11:35:05	2005-05-12 12:22:50	tryg/messages/mqor_jut_2_0.html	תגובה ל: תגובה ל: מקוריות בפירוש המצוות - תשובות לשאלות וטענות נפוצות	אראל	\N	\N
+tryg/messages/mqor_jut_2_0.html	\N	2005-05-12 12:22:50	2005-05-12 12:22:50	tryg/messages/mqor_jut_2_0_0.html	תגובה ל: תגובה ל: תגובה ל: מקוריות בפירוש המצוות - תשובות לשאלות וטענות נפוצות	Fades	\N	\N
+TGUVA	\N	2004-12-07 00:33:02	2006-12-26 05:36:34	tryg/mamr/zkut.html	מצוה לדון כל אדם לכף זכות	-	\N	\N
+tryg/mamr/zkut.html	\N	2004-12-16 04:32:47	2004-12-16 04:32:47	tryg/messages/mamr_zkut_0.html	תגובה ל: מצוה לדון כל אדם לכף זכות	אבירם ספ	\N	\N
+tryg/mamr/zkut.html	\N	2006-05-08 11:47:19	2006-05-08 11:47:19	tryg/messages/KP_ZKWT.pps	כף זכות [קובץ]	שלח: אביהו איתן חדד	\N	\N
+tryg/mamr/zkut.html	\N	2006-05-19 12:34:42	2006-05-19 12:34:42	tryg/mamr/zkut_amozega.html	הדן חבירו לכף זכות, דנין אותו לזכות	אהרן אמוזג [ערך]	\N	\N
+TGUVA	\N	2004-12-16 04:59:49	2004-12-16 04:59:49	tryg/messages/mcwa_074_0.html	תוספת ל: לא לשמוע טענת בעל דין שלא בפני בעל דינו	אבירם ספ	\N	\N
+TGUVA	\N	2004-12-16 05:46:57	2004-12-16 07:58:25	tryg/messages/mcwa_235_0.html	תוספת ל: מצווה שישפוט בצדק	אבירם ספ	\N	\N
+tryg/messages/mcwa_235_0.html	\N	2004-12-16 07:58:25	2004-12-16 07:58:25	tryg/messages/mcwa_235_0_0.html	תגובה ל: תוספת ל: מצווה שישפוט בצדק	אבירם ספ	\N	\N
+TGUVA	\N	2004-12-17 17:03:09	2006-06-30 07:28:36	tryg/ribit0/hcofe.html	מאמרים על איסור ריבית מ"הצופה"	-	\N	\N
+tryg/ribit0/hcofe.html	\N	2004-12-20 20:43:43	2006-06-30 07:06:12	tryg/ribit0/hcofe_erel.html	כסף לא צומח על העצים	אראל	\N	\N
+tryg/ribit0/hcofe_erel.html	\N	2006-06-29 13:11:41	2006-06-30 07:06:12	tryg/messages/ribit0_hcofe_erel_0.html	תגובה על: כסף לא צומח על העצים	דניאל וולף	\N	\N
+tryg/messages/ribit0_hcofe_erel_0.html	\N	2006-06-30 07:06:12	2006-06-30 07:06:12	tryg/messages/ribit0_hcofe_erel_0_0.html	תגובה על: תגובה על: כסף לא צומח על העצים	אראל	\N	\N
+tryg/ribit0/hcofe.html	\N	2006-06-29 12:57:55	2006-06-30 07:28:36	tryg/messages/ribit0_hcofe_0.html	תגובה על: מאמרים על היתר עסקא	דניאל וולף	\N	\N
+tryg/messages/ribit0_hcofe_0.html	\N	2006-06-30 07:28:36	2006-06-30 07:28:36	tryg/messages/ribit0_hcofe_0_0.html	ניסיון להסביר את הפיצול ואת שורש הבעיה בהיתר עסקא	אראל	\N	\N
+TGUVA	\N	2004-12-17 17:42:08	2006-10-25 19:47:51	tryg/ribit0/msa.html	המסע שלי לקיום מצוות הלואה בלי ריבית	אראל	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-18 12:55:23	2004-12-18 12:55:23	tryg/messages/msa0.htm	גירסת וורד	אראל	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-19 22:51:45	2004-12-19 22:51:45	tryg/messages/msa1.htm	גירסת וורד 2	אראל	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-21 17:24:35	2004-12-21 17:24:35	tryg/messages/msa2.htm	גרסת וורד	-	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-23 12:53:27	2004-12-23 12:53:27	tryg/messages/msa3.htm	גירסת וורד 2	-	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-31 09:47:08	2004-12-31 09:47:08	tryg/messages/msa4.htm	גירסת וורד	-	\N	\N
+tryg/ribit0/msa.html	\N	2004-12-31 17:41:26	2004-12-31 17:41:26	tryg/messages/msa5.htm	גירסת וורד 2	אראל	\N	\N
+tryg/ribit0/msa.html	\N	2005-11-19 17:20:34	2005-11-19 17:20:34	tryg/messages/ribit0_msa_0.html	תגובה: המסע שלי לקיום מצוות הלואה בלי ריבית	jkl	\N	\N
+tryg/ribit0/msa.html	\N	2006-04-22 20:59:49	2006-04-22 20:59:49	tryg/messages/ribit0_msa_1.html	שאלה על: המסע שלי לקיום מצוות הלואה בלי ריבית	מאיה	\N	\N
+tryg/ribit0/msa.html	\N	2006-10-25 19:47:51	2006-10-25 19:47:51	tryg/messages/ribit0_msa_2.html	תגובה על: המסע שלי לקיום מצוות הלואה בלי ריבית	יהודה	\N	\N
+TGUVA	\N	2004-12-18 12:08:37	2004-12-18 12:08:37	tryg/ribit0/magrim.html	מאגר נתונים של גמ"חי כספים	אליעזר סוקניק; אראל סגל	\N	\N
+TGUVA	\N	2004-12-21 09:32:08	2004-12-24 09:38:36	tryg/messages/mamr_tfila_yair_0.html	סדור ארץ ישראל	יאיר שאקי וכו	\N	\N
+tryg/messages/mamr_tfila_yair_0.html	\N	2004-12-24 09:36:56	2004-12-24 09:36:56	tryg/messages/mamr_tfila_yair_0_0.html	תגובה ל: סדור ארץ ישראל	יאיר שאקי וכו	\N	\N
+tryg/messages/mamr_tfila_yair_0.html	\N	2004-12-24 09:37:48	2004-12-24 09:37:48	tryg/messages/ARAM0.TTF	תגובה ל: סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+tryg/messages/mamr_tfila_yair_0.html	\N	2004-12-24 09:38:09	2004-12-24 09:38:09	tryg/messages/DBSDAVID0.TTF	תגובה ל: סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+tryg/messages/mamr_tfila_yair_0.html	\N	2004-12-24 09:38:36	2004-12-24 09:38:36	tryg/messages/SILEOTSR0.ttf	תגובה ל: סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+TGUVA	\N	2004-12-24 08:58:51	2004-12-24 08:58:51	tryg/messages/PTYX_SDWR10.doc	סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+TGUVA	\N	2004-12-24 08:59:59	2004-12-24 08:59:59	tryg/messages/PTX_DBR20.doc	סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+TGUVA	\N	2004-12-24 09:01:10	2004-12-24 09:01:10	tryg/messages/SDR_HERB30.rtf	סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+TGUVA	\N	2004-12-24 09:02:34	2004-12-24 09:02:34	tryg/messages/HNHGT_HBWQR40.rtf	סדור ארץ ישראל [קובץ]	יאיר שאקי וכו	\N	\N
+TGUVA	\N	2004-12-24 12:15:56	2004-12-24 12:15:56	tryg/ribit0/over.html	לא למשוך "משיכת יתר"	אראל	\N	\N
+TGUVA	\N	2004-12-24 12:47:36	2007-10-14 03:07:57	tryg/ribit0/od.html	הגדרה: ריבית זה יותר ממה שאתם חושבים	אראל	\N	\N
+tryg/ribit0/od.html	\N	2005-02-05 19:02:28	2005-02-05 19:02:28	tryg/ribit0/mkira.html	הלואה ומכירה	אראל	\N	\N
+tryg/ribit0/od.html	\N	2005-02-05 19:30:40	2005-02-05 19:30:40	tryg/ribit0/hddyut.html	הלואה תמורת הלואה	אראל	\N	\N
+tryg/ribit0/od.html	\N	2005-02-05 19:38:18	2007-10-14 03:07:57	tryg/ribit0/dvrim.html	ריבית בדיבור	אראל	\N	\N
+TGUVA	\N	2004-12-30 21:39:10	2007-10-02 01:27:27	tryg/messages/SDR_BRKT_HMZWN80.htm	ברכת המזון נוסח ארץ ישראל	יאיר שאקי	\N	\N
+TGUVA	\N	2004-12-31 13:48:32	2004-12-31 13:48:32	tryg/ribit0/bitux.html	הלואה וביטוח	אראל	\N	\N
+TGUVA	\N	2005-01-01 09:35:25	2012-05-03 15:57:25	tryg/ribit0/bnq.html	בנק ריבית 0	אראל	\N	\N
+tryg/ribit0/bnq.html	\N	2005-03-14 21:51:50	2005-03-14 21:51:50	tryg/messages/ribit0_bnq_0.html	תגובה ל: בנק ריבית 0	יוסי	\N	\N
+tryg/ribit0/bnq.html	\N	2006-08-11 07:38:20	2006-08-11 07:38:20	tryg/ribit0/bnq_yaffe.html	תגובת פרופ' אליעזר יפה, יו"ר האגודה הישראלית להלוואות בלי ריבית	אראל	\N	\N
+TGUVA	\N	2005-01-02 19:46:29	2008-11-06 05:45:05	tryg/mamr/sdr.html	סדרי עדיפויות בין מצוות	-	\N	\N
+tryg/mamr/sdr.html	\N	2005-01-10 19:29:44	2007-04-01 01:37:34	tryg/mamr/sdr_mty.html	מקרים שבהם יש חשיבות לדרוג בין המצוות	אראל	\N	\N
+tryg/mamr/sdr.html	\N	2005-02-22 04:00:29	2005-02-22 04:00:29	tryg/mamr/osq_ptur.html	העוסק במצוה - פטור מן המצוה	אראל [ערך]	\N	\N
+TGUVA	\N	2005-01-02 19:50:13	2005-07-20 20:32:30	tryg/mamr/axryut.html	אחריות לקיום מצוות של אחרים	-	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:47:08	2005-01-11 20:47:08	tryg/mamr/axryut_141.html	יש לנדות חוטא, גם אם ייצא לתרבות רעה	הרב יאיר בכרך	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:48:50	2005-01-11 20:48:50	tryg/mamr/axryut_243.html	אסור להתיר לאישה לטבול ביום, גם אם היא לא תטבול בכלל	הנציב	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:51:09	2005-01-11 20:51:09	tryg/mamr/axryut_722.html	אין להתיר למפעל לעשות איסורי "שבות" כדי להציל אותו מחילול שבת מן התורה	הרב אליעזר ולדנברג	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:52:43	2005-01-11 20:52:43	tryg/mamr/axryut_198.html	אסור לעשות מניין שהבאים להתפלל בו יחללו שבת	הרב משה פיינשטיין	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:56:17	2005-07-12 11:43:27	tryg/mamr/axryut_528.html	עדיף שאנשים יחטאו בהוצאה ללא עירוב, מאשר שישתכח איסור הוצאה מישראל	הרב משה פיינשטיין	\N	\N
+tryg/mamr/axryut_528.html	\N	2005-06-08 10:29:04	2005-06-08 10:29:04	tryg/messages/TILTul_BESHABAth0.pdf	מאמר: עדיף שאנשים יחטאו בהוצאה ללא עירוב, מאשר שישתכח איסור הוצאה מישראל [קובץ]	חיים	\N	\N
+tryg/mamr/axryut_528.html	\N	2005-06-27 03:53:09	2005-07-12 11:43:27	tryg/messages/mamr_axryut_528_0.html	תגובה ל: עדיף שאנשים יחטאו בהוצאה ללא עירוב, מאשר שישתכח איסור הוצאה מישראל	ברוך	\N	\N
+tryg/messages/mamr_axryut_528_0.html	\N	2005-07-12 11:43:27	2005-07-12 11:43:27	tryg/messages/mamr_axryut_528_0_0.html	תגובה: תגובה ל: עדיף שאנשים יחטאו בהוצאה ללא עירוב, מאשר שישתכח איסור הוצאה מישראל	חיים	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 20:58:21	2005-01-11 20:58:21	tryg/mamr/axryut_810.html	יש לתת הכשר למסעדה שמגישה חלב אחרי בשר, כדי להציל את הסועדים מעבירות חמורות יותר	הרב עובדיה יוסף	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 21:04:27	2005-01-11 21:04:27	tryg/mamr/axryut_173.html	החרמת סרבנים	ר יצחק בר ששת	\N	\N
+tryg/mamr/axryut.html	\N	2005-01-11 21:16:18	2005-01-11 21:16:18	tryg/mamr/axryut_756.html	מדיניות קבלה לאולפן גיור	הרב בני לאו	\N	\N
+tryg/mamr/axryut.html	\N	2005-07-20 20:32:30	2005-07-20 20:32:30	tryg/messages/mamr_axryut_0.html	תגובה ל: אחריות לקיום מצוות של אחרים	במחילה	\N	\N
+tryg/odot.html	\N	2005-01-03 10:49:19	2005-01-03 10:49:19	tryg/messages/odot_0.html	האתר בן שנה	אראל	\N	\N
+tryg/ribit0/hetr_isqa.html	\N	2005-01-07 11:59:22	2005-01-07 11:59:22	tryg/messages/ribit0_hetr_isqa_0.html	תגובה ל: לא להשתמש בהיתר עסקא	saar	\N	\N
+TGUVA	\N	2005-01-13 16:14:39	2008-04-20 23:23:58	tryg/mamr/thra7.html	ההבדל בין נידה לזיבה - טומאה טבעית וטומאה לא-טבעית	אראל	\N	\N
+tryg/mamr/thra7.html	\N	2005-01-23 03:30:09	2005-03-28 18:41:33	tryg/messages/mamr_thra7_0.html	תגובה ל: ההבדל בין נידה לזיבה - טומאה טבעית וטומאה לא-טבעית	שרית דבורקין	\N	\N
+tryg/messages/mamr_thra7_0.html	\N	2005-01-23 03:58:17	2005-01-23 03:58:17	tryg/messages/mamr_thra7_0_0.html	תגובה ל: תגובה ל: ההבדל בין נידה לזיבה - טומאה טבעית וטומאה לא-טבעית	שרית דבורקין	\N	\N
+tryg/messages/mamr_thra7_0.html	\N	2005-03-28 18:41:33	2005-03-28 18:41:33	tryg/messages/mamr_thra7_0_1.html	תגובה ל: תגובה ל: ההבדל בין נידה לזיבה - טומאה טבעית וטומאה לא-טבעית	אראל	\N	\N
+TGUVA	\N	2005-01-13 17:50:53	2005-01-13 17:50:53	tryg/messages/mamr_pilgj_0.html	תגובה ל: התנגדותה של התורה להפקרות מינית	Dan	\N	\N
+TGUVA	\N	2005-01-16 10:16:25	2005-01-16 10:16:25	tryg/mamr/je_ahe26.html	הלכות קידושין	אחרונים	\N	\N
+TGUVA	\N	2005-01-16 12:17:11	2007-06-04 21:36:39	tryg/mamr/musr.html	תנועת המוסר	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-16 12:24:30	2005-01-16 12:24:30	tryg/mamr/musr321.html	רבי ישראל סלנטר - חסיד בענייני נזיקין	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-16 12:43:57	2006-11-06 04:23:47	tryg/mamr/musr326.html	מצוה בין אדם למקום, הבאה בעבירה בין אדם לחבירו	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-16 12:53:14	2005-01-16 12:53:14	tryg/mamr/musr328.html	רבי ישראל היה מקל במצוה בין אדם למקום, כדי להימנע מאיסור בין אדם לחבירו	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-16 13:34:08	2005-01-16 13:34:08	tryg/mamr/musr330.html	כבוד חכמים לעומת גזל	עפ ר ישראל סלנטר	\N	\N
+tryg/mamr/musr.html	\N	2005-01-16 14:15:25	2005-01-16 14:15:25	tryg/mamr/musr324.html	מעשי גזל שאנשים נכשלים בהם בלי לשים לב	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-18 12:58:25	2005-01-18 12:58:25	tryg/mamr/musr341.html	רבי ישראל ויתר על הידורי מצוה, כדי לעשות חסד עם הזולת	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-18 13:42:39	2005-01-18 13:42:39	tryg/mamr/musr346.html	רבי ישראל העדיף להקל לאחרים, כדי להיטיב עמם	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-25 12:04:51	2005-01-25 12:04:51	tryg/mamr/musr044.html	הזנחת חלקים גדולים מהתנ"ך והתלמוד בתקופה שלפני תנועת המוסר	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-25 12:05:35	2005-01-25 12:05:35	tryg/mamr/musr046.html	התמעטות דמותה של היהדות בתקופה שלפני תנועת המוסר	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-25 12:22:39	2005-01-25 12:22:39	tryg/mamr/musr059.html	תנועת המוסר ותנועות חדשניות אחרות	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-25 12:56:56	2005-01-25 12:56:56	tryg/mamr/musr062.html	יסודות תנועת המוסר	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-31 13:19:25	2005-01-31 13:19:25	tryg/mamr/musr107.html	רבי זונדיל מסלנט מתנגד למחלוקת	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-01-31 13:46:38	2005-01-31 13:46:38	tryg/mamr/musr072.html	מצבם הקשה של תלמידי הישיבות בדור שלפני תנועת המוסר	הרב דב כץ	\N	\N
+tryg/mamr/musr.html	\N	2005-03-09 09:57:45	2007-06-04 21:36:39	tryg/mamr/musr065.html	תנועת המוסר - החלק העיוני	ר דב כץ	\N	\N
+TGUVA	\N	2005-01-16 14:36:13	2005-01-16 14:36:13	tryg/mamr/inuy_slntr.html	הגדרה: לא לענות = לא להאיץ בו/ה בעבודה	על-פי הרב ישראל סלנטר	\N	\N
+TGUVA	\N	2005-01-19 21:02:37	2005-01-20 08:22:04	tryg/messages/sug_erua_dyn_npjwt_0.html	"התרשלות" בדיני נפשות	ספיר	\N	\N
+tryg/messages/sug_erua_dyn_npjwt_0.html	\N	2005-01-20 08:22:04	2005-01-20 08:22:04	tryg/messages/sug_erua_dyn_npjwt_0_0.html	לא הבנתי את השאלה	אראל	\N	\N
+TGUVA	\N	2005-01-23 17:04:38	2005-01-23 17:04:38	tryg/messages/10.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 17:05:05	2005-01-23 17:05:05	tryg/messages/20.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 17:05:35	2005-01-23 17:05:35	tryg/messages/30.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 17:06:08	2005-01-23 17:06:08	tryg/messages/40.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 17:06:52	2005-01-23 17:06:52	tryg/messages/50.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 17:22:23	2005-01-23 17:22:23	tryg/messages/Sidur0.pdf	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות [קובץ]	שמואל	\N	\N
+TGUVA	\N	2005-01-23 18:24:51	2005-01-23 18:24:51	tryg/messages/Sidur00.pdf	סדור ארץ ישראל [קובץ]	יאיר שאקי	\N	\N
+TGUVA	\N	2005-01-26 09:28:19	2005-01-26 09:28:19	tryg/ribit0/hjala.html	הלוואה והשאלת חפצים	אראל	\N	\N
+TGUVA	\N	2005-01-26 09:42:14	2012-02-23 06:34:20	tryg/ribit0/axryut.html	אחריות על רכושם של אחרים - רמות שונות	אראל	\N	\N
+TGUVA	\N	2005-01-26 19:08:25	2005-01-26 19:08:25	tryg/ribit0/skir.html	הלוואה ושכר-שכיר	אראל	\N	\N
+TGUVA	\N	2005-01-26 19:26:32	2005-01-26 19:26:32	tryg/ribit0/hskra.html	הלוואה ושכירת חפצים	אראל	\N	\N
+TGUVA	\N	2005-01-26 21:27:54	2011-08-17 00:36:47	tryg/ribit0/avq.html	אבק ריבית	אראל	\N	\N
+TGUVA	\N	2005-01-28 05:54:17	2008-11-11 04:23:55	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0.html	פעילויות התנדבותיות לפנויים ופנויות	יעל ואראל	\N	\N
+TGUVA	\N	2005-02-01 08:55:34	2005-02-01 08:55:34	tryg/messages/mcwa_340_0.html	הגדרה: שאלות	אראל	\N	\N
+TGUVA	\N	2005-02-05 09:55:58	2005-02-05 09:55:58	tryg/messages/sug_arwn_hqwdj_0.html	תוספת ל: ארון הקודש	יוליה סוגרובוב	\N	\N
+TGUVA	\N	2005-02-08 18:16:46	2005-02-08 18:16:46	tryg/mamr/tokxa12.html	הגדרה: יש להוכיח גם אם אפשר להוכיח רק על עבירה אחת מתוך שתיים	שאלה: אראל; תשובה: רבנים שונים	\N	\N
+TGUVA	\N	2005-02-15 01:31:03	2005-02-22 16:04:12	tryg/messages/mcwa_209_0.html	תוספת: להבין את וויקרא	לקט	\N	\N
+tryg/messages/mcwa_209_0.html	\N	2005-02-15 02:39:38	2005-02-22 16:04:12	tryg/messages/mcwa_209_0_0.html	על מה בדיוק אתה מותח ביקורת?	אראל	\N	\N
+tryg/messages/mcwa_209_0_0.html	\N	2005-02-18 17:30:38	2005-02-22 16:04:12	tryg/messages/mcwa_209_0_0_0.html	תגובת כותב המאמר	ניצן מאתר חופש	\N	\N
+tryg/messages/mcwa_209_0_0_0.html	\N	2005-02-22 16:04:12	2005-02-22 16:04:12	tryg/messages/mcwa_209_0_0_0_0.html	אם כך -	אראל	\N	\N
+TGUVA	\N	2005-02-21 18:12:57	2005-02-21 18:12:57	tryg/messages/mamr_tfila_yair_1.html	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות	ברוך	\N	\N
+TGUVA	\N	2005-02-22 02:13:51	2005-02-22 02:13:51	tryg/messages/mcwa_243_0.html	הגדרה: לאהוב את ההשתקפות של רעך בך	דן (dreisner@netvision.net.il)	\N	\N
+TGUVA	\N	2005-02-23 02:26:21	2005-02-23 02:26:21	tryg/mamr/xtat.html	סוגי קרבנות החטאת	אראל	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2005-02-23 14:11:17	2005-02-23 14:11:17	tryg/messages/JYX0.doc	תוספת ל: הלכות שבת [קובץ]	חי	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2005-02-23 14:12:23	2005-02-23 14:12:23	tryg/messages/BYJWL_BDBR_LX0.rtf	תוספת ל: הלכות שבת [קובץ]	חי	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2005-02-23 14:12:36	2005-02-23 14:12:36	tryg/messages/SYMN_JYZ0.doc	תוספת ל: הלכות שבת [קובץ]	חי	\N	\N
+tryg/ribit0/kn.html	\N	2007-08-20 02:57:17	2007-08-20 02:57:17	axrimpl/moreshet/92219.html	קניית חוב	הרב רצון ערוסי	שות מורשת	\N
+tryg/mqor/tlmud.html	\N	2007-08-17 01:16:52	2007-08-17 01:16:52	tryg/mqor/tlmud_ktiva.html	מדוע התורה שבעל-פה לא נכתבה?	רן, אראל		\N
+tryg/mamr/tora_sfrim.html	\N	2007-08-18 22:20:54	2007-08-18 22:20:54	http://kabbalah-sefer.co.il	קישור למאמר באתר אחר על: חנויות לספרי קודש ברשת	obshalom		\N
+tryg/messages/ribit0_gmx_hsbr_2.html	\N	2006-10-26 06:56:52	2012-01-05 09:06:38	tryg/ribit0/get.html	איך לקבל הלוואה בלי ריבית	אראל	\N	\N
+TGUVA	\N	2005-02-27 15:43:12	2005-02-27 15:43:12	tryg/messages/mamr_tfila_yair_2.html	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות	יאיר שאקי	\N	\N
+TGUVA	\N	2005-03-06 11:27:21	2005-03-06 11:27:21	tryg/messages/sug_jmyft_xwbwt_bjbyeyt_0.html	מדוע היה צורך בפרוזבול?	אראל	\N	\N
+TGUVA	\N	2005-03-06 11:43:45	2005-03-06 11:43:45	tryg/mamr/bm61.html	ההבדלים בין המצוות הקשורות לרכוש הזולת	אראל	\N	\N
+TGUVA	\N	2005-03-07 13:14:58	2005-03-08 13:08:16	tryg/messages/ribit0_avdut_0.html	תגובה ל: הלואה בריבית = שיעבוד	פנחס	\N	\N
+tryg/messages/ribit0_avdut_0.html	\N	2005-03-08 13:08:16	2005-03-08 13:08:16	tryg/messages/ribit0_avdut_0_0.html	כמובן שיש הבדל - הכל תלוי במעשים	אראל	\N	\N
+TGUVA	\N	2005-03-15 09:25:20	2006-02-08 07:15:40	tryg/mamr/hvdlim.html	הבדלים בין מצוות	אראל	\N	\N
+tryg/mamr/hvdlim.html	\N	2006-02-08 07:15:40	2006-02-08 07:15:40	tryg/mamr/bq05.html	ארבעה סוגים של נזקי ממון	אראל	\N	\N
+TGUVA	\N	2005-03-16 15:45:43	2005-03-16 15:45:43	tryg/messages/sug_rcon_nzyrwt_0.html	האם קיים היום נזיר בישראל?	טובה שניידר	\N	\N
+TGUVA	\N	2005-03-20 08:45:57	2005-03-20 08:45:57	axrimpl/hydepark/1273962_1.html	הבטחת הכנסה מן התורה	אראל	\N	\N
+TGUVA	\N	2005-03-20 08:46:26	2005-03-20 08:46:26	axrimpl/hydepark/1273962_1.html	הבטחת הכנסה מן התורה	אראל	\N	\N
+TGUVA	\N	2005-03-20 09:03:24	2005-03-20 09:03:24	axrimpl/hydepark/1305012_2.html	האם עיקר קיום המצוות הוא בציבור או ביחיד?	מחברים שונים	\N	\N
+TGUVA	\N	2005-03-23 00:01:29	2007-03-10 10:29:08	tryg/messages/mcwa_332_0.html	שאלה	פרופ ארנון שמשוניטבנקין 37 תא 69353	\N	\N
+tryg/messages/mcwa_332_0.html	\N	2005-03-23 14:32:57	2007-03-10 10:29:08	tryg/messages/mcwa_332_0_0.html	אני לא יודע	אראל	\N	\N
+TGUVA	\N	2005-03-28 12:31:46	2005-03-28 18:53:29	tryg/messages/sug_mzwzh_0.html	שאלה: מזוזה	קורל	\N	\N
+tryg/messages/sug_mzwzh_0.html	\N	2005-03-28 18:53:29	2005-03-28 18:53:29	tryg/mamr/mxnot.html	המושגים "חילוני" ו"דתי" אינם נכונים	אראל	\N	\N
+TGUVA	\N	2005-04-01 08:35:20	2005-04-03 07:08:19	tryg/messages/ribit0_hetr_isqa_1.html	שאלות: על היתר עסקא	דור לוי-קהילת רפורמה כלכלית בתפוז	\N	\N
+tryg/messages/ribit0_hetr_isqa_1.html	\N	2005-04-03 07:08:19	2005-04-03 07:08:19	tryg/messages/ribit0_hetr_isqa_1_0.html	שאלות טובות	אראל	\N	\N
+TGUVA	\N	2005-04-12 17:17:35	2005-04-12 17:17:35	tryg/messages/mamr_luxot_1.html	תוספת ל: השבת אבדה: לוחות של מציאות ואבדות	גבלון	\N	\N
+TGUVA	\N	2005-04-24 19:28:14	2005-05-01 11:27:14	tryg/messages/mcwa_381_0.html	שאלה: מצוות פסח שני שיאכל על מצות ומרורים	אורנה	\N	\N
+tryg/messages/mcwa_381_0.html	\N	2005-05-01 11:27:14	2005-05-01 11:27:14	tryg/messages/mcwa_381_0_0.html	יום טוב שני של גלויות	אראל	\N	\N
+tryg/ribit0/pqm.html	\N	2005-04-27 08:10:07	2005-04-27 08:10:07	tryg/messages/ribit0_pqm_0.html	תגובה ל: לא לסגור את הכסף	האזרח דרור	\N	\N
+tryg/ribit0/bnq_hdoar.html	\N	2005-04-27 16:36:27	2006-01-05 08:39:52	tryg/messages/ribit0_bnq_hdoar_1.html	תגובה: להעביר את החשבון לבנק הדואר - הבנק היחיד שאינו מלווה או לווה בריבית	אריק סלע	\N	\N
+tryg/messages/ribit0_bnq_hdoar_1.html	\N	2005-05-01 11:47:50	2005-05-01 11:47:50	tryg/messages/ribit0_bnq_hdoar_1_0.html	באיזה אתר קראת על פקדונות בבנק הדואר?	אראל	\N	\N
+tryg/messages/ribit0_bnq_hdoar_1.html	\N	2006-01-05 08:39:52	2006-01-05 08:39:52	tryg/messages/ribit0_bnq_hdoar_1_1.html	תגובות שקיבלתי מבנק הדואר וממשרד התקשורת	אראל	\N	\N
+TGUVA	\N	2005-05-01 11:18:23	2005-05-01 11:18:23	tryg/messages/JKXTM_AWTNW_AT_TNWET_HNJYM_LMEN_HMQDJ0. אנא תוסיפו אותנו לרשימה	תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית) [קובץ]	רינה	\N	\N
+TGUVA	\N	2005-05-01 11:18:41	2005-05-01 11:18:41	tryg/messages/JKXTM_AWTNW_AT_TNWET_HNJYM_LMEN_HMQDJ1. אנא תוסיפו אותנו לרשימה	תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית) [קובץ]	רינה	\N	\N
+TGUVA	\N	2005-05-01 11:33:09	2005-05-01 11:33:09	tryg/messages/mamr_mqdj_tnuot_1.html	תגובה: למען המקדש: מי עושה מה (רשימה חלקית)שכחתם לציין גם אותנו, תנועת נשים למען המקדש. תנוע נשים הפועלת לקרב אתנושא המקדש בקרב ציבור הנשים וכן להתעמק בנושא לימוד המקדש וברור עניין עליית נשים להר הבית.	רינה	\N	\N
+TGUVA	\N	2005-05-01 12:30:58	2005-05-01 12:30:58	tryg/ribit0/bankisrael.html	מאבק בנזקי הריבית במדינת ישראל	אראל	\N	\N
+tryg/mamr/pilgj.html	\N	2005-05-04 17:42:38	2005-05-04 18:21:57	tryg/messages/mamr_pilgj_1.html	שאלה: מה התורה אומרת לגבי אונס	חביבה	\N	\N
+tryg/messages/mamr_pilgj_1.html	\N	2005-05-04 18:21:57	2005-05-04 18:21:57	tryg/messages/mamr_pilgj_1_0.html	אונס = כמעט רצח	אראל	\N	\N
+TGUVA	\N	2005-05-05 01:13:40	2005-05-05 07:53:03	tryg/messages/mqor_ase_lk_rv_1.html	תגובה ל: עשה לך רב - והסתלק מן הספק?!	ברוך	\N	\N
+tryg/messages/mqor_ase_lk_rv_1.html	\N	2005-05-05 07:53:03	2005-05-05 07:53:03	tryg/messages/mqor_ase_lk_rv_1_0.html	לא בטוח שיש קשר	אראל	\N	\N
+TGUVA	\N	2005-05-11 00:25:50	2005-05-11 00:25:50	tryg/messages/mamr_mqdj_tnuot_2.html	תגובה ל: למען המקדש: מי עושה מה (רשימה חלקית)	דר. איתן הירש	\N	\N
+TGUVA	\N	2005-05-13 13:34:17	2005-05-13 13:34:17	tryg/mamr/prob.html	הסתברות וסטטיסטיקה בתנ"ך ובתלמוד	אראל	\N	\N
+tryg/ribit0/gmx_hsbr.html	\N	2005-05-15 16:03:20	2005-05-15 16:03:20	tryg/messages/ribit0_gmx_hsbr_4.html	שאלה: ארגונים להלוואה בלי ריבית - הסבר	ירון	\N	\N
+TGUVA	\N	2005-05-24 11:51:08	2005-05-24 11:51:08	tryg/messages/sug_nyawp_0.html	שאלה: מהם דיני ממזר בימינו.	שרונה	\N	\N
+TGUVA	\N	2005-05-28 09:15:23	2005-05-28 09:15:23	tryg/messages/sug_rcon_mxjbh_0.html	התקפי הלב מה גורם להם..!וזה בדק..	שרי מויאל	\N	\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2005-06-07 09:16:20	2005-06-07 11:52:25	tryg/messages/ribit0_hlwaa_mgmx_0.html	תגובה ל: קבלת הלוואה בלי ריבית	יפה	\N	\N
+tryg/messages/ribit0_hlwaa_mgmx_0.html	\N	2005-06-07 11:52:25	2005-06-07 11:52:25	tryg/messages/ribit0_hlwaa_mgmx_0_0.html	טרשת נפוצה	אראל	\N	\N
+TGUVA	\N	2005-06-20 05:48:56	2005-06-30 23:00:08	tryg/messages/sug_erua_zmn_jbt_0.html	שמירת שבת	שאבעס נט	\N	\N
+tryg/messages/sug_erua_zmn_jbt_0.html	\N	2005-06-30 09:01:32	2005-06-30 09:01:32	tryg/messages/FYLFWL_BJBT0.pdf	מאמר: שמירת שבת- בירור סוגית הוצאה ולמה אי אפשר לסמוך על עירובים בערים [קובץ]	חיים	\N	\N
+tryg/messages/sug_erua_zmn_jbt_0.html	\N	2005-06-30 23:00:08	2005-06-30 23:00:08	tryg/messages/sug_erua_zmn_jbt_0_0.html	שאלה: שמירת שבת	ברוך	\N	\N
+TGUVA	\N	2005-06-27 16:31:55	2005-06-27 16:31:55	tryg/messages/BNQYM20.rtf	תוספת ל: לפתוח פיקדון בגמח הלוואות בלי ריבית [קובץ]	אבלין	\N	\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2005-07-15 04:26:03	2008-10-01 12:13:12	tryg/messages/ribit0_hlwaa_mgmx_1.html	תגובה ל: קבלת הלוואה בלי ריבית	אפי	\N	\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2005-07-19 13:42:04	2005-07-19 13:42:04	tryg/messages/ribit0_hlwaa_mgmx_2.html	שאלה: קבלת הלוואה בלי ריבית	 נינה קדוש	\N	\N
+TGUVA	\N	2005-07-22 08:11:15	2005-07-22 08:11:15	tryg/messages/sug_rcon_yxsy_myn_0.html	תוספת ל: יחסי מין מותרים ואסורים	אלון	\N	\N
+TGUVA	\N	2005-07-22 08:21:14	2005-07-26 18:27:23	tryg/messages/sug_rcon_yxsy_myn_1.html	מאמר: יחסי מין מותרים ואסורים	אלון	\N	\N
+tryg/messages/sug_rcon_yxsy_myn_1.html	\N	2005-07-26 09:11:01	2005-07-26 18:27:23	tryg/messages/sug_rcon_yxsy_myn_1_0.html	תגובה: מאמר: יחסי מין מותרים ואסורים	אורן לוי	\N	\N
+tryg/messages/sug_rcon_yxsy_myn_1_0.html	\N	2005-07-26 18:27:23	2005-07-26 18:27:23	tryg/messages/sug_rcon_yxsy_myn_1_0_0.html	תגובה ל: תגובה: מאמר: יחסי מין מותרים ואסורים	אלון	\N	\N
+tryg/mamr/pilgj.html	\N	2005-07-30 14:15:28	2005-07-30 14:15:28	tryg/messages/mamr_pilgj_2.html	תגובה ל: התנגדותה של התורה להפקרות מינית	ZOORO	\N	\N
+tryg/mamr/pilgj.html	\N	2005-07-30 14:17:10	2005-07-30 14:17:10	tryg/messages/mamr_pilgj_3.html	שאלה: התנגדותה של התורה להפקרות מינית	ZOORO	\N	\N
+tryg/rmbm/hlkwt_cycyt.html	\N	2005-08-02 11:30:22	2005-08-02 11:30:22	tryg/messages/rmbm_hlkwt_cycyt_0.html	מאמר: הלכות ציצית	דוד רגב	\N	\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2005-08-07 06:17:39	2006-07-09 18:05:20	tryg/messages/ribit0_hlwaa_mgmx_4.html	שאלה: קבלת הלוואה בלי ריבית	יהודית.ג.	\N	\N
+tryg/messages/ribit0_hlwaa_mgmx_4.html	\N	2005-08-07 09:32:39	2006-07-09 18:05:20	tryg/messages/ribit0_hlwaa_mgmx_4_0.html	הלוואה ללא ערבים	אראל	\N	\N
+tryg/messages/ribit0_hlwaa_mgmx_4_0.html	\N	2006-07-09 18:05:20	2006-07-09 18:05:20	tryg/messages/ribit0_hlwaa_mgmx_4_0_0.html	שאלה על: הלוואה ללא ערבים	ilana	\N	\N
+TGUVA	\N	2005-08-07 09:43:47	2005-08-07 09:43:47	tryg/messages/sug_rcon_yxsy_myn_2.html	תוספת ל: יחסי מין מותרים ואסורים	אלון	\N	\N
+TGUVA	\N	2005-08-10 11:12:20	2005-08-10 11:12:20	tryg/messages/sug_rcon_yxsy_myn_3.html	תוספת ל: יחסי מין מותרים ואסורים	אלון	\N	\N
+TGUVA	\N	2005-09-05 14:07:46	2005-09-05 15:35:17	tryg/messages/mcwa_542_0.html	בגדים וסטיות מיניות	יעל	\N	\N
+tryg/messages/mcwa_542_0.html	\N	2005-09-05 15:35:17	2005-09-05 15:35:17	tryg/messages/mcwa_542_0_0.html	תגובה ל: בגדים וסטיות מיניות	נמרון	\N	\N
+TGUVA	\N	2005-09-06 06:13:56	2005-09-06 06:13:56	tryg/messages/mamr_luxot_2.html	אבדה מצלמה דיגיטלית של סוני	דני	\N	\N
+TGUVA	\N	2005-10-01 18:36:15	2008-12-21 08:37:32	tryg/mamr/axdut.html	אחדות ואחידות במצוות	-	\N	\N
+TGUVA	\N	2005-10-01 20:46:10	2005-10-03 12:46:47	tryg/mamr/ksf_axeldavid.html	מלחמת תורה	דוד אקסלרוד	\N	\N
+tryg/mamr/ksf_axeldavid.html	\N	2005-10-01 20:49:38	2005-10-01 20:49:38	tryg/mamr/ksf_rmbm.html	פתיחה - דברי עמוס ודברי הרמב"ם	דוד	\N	\N
+tryg/mamr/ksf_axeldavid.html	\N	2005-10-01 20:53:01	2005-10-03 12:46:47	tryg/mamr/ksf_tjbc1.html	עיון בדברי ספר התשב"ץ	דוד	\N	\N
+tryg/mamr/ksf_tjbc1.html	\N	2005-10-02 12:51:31	2005-10-02 12:51:31	tryg/mamr/ksf_tjbc142.html	עניין קמ"ב	דוד	\N	\N
+tryg/mamr/ksf_tjbc1.html	\N	2005-10-02 12:52:20	2005-10-03 12:46:47	tryg/mamr/ksf_tjbc147.html	עניין קמ"ז	דוד	\N	\N
+tryg/mamr/ksf_tjbc147.html	\N	2005-10-03 12:46:47	2005-10-03 12:46:47	tryg/mamr/ksf_tjbc147_123.html	הערות	דוד	\N	\N
+tryg/mamr/ksf_tjbc1.html	\N	2005-10-02 12:53:22	2005-10-02 12:53:22	tryg/mamr/ksf_tjbc148.html	עניין קמ"ח	דוד	\N	\N
+tryg/mamr/ksf_axeldavid.html	\N	2005-10-01 20:53:36	2005-10-01 20:53:36	tryg/mamr/ksf_mjne.html	עיון בדברי "כסף משנה"	דוד	\N	\N
+tryg/mamr/ksf_axeldavid.html	\N	2005-10-01 20:54:37	2005-10-01 20:54:37	tryg/mamr/ksf_dwd.html	ההשלכות של הויכוח	דוד	\N	\N
+tryg/mamr/ksf_axeldavid.html	\N	2005-10-03 12:43:06	2005-10-03 12:43:06	tryg/mamr/ksf_etc.html	נימוקים נוספים	דוד	\N	\N
+tryg/ribit0/lenyym.html	\N	2005-10-03 08:04:20	2005-10-03 08:04:20	tryg/ribit0/skr.html	הצמדה לשכר הממוצע	ר.ב.יחזקאל	\N	\N
+tryg/messages/SDR_BRKT_HMZWN8.htm	\N	2005-10-09 14:14:31	2005-10-09 14:14:31	tryg/messages/SDR_BRKT_HMZWN80_0.html	תגובה: ברכת המזון נוסח ארץ ישראל	פלוני	\N	\N
+TGUVA	\N	2005-10-12 06:45:10	2005-10-12 06:45:10	tryg/messages/mqdj.jpg	בית המקדש על הר הבית [קובץ]	קובי הרתי	\N	\N
+TGUVA	\N	2005-10-14 07:12:02	2005-10-14 07:12:02	tryg/messages/ribit0_lmi_0.html	שאלה: הלואה בלי ריבית - לאיזו מטרה?	בני	\N	\N
+TGUVA	\N	2005-10-16 19:41:39	2005-10-23 21:28:34	tryg/messages/mcwa_386_0.html	טעם: מקווה לעיניים	אראל	\N	\N
+tryg/messages/mcwa_386_0.html	\N	2005-10-23 21:28:34	2005-10-23 21:28:34	tryg/messages/mcwa_386_0_0.html	תגובה ל: טעם: מקווה לעיניים	pav	\N	\N
+TGUVA	\N	2005-10-27 06:43:24	2005-10-27 06:43:24	tryg/messages/sug_rayon_mtnwt_enyym_0.html	חינוך לניהול נכון של משק הבית בשיעור מתמטיקה	אראל	\N	\N
+TGUVA	\N	2005-10-27 16:41:33	2005-10-27 16:41:33	tryg/messages/sug_tpylyn_0.html	דרך: פסוקים על כרטיס האשראי	אראל	\N	\N
+TGUVA	\N	2005-10-27 16:44:26	2005-10-27 16:44:26	tryg/messages/wy1911.jpg	wy-19-11 [קובץ]	אראל	\N	\N
+TGUVA	\N	2005-10-27 16:47:00	2005-10-27 16:47:00	tryg/messages/CYWR_LKRFYS_AJRAY.doc	ציור לכרטיס אשראי [קובץ]	אראל	\N	\N
+tryg/mamr/pilgj.html	\N	2005-10-30 07:24:19	2005-10-30 07:24:19	tryg/messages/mamr_pilgj_4.html	תגובה ל: התנגדותה של התורה להפקרות מינית	שמעון	\N	\N
+TGUVA	\N	2005-11-01 16:08:47	2007-12-22 15:49:34	tryg/mamr/luxot.html	לוחות של מציאות ואבידות ברשת	אראל	\N	\N
+TGUVA	\N	2005-11-01 16:20:40	2007-10-16 12:57:24	tryg/mamr/jidukim.html	אתרי היכרויות לשומרי מצוות ברשת	אראל	\N	\N
+TGUVA	\N	2005-11-01 16:37:40	2008-09-08 09:52:54	tryg/mamr/tora.html	לימוד תורה ברשת	אראל	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:00:45	2011-11-17 06:40:52	tryg/mamr/tora_sfrim.html	חנויות לספרי קודש ברשת	אראל	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:34:00	2005-11-01 17:34:00	tryg/mamr/tora_rbnim.html	שאל את הרב	אראל	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:35:03	2005-11-01 17:35:03	tryg/mamr/tora_dyunim.html	דיונים ושיחות בענייני תורה	אראל	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:36:13	2008-09-08 09:52:54	tryg/mamr/tora_toknot.html	תוכנות עזר ללימוד תורה	אראל	\N	\N
+tryg/messages/mqor_ase_lk_rv_2.html	\N	2008-09-14 04:23:06	2008-09-14 04:23:06	tryg/messages/mqor_ase_lk_rv_2_0.html	תגובה על: תגובה על: עשה לך רב - והסתלק מן הספק?!	גב	center.ct @ gmail.com	\N
+tryg/mamr/tora_toknot.html	\N	2006-09-10 14:08:23	2006-09-10 14:08:23	tryg/messages/mamr_tora_toknot_1.html	שאלה על: תוכנות עזר ללימוד תורה	שלומי	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:37:05	2006-12-12 13:14:21	tryg/mamr/tora_jiurim.html	אתרי מאמרים ושיעורים	אראל	\N	\N
+tryg/mamr/tora.html	\N	2005-11-01 17:38:07	2005-11-01 17:38:07	tryg/mamr/tora_ktiva.html	אתרים שמזמינים את הגולשים לכתוב מאמרים תורניים מפרי עטם	אראל	\N	\N
+TGUVA	\N	2005-11-07 04:35:37	2007-05-08 01:32:12	tryg/mamr/xn.html	חשבון נפש - תשובה כתוצאה מאסון	אראל	\N	\N
+TGUVA	\N	2005-11-07 05:34:28	2005-11-07 05:34:28	tryg/mqor/tam_hgdra.html	מאמרים על הקשר בין טעם המצווה לבין הגדרת המצוה	-	\N	\N
+TGUVA	\N	2005-11-07 05:49:10	2007-02-14 06:50:56	tryg/mqor/rov.html	הרוב קובע?	דוד אקסלרוד	\N	\N
+tryg/mqor/rov.html	\N	2006-10-25 16:51:18	2006-10-25 16:51:18	http://www.harov.co.il	קישור למאמר באתר זה על: הרוב קובע - האמנם? [חיצוני]	בעל העם	\N	\N
+TGUVA	\N	2005-11-10 19:46:16	2005-11-10 19:46:16	tryg/messages/mqor_rbnim_hyom_1.html	תגובה ל: רבני דורנו - תשובות לשאלות וטענות נפוצות	קארין	\N	\N
+TGUVA	\N	2005-11-14 15:34:25	2005-11-14 15:34:25	tryg/mamr/sukot.html	סוכות לנצח	אראל	\N	\N
+TGUVA	\N	2005-11-14 15:38:16	2008-09-08 12:27:23	tryg/mamr/4minim.html	מוכרי ארבעת המינים	אראל	\N	\N
+TGUVA	\N	2005-11-15 08:09:48	2005-11-17 07:03:18	tryg/messages/mcwa_434_0.html	תוספת ל: לדבוק בה	חגי רפי	\N	\N
+tryg/messages/mcwa_434_0.html	\N	2005-11-17 07:03:18	2005-11-17 07:03:18	tryg/messages/mcwa_434_0_0.html	יישר כוחך! + שאלה	אראל	\N	\N
+TGUVA	\N	2005-11-17 12:08:38	2005-11-17 12:08:38	tryg/messages/ribit0_lmi_1.html	תגובה: הלואה בלי ריבית - לאיזו מטרה?	kola86	\N	\N
+tryg/mamr/pilgj_yabc.html	\N	2005-12-12 16:52:04	2005-12-12 16:52:04	tryg/messages/mamr_pilgj_yabc_0.html	תגובה ל: האם להתיר לאנשים לקחת פילגש כדי להציל אותם מעבירות קשות יותר?	אברהם רוזנברג	\N	\N
+TGUVA	\N	2005-12-13 19:01:39	2005-12-13 19:01:39	tryg/messages/jmita_arvim_0.html	שאלה: לא לקנות מנכרים	יוסף כהן	\N	\N
+TGUVA	\N	2005-12-17 17:54:28	2005-12-17 17:54:28	tryg/messages/BGDY_KHN_GDWL_HGYE_BDWAL.doc	בגדי כהן גדול הגיע בדואל [קובץ]	יהודה מכון המקדש	\N	\N
+tryg/mamr/tfila_yair.html	\N	2005-12-18 18:45:57	2005-12-18 18:45:57	tryg/messages/mamr_tfila_yair_3.html	תגובה ל: התפילה בארץ ישראל אחרי שיצאנו מהגלות	שלום	\N	\N
+TGUVA	\N	2005-12-21 11:16:44	2008-01-18 04:29:01	tryg/mamr/tfilot_jbt.html	תפילות שבת	ליאת חומסקי	\N	\N
+TGUVA	\N	2005-12-22 09:59:49	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1.html	בת 25 זקוקה לעזרה	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1.html	\N	2005-12-22 10:16:44	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0.html	בירושלים יש הרבה גמ"חים	אראל	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0.html	\N	2005-12-25 10:18:01	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0.html	תגובה ל: בירושלים יש הרבה גמחים	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0.html	\N	2005-12-25 13:02:41	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0.html	חסרים פרטים	אראל	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0.html	\N	2005-12-27 18:06:07	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0.html	תגובה ל: חסרים פרטים	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0.html	\N	2005-12-28 18:57:41	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0.html	ביטחונות	אראל	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0.html	\N	2006-01-01 12:57:11	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0.html	תגובה ל: ביטחונות	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0.html	\N	2006-01-01 16:33:09	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0.html	עוד אפשרות	אראל	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0.html	\N	2006-01-04 14:25:50	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0.html	תגובה ל: עוד אפשרות	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0.html	\N	2006-01-04 19:55:44	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0_0.html	נראה לי שזה אפשרי	אראל	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0_0.html	\N	2006-01-06 01:22:00	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0_0_0.html	תגובה ל: נראה לי שזה אפשרי	רות	\N	\N
+tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0_0_0.html	\N	2006-01-06 12:50:16	2006-01-06 12:50:16	tryg/messages/sug_rcon_hlwah_1_0_0_0_0_0_0_0_0_0_0_0.html	אל תתייאשי	אראל	\N	\N
+TGUVA	\N	2005-12-23 12:48:26	2008-05-24 12:53:52	tryg/mamr/magic.html	מה ההגדרה של כישוף?	אראל	\N	\N
+tryg/mqor/index.html	\N	2005-12-27 18:41:57	2005-12-27 18:41:57	tryg/mqor/jut_fades.html	טענות נגד חדשנות מוגזמת בפירוש המצוות	Fades, אראל	\N	\N
+TGUVA	\N	2006-01-05 19:39:30	2006-01-05 19:39:30	tryg/messages/sug_jggt_yxyd_0.html	תוספת ל: שגגת יחיד	germa	\N	\N
+TGUVA	\N	2006-01-11 07:48:21	2006-01-11 07:48:21	tryg/messages/sug_mynwy_jwpfym_0.html	שאלה: מינוי שופטים	יש מיש	\N	\N
+tryg/odot.html	\N	2006-01-12 18:45:47	2006-01-12 18:45:47	tryg/messages/odot_1.html	האתר בן שנתיים	אראל	\N	\N
+TGUVA	\N	2006-01-30 12:49:55	2006-02-06 20:58:44	tryg/messages/mcwa_480_0.html	האם מותר למשוך את הכסף מהגמ"ח לפני השמיטה?	אראל (ערך)	\N	\N
+tryg/messages/mcwa_480_0.html	\N	2006-02-06 20:57:20	2006-02-06 20:57:20	tryg/messages/mcwa_480_0_0.html	תגובה על: האם מותר למשוך את הכסף מהגמח לפני השמיטה?	כיטוב	\N	\N
+tryg/messages/mcwa_480_0.html	\N	2006-02-06 20:58:44	2006-02-06 20:58:44	tryg/messages/mcwa_480_0_1.html	תגובה על: האם מותר למשוך את הכסף מהגמח לפני השמיטה?	כיטוב	\N	\N
+TGUVA	\N	2006-02-02 11:32:29	2012-05-11 07:23:20	tryg/mamr/yovl_etc.html	רעיונות שונים לחלוקת קרקעות ולמצוות יובל בימינו	אראל	\N	\N
+tryg/mamr/yovl_etc.html	\N	2006-05-23 09:17:42	2006-05-23 09:17:42	tryg/mamr/yovl_rozn.html	משנת היובל [קטעים]	הרב דב רוזן זל; הרב יהודה שביב	\N	\N
+TGUVA	\N	2006-02-19 21:09:31	2006-02-19 21:09:31	tryg/mamr/mtim_dorot.html	פניה אל מתים לאורך הדורות	אראל	\N	\N
+TGUVA	\N	2006-02-19 21:12:55	2006-02-19 21:12:55	tryg/mamr/xy_o_mt.html	הגדרה: מת = מי שהחושים הגשמיים מעידים שהוא מת	אראל	\N	\N
+TGUVA	\N	2006-02-19 21:26:53	2006-02-19 21:26:53	tryg/mamr/qvrim_byja.html	המאבקים על קברי אבות ביש"ע - יחס אישי	אראל	\N	\N
+TGUVA	\N	2006-03-02 12:32:37	2006-03-02 12:32:37	tryg/messages/sug_jmxt_hnyjwayn_0.html	מאמר על: בזכות נשים צדקניות	חגי רפי	\N	\N
+TGUVA	\N	2006-03-02 12:35:38	2006-03-02 12:35:38	tryg/messages/sug_etc_0.html	מאמר על: עשרת הדברות	חגי רפי	\N	\N
+TGUVA	\N	2006-03-08 20:22:04	2006-03-08 20:22:04	tryg/messages/mamr_kll_mcwa_0.html	מצות התרומה למשכן והשלכותיה על ימינו	רפאל בר אשר חגבי	\N	\N
+tryg/messages/ribit0_gmx_hsbr_2.html	\N	2006-03-15 19:23:42	2012-01-05 09:06:38	tryg/ribit0/get.html	איך לקבל הלוואה בלי ריבית	אראל	\N	\N
+TGUVA	\N	2006-03-18 23:44:44	2007-08-05 22:49:17	tryg/mamr/zuckm_tfila.html	מבבל עד הרמב"ם - התפתחות התפילה	מנחם צוקר	\N	\N
+tryg/ribit0/lenyym.html	\N	2006-03-24 08:09:55	2006-03-24 08:09:55	tryg/ribit0/bnq2.html	פועלים בקהילה - קרן הלוואות בלי ריבית	אראל	\N	\N
+TGUVA	\N	2006-04-02 19:21:10	2006-04-02 19:21:10	tryg/mamr/pdyon_xtufim.html	פדיון אזרחים חטופים תמורת מחבלים אסירים	אראל	\N	\N
+TGUVA	\N	2006-04-03 13:14:32	2007-12-26 02:29:00	tryg/ribit0/isqa.html	עסקאות הוגנות	אראל	\N	\N
+TGUVA	\N	2006-04-07 07:33:04	2006-04-07 07:33:04	tryg/mamr/sfqa.html	אי ודאות בבירור רצון ה' - ספק בדין	אראל	\N	\N
+TGUVA	\N	2006-04-07 07:41:49	2012-01-27 08:52:47	tryg/mamr/sfqb.html	אי ודאות בבירור הנתונים - ספק במציאות	אראל	\N	\N
+tryg/mamr/sfqb.html	\N	2006-04-07 10:33:19	2006-04-07 10:33:19	tryg/messages/mamr_sfqb_0.html	מאמרים על דין "כל קבוע כמחצה על מחצה דמי"	אראל	\N	\N
+TGUVA	\N	2006-04-07 09:53:25	2008-01-03 05:56:40	tryg/mamr/tfilot-eitan.html	לקט תפילות	איתן אביהו	\N	\N
+tryg/mamr/tfilot-eitan.html	\N	2006-04-07 09:54:57	2006-04-07 09:54:57	tryg/messages/mamr_tfilot-eitan_0.html	תפילת האישה על בני ביתה, בפרט לאחר הדלקת נרות שבת	איתן אביהו [העתיק]	\N	\N
+tryg/mamr/tfilot-eitan.html	\N	2006-04-07 09:55:51	2006-04-07 09:55:51	tryg/messages/mamr_tfilot-eitan_1.html	תפילת לאישה על מציאת בן זוג	איתן אביהו [העתיק]	\N	\N
+tryg/mamr/tfilot-eitan.html	\N	2006-04-07 09:56:57	2006-04-07 09:56:57	tryg/messages/mamr_tfilot-eitan_2.html	תפילה על הפרנסה	איתן אביהו [העתיק]	\N	\N
+tryg/mamr/tfilot-eitan.html	\N	2006-06-29 07:28:30	2006-06-29 07:28:30	tryg/messages/mamr_tfilot-eitan_3.html	תפילה על החטופים	איתן אביהו	\N	\N
+TGUVA	\N	2006-05-02 21:21:27	2006-05-02 21:21:27	tryg/mamr/jbt_esq.html	עידוד עסקים שומרי שבת	-	\N	\N
+TGUVA	\N	2006-05-10 13:24:20	2006-06-19 09:36:27	tryg/mamr/tfila-avioh.html	כיצד התפילה פועלת?	אביהו איתן חדד	\N	\N
+tryg/mamr/tfila-avioh.html	\N	2006-05-10 13:25:31	2006-06-19 09:36:27	tryg/mamr/tfila-avioh0.html	תפילה בעבור עצמו	אביהו איתן חדד	\N	\N
+tryg/mamr/tfila-avioh0.html	\N	2006-06-19 09:35:32	2006-06-19 09:35:32	tryg/messages/mamr_tfila-avioh0_0.html	נושא חדש על: תפילה בעבור עצמו	YAELI3335@WALLA.CO.IL	\N	\N
+tryg/mamr/tfila-avioh0.html	\N	2006-06-19 09:36:27	2006-06-19 09:36:27	tryg/messages/mamr_tfila-avioh0_1.html	נושא חדש על: תפילה בעבור עצמו	YAELI3335@WALLA.CO.IL	\N	\N
+tryg/mamr/tfila-avioh.html	\N	2006-05-10 13:26:47	2006-05-10 13:26:47	tryg/mamr/tfila-avioh1.html	תפילה בעבור אחרים	אביהו איתן חדד	\N	\N
+tryg/mamr/tfila-avioh.html	\N	2006-05-10 13:27:37	2006-05-10 13:27:37	tryg/mamr/tfila-avioh2.html	תפילה כמלחמה	אביהו איתן חדד	\N	\N
+TGUVA	\N	2006-05-11 05:21:25	2006-05-11 05:21:25	tryg/mamr/tfila-avioh3.html	תפילה לפני הטבילה	אביהו איתן חדד	\N	\N
+TGUVA	\N	2006-05-11 18:16:26	2006-05-11 18:16:26	tryg/mamr/limud.html	לימוד בחברותא	אראל	\N	\N
+TGUVA	\N	2006-05-21 07:39:25	2006-05-21 07:39:25	tryg/messages/mqor_rmbm_0.html	תגובה על: ההבדל בין ספר יד חזקה לבין ספרי הלכות חדשים	עמית פליס	\N	\N
+TGUVA	\N	2006-05-24 05:02:51	2006-05-24 05:02:51	tryg/jmita/jmita_gufim.html	גופים וארגונים העוסקים בשמירת שמיטה	אראל	\N	\N
+TGUVA	\N	2006-05-25 18:46:42	2006-05-25 18:46:42	tryg/messages/MCGT_LYWM_YRWJLYM.ppt	מצגת ליום ירושלים [קובץ]	אביהו-איתן חדד	\N	\N
+tryg/ribit0/get.html	\N	2008-10-21 15:30:55	2008-10-21 15:30:55	tryg/messages/ribit0_get_1.html	תגובה על: איך לקבל הלוואה בלי ריבית	שרוןבןן24	IDF4ME @ GMAIL.COM	\N
+TGUVA	\N	2006-05-31 13:21:03	2006-05-31 13:21:03	tryg/mamr/xyim_jbt.html	שמירת שבת לעומת שמירת החיים	אראל	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2006-06-04 01:04:54	2006-06-04 01:04:54	tryg/messages/TRWMWT_WMEJWT.doc	תרומות ומעשות [קובץ]	שי	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2006-06-04 01:05:23	2006-06-04 01:05:23	tryg/messages/SYMN_CBB.doc	סימן צבב [קובץ]	שי	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2006-06-04 01:06:43	2006-06-04 01:06:43	tryg/messages/MLAKT_FWXN.doc	מלאכת טוחן [קובץ]	שי	\N	\N
+tryg/rmbm/hlkwt_jbt.html	\N	2006-06-04 01:06:56	2006-06-04 01:06:56	tryg/messages/MLYXH_WHDXH.doc	מליחה והדחה [קובץ]	שי	\N	\N
+TGUVA	\N	2006-06-14 08:59:06	2006-06-14 08:59:06	tryg/messages/MCGT_LXNWKH.pps	מצגת לחנוכה [קובץ]	שלח: אביהו-איתן חדד	\N	\N
+TGUVA	\N	2006-06-22 06:31:39	2006-06-22 06:31:39	tryg/messages/MCGT_EL_BYT_HMQDJ.ppt	מצגת על בית המקדש ועל ירושלים לאורך הדורות [קובץ]	שלח: אביהו איתן חדד	\N	\N
+TGUVA	\N	2006-06-29 06:43:32	2006-06-29 06:43:32	http://he.manhigut.org/content/view/2640/164/	עצומה נגד מצעד ה'גאוה' העולמי בירושלים [חיצוני]	מחברים שונים	\N	\N
+TGUVA	\N	2006-06-29 07:25:17	2006-06-29 07:25:17	axrimpl/moreshet/73643.html	כוונות לא מובנות בתפילה	הרב רצון ערוסי	\N	\N
+tryg/ribit0/gmx_hsbr.html	\N	2006-06-29 21:16:20	2008-01-28 05:27:08	tryg/messages/ribit0_gmx_hsbr_3.html	שאלה על: ארגונים להלוואה בלי ריבית - הסבר	אברהם	\N	\N
+tryg/messages/ribit0_gmx_hsbr_3.html	\N	2006-06-30 03:23:18	2012-01-05 09:06:38	tryg/ribit0/get.html	איך לקבל הלואה בלי ריבית	אראל	\N	\N
+TGUVA	\N	2006-06-30 03:21:54	2006-06-30 03:21:54	tryg/mamr/joxd_tlmud.html	חכמי התלמוד פוסלים את עצמם לדין בגלל שוחד	אראל	\N	\N
+TGUVA	\N	2006-07-01 18:18:56	2006-07-01 18:18:56	tryg/mamr/joxd_qrna.html	אסור לקחת שוחד גם אם לוקחים משני בעלי הדין באותה מידה	אראל	\N	\N
+TGUVA	\N	2006-07-01 18:42:31	2006-07-01 18:42:31	tryg/mamr/skr_btla.html	שכר בטלה - איך מחשבים?	אראל	\N	\N
+TGUVA	\N	2006-07-11 09:46:20	2006-07-11 09:46:20	axrimpl/moreshet/73956.html	שכר השופטים והעדים	שאלה: אראל; תשובה: הרב עמית קולא	\N	\N
+TGUVA	\N	2006-07-17 06:08:31	2006-07-17 06:23:21	tryg/mamr/hfuk_ezra.html	עזרה לבעלי נטיות הפוכות	אראל	\N	\N
+tryg/mamr/hfuk_ezra.html	\N	2006-07-17 06:21:43	2006-07-17 06:21:43	axrimpl/moreshet/74022.html	מכתב - תיאור הבעיה	בחור דתי הומוסקסואל	\N	\N
+tryg/mamr/hfuk_ezra.html	\N	2006-07-17 06:23:21	2006-07-17 06:23:21	axrimpl/moreshet/74714.html	שיחות אישיות עם כל התלמידים לגבי כל היצרים והניסיונות	אראל	\N	\N
+TGUVA	\N	2006-07-23 06:36:20	2006-07-23 06:36:20	tryg/mamr/jlom_erel.html	איך ניסיתי לקיים את מצוות קריאה לשלום	אראל	\N	\N
+TGUVA	\N	2006-07-26 22:00:03	2006-07-26 22:00:03	http://personal.zahav.net.il/personalsite/re/revacham/	קישור למאמר באתר זה על: מזוזה [חיצוני]	מיכאל רווח	\N	\N
+TGUVA	\N	2006-07-27 11:55:34	2006-07-27 11:55:34	axrimpl/hydepark/1896439_1.html	מדינת ישראל - הרהורים ליום העצמאות	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 12:23:59	2006-07-27 12:23:59	axrimpl/hydepark/1889883_1.html	מה החשיבות הרבה להילחם בעבודת אלילים בימינו?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 12:25:02	2006-07-27 12:25:02	axrimpl/hydepark/1906252_1.html	סיאנסים - אמת או שקר? טוב או רע?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:01:09	2006-07-27 13:01:09	axrimpl/hydepark/1892998_1.html	"פלגינן דיבורא" - פרדוקס העדות שסותרת את עצמה	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:02:13	2006-07-27 13:02:13	axrimpl/hydepark/1892998_1.html	האם נאמנות למעגלי זהות מותנית בערכים?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:04:28	2006-07-27 13:04:28	axrimpl/hydepark/1910145_1.html	הכל אסור חוץ ממה שמותר, או הכל מותר חוץ ממה שאסור?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:05:39	2006-07-27 13:05:39	axrimpl/hydepark/1408429_1.html	היחס לבעלי מום	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:14:58	2006-07-27 13:14:58	axrimpl/hydepark/1549095_1.html	אין אדם משים עצמו רשע	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:16:56	2006-07-27 13:16:56	axrimpl/hydepark/1048613_1.html	אבידה לעומת הזנחה; איך לדעת אם באמת יש טעם להחזיר את העגלה לסופר	מאיר	\N	\N
+TGUVA	\N	2006-07-27 13:18:23	2006-07-27 13:18:23	axrimpl/hydepark/1918003_1.html	עצור כאן חושבים	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:45:58	2006-07-27 13:45:58	axrimpl/hydepark/1913862_1.html	מידת חסידות ליחיד לעומת החמרות לציבור	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:47:47	2006-07-27 13:47:47	axrimpl/hydepark/1917738_1.html	ברכות הראיה, ברכת "שהחיינו" על חברים, ועוד	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:52:18	2006-07-27 13:53:28	tryg/mamr/jbt_xjml.html	חשמל בשבת	מחברים שונים	\N	\N
+tryg/mamr/jbt_xjml.html	\N	2006-07-27 13:52:48	2006-07-27 13:52:48	axrimpl/hydepark/1898567_1.html	מלחמת הגנרטורים	מחברים שונים	\N	\N
+tryg/mamr/jbt_xjml.html	\N	2006-07-27 13:53:28	2006-07-27 13:53:28	axrimpl/hydepark/1298582_1.html	חשמל מחברת חשמל בשבת	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 13:55:00	2006-07-27 13:55:00	axrimpl/hydepark/1928343_1.html	מה צריך לעשות כדי לזכות למעמד של מורה הוראה / פוסק הלכה?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 14:39:48	2006-07-27 14:39:48	axrimpl/hydepark/1931938_1.html	במות בימינו	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 14:40:42	2006-07-27 14:40:42	tryg/sug/rayon_syg.html	סייגים	-	\N	\N
+TGUVA	\N	2006-07-27 15:10:12	2006-07-27 15:10:12	axrimpl/hydepark/1940064_1.html	שיפוט יחסי של חוטאים - ביאור חדש על "עושה מעשה עמך"	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:13:56	2006-07-27 15:13:56	axrimpl/hydepark/1932142_1.html	מוסריות לא תורנית - האם קיימת אצלנו? האם יש בה צורך?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:17:19	2006-07-27 15:17:19	axrimpl/hydepark/1935918_1.html	עם נבחר - ולא עם יהיר	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:19:13	2006-07-27 15:19:13	axrimpl/hydepark/1355220_6.html	האם צריך להרוס כל בית שיורים ממנו?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:20:43	2006-07-27 15:20:43	axrimpl/hydepark/1942343_1.html	הכרזת מלחמה בימינו	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:23:30	2006-07-27 15:23:30	axrimpl/hydepark/1879207_1.html	פסח וסוכות - חגים של הזדהות עם העניים	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:28:05	2006-07-27 15:28:05	axrimpl/hydepark/1936323_1.html	האם פסיקת ההלכה מסורה רק לרבנים?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:40:51	2006-07-27 15:40:51	axrimpl/hydepark/1956265_1.html	תפילה של ציבור כדי לבקש מה' שיתגלה	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:42:58	2006-07-27 15:42:58	axrimpl/hydepark/1956240_1.html	מה תעשה אם יבוא נביא ויאמר לך שהמסורת שגויה?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:47:09	2006-07-27 15:47:09	axrimpl/hydepark/1961450_1.html	שולחן ערוך לחילונים?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:48:07	2006-07-27 15:48:07	axrimpl/hydepark/1947556_1.html	"זכויות אדם" לקופים	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:49:49	2006-07-27 15:49:49	axrimpl/hydepark/1961415_1.html	שיתוף פעולה עם נוצרים משיחיים; קבלת צדקה מגויים	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 15:50:24	2006-07-27 15:50:24	axrimpl/hydepark/1994566_1.html	שיחה דמיונית: משה, מוחמד, ומצוות בני נוח	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 17:25:05	2006-07-27 17:25:05	axrimpl/hydepark/1971301_1.html	האם לרבנים, שמקבלים שכר מהמדינה, מותר לפסוק בענייני מדינה?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 17:27:12	2006-07-27 17:27:12	axrimpl/hydepark/1968528_1.html	פסקי הלכה הקשורים למצבי סכנה, למשל איסור נסיעה בטרמפים	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 17:37:14	2006-07-27 17:37:14	axrimpl/hydepark/1968372_1.html	פנטקקה - גירסה מודרנית	בעל בעמיו	\N	\N
+TGUVA	\N	2006-07-27 17:40:01	2006-07-27 17:40:01	axrimpl/hydepark/449756_1.html	חובותיו של איש שומר תורה שמגיע לשלטון על ציבור חילוני	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-27 17:52:04	2006-07-27 17:52:04	axrimpl/hydepark/1986049_1.html	מדוע אסור לגיורת להתחתן עם כהן?	מחברים שונים	\N	\N
+TGUVA	\N	2006-07-28 08:51:13	2006-07-28 08:51:13	axrimpl/moreshet/53865.html	אם "חייך קודמין" למה נאמר "כמוך"?	אראל	\N	\N
+TGUVA	\N	2006-07-28 08:53:40	2006-07-28 08:53:40	axrimpl/moreshet/72115.html	גמ"ח תפילין עוטר ישראל	הרב יוסף אלנקוה	\N	\N
+TGUVA	\N	2006-07-28 08:54:55	2006-07-28 08:54:55	axrimpl/moreshet/72753.html	גביית חוב לאחר מיתת הלווה	הרב רצון ערוסי	\N	\N
+TGUVA	\N	2006-07-31 11:58:20	2006-07-31 11:58:20	axrimpl/hydepark/1907166_1.html	פלגינן דיבורא - פרדוקס העדות שסותרת את עצמה	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-08 17:01:04	2006-08-08 17:01:04	http://www.daat.ac.il/mishpat-ivri/skirot/171-2.htm	נדון למוות רשאי לברוח כדי להציל את עצמו [חיצוני]	-	\N	\N
+TGUVA	\N	2006-08-11 06:36:34	2006-08-11 06:36:34	tryg/mamr/mqdj_jrlo.html	כניסה להר הבית בזמן הזה - סיכום שיעור של הרב יובל שרלו	אראל	\N	\N
+TGUVA	\N	2006-08-11 09:49:33	2006-08-11 09:49:33	axrimpl/moreshet/76069.html	מוסר מלחמה - במלחמת לבנון השניה	הרב יובל שרלו	\N	\N
+TGUVA	\N	2006-08-15 10:05:01	2006-08-15 10:05:01	axrimpl/hydepark/1999036_1.html	למה רווקים לא מתחתנים?	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 10:05:59	2006-08-15 10:05:59	axrimpl/hydepark/2001316_1.html	אחריותו של הדור המבוגר למנוע זנות בדור הצעיר	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 10:07:28	2006-08-15 10:07:28	axrimpl/hydepark/1999675_1.html	ההבדל בין אכילה לבין זלילה	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 10:40:17	2006-08-15 10:40:17	axrimpl/hydepark/2003896_1.html	ואהבת לרעך כמוך - אהבת לאדם או לרעיון מופשט	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 10:45:39	2006-08-15 10:45:39	axrimpl/hydepark/1994566_1.html	הלכות לשון הרע - מדוע רק בדורות האחרונים התחילו להתגבש בצורה מסודרת?	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 10:58:53	2006-08-15 10:58:53	axrimpl/hydepark/2007104_1.html	ההבדל בין יהודים לגויים - היום לעומת העבר	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 11:02:09	2006-08-15 11:02:09	axrimpl/hydepark/2003535_1.html	הבא להרגך השכם להרגו, או גם האומר להרגך השכם להרגו?	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 11:04:23	2006-08-15 11:04:23	axrimpl/hydepark/2008042_1.html	לימוד "בין הזמנים" תמורת תשלום בעת מלחמה	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:37:10	2006-08-15 14:37:10	axrimpl/hydepark/1990848_10.html	מוסר מלחמה - במלחמת לבנון השניה (2)	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:37:44	2006-08-15 14:37:44	axrimpl/hydepark/1990848_10.html	מוסר מלחמה - במלחמת יש"ע השניה (2)	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:37:57	2006-08-15 14:37:57	axrimpl/hydepark/595910_1.html	מוסר מלחמה - במלחמת יש"ע השניה (2)	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:39:40	2006-08-15 14:39:40	axrimpl/hydepark/443573_1.html	יחס היהדות ההלכתית לגויים	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:40:56	2006-08-15 14:40:56	axrimpl/hydepark/1974045_1.html	דיון ארוך על מצעד התועבה בירושלים	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-15 14:41:54	2006-08-15 14:41:54	axrimpl/hydepark/2001628_1.html	מלחמת לבנון השניה - להתגייס או לא?	מחברים שונים	\N	\N
+TGUVA	\N	2006-08-26 21:18:27	2006-08-26 21:18:27	tryg/messages/mqor_tlmud_0.html	תגובה על: ההבדל בין התורה שבעל-פה לבין התלמוד	davidpot	\N	\N
+TGUVA	\N	2006-08-27 10:07:04	2007-08-30 00:01:00	tryg/jmita/mtkonim.html	מתכונים לשנת השמיטה	אראל	\N	\N
+TGUVA	\N	2006-09-13 15:23:29	2006-09-13 15:23:29	http://www.yeshiva.org.il/ask/viewask.asp?id=22009	תשלום שכר שלא הוסכם מראש [חיצוני]	כולל דיינים בפסגות	\N	\N
+TGUVA	\N	2006-09-15 07:59:07	2006-09-15 07:59:07	axrimpl/moreshet/77533.html	איך לקבוע מחיר ללא הונאה	הרב יובל שרלו	\N	\N
+tryg/messages/mcwa_385_0.html	\N	2006-10-04 06:50:56	2006-10-04 06:50:56	tryg/messages/mcwa_385_0_0.html	קמח שמספיק לאדם אחד ליום אחד	אראל	\N	\N
+TGUVA	\N	2006-10-04 17:33:44	2006-10-04 17:33:44	tryg/messages/sug_lwlb_2.html	תגובה על: ארבעת המינים (אתרוג, לולב, הדס, ערבה)	גלי צמח	\N	\N
+TGUVA	\N	2006-10-10 14:15:19	2007-06-09 12:57:41	tryg/messages/ribit0_hlwaa_mgmx_3.html	תגובה על: קבלת הלוואה בלי ריבית	ilana	\N	\N
+TGUVA	\N	2006-10-14 12:43:45	2006-10-14 12:43:45	tryg/messages/sug_rcon_hlwah_0.html	תגובה על: הלוואות	luiza 10	\N	\N
+tryg/messages/ribit0_gmx_hsbr_2.html	\N	2006-10-14 17:09:46	2012-01-05 09:06:38	tryg/ribit0/get.html	איך לקבל הלוואה בלי ריבית	אראל	\N	\N
+tryg/messages/ribit0_gmx_hsbr_2.html	\N	2006-10-26 06:57:21	2012-01-05 09:06:38	tryg/ribit0/get.html	איך לקבל הלוואה בלי ריבית	אראל	\N	\N
+tryg/mamr/musr326.html	\N	2006-11-06 04:23:47	2006-11-06 04:23:47	http://www.tsofar.com/zofar/mashtap/show.asp?id=940.html	קישור למאמר באתר אחר על: מצוה בין אדם למקום, הבאה בעבירה בין אדם לחבירו	קישור לסרט, מהדקה ה26 בסרגל, דברים מאלפים על בין א	\N	\N
+tryg/mamr/tora_sfrim.html	\N	2006-11-06 23:21:46	2006-11-06 23:21:46	http://www.lho.co.il.html	קישור למאמר באתר זה על: חנויות לספרי קודש ברשת	לה"ו ספרי קודש	\N	\N
+TGUVA	\N	2006-11-14 11:13:34	2006-12-12 21:49:53	tryg/messages/sug_erua_zmn_jbt_1.html	מאמר חדש על: כל 7 ימים - שבת	רמי ניר		\N
+TGUVA	\N	2006-11-20 13:52:27	2006-11-20 13:52:27	http://www.otbatorah.com	קישור למאמר באתר אחר על: כתיבת ספר תורה פרטי	אות בתורה	info @ otbatorah.com	\N
+TGUVA	\N	2006-11-23 22:53:23	2006-11-23 23:38:57	tryg/messages/sug_cycyt_0.html	שאלה על: ציציות ופתילי-תכלת על כנפי הבגדים	ברצוני להכין ציצית - מהם הקשירות שיש לעשות בכל שלב		\N
+tryg/messages/sug_cycyt_0.html	\N	2006-11-23 23:38:57	2006-11-23 23:38:57	http://www.tekhelet.org/heb_guide.php	שיטות שונות לקשירת ציצית	משה נבון		\N
+TGUVA	\N	2006-11-30 12:12:12	2006-11-30 12:14:59	tryg/messages/mamr_xnwkh_0.html	שיר על: נס חנוכה שלי	רמי ניר		\N
+tryg/messages/mamr_xnwkh_0.html	\N	2006-11-30 12:14:59	2006-11-30 12:14:59	tryg/messages/emwd_hjxr_el_hry_gled___yxs.jpg	עמוד השחר על הרי גלעד - יחס	רמי ניר		\N
+TGUVA	\N	2006-11-30 22:08:53	2006-11-30 22:08:53	http://www.moreshet.co.il/web/shut/shut2.asp?id=79504	הפקרת שדה בשביעית - רק כשיש בו פירות שביעית	הרב יהודה עמיחי	שו"ת מורשת	\N
+TGUVA	\N	2006-11-30 22:15:05	2006-11-30 22:15:05	http://www.moreshet.co.il/web/shut/shut2.asp?id=70235	הפרשת תרומות ומעשרות - מהרגע שהפירות ראויים למאכל, אפילו בדוחק	הרב יוסף אלנקוה	שו"ת מורשת	\N
+tryg/mamr/tora_jiurim.html	\N	2006-12-12 13:14:21	2006-12-12 13:14:21	http://rosh-hagiva.blogspot.com/	קישור למאמר באתר אחר על: אתרי מאמרים ושיעורים	שי שגב		\N
+tryg/messages/sug_erua_zmn_jbt_1.html	\N	2006-12-12 21:49:53	2006-12-12 21:49:53	tryg/messages/sug_erua_zmn_jbt_1_0.html	תגובה על: מאמר חדש על: כל 7 ימים - שבת	רמי ניר		\N
+TGUVA	\N	2006-12-13 22:32:02	2006-12-13 22:32:02	axrimpl/hydepark/2018388_1.html	כיסוי ראש לנשים נשואות 3	מחברים שונם	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 22:33:55	2006-12-13 22:33:55	axrimpl/hydepark/2017922_1.html	חקירות ועינויים	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 22:35:59	2006-12-13 22:35:59	axrimpl/hydepark/2017922_1.html	מתי מותר לחקור בעינויים כדי להציל חיים?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 22:38:34	2006-12-13 22:38:34	axrimpl/hydepark/2018264_1.html	האם גוי חייב להאמין במשה כדי להיות חסיד?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 23:35:29	2006-12-13 23:35:29	axrimpl/hydepark/2027801_1.html	יפת תואר - איך ייתכן שהתורה התירה	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 23:36:13	2006-12-13 23:36:13	axrimpl/hydepark/580875_1.html	יפת תואר בעבר ובעתיד	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-13 23:36:56	2006-12-13 23:36:56	http://www.daat.ac.il/mishpat-ivri/skirot/222-2.htm	ההשלמה עם יצר הרע, יפת תואר והימורים	אברהם טננבוים	שערי משפט ה'תשס"ה כי תצא	\N
+TGUVA	\N	2006-12-13 23:39:13	2006-12-13 23:39:13	axrimpl/hydepark/2000224_1.html	# הלכות לשון הרע - מדוע רק בדורות האחרונים התחילו להתגבש בצורה מסודרת?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 01:52:52	2006-12-14 01:52:52	axrimpl/hydepark/1830360_1.html	עד כמה יש להחמיר בצניעות בלבוש	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 02:06:58	2006-12-14 02:06:58	axrimpl/hydepark/2032989_1.html	פתרונות הלכתיים לגילוח ע"פ מכון צומ"ת	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 04:25:22	2006-12-14 04:25:22	axrimpl/hydepark/2036168_1.html	הקשר בין מספר ההרוגים לבין גודל האבל	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 04:27:39	2006-12-14 04:27:39	http://hydepark.hevre.co.il/forum.asp?forum_id=1025	פורום מעמד האישה ביהדות	-	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 04:29:14	2006-12-14 04:29:14	http://www.knesset.gov.il/protocols/data/html/maamad/1999-11-17.html	מעמד האישה בעולם החרדי - פרוטוקול 16 מישיבת הועדה לקידום מעמד האישה	-	אתר הכנסת - ה'תשס כסלו ח	\N
+TGUVA	\N	2006-12-14 04:30:39	2006-12-14 04:30:39	axrimpl/hydepark/258679_1.html	שוויון האישה - התפתחות ההלכה	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/xn.html	\N	2006-12-14 04:51:22	2006-12-14 04:51:22	axrimpl/hydepark/2039840_1.html	ועדת חקירה רוחנית	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/xn.html	\N	2006-12-14 04:53:14	2006-12-14 04:53:14	axrimpl/hydepark/2038043_1.html	חשבון נפש אישי בעקבות מחלה	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/xn.html	\N	2006-12-14 04:54:49	2006-12-14 04:54:49	axrimpl/hydepark/2040370_1.html	האם צריך לחיות בתודעה מתמדת של סכנת מוות?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 04:56:09	2006-12-14 04:56:09	axrimpl/hydepark/2040360_1.html	מה הטעם לחזור בתשובה, אם ברור שהאדם יחטא שוב?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 04:56:44	2006-12-14 04:56:44	axrimpl/hydepark/608194_1.html	למה כל-כך קשה לבקש סליחה?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-14 05:00:10	2006-12-14 05:00:10	axrimpl/hydepark/2040921_1.html	מדוע יש חשיבות כה רבה לפרטים הקטנים של המצוות?	מחברים שונים	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-19 04:38:12	2006-12-19 04:38:12	axrimpl/hydepark/2034539_1.html	קישור למאמר באתר זה על: מעשר ראשון	מחברים שונים	דרישת האלהים באמצעות חקר המקרא	\N
+TGUVA	\N	2006-12-19 04:53:10	2006-12-19 04:53:10	axrimpl/hydepark/2043169_1.html	ערך הכסף בזמן התלמוד ובימינו - "שווה פרוטה"	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 04:54:42	2006-12-19 04:54:42	axrimpl/hydepark/2042456_1.html	האם יש ערך ל"חוויה דתית" בתפילה?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 04:56:39	2006-12-19 04:56:39	axrimpl/hydepark/2046028_4.html	קבלת שבת הארץ	אראל	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 05:00:18	2006-12-19 05:00:18	axrimpl/hydepark/1901721_1.html	מדוע קבעו מנהגי אבלות שמבטלים את ישראל מפריה ורביה?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 05:01:50	2006-12-19 05:01:50	axrimpl/hydepark/2043336_1.html	"לא תשא פני דל" = בבית המשפט לא עוסקים בתיקון החברה	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 05:03:09	2006-12-19 05:03:09	axrimpl/hydepark/2012244_1.html	הבעיה ב"עשה לך רב"	אראל	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-19 05:05:26	2006-12-19 05:05:26	axrimpl/hydepark/2001316_1.html	אחריות הדור המבוגר למניעת זנות בדור הצעיר	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 05:08:02	2006-12-19 05:08:02	axrimpl/hydepark/2051350_1.html	מסירת הנשמה למען הכלל - האם ראוי שאדם אחד יחטא כדי להציל את הציבור כולו?	מחברים שונים	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-19 05:10:09	2006-12-19 05:10:09	axrimpl/hydepark/2052682_1.html	האם ראוי לפטר עובדת ניקיון שהתבגרה וכבר לא מנקה כראוי?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 05:12:44	2006-12-19 05:12:44	axrimpl/hydepark/164339_1.html	נשים כפוסקות	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-19 06:02:39	2006-12-19 06:02:39	axrimpl/moreshet/81509.html	מדוע אסור לגיורת להתחתן עם כהן? (2)	תשובה: הרב דוד לאו	שו"ת מורשת	\N
+TGUVA	\N	2006-12-19 06:03:04	2006-12-19 06:03:04	axrimpl/moreshet/81509.html	מדוע אסור לגיורת להתחתן עם כהן? (2)	תשובה: הרב דוד לאו	שו"ת מורשת	\N
+TGUVA	\N	2006-12-19 07:28:49	2007-10-12 06:20:57	tryg/mamr/trumt_zra.html	תרומת זרע	אראל		\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:30:03	2006-12-19 07:30:03	axrimpl/moreshet/80191.html	àéñåø çîåø ìúú æøò ìáð÷ äæøò	àåãé øè - îëåï ôåò"ä	ùå"ú îåøùú	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:33:20	2006-12-19 07:33:20	axrimpl/moreshet/79004.html	תרומת זרע לרווקה - עיקר הבעיה היא ביחס לילוד הנולד למציאות מנותקת	הרב שמעון בן שעיה	שו"ת מורשת	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:34:51	2006-12-19 07:34:51	http://www.medethics.org.il/db/showQ.asp?ID=1919	הבאת ילד לעולם ללא נישואין - מקורות	הרב שמעון בן שעיה	אתר מכון שלזינגר	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:36:57	2006-12-19 07:36:57	http://www.medethics.org.il/articles/misc/BH.9.asp	קיום מצוות פריה ורביה בהזרעה לאחר המוות; גמילות חסדים בקיום רצון הנפטר להזרעה לאחר המוות	הרב ד"ר מרדכי הלפרין	בית הלל ט, טבת ה'תשס"ב	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:42:01	2006-12-19 07:42:01	axrimpl/moreshet/59243.html	תרומת ביצית - לפי רוב הדעות, היולדת היא האם	הרב אליהו האיתן - מכון פוע"ה	שו"ת מורשת	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:47:43	2006-12-19 07:47:43	axrimpl/moreshet/12660.html	מותר לרווקה להרות מתרומת זרע - רק כשהיא בסוף תקופת הפוריות, ורק מזרע של גוי	הרב יובל שרלו	שו"ת מורשת	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:49:18	2006-12-19 07:49:18	axrimpl/moreshet/1248.html	מותר לרווקה להרות מתרומת זרע - רק במצבים קיצוניים	הרב יובל שרלו	שו"ת מורשת	\N
+tryg/mamr/trumt_zra.html	\N	2006-12-19 07:50:39	2006-12-19 07:50:39	axrimpl/moreshet/63253.html	הבעיות בתרומת זרע לבנק הזרע	הרב יובל שרלו	שו"ת מורשת	\N
+TGUVA	\N	2006-12-19 08:00:04	2006-12-19 08:00:04	tryg/messages/sug_mjkb_zkr_0.html	דיון על הקשר בין מצעד התועבה לבין המאבק על ארץ ישראל	מחברים שונים	דואל מטה צפון	\N
+TGUVA	\N	2006-12-19 08:22:52	2006-12-19 08:22:52	axrimpl/moreshet/80221.html	אזהרת לקוח מפני מחיר מופקע	הרב יובל שרלו	שו"ת מורשת	\N
+TGUVA	\N	2006-12-19 08:28:26	2006-12-19 08:28:26	http://www.respectjerusalem.com/	עצומה למען שמירה על כבודה של ירושלים	אראל	אתר "כבוד ירושלים"	\N
+TGUVA	\N	2006-12-21 11:53:15	2006-12-21 11:53:15	axrimpl/hydepark/539217_1.html	ימי הזיכרון מדגישים את החורבן הרוחני ולא הפיסי (?)	אראל	עצור כאן חושבים	\N
+tryg/mamr/zkut.html	\N	2006-12-26 05:36:34	2006-12-26 05:36:34	axrimpl/hydepark/2058105_1.html	ביטחון שדה ומוסר בצה"ל - לימוד זכות ברכבת	אראל	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-26 05:39:15	2006-12-26 05:39:15	axrimpl/hydepark/2060317_1.html	משיכה גופנית ורוחנית בין איש לאישה	מחברים שונים	דרישת האלהים באמצעות חקר המקרא	\N
+TGUVA	\N	2006-12-26 05:40:19	2006-12-26 05:40:19	axrimpl/hydepark/2053273_1.html	איך אפשר לבחון את איכותו של פסק הלכה?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 05:46:45	2006-12-26 05:46:45	axrimpl/hydepark/1010850_1.html	מחיצה בבית הכנסת, בבית המקדש, ובריקודים	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 05:54:09	2006-12-26 05:54:09	axrimpl/hydepark/2058540_1.html	הכנת אוכל ע"י גויים	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 06:40:34	2006-12-26 06:40:34	axrimpl/hydepark/1334976_1.html	באילו מקרים חייבים לפנות לבית משפט?	מחברים שונים	דרישת האלהים באמצעות חקר המקרא	\N
+TGUVA	\N	2006-12-26 06:43:21	2006-12-26 06:43:21	axrimpl/hydepark/2012648_1.html	"נישואין קתוליים" בדעת בית שמאי?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 06:47:40	2006-12-26 06:47:40	axrimpl/hydepark/2085032_1.html	האם שפחה יכולה להיות יפת-תואר? (ע"פ הורדוס ור' חננאל)	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 06:57:25	2006-12-26 06:57:25	axrimpl/hydepark/1670445_1.html	מיהו יהודי בימינו? מי מחוייב במצוות?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 07:05:34	2006-12-26 07:05:34	axrimpl/hydepark/2092074_1.html	האם זכותנו על ארץ ישראל ניתנת לתביעה בבית-דין לממונות?	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 08:46:29	2006-12-26 08:50:47	tryg/mamr/yhudi.html	מיהו יהודי?	-		\N
+tryg/mamr/yhudi.html	\N	2006-12-26 08:49:28	2006-12-26 08:49:28	axrimpl/hydepark/2088375_1.html	דיון על יהדותם של עולי אתיופיה	אראל		\N
+tryg/mamr/yhudi.html	\N	2006-12-26 08:50:47	2006-12-26 08:50:47	axrimpl/hydepark/1670445_1.html	מיהו יהודי בימינו? מי מחוייב במצוות?	אראל	דרישת האלהים באמצעות חקר המקרא	\N
+TGUVA	\N	2006-12-26 09:30:33	2006-12-26 09:30:33	axrimpl/hydepark/2093987_1.html	האם אין מחיר לחיים?	אראל	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 09:34:06	2006-12-26 09:34:06	axrimpl/hydepark/472151_1.html	ההשקפה על הומוסקסואליות	מחברים שונים	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 10:12:26	2006-12-26 10:13:54	tryg/mamr/jzl.html	הוצאת זרע לבטלה	-		\N
+tryg/mamr/jzl.html	\N	2006-12-26 10:13:15	2006-12-26 10:13:15	axrimpl/hydepark/2090018_1.html	המקור והסיבה לאיסור הגורף על הוצאת זרע לבטלה	שמניךטובים, נכספהנפשי, אראלסגל, צחיצויג	דרישת האלהים באמצעות חקר המקרא	\N
+tryg/mamr/jzl.html	\N	2006-12-26 10:13:54	2006-12-26 10:13:54	axrimpl/hydepark/895284_1.html	הוצאת זרע לבטלה	ישרן ועוד	עצור כאן חושבים	\N
+TGUVA	\N	2006-12-26 10:15:42	2006-12-26 10:15:42	axrimpl/hydepark/2038244_1.html	החזרת חובות	אראל	ישיבת הגולשים	\N
+TGUVA	\N	2006-12-26 10:17:33	2006-12-26 10:17:33	axrimpl/hydepark/2068183_1.html	10 שאלות ותשובות על בחירת בן/בת זוג	צורצור20, אזרחי, מגי אדם, אראל	ישיבת הגולשים	\N
+tryg/ribit0/get.html	\N	2006-12-27 03:31:37	2006-12-27 03:31:37	tryg/messages/ribit0_get_1.html	תגובה על: איך לקבל הלוואה בלי ריבית	לצערי הקטע שלמטה אינו נכון אנא ממכם תבדקו את הדברי		\N
+TGUVA	\N	2007-01-15 08:14:24	2007-01-15 08:14:24	tryg/messages/chhhhhcchh.doc	צהההההצצהה הלכות יורה דעה	אנייי		\N
+TGUVA	\N	2007-01-15 08:15:40	2007-01-15 08:15:40	tryg/messages/bjrr.doc	בשרר	אנייי		\N
+TGUVA	\N	2007-01-15 08:16:49	2007-01-15 08:16:49	tryg/messages/hlkwt_cb.doc	הלכות צב	אנייי		\N
+TGUVA	\N	2007-01-17 00:21:48	2007-01-17 00:21:48	axrimpl/moreshet/82321.html	מותר להסתיר פרסומות באתרי אינטרנט	הרב יובל שרלו	שו"ת מורשת	\N
+TGUVA	\N	2007-01-20 09:42:12	2007-01-20 09:42:12	http://bh.hevre.co.il/forum/topic.asp?topic_id=2129025	האם מותר להרוג גנב?	אראל	עצור כאן חושבים	\N
+TGUVA	\N	2007-01-20 12:03:24	2007-01-20 12:03:24	http://www.medinayehudit.org.il/article.cfm?ArticleID=94	נטיה טבעית, אקט אסור	ראובן ימרום ועוד	מדינה יהודית	\N
+TGUVA	\N	2007-01-20 23:19:15	2007-01-20 23:19:15	axrimpl/hydepark/1732860_1.html	משטרה ורדיפת צדק בשבת	אראל	עצור כאן חושבים	\N
+TGUVA	\N	2007-01-22 02:48:30	2007-08-27 07:52:11	tryg/jmita/5768.html	שמיטה ה'תשס"ח - הכנות	אראל		\N
+TGUVA	\N	2007-01-22 02:52:24	2007-01-22 02:52:24	axrimpl/hydepark/2046028_1.html	דיון נוסף בנושא זה	מחברים שונים	עצור כאן חושבים	\N
+tryg/messages/ribit0_hlwaa_mgmx_3.html	\N	2007-02-04 01:42:39	2007-02-04 01:42:39	tryg/messages/ribit0_hlwaa_mgmx_3_0.html	שאלה על: תגובה על: קבלת הלוואה בלי ריבית	שלום שוב,,,מה שלומך?? האם אפשרי לנסות להעזר בהלווא	ilanat1 @ 013.net	\N
+tryg/messages/ribit0_hlwaa_mgmx_3.html	\N	2007-02-04 01:43:02	2007-02-04 01:43:02	tryg/messages/ribit0_hlwaa_mgmx_3_1.html	שאלה על: תגובה על: קבלת הלוואה בלי ריבית	שלום שוב,,,מה שלומך?? האם אפשרי לנסות להעזר בהלווא	ilanat1 @ 013.net	\N
+TGUVA	\N	2007-02-04 02:25:05	2007-02-06 07:06:31	tryg/messages/sug_hlwah_brybyt_2.html	אריאל שלום רב,,,,מה שלומך?	ilana	ilanat1 @ 013.net	\N
+tryg/messages/sug_hlwah_brybyt_2.html	\N	2007-02-04 02:30:46	2007-02-04 02:30:46	tryg/messages/aylnyh.bmp	אילניה	ilana	ilanat1 @ 013.net	\N
+tryg/messages/sug_hlwah_brybyt_2.html	\N	2007-02-04 02:32:31	2007-02-04 02:32:31	tryg/messages/picture_120.jpg	Picture 120	ilana	ilanat1 @ 013.net	\N
+TGUVA	\N	2007-02-05 08:50:29	2007-02-05 08:50:29	tryg/messages/sug_xlh_1.html	איך מפרישים	יעלה		\N
+TGUVA	\N	2007-02-06 03:50:26	2007-02-13 12:05:10	tryg/messages/mcwa_046_0.html	נושא חדש על: יחסיים בין גבר לאישה	יחסיים בין גבר לאישה	osnat_hami @ walla.com	\N
+tryg/messages/sug_hlwah_brybyt_2.html	\N	2007-02-06 07:06:31	2007-02-06 07:06:31	tryg/messages/sug_hlwah_brybyt_2_0.html	תגובה על: אריאל שלום רב,,,,מה שלומך?	רונן		\N
+tryg/messages/mcwa_046_0.html	\N	2007-02-13 12:05:10	2007-02-13 12:05:10	tryg/messages/mcwa_046_0_0.html	תגובה על: נושא חדש על: יחסיים בין גבר לאישה	daian	daian1 @ 013.net	\N
+tryg/mqor/rov.html	\N	2007-02-14 06:50:56	2007-02-14 06:50:56	http://rov.co.il	קישור למאמר באתר אחר על: הרוב קובע - האמנם?	aaa	aaa	\N
+tryg/jmita/5768.html	\N	2007-02-21 02:50:32	2007-02-21 02:50:32	tryg/jmita/5768_elyhu.html	מכתב אל הרב מרדכי אליהו	אראל		\N
+tryg/sug/rcon_mjkwn.html	\N	2007-02-21 02:18:17	2007-02-21 02:18:17	axrimpl/moreshet/84268.html	שמירת משכון - מי אחראי?	הרב רצון ערוסי	שו"ת מורשת	\N
+tryg/sug/erua-ecm_psx-lxm.html	\N	2007-02-21 02:23:11	2007-02-21 02:23:11	axrimpl/moreshet/84269.html	האם אפשר לשמור מצות לשנה הבאה?	הרב דוד לאו	שו"ת מורשת	\N
+tryg/sug/erua-ecm_nzq.html	\N	2007-02-21 02:26:50	2007-02-21 02:26:50	axrimpl/moreshet/83908.html	שמירת מרחק - מדוע חז"ל לא חייבו את ההולכים בדרכים לשמור מרחק?	הרב עמית קולא	שו"ת מורשת	\N
+tryg/ribit0/bclel.html	\N	2007-02-27 12:51:06	2007-02-27 12:51:06	tryg/messages/ribit0_bclel_1.html	שאלה על: גמחי כספים - בעיות ופתרונות	חן גלית		\N
+tryg/odot.html	\N	2007-03-20 11:54:51	2007-03-20 11:54:51	tryg/messages/odot_2.html	נושא חדש על: אודות האתר למקוריות במצוות	orzah@zahav.net.il		\N
+tryg/messages/mcwa_332_0_0.html	\N	2007-03-09 06:39:35	2007-03-10 10:29:08	tryg/messages/mcwa_332_0_0_0.html	הודעה חשובה על: אני לא יודע	daian	daian1 @ 013.net	\N
+tryg/messages/mcwa_332_0_0_0.html	\N	2007-03-10 10:29:08	2007-03-10 10:29:08	tryg/messages/mcwa_332_0_0_0_0.html	הודעה חשובה על: שנת היובל	daian	daian1 @ 013.net	\N
+tryg/sug/ecm-erua_bjr-psx.html	\N	2007-04-01 00:50:57	2007-04-01 00:50:57	http://korbanpesach.org/	קניית כבשים לצורך הקרבת קרבן פסח	אראל		\N
+tryg/mamr/sdr_mty.html	\N	2007-04-01 01:37:34	2007-04-01 01:37:34	tryg/messages/mamr_sdr_mty_0.html	תגובה על: מקרים שבהם יש חשיבות לדרוג בין המצוות	נינט דנקר		\N
+tryg/sug/erua_zmn.html	\N	2007-04-07 13:11:23	2007-04-07 13:11:23	tryg/messages/xgym_wmwedym_zykrwn_laba.doc	חגים ומועדים זיכרון לאבא	זינדני יחזקאל	hezizz @ walla.com	\N
+tryg/ribit0/lmi.html	\N	2007-04-10 00:53:30	2007-04-10 00:53:30	axrimpl/moreshet/85306.html	סדר קדימויות בהלוואה	הרב רצון ערוסי	שות מורשת	\N
+tryg/ribit0/lmi.html	\N	2007-04-10 00:54:39	2007-04-10 00:54:39	axrimpl/moreshet/29358.html	סדר קדימויות בצדקה	הרב יובל שרלו	שות מורשת	\N
+tryg/ribit0/lenyym.html	\N	2007-04-10 00:56:11	2007-04-10 00:56:11	axrimpl/moreshet/85305.html	האם מותר לברר פרטים על לווה?	הרב רצון ערוסי	שות מורשת	\N
+tryg/sug/twrt_emt.html	\N	2007-04-10 01:05:01	2007-04-10 01:05:01	axrimpl/moreshet/87311.html	לא תוסיפו בתפילין	הרב יובל שרלו	שות מורשת	\N
+tryg/jmita/obd.html	\N	2007-04-17 08:14:38	2007-04-17 10:02:07	tryg/messages/jmita_obd_0.html	תגובה על: לא להסתפק באוצר בית-דין	מה זה משנה?		\N
+tryg/jmita/obd.html	\N	2007-04-17 08:35:22	2007-04-17 10:02:07	tryg/messages/jmita_obd_0.html	תגובה	מה זה משנה?		\N
+tryg/messages/jmita_obd_0.html	\N	2007-04-17 10:02:07	2007-04-17 10:02:07	tryg/messages/jmita_obd_0_0.html	תגובה על: תגובה על: לא להסתפק באוצר בית-דין	אראל		\N
+tryg/sug/rayon_arc_yjral.html	\N	2007-04-20 06:49:18	2007-04-20 06:49:18	axrimpl/moreshet/87597.html	מדינה יהודית ודמוקרטית - לכל עם יש זכות לארץ	שאלה: אראל; תשובה: הרב שרלו	שות מורשת	\N
+tryg/sug/rayyt_xmc.html	\N	2007-04-23 02:57:25	2007-04-23 02:57:25	http://www.tapuz.co.il/food/ArtInfo.asp?CID=18&amp;SID=104&amp;InfoID=1670	ביעור חמץ במבשלת בירה	הגמל המרקד	תפוז אוכל	\N
+tryg/sug/rayyt_xmc.html	\N	2007-04-23 02:57:41	2007-04-23 02:57:41	http://www.tapuz.co.il/food/ArtInfo.asp?CID=18&amp;SID=104&amp;InfoID=1670	ביעור חמץ במבשלת בירה	הגמל המרקד	תפוז אוכל	\N
+tryg/sug/cdqh_lenyym.html	\N	2007-04-30 05:10:21	2007-04-30 05:10:21	tryg/messages/sug_cdqh_lenyym_0.html	תגובה על: החובה לתת הלואה או צדקה לעניים, לפי צרכיהם של המקבלים	אשה שנכה וזקוקה לעזרה עם מקרר או טלויזיה הלוואה קט	balgan @ wallaco.il	\N
+tryg/mamr/evl.html	\N	2007-05-07 23:05:41	2007-05-07 23:05:41	axrimpl/hydepark/1513909_1.html	קינות לתשעה באב על חורבן גוש קטיף	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/ewnj_mwwt.html	\N	2007-05-07 23:09:11	2007-05-07 23:09:11	axrimpl/hydepark/904777_1.html	מוסריות עונש המוות	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/ecm_adm_xwfaym.html	\N	2007-05-07 23:13:46	2007-05-07 23:13:46	axrimpl/hydepark/2111826_1.html	מדוע מתנגדת האורתודוקסיה לשתף עוד זרמים בחיים הדתיים	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/kll_mcwa.html	\N	2007-05-08 00:17:06	2007-05-08 00:17:06	axrimpl/hydepark/2053273_1.html	כיצד נבחן פסק הלכה	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/cdqh_lenyym.html	\N	2007-05-08 00:20:51	2007-05-08 00:20:51	axrimpl/hydepark/2123222_1.html	האם מותר להתפרנס מגמ"ח?	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/kll_mcwa.html	\N	2007-05-08 00:22:23	2007-05-08 00:22:23	axrimpl/hydepark/2126180_1.html	פסיקת הלכה ללא הכרת המציאות - אזיקים אלקטרוניים	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/lymwd_twrh.html	\N	2007-05-08 00:26:08	2007-05-08 00:26:08	axrimpl/hydepark/2135306_1.html	איך מתמכרים ללימוד?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/ecm_alylym.html	\N	2007-05-08 00:31:22	2007-05-08 00:31:22	axrimpl/hydepark/2137545_1.html	פנג שווי - עבודה זרה?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/ecm_mqdj.html	\N	2007-05-08 00:32:12	2007-05-08 00:32:12	http://hydepark.hevre.co.il/forum.asp?forum_id=18642	פורום מקדש וגאולה	אראל	הייד פארק	\N
+tryg/sug/pryh_wrbyh.html	\N	2007-05-08 00:33:19	2007-05-08 00:33:19	axrimpl/hydepark/2137430_1.html	נגד הגבלת ילודה על-ידי השלטון	מחברים שונים	הייד פארק	\N
+tryg/sug/rcon_akylh.html	\N	2007-05-08 00:35:34	2007-05-08 00:35:34	axrimpl/hydepark/2142796_1.html	כשרות תמורת כסף - חשש שוחד?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/cdqh_lenyym.html	\N	2007-05-08 01:10:33	2007-05-08 01:10:33	axrimpl/hydepark/2150072_1.html	איך לתת לאדם שמחפש בזבל?	מחברים שונים	ישיבת הגולשים	\N
+tryg/mamr/xn.html	\N	2007-05-08 01:32:12	2007-05-08 01:32:12	axrimpl/hydepark/2165953_1.html	מתי צרה היא עונש?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/ecm_adm_almnh.html	\N	2007-05-08 02:49:50	2007-05-08 02:53:21	tryg/mamr/xdhoriot.html	אמהות חד הוריות	אראל		\N
+tryg/mamr/xdhoriot.html	\N	2007-05-08 02:52:08	2007-05-08 02:52:08	axrimpl/hydepark/2175664_1.html	חד הוריות 1	אראל	דרישת האלהים באמצעות חקר המקרא	\N
+tryg/mamr/xdhoriot.html	\N	2007-05-08 02:52:41	2007-05-08 02:52:41	axrimpl/hydepark/2175669_1.html	חד הוריות 2	אראל	דרישת האלהים באמצעות חקר המקרא	\N
+tryg/mamr/xdhoriot.html	\N	2007-05-08 02:53:21	2007-05-08 02:53:21	axrimpl/hydepark/2175668_1.html	חד הוריות 3	אראל	דרישת האלהים באמצעות חקר המקרא	\N
+tryg/sug/cdqh_lenyym.html	\N	2007-05-08 02:55:10	2007-05-08 02:55:10	axrimpl/hydepark/2148007_3.html	זכות מבקשי חסד ליחס הוגן - עד היכן?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/rcon-ecm_bxirt_bt_zwg-ajh.html	\N	2007-05-08 03:01:28	2007-05-08 03:01:28	axrimpl/hydepark/2178664_1.html	במרחק נגיעה - האם יש סיכוי לקשר בין חרדית לחילוני	מחברים שונים	ישיבת הגולשים	\N
+tryg/sug/tpylh.html	\N	2007-05-08 03:22:49	2007-05-08 03:22:49	axrimpl/hydepark/2183954_1.html	מה קורה כששני ציבורים מתפללים תפילות מנוגדות?	מחברים שונים	ישיבת הגולשים	\N
+tryg/sug/rcon-ecm_bxirt_bt_zwg-ajh.html	\N	2007-05-08 03:25:35	2007-05-08 03:25:35	axrimpl/hydepark/991988_1.html	מהן הנסיבות המצדיקות ביטול שידוך?	מחברים שונים	עצור כאן חושבים	\N
+tryg/mqor/index.html	\N	2007-05-08 03:36:34	2007-05-08 03:36:34	axrimpl/hydepark/215213_1.html	האם מותר לפסוק ישירות מהתורה?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/mzwzh.html	\N	2007-05-13 02:24:41	2007-05-13 02:24:41	http://bh.hevre.co.il/forum/topic.asp?topic_id=2204222	מזוזה באתרי אינטרנט	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/rkylwt.html	\N	2007-05-13 02:30:20	2007-05-13 02:30:20	http://bh.hevre.co.il/forum/topic.asp?topic_id=1126236	הלכות לשון הרע לעיתונאים ולגולשים	מחברים שונים	עצור כאן חושבים	\N
+tryg/mamr/kll_mcwa.html	\N	2007-05-16 01:00:48	2007-05-16 01:00:48	http://www.judaicapress.com/product_info.php?products_id=449&amp;gclid=CK6I0tCbkowCFQyIlAod-gj-6Q	The Encyclopedia of the Taryag Mitzvoth	Judaica Press		\N
+tryg/mcwa/420.html	\N	2007-05-20 06:09:32	2007-05-20 06:09:32	tryg/messages/left_4.gif	left_4	דנה עדיני		\N
+tryg/mamr/thra7.html	\N	2007-05-28 02:48:08	2007-05-28 14:20:55	tryg/messages/mamr_thra7_1.html	תגובה על: ההבדל בין נידה לזיבה	ששש	roi_m2 @ bezeqint.net	\N
+tryg/messages/mamr_thra7_1.html	\N	2007-05-28 14:20:55	2007-05-28 14:20:55	tryg/messages/mamr_thra7_1_0.html	יש לשאול רב	אראל		\N
+tryg/sug/lwlb.html	\N	2007-05-28 06:05:37	2007-05-28 06:05:37	http://www.etrogs.co.il	קישור למאמר באתר אחר על: ארבעת המינים (אתרוג, לולב, הדס, ערבה)	רותם		\N
+tryg/mamr/4minim.html	\N	2007-05-28 06:06:07	2007-05-28 06:06:07	http://www.etrogs.co.il	קישור למאמר באתר אחר על: מוכרי ארבעת המינים	רותם		\N
+tryg/mamr/musr065.html	\N	2007-06-04 21:36:39	2007-06-04 21:36:39	tryg/messages/mamr_musr065_0.html	תגובה על: תנועת המוסר - החלק העיוני	בוניקו	bok111 @ walla.com	\N
+tryg/ribit0/kn.html	\N	2007-06-08 03:17:58	2007-06-08 09:01:59	tryg/ribit0/mnyot.html	השקעה בבורסה?	אראל		\N
+tryg/ribit0/mnyot.html	\N	2007-06-08 09:01:59	2007-06-08 09:01:59	tryg/messages/ribit0_mnyot_0.html	כדי לקבל...צריך לדעת לתת...	רמי ניר		\N
+tryg/messages/ribit0_hlwaa_mgmx_3.html	\N	2007-06-09 12:57:41	2007-06-09 12:57:41	tryg/messages/ribit0_hlwaa_mgmx_3_2.html	תגובה על: תגובה על: קבלת הלוואה בלי ריבית	דבי מלול	debyvip @ 013.net	\N
+tryg/ribit0/lenyym.html	\N	2007-06-10 03:54:41	2011-11-20 07:49:46	tryg/ribit0/caution.html	אמצעי זהירות מפני לווים שאינם משלמים	אראל		\N
+tryg/mcwa/249.html	\N	2007-06-13 10:51:27	2007-06-13 10:51:27	http://tipo.co.il	קישור למאמר באתר אחר על: לא לנחש	דנה		\N
+tryg/sug/ktybt_spr_twrh_prfy.html	\N	2007-06-18 07:32:29	2007-06-18 07:32:29	http://www.tora.ybay.co.il	קישור למאמר באתר זה על: כתיבת ספר תורה פרטי	תורה מציון		\N
+tryg/sug/cycyt.html	\N	2007-07-03 03:24:13	2007-07-03 03:24:13	axrimpl/hydepark/2229966_7.html	ויכוח על מהות התכלת - מחילזון או מדיונון?	מחברים שונים	עצור כאן חושבים	\N
+tryg/sug/erua_fhrt_hayjh.html	\N	2007-07-15 08:55:13	2007-07-15 08:55:13	http://toratemetfreeware.com/RavHaimRabi.htm	שיעורים על טהרת המשפחה (mp3)	הרב חיים רבי	אתר תורת אמת	\N
+tryg/sug/qywm_hndr.html	\N	2007-07-15 22:34:34	2007-07-15 22:34:34	axrimpl/moreshet/88608.html	נדר צדקה - כולל הלוואה?	הרב דוד לאו	שות מורשת	\N
+tryg/sug/qywm_hndr.html	\N	2007-07-15 22:36:05	2007-07-15 22:36:05	axrimpl/moreshet/85751.html	נדר צדקה ברחוב	מכון משפטי ארץ	שות מורשת	\N
+tryg/sug/hclt_anjym_bsknh.html	\N	2007-07-15 22:41:45	2007-07-15 22:41:45	http://www.yeshiva.org.il/ask/default.asp?id=26915	פיצוי למציל שהניצול טוען שלא היה בו צורך	הרב דב ליאור	שות בית אל	\N
+tryg/sug/hclt_anjym_bsknh.html	\N	2007-07-15 22:44:47	2007-07-15 22:44:47	tryg/mamr/hcla1.html	פיצוי למציל שהניצול טוען שלא היה בו צורך	הרב דב ליאור	שות בית אל	\N
+tryg/sug/hlwah_brybyt.html	\N	2007-07-15 23:28:35	2012-05-10 12:29:13	tryg/ribit0/seruv.html	סירוב פקודה בגירוש עקב חוב שכולו ריבית	שאלה: אראל; תשובה: הרב משה עמיאל	שות מוריה	\N
+tryg/jmita/obd.html	\N	2007-07-17 23:26:58	2007-07-18 20:51:00	tryg/messages/jmita_obd_1.html	תגובה על: לא להסתפק באוצר בית-דין	יוחנן		\N
+tryg/jmita/obd.html	\N	2007-07-17 23:28:19	2007-07-18 20:51:00	tryg/messages/jmita_obd_1.html	תגובה	יוחנן		\N
+tryg/jmita/obd.html	\N	2007-07-17 23:29:43	2007-07-18 20:51:00	tryg/messages/jmita_obd_1.html	תגובה - אכילת פירות שביעית, ומהות בית הדין	יוחנן		\N
+tryg/jmita/mkira.html	\N	2007-07-17 23:38:46	2007-07-18 22:50:43	tryg/messages/jmita_mkira_0.html	תגובה על: לא להשתמש בהיתר מכירת הקרקעות	יוחנן		\N
+tryg/messages/jmita_obd_1.html	\N	2007-07-17 23:41:22	2007-07-18 20:51:00	tryg/messages/jmita_obd_1_0.html	לא צריך מערכת	אראל		\N
+tryg/messages/jmita_obd_1_0.html	\N	2007-07-18 00:20:32	2007-07-18 20:51:00	tryg/messages/jmita_obd_1_0_0.html	תגובה על: לא צריך מערכת	יוחנן		\N
+tryg/messages/jmita_obd_1_0.html	\N	2007-07-18 07:29:33	2007-07-18 20:51:00	tryg/messages/jmita_obd_1_0_0.html	תגובה	יוחנן		\N
+tryg/rmbm/hlkwt_jbt.html	\N	2007-07-18 06:54:54	2007-07-18 06:54:54	tryg/messages/jbsss.rtf	שבססס	לא יודע	lkjhgfd4 @ walla.co.il	\N
+tryg/jmita/mkira.html	\N	2007-07-18 07:35:58	2007-07-18 22:50:43	tryg/messages/jmita_mkira_0.html	ההיתר השנה משוכלל יותר	יוחנן		\N
+tryg/messages/jmita_obd_1_0_0.html	\N	2007-07-18 20:51:00	2007-07-18 20:51:00	tryg/messages/jmita_obd_1_0_0_0.html	הבעיה היא ביישום	אראל		\N
+tryg/messages/jmita_mkira_0.html	\N	2007-07-18 22:50:43	2007-07-18 22:50:43	tryg/messages/jmita_mkira_0_0.html	ושבתה הארץ	אראל		\N
+tryg/sug/rayon_xsd.html	\N	2007-07-23 01:24:48	2007-07-23 01:24:48	tryg/messages/sug_rayon_xsd_0.html	שאלה על: ערך החסד, עזרה לזולת	התאלמנתי מבבעלי זל		\N
+tryg/mqor/ase_lk_rv.html	\N	2007-08-02 02:25:38	2008-09-14 04:23:06	tryg/messages/mqor_ase_lk_rv_2.html	תגובה על: עשה לך רב - והסתלק מן הספק?!	דתי_ברשת	david @ hagigim.com	\N
+tryg/mamr/4minim.html	\N	2007-08-05 08:53:28	2007-08-05 08:53:28	http://www.4minim.dcn.co.il/	קישור למאמר באתר זה על: מוכרי ארבעת המינים	ברוך		\N
+tryg/mamr/zuckm_tfila.html	\N	2007-08-05 22:49:17	2007-08-05 22:49:17	tryg/messages/mamr_zuckm_tfila_0.html	תגובה על: מבבל עד הרמבם - התפתחות התפילה	granot		\N
+tryg/sug/erua_abydh.html	\N	2007-08-15 10:03:50	2007-08-15 10:03:50	http://www.ebood.co.il	קישור למאמר באתר אחר על: כשמוצאים אבידה	בריליאנט		\N
+tryg/mqor/tora2.html	\N	2007-08-17 01:12:21	2007-08-17 01:12:21	tryg/mqor/tora2_mhi.html	מהי תורה שבעל-פה?	רן, נריה, אראל		\N
+tryg/rmbm/hlkwt_swkh.html	\N	2007-09-22 21:50:58	2008-10-04 10:17:48	tryg/messages/rmbm_hlkwt_swkh_1.html	שאלה על: הלכות סוכה	טלי		\N
+tryg/jmita/obd.html	\N	2007-09-23 23:51:57	2007-09-23 23:53:59	tryg/jmita/obd_okl.html	אכילה מהשדה בשביעית	שאלה: אראל; תשובה: רבנים שונים		\N
+tryg/sug/jbyth_bjbt.html	\N	2007-08-27 05:29:35	2007-08-27 05:29:35	http://www.shoresh.org.il/spages/shut/main.aspx?ID=3331	מניעת חילול שבת בבתי מלון	שאלה: אראל, תשובה: הרב יניב חניא		\N
+tryg/jmita/5768.html	\N	2007-08-27 05:48:39	2007-08-27 07:52:11	tryg/jmita/6.html	12 סיבות להעדיף יבול שישית	אראל		\N
+tryg/jmita/6.html	\N	2007-08-27 07:52:11	2007-08-27 07:52:11	tryg/messages/jmita_6_0.html	סיבות טובות...ועוד סיבה טובה...	רמי ניר		\N
+tryg/jmita/mtkonim.html	\N	2007-08-30 00:00:11	2007-08-30 00:00:11	tryg/jmita/mtkon_parve.html	מתכונים צמחיים	אראל		\N
+tryg/jmita/mtkonim.html	\N	2007-08-30 00:00:35	2007-08-30 00:00:35	tryg/jmita/mtkon_halav.html	מתכונים חלביים	בינה וייזל		\N
+tryg/jmita/mtkonim.html	\N	2007-08-30 00:01:00	2007-08-30 00:01:00	tryg/jmita/mtkon_basar.html	מתכונים בשריים	בינה וייזל		\N
+tryg/sug/erua_zmn_jbyeyt.html	\N	2007-09-12 06:01:16	2007-09-12 06:01:16	http://news.walla.co.il/?w=/5/1167119	מצוות השמיטה - הוראה אקולוגית מעמיקה	יאיר אטינגר	וואלה	\N
+tryg/jmita/obd_okl.html	\N	2007-09-23 23:53:02	2007-09-23 23:53:02	axrimpl/moreshet/81819.html	הכנות לשמיטה ה'תשס"ח	הרב יהודה עמיחי	שו"ת מורשת	\N
+tryg/jmita/obd_okl.html	\N	2007-09-23 23:53:59	2007-09-23 23:53:59	axrimpl/moreshet/88368.html	אכילה מהשדה בשביעית	הרב יהודה עמיחי	שו"ת מורשת	\N
+tryg/sug/jbytt_admwt_bjbyeyt.html	\N	2007-09-24 00:07:36	2007-09-24 00:07:36	http://www.moreshet.co.il//web/news/news1.asp?x=47487	עלויות של שביתת הקרקעות עבור החקלאים	ע"פ הרב בן ציון קוגלר מקרן השביעית	מורשת	\N
+tryg/jmita/obd.html	\N	2007-09-24 00:37:58	2007-09-24 00:37:58	http://www.yeshiva.org.il/midrash/shiur.asp?id=6115	הבעיות באוצר בית דין	הרב יהושע בן מאיר	קומי אורי	\N
+tryg/messages/mamr_mqdj_tnuot_3.html	\N	2007-09-25 04:41:13	2007-09-25 04:41:13	tryg/messages/mamr_mqdj_tnuot_3_0.html	תגובה על: שאלה על: למען המקדש: מי עושה מה (רשימה חלקית)	התנועה לכינון המקדש	LAMIKDASH @ GMAIL.COM	\N
+tryg/messages/SDR_BRKT_HMZWN80.htm	\N	2007-10-02 01:27:27	2007-10-02 01:27:27	tryg/messages/SDR_BRKT_HMZWN80_1.html	תגובה על: ברכת המזון נוסח ארץ ישראל	יעקב		\N
+tryg/mamr/tfilot-eitan.html	\N	2007-10-04 12:44:55	2007-10-04 12:44:55	tryg/messages/mamr_tfilot-eitan_4.html	תפילת אם על ילדיה	איתן אביהו		\N
+tryg/sug/rcon-ecm_bxirt_bt_zwg-ajh.html	\N	2007-10-04 14:15:30	2007-10-04 14:15:30	axrimpl/moreshet/94672.html	צניעות בפגישות לצורך היכרות	הרב יובל שרלו	שות מורשת	\N
+tryg/sug/hlwah_brybyt.html	\N	2007-10-06 10:06:08	2007-10-06 10:06:08	http://www.yeshiva.org.il/ask/?id=28521	סירוב בגירוש שנובע מאי תשלום ריבית	הרב דב ליאור	שות בית אל	\N
+tryg/sug/hlwah_brybyt.html	\N	2007-10-06 10:06:55	2007-10-06 10:06:55	http://www.yeshiva.org.il/ask/?id=28521	סירוב בגירוש שנובע מאי תשלום ריבית	הרב דב ליאור	שות בית אל	\N
+tryg/sug/ecm_dgn.html	\N	2007-10-06 10:15:09	2007-10-06 10:15:09	tryg/mamr/mym.html	גידולי מים	אראל		\N
+tryg/sug/jbytt_admwt_bjbyeyt.html	\N	2007-10-06 10:18:23	2007-10-06 10:18:23	tryg/jmita/mcaim.html	מצעים מנותקים	אראל		\N
+tryg/sug/jmyft_hybwl_bjbyeyt.html	\N	2007-10-06 10:26:35	2007-10-06 10:26:35	axrimpl/moreshet/91536.html	פח שמיטה - לא חובה	שאלה: אראל; תשובה: הרב יהודה עמיחי	../tryg/jmita/px	\N
+tryg/sug/jbytt_admwt_bjbyeyt.html	\N	2007-10-06 10:59:51	2007-10-06 10:59:51	axrimpl/moreshet/93269.html	טיפול בעץ ערבה בשנת השמיטה	הרב יהודה הלוי עמיחי - מכון התורה והארץ	שות מורשת	\N
+tryg/sug/fqs_hxtwnh.html	\N	2007-10-06 12:02:26	2007-10-06 12:02:26	tryg/mamr/qnyn.html	"האישה נקנית" - משמעות הקניין	דוד קיוויתי		\N
+tryg/sug/rcon-ecm_gyrwjyn-ajh.html	\N	2007-10-06 11:46:44	2007-10-06 11:46:44	tryg/mamr/gt_tnay.html	גירושין על-ידי שליח, גירושין על-תנאי, הפקעת קידושין	דוד קיוויתי		\N
+tryg/sug/rcon-ecm_gyrwjyn-ajh.html	\N	2007-10-06 11:47:33	2007-10-06 11:47:33	tryg/mamr/gt_dorot.html	גירושין לאורך הדורות	דוד קיוויתי		\N
+tryg/sug/rcon_nyjwayn.html	\N	2007-10-06 12:03:51	2007-10-06 12:03:51	tryg/mamr/mmon_nisuin.html	יחסי ממון בנישואין	דוד קיוויתי		\N
+tryg/sug/mlxmh_bewbdy_alylym.html	\N	2007-10-07 01:23:55	2007-10-07 01:23:55	axrimpl/moreshet/92084.html	תיווך בעסקת קרקעות בין גויים	שאלה: אראל; תשובה: מכון משפטי ארץ בעפרה	שות מורשת	\N
+tryg/mamr/trumt_zra.html	\N	2007-10-12 06:20:36	2007-10-12 06:20:36	http://www.ypt.co.il/show.asp?id=22400	הולדה ללא נישואין - תשובה מקיפה	הרב יובל שרלו	ישיבת פתח תקוה	\N
+tryg/mamr/trumt_zra.html	\N	2007-10-12 06:20:57	2007-10-12 06:20:57	http://www.ypt.co.il/show.asp?id=22451	הולדה ללא נישואין - תשובה לתגובות	הרב יובל שרלו	ישיבת פתח תקוה	\N
+tryg/sug/bkwr_adm.html	\N	2007-10-14 03:00:30	2007-10-14 03:00:30	axrimpl/moreshet/93326.html	פדיון הבן כשהאב לא רוצה	הרב דוד לאו	שות מורשת	\N
+tryg/sug/bkwr_adm.html	\N	2007-10-14 03:01:05	2007-10-14 03:01:05	axrimpl/moreshet/93602.html	פדיון הבן מאוחר	הרב שאול פרבר	שות מורשת	\N
+tryg/sug/bkwr_adm.html	\N	2007-10-14 03:01:53	2007-10-14 03:01:53	axrimpl/moreshet/92388.html	פדיון בכור שנולד לאחר ביצית מופרית שלא התפתחה	הרב ד"ר מרדכי הלפרין	שות מורשת	\N
+tryg/sug/bkwr_adm.html	\N	2007-10-14 03:02:31	2007-10-14 03:02:31	axrimpl/moreshet/92031.html	פדיון בכור לאחר הפלות	רבני מכון פועה	שות מורשת	\N
+tryg/ribit0/dvrim.html	\N	2007-10-14 03:07:57	2007-10-14 03:07:57	axrimpl/moreshet/93575.html	ריבית דברים - האם לתת מתנה סמלית ללווה?	הרב יובל שרלו	שות מורשת	\N
+tryg/sug/rcon_hlwah.html	\N	2007-10-14 03:13:20	2007-10-14 03:13:20	axrimpl/moreshet/89781.html	מתי מותר למלוה לתבוע מהלווה שיחזיר את החוב לפני הזמן	הרב דוד לאו	שות מורשת	\N
+tryg/sug/erua_zmn_jbyeyt.html	\N	2007-10-14 03:18:32	2007-10-14 03:22:09	tryg/jmita/4.html	ארבעת המינים בשנת השמיטה	מחברים שונים		\N
+tryg/jmita/4.html	\N	2007-10-14 03:19:29	2007-10-14 03:19:29	axrimpl/moreshet/93940.html	דיני שמיטה חלים רק בסוכות של השנה השמינית	הרב יהודה הלוי עמיחי	שות מורשת	\N
+tryg/jmita/4.html	\N	2007-10-14 03:20:35	2007-10-14 03:20:35	axrimpl/moreshet/83200.html	טיפול באתרוג בשביעית	הרב רצון ערוסי	שות מורשת	\N
+tryg/jmita/4.html	\N	2007-10-14 03:21:22	2007-10-14 03:21:22	axrimpl/moreshet/1954.html	ממה צריך להיזהר בשנה השביעית בקשר לארבעת המינים	הרב דוד לאו	שות מורשת	\N
+tryg/jmita/4.html	\N	2007-10-14 03:22:09	2007-10-14 03:22:09	axrimpl/moreshet/1289.html	לולב ועץ דקל בשמיטה	הרב דוד לאו	שות מורשת	\N
+tryg/mamr/jidukim.html	\N	2007-10-16 12:57:24	2007-10-16 12:57:24	http://www.popidate.com	קישור למאמר באתר זה על: היכרויות ושידוכים ברשת	הכרויות ואירועים לציבור הדתי והמסורתי		\N
+tryg/jmita/obd.html	\N	2007-10-27 22:15:05	2007-10-27 22:15:05	tryg/jmita/obd_wytmn.html	לא לחסום את השדות	אראל	בית הדין של הרבנות הראשית לישראל	\N
+tryg/mamr/kisuy_roj.html	\N	2007-11-06 03:52:17	2007-11-06 03:52:17	http://www.kova.co.il/kshirot	קישור למאמר באתר אחר על: כיסוי ראש לנשים נשואות	סיון		\N
+tryg/mcwa/154.html	\N	2007-11-20 04:32:55	2007-11-20 04:32:55	tryg/messages/mcwa_154_0.html	שאלה על: מה הפירוש?	מה הפירוש של טמאה????		\N
+tryg/sug/rkylwt.html	\N	2007-11-26 10:19:12	2007-11-26 10:19:12	axrimpl/moreshet/95532.html	לשון הרע לתועלת - האם להזכיר שם?	הרב יובל שרלו	שות מורשת	\N
+tryg/sug/rcon_esqym.html	\N	2007-11-26 10:22:38	2007-11-26 10:22:38	axrimpl/moreshet/95593.html	הונאה בשכירות ובקבלנות	הרב רצון ערוסי	שות מורשת	\N
+tryg/mcwa/058.html	\N	2007-11-29 13:39:39	2007-11-29 13:39:39	http://www.dinil.co.il/index/lawerlist.aspx?cat=102	קישור למאמר באתר אחר על: לדון טוען ונטען על-פי דין תורה	נמי		\N
+tryg/sug/erua-ecm_nzq.html	\N	2007-12-21 01:21:19	2007-12-21 01:21:19	http://www.daat.ac.il/daat/mahshevt/more/c12-2.htm#3	דיני נזקים ומשמעותם	הרמב"ם	מורה נבוכים ג מ	\N
+tryg/mamr/luxot.html	\N	2007-12-22 15:49:34	2007-12-22 15:49:34	tryg/messages/mamr_luxot_0.html	נושא חדש על: השבת אבדה: לוחות של מציאות ואבדות	אליהו	eliyahu7 @ bezeqint.net	\N
+tryg/mamr/tfilot-eitan.html	\N	2007-12-23 05:16:54	2007-12-23 05:16:54	tryg/messages/mamr_tfilot-eitan_5.html	תפילה ללידה קלה	איתן אביהו		\N
+tryg/ribit0/isqa.html	\N	2007-12-26 02:29:00	2007-12-26 02:29:00	tryg/ribit0/isqa_xoq.html	הפיכת כל ההלוואות בריבית במדינה לעסקאות	אראל		\N
+tryg/mamr/tfilot-eitan.html	\N	2008-01-03 05:56:40	2012-06-24 06:14:06	tryg/messages/mamr_tfilot-eitan_6.html	תפילה לרפואה שלמה	אביהו איתן חדד		\N
+tryg/sug/erua_zmn_jbyeyt.html	\N	2008-01-07 21:09:59	2008-01-07 21:09:59	http://www.tapuz.co.il/blog/userBlog.asp?FolderName=shmita	שמיטה, קפיטליזם וחרות	הבלוג של ytsuria		\N
+tryg/mamr/tfilot_jbt.html	\N	2008-01-18 04:28:44	2008-01-18 04:28:44	http://www.kipa.co.il/	קישור למאמר באתר זה על: תפילות שבת	אז זה אני		\N
+tryg/mamr/tfilot_jbt.html	\N	2008-01-18 04:29:01	2008-01-18 04:29:01	http://www.kipa.co.il/	קישור למאמר באתר זה על: תפילות שבת	אז זה אני		\N
+tryg/ribit0/bclel.html	\N	2008-02-16 09:35:04	2008-03-13 14:01:32	tryg/messages/ribit0_bclel_4.html	תגובה על: גמחי כספים - בעיות ופתרונות	בקשת הלוואה		\N
+tryg/mamr/pilgj.html	\N	2008-02-17 10:35:28	2008-02-17 10:35:28	tryg/messages/mamr_pilgj_5.html	תגובה על: התנגדותה של התורה להפקרות מינית	אראל סג"ל		\N
+tryg/messages/ribit0_bclel_4.html	\N	2008-03-13 14:01:32	2008-03-13 14:01:32	tryg/messages/ribit0_bclel_4_0.html	תגובה על: תגובה על: גמחי כספים - בעיות ופתרונות	אנונימית		\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2008-03-16 22:23:04	2008-03-16 22:23:04	tryg/messages/ribit0_hlwaa_mgmx_6.html	תגובה על: קבלת הלוואה בלי ריבית	מירב		\N
+tryg/mamr/thra7.html	\N	2008-04-20 13:40:46	2008-04-20 23:23:58	tryg/messages/mamr_thra7_2.html	תגובה על: ההבדל בין נידה לזיבה	מנין שהאישה טמאה בנידתה?		\N
+tryg/messages/mamr_thra7_2.html	\N	2008-04-20 23:23:58	2008-04-20 23:23:58	tryg/messages/mamr_thra7_2_0.html	בכמה מקומות	אראל		\N
+tryg/sug/kjpy_mwwt.html	\N	2008-05-02 08:55:50	2008-05-02 08:56:22	tryg/messages/sug_kjpy_mwwt_0.html	נושא חדש על: האיסור לפנות אל מתים	 מאת סמי אלקיים משפחה וילדים	 samirina @ nana.co.il	\N
+tryg/messages/sug_kjpy_mwwt_0.html	\N	2008-05-02 08:56:22	2008-05-02 08:56:22	tryg/messages/sug_kjpy_mwwt_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: האיסור לפנות אל מתים	 מאת סמי אלקיים	 samirina @ nana.co.il	\N
+tryg/rmbm/index.html	\N	2008-05-07 08:30:55	2008-05-07 08:30:55	tryg/messages/rmbm_index_0.html	שאלה על: מצוות מסודרות לפי ספר היד החזקה	powerpoint	powerpoint @ walla.co.il	\N
+tryg/ribit0/lmi.html	\N	2008-05-19 01:08:01	2008-05-19 01:08:01	tryg/messages/ribit0_lmi_2.html	תגובה על: הלואה בלי ריבית - לאיזו מטרה?	katya0121		\N
+tryg/mamr/magic.html	\N	2008-05-24 12:50:56	2008-05-24 12:53:52	tryg/messages/mamr_magic_0.html	תגובה על: ההגדרה של איסור כישוף - סיכום הדעות	בוני קו		\N
+tryg/messages/mamr_magic_0.html	\N	2008-05-24 12:53:52	2008-05-24 12:53:52	tryg/messages/mamr_magic_0_0.html	נבואה בלי נביא	אראל		\N
+tryg/ribit0/bnq_hdoar.html	\N	2008-06-29 04:41:49	2008-06-29 04:41:49	tryg/messages/banks_out.gif	banks_out	אראל		\N
+tryg/ribit0/bnq_hdoar.html	\N	2008-06-29 04:43:16	2008-06-29 04:43:16	tryg/messages/banks_out.ppt	banks_out	אראל		\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2008-07-13 03:59:56	2008-07-13 03:59:56	http://www.ashrai.totalh.com	קישור למאמר באתר אחר על: קבלת הלוואות מימון אשראי	שמעון אוחנה		\N
+tryg/ribit0/hlwaa_mgmx.html	\N	2008-07-03 09:51:51	2008-07-03 09:51:51	http://www.credit-card.co.il/	קישור למאמר באתר אחר על: קבלת הלוואה בלי ריבית	כרטיס סליקה כרטיסי אשראי		\N
+tryg/mamr/4minim.html	\N	2008-08-06 14:55:27	2011-10-10 02:03:15	tryg/messages/mamr_4minim_1.html	הודעה חשובה על: אתר מידע על ארבעת המינים	maman	etrogs08 @ gmail.com	\N
+tryg/mamr/4minim.html	\N	2008-08-06 15:40:22	2008-08-06 15:40:22	tryg/messages/mamr_4minim_2.html	נושא חדש על: מוכרי ארבעת המינים	maman	etrogs08 @ gmail.com	\N
+tryg/messages/sug_rayon_xsd_1.html	\N	2008-08-11 04:52:30	2008-08-11 04:52:30	tryg/messages/sug_rayon_xsd_1_0.html	שאלה על: שאלה על: ערך החסד, עזרה לזולת English Title	שמעון מזרחי		\N
+tryg/sug/hlwah_lpny_hjmyfh.html	\N	2008-08-11 04:58:45	2008-08-11 04:58:45	tryg/messages/sug_hlwah_lpny_hjmyfh_0.html	תגובה על: החובה להלוות לנזקקים (גם) לפני השמיטה	שמעון מזרחי	543519596	\N
+tryg/mcwa/031.html	\N	2008-08-20 06:34:10	2008-08-20 06:34:10	tryg/messages/mcwa_031_0.html	אפשר לדעת אם אתם יכולים לשום לי מצוות חשו בות של שבת? ועוד בנושא?	שלוה		\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0.html	\N	2008-08-25 07:34:22	2008-11-11 04:23:55	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	www.012mail.net	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	\N	2008-08-25 07:35:40	2008-08-25 07:35:40	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_0.html	קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	www.012mail.net	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	\N	2008-08-25 07:39:05	2008-08-25 07:39:05	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_1.html	קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	www.012mail.net	\N
+tryg/mcwa/0652.html	\N	2008-08-25 10:10:37	2008-08-25 10:10:37	tryg/messages/mcwa_0652_0.html	שאלה על: לא לענות אלמנה	אליהו בין	e_beane @ yahoo.com	\N
+tryg/messages/sug_jmxt_xg_0.html	\N	2008-09-18 14:11:01	2008-09-18 14:11:01	tryg/messages/sug_jmxt_xg_0_0.html	קישור למאמר באתר אחר על: הודעה חשובה על: שמחת חג	עיזרו לי בבקשה מצבי קשה מאוד ליקראת החג בבקשה	tamar7676 @ hotmail.com	\N
+tryg/mamr/4minim.html	\N	2008-09-08 12:25:50	2008-09-08 12:25:50	http://4haminim.co.il	קישור למאמר באתר אחר על: מוכרי ארבעת המינים	ארבעת המינים		\N
+tryg/mamr/4minim.html	\N	2008-09-08 12:27:23	2008-09-08 12:27:23	http://4haminim.co.il	מכירת ארבעת המינים	ארבעת המינים		\N
+tryg/sug/nyawp.html	\N	2008-09-20 03:44:17	2008-11-12 04:48:38	tryg/messages/sug_nyawp_1.html	מאמר חדש על: ניאוף	 מאת סמי אלקיים samirina		\N
+tryg/messages/sug_nyawp_1.html	\N	2008-09-20 03:44:46	2008-09-20 03:44:46	tryg/messages/sug_nyawp_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: ניאוף	 מאת סמי אלקיים samirina		\N
+tryg/mamr/sfq.html	\N	2008-09-20 04:12:38	2008-09-20 04:13:21	tryg/messages/mamr_sfq_0.html	מאמר חדש על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	 מאת סמי אלקיים samirina		\N
+tryg/messages/mamr_sfq_0.html	\N	2008-09-20 04:13:21	2008-09-20 04:13:21	tryg/messages/mamr_sfq_0_0.html	קישור למאמר באתר אחר על: מאמר חדש על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	 מאת סמי אלקיים samirina		\N
+tryg/sug/rcon_qllh.html	\N	2008-09-21 01:03:26	2008-09-21 01:04:22	tryg/messages/sug_rcon_qllh_0.html	מאמר חדש על: איסורי קללה	 מאת סמי אלקיים samirina	012mail.net	\N
+tryg/sug/ecm_gwp_hadm.html	\N	2008-09-26 07:05:08	2008-09-26 07:05:45	tryg/messages/sug_ecm_gwp_hadm_0.html	מאמר חדש על: גוף האדם	סמי אלקיים	012mail.co il	\N
+tryg/sug/xlh.html	\N	2008-09-28 03:41:44	2008-09-28 03:41:44	tryg/messages/sug_xlh_2.html	נ	חוויה בחלה	avraham @ phoenix.co.il	\N
+tryg/messages/ribit0_hlwaa_mgmx_1.html	\N	2008-10-01 12:13:12	2008-10-01 12:13:12	tryg/messages/ribit0_hlwaa_mgmx_1_0.html	הודעה חשובה על: תגובה ל: קבלת הלוואה בלי ריבית	ביקשתי וקיבלתי מאראל סגל בלוואה, התהליך היה מהיר,		\N
+tryg/sug/ecm_adm_emym_axrym.html	\N	2008-09-26 07:35:51	2008-11-13 03:36:00	tryg/messages/sug_ecm_adm_emym_axrym_0.html	מאמר חדש על: היחס לעמים אחרים	סמי  אלקיים	012mail.co il	\N
+tryg/messages/rmbm_hlkwt_swkh_1.html	\N	2008-10-04 10:17:48	2008-10-04 10:17:48	tryg/messages/rmbm_hlkwt_swkh_1_0.html	שאלה על: שאלה על: הלכות סוכה	מרים.		\N
+tryg/sug/erua_mwt.html	\N	2008-10-05 06:36:28	2008-10-05 06:39:20	tryg/messages/sug_erua_mwt_0.html	נושא חדש על: מצוות שיש לקיים לאחר מוות של אדם או בהמה	סמי  אלקיים	012mail.co il	\N
+tryg/messages/sug_erua_mwt_0.html	\N	2008-10-05 06:39:20	2008-10-05 06:39:20	tryg/messages/sug_erua_mwt_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: מצוות שיש לקיים לאחר מוות של אדם או בהמה	סמי  אלקיים	012mail.co il	\N
+tryg/mamr/mqdj_tnuot.html	\N	2008-10-07 04:40:08	2008-10-07 04:40:08	tryg/messages/mamr_mqdj_tnuot_4.html	תגובה על: למען המקדש: מי עושה מה (רשימה חלקית)	אליעזר אריאל	miriam_le @ walla.co.il	\N
+tryg/sug/erua_zmn_swkwt.html	\N	2008-10-09 12:20:23	2008-10-09 12:20:23	tryg/messages/75067v5icuje6f5_1_.gif	75067v5icuje6f5[1]	אני		\N
+tryg/ribit0/bnq_hdoar.html	\N	2008-11-01 10:42:00	2008-11-01 10:42:00	tryg/messages/ribit0_bnq_hdoar_0.html	קישור למאמר באתר אחר על: להעביר את החשבון לבנק הדואר - הבנק היחיד שאינו מלווה או לווה בריבית	גבריאל נחום עינת	aotl @ netvision.net.il	\N
+tryg/sug/rcon_dybwr_hwnah.html	\N	2008-11-03 08:02:19	2008-11-03 08:02:19	tryg/messages/sug_rcon_dybwr_hwnah_0.html	נושא חדש על: איסורי הונאת דברים = דיבורים שגורמים צער	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/edwt_amt.html	\N	2008-11-03 08:06:44	2008-11-05 01:05:45	tryg/messages/sug_edwt_amt_0.html	נושא חדש על: החובה להעיד עדות אמת	סמי אלקיים	 samirina @ nana.co.il	\N
+tryg/messages/sug_edwt_amt_0.html	\N	2008-11-03 08:30:27	2008-11-05 01:05:45	tryg/messages/sug_edwt_amt_0_0.html	נושא חדש על: נושא חדש על: החובה להעיד עדות אמת	סמי אלקיים	 samirina @ nana.co.il	\N
+tryg/messages/sug_edwt_amt_0_0.html	\N	2008-11-03 08:31:57	2008-11-03 08:31:57	tryg/messages/sug_edwt_amt_0_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: נושא חדש על: החובה להעיד עדות אמת	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mcwa/5211.html	\N	2008-11-03 09:08:00	2008-11-17 03:04:17	tryg/messages/mcwa_5211_0.html	נושא חדש על: לא לחוס על הרוצח	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mcwa_5211_0.html	\N	2008-11-03 09:11:20	2008-11-03 09:11:20	tryg/messages/mcwa_5211_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: לא לחוס על הרוצח	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mamr/kisuy_roj.html	\N	2008-11-05 00:05:40	2008-11-05 00:06:18	tryg/messages/mamr_kisuy_roj_0.html	נושא חדש על: כיסוי ראש לנשים נשואות	סמי אלקיים		\N
+tryg/messages/mamr_kisuy_roj_0.html	\N	2008-11-05 00:06:18	2008-11-05 00:06:18	tryg/messages/mamr_kisuy_roj_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: כיסוי ראש לנשים נשואות	סמי אלקיים		\N
+tryg/messages/sug_edwt_amt_0_0.html	\N	2008-11-05 01:05:45	2008-11-05 01:05:45	tryg/messages/sug_edwt_amt_0_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: נושא חדש על: החובה להעיד עדות אמת	סמי אלקיים		\N
+tryg/sug/rayon_xyym_wmwwt.html	\N	2008-11-05 04:50:39	2008-11-05 04:51:30	tryg/messages/sug_rayon_xyym_wmwwt_0.html	נושא חדש על: ערך החיים, התנגדות לרצח	סמי אלקיים		\N
+tryg/messages/sug_rayon_xyym_wmwwt_0.html	\N	2008-11-05 04:51:30	2008-11-05 04:51:30	tryg/messages/sug_rayon_xyym_wmwwt_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: ערך החיים, התנגדות לרצח	סמי אלקיים		\N
+tryg/sug/yxsy_myn_byn_qrwbym1.html	\N	2008-11-05 05:34:19	2008-11-06 08:14:41	tryg/messages/sug_yxsy_myn_byn_qrwbym1_0.html	נושא חדש על: איסור יחסי מין בין קרובים מדרגה ראשונה	סמי אלקיים		\N
+tryg/messages/sug_yxsy_myn_byn_qrwbym1_0.html	\N	2008-11-05 05:35:05	2008-11-05 05:35:05	tryg/messages/sug_yxsy_myn_byn_qrwbym1_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: איסור יחסי מין בין קרובים מדרגה ראשונה	סמי אלקיים		\N
+tryg/sug/hclt_anjym_bsknh.html	\N	2008-11-05 05:59:08	2008-11-05 05:59:55	tryg/messages/sug_hclt_anjym_bsknh_0.html	נושא חדש על: הצלת אנשים בסכנה	סמי אלקיים		\N
+tryg/messages/sug_hclt_anjym_bsknh_0.html	\N	2008-11-05 05:59:55	2008-11-05 05:59:55	tryg/messages/sug_hclt_anjym_bsknh_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: הצלת אנשים בסכנה	סמי אלקיים		\N
+tryg/sug/erua_mwt.html	\N	2008-11-05 06:28:59	2008-11-05 06:30:08	tryg/messages/sug_erua_mwt_1.html	מאמר חדש על: מצוות שיש לקיים לאחר מוות של אדם או בהמה	סמי אלקיים		\N
+tryg/messages/sug_erua_mwt_1.html	\N	2008-11-05 06:30:08	2008-11-05 06:30:08	tryg/messages/sug_erua_mwt_1_0.html	קישור למאמר באתר אחר על: מאמר חדש על: מצוות שיש לקיים לאחר מוות של אדם או בהמה	סמי אלקיים		\N
+tryg/sug/erua_mlxmh.html	\N	2008-11-05 06:54:49	2008-11-05 06:55:33	tryg/messages/sug_erua_mlxmh_0.html	נושא חדש על: מצוות שצריך לקיים כשיש מלחמה	סמי אלקיים		\N
+tryg/messages/sug_erua_mlxmh_0.html	\N	2008-11-05 06:55:33	2008-11-05 06:55:33	tryg/messages/sug_erua_mlxmh_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: מצוות שצריך לקיים כשיש מלחמה	סמי אלקיים		\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	\N	2008-11-06 04:43:26	2008-11-06 05:01:24	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_2.html	קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	\N	2008-11-06 04:43:27	2008-11-06 04:43:27	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_3.html	קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_2.html	\N	2008-11-06 05:01:02	2008-11-06 05:01:24	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_2_0.html	נושא חדש על: קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_2_0.html	\N	2008-11-06 05:01:24	2008-11-06 05:01:24	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_2_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mamr/sdr.html	\N	2008-11-06 05:44:33	2008-11-06 05:45:05	tryg/messages/mamr_sdr_0.html	נושא חדש על: סדרי עדיפויות בין מצוות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mamr_sdr_0.html	\N	2008-11-06 05:45:05	2008-11-06 05:45:05	tryg/messages/mamr_sdr_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: סדרי עדיפויות בין מצוות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_yxsy_myn_byn_qrwbym1_0.html	\N	2008-11-06 08:14:41	2008-11-06 08:14:41	tryg/messages/sug_yxsy_myn_byn_qrwbym1_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: איסור יחסי מין בין קרובים מדרגה ראשונה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mcwa/033.html	\N	2008-11-06 08:53:57	2008-11-06 08:54:37	tryg/messages/mcwa_033_0.html	נושא חדש על: לכבד אב ואם	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mcwa_033_0.html	\N	2008-11-06 08:54:37	2008-11-06 08:54:37	tryg/messages/mcwa_033_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: לכבד אב ואם	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/ecm_adm_xljym.html	\N	2008-11-07 02:57:41	2008-11-13 03:41:18	tryg/messages/sug_ecm_adm_xljym_0.html	נושא חדש על: היחס לחלשים בחברה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_ecm_adm_xljym_0.html	\N	2008-11-07 02:58:10	2008-11-07 02:58:10	tryg/messages/sug_ecm_adm_xljym_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: היחס לחלשים בחברה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/ecm_alylym.html	\N	2008-11-09 02:57:39	2008-11-09 02:58:10	tryg/messages/sug_ecm_alylym_0.html	נושא חדש על: אלילים	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_ecm_alylym_0.html	\N	2008-11-09 02:58:10	2008-11-09 02:58:10	tryg/messages/sug_ecm_alylym_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: אלילים	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mamr/sfq.html	\N	2008-11-09 08:04:39	2008-11-09 08:04:39	tryg/messages/mamr_sfq_1.html	קישור למאמר באתר אחר על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0.html	\N	2008-11-11 04:23:55	2008-11-11 04:23:55	tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0_0_4.html	קישור למאמר באתר אחר על: הודעה חשובה על: פעילויות התנדבותיות לפנויים ופנויות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_nyawp_1.html	\N	2008-11-12 04:48:07	2008-11-12 04:48:38	tryg/messages/sug_nyawp_1_1.html	שאלה על: מאמר חדש על: ניאוף	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_nyawp_1_1.html	\N	2008-11-12 04:48:38	2008-11-12 04:48:38	tryg/messages/sug_nyawp_1_1_0.html	קישור למאמר באתר אחר על: שאלה על: מאמר חדש על: ניאוף	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_ecm_adm_emym_axrym_0.html	\N	2008-11-13 03:36:00	2008-11-13 03:36:00	tryg/messages/sug_ecm_adm_emym_axrym_0_1.html	קישור למאמר באתר אחר על: מאמר חדש על: היחס לעמים אחרים	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_ecm_adm_xljym_0.html	\N	2008-11-13 03:41:18	2008-11-13 03:41:18	tryg/messages/sug_ecm_adm_xljym_0_1.html	קישור למאמר באתר אחר על: נושא חדש על: היחס לחלשים בחברה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/mamr/ubr.html	\N	2008-11-13 04:12:57	2008-11-13 04:13:31	tryg/messages/mamr_ubr_0.html	נושא חדש על: היחס לע?ב??ר?ים, תינוקות בבטן אמם; הפלות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mamr_ubr_0.html	\N	2008-11-13 04:13:31	2008-11-13 04:13:31	tryg/messages/mamr_ubr_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: היחס לע?ב??ר?ים, תינוקות בבטן אמם; הפלות	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mcwa_5211_0.html	\N	2008-11-17 03:03:46	2008-11-17 03:03:46	tryg/messages/mcwa_5211_0_1.html	נושא חדש על: נושא חדש על: לא לחוס על הרוצח	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mcwa_5211_0.html	\N	2008-11-17 03:03:48	2008-11-17 03:04:17	tryg/messages/mcwa_5211_0_2.html	נושא חדש על: נושא חדש על: לא לחוס על הרוצח	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/mcwa_5211_0_2.html	\N	2008-11-17 03:04:17	2008-11-17 03:04:17	tryg/messages/mcwa_5211_0_2_0.html	קישור למאמר באתר אחר על: נושא חדש על: נושא חדש על: לא לחוס על הרוצח	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/abydh.html	\N	2008-11-18 05:25:32	2008-11-18 05:25:32	tryg/messages/sug_abydh_0.html	נושא חדש על: השבת אבידה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/abydh.html	\N	2008-11-18 05:25:33	2008-11-18 05:25:59	tryg/messages/sug_abydh_1.html	נושא חדש על: השבת אבידה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/messages/sug_abydh_1.html	\N	2008-11-18 05:25:59	2008-11-18 05:25:59	tryg/messages/sug_abydh_1_0.html	קישור למאמר באתר אחר על: נושא חדש על: השבת אבידה	מאת סמי אלקיים	samirina @ 012.net.il	\N
+tryg/ribit0/bnq.html	\N	2008-11-18 12:37:55	2008-11-18 12:37:55	http://www.meyda.org.il/%D7%94%D7%9C%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%94%D7%9C%D7%95%D7%95%D7%90%D7%95%D7%AA_%D7%9C%D7%9C%D7%90_%D7%A8%D7%99%D7%91%D7%99%D7%AA_/	קישור למאמר באתר אחר על: בנק ריבית 0	המרכז הישראלי לצרכנות פיננסית		\N
+tryg/sug/jkr_jkyr.html	\N	2008-11-18 12:41:31	2008-11-18 12:41:31	http://www.meyda.org.il/%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9F/%D7%AA%D7%A9%D7%9C%D7%95%D7%9D_%D7%A4%D7%99%D7%A6%D7%95%D7%99%D7%99_%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9F_/	קישור למאמר באתר אחר על: פיצויי פיטורין	פיצויי פיטורין על פי המרכז הישראלי לצרכנות פיננסית		\N
+tryg/sug/jkr_jkyr.html	\N	2008-11-18 12:42:48	2008-11-18 12:42:48	http://www.meyda.org.il/%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9F/%D7%94%D7%95%D7%93%D7%A2%D7%94_%D7%9E%D7%95%D7%A7%D7%93%D7%9E%D7%AA_%D7%9C%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9F_/	קישור למאמר באתר אחר על: הודעה מוקדמת לפיטורין	הודעה מוקדמת לפיטורין על פי המרכז הישראלי לצרכנות		\N
+tryg/sug/rayon_amt_wjqr.html	\N	2008-11-20 03:21:50	2008-11-20 03:25:10	tryg/messages/sug_rayon_amt_wjqr_0.html	נושא חדש על: ערך האמת, התנגדות לשקר	מאת סמי אלקיים		\N
+tryg/messages/sug_rayon_amt_wjqr_0.html	\N	2008-11-20 03:25:10	2008-11-20 03:25:10	tryg/messages/sug_rayon_amt_wjqr_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: ערך האמת, התנגדות לשקר	מאת סמי אלקיים		\N
+tryg/sug/erua_mwm_adm.html	\N	2008-11-24 06:54:52	2008-11-24 06:55:25	tryg/messages/sug_erua_mwm_adm_0.html	נושא חדש על: בני-אדם בעלי מום	סמי אלקיים		\N
+tryg/messages/sug_erua_mwm_adm_0.html	\N	2008-11-24 06:55:25	2008-11-24 06:55:25	tryg/messages/sug_erua_mwm_adm_0_0.html	קישור למאמר באתר אחר על: נושא חדש על: בני-אדם בעלי מום	סמי אלקיים		\N
+tryg/sug/tpylyn.html	\N	2008-11-29 09:25:07	2008-11-29 09:25:07	http://www.adney-hakodesh.co.il/article.asp?nID=20906	קישור למאמר באתר אחר על: תפילין	אדני הקודש		\N
+tryg/sug/erua-ecm_mlxma-nkry.html	\N	2008-12-11 09:25:19	2008-12-11 09:25:19	http://http://cafe.themarker.com/view.php?t=694353	קישור למאמר באתר אחר על: מלחמה - עמים אחרים	אנכי , אברהם מוריה	קפה דה מארקר	\N
+tryg/mamr/axdut.html	\N	2008-12-21 08:29:39	2008-12-21 08:29:39	tryg/messages/mamr_axdut_0.html	נושא חדש על: אחדות ואחידות במצוות	סמי אלקיים		\N
+tryg/mamr/axdut.html	\N	2008-12-21 08:32:20	2008-12-21 08:32:20	tryg/messages/mamr_axdut_1.html	קישור למאמר באתר אחר על: אחדות ואחידות במצוות	סמי אלקיים		\N
+tryg/sug/tpylyn.html	\N	2008-12-22 03:51:37	2008-12-22 03:51:37	tryg/messages/sug_tpylyn_3.html	מאמר חדש על: בדיקת תפילין ומזוזות	אהרון לב הארי	lev_ari @ hotmail.com	\N
+tryg/mcwa/252.html	\N	2008-12-23 09:47:10	2008-12-23 09:47:10	tryg/messages/mcwa_252_0.html	תגובה על: גוף המאמר	שלום זגורי		\N
+tryg/sug/rayon_arc_yjral.html	\N	2008-12-23 14:04:11	2008-12-23 14:04:11	http://www.eretzyisrael.co.il/	דרך: איל - ארץ ישראל לכל - קניית קרקע בארץ ישראל	ניצן		\N
+tryg/mamr/kll_mcwa.html	\N	2009-01-17 02:16:42	2009-01-17 02:16:42	tryg/messages/mamr_kll_mcwa_1.html	תגובה על: מאמרים על כל המצוות, ועל כללים שקשורים למצוות	סמי אלקיים		\N
+tryg/sug/xwbt_hmlk.html	\N	2009-01-21 02:06:43	2009-01-21 02:06:43	tryg/messages/sug_xwbt_hmlk_0.html	מאמר חדש על: חובת המלך	סמי אלקיים	 samirina012.net	\N
+tryg/sug/xwbt_hmlk.html	\N	2009-01-21 02:10:09	2009-01-21 02:10:09	tryg/messages/sug_xwbt_hmlk_1.html	קישור למאמר באתר אחר על: חובת המלך	סמי אלקיים	 samirina012.net	\N
+tryg/sug/drk1.html	\N	2009-01-21 08:29:53	2009-01-21 08:29:53	tryg/messages/sug_drk1_0.html	מאמר חדש על: הליכה בדרכי ה	סמי אלקיים	 samirina012.net	\N
+tryg/sug/drk1.html	\N	2009-01-21 08:38:14	2009-01-21 08:38:14	tryg/messages/sug_drk1_1.html	קישור למאמר באתר אחר על: הליכה בדרכי ה	סמי אלקיים	 samirina012.net	\N
+tryg/sug/rayon_1.html	\N	2009-01-22 02:01:11	2009-01-22 02:01:11	tryg/messages/sug_rayon_1_0.html	מאמר חדש על: בין ה לבין האדם	סמי אלקיים	 samirina012.net	\N
+tryg/sug/rcon_gyrwjyn.html	\N	2009-01-26 00:51:53	2009-01-26 00:51:53	tryg/messages/sug_rcon_gyrwjyn_0.html	מאמר חדש על: פרידה בין איש לאשתו	סמי אלקיים	 samirina012.net	\N
+tryg/sug/rcon_gyrwjyn.html	\N	2009-01-26 00:53:58	2009-01-26 00:53:58	tryg/messages/sug_rcon_gyrwjyn_1.html	קישור למאמר באתר אחר על: פרידה בין איש לאשתו	סמי אלקיים	 samirina012.net	\N
+tryg/sug/rcon_gyrwjyn.html	\N	2009-01-26 00:53:59	2009-01-26 00:53:59	tryg/messages/sug_rcon_gyrwjyn_2.html	קישור למאמר באתר אחר על: פרידה בין איש לאשתו	סמי אלקיים	 samirina012.net	\N
+tryg/mamr/sfq.html	\N	2009-01-28 06:02:15	2009-01-28 06:02:15	tryg/messages/mamr_sfq_2.html	הודעה חשובה על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי אלקיים	 samirina012.net	\N
+tryg/mamr/tfilin.html	\N	2009-02-16 05:44:04	2009-02-16 05:44:04	http://www.adney-hakodesh.co.il	קישור למאמר באתר אחר על: ללכת עם תפילין כל היום	www.adney-hakodesh.co.il		\N
+tryg/rmbm/hlkwt_qydwj_hxwdj.html	\N	2009-02-16 09:39:35	2009-02-16 09:39:35	http://www.moon.goo.co.il	קישור למאמר באתר אחר על: הלכות קידוש החודש	שמואל כליפא	hovvan @ walla.co.il	\N
+tryg/sug/erua_fhrt_hayjh.html	\N	2009-03-08 04:37:37	2009-03-08 04:37:37	http://mikve.net	קישור למאמר באתר אחר על: טהרת האישה, ואיסור יחסי מין עם אישה לא טהורה	&#1608;&#1609;&#1602;	t.kohent1 @ gmail.com	\N
+tryg/sug/erua_fhrt_hayjh.html	\N	2009-03-08 04:37:37	2009-03-08 04:37:37	http://mikve.net	קישור למאמר באתר אחר על: טהרת האישה, ואיסור יחסי מין עם אישה לא טהורה	&#1608;&#1609;&#1602;	t.kohent1 @ gmail.com	\N
+tryg/sug/rcon_dybwr.html	\N	2009-04-04 04:56:25	2009-04-04 04:56:25	tryg/messages/sug_rcon_dybwr_0.html	מאמר חדש על: דיבורים מותרים ואסורים	סמי אלקיים	samirina @ 012.net	\N
+tryg/mamr/mzon_lnzqqim.html	\N	2009-05-10 03:30:21	2009-05-10 03:30:21	tryg/messages/mamr_mzon_lnzqqim_0.html	הודעה חשובה על: ארגונים שמחלקים אוכל לנזקקים	מ. מאמין	yadbeyad @ yadbeyad.co.il	\N
+tryg/sug/ecm_adm_xbr.html	\N	2009-06-18 17:16:27	2009-06-18 17:16:27	tryg/messages/sug_ecm_adm_xbr_0.html	נושא חדש על: היחס לכל אדם מישראל	תולדות אדם	toldotadam @ hotmail.com	\N
+tryg/sug/ecm_adm_xbr.html	\N	2009-06-18 17:35:14	2009-06-18 17:35:14	tryg/messages/sug_ecm_adm_xbr_1.html	נושא חדש על: היחס לכל אדם מישראל	תולדות אדם	toldotadam @ hotmail.com	\N
+tryg/sug/etc.html	\N	2009-11-07 05:02:19	2009-11-07 05:02:19	tryg/messages/sug_etc_1.html	נושא חדש על: דרכים שונות לסווג את תריג המצוות	סמי  אלקיים		\N
+tryg/mamr/sfq.html	\N	2009-11-07 06:11:28	2009-11-07 06:11:28	tryg/messages/mamr_sfq_3.html	קישור למאמר באתר אחר על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי  אלקיים		\N
+tryg/sug/cdqh_lenyym.html	\N	2010-01-05 03:28:54	2010-01-05 03:28:54	tryg/messages/sug_cdqh_lenyym_1.html	הודעה חשובה על: החובה לתת כסף לעניים, לפי צרכיהם של המקבלים	דורית טוסיה	עזרה	\N
+tryg/mamr/sfq.html	\N	2009-11-07 06:13:07	2009-11-07 06:13:07	tryg/messages/mamr_sfq_5.html	קישור למאמר באתר אחר על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי  אלקיים		\N
+tryg/sug/tpylyn.html	\N	2010-01-05 15:35:53	2010-01-05 15:35:53	tryg/messages/sug_tpylyn_4.html	נושא חדש על: תפילין	מכון בית א-ל		\N
+tryg/sug/ecm_bgd.html	\N	2010-01-20 05:51:32	2010-01-20 05:51:32	http://www.bigud.info	קישור למאמר באתר אחר על: בגד	האם בגדי עבודה מיובאים יש בהם חשש שעטנז ?		\N
+tryg/mcwa/551.html	\N	2010-01-20 05:55:34	2010-01-20 05:55:34	tryg/messages/mcwa_551_0.html	שאלה על: לא ללבוש שעטנז	ירון		\N
+tryg/mcwa/422.html	\N	2010-04-07 01:24:03	2010-04-07 01:24:03	http://www.makorastam.co.il/141366/%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F	קישור למאמר באתר אחר על: להניח תפילין על הראש	אופיר	seofir @ gmail.com	\N
+tryg/mcwa/422.html	\N	2010-04-07 01:25:07	2010-04-07 01:25:07	http://www.makorastam.co.il/141366/%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F	קישור למאמר באתר אחר על: להניח תפילין על הראש	אופיר	seofir @ gmail.com	\N
+tryg/sug/drk1.html	\N	2010-06-20 04:50:23	2010-06-20 04:50:23	tryg/messages/sug_drk1_2.html	מאמר חדש על: הליכה בדרכי ה	סמי  אלקיים	samielkaim @ nana.co.il	\N
+tryg/sug/drk1.html	\N	2010-06-20 04:51:34	2010-06-20 04:51:34	tryg/messages/sug_drk1_3.html	קישור למאמר באתר אחר על: הליכה בדרכי ה	סמי  אלקיים	samirina @ nana.co.il	\N
+tryg/sug/drk1.html	\N	2010-06-20 04:52:31	2010-06-20 04:52:31	tryg/messages/sug_drk1_4.html	קישור למאמר באתר אחר על: הליכה בדרכי ה	סמי  אלקיים	samirina @ nana.co.il	\N
+tryg/mcwa/2642.html	\N	2010-06-29 10:52:43	2010-06-29 10:52:43	tryg/messages/mcwa_2642_0.html	תגובה על: להתאבל על הקרובים צריך להתאבל על המתים	איתי	tora	\N
+tryg/sug/rcon_magyh.html	\N	2010-07-19 03:42:47	2010-07-19 03:42:47	http://www.lilith.co.il	קישור למאמר באתר זה על: לילית, שדים ורוחות	דורית ולילית	www.lilith.co.il	\N
+tryg/ribit0/kn.html	\N	2010-07-23 12:04:53	2010-07-23 12:04:53	tryg/messages/_nylxm_bbnqym_2010.pptx	כך נילחם בבנקים 2010	ארי פישמן		\N
+tryg/mcwa/033.html	\N	2010-09-15 06:55:10	2010-09-15 06:55:10	tryg/messages/mcwa_033_1.html	נושא חדש על: לכבד אב ואם	סמי אלקיים	samirina @ net.co.il.	\N
+tryg/mamr/sfq.html	\N	2010-09-16 02:57:25	2010-09-16 02:57:25	tryg/messages/mamr_sfq_6.html	נושא חדש על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי  אלקיים		\N
+tryg/mamr/sfq.html	\N	2010-09-16 02:59:09	2010-09-16 02:59:09	tryg/messages/mamr_sfq_7.html	קישור למאמר באתר אחר על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי  אלקיים	samirina @ nana.co.il	\N
+tryg/sug/erua_zmn_ywbl.html	\N	2010-09-18 12:34:16	2010-09-18 12:34:16	tryg/messages/sug_erua_zmn_ywbl_0.html	מאמר חדש על: שנת היובל	הרוזן פ.מ קובבה	info @ sffgc.org	\N
+tryg/sug/ahbt_h_.html	\N	2010-09-19 03:02:56	2010-09-19 03:02:56	tryg/messages/sug_ahbt_h__0.html	נושא חדש על: אהבת ה	סמי  אלקיים	samirina @ nana.co.il	\N
+tryg/sug/ahbt_h_.html	\N	2010-09-19 03:03:36	2010-09-19 03:03:36	tryg/messages/sug_ahbt_h__1.html	נושא חדש על: אהבת ה	סמי  אלקיים	samirina @ nana.co.il	\N
+tryg/sug/ahbt_h_.html	\N	2010-09-19 03:04:48	2010-09-19 03:04:48	tryg/messages/sug_ahbt_h__2.html	קישור למאמר באתר אחר על: אהבת ה	סמי  אלקיים		\N
+tryg/sug/yxsy_myn_em_qrwbwt.html	\N	2010-10-15 01:33:34	2010-10-15 01:33:34	tryg/messages/sug_yxsy_myn_em_qrwbwt_0.html	מאמר חדש על: איסור יחסי מין עם נשים הקרובות זו לזו	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/sug/yxsy_myn_em_qrwbwt.html	\N	2010-10-15 01:34:36	2010-10-15 01:34:36	tryg/messages/sug_yxsy_myn_em_qrwbwt_1.html	קישור למאמר באתר זה על: איסור יחסי מין עם נשים הקרובות זו לזו	סמי  אלקיים	nana.co.il	\N
+tryg/sug/ed_rje.html	\N	2010-12-02 01:15:17	2010-12-02 01:15:17	tryg/messages/sug_ed_rje_0.html	מאמר חדש על: האיסור על קבלת עדות של רשעים	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/sug/ed_rje.html	\N	2010-12-02 01:16:44	2010-12-02 01:16:44	tryg/messages/sug_ed_rje_1.html	קישור למאמר באתר אחר על: האיסור על קבלת עדות של רשעים	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/mamr/htabdut.html	\N	2010-12-26 04:27:16	2010-12-26 04:27:16	tryg/messages/mamr_htabdut_0.html	מאמר חדש על: התאבדות, איבוד עצמי לדעת בתורה	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/mamr/htabdut.html	\N	2010-12-26 04:28:11	2010-12-26 04:28:11	tryg/messages/mamr_htabdut_1.html	קישור למאמר באתר אחר על: התאבדות, איבוד עצמי לדעת בתורה	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/mamr/htabdut.html	\N	2010-12-26 04:29:06	2010-12-26 04:29:06	tryg/messages/mamr_htabdut_2.html	קישור למאמר באתר אחר על: התאבדות, איבוד עצמי לדעת בתורה	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/sug/hlb_wheynyym.html	\N	2010-12-29 07:08:49	2010-12-29 07:08:49	tryg/messages/sug_hlb_wheynyym_0.html	מאמר חדש על: הלב והעיניים	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/sug/hlb_wheynyym.html	\N	2010-12-29 07:09:36	2010-12-29 07:09:36	tryg/messages/sug_hlb_wheynyym_1.html	קישור למאמר באתר אחר על: הלב והעיניים	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/sug/hlb_wheynyym.html	\N	2010-12-29 07:10:46	2010-12-29 07:10:46	tryg/messages/sug_hlb_wheynyym_2.html	קישור למאמר באתר אחר על: הלב והעיניים	סמי  אלקיים	samirina @ net.co.il.	\N
+tryg/ribit0/kn.html	\N	2011-03-05 23:44:43	2011-03-05 23:44:43	tryg/ribit0/bnq3.html	שירות תיווך בין מלוים ללווים	אראל		\N
+tryg/sug/erua_dyn_npjwt.html	\N	2011-04-04 08:28:08	2011-04-04 08:28:08	tryg/messages/sug_erua_dyn_npjwt_1.html	נושא חדש על: דיני נפשות = משפטים שבהם העונש המירבי הוא מוות	סמי אלקיים	012mail.il	\N
+tryg/sug/erua_dyn_npjwt.html	\N	2011-04-04 08:29:25	2011-04-04 08:29:25	tryg/messages/sug_erua_dyn_npjwt_2.html	קישור למאמר באתר זה על: דיני נפשות = משפטים שבהם העונש המירבי הוא מוות	סמי אלקיים	012mail.il	\N
+tryg/sug/cycyt.html	\N	2011-05-03 23:52:08	2011-05-03 23:52:08	tryg/messages/sug_cycyt_1.html	הודעה חשובה על: ציציות ופתילי-תכלת על כנפי הבגדים	שלמה משה שיינמן	sch @ vilnagaon.org	\N
+tryg/mamr/tam.html	\N	2011-06-07 01:11:06	2011-06-07 01:11:06	tryg/messages/_pdf.	שבועות	כן	ahgitzad @ gmail.com	\N
+tryg/sug/alylwt_bmxjbh.html	\N	2011-07-31 22:51:05	2011-07-31 22:51:05	tryg/messages/sug_alylwt_bmxjbh_0.html	מאמר חדש על: איסור עבודה זרה במחשבה - פניה אחר אלילים	סמי אלקיים	gmil.com.il	\N
+TGUVA		2003-09-01 00:00:00	2012-02-22 12:12:58	tryg/ribit0/ribit0.html	ריבית 0 - הכלכלה האידיאלית	אראל סגל		\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-08-20 22:50:11	2011-08-20 22:50:11	tryg/mamr/klkltora.html.html	כלכלה תורנית	אראל		\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-08-20 23:01:20	2011-08-23 21:58:54	tryg/mamr/klklttora.html	כלכלה תורנית	אראל		\N
+tryg/sug/hlwah_brybyt.html	\N	2011-08-25 09:37:12	2011-08-28 21:46:30	tryg/messages/sug_hlwah_brybyt_3.html	שאלה על: האיסור על הלוואה בריבית	יהודי	5804729 @ neto.net.il	\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-08-27 21:35:49	2011-08-27 21:35:49	tryg/mamr/cdq2.html	צדק חברתי חייב להיות דו צדדי	אראל		\N
+tryg/sug/rkylwt.html	\N	2011-11-23 22:24:52	2011-11-23 22:24:52	tryg/mamr/lhr.html	הליך מהיר לתביעות דיבה	אראל		\N
+tryg/sug/jxrwr_qrqewt_bywbl.html	\N	2011-11-26 15:50:46	2011-11-26 15:50:46	tryg/mamr/yovl_bendov.html	משטר היובל [קטעים]	שבתי בן דב		\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-12-05 21:31:49	2011-12-05 21:31:49	tryg/mamr/gz.html	רווחי הגז לאזרחים ולא לפקידים	אראל		\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-12-14 04:45:32	2011-12-14 04:45:32	tryg/mamr/klklttora_arilavi.html	על הכלכלה ועל המחיה - יהדות חברה וכלכלה	עורכים: איתמר ברנר ואהרן אריאל לביא		\N
+tryg/mamr/kll_mcwa.html	\N	2011-12-19 06:22:28	2011-12-19 06:22:28	tryg/mamr/bhw.html	בתוך הזרם ונגדו	צוריאל אדמנית		\N
+tryg/sug/ecm_adm_gwpw_wxpcyw.html	\N	2011-12-29 09:40:03	2011-12-29 09:40:03	tryg/mamr/tax.html	Income tax without income reports	אראל		\N
+tryg/mcwa/index.html	\N	2012-01-17 07:13:02	2012-01-17 07:13:02	tryg/messages/mcwa_index_0.html	ייייייייייייטאטhukililoll	יו מן	גניטרארטעמחחאיאי4רראיטאאאיניא	\N
+tryg/sug/jxrwr_qrqewt_bywbl.html	\N	2012-01-18 03:25:30	2012-01-18 03:25:30	tryg/messages/yovl.doc	yovl	אראל		\N
+tryg/mamr/sfq.html	\N	2012-01-20 04:20:05	2012-01-20 04:20:05	tryg/messages/mamr_sfq_8.html	נושא חדש על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי אלקיים		\N
+tryg/mamr/sfq.html	\N	2012-01-20 04:21:55	2012-01-20 04:21:55	tryg/messages/mamr_sfq_9.html	קישור למאמר באתר אחר על: מצבי ספק - מצבים שבהם לא ידוע בוודאות מהו רצון ה	סמי אלקיים		\N
+tryg/sug/jxrwr_qrqewt_bywbl.html	\N	2012-01-25 22:24:28	2012-01-25 22:24:28	tryg/mamr/jubilee1.html	Land division and Jubilee in practice - the Jewish perspective	אראל		\N
+tryg/mamr/sfqb.html	\N	2012-01-27 08:51:40	2012-01-27 08:51:40	tryg/messages/mamr_sfqb_1.html	מאמר חדש על: אי ודאות בבירור הנתונים - ספק במציאות	סמי  אלקיים		\N
+tryg/mamr/sfqb.html	\N	2012-01-27 08:52:47	2012-01-27 08:52:47	tryg/messages/mamr_sfqb_2.html	קישור למאמר באתר אחר על: אי ודאות בבירור הנתונים - ספק במציאות	סמי  אלקיים		\N
+tryg/sug/alylwt_bmxjbh.html	\N	2012-02-01 07:57:49	2012-02-01 07:57:49	tryg/messages/sug_alylwt_bmxjbh_2.html	מאמר חדש על: איסור עבודה זרה במחשבה - פניה אחר אלילים	סמי אלקיים		\N
+tryg/sug/alylwt_bmxjbh.html	\N	2012-02-01 07:58:46	2012-02-01 07:58:46	tryg/messages/sug_alylwt_bmxjbh_3.html	קישור למאמר באתר אחר על: איסור עבודה זרה במחשבה - פניה אחר אלילים	סמי אלקיים		\N
+tryg/sug/rayon_klayym.html	\N	2012-02-02 06:06:00	2012-02-02 06:06:00	tryg/messages/sug_rayon_klayym_0.html	מאמר חדש על: שמירה על הבריאה ועל הטבע	סמי  אלקיים		\N
+tryg/sug/rayon_klayym.html	\N	2012-02-02 06:10:18	2012-02-02 06:10:18	tryg/messages/sug_rayon_klayym_1.html	קישור למאמר באתר אחר על: שמירה על הבריאה ועל הטבע	סמי אלקיים		\N
+tryg/sug/lymwd_twrh.html	\N	2012-02-09 06:11:32	2012-02-09 06:11:32	http://www.babakama.co.il/?cx=018021551683913266102%3A9brkqymxofy&amp;q=harav.net&amp;cof=FORID%3A9&amp;ie=UTF-8&amp;hl=he&amp;sid=7&amp;cid=1&amp;safe=active	http://wwwharavnet/topicsphp	הרב אברהם חפוטא שליט"א		\N
+tryg/sug/mzwzh.html	\N	2012-02-16 13:45:10	2012-02-16 13:45:10	http://torah-tefillin.com/mezuzah/	קישור למאמר באתר אחר על: מזוזה	וקדשתו מכון ספרות סת"ם לימוד וכתיבת מזוזות תפילין		\N
+tryg/sug/mzwzh.html	\N	2012-02-16 13:52:47	2012-02-16 13:52:47	http://torah-tefillin.com/mezuzah/	קישור למאמר באתר אחר על: מזוזה	וקידשתו כתיבת ספר תורה מזוזות ותפילין		\N
+tryg/sug/tpylyn.html	\N	2012-02-16 13:59:12	2012-02-16 13:59:12	http://torah-tefillin.com/tefillin/	קישור למאמר באתר אחר על: תפילין	וקדשתו מידע על תפילין		\N
+tryg/sug/ktybt_spr_twrh_prfy.html	\N	2012-02-16 14:03:47	2012-02-16 14:03:47	http://torah-tefillin.com/torah/	קישור למאמר באתר אחר על: כתיבת ספר תורה פרטי	וקדשתו מאמר על ספר תורה וטיפים לפני קניה		\N
+tryg/sug/ecm_rkwj_hzwlt.html	\N	2012-03-04 00:26:05	2012-03-04 00:26:05	tryg/messages/sug_ecm_rkwj_hzwlt_0.html	נושא חדש על: דיני ממונות - מצוות הקובעות את היחס הראוי לרכושו של הזולת	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/ecm_adm_emym_axrym.html	\N	2012-04-05 00:48:02	2012-04-05 00:48:02	tryg/messages/sug_ecm_adm_emym_axrym_1.html	נושא חדש על: היחס לעמים אחרים	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/rcon_dybwr.html	\N	2012-04-05 02:21:06	2012-04-05 02:21:06	tryg/messages/sug_rcon_dybwr_1.html	נושא חדש על: דיבורים מותרים ואסורים	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/ecm_xqlawt.html	\N	2012-04-10 13:29:16	2012-04-10 13:29:16	http://mitzvot-israel.com	קישור למאמר באתר אחר על:קיום מצוות התלויות בארץ			\N
+tryg/sug/erua_zmn_jbwewt.html	\N	2012-04-18 10:00:02	2012-04-18 10:00:02	http://www.cooks.co.il/%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D_%D7%9C%D7%97%D7%92/%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D_%D7%9C%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA/	מתכונים לחג שבועות	Cooks מתכונים		\N
+tryg/ribit0/kn.html	\N	2012-04-21 11:19:19	2012-04-21 11:19:19	tryg/ribit0/arvutbankait.html	בנק כחברת ביטוח להלוואות	אראל		\N
+tryg/mcwa/341.html	\N	2012-05-06 13:44:02	2012-05-06 13:44:02	tryg/messages/mcwa_341_0.html	שאלה על: לאפשר לקונה לפדות את ביתו בעיר מוקפת חומה עד השלמת שנה	חגי הופר		\N
+tryg/sug/erua_zmn_ywm.html	\N	2012-05-06 21:56:41	2012-05-06 21:56:41	tryg/messages/sug_erua_zmn_ywm_0.html	מאמר חדש על: מצוות יומיות	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/qryat_jme.html	\N	2012-05-08 05:18:19	2012-05-08 05:18:19	tryg/messages/sug_qryat_jme_0.html	מאמר חדש על: קריאת שמע	סמי אלקיים	samirina @ 012.net.il	\N
+tryg/sug/hlwah_brybyt.html	\N	2012-05-10 09:32:05	2012-05-10 09:32:05	tryg/ribit0/sarev.html	קריאה אל המוני ישראל לסרב לשלם ריבית והצמדה על הלוואות	דורין אלן בל-דותן		\N
+tryg/sug/kybwd_hwrym_klly.html	\N	2012-05-20 06:20:55	2012-05-20 06:20:55	tryg/messages/sug_kybwd_hwrym_klly_0.html	מאמר חדש על: המצוה לכבד הורים	סמי אלקיים	samirina123 @ gmail.com	\N
+tryg/sug/lwlb.html	\N	2012-05-16 01:25:27	2012-05-16 01:25:27	http://www.mitzvashop.com	קישור למאמר באתר אחר על: ארבעת המינים (אתרוג, לולב, הדס, ערבה)	nadavk23		\N
+tryg/sug/lwlb.html	\N	2012-05-16 02:02:20	2012-05-16 02:02:20	http://www.mitzvashop.com	ארבעת המינים במשלוח עד הבית	nadavk23		\N
+tryg/ribit0/lo.html	\N	2012-05-17 12:06:50	2012-05-17 12:06:50	tryg/ribit0/hetr.html	יש לכל ירא שמים להימנע מלהסתמך על היתר עיסקא	דניאל משה לוי		\N
+tryg/sug/kybwd_hwrym_klly.html	\N	2012-05-20 06:23:31	2012-05-20 06:23:31	tryg/messages/sug_kybwd_hwrym_klly_1.html	קישור למאמר באתר אחר על: המצוה לכבד הורים	סמי אלקיים	samirina123 @ gmail.com	\N
+tryg/sug/jxrwr_qrqewt_bywbl.html	\N	2012-06-13 03:31:25	2012-06-13 03:31:25	http://www.bhol.co.il/forums/topic.asp?cat_id=24&amp;topic_id=2963076&amp;forum_id=1364	הקשר בין גר תושב לבין היובל	אראל	עצור כאן חושבים	\N
+tryg/ribit0/kn.html	\N	2012-06-26 23:43:42	2012-06-26 23:43:42	tryg/ribit0/kosherbank.html	Kosher Bank	Erel Segal Halevi		\N
+tryg/sug/jxrwr_qrqewt_bywbl.html	\N	2012-07-07 21:46:49	2012-07-07 21:46:49	http://sovaproject.blogspot.com.au/	SOVA project	אראל	../tnk1/msr/knesset/yovl	\N
+tryg/ribit0/kn.html	\N	2012-07-10 22:37:42	2012-07-10 22:37:42	http://icua.org.il/	Credit Unions	Israel Credit Union Association		\N
+tryg/ribit0/kn.html	\N	2012-07-10 22:38:28	2012-07-10 22:38:28	http://icua.org.il/	Credit Unions - Banks owned by their customers	Israel Credit Union Association		\N

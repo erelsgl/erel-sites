@@ -1,0 +1,16 @@
+1	אראל	CQzn3r9YorbBvua0MOdE5Lp5RRjwNYhBQQhhFnSZKbY=	editor	\N	2006-11-03 03:34:21	0000-00-00 00:00:00
+2		yBnU5GKRh0cXXxmxw5WgXqul4fJ5Qc224lVnkQbWJd8=	writer	\N	2006-11-03 03:56:25	0000-00-00 00:00:00
+4	יעל	BP/eb1sKMvTO8rTZWSsv9vtwSClgXpYFj5UhYigF9DA=	editor	\N	2006-11-03 03:58:18	0000-00-00 00:00:00
+5	yael	n0wMinAJ3jtGkXQsKyUAOz1wA4nIA7z0iTyK+Bpr+hE=	editor	\N	2006-11-03 03:58:35	0000-00-00 00:00:00
+14	אביתר כהן	2PwHwA9VmZJ7B3AE5yOkCplMEOASzHmTfRXmKeSfA9k=	editor	evycohen@walla.com	2006-11-09 06:32:35	0000-00-00 00:00:00
+13	אביגילגוטליב	wH/T1LxKHUA/yhEPxoIQLftzdsKEfrGTl1v7+oFk1/k=	editor	avigaelgotlib@walla.com	2006-11-07 10:51:31	0000-00-00 00:00:00
+9	bezra	8AbFtN3c7fNz4oIgSgbv9wNX6COzYTriU3GMYJAXNRU=	editor	bezra@inter.net.il	2006-11-07 01:27:38	0000-00-00 00:00:00
+10	נריה	GylKttdZboU/EyFRKHpUAA8JCBFS7glB/jGnhjLjSPg=	editor	neriaharoeh@walla.co.il	2006-11-07 01:37:55	0000-00-00 00:00:00
+11	מוטי אהרוני	0PHp+x15ol2xq28oXTW0/F87+K4jNJKkB/285klhFbU=	editor	MOTI_AHARONI@WALLA.CO.IL	2006-11-07 01:45:44	0000-00-00 00:00:00
+12	צחור	WHcJrfV57eBmWEpY5/TEF9dUafb3AMbuA8lQ7D1jQaI=	editor	the.tzahor@gmail.com	2006-11-07 03:37:09	0000-00-00 00:00:00
+15	יוסף פריאל	I/X6CXhPpr9Ch6+2sW6TnvQRxJvjP0+oU1GWN6jaYwE=	editor	priel9@biu.013.net.il	2006-11-09 08:25:59	0000-00-00 00:00:00
+16	רפאל	ECUtn9+kjWUTBdCZjWEoZgEdp3o1JRCCBkbyXK8egJs=	editor	Hagay_r@tahal.com	2006-11-13 01:30:11	0000-00-00 00:00:00
+17	ויקי	12XX1mmG1WXxCqbtWA3gy3tKwWHv2KfUn7Ggaus9ePk=	editor	\N	2007-01-25 01:49:08	0000-00-00 00:00:00
+18	erez	zOGie+q50lQ/wg/PeZxB7+lKzx/dMUWmXLnEC+8KhzI=	editor	\N	2007-12-10 08:02:45	0000-00-00 00:00:00
+19	barakr	52nENYrdH1eaUYCLxGhggeX6YubSfwxxCpDiGZsANoY=	editor	\N	2007-12-19 12:38:40	0000-00-00 00:00:00
+20	רפאל_שחורי	TFdJzkj0cjfldpFwWPnAcW/C9FygsPglsQGq9iqE+uw=	editor	\N	2008-01-13 02:05:54	0000-00-00 00:00:00

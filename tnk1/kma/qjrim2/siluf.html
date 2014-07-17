@@ -1,0 +1,748 @@
+<html>
+<link rel='stylesheet' href='../../../_script/klli.css' />
+<link rel='stylesheet' href='../../_themes/klli.css' />
+<title>מעריב עיתון של כולם גם באינטרנט</title>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-8" />
+<meta HTTP-EQUIV="Expire" content="1" />
+<meta HTTP-EQUIV="Pragma" content="no-cache" />
+<script language="javascript">
+var now = new Date();
+var start = now.getTime();
+image23= new Image();
+image23.src = "/images/banners/hidden1x1.gif";
+image23over = new Image();
+image23over.src = "http://ads.maariv.co.il/banners/hidden1x1.gif";
+function over(name) {var end = new Date();
+document[name].src = image23over.src + "?" + start + "," + end.getTime();}
+function send_friend()
+{
+document.send.method="post";
+var vUrl= document.send.pUrl.value;
+searchWindow=window.open('http://www.maariv.co.il/oasis/owa/NEW_htmlmng.getemailpage?pUrl='+vUrl,'searchWindow','width=520,height=310,resizable=1,scrollbars=1,status=0');
+}
+</script>
+<script language="javascript">
+var name = navigator.appName
+if (name == "Microsoft Internet Explorer")
+else
+{
+}
+/*ועראחעי קחאריע גרםויע קםיע םקי הםג
+גןכיהע ןכגןראוי רןויהקםןויהעםויה םןוג
+דןוועכקןה ראיעםןויר םויקםןיע רםי גככ*/
+</script>
+<script language="javascript">
+/*ועראחעי קחאריע גרםויע קםיע םקי הםג
+גןכיהע ןכגןראוי רןויהקםןויהעםויה םןוג
+דןוועכקןה ראיעםןויר םויקםןיע רםי גככ*/
+<!--
+var vabrod="N";
+function getCookie(Name)
+{
+var search=Name + "=";
+if(document.cookie.length > 0)
+{
+var offset = document.cookie.indexOf(search);
+if (offset != -1)
+{
+offset += search.length;
+var end = document.cookie.indexOf(";", offset);
+if (end == -1)
+end = document.cookie.length;
+return (unescape(document.cookie.substring(offset, end)));
+}
+}
+}
+function coo()
+{
+vabrod=getCookie("locusr");
+if(vabrod!="Y" && vabrod!="N")
+{
+document.write("<script LANGUAGE=\"JavaScript\" src=\"" + "http://images.maariv.co.il/location/locusr.php\">");
+document.write("<\/script>");
+}
+}
+coo();
+function open_popup()
+{
+var chatwindows=window.open('http://www.maariv.co.il/oasis/owa/NEW_CONCAT_ARCHIVE_MAARIV','chat','height=300,width=420') ;
+}
+function new_check_string()
+{
+var v_string = document.serch_all.search.value;
+var v_string_new ="";
+var vNameRaz =document.serch_all.engine.selectedIndex;
+var vName =document.serch_all.engine.options[vNameRaz].value;
+if (vName == "מעריב")
+{
+for(var d=0; d<v_string.length; d++)
+{ if (v_string.substring(d,d+1) !="'" )
+{
+v_string_new =v_string_new+v_string.substring(d,d+1);
+}
+}
+if (v_string_new == "או" || v_string_new == "וגם"||v_string_new == "ולא")
+{ alert("מילה לא חוקית"); }
+	else if (v_string_new == "")
+{
+var chatwindows=window.open('http://www.maariv.co.il/oasis/owa/NEW_CONCAT_ARCHIVE_MAARIV','chat','height=300,width=420') ;
+}	
+else
+{
+window.open("http://www.maariv.co.il/oasis/owa/SEARCH_ADD.SearchResult?pStr="+v_string_new);
+}
+}
+else
+{
+		window.open("http://www.start.co.il/go_search_maariv.asp?engine="+vName+"&search="+v_string);
+}
+}
+function SendSeker()
+{ var vSeker = 0;
+for(a=0;a<document.survey.elements.length;a++){
+if (document.survey.elements[a].checked==true) {
+//fbWin=window.open("http://proxy.maariv.co.il/oasis/owa/SEKER_MNG.SubmitSekerResult?pVot="+document.survey.elements[a].value ,'new' ,'width=570,height=360,resizable=1,scrollbars=1,status=0');
+fbWin=window.open("http://www.maariv.co.il/oasis/owa/SURVEY_MNG.SubmitSekerResult?pVot="+document.survey.elements[a].value ,'new' ,'width=430,height=380,top=20,left=20,resizable=1,scrollbars=1,status=0');
+var vSeker = 1;
+}
+}
+if (vSeker == 0 )
+alert("you need to choose something");
+}
+function check_string()
+{ var v_string= document.con_openmaariv.pStr.value;
+var v_string_new="";
+for(var d=0; d<v_string.length; d++)
+{ if (v_string.substring(d,d+1) !="'" )
+{ v_string_new =v_string_new+v_string.substring(d,d+1);
+}
+}
+if (v_string_new == "או" || v_string_new == "וגם"||v_string_new == "ולא"||v_string_new == "")
+{ alert("מילה לא חוקית"); }
+else
+{ document.con_openmaariv.pStr.value = v_string_new;
+document.con_openmaariv.submit();
+}
+}
+function CallOpen(pHomePageName,pNpNum)
+{
+window.open("http://www.maariv.co.il/oasis/owa/HTMLMNG.generate?page="+pHomePageName+"open&NpType="+pNpNum,"_self");
+};
+function CallSummery(pHomePageName,pNpNum)
+{
+window.open("http://www.maariv.co.il/oasis/owa/HTMLMNG.generate?page="+pHomePageName+"summery&NpType="+pNpNum+"&PublishDate=22-APR-2003&item=&ItemType=120","_self");
+};
+function CallArticle(pHomePageName,pNpNum,pItemNum,pItemType)
+{
+window.open("http://www.maariv.co.il/oasis/owa/HTMLMNG.generate?page="+pHomePageName+"article&NpType="+pNpNum+"&PublishDate=24-APR-2003&item="+pItemNum+"&ItemType="+pItemType,"_self");
+};
+function getpage(pParName,pNpType)
+{
+window.open("http://www.maariv.co.il/oasis/owa/HTMLMNG.generate?page="+pParName+"&NpType="+pNpType+"&PublishDate=22-APR-2003" ,"_self");
+}
+function send_friend()
+{
+document.send.method="post";
+var vUrl= document.send.pUrl.value;
+searchWindow=window.open('http://www.maariv.co.il/oasis/owa/NEW_htmlmng.getemailpage?pUrl='+vUrl,'searchWindow','width=520,height=310,resizable=1,scrollbars=1,status=0');
+}
+<!-->
+/*ועראחעי קחאריע גרםויע קםיע םקי הםג
+גןכיהע ןכגןראוי רןויהקםןויהעםויה םןוג
+דןוועכקןה ראיעםןויר םויקםןיע רםי גככ*/
+</script>
+</head>
+<body marginheight=0 marginwidth=0 topmargin=0 leftmargin=0 marginright=0>
+<form name="send" method="post" target="_self">
+<input type="hidden" name ="purl" value="art467779.html">
+</form>
+<div align="center">
+<!-- TOP table -->
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td>
+<td>
+<!--INNER table-->
+<table width="758" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<!--ADD table-->
+<table width="758" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right" valign="top"><br /></td>	
+<td align="right" valign="middle"><script type='text/javascript'> document.write('<OBJECT classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 width='468' height='60'> <pARAM name='movie' VALUE=http://images.maariv.co.il/images/banners3/manoy_468x60.swf?vnum='+start+'&vpage=283&bid=521><pARAM name='quality' VALUE=high><pARAM name='wmode' VALUE=opaque><embed quality=high type='application/x-shockwave-flash' src='http://images.maariv.co.il/images/banners3/manoy_468x60.swf?vnum=''+start+'&vpage=283&bid=521 width='468' height='60'></embed></OBJECT>'); </script></td>
+<td width="2" align="right" valign="middle"><br /></td>
+<td width="344" align="right" valign="middle"><a href="http://www.maariv.co.il"><img src="/images/homepage/safrut_logo.gif" border="0"></a></td>	
+</tr>
+</table>
+<!--ADD table-->											
+</td></tr>
+<tr><td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td></tr>
+<tr><td bgcolor="#ebebeb">
+<!--DATE table-->
+<table width="758" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right">ג"סשת ןסינ 'כ&nbsp;לירפאב 22 ,ישילש םוי תרודהמ&nbsp;&nbsp;&nbsp;</td>
+<td><img src="/images/homepage/pixel.gif" width="88" height="1" border="0" alt=""></td>
+<td><input type="hidden" value="page=safrutarticlenew&nptype=20&publishdate=22-apr-2003&item=467779" name="purl"><table width="410" cellspacing="0" cellpadding="0" border="0" align="right">
+		<tr>
+			<td align="right">
+		<a href="http://www.maariv.co.il" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.maariv.co.il/');"><nobr>תיבה רתאל ךופה</nobr></a>&nbsp;&nbsp;
+		<a href='javaScript:var chatwindows=window.open("http://images.maariv.co.il/images/stuff/pirsum/mefarsemim11.html");'><nobr><nobr>ונלצא םסרפ</nobr></nobr></a>&nbsp;&nbsp;
+		<a href='mailto:editor@maariv.co.il?subject= מעריב אינטרנט '><nobr>ונל בותכ</nobr></a>&nbsp;&nbsp;
+		<a href='javaScript:var win=window.open("/images/yadin/help/helpnew.html","_new");'>הרזע</a>&nbsp;&nbsp;
+<a href='javaScript:var win=window.open("http://images.maariv.co.il/images/stuff/maariv/maariv_manuim.html");'><nobr>ןותיעל יונמ</nobr></a>&nbsp;&nbsp;
+<a href="NP_0.html"><nobr>חתופה ףדל</nobr></a>&nbsp;&nbsp;
+		</td>
+		</tr>
+		</table><!--end genral links table--></td>																	
+</tr>
+</table>
+<!--END DATE table-->
+</td></tr>
+<tr><td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td></tr>
+<tr><td>
+<table width="758" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#dbdbdb">
+<!--LINKS AND ARCIVE table-->																									
+<!--SEARCH table-->																	
+<script language="javascript">
+function srchWith() {
+	vName=document.Search.engine.options[document.Search.engine.selectedIndex].value;
+v_string=document.Search.q.value;
+	if (vName=="tapuz") {
+		document.Search.action="http://www.tapuz.co.il/index/MaarivProceed.asp"
+		document.Search.submit()
+	}
+	else if (vName=="maariv"){
+if (v_string!="")
+		window.open("http://www.maariv.co.il/oasis/owa/SEARCH_ADD.SearchResult?pStr="+v_string);
+	else{
+var chatwindows=window.open('http://www.maariv.co.il/oasis/owa/NEW_CONCAT_ARCHIVE_MAARIV','chat','height=300,width=420') ;
+	}
+	}
+	else
+		window.open("http://www.start.co.il/go_search_maariv.asp?engine="+vName+"&search="+v_string);
+}
+</script><form name="search" method="get" >
+											<!--SEARCH table-->
+											<table width="180" cellspacing="0" cellpadding="0" border="0">
+												<tr>
+													<td><img src="/images/homepage/pixel.gif" width="5" height="24" border="0"></td>
+													<td><a href="javascript:srchWith()"><img src="/images/homepage/Go.gif" border="0"></a>&nbsp;</td>
+<td>
+<font face="arial (hebrew)" size="-1">
+						<select name="engine">
+									<option value="tapuz" selected >תפוז אנשים
+										<option value="maariv" >ארכיון מעריב
+									
+									</select></font></td>
+<td> &nbsp;&nbsp;&nbsp;<script language="javascript">if (navigator.appName == "Microsoft Internet Explorer"){document.write("<input type='text' name='q' size='16'>");} else { document.write("<FONT FACE='Arial (hebrew)'><input type='text' name='q' size='6'></font>");} </script></td>
+</form>
+																	</table>
+															<!--SEARCH table-->
+															</td>
+														<td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td>
+														<td align="right" bgcolor="#a3a3a3" valign="top">
+															<!--CHANNELS table-->
+																		<table width="520" cellspacing="0" cellpadding="0" border="0">
+																			<tr>
+<td align=center><a href='javaScript:var vWin=window.open("http://maariv.wallashops.co.il/shopmind_portal_heb/main.asp","_new");'><img src="http://images.maariv.co.il/images/homepage/kniot2101031.gif" border="0" alt=""></a></td>
+<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center valign=middle><a href='javaScript:var vWin=window.open("http://www.maariv.co.il/luach","_new");'><img src="http://images.maariv.co.il/images/homepage/Boards_top1.gif" border="0" alt=""></a></td>
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+<td align=center><a href="http://images.fixtravel.co.il/fixtravel/" target="_blank"><img src="/images/homepage/tayarut_top1.gif" border="0" alt=""></a></td>
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="zmannew.html"><img src="/images/homepage/Local_top1.gif" border="0" alt=""></a></td>
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="http://images.maariv.co.il/channels/HP_4.html"><img src="/images/homepage/Weman_top1.gif" border="0" alt=""></a></td>
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="http://images.maariv.co.il/channels/HP_5.html"><img src="/images/homepage/Leisure_top1.gif" border="0" alt=""></a></td>
+																				<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="http://images.maariv.co.il/channels/HP_2.html" ><img src="/images/homepage/Business_top1.gif" border="0" alt=""></a></td>
+																					<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="http://images.maariv.co.il/channels/HP_3.html" ><img src="/images/homepage/Sports_top1.gif" border="0" alt=""></a></td>
+																					<td><img src="/images/homepage/Line_top.gif" width="1" height="24" border="0" alt=""></td>
+																					<td align=center><a href="http://images.maariv.co.il/channels/HP_1.html" ><img src="/images/homepage/News_top1.gif" border="0" alt=""></a></td>
+																			</tr>
+																	</table>																
+</td></tr>
+</table>										
+</td>
+</tr>
+<tr><td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td></tr>
+</table>
+<!--END INNER table-->
+</td>
+<td bgcolor="#808080"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0"></td>
+</tr>
+</table>
+<!--END TOP table -->
+<!-- headLINES table -->
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tr><td><img src="/images/homepage/pixel.gif" width="760" height="18" border="0"></td></tr>
+</table>
+<!--END headLINES table-->
+<!--BOTTOM table-->
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td bgcolor="#999999"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0" alt=""></td>
+<td valign="top">
+<!--LEFT table-->
+<table width="128" cellspacing="0" cellpadding="0" border="0">																				
+<tr><td>
+<!--MAIN LEFT table-->
+<table width="128" cellspacing="0" cellpadding="0" border="0">
+<tr><td><script type='text/javascript'> var vnew='new'; document.write('<a href='http://www.maariv.co.il/banner/owa/openlink1?vnum=''+start+'&vpage=283&bid=1120 target='New'><img src='http://images.maariv.co.il/images/banners3/1_maarivHomeCin_127x150_0901.gif?vnum=''+start+'&vpage=283&bid=1120 WIDth='127' HEIGHT='150' BORDER=0 ALIGN=bottom></a>'); </script></td></tr>
+<tr><td><img src="/images/homepage/pixel.gif" width="128" height="3" border="0" alt=""></td></tr>	
+<tr><td><script type='text/javascript'> var vnew='new'; document.write('<a href='http://www.maariv.co.il/banner/owa/openlink1?vnum=''+start+'&vpage=283&bid=822 target='New'><img src='http://images.maariv.co.il/images/banners3/limod_127x50_2101.gif?vnum=''+start+'&vpage=283&bid=822 WIDth='127' HEIGHT='150' BORDER=0 ALIGN=bottom></a>'); </script></td></tr>
+<tr><td></td></tr>
+<tr><td><script type='text/javascript'> document.write('<OBJECT classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 width='127' height='250'> <pARAM name='movie' VALUE=http://images.maariv.co.il/images/banners3/maariv_tkr_127X250_1_12.swf?vnum='+start+'&vpage=283&bid=500><pARAM name='quality' VALUE=high><pARAM name='wmode' VALUE=opaque><embed quality=high type='application/x-shockwave-flash' src='http://images.maariv.co.il/images/banners3/maariv_tkr_127X250_1_12.swf?vnum=''+start+'&vpage=283&bid=500 width='127' height='250'></embed></OBJECT>'); </script></td></tr>
+<tr><td><img src="/images/homepage/pixel.gif" width="128" height="3" border="0" alt=""></td></tr>
+<tr><td><table width="128" cellspacing="0" cellpadding="0" border="0">
+<tr bgcolor="#e7e7e7">
+<td align="right" ><a href="javascript:open_popup();" id="video"> ןויכרא</a></td>
+<td align="right"><img src="/images/homepage/arhion2.gif" width="31" height="23" border="0" alt=""></td>
+</tr>																						
+<tr>
+<td colspan="2" bgcolor="white"><img src="//images/homepage/pixel.gif" width="128" height="1" border="0" alt=""></td>
+</tr>
+<!--
+<script LANGUAGE="JavaScript">
+function open_massege()
+{
+var chatwindows=window.open("/images/stuff/massege.html","chat","height=380,width=480") ;
+}
+</script>
+<tr bgcolor="#FFB317">
+<td align="right"><a href="javascript:open_massege();" id="video">םימורופ</a></td>
+<td align="right"><img src="/images/homepage/forums.gif" width="31" height="23" border="0" alt=""></td>
+</tr>
+<!--><!--
+<tr>
+<td colspan="2" bgcolor="white"><img src="/images/homepage/pixel.gif" width="128" height="2" border="0" alt=""></td>
+</tr>
+<tr bgcolor="#e7e7e7">
+<td align="right" ><a href="/cache/NP_54.html" id="video">ואדיו ןויכרא </a></td>
+<td align="right"><img src="/images/homepage/video2.gif" width="31" height="23" border="0" alt=""></td>
+</tr>
+<!-->
+</td>
+</tr>
+</table>
+<tr>
+<td><img src="/images/homepage/pixel.gif" width="128" height="5" border="0" alt=""></td>
+</tr>
+<tr>
+<td>
+<table width="128" cellspacing="0" cellpadding="0" border="0">
+<!--<tr>
+<td height="24" bgcolor="#999999" align="right" id="survey">בירעמ תצובק ירתא&nbsp;</td>
+</tr><!-->		
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr><tr bgcolor="#e7e7e7">
+<td align="center"><a href="http://www.safta.co.il" target="new">
+<img src="/images/homepage/Savta.gif" " border="0" alt=""></a></td>
+</tr>		
+<tr>
+	<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>	
+<tr bgcolor="#e7e7e7">
+	<td align="center"><a href='javaScript:var vWin=window.open("http://www.maariv.co.il/luach","_new");'>
+<img src="/images/homepage/luach.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>		<tr>
+<td bgcolor=#e7e7e7 align="center" >
+<a href ="http://www.maariv.co.il/general/owa/SALE_MAARIV.build_source" target="_new">
+<img src="/images/homepage/sale.gif" border="0"></font></a></td>
+</tr>
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr><tr bgcolor="#e7e7e7">
+<td align="center"><a href="http://images.fixtravel.co.il/fixtravel/" target="_new"><img src="/images/homepage/tourism.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+	<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>
+<tr>
+<td bgcolor=#e7e7e7 align="center" >
+<a href ="http://click.maariv.co.il" target="_new">
+<img src="/images/homepage/click.gif" border="0"></font></a></td>
+</tr>
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr><tr bgcolor="#e7e7e7">
+	<td align="center"><a href="/images/hitech_prof/profile.html" target="_new">
+<img src="/images/homepage/hitech.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>	
+<tr bgcolor="#e7e7e7">
+	<td align="center"><a href="http://jobcenter.maariv.co.il" target="_new">
+	<img src="/images/homepage/job_center.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>	
+<tr bgcolor="#e7e7e7">
+	<td align="center"><a href="http://www.maarivusa.com" target="_new">
+	<img src="/images/homepage/usa.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="10" border="0" alt=""></td>
+</tr>	
+<tr>
+<td bgcolor="white"><img src="/images/homepage/pixel.gif" width="128" height="5" border="0" alt=""></td>
+</tr>
+<!--
+<tr bgcolor="#E7E7E7">
+	<td align="center"><a href="http://one.co.il/dreams/" target="_new">
+<img src="/images/general_maariv/strip_ligat_halomot.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#E7E7E7"><img src="/images/homepage/pixel.gif" width="128" height="1" border="0" alt=""></td>
+</tr>	
+<!-->
+</table>
+<!--end maariv groups sites table-->
+</td>
+</tr>		
+<tr>
+<td><img src="/images/homepage/pixel.gif" width="128" height="5" border="0" alt=""></td>
+</tr>
+<tr>
+<td><form action="http://www.top-10.co.il/upload/personal/leftd.asp" method="post" target='new'>
+<table width="128" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/tower_new.gif" width="126" height="29" border="0" alt=""></td>
+	</tr>	
+	<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="7" border="0" alt=""></td>
+	</tr>
+	<tr bgcolor="#e7e7e7">
+<td align="center">
+<select name="dept_name" size="1">
+<option selected value="0">כללי</option>
+<option value="1">מוסיקה</option>
+<option value="4">ספרים</option>
+<option value="2">וידאו</option>
+<option value="3">מולטימדיה</option>
+<option value="8">אביזרים</option>
+</select></td>
+</tr>
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="7" border="0" alt=""></td>
+</tr>
+<tr bgcolor="#e7e7e7">
+<td align="center">
+<input type="text" name="name" value="חפש מוצר" id="box" size="6"></td>
+</tr>
+<tr>
+<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="7" border="0" alt=""></td>
+</tr>
+<tr bgcolor="#e7e7e7">
+<td align="center">
+<input type="image" name="search" src="/images/homepage/search.gif" border="0"></td>
+	</tr>
+	<tr>
+	<td bgcolor="#e7e7e7"><img src="/images/homepage/pixel.gif" width="128" height="7" border="0" alt=""></td>
+	</tr>
+</table></form>
+<!--end top 10 table-->
+<!--<tr bgcolor="#E7E7E7">
+	<td align="center"><a href="http://one.co.il/dreams/" target="_new">
+<img src="/images/general_maariv/strip_ligat_halomot.gif" border="0" alt=""></a></td>
+</tr>		
+<tr>
+<td bgcolor="#E7E7E7"><img src="/images/homepage/pixel.gif" width="128" height="1" border="0" alt=""></td>
+</tr>	<!-->
+</td></tr>		
+<tr><td><img src="/images/homepage/pixel.gif" width="128" height="3" border="0" alt=""></td></tr>																													
+<tr><td></td></tr>
+</table>																							
+</td></tr>																				
+</table>																																			
+<!--END LEFT table-->
+</td>
+<td bgcolor="#999999"><img src="/images/homepage/pixel.gif" width="1" height="100%" border="0" alt=""></td>
+<td valign="top">
+<!--LEFT table-->
+<table width="480" cellspacing="0" cellpadding="0" border="0">																											
+<tr><td align="center">
+<!--ARTICLES table-->																		
+<table width="460" cellspacing="0" cellpadding="0" border="0">
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td valign="top" align="right"><sprint><table width="460" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+				<td align="right" colspan="2" id="headerarticle"><q class='psuq'><nobr> השמ תארוה תא ףליס ארזע רוזנצה :םירבד רפס </nobr> </q><br /><br /></td>
+				</tr>
+				<tr>
+				<td>
+<img src="/images//safrut/saf210403.jpg" border=0 alt="">
+<br /><q class='psuq'> <nobr> רה לע הרותה רפס תפנה סקטב םינורמושה </nobr> <br /><nobr> רכשי ןנח :םוליצ .םיזירג </nobr> </q></td><td align="right" width="170" valign="top">
+			<font id="headertext"><q class='psuq'> <nobr> האירק </nobr> <br /> <nobr> תיטסימרופנוקנונ </nobr> <br /> <nobr> רפסב םידחא םיקוספב </nobr> <br /> <nobr> ,החיכומ םירבד </nobr> <br /> <nobr> םעה
+גיהנמ ,ארזעש </nobr> <br /> <nobr> היה ,לבב תולגמ בשה </nobr> <br /> <nobr> תולובג-רסחו יאנק </nobr> <br /><nobr> ויתויוכמס שומימב </nobr> </q></font><br /><a href="mailto:contact@maariv.co.il?subject= שאול הון " id="reporterBlack"><nobr> ןוה לואש </nobr> </a><br /></td>
+		</tr><tr>
+		<td align="right" colspan="2"><img src="/images/homepage/pixel.gif" width="100" height="12" border="0" alt=""></td>
+		</tr>
+</table><eprint>	</td></tr>
+<tr><td valign="top" align="right"><sprint><br /><font color="black" > <nobr> השמ
+לש תונורחאה ויתוארוהש ,םינש ינפל יל דגוה וליא הבר ההימתב ביגמ יתייה </nobr> <br /> <nobr> אל וליפא
+םילשוריב הטיסרבינואב ארקמה רקח יתדמלשכ םג .ך"נתב ונושו ורזנוצ </nobr> <br /> <nobr> ,הנש 2450-כ
+ונמע יוצמ תלבוקמה ותנוכתמב ך"נתה .תאזכ העפות לע ונל זמרנ </nobr> <br /> <nobr> בוש יתארק ,רבכמ
+אל ,לבא .טסקטה תונמיהמ יבגל םיקופקפ יב וררועתה אל םלועמו </nobr> <br /> <nobr> ,םירבד רפסב םיבותכ
+ינש ןיב הריתס תולגל יתמהדנו האצרה ךרוצל טסקטה תא </nobr> <br /> .אשונ ותואב םיקסועה <br /> <br /> <br /> <nobr> רחאל וגהני דציכ ,םעה לאו עשוהי לא השמ לש תונורחאה ויתוארוהב רבודמ
+</nobr> <br /> <nobr> םע ואובב יכ ,עשוהי תא החנמ השמ .תחטבומה ץראל וסנכייו ןדריה תא ורבעיש
+</nobr> <br /> <nobr> תאו םיזירג רה לע הכרבה תא התתנו התשרל המש אב התא רשא ץראה לא" םעה
+</nobr> <br /> <nobr> םייוצמ םירהה ינש יכ ,םש ןייצמ ףא אוה .(29 א"י םירבד) "לביע רה לע הללקה
+</nobr> <br /> <nobr> דיל אוה םוקמהש הדיעמ וז תפסות .(30 א"י) "הרומ ינולא לצא ,לגלגה לומ"
+</nobr> <br /> <nobr> "הרומ ןולא דע ,םכש םוקמ דע" עיגה אוה ץראל םהרבא אב רשאכ םג יכ ,םכש
+</nobr> <br /> .םוקמה יוהיזב קפס ןיא ,עמשמ .(6 ב"י תישארב)
+<br /> <br /> <br /> <nobr> םייוצמ לביעו םיזירג םירהה יכ ,םירבד רפסל ורואיבב ןייצמ שדחה ןודרוג שוריפ
+</nobr> <br /> <nobr> שוריפב (30 'ח) עשוהי רפסל שוריפה תא בתכש ימ ךא .לגלגה לומ ,םכש דיל
+</nobr> <br /> <nobr> לע ךמתסה ךכב .וחירי דיל תועבג םה הלא םירה ינש יכ ,ןייצ שדחהןודרוג
+</nobr> <br /> <nobr> ימכח יפמ הרות דמלש" ,הריפסל תיעיברה האמב היסנכה תובאמ ,סומינוריה
+</nobr> <br /> <nobr> אלו תועבג יתש תוהזל ועדי לארשי ימכח יכ ,העט סומינוריהש הארנ ."לארשי
+</nobr> <br /> <nobr> ,יתנייצ ןכל .וחירי דיל אלו םכש דיל םירהב רבודמש םג המ .םירה ינשכ ןורידגי
+</nobr> <br /> <nobr> ינשש ועדי (סומינוריה ינפל הנש 2000-מ רתוי) וניבא םהרבא ימיב רבכ יכ
+</nobr> <br /> .םכש דיל םה וללה םירהה
+<br /> <br /> <br /> <nobr> םכרבעב
+םיזירג רה לע םעה תא ךרבל ודמעי" םיטבש השש יכ ,ותארוהב ןייצ השמ
+</nobr> <br /> <nobr> הלאו"
+,(12 ז"כ םירבד) "ןימינבו ףסויו רכששיו הדוהיו יולו ןועמש :ןדריה תא </nobr> <br /> <nobr> םירבד)
+"ילתפנו ןד ,ןולובזו רשאו דג ,ןבואר - לביע רהב הללקה רה לע ודמעי </nobr> <br /> .(13 ז"כ <br /> <br /> <br /> <nobr> תעברא
+תא םיזירג רה דיל השמ עבק ,םירהה ינש דיל םיטבשה תבצהב יכ ,בל םשוי
+</nobr> <br /> <nobr> רהל
+וצבושש םיטבשל ףרוצש ,רוכבה ,ןבואר לע גלידו לחר ינב ינשו האל ינב </nobr> <br /> <nobr> םע בכש
+יכ ,ויבא בקעי דובכ תא לליחשכ ותרוכב תא דביא ןבואר - הביסה .לביע </nobr> <br /> <nobr> וליאו .(4
+ט"מ ,23 ה"ל תישארב) בקעי לש ושגליפ םגו לחר תחפש התיהש ,ההלב </nobr> <br /> .ההלבו
+הפלז ,תוחפשה ינב תעבראו האל ינב ינש וצבוש ,הללקה רה ,לביע רהל <br /> <br /> <br /> <nobr> םייוולה וארקי ,הללקה רה ,לביע רה לע יכ ,ןלהל תעבוק ףא השמ לש ותארוה
+</nobr> <br /> <nobr> ז"כ םירבד) "ןמא ורמאו םעה לכ ונעו" (םיקוספ ב"י) תוללקה חסונ תא םר לוקב
+</nobr> <br /> <nobr> 12 ןורסחב הנושארל יתנחבה התע קר .ברה ינוהמתל ,קרפה םייתסמ ךכב .(26-15
+</nobr> <br /> <nobr> רה דיל ארקיהל ודעונ םה .השמ לש תירוקמה ותארוהב וללכנש ,הכרבה יקוספ
+</nobr> <br /> <nobr> סניכ רשאכ ,עשוהי דיעמ םג ךכ .הללקה יקוספ ינפלו ,ליעל וניארש יפכ ,םיזירג
+</nobr> <br /> <nobr> השמ הוצ רשאכ - לביע רה לומ ויצחו םיזירג רה לומ ויצח" םכש לומ םעה תא
+</nobr> <br /> <nobr> ארק םנמא אוהש ,רשיא עשוהי .(33 'ח עשוהי) "הנושארב לארשי םעה תא ךרבל
+</nobr> <br /> <nobr> םה ןכיה ,ןכבו .הללקה יקוספ תא ךכ-רחאו הכרבה יקוספ תא הליחת םעה ינפל
+</nobr> <br /> ?הכרבה יקוספ
+<br /> <br /> <br /> <nobr> עשוהי תא החנה השמ יכ ,עבקו טסקטה ךשמה תא הניש והשימ :תפסונ ההימתו
+</nobr> <br /> <nobr> םימלש תחבזו ,ךיהלא 'הל תולוע וילע תילעהו" לביע רהב חבזמה תא תונבל
+</nobr> <br /> <nobr> לע
+אלו הללקה רה לע חבזמ .(7-4 ז"כ םירבד) "ךיהלא 'ה ינפל תחמשו םש תלכאו
+</nobr> <br /> <nobr> ךכ ךישמה
+השמ תארוה תא ןאכ הנישש ימ !?הללקה רה לע אקווד חומשל !?הכרבה רה </nobr> <br /> <nobr> דבע השמ הוצ
+רשאכ ,לביע רהב לארשי יהלא 'הל חבזמ עשוהי הנבי זא" :האלה םג </nobr> <br /> .(31-30 'ח עשוהי) "השמ תרות רפסב בותככ ,לארשי ינב תא 'ה <br /> <br /> <br /> <nobr> רהב אלא לביע רהב חבזמ תונבל הוצ אל ירה השמ .א :הלופכ הדיחב יתלקתנ
+</nobr> <br /> <nobr> תירוקמה ותארוה יונישב ןיינועמ היה ימו הכרבה יקוספ ומלענ ןכיהל .ב .םיזירג
+</nobr> <br /> ?תאז השע המלו םיבותכה ינש ןיב הריתס רציו השמ לש
+<br /> <br /> <br /> <nobr> רה לע ךרעיי ןכא הכרבה סקטש ןווכתה אוהש ררבתמו השמ תארוהב בוש יתנייע
+</nobr> <br />
+<nobr> "םיזירג רה לע םעה תא ךרבל ודמעי הלא" :שרופמב רמוא אוה ירהש ,םיזירג
+</nobr> <br /> <nobr> יכ
+,רשאמ אוה םכש לומ םעה תא עשוהי סנכמ רשאכ ,ןכ לע רתי .(12 ז"כ םירבד)
+</nobr> <br /> <nobr> רה לומ לא ויצחהו םיזירג רה לומ לא ויצח ... הזמו הזמ םידמוע לארשי לכ" </nobr> <br /> <nobr> .(34-33
+'ח עשוהי) "הנושארב לארשי םעה תא ךרבל 'ה דבע השמ הוצ רשאכ ,לביע
+</nobr> <br /> <nobr> לבא .לביע
+רה לע הללקה סקט ךרעיי םיזירג רה לע תוכרבה סקט רחאל קר ,עמשמ </nobr> <br /> <nobr> תטלוב ,םתוא
+רשיא עשוהיש ,השמ לש תירוקמה ותארוהב הלא םירורב םירבד לומ </nobr> <br /> <nobr> השמ הוצ רשאכ ,לביע
+רהב לארשי יהלא 'הל חבזמ עשוהי הנבי זא" תעבוקה הריתסה </nobr> <br /> .(31 'ח עשוהי) "לארשי ינב תא 'ה דבע <br /> <br /> <br /> <nobr> אלא םמוקמב אל ךא ,םיתאצמ ףוסבל .הכרבה יקוספ ב"י תא שפחל יתלחתה ןכל
+</nobr> <br /> <nobr> יקוספ ב"י ינפל היוצמה) ההזמ תרתוכ ילב ,(14-3 ,ח"כ םירבד) אבה קרפב
+</nobr> <br /> <nobr> לכ רמאו" :הללק לכ ירחא רמאנש יפכ) הכרב לכ ירחא םעה תבוגת ילבו (הללקה
+</nobr> <br /> .("ןמא םעה
+<br /> <br /> <br /> <nobr> סקטש
+,השמ תנווכ תא טימשה קר אל :עשפ לע אטח ףיסוה השמ ירבד תא רזניצש ימ
+</nobr> <br /> <nobr> ןכא סקטהש
+,עשוהי ירבד תא טימשה םג אלא ,םיזירג רה לעו ןושאר ךרעיי הכרבה </nobr> <br /> <nobr> לש ורושיאו השמ
+ירבדמ ראשנש המ יפל קר .תוללקה סקט ינפל םיזירג רה לע ךרענ </nobr> <br /> <nobr> וז תינודז הטמשה .םיזירג
+רה (דיל וא) לע ךרענ םנמא סקטהש ,ןיבהל רשפא עשוהי </nobr> <br /> <nobr> תונבל הרוהו וירבדמ השמ
+וב רזח וליאכ ,תורתוס תוארוה ורתונ יכ ,דאמ תטלוב </nobr> <br /> .לביע רה לע חבזמ <br /> <br /> <br /> <nobr> ינפל ,םמוקממ ושלתנ הכרבה יקוספ 12 קר אל ?והשעמב ינומלא ותוא גישה המ
+</nobr> <br /> <nobr> הצק ןתנ הז טרפ .םיזירג רה - םתעמשה םוקמ ןויצ םג רקענ אלא .הללקה יקוספ
+</nobr> <br /> <nobr> ,היה הז ןיינעו ,םינורמושל שדוקמ םיזירג רה .המולעתה תא רותפל ןויסינל טוח
+</nobr> <br /> <nobr> תא
+שחנל תוחפל רשפא הז יפל .טסקטה תא הנישש ינומלאה יניעב םינינצל ,הארנכ
+</nobr> <br /> <nobr> .ארזעו
+הימחנ לש םנמז .םינורמושה םע םיכוכיח תפוקת :שיאה לעפ הבש הפוקתה </nobr> <br /> <nobr> ינפל 450-438
+ךרעב) הריפסה ינפל תישימחה האמה תיצחמב ,ןויצ תביש תפוקת </nobr> <br /> <nobr> הממוקל ,שדחמ
+םילשורי תא תונבל ארזעו הימחנל רשיא סרפ ךלמ .(הריפסה </nobr> <br /> <nobr> ושקיב היינבה
+ךלהמב .שדקמה תיב תא םג שדחמ הב םיקהל ףאו היתוסירהמ </nobr> <br /> <nobr> םכל אל" :תואשנתהב
+םתוא וחד םידוהיה יגיהנמ ךא ,הדובעב ףתתשהל םינורמושה </nobr> <br /> <nobr> הקדצו קלח ןיא
+םכל" :הימחנב ןכו ,(3 'ד ארזע) "וניהלאל תיב תונבל ונלו </nobr> <br /> .(20 'ב) "םילשוריב ןורכזו <br /> <br /> <br /> <nobr> - שיגדהל שקיב ךכב .םיהלאל תיב םתס אלו "וניהלאל תיב" רמול דיפקה ארזע
+</nobr> <br /> <nobr> זא הטשפש
+,תבורעת יאושינ תשרפ ול התלגתה ץראל ארזע עיגהשכ .םכלש אלו ונלש
+</nobr> <br /> <nobr> יכ ,שערנ ארזע
+.תונבו םינב ודילוהו תוירכנ םישנ ואשנ םה .םידוהיה ןיב הפגמכ </nobr> <br /> <nobr> ארזע) "הנושאר לעמב
+התיה םינגסהו םירשה דיו תוצראה ימעב שדוקה ערז וברעתה" </nobr> <br /> <nobr> לבאתמש ימכ - (3 'ט
+םש) ונקזו ורעש תא טרמו וידגב תא ערק ובאכ בורב .(2 'ט </nobr> <br /> <nobr> ילעב לכ תא םילשוריב
+סניכ םימי השולש ךות :תצרמנ הלועפב ביגה אוה .תמ לע </nobr> <br /> .(11 'ט םש) !תוירכנה
+םהיתושנמ שרגתהל םהילע הפכו תוירכנה םישנה <br /> <br /> <br /> <nobr> םעב רצויו תוחפשמ (יפלא ילואו) תואמ ךכב קסרמו לצפמ אוהש עדי ארזע
+</nobr> <br /> <nobr> רוזחי םעהש הצר אוה .ותלועפב ףיקת היה אוה ךא ,ריבכמל תוישיא תוידגרט
+</nobr> <br /> <nobr> - "הלוגס םעל ול תויהל םויה ךרימאה 'ה") וב רחב לאהש ,הלוגס-םע תלעמל
+</nobr> <br /> <nobr> ךכ
+והשעמ תא ריבסהו תקדוצ ותלועפש המלש הנומאב ןימאה אוה .(18 ו"כ םירבד
+</nobr> <br /> <nobr> 'ז ארזע)
+"טפשמו קוח לארשיב דמללו תושעלו הוהי תרות תא שורדל ובבל ןיכה" - </nobr> <br /> .(10 <br /> <br /> <br /> <nobr> יאושינמ תוחפשמה קוריפ תא :ותלועפ תא וקידצהב חסונה ילדבהל בל םשוי
+</nobr> <br /> <nobr> לע רומשל ידכ ,(10 'ז ארזע) "הוהי תרות"ב ותוקבד לע ססבמ אוה תבורעתה
+</nobr> <br /> <nobr> רהל
+םיזירג רה לש יונישה תא וליאו .לאה תשירדכ ,"שדוקה ערז" לש עזגה תרהט
+</nobr> <br /> <nobr> "הוהי
+תרות" אל .(6 'ז םש) "השמ תרותב ריהמ רפוס" ותויה לע ססבמ אוה לביע </nobr> <br /> .םדוקכ <br /> <br /> <br /> <nobr> ארזע ענמנ השמ לש ותוישיאל הכרעהו דובכ לש סחי ללגב יכ ,חינהל ריבס
+</nobr> <br /> <nobr> רה
+לע חבזמ תמקה לע השמ לש תירוקמה ותארוה תא הניש אוהש ,תשרופמ האדוהמ
+</nobr> <br /> <nobr> לוציפב תוישיא תוידגרט יפלא וא תואמ תריצימ עתרנ אל םא לבא .םיזירג </nobr> <br /> <nobr> לע
+חבזמ הנביי אלש דבלבו ,"השמ תרות"ב הלמ יונישמ עתרנ אל יאדו ,תוחפשמה
+</nobr> <br /> <nobr> תיב תמקהב
+קסוע ודועב ךכל םיכסהל היה לוכי אלש המכו המכ תחא לע .םיזירג רה </nobr> <br /> .םילשוריב שדקמה <br /> <br /> <br /> <nobr> יחינמ"מ דחאכ ארזע רדגומ (791-2 'מע ,ו"כ ךרכ) תירבעה הידפולקיצנאב
+</nobr> <br /> <nobr> ץראב הרותה ידסיימל ןושארכ והואר ףא ל"זח ."תורודל תודהיה לש היתודוסי
+</nobr> <br /> <nobr> הכוס
+תכסמ) "הדסיו לבבמ ארזע הלע לארשימ הרות החכתשנשכ" וילע ורמאו לארשי
+</nobr> <br /> <nobr> ןירדהנס) "ודי לע הרות ןתניתש ארזע היה יואר" ופיסוה ףא םה .('א 'מע ,'כ </nobr> <br /> <nobr> היה ארזע לש םילודגה וילעפממ דחא !השמ תלעמל והוושה ךכב .('ב 'מע ,א"כ
+</nobr> <br /> <nobr> בל-ץמואו חור-זוע היה שורד .םויכ תלבוקמה ותרוצל םודקה ירבעה בתכה יוניש
+</nobr> <br /> <nobr> חסונל
+(!הרותה הבתכנ םג ובש) םינש תואמ שדוקמו לבוקמ ,קיתע חסונ לטבל ידכ
+</nobr> <br /> .םויכ ונילע לבוקמה ,שדח <br /> <br /> <br /> <nobr> םג תולבוקמ ןהו ,תדה יגהנמב ארזע גיהנהש תונקתה תא ןאכ טרפל אובא אל
+</nobr> <br /> <nobr> ותודגנתה תא ,יתעדל ,ריבסמ הז לכ לבא .זאמ םינש 2400-מ רתוי ,םויכ
+</nobr> <br /> .לביע רהל סקטה תא הניש ןכל .םיזירג רה לע חבזמ תמקהל תינורקעה
+<br /> <br /> <br /> <br /> <br /> <nobr> אל
+רשא השמ הוצ רשא לכמ רבד היה אל") ליעל האבוהש ,עשוהי לש ותודע אלמלא
+</nobr> <br /> <nobr> שחרתה
+המ םיעדוי ונייה אל ,(35 'ח עשוהי - "לארשי להק לכ דגנ עשוהי ארק </nobr> <br /> .םיזירג רה (דיל וא) לע תמאב <br /> <br /> <br /> <nobr> ךרוע ,הקדצ םימינב ידידי לא יתינפ ?ינורמושה ך"נתה חסונב ךכ לע רמאנ המ
+</nobr> <br /> <nobr> םוליצ יל ריבעה אוהו ,םינורמושה ידומילל ןוכמה שארו '.ב.א' ינורמושה ןואטבה
+</nobr> <br /> <nobr> םינבאה
+תא ומיקת ןדריה תא םכרבעב" :בותכ םש .וז השרפב ינורמושה טסקטה לש
+</nobr> <br /> <nobr> ינפל םש
+תלכאו ...חבזמ םש תינבו (.ה.ש - לביע רהב אלו) םיזירג רהב ...הלאה </nobr> <br /> ."ךיהלא 'ה <br /> <br /> <br /> <nobr> הרוזנצה ילב ,הנוכנה הסריגה תא אצמא שמוחה לש ינורמושה חסונבש ,יופצ היה
+</nobr> <br /> <nobr> אלא ,םינורמושה לא ללכ ןווכמ היה אל ארזע השעש ןוקיתה ירהש ,ארזע לש
+</nobr> <br /> <nobr> םלצאו
+םינורמושה לא ללכ עיגה אל ןכל .ץראב ובשיש םידוהיה לא - םדגנ אקווד
+</nobr> <br /> <nobr> יכ,םינורמושה
+יפלכ תואשנתהב ארזע םג גהנ םעהיגיהנמ ראשכ .ירוקמה חסונה ראשנ </nobr> <br /> ."שדוקה ערז"מ םניאש סרג <br /> <br /> <br /> <nobr> .ההימת ררוע רבדהו ,אלש היה הארנ ?ארזע לש ונוקית לע ונינומדק וביגה םאה
+</nobr> <br /> <nobr> תפוקת
+רחאל הנש 1500-כ ,(הריפסל 1040-1105) 11-ה האמב יח רשא ,לשמל ,י"שר
+</nobr> <br /> <nobr> השמ תארוה תא
+הניש ארזעש ללכ דשח אל אוה .יארקמה טסקטל ןומאב סחייתה ,ארזע </nobr> <br /> <nobr> השמ לש תירוקמה
+ותארוה ןיב הריתסה תא האר קפס ילב לבא .חבזמה תמקה רבדב </nobr> <br /> <nobr> רה לע םקוי חבזמהש
+,תעבוקה הארוהה ןיבל םיזירג רה לע חבזמה תמקה רבדב </nobr> <br /> <nobr> םידקה םעה ותעדל ?דציכ
+.הריתסה לע רשגל י"שר הסינ ושוריפב .לביע ,הללקה </nobr> <br /> <nobr> טפשמ ,לשמל .טסקטה לש וכופיהב
+ךא - הללק לש קוספ לכ ינפל הכרב לש טפשמ םנמא </nobr> <br /> <nobr> "ןמא ורמאו םעה לכ ונעו ...הכסמו לספ
+השעי רשא שיאה רורא" :ןושארה הללקה </nobr> <br /> ."הכסמו לספ השעי אל רשא שיאה
+ךורב" ורמא ןכ ינפלו - (15 ז"כ םירבד) <br /> <br /> <br /> <nobr> ירבדב
+רוקמה תא םאות וניא ושוריפש ינפמ ,ודובכמ הליחמב ,ןאכ העט י"שר לבא
+</nobr> <br /> <nobr> דיל ורמאנ
+םה .הללקה יקוספ ינפל ,הנושארבו תופיצרב ורמאנ הכרבה יקוספ .השמ </nobr> <br /> <nobr> ,הללקה יקוספ
+.הללקה רה ,לביע רהמ אלו ,השמ תארוהכ ,םיזירג רה ,הכרבה רה </nobr> <br /> <nobr> תשש ינזואל
+םיעיגמ ויה אל לביע רה דיל ,לוכיבכ ,רמאהל םירומא ויהש </nobr> <br /> <nobr> ךכו ,םה םג ועט
+(הריפסל 12-ה האמה) דרפס ימכח .םיזירג רה דיל ובצוהשםיטבשה </nobr> <br /> .י"שר תובקעב ושוריפב ךלהש ימ לכ <br /> <br /> <br /> <nobr> רה ,הללקה רה לע אקווד הנבנ חבזמהש החנהב ןויגה ןיא :ףסונ ישוק םג םייק
+</nobr> <br /> <nobr> יארקמה טסקטה תא דרפס ימכח םג ולביק ,י"שר ומכ .(5 ז"כ םירבד) לביע
+</nobr> <br /> <nobr> תוושהלו קודבל והשימ הסינ םא .ארזע תפוקת רחאל הנש 1700-כ תאזו ,ובתככ
+</nobr> <br /> <nobr> וניש םינורמושהש םירקוח םתוא וקיסה ןכל .לדבהב ןיחבה יאדו ,ינורמושה חסונל
+</nobr> <br /> <nobr> חסונב אקווד .יתוגשהב ליעל יתחכוהש יפכ ,תלפונ וז הנעט ךא .טסקטה תא
+</nobr> <br /> .ןוקיתה ךרענ ונילע לבוקמה
+<br /> <br /> <br /> <nobr> ורבחתנ) ןמזה תניחבמ ןה ,רתוי ונילא םיבורקה םישוריפ השולש םג יתקדב
+</nobr> <br /> <nobr> ודימלת יתייהש) וטוסאק רוספורפ .(לארשיב ורבחתנ) םוקמה תניחבמ ןהו (ונרודב
+</nobr> <br /> <nobr> אוה םג .1956-ב אציש ,ך"נתה ירפסל םיכרכ-בר שוריפ רביח (ארקמה רקחב
+</nobr> <br /> <nobr> רשפאש
+,ןייצמ אוה לביע רה לע חבזמה תשרפב .ארזע לש ונוקיתל ןומאב סחייתמ
+</nobr> <br /> <nobr> םכש דיל אוה
+רההש ועדי ירה םהרבא ימיב ךא .תרנכהמ ןדריה אצומ דיל אוה רההש </nobr> <br /> .(30 א"י םירבדו 6 ב"י תישארב) <br /> <br /> <br /> <nobr> לע חבזמה הנביי עודמ רבסה קפסמ אל ,1972-ב ספדנש ,שדחה ןודרוג שוריפ םג
+</nobr> <br /> <nobr> םירבד)
+הללקה רהו הכרבה רה תרדגהב רכזנ רבכ לביע רהש ,הרעה תלוז ,לביע רה
+</nobr> <br /> <nobr> יפל
+1987-ב ל"הצ ילייחל ספדנש ,ך"נת רפסב יוצמ ישילשה שוריפה .(29 א"י </nobr> <br /> <nobr> קחצי
+ןשלבה אוה ץעוי-רזועו) לאירא ןמלז המלש לש ושוריפב ,דרגנינל די-בתכ </nobr> <br /> <nobr> לביעו
+םיזירג ,םירהה ינש .'תונורחא תועידי' תרודהמ ,'ידע' תאצוה ,(ירניבא </nobr> <br /> <nobr> ןאכ םג
+יכ"נתה טסקטב ךא .םכש קמע ירבע ינשמ ןאכ םירדגומ ,(29 א"י םירבד) </nobr> <br /> <nobr> ןכל .הכרבה
+יקוספ 12 םמוקממ ורקענו (26-15 א"י םירבד) הללקה יקוספ 12 םנשי </nobr> <br /> <nobr> לכ רחאל) ןיגוריסל
+תוללקהו תוכרבה ורמאנ תרוסמה יפל" יכ ,הרעהב ןשרפה ןייצמ </nobr> <br /> <nobr> ,הכרבב וחתפו םיזירג
+רהל םהינפ םייוולה וכפה הליחת ,(הללק דימ הרמאנ הכרב </nobr> <br /> ."הללקב וחתפו לביע רהל םהינפ וכפה ךכ-רחאו <br /> <br /> <br /> <nobr> לע
+םיטבש 6 ביצהל הרוהשכ .סקטה עוציב לש וז הרוצל ללכ ןווכתה אל השמ םלוא
+</nobr> <br /> <nobr> רה לע
+םעה תא ךרבל ודמעי הלא" :תורורב םילמב עבק לביע רה לע 6-ו םיזירג רה </nobr> <br /> <nobr> ז"כ
+םירבד) "לביע רהב הללקה לע ודמעי הלאו ...ןדריה תא םכרבעב םיזירג </nobr> <br /> <nobr> רכזויש הצר
+אלש םושמ ,השמ לש ותארוה תא ףליס ארזע לש ונוקיתש ,אצמנ .(13-12 </nobr> <br /> <nobr> ןווכ אל
+ארזע לש ונוקיתש ,םינורמושה לצא קר .םיזירג רה לע םקוי חבזמש </nobr> <br /><nobr> .הכרבה רה
+אוהש ,םיזירג רה לע םקוי חבזמה ויפלש ,ירוקמה חסונה ראשנ ,םהילא </nobr> </font><eprint></td></tr>		
+<tr><td align="center" colspan="2"><br /><hr /> <table width="400" border="0" cellspacing="0" cellpadding="0">
+	<tr align="center">
+		<td width="100"><a href="#"><img src="/images/homepage/n_top.gif" width='24' height='22' border=0 alt=""><br />ףדה שארל</a></td>		
+		<td width="100"><a href="javascript:send_friend();"><img src="/images/homepage/n_send.gif" width='24' height='22' border=0 alt=""><br />רבחל חלש</a></td>
+		<td width="100"><a href="/cgi-bin/print.pl"><img src="/images/homepage/n_print.gif" width='24' height='22' border=0 alt=""><br />הספדה</a></td>		
+	</tr>
+</table> </td></tr>
+<tr><td></td></tr>
+<tr><td><script type='text/javascript'> var vnew='new'; document.write('<a href='http://www.maariv.co.il/banner/owa/openlink1?vnum=''+start+'&vpage=283&bid=846 target='New'><img src='http://images.maariv.co.il/images/banners3/study2_460x30.gif?vnum=''+start+'&vpage=283&bid=846 WIDth='460' HEIGHT='30' BORDER=0 ALIGN=bottom></a>'); </script></td></tr>
+</table>														
+<!--END ARTICLES -->
+</td></tr>
+</table>
+</td>
+<td valign="top" align="right" width="150">
+<table width="150" cellspacing="0" cellpadding="0" border="0">
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td><script type='text/javascript'>
+var pix;
+function R(pstring,pnew,plink,ppixel){
+if (ppixel==1)
+pix="new_pixel.gif" ;
+else if (ppixel==2)
+pix="new_pixel2.gif" ;
+else if (ppixel==3)
+pix="new_pixel3.gif" ;
+else if (ppixel==4)
+pix="new_pixel4.gif" ;
+else if (ppixel==5)
+pix="new_pixel5.gif" ;
+else if (ppixel==6)
+pix="new_pixel6.gif" ;
+if (pnew=="y")
+{document.write("<tr><td height='21' align=right><img src='/images/open/todaybut.gif' border='0'>&nbsp;<a href ="+plink+">"+pstring+"</a>&nbsp;</td></tr>"+"<tr><td><img src='/images/homepage/"+pix+"' width='150' height='2' border=0></td></tr>");}
+else
+{document.write("<tr><td height='21' align=right><a href ="+plink+">"+pstring+"</a>&nbsp;</td></tr>"+"<tr><td><img src='/images/homepage/"+pix+"' width='150' height='2' border=0></td></tr>");}
+}
+</script><table width="150" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffb317">
+<tr>
+<td height="24" align="right" bgcolor="#5a5a58" id="mivzakim">הילאוטקא&nbsp;</td>
+</tr><script type='text/javascript'>R("תושדח","n","NP_1.html",1);</script><script type='text/javascript'>R("טרופס","n","NP_2.html",1);</script><script type='text/javascript'>R("םיקסע","n","NP_5.html",1);</script> </table>
+<!--end actuality table-->																					
+</td>									
+</tr>
+<tr>									
+<td>
+<!--week end table-->
+<table width="150" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffca5b">
+<tr>
+<td height="24" align="right" bgcolor="#5a5a58" id="mivzakim">עובש ףוס יפסומ&nbsp;</td><script type='text/javascript'>R("תורפס","n","NP_20.html",2);</script></tr>
+												</table>
+											<!--end weekend table-->																					
+									</td>									
+							</tr>
+							<tr>									
+									<td>
+											<!--weeklies table-->
+												<table width="150" cellspacing="0" cellpadding="0" border="0" bgcolor="#fcd581">
+													<tr>
+															<td height="24" align="right" bgcolor="#5a5a58" id="mivzakim">םייעובש םיפסומ&nbsp;</td><script type='text/javascript'>R("גח ףסומ","n","NP_32.html",3);</script><script type='text/javascript'>R("םיקסע ןיזגמ","n","NP_18.html",3);</script></table></td></tr>
+<tr><td></td></tr>
+</table>		
+<!--END NEWPAPER table-->
+</td></tr>	
+</table>
+<!--END BOTTOM table-->
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#999999"><img src="/images/homepage/pixel.gif" width="610" height="1" border="0" alt=""></td></tr>
+</table>
+<table width="610" cellpadding="0" cellspacing="0" border="0">
+</table><br /><br />
+</div>
+</body>
+</html>
+<div dir='rtl' lang='he'>
+<p><a href='http://images.maariv.co.il/cache/cachearchive/22042003/ART467779.html'>הגרסה המקורית</a>
+<p><a href='siluf_erel.html'>תגובות</a>
+</div>
