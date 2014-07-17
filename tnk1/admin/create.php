@@ -62,6 +62,34 @@ function show_create_page() {
 }
 
 
+function update_create_page() {
+	print "
+## New database creation
+
+";
+
+	print "* create_database_and_user();
+";	create_database_and_user();
+
+	print "* create_db_connect_params();
+";	create_db_connect_params();
+
+	print "* require('db_connect.php');
+";	require(dirname(__FILE__) . "/db_connect.php");
+
+	print "* create_database_tables();
+";	create_database_tables();
+
+	print "
+
+## Done!
+
+Go to the main page: http://localhost/tnk1/
+
+";
+}
+
+
 function create_database_and_user() {
 	$link = sql_connect(
 		$_POST['db_host'],
@@ -116,8 +144,10 @@ or die ("Can't create db_connect_params");
 }
 
 function create_database_tables() {
-	$configuration_tables = array("findpsuq", "sfrim", "prqim", "psuqim_niqud_milim");
-	foreach ($configuration_tables as $table)
-		restore_table($table);	
+	require_once("tables.php");
+	foreach (array_keys($GLOBALS['USER_TABLES']) as $table)
+		restore_table($table);
+	foreach (array_keys($GLOBALS['CONFIGURATION_TABLES']) as $table)
+		restore_table($table);
 }
 ?>
