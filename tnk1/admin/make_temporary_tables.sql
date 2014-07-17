@@ -845,7 +845,7 @@ SELECT
 	"" AS ktovt, 
 	"" AS m, 
 	"" AS l
-FROM qjr_tnk1_psuq;
+FROM tnk.qjr_tnk1_psuq;
 
 
 DROP TABLE IF EXISTS qjrim_prqim_mcwot;
@@ -1146,7 +1146,7 @@ SELECT
 	CONCAT(CONVERT(sfrim.kotrt USING utf8), " ", kotrot.prq0, kotrot.psuq0) AS kotrt, 
 	"פרשה_בתנך" AS sug, 
 	CONCAT("prqim/t", sfrim.qod_mamre, prqim.qod_mlbim, ".htm#", kotrot.psuq0) AS ktovt
-FROM qjr_tnk1_psuq AS kotrot, tnk.sfrim AS sfrim, tnk.prqim AS prqim
+FROM tnk.qjr_tnk1_psuq AS kotrot, tnk.sfrim AS sfrim, tnk.prqim AS prqim
 WHERE kotrot.sfr=sfrim.qod And kotrot.prq0=prqim.kotrt;
 
 
