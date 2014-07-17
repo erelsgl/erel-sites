@@ -16,17 +16,11 @@ if (0) { // news feed too slow
 	$news_content = ""; 
 }
 
-$fileroot = $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/..");
-$SCRIPT = $GLOBALS['SCRIPT'] = "$fileroot/_script";
-
-require_once("$SCRIPT/prjot_1255.php");
-sql_set_charset('hebrew');
-$prjot_content = prjot(0,0);
-$prjot_content = "<replaceContent select=\"#whatsnew_prjot\">$prjot_content</replaceContent>";
+set_include_path(realpath(dirname(__FILE__) . "/../_script") . PATH_SEPARATOR . get_include_path());
 
 // http://tora.us.fm/tnk1/display.php?site=tnk1&file=board
 require('admin/db_connect.php');
-require_once('display.php');
+require_once('./display.php');
 sql_set_charset('hebrew');
 
 $forum_title = "תוספות אחרונות" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / הוספת מאמר</a>";
@@ -50,10 +44,9 @@ $forum_content = "
 ";
 
 
-require_once(dirname(__FILE__).'/../_script/taconite.php');
+require_once("taconite.php");  
 $HTML_ENCODING = 'windows-1255';
 print jquery_taconite_header($HTML_ENCODING)."
-$prjot_content
 $news_content
 $forum_content
 ".jquery_taconite_footer();
