@@ -21,7 +21,7 @@ error_reporting(E_ALL);
 require_once dirname(__FILE__).'/db/db.php'; // Database interface
 
 require_once dirname(__FILE__).'/pre_config.php';  // Make Sure varialbes are ready for config.php
-require_once 'config.php'; // Initializes db link & $table get parameter.
+if (empty($cfg_db_host)) require_once 'config.php'; // Initializes db link & $table get parameter.
 require_once dirname(__FILE__).'/post_config.php'; // Set $hide_table.
                         
 require_once dirname(__FILE__).'/../forms.php'; // Erel: use local forms
