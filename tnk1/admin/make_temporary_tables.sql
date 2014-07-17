@@ -568,10 +568,10 @@ INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_milon_hgdrot;
 INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_trgumim;
 INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_mamrim_mcwot;
 
-INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_sfrim_prjot;
-INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_prjot_prqim_rijonim;
-INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_prjot_prqim_emcaiim;
-INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_prjot_prqim_axronim;
+INSERT IGNORE INTO QLT_qjrim SELECT * FROM tnk.qjrim_sfrim_prjot;
+INSERT IGNORE INTO QLT_qjrim SELECT * FROM tnk.qjrim_prjot_prqim_rijonim;
+INSERT IGNORE INTO QLT_qjrim SELECT * FROM tnk.qjrim_prjot_prqim_emcaiim;
+INSERT IGNORE INTO QLT_qjrim SELECT * FROM tnk.qjrim_prjot_prqim_axronim;
 
 INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_sfrim_zmnim;
 INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_zmnim_prqim;
