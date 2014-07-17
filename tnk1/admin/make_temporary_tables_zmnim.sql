@@ -14,7 +14,7 @@ SELECT DISTINCT
 	'#' as ktovt,
 	"" as m,
 	"" as l
-FROM qjr_sfr_zmn, sfrim
+FROM qjr_sfr_zmn, tnk.sfrim AS sfrim
 WHERE qjr_sfr_zmn.sfr = sfrim.qod
 ;
 
