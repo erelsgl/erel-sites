@@ -1,0 +1,43 @@
+
+SELECT CONCAT(
+'##### מצוה:',jm,'<br/>',
+'{{דף מצוה','<br/>',
+'|ספר=',sfr,'<br/>',
+'|פרק=',prq,'<br/>',
+'|פסוק=',number2hebrew(psuq0),'<br/>',
+'|עד פסוק=',number2hebrew(IF(psuq1=0 OR psuq1=psuq0,'',psuq1)),'<br/>',
+'|מקור נוסף-ספר=','<br/>',
+'|מקור נוסף-פרק=','<br/>',
+'|מקור נוסף-פסוק=','<br/>',
+'|מקור נוסף-עד פסוק=','<br/>',
+'|עשה/לאו=',IF(ase,'עשה','לאו'),'<br/>',
+'|המצוה=',jm,'<br/>',
+'|בספר החינוך=',IF(mspr_xinuk between 1 and 613,number2hebrew(mspr_xinuk),"אין"),'<br/>',
+'|בספר המצוות=',IF(rmbm_mspr between 1 and 613,number2hebrew(rmbm_mspr),"אין"),'<br/>',
+'|ברמבן=',IF(rmbn=999,"אין",IF(rmbn between 1 and 613,number2hebrew(rmbn),"")),'<br/>',
+'|בסמג=',IF(smg=999,"אין", IF(smg between 1 and 613,number2hebrew(smg),"")),'<br/>',
+'|ביד חזקה הלכות=',rmbm_hlkot,'<br/>',
+'|ביד חזקה פרק=',rmbm_prq,'<br/>',
+'|בתלמוד מסכת=',tlmud_mskt,'<br/>',
+'|בתלמוד פרק=',tlmud_prq,'<br/>',
+'|קבוצה=',qvuca,'<br/>',
+'|תדירות=',tdirut,'<br/>',
+'|רצון=',rcon,'<br/>',
+'|זמן או ארוע=',erua,'<br/>',
+'|עצם או אדם=',ecm,'<br/>',
+'|חייב במצוה=',xyvim,'<br/>',
+'|תקופת חיוב=',zmn_xyuv,'<br/>',
+'|מקום חיוב=',mqom_xyuv,'<br/>',
+'|עונש מזיד=',onj_mzid,'<br/>',
+'|עונש שוגג=',onj_jogg,'<br/>',
+'}}',
+"<br/>",
+"{{הוסב מאתר הניווט בתנך",
+"|http://tora.us.fm/tryg/mcwa/",ktovt,
+".html}}",
+"<br/>",
+'ENDOFFILE') AS ``
+
+FROM prt_mcwa_im_ktovt
+INNER JOIN qjr_psuq_mcwa ON(mspr_xinuk=av AND tt_mspr_xinuk=av2)
+GROUP BY av,av2

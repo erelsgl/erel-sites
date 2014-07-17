@@ -149,5 +149,9 @@ function create_database_tables() {
 		restore_table($table);
 	foreach (array_keys($GLOBALS['CONFIGURATION_TABLES']) as $table)
 		restore_table($table);
+	
+	sql_queries_or_die(file_get_contents(dirname(__FILE__)."/make_temporary_tables_zmnim.sql"));
+	sql_queries_or_die(file_get_contents(dirname(__FILE__)."/make_temporary_tables_girsaot.sql"));
+	sql_queries_or_die(file_get_contents(dirname(__FILE__)."/make_temporary_tables.sql"));
 }
 ?>
