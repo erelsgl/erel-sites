@@ -16,3 +16,7 @@ CREATE TABLE `qjr_psuq_tnk1` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_psuq_tnk1.txt'  INTO TABLE qjr_psuq_tnk1 (bn,sfr,prq0,psuq0,psuq1,kotrt,sug,sdr_bn,tarik_hosfa);
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'היה זהיר כשהשלטון מקרב אותך לשולחנו', `tarik_hosfa` = '2014-07-18 14:35:28' WHERE `bn` = 'ביאור:משלי כג1' AND `sfr` = 'משל' AND `prq0` = 'כג' AND `psuq0` = 1 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
