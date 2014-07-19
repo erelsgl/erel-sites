@@ -161,7 +161,7 @@ tnk1/ktuv/mjly/mj-08-0609.html	2	2010-07-11 07:31:34
 tnk1/ktuv/mjly/mj-08-0809.html	0	2010-07-12 15:27:46
 tnk1/messages/prqim_t2728_3.html	24	2014-03-28 05:46:53
 tnk1/messages/prqim_t0103_4.html	0	2011-10-30 05:19:58
-tnk1/messages/ljon_jorj_nzr1_0.html	4	2014-06-23 10:43:09
+tnk1/messages/ljon_jorj_nzr1_0.html	5	2014-07-18 12:34:24
 tnk1/tora/dvrim/ptixa.html	1	2010-07-14 07:56:00
 tnk1/messages/prqim_t1123_3.html	1	2010-07-14 08:14:25
 tnk1/messages/prqim_t0106_9.html	1	2010-07-14 13:10:06
@@ -334,7 +334,7 @@ tnk1/ktuv/mgilot/qh-02-18.html	4	2013-01-23 21:23:43
 tnk1/kma/qjrim1/jlij.html	1	2010-12-15 08:42:03
 tnk1/nvia/yjayhu/yj-33-22.html	1	2010-12-15 13:05:01
 tnk1/messages/forums_65.html	0	2010-12-16 19:22:26
-tnk1/nvia/tryasr/tov.html	0	2010-12-16 19:25:01
+tnk1/nvia/tryasr/tov.html	1	2014-07-15 12:43:21
 tnk1/tora/brejit/br-34-30.html	4	2010-12-19 14:21:33
 tnk1/tora/dvrim/smx.html	2	2010-12-19 10:59:29
 tnk1/tora/jmot/jm-03-14.html	4	2012-05-19 22:50:27
@@ -398,7 +398,7 @@ tnk1/messages/forums_242.html	0	2011-02-06 04:31:43
 tnk1/messages/prqim_t26a4_2.html	0	2012-02-07 01:27:48
 tnk1/messages/prqim_t08b22_1.html	0	2011-02-07 21:33:48
 tnk1/messages/prqim_t0618_0.html	1	2011-09-25 05:00:26
-tnk1/ljon/jorj/index.html	12	2014-07-08 15:12:25
+tnk1/ljon/jorj/index.html	14	2014-07-17 09:07:21
 tnk1/messages/ljon_jorj_nel2_0.html	1	2011-02-16 22:41:42
 tnk1/messages/prqim_t08b06_1.html	2	2011-02-09 09:05:56
 tnk1/messages/prqim_t0121_4.html	3	2011-02-14 02:07:37
@@ -1145,7 +1145,7 @@ tnk1/messages/sofrim_shabot_briaa_47.html	2	2013-02-02 18:03:52
 tnk1/nvir/joftim/mlxmt_gvaa_2.html	1	2013-02-02 22:12:01
 tnk1/ktuv/mjly/mj-12-25.html	7	2013-02-03 10:30:36
 tnk1/sofrim/zuckm/jofr.html	1	2013-02-06 20:58:59
-tnk1/messages/prqim_t2821_2.html	1	2014-07-10 05:08:36
+tnk1/messages/prqim_t2821_2.html	2	2014-07-12 22:00:20
 tnk1/nvir/joftim/imo.html	1	2013-02-05 02:42:01
 tnk1/messages/prqim_t0210_2.html	0	2013-02-06 09:49:53
 tnk1/ktuv/mjly/mj-26-11.html	2	2013-02-07 08:01:10
@@ -1665,4 +1665,6 @@ tnk1/tora/jmita.html	2	2014-07-06 23:05:07
 tnk1/nvia/yjayhu/yj-33-06.html	1	2014-07-07 20:16:01
 tnk1/nvir/jmuela/ja=-22-0608.html	2	2014-07-09 02:10:22
 tnk1/messages/dmut_dmut_528_0.html	1	2014-07-09 03:18:05
-tnk1/tora/brejit/br-31-53.html	2	2014-07-09 04:22:16
+tnk1/tora/brejit/br-31-53.html	2	2014-07-12 23:18:38
+tnk1/messages/prqim_t0510_0.html	1	2014-07-13 15:52:39
+tnk1/tora/bmdbr/bm-31-04.html	1	2014-07-17 21:00:21
