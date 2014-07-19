@@ -5,10 +5,7 @@ Redirect Permanent /tnk1/daian http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%
 Redirect Permanent /tnk1/daian1 http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
 
 RewriteRule ^xidon(.*)$ http://ipaper.co.il/cgi-bin/v.cgi?id=nachat&sp=3 [R]
-RewriteRule ^prq$ /tnk1/prqim/t0.htm [R]
 RewriteRule ^tnk1/find(.*)$ /tnk/find$1 [R]
-RewriteRule ^tnk1/(.*)$ /tnk1/$1 [R]
-RewriteRule ^ljon/dqduq_h([a-z]+).html$ /tnk1/ljon/dq/$1.html [R]
 
 Redirect Permanent /_script/findpsuq.php http://tora.us.fm/tnk/find.php
 Redirect Permanent /_script/find.php http://tora.us.fm/tnk/find.php
