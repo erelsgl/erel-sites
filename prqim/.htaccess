@@ -1,1 +1,2 @@
+RewriteEngine on
 RewriteRule ^(.*)$ /tnk1/prqim/$1 [R]
