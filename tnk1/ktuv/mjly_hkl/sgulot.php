@@ -2,7 +2,7 @@
 <?php
 require_once("../../../_script/hebrew_utf8.php");
 global $TABLEEDITOR;
-$TABLEEDITOR = "../../admin/tableeditor.php";
+$TABLEEDITOR = "/admin/tableeditor-tnk1.php";
 
 function qijur_lpsuq($chapter_number, $psuq, $limit) {
 	global $TABLEEDITOR;
