@@ -78,3 +78,95 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי כג24', 'משל', 'כג', 24, 24, 'כל אב של בן צדיק יגיל (ישמח) בצדקתו של בנו, וכל הורה שהוליד בן חכם ישמח בו -', 'תרגום', 10, '2014-07-18 16:05:57');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד2', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד1' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 2 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג19' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד4', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד3' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 4 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד6', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד5' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 6 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'דוד לעומת שלמה - תהלים לעומת משלי' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג15' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד16', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד15' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 16 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ישעיהו ט9' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = '@קטע', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד18' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 17 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = '- כי ה\' יראה את הגיל שבליבך, ויהיה רע בעיניו שאתה מתלהב כשיש צער וסבל בעולם;   ועוד, השמחה שלך תשפיל את האויב ותגדיל את צערו, ותגרום לכך שה\' ישיב מעליו את אפו (כעסו) ויקל בעונשו.', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד18' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 18 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד20', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד19' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 20 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = '@קטע', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד21' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 21 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד22', `kotrt` = '- כי מלכים עלולים ליפול באופן פתאומי - פתאום עלול לקום עליהם איד (אסון), כגון מרד או הפיכה, ואז, מי יודע איזה פיד (אסון) יבוא על אותם שונים שהיו נאמנים למלך הקודם?', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד21' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 22 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד24', `kotrt` = 'האומר לרשע שהוא צדיק נפגע מקללת הציבור', `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד25' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 24 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד27' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 27 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד28' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 28 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כד29', `sdr_bn` = 10, `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד28' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 29 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2014-07-19 18:35:47' WHERE `bn` = 'ביאור:משלי כד30' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 30 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כד27' AND `sfr` = 'משל' AND `prq0` = 'כד' AND `psuq0` = 30 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי כד17', 'משל', 'כד', 17, 17, ' אל תפגין שמחה בזמן שאויבך נופל ומתבייש;   ואל תגיל (תתלהב) גם בתוך ליבך בזמן שאויבך נכשל וסובל -', 'תרגום', 10, '2014-07-19 18:35:47');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי כד31', 'משל', 'כד', 31, 31, '- והנה, כל השדה היה מלא בקמשונים (קוצים),  פני השדה היו מכוסים בחרולים (עשבים שוטים), וגם גדר האבנים של השדה נהרסה -', 'תרגום', 10, '2014-07-19 19:11:34');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי כד32', 'משל', 'כד', 32, 32, ' ואחזה (ראיתי בחזון נבואי את משמעות המראה), אנוכי אשית ליבי, ראיתי, לקחתי מוסר (הפקתי לקחים מהצרה שבאה עליו) -', 'תרגום', 10, '2014-07-19 19:12:05');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי כד33', 'משל', 'כד', 33, 33, 'אם תרשה לעצמך לישון אפילו מעט יותר מדי, לנמנם אפילו מעט יותר מדי, ולשכב בחיבוק ידיים אפילו מעט יותר מדי -  ', 'תרגום', 10, '2014-07-19 19:12:24');
+

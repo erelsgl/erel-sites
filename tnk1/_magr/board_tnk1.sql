@@ -104,3 +104,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-19 19:50:15'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 00:18:34'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-28-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 04:10:24'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-28-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 05:17:16'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-28-12.html'
+		;
+
