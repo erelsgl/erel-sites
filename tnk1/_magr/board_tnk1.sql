@@ -136,3 +136,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-28-12.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:41:19'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:41:50'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:43:12'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:44:54'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:45:50'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:47:26'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:47:52'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-20 12:48:29'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/eivrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-21 07:03:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
