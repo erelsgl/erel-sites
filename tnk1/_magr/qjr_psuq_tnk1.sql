@@ -322,3 +322,59 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כו5', `tarik_hosfa` = '2014-07-21 03:24:32' WHERE `bn` = 'ביאור:משלי כו4' AND `sfr` = 'משל' AND `prq0` = 'כו' AND `psuq0` = 5 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ירמיהו ט22' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 2 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בן חכם בספר משלי' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 11 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כז12', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כב3' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 12 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כז13', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כ16' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 13 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כז14' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 14 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = '- לשמור על אשת מדיינים זה כמו לשמור על הבל ורוח - אי אפשר לבנות בית בעל-ערך עם מריבות בלתי פוסקות', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כז16' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 16 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sfr` = 'מש ל', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'כמים הפנים לפנים - עבודה זוגית' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'השתקפות הנשמה בעצמה אצל אפלטון', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'אפלטון והתנ\"ך: מקור הדעת; דעת הנשמה' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אינטליגנציה רגשית, סוג האיפוק - בראי הפסיכולוגיה' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'בקש להבין תחילה... ואחר-כך להיות מובן', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = '\"שבעת ההרגלים של אנשים אפקטיביים במיוחד\" מול התנ\"ך' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ל16' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 20 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:דברים ד20' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 21 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כז24', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כז23' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 24 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כז27', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כז26' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 27 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
