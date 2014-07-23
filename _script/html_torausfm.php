@@ -18,6 +18,7 @@ $HIDDEN_FIELDNAMES = array(
 	);
 
 function html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root_to_document, $path_from_document_to_root, $path_from_document_to_site, $mxbr, $nman, $niwut) {
+	print "<p>html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root_to_document, $path_from_document_to_root, $path_from_document_to_site, $mxbr, $nman, $niwut)</p>\n";
 	global $HTML_ENCODING, $HIDDEN_FIELDNAMES;
 
 	$mxbr_meta = htmlspecialchars($mxbr);
