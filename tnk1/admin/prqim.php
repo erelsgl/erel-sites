@@ -158,7 +158,9 @@ function tokn_prq($qod_sfr, $kotrt_sfr, $kotrt_prq) {
 
 		if (preg_match("|/p|i",$aftertext)) 
 			$sofCitut = "</p><p>";
-
+		if (preg_match("|br|i",$aftertext))
+			$sofCitut = "<br/>";
+		
 		$tokn .= "<script type='text/javascript'>ktov_kotrot('$psuq:')</script>\n";
 		$tokn .= "<b id='$psuq'>" . $psuq . "</b> $tqstCitut\n";
 		$tokn .= "<script type='text/javascript'>ktov_bnim('$psuq:')</script>\n";
