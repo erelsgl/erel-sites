@@ -583,8 +583,8 @@ sgulot	tosfot	InputType	long_text
 sgulot	verse_number	Attributes	size='3'
 sgulot	verse_number	Default	0
 sgulot	verse_number	InputType	short_text
-sgulot	verse_text	Attributes	size='20'
-sgulot	verse_text	InputType	short_text
+sgulot	verse_text	Attributes	size='20' dir='rtl'
+sgulot	verse_text	InputType	long_text
 shalomlaam		Setup Done	1
 shalomlaam	global	Attributes	size='40'
 shalomlaam	global	InputType	short_text
