@@ -1,5 +1,5 @@
 <?php
-/** χιγεγ ημεπεϊ
+/** Χ§Χ™Χ“Χ•Χ“ Χ—ΧΧ•Χ Χ•Χª
  * @file index_ajax.php - loaded from index.html using jquery ajax
  * @author Erel Segal http://tora.us.fm
  * @date 2009-08-30
@@ -14,13 +14,13 @@ require_once('./display.php');
 
 require_once("html.php");
 require_once("taconite.php");
-$HTML_ENCODING = 'windows-1255';
+$HTML_ENCODING = 'utf-8';
 $HTML_DIRECTION = 'rtl';
 $HTML_LANGUAGE = 'he';
 
-sql_set_charset('hebrew');
+sql_set_charset('utf8');
 
-$forum_title = "ϊερτεϊ ΰηψεπεϊ" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / δερτϊ ξΰξψ</a>";
+$forum_title = "ΧªΧ•Χ΅Χ¤Χ•Χª ΧΧ—Χ¨Χ•Χ Χ•Χª" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / Χ”Χ•Χ΅Χ¤Χª ΧΧΧΧ¨</a>";
 $site = 'tnk1';
 $file = 'board';
 $linkroot = '';
@@ -35,9 +35,11 @@ $sort_by_last_update_time = 1;
 $query_string = preg_replace("/split=..../","",$_SERVER['QUERY_STRING']);
 
 print 
-//xhtml_header("δεγςεϊ ΰηψεπεϊ").
-"<h2>$forum_title</h2>".
+xhtml_header("Χ”Χ•Χ“ΧΆΧ•Χª ΧΧ—Χ¨Χ•Χ Χ•Χª").
+"<div id='content'>
+<h2>$forum_title</h2>".
 forum_topics()
-//.xhtml_footer()
+."</div>"
+.xhtml_footer()
 ;
 ?>

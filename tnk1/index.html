@@ -432,7 +432,7 @@
 
 <div class='news'>
 <div>
-<h1>היום יום רביעי, עשרים וחמישה לחודש הרביעי <small>(תמוז)</small></h1>
+<h1> רביעי, עשרים וחמישה לחודש הרביעי <small>(תמוז)</small></h1>
 		
 			<p class='more'>(<a href='/tnk/prjot_1255.php?format=html&amp;from_day=-7&amp;to_day=7'>עוד תאריכים</a>)</p>
 </div>
@@ -504,13 +504,10 @@
 
 	$("a.dor1").hoverIntent(config);
 
-	$.ajaxSetup({
-	    'beforeSend' : function(xhr) {
-	        xhr.overrideMimeType('text/html; charset=ISO-8859-8');
-	    },
-	});	
-	$("#whatsnew_prjot").load('/tnk/prjot_ajax.php?format=html&time=' + new Date().getTime());
-	$("#whatsnew").load('/tnk1/display_html.php');
+	$.ajaxSetup({'beforeSend' : function(xhr) { xhr.overrideMimeType('text/html; charset=ISO-8859-8'); },});	
+	$("#whatsnew_prjot").load('/tnk/prjot_1255.php?time=' + new Date().getTime()+" #content");
+	$.ajaxSetup({'beforeSend' : function(xhr) { xhr.overrideMimeType('text/html; charset=UTF-8'); },});	
+	$("#whatsnew").load("/tnk1/display_html.php #content");
 
 	$(".dor2").hide();
 	$("#whatsnew_anchor").siblings().show();

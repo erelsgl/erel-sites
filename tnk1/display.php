@@ -6,10 +6,10 @@ $GLOBALS['no_cache']="?no_cache=".time();
 require_once(dirname(__FILE__)."/../_script/hebrew.php");
 
 /**
- * χιγεγ ημεπεϊ
+ * Χ§Χ™Χ“Χ•Χ“ Χ—ΧΧ•Χ Χ•Χª
 	@file display.php
 	a utility to display the main forum page
-	δφβϊ δπεωΰιν δΰηψεπιν ωδϊςγλπε αΰϊψ
+	Χ”Χ¦Χ’Χª Χ”Χ Χ•Χ©ΧΧ™Χ Χ”ΧΧ—Χ¨Χ•Χ Χ™Χ Χ©Χ”ΧªΧΆΧ“Χ›Χ Χ• Χ‘ΧΧªΧ¨
 
 	SYNTAX: 
 	display.php?
@@ -34,7 +34,7 @@ function days_before_now($days) {
 
 function full_topic($topic_row) {
 	global $select_from_clause, $target;
-	if (preg_match("/ΰερσ/",$topic_row['sug']))
+	if (preg_match("/ΧΧ•Χ΅Χ£/",$topic_row['sug']))
 		return;
 
 	$topic_id = $topic_row['ktovt_bn'];
@@ -57,9 +57,9 @@ function full_topic($topic_row) {
 		";
 
 	$link_text = $topic_row['kotrt_hebrew'];
-	$link_text = htmlspecialchars_hebrew(preg_replace("/ξΰξψ ηγω ςμ: /", "", $link_text));
-	if (preg_match("/ςμ:/",$link_text))
-		$link_text = "ϊβεαδ";
+	$link_text = htmlspecialchars_hebrew(preg_replace("/ΧΧΧΧ¨ Χ—Χ“Χ© ΧΆΧ: /", "", $link_text));
+	if (preg_match("/ΧΆΧ:/",$link_text))
+		$link_text = "ΧªΧ’Χ•Χ‘Χ”";
 
 
 	return "
@@ -104,7 +104,7 @@ function short_topic($topic_row) {
 	if (strpos($topic_id,"http://")!==false || strpos($topic_id,"axrimpl")!==false)
 		return "";
 
-	if (preg_match("/ΰερσ/",$topic_row['sug']) or preg_match("/^ρτψ/",$topic_row['sug']) or preg_match("/γξεϊ/",$topic_row['sug'])) {   // don't print collections as short topics
+	if (preg_match("/ΧΧ•Χ΅Χ£/",$topic_row['sug']) or preg_match("/^Χ΅Χ¤Χ¨/",$topic_row['sug']) or preg_match("/Χ“ΧΧ•Χª/",$topic_row['sug'])) {   // don't print collections as short topics
 		$children_html = '';
 		$children_result = sql_query_or_die("
 			$select_from_clause
@@ -115,10 +115,10 @@ function short_topic($topic_row) {
 			$children_html .= short_topic($child_data);
 		return $children_html;
 	} else {
-		$kotrt = preg_replace("/ωιψ ξΰϊ: ΰδεαδ χμιιο \\(c\\)/","ωιψ",$topic_row['kotrt_hebrew']);
+		$kotrt = preg_replace("/Χ©Χ™Χ¨ ΧΧΧª: ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ \\(c\\)/","Χ©Χ™Χ¨",$topic_row['kotrt_hebrew']);
 		$kotrt_encoded = htmlspecialchars_hebrew($kotrt);
 		$mxbr_encoded = htmlspecialchars_hebrew($topic_row['m']);
-		if (preg_match("/ΰδεαδ/",$mxbr_encoded))
+		if (preg_match("/ΧΧ”Χ•Χ‘Χ”/",$mxbr_encoded))
 			$mxbr_encoded .= " &#169;";
 		$ktovt_encoded = "/".htmlspecialchars_hebrew($topic_row['ktovt_bn']);
 		if (is_image($ktovt_encoded)) {
@@ -142,20 +142,20 @@ function short_topic($topic_row) {
 								sprintf("%2.2d", $lut/60/60/24))))));
 		$lut_units = (
 			$lut <= 0?           "": (
-			$lut < 60?           "ωπ": (
-			$lut < 60 * 60?      "γχ": (
-			$lut < 60 * 60 * 24? "ως": (
-								"ιξ" )))));
+			$lut < 60?           "Χ©Χ ": (
+			$lut < 60 * 60?      "Χ“Χ§": (
+			$lut < 60 * 60 * 24? "Χ©ΧΆ": (
+								"Χ™Χ" )))));
 		$lut_string = "$lut_number $lut_units";
 	
 		if ($show_start_of_file && $lut_string)
 			if ($tguvot_count)
-				$result .= " [$tguvot_count ϊβεαεϊ, δΰηψεπδ μτπι $lut_string]";
+				$result .= " [$tguvot_count ΧªΧ’Χ•Χ‘Χ•Χª, Χ”ΧΧ—Χ¨Χ•Χ Χ” ΧΧ¤Χ Χ™ $lut_string]";
 			else
-				$result .= " [ϊβεαδ ΰηψεπδ μτπι $lut_string]";
+				$result .= " [ΧªΧ’Χ•Χ‘Χ” ΧΧ—Χ¨Χ•Χ Χ” ΧΧ¤Χ Χ™ $lut_string]";
 		else
 			if ($tguvot_count)
-				$result .= " [$tguvot_count ϊβ, $lut_string]";
+				$result .= " [$tguvot_count ΧªΧ’, $lut_string]";
 			else
 				$result .= " [$lut_string]";
 	
@@ -199,7 +199,7 @@ function forum_topics() {
 	if ($file==='whatsnew') {
 		$where_clause = (
 			$site==='all'? "1": 
-			"path_from_root_to_file like '$site/%' AND actor<>'ΰψΰμ' AND action<>'add reply link'");
+			"path_from_root_to_file like '$site/%' AND actor<>'ΧΧ¨ΧΧ' AND action<>'add reply link'");
 		$results = sql_query_or_die("
 			SELECT path_from_root_to_file, action, actor, title,
 				date_add(updated_at, interval $LOCAL_TIME_MINUS_SERVER_TIME_IN_HOURS hour) AS updated_at
@@ -308,7 +308,7 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 	$DEFAULT_LANGUAGE_CODE = 'he';
 	
 	if (!empty($_GET['tnk1_index'])) {
-		$forum_title = "ϊερτεϊ ΰηψεπεϊ" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / δερτϊ ξΰξψ</a>";
+		$forum_title = "ΧªΧ•Χ΅Χ¤Χ•Χª ΧΧ—Χ¨Χ•Χ Χ•Χª" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / Χ”Χ•Χ΅Χ¤Χª ΧΧΧΧ¨</a>";
 		$site = 'tnk1';
 		$file = 'board';
 		$linkroot = '';
@@ -397,7 +397,7 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 
 
 	// Print title and opening tag:
-	$title = static_text($file) ." <a href='../tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / δερτϊ ξΰξψ</a>";
+	$title = static_text($file) ." <a href='../tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / Χ”Χ•Χ΅Χ¤Χª ΧΧΧΧ¨</a>";
 	if ($format==='taconite') {
 		require_once('../_script/taconite.php');
 		print jquery_taconite_header($HTML_ENCODING);
@@ -420,8 +420,8 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 		if ($file==='board' && !$show_start_of_file) {
 			print callback_anchor(
 				"sort=1&site=$site&file=$file&split=cols&showstart=1",
-				"ϊφεβδ ξγεψβϊ", 
-				"title='μηφε λΰο λγι μψΰεϊ ΰϊ λμ δϊερτεϊ εδϊβεαεϊ αφεψϊ ςυ'") . "\n";
+				"ΧªΧ¦Χ•Χ’Χ” ΧΧ“Χ•Χ¨Χ’Χª", 
+				"title='ΧΧ—Χ¦Χ• Χ›ΧΧ Χ›Χ“Χ™ ΧΧ¨ΧΧ•Χª ΧΧª Χ›Χ Χ”ΧªΧ•Χ΅Χ¤Χ•Χª Χ•Χ”ΧªΧ’Χ•Χ‘Χ•Χª Χ‘Χ¦Χ•Χ¨Χª ΧΆΧ¥'") . "\n";
 		}
 	}
 

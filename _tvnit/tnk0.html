@@ -172,13 +172,10 @@
 
 	$("a.dor1").hoverIntent(config);
 
-	$.ajaxSetup({
-	    'beforeSend' : function(xhr) {
-	        xhr.overrideMimeType('text/html; charset=ISO-8859-8');
-	    },
-	});	
-	$("#whatsnew_prjot").load('/tnk/prjot_1255.php?format=html&time=' + new Date().getTime());
-	$("#whatsnew").load('/tnk1/display_html.php');
+	$.ajaxSetup({'beforeSend' : function(xhr) { xhr.overrideMimeType('text/html; charset=ISO-8859-8'); },});	
+	$("#whatsnew_prjot").load('/tnk/prjot_1255.php?time=' + new Date().getTime()+" #content");
+	$.ajaxSetup({'beforeSend' : function(xhr) { xhr.overrideMimeType('text/html; charset=UTF-8'); },});	
+	$("#whatsnew").load("/tnk1/display_html.php #content");
 
 	$(".dor2").hide();
 	$("#whatsnew_anchor").siblings().show();
