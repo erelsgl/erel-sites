@@ -3,7 +3,7 @@
 <head>
 
 <?php
-/* קידוד חלונות ! */
+/* קידוד אחיד ! */
 
 error_reporting(E_ALL);
 
@@ -26,7 +26,7 @@ require_once("$SCRIPT/benchmark.php");
 require_once("$SCRIPT/fix_links.php");
 require_once("$SCRIPT/coalesce.php");
 
-require_once("$SCRIPT/html_torausfm.php");
+require_once("$SCRIPT/html_torausfm.php"); // for html_header_torausfm
 $GLOBALS['HTML_DIRECTION']='rtl';
 $GLOBALS['HTML_LANGUAGE']='he';
 $GLOBALS['HTML_ENCODING']='windows-1255';
@@ -171,11 +171,14 @@ for ($i=0; $i<count($bnim); ++$i) {
 	$path_from_document_to_site = "$path_from_document_to_root$path_from_root_to_site/";
 
 	$qod = $bn;
-	if ($path_from_root_to_site === 'tnk1')
-		$qod .= ' בתנ"ך';
+	if ($path_from_root_to_site === 'tnk1') {
+		$qod .= utf8_to_windows1255(' בתנ"ך');
+		print "<p>qod='$qod'</p>\n";
+	}
 
-	if (strpos($nman,"בלבד")!==false  or strpos($nman,"לא גמור")!==false)
-		$sug = "לא גמור";
+	$lo_gmur = utf8_to_windows1255("לא גמור");
+	if (strpos($nman,"בלבד")!==false  or strpos($nman,$lo_gmur)!==false)
+		$sug = $lo_gmur;
 
 
 	if (
@@ -440,7 +443,7 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 			$ktovt_av = $ktovt_av_xdj;
 		}
 		if (preg_match("|^tnk1/ljon/jorj/|", $ktovt_av)) {
-			$av = "לשון המקרא";
+			$av = utf8_to_windows1255("לשון המקרא");
 			$ktovt_av = "tnk1/ljon/index.html";
 			$niwut_line = "<a href='$path_from_document_to_root$ktovt_av'>$av</a>&gt;$niwut_line";
 		}
@@ -451,14 +454,10 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 		}
 		print " $mspr_jlby_niwut ";
 
-		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='${path_from_document_to_root}${path_from_root_to_site}/index.html'>ראשי</a>&gt;$niwut_line</div>\n";
+		$raji = utf8_to_windows1255("ראשי");
+		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='${path_from_document_to_root}${path_from_root_to_site}/index.html'>$raji</a>&gt;$niwut_line</div>\n";
 	}
 	return $niwut;
-
-
-	#if ($sug === 'לא גמור') {
-	#	print PLT "<i>*** אזהרה: המאמר בדף זה הוא לא גמור. אם תעזרו לגמור אותו - תבורכו! ***</i>\n";
-	#}
 }
 
 
@@ -502,14 +501,13 @@ function tokn_lfi_tvnit($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root
 			$fullbody .= $prjot_content;
 		} elseif (strpos($line, "<%whatsnew_textia%>")!==false) {
 			$main_land = "ארץ המקרא";
-			$main_land = iconv('windows-1255','utf-8',$main_land);
 			$news_url = "http://localhost/quest/world/news.php?format=short&count=3&land=".urlencode($main_land);
 			$news_content = file_get_contents($news_url);
-			$news_content = iconv('utf-8','windows-1255',$news_content);
+			$news_content = utf8_to_windows1255($news_content);
 			$fullbody .= $news_content;
 		} elseif (strpos($line,"<%tguvot%>")!==false) {
 			$fullbody .= 
-				"<h2 id='tguvot'>תוספות ותגובות</h2>\n" .
+				"<h2 id='tguvot'>".utf8_to_windows1255("תוספות ותגובות")."</h2>\n" .
 				"<ul id='ultguvot'>\n" .
 				"</ul><!--end-->\n";
 		} elseif (strpos($line, "<%tosft")!==false) {
@@ -574,7 +572,7 @@ function qijur_lbn($ktovt_av, $kotrt_dor, $qod_bn, $kotrt_bn, $ktovt_bn, $sug_bn
 		return qijur_mle($ktovt_bn, $qod_bn, "", "", "", "");
 	} elseif (!$ktovt_av or !$ktovt_bn) {   #אם אחת משתי הכתובות ריקה, הגולש לא יוכל לראות את הכותרת השלמה, ולכן יש לשים אותה כאן
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
-	} elseif (strpos($sug_bn,"הגדרה")!==false || strpos($qod_bn,"ביאור:")!==false) { #הגדרות למילים או פסוקים יש לשים בשלמותן
+	} elseif (strpos($sug_bn,utf8_to_windows1255("הגדרה"))!==false || strpos($qod_bn,utf8_to_windows1255("ביאור:"))!==false) { #הגדרות למילים או פסוקים יש לשים בשלמותן
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
 	} elseif ($kotrt_dor) { #אם יש כותרת לכל הדור - יש לשים את הכותרת של כל בן בשלמותה
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
