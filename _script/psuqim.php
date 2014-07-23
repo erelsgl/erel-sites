@@ -3,7 +3,7 @@
 /**
  * @file psuqim.php
  * functions related to Bible verses
- * @author Erel Segal  ΧΧ¨ΧΧ Χ΅Χ’Χ
+ * @author Erel Segal  ΰψΰμ ρβμ
  * @date 2007-02-22
  */
 
@@ -16,189 +16,189 @@ $GLOBALS['links_already_shown'] = array(); // remembers the qijurim already used
 global $HEBREW_SFR, $HEBREW_PRQ, $HEBREW_PSUQ, $HEBREW_PSUQIM;
 
 $BOOKS_TO_CODES = array(
-	"Χ‘Χ¨ΧΧ©Χ™Χª" => "01", 
-	"Χ‘Χ¨Χ'" => "01",
-	"Χ‘Χ¨'" => "01",
+	"αψΰωιϊ" => "01", 
+	"αψΰ'" => "01",
+	"αψ'" => "01",
 
-	"Χ©ΧΧ•Χª" => "02",
-	"Χ©Χ'" => "02",
+	"ωξεϊ" => "02",
+	"ωξ'" => "02",
 
-	"Χ•Χ™Χ§Χ¨Χ" => "03",
-	"Χ•Χ™Χ§'" => "03",
-	"Χ•Χ™'" => "03",
+	"ειχψΰ" => "03",
+	"ειχ'" => "03",
+	"ει'" => "03",
 
-	"Χ‘ΧΧ“Χ‘Χ¨" => "04",
-	"Χ‘ΧΧ“'" => "04",
-	"Χ‘Χ'" => "04",
+	"αξγαψ" => "04",
+	"αξγ'" => "04",
+	"αξ'" => "04",
 
-	"Χ“Χ‘Χ¨Χ™Χ" => "05",
-	"Χ“Χ‘Χ¨'" => "05",
-	"Χ“Χ‘'" => "05",
+	"γαψιν" => "05",
+	"γαψ'" => "05",
+	"γα'" => "05",
 
-	"Χ™Χ”Χ•Χ©ΧΆ" => "06",
-	"Χ™Χ”Χ•Χ©Χ•ΧΆ" => "06",
+	"ιδεως" => "06",
+	"ιδεωες" => "06",
 
-	"Χ©Χ•Χ¤ΧΧ™Χ" => "07",
-	"Χ©Χ•Χ¤'" => "07",
+	"ωετθιν" => "07",
+	"ωετ'" => "07",
 
-	"Χ©ΧΧ•ΧΧ Χ" => "08a",
-	"Χ©Χ\"Χ" => "08a",
+	"ωξεΰμ ΰ" => "08a",
+	"ωξ\"ΰ" => "08a",
 
-	"Χ©ΧΧ•ΧΧ Χ‘" => "08b",
-	"Χ©Χ\"Χ‘" => "08b",
+	"ωξεΰμ α" => "08b",
+	"ωξ\"α" => "08b",
 
-	"ΧΧΧ›Χ™Χ Χ" => "09a",
-	"ΧΧ\"Χ" => "09a",
+	"ξμλιν ΰ" => "09a",
+	"ξμ\"ΰ" => "09a",
 
-	"ΧΧΧ›Χ™Χ Χ‘" => "09b",
-	"ΧΧ\"Χ‘" => "09b",
+	"ξμλιν α" => "09b",
+	"ξμ\"α" => "09b",
 
-	"Χ™Χ©ΧΆΧ™Χ”Χ•" => "10",
-	"Χ™Χ©ΧΆΧ™Χ”" => "10",
-	"Χ™Χ©'" => "10",
+	"ιωςιδε" => "10",
+	"ιωςιδ" => "10",
+	"ιω'" => "10",
 
-	"Χ™Χ¨ΧΧ™Χ”Χ•" => "11",
-	"Χ™Χ¨ΧΧ™Χ”" => "11",
-	"Χ™Χ¨'" => "11",
+	"ιψξιδε" => "11",
+	"ιψξιδ" => "11",
+	"ιψ'" => "11",
 
-	"Χ™Χ—Χ–Χ§ΧΧ" => "12",
-	"Χ™Χ—Χ–'" => "12",
-	"Χ™Χ—'" => "12",
+	"ιηζχΰμ" => "12",
+	"ιηζ'" => "12",
+	"ιη'" => "12",
 
-	"Χ”Χ•Χ©ΧΆ" => "13",
-	"Χ”Χ•'" => "13",
+	"δεως" => "13",
+	"δε'" => "13",
 
-	"Χ™Χ•ΧΧ" => "14",
+	"ιεΰμ" => "14",
 
-	"ΧΆΧΧ•Χ΅" => "15",
-	"ΧΆΧ'" => "15",
+	"ςξερ" => "15",
+	"ςξ'" => "15",
 
-	"ΧΆΧ•Χ‘Χ“Χ™Χ”" => "16",
-	"ΧΆΧ•Χ‘'" => "16",
+	"ςεαγιδ" => "16",
+	"ςεα'" => "16",
 
-	"Χ™Χ•Χ Χ”" => "17",
+	"ιεπδ" => "17",
 
-	"ΧΧ™Χ›Χ”" => "18",
-	"ΧΧ™'" => "18",
+	"ξιλδ" => "18",
+	"ξι'" => "18",
 
-	"Χ Χ—Χ•Χ" => "19",
+	"πηεν" => "19",
 
-	"Χ—Χ‘Χ§Χ•Χ§" => "20",
-	"Χ—Χ‘'" => "20",
+	"ηαχεχ" => "20",
+	"ηα'" => "20",
 
-	"Χ¦Χ¤Χ Χ™Χ”" => "21",
-	"Χ¦Χ¤'" => "21",
+	"φτπιδ" => "21",
+	"φτ'" => "21",
 
-	"Χ—Χ’Χ™Χ™" => "22",
-	"Χ—Χ’Χ™" => "22",
+	"ηβιι" => "22",
+	"ηβι" => "22",
 
-	"Χ–Χ›Χ¨Χ™Χ”" => "23",
-	"Χ–Χ›'" => "23",
+	"ζλψιδ" => "23",
+	"ζλ'" => "23",
 
-	"ΧΧΧΧ›Χ™" => "24",
-	"ΧΧ'" => "24",
+	"ξμΰλι" => "24",
+	"ξμ'" => "24",
 
-	"Χ“Χ‘Χ¨Χ™ Χ”Χ™ΧΧ™Χ Χ" => "25a",
-	"Χ“Χ”\"Χ™ Χ" => "25a",
-	"Χ“Χ”\"Χ" => "25a",
+	"γαψι διξιν ΰ" => "25a",
+	"γδ\"ι ΰ" => "25a",
+	"γδ\"ΰ" => "25a",
 
-	"Χ“Χ‘Χ¨Χ™ Χ”Χ™ΧΧ™Χ Χ‘" => "25b",
-	"Χ“Χ”\"Χ™ Χ‘" => "25b",
-	"Χ“Χ”\"Χ‘" => "25b",
+	"γαψι διξιν α" => "25b",
+	"γδ\"ι α" => "25b",
+	"γδ\"α" => "25b",
 
-	"ΧªΧ”ΧΧ™Χ" => "26",
-	"ΧªΧ”Χ™ΧΧ™Χ" => "26",
-	"ΧªΧ”Χ'" => "26",
-	"ΧªΧ”'" => "26",
+	"ϊδμιν" => "26",
+	"ϊδιμιν" => "26",
+	"ϊδμ'" => "26",
+	"ϊδ'" => "26",
 
-	"ΧΧ™Χ•Χ‘" => "27",
-	"ΧΧ™Χ•'" => "27",
+	"ΰιεα" => "27",
+	"ΰιε'" => "27",
 
-	"ΧΧ©ΧΧ™" => "28",
-	"ΧΧ©Χ'" => "28",
-	"ΧΧ©'" => "28",
+	"ξωμι" => "28",
+	"ξωμ'" => "28",
+	"ξω'" => "28",
 
-	"Χ¨Χ•Χª" => "29",
-	"Χ¨Χ•'" => "29",
+	"ψεϊ" => "29",
+	"ψε'" => "29",
 
-	"Χ©Χ™Χ¨ Χ”Χ©Χ™Χ¨Χ™Χ" => "30",
-	"Χ©Χ”\"Χ©" => "30",
+	"ωιψ δωιψιν" => "30",
+	"ωδ\"ω" => "30",
 
-	"Χ§Χ”ΧΧª" => "31",
-	"Χ§Χ”Χ'" => "31",
-	"Χ§Χ”'" => "31",
+	"χδμϊ" => "31",
+	"χδμ'" => "31",
+	"χδ'" => "31",
 
-	"ΧΧ™Χ›Χ”" => "32",
-	"ΧΧ™Χ›'" => "32",
+	"ΰιλδ" => "32",
+	"ΰιλ'" => "32",
 
-	"ΧΧ΅ΧªΧ¨" => "33",
-	"ΧΧ΅Χª'" => "33",
-	"ΧΧ΅'" => "33",
+	"ΰρϊψ" => "33",
+	"ΰρϊ'" => "33",
+	"ΰρ'" => "33",
 
-	"Χ“Χ Χ™ΧΧ" => "34",
-	"Χ“Χ Χ™'" => "34",
-	"Χ“Χ '" => "34",
+	"γπιΰμ" => "34",
+	"γπι'" => "34",
+	"γπ'" => "34",
 
-	"ΧΆΧ–Χ¨Χ" => "35a",
-	"ΧΆΧ–Χ¨'" => "35a",
-	"ΧΆΧ–'" => "35a",
+	"ςζψΰ" => "35a",
+	"ςζψ'" => "35a",
+	"ςζ'" => "35a",
 
-	"Χ Χ—ΧΧ™Χ”" => "35b",
-	"Χ Χ—Χ'" => "35b"
+	"πηξιδ" => "35b",
+	"πηξ'" => "35b"
 );
 
 $CODES_TO_BOOKS = array(
-	"01" => "Χ‘Χ¨ΧΧ©Χ™Χª",
-	"02" => "Χ©ΧΧ•Χª",
-	"03" => "Χ•Χ™Χ§Χ¨Χ",
-	"04" => "Χ‘ΧΧ“Χ‘Χ¨",
-	"05" => "Χ“Χ‘Χ¨Χ™Χ",
-	"06" => "Χ™Χ”Χ•Χ©ΧΆ",
-	"07" => "Χ©Χ•Χ¤ΧΧ™Χ",
-	"08a" => "Χ©ΧΧ•ΧΧ Χ",
-	"08b" => "Χ©ΧΧ•ΧΧ Χ‘",
-	"09a" => "ΧΧΧ›Χ™Χ Χ",
-	"09b" => "ΧΧΧ›Χ™Χ Χ‘",
-	"10" => "Χ™Χ©ΧΆΧ™Χ”Χ•",
-	"11" => "Χ™Χ¨ΧΧ™Χ”Χ•",
-	"12" => "Χ™Χ—Χ–Χ§ΧΧ",
-	"13" => "Χ”Χ•Χ©ΧΆ",
-	"14" => "Χ™Χ•ΧΧ",
-	"15" => "ΧΆΧΧ•Χ΅",
-	"16" => "ΧΆΧ•Χ‘Χ“Χ™Χ”",
-	"17" => "Χ™Χ•Χ Χ”",
-	"18" => "ΧΧ™Χ›Χ”",
-	"19" => "Χ Χ—Χ•Χ",
-	"20" => "Χ—Χ‘Χ§Χ•Χ§",
-	"21" => "Χ¦Χ¤Χ Χ™Χ”",
-	"22" => "Χ—Χ’Χ™",
-	"23" => "Χ–Χ›Χ¨Χ™Χ”",
-	"24" => "ΧΧΧΧ›Χ™",
-	"25a" => "Χ“Χ‘Χ¨Χ™ Χ”Χ™ΧΧ™Χ Χ",
-	"25b" => "Χ“Χ‘Χ¨Χ™ Χ”Χ™ΧΧ™Χ Χ‘",
-	"26" => "ΧªΧ”ΧΧ™Χ",
-	"27" => "ΧΧ™Χ•Χ‘",
-	"28" => "ΧΧ©ΧΧ™",
-	"29" => "Χ¨Χ•Χª",
-	"30" => "Χ©Χ™Χ¨ Χ”Χ©Χ™Χ¨Χ™Χ",
-	"31" => "Χ§Χ”ΧΧª",
-	"32" => "ΧΧ™Χ›Χ”",
-	"33" => "ΧΧ΅ΧªΧ¨",
-	"34" => "Χ“Χ Χ™ΧΧ",
-	"35a" => "ΧΆΧ–Χ¨Χ",
-	"35b" => "Χ Χ—ΧΧ™Χ”"
+	"01" => "αψΰωιϊ",
+	"02" => "ωξεϊ",
+	"03" => "ειχψΰ",
+	"04" => "αξγαψ",
+	"05" => "γαψιν",
+	"06" => "ιδεως",
+	"07" => "ωετθιν",
+	"08a" => "ωξεΰμ ΰ",
+	"08b" => "ωξεΰμ α",
+	"09a" => "ξμλιν ΰ",
+	"09b" => "ξμλιν α",
+	"10" => "ιωςιδε",
+	"11" => "ιψξιδε",
+	"12" => "ιηζχΰμ",
+	"13" => "δεως",
+	"14" => "ιεΰμ",
+	"15" => "ςξερ",
+	"16" => "ςεαγιδ",
+	"17" => "ιεπδ",
+	"18" => "ξιλδ",
+	"19" => "πηεν",
+	"20" => "ηαχεχ",
+	"21" => "φτπιδ",
+	"22" => "ηβι",
+	"23" => "ζλψιδ",
+	"24" => "ξμΰλι",
+	"25a" => "γαψι διξιν ΰ",
+	"25b" => "γαψι διξιν α",
+	"26" => "ϊδμιν",
+	"27" => "ΰιεα",
+	"28" => "ξωμι",
+	"29" => "ψεϊ",
+	"30" => "ωιψ δωιψιν",
+	"31" => "χδμϊ",
+	"32" => "ΰιλδ",
+	"33" => "ΰρϊψ",
+	"34" => "γπιΰμ",
+	"35a" => "ςζψΰ",
+	"35b" => "πηξιδ"
 );
 $HEBREW_BOOKS = array_values($CODES_TO_BOOKS);
 $HEBREW_SFR = implode("|",$HEBREW_BOOKS);
 
-$HEBREW_LETTER = "[Χ-Χª]";
-$HEBREW_LETTER_3 = "[Χ§-Χª]";
-$HEBREW_LETTER_2 = "[Χ-Χ¦]";
-$HEBREW_LETTER_1 = "[Χ-Χ]";
-$HEBREW_PRQ = "Χ§$HEBREW_LETTER_2$HEBREW_LETTER_1|Χ§$HEBREW_LETTER_2|Χ§$HEBREW_LETTER_1|Χ§|$HEBREW_LETTER_2$HEBREW_LETTER_1|$HEBREW_LETTER_2|$HEBREW_LETTER_1";
+$HEBREW_LETTER = "[ΰ-ϊ]";
+$HEBREW_LETTER_3 = "[χ-ϊ]";
+$HEBREW_LETTER_2 = "[θ-φ]";
+$HEBREW_LETTER_1 = "[ΰ-θ]";
+$HEBREW_PRQ = "χ$HEBREW_LETTER_2$HEBREW_LETTER_1|χ$HEBREW_LETTER_2|χ$HEBREW_LETTER_1|χ|$HEBREW_LETTER_2$HEBREW_LETTER_1|$HEBREW_LETTER_2|$HEBREW_LETTER_1";
 
-$HEBREW_PSUQ = 'Χ¤Χ΅Χ•Χ§';
-$HEBREW_PSUQIM = 'Χ¤Χ΅Χ•Χ§Χ™Χ';
+$HEBREW_PSUQ = 'τρεχ';
+$HEBREW_PSUQIM = 'τρεχιν';
 
 
 function psuq_im_qijurim_mmilim ($mxroztmilim, $mxroztqjrimmmilim) {
@@ -229,28 +229,29 @@ function psuq_im_qijurim_mmilim ($mxroztmilim, $mxroztqjrimmmilim) {
 	for ($i=0; $i<count($osfMilim); ++$i) {
 		$mila =  $osfMilim[$i];
 		$qijur = $osfQjrimMmilim[$i];
-
-		if ( !isset($links_already_shown[$qijur]) &&
-		   preg_match("|^(.)/([^-]+)|u",$qijur,$matches) ) { #Χ§Χ™Χ™Χ Χ§Χ™Χ©Χ•Χ¨ ΧΧΧ™ΧΧ” Χ–Χ•
-
+		$is_new = !isset($links_already_shown[$qijur]);
+		$has_link = preg_match("|(.)/([^-]+)|",$qijur,$matches);
+		
+		//print "<p>$mila - $qijur - $has_link - ".print_r($matches,TRUE);
+		if ($is_new && $has_link) { #χιιν χιωεψ ξξιμδ ζε
 			if ($format==='wikia')  // in Wikia format, don't show the same link twice in a chapter
 				$links_already_shown[$qijur] = 1;
 
-			if ($isInsideLink) {            #Χ΅Χ’Χ•Χ¨ ΧΧª Χ”Χ§Χ™Χ©Χ•Χ¨ Χ”Χ§Χ•Χ“Χ
+			if ($isInsideLink) {            #ρβεψ ΰϊ δχιωεψ δχεγν
 				$verseText .= qijur($linkType, $linkTarget, $linkText) . " ";
 			}
 			$linkType = $matches[1];
-			$linkTarget = strtolower(hebrew2latin($matches[2]));
+			$linkTarget = strtolower(internal_name($matches[2]));  // hebrew_internal_name
 			$linkText = $mila;
-			$isInsideLink = true;  #ΧΧ Χ—Χ Χ• Χ ΧΧ¦ΧΧ™Χ Χ‘ΧªΧ•Χ Χ§Χ™Χ©Χ•Χ¨, Χ¦Χ¨Χ™Χ ΧΧ΅Χ’Χ•Χ¨ ΧΧ•ΧªΧ•
+			$isInsideLink = true;  #ΰπηπε πξφΰιν αϊεκ χιωεψ, φψικ μρβεψ ΰεϊε
 		}
-		elseif ($qijur === "_" && $isInsideLink) {   #Χ‘ΧΧ™ΧΧ” Χ–Χ• Χ ΧΧ©Χ Χ”Χ§Χ™Χ©Χ•Χ¨ ΧΧ”ΧΧ™ΧΧ” Χ”Χ§Χ•Χ“ΧΧª
+		elseif ($qijur === "_" && $isInsideLink) {   #αξιμδ ζε πξωκ δχιωεψ ξδξιμδ δχεγξϊ
 			$linkText .= " $mila";
 		}
-		else {   #ΧΧ Χ§Χ™Χ™Χ Χ§Χ™Χ©Χ•Χ¨ ΧΧΧ™ΧΧ” Χ–Χ•
-			if ($isInsideLink) {            #Χ΅Χ’Χ•Χ¨ ΧΧª Χ”Χ§Χ™Χ©Χ•Χ¨ Χ”Χ§Χ•Χ“Χ
+		else {   #μΰ χιιν χιωεψ ξξιμδ ζε
+			if ($isInsideLink) {            #ρβεψ ΰϊ δχιωεψ δχεγν
 				$verseText .= qijur($linkType, $linkTarget, $linkText) . " ";
-				$isInsideLink = false;           #Χ΅Χ’Χ¨Χ Χ• ΧΧª Χ”Χ§Χ™Χ©Χ•Χ¨
+				$isInsideLink = false;           #ρβψπε ΰϊ δχιωεψ
 			}
 			$verseText .= "$mila ";
 		}
@@ -268,26 +269,26 @@ function qijur($linkType, $linkTarget, $linkText) {
 	switch($format) {
 	case 'tora':
 		$result = "<a ";
-		if ($linkType === "Χ") {
+		if ($linkType === "μ") {
 			$result .= "href='$path_from_file_to_site/ljon/jorj/$linkTarget.html' class='mila ljon'>";
 		}
-		elseif ($linkType === "Χ“") {
+		elseif ($linkType === "γ") {
 			$result .= "href='$path_from_file_to_site/dmut/dmut/$linkTarget.html' class='mila dmut'>";
 		}
-		elseif ($linkType === "Χ") {
+		elseif ($linkType === "ΰ") {
 			$result .= "href='$path_from_file_to_site/ezor/$linkTarget.html' class='mila ezor'>";
 		}
-		elseif ($linkType === "Χ§") {
+		elseif ($linkType === "χ") {
 			$result .= "href='$path_from_file_to_site/kma/qjrim1/$linkTarget.html' class='mila mamr'>";
 		}
-		elseif ($linkType === "Χ›") {
+		elseif ($linkType === "λ") {
 			$result .= "href='$path_from_file_to_site/$linkTarget.html' class='mila mamr'>";
 		}
-		elseif ($linkType === "Χ΅") {
+		elseif ($linkType === "ρ") {
 			$result .= "title='$linkTarget' class='mila mspr'>";
 		}
 		else {
-			die ('Χ΅Χ•Χ’ Χ§Χ™Χ©Χ•Χ¨ ΧΧ Χ—Χ•Χ§Χ™' . $linkType);
+			die ('ρεβ χιωεψ μΰ ηεχι' . $linkType);
 		}
 
 		$result .= $linkText;
@@ -295,47 +296,47 @@ function qijur($linkType, $linkTarget, $linkText) {
 		$result .= "</a>";
 		break;
 	case 'wikia':
-		if ($linkType === "Χ") {
-			$result = "{{ΧΧ•Χ Χ—Χ•Χ|";
+		if ($linkType === "μ") {
+			$result = "{{ξεπηεο|";
 			$jorj = latin2hebrew(strtoupper($linkTarget));
-			$meaning = "ΧΧ”Χ©Χ•Χ¨Χ© $jorj" . sql_evaluate("SELECT kotrt FROM qjr_ljon_tnk1 WHERE av='$jorj' AND kotrt like '=%'","");
+			$meaning = "ξδωεψω $jorj" . sql_evaluate("SELECT kotrt FROM qjr_ljon_tnk1 WHERE av='$jorj' AND kotrt like '=%'","");
 			//$result .= "ljon/jorj/$linkTarget|$linkText|$meaning";
 			$meaning = str_replace('=','-',$meaning);
 			$result .= "$linkText|$meaning";
 			$result .= "}}";
 		}
-		elseif ($linkType === "Χ“") {
-			$result = "{{ΧΧ•Χ Χ—Χ•Χ|";
-			$meaning = "Χ©Χ Χ“ΧΧ•Χª";
+		elseif ($linkType === "γ") {
+			$result = "{{ξεπηεο|";
+			$meaning = "ων γξεϊ";
 			//$result .= "dmut/dmut/$linkTarget|$linkText|$meaning";
 			$result .= "$linkText|$meaning";
 			$result .= "}}";
 		}
-		elseif ($linkType === "Χ") {
-			$result = "{{ΧΧ•Χ Χ—Χ•Χ|";
-			$meaning = "Χ©Χ ΧΧ§Χ•Χ";
+		elseif ($linkType === "ΰ") {
+			$result = "{{ξεπηεο|";
+			$meaning = "ων ξχεν";
 			//$result .= "ezor/$linkTarget|$linkText|$meaning";
 			$result .= "$linkText|$meaning";
 			$result .= "}}";
 		}
-		elseif ($linkType === "Χ§") {
+		elseif ($linkType === "χ") {
 			$meaning = sql_evaluate("SELECT kotrt FROM QLT_prtim_wikia WHERE ktovt='tnk1/kma/qjrim1/$linkTarget'");
-			//$result = "{{ΧΧ•Χ Χ—Χ•Χ|tnk1/kma/qjrim1/$linkTarget|$linkText|$meaning}}";
+			//$result = "{{ξεπηεο|tnk1/kma/qjrim1/$linkTarget|$linkText|$meaning}}";
 			$result = "[[$meaning|$linkText]]";
 		}
-		elseif ($linkType === "Χ›") {
+		elseif ($linkType === "λ") {
 			$meaning = sql_evaluate("SELECT kotrt FROM QLT_prtim_wikia WHERE ktovt='tnk1/$linkTarget'");
-			//$result = "{{ΧΧ•Χ Χ—Χ•Χ|tnk1/$linkTarget|$linkText|$meaning}}";
+			//$result = "{{ξεπηεο|tnk1/$linkTarget|$linkText|$meaning}}";
 			$result = "[[$meaning|$linkText]]";
 		}
-		elseif ($linkType === "Χ΅") {
-			$result = "{{ΧΧ•Χ Χ—Χ•Χ|";
+		elseif ($linkType === "ρ") {
+			$result = "{{ξεπηεο|";
 			$meaning = $linkTarget;
 			$result .= "$linkText|$meaning";
 			$result .= "}}";
 		}
 		else {
-			die ('Χ΅Χ•Χ’ Χ§Χ™Χ©Χ•Χ¨ ΧΧ Χ—Χ•Χ§Χ™' . $linkType);
+			die ('ρεβ χιωεψ μΰ ηεχι' . $linkType);
 		}
 
 		break;
@@ -383,7 +384,7 @@ function standard_psuqim_in_text($text, $verses_in_numbers=TRUE) {
 	global $HEBREW_LETTER, $HEBREW_PRQ, $HEBREW_SFR;
 	$regexp = $verses_in_numbers? 
 		"(($HEBREW_SFR)\s+($HEBREW_PRQ)\d+)": 
-		"(($HEBREW_SFR)\s+($HEBREW_PRQ)\s+($HEBREW_PRQ))[^Χ-Χª]";
+		"(($HEBREW_SFR)\s+($HEBREW_PRQ)\s+($HEBREW_PRQ))[^ΰ-ϊ]";
 	if (preg_match_all("/$regexp/u", $text, $matches))
 		return $matches[1];          // ... return the outermost parenthesized expression
 
@@ -399,9 +400,9 @@ function link_to_sfr_prq_o_psuq($text) {
 	global $BOOKS_TO_CODES, $CODES_TO_BOOKS, $HEBREW_PRQ, $HEBREW_LETTER_2, $HEBREW_LETTER_1;
 	$HEBREW_BOOK_ALL_FORMS = implode("|",array_keys($BOOKS_TO_CODES));
 
-	$text = str_replace('Χ΅Χ¤Χ¨','',$text);
-	$text = str_replace('Χ¤Χ¨Χ§','',$text);
-	$text = str_replace('Χ¤Χ΅Χ•Χ§','',$text);
+	$text = str_replace('ρτψ','',$text);
+	$text = str_replace('τψχ','',$text);
+	$text = str_replace('τρεχ','',$text);
 
 
 	if (!preg_match("/^\s*($HEBREW_BOOK_ALL_FORMS)\s*(.*)$/u",$text,$matches)) {
@@ -420,7 +421,7 @@ function link_to_sfr_prq_o_psuq($text) {
 	$base = "/tnk1/prqim";
 
 	if (!preg_match("/^\s*($HEBREW_PRQ)\s*(.*)$/u",$text_rest,$matches))
-		return array("$base/t$book_code.htm", "Χ΅Χ¤Χ¨ $book_standard_form");
+		return array("$base/t$book_code.htm", "ρτψ $book_standard_form");
 	$chapter = $matches[1];
 // 	print "<p>chapter='$chapter'";
 	$text_rest = $matches[2];
@@ -432,7 +433,7 @@ function link_to_sfr_prq_o_psuq($text) {
 	$chapter_code = dechex(floor($chapter_number/10)).($chapter_number%10);
 
 	if (!$text_rest)
-		return array ("$base/t$book_code$chapter_code.htm", "Χ΅Χ¤Χ¨ $book_standard_form Χ¤Χ¨Χ§ $chapter");
+		return array ("$base/t$book_code$chapter_code.htm", "ρτψ $book_standard_form τψχ $chapter");
 
 	if (preg_match("/^\s*($HEBREW_PRQ)\s*$/u",$text_rest,$matches)) {
 		$verse = $matches[1];
@@ -443,7 +444,7 @@ function link_to_sfr_prq_o_psuq($text) {
 	} else {
 		return array(NULL,NULL);
 	}
-	return array("$base/t$book_code$chapter_code.htm#$verse_code", "Χ΅Χ¤Χ¨ $book_standard_form Χ¤Χ¨Χ§ $chapter Χ¤Χ΅Χ•Χ§ $verse_code");
+	return array("$base/t$book_code$chapter_code.htm#$verse_code", "ρτψ $book_standard_form τψχ $chapter τρεχ $verse_code");
 }
 
 
@@ -457,12 +458,12 @@ function canonical_name_of_psuq($text) {
 	global $BOOKS_TO_CODES, $CODES_TO_BOOKS, $HEBREW_PRQ;
 	$HEBREW_BOOK_ALL_FORMS = implode("|",array_keys($BOOKS_TO_CODES));
 
-	$text = str_replace('Χ΅Χ¤Χ¨','',$text);
-	$text = str_replace('Χ¤Χ¨Χ§','',$text);
-	$text = str_replace('Χ¤Χ΅Χ•Χ§','',$text);
+	$text = str_replace('ρτψ','',$text);
+	$text = str_replace('τψχ','',$text);
+	$text = str_replace('τρεχ','',$text);
 
 	if (!preg_match("/^\s*($HEBREW_BOOK_ALL_FORMS)\s*(.*)$/u",$text,$matches)) 
-		return NULL;   // ΧΧ™Χ Χ΅Χ¤Χ¨
+		return NULL;   // ΰιο ρτψ
 
 	$book = $matches[1];
 	$text_rest = $matches[2];
@@ -474,20 +475,20 @@ function canonical_name_of_psuq($text) {
 	$book_standard_form = $CODES_TO_BOOKS[$book_code];
 
 	if (!preg_match("/^\s*($HEBREW_PRQ)\s*(.*)$/u",$text_rest,$matches))
-		return NULL;  // ΧΧ™Χ Χ¤Χ¨Χ§
+		return NULL;  // ΰιο τψχ
 
 	$chapter = $matches[1];
 	$text_rest = $matches[2];
 
 	if (!$text_rest)
-		return NULL;  // ΧΧ™Χ Χ¤Χ΅Χ•Χ§
+		return NULL;  // ΰιο τρεχ
 
 	if (preg_match("/^\s*($HEBREW_PRQ)\s*$/u",$text_rest,$matches)) {
 		$verse_code = hebrew2number($matches[1]);
 	} elseif (preg_match("/^\s*(\d+)\s*$/u",$text_rest,$matches)) {
 		$verse_code = $matches[1];
 	} else {
-		return NULL;  // ΧΧ™Χ Χ¤Χ΅Χ•Χ§
+		return NULL;  // ΰιο τρεχ
 	}
 
 	return "$book_standard_form $chapter$verse_code";

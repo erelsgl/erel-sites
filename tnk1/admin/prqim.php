@@ -29,7 +29,7 @@ require_once("$SCRIPT/hebrew_internal_name.php");
 
 require_once("$SCRIPT/coalesce.php");
 
-require_once("$SCRIPT/psuqim.php");
+require_once("$SCRIPT/psuqim.php"); 
 
 require_once("$SCRIPT/html.php");
 $HTML_DIRECTION='rtl';
@@ -134,10 +134,10 @@ function tokn_prq($qod_sfr, $kotrt_sfr, $kotrt_prq) {
 	$tokn = '';
 	$template_pages = '';
 	$psuqim_prq = sql_query_or_die("
-		SELECT psuqim_gross.verse_number, psuqim_gross.verse_text as citutg, psuqim_qijurim.verse_text as citutq
-		FROM psuqim_gross LEFT JOIN psuqim_qijurim USING(book,chapter,verse_number)
-		WHERE psuqim_gross.book='$qod_sfr' AND psuqim_gross.chapter='$kotrt_prq'
-		ORDER BY psuqim_gross.verse_number
+		SELECT psuqim.verse_number, psuqim.text_maqafim as citutg, psuqim_qijurim.verse_text as citutq, psuqim.after_text
+		FROM tnk.psuqim LEFT JOIN psuqim_qijurim USING(id)
+		WHERE psuqim.book_code='$qod_sfr' AND psuqim.chapter_letter='$kotrt_prq'
+		ORDER BY psuqim.verse_number
 		");
 
 	$qijurim_prq = sql_query_or_die("
@@ -153,10 +153,10 @@ function tokn_prq($qod_sfr, $kotrt_sfr, $kotrt_prq) {
 	$tokn .= tora_middler($kotrt_sfr, $kotrt_prq);
 
 	while ($prtim_psuq = sql_fetch_row($psuqim_prq)) {
-		list ($psuq, $citutg, $citutq) = $prtim_psuq;
+		list ($psuq, $citutg, $citutq, $aftertext) = $prtim_psuq;
 		list ($tqstCitut, $sofCitut) = psuq_im_qijurim_mmilim ($citutg, $citutq);
 
-		if (preg_match("|</p>|i",$sofCitut)) 
+		if (preg_match("|/p|i",$aftertext)) 
 			$sofCitut = "</p><p>";
 
 		$tokn .= "<script type='text/javascript'>ktov_kotrot('$psuq:')</script>\n";
@@ -182,19 +182,18 @@ function tora_qjrim_lpsuq($qjrim_table_row) {
 		$ktovt = str_replace("../$path_from_root_to_site/","","$path_from_file_to_site/../$ktovt");
 	}
 
+	$sug_bn = trim($sug_bn);
 	$sugClass_bn = internal_name($sug_bn);
 
 	$girsa = girsa($psuq1, $sug_bn);
 	if ($girsa) {
 		$kituv = "$sug_bn: $m";
 		$kituv_mrxf = $kotrt;
-	}
-	elseif ($sug_bn === "ציור") {
+	} elseif ($sug_bn === "ציור") {
 		$kituv = "$sug_bn מ: $m";
 		if ($l) $kituv .=  " -> $l";
 		$kituv_mrxf = "ציור";
-	}
-	else {
+	} else {
 		$kituv = $kotrt;
 		$kituv_mrxf = $sug_bn;
 		if ($kituv) $kituv = "$sug_bn: $kituv";

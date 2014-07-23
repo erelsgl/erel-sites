@@ -136,8 +136,11 @@ function mxrozt_bxirt_sugim() {
 }
 
 function ktov_bxirt_sugim() {
-      document.write("<p>"+mxrozt_bxirt_sugim());
-      document.write("<p style='font-size:14pt'><a href='help.html'>מדריך לנכנסים לכאן בפעם הראשונה - איך להשתמש בדף זה</a>");
+/*
+ * An unbalanced tree was written using document.write() causing data from the network to be reparsed. For more information https://developer.mozilla.org/en/Optimizing_Your_Pages_for_Speculative_Parsing
+ */
+//      document.write("<p>"+mxrozt_bxirt_sugim()+"</p>");
+//      document.write("<p style='font-size:14pt'><a href='help.html'>מדריך לנכנסים לכאן בפעם הראשונה - איך להשתמש בדף זה</a></p>");
 }
 
 ////////////////// כתיבת קישורים ליד כותרת הפרק וליד פסוקים //////////////
@@ -156,7 +159,7 @@ function lktov_sug(kotrt, sug) {
 //     ktov_bnim('0:'): write all links to articles about the entire chapter.
 //     ktov_bnim('1:'): write all links to articles about verse 1.
 function ktov_bnim(pattern) {
-	//start = new Date();
+//	return;
 	
 	thePatternBnimArray = theBnimHash[pattern];    // 0 millis
 
@@ -171,11 +174,12 @@ function ktov_bnim(pattern) {
 		var bn_ltinit = MxroztivritLMxroztLtinit(bn);
 		
 		if (lktov_sug(bn_ltinit,'TRGWM:') || lktov_sug(bn_ltinit,'TRGWMIM:')  || lktov_sug(bn_ltinit,'PTIXH:') ) {    // 8-13 millis
-			bn = bn.                                              // 0 millis 
-				replace(/<\/A>.*/ig,"<\/a>").
-				replace(/>תרגום:/, "   style='background-color:white; font-weight: bold; font-style:normal'>=").
-				replace(/>תרגומים: /, " style='background-color:white; font-weight: bold; font-style:normal'>").
-				replace(/>פתיחה: /, " style='background-color:white; font-weight: bold; font-style:normal'>");
+			bn = bn                                              // 0 millis 
+				.replace(/<\/A>.*/ig,"<\/a>")
+				.replace(/>תרגום:/, "   style='background-color:white; font-weight: bold; font-style:normal'>=")
+				.replace(/>תרגומים: /, " style='background-color:white; font-weight: bold; font-style:normal'>")
+				.replace(/>פתיחה: /, " style='background-color:white; font-weight: bold; font-style:normal'>")
+				;
 			if (/href/.test(bn))
 				mxrozt_trgumim += ("&nbsp;" + bn + "&nbsp;");
 			theWrittenBnim[thePatternBnimArray[i]] = 1;
@@ -238,14 +242,13 @@ function ktov_bnim(pattern) {
 			document.write("<SPAN style='display:none' id='"+id+"'>" + mxrozt_bnim + "</span>");
 		}
 	}
-	
-	//finish = new Date(); alert(finish-start);     //  1841 - 60 millis
 }
 
 
 
 // ktov_kotrot(pattern): write all 'bnim' of type 'כותרת'/'פתיחה' that contain the given pattern.
 function ktov_kotrot(pattern) {
+//	return;
 	if ( /KWTRT[:]/.test(sugimString) || /PTIXH[:]/.test(sugimString) ) {
 		thePatternBnimArray = theBnimHash[pattern];
 		if (!thePatternBnimArray) return;
@@ -320,24 +323,20 @@ function MsprLPsuq(mspr) {
 // write links to all (kmut_prqim) chapters in the given book (sfr), 
 // except the current chapter, which will be written without a link.
 function ktov_prqim(sfr,kmut_prqim) {
-var theString = "", href = "";
-for (ii=1; ii<=kmut_prqim; ++ii) {
-	if (/prqim/.test(path_from_root_to_document))  href = "t" + sfr + MsprLPsuq(ii) + ".htm";
-	if (/jdl/.test(path_from_root_to_document))  href = "MefarsheyTanach" + sfr + "-" + MsprLPsuq(ii) + ".htm";
-
-	if (href == path_from_document_to_document) theString += ("<A>" + MsprLMxroztIvrit(ii) + "</A> ");
-	else {
-		// if (cookies_are_enabled) {
-			theString += ("<A target=_top href='" + href + "'>" + MsprLMxroztIvrit(ii) + "</A> ");
-		//}
-		//else {
-		//	theString += ("<A target=_top href='" + href + "?" + sugimString + "'>" + MsprLMxroztIvrit(ii) + "</A> ");
-		//}
+	var theString = "", href = "";
+	for (ii=1; ii<=kmut_prqim; ++ii) {
+		if (/prqim/.test(path_from_root_to_document))  href = "t" + sfr + MsprLPsuq(ii) + ".htm";
+		if (/jdl/.test(path_from_root_to_document))  href = "MefarsheyTanach" + sfr + "-" + MsprLPsuq(ii) + ".htm";
+	
+		if (href == path_from_document_to_document) {
+			theString += ("<a>" + MsprLMxroztIvrit(ii) + "</a> ");
+		} else {
+			theString += ("<a target=_top href='" + href + "'>" + MsprLMxroztIvrit(ii) + "</a> ");
+		}
+	
+		theString += (" ");
 	}
-
-	theString += (" ");
-}
-document.write(theString);
+	document.write(theString);
 }
 
 

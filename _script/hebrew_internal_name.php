@@ -10,6 +10,8 @@ function internal_name($name_for_display) {
 			"אבגדהוזחטיכךלםמנןסעפףצץקרשת",
 			"ABGDHWZXFYKKLMMNNSEPPCCQRJT");
 
+	$name_for_display = trim($name_for_display);
+	
 	return preg_replace(
 		"|[^a-z0-9]|", "_", 
 		strtolower($name_for_display) );
