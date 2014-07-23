@@ -1,22 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html dir='ltr' lang='en'>
 <head>
-<meta http-equiv='Content-Type' content='text/html; charset=windows-1255' />
-<title>niwut</title>
-</head>
-<body>
-<h1>niwut</h1>
 
 <?php
-/* קידוד חלונות ! */
+/* ׳§׳™׳“׳•׳“ ׳—׳׳•׳ ׳•׳× ! */
 
 error_reporting(E_ALL);
-//session_start();
 
 /**
  * @file niwut.php
  * add navigation bars to articles the tnk1 site, and also creates collection files.
- * @author Erel Segal אראל סגל
+ * @author Erel Segal ׳׳¨׳׳ ׳¡׳’׳
  * @date 2006-11-16
  */
 
@@ -52,6 +46,13 @@ if (isset($_GET['import'])) {
 }
 
 if (isset($_GET['make'])) {
+?>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>niwut</title>
+</head>
+<body>
+<h1>Make</h1>
+<?php 
 	sql_set_charset('utf8');
 	if (isset($_GET['ljon'])) {
 		sql_queries_or_die(file_get_contents("admin/make_temporary_tables_ljon.sql"));
@@ -72,7 +73,16 @@ if (isset($_GET['make'])) {
 	}
 	print "<p>Make finished!</p>\n";
 	exit;
-}
+} 
+
+?>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1255' />
+<title>niwut</title>
+</head>
+<body>
+<h1>Make</h1>
+<?php 
+
 
 if (!isset($_GET['ljon'])) {
 	require_once("$fileroot/tnk1/niqud.php");
@@ -162,10 +172,10 @@ for ($i=0; $i<count($bnim); ++$i) {
 
 	$qod = $bn;
 	if ($path_from_root_to_site === 'tnk1')
-		$qod .= ' בתנ"ך';
+		$qod .= ' ׳‘׳×׳ "׳';
 
-	if (strpos($nman,"בלבד")!==false  or strpos($nman,"לא גמור")!==false)
-		$sug = "לא גמור";
+	if (strpos($nman,"׳‘׳׳‘׳“")!==false  or strpos($nman,"׳׳ ׳’׳׳•׳¨")!==false)
+		$sug = "׳׳ ׳’׳׳•׳¨";
 
 
 	if (
@@ -304,7 +314,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		if (!preg_match("/<h2 id=.tguvot.>/i",$contents)) {
 
 			if (preg_match("/<ul id='ultguvot'>/i",$contents)) {
-				$contents = preg_replace("/<ul id='ultguvot'>/i","<h2 id='tguvot'>תגובות</h2>\n<ul id='ultguvot'>",$contents);
+				$contents = preg_replace("/<ul id='ultguvot'>/i","<h2 id='tguvot'>׳×׳’׳•׳‘׳•׳×</h2>\n<ul id='ultguvot'>",$contents);
 			} else {
 				print "<p>WARNING: no h2 tguvot and no ultguvot - skipping!</p>";
 				print "<pre>$contents</pre>\n";
@@ -386,7 +396,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 
 
 
-// יצירת סרגל ניווט
+// ׳™׳¦׳™׳¨׳× ׳¡׳¨׳’׳ ׳ ׳™׳•׳•׳˜
 function niwut($bn_quoted, $path_from_document_to_root) {
 	global $path_from_root_to_site, $QLT_lniwut;
 	if (isset($_GET['debug_times'])) print " niwut: ";
@@ -425,29 +435,29 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 			if(!$row) break;
 			list ($av_xdj, $ktovt_av_xdj, $sug) = $row;
 			if ($av_xdj === $av) break;
-			if ($av_xdj === 'הקשר לפרשה') break;
+			if ($av_xdj === '׳”׳§׳©׳¨ ׳׳₪׳¨׳©׳”') break;
 			$av = $av_xdj;
 			$ktovt_av = $ktovt_av_xdj;
 		}
 		if (preg_match("|^tnk1/ljon/jorj/|", $ktovt_av)) {
-			$av = "לשון המקרא";
+			$av = "׳׳©׳•׳ ׳”׳׳§׳¨׳";
 			$ktovt_av = "tnk1/ljon/index.html";
 			$niwut_line = "<a href='$path_from_document_to_root$ktovt_av'>$av</a>&gt;$niwut_line";
 		}
 		if (preg_match("|^tnk1/dmut/dmut/\d|",$ktovt_av)) {
-			$av = "דמויות תנכיות";
+			$av = "׳“׳׳•׳™׳•׳× ׳×׳ ׳›׳™׳•׳×";
 			$ktovt_av = "tnk1/dmut/index.html";
 			$niwut_line = "<a href='$path_from_document_to_root$ktovt_av'>$av</a>&gt;$niwut_line";
 		}
 		print " $mspr_jlby_niwut ";
 
-		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='${path_from_document_to_root}${path_from_root_to_site}/index.html'>ראשי</a>&gt;$niwut_line</div>\n";
+		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='${path_from_document_to_root}${path_from_root_to_site}/index.html'>׳¨׳׳©׳™</a>&gt;$niwut_line</div>\n";
 	}
 	return $niwut;
 
 
-	#if ($sug === 'לא גמור') {
-	#	print PLT "<i>*** אזהרה: המאמר בדף זה הוא לא גמור. אם תעזרו לגמור אותו - תבורכו! ***</i>\n";
+	#if ($sug === '׳׳ ׳’׳׳•׳¨') {
+	#	print PLT "<i>*** ׳׳–׳”׳¨׳”: ׳”׳׳׳׳¨ ׳‘׳“׳£ ׳–׳” ׳”׳•׳ ׳׳ ׳’׳׳•׳¨. ׳׳ ׳×׳¢׳–׳¨׳• ׳׳’׳׳•׳¨ ׳׳•׳×׳• - ׳×׳‘׳•׳¨׳›׳•! ***</i>\n";
 	#}
 }
 
@@ -491,7 +501,7 @@ function tokn_lfi_tvnit($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root
 			//$prjot_content = iconv('utf-8','windows-1255',$prjot_content);
 			$fullbody .= $prjot_content;
 		} elseif (strpos($line, "<%whatsnew_textia%>")!==false) {
-			$main_land = "ארץ המקרא";
+			$main_land = "׳׳¨׳¥ ׳”׳׳§׳¨׳";
 			$main_land = iconv('windows-1255','utf-8',$main_land);
 			$news_url = "http://localhost/quest/world/news.php?format=short&count=3&land=".urlencode($main_land);
 			$news_content = file_get_contents($news_url);
@@ -499,7 +509,7 @@ function tokn_lfi_tvnit($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root
 			$fullbody .= $news_content;
 		} elseif (strpos($line,"<%tguvot%>")!==false) {
 			$fullbody .= 
-				"<h2 id='tguvot'>תוספות ותגובות</h2>\n" .
+				"<h2 id='tguvot'>׳×׳•׳¡׳₪׳•׳× ׳•׳×׳’׳•׳‘׳•׳×</h2>\n" .
 				"<ul id='ultguvot'>\n" .
 				"</ul><!--end-->\n";
 		} elseif (strpos($line, "<%tosft")!==false) {
@@ -537,7 +547,7 @@ function av_o_bn_yxid($bn, $ktovt_bn) {
 	$bn_quoted = quote_all($bn);
 	$rows = sql_query_or_die("SELECT * FROM $QLT_losfim WHERE av=$bn_quoted");
 	if (sql_num_rows($rows)==1) {
-		# אם לבן יש רק בן אחד - אפשר לדלג עליו ולקשר ישר לבן היחיד שלו
+		# ׳׳ ׳׳‘׳ ׳™׳© ׳¨׳§ ׳‘׳ ׳׳—׳“ - ׳׳₪׳©׳¨ ׳׳“׳׳’ ׳¢׳׳™׳• ׳•׳׳§׳©׳¨ ׳™׳©׳¨ ׳׳‘׳ ׳”׳™׳—׳™׳“ ׳©׳׳•
 		$row = sql_fetch_assoc($rows);
 		$tvnit_bn = $row['tvnit_av'];
 		$bn_bn = $row['bn'];
@@ -562,11 +572,11 @@ function qijur_lbn($ktovt_av, $kotrt_dor, $qod_bn, $kotrt_bn, $ktovt_bn, $sug_bn
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", "", "");
 	} elseif (strpos($kotrt_bn,"<img")!==false) {
 		return qijur_mle($ktovt_bn, $qod_bn, "", "", "", "");
-	} elseif (!$ktovt_av or !$ktovt_bn) {   #אם אחת משתי הכתובות ריקה, הגולש לא יוכל לראות את הכותרת השלמה, ולכן יש לשים אותה כאן
+	} elseif (!$ktovt_av or !$ktovt_bn) {   #׳׳ ׳׳—׳× ׳׳©׳×׳™ ׳”׳›׳×׳•׳‘׳•׳× ׳¨׳™׳§׳”, ׳”׳’׳•׳׳© ׳׳ ׳™׳•׳›׳ ׳׳¨׳׳•׳× ׳׳× ׳”׳›׳•׳×׳¨׳× ׳”׳©׳׳׳”, ׳•׳׳›׳ ׳™׳© ׳׳©׳™׳ ׳׳•׳×׳” ׳›׳׳
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
-	} elseif (strpos($sug_bn,"הגדרה")!==false || strpos($qod_bn,"ביאור:")!==false) { #הגדרות למילים או פסוקים יש לשים בשלמותן
+	} elseif (strpos($sug_bn,"׳”׳’׳“׳¨׳”")!==false || strpos($qod_bn,"׳‘׳™׳׳•׳¨:")!==false) { #׳”׳’׳“׳¨׳•׳× ׳׳׳™׳׳™׳ ׳׳• ׳₪׳¡׳•׳§׳™׳ ׳™׳© ׳׳©׳™׳ ׳‘׳©׳׳׳•׳×׳
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
-	} elseif ($kotrt_dor) { #אם יש כותרת לכל הדור - יש לשים את הכותרת של כל בן בשלמותה
+	} elseif ($kotrt_dor) { #׳׳ ׳™׳© ׳›׳•׳×׳¨׳× ׳׳›׳ ׳”׳“׳•׳¨ - ׳™׳© ׳׳©׳™׳ ׳׳× ׳”׳›׳•׳×׳¨׳× ׳©׳ ׳›׳ ׳‘׳ ׳‘׳©׳׳׳•׳×׳”
 		return qijur_mle($ktovt_bn, $kotrt_bn, "", "", $sugclass, $qod_bn);
 	} elseif (strlen($qod_bn) < strlen($kotrt_bn)) {
 		return qijur_mle($ktovt_bn, $qod_bn, "", "", $sugclass, $kotrt_bn);
@@ -655,7 +665,7 @@ function bnim_brjima($av_raji_quoted, $kotrt_qta, $sof_qta, $where_clause, $sug_
 				$has_table=1;
 
 			if (strpos($sug_rjima,"h3")!==false) {
-				#צור קישורים מהאב לנכדים
+				#׳¦׳•׳¨ ׳§׳™׳©׳•׳¨׳™׳ ׳׳”׳׳‘ ׳׳ ׳›׳“׳™׳
 				$id = htmlspecialchars(str_replace(" ","_",$bn));
 				$qijur_mle = qijur_mle($ktovt_bn, $kotrt, $mxbr, $nman, $sugclass);
 				
@@ -669,14 +679,14 @@ function bnim_brjima($av_raji_quoted, $kotrt_qta, $sof_qta, $where_clause, $sug_
 				$bn_quoted = quote_all($bn);
 				
 				if (strpos($sug_rjima,"li")!==false) {
-					#ברשימה מסוג זה, אין קישורים מהאב לנכדים
+					#׳‘׳¨׳©׳™׳׳” ׳׳¡׳•׳’ ׳–׳”, ׳׳™׳ ׳§׳™׳©׳•׳¨׳™׳ ׳׳”׳׳‘ ׳׳ ׳›׳“׳™׳
 					$body .= qijur_mle($ktovt_bn, $kotrt, $mxbr, $nman, $sugclass) . "&nbsp;\n";
 				}
 				else {
 					if (strpos($kotrt,"<table")===false) $body .= "  <li>";
 					if (strpos($sug_rjima,"sug")!==false) $body .= "$sug: ";
 
-					#צור קישורים מהאב לנכדים
+					#׳¦׳•׳¨ ׳§׳™׳©׳•׳¨׳™׳ ׳׳”׳׳‘ ׳׳ ׳›׳“׳™׳
 					$animated = strpos($sug_rjima,"animated")!==false;
 					if (mspr_bnim($bn_quoted,"sdr_bn<$sf_nkdim") > 0 || $animated) {
 						if ($animated) {
@@ -759,7 +769,7 @@ function kituv_mle($ktovt, $kotrt, $mxbr, $nman) {
 		}
 		elseif (strpos($kotrt, "img")!==false) {
 			$mqor = str_replace("'","",$mqor);
-			$kituv = str_replace("img", "img title='התמונה מ: $mqor'", $kituv);
+			$kituv = str_replace("img", "img title='׳”׳×׳׳•׳ ׳” ׳: $mqor'", $kituv);
 		}
 		else {
 			$kituv .= "<small> / $mqor</small>";
@@ -789,7 +799,7 @@ function qijur_mle($ktovt, $kotrt, $mxbr, $nman, $sug, $kotrt_aruka="", $attribu
 			$a_tag .= " title='$kotrt_aruka'";
 		}
 		if (preg_match("/http:/",$ktovt_mlea)) {
-			$kituv = "$kituv <small>(קישור חיצוני)</small>";
+			$kituv = "$kituv <small>(׳§׳™׳©׳•׳¨ ׳—׳™׳¦׳•׳ ׳™)</small>";
 			$a_tag .= " target='_blank'";
 		}
 		if ($attributes) {
