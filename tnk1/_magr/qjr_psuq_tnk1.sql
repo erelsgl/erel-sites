@@ -378,3 +378,51 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי כז27', `tarik_hosfa` = '2014-07-22 05:45:01' WHERE `bn` = 'ביאור:משלי כז26' AND `sfr` = 'משל' AND `prq0` = 'כז' AND `psuq0` = 27 AND `sug` = 'תרגום' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כט27' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 4 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג1' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = ' כשהצדיקים עולצים, שמחים מצליחים ומשפיעים, הם מרבים לפאר ולשבח את הזולת; אולם כשהרשעים קמים ומקבלים כוח, הם מחפשים את הפגמים בכל אדם.', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-23 02:46:53' WHERE `bn` = 'ביאור:משלי כח12' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 12 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמואל ב יב24' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 13 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-23 02:46:53' WHERE `bn` = 'ביאור:משלי כח18' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 18 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'בתוכחה, כמו במלחמה, יש לקרוא \"אחריי!\".', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-23 02:46:54' WHERE `bn` = 'ביאור:משלי כח23' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 23 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ח32', `tarik_hosfa` = '2014-07-23 02:46:54' WHERE `bn` = 'ביאור:משלי כח32' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 32 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ח33', `tarik_hosfa` = '2014-07-23 02:46:54' WHERE `bn` = 'ביאור:משלי כח33' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 33 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `prq0` = 'ח', `tarik_hosfa` = '2014-07-23 02:47:08' WHERE `bn` = 'ביאור:משלי ח33' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 33 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ח32' AND `sfr` = 'משל' AND `prq0` = 'כח' AND `psuq0` = 32 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ח33' AND `sfr` = 'משל' AND `prq0` = 'ח' AND `psuq0` = 33 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2014-07-23 06:59:55' WHERE `bn` = 'ביאור:משלי ח33' AND `sfr` = 'משל' AND `prq0` = 'ח' AND `psuq0` = 33 AND `sug` = '' AND 1 LIMIT 1;
+
