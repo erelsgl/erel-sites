@@ -67,7 +67,7 @@ if (isset($_GET['make'])) {
 
 		$rows = sql_query_or_die("SELECT * FROM wikia_replace_links");
 		$contents = sql_text_table($rows);
-		$file = dirname(__FILE__)."/../wikia_replace_links.txt";
+		$file = dirname(__FILE__)."/wikia_replace_links.txt";
 		file_put_contents($file, "$contents");
 
 	}

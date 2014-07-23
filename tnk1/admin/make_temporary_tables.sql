@@ -1594,6 +1594,3 @@ SELECT /*Wrong sugim*/ * from prt_tnk1
 left join sugy_sugim_tnk1 on(sug=sug_prti)
 WHERE sug_prti IS NULL
 ;
-
-
-
