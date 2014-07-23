@@ -37,7 +37,7 @@ function xhtml_header($title, $body_attributes='', $stylesheets=NULL, $custom_co
 	<meta http-equiv='Content-Type' content='text/html; charset=$HTML_ENCODING' />
 	<meta http-equiv='Content-Script-Type' content='text/javascript' />
 	<meta http-equiv='revisit-after' content='15 days' />
-	<title>" . htmlspecialchars($title) . "</title>
+	<title>$title</title>
 ";
 	if ($stylesheets) {
 		foreach ($stylesheets as $stylesheet) {

@@ -21,6 +21,7 @@ require_once("$SCRIPT/file.php");
 require_once("$SCRIPT/mkpath.php");
 require_once("$SCRIPT/string.php");
 require_once("$SCRIPT/string_torausfm.php");
+require_once("$SCRIPT/hebrew.php");
 require_once("$SCRIPT/hebrew_internal_name.php");
 require_once("$SCRIPT/benchmark.php");
 require_once("$SCRIPT/fix_links.php");
@@ -497,7 +498,6 @@ function tokn_lfi_tvnit($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root
 			require_once("$SCRIPT/prjot_1255.php");
 			sql_set_charset('hebrew');
 			$prjot_content = prjot(0,0);
-			//$prjot_content = iconv('utf-8','windows-1255',$prjot_content);
 			$fullbody .= $prjot_content;
 		} elseif (strpos($line, "<%whatsnew_textia%>")!==false) {
 			$main_land = "ארץ המקרא";
@@ -629,8 +629,8 @@ function bnim_brjima($av_raji_quoted, $kotrt_qta, $sof_qta, $where_clause, $sug_
 
 	if (preg_match("/script (.*)/i",$sug_rjima)) {
 		$sug_ktiva = $matches[1];
-		$kotrt_qta = htmlspecialchars($kotrt_qta, ENT_QUOTES);
-		$sof_qta =~ htmlspecialchars($sof_qta, ENT_QUOTES);
+		$kotrt_qta = htmlspecialchars_hebrew($kotrt_qta, ENT_QUOTES);
+		$sof_qta =~ htmlspecialchars_hebrew($sof_qta, ENT_QUOTES);
 		$body .= "<script type='text/javascript'>ktov_bnim('$kotrt_qta', '$sug_ktiva:', '$sof_qta')</script>\n";
 	}
 
@@ -664,7 +664,7 @@ function bnim_brjima($av_raji_quoted, $kotrt_qta, $sof_qta, $where_clause, $sug_
 
 			if (strpos($sug_rjima,"h3")!==false) {
 				#צור קישורים מהאב לנכדים
-				$id = htmlspecialchars(str_replace(" ","_",$bn));
+				$id = htmlspecialchars_hebrew(str_replace(" ","_",$bn));
 				$qijur_mle = qijur_mle($ktovt_bn, $kotrt, $mxbr, $nman, $sugclass);
 				
 				$body .= "  <h3 id='$id'>$qijur_mle</h3>";
@@ -735,7 +735,7 @@ function ktovt_mlea($ktovt, $sug) {
 	$ktovt = preg_replace("|^.*axrimpl/hydepark/([0-9]+)_([0-9]+)\.html|", "http://hydepark.hevre.co.il/hydepark/topic.asp?topic_id=$1&whichpage=$2", $ktovt);
 	$ktovt = preg_replace("|^.*axrimpl/moreshet/([0-9]+).html|", "http://moreshet.co.il/web/shut/shut2.asp?id=$1", $ktovt);
 	
-	$ktovt = htmlspecialchars($ktovt);
+	$ktovt = htmlspecialchars_hebrew($ktovt);
 	
 	if (!$ktovt || address_is_absolute($ktovt)) {
 		return $ktovt;

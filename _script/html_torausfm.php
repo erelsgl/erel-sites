@@ -9,6 +9,7 @@
 
 require_once(dirname(__FILE__) . '/html.php');
 require_once(dirname(__FILE__) . '/string.php');
+require_once(dirname(__FILE__) . '/hebrew.php');
 
 $HIDDEN_FIELDNAMES = array(
 	"qod"=>"קוד",
@@ -18,20 +19,19 @@ $HIDDEN_FIELDNAMES = array(
 	);
 
 function html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root_to_document, $path_from_document_to_root, $path_from_document_to_site, $mxbr, $nman, $niwut) {
-	print "<p>html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root_to_document, $path_from_document_to_root, $path_from_document_to_site, $mxbr, $nman, $niwut)</p>\n";
+	//print "<p>html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root_to_document, $path_from_document_to_root, $path_from_document_to_site, $mxbr, $nman, $niwut)</p>\n";
 	global $HTML_ENCODING, $HIDDEN_FIELDNAMES;
 
-	$mxbr_meta = htmlspecialchars($mxbr);
-	$nman_meta = htmlspecialchars($nman);
-	//$ktovt_meta = htmlspecialchars(str_replace(".html","",$path_from_root_to_document));  // problems with Facebook Like button!
-	$ktovt_meta = htmlspecialchars($path_from_root_to_document);
-	$description = htmlspecialchars($kotrt);
-	$keywords = htmlspecialchars("$qod,$kotrt");
+	$mxbr_meta = htmlspecialchars_hebrew($mxbr);
+	$nman_meta = htmlspecialchars_hebrew($nman);
+	$ktovt_meta = htmlspecialchars_hebrew($path_from_root_to_document);
+	$description = htmlspecialchars_hebrew($kotrt);
+	$keywords = htmlspecialchars_hebrew("$qod,$kotrt");
 
 	$anipruj = ($sug === "שדל" || $sug === "מלבים");
 
 	$result = xhtml_header(
-		$kotrt, 
+		htmlspecialchars_hebrew($kotrt), 
 		"id = '" . internal_name(str_replace(".html","",$path_from_root_to_document)) . "' class='" . internal_name($sug) . " $tvnit'" ,
 		array("{$path_from_document_to_root}_script/klli.css", "{$path_from_document_to_site}_themes/klli.css"),"
 <meta property='og:url' content='http://tora.us.fm/$ktovt_meta'/>

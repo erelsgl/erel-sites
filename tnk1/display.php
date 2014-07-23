@@ -3,9 +3,8 @@ error_reporting(E_ALL);
 $GLOBALS['no_cache']="?no_cache=".time();
 //$GLOBALS['no_cache']=""; // "no_cache" ruins google +1...
 
-function htmlspecialchars_hebrew($string) {
-	return htmlspecialchars($string, ENT_QUOTES, 'iso-8859-1'); // iso-8859-8 and cp1255 are not supported 
-}
+require_once(dirname(__FILE__)."/../_script/hebrew.php");
+
 /**
  * קידוד חלונות
 	@file display.php

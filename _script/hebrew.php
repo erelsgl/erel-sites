@@ -5,6 +5,10 @@
  * 
  */
 
+function htmlspecialchars_hebrew($string) {
+	return htmlspecialchars($string, ENT_QUOTES, 'iso-8859-1'); // iso-8859-8 and cp1255 are not supported
+}
+
 ### Hebrew letters ###
 $otiot_txiliot = "אבגדהוזחטיכלמנסעפצקרשת";
 $otiot_ivriot = "אבגדהוזחטיךכלםמןנסעףפץצקרשת";
