@@ -16,3 +16,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יז3', 'כור הברזל וכור הזהב', '', 10, 60, '2014-07-22 05:07:21');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'מבצעי מפרשים' AND `bn` = 'הקלדת פירושי אברבנאל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'פירושי אברבנאל' AND `bn` = 'הקלדת פירושי אברבנאל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'מבצעי מפרשים' AND `bn` = 'הקלדת פירושי רש\"ר הירש לתורה ולספר תהלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'פירושי רש\"ר הירש' AND `bn` = 'הקלדת פירושי רש\"ר הירש לתורה ולספר תהלים' AND 1 LIMIT 1;
+
