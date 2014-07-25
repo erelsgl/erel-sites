@@ -1,0 +1,120 @@
+<html dir="rtl" lang="he">
+	
+<link rel='stylesheet' href='../../_script/klli.css' />
+<link rel='stylesheet' href='../_themes/klli.css' />
+	<title>תרומות לקניית פירושי מלבי"ם</title>
+		<style type='text/css'>
+body.azwr div.pnim {margin:1%}
+form {border: dashed 1pt}
+.delete, .edit {color:red}
+.deletion {display:none}
+.add, .search {color:green}
+table {width:100%}
+TextArea {font-size:10pt; font-family:monospace}
+</style>
+<script src="../../_script/elements.js"></script>
+<script src="../../_script/frames.js"></script>
+<script src="../../_script/TSV.js"></script>
+<script type='text/javascript'>
+AnalyzeFrameTableStructure('prtimFrame');
+var prtimText = frameText('prtimFrame');
+var sfr = "ישעיהו";
+var msprPrqim = 66;
+function OnSubmitShowVersions(theForm) {
+	parent.dataFrameIsOutdated = true;
+	return true;
+}
+function OnSubmitEdit(theForm) {
+	OnSubmitShowVersions(theForm);
+	alert('ההודעה נשלחה');
+	return true;
+}
+// returns true if the given item (prt) already exists in prtimFrame
+function PrtKvrQym(sfr, prq) {
+	return	(prtimText.search("\r\n"+sfr+"\t"+prq+"\t") > 0) ||
+		(prtimText.search(sfr+"\t"+prq+"\t") == 0);
+}
+function MsprLOtIvrit(mspr) {
+	var otiot_txiliot = "אבגדהוזחטיכלמנסעפצקרשת";
+	if (mspr==0) return "";
+	else if (mspr<=10) return otiot_txiliot.charAt(mspr-1);
+	else if (mspr<=100) return otiot_txiliot.charAt(mspr / 10 + 8);
+	else if (mspr<=400) return otiot_txiliot.charAt(mspr / 100 + 17);
+	else alert('מספר גדול מדי!')
+}
+function MsprLMxroztIvrit(mspr) {
+tocaa =
+MsprLOtIvrit(mspr - mspr%100) +
+MsprLOtIvrit(mspr%100 - mspr%10) +
+MsprLOtIvrit(mspr%10);
+tocaa = tocaa.replace("י" + "ה", "טו");
+tocaa = tocaa.replace("י" + "ו", "טז");
+return tocaa;
+}
+var menuHtml = '';
+for (i=1; i<=msprPrqim; ++i) {
+	ot = MsprLMxroztIvrit(i);
+	if (!PrtKvrQym(sfr, ot))
+		menuHtml += "<OPTION value='" + ot + "'>" + MsprLMxroztIvrit(i);
+}
+</script>
+		<body>
+			<div class="pnim">
+				<h1>השתתפו בקניית פירושי מלבי"ם!</h1>
+				<p>
+				לאחר חיפושים רבים, מצאתי יהודי תושב בית-שמש, שרגא שמואל, שהקליד את כל פירושי
+				מלבי"ם לנביאים וכתובים. הוא מבקש 3000 דולר לכל ספרי נביאים וכתובים - סכום מאד
+				נמוך יחסית. המחיר הממוצע לפרק הוא כ20 ש"ח.
+				<p>
+				אנו מתחילים מספר
+				<script type='text/javascript'>document.write(sfr)</script>,
+				שבו
+				<script type='text/javascript'>document.write(msprPrqim)</script>
+				פרקים. מי שמעוניין להשתתף בקניית פירושי מלבי"ם
+				לספר, מוזמן להכניס את פרטיו כאן, ובמקביל לכתוב המחאה על-שם "שרגא שמואל
+				בלבד", ולשלוח אותה ל ____________ ____________.
+				<p>
+					לאחר שיגיעו כל ההמחאות, הן יועברו למקליד, בתמורה לפירושים.
+					<h2>פרקים שנקנו עד עכשיו</h2>
+					<div id="mcv" contenteditable>
+					</div>
+<script type='text/javascript'>
+document.getElementById('mcv').innerHTML="<table frame='box'>"+FixedTableHTML('')+"</table>"
+</script>
+					<h2>התנדבות לקניית פרק חדש</h2>
+				<p>
+					<form id="prt_hosf" target="_blank" action="../../../cgi-bin/rewrite.pl" method="post" onsubmit='addtextline.value=textfromfields(this); if (validatenotempty(field0,"ספר") && validatenotempty(field1,"פרק") && validatenotempty(field2,"שם") && validatenotempty(username,"פרטים ליצירת קשר")) return onsubmitedit(this); else return false'>
+						<input type="hidden" name="file" value='tnk1/mlbim/trumot_mlbim.txt'>
+						<input type="hidden" name="title" value='טבלת התרומות לקניית פירושי מלבי"ם'>
+						<input type="hidden" name="password" value="דבר">
+						<input type="hidden" name="addtextline">
+						<p>
+							<table>
+								<tr>
+									<td>
+									הספר
+									<td><q class='psuq'><input onclick='javascript:parent.refreshifneeded()' type="text" name="field0" size="10" value=""></q>
+									<script type='text/javascript'>document.getElementById('prt_hosf').field0.value=sfr</script>
+								<tr>
+									<td>
+									הפרק
+									<td>
+									<script type='text/javascript'>document.write("<SELECT name='field1'>"+menuHtml+"</SELECT>")</script>
+									
+									<!--input onclick='javascript:parent.RefreshIfNeeded()' type="text" name="field1" size="5" onmouseout='javascript:if(PrtKvrQym(field0.value,field1.value)) alert("פרק זה כבר נקנה! אנא בחרו פרק אחר.")'-->
+								<tr>
+									<td>
+									הסכום בש"ח<td><q class='psuq'><input disabled onclick='javascript:parent.refreshifneeded()' type="text" name="field2" size="5" value="20"></q>
+								<tr>
+									<td>
+									השם שלכם<td><input onclick='javascript:parent.refreshifneeded()' type="text" name="field3" size="20">
+								<tr>
+									<td>
+									פרטים ליצירת קשר<td><input onclick='javascript:parent.refreshifneeded()' type="text" name="username" size="60">
+							</table>
+						<p align="center"><input class="add" type="submit" name="add" value="שליחה">
+					</form>
+					<center>תודה ל: <a href="http://www.mycgiscripts.com">MyCgiScripts.com</a> <a href="http://www.rgagnon.com">
+							Real's HowTo Javascript</a>
+					</center>
+		</body></html>
