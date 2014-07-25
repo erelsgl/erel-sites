@@ -1,34 +1,16 @@
 CREATE TABLE `qjr_tnk1_tnk1` (
-  `av` varchar(160) NOT NULL default '',
-  `bn` varchar(160) NOT NULL default '',
-  `kotrt` varchar(255) NOT NULL default '',
-  `sug` varchar(15) NOT NULL default '',
-  `sdr_bn` tinyint(4) default NULL,
-  `sdr_av` tinyint(4) default NULL,
-  `tarik_hosfa` datetime default NULL,
-  PRIMARY KEY  (`av`,`bn`),
+  `av` varchar(160) NOT NULL DEFAULT '',
+  `bn` varchar(160) NOT NULL DEFAULT '',
+  `kotrt` varchar(255) NOT NULL DEFAULT '',
+  `sug` varchar(15) NOT NULL DEFAULT '',
+  `sdr_bn` tinyint(4) DEFAULT NULL,
+  `sdr_av` tinyint(4) DEFAULT NULL,
+  `tarik_hosfa` datetime DEFAULT NULL,
+  PRIMARY KEY (`av`,`bn`),
   UNIQUE KEY `bn` (`bn`,`av`)
 ) ENGINE=MyISAM CHARACTER SET utf8;
 
+SET character_set_database=utf8;
+
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_tnk1_tnk1.txt'  INTO TABLE qjr_tnk1_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
-
-SET character_set_client=utf8;
-SET character_set_connection=utf8;
-INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יז3', 'כור הברזל וכור הזהב', '', 10, 60, '2014-07-22 05:07:21');
-
-SET character_set_client=utf8;
-SET character_set_connection=utf8;
-DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'מבצעי מפרשים' AND `bn` = 'הקלדת פירושי אברבנאל' AND 1 LIMIT 1;
-
-SET character_set_client=utf8;
-SET character_set_connection=utf8;
-DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'פירושי אברבנאל' AND `bn` = 'הקלדת פירושי אברבנאל' AND 1 LIMIT 1;
-
-SET character_set_client=utf8;
-SET character_set_connection=utf8;
-DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'מבצעי מפרשים' AND `bn` = 'הקלדת פירושי רש\"ר הירש לתורה ולספר תהלים' AND 1 LIMIT 1;
-
-SET character_set_client=utf8;
-SET character_set_connection=utf8;
-DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'פירושי רש\"ר הירש' AND `bn` = 'הקלדת פירושי רש\"ר הירש לתורה ולספר תהלים' AND 1 LIMIT 1;
 
