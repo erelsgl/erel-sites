@@ -6,7 +6,7 @@ Redirect Permanent /tnk1/daian1 http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7
 
 RewriteRule ^xidon(.*)$ http://ipaper.co.il/cgi-bin/v.cgi?id=nachat&sp=3 [R]
 RewriteRule ^find(.*)$ /tnk/find$1 [R]
-RewriteRule ^[_]mdb(.*)$ ^tnk1/_magr$1 [R]
+RewriteRule ^[_]mdb(.*)$ /tnk1/_magr$1 [R]
 
 Redirect Permanent /tnk1/ktuv/mjly/mj-24-07b.html http://tora.us.fm/tnk1/ktuv/mjly/mj-24-07.html
 
