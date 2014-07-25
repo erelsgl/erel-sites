@@ -5,11 +5,8 @@ Redirect Permanent /tnk1/daian http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%
 Redirect Permanent /tnk1/daian1 http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
 
 RewriteRule ^xidon(.*)$ http://ipaper.co.il/cgi-bin/v.cgi?id=nachat&sp=3 [R]
-RewriteRule ^tnk1/find(.*)$ /tnk/find$1 [R]
-RewriteRule ^tnk1/_mdb(.*)$ ^tnk1/_magr$1 [R]
-
-Redirect Permanent /_script/findpsuq.php http://tora.us.fm/tnk/find.php
-Redirect Permanent /_script/find.php http://tora.us.fm/tnk/find.php
+RewriteRule ^find(.*)$ /tnk/find$1 [R]
+RewriteRule ^_mdb(.*)$ ^tnk1/_magr$1 [R]
 
 Redirect Permanent /tnk1/ktuv/mjly/mj-24-07b.html http://tora.us.fm/tnk1/ktuv/mjly/mj-24-07.html
 
