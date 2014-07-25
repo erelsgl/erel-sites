@@ -1,4 +1,0 @@
-AuthName "tnk1_magr"
-AuthType Basic
-AuthUserFile "/root/wwwwwd/doar/passwd"
-require valid-user
