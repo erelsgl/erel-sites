@@ -1,0 +1,15 @@
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: *
+Disallow: /_script
+Disallow: /tokxot/xrut/91
+Disallow: /tokxot/xrut/91
+Disallow: /tnk1/_magr
+Disallow: /erelvgalya
+Disallow: /quest/world/article.php
+Disallow: /quest/world/soldier.php
+Disallow: /quest/world/virtuequest.php
+Disallow: /quest/world/leaders.php
+Disallow: /quest/world/city.php
+Disallow: /quest/world/land.php
