@@ -3,7 +3,7 @@ CREATE TABLE `prt_tnk1` (
   `sug` varchar(15) NOT NULL DEFAULT '',
   `tvnit` varchar(15) NOT NULL DEFAULT '',
   `kotrt` varchar(235) NOT NULL DEFAULT '',
-  `ktovt` varchar(160) NOT NULL DEFAULT '',
+  `ktovt` varchar(300) DEFAULT NULL,
   `m` varchar(255) NOT NULL DEFAULT '',
   `l` varchar(255) NOT NULL DEFAULT '',
   `tarik_hosfa` datetime DEFAULT NULL,
