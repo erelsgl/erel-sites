@@ -548,6 +548,7 @@ sfrim		Setup Done	1
 sfrim	booklevel_psuqomat	InputType	short_text
 sfrim	kmut_prqim	Default	0
 sfrim	kmut_prqim	InputType	short_text
+sfrim	kotrt	Attributes	dir='rtl'
 sfrim	kotrt	InputType	short_text
 sfrim	mspr_psukomat	Default	0
 sfrim	mspr_psukomat	InputType	short_text
@@ -559,6 +560,9 @@ sfrim	qod_mfrjim	InputType	short_text
 sfrim	qod_mlbim	InputType	short_text
 sfrim	qod_sacred_texts	InputType	short_text
 sfrim	qod_snunit	InputType	short_text
+sfrim	sfr_msora	Attributes	dir='rtl'
+sfrim	sfr_msora	InputType	short_text
+sfrim	xtiva	Attributes	dir='rtl'
 sfrim	xtiva	InputType	short_text
 sgulot		Setup Done	1
 sgulot	book	Attributes	size='3'
