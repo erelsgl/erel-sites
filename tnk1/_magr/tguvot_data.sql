@@ -307,3 +307,33 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t2709_1.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sig_9sfr_15.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-07-25 16:15:11'
+		WHERE parent='tnk1/messages/sig_9sfr_15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/msr_atid_32.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-07-27 19:38:21'
+		WHERE parent='tnk1/messages/msr_atid_32.html'
+		;
+
