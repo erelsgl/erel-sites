@@ -1,0 +1,204 @@
+/*
+	style sheet for Commandment site: http://tora.us.fm/tryg
+	(See also generic stylesheet: http://tora.us.fm/_script/klli.css)
+*/
+
+
+/* sizes - override http://tora.us.fm/_script/klli.css */
+
+.none { line-height: 0em; height: 0em; margin: 0 0 0 0;	padding: 0 0 0 0; border-top: solid 0.25px }
+
+
+/* colors (Network Blitz theme) */
+
+body {	color: black; font-family: Verdana, Arial, Helvetica, sans-serif; background: white url('btztilea.gif'); }
+
+h1 { color: rgb(0,0,102); text-align:center; margin:auto }
+h2, marquee {	color: rgb(0,0,102); text-align:center; margin:auto }
+h3 {	color: rgb(0,0,102);}
+h4 {	color: rgb(0,0,102);}
+h5 {	color: rgb(0,0,102);}
+h6 {	color: rgb(0,0,102);}
+hr {	color: rgb(0,0,102);}
+
+textarea {	border-color: rgb(0,51,153);	color: black;}
+fieldset {	border-color: rgb(0,51,153);	color: black;}
+legend {	color: rgb(0,0,102); }
+select {	border-color: rgb(0,51,153);	color: black; }
+table { border-color: rgb(0,51,153);	color: rgb(0,0,0); }
+caption {	color: rgb(0,0,102); }
+th {		color: rgb(0,0,0);	border-color: rgb(0,51,153); }
+td {	border-color: rgb(0,51,153); }
+ul {	list-style-image: url('btzbul1a.gif');}
+ul ul {	list-style-image: url('btzbul2a.gif');}
+ul ul ul {	list-style-image: url('btzbul3a.gif');}
+a:link {	color: rgb(51,51,153);}
+a:visited {	color: rgb(51,102,102);}
+a:active {	color: rgb(204,153,51);}
+
+em { color: #008800 }
+
+
+/* mcwot */
+
+.tana {font-family: Miriam, serif;
+letter-spacing: 2px;
+margin-top: 2em; background-color: rgb(255,255,220)
+}
+.tjuva {margin-right: 3ex;
+font-family: Arial, sans-serif; margin-top: 0; padding-top: 0.3em; background-color: rgb(255,255,220)}
+
+body .drkym {font-size:1em; background-color: rgb(255,255,204); border: 1px solid rgb(102,0,51) }
+
+body .mcwwt, body.mcwh .pnim {font-size:1em; background: rgb(255,255,220); border: 1px solid rgb(230,230,184) }
+
+
+body.mcwwt_rcwn .mcwwt {background: rgb(255,255,220) url(tipus.gif) no-repeat}
+body.mcwwt_zmn .mcwwt {background: rgb(255,255,220) url(jaon.gif) no-repeat}
+body.mcwwt_ecm .mcwwt {background: rgb(255,255,220) url(msor.gif) no-repeat}
+body.mcwwt_arwe .mcwwt {background: rgb(255,255,220) url(totx.gif) no-repeat}
+body.mcwwt_xwbt .mcwwt {background: rgb(255,255,220) url(qhl.gif) no-repeat}
+body.mcwwt_adm .mcwwt {background: rgb(255,255,220) url(nka.gif) no-repeat}
+body.mcwwt_rge .mcwwt {background: rgb(255,255,220) url(tfila.gif) no-repeat}
+body.mcwwt_erk .mcwwt {background: rgb(255,255,220) url(moznyim.gif) no-repeat}
+body.mcwwt_mqwm .mcwwt {background: rgb(255,255,220) url(olmcivoni.gif) no-repeat}
+
+
+
+.InlineSublists {padding-left: 5ex; padding-right:5ex}
+.InlineSublists li a { font-weight: bold }
+.InlineSublists li span a { font-size: 0.8em; font-weight:normal }
+.InlineSublists li span.prq a { font-size: 0.7em; font-weight: normal }
+
+.TableSublists li { clear:both }
+.TableSublists li a { }
+.TableSublists li span { font-size:0.8em; list-style: none;
+margin:1px; padding:1px; border:1.1px groove rgb(230,230,184);
+display: block; float: right; width:45%; }
+.TableSublists li span a { font-weight:normal; text-decoration:none}
+
+li table {border: none}
+li table td {font-size:0.8em; border: groove 1.1px rgb(230,230,184)}
+li table td a {text-decoration: none}
+
+
+body .hgdrwt {font-size:1em; background-color: rgb(255,255,204); border: 1px solid rgb(102,0,51) }
+body .qyjwrym {font-size:1em; background-color: rgb(255,255,184) }
+body div.mcwwt li {margin: 0.3cm; text-align:center; line-height:100%}
+body div.drkym ol li a small {font-size: smaller}
+
+body.mcwh div.pswqym {}
+body.mcwh div.femym {}
+body.mcwh div.hlkwt {}
+body.mcwh div.hgdrwt {}
+body.mcwh div.drkym {}
+body.mcwh div.sywwgym {}
+
+body.awsp div.nwjaym2 table.sodot, body.awsp div.nwjaym2 table.siwug, body.awsp div.nwjaym2 table.seder {
+	margin-top: 1ex; margin-bottom: 1ex;
+	text-align:center; line-height:200%; font-size:1em;
+	background-color: rgb(255,255,204);
+	border: 1px solid rgb(102,0,51);
+	width: 100%
+}
+
+body.awsp div.nwjaym2 table td.outer table td {line-height:150%}
+
+body.awsp div.nwjaym2 table td.outer ul a {background:rgb(255,255,204); padding:0.5ex; font-size:1.2em} /* hide pictures */
+
+body.awsp div.nwjaym2 table td.outer ul .dor2 a {font-size:1em}
+
+body.awsp div.nwjaym2 table td.outer ul table a {background:rgb(255,255,204); padding:0; font-size:0.8em}
+body.awsp div.nwjaym2 table td.outer ul table {background:rgb(255,255,204)} /* hide pictures */
+body.awsp div.nwjaym2 table.sodot td.outer {border: 1px dashed; padding: 0}
+body.awsp div.nwjaym2 table.sodot td.outer ul {margin:0}
+body.awsp div.nwjaym2 table.siwug td.outer {border: 1px dashed; padding: 0}
+body.awsp div.nwjaym2 table.siwug td.outer ul {margin:0}
+
+body.awsp div.nwjaym2 td.outer ul table {margin:auto}
+
+body.awsp div.nwjaym2 table.sodot td.kll {background:url(kll.gif) no-repeat left}
+body.awsp div.nwjaym2 table.sodot td.odot {background:url(odot.gif) no-repeat bottom}
+body.awsp div.nwjaym2 table.siwug td.zmn {background:url(jaon.gif) no-repeat top right}
+body.awsp div.nwjaym2 table.siwug td.rcon {background:url(tipus.gif) no-repeat bottom right}
+body.awsp div.nwjaym2 table.siwug td.ecm {background:url(msor.gif) no-repeat bottom left}
+body.awsp div.nwjaym2 table.siwug td.erua {background:url(totx.gif) no-repeat top right}
+body.awsp div.nwjaym2 table.siwug td.xwbt {background:url(qhl.gif)}
+body.awsp div.nwjaym2 table.siwug td.adm {background:url(nka.gif) no-repeat bottom left}
+body.awsp div.nwjaym2 table.siwug td.tmid {background:url(tfila.gif) no-repeat bottom left}
+body.awsp div.nwjaym2 table.siwug td.rayon {background:url(moznyim.gif) no-repeat top left}
+body.awsp div.nwjaym2 table.siwug td.mqom {background:url(olmcivoni.gif) no-repeat top right}
+body.awsp div.nwjaym2 table.seder td.xinuk {background:url(tora.gif) no-repeat left}
+body.awsp div.nwjaym2 table.seder td.rmbm {background:url(sfrim.gif) no-repeat bottom left}
+
+body.awsp div.nwjaym2 table.seder td.outer {border: 1px dashed; padding: 0}
+body.awsp div.nwjaym2 table.seder td.outer ul {margin:1ex}
+
+
+
+body div.level0 {
+	text-align:right;
+}
+
+body div.level1 {
+	z-index:20;
+	font-size:15px;
+}
+	
+	div.level1#right {
+		float:right;
+	}
+	
+	div.level1#left {
+		float:left;
+	}
+
+	div.level1 div.level1pnim
+	{
+		background-color:#c8d2c9;
+	}
+	
+	body.index div.level1 ul {
+		list-style-type: none;
+		padding:0;
+		margin:0;
+	}
+
+	div.level1 ul li {
+		padding:0;
+		margin:0;
+	}
+
+
+div.dor2 {
+	background-color: #dde2ce;
+	z-index:10;
+	font-size:15px;
+}
+
+div.dor2 a {
+	text-decoration:none;
+	font-size:12px;
+	display:list-item;
+}
+
+
+div.dor2 ul li {
+	border-bottom: solid 1px #4c0;
+}
+
+div.dor2 ul li a {
+	display:inline;  /* for forum topics and times... */
+	line-height:100%;
+}
+
+body ul#ulbnim div.dor2 a,
+body ul#ulsfrim div.dor2 a {
+	display:list-item;
+	list-style-type:disc;
+	font-size:1em;
+	font-weight:normal;
+	text-decoration:none;
+}
+
+

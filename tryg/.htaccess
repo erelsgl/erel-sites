@@ -1,0 +1,116 @@
+RewriteEngine ON
+RewriteOptions inherit
+
+Redirect Permanent /tryg/goyim62_lnciguyot.html http://www.tora.us.fm/tm/xmc/goyim62.html
+Redirect Permanent /tryg/mamr/gyal.html http://www.tora.us.fm/tryg/rgl/gyal.html
+Redirect Permanent /tryg/messages/pqm.html http://www.tora.us.fm/tryg/ribit0/pqm.html
+Redirect Permanent /tryg/mcwa/index.htm http://www.tora.us.fm/tryg/mcwa/index.html
+
+Redirect Permanent /tryg/ribit0/private.html http://tora.us.fm/tryg/ribit0/bank1.html
+
+Redirect Permanent /tryg/jmita/index.html http://www.tora.us.fm/tryg/sug/erua_zmn_jbyeyt.html
+
+Redirect Permanent /tryg/sug/mwedym.html http://www.tora.us.fm/tryg/sug/erua_zmn.html
+Redirect Permanent /tryg/sug/psx.html http://www.tora.us.fm/tryg/sug/erua_zmn_psx.html
+Redirect Permanent /tryg/sug/mch_wxmc.html http://www.tora.us.fm/tryg/sug/erua_zmn_psx.html
+Redirect Permanent /tryg/sug/jbwewt.html http://www.tora.us.fm/tryg/sug/erua_zmn_jbwewt.html
+Redirect Permanent /tryg/sug/swkwt.html http://www.tora.us.fm/tryg/sug/erua_zmn_swkwt.html
+Redirect Permanent /tryg/sug/jbt.html http://www.tora.us.fm/tryg/sug/erua_zmn_jbt.html
+Redirect Permanent /tryg/sug/3_rglym.html http://www.tora.us.fm/tryg/sug/erua_zmn_3_rglym.html
+Redirect Permanent /tryg/sug/tbwah_xdjh.html http://www.tora.us.fm/tryg/sug/erua_zmn_jnh_ewmr.html
+Redirect Permanent /tryg/sug/psx_jny.html http://www.tora.us.fm/tryg/sug/erua_zmn_psx_jny.html
+Redirect Permanent /tryg/sug/raj_hjnh.html http://www.tora.us.fm/tryg/sug/erua_zmn_raj_hjnh.html
+Redirect Permanent /tryg/sug/ywm_kypwr.html http://www.tora.us.fm/tryg/sug/erua_zmn_ywm_kypwr.html
+Redirect Permanent /tryg/sug/jbyeyt.html http://www.tora.us.fm/tryg/sug/erua_zmn_jbyeyt.html
+Redirect Permanent /tryg/sug/jmyft_qrqewt.html http://www.tora.us.fm/tryg/sug/erua_zmn_jbyeyt.html
+
+Redirect Permanent /tryg/sug/ksp.html http://www.tora.us.fm/tryg/sug/rcon_esqym.html
+Redirect Permanent /tryg/sug/jkyrwt.html http://www.tora.us.fm/tryg/sug/rcon_esqym.html
+Redirect Permanent /tryg/sug/esqym.html http://www.tora.us.fm/tryg/sug/rcon_esqym.html
+Redirect Permanent /tryg/sug/hlwah.html http://www.tora.us.fm/tryg/sug/rcon_hlwah.html
+Redirect Permanent /tryg/sug/mjkwn.html http://www.tora.us.fm/tryg/sug/rcon_hlwah.html 
+Redirect Permanent /tryg/sug/amt_bmydwt.html http://www.tora.us.fm/tryg/sug/ecm_kly_midh.html
+Redirect Permanent /tryg/sug/hlwah_lenyym.html http://www.tora.us.fm/tryg/sug/cdqh_lenyym.html
+Redirect Permanent /tryg/sug/rcon_mtnwt_enyym.html http://www.tora.us.fm/tryg/sug/cdqh_lenyym.html
+Redirect Permanent /tryg/sug/rcon_mtnwt_mqdj.html http://www.tora.us.fm/tryg/sug/cdqh_lenyym.html
+Redirect Permanent /tryg/sug/econ_mtnwt_khnym.html http://www.tora.us.fm/tryg/sug/cdqh_lenyym.html
+Redirect Permanent /tryg/sug/erua_zmn_mtnwt_khnym.html http://www.tora.us.fm/tryg/sug/cdqh_lenyym.html
+Redirect Permanent /tryg/sug/xwbt_hajh_mbny_nwx.html http://www.tora.us.fm/tryg/sug/xwbt_hadm_mbny_nwx.html
+Redirect Permanent /tryg/sug/xwbt_hgbr_mbny_nwx.html http://www.tora.us.fm/tryg/sug/xwbt_hadm_mbny_nwx.html
+Redirect Permanent /tryg/sug/xyym_wmwwt.html http://www.tora.us.fm/tryg/sug/rayon_xyym_wmwwt.html
+Redirect Permanent /tryg/sug/jmyrt_hxyym.html http://www.tora.us.fm/tryg/sug/rayon_xyym_wmwwt.html
+Redirect Permanent /tryg/sug/xywt.html http://www.tora.us.fm/tryg/sug/ecm_bhmh.html
+Redirect Permanent /tryg/sug/bgdy_khwnh.html http://www.tora.us.fm/tryg/sug/ecm_bgd.html
+Redirect Permanent /tryg/sug/bgdy_hadm.html http://www.tora.us.fm/tryg/sug/ecm_bgd.html
+Redirect Permanent /tryg/sug/xqlawt.html http://www.tora.us.fm/tryg/sug/ecm_xqlawt.html
+Redirect Permanent /tryg/sug/adm_gwpw_wxpcyw.html http://www.tora.us.fm/tryg/sug/ecm_adm_gwpw_wxpcyw.html
+Redirect Permanent /tryg/sug/akylh.html http://www.tora.us.fm/tryg/sug/rcon_akylh.html
+Redirect Permanent /tryg/sug/twrh.html http://www.tora.us.fm/tryg/sug/lymwd_twrh.html
+Redirect Permanent /tryg/sug/xljym.html http://www.tora.us.fm/tryg/sug/ecm_adm_xljym.html
+Redirect Permanent /tryg/sug/yxsy_myn_byn_qrwbym.html http://www.tora.us.fm/tryg/sug/rcon_yxsy_myn.html
+Redirect Permanent /tryg/sug/fwmat_mt_wfhrtw.html http://www.tora.us.fm/tryg/sug/erua_mwt.html
+Redirect Permanent /tryg/sug/rcon_bxirt_bt_zwg.html http://www.tora.us.fm/tryg/sug/rcon_nyjwayn.html
+
+Redirect Permanent /tryg/sug/xcwcrwt.html http://www.tora.us.fm/tryg/sug/ecm_mqdj.html
+Redirect Permanent /tryg/sug/ecm_lxm.html http://www.tora.us.fm/tryg/sug/rcon_akylh_mzwn.html
+Redirect Permanent /tryg/sug/ezrh_lbhmh_bebwdh.html http://www.tora.us.fm/tryg/sug/ecm_bhmh.html
+Redirect Permanent /tryg/sug/dyny_npjwt.html http://www.tora.us.fm/tryg/sug/erua_dyn_npjwt.html
+Redirect Permanent /tryg/sug/dyn_cdq_bedym.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+
+Redirect Permanent /tryg/sug/akylt_trwmh.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+Redirect Permanent /tryg/sug/magyh.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+Redirect Permanent /tryg/sug/xwpj_webdwt.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+Redirect Permanent /tryg/sug/amt_wjqr.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+Redirect Permanent /tryg/sug/ewbdy_alylym.html http://www.tora.us.fm/tryg/sug/erua_mjpfym.html
+
+Redirect Permanent /tryg/sug/nzqym_lrkwj.html http://www.tora.us.fm/tryg/sug/ecm_adm_gwpw_wxpcyw.html
+Redirect Permanent /tryg/sug/fhrt_hkhn.html http://www.tora.us.fm/tryg/sug/xwbt_hkhn.html
+Redirect Permanent /tryg/sug/jwpfym.html http://www.tora.us.fm/tryg/sug/ecm_adm_bely_tpqydym.html
+Redirect Permanent /tryg/sug/mtnwt_lh_.html http://www.tora.us.fm/tryg/sug/rcon_ntynh.html
+Redirect Permanent /tryg/sug/akylt_cmxym.html http://www.tora.us.fm/tryg/sug/ecm_dgn.html
+Redirect Permanent /tryg/sug/nzyr.html http://www.tora.us.fm/tryg/sug/rcon_nzyrwt.html
+Redirect Permanent /tryg/sug/nyjwayn_em_nkrym.html http://www.tora.us.fm/tryg/sug/rcon_nyjwayn.html
+Redirect Permanent /tryg/sug/mxjbh.html http://www.tora.us.fm/tryg/sug/rcon_mxjbh.html
+Redirect Permanent /tryg/sug/spr_twrh.html http://www.tora.us.fm/tryg/sug/lymwd_twrh.html
+Redirect Permanent /tryg/sug/ndrym.html http://www.tora.us.fm/tryg/sug/rcon_dybwr.html
+Redirect Permanent /tryg/sug/yxsy_myn.html http://www.tora.us.fm/tryg/sug/rcon_yxsy_myn.html
+Redirect Permanent /tryg/sug/zbxym_jnfmaw.html http://www.tora.us.fm/tryg/sug/rcon_hqrbh.html
+Redirect Permanent /tryg/sug/mtym.html http://www.tora.us.fm/tryg/sug/erua_mwt.html
+Redirect Permanent /tryg/sug/qrqewt.html http://www.tora.us.fm/tryg/sug/ecm_xqlawt.html
+Redirect Permanent /tryg/sug/ayj_wajh.html http://www.tora.us.fm/tryg/sug/ecm_ayjh.html
+Redirect Permanent /tryg/sug/alylwt.html http://www.tora.us.fm/tryg/sug/ecm_alylym.html
+Redirect Permanent /tryg/sug/bryt_mylh.html http://www.tora.us.fm/tryg/sug/erua_lydt_yld.html
+Redirect Permanent /tryg/sug/fhrt_hayjh.html http://www.tora.us.fm/tryg/sug/rcon_yxsy_myn.html
+Redirect Permanent /tryg/sug/lwyym.html http://www.tora.us.fm/tryg/sug/xwbt_hlwy.html
+Redirect Permanent /tryg/sug/nbwah.html http://www.tora.us.fm/tryg/sug/ecm_adm_bely_tpqydym.html
+Redirect Permanent /tryg/sug/hwrym.html http://www.tora.us.fm/tryg/sug/ecm_adm_hwrym.html
+Redirect Permanent /tryg/sug/khnym.html http://www.tora.us.fm/tryg/sug/xwbt_hkhn.html
+Redirect Permanent /tryg/sug/bkwrwt.html http://www.tora.us.fm/tryg/sug/erua_lydt_bkwr.html
+Redirect Permanent /tryg/sug/emym_axrym.html http://www.tora.us.fm/tryg/sug/ecm_adm_emym_axrym.html
+Redirect Permanent /tryg/sug/mqdj.html http://www.tora.us.fm/tryg/sug/ecm_mqdj.html
+Redirect Permanent /tryg/sug/ebd_nkry.html http://www.tora.us.fm/tryg/sug/ecm_adm_emym_axrym.html
+Redirect Permanent /tryg/sug/gnybh.html http://www.tora.us.fm/tryg/sug/rcon_esqym.html
+Redirect Permanent /tryg/sug/dybwr.html http://www.tora.us.fm/tryg/sug/rcon_dybwr.html
+Redirect Permanent /tryg/sug/qrbn_hpsx.html http://www.tora.us.fm/tryg/sug/erua_zmn_psx.html
+Redirect Permanent /tryg/sug/mxjbt_h_.html http://www.tora.us.fm/tryg/sug/ahbt_h_.html
+Redirect Permanent /tryg/sug/gwp_hadm.html http://www.tora.us.fm/tryg/sug/ecm_gwp_hadm.html
+Redirect Permanent /tryg/sug/mnhygym.html http://www.tora.us.fm/tryg/sug/ecm_adm_bely_tpqydym.html
+Redirect Permanent /tryg/sug/mejr_jny.html http://www.tora.us.fm/tryg/sug/ecm_dgn.html
+Redirect Permanent /tryg/sug/akylt_zbxym.html http://www.tora.us.fm/tryg/sug/rcon_hqrbh.html
+Redirect Permanent /tryg/sug/abl_wqbwrh.html http://www.tora.us.fm/tryg/sug/erua_mwt.html
+Redirect Permanent /tryg/sug/trwmwt.html http://www.tora.us.fm/tryg/sug/rcon_ntynh.html
+Redirect Permanent /tryg/sug/mxjbt_adm.html http://www.tora.us.fm/tryg/sug/rcon_mxjbh.html
+
+Redirect Permanent /tryg/mcwa/061.html http://www.tora.us.fm/tryg/mcwa/0612.html
+Redirect Permanent /tryg/mcwa/065.html http://www.tora.us.fm/tryg/mcwa/0652.html
+Redirect Permanent /tryg/mcwa/171.html http://www.tora.us.fm/tryg/mcwa/1712.html
+Redirect Permanent /tryg/mcwa/264.html http://www.tora.us.fm/tryg/mcwa/2642.html
+Redirect Permanent /tryg/mcwa/291.html http://www.tora.us.fm/tryg/mcwa/2912.html
+Redirect Permanent /tryg/mcwa/384.html http://www.tora.us.fm/tryg/mcwa/3842.html
+Redirect Permanent /tryg/mcwa/389.html http://www.tora.us.fm/tryg/mcwa/3892.html
+Redirect Permanent /tryg/mcwa/419.html http://www.tora.us.fm/tryg/mcwa/4192.html
+Redirect Permanent /tryg/mcwa/446.html http://www.tora.us.fm/tryg/mcwa/4462.html
+Redirect Permanent /tryg/mcwa/521.html http://www.tora.us.fm/tryg/mcwa/5211.html
+Redirect Permanent /tryg/mcwa/526.html http://www.tora.us.fm/tryg/mcwa/5261.html
+Redirect Permanent /tryg/mcwa/571.html http://www.tora.us.fm/tryg/mcwa/5711.html
+Redirect Permanent /tryg/mcwa/590.html http://www.tora.us.fm/tryg/mcwa/5901.html

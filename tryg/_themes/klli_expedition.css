@@ -1,0 +1,145 @@
+/* gdlim */
+
+body         { font-size: 15pt }
+h1           { text-align: center; font-weight: normal; font-size: 36pt }
+h2           { text-align: center; font-weight: normal; font-size: 24pt }
+h3           { font-weight: normal; font-size: 18pt }
+h4           { font-weight: normal; font-size: 14pt }
+h5           { font-weight: normal; font-size: 12pt }
+h6           { font-weight: normal; font-size: 10pt }
+
+/* mcwot */
+
+.tana  {font-family: miriam; 
+letter-spacing: 2pt;
+margin-top: 30pt; background-color: rgb(255,255,220)
+}
+.tjuva  {margin-right: 3ex;
+font-family: arial; margin-top: 0; padding-top: 6pt; background-color: rgb(255,255,220)}
+
+BODY.mcwwt .drkym {font-size:15pt; background-color: rgb(255,255,204); border: 1pt solid rgb(102,0,51) }
+BODY.mcwwt .mcwwt, BODY.mcwh {font-size:15pt; background-color: rgb(255,255,220); border: 1pt solid rgb(230,230,184) }
+BODY.mcwwt .hgdrwt {font-size:15pt; background-color: rgb(255,255,204);  border: 1pt solid rgb(102,0,51) }
+BODY.mcwwt .qyjwrym {font-size:15pt; background-color: rgb(255,255,184) }
+
+BODY.mcwh DIV.pswqym {}
+BODY.mcwh DIV.femym {}
+BODY.mcwh DIV.hlkwt {}
+
+BODY.awsp DIV.nwjaym LI {
+	margin-top: 1ex; margin-bottom: 1ex; margin-left: 9ex; margin-right: 9ex; 
+	text-align:center; line-height:200%; font-size:15pt; 
+	background-color: rgb(255,255,204); 
+	border: 1pt solid rgb(102,0,51)
+	}
+BODY.awsp TD DIV.nwjaym LI {margin-left:1ex; margin-right:1ex}
+/*
+BODY.awsp DIV.nwjaym LI SPAN.nwja1 {
+	background-color: rgb(255,255,204); 
+	border: 1pt solid rgb(102,0,51)
+}
+*/
+BODY.mcwwt DIV.mcwwt LI {margin: 0.3cm; text-align:center; line-height:100%}
+
+BODY.mcwwt DIV.drkym OL LI A SMALL {font-size: smaller}
+
+/* SGNONOT M: "expedition"  */
+a:link       { color: rgb(102,102,0) }
+a:visited, a:active    { color: rgb(153,51,0) }
+a:hover     { color: rgb(204,51,0) }
+body         { color: rgb(0,0,0); background-color: rgb(255,255,180) }
+h1           { color: rgb(102,0,51) }
+h2, marquee  { color: rgb(153,102,0) }
+h3           { color: rgb(102,102,0) }
+h4           { color: rgb(102,0,51) }
+h5           { color: rgb(153,102,0) }
+h6           { color: rgb(102,102,0) }
+hr           { color: rgb(102,102,0) }
+button       { background-color: rgb(102,0,51); color: white; border-color: rgb(153,51,0) }
+label, .MSTHEME-LABEL { color: rgb(0,0,0) }
+textarea     { color: black; border-color: rgb(102,51,0) }
+fieldset     { color: Black; border-color: rgb(102,51,0) }
+legend       { color: rgb(102,102,0) }
+select       { color: black; border-color: rgb(102,51,0) }
+table        { table-border-color-light: rgb(153,51,0); table-border-color-dark: 
+               rgb(102,51,0); color: rgb(0,0,0); border-color: rgb(102,51,0) }
+caption      { color: rgb(102,102,0) }
+th           { color: rgb(0,0,0); border-color: rgb(102,51,0) }
+td           { border-color: rgb(102,51,0) }
+
+ul           { list-style-image: url('expbul1a.gif') }
+ul ul        { list-style-image: url('expbul2a.gif') }
+ul ul ul     { list-style-image: url('expbul3a.gif') }
+
+body         { font-family: 'Book Antiqua', 'Times New Roman', Times }
+h1           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+h2           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+h3           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+h4           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+h5           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+h6           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-weight: normal; font-style: normal }
+button       { font-family: Arial, Helvetica; font-style: normal; border-style: solid; border-width: 1pt }
+label, .MSTHEME-LABEL { font-family: Arial, Helvetica; font-style: normal }
+textarea     { font-style: normal; border-style: solid; border-width: 1pt }
+fieldset     { font-family: Arial, Helvetica; font-style: normal; 
+               border-style: solid; border-width: 1pt }
+legend       { font-family: 'Book Antiqua', 'Times New Roman', Times; 
+               font-style: Normal }
+select       { font-family: Arial, Helvetica; font-style: normal; 
+               border-style: solid; border-width: 1pt }
+table        { font-family: 'Book Antiqua', 'Times New Roman', Times; font-style: normal }
+caption      { font-size: larger; font-family: 'Book Antiqua', 'Times New Roman', Times; 
+               font-style: Normal }
+th           { font-family: 'Book Antiqua', 'Times New Roman', Times; font-style: normal }
+marquee      { font-family: 'Book Antiqua', 'Times New Roman', Times }
+
+
+
+/* SGNONOT KLLYIM */
+
+textarea, input {font-style: monospace}
+
+IMG {background: white}
+
+.NiwutElyon {  
+  FONT-FAMILY: monospace;
+  FONT-SIZE: small;
+  PADDING-top: 1ex;
+  PADDING-bottom: 1ex;
+  BORDER-top: 2pt ridge;
+  BORDER-bottom: 2pt ridge;
+}
+.NiwutElyon A {
+  MARGIN-LEFT: 1ex; MARGIN-RIGHT: 1ex
+}
+.NiwutElyon .NiwutElyon { BORDER: none; PADDING: 0px; MARGIN: 0px;  }
+
+
+.citut {font-weight: bolder; font-family: Times New Roman}
+
+UL LI UL LI {FONT-SIZE: x-small}
+
+.NiwutTxton {}
+
+.txtit { 
+  TEXT-ALIGN: center;
+  FONT-FAMILY: monospace;
+  FONT-SIZE: xx-small;
+  PADDING-top: 1ex;
+  PADDING-bottom: 1ex;
+  BORDER-top: 2pt ridge;
+  BORDER-bottom: 2pt ridge;
+}
+
+LI TABLE {border: none}
+LI TABLE TD {FONT-SIZE: 11pt; border: groove 1.1pt rgb(230,230,184)}
+LI TABLE TD A {text-decoration: none}
+
+
+/* MFTX */
+
+BODY.mptx {}
+.mptx .awsp, .mftx .mcwwt  { font-size: larger }
+
+
+

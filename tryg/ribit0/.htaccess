@@ -1,0 +1,3 @@
+RewriteEngine ON
+RewriteOptions inherit
+RewriteRule ^get.html$         /tryg/ribit0/ribit0.php [R,L,NC]
