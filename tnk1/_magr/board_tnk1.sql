@@ -216,3 +216,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-25 16:15:11'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-27 19:38:21'
+		WHERE ktovt_bn='tnk1/messages/msr_atid_32.html'
+		;
+

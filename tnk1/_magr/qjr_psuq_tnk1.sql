@@ -426,3 +426,67 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2014-07-23 06:59:55' WHERE `bn` = 'ביאור:משלי ח33' AND `sfr` = 'משל' AND `prq0` = 'ח' AND `psuq0` = 33 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ו15' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 1 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מה יציב? (רעיון לפסח)' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'איש הדורש שיתנו לו תרומות - גורם הרס לחברה', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'ביאור:משלי כט4' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 4 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כג26' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 5 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כו28' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 10 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'למושל אסור אפילו להקשיב לדברי שקר', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'ביאור:משלי כט12' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 12 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'ויאמר ממוכן', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'העצה האחרונה היא העצה הגרועה' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ההורים - מקור הסמכות במשפחה' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כח28' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 16 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'תורה בספר משלי' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'גאווה גורמת לאדם להתנהג בצורה שמשפילה אותו;   ושפל-רוח גורם לאדם להתנהג באופן המכבד אותו (חמישה סיפורים).', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'ביאור:משלי כט23' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 23 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'מי שמתחלק עם הגנב - גורם נזק לנפשו, כי השותפות גורמת לו לקוות שהגנב יצליח ולא ייתפס, ולכן, גם אם ישמע את קול האלה מפי קרבנותיו של הגנב - הוא לא יבוא להעיד, ויהיה בו עוון', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'ביאור:משלי כט24' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 24 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'פסוקים נוספים האוסרים ליהנות מאיסור', `sug` = 'כלל', `tarik_hosfa` = '2014-07-29 03:21:35' WHERE `bn` = 'הנאה מאיסור' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 24 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יח10' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 25 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כא1' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 26 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כח4' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 27 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
