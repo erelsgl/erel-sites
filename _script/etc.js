@@ -1084,7 +1084,7 @@ function tguva () {
 		document.write('<div style="font-style:italic">ניתן ליצור קשר עם הכותבת דרך <a href="http://www.mycreation.co.il" target="_blank">האתר שלה</a>.</div>');
 	} else {
 		if (!theTvnit.length)
-			document.write("<iframe class='tguvot' width='100%' src='"+path_from_document_to_site+"tguva.php?followup="+path_from_root_to_document+"' onload='javascript:resizeIframe(this);'></iframe>");
+			document.write("<iframe class='tguvot' width='100%' src='/tnk1/tguva.php?followup="+path_from_root_to_document+"' onload='javascript:resizeIframe(this);'></iframe>");
 	}
 
 
