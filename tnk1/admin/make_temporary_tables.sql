@@ -21,10 +21,6 @@ SELECT
 	qod, sug, tvnit, kotrt, ktovt, m, l, tarik_hosfa
 FROM prt_tryg;
 
-ALTER TABLE prt_tnk1_tryg
-	ADD PRIMARY KEY(qod),
-	ADD UNIQUE KEY(ktovt);
-
 INSERT IGNORE INTO prt_tnk1_tryg
 SELECT 
 	qod, sug, tvnit, kotrt, ktovt, m, l, tarik_hosfa
@@ -161,8 +157,6 @@ WHERE ktovt LIKE 'tnk1/ezor/ToknLfiEzor%';
 
 
 ALTER TABLE QLT_prtim_wikia
-	ADD PRIMARY KEY(qod),
-	ADD UNIQUE KEY(ktovt),
 	ADD UNIQUE KEY(kotrt),
 	ADD KEY (tarik_hosfa);
 
