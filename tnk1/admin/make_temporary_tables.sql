@@ -621,8 +621,10 @@ DROP TABLE IF EXISTS qjrim_tnk1_tnk1_niwut;
 CREATE TABLE qjrim_tnk1_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn,
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	qjr.sdr_av,
 	avot.ktovt AS ktovt_av,
+	LEFT(avot.ktovt,160) AS ktovt_av_qcr,
 	qjr.bn,
 	qjr.av,
 	bnim.sug,
@@ -637,9 +639,10 @@ DROP TABLE IF EXISTS qjrim_dmuyot_tnk1_niwut;
 CREATE TABLE qjrim_dmuyot_tnk1_niwut
 SELECT
 	bnim.ktovt AS ktovt_bn, 
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	30 AS sdr_av, 
-	CONCAT(
-		"tnk1/dmut/dmut/" , avot.ktovt , ".html") AS ktovt_av, 
+	CONCAT("tnk1/dmut/dmut/" , avot.ktovt , ".html") AS ktovt_av, 
+	LEFT(CONCAT("tnk1/dmut/dmut/" , avot.ktovt , ".html"),160) AS ktovt_av_qcr,
 	qjr.bn,
 	qjr.av,
 	bnim.sug,
@@ -655,8 +658,10 @@ DROP TABLE IF EXISTS qjrim_hgdrot_tnk1_niwut;
 CREATE TABLE qjrim_hgdrot_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn, 
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	90 AS sdr_av, 
 	avot.ktovt AS ktovt_av, 
+	LEFT(avot.ktovt,160) AS ktovt_av_qcr,
 	bnim.qod AS bn,
 	avot.qod AS av,
 	bnim.sug,
@@ -672,8 +677,10 @@ DROP TABLE IF EXISTS qjrim_jorjim_tnk1_niwut;
 CREATE TABLE qjrim_jorjim_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn, 
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	30 AS sdr_av, 
 	CONCAT("tnk1/",avot.ktovt) AS ktovt_av, 
+	LEFT(CONCAT("tnk1/",avot.ktovt),160) AS ktovt_av_qcr,
 	qjr.bn, 
 	qjr.av, 
 	bnim.sug, 
@@ -689,8 +696,10 @@ DROP TABLE IF EXISTS qjrim_milim_tnk1_niwut;
 CREATE TABLE qjrim_milim_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn, 
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	30 AS sdr_av, 
 	CONCAT("tnk1/",avotavot.ktovt) AS ktovt_av, 
+	LEFT(CONCAT("tnk1/",avotavot.ktovt),160) AS ktovt_av_qcr,
 	qjr.bn, 
 	qjr.av, 
 	bnim.sug, 
@@ -706,8 +715,10 @@ DROP TABLE IF EXISTS qjrim_sugim_tnk1_niwut;
 CREATE TABLE qjrim_sugim_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn, 
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	90 AS sdr_av, 
 	avot.ktovt AS ktovt_av, 
+	LEFT(avot.ktovt,160) AS ktovt_av_qcr,
 	bnim.qod as bn,
 	avot.qod as av,
 	bnim.sug, 
@@ -724,8 +735,10 @@ DROP TABLE IF EXISTS qjrim_tryg_tnk1_niwut;
 CREATE TABLE qjrim_tryg_tnk1_niwut
 SELECT 
 	bnim.ktovt AS ktovt_bn,
+	LEFT(bnim.ktovt,160) AS ktovt_bn_qcr,
 	qjr.sdr_av,
 	avot.ktovt AS ktovt_av,
+	LEFT(avot.ktovt,160) AS ktovt_av_qcr,
 	qjr.bn,
 	qjr.av,
 	bnim.sug,
@@ -743,7 +756,9 @@ SELECT * FROM qjrim_tnk1_tnk1_niwut;
 
 ALTER TABLE QLT_qjrim_lniwut
 	ADD PRIMARY KEY(bn,av),
-	ADD UNIQUE KEY(av,bn);
+	ADD UNIQUE KEY(av,bn),
+	ADD UNIQUE KEY(ktovt_av_qcr,ktovt_bn_qcr),
+	ADD KEY (bn, ktovt_bn_qcr, sdr_av);
 
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_sugim_tnk1_niwut;
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_hgdrot_tnk1_niwut;
@@ -751,19 +766,6 @@ INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_dmuyot_tnk1_niwut;
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_milim_tnk1_niwut;
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_tryg_tnk1_niwut;
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_jorjim_tnk1_niwut;
-
-
-ALTER TABLE QLT_qjrim_lniwut
-	ADD COLUMN ktovt_av_qcr varchar(160) after ktovt_av,
-	ADD COLUMN ktovt_bn_qcr varchar(160) after ktovt_bn;
-
-ALTER TABLE QLT_qjrim_lniwut
-	ADD UNIQUE KEY(ktovt_av_qcr,ktovt_bn_qcr),
-	ADD KEY (bn, ktovt_bn_qcr, sdr_av);
-
-UPDATE QLT_qjrim_lniwut
-SET ktovt_av_qcr=left(ktovt_av,160),
-    ktovt_bn_qcr=left(ktovt_bn,160);
 
 ALTER TABLE QLT_qjrim_lniwut
 	ORDER BY bn, ktovt_bn, sdr_av;
