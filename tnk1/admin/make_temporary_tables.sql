@@ -13,17 +13,8 @@ WHERE (qjr_tnk1_tnk1.sug IS NULL OR qjr_tnk1_tnk1.sug='')
 
 
 DROP TABLE IF EXISTS prt_tnk1_tryg;
-CREATE TABLE prt_tnk1_tryg (
-	qod varchar(160) NOT NULL DEFAULT '',
-	sug varchar(15) NOT NULL DEFAULT '',
-	tvnit varchar(15) NOT NULL DEFAULT '',
-	kotrt varchar(235) NOT NULL DEFAULT '',
-	ktovt varchar(160) NOT NULL DEFAULT '',
-	m varchar(255) NOT NULL DEFAULT '',
-	l varchar(255) NOT NULL DEFAULT '',
-	tarik_hosfa datetime
-)
-CHARACTER SET utf8;
+CREATE TABLE prt_tnk1_tryg 
+LIKE prt_tnk1;
 
 INSERT INTO prt_tnk1_tryg
 SELECT 
@@ -38,14 +29,6 @@ INSERT IGNORE INTO prt_tnk1_tryg
 SELECT 
 	qod, sug, tvnit, kotrt, ktovt, m, l, tarik_hosfa
 FROM prt_tnk1;
-
-
-
-
-DROP TABLE IF EXISTS temp_mvnim;
-CREATE TABLE temp_mvnim
-SELECT bn FROM qjr_tnk1_tnk1
-WHERE (av LIKE 'מבנ%' OR av LIKE 'סדר%' OR av LIKE 'סיו%');
 
 
 
@@ -112,18 +95,12 @@ ALTER TABLE QLT_prtim
 
 
 DROP TABLE IF EXISTS QLT_prtim_wikia;
-CREATE TABLE QLT_prtim_wikia(
-	qod varchar(160) NOT NULL DEFAULT '',
-	kotrt varchar(160) NOT NULL DEFAULT '',
-	tokn text NOT NULL DEFAULT '',      /* used only in collections */
-	sug varchar(15) NOT NULL DEFAULT '',
-	tvnit varchar(15) NOT NULL DEFAULT '',
-	ktovt varchar(160) NOT NULL DEFAULT '',
-	m varchar(255) NOT NULL DEFAULT '',
-	l varchar(255) NOT NULL DEFAULT '',
-	tarik_hosfa datetime
-) character set utf8;
+CREATE TABLE QLT_prtim_wikia
+LIKE prt_tnk1;
 
+ALTER TABLE  QLT_prtim_wikia
+ADD COLUMN	tokn text NOT NULL DEFAULT ''      /* used only in collections */
+AFTER kotrt;
 
 
 INSERT INTO QLT_prtim_wikia
@@ -584,11 +561,11 @@ INSERT IGNORE INTO QLT_qjrim SELECT * FROM qjrim_zmnim_prqim;
 DROP TABLE IF EXISTS QLT_qjrim_losfim;
 CREATE TABLE QLT_qjrim_losfim (
 	av varchar(160),
-	ktovt_av varchar(160),
+	ktovt_av varchar(300),
 	tvnit_av varchar(15),
 	sdr_bn tinyint,
 	bn varchar(160),
-	ktovt_bn varchar(160),
+	ktovt_bn varchar(300),
 	sug varchar(15),
 	kotrt varchar(255),
 	m varchar(255),
@@ -978,7 +955,7 @@ ALTER TABLE QLT_qjrim_prqim_wikia
 DROP TABLE IF EXISTS QLT_qjrim_wikia;
 
 CREATE TABLE QLT_qjrim_wikia (
-  `ktovt_bn` varchar(160) character set utf8 NOT NULL default '',
+  `ktovt_bn` varchar(300) character set utf8 NOT NULL default '',
   `bn` varchar(160) character set utf8 NOT NULL default '',
   `sug_bn` varchar(15) character set utf8 NOT NULL default '',
   `av` varchar(160) character set utf8 NOT NULL default '',
@@ -1071,7 +1048,7 @@ select * from QLT_qjrim_lniwut a LEFT JOIN QLT_qjrim_losfim b ON ( a.bn=b.bn AND
 
 DROP TABLE IF EXISTS prujy_sikum;
 CREATE TABLE prujy_sikum (
-	ktovt varchar(160) NOT NULL DEFAULT '',
+	ktovt varchar(300) NOT NULL DEFAULT '',
 	sfr varchar(15),
 	sfr3 char(3),
 	prq char(3),
@@ -1274,7 +1251,7 @@ CREATE TABLE mftx_hgdrot (
 	mftx boolean default false, 
 	qod varchar(160) NOT NULL default '', 
 	kotrt varchar(255) NOT NULL default '', 
-	ktovt varchar(160) NOT NULL default '',
+	ktovt varchar(300) NOT NULL default '',
 	primary key (qod)    /* only the first definition will survive */
 ) character set utf8;
 
@@ -1314,7 +1291,7 @@ CREATE TABLE mftx_ljon (
 	qod varchar(160) NOT NULL default '',
 	kotrt varchar(255) NOT NULL default '',
 	sug varchar(10) NOT NULL default '', 
-	ktovt varchar(166) NOT NULL default '',
+	ktovt varchar(300) NOT NULL default '',
 	PRIMARY KEY(qod)  /* for bituyim */
 )  character set utf8;
 
@@ -1366,7 +1343,7 @@ CREATE TABLE QLT_mftx (
 	qod varchar(160) NOT NULL DEFAULT '', 
 	kotrt varchar(255) NOT NULL DEFAULT '', 
 	sug varchar(15) NOT NULL default '', 
-	ktovt varchar(160) NOT NULL DEFAULT '',
+	ktovt varchar(300) NOT NULL DEFAULT '',
 
 	PRIMARY KEY(qod,ktovt), -- with qod,sug,ktovt - too long!
 	KEY(qod,sug)
@@ -1594,3 +1571,6 @@ SELECT /*Wrong sugim*/ * from prt_tnk1
 left join sugy_sugim_tnk1 on(sug=sug_prti)
 WHERE sug_prti IS NULL
 ;
+
+
+
