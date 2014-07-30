@@ -795,7 +795,7 @@ function qijur_mle($ktovt, $kotrt, $mxbr, $nman, $sug, $kotrt_aruka="", $attribu
 			$a_tag .= " title='$kotrt_aruka'";
 		}
 		if (preg_match("/http:/",$ktovt_mlea)) {
-			$kituv = "$kituv <small>(קישור חיצוני)</small>";
+// 			$kituv = "$kituv <small>(קישור חיצוני)</small>";
 			$a_tag .= " target='_blank'";
 		}
 		if ($attributes) {
