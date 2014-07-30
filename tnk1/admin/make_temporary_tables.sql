@@ -742,9 +742,18 @@ CREATE TABLE QLT_qjrim_lniwut
 SELECT * FROM qjrim_tnk1_tnk1_niwut;
 
 ALTER TABLE QLT_qjrim_lniwut
+	ADD COLUMN ktovt_av_qcr varchar(160) after ktovt_av,
+	ADD COLUMN ktovt_bn_qcr varchar(160) after ktovt_bn;
+	
+UPDATE QLT_qjrim_lniwut
+SET ktovt_av_qcr=left(ktovt_av,160),
+SET ktovt_bn_qcr=left(ktovt_bn,160);
+
+ALTER TABLE QLT_qjrim_lniwut
 	ADD PRIMARY KEY(bn,av),
 	ADD UNIQUE KEY(av,bn),
-	ADD KEY (bn, ktovt_bn, sdr_av);
+	ADD UNIQUE KEY(ktovt_av_qcr,ktovt_bn_qcr),
+	ADD KEY (bn, ktovt_bn_qcr, sdr_av);
 
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_sugim_tnk1_niwut;
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_hgdrot_tnk1_niwut;
