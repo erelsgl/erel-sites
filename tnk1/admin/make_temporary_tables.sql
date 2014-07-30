@@ -744,7 +744,6 @@ SELECT * FROM qjrim_tnk1_tnk1_niwut;
 ALTER TABLE QLT_qjrim_lniwut
 	ADD PRIMARY KEY(bn,av),
 	ADD UNIQUE KEY(av,bn),
-	ADD UNIQUE KEY(ktovt_av,ktovt_bn),
 	ADD KEY (bn, ktovt_bn, sdr_av);
 
 INSERT IGNORE INTO QLT_qjrim_lniwut SELECT * FROM qjrim_sugim_tnk1_niwut;
