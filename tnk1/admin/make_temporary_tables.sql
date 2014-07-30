@@ -1358,7 +1358,7 @@ CREATE TABLE QLT_mftx (
 	qod varchar(160) NOT NULL DEFAULT '', 
 	kotrt varchar(255) NOT NULL DEFAULT '', 
 	sug varchar(15) NOT NULL default '', 
-	ktovt varchar(300) NOT NULL DEFAULT '',
+	ktovt varchar(160) NOT NULL DEFAULT '',
 
 	PRIMARY KEY(qod,ktovt), -- with qod,sug,ktovt - too long!
 	KEY(qod,sug)
