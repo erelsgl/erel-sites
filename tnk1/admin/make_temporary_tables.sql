@@ -747,7 +747,7 @@ ALTER TABLE QLT_qjrim_lniwut
 	
 UPDATE QLT_qjrim_lniwut
 SET ktovt_av_qcr=left(ktovt_av,160),
-SET ktovt_bn_qcr=left(ktovt_bn,160);
+    ktovt_bn_qcr=left(ktovt_bn,160);
 
 ALTER TABLE QLT_qjrim_lniwut
 	ADD PRIMARY KEY(bn,av),
