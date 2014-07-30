@@ -91,12 +91,18 @@ ALTER TABLE QLT_prtim
 
 
 DROP TABLE IF EXISTS QLT_prtim_wikia;
-CREATE TABLE QLT_prtim_wikia
-LIKE prt_tnk1;
+CREATE TABLE QLT_prtim_wikia(
+	qod varchar(160) NOT NULL DEFAULT '',
+	kotrt varchar(160) NOT NULL DEFAULT '',
+	tokn text NOT NULL DEFAULT '',      /* used only in collections */
+	sug varchar(15) NOT NULL DEFAULT '',
+	tvnit varchar(15) NOT NULL DEFAULT '',
+	ktovt varchar(300) NOT NULL DEFAULT '',
+	m varchar(255) NOT NULL DEFAULT '',
+	l varchar(255) NOT NULL DEFAULT '',
+	tarik_hosfa datetime
+) character set utf8;
 
-ALTER TABLE  QLT_prtim_wikia
-ADD COLUMN	tokn text NOT NULL DEFAULT ''      /* used only in collections */
-AFTER kotrt;
 
 
 INSERT INTO QLT_prtim_wikia
