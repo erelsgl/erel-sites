@@ -163,6 +163,8 @@ WHERE ktovt LIKE 'tnk1/ezor/ToknLfiEzor%';
 
 
 ALTER TABLE QLT_prtim_wikia
+	ADD PRIMARY KEY(qod),
+	ADD UNIQUE KEY(ktovt),
 	ADD UNIQUE KEY(kotrt),
 	ADD KEY (tarik_hosfa);
 
