@@ -15,3 +15,7 @@ SET character_set_database=utf8;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_tnk1.txt'  INTO TABLE prt_tnk1 (qod,sug,tvnit,kotrt,ktovt,m,l,tarik_hosfa);
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `ktovt` = 'tnk1/sofrim/raminir/bahr_yusef.pdf', `tarik_hosfa` = '2014-07-30 04:41:20' WHERE `qod` = 'Bahr Yusef' AND 1 LIMIT 1;
+

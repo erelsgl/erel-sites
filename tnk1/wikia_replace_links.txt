@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2014-07-25 16:02:55
+# This file was automatically generated at 2014-07-30 05:58:37
 
 sub wikia_replace_links {
 $_=shift;
@@ -2172,7 +2172,7 @@ s|${OPENLINK}tnk1/sofrim/raminir/gymfryh_bmegly_ywjr.pdf|[[ביאור:גימטר
 s|${OPENLINK}tnk1/sofrim/raminir/cwen_mcrym.pdf|[[ביאור:צוען מצרים|ig;
 s|${OPENLINK}tnk1/sofrim/raminir/cedh___xmt_mym.jpg|[[ביאור:צעדה וחמת מים - "בן פורת עלי עין בנות צעדה עלי שור"|ig;
 s|${OPENLINK}tnk1/sofrim/raminir/bny_yjral_70_npj.pdf|[[ביאור:בני ישראל 70 נפש|ig;
-s|${OPENLINK}tnk1/sofrim/raminir/Bahr_Yusef.pdf|[[ביאור:Bahr Yusef|ig;
+s|${OPENLINK}tnk1/sofrim/raminir/bahr_yusef.pdf|[[ביאור:Bahr Yusef|ig;
 s|${OPENLINK}tnk1/sofrim/raminir/aydylyh_bmgylt_rwt.pdf|[[ביאור:אידיליה במגילת רות|ig;
 s|${OPENLINK}tnk1/sofrim/raminir/AWT_HJBT.pdf|[[ביאור:אות השבת|ig;
 s|${OPENLINK}tnk1/sofrim/raminir/assiut___bahr_yusef___faiyum_paradise.pdf|[[ביאור:Assiut - Bahr Yusef - Faiyum Paradise|ig;

@@ -490,3 +490,303 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כח4' AND `sfr` = 'משל' AND `prq0` = 'כט' AND `psuq0` = 27 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'משלי שלמה ומשלי חכמים אחרים' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי לא1' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 1 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל3', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל2' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 3 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל6', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל5' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 6 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = ' אל תלשין על עבד שעבר על מצוות אדוניו, כי העבד יקלל אותך ויגלה שאתה אשם בפשעים חמורים יותר.', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל10' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 10 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל12', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל11' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 12 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל13', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל11' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 13 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל14', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל11' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 14 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כז20' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 15 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי טו5' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל19', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל18' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 19 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל22', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל21' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 22 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל24' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 24 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל25', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'חכמת הממשל במשל חכמה' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 25 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים קכח2' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 28 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי ל30', `tarik_hosfa` = '2014-07-29 14:06:51' WHERE `bn` = 'ביאור:משלי ל29' AND `sfr` = 'משל' AND `prq0` = 'ל' AND `psuq0` = 30 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ל7' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 1 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי לא5', `tarik_hosfa` = '2014-07-29 14:19:10' WHERE `bn` = 'ביאור:משלי לא4' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 5 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי לא7', `tarik_hosfa` = '2014-07-29 14:19:10' WHERE `bn` = 'ביאור:משלי לא6' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 7 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:משלי לא9', `tarik_hosfa` = '2014-07-29 14:19:10' WHERE `bn` = 'ביאור:משלי לא8' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 9 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי לא3' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 10 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ח10' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 10 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ישעיהו נו5' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 20 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ישעיהו א18' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 21 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ז16' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 22 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי לא14' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 24 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הנפש שלה לבושה במידות טובות של עוז (גבורה וחריצות) והדר (חסד ואצילות), יש לה חוש הומור והיא שוחקת מהיום הראשון ועד ליום האחרון.', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 14:19:10' WHERE `bn` = 'ביאור:משלי לא25' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 25 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג14' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 29 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יג11' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 30 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית כט17' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 30 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי לא28', 'משל', 'לא', 28, 28, ' בניה קמים (עומדים לכבודה) ומאשרים אותה (משבחים את דרכה);   גם בעלה קם ומהלל אותה:', 'תרגום', 10, '2014-07-29 14:19:10');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי לא24', 'משל', 'לא', 24, 24, 'היא עשתה סדין ומכרה אותו, ונתנה חגור לכנעני (סוחר) שימכור אותו עבורה.', '', NULL, '2014-07-29 14:20:18');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יח15' AND `sfr` = 'משל' AND `prq0` = 'א' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ישעיהו כט13' AND `sfr` = 'משל' AND `prq0` = 'א' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי טו9' AND `sfr` = 'משל' AND `prq0` = 'א' AND `psuq0` = 15 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כב13' AND `sfr` = 'משל' AND `prq0` = 'א' AND `psuq0` = 20 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יט10' AND `sfr` = 'משל' AND `prq0` = 'א' AND `psuq0` = 32 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יח15' AND `sfr` = 'משל' AND `prq0` = 'ב' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ד24' AND `sfr` = 'משל' AND `prq0` = 'ב' AND `psuq0` = 15 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ב7' AND `sfr` = 'משל' AND `prq0` = 'ב' AND `psuq0` = 21 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שלושת האנשים - נח דנאל ואיוב' AND `sfr` = 'משל' AND `prq0` = 'ב' AND `psuq0` = 21 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ז3' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ו21' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '22ביאור:משלי ד' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים צד12' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 12 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ח10' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 14 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ד13' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 18 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '22ביאור:משלי ד' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 21 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יט29' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 34 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי טו33' AND `sfr` = 'משל' AND `prq0` = 'ג' AND `psuq0` = 35 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי א4' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 2 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג9' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כד19' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כז20' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 25 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יד27' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 27 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 15:18:13' WHERE `bn` = 'ביאור:משלי ד11' AND `sfr` = 'משל' AND `prq0` = 'ד' AND `psuq0` = 11 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:משלי יד27', 'משל', 'יד', 27, 27, 'יראת ה\' מייעצת לאדם מה לעשות כדי לחיות, ומה לא לעשות כדי לא למות.', 'תרגום', 10, '2014-07-29 15:19:25');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ז26' AND `sfr` = 'משל' AND `prq0` = 'ה' AND `psuq0` = 5 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'היזהר פֶּן (שלא) תאפשר לה לפלס, להטות את שיקול הדעת שלך ולהשפיע על אורח החיים שלך; כי דרכי השיכנוע שלה מבוססות על תנועה במעגלים, בלבול והטעיה, ולא על דעת והגיון.', `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 15:26:18' WHERE `bn` = 'ביאור:משלי ה6' AND `sfr` = 'משל' AND `prq0` = 'ה' AND `psuq0` = 6 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ה21' AND `sfr` = 'משל' AND `prq0` = 'ה' AND `psuq0` = 6 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי יז11' AND `sfr` = 'משל' AND `prq0` = 'ה' AND `psuq0` = 9 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ד13' AND `sfr` = 'משל' AND `prq0` = 'ה' AND `psuq0` = 23 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ד5' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 10 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כו24' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = NULL, `tarik_hosfa` = '2014-07-29 15:30:20' WHERE `bn` = 'ביאור:משלי ו19' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כ20' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 23 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים קיט105' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 23 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כח21' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 26 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ה9' AND `sfr` = 'משל' AND `prq0` = 'ו' AND `psuq0` = 34 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כב13' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 12 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = NULL, `tarik_hosfa` = '2014-07-29 15:31:45' WHERE `bn` = 'ביאור:משלי ז21' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 15:32:22' WHERE `bn` = 'ביאור:משלי ז2' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 2 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 15:32:22' WHERE `bn` = 'ביאור:משלי ז19' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 19 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2014-07-29 15:32:22' WHERE `bn` = 'ביאור:משלי ז20' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 20 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = NULL, `tarik_hosfa` = '2014-07-29 15:32:22' WHERE `bn` = 'ביאור:משלי ז21' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
