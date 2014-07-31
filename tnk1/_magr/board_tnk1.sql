@@ -232,3 +232,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/msr_atid_32.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-30 16:24:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-07-31 04:09:40'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+		;
+
