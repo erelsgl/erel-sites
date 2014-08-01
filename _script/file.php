@@ -162,7 +162,7 @@ function reverse_path($pfrtd) {
  * converts the template in the given file, from Perl to PHP
  */
 function fixed_template($perl_template_file_name) {
-	$template = file_get_contents(dirname(__FILE__) . "/perl/$perl_template_file_name");
+	$template = file_get_contents($perl_template_file_name);
 	$template = str_replace(" eq ", " === ", $template);
 	return "return $template";
 }
