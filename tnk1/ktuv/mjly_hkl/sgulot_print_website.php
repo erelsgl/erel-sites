@@ -26,10 +26,12 @@ error_reporting(E_ALL);
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
-require_once("$fileroot/_script/rewrite_library.php");
-require_once("$fileroot/_script/hebrew.php");
+$GLOBALS['SCRIPT'] = "$fileroot/_script";
+//require_once("$SCRIPT/rewrite_library.php");
+require_once("$SCRIPT/hebrew.php");
+require_once("$SCRIPT/file.php");  // fixed_template
 
-require_once("$fileroot/_script/sql.php");
+require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
 require("$fileroot/tnk1/admin/db_connect.php");
@@ -40,7 +42,7 @@ $GLOBALS['charset'] = "windows-1255";
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = false;
 $GLOBALS['AUTOORDER'] = false;
-$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
+$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'dquyot', 'full');
 
 $book_number = 28;
 list($book_code, $book_name) = sql_evaluate_assoc(
@@ -123,7 +125,9 @@ while ($row = sql_fetch_assoc($rows)) {
 	$path_from_reply_to_root = "../$path_from_reply_to_site";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
 	
-	$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
+	$title_utf8 = $row['kotrt'];
+	if (!$title_utf8)
+		$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
 	$title_with_html = $title_without_html = utf8_to_windows1255($title_utf8);
 	$titleType = "";
 	$author = $username = utf8_to_windows1255("אראל");
@@ -150,7 +154,7 @@ while ($row = sql_fetch_assoc($rows)) {
 	$tvnit = "";
 	$date_for_html = date('H:i:s&\\n\\b\\s\\p;&\\n\\b\\s\\p;d.m.Y');
 
-	$templatename = "newfiletemplate.pm";	
+	$templatename = "$SCRIPT/newfiletemplate.pm";
 	$templatebody = fixed_template($templatename);
 	//$templatebody_utf8 = windows1255_to_utf8($templatebody);
 	$body = eval($templatebody);
