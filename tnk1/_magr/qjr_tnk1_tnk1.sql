@@ -14,3 +14,11 @@ SET character_set_database=utf8;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_tnk1_tnk1.txt'  INTO TABLE qjr_tnk1_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('ביטויים בספר משלי', 'בליעל=', 'בליעל = בלי עליה או בלי תועלת או בלי עול', '', 1, 60, '2014-08-07 04:38:23');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('ביטויים בספר משלי', 'אוון=', 'אָוֶן = אַיִן והבל או אוֹן המשמש לרעה', '', 1, 60, '2014-08-07 04:48:37');
+
