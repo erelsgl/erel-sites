@@ -256,3 +256,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26e7_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-07 14:04:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
