@@ -397,3 +397,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/cdqa.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-08-09 19:39:43'
+		WHERE parent='tnk1/kma/qjrim1/cdqa.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mj/20-15.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-08-10 03:55:49'
+		WHERE parent='tnk1/ktuv/mj/20-15.html'
+		;
+

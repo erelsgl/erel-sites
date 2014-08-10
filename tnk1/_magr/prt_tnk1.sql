@@ -19,3 +19,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `ktovt` = 'tnk1/sofrim/raminir/bahr_yusef.pdf', `tarik_hosfa` = '2014-07-30 04:41:20' WHERE `qod` = 'Bahr Yusef' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'בריאת העולם על-פי נריה קליין' AND 1 LIMIT 1;
+
