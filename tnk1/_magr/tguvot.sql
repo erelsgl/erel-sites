@@ -434,3 +434,144 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4596 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>בטרם יעקב וביתו ירדו מצרימה בטרם יעקב הכיר את מצרים</p><p>האלהים הנחה את יעקב אבינו ברוח הקודש להורות ליוסף במצרים את ארץ גֹּשֶׁן לשבת בה</p><p>כי ארץ גֹּשֶׁן לִפְנֵי עֲדַת יִשְׂרָאֵל אֶרֶץ מִקְנֶה הִוא וְלַעֲבָדֶיךָ מִקְנֶה וזאת למען בני ישראל יאכלו צאן ובקר ויעבדו את האלהים</p><p>ספר בראשית פרק מו כתוב:</p><p>א  וַיִּסַּע יִשְׂרָאֵל וְכָל-אֲשֶׁר-לוֹ, וַיָּבֹא בְּאֵרָה שָּׁבַע; וַיִּזְבַּח זְבָחִים, לֵאלֹהֵי אָבִיו יִצְחָק.</p><p>ב  וַיֹּאמֶר אֱלֹהִים לְיִשְׂרָאֵל בְּמַרְאֹת הַלַּיְלָה, וַיֹּאמֶר יַעֲקֹב יַעֲקֹב; וַיֹּאמֶר, הִנֵּנִי.</p><p>ג  וַיֹּאמֶר, אָנֹכִי הָאֵל אֱלֹהֵי אָבִיךָ; אַל-תִּירָא מֵרְדָה מִצְרַיְמָה, כִּי-לְגוֹי גָּדוֹל אֲשִׂימְךָ שָׁם.</p><p>ד  אָנֹכִי, אֵרֵד עִמְּךָ מִצְרַיְמָה, וְאָנֹכִי, אַעַלְךָ גַם-עָלֹה; וְיוֹסֵף, יָשִׁית יָדוֹ עַל-עֵינֶיךָ.</p><p>והאלהים גם גלה את אוזן יעקב בדבר ארץ גֹּשֶׁן</p><p>כח  וְאֶת-יְהוּדָה שָׁלַח לְפָנָיו אֶל-יוֹסֵף לְהוֹרֹת לְפָנָיו גֹּשְׁנָה וַיָּבֹאוּ אַרְצָה גֹּשֶׁן.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-11 09:41:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>היות ואף אחד אינו יודע את פשר &quot;הצרעה&quot; עלינו לנסות את הגימטריא ככלי שיתן אולי תשובה לכך. הצרעה=370 =10*37 הווה אומר שכיבוש הארץ יצריך חכמה וסולם ערכים הגבוה ביותר שמשתקף בעשרת הדברות. כמו שנאמר כי בתחבולות תעשה לך מלחמה...חכמה=37 לפי גמטריא של של מיקום אותיות ( ח=8,כ=11,מ=13,ה=5, וביחד 37 ) .37 הוא מספר-ראי של 73=חכמה בגימטריה רגילה(4=8,כ=20,מ=40,ה=5 וביחד 73 ) .יש עוד אבל לעניות דעתי זה עשוי לפתור את התעלומה. אלי גילמור   </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_TDjrn-OWt2vvmP6jAHNx_aED4tBwc-o',
+		'manetmonetimp .',
+		'2014-08-11 10:16:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_TDjrn-OWt2vvmP6jAHNx_aED4tBwc-o',
+		'manetmonetimp .',
+		'2014-08-11 10:17:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-11 10:17:24' 
+			WHERE messageid=4599;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_15.html',
+		'<p>קנאביס:</p><p>&quot;מקור נוסף לאיסור על התמכרות אנו מוצאים בגמרא המספרת על רב שאמר לחייא בנו: &quot;אל תשתו סמים&quot;, ופירש רש&quot;י שהסיבה היא פן יתרגל לכך, ויבוא לידי פיזור ממון מיותר&quot;.</p><p>http://www.ynet.co.il/articles/0,7340,L-4294750,00.html</p><p>מדהים שרש&quot;י כבר היה מודע לשתי בעיות עם הסמים: ההתמכרות והעלות (נרקומנים לפעמים שודדים אף את ביתם כדי להשיג כסף לסמים). ובכל אופן, אני בעד לגליזציה של סמים קלים.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-08-11 12:23:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0203_1.html',
+		'<p>הבעש&quot;ט:</p><p>ספר בראשית פרק כח יג</p><p>&quot;וְהִנֵּה יְהֹוָ&quot;ה נִצָּב עָלָיו, וַיֹּאמַר: אֲנִי יְהֹוָ&quot;ה אֱלֹהֵי אַבְרָהָם אָבִיךָ וֵאלֹהֵי יִצְחָק, הָאָרֶץ אֲשֶׁר אַתָּה שֹׁכֵב עָלֶיהָ - לְךָ אֶתְּנֶנָּה וּלְזַרְעֶךָ. לכך אנו אומרים: אֱלֹהֵי אַבְרָהָם אלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב, ואין אנו אומרים אלהי אברהם יצחק ויעקב - להורות שאל יסמוך האדם על חקירת ועבודת אביו. וכן יצחק ויעקב לא סמכו עצמם על חקירת ועבודת אברהם אבינו, רק חקרו בעצמם אחדות הבורא ועבודתו. לכן אנו אומרים אֱלֹהֵי בכל אחד ואחד&quot;:</p><p>http://bshemtov.com/index.php/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D-%D7%91%D7%99%D7%AA-%D7%94%D7%91%D7%A2%D7%9C-%D7%A9%D7%9D-%D7%98%D7%95%D7%91/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D-%D7%A4%D7%A8%D7%A9%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2/449-%D7%94%D7%91%D7%A2%D7%9C-%D7%A9%D7%9D-%D7%98%D7%95%D7%91-%D7%94%D7%A7-%D7%A2%D7%9C-%D7%A4%D7%A8%D7%A9%D7%AA-%D7%95%D6%B7%D7%99%D6%BC%D6%B5%D7%A6%D6%B5%D7%90</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-08-11 12:27:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_15.html',
+		'<p>קנאביס:</p><p>&quot;מקור נוסף לאיסור על התמכרות אנו מוצאים בגמרא המספרת על רב שאמר לחייא בנו: &quot;אל תשתו סמים&quot;, ופירש רש&quot;י שהסיבה היא פן יתרגל לכך, ויבוא לידי פיזור ממון מיותר&quot;.</p><p>http://www.ynet.co.il/articles/0,7340,L-4294750,00.html</p><p>מדהים שרש&quot;י כבר היה מודע לשתי בעיות עם הסמים: ההתמכרות והעלות (נרקומנים לפעמים שודדים אף את ביתם כדי להשיג כסף לסמים). ובכל אופן, אני בעד לגליזציה של סמים קלים.</p><p>בהקשר הזה מביאה ברנדס את הסיפור המופתי של הבעש&quot;ט [כאן בשינוי מה, ראו גם &quot;האור הגנוז&quot; לבובר]:</p><p>פעם אחת נסעתי בדרך בעגלה הרתומה לשלושה סוסים&quot; סיפר הבעש&quot;ט, &quot;אחד אדום, אחד ברוד, ואחד לבן ושלושתם לא יכלו לצהול. והנה בא איכר אחד לקראתי וקרא אלי: הרפה מהמושכות! והרפתי את המושכות&quot;. הרב נבוך ושתק.&quot;שלושה&quot; חזר הבעש&quot;ט, &quot;אדום, לבן וברוד, לא צהלו, איכר יודע דבר לאשורו, להרפות המושכות וצהלו&quot;. הרב כבש ראשו ושתק, &quot;איכר יועץ עצה טובה&quot;, אמר הבעש&quot;ט &quot;המבין אתה?&quot; &quot;מבין אני רבי&quot; השיב הרב מפולנאה ופרץ בדמעות. &quot;עכשיו מבין אני&quot; בכה ובכה והבחין שעד היום לא הבין משמע &quot;אדם יכול לבכות&quot;</p><p>http://www.e-mago.co.il/editor/myth-2162.htm</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-08-11 12:49:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-11 12:49:55' 
+			WHERE messageid=4600;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1060_3.html',
+		'<p>הבעש&quot;ט על המשיח:</p><p>מתוך &quot;אור הגנוז&quot; (בובר), עמ\' 85:</p><p>&quot;רבי יחיאל מיכל מזלוטשוב סיפר:</p><p>נסענו עם מרן אור שבעת הימים רבנו ישראל בעל-שם-טוב בדרך. כשהגיע זמן המנחה הלך אל היער להתפלל. פתאום ראינו שהטיח ראשו באילן וצעק. לאחר מכן שאלנוהו על הדבר. אמר: &quot;צופה הייתי ברוח הקודש, שבדורות הסמוכים לביאת המשיח יהיו הרביים כארבה לרוב, והם הם שיעכבו את הגאולה, כי יגרמו פירוד לבבות ושנאת חינם&quot;&quot;.</p><p>ועוד מופיע בעמ\' 95:</p><p>זה מזכיר לי את נבואת הרועים הרעים.</p><p>&quot;אמר הבעל-שם-טוב:</p><p>קודם ביאת המשיח יהיה שפע עצום בעולם. אחינו בני ישראל יתעשרו ויתרגלו להוצאות מרובות בהנהגת הבית, וישליכו מעליהם מידת ההסתפקות במועט. אחר כך יבואו שנים רעות, מחסור ודוחק פרנסה, ותרד עניות לעולם. בני ישראל לא יוכלו לספק את צרכיהם שגדלו לאין שיעור. כך יתחילו חבלי המשיח&quot;.</p><p>זה מזכיר לי את סיפור יוסף.</p><p>ומצאתי בדומה לכך:</p><p>ה. קֹדֶם הַגְּאוּלָה יִהְיֶה שֶׁפַע גָּדוֹל בָּעוֹלָם וְאַחַר כָּךְ יִפָּסֵק, וְיִהְיֶה דֹּחַק גָּדוֹל מְאֹד, כִּי רַבִּים יִפְּלוּ מִנִּכְסֵיהֶם, וְזֶה יִהְיֶה הַנִּסָּיוֹן הַקָּשֶׁה בְּיוֹתֵר. כָּךְ אָמַר רַבִּי יִשְׂרָאֵל מֵרוּזִ\'ין, וְזֶה תֹּכֶן דְּבָרָיו: </p><p>לִפְנֵי יְמוֹת הַמָּשִׁיחַ יְהֵא שֶׁפַע גָּדוֹל בָּעוֹלָם וַאֲנָשִׁים יַרְבּוּ בְּמוֹתָרוֹת וְלוּקְסוּס וְיִתְרַגְּלוּ לְהִתְפַּנְּקוּת מֻפְרֶזֶת, וּלְאַחַר מִכֵּן תִּפָּסֵק אוֹתָהּ הַשְׁפָּעָה וְיִפְּלוּ לְדֹחַק גָּדוֹל (נר ישראל).</p><p>http://www.ateret4u.com/online/f_01289.html</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-08-11 14:20:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>ספר שמות פרק כג כתוב: (כח) וְשָׁלַחְתִּי אֶת-הַצִּרְעָה לְפָנֶיךָ וְגֵרְשָׁה אֶת-הַחִוִּי אֶת-הַכְּנַעֲנִי וְאֶת-הַחִתִּי מִלְּפָנֶיךָ</p><p>ספר שמות פרק לג כתוב: (ב) וְשָׁלַחְתִּי לְפָנֶיךָ מַלְאָךְ וְגֵרַשְׁתִּי אֶת-הַכְּנַעֲנִי הָאֱמֹרִי וְהַחִתִּי וְהַפְּרִזִּי הַחִוִּי וְהַיְבוּסִי.</p><p>-הַצִּרְעָה = מַלְאָךְ בִּדְמוּת אֱלֹהִי הנְקֵבָה </p><p>ספר בראשית פרק ה כתוב:</p><p>(א) זֶה סֵפֶר תּוֹלְדֹת אָדָם בְּיוֹם בְּרֹא אֱלֹהִים אָדָם בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ </p><p>(ב) זָכָר וּנְקֵבָה בְּרָאָם וַיְבָרֶךְ אֹתָם וַיִּקְרָא אֶת שְׁמָם אָדָם בְּיוֹם הִבָּרְאָם.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-11 14:36:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>ספר שמות פרק כג כתוב: (כח) וְשָׁלַחְתִּי אֶת-הַצִּרְעָה לְפָנֶיךָ וְגֵרְשָׁה אֶת-הַחִוִּי אֶת-הַכְּנַעֲנִי וְאֶת-הַחִתִּי מִלְּפָנֶיךָ</p><p>ספר שמות פרק לג כתוב: (ב) וְשָׁלַחְתִּי לְפָנֶיךָ מַלְאָךְ וְגֵרַשְׁתִּי אֶת-הַכְּנַעֲנִי הָאֱמֹרִי וְהַחִתִּי וְהַפְּרִזִּי הַחִוִּי וְהַיְבוּסִי.</p><p>-הַצִּרְעָה = מַלְאָךְ [בִּדְמוּת אֱלֹהִי הנְקֵבָה]</p><p> </p><p>ספר בראשית פרק ה כתוב:</p><p>(א) זֶה סֵפֶר תּוֹלְדֹת אָדָם בְּיוֹם בְּרֹא אֱלֹהִים אָדָם בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ</p><p>(ב) זָכָר וּנְקֵבָה בְּרָאָם וַיְבָרֶךְ אֹתָם וַיִּקְרָא אֶת שְׁמָם אָדָם בְּיוֹם הִבָּרְאָם.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-11 15:12:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-11 15:12:07' 
+			WHERE messageid=4604;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_427.html',
+		'<p>אכי&quot;ר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmWz5t1gHXFMZHFpNBhEoJo0LET_dUvR80',
+		'moshe hazan',
+		'2014-08-11 22:08:28'
+		)
+		;
+
