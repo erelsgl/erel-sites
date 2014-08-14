@@ -360,3 +360,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_427.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-13 09:01:52'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-14 05:38:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1060_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-14 05:38:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1060_3.html'
+		;
+

@@ -575,3 +575,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אודה אם תעזרו לי בלקיחת הלוואה באופן דחוף 0526388408</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnzSGAkI3Z8lGsa0ylBOi2hX10PEsO7jWg',
+		'Sagi Rozen',
+		'2014-08-13 09:01:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1060_3.html',
+		'<p>ייתכן שזה כבר התקיים... בתקופת המנדט הבריטי היה שפע, ואחרי קום המדינה היתה תקופה של צנע.</p><p>אחר-כך, בתקופת ארידור היה שפע ובזבוז, ואז הבורסה נפלה והיתה ירידה ברמת החיים.</p><p>וכן הלאה..</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-08-14 05:38:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-14 05:38:40' 
+			WHERE messageid=4608;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1060_3.html',
+		'<p>ייתכן שזה כבר התקיים... בתקופת המנדט הבריטי היה שפע, ואחרי קום המדינה היתה תקופה של צנע.</p><p>אחר-כך, בתקופת ארידור היה שפע ובזבוז, ואז הבורסה נפלה והיתה ירידה ברמת החיים.</p><p>ובטח היו עוד תקופות כאלו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-08-14 05:38:50'
+		)
+		;
+
