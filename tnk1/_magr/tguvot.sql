@@ -618,3 +618,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1060_3.html',
+		'<p>אני חשבתי על היום - יש שפע גדול, מותרות וכו\', אייפונים ואירובוטים וכו\'. ורק שלא יגמר...!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-08-14 16:05:51'
+		)
+		;
+
