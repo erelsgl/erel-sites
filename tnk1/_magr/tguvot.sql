@@ -661,3 +661,63 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-08-15 15:14:04' 
 			WHERE messageid=4611;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-18-10-xsida.html',
+		'<p>herts0@walla.co.il חתוקה הרצל  בקשר לפירוש אהבתי מאוד יצירתי וקרוב לאמת הכל כתוב בתורה </p><p>צריך פשוט לגלות את ההקשר ץתודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnwdaKz-Nn_IIfD1m02ZEUBJG8Oc5CEJNE',
+		'אתי חתוקה',
+		'2014-08-16 15:52:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>מאז שאני כאדם חטאתי מפרי עץ הדעת נהייתי כאלהים יודע טוב ורע</p><p>ואמנם נעים לדעת טוב אך בחיים לא אוכל להיות כאלהים לשאת את הרעה</p><p>אני מבקש מאלהים סליחה שחטאתי מעץ הדעת טוב ורע</p><p>אני מבקש להשיב לעץ אלהים את חטא הדעת חטא דעתי</p><p>אני מבקש את מותי</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-16 17:31:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>בבקשה אל תבקש את מותך. תבקש חיים. אלהים רוצה שתבחר בחיים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk283tHo6SGD4LVRFNr9l2siBl8mC2flG4',
+		'שיהיה שלום וברכה לשאול',
+		'2014-08-16 18:29:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>ההיקש שהצרעה=מלאך משני הפסוקים בשמות הגיוני לחלוטין שהרי שניהם אכן מגרשים את עממי כנען .לעומת זאת אני מתקשה להבין את ההיקש שלך שמלאך=בדמות אלהי הנקבה ...אכן אדם תמיד הוא זכר ונקבה שהרי אחרת אין חיים .</p><p>בגימטריא מלאך=האלהים=אמן =91=7*13=7 פעמים אחד וגם 7 פעמים אהבה </p><p>וזה ספר תולדות אדם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_TDjrn-OWt2vvmP6jAHNx_aED4tBwc-o',
+		'manetmonetimp .',
+		'2014-08-17 03:16:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>ספר בראשית פרק כז כתוב:</p><p>(ז) הָבִיאָה לִּי צַיִד וַעֲשֵׂה-לִי מַטְעַמִּים וְאֹכֵלָה וַאֲבָרֶכְכָה לִפְנֵי יְהוָה לִפְנֵי מוֹתִי.</p><p>לִפְנֵי יְהוָה = לִפְנֵי מוֹתִי.</p><p>וכשאני מבקש את מוֹתִי אני מבקש את יְהוָה .</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-17 04:29:29'
+		)
+		;
+
