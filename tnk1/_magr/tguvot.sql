@@ -721,3 +721,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/lenyym.html',
+		'<p>שלום רב </p><p>אני אשה בת 54 זקוקה להלוואה להשכיר בית </p><p>כרגע אני גרה במכסן  ואין לי אפשרות להשכיר </p><p>בית אין לי ריהוט אין לי שום דבר </p><p>לא יודעת מה לעשות אודה לכם אם תעזרו לי </p><p>ואחזיר ברגע שיהיה לי עבודה תודה מראש </p><p>ותיזכו למצוות אתם יכולים לבדוק את זה שאני </p><p>דוברת אמת </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkVHepoydxJj43YDIoejWXeh08ei0GtZ1k',
+		'קוקי עמר',
+		'2014-08-17 12:38:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>המלה דת היא פרסית ומשמעותה נתון/מתנה כמו בשם העיר בבל , בפרסית בג-דד, יהו-נתן  (נתניהו, נתניה). מכאן פרי הדקל DATE מהעץ המתפלל PALM  בגלל צורת העלה וגם נתונים/נתון    DATAוגם המלה העברית דת במובן מתנת-הוראת אלוהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnQFRxZNsoQROfDCBy12EL-ibWW6qd5Kow',
+		'Dov Henis',
+		'2014-08-17 13:32:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/px/toqpnut.html',
+		'<p>הגדרה נכונה  קצרה וקולעת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmFXWqSGFS7xtouEpLruUyNUoTeX7lX8gY',
+		'monir saed',
+		'2014-08-17 16:00:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/px/toqpnut.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmFXWqSGFS7xtouEpLruUyNUoTeX7lX8gY',
+		'monir saed',
+		'2014-08-17 16:01:11'
+		)
+		;
+
