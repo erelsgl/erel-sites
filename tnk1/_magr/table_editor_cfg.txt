@@ -574,6 +574,7 @@ sgulot	dquyot	InputType	rich_text
 sgulot	ecot	InputType	rich_text
 sgulot	full	InputType	rich_text
 sgulot	hqblot	InputType	rich_text
+sgulot	kotrt	Attributes	dir='rtl'
 sgulot	kotrt	InputType	short_text
 sgulot	main_qod	InputType	short_text
 sgulot	main_qod_subjects	InputType	long_text
