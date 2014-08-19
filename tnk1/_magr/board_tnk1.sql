@@ -480,3 +480,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tokxot/px/toqpnut.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-18 09:22:55'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-18 17:38:10'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_dt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-18 17:52:06'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_dt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-08-18 18:52:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0530_2.html'
+		;
+

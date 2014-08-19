@@ -769,3 +769,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום ! אודה לכם מאוד באם תוכלו לעזור לי דחוף בהלוואה  ישר כוח 0532848233</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm5qnRj-XnltdPzOYahsBMohIvY7ozQ3VM',
+		'שני אמרוסי',
+		'2014-08-18 09:22:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>מאת : דַיָּן משה</p><p>וְאָתָה מֵרִבֲבֹת קֹדֶשׁ מִימִינוֹ אֵשְׁדָּת לָמוֹ [משפט אש שופת את מו-עד עת לדתו כי באש יהוה נשפט]</p><p>ספר אסתר פרק א כתוב:</p><p>(ח) וְהַשְּׁתִיָּה כַדָּת </p><p>(טו) כְּדָת מַה לַּעֲשֹוֹת בַּמַּלְכָּה וַשְׁתִּי עַל אֲשֶׁר לֹא עָשְׂתָה אֶת מַאֲמַר הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ בְּיַד הַסָּרִיסִים:</p><p>(יג) וַיֹּאמֶר הַמֶּלֶךְ לַחֲכָמִים יֹדְעֵי הָעִתִּים כִּי כֵן דְּבַר הַמֶּלֶךְ לִפְנֵי כָּל יֹדְעֵי דָּת וָדִין: דין=אש-דת =  אֵשְׁדָּת</p><p> וְדָתֵיהֶם [מנהגיהם משפטיהם] שֹׁנוֹת מִכָּל עָם וְאֶת דָּתֵי הַמֶּלֶךְ [תורת המלך] אֵינָם עֹשִׂים </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-18 17:38:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>מאת : דַיָּן משה</p><p>וְאָתָה מֵרִבֲבֹת קֹדֶשׁ מִימִינוֹ אֵשְׁדָּת לָמוֹ [משפט אש שופת את מו-עד עת לדתו כי באש יהוה נשפט]</p><p>ספר אסתר פרק א כתוב:</p><p>(ח) וְהַשְּׁתִיָּה כַדָּת</p><p>(טו) כְּדָת מַה לַּעֲשֹוֹת בַּמַּלְכָּה וַשְׁתִּי עַל אֲשֶׁר לֹא עָשְׂתָה אֶת מַאֲמַר הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ בְּיַד הַסָּרִיסִים:</p><p>(יג) וַיֹּאמֶר הַמֶּלֶךְ לַחֲכָמִים יֹדְעֵי הָעִתִּים כִּי כֵן דְּבַר הַמֶּלֶךְ לִפְנֵי כָּל יֹדְעֵי דָּת וָדִין: דין=אש-דת = אֵשְׁדָּת</p><p>וְדָתֵיהֶם [מנהגיהם משפטיהם] שֹׁנוֹת מִכָּל עָם וְאֶת דָּתֵי הַמֶּלֶךְ [תורת המלך = מצוות המלך] אֵינָם עֹשִׂים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-18 17:52:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-18 17:52:08' 
+			WHERE messageid=4623;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0530_2.html',
+		'<p>&quot;המות&quot; זה לא בין חיים. אדם שבוחר בחיים עם סביבתו חיים רצויה זה בחירה חיים בצורה טובה ונבונה על כן אלהים מברך על הבחירה נבונה טובה ישרה. מוות זה חלק תאונה מן חיים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk283tHo6SGD4LVRFNr9l2siBl8mC2flG4',
+		'שיהיה שלום וברכה לשאול',
+		'2014-08-18 18:52:19'
+		)
+		;
+
