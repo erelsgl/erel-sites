@@ -721,3 +721,106 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/lenyym.html',
+		'<p>שלום רב </p><p>אני אשה בת 54 זקוקה להלוואה להשכיר בית </p><p>כרגע אני גרה במכסן  ואין לי אפשרות להשכיר </p><p>בית אין לי ריהוט אין לי שום דבר </p><p>לא יודעת מה לעשות אודה לכם אם תעזרו לי </p><p>ואחזיר ברגע שיהיה לי עבודה תודה מראש </p><p>ותיזכו למצוות אתם יכולים לבדוק את זה שאני </p><p>דוברת אמת </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkVHepoydxJj43YDIoejWXeh08ei0GtZ1k',
+		'קוקי עמר',
+		'2014-08-17 12:38:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>המלה דת היא פרסית ומשמעותה נתון/מתנה כמו בשם העיר בבל , בפרסית בג-דד, יהו-נתן  (נתניהו, נתניה). מכאן פרי הדקל DATE מהעץ המתפלל PALM  בגלל צורת העלה וגם נתונים/נתון    DATAוגם המלה העברית דת במובן מתנת-הוראת אלוהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnQFRxZNsoQROfDCBy12EL-ibWW6qd5Kow',
+		'Dov Henis',
+		'2014-08-17 13:32:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/px/toqpnut.html',
+		'<p>הגדרה נכונה  קצרה וקולעת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmFXWqSGFS7xtouEpLruUyNUoTeX7lX8gY',
+		'monir saed',
+		'2014-08-17 16:00:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/px/toqpnut.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmFXWqSGFS7xtouEpLruUyNUoTeX7lX8gY',
+		'monir saed',
+		'2014-08-17 16:01:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום ! אודה לכם מאוד באם תוכלו לעזור לי דחוף בהלוואה  ישר כוח 0532848233</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm5qnRj-XnltdPzOYahsBMohIvY7ozQ3VM',
+		'שני אמרוסי',
+		'2014-08-18 09:22:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>מאת : דַיָּן משה</p><p>וְאָתָה מֵרִבֲבֹת קֹדֶשׁ מִימִינוֹ אֵשְׁדָּת לָמוֹ [משפט אש שופת את מו-עד עת לדתו כי באש יהוה נשפט]</p><p>ספר אסתר פרק א כתוב:</p><p>(ח) וְהַשְּׁתִיָּה כַדָּת </p><p>(טו) כְּדָת מַה לַּעֲשֹוֹת בַּמַּלְכָּה וַשְׁתִּי עַל אֲשֶׁר לֹא עָשְׂתָה אֶת מַאֲמַר הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ בְּיַד הַסָּרִיסִים:</p><p>(יג) וַיֹּאמֶר הַמֶּלֶךְ לַחֲכָמִים יֹדְעֵי הָעִתִּים כִּי כֵן דְּבַר הַמֶּלֶךְ לִפְנֵי כָּל יֹדְעֵי דָּת וָדִין: דין=אש-דת =  אֵשְׁדָּת</p><p> וְדָתֵיהֶם [מנהגיהם משפטיהם] שֹׁנוֹת מִכָּל עָם וְאֶת דָּתֵי הַמֶּלֶךְ [תורת המלך] אֵינָם עֹשִׂים </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-18 17:38:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_dt.html',
+		'<p>מאת : דַיָּן משה</p><p>וְאָתָה מֵרִבֲבֹת קֹדֶשׁ מִימִינוֹ אֵשְׁדָּת לָמוֹ [משפט אש שופת את מו-עד עת לדתו כי באש יהוה נשפט]</p><p>ספר אסתר פרק א כתוב:</p><p>(ח) וְהַשְּׁתִיָּה כַדָּת</p><p>(טו) כְּדָת מַה לַּעֲשֹוֹת בַּמַּלְכָּה וַשְׁתִּי עַל אֲשֶׁר לֹא עָשְׂתָה אֶת מַאֲמַר הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ בְּיַד הַסָּרִיסִים:</p><p>(יג) וַיֹּאמֶר הַמֶּלֶךְ לַחֲכָמִים יֹדְעֵי הָעִתִּים כִּי כֵן דְּבַר הַמֶּלֶךְ לִפְנֵי כָּל יֹדְעֵי דָּת וָדִין: דין=אש-דת = אֵשְׁדָּת</p><p>וְדָתֵיהֶם [מנהגיהם משפטיהם] שֹׁנוֹת מִכָּל עָם וְאֶת דָּתֵי הַמֶּלֶךְ [תורת המלך = מצוות המלך] אֵינָם עֹשִׂים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-18 17:52:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-18 17:52:08' 
+			WHERE messageid=4623;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0530_2.html',
+		'<p>&quot;המות&quot; זה לא בין חיים. אדם שבוחר בחיים עם סביבתו חיים רצויה זה בחירה חיים בצורה טובה ונבונה על כן אלהים מברך על הבחירה נבונה טובה ישרה. מוות זה חלק תאונה מן חיים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk283tHo6SGD4LVRFNr9l2siBl8mC2flG4',
+		'שיהיה שלום וברכה לשאול',
+		'2014-08-18 18:52:19'
+		)
+		;
+
