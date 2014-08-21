@@ -836,3 +836,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_20.html',
+		'<p>חגי הסב את תשומת לבי גם לאתרו של מחבר הספר ואכן הוא מעניין מאוד. אני ממליצה במיוחד  על המאמר &quot;אבל אשמים אנחנו על אחינו&quot;: בין &quot;אח&quot; ל&quot;אחר&quot; בספר בראשית&quot; שקריאתו היא עונג, והרי הקישורית:</p><p> http://a-c-elitzur.co.il/uploads/articlesdocs/בין%20אח%20לאחר0809.pdf</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-08-20 12:46:58'
+		)
+		;
+
