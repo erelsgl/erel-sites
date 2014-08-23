@@ -848,3 +848,122 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0225_0.html',
+		'<p> ספר איוב פרק ג כתוב:</p><p>(יג) כִּי עַתָּה שָׁכַבְתִּי וְאֶשְׁקוֹט יָשַׁנְתִּי אָז יָנוּחַ לִי יד עִם מְלָכִים וְיֹעֲצֵי אָרֶץ הַבֹּנִים חֳרָבוֹת לָמוֹ</p><p>(טו) אוֹ עִם שָׂרִים זָהָב לָהֶם הַמְמַלְאִים בָּתֵּיהֶם כָּסֶף.</p><p>(טז) אוֹ כְנֵפֶל טָמוּן לֹא אֶהְיֶה כְּעֹלְלִים לֹא רָאוּ אוֹר.</p><p>(יז) שָׁם רְשָׁעִים חָדְלוּ רֹגֶז וְשָׁם יָנוּחוּ יְגִיעֵי כֹחַ.</p><p>בקבר מתחת לאדמה בעפר שָׁם רְשָׁעִים חָדְלוּ רֹגֶז</p><p>ואם הצלחת לא להרגיז את הרשע זה סימן שאתה צדיק כעפר הארץ</p><p>הצדיק רחום וחנון והוא מברך את כל מי שבא לפניו </p><p>אבל את הרשע קשה לרצות ורק העפר יכול לרצות את הרשע</p><p>ואם הרשע ברך אותך מכל הלב הלא זה אות שמגיע לך ברכת אמת</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 14:25:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0225_0.html',
+		'<p>ספר איוב פרק ג כתוב:</p><p>(יג) כִּי עַתָּה שָׁכַבְתִּי וְאֶשְׁקוֹט יָשַׁנְתִּי אָז יָנוּחַ לִי </p><p>(יד) עִם מְלָכִים וְיֹעֲצֵי אָרֶץ הַבֹּנִים חֳרָבוֹת לָמוֹ</p><p>(טו) אוֹ עִם שָׂרִים זָהָב לָהֶם הַמְמַלְאִים בָּתֵּיהֶם כָּסֶף.</p><p>(טז) אוֹ כְנֵפֶל טָמוּן לֹא אֶהְיֶה כְּעֹלְלִים לֹא רָאוּ אוֹר.</p><p>(יז) שָׁם רְשָׁעִים חָדְלוּ רֹגֶז וְשָׁם יָנוּחוּ יְגִיעֵי כֹחַ.</p><p>בקבר מתחת לאדמה בעפר שָׁם רְשָׁעִים חָדְלוּ רֹגֶז</p><p>ואם הצלחת לא להרגיז את הרשע זה סימן שאתה צדיק כעפר הארץ</p><p>הצדיק רחום וחנון והוא מברך את כל מי שבא לפניו</p><p>אבל את הרשע קשה לרצות ורק העפר יכול לרצות את הרשע</p><p>ואם הרשע ברך אותך מכל הלב הלא זה אות שמגיע לך ברכת אמת</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 14:26:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-22 14:26:52' 
+			WHERE messageid=4628;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0225_0.html',
+		'<p>ספר איוב פרק ג כתוב:</p><p>(יג) כִּי עַתָּה שָׁכַבְתִּי וְאֶשְׁקוֹט יָשַׁנְתִּי אָז יָנוּחַ לִי</p><p>(יד) עִם מְלָכִים וְיֹעֲצֵי אָרֶץ הַבֹּנִים חֳרָבוֹת לָמוֹ</p><p>(טו) אוֹ עִם שָׂרִים זָהָב לָהֶם הַמְמַלְאִים בָּתֵּיהֶם כָּסֶף.</p><p>(טז) אוֹ כְנֵפֶל טָמוּן לֹא אֶהְיֶה כְּעֹלְלִים לֹא רָאוּ אוֹר.</p><p>(יז) שָׁם רְשָׁעִים חָדְלוּ רֹגֶז וְשָׁם יָנוּחוּ יְגִיעֵי כֹחַ.</p><p>בקבר מתחת לאדמה בעפר שָׁם רְשָׁעִים חָדְלוּ רֹגֶז</p><p>ואם הצלחת לא להרגיז את הרשע זה סימן שאתה צדיק כעפר הארץ</p><p>הצדיק רחום וחנון והוא מברך את כל מי שבא לפניו </p><p>אבל את הרשע קשה לרצות ורק העפר יכול לרצות את הרשע</p><p>ואם הרשע ברך אותך מכל הלב הלא זה אות שמגיע לך ברכת אמת</p><p>**********</p><p>אבל יש גם רשעים גדולים שבלתי ניתן לרצות אותם לכן יש לטמון אותם בעפר שם מקומם</p><p>ספר שמות פרק ב כתוב:</p><p>(יא) וַיְהִי בַּיָּמִים הָהֵם וַיִּגְדַּל מֹשֶׁה וַיֵּצֵא אֶל אֶחָיו וַיַּרְא בְּסִבְלֹתָם וַיַּרְא אִישׁ מִצְרִי מַכֶּה אִישׁ עִבְרִי מֵאֶחָיו. </p><p>(יב) וַיִּפֶן כֹּה וָכֹה וַיַּרְא כִּי אֵין אִישׁ, וַיַּךְ אֶת הַמִּצְרִי וַיִּטְמְנֵהוּ בַּחוֹל.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 14:56:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-22 14:56:45' 
+			WHERE messageid=4629;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0225_0.html',
+		'<p>ספר איוב פרק ג כתוב:</p><p>(יג) כִּי עַתָּה שָׁכַבְתִּי וְאֶשְׁקוֹט יָשַׁנְתִּי אָז יָנוּחַ לִי</p><p>(יד) עִם מְלָכִים וְיֹעֲצֵי אָרֶץ הַבֹּנִים חֳרָבוֹת לָמוֹ</p><p>(טו) אוֹ עִם שָׂרִים זָהָב לָהֶם הַמְמַלְאִים בָּתֵּיהֶם כָּסֶף.</p><p>(טז) אוֹ כְנֵפֶל טָמוּן לֹא אֶהְיֶה כְּעֹלְלִים לֹא רָאוּ אוֹר.</p><p>(יז) שָׁם רְשָׁעִים חָדְלוּ רֹגֶז וְשָׁם יָנוּחוּ יְגִיעֵי כֹחַ.</p><p>בקבר מתחת לאדמה בעפר שָׁם רְשָׁעִים חָדְלוּ רֹגֶז</p><p>ואם הצלחת לא להרגיז את הרשע זה סימן שאתה צדיק כעפר הארץ</p><p>הצדיק רחום וחנון והוא מברך את כל מי שבא לפניו</p><p>אבל את הרשע קשה לרצות ורק העפר יכול לרצות את הרשע</p><p>ואם הרשע ברך אותך מכל הלב הלא זה אות שמגיע לך ברכת אמת</p><p>**********</p><p>אבל יש גם רשעים גדולים שבלתי ניתן לרצות אותם לכן יש לטמון אותם בעפר שם מקומם</p><p>ספר שמות פרק ב כתוב:</p><p>(יא) וַיְהִי בַּיָּמִים הָהֵם וַיִּגְדַּל מֹשֶׁה וַיֵּצֵא אֶל אֶחָיו וַיַּרְא בְּסִבְלֹתָם וַיַּרְא אִישׁ מִצְרִי מַכֶּה אִישׁ עִבְרִי מֵאֶחָיו.</p><p>(יב) וַיִּפֶן כֹּה וָכֹה וַיַּרְא כִּי אֵין אִישׁ, וַיַּךְ אֶת הַמִּצְרִי וַיִּטְמְנֵהוּ בַּחוֹל.</p><p>בספר בראשית פרק כז כתוב:</p><p>(מו)  וַתֹּאמֶר רִבְקָה אֶל-יִצְחָק קַצְתִּי בְחַיַּי מִפְּנֵי בְּנוֹת חֵת אִם-לֹקֵחַ יַעֲקֹב אִשָּׁה מִבְּנוֹת-חֵת כָּאֵלֶּה מִבְּנוֹת הָאָרֶץ לָמָּה לִּי חַיִּים.</p><p>כי אִשָּׁה מִבְּנוֹת-חֵת כָּאֵלֶּה מִבְּנוֹת הָאָרֶץ היא אשה מרשעת ורבקה יודעת כי לא ניתן להתמודד עם רשעים ולרצותם אלא להיות כעפר</p><p>לכן רבקה אמרה לָמָּה לִּי חַיִּים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 15:07:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-22 15:07:21' 
+			WHERE messageid=4630;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_1.html',
+		'<p>בישראל נוהגים האבות לברך את בניהם לאחר הקידוש על יַיִן וַאֲשִׁישָׁה [מיץ ענבים תירוש]</p><p>אך על פי התורה שותים יין או תירוש רק אחרי הארוחה ואחרי כן יש לברך את הבנים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 15:19:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-22 15:19:57' 
+			WHERE messageid=4632;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_1.html',
+		'<p>בישראל נוהגים האבות לברך את בניהם לאחר הקידוש על יַיִן וַאֲשִׁישָׁה [מיץ ענבים תירוש]</p><p>אך על פי התורה שותים יין או תירוש רק אחרי הארוחה ורק אחרי כן יש לברך את הבנים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 15:20:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_1.html',
+		'<p>אמנם בישראל האבות מברכים את בניהם לאחר הקידוש על יַיִן וַאֲשִׁישָׁה [מיץ ענבים תירוש]</p><p>אך על פי התורה שותים יין או תירוש רק אחרי הארוחה ורק אחרי כן יש לברך את הבנים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-22 15:33:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-22 15:33:11' 
+			WHERE messageid=4633;
+
