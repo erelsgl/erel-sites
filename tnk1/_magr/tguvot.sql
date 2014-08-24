@@ -967,3 +967,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-08-22 15:33:11' 
 			WHERE messageid=4633;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>ספר שמואל ב פרק יג כתוב:</p><p>(כב) וְלֹא דִבֶּר אַבְשָׁלוֹם עִם אַמְנוֹן לְמֵרָע וְעַד טוֹב כִּי שָׂנֵא אַבְשָׁלוֹם אֶת אַמְנוֹן עַל דְּבַר אֲשֶׁר עִנָּה אֵת תָּמָר אֲחֹתוֹ</p><p>כשאתה האדם שונא את אחיך רעך אז אינך יכול לדבר עמו</p><p>ככה גם אלהים לא מעוניין לדבר עם האדם מאז בגד האדם והפר את ברית אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-23 18:11:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום שמי רגינה אני זקוקה להלוואה עד 50.000 שח תודה הנייד שלי 0525745635</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlTwa3Z_ExcJ9f2CML5f9m0AwN78enFaig',
+		'Tania Radomiselsky',
+		'2014-08-23 21:41:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום שמי רגינה אני זקוקה להלוואה עד 50.000 שח תודה הנייד שלי 0525745635</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlTwa3Z_ExcJ9f2CML5f9m0AwN78enFaig',
+		'Tania Radomiselsky',
+		'2014-08-23 21:41:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-08-23 21:42:22' 
+			WHERE messageid=4637;
+
