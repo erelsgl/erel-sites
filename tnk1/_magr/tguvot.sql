@@ -1010,3 +1010,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-08-23 21:42:22' 
 			WHERE messageid=4637;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-13.html',
+		'<p>משיב רעה תחת רעה , יש לה כמה פירושים בשפה העברית. לעיתים אף ביטוי זה יכול להופיע בתשבץ או בתשחץ.</p><p>אם מופיעה לפניכם הגדרה &quot;משיב רעה תחת רעה&quot; והתשובה היא 3 אותיות. כנראה שמדבור במילה &quot;נקם&quot;</p><p>למידע נוסף פשוט היכנסו ל http://pitaronfree.blogspot.co.il/2014/08/blog-post_932.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlup-tbLk8h7fa9p-8BvYcTLQjZLPyPVoY',
+		'Didi Lokly',
+		'2014-08-24 08:53:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/tora_sfrim.html',
+		'<p>ספרי קודש המדף היהודי- http://www.hamadaf-y.co.il/</p><p>חנות ספרי הקודש הגדולה בעולם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkKCnd0xPFNIimQlx2eRb-mAAALjIHem2g',
+		'ניסים ירחי',
+		'2014-08-24 21:32:53'
+		)
+		;
+
