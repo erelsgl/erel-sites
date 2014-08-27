@@ -1034,3 +1034,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/ewn/xomt_yrujlym.html',
+		'<p>אינני מצליח לראות את התרשים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_TDjrn-OWt2vvmP6jAHNx_aED4tBwc-o',
+		'manetmonetimp .',
+		'2014-08-27 06:46:42'
+		)
+		;
+

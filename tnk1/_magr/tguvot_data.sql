@@ -1168,3 +1168,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/mamr/tora_sfrim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/ewn/xomt_yrujlym.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-08-27 06:46:42'
+		WHERE parent='tnk1/ktuv/ewn/xomt_yrujlym.html'
+		;
+
