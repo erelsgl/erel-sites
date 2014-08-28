@@ -1046,3 +1046,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>בדברי מאמרי לא התייחסתי לרפואת שיניים כי מלבד אלהים אין רופא שיניים כי לא נולד הרופא שירפא את השן</p><p>אני הייתי קורא לרופא השניים = מטפל בשיניים</p><p>ובכל זאת חבוב אתה הקורא את דברי מאמרי</p><p>הנה תבין למה אתה סובל מהשיניים</p><p>בספר תהילות פרק 31 כתוב:</p><p>(יא) כִּי כָלוּ בְיָגוֹן חַיַּי וּשְׁנוֹתַי בַּאֲנָחָה כָּשַׁל בַּעֲו‍ֹנִי כֹחִי וַעֲצָמַי עָשֵׁשׁוּ.[אז הנה לך עששת]</p><p>בספר תהילות פרק ג כתוב:</p><p>(ח) קוּמָה יְהוָה הוֹשִׁיעֵנִי אֱלֹהַי כִּי הִכִּיתָ אֶת כָּל אֹיְבַי לֶחִי שִׁנֵּי רְשָׁעִים שִׁבַּרְתָּ.[אלהים שובר את השיניים של הרשעים]</p><p>ספר תהילות פרק לח כתוב:</p><p>(ד) אֵין מְתֹם בִּבְשָׂרִי מִפְּנֵי זַעְמֶךָ אֵין שָׁלוֹם בַּעֲצָמַי מִפְּנֵי חַטָּאתִי [בגלל החטאים אין שלום בעצמות והשיניים הם חלק משלד העצמות]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-27 16:32:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/oni.html',
+		'<p>הנה פירוש המלבים בספר הכרמל הטוען שדווקא רש מתאר מצב של התרוששות ביחס למצב קודם טוב יותר..</p><p>\'\'ההבדל בין רש ובין יתר השמות המורים על העניות הוא, שרש מציין העני שנתרושש מירושתו שרש הוא הפך של ירש, &quot;עני ורש הצדיקו&quot;, העני שבא למשפט על שלוקחים נחלתו ויתרושש מירושתו\'\'. (הכרמל)</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkEDCqJIKJCl0F9mjde5CVXkXPnJI7PvyQ',
+		'יוסי וזהבי דוידוביץ',
+		'2014-08-27 18:58:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/oni.html',
+		'<p>מעניין, לכאורה זה הפוך מדבריו בפירוש המקרא.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-08-28 05:27:26'
+		)
+		;
+
