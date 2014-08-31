@@ -1106,3 +1106,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>ירמיהו הנביא מדבר על חזון אחרית הימים</p><p>אבל על פי ספר איוב מתברר שאחרית הימים הם אחרי ימי החיים </p><p>ספר ירמיהו פרק 31 כתוב:</p><p>(לג) וְלֹא יְלַמְּדוּ עוֹד אִישׁ אֶת רֵעֵהוּ וְאִישׁ אֶת אָחִיו לֵאמֹר דְּעוּ אֶת יְהוָה כִּי כוּלָּם יֵדְעוּ אוֹתִי **** לְמִקְטַנָּם וְעַד גְּדוֹלָם **** נְאֻם יְהוָה כִּי אֶסְלַח לַעֲו‍ֹנָם וּלְחַטָּאתָם לֹא אֶזְכָּר עוֹד</p><p>איוב פרק ג כתוב: (יט) ****קָטֹן וְגָדוֹל**** שָׁם הוּא וְעֶבֶד חָפְשִׁי מֵאֲדֹנָיו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-08-30 17:20:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/3617.html',
+		'<p>בס&quot;ד</p><p>שאלתך לא ברורה.</p><p>כתבתה שאתה מחפש מקור..&quot;כפי הנטען במאמר&quot;. האם אתה שואל מה הוא מקורו של הרב קורמן זצ&quot;ל הלא הוא ציטט את המכילתא פרשת יתרו פרק ה\' אשר מיוחסת לר\' ישמעאל.</p><p>אם רצונך לשאול מה מקורו של המכילתא ובכן מסתבר שדבר זה קיבל מרבותיו. עכ&quot;פ הרב קורמן שם עמ\' 113 - 114 כתב שיש מחלוקת בדבר וציטט מהירושלמי שלדעת חנינא ( בן אחי ר\' יהודה) בן גמליאל חמשה על לוח זה וחמשה על לוח זה....ורבנן אמרו עשרה על לוח זה ועשרה על לוח זה. עיין שם בהערה 40 שכתב שהפני יהשוע הבין כרבנן מבלי לראות את הירושלמי אלא ע&quot;פ אגדה אחת ועיין בהערה מה שכתב בשם הרב המבי&quot;ט.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn3uXcC2LEMtFMGv9CbY1ybPsWRjL4xElQ',
+		'נוריאל עזרא',
+		'2014-08-30 19:27:16'
+		)
+		;
+
