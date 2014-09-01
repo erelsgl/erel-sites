@@ -60,30 +60,35 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
   $chapter_number = $row['chapter_number'];
   if ($chapter_number>0)
     list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
-      "SELECT qod_mlbim AS `0`, kotrt AS `1` FROM prqim WHERE mspr=$chapter_number");
+      "SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
   $verse_number = $row['verse_number'];
 
   $page_class = "single_height";
   if ($row["pages"]>1)
     $page_class = "double_height";
   if ($row['chapter_number']==99)   // דף שער
-    $page_class = "gate";
-  $html = "
-     <div class='page $page_class'".($send_to_next_page? " style='border-bottom:none'": "").">
-     ".($chapter_number>0 && $link_to_verse? "
-	<p><a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>
-		$book_name $chapter_letter$verse_number
-	</a>: \"<q class='psuq'>$row[verse_text]</q>\"</p>": "
-	<div class='verse'>
-		".($row['verse_number']==0||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
-		<span class='verse_text'>$row[verse_text]</span>
-	</div>
-     ")."
-	<div class='short'>
-		".(strlen($tirgum)>8? "<div class='tirgum'>$tirgum</div>": "")."
-	</div><!--short-->
-
-	<div class='long'>";
+	$page_class = "gate";
+	$html = "
+		<div class='page $page_class'".($send_to_next_page? " style='border-bottom:none'": "").">
+		";
+	$html .= ($chapter_number>0 && $link_to_verse? 
+		"
+		<p><a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>
+			".(0<$verse_number && $verse_number<99? "$book_name $chapter_letter$verse_number": "$book_name $chapter_letter")."
+		</a>".(0<$verse_number && $verse_number<99? ": \"<q class='psuq'>$row[verse_text]</q>\"": ":")."</p>
+		": 
+		"
+		<div class='verse'>
+			".($row['verse_number']==0||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
+			<span class='verse_text'>$row[verse_text]</span>
+		</div>
+		"
+	);
+	$html .= "
+		<div class='short'>
+			".(strlen($tirgum)>8? "<div class='tirgum'>$tirgum</div>": "")."
+		</div><!--short-->
+		<div class='long'>";
 	foreach ($data as $column)
 		if ($column['mainclass'] != $send_to_next_page)
 			$html .= html_for_long_cell($column);

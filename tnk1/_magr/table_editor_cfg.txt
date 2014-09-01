@@ -292,6 +292,17 @@ psuqim_qijurim	verse_number	Default	0
 psuqim_qijurim	verse_number	InputType	short_text
 psuqim_qijurim	verse_text	Attributes	size='60' dir='rtl'
 psuqim_qijurim	verse_text	InputType	short_text
+psuq_qodm_hba		Setup Done	1
+psuq_qodm_hba	book_code	InputType	short_text
+psuq_qodm_hba	chapter_letter	InputType	short_text
+psuq_qodm_hba	next_chapter	InputType	short_text
+psuq_qodm_hba	next_verse_number	Default	0
+psuq_qodm_hba	next_verse_number	InputType	short_text
+psuq_qodm_hba	previous_chapter	InputType	short_text
+psuq_qodm_hba	previous_verse_number	Default	0
+psuq_qodm_hba	previous_verse_number	InputType	short_text
+psuq_qodm_hba	verse_number	Default	0
+psuq_qodm_hba	verse_number	InputType	short_text
 qjrim_jorjim_hvdlim		Setup Done	1
 qjrim_jorjim_hvdlim	av	InputType	short_text
 qjrim_jorjim_hvdlim	bn	InputType	short_text

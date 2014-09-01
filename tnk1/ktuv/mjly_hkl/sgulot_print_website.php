@@ -27,7 +27,6 @@ error_reporting(E_ALL);
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
 $GLOBALS['SCRIPT'] = "$fileroot/_script";
-//require_once("$SCRIPT/rewrite_library.php");
 require_once("$SCRIPT/hebrew.php");
 require_once("$SCRIPT/file.php");  // fixed_template
 
@@ -61,40 +60,50 @@ $limit = coalesce($_GET["limit"],1);
 $query = "
 	SELECT * FROM sgulot
 	WHERE book=".quote_all($book_code)."
-	".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number>0")."
-	AND verse_number>=1
-	ORDER BY book, chapter_number<>99, chapter_number, verse_number
+	".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
+	ORDER BY book, chapter_number, verse_number
 	LIMIT $offset,$limit";
 $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
 	//print_r($row);
-	$chapter_number = $row['chapter_number'];
-	$verse_number = $row['verse_number'];
+	$chapter_number = (int)$row['chapter_number'];
+	$verse_number = (int)$row['verse_number'];
 
 	list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
-		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM prqim WHERE mspr=$chapter_number");
+		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
 	list($verse_code, $verse_letter) = sql_evaluate_assoc(
-		"SELECT qod_mlbim `0`, kotrt `1`  FROM prqim WHERE mspr=$verse_number");
-	list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
-		"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
-		 FROM psuq_qodm_hba 
-		 WHERE book=".quote_all($book_code)." AND chapter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
+		"SELECT qod_mlbim `0`, kotrt `1`  FROM tnk.prqim WHERE mspr=$verse_number");
+	if ($verse_number<99)
+		list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
+			"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
+			 FROM tnk.psuq_qodm_hba 
+			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
+	else 
+		$previous_chapter_letter=$previous_verse_number=$next_chapter_letter=$next_verse_number=null;
+	
+	if ($chapter_number===1 && $verse_number===0)
+		$previous_chapter_letter = $previous_verse_number = null;
 	if ($previous_chapter_letter)
 		list($previous_chapter_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM prqim WHERE kotrt = ".quote_all($previous_chapter_letter));
+			"SELECT qod_mlbim FROM tnk.prqim WHERE kotrt = ".quote_all($previous_chapter_letter));
 	if ($next_chapter_letter)
 		list($next_chapter_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM prqim WHERE kotrt = ".quote_all($next_chapter_letter));
-	if ($previous_verse_number) 
+			"SELECT qod_mlbim FROM tnk.prqim WHERE kotrt = ".quote_all($next_chapter_letter));
+	if ($previous_verse_number!==null) 
 		list($previous_verse_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM prqim WHERE mspr = ".$previous_verse_number);
-	if ($next_verse_number)
+			"SELECT qod_mlbim FROM tnk.prqim WHERE mspr = ".$previous_verse_number);
+	if ($next_verse_number!==null)
 		list($next_verse_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM prqim WHERE mspr = ".$next_verse_number);
-	$current_title = "$book_name $chapter_letter $verse_number";
+			"SELECT qod_mlbim FROM tnk.prqim WHERE mspr = ".$next_verse_number);
+	$current_title = (
+			$verse_number===0? "מבנה $book_name $chapter_letter":
+			$verse_number===99? "סיכום $book_name $chapter_letter":
+			"$book_name $chapter_letter $verse_number"
+	);
 	$verse_link = utf8_to_windows1255("<a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>$current_title</a>");
 
-	if ($previous_verse_number) $previous_link = "$previous_chapter_code-$previous_verse_code.html";
+	if ($previous_verse_number!==null) 
+		$previous_link = "$previous_chapter_code-$previous_verse_code.html";
 	$previous_title = "$previous_chapter_letter $previous_verse_number";
 	$next_link = "$next_chapter_code-$next_verse_code.html";
 	$next_title = " $next_chapter_letter $next_verse_number";
