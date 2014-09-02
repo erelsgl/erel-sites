@@ -111,8 +111,8 @@ function add_page() {
 		if ($addFile===false)
 			die ("Upload file failed");
 
-		mkpath("$fileroot/whatsnew/$site/messages");
-		copy("$fileroot/$site/messages/$addFile", "$fileroot/whatsnew/$site/messages/$addFile");
+// 		mkpath("$fileroot/whatsnew/$site/messages");
+// 		copy("$fileroot/$site/messages/$addFile", "$fileroot/whatsnew/$site/messages/$addFile");
 
 		$unique_message_id .= '[' . $addFile . ']';
 	}
@@ -662,7 +662,7 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 	
 	$nonformal_version = "$fileroot/$path_from_root_to_file_without_ext-$timeforfilename$idforfilename.tmp.$ext";
 	$formal_version = "$fileroot/$path_from_root_to_file_without_ext$ext";
-	$whatsnew_version = "$fileroot/whatsnew/$path_from_root_to_file_without_ext$ext";
+// 	$whatsnew_version = "$fileroot/whatsnew/$path_from_root_to_file_without_ext$ext";
 
 	file_put_contents($nonformal_version, $output_lines, LOCK_EX)
 		or die("Can't write $nonformal_version!");
@@ -671,33 +671,33 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		copy($nonformal_version, $formal_version)
 			or die("Can't copy $nonformal_version to $formal_version!");
 
-		mkpath(dirname($whatsnew_version));
-		copy($formal_version, $whatsnew_version)
-			or user_error("Can't copy $formal_version to $whatsnew_version", E_USER_WARNING);
+// 		mkpath(dirname($whatsnew_version));
+// 		copy($formal_version, $whatsnew_version)
+// 			or user_error("Can't copy $formal_version to $whatsnew_version", E_USER_WARNING);
 	}
 	else {
 		$nonformal_version_link = preg_replace("!^$fileroot!", $linkroot, $nonformal_version);
 		print "<p><a href='$nonformal_version_link'>" . static_text("nonformal version") . "</a></p>\n";
 	}
 
-	sql_query("
-		INSERT INTO whatsnew(
-			path_from_root_to_file,
-			title,
-			action,
-			actor)
-		VALUES(
-			" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
-			" . quote_smart("$title") . ",
-			" . quote_smart($action) . ",
-			" . quote_smart($idfordisplay) . "
-		)")
-		or user_error("Can't write into whatsnew table", E_USER_WARNING);
+// 	sql_query("
+// 		INSERT INTO whatsnew(
+// 			path_from_root_to_file,
+// 			title,
+// 			action,
+// 			actor)
+// 		VALUES(
+// 			" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
+// 			" . quote_smart("$title") . ",
+// 			" . quote_smart($action) . ",
+// 			" . quote_smart($idfordisplay) . "
+// 		)")
+// 		or user_error("Can't write into whatsnew table", E_USER_WARNING);
 
-	file_put_contents(
-		"$fileroot/whatsnew/logall.html", 
-		"<li><a href='../$path_from_root_to_file_without_ext$ext'>$title</a> - $action - $idfordisplay</li>\n",
-		FILE_APPEND);
+// 	file_put_contents(
+// 		"$fileroot/whatsnew/logall.html", 
+// 		"<li><a href='../$path_from_root_to_file_without_ext$ext'>$title</a> - $action - $idfordisplay</li>\n",
+// 		FILE_APPEND);
 }
 
 
@@ -849,17 +849,17 @@ function mirrorUrl($url, $directory_for_file, $file_name, $title) {
 
 
 	$formal_version = "$fileroot/axrimpl/$directory_for_file/$file_name.html";
-	$whatsnew_version = "$fileroot/whatsnew/axrimpl/" . str_replace("files","",$directory_for_file) . "/$file_name.html";
+// 	$whatsnew_version = "$fileroot/whatsnew/axrimpl/" . str_replace("files","",$directory_for_file) . "/$file_name.html";
 
 	print "<p>opening $directory_for_file/$file_name.html</p>\n";
 	mkpath(dirname($formal_version));
 	file_put_contents($formal_version, $content)
 		or user_error("Can't mirror into $formal_version", E_USER_WARNING);
 
-	print "<p>copying to whatsnew</p>\n";
-	mkpath(dirname($whatsnew_version));
-	copy($formal_version, $whatsnew_version)
-		or user_error("Can't copy $formal_version to $whatsnew_version", E_USER_WARNING);
+// 	print "<p>copying to whatsnew</p>\n";
+// 	mkpath(dirname($whatsnew_version));
+// 	copy($formal_version, $whatsnew_version)
+// 		or user_error("Can't copy $formal_version to $whatsnew_version", E_USER_WARNING);
 
 	return $content;
 }
