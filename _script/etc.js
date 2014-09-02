@@ -1101,29 +1101,31 @@ function tguva () {
 		teur1 = "אם יש לכם תגובה על "+document.title+", אתם מוזמנים לשים אותה כאן; אם יש לכם שאלה על דף זה (לא שאלה הלכתית) אתם מוזמנים לשאול אותה כאן";
 	}
 
-	document.write("האתר עובר דירה לשרת חדש. נא לא להוסיף מאמרים חדשים בינתיים עד לסיום ההעברה. תודה!");
+	if (/new/.test(location.href)) {
+		document.write("<div id='buttonGroup'>");
+		document.write(buttonGroup(
+		   (theTvnit.length>0? "showAdd('addtext');theAddForm.qijur.disabled=true;theAddForm.jm_qovc_al_hlqox.disabled=true;": ""),
+		   bilingual(lang, theLang2, "span", "הוסף דף חדש או תגובה", "Add a new page or reply"),
+		   (lang=='en'? '': teur1),
 
-/*
-	document.write("<div id='buttonGroup'>");
-	document.write(buttonGroup(
-	   (theTvnit.length>0? "showAdd('addtext');theAddForm.qijur.disabled=true;theAddForm.jm_qovc_al_hlqox.disabled=true;": ""),
-	   bilingual(lang, theLang2, "span", "הוסף דף חדש או תגובה", "Add a new page or reply"),
-	   (lang=='en'? '': teur1),
+		   (theTvnit.length>0? "showAdd('addlink');theAddForm.qijur.disabled=false;theAddForm.jm_qovc_al_hlqox.disabled=true;": ""),
+		   bilingual(lang, theLang2, "span", "הוסף קישור", "add hyperlink"),
+		   (lang=='en'? '': 'אם מצאתם באינטרנט מאמר או אתר שקשור ל'+document.title+', אתם מוזמנים לשים כאן קישור. <small>אפשר להוסיף גם קישור למאמר שנמצא באתר זה.</small>'),
 
-	   (theTvnit.length>0? "showAdd('addlink');theAddForm.qijur.disabled=false;theAddForm.jm_qovc_al_hlqox.disabled=true;": ""),
-	   bilingual(lang, theLang2, "span", "הוסף קישור", "add hyperlink"),
-	   (lang=='en'? '': 'אם מצאתם באינטרנט מאמר או אתר שקשור ל'+document.title+', אתם מוזמנים לשים כאן קישור. <small>אפשר להוסיף גם קישור למאמר שנמצא באתר זה.</small>'),
+		   (theTvnit.length>0? "showAdd('addfile');theAddForm.qijur.disabled=true;theAddForm.jm_qovc_al_hlqox.disabled=false;": ""),
+		   bilingual(lang, theLang2, "span", "הוסף ציור, צילום או קובץ אחר", "add image or another file"),
+		   (lang=='en'? '': 'אם יש לכם קובץ שקשור ל'+document.title+' (ציור, מצגת, שיר...) אתם מוזמנים לשים אותו כאן'),
 
-	   (theTvnit.length>0? "showAdd('addfile');theAddForm.qijur.disabled=true;theAddForm.jm_qovc_al_hlqox.disabled=false;": ""),
-	   bilingual(lang, theLang2, "span", "הוסף ציור, צילום או קובץ אחר", "add image or another file"),
-	   (lang=='en'? '': 'אם יש לכם קובץ שקשור ל'+document.title+' (ציור, מצגת, שיר...) אתם מוזמנים לשים אותו כאן'),
+		   (documentHasEditableParts? "showEdit('editwithbuttons')": ""),
+		   bilingual(lang, theLang2, "span", "עצב דף זה", "edit with style"),
+		   (lang=='en'? '': 'אם אתם רוצים להוסיף צבעים, כותרות, רשימות או עיצובים אחרים - לחצו כאן')
+		) + "\n\n");
+		document.write("</div><!--buttonGroup-->");
+	} else {
+		document.write("האתר עובר דירה לשרת חדש. נא לא להוסיף מאמרים חדשים בינתיים עד לסיום ההעברה. תודה!");
+		
+	}
 
-	   (documentHasEditableParts? "showEdit('editwithbuttons')": ""),
-	   bilingual(lang, theLang2, "span", "עצב דף זה", "edit with style"),
-	   (lang=='en'? '': 'אם אתם רוצים להוסיף צבעים, כותרות, רשימות או עיצובים אחרים - לחצו כאן')
-	) + "\n\n");
-	document.write("</div><!--buttonGroup-->");
-*/
 
 	if (theTvnit.length>0) {
 		document.write(formHeader('addform', '', path_from_document_to_scripts + 'rewrite.php?to=add')+idFields(path_from_root_to_document,usernameHint,passwordHint,emailHint)+

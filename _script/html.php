@@ -35,6 +35,7 @@ function xhtml_header($title, $body_attributes='', $stylesheets=NULL, $custom_co
 
 <head>
 	<meta http-equiv='Content-Type' content='text/html; charset=$HTML_ENCODING' />
+	<meta charset='$HTML_ENCODING' />
 	<meta http-equiv='Content-Script-Type' content='text/javascript' />
 	<meta http-equiv='revisit-after' content='15 days' />
 	<title>$title</title>
