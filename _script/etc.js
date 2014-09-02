@@ -1122,8 +1122,14 @@ function tguva () {
 		) + "\n\n");
 		document.write("</div><!--buttonGroup-->");
 	} else {
+		document.write("<div id='buttonGroup'>");
+		document.write(buttonGroup(
+		   (documentHasEditableParts? "showEdit('editwithbuttons')": ""),
+		   bilingual(lang, theLang2, "span", "עצב דף זה", "edit with style"),
+		   (lang=='en'? '': 'אם אתם רוצים להוסיף צבעים, כותרות, רשימות או עיצובים אחרים - לחצו כאן')
+		) + "\n\n");
+		document.write("</div><!--buttonGroup-->");
 		document.write("האתר עובר דירה לשרת חדש. נא לא להוסיף מאמרים חדשים בינתיים עד לסיום ההעברה. תודה!");
-		
 	}
 
 
