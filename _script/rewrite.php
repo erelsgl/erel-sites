@@ -191,7 +191,7 @@ $current_email =  $attributes['current_email'];
 
 $current_userid_quoted = quote_all($current_userid); // important! leading zeros!
 
-$AUTHORIZED_EDITORS = preg_split("/[\r\n]+/", file_get_contents("../authorized_editors.txt"));
+$AUTHORIZED_EDITORS = preg_split("/[\r\n]+/", file_get_contents("$SCRIPT/../authorized_editors.txt"));
 $username_windows1255 = $username;
 $username_utf8 = windows1255_to_utf8($username);
 if ($current_userid) {
