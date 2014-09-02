@@ -1154,3 +1154,170 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4631 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4634 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4635 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4636 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4638 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4639 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4640 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4641 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4642 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4643 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4644 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4645 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4646 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `parent` = 'tnk1/tora/tk12.html', `deleted_at` = NULL WHERE `messageid` = 4647 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4648 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4649 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `tguvot` (`parent`, `body`, `userid`, `username`, `created_at`, `deleted_at`) VALUES ('tnk1/tora/tk12.html', 'הייתי רוצה לדעת מאין נתקבל המידע כיצד נכתבו עשר הדברות. \r\n\r\nהטענה במאמר כי נכתבו ה\' מזה וה\' מזה - לא מצאתיה בתנ\"ך. אמנם כתוב \"מזה ומזה הם כתובים\", אבל מניין שהיו 5 מכל צד?\r\n\r\nבנוסף מסקרנות אותי שאלות אודות סידור האותיות על הלוחות. האם נכתבו מימין לשמאל? האם מלמעלה למטה? כיצד חולקו הדברות על הלוחות מבחינה תחבירית? באיזה כתב נכתבו? האם היו סמלים וכיתובים נוספים על הלוחות? וכיוב\'.\r\n\r\nהאם כל המידע בנושא זה מבוסס על השערות?\r\n\r\nבאילו ספרים ניתן לקרוא וללמוד בנושא זה?', NULL, 'שלום', '2004-02-07', NULL);
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4631 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4634 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4635 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4636 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4638 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4639 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4640 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4641 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4642 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4643 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4644 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4645 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4646 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>בס&quot;ד</p>\r\n\r\n<p>שלום, שאלתך לא ברורה.</p><p>כתבתה שאתה מחפש מקור..&quot;כפי הנטען במאמר&quot;. האם אתה שואל מה הוא מקורו של הרב קורמן זצ&quot;ל הלא הוא ציטט את המכילתא פרשת יתרו פרק ה\' אשר מיוחסת לר\' ישמעאל.</p><p>אם רצונך לשאול מה מקורו של המכילתא ובכן מסתבר שדבר זה קיבל מרבותיו. עכ&quot;פ הרב קורמן שם עמ\' 113 - 114 כתב שיש מחלוקת בדבר וציטט מהירושלמי שלדעת חנינא ( בן אחי ר\' יהודה) בן גמליאל חמשה על לוח זה וחמשה על לוח זה....ורבנן אמרו עשרה על לוח זה ועשרה על לוח זה. עיין שם בהערה 40 שכתב שהפני יהשוע הבין כרבנן מבלי לראות את הירושלמי אלא ע&quot;פ אגדה אחת ועיין בהערה מה שכתב בשם הרב המבי&quot;ט.</p>', `deleted_at` = NULL WHERE `messageid` = 4647 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4648 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4649 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `userid` = NULL, `deleted_at` = NULL WHERE `messageid` = 4650 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `tguvot` (`parent`, `body`, `userid`, `username`, `created_at`, `deleted_at`) VALUES ('tnk1/tora/tk12.html', ' כתבתם במאמר למעלה שרק מזמור שיר ליום השבת: \"מזמור כפול\" הכוונה, שבכל פרקי תהילים נאמר או \"מזמור\" או \"שיר\" ורק בפרק ליום השבת נאמר \"מזמור\" וגם \"שיר\". לאמיתו של דבר ישנה כפילות בכל הפרק מלבד בפסוק \"ואתה מרום\" שאי אפשר להכפילו\"\r\nשאלה:מה יאמר על מזמור תהילים סז :למנצח בנגינות מזמור שיר או מזמור שיר חנוכת הבית לדוד או פרק סח למנצח לדוד מזמור שיר או פרק ל או פז או קח? ', NULL, 'אורן', '2006-02-19', NULL);
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>\r\nהייתי רוצה לדעת מאין נתקבל המידע כיצד נכתבו עשר הדברות. \r\n<p>\r\nהטענה במאמר כי נכתבו ה\' מזה וה\' מזה - לא מצאתיה בתנ\"ך. אמנם כתוב \"מזה ומזה הם כתובים\", אבל מניין שהיו 5 מכל צד?\r\n<p>\r\nבנוסף מסקרנות אותי שאלות אודות סידור האותיות על הלוחות. האם נכתבו מימין לשמאל? האם מלמעלה למטה? כיצד חולקו הדברות על הלוחות מבחינה תחבירית? באיזה כתב נכתבו? האם היו סמלים וכיתובים נוספים על הלוחות? וכיוב\'.\r\n<p>\r\nהאם כל המידע בנושא זה מבוסס על השערות?\r\n<p>\r\nבאילו ספרים ניתן לקרוא וללמוד בנושא זה?\r\n</p>', `userid` = NULL, `deleted_at` = NULL WHERE `messageid` = 4650 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>\r\n כתבתם במאמר למעלה שרק מזמור שיר ליום השבת: \"מזמור כפול\" הכוונה, שבכל פרקי תהילים נאמר או \"מזמור\" או \"שיר\" ורק בפרק ליום השבת נאמר \"מזמור\" וגם \"שיר\". לאמיתו של דבר ישנה כפילות בכל הפרק מלבד בפסוק \"ואתה מרום\" שאי אפשר להכפילו.\r\n<p>\r\nשאלה:מה יאמר על מזמור תהילים סז :למנצח בנגינות מזמור שיר או מזמור שיר חנוכת הבית לדוד או פרק סח למנצח לדוד מזמור שיר או פרק ל או פז או קח? \r\n</p>', `userid` = NULL, `deleted_at` = NULL WHERE `messageid` = 4651 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/tk12.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-09-02 08:25:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-02 08:25:19' 
+			WHERE messageid=4652;
+
