@@ -750,3 +750,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-04 23:03:18'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+

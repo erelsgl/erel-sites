@@ -1340,3 +1340,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-09-03 14:44:47' 
 			WHERE messageid=4641;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnmKptRDzHiFJkbUHfhniMpQ74cIn1OG2M',
+		'Daniel Eytan',
+		'2014-09-04 23:03:18'
+		)
+		;
+
