@@ -1352,3 +1352,17 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-05 10:01:21' 
+			WHERE messageid=4654;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-05 10:01:23' 
+			WHERE messageid=3125;
+

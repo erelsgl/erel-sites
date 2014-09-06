@@ -1383,3 +1383,19 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2014-09-05 10:01:21'
+			WHERE parent='tryg/ribit0/gmx_hsbr.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2014-09-05 10:01:23'
+			WHERE parent='tryg/ribit0/gmx_hsbr.html'
+			;
+
