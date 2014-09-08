@@ -758,3 +758,31 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-07 13:24:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0218_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-07 22:27:02'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_10_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-08 06:28:52'
+		WHERE ktovt_bn='tnk1/tora/brejit/ymim_axdim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `m` = 'מחברים שונים', `l` = 'פירושים וסימנים 8' WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/tora/brejit/ymim_axdim.html' AND 1 LIMIT 1;
+

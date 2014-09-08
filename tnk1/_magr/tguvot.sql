@@ -1366,3 +1366,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-09-05 10:01:23' 
 			WHERE messageid=3125;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>ספר שיר השירים פרק ח כתוב:</p><p>(ו) שִׂימֵנִי כַחוֹתָם עַל-לִבֶּךָ כַּחוֹתָם עַל-זְרוֹעֶךָ כִּי-עַזָּה כַמָּוֶת אַהֲבָה קָשָׁה כִשְׁאוֹל קִנְאָה רְשָׁפֶיהָ רִשְׁפֵּי אֵשׁ שַׁלְהֶבֶתְיָה.</p><p>כִּי-עַזָּה כַמָּוֶת אַהֲבָה = לאמור אם תאהבו את האלהים אהבה עזה כַמָּוֶת אז תדעו באמת את החיים חיי אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-07 13:24:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_10_0.html',
+		'<p>היכן כל הספר.כי על פי הסיכום מובא מכל מיני מקורות וקשה להבין מה נכון.</p><p>על פניו.הסיכום מבלבל.ולא מאפשר להבין את מעמדו של הספר בשלבי גילגולו.ואת הבנת תוכנו כסיפור או אגדה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkrl1-vzUIDOmZ03ZIrok5aMZXirN6rk_o',
+		'ישראל שמע',
+		'2014-09-07 22:27:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/ymim_axdim.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-09-08 06:28:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-08 06:28:53' 
+			WHERE messageid=4657;
+
