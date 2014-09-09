@@ -786,3 +786,51 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `board_tnk1` SET `m` = '׳׳—׳‘׳¨׳™׳ ׳©׳•׳ ׳™׳', `l` = '׳₪׳™׳¨׳•׳©׳™׳ ׳•׳¡׳™׳׳ ׳™׳ 8' WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/tora/brejit/ymim_axdim.html' AND 1 LIMIT 1;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0101.htm',
+				'tnk1/messages/prqim_t0101_51.html',
+				NULL,
+				'2014-09-08 10:28:24',
+				'2014-09-08 10:28:24',
+				'הבריאה בצלם כפרוגרמה מוסרית',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t3101.htm',
+				'tnk1/messages/hawyqlydy_hwa_mh_jhyh_hwa_jyhyh.pdf',
+				NULL,
+				'2014-09-08 17:28:52',
+				'2014-09-08 17:28:52',
+				'הצדק האויקלידי הוא מה שהיה הוא שיהיה',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2701.htm',
+				'tnk1/messages/prqim_t2701_4.html',
+				NULL,
+				'2014-09-08 21:34:09',
+				'2014-09-08 21:34:09',
+				'איוב - עיקר הטענות',
+				'חגי הופר',
+				''
+			)
+		;
+
