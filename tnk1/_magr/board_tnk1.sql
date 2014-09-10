@@ -834,3 +834,59 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-09 09:19:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0423.htm',
+				'tnk1/messages/prqim_t0423_2.html',
+				NULL,
+				'2014-09-09 09:56:52',
+				'2014-09-09 09:56:52',
+				'היחס לעמים והשלום',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-09 10:18:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0423_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-09 11:05:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0423_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0136.htm',
+				'tnk1/messages/prqim_t0136_1.html',
+				NULL,
+				'2014-09-09 18:57:54',
+				'2014-09-09 18:57:54',
+				'שמות המפקדים בישראל אינם ישראליים',
+				'חגי הופר',
+				''
+			)
+		;
+

@@ -1409,3 +1409,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-09-08 06:28:53' 
 			WHERE messageid=4657;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>אני כד המים האגר-טל האוגר את הטל </p><p>ואם אני מלא מים ורוח אלהים מרחפת עלי זה החסד אשר עשה עמי אלהים</p><p>ואני אזכור היטב כי רוח האלהים אשר בי ניתנה מאלהי האלהים</p><p>וכי אני עפר קדוש לאלהים וכאשר משפט אלהים הוא אשר שפת המים באגרטלי [קנקני-כדי] </p><p>כך אני מורה לתורה משה דַיָּן אשפוט עד השפתיים כי אמלא את הגביעים כאשר שופתים את כוס הקידוש לברכה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-09 09:19:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-09 09:20:40' 
+			WHERE messageid=4658;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0423_2.html',
+		'<p>הרבנים לא הבינו היטב את משמעות של המילה גּוֹיִם</p><p>הגויים אינם בהכרח מדינות אומות העולם</p><p>הגּוֹיִם הם אלהי נכר הארץ לאמור אלהים אחרים ולא אלהי ישראל</p><p>הגויים הם הרוחות הרעות ואין להתחשב בהם אלא רק באלהי ישראל</p><p>בספר דברים פרק לב כתוב:</p><p>(יב)  יְהוָה בָּדָד יַנְחֶנּוּ וְאֵין עִמּוֹ אֵל נֵכָר</p><p>יְהוָה בָּדָד יַנְחֶנּוּ = הֶן-עָם לְבָדָד יִשְׁכֹּן </p><p> וּבַגּוֹיִם לֹא יִתְחַשָּׁב =  וְאֵין עִמּוֹ אֵל נֵכָר</p><p>לכן הגּוֹיִם =  אֵל נֵכָר</p><p>וכיום יש במדינות &quot;גויים&quot; לא מעט המאמינים באלהי ישראל ובערכיו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-09 10:18:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0423_2.html',
+		'<p>מעניין, תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-09-09 11:05:22'
+		)
+		;
+
