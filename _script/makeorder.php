@@ -31,13 +31,13 @@ $HTML_DIRECTION = 'rtl';
 $HTML_LANGUAGE = 'he';
 
 require_once('../_script/forms.php');
-//require_once('../_script/internal_name.php');
 require_once('../_script/coalesce.php');
 require_once('../_script/psuqim.php');
 
 require_once('../tnk1/admin/db_connect.php');
 
-$HTML_ENCODING = "utf-8";
+$HTML_ENCODING = "windows-1255";
+function convert_encoding($s) {return $s;}
 sql_set_charset('hebrew');
 
 //$HTML_ENCODING = 'utf-8';         // causes problems with backup
@@ -104,7 +104,7 @@ function show_prt_page() {
 	print navigation();
 	show_prt_form();
 
-	echo windows1255_to_utf8("
+	echo convert_encoding("
 		<pre dir='rtl' width='100%'>" . sql_text_table("select * from prt_$site order by tarik_hosfa desc limit $limit") . "</pre>
 		");
 
@@ -116,7 +116,7 @@ function show_qjr_page() {
 	print navigation();
 	show_qjr_form();
 
-	echo windows1255_to_utf8("
+	echo convert_encoding("
 		<pre dir='rtl' width='100%'>" . sql_text_table("select * from qjr_{$site}_{$site} order by tarik_hosfa desc limit $limit") . "</pre>
 		");
 }
@@ -179,7 +179,7 @@ function show_prt_form() {
 		ORDER BY created_at ASC
 		LIMIT $limit");
 
-	echo windows1255_to_utf8("<h2>Prt</h2>
+	echo convert_encoding("<h2>Prt</h2>
 		<form action='' method='post' id='prt'>
 		" . html_for_hidden_text('form','prt') . "
 		<table border='1'>
@@ -198,7 +198,7 @@ function show_prt_form() {
 	while ($row = sql_fetch_assoc($result)) {
 		preprocess_prt($row);
 		++$rownum;
-		echo windows1255_to_utf8("
+		echo convert_encoding("
 		<tr>
 			<td><a target='_blank' href='".href($row['ktovt_bn'])."'>קישור</a>
 			" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
@@ -313,7 +313,7 @@ function show_qjr_form() {
 	$rownum = 0;
 	while ($row = sql_fetch_assoc($result)) {
 		preprocess_qjr($row);
-		echo windows1255_to_utf8("
+		echo convert_encoding("
 		<tr>
 			<td>" . html_for_hidden_text("tarik_hosfa[$rownum]", "$row[tarik_hosfa]") . "
 			" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
@@ -336,7 +336,7 @@ function show_qjr_form() {
 			foreach ($avot_psuqim as $av_psuq) {
 				$av_psuq = preg_replace("/[^א-ת 0-9]/","",$av_psuq);
 				$av_psuq = preg_replace("/תהילים/","תהלים",$av_psuq);
-				echo windows1255_to_utf8("
+				echo convert_encoding("
 				<tr>
 					<td>" . html_for_hidden_text("tarik_hosfa[$rownum]", date("Y-m-d h :i:s")) . "
 					" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
@@ -456,7 +456,7 @@ LIMIT $limit");
 	while ($prt_row = sql_fetch_assoc($prt_result)) {
 		$bn = $prt_row['qod'];
 		$bn_quoted = quote_smart($bn);
-		print windows1255_to_utf8("<h3>
+		print convert_encoding("<h3>
 			<a target='_blank' href='".href($prt_row['ktovt'])."'>$bn - $prt_row[sug] - $prt_row[tarik_hosfa]</a></h3>\n");
 		$qjr_result = sql_query_or_die("
 			SELECT av, sdr_bn, kotrt, sdr_av, sug, tarik_hosfa
@@ -487,7 +487,7 @@ LIMIT $limit");
 			FROM qjr_psuq_{$site}
 			WHERE bn=$bn_quoted
 		");
-		print windows1255_to_utf8("
+		print convert_encoding("
 			<table border='1'>
 			<thead><tr>
 				<th>av</th>
@@ -501,7 +501,7 @@ LIMIT $limit");
 			");
 
 		while ($qjr_row = sql_fetch_assoc($qjr_result)) {
-			echo windows1255_to_utf8("
+			echo convert_encoding("
 			<tr>
 				<td>
 				" . html_for_hidden_text("bn[$rownum]", "$bn") . "
@@ -517,7 +517,7 @@ LIMIT $limit");
 			++$rownum;
 		}
 
-		echo windows1255_to_utf8("
+		echo convert_encoding("
 		<tr onclick='clone_and_add(this)'>
 			<td>
 			" . html_for_hidden_text("bn[$rownum]", "$bn") . "
@@ -590,7 +590,7 @@ function update_or_insert_qjr($av, $bn, $av_xdj, $sdr_bn, $sdr_av, $kotrt, $sug)
 		if (strlen($sfr)>3) {
 			$sfr = sql_evaluate(
 			"SELECT qod FROM sfrim WHERE kotrt like '$sfr%' OR '$sfr' LIKE CONCAT(qod,'%') ORDER BY kotrt like '$sfr%' DESC LIMIT 1");
-			print windows1255_to_utf8("<p>sfr = $sfr</p>");
+			print convert_encoding("<p>sfr = $sfr</p>");
 		}
 		if (sql_evaluate("SELECT COUNT(*) FROM sfrim WHERE qod=" . quote_smart($sfr)) > 0) {
 			if ($prq0) {
