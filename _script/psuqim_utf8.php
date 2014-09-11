@@ -7,7 +7,7 @@
  * @date 2007-02-22
  */
 
-require_once('hebrew.php');
+require_once('hebrew_utf8.php');
 
 $GLOBALS['format'] = 'tora';  // OR: wikia
 
