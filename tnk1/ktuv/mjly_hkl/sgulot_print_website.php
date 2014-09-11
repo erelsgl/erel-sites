@@ -35,7 +35,6 @@ $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
 require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
-$GLOBALS['charset'] = "windows-1255";
 
 
 require_once('sgulot_library.php');
@@ -118,7 +117,7 @@ while ($row = sql_fetch_assoc($rows)) {
 		$site, $path_from_reply_to_root, $path_from_root_to_reply, $path_from_reply_to_site, $path_from_site_to_document,
 		$title_without_html, $title_with_html, $titleType,
 		$author, $email, $anipruj, $body, $origsubject /* for template */,
-		$tvnit, $optional_ext, $charset, $date_for_html
+		$tvnit, $optional_ext, $date_for_html
 		;
 
 	$newline = "\n";

@@ -18,7 +18,6 @@ require_once("$SCRIPT/rewrite_library.php");
 $tnk1 = (file_exists("../tnk1/admin/db_connect.php")? "../tnk1": "../../../www/tnk1");
 require_once("$tnk1/admin/db_connect.php");
 sql_set_charset('hebrew');
-$GLOBALS['charset'] = "windows-1255";
 
 $to = get_input('to', '');
 
@@ -45,7 +44,7 @@ set_current_language_by_code(get_input('lang','')); // defines $current_language
 
 $direction = $HTML_DIRECTION = current_language_direction();
 $lang = $HTML_LANGUAGE = current_language_code();
-$HTML_ENCODING = "utf-8"; //current_language_encoding();
+$HTML_ENCODING = "utf-8";
 
 
 

@@ -707,7 +707,7 @@ function new_file($templatename) {
 		$site, $path_from_reply_to_root, $path_from_root_to_reply, $path_from_reply_to_site, $path_from_site_to_document,
 		$title_without_html, $title_with_html, $titleType,
 		$author, $email, $anipruj, $body, $origsubject /* for template */,
-		$tvnit, $date_for_html, $optional_ext, $charset;
+		$tvnit, $date_for_html, $optional_ext;
 
 
 	if (!isset($anipruj))
