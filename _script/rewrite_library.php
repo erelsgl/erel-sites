@@ -680,19 +680,19 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		print "<p><a href='$nonformal_version_link'>" . static_text("nonformal version") . "</a></p>\n";
 	}
 
-// 	sql_query("
-// 		INSERT INTO whatsnew(
-// 			path_from_root_to_file,
-// 			title,
-// 			action,
-// 			actor)
-// 		VALUES(
-// 			" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
-// 			" . quote_smart("$title") . ",
-// 			" . quote_smart($action) . ",
-// 			" . quote_smart($idfordisplay) . "
-// 		)")
-// 		or user_error("Can't write into whatsnew table", E_USER_WARNING);
+	sql_query("
+		INSERT INTO whatsnew(
+			path_from_root_to_file,
+			title,
+			action,
+			actor)
+		VALUES(
+			" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
+			" . quote_smart("$title") . ",
+			" . quote_smart($action) . ",
+			" . quote_smart($idfordisplay) . "
+		)")
+		or user_error("Can't write into whatsnew table", E_USER_WARNING);
 
 // 	file_put_contents(
 // 		"$fileroot/whatsnew/logall.html", 

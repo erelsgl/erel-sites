@@ -14,6 +14,8 @@ $GLOBALS['USER_TABLES'] = array(
 		'tguvot' => array("id"),
 		'tguvot_data' => array("parent"),
 		'board_tnk1' => array(),
+		'whatsnew' => array(),
+		
 		'psuqim_qijurim' => array('book','chapter','verse_number'),
 
 		'prt_tnk1' => array("qod"),

@@ -1,6 +1,6 @@
 <?php
-require('../_script/coalesce.php');
-require('admin/db_connect.php');
+require('../../_script/coalesce.php');
+require('../admin/db_connect.php');
 
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
@@ -59,15 +59,6 @@ if (isset($_GET['details'])) {  // view item details
 		ORDER BY ktovt
 		$limit
 	";
-	/*
-	$query = "
-		SELECT DISTINCT p.ktovt
-		FROM QLT_prtim_wikia p
-		WHERE tarik_hosfa BETWEEN $from AND $to
-		AND p.kotrt<>p.qod
-		AND p.kotrt NOT LIKE 'קטגוריה:%'
-	";
-	*/
 } elseif (isset($_GET['av'])) {   // view all items that are children of the given av
 	$av_quoted = quote_smart($_GET['av']);
 	$limit = (isset($_GET['limit'])? "LIMIT $_GET[limit]": "");
