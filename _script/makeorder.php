@@ -97,7 +97,10 @@ print "
 	<h1>$site $to</h1>
 ";
 
-//$GLOBALS['RedirectSystem']->show_message_from_last_time();
+if (isset($_SESSION['message'])) {
+	echo $_SESSION['message'];
+	unset ($_SESSION['message']);
+}
 
 function show_prt_page() {
 	global $site, $limit;
@@ -264,7 +267,8 @@ function update_prt_page_prt_form() {
 			WHERE ktovt_bn=$ktovt_bn");
 		++$update_count;
 	}
-	$GLOBALS['RedirectSystem']->redirect_back_with_message(NULL, "$message\n<p>$update_count שורות עודכנו, $insert_count שורות הוכנסו.</p>\n");
+	$_SESSION['message'] = "$message\n<p>$update_count שורות עודכנו, $insert_count שורות הוכנסו.</p>\n";
+	$GLOBALS['RedirectSystem']->redirect_back();
 }
 
 
