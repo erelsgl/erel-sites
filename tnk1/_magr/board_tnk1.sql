@@ -906,6 +906,7 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+<<<<<<< HEAD
 SET character_set_client=utf8;
 SET character_set_connection=utf8;
 
@@ -1100,6 +1101,8 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `board_tnk1` (`ktovt_av`, `sug`, `created_at`, `newest_child_created_at`, `ktovt_bn`, `kotrt`, `m`, `l`, `sdr_bn`) VALUES ('tnk1/forums.html', NULL, '2014-07-07 22:15:59', '2014-07-07 22:15:59', 'tnk1/messages/forums_618.html', 'אליהו הנביא במדבר/שיר מאת: אהובה קליין(c)', 'אהובה קליין.', NULL, NULL);
 
+=======
+>>>>>>> f682c18938b24cbecee9bc80035f56533523563f
 SET character_set_client=hebrew;
 SET character_set_connection=hebrew;
 UPDATE board_tnk1
@@ -1118,6 +1121,7 @@ UPDATE board_tnk1
 			SET sug='שיר', sdr_bn=NULL
 			WHERE ktovt_bn='tnk1/messages/forums_618.html';
 
+<<<<<<< HEAD
 SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_618.html' AND 1 LIMIT 1;
@@ -1148,3 +1152,5 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_614.html' AND 1 LIMIT 1;
 
+=======
+>>>>>>> f682c18938b24cbecee9bc80035f56533523563f
