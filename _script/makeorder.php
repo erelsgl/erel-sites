@@ -37,8 +37,8 @@ require_once('../tnk1/admin/db_connect.php');
 
 $HTML_ENCODING = "utf-8";
 function convert_encoding($s) {return $s;}
-sql_set_charset('hebrew');
-mysql_query("set character_set_results=utf8");
+sql_set_charset('utf8');
+//mysql_query("set character_set_results=utf8");
 
 //$HTML_ENCODING = 'utf-8';         // causes problems with backup
 //sql_set_charset('utf8')
