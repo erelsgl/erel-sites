@@ -17,6 +17,7 @@ error_reporting(E_ALL);
 
 require_once('../_script/file.php');
 require_once('../_script/callback.php');
+require_once('../_script/psuqim_utf8.php');
 
 require_once('../_script/sql.php');
 require_once('../_script/sql_backup.php');
@@ -136,15 +137,15 @@ function show_prtqjr_page() {
 
 
 function preprocess_prt(&$row) {
-	if (preg_match("/([^\\/]+).*שיר\s*מאת\s*:\s*אהובה\s*קליין\s*/",$row['kotrt'],$matches)) {
+	if (preg_match("/([^\\/]+).*שיר\s*מאת\s*:\s*אהובה\s*קליין\s*/u",$row['kotrt'],$matches)) {
 		$row['qod'] = "'$matches[1]' - אהובה קליין";
 		$row['kotrt'] = "'$matches[1]' - שיר מאת אהובה קליין (c)";
 		$row['sug'] = "שיר";
 		$row['m'] = "אהובה קליין";
-	} elseif (preg_match("/[.]jpg*/",$row['ktovt_bn'])) { 
+	} elseif (preg_match("/[.]jpg*/u",$row['ktovt_bn'])) { 
 		$row['qod'] = $row['kotrt'] = "ציור ".$row['kotrt'];
 		$row['sug'] = "ציור";
-	} elseif (preg_match("/שיעורים בספר (.*?)'? פרק (.*)/",$row['kotrt'],$matches)) {
+	} elseif (preg_match("/שיעורים בספר (.*?)'? פרק (.*)/u",$row['kotrt'],$matches)) {
 		$row['qod'] = "סיכום $matches[1] $matches[2]";
 		$row['kotrt'] = "שיעורים בספר $matches[1] פרק $matches[2]";
 		$row['sug'] = "תוכן_מפורט";
@@ -156,15 +157,15 @@ function preprocess_prt(&$row) {
 
 function preprocess_qjr(&$row) {
 	if ($row['av']=='פורומים, דיונים') { // probably ahuva klein
-		if (preg_match("/'(.+)' - אהובה קליין/",$row['bn'],$matches)) {
+		if (preg_match("/'(.+)' - אהובה קליין/u",$row['bn'],$matches)) {
 			$row['av'] = 'שירי אהובה קליין';
 			$row['sdr_bn'] = 60;
 			$row['kotrt'] = $matches[1];
-		} elseif (preg_match("/ציור\s*(.*)$/",$row['bn'],$matches)) {
+		} elseif (preg_match("/ציור\s*(.*)$/u",$row['bn'],$matches)) {
 			$row['av'] = 'ציורי ספרי התורה';
 			$row['sdr_bn'] = 60;
 			$row['kotrt'] = $matches[1];
-		} else/*if (preg_match("/אהובה קליין/",$row['kotrt']))*/ {
+		} else/*if (preg_match("/אהובה קליין/u",$row['kotrt']))*/ {
 			$row['av'] = '';
 			$row['kotrt'] = '';
 		}
@@ -244,7 +245,7 @@ function update_prt_page_prt_form() {
 		$ktovt_bn = quote_smart($ktovt_bn_array[$i]);
 
 
-		if (!preg_match("/תגובה/",$sug)) {   // a normal article - insert to main database
+		if (!preg_match("/תגובה/u",$sug)) {   // a normal article - insert to main database
 			$kotrt = quote_smart($kotrt_array[$i]);
 			$m = quote_smart($m_array[$i]);
 			$l = quote_smart($l_array[$i]);
@@ -336,8 +337,7 @@ function show_qjr_form() {
 		");
 		++$rownum;
 
-		if (!preg_match("/=$/",$row['bn'])) { // don't show verses for definitions
-			require_once('../_script/psuqim_utf8.php');
+		if (!preg_match("/=$/u",$row['bn'])) { // don't show verses for definitions
 			$avot_psuqim = psuqim_in_file($row['ktovt_bn']);
 			foreach ($avot_psuqim as $av_psuq) {
 				$av_psuq = preg_replace("/[^א-ת 0-9]/","",$av_psuq);
@@ -383,12 +383,6 @@ function update_prt_page_qjr_form() {
 	$ktovt_bn_array = $_POST['ktovt_bn'];
 
 	$update_count = $insert_count = 0;
-	/*
-	foreach ($sdr_bn_array as $i=>&$sdr) {
-		if (!$sdr && $kotrt_array[$i] && !preg_match("/=$/",$bn_array[$i]))
-			$sdr = 30;  // default value for articles with sub-title that are NOT definitions
-	}
-	*/
 	foreach ($av_array as $i=>$av) {
 		if (!$sdr_bn_array[$i])        // not updated
 			continue;
@@ -585,7 +579,8 @@ function update_or_insert_qjr($av, $bn, $av_xdj, $sdr_bn, $sdr_av, $kotrt, $sug)
 		return false;
 
 	$query = NULL;
-	if (preg_match("/^($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+[אב])?)\s+($HEBREW_PRQ)'?\s*(\d+)?$/", $av_xdj, $matches)) {
+	$regexp = "/^($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+[אב])?)\s+($HEBREW_PRQ)'?\s*(\d+)?$/u";
+	if (preg_match($regexp, $av_xdj, $matches)) {
 		$sfr = $matches[1];
 		$prq0 = $matches[4];
 		if ($sfr==='שמואל' || $sfr==='מלכים' || $sfr==='דברי הימים') {
