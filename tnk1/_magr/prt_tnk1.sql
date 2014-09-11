@@ -23,3 +23,43 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'בריאת העולם על-פי נריה קליין' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'אהובה קליין', `tarik_hosfa` = '2014-09-11 10:16:46' WHERE `qod` = 'פרשת קורח - כיצד טעה קורח?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'אהובה קליין', `tarik_hosfa` = '2014-09-11 10:16:46' WHERE `qod` = '\'ישנה התבוננות\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'אהובה קליין', `tarik_hosfa` = '2014-09-11 10:16:46' WHERE `qod` = 'פרשת חוקת - מה לנחש בגן העדן - למכת הנחשים במדבר?/מאת: אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'?? ??©\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'???§ ??? ????\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'????? ?? ??? ?????¨\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'????? ?? ??? ?????¨\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'?? ??©\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'???§ ??? ????\' - ????? ?§????' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = '\'?? ??©\' - ????? ?§????' AND 1 LIMIT 1;
+
