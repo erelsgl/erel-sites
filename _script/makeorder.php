@@ -137,6 +137,7 @@ function preprocess_prt(&$row) {
 		$row['qod'] = "'$matches[1]' - אהובה קליין";
 		$row['kotrt'] = "'$matches[1]' - שיר מאת אהובה קליין (c)";
 		$row['sug'] = "שיר";
+		$row['m'] = "אהובה קליין";
 	} elseif (preg_match("/[.]jpg*/",$row['ktovt_bn'])) { 
 		$row['qod'] = $row['kotrt'] = "ציור ".$row['kotrt'];
 		$row['sug'] = "ציור";
