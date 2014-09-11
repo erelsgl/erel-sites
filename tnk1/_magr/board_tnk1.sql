@@ -890,3 +890,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t3107.htm',
+				'tnk1/messages/prqim_t3107_8.html',
+				NULL,
+				'2014-09-10 09:47:33',
+				'2014-09-10 09:47:33',
+				'כמה הרהורים בנושא זוגיות והרצאות',
+				'חגי הופר',
+				''
+			)
+		;
+
