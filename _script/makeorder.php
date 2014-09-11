@@ -32,7 +32,6 @@ $HTML_LANGUAGE = 'he';
 
 require_once('../_script/forms.php');
 require_once('../_script/coalesce.php');
-require_once('../_script/psuqim.php');
 
 require_once('../tnk1/admin/db_connect.php');
 
@@ -332,6 +331,7 @@ function show_qjr_form() {
 		++$rownum;
 
 		if (!preg_match("/=$/",$row['bn'])) { // don't show verses for definitions
+			require_once('../_script/psuqim.php');
 			$avot_psuqim = psuqim_in_file($row['ktovt_bn']);
 			foreach ($avot_psuqim as $av_psuq) {
 				$av_psuq = preg_replace("/[^à-ú 0-9]/","",$av_psuq);
