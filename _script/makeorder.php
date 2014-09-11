@@ -3,7 +3,7 @@ session_start();
 error_reporting(E_ALL);
 
 /**
-	@file makeorder.php χιγεγ ημεπεϊ
+	@file makeorder.php Χ§Χ™Χ“Χ•Χ“ Χ—ΧΧ•Χ Χ•Χª
 	make order in the new files added to a board, and insert some of them to the main article table.
 	
 	SYNTAX: 
@@ -35,9 +35,10 @@ require_once('../_script/coalesce.php');
 
 require_once('../tnk1/admin/db_connect.php');
 
-$HTML_ENCODING = "windows-1255";
+$HTML_ENCODING = "utf-8";
 function convert_encoding($s) {return $s;}
 sql_set_charset('hebrew');
+mysql_query("set character_set_results=utf8");
 
 //$HTML_ENCODING = 'utf-8';         // causes problems with backup
 //sql_set_charset('utf8')
@@ -45,7 +46,7 @@ sql_set_charset('hebrew');
 
 $linkroot = '';
 
-$TO_DELETE = "μξηιχδ";
+$TO_DELETE = "ΧΧΧ—Χ™Χ§Χ”";
 
 
 ###########################################################################
@@ -81,7 +82,7 @@ print xhtml_header(
 	function mark_as_tguva(rownum) {
 		var theForm = document.getElementById('prt');
 		var theElement = theForm['sug[' + rownum + ']'];
-		theElement.value = 'ϊβεαδ';
+		theElement.value = 'ΧªΧ’Χ•Χ‘Χ”';
 	}
 	function mark_sdr_bn(rownum,sdr_bn) {
 		var theForm = document.getElementById('qjr');
@@ -132,34 +133,34 @@ function show_prtqjr_page() {
 
 
 function preprocess_prt(&$row) {
-	if (preg_match("/([^\\/]+).*ωιψ\s*ξΰϊ\s*:\s*ΰδεαδ\s*χμιιο\s*/",$row['kotrt'],$matches)) {
-		$row['qod'] = "'$matches[1]' - ΰδεαδ χμιιο";
-		$row['kotrt'] = "'$matches[1]' - ωιψ ξΰϊ ΰδεαδ χμιιο (c)";
-		$row['sug'] = "ωιψ";
+	if (preg_match("/([^\\/]+).*Χ©Χ™Χ¨\s*ΧΧΧª\s*:\s*ΧΧ”Χ•Χ‘Χ”\s*Χ§ΧΧ™Χ™Χ\s*/",$row['kotrt'],$matches)) {
+		$row['qod'] = "'$matches[1]' - ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ";
+		$row['kotrt'] = "'$matches[1]' - Χ©Χ™Χ¨ ΧΧΧª ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ (c)";
+		$row['sug'] = "Χ©Χ™Χ¨";
 	} elseif (preg_match("/[.]jpg*/",$row['ktovt_bn'])) { 
-		$row['qod'] = $row['kotrt'] = "φιεψ ".$row['kotrt'];
-		$row['sug'] = "φιεψ";
-	} elseif (preg_match("/ωιςεψιν αρτψ (.*?)'? τψχ (.*)/",$row['kotrt'],$matches)) {
-		$row['qod'] = "ριλεν $matches[1] $matches[2]";
-		$row['kotrt'] = "ωιςεψιν αρτψ $matches[1] τψχ $matches[2]";
-		$row['sug'] = "ϊελο_ξτεψθ";
+		$row['qod'] = $row['kotrt'] = "Χ¦Χ™Χ•Χ¨ ".$row['kotrt'];
+		$row['sug'] = "Χ¦Χ™Χ•Χ¨";
+	} elseif (preg_match("/Χ©Χ™ΧΆΧ•Χ¨Χ™Χ Χ‘Χ΅Χ¤Χ¨ (.*?)'? Χ¤Χ¨Χ§ (.*)/",$row['kotrt'],$matches)) {
+		$row['qod'] = "Χ΅Χ™Χ›Χ•Χ $matches[1] $matches[2]";
+		$row['kotrt'] = "Χ©Χ™ΧΆΧ•Χ¨Χ™Χ Χ‘Χ΅Χ¤Χ¨ $matches[1] Χ¤Χ¨Χ§ $matches[2]";
+		$row['sug'] = "ΧªΧ•Χ›Χ_ΧΧ¤Χ•Χ¨Χ";
 	} else {
-		$row['kotrt'] = preg_replace('|\s*/\s*ΰδεαδ χμιιο|','',$row['kotrt']);
+		$row['kotrt'] = preg_replace('|\s*/\s*ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ|','',$row['kotrt']);
 		$row['kotrt'] = preg_replace('|\s*-\s*|',' - ',$row['kotrt']);
 	}
 }
 
 function preprocess_qjr(&$row) {
-	if ($row['av']=='τεψεξιν, γιεπιν') { // probably ahuva klein
-		if (preg_match("/'(.+)' - ΰδεαδ χμιιο/",$row['bn'],$matches)) {
-			$row['av'] = 'ωιψι ΰδεαδ χμιιο';
+	if ($row['av']=='Χ¤Χ•Χ¨Χ•ΧΧ™Χ, Χ“Χ™Χ•Χ Χ™Χ') { // probably ahuva klein
+		if (preg_match("/'(.+)' - ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ/",$row['bn'],$matches)) {
+			$row['av'] = 'Χ©Χ™Χ¨Χ™ ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ';
 			$row['sdr_bn'] = 60;
 			$row['kotrt'] = $matches[1];
-		} elseif (preg_match("/φιεψ\s*(.*)$/",$row['bn'],$matches)) {
-			$row['av'] = 'φιεψι ρτψι δϊεψδ';
+		} elseif (preg_match("/Χ¦Χ™Χ•Χ¨\s*(.*)$/",$row['bn'],$matches)) {
+			$row['av'] = 'Χ¦Χ™Χ•Χ¨Χ™ Χ΅Χ¤Χ¨Χ™ Χ”ΧªΧ•Χ¨Χ”';
 			$row['sdr_bn'] = 60;
 			$row['kotrt'] = $matches[1];
-		} else/*if (preg_match("/ΰδεαδ χμιιο/",$row['kotrt']))*/ {
+		} else/*if (preg_match("/ΧΧ”Χ•Χ‘Χ” Χ§ΧΧ™Χ™Χ/",$row['kotrt']))*/ {
 			$row['av'] = '';
 			$row['kotrt'] = '';
 		}
@@ -199,12 +200,12 @@ function show_prt_form() {
 		++$rownum;
 		echo convert_encoding("
 		<tr>
-			<td><a target='_blank' href='".href($row['ktovt_bn'])."'>χιωεψ</a>
+			<td><a target='_blank' href='".href($row['ktovt_bn'])."'>Χ§Χ™Χ©Χ•Χ¨</a>
 			" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
 			<td>" . html_for_short_text("qod[$rownum]", coalesce($row['qod'],''), "size='20'") . "</td>
 			<td>" . html_for_short_text("sug[$rownum]", "$row[sug]", "size='10'") . "</td>
 			<td>
-				<a onclick='mark_as_tguva($rownum)'>ϊβεαδ</a>
+				<a onclick='mark_as_tguva($rownum)'>ΧªΧ’Χ•Χ‘Χ”</a>
 			</td>
 			<td>" . html_for_short_text("kotrt[$rownum]", "$row[kotrt]", "size='40'") . "</td>
 			<td>" . html_for_short_text("m[$rownum]", "$row[m]", "size='20'") . "</td>
@@ -239,7 +240,7 @@ function update_prt_page_prt_form() {
 		$ktovt_bn = quote_smart($ktovt_bn_array[$i]);
 
 
-		if (!preg_match("/ϊβεαδ/",$sug)) {   // a normal article - insert to main database
+		if (!preg_match("/ΧªΧ’Χ•Χ‘Χ”/",$sug)) {   // a normal article - insert to main database
 			$kotrt = quote_smart($kotrt_array[$i]);
 			$m = quote_smart($m_array[$i]);
 			$l = quote_smart($l_array[$i]);
@@ -252,7 +253,7 @@ function update_prt_page_prt_form() {
 			if ($success) 
 				++$insert_count;
 			else {
-				$message .= "<p dir='rtl'>μΰ δφμηϊι μδλπιρ ΰϊ ($qod, $sug, $kotrt, $ktovt_bn, $m, $l)! <span dir='ltr'>" . sql_error() . "</span></p>";
+				$message .= "<p dir='rtl'>ΧΧ Χ”Χ¦ΧΧ—ΧªΧ™ ΧΧ”Χ›Χ Χ™Χ΅ ΧΧª ($qod, $sug, $kotrt, $ktovt_bn, $m, $l)! <span dir='ltr'>" . sql_error() . "</span></p>";
 				continue;
 			}
 		}
@@ -262,7 +263,7 @@ function update_prt_page_prt_form() {
 			WHERE ktovt_bn=$ktovt_bn");
 		++$update_count;
 	}
-	$GLOBALS['RedirectSystem']->redirect_back_with_message(NULL, "$message\n<p>$update_count ωεψεϊ ςεγλπε, $insert_count ωεψεϊ δελπρε.</p>\n");
+	$GLOBALS['RedirectSystem']->redirect_back_with_message(NULL, "$message\n<p>$update_count Χ©Χ•Χ¨Χ•Χª ΧΆΧ•Χ“Χ›Χ Χ•, $insert_count Χ©Χ•Χ¨Χ•Χª Χ”Χ•Χ›Χ Χ΅Χ•.</p>\n");
 }
 
 
@@ -289,7 +290,7 @@ function show_qjr_form() {
 		$select_query
 		WHERE (/*qjrim.sdr_bn=0 OR*/ qjrim.sdr_bn IS NULL)
 		/* AND avot.qod<>'' */
-		AND NOT (bnim.qod LIKE 'τιψεω %' AND bnim.ktovt LIKE '%wikia%')
+		AND NOT (bnim.qod LIKE 'Χ¤Χ™Χ¨Χ•Χ© %' AND bnim.ktovt LIKE '%wikia%')
 		ORDER BY tarik_hosfa ASC
 		LIMIT $limit
 	");
@@ -316,13 +317,13 @@ function show_qjr_form() {
 		<tr>
 			<td>" . html_for_hidden_text("tarik_hosfa[$rownum]", "$row[tarik_hosfa]") . "
 			" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
-			<a href='".href($row['ktovt_bn'])."'>χιωεψ</a></td>
+			<a href='".href($row['ktovt_bn'])."'>Χ§Χ™Χ©Χ•Χ¨</a></td>
 			<td>" . html_for_short_text("av[$rownum]", "$row[av]", "size='20'") . "</td>
 			<td>" . html_for_short_text("bn[$rownum]", "$row[bn]", "size='30'") . "</td>
 			<td>" . html_for_short_text("sdr_bn[$rownum]", "$row[sdr_bn]", "size='5'") . "</td>
 			<td>
-				<a style='background:#afa' onclick='mark_sdr_bn($rownum,60)'>λο</a>
-				<a style='background:#faa'  onclick='mark_sdr_bn($rownum,111)'>μΰ</a>
+				<a style='background:#afa' onclick='mark_sdr_bn($rownum,60)'>Χ›Χ</a>
+				<a style='background:#faa'  onclick='mark_sdr_bn($rownum,111)'>ΧΧ</a>
 			</td>
 			<td>" . html_for_short_text("sug[$rownum]", "$row[sug]", "size='10'") . "</td>
 			<td>" . html_for_short_text("kotrt[$rownum]", "$row[kotrt]", "size='30'") . "</td>
@@ -334,19 +335,19 @@ function show_qjr_form() {
 			require_once('../_script/psuqim.php');
 			$avot_psuqim = psuqim_in_file($row['ktovt_bn']);
 			foreach ($avot_psuqim as $av_psuq) {
-				$av_psuq = preg_replace("/[^ΰ-ϊ 0-9]/","",$av_psuq);
-				$av_psuq = preg_replace("/ϊδιμιν/","ϊδμιν",$av_psuq);
+				$av_psuq = preg_replace("/[^Χ-Χª 0-9]/","",$av_psuq);
+				$av_psuq = preg_replace("/ΧªΧ”Χ™ΧΧ™Χ/","ΧªΧ”ΧΧ™Χ",$av_psuq);
 				echo convert_encoding("
 				<tr>
 					<td>" . html_for_hidden_text("tarik_hosfa[$rownum]", date("Y-m-d h :i:s")) . "
 					" . html_for_hidden_text("ktovt_bn[$rownum]", "$row[ktovt_bn]") . "
-					<a href='".href($row['ktovt_bn'])."'>χιωεψ</a></td>
+					<a href='".href($row['ktovt_bn'])."'>Χ§Χ™Χ©Χ•Χ¨</a></td>
 					<td>" . html_for_short_text("av[$rownum]", "$av_psuq", "size='20'") . "</td>
 					<td>" . html_for_short_text("bn[$rownum]", "$row[bn]", "size='30'") . "</td>
 					<td>" . html_for_short_text("sdr_bn[$rownum]", "$row[sdr_bn]", "size='5'") . "</td>
 				<td>
-					<a style='background:#afa' onclick='mark_sdr_bn($rownum,60)'>λο</a>
-					<a style='background:#faa'  onclick='mark_sdr_bn($rownum,111)'>μΰ</a>
+					<a style='background:#afa' onclick='mark_sdr_bn($rownum,60)'>Χ›Χ</a>
+					<a style='background:#faa'  onclick='mark_sdr_bn($rownum,111)'>ΧΧ</a>
 				</td>
 					<td>" . html_for_short_text("sug[$rownum]", "$row[sug]", "size='10'") . "</td>
 					<td>" . html_for_short_text("kotrt[$rownum]", "$row[kotrt]", "size='30'") . "</td>
@@ -413,7 +414,7 @@ function update_prt_page_qjr_form() {
 				++$insert_count;
 		}
 	}
-	echo ($GLOBALS['RedirectSystem']->callback_anchor(NULL, "δξωκ"));
+	echo ($GLOBALS['RedirectSystem']->callback_anchor(NULL, "Χ”ΧΧ©Χ"));
 }
 
 
@@ -562,7 +563,7 @@ function update_prt_page_prtqjr_form() {
 			$_POST['sug'][$i]))
 			++$update_count;
 	}
-	echo ($GLOBALS['RedirectSystem']->callback_anchor(NULL, "δξωκ"));
+	echo ($GLOBALS['RedirectSystem']->callback_anchor(NULL, "Χ”ΧΧ©Χ"));
 }
 
 function update_prtqjr_page_prtqjr_form() {
@@ -579,10 +580,10 @@ function update_or_insert_qjr($av, $bn, $av_xdj, $sdr_bn, $sdr_av, $kotrt, $sug)
 		return false;
 
 	$query = NULL;
-	if (preg_match("/^($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+[ΰα])?)\s+($HEBREW_PRQ)'?\s*(\d+)?$/", $av_xdj, $matches)) {
+	if (preg_match("/^($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+[ΧΧ‘])?)\s+($HEBREW_PRQ)'?\s*(\d+)?$/", $av_xdj, $matches)) {
 		$sfr = $matches[1];
 		$prq0 = $matches[4];
-		if ($sfr==='ωξεΰμ' || $sfr==='ξμλιν' || $sfr==='γαψι διξιν') {
+		if ($sfr==='Χ©ΧΧ•ΧΧ' || $sfr==='ΧΧΧ›Χ™Χ' || $sfr==='Χ“Χ‘Χ¨Χ™ Χ”Χ™ΧΧ™Χ') {
 			$sfr .= " $prq0";
 			$prq0 = substr($prq0,1);
 		}
