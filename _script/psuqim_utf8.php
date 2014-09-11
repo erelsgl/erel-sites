@@ -10,12 +10,9 @@
 require_once('hebrew_utf8.php');
 
 $GLOBALS['format'] = 'tora';  // OR: wikia
-
 $GLOBALS['links_already_shown'] = array(); // remembers the qijurim already used, to prevent duplication in wikia format.
 
-global $HEBREW_SFR, $HEBREW_PRQ, $HEBREW_PSUQ, $HEBREW_PSUQIM;
-
-$BOOKS_TO_CODES = array(
+global $BOOKS_TO_CODES; $BOOKS_TO_CODES = array(
 	"בראשית" => "01", 
 	"ברא'" => "01",
 	"בר'" => "01",
@@ -147,7 +144,7 @@ $BOOKS_TO_CODES = array(
 	"נחמ'" => "35b"
 );
 
-$CODES_TO_BOOKS = array(
+global $CODES_TO_BOOKS; $CODES_TO_BOOKS = array(
 	"01" => "בראשית",
 	"02" => "שמות",
 	"03" => "ויקרא",
@@ -188,17 +185,17 @@ $CODES_TO_BOOKS = array(
 	"35a" => "עזרא",
 	"35b" => "נחמיה"
 );
-$HEBREW_BOOKS = array_values($CODES_TO_BOOKS);
-$HEBREW_SFR = implode("|",$HEBREW_BOOKS);
+global $HEBREW_BOOKS; $HEBREW_BOOKS = array_values($CODES_TO_BOOKS);
+global $HEBREW_SFR; $HEBREW_SFR = implode("|",$HEBREW_BOOKS);
 
-$HEBREW_LETTER = "[א-ת]";
-$HEBREW_LETTER_3 = "[ק-ת]";
-$HEBREW_LETTER_2 = "[ט-צ]";
-$HEBREW_LETTER_1 = "[א-ט]";
-$HEBREW_PRQ = "ק$HEBREW_LETTER_2$HEBREW_LETTER_1|ק$HEBREW_LETTER_2|ק$HEBREW_LETTER_1|ק|$HEBREW_LETTER_2$HEBREW_LETTER_1|$HEBREW_LETTER_2|$HEBREW_LETTER_1";
+global $HEBREW_LETTER;   $HEBREW_LETTER = "[א-ת]";
+global $HEBREW_LETTER_3; $HEBREW_LETTER_3 = "[ק-ת]";
+global $HEBREW_LETTER_2; $HEBREW_LETTER_2 = "[ט-צ]";
+global $HEBREW_LETTER_1; $HEBREW_LETTER_1 = "[א-ט]";
+global $HEBREW_PRQ;      $HEBREW_PRQ = "ק$HEBREW_LETTER_2$HEBREW_LETTER_1|ק$HEBREW_LETTER_2|ק$HEBREW_LETTER_1|ק|$HEBREW_LETTER_2$HEBREW_LETTER_1|$HEBREW_LETTER_2|$HEBREW_LETTER_1";
 
-$HEBREW_PSUQ = 'פסוק';
-$HEBREW_PSUQIM = 'פסוקים';
+global $HEBREW_PSUQ; $HEBREW_PSUQ = 'פסוק';
+global $HEBREW_PSUQIM; $HEBREW_PSUQIM = 'פסוקים';
 
 
 function psuq_im_qijurim_mmilim ($mxroztmilim, $mxroztqjrimmmilim) {
@@ -369,7 +366,9 @@ function psuqim_in_file($path_from_root_to_file) {
 function potential_psuqim_in_text($text) {
 	global $HEBREW_LETTER, $HEBREW_PRQ;
 
-	if (preg_match_all("/($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+$HEBREW_LETTER+)?)[ \n\r\t,']+($HEBREW_PRQ)'?[ \n\r\t,']*(\d+)/u", $text, $matches))
+	$regexp = "/($HEBREW_LETTER+(\s+$HEBREW_LETTER+)?(\s+$HEBREW_LETTER+)?)[ \n\r\t,']+($HEBREW_PRQ)'?[ \n\r\t,']*(\d+)/u";
+	//print "<p dir='ltr'>regexp='$regexp'</p>";
+	if (preg_match_all($regexp, $text, $matches))
 		return $matches[0];          // ... return entire matches.
 	
 	//print "<p>no psuqim in '$text'!</p>\n"; die;
