@@ -1484,3 +1484,25 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳“׳™׳•׳1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/nvir/joftim/jf-12-01.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/743.html',
+				'tnk1/nvir/joftim/ma-05-26.html',
+				NULL,
+				'2014-09-12 06:41:47',
+				'2014-09-12 06:41:47',
+				'איסור כריתת ברית לא חל על כל עמי כנען אלא רק על שבעה מתוכם',
+				'אראל',
+				''
+			)
+		;
+
