@@ -18,6 +18,7 @@ require_once("$SCRIPT/rewrite_library.php");
 $tnk1 = (file_exists("../tnk1/admin/db_connect.php")? "../tnk1": "../../../www/tnk1");
 require_once("$tnk1/admin/db_connect.php");
 sql_set_charset('hebrew');
+mysql_query("set character_set_results=utf8"); // for static_text
 
 $to = get_input('to', '');
 

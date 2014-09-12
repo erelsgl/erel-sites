@@ -262,8 +262,10 @@ function translate($table_name, $key_field_name, $text_name, $gender=NULL, $para
 	// text not found in any table - return the text name
 	if (!$translated_text) 
 		return $text_name;
-
+	
 	$translated_text = translate_by_parameters($translated_text, $gender, $parameter1, $parameter2, $parameter3);
+	
+	
 
 	if ($default_language_used && $GLOBALS['SET_DIRECTION_OF_DEFAULT_TRANSLATION'])
 		return "<span dir='$DEFAULT_LANGUAGE_DIRECTION' lang='$DEFAULT_LANGUAGE_CODE'>$translated_text</span>";
