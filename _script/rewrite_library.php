@@ -739,7 +739,8 @@ function isCywr() {
 function show_title_by_action() {
 	global $gerund_by_language, $title_with_html, $current_username;
 
-	print windows1255_to_utf8("<span style='font-weight:bold'>$title_with_html / $current_username - $gerund_by_language</span>\n");
+	$title_and_username = windows1255_to_utf8("$title_with_html / $current_username");
+	print "<span style='font-weight:bold'>$title_and_username - $gerund_by_language</span>\n";
 }
 
 function go_to_blank_page() {
