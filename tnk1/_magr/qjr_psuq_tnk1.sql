@@ -790,3 +790,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = NULL, `tarik_hosfa` = '2014-07-29 15:32:22' WHERE `bn` = 'ביאור:משלי ז21' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מלחמת יום כיפור' AND `sfr` = 'יחז' AND `prq0` = 'מ' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יחזקאל מ1' AND `sfr` = 'יחז' AND `prq0` = 'מ' AND `psuq0` = 1 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תשובה לחגי הופר: והצלעות צלע אל - צלע שלוש ושלשים פעמים ' AND `sfr` = 'יחז' AND `prq0` = 'מ' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+

@@ -1567,3 +1567,31 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/raj1.html',
+				'tnk1/nvia/yxzqel/yx-40-01.html',
+				NULL,
+				'2014-09-12 07:30:33',
+				'2014-09-12 07:30:33',
+				'בראש השנה בעשור לחודש',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/nvia/yxzqel/mlxmt-yom-kipur.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/nvia/yxzqel/mlxmt-yom-kipur.html';
+
