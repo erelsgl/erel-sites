@@ -123,15 +123,15 @@ function add_page() {
 
 	$origsubject = get_input('origsubject', '');          # subject of the message replied to
 
-	if (file_exists("$fileroot/$boardlastlog")) {
-		$lastlogline = file_get_contents("$fileroot/$boardlastlog");
+	if (file_exists($boardlastlog)) {
+		$lastlogline = file_get_contents($boardlastlog);
 		if ($lastlogline === $unique_message_id) {
 			if (!$_SERVER["HTTP_HOST"]==='localhost')
 				block ("DUPLICATE");
 
 		}
 	} else {
-		user_error("can't read last log line $fileroot/$boardlastlog! (this is not a problem if it's a new site)", E_USER_WARNING);
+		user_error("can't read last log line $boardlastlog! (this is not a problem if it's a new site)", E_USER_WARNING);
 	}
 
 
@@ -228,8 +228,8 @@ function add_page() {
 			add_to_ancestor();
 		}
 
-		file_put_contents ("$fileroot/$boardlastlog", $unique_message_id)
-			or user_error("Can't write to $fileroot/$boardlastlog!", E_USER_WARNING);
+		file_put_contents ("$boardlastlog", $unique_message_id)
+			or user_error("Can't write to $boardlastlog!", E_USER_WARNING);
 
 		# Return the user HTML
 		return_html();
