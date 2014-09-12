@@ -91,3 +91,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית מד18' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:יחזקאל מ1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'מלחמת יום כיפור' AND 1 LIMIT 1;
+
