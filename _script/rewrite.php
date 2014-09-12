@@ -103,8 +103,8 @@ $path_from_script_to_document_without_ext = "$fileroot/$dir/$base";
 
 $path_from_document_to_root = reverse_path($path_from_root_to_document);
 
-$boardlog = "/tmp/boardlog.txt";   // "$fileroot/$site/boardlog.txt"
-$boardlastlog = "/tmp/boardlastlog.txt";   // "$fileroot/$site/boardlastlog.txt"
+$boardlog = "$fileroot/www_gibuy/boardlog.txt";   // "$fileroot/$site/boardlog.txt"
+$boardlastlog = "$fileroot/www_gibuy/boardlastlog.txt";   // "$fileroot/$site/boardlastlog.txt"
 
 if (preg_match("/\d\d\d\d\d\d\d\d\d\d\d\d/",$path_from_root_to_document)) {
 # block malicious attempts to overwrite previous versions
