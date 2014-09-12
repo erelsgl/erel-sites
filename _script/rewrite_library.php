@@ -76,6 +76,7 @@ function add_page() {
 	$body = get_input('body','');
 	$body = fix_html($body);
 
+	$unique_message_id = "$title\t$author\t$path_from_site_to_document";
 	$addFile = '';
 	
 	$replaceFile = isset($_POST['hxlf_qovc']) && $_POST['hxlf_qovc'];
