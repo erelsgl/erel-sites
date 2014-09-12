@@ -356,6 +356,7 @@ function psuqim_in_file($path_from_root_to_file) {
 		return array();
 
 	$contents = file_get_contents("$fileroot/$path_from_root_to_file");
+	$contents = windows1255_to_utf8($contents);
 	return potential_psuqim_in_text($contents);
 }
 
@@ -539,4 +540,12 @@ function convert_verses($text, $style='') {
 		$text);
 	return $text;
 }
+
+
+/* UNIT TEST */
+if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
+	print "<meta charset='utf8' />\n";
+	print_r(potential_psuqim_in_text("בראשית א1"));
+}
+
 ?>
