@@ -717,6 +717,7 @@ function new_file($templatename) {
 	$newline = "\n";
 	$username = $author;
 
+	$charset = "windows-1255";  // used in the template newfiletemplate.pm 
 	write_versions(str_replace(".html","",$path_from_root_to_reply), ".html",
 		eval(fixed_template($templatename)), 
 		"$title_without_html$titleType",

@@ -439,7 +439,7 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 			if(!$row) break;
 			list ($av_xdj, $ktovt_av_xdj, $sug) = $row;
 			if ($av_xdj === $av) break;
-			if ($av_xdj === 'הקשר לפרשה') break;
+			if ($av_xdj === utf8_to_windows1255('הקשר לפרשה')) break;
 			$av = $av_xdj;
 			$ktovt_av = $ktovt_av_xdj;
 		}
@@ -449,7 +449,7 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 			$niwut_line = "<a href='$path_from_document_to_root$ktovt_av'>$av</a>&gt;$niwut_line";
 		}
 		if (preg_match("|^tnk1/dmut/dmut/\d|",$ktovt_av)) {
-			$av = "דמויות תנכיות";
+			$av = utf8_to_windows1255("דמויות תנכיות");
 			$ktovt_av = "tnk1/dmut/index.html";
 			$niwut_line = "<a href='$path_from_document_to_root$ktovt_av'>$av</a>&gt;$niwut_line";
 		}
