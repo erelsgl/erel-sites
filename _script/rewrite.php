@@ -254,7 +254,7 @@ $idforfilename = str_replace(".","_",$idforfilename);
 
 require_once("../_script/website.php");
 run_site($to);
-print "<p>" . windows1255_to_utf8(static_text("ok")) . "</p>\n";
+print "<p>" . static_text("ok") . "</p>\n";
 print "</div><!--pnim-->\n";
 print xhtml_footer();
 

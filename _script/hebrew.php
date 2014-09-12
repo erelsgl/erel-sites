@@ -207,7 +207,7 @@ function utf8_to_windows1255($utf8) {
 
 
 function windows1255_to_utf8($windows1255) {
-	return @iconv('windows-1255','utf-8',$windows1255);
+	return iconv('windows-1255','utf-8',$windows1255);
 	/* This doesn't work anymore: 
 	global $otiot_ivriot;
 	if (is_array($windows1255)) {
