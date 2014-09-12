@@ -1471,3 +1471,108 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-09-11 09:49:14' 
 			WHERE messageid=4661;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>על סמך מה קבעת שהמסר של הפסוק מכוון לרווק??</p><p>זה בלתי סביר בעליל. הרי המזמור מדבר על &quot;בעלה&quot;.</p><p>ברור שהמסר מכוון: 1) שיר הלל לאישה נשואה. 2) מסר לאיש הנשוי, שיידע להעריך מה שיש לו שהוא יקר המציאות.</p><p>כמו כן, בלתי סבירה הטענה שהמזמור מעודד לא לחפש אישה מושלמת ולהסתפק בחלק מהמעלות.</p><p>להפך, המזמור מתאר את האישה כפי שהיא בעיניי בעלה המעריץ: מושלמת וכלילת כל המעלות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk-0zJdAh4dUpeJGP5DIE2FIXwO6Cvz1No',
+		'Gavri Levis',
+		'2014-09-11 11:04:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>כמו כן מדובר פה בהספד (ולפי המסורת: הספד אברהם לשרה) </p><p>כפי שנאמר: &quot;בטח בה לב בעלה כל ימי חייה&quot;</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk-0zJdAh4dUpeJGP5DIE2FIXwO6Cvz1No',
+		'Gavri Levis',
+		'2014-09-11 11:05:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-11 11:05:50' 
+			WHERE messageid=4663;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>כמו כן מדובר פה בהספד (לפי המסורת: הספד אברהם לשרה)</p><p>כמו שנאמר: &quot;גמלתהו טוב ולא רע, כל ימי חייה&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk-0zJdAh4dUpeJGP5DIE2FIXwO6Cvz1No',
+		'Gavri Levis',
+		'2014-09-11 11:06:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>לאראל ידידי</p><p>משלי לא10: &quot;אֵשֶׁת חַיִל מִי יִמְצָא וְרָחֹק מִפְּנִינִים מִכְרָהּ&quot;</p><p> מִי יִמְצָא אֵשֶׁת חַיִל אשר רָחֹק מִפְּנִינִים מִכְרָהּ</p><p>לאמור כי אשת חיל היא אשה אשר מִכְרָהּ הוא לא מִכְרהּ פנינים [ מִכְרָהּ = מלשון  מִכְרהּ כסף מִכְרהּ זהב מִכְרהּ יהלומים]</p><p>לאמור כי אשת חיל היא אשה חכמה אשר לא רודפת אחרי התכשיטים</p><p>משלי ח11: &quot;כִּי טוֹבָה חָכְמָה מִפְּנִינִים וְכָל חֲפָצִים לֹא יִשְׁווּ בָהּ&quot; </p><p>ובספר איוב פרק כח כתוב:</p><p>(יב) וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה. </p><p>(יג) לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים. </p><p>(יד) תְּהוֹם אָמַר לֹא בִי הִיא וְיָם אָמַר אֵין עִמָּדִי. </p><p>(טו) לֹא יֻתַּן סְגוֹר תַּחְתֶּיהָ וְלֹא יִשָּׁקֵל כֶּסֶף מְחִירָהּ. </p><p>(טז) לֹא תְסֻלֶּה בְּכֶתֶם אוֹפִיר בְּשֹׁהַם יָקָר וְסַפִּיר. </p><p>(יז) לֹא יַעַרְכֶנָּה זָהָב וּזְכוֹכִית וּתְמוּרָתָהּ כְּלִי פָז. </p><p>(יח) רָאמוֹת וְגָבִישׁ לֹא יִזָּכֵר וּמֶשֶׁךְ חָכְמָה מִפְּנִינִים. </p><p>(יט) לֹא יַעַרְכֶנָּה פִּטְדַת כּוּשׁ בְּכֶתֶם טָהוֹר לֹא תְסֻלֶּה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-11 15:26:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>לאראל ידידי ראה נא איכה אני מבין את הפסוק</p><p>משלי לא10: &quot;אֵשֶׁת חַיִל מִי יִמְצָא וְרָחֹק מִפְּנִינִים מִכְרָהּ&quot;</p><p>מִי יִמְצָא אֵשֶׁת חַיִל אשר רָחֹק מִפְּנִינִים מִכְרָהּ</p><p>לאמור כי אשת חיל היא אשה אשר מִכְרָהּ הוא לא מִכְרהּ פנינים [ מִכְרָהּ = מלשון מִכְרהּ כסף מִכְרהּ זהב מִכְרהּ יהלומים]</p><p>לאמור כי אשת חיל היא אשה חכמה אשר לא רודפת אחרי התכשיטים</p><p>משלי ח11: &quot;כִּי טוֹבָה חָכְמָה מִפְּנִינִים וְכָל חֲפָצִים לֹא יִשְׁווּ בָהּ&quot;</p><p>ובספר איוב פרק כח כתוב:</p><p>(יב) וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה.</p><p>(יג) לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים.</p><p>(יד) תְּהוֹם אָמַר לֹא בִי הִיא וְיָם אָמַר אֵין עִמָּדִי.</p><p>(טו) לֹא יֻתַּן סְגוֹר תַּחְתֶּיהָ וְלֹא יִשָּׁקֵל כֶּסֶף מְחִירָהּ.</p><p>(טז) לֹא תְסֻלֶּה בְּכֶתֶם אוֹפִיר בְּשֹׁהַם יָקָר וְסַפִּיר.</p><p>(יז) לֹא יַעַרְכֶנָּה זָהָב וּזְכוֹכִית וּתְמוּרָתָהּ כְּלִי פָז.</p><p>(יח) רָאמוֹת וְגָבִישׁ לֹא יִזָּכֵר וּמֶשֶׁךְ חָכְמָה מִפְּנִינִים.</p><p>***********************************************</p><p>(יט) לֹא יַעַרְכֶנָּה פִּטְדַת כּוּשׁ בְּכֶתֶם טָהוֹר לֹא תְסֻלֶּה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-11 15:35:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-11 15:35:31' 
+			WHERE messageid=4665;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-10.html',
+		'<p>פירוש יפה. אשת חיל היא אישה שאוהבת את החכמה, שהיא יקרה יותר מפנינים.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-09-11 16:42:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/tk12.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-09-11 21:08:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-11 21:08:39' 
+			WHERE messageid=4668;
+
