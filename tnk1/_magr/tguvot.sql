@@ -1576,3 +1576,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-09-11 21:08:39' 
 			WHERE messageid=4668;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-40-01.html',
+		'<p>פרשת נכון</p><p>אכן ראש השנה על פי התורה הוא ראש החודש הראשון</p><p>ואם נאמר מועד העשור בחודש אז הכוונה לעשירי למלאת ירח ניסן</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-12 10:30:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-12 10:34:10' 
+			WHERE messageid=4669;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-40-01.html',
+		'<p>פרשת נכון אראל ידידי</p><p>אכן ראש השנה על פי התורה הוא ראש החודש הראשון</p><p>ואם נאמר מועד העשור בחודש אז הכוונה לעשירי למלאת ירח ניסן</p><p>********</p><p>וגם: העשירי לחודש ניסן הוא המועד אשר תטהר הארץ ממלחמת גוג מארץ המגוג</p><p>שים לב כי לא במקרה הפסוק יחזקאל מ1: &quot; בְּעֶשְׂרִים וְחָמֵשׁ שָׁנָה לְגָלוּתֵנוּ בְּרֹאשׁ הַשָּׁנָה בֶּעָשׂוֹר לַחֹדֶשׁ בְּאַרְבַּע עֶשְׂרֵה שָׁנָה אַחַר אֲשֶׁר הֻכְּתָה הָעִיר בְּעֶצֶם הַיּוֹם הַזֶּה הָיְתָה עָלַי יַד יְהוָה וַיָּבֵא אֹתִי שָׁמָּה </p><p>פרק מ\' בספר יחזקאל  בא מייד לאחר פרשת מלחמת גוג מארץ המגוג שתיתום ביום הכפורים בעשור לחודש השביעי הוא ירח האיתנים ואז על פי ספר יחזקאל פרק לט כתוב:   (יב) וּקְבָרוּם בֵּית יִשְׂרָאֵל לְמַעַן טַהֵר אֶת הָאָרֶץ שִׁבְעָה חֳדָשִׁים. [עד העשור לחודש הראשון בשנה]</p><p>לאמור כי בעת טַהֵר אֶת הָאָרֶץ שִׁבְעָה חֳדָשִׁים השנה תהיה מעוברת ויוסף ירח שלוש-עשרה הוא המכונה בפי הרבנים אדר ב\'</p><p>וכי הארץ תטהר בעשור לחודש ניסן למען יקחו הכבש למשמרת עד הארבעה-עשר לחודש ניסן ויעשו זבח הפסח בטהרה ככתוב בתורה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-12 10:48:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/yovl.html',
+		'<p>הרב ד&quot;ר פרופסור ....</p><p>לא הבנת את מועד שנת השמיטה</p><p>שנת השמיטה היא שנת שבת הארץ</p><p>ואלהים נתן את מועד יום השבת כל שבוע ימים ואת מועד שנת שבת הארץ כל שבוע שנים  </p><p>גם אם בני ישראל לא שומרים את יום השבת אז מועד השבת לא יתחלף לעבור ליום אחר חלילה.</p><p>וגם אם בני ישראל יחללו את שנת שבת הארץ אז מועד שנת השבע לא יעבור למועד שנה אחרת חלילה.</p><p>וכעת  נא הבן כי אם יציאת בני ישראל מארץ מצרים הייתה בשנת 2450 ככתוב אמת בספר היובלים</p><p>וכעבור 40 שנה בני ישראל הגיעו לארץ כנען + זמן כיבוש הארץ שבע שנים סה&quot;כ 47 שנים</p><p>לכן שנת היובל הראשונה לבני ישראל בארץ כנען הייתה כעבור כשנתיים ימים לאחר שתמה המלחמה על ארץ כנען</p><p>ויש להבין כי שנת שבת הארץ ויום השבת החלו עם בריאת העולם</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-12 13:45:33'
+		)
+		;
+

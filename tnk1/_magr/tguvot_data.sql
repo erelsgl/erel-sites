@@ -1657,3 +1657,56 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/tk12.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yxzqel/yx-40-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-09-12 10:30:01'
+		WHERE parent='tnk1/nvia/yxzqel/yx-40-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2014-09-12 10:34:10'
+			WHERE parent='tnk1/nvia/yxzqel/yx-40-01.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yxzqel/yx-40-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-09-12 10:48:19'
+		WHERE parent='tnk1/nvia/yxzqel/yx-40-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/yovl.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-09-12 13:45:33'
+		WHERE parent='tnk1/kma/yovl.html'
+		;
+
