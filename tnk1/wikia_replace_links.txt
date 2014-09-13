@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2014-09-11 11:02:39
+# This file was automatically generated at 2014-09-12 14:08:47
 
 sub wikia_replace_links {
 $_=shift;
@@ -1164,6 +1164,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-25-2931|[[ביאור:למי שייך הבית?|i
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-23|[[ביאור:והארץ לא תימכר לצמיתות|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-2022|[[ביאור:יבול שישית - מה נאכל בשנה השביעית|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-10|[[ביאור:המטרה של שנת היובל - חופש ולא שיוויון|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-25-06|[[ביאור:בשנה השביעית אנחנו סועדים על שולחן השבת של גברת ארץ ישראלי|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25|[[ביאור:תהליך ההתדרדרות אל העוני בויקרא כה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-24-20|[[ביאור:הפוסל - במומו פוסל|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-24|[[ביאור:אני נגד אלימות!!!|ig;
@@ -2696,6 +2697,7 @@ s|${OPENLINK}tnk1/nvir/mlkima/ma-07-21|[[ביאור:יכין ובעז - משמע
 s|${OPENLINK}tnk1/nvir/mlkima/ma-06-07|[[ביאור:כל כלי ברזל לא נשמע בבית|ig;
 s|${OPENLINK}tnk1/nvir/mlkima/ma-06-06|[[ביאור:מגרעות ומעלות|ig;
 s|${OPENLINK}tnk1/nvir/mlkima/ma-06-04|[[ביאור:חלונות שקופים אטומים|ig;
+s|${OPENLINK}tnk1/nvir/mlkima/ma-05-26|[[ביאור:ברית שלמה-חירם|ig;
 s|${OPENLINK}tnk1/nvir/mlkima/ma-05-12|[[ביאור:לאן נעלמו שלושת אלפים משלי שלמה?|ig;
 s|${OPENLINK}tnk1/nvir/mlkima/ma-05-11|[[ביאור:ויחכם מכל האדם|ig;
 s|${OPENLINK}tnk1/nvir/mlkima/ma-03-28|[[ביאור:חכמת אלהים צריכה להיות גלויה לכל|ig;
@@ -2762,6 +2764,7 @@ s|${OPENLINK}tnk1/nvir/joftim/jf-16|[[ביאור:שמשון ודלילה - כל 
 s|${OPENLINK}tnk1/nvir/joftim/jf-15-15.jpg|[[ביאור:שפ טו 15 ???|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-14-06.jpg|[[ביאור:שפ יד 6|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-14|[[ביאור:מספרי ימים בסיפור חתונת שמשון|ig;
+s|${OPENLINK}tnk1/nvir/joftim/jf-12-01|[[ביאור:יפתח לקח את החוק לידיים כדי להגן על שבטו|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-11-2526|[[ביאור:נאום יפתח -  טענה רביעית|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-11-2324|[[ביאור:נאום יפתח - טענה שלישית|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-11-1922|[[ביאור:נאום יפתח - טענה שניה|ig;
@@ -2958,6 +2961,7 @@ s|${OPENLINK}tnk1/nvir/aksa0|[[ביאור:עכסה, עתניאל בן קנז, ו
 s|${OPENLINK}tnk1/nvir/aksa|[[ביאור:שכל הרואה אותה כועס על אשתו|ig;
 s|${OPENLINK}tnk1/nvir/3mlkim|[[ביאור:שלושה מלכים שקיימו נבואה והשמידו את בית המלך הקודם|ig;
 s|${OPENLINK}tnk1/nvia/zmnim|[[ביאור:הנביאים - טבלת זמנים|ig;
+s|${OPENLINK}tnk1/nvia/yxzqel/yx-40-01|[[ביאור:בראש השנה בעשור לחודש|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-36-20|[[ביאור:חילול שם ה' על-ידי יהודים בחו"ל|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-34-0304|[[ביאור:תפקיד המנהיג - לעזור לחלשים בלי לפגוע בחזקים|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-24-0105|[[ביאור:בעשרה בטבת שפתו את הסיר על האש|ig;
@@ -2988,7 +2992,6 @@ s|${OPENLINK}tnk1/nvia/yxzqel/yar_hngv|[[ביאור:האמנם דוד בן גו�
 s|${OPENLINK}tnk1/nvia/yxzqel/sxr_cor|[[ביאור:סחר צור|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/sgnon|[[ביאור:הסגנון של יחזקאל|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/nde|[[ביאור:שלושת האנשים - נח דנאל ואיוב|ig;
-s|${OPENLINK}tnk1/nvia/yxzqel/mlxmt-yom-kipur|[[ביאור:מלחמת יום כיפור|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/mitsraim|[[ביאור:יציאת מצרים בדברי יחזקאל|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/dnel|[[ביאור:דנאל מספר יחזקאל|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/bxira1|[[ביאור:הויכוח על הבחירה החופשית, בין יחזקאל לעם-ישראל (יחזקאל יח, יחזקאל לג)|ig;
@@ -4832,7 +4835,6 @@ s|${OPENLINK}tnk1/messages/prqim_t12_0|[[ביאור:מילים שיש רק בס�
 s|${OPENLINK}tnk1/messages/prqim_t1245_0|[[ביאור:הרימו גרושותיכם מעל עמי|ig;
 s|${OPENLINK}tnk1/messages/prqim_t1241_1|[[ביאור:שולחן|ig;
 s|${OPENLINK}tnk1/messages/prqim_t1241_0|[[ביאור:תשובה לחגי הופר: והצלעות צלע אל - צלע שלוש ושלשים פעמים |ig;
-s|${OPENLINK}tnk1/messages/prqim_t1240_1|[[ביאור:בראש השנה בעשור לחודש|ig;
 s|${OPENLINK}tnk1/messages/prqim_t1239_0|[[ביאור:נאום חלש ביום הכיפורים התשעג|ig;
 s|${OPENLINK}tnk1/messages/prqim_t1238_1|[[ביאור:נאום גוג ביום הכיפורים התשעג|ig;
 s|${OPENLINK}tnk1/messages/prqim_t1238_0|[[ביאור:גוג ומגוג = רוסיה וארה"ב|ig;
@@ -9283,6 +9285,7 @@ s|${OPENLINK}tnk1/ktuv/dha/da-12.doc|[[ביאור:הנופלים אל דוד (.d
 s|${OPENLINK}tnk1/ktuv/dha/da-03-0608|[[ביאור:שני אחים עם אותו שם|ig;
 s|${OPENLINK}tnk1/ktuv/al_ttxr_btror|[[ביאור:אל תקנא בטרוריסטים|ig;
 s|${OPENLINK}tnk1/ktuv/al_ttxr|[[ביאור:האם מותר להתגרות ברשעים?|ig;
+s|${OPENLINK}tnk1/kma/yovl|[[ביאור:תאריכים היסטוריים לשנות השמיטה והיובל|ig;
 s|${OPENLINK}tnk1/kma/sikumim.zip|[[ביאור:כל הסיכומים בקובץ אחד (.zip)|ig;
 s|${OPENLINK}tnk1/kma/sikumim|[[ביאור:סיכומים וטבלאות של פסוקים בתנ"ך|ig;
 s|${OPENLINK}tnk1/kma/rjimot.rtf|[[ביאור:רשימות ומספרים (.rtf)|ig;
@@ -10402,6 +10405,7 @@ s|${OPENLINK}tnk1/klli/mdrjim/ronald_knox|[[ביאור:תרגום רונאלד �
 s|${OPENLINK}tnk1/klli/mdrjim/roj_hjna|[[ביאור:מדוע ראש השנה נחשב ליום הדין?|ig;
 s|${OPENLINK}tnk1/klli/mdrjim/rojxodj2|[[ביאור:ראש חודש כפול|ig;
 s|${OPENLINK}tnk1/klli/mdrjim/rmbn|[[ביאור:פירושי רמב"ן|ig;
+s|${OPENLINK}tnk1/klli/mdrjim/rmbm7|[[ביאור:שבע מצוות בני נוח הן תנאי לשלום|ig;
 s|${OPENLINK}tnk1/klli/mdrjim/rmbm0|[[ביאור:פירושי רמב"ם|ig;
 s|${OPENLINK}tnk1/klli/mdrjim/rmbm|[[ביאור:דברי תורה על-פי הרמב"ם|ig;
 s|${OPENLINK}tnk1/klli/mdrjim/rlbg.doc|[[ביאור:עיונים בחכמת הרלב"ג - קובץ וורד (.doc)|ig;
@@ -11063,28 +11067,20 @@ s|${OPENLINK}tnk1/br-49-10|[[ביאור:ביאור:בראשית מט10|ig;
 s|${OPENLINK}tnk1/br-47-25|[[ביאור:ביאור:בראשית מז25|ig;
 s|${OPENLINK}tnk1/br-47-24|[[ביאור:ביאור:בראשית מז24|ig;
 s|${OPENLINK}tnk1/br-47-19|[[ביאור:ביאור:בראשית מז19|ig;
-s|${OPENLINK}tnk1/br-44-18|[[ביאור:ביאור:בראשית מד18|ig;
 s|${OPENLINK}tnk1/br-41-45|[[ביאור:ביאור:בראשית מא45|ig;
 s|${OPENLINK}tnk1/br-36-12|[[ביאור:ביאור:בראשית לו12|ig;
-s|${OPENLINK}tnk1/br-35-2|[[ביאור:ביאור:בראשית לה2|ig;
 s|${OPENLINK}tnk1/br-34-34|[[ביאור:ביאור:בראשית לד34|ig;
 s|${OPENLINK}tnk1/br-32-9|[[ביאור:ביאור:בראשית לב9|ig;
 s|${OPENLINK}tnk1/br-32-7|[[ביאור:ביאור:בראשית לב7|ig;
 s|${OPENLINK}tnk1/br-32-14|[[ביאור:ביאור:בראשית לב14|ig;
 s|${OPENLINK}tnk1/br-32-10|[[ביאור:ביאור:בראשית לב10|ig;
-s|${OPENLINK}tnk1/br-31-3|[[ביאור:ביאור:בראשית לא3|ig;
 s|${OPENLINK}tnk1/br-31-19|[[ביאור:ביאור:בראשית לא19|ig;
 s|${OPENLINK}tnk1/br-31-13|[[ביאור:ביאור:בראשית לא13|ig;
-s|${OPENLINK}tnk1/br-30-40|[[ביאור:ביאור:בראשית ל40|ig;
 s|${OPENLINK}tnk1/br-30-25|[[ביאור:ביאור:בראשית ל25|ig;
 s|${OPENLINK}tnk1/br-29-26|[[ביאור:ביאור:בראשית כט26|ig;
 s|${OPENLINK}tnk1/br-29-18|[[ביאור:ביאור:בראשית כט18|ig;
-s|${OPENLINK}tnk1/br-29-10|[[ביאור:ביאור:בראשית כט10|ig;
-s|${OPENLINK}tnk1/br-27-45|[[ביאור:ביאור:בראשית כז45|ig;
-s|${OPENLINK}tnk1/br-27-32|[[ביאור:ביאור:בראשית כז32|ig;
 s|${OPENLINK}tnk1/br-26-7|[[ביאור:ביאור:בראשית כו7|ig;
 s|${OPENLINK}tnk1/br-26-20|[[ביאור:ביאור:בראשית כו20|ig;
-s|${OPENLINK}tnk1/br-25-29|[[ביאור:ביאור:בראשית כה29|ig;
 s|${OPENLINK}tnk1/br-24-65|[[ביאור:ביאור:בראשית כד65|ig;
 s|${OPENLINK}tnk1/br-24-50|[[ביאור:ביאור:בראשית כד50|ig;
 s|${OPENLINK}tnk1/br-24-14|[[ביאור:ביאור:בראשית כד14|ig;
