@@ -1619,3 +1619,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/sfot_hrwa_et_hcmea.html',
+		'<p>בס&quot;ד</p><p>יישר כח,</p><p>הסברים מפורטים ויפים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkzEldDMyc7pJc6b9o09mG4PALgrLPYhxs',
+		'משה וורטהיימר',
+		'2014-09-13 20:01:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_mdrjim_ra_ry_1.html',
+		'<p>אם אני מקבל את הסברה שהעולם נברא בניסן אז מה מיוחד בראש השנה?? </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-NdJ2BcuLAzXEAALqAmJ5-J_A4xUU4Yw',
+		'ido ami',
+		'2014-09-13 21:20:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_mdrjim_ra_ry_1.html',
+		'<p>השמים והארץ והים וגן-עדן החלו להברא כבר ביום ראשון</p><p>והמאורות השמש והירח למועדים נבראו רק ביום רביעי</p><p>לכן העולם לא נברא בתשרי ולא בניסן</p><p>הייתי אומר שהעולם נברא בניסן אבל הירח נברא רק ביום רביעי</p><p>לכן תחילת הבריאה שלושה ימים לפני חודש ניסן</p><p>לאמור הבריאה בחודש אדר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-14 02:33:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-14 02:34:05' 
+			WHERE messageid=4674;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_mdrjim_ra_ry_1.html',
+		'<p>השמים והארץ החלו להברא כבר ביום ראשון</p><p>והמאורות השמש והירח למועדים נבראו רק ביום רביעי</p><p>לכן העולם לא נברא בתשרי ולא בניסן</p><p>הייתי אומר שהעולם נברא בניסן אבל הירח נברא רק ביום רביעי</p><p>לכן תחילת הבריאה שלושה ימים לפני חודש ניסן</p><p>לאמור הבריאה בחודש אדר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-14 02:34:35'
+		)
+		;
+
