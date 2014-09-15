@@ -1674,3 +1674,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוקה דחוף להלוואה אשמח אם תחזרו אלי</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkTBMXTsx_-Lku0rQSAvkX5H3SGo6LddM4',
+		'kami1111@gimal.com ka36rm7it@',
+		'2014-09-14 10:56:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה דחוף לעזרה.אשמח אם תחזרו אלי בבקשה 0504752192</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkTBMXTsx_-Lku0rQSAvkX5H3SGo6LddM4',
+		'kami1111@gimal.com ka36rm7it@',
+		'2014-09-14 11:00:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/reuven/clm.html',
+		'<p>תשובתך הינה יפה ומעניינת אך עדיין אינה עונה על השאלה המרכזית: האם דמותו של ה׳ הינה כמו דמותנו. משמע האם האמונה היהודית טועה בהקשר זה? האין אנו עם מונותאיסטי שהרי ממשפט זה עולה שידועה לנו דמותו של האל שהיא דומה לשלנו, דהיינו המרכז של הייחודיות של העם הזה לא ניתן לו הסבר מספק בתשובתך. אכן זה משבח את יהוה אך אין זה מאשר שום דבר, אנו דמות בר חלוף, זו ידועה לכול ויהוה יצירה רוחנית שאין לה סוף, אך הבעיה התיאולוגית נשארת בעינה: דמותו של אלוקים מוחשית ולא מופשטת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkf3A1fKl5E3U6qX5qywlZqIBnIMWyy7Zc',
+		'שגיא קסוס',
+		'2014-09-14 16:05:36'
+		)
+		;
+
