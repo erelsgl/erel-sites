@@ -455,3 +455,137 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9.html',
+				'tnk1/messages/sig_9_19.html',
+				NULL,
+				'2014-09-15 08:12:19',
+				'2014-09-15 08:12:19',
+				'על \"תיקו\" מאת הרב חיים נבון',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-15 08:12:19'
+			WHERE ktovt_bn='tnk1/sig/9.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 09:02:42'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_33.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 09:05:17'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_33.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 09:09:07'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_33.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 10:11:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_34.html',
+				NULL,
+				'2014-09-15 15:35:36',
+				'2014-09-15 15:35:36',
+				'על \"מוסר יהודי לעומת מוסר נוצרי\" מאת הרב אליהו בן אמוזג',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_35.html',
+				NULL,
+				'2014-09-15 15:37:38',
+				'2014-09-15 15:37:38',
+				'על \"ראשית\" מאת מאיר שלו',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 18:42:17'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-05-26.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 18:57:04'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-12-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-15 19:14:37'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/rmbm7.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_619.html',
+				NULL,
+				'2014-09-15 21:01:16',
+				'2014-09-15 21:01:16',
+				'פרשת נצבים- וילך-מהי המצווה שהיא מעל הזמן והמקום?/אהובה קליין ',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-15 21:01:16'
+			WHERE ktovt_bn='tnk1/forums.html';
+
