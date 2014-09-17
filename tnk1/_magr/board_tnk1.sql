@@ -589,3 +589,74 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-09-15 21:01:16'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_36.html',
+				NULL,
+				'2014-09-16 09:03:07',
+				'2014-09-16 09:03:07',
+				'על \"המלכה שרי\" מאת ציפורה יבין',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_37.html',
+				NULL,
+				'2014-09-16 21:02:16',
+				'2014-09-16 21:02:16',
+				'על \"ספקן באמונתו יחיה\" מאת דוד דישון',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_38.html',
+				NULL,
+				'2014-09-16 21:08:42',
+				'2014-09-16 21:08:42',
+				'על \"אלוהים יודע\" ועל \"דו\"ח המלך דוד\"',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/cdqprti.html',
+				'tnk1/ktuv/eyov/yv-08-1619.html',
+				NULL,
+				'2014-09-17 07:00:21',
+				'2014-09-17 07:00:21',
+				'כשהצדיק נעקר, הוא צומח מחדש',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-17 07:00:21'
+			WHERE ktovt_bn='tnk1/msr/cdqprti.html';
+
