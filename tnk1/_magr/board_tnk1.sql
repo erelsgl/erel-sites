@@ -660,3 +660,59 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-09-17 07:00:21'
 			WHERE ktovt_bn='tnk1/msr/cdqprti.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-17 08:36:13'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-08-1619.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-17 08:55:47'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-08-1619.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-17 09:14:37'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-08-1619.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-17 12:46:54'
+		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-08-1619.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-17 22:29:57'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 06:29:21'
+		WHERE ktovt_bn='tryg/jmita/mtkon_halav.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 06:30:56'
+		WHERE ktovt_bn='tryg/jmita/mtkon_halav.html'
+		;
+

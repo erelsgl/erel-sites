@@ -1808,3 +1808,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-08-1619.html',
+		'<p>בספר איוב פרק ח כתוב:</p><p>יג כֵּן אָרְחוֹת כָּל שֹׁכְחֵי אֵל וְתִקְוַת חָנֵף תֹּאבֵד. [מדובר על שֹׁכְחֵי אֵל ולא על צדיקים]</p><p>יד אֲשֶׁר יָקוֹט כִּסְלוֹ וּבֵית עַכָּבִישׁ מִבְטַחוֹ. </p><p>טו יִשָּׁעֵן עַל בֵּיתוֹ וְלֹא יַעֲמֹד, יַחֲזִיק בּוֹ וְלֹא יָקוּם. </p><p>טז רָטֹב הוּא לִפְנֵי שָׁמֶשׁ וְעַל גַּנָּתוֹ יֹנַקְתּוֹ תֵצֵא. </p><p>יז עַל גַּל שָׁרָשָׁיו יְסֻבָּכוּ, בֵּית אֲבָנִים יֶחֱזֶה. </p><p>יח אִם יְבַלְּעֶנּוּ מִמְּקוֹמוֹ וְכִחֶשׁ בּוֹ לֹא רְאִיתִיךָ. [לא ראה את אלהים לאמור לא היה ירא אלהים]</p><p>יח אִם יְבַלְּעֶנּוּ מִמְּקוֹמוֹ =  וּכְסִיל אָדָם יְבַלְּעֶנּוּ </p><p>בספר משלי פרק כא כתוב:</p><p>(כ) אוֹצָר נֶחְמָד וָשֶׁמֶן בִּנְוֵה חָכָם וּכְסִיל אָדָם יְבַלְּעֶנּוּ </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-17 08:36:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-08-1619.html',
+		'<p>1. בספר איוב פרק ח כתוב:</p><p>יג כֵּן אָרְחוֹת כָּל שֹׁכְחֵי אֵל וְתִקְוַת חָנֵף תֹּאבֵד. [מדובר על שֹׁכְחֵי אֵל ולא על צדיקים]</p><p>יד אֲשֶׁר יָקוֹט כִּסְלוֹ וּבֵית עַכָּבִישׁ מִבְטַחוֹ.</p><p>טו יִשָּׁעֵן עַל בֵּיתוֹ וְלֹא יַעֲמֹד יַחֲזִיק בּוֹ וְלֹא יָקוּם.</p><p>טז רָטֹב הוּא לִפְנֵי שָׁמֶשׁ וְעַל גַּנָּתוֹ יֹנַקְתּוֹ תֵצֵא.</p><p>יז עַל גַּל שָׁרָשָׁיו יְסֻבָּכוּ בֵּית אֲבָנִים יֶחֱזֶה.</p><p>יח אִם יְבַלְּעֶנּוּ מִמְּקוֹמוֹ וְכִחֶשׁ בּוֹ לֹא רְאִיתִיךָ. [לא ראה את אלהים לאמור לא היה ירא אלהים]</p><p>יח אִם יְבַלְּעֶנּוּ מִמְּקוֹמוֹ = וּכְסִיל אָדָם יְבַלְּעֶנּוּ</p><p>בספר משלי פרק כא כתוב:</p><p>(כ) אוֹצָר נֶחְמָד וָשֶׁמֶן בִּנְוֵה חָכָם וּכְסִיל אָדָם יְבַלְּעֶנּוּ</p><p>2. עץ הרימון שבימינו מקורו מפרס-איראן ולא מארץ ישראל והוא לא באמת עץ הרימון </p><p>עץ התפוזים של ימינו הוא הנקרא במקרא רימון  </p><p>רימון הוא למעשה תפוז [התפו&quot;ז ר&quot;ת תפוח זהב וזו היא עברית מאוחרת כי לא ידעו לזהות את התפוז כרימון המקראי]</p><p>(ב) אֶנְהָגֲךָ אֲבִיאֲךָ אֶל בֵּית אִמִּי תְּלַמְּדֵנִי אַשְׁקְךָ מִיַּיִן הָרֶקַח מֵעֲסִיס רִמֹּנִי.</p><p>ואכן יש מיץ עסיס לתפוז הוא הרימון המקראי</p><p>(יג) שְׁלָחַיִךְ פַּרְדֵּס רִמּוֹנִים עִם פְּרִי מְגָדִים כְּפָרִים עִם נְרָדִים.</p><p>פרדס זה רק לתפוזים פרי הדר</p><p>(ז) כְּפֶלַח הָרִמּוֹן רַקָּתֵךְ מִבַּעַד לְצַמָּתֵךְ.אכן יש פלח ופלחים לתפוז</p><p>וגם כשכתוב בספר שיר השירים &quot;הנצו רימונים&quot; אכן ניצת התפוז ידועה בריח פריחתה</p><p> ומפיקים ממנה את השמן הארומתי &quot;נרולי&quot; </p><p>ומעלי עץ התפוזים מפיקים את השמן הארומתי &quot;פטיטגריין&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-17 08:55:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-17 08:55:50' 
+			WHERE messageid=4686;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-08-1619.html',
+		'<p>כי האדם עץ השדה...</p><p>וגם איוב עצמו חוזר על הרעיון הזה:</p><p>איוב יד7: &quot;כי יש לעץ תקוה אם יכרת ועוד יחליף וינקתו לא תחדל&quot;</p><p>האם אתה מתחיל סופסוף לפרש את איוב, אחרי משלי?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-09-17 09:14:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-08-1619.html',
+		'<p>ייקח לי עוד זמן להגיע לאיוב... כתבתי את זה רק בעקבות הסיפור</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-09-17 12:46:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום לכם אני זקוקה להלוואה דחופה ביותר בבקשה תעזרו ליייי</p><p>אני זקוקה לכם אתם הפיתרון היחיד שלי </p><p>תחזרו אליי 0502111144</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlxCyItBR0NVhlxI3MzOFJfKl7e5mQzwZs',
+		'בת אל לוי',
+		'2014-09-17 22:29:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/jmita/mtkon_halav.html',
+		'<p>יתכן שיהיה טוב למעט לאכול פירות וירקות של שביעית כדי לא להעמיס על החקלאים  אבל יש דעות שאומרות שיש מצווה באכילת פירות הקדושות בפירות שביעית  וכן ניראה והקדושה משפיע גם על בריות הגוף והנפש והנשמה   </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmrZQAaPGIBf_XPkXy0JrQkwCRk3tWpIyk',
+		'Rephael Boccara',
+		'2014-09-18 06:29:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/jmita/mtkon_halav.html',
+		'<p>יתכן שיהיה טוב למעט לאכול פירות וירקות של שביעית כדי לא להעמיס על החקלאים  אבל יש דעות שאומרות שיש מצווה באכילת פירות הקדושות בפירות שביעית  וכן ניראה והקדושה משפיע גם על בריות הגוף והנפש והנשמה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmrZQAaPGIBf_XPkXy0JrQkwCRk3tWpIyk',
+		'Rephael Boccara',
+		'2014-09-18 06:30:56'
+		)
+		;
+
