@@ -1899,3 +1899,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3107_0.html',
+		'<p>האם יתכן שהעצה/הנחייה &quot;אל תהיה צדיק הרבה&quot; נובעת מן ההשקפה של קהלת שבעצם, האלוהים עצמו אינו עסוק בצדק או בעשייתו. אם תרצה להבין את מעשי האלוהים עפ&quot;י מידת הצדק לא תמצא תמיד תשובה. משכך שאף אתה, אל תנסה לעבור את תקרת הצדק הסבירה בעבור האדם שהרי האלוהים אינו דורש זאת כלפיו ואף הוא עצמו אינו &quot;צדיק הרבה&quot;. </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlI7M6arNvgo8nCDJnwDhbTVqZxzI8MSzg',
+		'פסח כהן',
+		'2014-09-18 10:08:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-18 11:07:32' 
+			WHERE messageid=4692;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3107_0.html',
+		'<p>אבל גם למשל - דברים טז20: &quot;צדק צדק תרדף למען תחיה וירשת את הארץ אשר ה\' אלהיך נתן לך&quot; </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-09-18 11:20:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>כל אחד תופש את תפקיד האלוהים אחרת. אני אישית מאמין שהדתיים סילפו את התמונה הנכונה. 1) אין מותר האדם מן הבהמה. האדם אינו נזר הבריאה וכל הברואים שווים. אמא פרה גם סובלת וכואבת כאשר שוחטים את העגל שלה. 2) שמור לאלוהים על הבריאה. לדעתי זה חשוב לו יותר אפילו מקיום עשרת הדיברות ותרי״ג המיצוות.  ומאיפה אני מביא את זה ? מן הפסוק בספר שמות כמדומני : כי תצא למצור על אויבך....עצי הפרי שלו לא תשתמש , לא תיכרות ולא תשחית...(מהשהו כזה בערך) . זאת אומרת לוחמים אינם רשאים להגן על עצמם </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkLLqwtf7O_vXykp-3MytHwdfjfuz6MMTk',
+		'שחמט סיני ישראל',
+		'2014-09-18 22:14:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>כי האדם עץ השדה. לוחמים בסכנת חיים אינם רשאים לכרות עצי פרי לבנות אייל ניגוח או גג מגן משמן רותח, תוך השחתת עצי פרי של האוייב. לא כל שכן האדם מצווה לחוס ולחמול  גם על בעלי החיים באשר הם. מכאן שמור לו על הבריאה שלו. עליהם להביא עצי סרק חסרי פרי הרחק משיטחם , גם אם זה מהווה טירטור וסכנה ללוחמים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkLLqwtf7O_vXykp-3MytHwdfjfuz6MMTk',
+		'שחמט סיני ישראל',
+		'2014-09-18 22:18:09'
+		)
+		;
+

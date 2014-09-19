@@ -716,3 +716,97 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/jmita/mtkon_halav.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 10:08:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3107_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 11:20:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3107_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_93.html',
+				NULL,
+				'2014-09-18 19:23:37',
+				'2014-09-18 19:23:37',
+				'על רגל אחת',
+				'אלברט שבות',
+				'ashabot @ walla.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-18 19:23:37'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-18 19:23:37'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2617.htm',
+				'tnk1/messages/ykwl_hyh_lrbe_megl.pdf',
+				NULL,
+				'2014-09-18 19:56:32',
+				'2014-09-18 19:56:32',
+				'אוקלידס יכול היה לרבע מעגל',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 22:14:28'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-18 22:18:09'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_39.html',
+				NULL,
+				'2014-09-18 23:22:44',
+				'2014-09-18 23:22:44',
+				'על \"הגיבורים שלי\" מאת יאיר לפיד',
+				'חגי הופר',
+				''
+			)
+		;
+
