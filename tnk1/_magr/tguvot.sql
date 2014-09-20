@@ -1954,3 +1954,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>אני מעלה להלן את השיח שלי בנידון עם פרופ\' חמי בן נון  (https://www.facebook.com/chemi.b.noon)</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-09-19 14:27:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>פרופ\' בן נון: אלברט יקר, היכן כלל מאמריך הקרויים &quot;עמלק&quot;? מצאתי אחד מהם בניוז 1 אבל לא מצאתי את השאר. זאת בהמשך לדיונך על רצון חופשי ודטרמיניזם (בלי לקרוא לזה בשם...). אגב, בדוקטורט שלי יש פרק נרחב ביותר על שאלת הדטרמיניזם מול רצון חופשי על מנת לטעון, בין היתר, כי תחום המשפט אינו יכול להתקיים בלי הנחת הרצון החופשי ובאותו רגע שרצון זה אינו קיים באמת מתמוטט לו תחום שלם (60 אלף עורכי דין, 1000 שופטים ומערכות עצומות באדם ותקציב, כולל מערכות קשורות - לדעתי כ-200 אלף איש). בנסיבות אלה קשה לראות את המערכת מתוטטת על אף שאין בה צורך קיומי. שבת שלום</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-09-19 14:28:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-09-19 14:30:01' 
+			WHERE messageid=4698;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>פרופ\' בן נון: אלברט יקר, היכן כלל מאמריך הקרויים &quot;עמלק&quot;? מצאתי אחד מהם בניוז 1 אבל לא מצאתי את השאר. זאת בהמשך לדיונך על רצון חופשי ודטרמיניזם (בלי לקרוא לזה בשם...). אגב, בדוקטורט שלי יש פרק נרחב ביותר על שאלת הדטרמיניזם מול רצון חופשי על מנת לטעון, בין היתר, כי תחום המשפט אינו יכול להתקיים בלי הנחת הרצון החופשי ובאותו רגע שרצון זה אינו קיים באמת מתמוטט לו תחום שלם (60 אלף עורכי דין, 1000 שופטים ומערכות עצומות באדם ותקציב, כולל מערכות קשורות - לדעתי כ-200 אלף איש). בנסיבות אלה קשה לראות את המערכת מתוטטת על אף שאין בה צורך קיומי. שבת שלום</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-09-19 14:30:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>שלום פרופ\' בן נון ולכבוד לנהל את השיחה איתך.</p><p>כידוע לנו פרופ\' בן נון, התפיסה האנושית חלוקה לשניים: יש המצדד בדטרמיניזם ויש ברצון החופשי. אם נשתמש במונח התלמודי &quot;מלאכות ותולדותיהן&quot; אזי האמונה או אי האמונה בקיום אלוהים היא מלאכת האב, וכל היתר הן תולדות, כמו הראייה המשפטית בעדשת הדטרמיניזם מול הרצון החופשי שהיצגת בעבודת הדוקטורט שלך. </p><p>ידוע עוד כי משחר ההסטוריה היו נסיונות ליצור אופציה נוספת מעבר לשניים הקיימים- דטרמיניזם והרצון החופשי. ביטוי קרוב לזאת נוסח ע&quot;י רבי עקיבא: &quot;הכל צפוי והרשות נתונה&quot;, כלומר שעל אף שהכל ידוע וצפוי בעיני השם– הרשות נתונה בידי האדם לעשות כרצונו. למיותר לציין כי הניסוח הזה מתעלם מהסתירה הישירה העולה ממנו: הכיצד תעמוד הבמה החופשית לקיום הרצון כאשר הדטרמיניזם קיים והכל ידוע, ומעבר לזאת זו השקפה פילוסופית המגובה באמונה בקיום אלהים וכזאת, היא רחוקה מהעין האנושית הבוחנת ומהגיבוי המדעי הסיבתי. לשמחתי הרבה פרופ\' בן נון מצאתי גיבוי פיזיקלי לאימרה וכך אותה ההשקפה הפילוסופית הפכה לקביעה מדעית. זה הנושא שאני מעלה אותו בסדרת &quot;עמלק&quot; והכתובת שלה להלן.</p><p>http://tora.us.fm/tnk1/messages/sofrim_shabot_mda_44.html</p><p> </p><p>לא יודע אם ברצונך להגיב על דברי, ובכל אופן אודה לך פרופ\' בן נון אם תרשה לי להעביר את השיח בינינו אל פוסט הפייסבוק של המאמר, כי כוונתי להביא את הנושא הזה להכרה רחבה עד כמה שאפשר. </p><p>שבת שלום / אני חי בפנמה, מרכז אמריקה.</p><p>אלברט שבות</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-09-19 14:30:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_93.html',
+		'<p>פרופ\' בן נון: בטח שתוכל להעלות כל שיחה בינינו. אקרא  בעיון מה שכתבת. הנושא מרתק.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-09-19 14:31:16'
+		)
+		;
+

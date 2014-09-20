@@ -810,3 +810,66 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-19 14:27:53'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-19 14:28:51'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-19 14:30:08'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-19 14:30:35'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-19 14:31:16'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_93.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/index.html',
+				'tnk1/messages/eqb_jwxd_rwxny_wprjt_jwpfym_jwxd_gjmy.pdf',
+				NULL,
+				'2014-09-19 14:56:46',
+				'2014-09-19 14:56:46',
+				'פרשת עקב שוחד רוחני ופרשת שופטים שוחד גשמי ',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-19 14:56:46'
+			WHERE ktovt_bn='tnk1/msr/index.html';
+
