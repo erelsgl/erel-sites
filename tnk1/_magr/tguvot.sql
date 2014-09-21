@@ -2021,3 +2021,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>טוב ללכת לישון כעני ואז יראה אותך אלהים ולמחרת יקימך עשיר </p><p>אסור לאכול בלילה לפני השינה כי יראה אלהים כי עשיר אתה על כן תהיה עני למחרת</p><p>ועל פי ספר איוב פרק כז כתוב:</p><p>(יט) עָשִׁיר יִשְׁכַּב וְלֹא יֵאָסֵף עֵינָיו פָּקַח וְאֵינֶנּוּ. </p><p>(כ) תַּשִּׂיגֵהוּ כַמַּיִם בַּלָּהוֹת לַיְלָה גְּנָבַתּוּ סוּפָה. </p><p>(כא) יִשָּׂאֵהוּ קָדִים וְיֵלַךְ וִישָׂעֲרֵהוּ מִמְּקֹמוֹ. </p><p>(כב) וְיַשְׁלֵךְ עָלָיו וְלֹא יַחְמֹל מִיָּדוֹ בָּרוֹחַ יִבְרָח. </p><p>(כג) יִשְׂפֹּק עָלֵימוֹ כַפֵּימוֹ וְיִשְׁרֹק עָלָיו מִמְּקֹמוֹ.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-21 06:13:49'
+		)
+		;
+
