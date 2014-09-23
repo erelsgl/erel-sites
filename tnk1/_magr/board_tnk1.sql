@@ -913,3 +913,57 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/hstbrut.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sipur.html',
+				'http://www.mifgashim.biz/%D7%99%D7%95%D7%9E%D7%9F%D7%9E%D7%A1%D7%A2/%D7%A1%D7%99%D7%9B%D7%95%D7%9E%D7%99%D7%9E%D7%A1%D7%A2/tabid/123/articleType/ArticleView/articleId/38/----.aspx',
+				NULL,
+				'2014-09-22 18:47:50',
+				'2014-09-22 18:47:50',
+				'הפילגש בגבעה - הסיפור שלי',
+				'עמי מעודד',
+				'אתר מפגשים'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-22 18:47:50'
+			WHERE ktovt_bn='tnk1/sig/9sipur.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_620.html',
+				NULL,
+				'2014-09-22 20:00:32',
+				'2014-09-22 20:00:32',
+				'פרשת האזינו/הנבואה לגאולת ישראל-תפילה לבואה בשנה החדשה/אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-09-22 20:00:32'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-23 07:44:31'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+

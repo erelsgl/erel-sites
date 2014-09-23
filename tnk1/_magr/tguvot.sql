@@ -2057,3 +2057,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק להלוואה דחופה אשמח אם תצרו איתי קשר0528014441</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlYcKeMpOjjSPB-K7E9FguGm5WUTEi94AQ',
+		'Yossi Tery',
+		'2014-09-23 07:44:31'
+		)
+		;
+
