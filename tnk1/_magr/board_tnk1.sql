@@ -967,3 +967,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-23 14:01:43'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-09-23 18:21:05'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/onot.html'
+		;
+

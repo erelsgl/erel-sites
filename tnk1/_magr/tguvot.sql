@@ -2069,3 +2069,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>מעוניין בהלוואה עד 30.000 שח רועי 054-5657626</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn4Q4BgRxe2vY2fV76KH4o29DOcDDfxcfA',
+		'Roee Biton',
+		'2014-09-23 14:01:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/onot.html',
+		'<p>הפנו אותי לזה, מקור מעניין, שדי תומך במה שנכתב כאן:</p><p>http://tarbut.cet.ac.il/ShowItem.aspx?ItemID=ef4680b0-baae-4d47-ad8e-1adad50f14c3&amp;lang=HEB</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-09-23 18:21:05'
+		)
+		;
+
