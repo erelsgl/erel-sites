@@ -2093,3 +2093,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/onot.html',
+		'<p>יש רק שתי עונות</p><p>רק חורף וקיץ</p><p>כאשר הקור מתייחס לחורף </p><p>והחום מתייחס לקיץ</p><p>גם זרע וקציר הן פעולות חקלאיות כאשר הזרע מתייחס לחורף והקציר מתייחס לקיץ</p><p>גם היום והלילה מתייחסים לעונות כאשר..</p><p>יום מתייחס לקיץ כי אור היום ארוך משעות החשכה</p><p>והלילה מתייחס לחורף כי שעות החשכה ארוכות מאור היום</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-24 12:04:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5603.html',
+		'<p>הרש&quot;ג רבי שלמה גלבגיסר נצר למשפחת רבנים שעלו לארץ ישראל בשנת 1881</p><p>והתישבו במושבה המיתולוגית משמר הירדן אבי סבו של הרש&quot;ג ר\' חיים גלבגיסר</p><p>היה מראשוני המושבה ובנו ר\' יעקב גלבגיסר הקים בית כנסת בגבעתיים לזכר שני</p><p>בניו התאומים שנפלו במלחמת השחרור במאבק להקמה מדינה יהודית בא&quot;י, בית</p><p>הכנסת אוהל ש&quot;ם ניתן על שמם  של בניו התאומים שלמה ומנחם הי&quot;ד והוא נמצא</p><p>ברחוב פועלי הרכבת בגבעתיים.</p><p>    משפחת רבי חיים גלבגיסר שעלה בגפו לארץ התרחבה והיא מונה עשרות רבות</p><p>של צאצאים בן פורת יוסף והם השתלבו בכל תחומי החיים בארץ.</p><p>   הרש&quot;ג מנהל אורח חיים  חילוני לחלוטין אולם מרבה בלימוד ופלפולים בגמרא</p><p>ואף מסייע בהשכנת שלום בין הבריות.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkQ4XfrYN12AXW_EWXb8ZGTfQFSZi2tsfs',
+		'שלמה גלבגיסר',
+		'2014-09-24 13:44:40'
+		)
+		;
+
