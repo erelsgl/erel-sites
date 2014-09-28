@@ -1039,3 +1039,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-23-09.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9philosophy.html',
+				'tnk1/messages/msr_9philosophy_0.html',
+				NULL,
+				'2014-09-27 16:26:40',
+				'2014-09-27 16:26:40',
+				'הרמב\"ם מול קאנט: שתי נקודות',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0704.htm',
+				'tnk1/messages/qyn_bcennym_ajr_at_qdj.pdf',
+				NULL,
+				'2014-09-27 18:58:38',
+				'2014-09-27 18:58:38',
+				'אות קין בצעננים אשר את קדש',
+				'רמי ניר  ',
+				''
+			)
+		;
+
