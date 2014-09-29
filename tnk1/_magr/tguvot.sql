@@ -2153,3 +2153,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>הינני נכה מאה אחוז שלאחרונה נקלעתי לבעיה כספית גדולה צריך עזרה דחופה עד שאתחיל לעבוד במקום העבודה החדש היה קשה לי מאוד למצוא מקום עבודה שיקבל אותי עקב בעיות הבריאות שאני עובר ואי לכך ניכנסתי לתקופה כלכלית קשה מאוד שבע&quot;ה ובעזרתכם אני אוכל לצאת מימנה ולנהל חיים נורמלים כמו כל עם ישראל בתודה מראש קורן שבתאי טלפון0505757781 חג שמח ושנה טובה </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmoguY-PhYebf85NS49bEv8Pn8SvXx1bp0',
+		'שבתאי קורן',
+		'2014-09-28 08:28:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-15.html',
+		'<p>כהמשך לפסוקים הקודמים אפשר לומר שהולך רכיל הוא זה שמגלה סוד השם ולוקח עצמו למקומות זרים וכיון שלא מתייעץ עם אחרים אם ראוי לעשות זאת אלא בוטח הוא בעצמו ונעשה &quot;ערב&quot; לכל מיני חכמות זרות כדי &quot;לייהד&quot; אותם ולעלות ניצוצות. ועל זה נאמר שבסופו של דבר יצא מזה דבר רע.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnv9zfZJMy8F8mPcHTe0IPH73FQG_xEas8',
+		'давид альтман',
+		'2014-09-28 20:17:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-15.html',
+		'<p>משלי יא15: &quot;רַע יֵרוֹע כִּי עָרַב זָר וְשֹׂנֵא תֹקְעִים בּוֹטֵחַ&quot;</p><p>תקיעת כף = לחיצת יד והגעה להסכם בין בני אדם הבוטחים אחד בשני</p><p>ובימי קדם ועד היום תוקעים כף כאשר בוטחים באדם שלוחצים לו את היד אם זה בלקיחת אשה אשר קונה האדם או בכל מסחר עסקה ודיל</p><p>ומי ששונא לתקוע כף למעשה הוא בוטח באלהים כי שונא לבטוח באדם</p><p>רַע יֵרוֹע כִּי עָרַב זָר = זָר זה מי שלא בקודש ואין לבטוח בזר כי הוא יעשה לך רע או שיעקוץ אותך כמו שמראים לנו בכלבוטק עם רפי גינת </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-29 06:17:53'
+		)
+		;
+
