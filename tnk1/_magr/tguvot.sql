@@ -2189,3 +2189,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/haotot_ljaul.html',
+		'<p>אפשר לכתוב מדוע המחבר המקראי מציין רק את התגשמות האות השלישית בלבד?</p><p>זה ממש דחוף!!!!</p><p>תודה למענה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkhiz2sAX1USBCojHWdxc1YNWrYWPhOVBA',
+		'דורון טויטו',
+		'2014-09-29 13:35:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/haotot_ljaul.html',
+		'<p>המפה המשורטטת לא נכונה בעליל</p><p>כי אתה לא מבין כי קְבֻרַת רָחֵל בִּגְבוּל בִּנְיָמִן בְּצֶלְצַח זה בירושלים הצפונית</p><p>וירושלים היא בית לחם !!!! קראו נא בקישור את מאמרי בעניין זה</p><p>http://tora.us.fm/tnk1/messages/prqim_t0148_2.html</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-09-29 17:37:15'
+		)
+		;
+
