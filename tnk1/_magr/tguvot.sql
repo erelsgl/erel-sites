@@ -2213,3 +2213,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/haotot_ljaul.html',
+		'<p>תשובה לדורון טויטו</p><p>כתבתי מאמר שלם על האותות ואני חושבת שתוכל למצוא שם תשובות. המאמר פורסם גם באתר הניווט בתנך וגם באתר אימגו</p><p>כותרת המאמר</p><p>שאול המלך</p><p>חלק ד: שלושה אותות בדרך חזרה</p><p>(שמואל א, י: ב – ז)</p><p>http://www.e-mago.co.il/magazine/king-saul-3signs.html</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-09-30 15:00:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה באופן דחוף ביותר להלוואה אין לי דרך אחרת לקבל בכל מקום חוסמים אותי .אנא אל תשאירו אותי לבדה במערכה הקשה שאני עוברת כבר תקופה ארוכה .אתם הפיתרון האחרון שנשאר לי תעזרו לי בבקשה ומין השמיים תבורכו כפל כפליים. צרו איתי קשר דחוף למספר 0527645598 או 0522408551</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkRfP19iCBGvKjV-20lCuzJd_F9JWPBBlU',
+		'חנה אקרמן',
+		'2014-10-01 07:25:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>אני זקוקה באופן דחוף ביותר להלוואה עקב מצב כלכלי קשה ביותר מכל מקום חוסמים אותי ואתם הפתרון האחרון שנשאר לי. בבקשה תעזרו לי לצאת מהמצב הקשה ובלתי נסבל שעליו נקלענו. בעלי ואני אנשים עם נכות וכל הכנסותינו הן מביטוח לאומי. אין לי משפחה אני יתומה עגולה ובעלי יתום מאב חולה במחלות מורכבות יותר מ 23 שנה. אנא צרו איתי קשר 0527645598 או 0522408551</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkRfP19iCBGvKjV-20lCuzJd_F9JWPBBlU',
+		'חנה אקרמן',
+		'2014-10-01 07:31:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום ושנה טובה לכם.אני זקוקה באופן דחוף ביותר להלוואה עד 45000 שקל. כולם חוסמים אותי ולא נותר לי אלא לבקש שתעזרו לי מהר מהר לפני שיהיה מאוחר אני וגם בעלי אנשים נכים ונקלענו למצב כלכלי בילתי נסבל ץתתקשרו אלי חנה 0527645598 או 0522408551</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkRfP19iCBGvKjV-20lCuzJd_F9JWPBBlU',
+		'חנה אקרמן',
+		'2014-10-01 07:38:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>בספר בראשית פרק יז כתוב:</p><p>(יט)  וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךָ יֹלֶדֶת לְךָ בֵּן וְקָרָאתָ אֶת-שְׁמוֹ יִצְחָק וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתּוֹ לִבְרִית עוֹלָם לְזַרְעוֹ אַחֲרָיו.</p><p> אֲבָל שָׂרָה אִשְׁתְּךָ יֹלֶדֶת לְךָ בֵּן =  אֵבֶל שָׂרָה אִשְׁתְּךָ יֹלֶדֶת לְךָ בֵּן</p><p>כי הבן יצחק נולד בזכות אֵבֶל שָׂרָה והתענותה לפני אלהים </p><p>כי שרה התאבלה על זה שאין לה בן ואלהים בסוף שימח אותה בבן לכבוד אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-01 07:49:38'
+		)
+		;
+
