@@ -206,7 +206,7 @@ if ($current_userid) {
 	if (!$author)
 		$author=$name_for_display_windows1255;
 } elseif (($username_utf8===$AUTHORIZED_EDITORS[0] && $password===$AUTHORIZED_EDITORS[1])
-|| ($username_utf8===$AUTHORIZED_EDITORS[7] && $password===$AUTHORIZED_EDITORS[7])) {
+|| ($username_utf8===$AUTHORIZED_EDITORS[7]) {
 	$greeting ="<p>שלום $username, באפשרותך להוסיף ולערוך מאמרים.</p>\n";
 	$current_username = $username;
 	$current_role = 'editor';
