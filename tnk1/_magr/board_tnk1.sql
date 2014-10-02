@@ -1181,3 +1181,73 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t25b35_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-01 13:16:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-01 16:32:19'
+		WHERE ktovt_bn='tnk1/ktuv/mj/24-02.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/index.html',
+				'tnk1/messages/hmspr_18_btwrh_hqjr_byn_thylym_kf_18_amt_wjqr.pdf',
+				NULL,
+				'2014-10-01 20:38:15',
+				'2014-10-01 20:38:15',
+				'מהות המספר 18 בתורההקשר בין תהילים כט,18,אמת ושקר',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-01 20:38:15'
+			WHERE ktovt_bn='tnk1/msr/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-01 20:42:39'
+		WHERE ktovt_bn='tnk1/messages/msr_9philosophy_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_621.html',
+				NULL,
+				'2014-10-01 20:49:41',
+				'2014-10-01 20:49:41',
+				'עליה בסולם התשובה והקדושה- אל פסגת השמחה- כיצד?/אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-01 20:49:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+

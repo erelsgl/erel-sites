@@ -2273,3 +2273,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>לדרוש אלהים            = זה לדרוש את דברו ועצתו כאשר אבודים אובדי עצות</p><p>לקרוא לאלהים          = זה לקרוא לעזרתו למען יבוא להושיע</p><p>לבקש את פני אלהים  = שיתלבשו פני אלהים על פניך וינעם לך מזיו פניו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-01 13:16:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/24-02.html',
+		'<p>עמל כומר עבודה ועמל כפיים מדבר רק בשפתם שזה משהו חיצוני בזמן שבפנים בתוך ליבם הם רק חושבים איך להשיג כסף קל באממעות שוד וכדומה  </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkRj3IjY_L-OY4VPEinOeBMcr_ozw-rBi8',
+		'ינון ולאה עטיה',
+		'2014-10-01 16:32:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/msr_9philosophy_0.html',
+		'<p>תגובה לזה ניתן למצוא כאן:</p><p>http://menahemsemah.blogspot.co.il/2014/10/blog-post.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-01 20:42:39'
+		)
+		;
+
