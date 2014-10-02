@@ -194,6 +194,7 @@ $current_userid_quoted = quote_all($current_userid); // important! leading zeros
 $AUTHORIZED_EDITORS = preg_split("/[\r\n]+/", file_get_contents("$SCRIPT/../authorized_editors.txt"));
 $username_windows1255 = $username;
 $username_utf8 = windows1255_to_utf8($username);
+$password_utf8 = windows1255_to_utf8($password);
 if ($current_userid) {
 	$name_for_display_utf8 = $name_for_display;
 	$name_for_display_windows1255=utf8_to_windows1255($name_for_display);
@@ -205,8 +206,8 @@ if ($current_userid) {
 		$username=$name_for_display_windows1255;
 	if (!$author)
 		$author=$name_for_display_windows1255;
-} elseif (($username_utf8===$AUTHORIZED_EDITORS[0] && $password===$AUTHORIZED_EDITORS[1])
-|| ($username_utf8===$AUTHORIZED_EDITORS[7])) {
+} elseif (($username_utf8===$AUTHORIZED_EDITORS[0] && $password_utf8===$AUTHORIZED_EDITORS[1])
+|| ($username_utf8===$AUTHORIZED_EDITORS[7] && $password_utf8===$AUTHORIZED_EDITORS[7])) {
 	$greeting ="<p>שלום $username, באפשרותך להוסיף ולערוך מאמרים.</p>\n";
 	$current_username = $username;
 	$current_role = 'editor';
