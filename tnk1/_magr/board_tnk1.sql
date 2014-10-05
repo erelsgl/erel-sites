@@ -1267,3 +1267,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/msr_9philosophy_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 02:54:05'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-22-05.html'
+		;
+

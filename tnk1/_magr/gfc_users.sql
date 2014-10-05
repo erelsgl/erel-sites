@@ -1149,3 +1149,9 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-10-03 13:11:25','https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY','אלברט שבות');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-05 02:46:33','https://www.google.com/accounts/o8/id?id=AItOawlgVgO4Hl5a9n20vXraOrxYu4zDE6CwUgo','Saul D');
+
