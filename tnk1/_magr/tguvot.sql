@@ -2345,3 +2345,146 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-22-05.html',
+		'<p>בספר תהילות פרק יח כתוב:</p><p>(כו) עִם חָסִיד תִּתְחַסָּד עִם גְּבַר תָּמִים תִּתַּמָּם.</p><p>(כז) עִם נָבָר תִּתְבָּרָר וְעִם עִקֵּשׁ תִּתְפַּתָּל.</p><p>מוסר ההשכל הוא מידה כנגד מידה</p><p> וְעִם עִקֵּשׁ תִּתְפַּתָּל.= כי העקש דרכו נפתלה ויש ללכת נגדו גם בדרך נפתלות</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 08:16:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>האם קיימת ראיה שהכדור עגול מהגמרא ולא מעבר ...תודה.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmth3WRkQEx_mycgbl3-MRiYyKW8A2x2_s',
+		'שם טוב ידיד',
+		'2014-10-05 10:12:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>כדור הארץ בטרם הבריאה היה כמצבור צביר של תהו-ובהו</p><p>ומה זה תהו ובהו</p><p>ובכן תהו אלה  מים נוזלים וגזים </p><p>ובהו זה האבנים המוצקים</p><p>וכל החומרים האלה היו מעורבבים אחד עם האחר</p><p>לכן הארץ הייתה אך היה (בלגן) תהו-ובהו </p><p>מה שאלהים עשה זה להפריד בין כל התכות השונות ולהבדילם כל אחד לחוד</p><p>שהזהב יהיה זהב ולא מעורבב עם הכסף והבדיל והנחושת ומתכות אחרות</p><p>וככה ברא אלהים את השמים אשר הם מים המקיפים את כל כדור הארץ וככה השמים מעל נבדלו מן הארץ למטה מתחת למים</p><p>וביום השני הבדיל בין מים למים כאשר המים העליונים הם המים הגבוהים רוחנית אלה מי הגשמים הטהורים שעלו בזיקוק באדים מן המים התחתונים זה הים </p><p>וביום השלשי נקוו המים אל מקום אחד בזכות כח הכבידה כי יש הבדלי גבהים בארץ והמעמקים שם מקום הימים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 13:54:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>כדור הארץ בטרם הבריאה היה כמצבור צביר של תהו-ובהו</p><p>ומה זה תהו ובהו</p><p>ובכן תהו = אלה מים נוזלים וגזים</p><p>ובהו  = זה האבנים המוצקים</p><p>וכל החומרים האלה היו מעורבבים אחד עם האחר</p><p>לכן הארץ הייתה אך היה (בלגן) תהו-ובהו</p><p>מה שאלהים עשה זה להפריד בין כל התכות השונות ולהבדילם כל אחד לחוד</p><p>שהזהב יהיה זהב ולא מעורבב עם הכסף והבדיל והנחושת ומתכות אחרות</p><p>וככה ברא אלהים את השמים אשר הם מים המקיפים את כל כדור הארץ וככה השמים מעל נבדלו מן הארץ למטה מתחת למים</p><p>וביום השני הבדיל בין מים למים כאשר המים העליונים הם המים הגבוהים רוחנית אלה מי הגשמים הטהורים שעלו בזיקוק באדים מן המים התחתונים זה הים</p><p>וביום השלשי נקוו המים אל מקום אחד בזכות כח הכבידה כי יש הבדלי גבהים בארץ והמעמקים שם מקום הימים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 13:55:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>כדור הארץ בטרם הבריאה היה כמצבור צביר של תהו-ובהו</p><p>ומה זה תהו ובהו</p><p>תהו = אלה מים נוזלים וגזים</p><p>בהו = זה האבנים המוצקים</p><p>וכל החומרים האלה היו מעורבבים אחד עם האחר</p><p>לכן הארץ הייתה אך היה (בלגן) תהו-ובהו</p><p>מה שאלהים עשה זה להפריד בין כל התכות השונות ולהבדילם כל אחד לחוד</p><p>שהזהב יהיה זהב ולא מעורבב עם הכסף והבדיל והנחושת ומתכות אחרות</p><p>וככה ברא אלהים את השמים אשר הם מים המקיפים את כל כדור הארץ וככה השמים מעל נבדלו מן הארץ למטה מתחת למים</p><p>וביום השני הבדיל בין מים למים כאשר המים העליונים הם המים הגבוהים רוחנית אלה מי הגשמים הטהורים שעלו בזיקוק באדים מן המים התחתונים זה הים</p><p>וביום השלשי נקוו המים אל מקום אחד בזכות כח הכבידה כי יש הבדלי גבהים בארץ והמעמקים שם מקום הימים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 13:56:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-05 13:56:16' 
+			WHERE messageid=4732;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-05 13:56:19' 
+			WHERE messageid=4731;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>כדור הארץ בטרם הבריאה היה כמצבור צביר של תהו-ובהו</p><p>ומה זה תהו ובהו</p><p>תהו = אלה מים נוזלים וגזים</p><p>בהו = זה האבנים המוצקים</p><p>וכל החומרים האלה היו מעורבבים אחד עם האחר</p><p>לכן הארץ הייתה אך היה (בלגן) תהו-ובהו</p><p>מה שאלהים עשה זה להפריד בין כל המתכות השונות ולהבדילם כל אחד לחוד</p><p>שהזהב יהיה זהב ולא מעורבב עם הכסף והבדיל והנחושת ומתכות אחרות</p><p>וככה ברא אלהים את השמים אשר הם מים המקיפים את כל כדור הארץ וככה השמים מעל נבדלו מן הארץ למטה מתחת למים</p><p>וביום השני הבדיל בין מים למים כאשר המים העליונים הם המים הגבוהים רוחנית אלה מי הגשמים הטהורים שעלו בזיקוק באדים מן המים התחתונים זה הים</p><p>וביום השלשי נקוו המים אל מקום אחד בזכות כח הכבידה כי יש הבדלי גבהים בארץ והמעמקים שם מקום הימים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 13:57:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-05 13:57:17' 
+			WHERE messageid=4733;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/rqia_hjmym.html',
+		'<p>כדור הארץ בטרם הבריאה היה כמצבור צביר של תהו-ובהו</p><p>ומה זה תהו ובהו</p><p>תהו = אלה מים נוזלים וגזים</p><p>בהו = זה האבנים המוצקים</p><p>וכל החומרים האלה היו מעורבבים אחד עם האחר</p><p>לכן הארץ הייתה אך היה (בלגן) תהו-ובהו</p><p>ומה שאלהים עשה זה להפריד בין כל המתכות השונות ולהבדילם כל אחד לחוד</p><p>שהזהב יהיה זהב ולא מעורבב עם הכסף והבדיל והנחושת ומתכות אחרות</p><p>וככה ברא אלהים את השמים אשר הם מים המקיפים את כל כדור הארץ וככה השמים מעל נבדלו מן הארץ למטה מתחת למים</p><p>וביום השני הבדיל בין מים למים כאשר המים העליונים הם המים הגבוהים רוחנית אלה מי הגשמים הטהורים שעלו בזיקוק באדים מן המים התחתונים זה הים</p><p>וביום השלשי נקוו המים אל מקום אחד בזכות כח הכבידה כי יש הבדלי גבהים בארץ והמעמקים שם מקום הימים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-05 13:58:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-05 13:58:24' 
+			WHERE messageid=4734;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_7.html',
+		'<p>יפה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnEkOBqm88rwS8lKhA7V-isMvwzE-_w-70',
+		'איתן לוי',
+		'2014-10-06 03:47:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_7.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnEkOBqm88rwS8lKhA7V-isMvwzE-_w-70',
+		'איתן לוי',
+		'2014-10-06 03:47:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-06 03:48:04' 
+			WHERE messageid=4737;
+

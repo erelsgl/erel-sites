@@ -1275,3 +1275,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-22-05.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 08:16:20'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-22-05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 10:12:21'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 13:54:32'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 13:55:39'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 13:56:14'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 13:57:15'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-05 13:58:23'
+		WHERE ktovt_bn='tnk1/tora/brejit/rqia_hjmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-06 03:47:45'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_index_7.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-06 03:47:53'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_index_7.html'
+		;
+
