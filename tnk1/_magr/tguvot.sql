@@ -2488,3 +2488,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-06 03:48:04' 
 			WHERE messageid=4737;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה דחופה</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmsoRFvgN9htW0CiXqzBhIBnhLOMW2HBnY',
+		'מתן בן שושן',
+		'2014-10-06 19:51:48'
+		)
+		;
+
