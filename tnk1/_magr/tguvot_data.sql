@@ -2788,3 +2788,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/sofrim_hagay_index_7.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/hlwaa_mgmx.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-06 19:51:48'
+		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
