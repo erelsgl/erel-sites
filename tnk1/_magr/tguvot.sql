@@ -2500,3 +2500,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/14.html',
+		'<p>תודה על השעור ידעתי את מה שלא ידעתי הישכלתי מכל מלמדיי</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmqiHYA-YKQFilPz7HNgR1qawWg_esp0wk',
+		'avraham brhanu',
+		'2014-10-07 17:13:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-07 17:17:03' 
+			WHERE messageid=4739;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>קראתי בעניין את המאמר. משפט כמו </p><p>&quot;וראוי לומר שביהדות אין אני רואה דוגמה מחייבת ובלעדית, רק דוגמא לחוכמת-עם עתיקה, שבמקרה נולדתי לתוכה ואני מכיר אותה, אשר שווה לראות את ההשוואה אליה&quot;</p><p>מעיד על פתיחות ורחבות אפקים. </p><p>המאמר כתוב בחינניות רבה והחלוקה ליום האתמול, לבוקר ולצהרים שביום שלאחריו, מכניסה הומור מקלה מאוד על הקריאה. לא נותר לנו עכשיו אלא לחפש את ספריו של קרישנמורטי שמסתבר שכתב לפחות שלושים...</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-10-08 07:06:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-08 07:07:00' 
+			WHERE messageid=4740;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>קראתי בעניין את המאמר. משפט כמו </p><p>&quot;וראוי לומר שביהדות אין אני רואה דוגמה מחייבת ובלעדית, רק דוגמא לחוכמת-עם עתיקה, שבמקרה נולדתי לתוכה ואני מכיר אותה, אשר שווה לראות את ההשוואה אליה&quot;</p><p>מעיד על פתיחות ורחבות אפקים. </p><p>המאמר כתוב בחינניות רבה והחלוקה ליום האתמול, לבוקר ולצהרים שביום שלאחריו, מכניסה הומור ומקלה מאוד על הקריאה. לא נותר לנו עכשיו אלא לחפש את ספריו של קרישנמורטי שכתב, מסתבר, לפחות שלושים...</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-10-08 07:07:43'
+		)
+		;
+
