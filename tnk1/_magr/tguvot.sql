@@ -2550,3 +2550,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>תודה, הרבה ממה שכתב גם תורגם לעברית.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-08 08:43:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>תודה, הרבה ממה שכתב גם תורגם לעברית.</p><p>בקשר למה שציטטת, זה נכתב בהתאמה לחומר שאני דן בו, ואני עומד מאחוריו, אף שלמעשה הקשר שלי לתנ&quot;ך וליהדות הוא יותר עמוק מזה, מטבע הדברים. רק שאיני מציג אותה או רואה אותה כדוגמה מחייבת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-08 08:51:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-08 08:51:59' 
+			WHERE messageid=4742;
+

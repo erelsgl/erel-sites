@@ -1418,3 +1418,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 08:43:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 08:51:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
