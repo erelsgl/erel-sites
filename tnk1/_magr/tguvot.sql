@@ -2500,3 +2500,156 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/14.html',
+		'<p>תודה על השעור ידעתי את מה שלא ידעתי הישכלתי מכל מלמדיי</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmqiHYA-YKQFilPz7HNgR1qawWg_esp0wk',
+		'avraham brhanu',
+		'2014-10-07 17:13:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-07 17:17:03' 
+			WHERE messageid=4739;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>קראתי בעניין את המאמר. משפט כמו </p><p>&quot;וראוי לומר שביהדות אין אני רואה דוגמה מחייבת ובלעדית, רק דוגמא לחוכמת-עם עתיקה, שבמקרה נולדתי לתוכה ואני מכיר אותה, אשר שווה לראות את ההשוואה אליה&quot;</p><p>מעיד על פתיחות ורחבות אפקים. </p><p>המאמר כתוב בחינניות רבה והחלוקה ליום האתמול, לבוקר ולצהרים שביום שלאחריו, מכניסה הומור מקלה מאוד על הקריאה. לא נותר לנו עכשיו אלא לחפש את ספריו של קרישנמורטי שמסתבר שכתב לפחות שלושים...</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-10-08 07:06:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-08 07:07:00' 
+			WHERE messageid=4740;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>קראתי בעניין את המאמר. משפט כמו </p><p>&quot;וראוי לומר שביהדות אין אני רואה דוגמה מחייבת ובלעדית, רק דוגמא לחוכמת-עם עתיקה, שבמקרה נולדתי לתוכה ואני מכיר אותה, אשר שווה לראות את ההשוואה אליה&quot;</p><p>מעיד על פתיחות ורחבות אפקים. </p><p>המאמר כתוב בחינניות רבה והחלוקה ליום האתמול, לבוקר ולצהרים שביום שלאחריו, מכניסה הומור ומקלה מאוד על הקריאה. לא נותר לנו עכשיו אלא לחפש את ספריו של קרישנמורטי שכתב, מסתבר, לפחות שלושים...</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-10-08 07:07:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>תודה, הרבה ממה שכתב גם תורגם לעברית.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-08 08:43:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0534_1.html',
+		'<p>תודה, הרבה ממה שכתב גם תורגם לעברית.</p><p>בקשר למה שציטטת, זה נכתב בהתאמה לחומר שאני דן בו, ואני עומד מאחוריו, אף שלמעשה הקשר שלי לתנ&quot;ך וליהדות הוא יותר עמוק מזה, מטבע הדברים. רק שאיני מציג אותה או רואה אותה כדוגמה מחייבת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-08 08:51:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-08 08:51:59' 
+			WHERE messageid=4742;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-118-24.html',
+		'<p>מי שעושה משפט וצדקה שמח בְכָל עֵת.</p><p>ספר תהילות פרק קו כתוב: (ג) אַשְׁרֵי שֹׁמְרֵי מִשְׁפָּט עֹשֵׂה צְדָקָה בְכָל עֵת.</p><p>ספר משלי פרק כא כתוב: (טו) שִׂמְחָה לַצַּדִּיק עֲשׂוֹת מִשְׁפָּט וּמְחִתָּה לְפֹעֲלֵי אָוֶן </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-10 12:00:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-118-24.html',
+		'<p>אמר פעם רבי נחמן מברסלב לאחד &quot;אתן לך דרך לתשובה – שתרקוד בכל יום&quot;. ראה:</p><p>http://www.kipa.co.il/ask/show/228798-%D7%90%D7%99%D7%9A-%D7%90%D7%A4%D7%A9%D7%A8-%D7%9C%D7%A9%D7%9E%D7%95%D7%97-%D7%9B%D7%9C-%D7%94%D7%96%D7%9E%D7%9F</p><p>[ושיר נוסף אומר: יש לי יום יום חג, ועוד]</p><p>דבר אקטואלי לסוכות ניתן למצוא כאן, מתוך האתר הזה:</p><p>http://tora.us.fm/tnk1/messages/msr_0tov_0.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-10 13:17:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-118-24.html',
+		'<p>  </p><p>הנה עצתי לכם למי שרוצה לשמוח בשמחת אלהים אמת</p><p>[שמח בריא ומאושר]</p><p>1. לברך את יהוה בכל עת</p><p>2. לשים את אלהים לנגדך תמיד [בכל מצב להיות ירא אלהים]</p><p>בספר תהילות פרק טז כתוב:</p><p>ז אֲבָרֵךְ אֶת יְהוָה אֲשֶׁר יְעָצָנִי אַף לֵילוֹת יִסְּרוּנִי כִלְיוֹתָי.</p><p>ח שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד כִּי מִימִינִי בַּל אֶמּוֹט.</p><p>ט לָכֵן שָׂמַח לִבִּי וַיָּגֶל כְּבוֹדִי אַף בְּשָׂרִי יִשְׁכֹּן לָבֶטַח</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-10 13:41:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-2022.html',
+		'<p>&quot;אין אוצרין פירות דברים שיש בהן חיי נפש, כגון יינות שמנין וסלתות...</p><p>***ומותר לאדם לאצור פירות בארץ ישראל ג\' שנים: ערב שביעית, ושביעית, ומוצאי שביעית***&quot; (בבלי בבא בתרא צ:)</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-10 13:56:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>ברוח מחאת היורדים וחג הסוכות, אתחיל ב:</p><p>http://www.themarker.com/markerweek/1.2069919</p><p>&quot;לא חייבים להשתעבד למשכנתא או לשכירות: לבנות בית ב-100 אלף שקל&quot;</p><p>הכתבה מתארת מספר דרכים יצירתיות לבנות בית בזול, כגון: משאית, בקתת עץ, אוהל או יורט (מעין אוהל מונגולי). משום-מה שכחו לציין את הסוכה, שאפשר לבנות לגמרי בחינם תוך חצי יום. אבל כל הדרכים הללו דורשות קרקע: &quot;גם אם השתכנעתם לבנות יורט, אל תמהרו לשמוח. אתם עדיין צריכים למצוא מקום להניח אותו. זאת הבעיה הגדולה: ללא קרקע, גם קוני היורטים נתקעים, פחות או יותר, באותו מצב שבו נתקעים זוגות צעירים אחרים בישראל כשהם מחפשים בית. אמנם המחיר של בניית יורט נמוך משמעותית מבניית בית רגיל, אך את הקרקע עדיין צריך לרכוש&quot;.</p><p>דיני הנחלות והיובל שבתורה נועדו להבטיח שלכל אדם תהיה קרקע. אילו היינו מקיימים חוקים אלה, לא היה בישראל אדם אחד משועבד למשכנתא.</p><p>חג סוכות שמח! ושנזכה בקרוב לעבור מדירת עראי לדירת קבע.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-10 14:05:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p> אראל למה מדירת ארעי לדירת קבע הלא איננו קבועים פה </p><p>הלא אמר אלהים :</p><p>ויקרא כה23: &quot;והארץ לא תמכר לצמתת כי לי הארץ כי גרים ותושבים אתם עמדי&quot; </p><p>ספר ישעיהו פרק ד כתוב:</p><p>ב בַּיּוֹם הַהוּא יִהְיֶה צֶמַח יְהוָה לִצְבִי וּלְכָבוֹד וּפְרִי הָאָרֶץ לְגָאוֹן וּלְתִפְאֶרֶת לִפְלֵיטַת יִשְׂרָאֵל.</p><p>ג וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַ‍ִם קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלָ‍ִם. </p><p>ד אִם רָחַץ אֲדֹנָי אֵת צֹאַת בְּנוֹת צִיּוֹן וְאֶת דְּמֵי יְרוּשָׁלַ‍ִם יָדִיחַ מִקִּרְבָּהּ בְּרוּחַ מִשְׁפָּט וּבְרוּחַ בָּעֵר. </p><p>ה וּבָרָא יְהוָה עַל כָּל מְכוֹן הַר צִיּוֹן וְעַל מִקְרָאֶהָ עָנָן יוֹמָם וְעָשָׁן וְנֹגַהּ אֵשׁ לֶהָבָה לָיְלָה כִּי עַל כָּל כָּבוֹד חֻפָּה. </p><p>ו וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב וּלְמַחְסֶה וּלְמִסְתּוֹר מִזֶּרֶם וּמִמָּטָר</p><p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html</p><p> וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב וּלְמַחְסֶה וּלְמִסְתּוֹר מִזֶּרֶם וּמִמָּטָר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-10 14:47:19'
+		)
+		;
+

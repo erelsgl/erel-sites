@@ -1371,3 +1371,162 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-07 17:13:30'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_622.html',
+				NULL,
+				'2014-10-07 20:31:25',
+				'2014-10-07 20:31:25',
+				'שמחת בית השואבה/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-07 20:31:25'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 07:06:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 07:07:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 08:43:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-08 08:51:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0534_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0101.htm',
+				'tnk1/messages/prqim_t0101_52.html',
+				NULL,
+				'2014-10-09 16:14:22',
+				'2014-10-09 16:14:22',
+				'שבע האושפיזות',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0smxa.html',
+				'tnk1/ktuv/thlim/th-118-24.html',
+				NULL,
+				'2014-10-10 11:21:19',
+				'2014-10-10 11:21:19',
+				'תן לי את היום הזה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 12:00:52'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-118-24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 13:17:23'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-118-24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 13:41:59'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-118-24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 13:56:36'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-2022.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/land.html',
+				NULL,
+				'2014-10-10 14:01:50',
+				'2014-10-10 14:01:50',
+				'על סדר היום - קרקע',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 14:05:56'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-10 14:47:19'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
