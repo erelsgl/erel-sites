@@ -2653,3 +2653,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-10-03.html',
+		'<p>ספר במדבר פרק טז כתוב: </p><p>(ה): וידבר אל קרח ואל כל עדתו לאמר בקר וידע יהוה את אשר לו </p><p>***ואת הקדוש והקריב אליו*** ואת אשר יבחר בו יקריב אליו</p><p>ואת הקדוש והקריב אליו = בִּקְרֹבַי אֶקָּדֵשׁ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-11 15:42:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-10-03.html',
+		'<p> ספר במדבר פרק טז כתוב:</p><p>(ה): וידבר אל קרח ואל כל עדתו לאמר בקר וידע יהוה את אשר לו</p><p>***ואת הקדוש והקריב אליו*** ואת אשר יבחר בו יקריב אליו</p><p>ואת הקדוש והקריב אליו = בִּקְרֹבַי אֶקָּדֵשׁ</p><p>אך נדב ואביהוא בהקריבם אש זרה לא קרבו אל אש הקודש אל האלהים על כן אכל אותם כי לא היו ראויים לכהונה</p><p>נדב ואביהו על אף שהיו מבני אהרן אך בהקריבם אש זרה איבדו את הכהונה על כן על פני כל העם אכבד</p><p>משמעות המילה אכבד כאשר אמר אלהים : ואכבדה בפרעה ובכל חילו ברכבו ובפרשיו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-11 16:06:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-11 16:06:28' 
+			WHERE messageid=4750;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-11 18:24:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-12 05:49:18' 
+			WHERE messageid=4751;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-10-03.html',
+		'<p>ספר במדבר פרק טז כתוב:</p><p>(ה): וידבר אל קרח ואל כל עדתו לאמר בקר וידע יהוה את אשר לו</p><p>***ואת הקדוש והקריב אליו*** ואת אשר יבחר בו יקריב אליו</p><p>ואת הקדוש והקריב אליו = בִּקְרֹבַי אֶקָּדֵשׁ</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-12 05:49:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>ספר משלי פרק טו כתוב:</p><p>(ח) אַל תּוֹכַח לֵץ פֶּן יִשְׂנָאֶךָּ הוֹכַח לְחָכָם וְיֶאֱהָבֶךָּ</p><p>וכאשר אלהים מוכיח לך הייה אתה חכם ואהב את האלהים </p><p>ואם חלילה תהייה לץ לשנוא תוכחה אז אלהים לא ידבר עמך כי אין עם מי לדבר כי אתה לא מקשיב</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-12 07:53:48'
+		)
+		;
+
