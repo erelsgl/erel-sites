@@ -2727,3 +2727,195 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p></p><p>שמי רותי ליסני אלמנה</p><p>אני זקוקה באופן דחוף ביותר להלוואה בשביל לטיפול השתלות בשיניים מרפאת השיניים אין לי דרך אחרת לקבל  .</p><p>אנא אל תשאירו אותי לבדה במערכה הקשה שאני עוברת כבר תקופה ארוכה .אתם הפיתרון האחרון שנשאר לי תעזרו לי בבקשה  צרו איתי קשר דחוף למספר 0542003131</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnvcaB8sj-ku_ZDokg5yinHKJ4bkMWLpmg',
+		'Ruthi Lisani',
+		'2014-10-12 19:33:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4736 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4738 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4741 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4743 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4744 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4745 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4746 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4747 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p> אראל, למה מדירת ארעי לדירת קבע? הלא איננו קבועים פה. הלא אמר אלהים (ויקרא כה23): &quot;והארץ לא תמכר לצמתת כי לי הארץ כי גרים ותושבים אתם עמדי&quot; </p>\r\n<p>ספר ישעיהו פרק ד כתוב: \"ב בַּיּוֹם הַהוּא יִהְיֶה צֶמַח יְהוָה לִצְבִי וּלְכָבוֹד וּפְרִי הָאָרֶץ לְגָאוֹן וּלְתִפְאֶרֶת לִפְלֵיטַת יִשְׂרָאֵל.   ג וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַ‍ִם קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלָ‍ִם.    ד אִם רָחַץ אֲדֹנָי אֵת צֹאַת בְּנוֹת צִיּוֹן וְאֶת דְּמֵי יְרוּשָׁלַ‍ִם יָדִיחַ מִקִּרְבָּהּ בְּרוּחַ מִשְׁפָּט וּבְרוּחַ בָּעֵר.   ה וּבָרָא יְהוָה עַל כָּל מְכוֹן הַר צִיּוֹן וְעַל מִקְרָאֶהָ עָנָן יוֹמָם וְעָשָׁן וְנֹגַהּ אֵשׁ לֶהָבָה לָיְלָה כִּי עַל כָּל כָּבוֹד חֻפָּה.    ו *וְסֻכָּה* תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב וּלְמַחְסֶה וּלְמִסְתּוֹר מִזֶּרֶם וּמִמָּטָר.\"</p>\r\n\r\n<p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html  טוב לשבת באוהלים מבנות בתים.</p>', `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = 'אנשים שאין להם כסף לשכר דירה עוברים לגור באוהלים, אבל אפילו השטח המוקצה לאוהלים מצומצם ע\"י העירייה.\r\n\r\n<p>http://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>\r\n\r\nקרקע היא מצרך יסודי ביותר, וחיוני שלכל אדם תהיה זכות לקרקע שעליה יוכל, לפחות, להקים אוהל.', `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4753 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4754 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4755 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4736 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4738 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4741 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4743 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4744 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4745 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4746 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4747 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p> אראל, למה מדירת ארעי לדירת קבע? הלא איננו קבועים פה. הלא אמר אלהים (ויקרא כה23): &quot;והארץ לא תמכר לצמתת כי לי הארץ כי גרים ותושבים אתם עמדי&quot; </p>\r\n<p>ספר ישעיהו פרק ד כתוב: \"ב בַּיּוֹם הַהוּא יִהְיֶה צֶמַח יְהוָה לִצְבִי וּלְכָבוֹד וּפְרִי הָאָרֶץ לְגָאוֹן וּלְתִפְאֶרֶת לִפְלֵיטַת יִשְׂרָאֵל.   ג וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַ‍ִם קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלָ‍ִם.    ד אִם רָחַץ אֲדֹנָי אֵת צֹאַת בְּנוֹת צִיּוֹן וְאֶת דְּמֵי יְרוּשָׁלַ‍ִם יָדִיחַ מִקִּרְבָּהּ בְּרוּחַ מִשְׁפָּט וּבְרוּחַ בָּעֵר.   ה וּבָרָא יְהוָה עַל כָּל מְכוֹן הַר צִיּוֹן וְעַל מִקְרָאֶהָ עָנָן יוֹמָם וְעָשָׁן וְנֹגַהּ אֵשׁ לֶהָבָה לָיְלָה כִּי עַל כָּל כָּבוֹד חֻפָּה.    ו ***וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב וּלְמַחְסֶה וּלְמִסְתּוֹר מִזֶּרֶם וּמִמָּטָר***.\"</p>', `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>http://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>\r\n\r\n\"המאהל הוותיק מאכלס עשרות דיירים, ושטחו צומצם לאחרונה בשל עבודות להקמת תחנה תת-קרקעית של הרכבת הקלה. קיומו בשטח, עם זאת, לא קושר על ידי שיין למחאה חברתית ישירה. \"תפסיקו להיות פראיירים ולשלם את שכר הדירה המטורף, תקימו אוהל, תחסכו ותתחילו ולחיות\".\"\r\n\r\n<p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html  טוב לשבת באוהלים מבנות בתים.</p>', `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4753 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4754 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4755 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4736 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4738 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4741 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4743 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4744 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4745 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4746 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4747 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>http://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>\r\n\r\n\"המאהל הוותיק מאכלס עשרות דיירים, ושטחו צומצם לאחרונה בשל עבודות להקמת תחנה תת-קרקעית של הרכבת הקלה. קיומו בשטח, עם זאת, לא קושר על ידי שיין למחאה חברתית ישירה. \"תפסיקו להיות פראיירים ולשלם את שכר הדירה המטורף, תקימו אוהל, תחסכו ותתחילו ולחיות\".\"\r\n\r\n<p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html  </p>\r\n\r\nטוב לשבת באוהלים מבנות בתים.', `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4753 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4754 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4755 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>אילי-הון ערבים קונים קרקעות בארץ ישראל, בעיקר בגליל.   http://www.inn.co.il/News/News.aspx/255110</p><p>התופעה של אילי-הון זרים שקונים קרקעות קרתה במדינות רבות ברחבי העולם. במקרים רבים, המדינה גילתה מאוחר מדי שהקרקעות שלה משועבדות לזרים, וניסתה להפקיע את הקרקעות, אבל הדבר גרם למלחמות. כך למשל, ניסיונה של גוואטמלה להפקיע קרקעות מתאגיד-פירות אמריקאי גרם לפלישה אמריקאית ולמלחמת אזרחים שנמשכה מעל 30 שנה: https://en.wikipedia.org/wiki/History_of_Guatemala#Agrarian_Reform_and_UFCo_conflict .</p><p>כדי למנוע בעיות כאלו, נקבע בתורה חוק היובל, הקובע שכל קרקע חוזרת לבעליה ביובל, גם אם נמכרה לגוי (&quot;לעקר משפחת גר&quot;). כל אדם שקונה קרקע, בין אם הוא יהודי או לא, צריך לדעת מראש שהמכירה היא זמנית, עד היובל. כך לא יהיה צורך במהלכים קשים ומסוכנים של הפקעת קרקעות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-12 20:10:34'
+		)
+		;
+
