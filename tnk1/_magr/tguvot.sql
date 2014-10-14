@@ -2919,3 +2919,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוקה להלוואה דחופה של 7000ש״ח ללא רבית בתשלומים חודשיים של 500 ₪ תודה 0543303475 , אציין כי אאשר קבלת ההלוואה במידה ויצרו איתי קשר טלפוני- ולא בצורה אוטומטית דרך האתר -תודה שושנה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnzV0mEZCu4cUPtHUj1LIJ3g_LIhIX9Oxo',
+		'שושנה שלום',
+		'2014-10-13 09:34:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0415_3.html',
+		'<p>מוסיף חלק</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-13 10:27:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0415_3.html',
+		'<p>הוספתי קטע</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-13 10:30:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-13 10:30:34' 
+			WHERE messageid=4758;
+
