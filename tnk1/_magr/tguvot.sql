@@ -2962,3 +2962,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-13 10:30:34' 
 			WHERE messageid=4758;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>והנה עוד כתבה על הקשר בין קרקעות למחירי הדירות:</p><p>http://www.globes.co.il/news/article.aspx?did=1000844287</p><p>&quot;תוכניתו של שר האוצר לבניית 150 אלף יח&quot;ד להשכרה על קרקע חקלאית בשולי הערים, מעוררת בקיבוצים ובמושבים תקווה מחודשת לשיפור גובה הפיצוי עבור כל דונם חקלאי&quot;.</p><p>האם אכן מגיע לחקלאים, שקיבלו מהמדינה דונמים רבים של קרקעות חקלאיות, לקבל פיצוי על הקרקעות כאשר הן מופשרות לבניה? </p><p>האם לא עדיף שכל אזרח בישראל יקבל קרקע שווה שעליה יוכל לבנות?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-14 10:58:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>אראל הנה לחזק את דבריך על היובל </p><p> </p><p>בספר דברים פרק יט כתוב:</p><p>(יד)  לֹא תַסִּיג גְּבוּל רֵעֲךָ אֲשֶׁר גָּבְלוּ רִאשֹׁנִים בְּנַחֲלָתְךָ אֲשֶׁר תִּנְחַל בָּאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֶיךָ נֹתֵן לְךָ לְרִשְׁתָּהּ</p><p>ובספר דברים פרק כז כתוב:</p><p>(יז)  אָרוּר מַסִּיג גְּבוּל רֵעֵהוּ וְאָמַר כָּל-הָעָם אָמֵן</p><p> </p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-14 12:50:29'
+		)
+		;
+
