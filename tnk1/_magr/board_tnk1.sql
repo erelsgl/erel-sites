@@ -1674,3 +1674,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-15 16:39:21'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-17-43.html'
+		;
+

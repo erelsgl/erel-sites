@@ -2986,3 +2986,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-17-43.html',
+		'<p>לגוליית לא היה נוח להודות קבל עם ועדה שדוד בא אליו בכלי נשק עדיף ואפילו בלתי הוגן לקרב פנים אל פנים. ולכן הקללה. הדבר היה מובהק יותר אילו דוד היה בא עם חץ וקשת, כלי מלחמה לטווח רחוק, ההפתעה היא שמנעה ממנו את התגובה ההולמת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlV6CMxbX1Dr7vjBI2JmgLuEgQMlejzXA',
+		'ליאת מוריס',
+		'2014-10-15 16:39:21'
+		)
+		;
+
