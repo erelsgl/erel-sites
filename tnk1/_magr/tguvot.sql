@@ -2998,3 +2998,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>ספר תהילות פרק קד (יט) עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ:</p><p>אלהים ברא את המאורות ביום רביעי ובליל החמישי כבר האיר הירח אך השמש החלה להאיר רק ביום חמישי בבקר</p><p>לכן כשמחשבים את לוחות השנה החודש הראשון לירח יהיה בן 29 יום [חצי לילה עבר] וחודש השמש הוא תמיד 30 יום </p><p>לוח הירח ולוח השמש יחלו יחדיו באותו יום חמישי הוא האחד לחודש הראשון בשנה</p><p>וגם בתם מחזור היובל לאחר 49 שנה השמש והירח מתחילים יחדיו מחדש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-16 08:26:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>הספר &quot;עין יעקב&quot; כולל את כל האגדות בתלמוד לפי הסדר.</p><p>יש שם גם פירושים ברמות שונות, החל מפירושים פשוטים ועד לפירושים על-דרך הסוד והקבלה.</p><p>הספר &quot;עין איה&quot; כולל פירוש מעמיק של הראי&quot;ה קוק על האגדות, אולם הוא הספיק לכתוב את הפירוש רק למסכתות הראשונות - ברכות ושבת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 05:17:38'
+		)
+		;
+

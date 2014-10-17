@@ -1682,3 +1682,120 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-17-43.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-16 08:26:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_623.html',
+				NULL,
+				'2014-10-16 19:45:54',
+				'2014-10-16 19:45:54',
+				'פרשת בראשית- מה גנוז במעשה הבריאה?/ מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-16 19:45:54'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_624.html',
+				NULL,
+				'2014-10-16 19:50:56',
+				'2014-10-16 19:50:56',
+				'בראשית/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-16 19:50:56'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t3408.htm',
+				'tnk1/messages/htmyd.pdf',
+				NULL,
+				'2014-10-16 20:03:50',
+				'2014-10-16 20:03:50',
+				'אמונת התמיד',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_625.html',
+				NULL,
+				'2014-10-16 20:53:14',
+				'2014-10-16 20:53:14',
+				'שאיבת מי השילוח/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-16 20:53:14'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_43.html',
+				NULL,
+				'2014-10-16 21:34:28',
+				'2014-10-16 21:34:28',
+				'על \"אלפא ביתא תלמודי\" מאת רות קלדרון',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 05:17:38'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_43.html'
+		;
+
