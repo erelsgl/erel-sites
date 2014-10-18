@@ -58,3 +58,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית מד18' AND `sfr` = 'ברא' AND `prq0` = 'מד' AND `psuq0` = 18 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:יהושע ח30', 'יהש', 'ח', 30, 30, '', '', 10, '2014-10-15 09:34:18');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:יהושע כד1', 'יהש', 'כד', 1, 1, '', '', 10, '2014-10-15 09:34:18');
+

@@ -2962,3 +2962,156 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-13 10:30:34' 
 			WHERE messageid=4758;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>והנה עוד כתבה על הקשר בין קרקעות למחירי הדירות:</p><p>http://www.globes.co.il/news/article.aspx?did=1000844287</p><p>&quot;תוכניתו של שר האוצר לבניית 150 אלף יח&quot;ד להשכרה על קרקע חקלאית בשולי הערים, מעוררת בקיבוצים ובמושבים תקווה מחודשת לשיפור גובה הפיצוי עבור כל דונם חקלאי&quot;.</p><p>האם אכן מגיע לחקלאים, שקיבלו מהמדינה דונמים רבים של קרקעות חקלאיות, לקבל פיצוי על הקרקעות כאשר הן מופשרות לבניה? </p><p>האם לא עדיף שכל אזרח בישראל יקבל קרקע שווה שעליה יוכל לבנות?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-14 10:58:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>אראל הנה לחזק את דבריך על היובל </p><p> </p><p>בספר דברים פרק יט כתוב:</p><p>(יד)  לֹא תַסִּיג גְּבוּל רֵעֲךָ אֲשֶׁר גָּבְלוּ רִאשֹׁנִים בְּנַחֲלָתְךָ אֲשֶׁר תִּנְחַל בָּאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֶיךָ נֹתֵן לְךָ לְרִשְׁתָּהּ</p><p>ובספר דברים פרק כז כתוב:</p><p>(יז)  אָרוּר מַסִּיג גְּבוּל רֵעֵהוּ וְאָמַר כָּל-הָעָם אָמֵן</p><p> </p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-14 12:50:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-17-43.html',
+		'<p>לגוליית לא היה נוח להודות קבל עם ועדה שדוד בא אליו בכלי נשק עדיף ואפילו בלתי הוגן לקרב פנים אל פנים. ולכן הקללה. הדבר היה מובהק יותר אילו דוד היה בא עם חץ וקשת, כלי מלחמה לטווח רחוק, ההפתעה היא שמנעה ממנו את התגובה ההולמת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlV6CMxbX1Dr7vjBI2JmgLuEgQMlejzXA',
+		'ליאת מוריס',
+		'2014-10-15 16:39:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>ספר תהילות פרק קד (יט) עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ:</p><p>אלהים ברא את המאורות ביום רביעי ובליל החמישי כבר האיר הירח אך השמש החלה להאיר רק ביום חמישי בבקר</p><p>לכן כשמחשבים את לוחות השנה החודש הראשון לירח יהיה בן 29 יום [חצי לילה עבר] וחודש השמש הוא תמיד 30 יום </p><p>לוח הירח ולוח השמש יחלו יחדיו באותו יום חמישי הוא האחד לחודש הראשון בשנה</p><p>וגם בתם מחזור היובל לאחר 49 שנה השמש והירח מתחילים יחדיו מחדש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-16 08:26:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>הספר &quot;עין יעקב&quot; כולל את כל האגדות בתלמוד לפי הסדר.</p><p>יש שם גם פירושים ברמות שונות, החל מפירושים פשוטים ועד לפירושים על-דרך הסוד והקבלה.</p><p>הספר &quot;עין איה&quot; כולל פירוש מעמיק של הראי&quot;ה קוק על האגדות, אולם הוא הספיק לכתוב את הפירוש רק למסכתות הראשונות - ברכות ושבת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 05:17:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>תודה, אנסה להשיג אותו ולבדוק. האם הוא מתרגם את הארמית? זה יותר חשוב לי מהפירושים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-17 08:08:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>זה ספר די ישן והוא מיועד לאנשים שמבינים את השפה התלמודית. אבל מכיוון שהוא מסודר לפי סדר התלמוד, אפשר במקביל לקרוא את התרגום של שטיינזלץ. </p><p>יש גם ספר חדש יותר שנקרא &quot;שיעורים באגדות חז&quot;ל&quot;, מאת הרב חנוך גבהרד, שמביא את כל האגדות לפי אותו סדר עם תרגום ופירוש: http://www.toraland.co.il/Default.asp?PageId=37&amp;FragmentId=76&amp;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 09:33:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>תודה, זה כבר נראה יותר טוב.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-17 09:44:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>שלמה בונה בית לאלהים בשנת 3000 לאדם היא שנת 2930 ליובלים </p><p>ירושלים נחרבה בשנת 3430 לאדם</p><p>והגלות הייתה שבעים שנה עד שנת 3500 לאדם</p><p>**************************************************</p><p>3000-3430=430</p><p>430 לחלק לשבע= 61.4 שנות שמיטה</p><p>בימי שלמה ומלכים שאחריו השמיטה נשמרה 51.4 שנות שמיטה</p><p>ורק שבעים שנה בטרם החורבן לאמור רק 10 שנות שמיטה לא נשמרו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-17 11:57:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>רוב שבטי ישראל היו במלכות שומרון, ושם לא קיימו את המצוות ולא שמרו שמיטה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 12:05:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-17 12:05:36' 
+			WHERE messageid=4769;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>רוב שבטי ישראל היו במלכות שומרון, ושם לא קיימו את המצוות ולא שמרו שמיטה, כפי שאמר הנביא יחזקאל.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 12:05:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-18 07:12:33' 
+			WHERE messageid=4768;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-18 07:12:34' 
+			WHERE messageid=4768;
+
