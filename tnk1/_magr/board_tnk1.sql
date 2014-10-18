@@ -1799,3 +1799,105 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sig_9sfr_43.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 08:08:06'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_43.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 09:33:07'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_43.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 09:44:50'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_43.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jbt.html',
+				'tnk1/tora/wyqra/wy-25-3435.html',
+				NULL,
+				'2014-10-17 10:39:41',
+				'2014-10-17 10:39:41',
+				'מטרת שנת השמיטה - לתת לארץ לנוח',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-3435.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jbt.html',
+				'tnk1/tora/wyqra/wy-26-3435.html',
+				NULL,
+				'2014-10-17 10:41:41',
+				'2014-10-17 10:41:41',
+				'הארץ תנוח, איתנו או בלעדינו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_44.html',
+				NULL,
+				'2014-10-17 11:15:47',
+				'2014-10-17 11:15:47',
+				'על \"חלומו של הכוזרי\" מאת מיכה גודמן',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 11:57:50'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-3435.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 12:05:33'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-3435.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-17 12:05:46'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-3435.html'
+		;
+

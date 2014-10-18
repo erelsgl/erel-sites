@@ -3022,3 +3022,96 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>תודה, אנסה להשיג אותו ולבדוק. האם הוא מתרגם את הארמית? זה יותר חשוב לי מהפירושים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-17 08:08:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>זה ספר די ישן והוא מיועד לאנשים שמבינים את השפה התלמודית. אבל מכיוון שהוא מסודר לפי סדר התלמוד, אפשר במקביל לקרוא את התרגום של שטיינזלץ. </p><p>יש גם ספר חדש יותר שנקרא &quot;שיעורים באגדות חז&quot;ל&quot;, מאת הרב חנוך גבהרד, שמביא את כל האגדות לפי אותו סדר עם תרגום ופירוש: http://www.toraland.co.il/Default.asp?PageId=37&amp;FragmentId=76&amp;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 09:33:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>תודה, זה כבר נראה יותר טוב.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-17 09:44:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>שלמה בונה בית לאלהים בשנת 3000 לאדם היא שנת 2930 ליובלים </p><p>ירושלים נחרבה בשנת 3430 לאדם</p><p>והגלות הייתה שבעים שנה עד שנת 3500 לאדם</p><p>**************************************************</p><p>3000-3430=430</p><p>430 לחלק לשבע= 61.4 שנות שמיטה</p><p>בימי שלמה ומלכים שאחריו השמיטה נשמרה 51.4 שנות שמיטה</p><p>ורק שבעים שנה בטרם החורבן לאמור רק 10 שנות שמיטה לא נשמרו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-17 11:57:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>רוב שבטי ישראל היו במלכות שומרון, ושם לא קיימו את המצוות ולא שמרו שמיטה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 12:05:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-17 12:05:36' 
+			WHERE messageid=4769;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-3435.html',
+		'<p>רוב שבטי ישראל היו במלכות שומרון, ושם לא קיימו את המצוות ולא שמרו שמיטה, כפי שאמר הנביא יחזקאל.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-17 12:05:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-18 07:12:33' 
+			WHERE messageid=4768;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-18 07:12:34' 
+			WHERE messageid=4768;
+
