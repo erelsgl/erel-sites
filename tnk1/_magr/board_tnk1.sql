@@ -1901,3 +1901,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-3435.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-18 15:56:37'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-30-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-18 16:21:30'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-30-13.html'
+		;
+
