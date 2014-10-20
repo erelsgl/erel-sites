@@ -3146,3 +3146,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-18 16:21:42' 
 			WHERE messageid=4771;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>3. וְגַם-אַתָּה תָּדִין אֶת-בֵּיתִי = וּבִגְבוּרָתְךָ תְדִינֵנִי</p><p>וּבִגְבוּרָתְךָ תְדִינֵנִי = וְגַם-אַתָּה תָּדִין אֶת-בֵּיתִי בגבורה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-19 14:51:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_9.html',
+		'<p>ספר בראשית פרק לב כתוב:</p><p>(לב): וַיִּזְרַח-לוֹ הַשֶּׁמֶשׁ כַּאֲשֶׁר עָבַר אֶת-פְּנוּאֵל וְהוּא צֹלֵעַ עַל-יְרֵכוֹ </p><p>(לג) עַל-כֵּן לֹא-יֹאכְלוּ בְנֵי-יִשְׂרָאֵל אֶת-גִּיד הַנָּשֶׁה אֲשֶׁר עַל-כַּף הַיָּרֵךְ עַד הַיּוֹם הַזֶּה כִּי נָגַע בְּכַף-יֶרֶךְ יַעֲקֹב בְּגִיד הַנָּשֶׁה.</p><p>ובספר ירמיהו פרק נא כתוב:</p><p>(ל) חָדְלוּ גִבּוֹרֵי בָבֶל לְהִלָּחֵם יָשְׁבוּ בַּמְּצָדוֹת נָשְׁתָה גְבוּרָתָם הָיוּ לְנָשִׁים הִצִּיתוּ מִשְׁכְּנֹתֶיהָ נִשְׁבְּרוּ בְרִיחֶיהָ.</p><p>----------------------------</p><p>וְהוּא צֹלֵעַ עַל-יְרֵכוֹ כִּי נָגַע בְּכַף-יֶרֶךְ יַעֲקֹב בְּגִיד הַנָּשֶׁה -- מלשון -- נָשְׁתָה גְבוּרָתָם הָיוּ לְנָשִׁים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-20 06:20:02'
+		)
+		;
+
