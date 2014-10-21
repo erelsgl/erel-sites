@@ -3170,3 +3170,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jb-24-24.html',
+		'<p>http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dagon_Haifa_01.jpg/800px-Dagon_Haifa_01.jpg</p><p>זו היא תמונה של ממגורות דגון בחיפה [ובעברית מקראית &quot;גורן&quot;] = אסם תבואה </p><p>דודו שילם על כל הגורן עם הבקר ביחד 600 שקלי זהב</p><p>אונקיית זהב = 4615 ש&quot;ח [נכון לאוקטובר 2014]</p><p>20 אונקיות זהב = שקל זהב = 92300 ש&quot;ח</p><p>600 שקלי זהב = 55380000 ש&quot;ח בימינו זה מחיר מקום המשכן בהר הבית הר המוריה בירושלים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-20 15:09:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jb-24-24.html',
+		'<p>http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dagon_Haifa_01.jpg/800px-Dagon_Haifa_01.jpg</p><p>זו היא תמונה של ממגורות דגון בחיפה [ובעברית מקראית &quot;גורן&quot;] = אסם תבואה</p><p>דוד המלך שילם על כל הגורן עם הבקר ביחד 600 שקלי זהב</p><p>אונקיית זהב = 4615 ש&quot;ח [נכון לאוקטובר 2014]</p><p>20 אונקיות זהב = שקל זהב = 92300 ש&quot;ח</p><p>600 שקלי זהב = 55380000 ש&quot;ח בימינו זה מחיר מקום המשכן בהר הבית הר המוריה בירושלים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-20 15:10:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-20 15:10:06' 
+			WHERE messageid=4775;
+

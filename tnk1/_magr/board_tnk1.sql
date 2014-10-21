@@ -1949,3 +1949,48 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0102_9.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/prqim_t25b32_0.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-20 15:09:13'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jb-24-24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-20 15:10:03'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jb-24-24.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_626.html',
+				NULL,
+				'2014-10-20 21:24:50',
+				'2014-10-20 21:24:50',
+				'פרשת נח- באיזן מידה- נח היה צדיק?/ מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-20 21:24:50'
+			WHERE ktovt_bn='tnk1/forums.html';
+
