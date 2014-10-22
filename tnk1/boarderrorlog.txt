@@ -68,3 +68,19 @@ Array
     [add] => שליחה
     [to] => add
 )
+2014.10.21 14:37:24			PASSWORD
+Array
+(
+    [username] => 
+    [password] => 
+    [email] => 
+    [followup] => tnk1/prqim/t08a01.htm
+    [file] => tnk1/prqim/t08a01.htm
+    [title] => שמואל א א
+    [titlechanged] => 
+    [content] => 
+    [rewrite] => שמור שינויים
+    [to] => add
+    [lang] => 
+    [author] => 
+)
