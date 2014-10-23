@@ -7,7 +7,7 @@ $rows = sql_query_or_die("
 	SELECT *
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'מגילת%'
+			OR chapter_id LIKE 'ספר דברי %'
 		ORDER BY book_code_mamre, chapter_number, verse_number
 		");
 
