@@ -19,3 +19,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לג23' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף' AND 1 LIMIT 1;
+

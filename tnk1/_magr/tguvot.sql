@@ -3201,3 +3201,111 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-20 15:10:06' 
 			WHERE messageid=4775;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/clm_wdmut.html',
+		'<p>ובכן מצד אחד מה שאתה כותב נכון הוא: אלוקים לא צריך להועץ באף אחד! אמנם חכמים לא נעצרו כאן, הרי השם אמר &quot;נעשה אדם&quot;-והנה מה שמובא בחז&quot;ל (ישנם הרבה צורות וסגנונות אבל בחרתי באחד מהם):מדרש אגדה (בובר) בראשית פרשת בראשית פרק א </p><p>[כו] ויאמר אלהים נעשה אדם. למי אמר למלאכים שהם רוחות, לכך נתייעץ בהם בבריאת אדם, ואל תתמה, שכל מה שהקב&quot;ה עושה עם בני אדם מתייעץ במלאכים, שכן מיכה אמר לאחאב ראיתי את ה\' יושב על כסאו וכל צבא השמים וגו\', ויאמר ה\' מי יפתה את אחאב וגו\' (מ&quot;א כב יט כ), וכשאמר הקדוש ברוך הוא למשה רבינו לכתוב את התורה, אמר לו הקדוש ברוך הוא משה כתוב נעשה אדם בצלמנו כדמותנו, אמר לפניו רבונו של עולם מפני מה אתה נותן מקום למינים שיאמרו כי שתי רשויות הם, אמר הקדוש ברוך הוא למשה כתוב מה שאני אומר לך, וכל הרוצה לטעות יטעה, כי ממני ילמדו כל באי העולם שאם בא גדול לעשות דבר, יטול עצה מקטן, שהרי אני כשבאתי לבראות האדם נמלכתי עם מלאכי השרת: </p><p>הנך רואה א. שבתורה יש מקום לטעות! ב. שלשם מטרת חינוך הקב&quot;ה אמר למשה לכתוב &quot;נעשה&quot; כדי ללמדנו דרך ארץ.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-10-22 17:03:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-15-27_1.html',
+		'<p>&quot;גמילות חסדים&quot;--גמילה הרי זו מילה המבטאה שיחרור מתלות, ואילו חסד (נקי-נטו) יוצר תלות, ע&quot;כ הביטוי גמילות חסדים מדגיש את הצורך לגומל שישמור על עצמאותו של המקבל ממנו.</p><p>אברהם אבינו מדתו חסד, ויש כאן בעיה הרי זה יוצר תלות, וע&quot;כ יצא ממנו ישמעאל, ומה טיבו של זה? ידוע, הרי הישמעאלים מקבלים אורחים אבל דתם (האיסלם) רוצה כניעה של כולם או לאלה או לרודן!--יצחק הוא מידת הדין, ובקילקול המידה יוצאת הגאוה, ע&quot;כ יצא ממנו עשיו שנאמר בו &quot;ועל חרבך תחיה&quot; (תולדות העולם יוכיח-מלחמה ושלום, לפעמים), יעקב אבינו &quot;הבחיר שבאבות נקרא &quot;תפארת&quot;-הרמוניה-אין מידה שלטת וע&quot;כ כל בניו היו צדיקים.</p><p>בפרשת חיי שרה אומר רש&quot;י שחסד עם המתים נקרא חסד של אמת יען אינו מצפה ,ולכאורה אינו מובן  נכון, המת לא יגמול אבל עדיין קיימים אינטרסים שונים? התשובה: חסד עם המת אינו יוצר תלות!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-10-22 17:14:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-15-27_1.html',
+		'<p>&quot;שונא מתנות יחיה&quot; מדוע ולמה? לפי מה שנכתב שמהות ותכלית יצירת האדם היא שהוא יהיה האדון של עצמו ז&quot;א שיקבל שכר עבודתו, זאת אומרת שמהות החיים היא דין-עבדת אכלת, לא עבדת לא תאכל, ואם הנך יצור שאוהב מתנות אינך באמת חיי, החטאת את מהות החיים!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-10-22 17:17:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-15-27_1.html',
+		'<p>אוסיף עוד בעניין האיסלם: טעות נושנה מהלכת בארץ ישראל, הציבור חוש ששלום וסלאם הם מאותו שורש וע&quot;כ אותו רעיון, אין טעות גדולה מכך! שלום בלשה&quot;ק בא משרש שלם, מי ששלם ואינו רוצה שום דבר אשר חוץ ממנו יחיה &quot;בשלום&quot;--&quot;סלאם&quot; לעומת זאת פירושו &quot;כניעה&quot; וזה באמת משמעות &quot;השלום&quot; של האיסלם---בקיצור, שלום וסלאם הם מילות נוגדות עם פילוסופיות נוגדות--שלום עם הערבים? רק אם נכנע, או לבסוף הם יכנעו. ומי שלא מאמין לי אנא שיקרא את הקוראן, נכון הוא מבלבל אבל &quot;המוסיקה&quot; בו איננה מבלבלת כלל, ואם עיננו פתוחות נראה עניין זה לעיננו יום יום.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-10-22 17:23:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/odot_11.html',
+		'<p>קראתי והסתובבתי באתרכם: כל הכבוד, אבל.</p><p>ראיתי את המאמר על חטא עץ הדעת, נדמה לי כי הוא חסר ולא מדוייק, אשמח לכתוב עבור הכלל אם באמת יש קוראים ויש תגובות ובעיקר ביקורת (משבחים לא לומדים מאומה). המייל שלי GEIGER3213@GMAIL.COM ואני גר בצרפת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-10-22 17:42:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני בבעיה רצינית מחפש הלוואה 0542507474</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlifqHQP-4DXOVVrz64gVQqkTOfiBH7y0A',
+		'artur arturov',
+		'2014-10-22 21:29:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני בבעיה רצינית מחפש הלוואה 0542507474</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlifqHQP-4DXOVVrz64gVQqkTOfiBH7y0A',
+		'artur arturov',
+		'2014-10-22 21:29:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>הלוואה דחופה 0542507474</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlifqHQP-4DXOVVrz64gVQqkTOfiBH7y0A',
+		'artur arturov',
+		'2014-10-22 21:30:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/odot_11.html',
+		'<p>מסכים / אלברט שבות</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2014-10-22 22:14:53'
+		)
+		;
+
