@@ -2010,3 +2010,87 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 17:03:19'
+		WHERE ktovt_bn='tnk1/tora/brejit/clm_wdmut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 17:14:39'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 17:17:09'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 17:23:32'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 17:42:40'
+		WHERE ktovt_bn='tnk1/messages/odot_11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 21:29:01'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 21:29:04'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 21:30:10'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-22 22:14:53'
+		WHERE ktovt_bn='tnk1/messages/odot_11.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/odot_11.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/odot_11.html';
+

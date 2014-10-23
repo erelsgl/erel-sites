@@ -3461,3 +3461,138 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/nvir/jmuelb/jb-24-24.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/clm_wdmut.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 17:03:19'
+		WHERE parent='tnk1/tora/brejit/clm_wdmut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ktuv_mjly_mj-15-27_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 17:14:39'
+		WHERE parent='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ktuv_mjly_mj-15-27_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 17:17:09'
+		WHERE parent='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ktuv_mjly_mj-15-27_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 17:23:32'
+		WHERE parent='tnk1/messages/ktuv_mjly_mj-15-27_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/odot_11.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 17:42:40'
+		WHERE parent='tnk1/messages/odot_11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 21:29:01'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 21:29:04'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/hlwaa_mgmx.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 21:30:10'
+		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/odot_11.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2014-10-22 22:14:53'
+		WHERE parent='tnk1/messages/odot_11.html'
+		;
+

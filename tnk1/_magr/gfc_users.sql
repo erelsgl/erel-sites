@@ -1449,3 +1449,39 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-10-21 15:36:20','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-22 14:46:54','https://www.google.com/accounts/o8/id?id=AItOawmXmDJH2E0fYyOtlCC57GnEjpYhde-aw_k','עמוס חגג');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-22 16:55:20','https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo','Yehouda Toledano');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-22 17:38:03','https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo','Yehouda Toledano');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-22 21:28:08','https://www.google.com/accounts/o8/id?id=AItOawlifqHQP-4DXOVVrz64gVQqkTOfiBH7y0A','artur arturov');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-22 22:09:38','https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY','אלברט שבות');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-10-23 05:17:48','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
+
