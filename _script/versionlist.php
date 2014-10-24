@@ -7,9 +7,9 @@ error_reporting(E_ALL);
  */
 
 require_once('../_script/session_forever.php');
-require_once('../sites/gfc.php');
 require_once('../tnk1/admin/db_connect.php');
-gfc_login_or_logout("versionlist"); // should also log the user details
+// require_once('../sites/gfc.php');
+// gfc_login_or_logout("versionlist"); // should also log the user details
 
 require_once('../_script/callback.php');
 
