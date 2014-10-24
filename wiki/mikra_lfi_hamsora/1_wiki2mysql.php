@@ -1,9 +1,7 @@
 <?php
 require_once('0_common.php');
-// $FILENAME_INPUT = "mikradovi_ml.txt";
-// $FILENAME_INPUT = "mikradovi_tr.txt";
+$FILENAME_INPUT = "source.txt";
 
-$FILENAME_INPUT = "mikradovi_mg.txt";
 
 $text = file_get_contents($FILENAME_INPUT);
 
@@ -35,6 +33,7 @@ foreach ($chapters as $chapter_text) {
 	print "id=$chapter_id\n";
 
 	// Special treatment to the prefix of the entire chapter (- prefix of verse #0):
+	$chapter_prefix = "<noinclude>$chapter_prefix</noinclude>";
 	sql_query_or_die("
 		UPDATE psuqim_dovi
 		SET prefix=".quote_all($chapter_prefix)."
@@ -51,10 +50,6 @@ foreach ($chapters as $chapter_text) {
 	foreach ($verses as $verse) {
 		$verse_letter = number2hebrew($verse_number);
 		$verse_number_in_table = ($verse_number<count($verses)? $verse_number: 999);
-
-		if ($chapter_id==="מגילת קהלת/ג") {
-			print "$verse_number_in_table: $verse\n-----\n";
-		}
 		
 		if (preg_match("@([{][{]$TVNIT_MSPR_PSUQ"."[^{}]*[}][}])@",$verse,$matches)) {
 			$verse_letter_text = $matches[1];
@@ -71,9 +66,12 @@ foreach ($chapters as $chapter_text) {
 				"{{תבנית:טעמי המקרא באינטרנט (עליון)}}//{{מ:שוליים|5}}//{{תבנית:משתמש:Dovi/טעמי המקרא}}",
 				$prefix);
 						
- 		if ($verse_number==1)
+ 		else if ($verse_number==1)
  			$prefix = preg_replace("@^[\\n]+@","",$prefix);
- 
+ 		
+ 		else if ($verse_number_in_table==999)
+			$prefix = "<noinclude>$prefix</noinclude>";
+ 			 
 		$prefix = preg_replace("/<$GLOBALS[QTA][^<>]*>/", "", $prefix);
 
 		$prefix = replace_spaces($prefix);
