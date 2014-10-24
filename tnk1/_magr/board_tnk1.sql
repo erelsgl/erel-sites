@@ -2094,3 +2094,19 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/messages/odot_11.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-23 17:36:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_9.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-23 21:38:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_9.html'
+		;
+
