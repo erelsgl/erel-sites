@@ -3333,3 +3333,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/msr_9philosophy_0.html',
+		'<p>הוספתי חלק שני</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-25 15:37:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p> </p><p>בני ישראל נקראים צאן כצאנו של אלהי ישראל</p><p>על כן ניתן לדעת שמותר לקחת מספר נשים על פי ספר בראשית פרק לב ככתוב:</p><p>(יד) וַיָּלֶן שָׁם בַּלַּיְלָה הַהוּא, וַיִּקַּח מִן הַבָּא בְיָדוֹ מִנְחָה לְעֵשָׂו אָחִיו. </p><p>(טו) עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים. </p><p>(טז) גְּמַלִּים מֵינִיקוֹת וּבְנֵיהֶם שְׁלֹשִׁים, פָּרוֹת אַרְבָּעִים וּפָרִים עֲשָׂרָה אֲתֹנֹת עֶשְׂרִים וַעְיָרִם עֲשָׂרָה.</p><p>פרוש לבאר:</p><p>נתייחס רק לבהמות הטהורות המוזכרות פה שמותר לבני ישראל לאכלן על פי התורה</p><p>ובכן פר [צעיר] בן בקר נכון לו לקחת 4 פרות</p><p>והיחס בין זכרי הצאן הוא 1 ל- 10 נקבות</p><p>---------</p><p>לכן בממוצע היחס הוא זכר 1 ל 7 נקבות</p><p>ספר דברי הימים א פרק ז כתוב:</p><p>כִּי הִרְבּוּ נָשִׁים וּבָנִים.</p><p>הרבה נשים = הרבה בנים</p><p>ספר שמואל א פרק ב כתוב:</p><p>(ה) שְׂבֵעִים בַּלֶּחֶם נִשְׂכָּרוּ וּרְעֵבִים חָדֵלּוּ עַד-עֲקָרָה יָלְדָה שִׁבְעָה וְרַבַּת בָּנִים אֻמְלָלָה.</p><p>שבעת נשים = שִׂבְעַת נשים [וצדיק אוכל לשובע נפשו ולא יותר]</p><p>מעל שבע נשים זה הרבה נשים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-25 16:59:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-25 17:15:20' 
+			WHERE messageid=4789;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>וזה מספר הנשים שמותר למלך ישראל אשר נאמר לו על פי התורה רק לא ירבה לו נשים</p><p>בני ישראל נקראים צאן כצאנו של אלהי ישראל</p><p>על כן ניתן לדעת שמותר לקחת מספר נשים על פי ספר בראשית פרק לב ככתוב:</p><p>(יד) וַיָּלֶן שָׁם בַּלַּיְלָה הַהוּא, וַיִּקַּח מִן הַבָּא בְיָדוֹ מִנְחָה לְעֵשָׂו אָחִיו.</p><p>(טו) עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים.</p><p>(טז) גְּמַלִּים מֵינִיקוֹת וּבְנֵיהֶם שְׁלֹשִׁים, פָּרוֹת אַרְבָּעִים וּפָרִים עֲשָׂרָה אֲתֹנֹת עֶשְׂרִים וַעְיָרִם עֲשָׂרָה.</p><p>פרוש לבאר:</p><p>נתייחס רק לבהמות הטהורות המוזכרות פה שמותר לבני ישראל לאכלן על פי התורה</p><p>ובכן פר [צעיר] בן בקר נכון לו לקחת 4 פרות</p><p>והיחס בין זכרי הצאן הוא 1 ל- 10 נקבות</p><p>---------</p><p>לכן בממוצע היחס הוא זכר 1 ל 7 נקבות [ובכל מקרה לא יותר מעשר נשים]</p><p>ספר דברי הימים א פרק ז כתוב:</p><p>כִּי הִרְבּוּ נָשִׁים וּבָנִים.</p><p>הרבה נשים = הרבה בנים</p><p>ספר שמואל א פרק ב כתוב:</p><p>(ה) שְׂבֵעִים בַּלֶּחֶם נִשְׂכָּרוּ וּרְעֵבִים חָדֵלּוּ עַד-עֲקָרָה יָלְדָה שִׁבְעָה וְרַבַּת בָּנִים אֻמְלָלָה.</p><p>שבעת נשים = שִׂבְעַת נשים [וצדיק אוכל לשובע נפשו ולא יותר]</p><p>מעל שבע נשים זה הרבה נשים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-25 17:16:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim2/yj02-dm17.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-25 17:25:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-25 17:25:02' 
+			WHERE messageid=4791;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim2/yj02-dm17.html',
+		'<p>יפה!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-25 17:49:56'
+		)
+		;
+

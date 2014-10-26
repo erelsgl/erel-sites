@@ -2133,3 +2133,66 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-10-24 12:31:09'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-25 15:37:48'
+		WHERE ktovt_bn='tnk1/messages/msr_9philosophy_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/hvdlim2.html',
+				'tnk1/kma/hvdlim2/yj02-dm17.html',
+				NULL,
+				'2014-10-25 16:51:34',
+				'2014-10-25 16:51:34',
+				'ישעיהו ב לעומת דברים יז',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-10-25 16:51:34'
+			WHERE ktovt_bn='tnk1/sig/hvdlim2.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-25 16:59:31'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-25 17:16:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-25 17:25:01'
+		WHERE ktovt_bn='tnk1/kma/hvdlim2/yj02-dm17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-25 17:49:56'
+		WHERE ktovt_bn='tnk1/kma/hvdlim2/yj02-dm17.html'
+		;
+
