@@ -2196,3 +2196,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim2/yj02-dm17.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 08:41:21'
+		WHERE ktovt_bn='tnk1/ktuv/mj/19-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 08:43:38'
+		WHERE ktovt_bn='tnk1/ktuv/mj/19-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 08:44:17'
+		WHERE ktovt_bn='tnk1/ktuv/mj/19-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 10:22:37'
+		WHERE ktovt_bn='tnk1/ktuv/mj/19-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 10:22:40'
+		WHERE ktovt_bn='tnk1/ktuv/mj/19-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 14:58:55'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-10-26 14:59:07'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9philosophy.html',
+				'tnk1/messages/msr_9philosophy_1.html',
+				NULL,
+				'2014-10-26 19:12:41',
+				'2014-10-26 19:12:41',
+				'שפינוזה על הרמב\"ם',
+				'חגי הופר',
+				''
+			)
+		;
+
