@@ -3407,3 +3407,115 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/19-07.html',
+		'<p>אני פעם כתבתי: &quot;ופילוסופיה בכלל - טובה רק במידה ובגיל הנעורים (נראה לי שזו הביקורת המוטחת כלפי \'מרדף האמרים\' בפסוק - משלי יט7: &quot;כל אחי רש שנאהו אף כי מרעהו רחקו ממנו מרדף אמרים לא המה&quot;).&quot;.</p><p>אך עדיין סיומת הפסוק קשה לי. ואולי יש לקרוא באמת &quot;לו המה&quot; ולחברו לפסוק הבא המדבר מעניין תועלת רכישת החכמה? -</p><p>8 קנה-לב אהב נפשו שמר תבונה למצא-טוב.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-26 08:41:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/19-07.html',
+		'<p>אני פעם כתבתי: &quot;ופילוסופיה בכלל - טובה רק במידה ובגיל הנעורים (נראה לי שזו הביקורת המוטחת כלפי \'מרדף האמרים\' בפסוק - משלי יט7: &quot;כל אחי רש שנאהו אף כי מרעהו רחקו ממנו מרדף אמרים לא המה&quot;).&quot;.</p><p>אך עדיין סיומת הפסוק קשה לי. ואולי יש לקרוא באמת &quot;לו המה&quot; ולחברו לפסוק הבא המדבר מעניין תועלת רכישת החכמה? -</p><p>8 קנה-לב אהב נפשו שמר תבונה למצא-טוב.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-26 08:43:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-26 08:44:10' 
+			WHERE messageid=4794;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/19-07.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-26 08:44:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-26 08:44:20' 
+			WHERE messageid=4795;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/19-07.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-26 10:22:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/19-07.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-10-26 10:22:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-26 10:22:42' 
+			WHERE messageid=4797;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-26 10:22:44' 
+			WHERE messageid=4796;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>עיזרו לי דחוף שלא אזרק לרחוב עם 4 ילדיי0522418830</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlaggU-QlqOx7XynN8H8xenmefGezPaSjQ',
+		'דגנית עדן',
+		'2014-10-26 14:58:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>עיזרו לי דחוף שלא אזרק לרחוב עם 4 ילדיי0522418830</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlaggU-QlqOx7XynN8H8xenmefGezPaSjQ',
+		'דגנית עדן',
+		'2014-10-26 14:59:07'
+		)
+		;
+
