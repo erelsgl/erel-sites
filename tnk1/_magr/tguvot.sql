@@ -3519,3 +3519,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה של 5000-8000 שח , איך אני יכול לקבל הלוואה 0548124144</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk9AGN11NRCdilYEHpfNbrQBM0CrVSlsdg',
+		'Roni Keren',
+		'2014-10-28 13:54:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/lvra.html',
+		'<p>וואו זה בכלל לא עוזר לי</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnC0eBn-UZe8DEd-NDWPCk5FZs3BqhACYM',
+		'רועי להב',
+		'2014-10-28 17:05:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>הלואה ליולדת ילד רביעי דחוף, יכולת החזר תוך שנה, נדרש בין 3000 ל 4000</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmK5-u762AtK3EL7-d4ZyVRYS2vgIQrH3E',
+		'אריק עובדיה קוקולייב',
+		'2014-10-28 21:00:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/lvra.html',
+		'<p>ספר נחמיה פרק ב כתוב:</p><p>(ב) וַיֹּאמֶר לִי הַמֶּלֶךְ מַדּוּעַ פָּנֶיךָ רָעִים וְאַתָּה אֵינְךָ חוֹלֶה אֵין זֶה כִּי אִם רֹעַ לֵב וָאִירָא הַרְבֵּה מְאֹד</p><p>רֹעַ לֵב = רועי להב</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-29 03:59:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/lvra.html',
+		'<p>הזה יעזור לך</p><p>ספר נחמיה פרק ב כתוב:</p><p>(ב) וַיֹּאמֶר לִי הַמֶּלֶךְ מַדּוּעַ פָּנֶיךָ רָעִים וְאַתָּה אֵינְךָ חוֹלֶה אֵין זֶה כִּי אִם רֹעַ לֵב וָאִירָא הַרְבֵּה מְאֹד</p><p>רֹעַ לֵב = רועי להב</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-10-29 04:02:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-29 04:02:44' 
+			WHERE messageid=4803;
+
