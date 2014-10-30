@@ -3586,3 +3586,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-10-29 04:02:44' 
 			WHERE messageid=4803;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>קצת ישן, אבל כנראה עדיין אקטואלי:</p><p>http://www.cooperativeindividualism.org/foldvary-fred_equal-access-to-land-key-to-peace-in-holy-land-1986.html</p><p>הכותב הוא פרד פולדבארי, כלכלן אמריקאי מאסכולת הנרי ג\'ורג\' (ראו ערכו בויקיפדיה). הנרי ג\'ורג\' וממשיכי דרכו טוענים, שהבעלות על הקרקע היא שורש כל הבעיות, ולכן שורש כל הפתרונות הוא לחלק את הקרקע בין האזרחים. ואם לא מחלקים את הקרקע עצמה, אז יש לחלק את ערך הקרקע ע&quot;י מס-ערך-קרקע שיוחזר לאזרחים. פרד טוען, שהפתרון הזה יכול לפתור את את הסכסוך הטריטוריאלי בין ישראל לערבים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-29 08:51:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-29 08:51:53' 
+			WHERE messageid=4805;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>קצת ישן, אבל כנראה עדיין אקטואלי:</p><p>http://www.cooperativeindividualism.org/foldvary-fred_equal-access-to-land-key-to-peace-in-holy-land-1986.html</p><p>הכותב הוא פרד פולדבארי, כלכלן אמריקאי מאסכולת הנרי ג\'ורג\' (ראו ערכו בויקיפדיה). הנרי ג\'ורג\' וממשיכי דרכו טוענים, שהבעלות על הקרקע היא שורש כל הבעיות, ולכן שורש כל הפתרונות הוא לחלק את הקרקע בין האזרחים. ואם לא מחלקים את הקרקע עצמה, אז יש לחלק את ערך הקרקע ע&quot;י מס-ערך-קרקע שיוחזר לאזרחים. פרד טוען, שהפתרון הזה יכול לפתור את את הסכסוך הטריטוריאלי בין ישראל לערבים.</p><p>לענ&quot;ד, הוא ממעיט מדי בחשיבותו של הצד הדתי בסכסוך. אבל עדיין, יש חשיבות רבה גם לצד הכלכלי הקשור לבעלות על קרקע. </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-29 08:52:45'
+		)
+		;
+

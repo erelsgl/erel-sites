@@ -1,0 +1,21 @@
+2014.10.29 10:47:50		samirina123 @ gmail.com	PASSWORD
+Array
+(
+    [username] => סמי אלקיים
+    [password] => 
+    [email] => samirina123@gmail.com
+    [rememberme] => on
+    [followup] => tnk1/prqim/t0137.htm
+    [file] => tnk1/prqim/t0137.htm
+    [origsubject] => בראשית לז
+    [origname] => 
+    [origemail] => 
+    [bodyclass] => tguva
+    [title] => על עם תחת כיבוש
+    [body] => עונשים נגד תושבי מזרח ירושלים ילבה עוד אלימות קשה זה עניין של אמונה ואדמה ודת<br />אהבתי · השב · לפני מספר שניות<p>Sami Elkaiam על כן אלימות תגרור אלימות, לא ניתן להכניע עם שלם אשר רוצה חופש שלו, ויילחם נגד שודדי אדמה, כוחניות לא עובדת במקרה זה לצערי,<br />אהבתי · השב · דקה אחת
+    [qijur] => http://
+    [add] => שליחה
+    [to] => add
+    [lang] => 
+    [author] => 
+)
