@@ -55,6 +55,13 @@ sub wiki_login {
 		if ($response->content =~ m|<login[^<>]*result="([^\"]+)"[^<>]*/>|) {
 			my $result = $1;
 			print "Login as $username: $result\n"; 
+			if ($result =~ /WrongPass/) {
+				print "Wrong password for user $username\n";
+				return 0;
+			} elsif ($result =~ /Throttled/) {
+				print "user $username is throttled (too many login attempts)\n";
+				return 0;
+			}
 			$response=$browser->get("$api_url?titles=עמוד_ראשי&action=query&prop=info&intoken=edit&format=xml");
 			if ($response->content =~ m|<page[^<>]*edittoken="([^\"]+)"[^<>]*/>|) {
 				my $edittoken = $1;

@@ -4,16 +4,20 @@
 
 #
 # Version history:
-#   2007-07, Ori Miller: creation
+#   2007-07, Ori Miller: created
 #   2007-08, Erel Segal: added the "EDIT_FUNCTION" feature.
+#	2014-10, Erel Segal: rewrote and made public
 #
 
 #
 # USAGE:
-#     perl u2w.pl [filename]
+#     perl upload2wiki.pl [filename]
 #
 # If filename contains the string "existing", the bot will override existing content.
 #
+
+use strict;
+use warnings;
 
 use Encode;
 use FindBin;
@@ -24,12 +28,8 @@ use url_encode_decode;
 use Hebrew_utf8;
 use TNK_utf8;
 
-my $username = "your-username";
-my $password = "your-password";
 my $editor = "gedit";   # For Windows, use e.g.: '"C:\\Program Files\\PSPad editor\\PSPad.exe"';
 
-
-$main::summary = "";
 
 
 # INPUT: the current page content.
@@ -59,11 +59,28 @@ sub edit_function {
 
 my $in_file = shift || "";
 
+
+
 package main;
 
+my $credentials_file = "$FindBin::Bin/credentials.pm";
+use credentials;
+if (!$main::username || !$main::password) {
+	print "Enter your Wikisource Username: ";   $main::username=<STDIN>; chomp($main::username);
+	print "Enter your Wikisource Password: ";   $main::password=<STDIN>; chomp($main::password);
+	
+	print "Write your credentials on your computer for future access? (yes/no): ";
+	if (<STDIN> =~ /yes/) {
+		open CREDENTIALS, ">$credentials_file" or die "cannot write into file $credentials_file";
+		print CREDENTIALS "\$main::username = '$main::username';\n\$main::password = '$main::password';\n1;\n";
+		close CREDENTIALS;
+		print "credentials written to file $credentials_file\n\n";
+	} else {
+		print "credentials not written\n\n";
+	}
+}
 
-use strict;
-use warnings;
+$main::summary = "";
 
 
 print "Uploading file $in_file\n";
@@ -78,7 +95,7 @@ $main::SHOULD_REWRITE_EXISTING_PAGES = ($in_file =~ /existing/);
 
 my $count_pages = 0;
 
-($main::edittoken = wiki_login("$main::TARGET_URL/api.php", $username, $password))
+($main::edittoken = wiki_login("$main::TARGET_URL/api.php", $main::username, $main::password))
 	or die "Cannot login\n";
 
 my $wikia_replace_links_file = '';

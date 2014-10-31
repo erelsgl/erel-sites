@@ -2,6 +2,8 @@
 /sites
 /whatsnew
 /a*n
-/a*s.txt
+/au*rs.txt
 /wikia_replace_links.txt
 *~
+bo*log.txt
+*.log
