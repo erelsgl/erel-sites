@@ -3617,3 +3617,286 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-30 10:23:29' 
+			WHERE messageid=4398;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>רבים מהוגי-הדעות הציוניים הראשונים הושפעו מרעיונותיו של הנרי ג\'ורג\' על חשיבות הקרקע:</p><p>http://jewishcurrents.org/henry-george-zionism-32779</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:21:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:21:30' 
+			WHERE messageid=3329;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www1.bizportal.co.il/article/356140</p><p>&quot;זוג צעיר או זוג בכלל שמרוויח עד 20 אלף שקל אינו מסוגל לרכוש דירה בישראל&quot;, אומר לוי בראשית דבריו. &quot;המפתח נמצא אצל הממשלה אשר צריכה להפחית את רכיב המס על הקרקע, אך היא אינה מעוניינת לוותר על 10 מיליארד שקל בשנה אשר מכניס ענף הדיור, מתוך סכום זה רק הקרקע מכניסה 7 מיליארד שקל. כיצד המדינה תוותר על סכומים אלו במצב של גירעון כה עמוק? רצונו של יאיר לפיד כן, אך אם הממשלה לא תשנה את הדיסק ותשכיל להבין שהקרקע שייכת לתושבים ולא תוזיל את המיסים, המהווים 30% מסך מחיר הדירה, לא ישתנה כאן דבר&quot; (אבנר לוי, יו&quot;ר ארגון הקבלנים תל אביב-יפו-בת ים)</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:22:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:22:28' 
+			WHERE messageid=3186;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>כמה תוספות למאמר:</p><p>* יש אנשים (כהרב יוסף ליפשיץ למשל) הטוענים שבעלות על קרקע אינה רלבנטית בימינו. המציאות מראה בדיוק את ההיפך. ראו בקישור, אוסף של כתבות על בעיות אקטואליות הקשורות ישירות לבעיית הבעלות על הקרקע: tora.us.fm/tnk1/msr/knesset/land.html</p><p>* מתוך דו&quot;ח מרכז המחקר והמידע של הכנסת על הרפורמה במינהל מקרקעי ישראל:   http://www.knesset.gov.il/mmm/data/pdf/m02267.pdf   &quot;המצב שבו הרוב הגדול של קרקעות (93%) הוא בבעלות המדינה, הוא יוצא דופן לעומת רוב מדינות לעולם&quot;.</p><p>* רבים מהוגי-הדעות הציוניים הראשונים הושפעו מרעיונותיו של הנרי ג\'ורג\' על חשיבות הקרקע:  http://jewishcurrents.org/henry-george-zionism-32779</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:24:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:24:40' 
+			WHERE messageid=3411;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:24:42' 
+			WHERE messageid=4807;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>כמה תוספות למאמר:</p><p>* יש אנשים (כהרב יוסף ליפשיץ למשל) הטוענים שבעלות על קרקע אינה רלבנטית בימינו. המציאות מראה בדיוק את ההיפך. ראו בקישור, אוסף של כתבות על בעיות אקטואליות הקשורות ישירות לבעיית הבעלות על הקרקע: http://tora.us.fm/tnk1/msr/knesset/land.html</p><p>* מתוך דו&quot;ח מרכז המחקר והמידע של הכנסת על הרפורמה במינהל מקרקעי ישראל: http://www.knesset.gov.il/mmm/data/pdf/m02267.pdf &quot;המצב שבו הרוב הגדול של קרקעות (93%) הוא בבעלות המדינה, הוא יוצא דופן לעומת רוב מדינות לעולם&quot;.</p><p>* רבים מהוגי-הדעות הציוניים הראשונים הושפעו מרעיונותיו של הנרי ג\'ורג\' על חשיבות הקרקע: http://jewishcurrents.org/henry-george-zionism-32779</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:25:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:25:11' 
+			WHERE messageid=4809;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:25:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:25:38' 
+			WHERE messageid=4811;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.globes.co.il/news/article.aspx?did=1000900077</p><p>הכלכלן שלמה מעוז קורא לצעירים היהודים לתפוס קרקעות בכוח, ולא מסיבות לאומיות אלא מסיבות כלכליות: &quot;אם לא נראה פתרון תוך 3-4 חודשים, הצעירים יצטרכו לצאת ולכבוש שטחים כמו בברזיל&quot;, אמר מעוז. &quot;כמו שהבדואים עושים את זה בדרום, כמו שהחרדים עושים בבני-ברק - לתפוס שטחים ולקבוע עובדות. יצטרכו לעשות \'חומה ומגדל\' - עוד פעם להקים ולהקים. ממשלת ישראל מספסרת בקרקע וגובה עשרות מיליארדי שקלים על הקרקע. החלופה היא לעזוב את הארץ, והמפעל הציוני יתמוטט. צאו ותתפסו קרקע בכוח&quot;.&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:27:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>הכלכלן שלמה מעוז קורא היום (08/12/2013) לצעירים יהודים הסובלים ממצוקת הדיור &quot;לכבוש&quot; קרקעות בסגנון &quot;חומה ומגדל&quot;.   &quot;אם לא נראה פתרון תוך 3-4 חודשים, הצעירים יצטרכו לצאת ולכבוש שטחים כמו בברזיל&quot;, אמר מעוז. &quot;כמו שהבדואים עושים את זה בדרום, כמו שהחרדים עושים בבני-ברק - לתפוס שטחים ולקבוע עובדות. יצטרכו לעשות \'חומה ומגדל\' - עוד פעם להקים ולהקים. ממשלת ישראל מספסרת בקרקע וגובה עשרות מיליארדי שקלים על הקרקע. החלופה היא לעזוב את הארץ, והמפעל הציוני יתמוטט. צאו ותתפסו קרקע בכוח&quot;.&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:27:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.globes.co.il/news/article.aspx?did=1000900077</p><p>הכלכלן שלמה מעוז קורא היום (08/12/2013) לצעירים יהודים הסובלים ממצוקת הדיור &quot;לכבוש&quot; קרקעות בסגנון &quot;חומה ומגדל&quot;. &quot;אם לא נראה פתרון תוך 3-4 חודשים, הצעירים יצטרכו לצאת ולכבוש שטחים כמו בברזיל&quot;, אמר מעוז. &quot;כמו שהבדואים עושים את זה בדרום, כמו שהחרדים עושים בבני-ברק - לתפוס שטחים ולקבוע עובדות. יצטרכו לעשות \'חומה ומגדל\' - עוד פעם להקים ולהקים. ממשלת ישראל מספסרת בקרקע וגובה עשרות מיליארדי שקלים על הקרקע. החלופה היא לעזוב את הארץ, והמפעל הציוני יתמוטט. צאו ותתפסו קרקע בכוח&quot;.&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-10-31 06:28:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:28:04' 
+			WHERE messageid=4813;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-10-31 06:28:05' 
+			WHERE messageid=4812;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ברוח מחאת היורדים וחג הסוכות, אתחיל במאמר מ 14.07.2013:</p><p>http://www.themarker.com/markerweek/1.2069919</p><p>&quot;לא חייבים להשתעבד למשכנתא או לשכירות: לבנות בית ב-100 אלף שקל&quot;</p><p>הכתבה מתארת מספר דרכים יצירתיות לבנות בית בזול, כגון: משאית, בקתת עץ, אוהל או יורט (מעין אוהל מונגולי). משום-מה שכחו לציין את הסוכה, שאפשר לבנות לגמרי בחינם תוך חצי יום. אבל כל הדרכים הללו דורשות קרקע: &quot;גם אם השתכנעתם לבנות יורט, אל תמהרו לשמוח. אתם עדיין צריכים למצוא מקום להניח אותו. זאת הבעיה הגדולה: ללא קרקע, גם קוני היורטים נתקעים, פחות או יותר, באותו מצב שבו נתקעים זוגות צעירים אחרים בישראל כשהם מחפשים בית. אמנם המחיר של בניית יורט נמוך משמעותית מבניית בית רגיל, אך את הקרקע עדיין צריך לרכוש&quot;.</p><p>דיני הנחלות והיובל שבתורה נועדו להבטיח שלכל אדם תהיה קרקע. אילו היינו מקיימים חוקים אלה, לא היה בישראל אדם אחד משועבד למשכנתא.</p><p>חג סוכות שמח! ושנזכה בקרוב לעבור מדירת עראי לדירת קבע.</p>', `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>28/04/13:\r\nאילי-הון ערבים קונים קרקעות בארץ ישראל, בעיקר בגליל.   http://www.inn.co.il/News/News.aspx/255110</p><p>התופעה של אילי-הון זרים שקונים קרקעות קרתה במדינות רבות ברחבי העולם. במקרים רבים, המדינה גילתה מאוחר מדי שהקרקעות שלה משועבדות לזרים, וניסתה להפקיע את הקרקעות, אבל הדבר גרם למלחמות. כך למשל, ניסיונה של גוואטמלה להפקיע קרקעות מתאגיד-פירות אמריקאי גרם לפלישה אמריקאית ולמלחמת אזרחים שנמשכה מעל 30 שנה: https://en.wikipedia.org/wiki/History_of_Guatemala#Agrarian_Reform_and_UFCo_conflict .</p><p>כדי למנוע בעיות כאלו, נקבע בתורה חוק היובל, הקובע שכל קרקע חוזרת לבעליה ביובל, גם אם נמכרה לגוי (&quot;לעקר משפחת גר&quot;). כל אדם שקונה קרקע, בין אם הוא יהודי או לא, צריך לדעת מראש שהמכירה היא זמנית, עד היובל. כך לא יהיה צורך במהלכים קשים ומסוכנים של הפקעת קרקעות.</p>', `deleted_at` = NULL WHERE `messageid` = 4756 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>28/04/13:\r\nhttp://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>\r\n\r\n\"המאהל הוותיק מאכלס עשרות דיירים, ושטחו צומצם לאחרונה בשל עבודות להקמת תחנה תת-קרקעית של הרכבת הקלה. קיומו בשטח, עם זאת, לא קושר על ידי שיין למחאה חברתית ישירה. \"תפסיקו להיות פראיירים ולשלם את שכר הדירה המטורף, תקימו אוהל, תחסכו ותתחילו ולחיות\".\"\r\n\r\n<p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html  </p>\r\n\r\nטוב לשבת באוהלים מבנות בתים.', `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>והנה עוד כתבה על הקשר בין קרקעות למחירי הדירות, מ-16/05/2013:</p><p>http://www.globes.co.il/news/article.aspx?did=1000844287</p><p>&quot;תוכניתו של שר האוצר לבניית 150 אלף יח&quot;ד להשכרה על קרקע חקלאית בשולי הערים, מעוררת בקיבוצים ובמושבים תקווה מחודשת לשיפור גובה הפיצוי עבור כל דונם חקלאי&quot;.</p><p>האם אכן מגיע לחקלאים, שקיבלו מהמדינה דונמים רבים של קרקעות חקלאיות, לקבל פיצוי על הקרקעות כאשר הן מופשרות לבניה? </p><p>האם לא עדיף שכל אזרח בישראל יקבל קרקע שווה שעליה יוכל לבנות?</p>', `deleted_at` = NULL WHERE `messageid` = 4760 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4761 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4805 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>קצת ישן (1986), אבל כנראה עדיין אקטואלי:</p><p>http://www.cooperativeindividualism.org/foldvary-fred_equal-access-to-land-key-to-peace-in-holy-land-1986.html</p><p>הכותב הוא פרד פולדבארי, כלכלן אמריקאי מאסכולת הנרי ג\'ורג\' (ראו ערכו בויקיפדיה). הנרי ג\'ורג\' וממשיכי דרכו טוענים, שהבעלות על הקרקע היא שורש כל הבעיות, ולכן שורש כל הפתרונות הוא לחלק את הקרקע בין האזרחים. ואם לא מחלקים את הקרקע עצמה, אז יש לחלק את ערך הקרקע ע&quot;י מס-ערך-קרקע שיוחזר לאזרחים. פרד טוען, שהפתרון הזה יכול לפתור את את הסכסוך הטריטוריאלי בין ישראל לערבים.</p><p>לענ&quot;ד, הוא ממעיט מדי בחשיבותו של הצד הדתי בסכסוך. אבל עדיין, יש חשיבות רבה גם לצד הכלכלי הקשור לבעלות על קרקע. </p>', `deleted_at` = NULL WHERE `messageid` = 4806 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4808 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4811 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4812 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4813 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4814 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4756 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>11.10.14:\r\nhttp://www.ynet.co.il/articles/0,7340,L-4579486,00.html</p>\r\n\r\n\"המאהל הוותיק מאכלס עשרות דיירים, ושטחו צומצם לאחרונה בשל עבודות להקמת תחנה תת-קרקעית של הרכבת הקלה. קיומו בשטח, עם זאת, לא קושר על ידי שיין למחאה חברתית ישירה. \"תפסיקו להיות פראיירים ולשלם את שכר הדירה המטורף, תקימו אוהל, תחסכו ותתחילו ולחיות\".\"\r\n\r\n<p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html  </p>\r\n\r\nטוב לשבת באוהלים מבנות בתים.', `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>16/05/2013, כתבה נוספת על הקשר בין קרקעות למחירי הדירות:</p><p>http://www.globes.co.il/news/article.aspx?did=1000844287</p><p>&quot;תוכניתו של שר האוצר לבניית 150 אלף יח&quot;ד להשכרה על קרקע חקלאית בשולי הערים, מעוררת בקיבוצים ובמושבים תקווה מחודשת לשיפור גובה הפיצוי עבור כל דונם חקלאי&quot;.</p><p>האם אכן מגיע לחקלאים, שקיבלו מהמדינה דונמים רבים של קרקעות חקלאיות, לקבל פיצוי על הקרקעות כאשר הן מופשרות לבניה? </p><p>האם לא עדיף שכל אזרח בישראל יקבל קרקע שווה שעליה יוכל לבנות?</p>\r\n\r\n', `deleted_at` = NULL WHERE `messageid` = 4760 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4761 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>1986: קצת ישן אבל כנראה עדיין אקטואלי:</p><p>http://www.cooperativeindividualism.org/foldvary-fred_equal-access-to-land-key-to-peace-in-holy-land-1986.html</p><p>הכותב הוא פרד פולדבארי, כלכלן אמריקאי מאסכולת הנרי ג\'ורג\' (ראו ערכו בויקיפדיה). הנרי ג\'ורג\' וממשיכי דרכו טוענים, שהבעלות על הקרקע היא שורש כל הבעיות, ולכן שורש כל הפתרונות הוא לחלק את הקרקע בין האזרחים. ואם לא מחלקים את הקרקע עצמה, אז יש לחלק את ערך הקרקע ע&quot;י מס-ערך-קרקע שיוחזר לאזרחים. פרד טוען, שהפתרון הזה יכול לפתור את את הסכסוך הטריטוריאלי בין ישראל לערבים.</p><p>לענ&quot;ד, הוא ממעיט מדי בחשיבותו של הצד הדתי בסכסוך. אבל עדיין, יש חשיבות רבה גם לצד הכלכלי הקשור לבעלות על קרקע. </p>', `deleted_at` = NULL WHERE `messageid` = 4806 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>04/04/2013: \r\nhttp://www1.bizportal.co.il/article/356140</p>]\r\n<p>&quot;זוג צעיר או זוג בכלל שמרוויח עד 20 אלף שקל אינו מסוגל לרכוש דירה בישראל&quot;, אומר לוי בראשית דבריו. &quot;המפתח נמצא אצל הממשלה אשר צריכה להפחית את רכיב המס על הקרקע, אך היא אינה מעוניינת לוותר על 10 מיליארד שקל בשנה אשר מכניס ענף הדיור, מתוך סכום זה רק הקרקע מכניסה 7 מיליארד שקל. כיצד המדינה תוותר על סכומים אלו במצב של גירעון כה עמוק? רצונו של יאיר לפיד כן, אך אם הממשלה לא תשנה את הדיסק ותשכיל להבין שהקרקע שייכת לתושבים ולא תוזיל את המיסים, המהווים 30% מסך מחיר הדירה, לא ישתנה כאן דבר&quot; (אבנר לוי, יו&quot;ר ארגון הקבלנים תל אביב-יפו-בת ים)</p>', `deleted_at` = NULL WHERE `messageid` = 4808 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>08/12/2013:\r\nhttp://www.globes.co.il/news/article.aspx?did=1000900077</p>\r\n<p>הכלכלן שלמה מעוז קורא  לצעירים יהודים הסובלים ממצוקת הדיור &quot;לכבוש&quot; קרקעות בסגנון &quot;חומה ומגדל&quot;. &quot;אם לא נראה פתרון תוך 3-4 חודשים, הצעירים יצטרכו לצאת ולכבוש שטחים כמו בברזיל&quot;, אמר מעוז. &quot;כמו שהבדואים עושים את זה בדרום, כמו שהחרדים עושים בבני-ברק - לתפוס שטחים ולקבוע עובדות. יצטרכו לעשות \'חומה ומגדל\' - עוד פעם להקים ולהקים. ממשלת ישראל מספסרת בקרקע וגובה עשרות מיליארדי שקלים על הקרקע. החלופה היא לעזוב את הארץ, והמפעל הציוני יתמוטט. צאו ותתפסו קרקע בכוח&quot;.&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 4814 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>14.07.13: ברוח מחאת היורדים וחג הסוכות, אתחיל ב:</p><p>http://www.themarker.com/markerweek/1.2069919</p><p>&quot;לא חייבים להשתעבד למשכנתא או לשכירות: לבנות בית ב-100 אלף שקל&quot;</p><p>הכתבה מתארת מספר דרכים יצירתיות לבנות בית בזול, כגון: משאית, בקתת עץ, אוהל או יורט (מעין אוהל מונגולי). משום-מה שכחו לציין את הסוכה, שאפשר לבנות לגמרי בחינם תוך חצי יום. אבל כל הדרכים הללו דורשות קרקע: &quot;גם אם השתכנעתם לבנות יורט, אל תמהרו לשמוח. אתם עדיין צריכים למצוא מקום להניח אותו. זאת הבעיה הגדולה: ללא קרקע, גם קוני היורטים נתקעים, פחות או יותר, באותו מצב שבו נתקעים זוגות צעירים אחרים בישראל כשהם מחפשים בית. אמנם המחיר של בניית יורט נמוך משמעותית מבניית בית רגיל, אך את הקרקע עדיין צריך לרכוש&quot;.</p><p>דיני הנחלות והיובל שבתורה נועדו להבטיח שלכל אדם תהיה קרקע. אילו היינו מקיימים חוקים אלה, לא היה בישראל אדם אחד משועבד למשכנתא.</p><p>חג סוכות שמח! ושנזכה בקרוב לעבור מדירת עראי לדירת קבע.</p>', `deleted_at` = NULL WHERE `messageid` = 4748 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4749 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>28.04.13:\r\nאילי-הון ערבים קונים קרקעות בארץ ישראל, בעיקר בגליל.   http://www.inn.co.il/News/News.aspx/255110</p><p>התופעה של אילי-הון זרים שקונים קרקעות קרתה במדינות רבות ברחבי העולם. במקרים רבים, המדינה גילתה מאוחר מדי שהקרקעות שלה משועבדות לזרים, וניסתה להפקיע את הקרקעות, אבל הדבר גרם למלחמות. כך למשל, ניסיונה של גוואטמלה להפקיע קרקעות מתאגיד-פירות אמריקאי גרם לפלישה אמריקאית ולמלחמת אזרחים שנמשכה מעל 30 שנה: https://en.wikipedia.org/wiki/History_of_Guatemala#Agrarian_Reform_and_UFCo_conflict .</p><p>כדי למנוע בעיות כאלו, נקבע בתורה חוק היובל, הקובע שכל קרקע חוזרת לבעליה ביובל, גם אם נמכרה לגוי (&quot;לעקר משפחת גר&quot;). כל אדם שקונה קרקע, בין אם הוא יהודי או לא, צריך לדעת מראש שהמכירה היא זמנית, עד היובל. כך לא יהיה צורך במהלכים קשים ומסוכנים של הפקעת קרקעות.</p>', `deleted_at` = NULL WHERE `messageid` = 4756 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4752 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>16.05.13, כתבה נוספת על הקשר בין קרקעות למחירי הדירות:</p><p>http://www.globes.co.il/news/article.aspx?did=1000844287</p><p>&quot;תוכניתו של שר האוצר לבניית 150 אלף יח&quot;ד להשכרה על קרקע חקלאית בשולי הערים, מעוררת בקיבוצים ובמושבים תקווה מחודשת לשיפור גובה הפיצוי עבור כל דונם חקלאי&quot;.</p><p>האם אכן מגיע לחקלאים, שקיבלו מהמדינה דונמים רבים של קרקעות חקלאיות, לקבל פיצוי על הקרקעות כאשר הן מופשרות לבניה? </p><p>האם לא עדיף שכל אזרח בישראל יקבל קרקע שווה שעליה יוכל לבנות?</p>\r\n\r\n', `deleted_at` = NULL WHERE `messageid` = 4760 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4761 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4806 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>04.04.13: \r\nhttp://www1.bizportal.co.il/article/356140</p>]\r\n<p>&quot;זוג צעיר או זוג בכלל שמרוויח עד 20 אלף שקל אינו מסוגל לרכוש דירה בישראל&quot;, אומר לוי בראשית דבריו. &quot;המפתח נמצא אצל הממשלה אשר צריכה להפחית את רכיב המס על הקרקע, אך היא אינה מעוניינת לוותר על 10 מיליארד שקל בשנה אשר מכניס ענף הדיור, מתוך סכום זה רק הקרקע מכניסה 7 מיליארד שקל. כיצד המדינה תוותר על סכומים אלו במצב של גירעון כה עמוק? רצונו של יאיר לפיד כן, אך אם הממשלה לא תשנה את הדיסק ותשכיל להבין שהקרקע שייכת לתושבים ולא תוזיל את המיסים, המהווים 30% מסך מחיר הדירה, לא ישתנה כאן דבר&quot; (אבנר לוי, יו&quot;ר ארגון הקבלנים תל אביב-יפו-בת ים)</p>', `deleted_at` = NULL WHERE `messageid` = 4808 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>08.12.13:\r\nhttp://www.globes.co.il/news/article.aspx?did=1000900077</p>\r\n<p>הכלכלן שלמה מעוז קורא  לצעירים יהודים הסובלים ממצוקת הדיור &quot;לכבוש&quot; קרקעות בסגנון &quot;חומה ומגדל&quot;. &quot;אם לא נראה פתרון תוך 3-4 חודשים, הצעירים יצטרכו לצאת ולכבוש שטחים כמו בברזיל&quot;, אמר מעוז. &quot;כמו שהבדואים עושים את זה בדרום, כמו שהחרדים עושים בבני-ברק - לתפוס שטחים ולקבוע עובדות. יצטרכו לעשות \'חומה ומגדל\' - עוד פעם להקים ולהקים. ממשלת ישראל מספסרת בקרקע וגובה עשרות מיליארדי שקלים על הקרקע. החלופה היא לעזוב את הארץ, והמפעל הציוני יתמוטט. צאו ותתפסו קרקע בכוח&quot;.&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 4814 AND 1 LIMIT 1;
+
