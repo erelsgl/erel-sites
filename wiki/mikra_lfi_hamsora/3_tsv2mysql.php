@@ -26,6 +26,14 @@ sql_queries_or_die("
 	    psuqim_dovi.stylized_text=psuqim_dovi_corrected.stylized_text
 	");
 
+
+sql_queries_or_die('
+	update psuqim_dovi
+	set prefix=replace(prefix,"/A|",concat("/",chapter_id,"|"))
+	where prefix like "%/A|%"
+	');
+
+		
 include("4_mysql2wiki.php");
 
 // update psuqim_dovi

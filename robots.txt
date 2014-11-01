@@ -3,10 +3,8 @@ Disallow: /
 
 User-agent: *
 Disallow: /_script
-Disallow: /tokxot/xrut/91
-Disallow: /tokxot/xrut/91
 Disallow: /tnk1/_magr
-Disallow: /erelvgalya
+Disallow: /e*a
 Disallow: /quest/world/article.php
 Disallow: /quest/world/soldier.php
 Disallow: /quest/world/virtuequest.php

@@ -87,18 +87,19 @@ sub number2hebrew {
 }
 
 
-
-sub hebrew2latin {
-   my $hebrew = $_[0];
-   $hebrew =~ tr! אבגדהוזחטיכךלםמנןסעפףצץקרשת!_ABGDHWZXFYKKLMMNNSEPPCCQRJT!;
-   return $hebrew;
-}
-
-sub latin2hebrew {
-   my $latin = $_[0];
-   $latin =~ tr!ABGDHWZXFYKLMNSEPCQRJT!אבגדהוזחטיכלמנסעפצקרשת!;
-   return $latin;
-}
+# The following subs don't work in UTF-8 because of "tr"
+#
+# sub hebrew2latin {
+#   my $hebrew = $_[0];
+#   $hebrew =~ tr! אבגדהוזחטיכךלםמנןסעפףצץקרשת!_ABGDHWZXFYKKLMMNNSEPPCCQRJT!;
+#   return $hebrew;
+# }
+#
+# sub latin2hebrew {
+#   my $latin = $_[0];
+#   $latin =~ tr!ABGDHWZXFYKLMNSEPCQRJT!אבגדהוזחטיכלמנסעפצקרשת!;
+#   return $latin;
+# }
 
 sub to_txiliot {
    my $string = $_[0];
