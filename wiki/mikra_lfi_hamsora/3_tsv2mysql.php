@@ -27,11 +27,22 @@ sql_queries_or_die("
 	");
 
 
+// fix bugs caused by Google Docs export:
 sql_queries_or_die('
 	update psuqim_dovi
-	set prefix=replace(prefix,"/A|",concat("/",chapter_id,"|"))
-	where prefix like "%/A|%"
-	');
+	set verse_text=replace(verse_text,"׃ ","׃")
+		,verse_text=replace(verse_text,"{{ססס}} ","{{ססס}}")
+	    ,prefix=replace(prefix,"{{ססס}} ","{{ססס}}")
+	    ,prefix=replace(prefix,"// ","//")
+		');
+
+
+
+// sql_queries_or_die('
+// 	update psuqim_dovi
+// 	set prefix=replace(prefix,"/A|",concat("/",chapter_id,"|"))
+// 	where prefix like "%/A|%"
+// 	');
 
 		
 include("4_mysql2wiki.php");
