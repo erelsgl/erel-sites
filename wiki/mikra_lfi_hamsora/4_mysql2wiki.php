@@ -11,7 +11,7 @@ $chapter_rows = sql_query_or_die("
 			-- CONCAT('פרק',' ',chapter) AS chapter_name   -- for main space
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'ספר דברי %'
+			OR chapter_id LIKE 'ספר דברי %טז%'
 		
 		GROUP BY chapter_id
 		");
@@ -53,11 +53,7 @@ function chapter_normal($chapter_id,$chapter_name) {
 		if ($verse_number==1)
 			$row['prefix'] = preg_replace("@^$END_OF_LINE_REPLACEMENT@", "", $row['prefix']);
 	
-// 		if ($ADD_NEW_CODES&&($verse_number==0||$verse_number==999))
-// 			$text .= "<noinclude>";
 		$text .= replace_space_and_newline($row['prefix']);
-// 		if ($ADD_NEW_CODES&&($verse_number==0||$verse_number==999))
-// 			$text .= "</noinclude>".($verse_number==999?"\n":"");
 	
 		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
 			$text .= "<$QTA_HTXLA=$SIMN/>";
@@ -99,11 +95,7 @@ function chapter_stylized($chapter_id,$chapter_name) {
 		if ($verse_number==1)
 			$row['prefix'] = preg_replace("@^$END_OF_LINE_REPLACEMENT@", "", $row['prefix']);
 
-		if (($verse_number==0||$verse_number==999))
-			$text .= "<noinclude>";
 		$text .= replace_space_and_newline($row['prefix']);
-		if (($verse_number==0||$verse_number==999))
-			$text .= "</noinclude>".($verse_number==999?"\n":"");
 
 		if (0<$verse_number && $verse_number<999) {
 			$text .= "<$QTA_HTXLA=$SIMN/>";
