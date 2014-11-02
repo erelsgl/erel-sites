@@ -2404,3 +2404,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0118.htm',
+				'tnk1/messages/prqim_t0118_7.html',
+				NULL,
+				'2014-11-01 19:36:24',
+				'2014-11-01 19:36:24',
+				'למה ה\' בחר דווקא באברהם?',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-02 04:22:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0118_7.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/yph.html',
+				'tnk1/nvia/yjayhu/yj-03-24.html',
+				NULL,
+				'2014-11-02 07:58:48',
+				'2014-11-02 07:58:48',
+				'הנשים יפות-התואר יפלו בשבי',
+				'אראל',
+				''
+			)
+		;
+
