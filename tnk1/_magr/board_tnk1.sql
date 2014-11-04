@@ -2460,3 +2460,51 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_47.html',
+				NULL,
+				'2014-11-03 12:41:07',
+				'2014-11-03 12:41:07',
+				'על \"כי קרוב אליך\" מאת הרב יעקב מדן',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-03 16:50:10'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-03 23:28:34'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-03 23:34:07'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-04 04:19:44'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
