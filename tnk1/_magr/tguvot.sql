@@ -3912,3 +3912,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>בעת העקדה יצחק היה בן 25</p><p>כי בין שנת היובלים לבין שנת האדם יש 70 שנה</p><p>על פי ספר היובלים עת העקדה היה בשנת 2003 ואם נוסיף 70 שנה אז נקבל שנת 2073 לאדם</p><p>יצחק נולד בשנת 2048</p><p>2073-2048 = 25 גיל יצחק בעת העקדה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-03 16:50:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>תודה, אך במטותא, בדקתי, ולפי ספר היובלים יצחק נגמל בשנת 1992, בערך בגיל 2 (לפי רש&quot;י), כך שנולד בשנת 1990.</p><p>והעקדה התרחשה אכן בשנת 2003.</p><p>כך שגם לפי חישוב זה צודק אבן עזרא שיצחק היה בן 13.</p><p>ראה: http://www.daat.ac.il/daat/hasfarim/hayovlim/17.htm</p><p>גם לא הבנתי את עניין הוספת 70 שנה אצלך.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-03 23:28:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>תודה, אך במטותא, בדקתי, ולפי ספר היובלים יצחק נגמל בשנת 1992, בערך בגיל 2 (לפי רש&quot;י), כך שנולד בשנת 1990.</p><p>והעקדה התרחשה אכן בשנת 2003.</p><p>כך שגם לפי חישוב זה צודק אבן עזרא שיצחק היה בן 13.</p><p>ראה: http://www.daat.ac.il/daat/hasfarim/hayovlim/17.htm</p><p>גם לא הבנתי את עניין הוספת 70 שנה אצלך.</p><p>אני חושב שהולדת אברהם ב-1948 ומכאן שהולדת יצחק היא ב-2048 זה לפי סדר עולם ולא לפי ספר היובלים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-03 23:34:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-03 23:34:10' 
+			WHERE messageid=4817;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>יצחק בעת שנגמל בן 14 בשנת 1992 ליובלים [על כן עושים בר מצווה בגיל 13] בימים ההם חיי בני האדם הגיעו לקרוב ל 200 שנה</p><p>יצחק בעת העקדה בן 25 בשנת 2003 ליובלים</p><p>------------------------------------------------------</p><p>הגמל את יצחק משמעותו שיצחק נגמל מחלב והחל לאכול בשר באותו יום שעשה אברהם משתה גדול</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-04 04:19:44'
+		)
+		;
+
