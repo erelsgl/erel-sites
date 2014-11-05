@@ -1,13 +1,10 @@
 #/usr/bin/perl -w
 #Hebrew.pm    handle Hebrew-specific actions like "gimatriya"
-package Hebrew;
 
-#use utf8;   # treat all characters in this file as UTF8 - problem in upload2wikitext.pl! "no utf8" doesn't solve!
+package Hebrew;
 
 ### Hebrew letters
 $Hebrew::otiot_txiliot = "אבגדהוזחטיכלמנסעפצקרשת";
-
-
 
 ### regular expressions for Hebrew numbers
 
@@ -33,7 +30,7 @@ my $letters = "אבגדהוזחטיךכלםמןנסעףפץצקרשת";
 sub hebrew2number {
 	my $hebrew = shift;
 	my $sum = 0;
-	for ($i=0;;$i+=2) {
+	for (my $i=0;;$i+=2) {
 		my $letter = substr($hebrew,$i,2);
 		last if (!$letter);
 		#print "letter=$letter\n";

@@ -9,7 +9,7 @@
 
 
 sub urlencode {
-	$url = shift;
+	my $url = shift;
 	$url =~ s/([^A-Za-z0-9_ .-])/sprintf("%%%02X", ord($1))/segi;
 	$url =~ s/[ ]/+/g;
 	return $url;
@@ -17,7 +17,7 @@ sub urlencode {
 
 
 sub urldecode{
-	$url = shift;
+	my $url = shift;
 	$url =~ s/[%]([A-Fa-f0-9]{2})/pack('C', hex($1))/segi;
 	$url =~ s/[+]/ /sg;
 	return $url;
@@ -29,8 +29,8 @@ use utf8;
 sub urlencode_utf8 {
 	my ($s) = @_;
 	for (my $i=0; $i<@otiot; ++$i) {
-		$letter = $otiot[$i];
-		$encoded_letter = sprintf("%%D7%%%X", $i+144);
+		my $letter = $otiot[$i];
+		my $encoded_letter = sprintf("%%D7%%%X", $i+144);
 		
 		#print "$letter => $encoded_letter\n";
 		$s =~ s/$letter/$encoded_letter/ig;

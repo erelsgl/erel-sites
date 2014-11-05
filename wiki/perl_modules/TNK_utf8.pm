@@ -3,9 +3,6 @@
 
 package TNK;
 
-# use utf8;   # treat all characters in this file as UTF8
-	# problem in upload2wikitext.pl! 
-
 use Hebrew_utf8;
 
 

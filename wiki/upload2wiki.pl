@@ -21,12 +21,6 @@ use warnings;
 
 use Encode;
 use FindBin;
-use lib "$FindBin::Bin/perl_modules";
-use autowikia;
-use htmlspecialchars;
-use url_encode_decode;
-use Hebrew_utf8;
-use TNK_utf8;
 
 my $editor = "gedit";   # For Windows, use e.g.: '"C:\\Program Files\\PSPad editor\\PSPad.exe"';
 
@@ -63,18 +57,27 @@ my $in_file = shift || "";
 
 package main;
 
-my $credentials_file = "$FindBin::Bin/credentials.pm";
-use credentials;
-if (!$main::username || !$main::password) {
+my $credentials_file = "$FindBin::Bin/upload2wiki.dat";
+if (-e $credentials_file) {
+	open CREDENTIALS, "<$credentials_file";
+	$main::username=<CREDENTIALS>; chomp($main::username);
+	$main::password=<CREDENTIALS>; chomp($main::password);
+	close CREDENTIALS;
+} else {
 	print "Enter your Wikisource Username: ";   $main::username=<STDIN>; chomp($main::username);
-	print "Enter your Wikisource Password: ";   $main::password=<STDIN>; chomp($main::password);
+	print "Secretly, enter your Wikisource Password: ";   $main::password=<STDIN>; chomp($main::password);
 	
 	print "Write your credentials on your computer for future access? (yes/no): ";
 	if (<STDIN> =~ /yes/) {
 		open CREDENTIALS, ">$credentials_file" or die "cannot write into file $credentials_file";
-		print CREDENTIALS "\$main::username = '$main::username';\n\$main::password = '$main::password';\n1;\n";
+		print CREDENTIALS "$main::username\n";
+		print CREDENTIALS "$main::password\n";
 		close CREDENTIALS;
 		print "credentials written to file $credentials_file\n\n";
+		
+		# Make the credentials file readable only by the owner:
+		chmod 0600, $credentials_file;
+
 	} else {
 		print "credentials not written\n\n";
 	}
@@ -95,7 +98,7 @@ $main::SHOULD_REWRITE_EXISTING_PAGES = ($in_file =~ /existing/);
 
 my $count_pages = 0;
 
-($main::edittoken = wiki_login("$main::TARGET_URL/api.php", $main::username, $main::password))
+($main::edittoken = wiki::login("$main::TARGET_URL/api.php", $main::username, $main::password))
 	or die "Cannot login\n";
 
 my $wikia_replace_links_file = '';
@@ -161,49 +164,12 @@ while (<IN_F>) {
 		# Remove black-listed links:
 		$wpTextbox1 =~ s#google[.]com[/]cse([^ ])*#google.com#ig;
 
-		my $is_beur = ($name_of_page =~ /ביאור:.*\d+/i);
-		$name_of_page = wikia_title_to_wikisource_title($name_of_page) unless ($in_file =~ /hgdrot/);
-
-		# add navigation bar
-		if (($is_beur) && $wpTextbox1!~/{{סיכום על פסוק/  && $name_of_page =~ /ביאור:([א-ת ]+) ([א-ת]+) ([א-ת]+)/) {
-			my $book = $1;
-			my $chapter = $2;
-			my $verse = $3;
-			my $with_category = ($wpTextbox1 !~ /^ראו/);
-			my $sargel = sargel_niwut_sap($book, $chapter, $verse, $with_category);
-			$wpTextbox1 =~ s/\[\[קטגוריה:$book $chapter $verse\|$book $chapter $verse\]\]//g;
-			$wpTextbox1 = "$sargel\n$wpTextbox1";
-			if (length($wpTextbox1)>200) {
-				$wpTextbox1 = "$wpTextbox1\n$sargel";
-			}
-		}
-
 		my $short_name_of_page='';
-
-		$wpTextbox1 =~ s/(קטגוריה:.*)\]/wikia_title_to_wikisource_title("$1").']'/ige;
 
 		#end $name_of_page \n";
 
 		$wpTextbox1 =~ s/\s*(#REDIRECT)/$1/ig;
 		$wpTextbox1 =~ s/\s*(#הפניה)/$1/ig;
-
-		my $dont_add_beur = 1;
-		$wpTextbox1 =~ s/(\|מקור=)([^{}]*)(\})/"$1".wikia_title_to_wikisource_title("$2",$dont_add_beur)."$3"/ige;
-		$wpTextbox1 =~ s/(\[\[)(.*)(\]\])/"$1".wikia_title_to_wikisource_title("$2",$dont_add_beur)."$3"/ige;
-			# don't add beur to links such as "שמות רבה"
-		$wpTextbox1 =~ s/([#]redirect\s+\[\[)(.*)(\]\])/"$1".wikia_title_to_wikisource_title("$2")."$3"/ige;
-		$wpTextbox1 =~ s/([#]הפניה\s+\[\[)(.*)(\]\])/"$1".wikia_title_to_wikisource_title("$2")."$3"/ige;
-		$wpTextbox1 =~ s/(\[\[)t[a-z0-9]+\|(.*)(\]\])/"$1".wikia_title_to_wikisource_title("$2")."$3"/ige;
-		$wpTextbox1 =~ s/קטגוריה:האתר למקוריות במצוות/קטגוריה:מצוות/g;
-
-		$wpTextbox1 =~ s/ראו (\[\[)(.*)(\]\])/"ראו $1".wikia_title_to_wikisource_title("$2")."$3"/ige;
-			# add beur to links such as in ביאור:דברים ד מא
-	
-		$wpTextbox1=~s|\[http://he.judaism.wikia.com/wiki/([a-zA-Z0-9\/_-]*) ([^\]]*)\]|[[$1\|$2]]|g; # fix inner links
-
-		$wpTextbox1 = wikia_replace_links($wpTextbox1) if ($wikia_replace_links_file); # defined by the "eval(get(...))" at the beginning of this file
-
-		$wpTextbox1 = convert_verses($wpTextbox1); # should be after wikia_replace_links, so the links won't become "ביאור:..."
 
 		# remove redundant space at beginning and end:
 		$wpTextbox1 =~ s/^\s+//;
@@ -271,7 +237,7 @@ sub upload_file {
 		print "Empty page name!\n";
 		return;
 	}
-	my $output1 = wiki_get_edit("$main::TARGET_URL/index.php", $name_of_page);
+	my $output1 = wiki::get_edit("$main::TARGET_URL/index.php", $name_of_page);
 
 	if ($output1 =~ /badtitle/i) {
 		$name_of_page =~ s/(.)/sprintf ("%d ", ord($1))/ge;
@@ -383,17 +349,12 @@ sub upload_file {
 
 # the upload itself
 
-	my $result = wiki_upload("$main::TARGET_URL/api.php", $name_of_page, $wpTextbox1, $summary, $main::edittoken);
+	my $result = wiki::upload("$main::TARGET_URL/api.php", $name_of_page, $wpTextbox1, $summary, $main::edittoken);
 	if ($result eq 'Failure') {
 		print EXISTING_FILE "##### $name_of_page\n$wpTextbox1\nENDOFFILE\n";
 	}
 }
 
-
-sub wikia_title_to_wikisource_title {
-	my $title = shift;
-	return $title;
-}
 
 sub convert_verses {
 	my $page=shift;
@@ -490,4 +451,513 @@ sub print_index {
 	print "ENDOFFILE\n";
 }
 
+
+
+
+
+
+
+################ autowikia.pm
+
+package wiki;
+
+use LWP::Simple;
+
+# INPUT: api_url, username, password.
+# OUTPUT: edit token, OR 0 if failed.
+# For explanation about the login protocol see http://www.mediawiki.org/wiki/API:Login
+sub login {
+	my ($api_url, $username, $password) = @_;
+
+	# We use a single, global browser throughout the subs of this module:
+	if (!$wiki::browser) {
+		$wiki::browser = LWP::UserAgent->new(); # WWW::Mechanize->new();
+		$wiki::browser->cookie_jar( {} );
+		push @{$wiki::browser->requests_redirectable}, 'POST';
+	}
+
+	my @ns_headers = (
+		'User-Agent' => "$username from Perl",
+		'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+		'Accept-Charset' => 'iso-8859-1,*,utf-8',
+		'Accept-Language' => 'en-US',
+	);
+
+	my $response=$wiki::browser->post(
+		$api_url,
+		@ns_headers, 
+		Content=>[
+			action=>"login",
+			lgname=>$username,
+			lgpassword=>$password,
+			format=>'xml']
+		);
+
+	if ($response->content =~ m|<login[^<>]*result="NeedToken"[^<>]*token="([^\"]+)"[^<>]*/>|) {
+		my $token = $1;
+		#print "Content:\n\n".$response->content."\n";
+
+		$response=$wiki::browser->post(
+			$api_url,
+			@ns_headers, 
+			Content=>[
+				action=>'login',
+				lgname=>$username,
+				lgpassword=>$password,
+				lgtoken=>$token,
+				format=>'xml']
+			);
+
+		if ($response->content =~ m|<login[^<>]*result="([^\"]+)"[^<>]*/>|) {
+			my $result = $1;
+			print "Login as $username: $result\n"; 
+			if ($result =~ /WrongPass/) {
+				print "Wrong password for user $username\n";
+				return 0;
+			} elsif ($result =~ /Throttled/) {
+				print "user $username is throttled (too many login attempts)\n";
+				return 0;
+			}
+			$response=$wiki::browser->get("$api_url?titles=עמוד_ראשי&action=query&prop=info&intoken=edit&format=xml");
+			if ($response->content =~ m|<page[^<>]*edittoken="([^\"]+)"[^<>]*/>|) {
+				my $edittoken = $1;
+				print "edittoken = ".$edittoken."\n";
+				return $edittoken;
+			} else {
+				print "Cannot get edit token: \n";
+				print $response->content."\n\n";
+				return 0;
+			}
+		} else {
+			print "Cannot login:\n";
+			print substr($response->content,0,1000);
+			print "Posted data: action=>'login,'lgname=>$username,lgpassword=>$password,lgtoken=>$token,format=>'xml'\n\n";
+			return 0;
+		}
+	} else {
+		print "Error in first login phase:\n";
+		print substr($response->content,0,1000);
+		return 0;
+	}
+}
+
+sub get_edit {
+	my ($index_url, $name_of_page) = @_;
+
+	my $response = $wiki::browser->get("$index_url?title=$name_of_page&action=edit");
+	return $response->as_string;
+}
+
+
+# INPUT: $api_url, $name_of_page, $new_content, $summary, $edittoken
+# OUTPUT: upload result
+sub upload {
+	my ($api_url, $name_of_page, $new_content, $summary, $edittoken) = @_;
+
+	my @ns_headers = ();
+
+	my $response=$wiki::browser->post(
+		$api_url,
+		@ns_headers,
+		Content_Type=>'application/x-www-form-urlencoded',
+		Content=>[
+			action=>"edit",
+			title=>$name_of_page,
+			text=>$new_content,
+			summary=>$summary,
+			token=>$edittoken,
+			bot=>'on',
+			format=>'xml'
+			]);
+
+	if ($response->content =~ m|<edit[^<>]*result="([^\"]+)"[^<>]*/>|) {
+		my $result = $1;
+		print "Edit result: $result\n"; 
+		return $result;
+	} else {
+		print "Cannot edit $name_of_page:\n";
+		print substr($response->content,0,1000);
+		return 'Failure';
+	}
+
+}
+
+
+my $movetoken = 0;  # used in sub move below
+
+# INPUT: $api_url, $name_of_page, $new_content, $reason
+# OUTPUT: upload result
+sub move {
+	my ($api_url, $old_name, $new_name, $reason) = @_;
+	print "\n$old_name => $new_name: \n";
+
+	##############  get move token
+
+	if (!$movetoken) {
+		my $url = $api_url . '?action=query&prop=info&intoken=move&format=xml&titles=a0101';
+		print "\nSending: $url\n";
+		my $res = $wiki::browser->get($url);
+		if ($res->is_success) {
+				my $content = $res->content;
+				#print $res->as_string;
+				if ($content =~ /movetoken="(.*?)\+\\"/) {
+						$movetoken = $1;
+						print "move token: $movetoken\n";
+				} else {
+						print "Cannot get token. Here are the details: \n\n $content \n";
+						return;
+				}
+		} else {
+			print "\nError: " . $res->code . " " . $res->message;
+			return;
+		}
+	}
+
+
+
+	##############  move 
+
+	my %form=();
+	$form{'action'}        = 'move' ;
+	$form{'from'}          = $old_name ;
+	$form{'to'}            = $new_name;
+	$form{'format'}        = 'xml' ;
+	$form{'reason'}        = $reason;
+	$form{'movetalk'}      = '';
+	#$form{'noredirect'}    = '';  # uncomment to NOT create the redirect page
+	$form{'token'}         = $movetoken."+\\";
+
+	my $res = $wiki::browser->post($api_url,\%form);
+	if ($res->is_success) {
+		my $content = $res->content;
+
+
+		if ($content =~ m|<(move[^<>]*)/>|) {
+			my $result = $1;
+			print "$result\n"; 
+			return $result;
+		} elsif ($content =~ m|<(error[^<>]*)/>|) {
+			my $result = $1;
+			print "$result\n"; 
+			return $result;
+		} else {
+			print "Cannot move $old_name to $new_name:\n";
+			print substr($content,0,1000)."\n";
+			return 'Failure';
+		}
+	} else {
+		print "\nError: " . $res->code . " " . $res->message;
+		return 'Failure';
+	}
+}
+
+
+
+
+######### Hebrew_utf8.pm
+
+package Hebrew;
+
+
+# return the value of its argument in "gimatriya"
+my @values = (1,2,3,4,5,6,7,8,9,10,20,20,30,40,40,50,50,60,70,80,80,90,90,100,200,300,400);
+my $letters = "אבגדהוזחטיךכלםמןנסעףפץצקרשת"; 
+sub hebrew2number {
+	my $hebrew = shift;
+	my $sum = 0;
+	for (my $i=0;;$i+=2) {
+		my $letter = substr($hebrew,$i,2);
+		last if (!$letter);
+		#print "letter=$letter\n";
+		my $index = index($letters, $letter) / 2;
+		if ($index<0) {
+			die "Cannot find letter '$letter' in Hebrew letters '$letters'";
+		}
+		#print "index=$index\n";
+		my $value = $values[$index];
+		#print "value=$value\n";
+		$sum += $value;
+	}
+	return $sum;
+}
+
+
+# don't use split!
+my @letters1 = ('א','ב','ג','ד','ה','ו','ז','ח','ט','י');
+my @letters2 = ('י','כ','ל','מ','נ','ס','ע','פ','צ','ק');
+my @letters3 = ('ק','ר','ש','ת');
+sub number2hebrew {
+	my $num = shift;
+	my $heb = "";
+	while ($num > 400) {
+		$heb .= "ת";
+		$num -= 400;
+	}
+	if ($num >= 100) {
+		$heb .= $letters3[ ($num / 100) - 1 ];
+		$num %= 100;
+	}
+	if ($num >= 10) {
+		if ($num == 15) {
+			$heb .= "טו";
+			$num = 0;
+		}
+		elsif ($num == 16) {
+			$heb .= "טז";
+			$num = 0;
+		}
+		else {
+			$heb .= $letters2[ ($num / 10) - 1 ];
+			$num %= 10;
+		}
+	}
+	if ($num >= 1) {
+		$heb .= $letters1[ $num - 1 ];
+	}
+	
+	return $heb;
+}
+
+
+# The following subs don't work in UTF-8 because of "tr"
+#
+# sub hebrew2latin {
+#   my $hebrew = $_[0];
+#   $hebrew =~ tr! אבגדהוזחטיכךלםמנןסעפףצץקרשת!_ABGDHWZXFYKKLMMNNSEPPCCQRJT!;
+#   return $hebrew;
+# }
+#
+# sub latin2hebrew {
+#   my $latin = $_[0];
+#   $latin =~ tr!ABGDHWZXFYKLMNSEPCQRJT!אבגדהוזחטיכלמנסעפצקרשת!;
+#   return $latin;
+# }
+
+sub to_txiliot {
+   my $string = $_[0];
+   $string =~ tr!ךםןףץ!כמנפצ!;
+   return $string;
+}
+
+sub to_sofiot {
+   my $string = $_[0];
+   $string =~ tr!כמנפצ!ךםןףץ!;
+   return $string;
+}
+
+
+
+
+########## htmlspecialchars.pm
+
+sub htmlspecialchars {
+	my ($string) = @_;
+	$string=~s/&/&amp;/g;
+	$string=~s/'/&#039;/g;
+	$string=~s/"/&quot;/g;
+	$string=~s/</&lt;/g;
+	$string=~s/>/&gt;/g;
+	return $string;
+}
+
+sub htmlspecialchars_decode {
+	my ($string) = @_;
+	$string=~s/&amp;/&/g;
+	$string=~s/&apos;/'/g;
+	$string=~s/&#039;/'/g;
+	$string=~s/&quot;/"/g;
+	$string=~s/&lt;/</g;
+	$string=~s/&gt;/>/g;
+	return $string;
+}
+
+
+
+
+######## TNK_utf8.pm
+
+package TNK;
+
+%TNK::books_to_codes = (
+	"בראשית" => "01", 
+	"ברא'" => "01",
+	"בר'" => "01",
+
+	"שמות" => "02",
+	"שמ'" => "02",
+
+	"ויקרא" => "03",
+	"ויק'" => "03",
+	"וי'" => "03",
+
+	"במדבר" => "04",
+	"במד'" => "04",
+	"במ'" => "04",
+
+	"דברים" => "05",
+	"דבר'" => "05",
+	"דב'" => "05",
+
+	"יהושע" => "06",
+	"יהושוע" => "06",
+
+	"שופטים" => "07",
+	"שופ'" => "07",
+
+	"שמואל א" => "08a",
+	"שמ\"א" => "08a",
+
+	"שמואל ב" => "08b",
+	"שמ\"ב" => "08b",
+
+	"מלכים א" => "09a",
+	"מל\"א" => "09a",
+
+	"מלכים ב" => "09b",
+	"מל\"ב" => "09b",
+
+	"ישעיהו" => "10",
+	"ישעיה" => "10",
+	"יש'" => "10",
+
+	"ירמיהו" => "11",
+	"ירמיה" => "11",
+	"יר'" => "11",
+
+	"יחזקאל" => "12",
+	"יחז'" => "12",
+	"יח'" => "12",
+
+	"הושע" => "13",
+	"הו'" => "13",
+
+	"יואל" => "14",
+
+	"עמוס" => "15",
+	"עמ'" => "15",
+
+	"עובדיה" => "16",
+	"עוב'" => "16",
+
+	"יונה" => "17",
+
+	"מיכה" => "18",
+	"מי'" => "18",
+
+	"נחום" => "19",
+
+	"חבקוק" => "20",
+	"חב'" => "20",
+
+	"צפניה" => "21",
+	"צפ'" => "21",
+
+	"חגיי" => "22",
+	"חגי" => "22",
+
+	"זכריה" => "23",
+	"זכ'" => "23",
+
+	"מלאכי" => "24",
+	"מל'" => "24",
+
+	"דברי הימים א" => "25a",
+	"דה\"י א" => "25a",
+	"דה\"א" => "25a",
+
+	"דברי הימים ב" => "25b",
+	"דה\"י ב" => "25b",
+	"דה\"ב" => "25b",
+
+	"תהלים" => "26",
+	"תהילים" => "26",
+	"תהל'" => "26",
+	"תה'" => "26",
+
+	"איוב" => "27",
+	"איו'" => "27",
+
+	"משלי" => "28",
+	"משל'" => "28",
+	"מש'" => "28",
+
+	"רות" => "29",
+	"רו'" => "29",
+
+	"שיר השירים" => "30",
+	"שה\"ש" => "30",
+
+	"קהלת" => "31",
+	"קהל'" => "31",
+	"קה'" => "31",
+
+	"איכה" => "32",
+	"איכ'" => "32",
+
+	"אסתר" => "33",
+	"אסת'" => "33",
+	"אס'" => "33",
+
+	"דניאל" => "34",
+	"דני'" => "34",
+	"דנ'" => "34",
+
+	"עזרא" => "35a",
+	"עזר'" => "35a",
+	"עז'" => "35a",
+
+	"נחמיה" => "35b",
+	"נחמ'" => "35b"
+);
+
+@TNK::books = keys %TNK::books_to_codes;
+
+%TNK::codes_to_books = (
+	"01" => "בראשית",
+	"02" => "שמות",
+	"03" => "ויקרא",
+	"04" => "במדבר",
+	"05" => "דברים",
+	"06" => "יהושע",
+	"07" => "שופטים",
+	"08a" => "שמואל א",
+	"08b" => "שמואל ב",
+	"09a" => "מלכים א",
+	"09b" => "מלכים ב",
+	"10" => "ישעיהו",
+	"11" => "ירמיהו",
+	"12" => "יחזקאל",
+	"13" => "הושע",
+	"14" => "יואל",
+	"15" => "עמוס",
+	"16" => "עובדיה",
+	"17" => "יונה",
+	"18" => "מיכה",
+	"19" => "נחום",
+	"20" => "חבקוק",
+	"21" => "צפניה",
+	"22" => "חגי",
+	"23" => "זכריה",
+	"24" => "מלאכי",
+	"25a" => "דברי הימים א",
+	"25b" => "דברי הימים ב",
+	"26" => "תהלים",
+	"27" => "איוב",
+	"28" => "משלי",
+	"29" => "רות",
+	"30" => "שיר השירים",
+	"31" => "קהלת",
+	"32" => "איכה",
+	"33" => "אסתר",
+	"34" => "דניאל",
+	"35a" => "עזרא",
+	"35b" => "נחמיה"
+);
+
+
+
 __END__
+
+
+
+

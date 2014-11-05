@@ -11,7 +11,7 @@ $chapter_rows = sql_query_or_die("
 			-- CONCAT('פרק',' ',chapter) AS chapter_name   -- for main space
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'ספר דברי %טז%'
+			OR chapter_id LIKE 'ספר יהושע%'
 		
 		GROUP BY chapter_id
 		");
