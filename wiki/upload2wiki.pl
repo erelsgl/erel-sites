@@ -24,33 +24,6 @@ use FindBin;
 
 my $editor = "gedit";   # For Windows, use e.g.: '"C:\\Program Files\\PSPad editor\\PSPad.exe"';
 
-
-
-# INPUT: the current page content.
-# OUTPUT: the new page content.
-# NOTE: To use this function, create a file with entries such as:
-#    %%%%% title1
-#    %%%%% title2
-#    %%%%% title3
-# etc...
-sub edit_function {
-	my $content = shift;
-	my $cat0, my $cat1;
-
-	$content =~ s!מדרש משלי!מדרש משלי (בובר)!g;
-	$content =~ s!מדרש משלי (בובר) (בובר)!מדרש משלי (בובר)!g;
-
-	# Replace category:
-	#$cat0 = "היכן נקברה רחל?";
-	#$cat1 = "קבר רחל";
-	#$content =~ s!\[\[\s*קטגוריה\s*:\s*$cat0\s*![[קטגוריה:$cat1!g;
-
-	#$content =~ s!\[\[\s*קטגוריה\s*:\s*$cat0\s*\]\]!{{מידה טובה|$cat1}}!g;
-	#$content =~ s!^({{קיצור דרך[^{}]+}})$!<noinclude>$1</noinclude>!mg;
-	#$content =~ s!(</?noinclude>)</?noinclude>!$1!g;
-	return $content;
-}
-
 my $in_file = shift || "";
 
 
@@ -956,7 +929,43 @@ package TNK;
 
 
 
+
+
+
+
+
+################## edit_function
+
+# INPUT: the current page content.
+# OUTPUT: the new page content.
+# NOTE: To use this function, create a file with entries such as:
+#    %%%%% title1
+#    %%%%% title2
+#    %%%%% title3
+# etc...
+sub edit_function {
+	my $content = shift;
+	my $cat0, my $cat1;
+
+	$content =~ s!מדרש משלי!מדרש משלי (בובר)!g;
+	$content =~ s!מדרש משלי (בובר) (בובר)!מדרש משלי (בובר)!g;
+
+	# Replace category:
+	#$cat0 = "היכן נקברה רחל?";
+	#$cat1 = "קבר רחל";
+	#$content =~ s!\[\[\s*קטגוריה\s*:\s*$cat0\s*![[קטגוריה:$cat1!g;
+
+	#$content =~ s!\[\[\s*קטגוריה\s*:\s*$cat0\s*\]\]!{{מידה טובה|$cat1}}!g;
+	#$content =~ s!^({{קיצור דרך[^{}]+}})$!<noinclude>$1</noinclude>!mg;
+	#$content =~ s!(</?noinclude>)</?noinclude>!$1!g;
+	return $content;
+}
+
+
+
 __END__
+
+
 
 
 
