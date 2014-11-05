@@ -2508,3 +2508,81 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-04 09:47:59'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-04 10:24:18'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_47.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0433.htm',
+				'tnk1/messages/_pdf.',
+				NULL,
+				'2014-11-04 20:34:01',
+				'2014-11-04 20:34:01',
+				'לחשל',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_628.html',
+				NULL,
+				'2014-11-04 20:44:19',
+				'2014-11-04 20:44:19',
+				'אברהם עורך משתה/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-04 20:44:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_629.html',
+				NULL,
+				'2014-11-04 20:50:29',
+				'2014-11-04 20:50:29',
+				'פרשת  וירא-מה ראתה שרה ברוח הקודש?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-04 20:50:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
