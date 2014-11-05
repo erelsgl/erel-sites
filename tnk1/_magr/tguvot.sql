@@ -3967,3 +3967,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>אף פעם לא חקרתי את ספר היובלים לעומק ובכל זאת:</p><p>בדקתי שוב בהרחבה יותר, ומצד אחד אתה צודק, אך מצד שני מצאתי בעיות שונות בכרונולוגיה המוצגת בספר היובלים:</p><p>ישמעאל נולד בשנת 1964:</p><p>http://www.daat.ac.il/daat/hasfarim/hayovlim/14.htm</p><p>מכאן שיצחק נולד 14 שנים אחריו (כאמור בתנ&quot;ך) בשנת 1978, ונגמל בשנת 1992, כלומר בגיל 14 (דבר שלי אינו מסתבר), ונעקד בשנת 2003, כלומר בגיל 25.</p><p>מצד שני, ישמעאל נימול בשנת 1986:</p><p>http://www.daat.ac.il/daat/hasfarim/hayovlim/15.htm</p><p>כלומר בגיל 22! מה שסותר את מה שכתוב בתנ&quot;ך. ואם היה בן 13, כי אז נולד בשנת 1973, ויצחק נולד – לפי זה – בשנת 1987, ונגמל בגיל 5, ונעקד בגיל 16.</p><p>ובכל מקרה, כתוב שם שה\' פקד את שרה בחודש השישי של אותה שנה:</p><p>http://www.daat.ac.il/daat/hasfarim/hayovlim/16.htm</p><p>כך שיש להוסיף שנה לחשבון הקודם, כלומר יצחק נולד ב1986, נגמל בגיל 6, ונעקד בגיל 17. </p><p>אך בכל מקרה יש כאן סתירה פנימית ואי הלימה לנאמר בתנ&quot;ך.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-04 09:47:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_47.html',
+		'<p>טבלה שונה במקצת יש באתר כאן:</p><p>http://tora.us.fm/tnk1/klli/mdrjim/yovlot.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-04 10:24:18'
+		)
+		;
+
