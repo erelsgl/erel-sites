@@ -1689,3 +1689,27 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-11-04 11:22:53','https://www.google.com/accounts/o8/id?id=AItOawm4UjCqbX_ECxO8jeRRpguGUPYzRQkPx4Y','ירדן בהרב');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-05 15:56:55','https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo','אופק אסטרין');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-05 15:57:12','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-05 16:46:55','https://www.google.com/accounts/o8/id?id=AItOawn2b6KJ_4VWgVs489lfZX8G5DMi51e1Yro','Misha Shalmiev');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-06 05:05:50','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
+

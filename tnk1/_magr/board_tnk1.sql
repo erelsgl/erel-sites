@@ -2586,3 +2586,75 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-11-04 20:50:29'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_48.html',
+				NULL,
+				'2014-11-05 15:57:02',
+				'2014-11-05 15:57:02',
+				'על \"אלפי שנאן\" מאת אביגדור שנאן',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 15:57:39'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 15:57:40'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 15:57:40'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 15:57:57'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 15:57:57'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 16:17:51'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xiti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-05 16:47:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0203_2.html'
+		;
+

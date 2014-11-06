@@ -3991,3 +3991,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>חליח\'מנףךןוט שף3לגחעללךמץג6וווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווחקקקקקקקקקקקקחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיפ]-=-=[</p><p>]ק=9ך]66666665=-</p><p>ק]ף[-0]כא6</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 15:57:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>חליח\'מנףךןוט שף3לגחעללךמץג6וווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווחקקקקקקקקקקקקחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיפ]-=-=[</p><p>]ק=9ך]66666665=-</p><p>ק]ף[-0]כא6</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 15:57:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>חליח\'מנףךןוט שף3לגחעללךמץג6וווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווחקקקקקקקקקקקקחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיחיפ]-=-=[</p><p>]ק=9ך]66666665=-</p><p>ק]ף[-0]כא6</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 15:57:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>יא חאםןןןןןנךפפפפפפפפפפחפופפפטפטםטך0ך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 15:57:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>יא חאםןןןןןנךפפפפפפפפפפחפופפפטפטםטך0ך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 15:57:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xiti.html',
+		'<p>רוזנבלום</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDezOPLNSU15ZQTaG4h-Hm8KWHnAahlDo',
+		'אופק אסטרין',
+		'2014-11-05 16:17:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0203_2.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn2b6KJ_4VWgVs489lfZX8G5DMi51e1Yro',
+		'Misha Shalmiev',
+		'2014-11-05 16:47:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-06 05:05:56' 
+			WHERE messageid=4828;
+
