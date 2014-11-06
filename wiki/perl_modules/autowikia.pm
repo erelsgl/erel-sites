@@ -2,32 +2,31 @@
 # קידוד אחיד
 # עודכן: סוף תמוז ה'תשע"א
 
+package wiki;
+
 use LWP::Simple;
-
-# For explanation about the login protocol see http://www.mediawiki.org/wiki/API:Login
-
-my $browser = LWP::UserAgent->new(); # WWW::Mechanize->new();
-$browser->cookie_jar( {} );
-push @{$browser->requests_redirectable}, 'POST';
-
-my @ns_headers = ();
-
-my $movetoken = 0;
 
 # INPUT: api_url, username, password.
 # OUTPUT: edit token, OR 0 if failed.
-sub wiki_login {
+# For explanation about the login protocol see http://www.mediawiki.org/wiki/API:Login
+sub login {
 	my ($api_url, $username, $password) = @_;
 
-	@ns_headers = (
-		# 'User-Agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko/20041107 Firefox/1.0',
+	# We use a single, global browser throughout the subs of this module:
+	if (!$wiki::browser) {
+		$wiki::browser = LWP::UserAgent->new(); # WWW::Mechanize->new();
+		$wiki::browser->cookie_jar( {} );
+		push @{$wiki::browser->requests_redirectable}, 'POST';
+	}
+
+	my @ns_headers = (
 		'User-Agent' => "$username from Perl",
 		'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
 		'Accept-Charset' => 'iso-8859-1,*,utf-8',
 		'Accept-Language' => 'en-US',
 	);
 
-	my $response=$browser->post(
+	my $response=$wiki::browser->post(
 		$api_url,
 		@ns_headers, 
 		Content=>[
@@ -41,7 +40,7 @@ sub wiki_login {
 		my $token = $1;
 		#print "Content:\n\n".$response->content."\n";
 
-		$response=$browser->post(
+		$response=$wiki::browser->post(
 			$api_url,
 			@ns_headers, 
 			Content=>[
@@ -62,7 +61,7 @@ sub wiki_login {
 				print "user $username is throttled (too many login attempts)\n";
 				return 0;
 			}
-			$response=$browser->get("$api_url?titles=עמוד_ראשי&action=query&prop=info&intoken=edit&format=xml");
+			$response=$wiki::browser->get("$api_url?titles=עמוד_ראשי&action=query&prop=info&intoken=edit&format=xml");
 			if ($response->content =~ m|<page[^<>]*edittoken="([^\"]+)"[^<>]*/>|) {
 				my $edittoken = $1;
 				print "edittoken = ".$edittoken."\n";
@@ -85,20 +84,22 @@ sub wiki_login {
 	}
 }
 
-sub wiki_get_edit {
+sub get_edit {
 	my ($index_url, $name_of_page) = @_;
 
-	my $response = $browser->get("$index_url?title=$name_of_page&action=edit");
+	my $response = $wiki::browser->get("$index_url?title=$name_of_page&action=edit");
 	return $response->as_string;
 }
 
 
 # INPUT: $api_url, $name_of_page, $new_content, $summary, $edittoken
 # OUTPUT: upload result
-sub wiki_upload {
+sub upload {
 	my ($api_url, $name_of_page, $new_content, $summary, $edittoken) = @_;
 
-	my $response=$browser->post(
+	my @ns_headers = ();
+
+	my $response=$wiki::browser->post(
 		$api_url,
 		@ns_headers,
 		Content_Type=>'application/x-www-form-urlencoded',
@@ -125,9 +126,11 @@ sub wiki_upload {
 }
 
 
+my $movetoken = 0;  # used in sub move below
+
 # INPUT: $api_url, $name_of_page, $new_content, $reason
 # OUTPUT: upload result
-sub wiki_move {
+sub move {
 	my ($api_url, $old_name, $new_name, $reason) = @_;
 	print "\n$old_name => $new_name: \n";
 
@@ -136,7 +139,7 @@ sub wiki_move {
 	if (!$movetoken) {
 		my $url = $api_url . '?action=query&prop=info&intoken=move&format=xml&titles=a0101';
 		print "\nSending: $url\n";
-		$res = $browser->get($url);
+		my $res = $wiki::browser->get($url);
 		if ($res->is_success) {
 				my $content = $res->content;
 				#print $res->as_string;
@@ -157,7 +160,7 @@ sub wiki_move {
 
 	##############  move 
 
-	%form=();
+	my %form=();
 	$form{'action'}        = 'move' ;
 	$form{'from'}          = $old_name ;
 	$form{'to'}            = $new_name;
@@ -167,7 +170,7 @@ sub wiki_move {
 	#$form{'noredirect'}    = '';  # uncomment to NOT create the redirect page
 	$form{'token'}         = $movetoken."+\\";
 
-	$res = $browser->post($api_url,\%form);
+	my $res = $wiki::browser->post($api_url,\%form);
 	if ($res->is_success) {
 		my $content = $res->content;
 
@@ -190,6 +193,5 @@ sub wiki_move {
 		return 'Failure';
 	}
 }
-
 
 1;
