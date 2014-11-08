@@ -2738,3 +2738,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_49.html',
+				NULL,
+				'2014-11-07 13:19:51',
+				'2014-11-07 13:19:51',
+				'על \"מקדש הדממה\" מאת ישראל קנוהל',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
