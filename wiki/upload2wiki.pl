@@ -173,18 +173,15 @@ while (<IN_F>) {
 print "\nUploaded $count_pages pages. Everything seems to be OK. Log was written to $file_for_debug.";
 print " New content of existing pages was written to  $file_for_pages_that_already_exist" unless ($main::SHOULD_REWRITE_EXISTING_PAGES);
 print "\n\n";
-# print DEBUG "_____________ uploads  _____________\n";
-# print DEBUG @responses;
 
 close(DEBUG);
 close(EXISTING_FILE);
 close(FAILED_FILE);
 
 printf("\a");    # to notify the user that it's over
-print "Done!\n";
-
+print "Done! I go to sleep for a month. You may break (Ctrl+C) or close the terminal.\n";
 print `$editor $file_for_pages_that_already_exist`;
-sleep(86400*30);  # wait for a month or until the user closes the window
+sleep(86400*30);  # to let the user see the output before the terminal is closed.
 
 exit;
 
