@@ -1,7 +1,7 @@
 <?php
 require_once('0_common.php');
 
-if (empty($FILENAME_OUTPUT)) $FILENAME_OUTPUT = "mikra_lfi_hamsora.tsv";
+if (empty($FILENAME_OUTPUT)) $FILENAME_OUTPUT = "2_to_spreadsheet.tsv";
 
 $rows = sql_query_or_die("
 	SELECT *
