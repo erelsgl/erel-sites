@@ -2754,3 +2754,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/skk=jkk.html',
+				'tnk1/nvia/yjayhu/yj-04-0506.html',
+				NULL,
+				'2014-11-09 09:16:21',
+				'2014-11-09 09:16:21',
+				'סוכות וענני כבוד',
+				'אראל',
+				''
+			)
+		;
+
