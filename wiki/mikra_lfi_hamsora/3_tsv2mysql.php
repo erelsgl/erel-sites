@@ -1,7 +1,7 @@
 <?php
 require_once('0_common.php');
 
-$FILENAME_INPUT = dirname(__FILE__)."/mikra_lfi_hamsora_corrected.tsv";
+$FILENAME_INPUT = dirname(__FILE__)."/3_from_spreadsheet.tsv";
 
 // see http://dev.mysql.com/doc/refman/5.1/en/load-data.html
 sql_queries_or_die("

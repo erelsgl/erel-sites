@@ -1,6 +1,6 @@
 <?php
 require_once('0_common.php');
-$FILENAME_INPUT = "source.txt";
+$FILENAME_INPUT = "0_from_wiki.txt";
 
 
 $text = file_get_contents($FILENAME_INPUT);

@@ -161,6 +161,8 @@ while ($row = sql_fetch_assoc($rows)) {
 
 	$tvnit = "";
 	$date_for_html = date('H:i:s&\\n\\b\\s\\p;&\\n\\b\\s\\p;d.m.Y');
+	
+	$charset = "windows-1255";
 
 	$templatename = "$SCRIPT/newfiletemplate.pm";
 	$templatebody = fixed_template($templatename);

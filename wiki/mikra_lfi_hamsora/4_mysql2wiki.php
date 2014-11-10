@@ -1,7 +1,7 @@
 <?php
 require_once('0_common.php');
 
-if (empty($FILENAME_OUTPUT)) $FILENAME_OUTPUT = "mikradovi_corrected.existing.txt";
+if (empty($FILENAME_OUTPUT)) $FILENAME_OUTPUT = "4_to_wiki.existing.txt";
 
 $chapter_rows = sql_query_or_die("
 		SELECT  
