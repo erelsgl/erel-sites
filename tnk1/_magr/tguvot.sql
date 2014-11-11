@@ -4206,3 +4206,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>המוזיקה שיר טוב כפרי-עץ טעים</p><p>אם השיר מאד טעים אפשר לאכול פעמיים אבל לא יותר כי אם מצאת דבש אכול דייך פן תשבענו והקאתו</p><p>********</p><p>המוזיקה היא חוק ויש להתאים את המוזיקה בהתאם למצב הנפשי כדי שיתקיים משפט צדק</p><p>אם אתה עצוב תשמע שיר עצוב </p><p>ואם אתה שמח תשמע שיר שמח</p><p>וככה כל שיר המתאים למצב הרוח</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-10 13:09:57'
+		)
+		;
+
