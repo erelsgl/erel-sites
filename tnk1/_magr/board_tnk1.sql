@@ -2778,3 +2778,129 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 10:33:24'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 10:33:59'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 18:21:09'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/bny_eli.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 18:22:10'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 18:22:18'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 18:22:23'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 18:22:28'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-11 19:38:41'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/bny_eli.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1056.htm',
+				'tnk1/messages/prqim_t1056_1.html',
+				NULL,
+				'2014-11-11 21:13:15',
+				'2014-11-11 21:13:15',
+				'התעוררות רוחנית ביהדות ואצל גורדייף',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_630.html',
+				NULL,
+				'2014-11-12 05:52:45',
+				'2014-11-12 05:52:45',
+				'אליעזר ותפילתו/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-12 05:52:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_631.html',
+				NULL,
+				'2014-11-12 05:55:47',
+				'2014-11-12 05:55:47',
+				'פרשת חיי שרה-האם אליעזר מילא את שליחותו נאמנה?/אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-12 05:55:47'
+			WHERE ktovt_bn='tnk1/forums.html';
+

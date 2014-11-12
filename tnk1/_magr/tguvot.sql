@@ -4218,3 +4218,99 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני ובעלי זקוקים דחוף דחוף להלוואה אנא אם תוכלו ליצור איתנו קשר ב 0526642155</p><p>תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkSoJmYPsBfYY-YK7_hdc-OWYurTmBXips',
+		'Moran Imanuel',
+		'2014-11-11 10:33:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני ובעלי זקוקים דחוף דחוף להלוואה אנא אם תוכלו ליצור איתנו קשר ב 0526642155</p><p>תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkSoJmYPsBfYY-YK7_hdc-OWYurTmBXips',
+		'Moran Imanuel',
+		'2014-11-11 10:33:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>תודה לך!!!!!!!!!!!!!!!!! עזרת לי ללמוד למבחן בנביא על ספר שמואל</p><p>יש כח!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-11 18:21:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>איזה אתר מגניב!!!!!!!</p><p>יש כח!!!!!!!!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-11 18:22:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>איזה אתר מגניב!!!!!!!</p><p>יש כח!!!!!!!!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-11 18:22:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>איזה אתר מגניב!!!!!!!</p><p>יש כח!!!!!!!!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-11 18:22:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>איזה אתר מגניב!!!!!!!</p><p>יש כח!!!!!!!!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-11 18:22:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>חזה התנופה ושוק התרומה או הַזְּרֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה או כֹּל אֲשֶׁר יַעֲלֶה הַמַּזְלֵג יִקַּח הַכֹּהֵן</p><p>ספר ויקרא פרק ז כתוב:</p><p>(לד) כִּי אֶת חֲזֵה הַתְּנוּפָה וְאֵת שׁוֹק הַתְּרוּמָה לָקַחְתִּי מֵאֵת בְּנֵי יִשְׂרָאֵל מִזִּבְחֵי שַׁלְמֵיהֶם וָאֶתֵּן אֹתָם לְאַהֲרֹן הַכֹּהֵן וּלְבָנָיו לְחָק עוֹלָם מֵאֵת בְּנֵי יִשְׂרָאֵל.</p><p>ספר ויקרא פרק י כתוב:</p><p>(יד) וְאֵת חֲזֵה הַתְּנוּפָה וְאֵת שׁוֹק הַתְּרוּמָה תֹּאכְלוּ בְּמָקוֹם טָהוֹר אַתָּה וּבָנֶיךָ וּבְנֹתֶיךָ אִתָּךְ כִּי חָקְךָ וְחָק בָּנֶיךָ נִתְּנוּ מִזִּבְחֵי שַׁלְמֵי בְּנֵי יִשְׂרָאֵל.</p><p>(טו) שׁוֹק הַתְּרוּמָה וַחֲזֵה הַתְּנוּפָה עַל אִשֵּׁי הַחֲלָבִים יָבִיאוּ לְהָנִיף תְּנוּפָה לִפְנֵי יְהוָה וְהָיָה לְךָ וּלְבָנֶיךָ אִתְּךָ לְחָק עוֹלָם כַּאֲשֶׁר צִוָּה יְהוָה.</p><p>ספר דברים פרק יח כתוב:</p><p>(ג) וְזֶה יִהְיֶה מִשְׁפַּט הַכֹּהֲנִים מֵאֵת הָעָם מֵאֵת זֹבְחֵי הַזֶּבַח אִם שׁוֹר אִם שֶׂה וְנָתַן לַכֹּהֵן הַזְּרֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה.</p><p>ספר שמואל א פרק א כתוב:</p><p>(יג) וּמִשְׁפַּט הַכֹּהֲנִים אֶת הָעָם כָּל אִישׁ זֹבֵחַ זֶבַח וּבָא נַעַר הַכֹּהֵן כְּבַשֵּׁל הַבָּשָׂר וְהַמַּזְלֵג שְׁלֹשׁ הַשִּׁנַּיִם בְּיָדוֹ.</p><p>(יד) וְהִכָּה בַכִּיּוֹר אוֹ בַדּוּד אוֹ בַקַּלַּחַת אוֹ בַפָּרוּר כֹּל אֲשֶׁר יַעֲלֶה הַמַּזְלֵג יִקַּח הַכֹּהֵן בּוֹ כָּכָה יַעֲשׂוּ לְכָל יִשְׂרָאֵל הַבָּאִים שָׁם בְּשִׁלֹה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-11 19:38:41'
+		)
+		;
+
