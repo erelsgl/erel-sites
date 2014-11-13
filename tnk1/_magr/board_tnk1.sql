@@ -2904,3 +2904,107 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-11-12 05:55:47'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jlh.html',
+				'tnk1/messages/ljon_jorj_jlh_0.html',
+				NULL,
+				'2014-11-12 09:57:59',
+				'2014-11-12 09:57:59',
+				'בין שלווה ואשליה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 10:16:17'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 14:08:35'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 14:40:08'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 14:52:31'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 14:59:01'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 15:01:30'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 15:12:42'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 15:16:00'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 15:19:24'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_jlh_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 15:48:25'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-28-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-12 16:10:59'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-28-09.html'
+		;
+

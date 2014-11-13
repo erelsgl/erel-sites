@@ -4314,3 +4314,149 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>שלוה זה נעים וטוב כאשר להיות מלאך זה מרומם</p><p>אך עליך לבחור להיות מלאך צדיק ולא מלאך רשע ואל תשחית מתוך שלוה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-12 10:16:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p></p><p>יפה הבחנת בקרבה בין שלווה ל-אשליה (שורשים שלו ו-שלי/ה) המשמשת כתמרור אזהרה נגד מדוחי השטן. ביחזקאל כג:מא ההמון המכונה שָׁלֵו (חסר דאגה) הם עובדי אלילים חוטאים ומחטיאים שאינם מכירים באשמתם. שאננותם היא בבחינת  שַׁלְוַת כְּסִילִים (משלי א:לב), המנוגדת לדעת, לחכמה, למוסר וליראת ה\'. שלוות הרשעים לא תחזיק מעמד זמן רב ותביא לאבדן מחזיקיה. הרשעים הם שלו, של השטן. שלוותם היא אשליה. כמו שלוותה של סדום שהתגאתה בעשרה ושגשוגה (יחזקאל טז:מט). לעומת השלווה הזו, שיסודה בטעות, שתיגמר באבדן, קיימת השלווה, המוצגת כאמיתית ושלמה (שלווה/שלום), של אלה שהם שלו, של אלוהים. של אלה השואלים שאלות או שלות (שאלה-שלה) את אלוהים. זאת היא שלוות ירושלים כאשר שורר בה הטוב, אהבת אחים, חוק ומשפט, כאשר תושביה פועלים לפי עקרונות התורה (מזמור קכב). שלווה המוצגת כברת קיימא. זוהי כמדומתני השקפת המקרא. </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-12 14:08:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>תודה משה ותודה אורנה, הוספת כמה מקורות מעניינים ביותר וחידדת את ההבדל בין השלווה החיובית לזו השלילית - משלי א32: &quot;כי משובת פתים תהרגם ושלות כסילים תאבדם&quot;.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 14:40:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p></p><p>תודה, חגי. על השורש שלה כתבתי כבר במאמר &quot;מעגונה לגאולה: סיפור תמר ויהודה בראי מילותיו&quot;, והרי הקטע המדובר:</p><p>ער ואונן נענשים אכן במוות על הליכתם בדרך העוונות, ועתה מתחמק יהודה מלתת לתמר את בנו השלישי שֵׁלָה פן ימות כאחיו. יהודה, שֶׁיחד עם אחיו ביים את מות יוסף וגרם לאביהם יעקב לחוות את כאבו של אב שכול ולחיות באבל מתמשך, סופו שהוא עצמו מאבד שני בנים וחושש לחיי השלישי. ואף אם לא השתתף יהודה במישרים במעשים אלה, לא מנע אותם. יהודה ממשיך בדרך הרמייה ומורה לתמר לחזור לבית אביה עד אשר יגדל שֵלה ואז יתנו לה ליבם. אין בכוונתו של יהודה לתיתו לתמר, ובהבטיחו לה הבטחת שווא, הוא כופה עליה מצב של אלמנה שומרת יבם היושבת בודדה, משמימה וחשוכת בנים. יהודה אשם כאן שנית בהולכת שולל, בכזב - חטא המוצא לו הד בשם בנו, שלה, שאותו הוא מסרב לתת לתמר, ובמקום בו שהה כאשר נולד הבן, כזיב:</p><p>וַתֹּסֶף (בת שוע, אשתו של יהודה) עוֹד וַתֵּלֶד בֵּן וַתִּקְרָא אֶת שְׁמוֹ שֵׁלָה, וְהָיָה (יהודה) בִכְזִיב, בְּלִדְתָּהּ אֹתוֹ. (בראשית לח:ה)</p><p>שני שמות אלה, שלה וכזיב, מובילים אותנו לסיפורם של האישה השונמית ואלישע הנביא. כשהנביא אומר לה שבעוד שנה תחבוק בן, מביעה השונמית את חששה שמא בשורה זו לא תתקיים והתקווה שהפיח בה תהיה תקוות שווא: </p><p>אַל אֲדֹנִי, אִישׁ הָאֱלֹהִים, אַל תְּכַזֵּב בְּשִׁפְחָתֶךָ. (מלכים ב, ד:טז)</p><p>מהשורש כ.ז.ב באים הפועל לכזב ושם המקום כזיב.</p><p>כשהילד נופל למשכב ונחשב כמת, רצה השונמית אל אלישע ומזכירה לו שנית את נסיבות הולדתו של בנה ואת תגובתה לבשורתו של הנביא. האם זו היא אשר בקשה בן מאת הנביא, הלא רק התרתה בו שלא יפיח בה תקוות שווא:</p><p>הֲשָׁאַלְתִּי בֵן מֵאֵת אֲדֹנִי, הֲלֹא אָמַרְתִּי לֹא תַשְׁלֶה אֹתִי. (שם, שם:כח)</p><p>מהשורש ש.ל.י באים הפועל להשלות ושם בנו של יהודה שֵלה.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-12 14:52:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>אגב, בנוגע ל&quot;של&quot; כמילית יחס, אני סבור (ודומני שגם הבלשנים, אך איני בטוח) שהיא התפתחות מאוחרת בעברית. המעבר הוא מ-אשר לאברהם (למשל) ל-שלאברהם, בצורה מחוברת, ואז ניתוק - של אברהם. למשל - בראשית כה6: &quot;ולבני הפילגשים אשר לאברהם נתן אברהם מתנת וישלחם מעל יצחק בנו בעודנו חי קדמה אל ארץ קדם&quot;. דוגמא ראשונה אולי לקירוב זה מופיע ביונה: יונה א12: &quot;ויאמר אליהם שאוני והטילני אל הים וישתק הים מעליכם כי יודע אני כי בשלי הסער הגדול הזה עליכם&quot;. </p><p>המעבר מאשר לש\' ידוע כמובן והוא מופיע לראשונה בספרים המאוחרים - שיר השירים ג7: &quot;הנה מטתו שלשלמה ששים גברים סביב לה מגברי ישראל&quot;, שיר השירים א7: &quot;הגידה לי שאהבה נפשי איכה תרעה איכה תרביץ בצהרים שלמה אהיה כעטיה על עדרי חבריך&quot;, אך רמז לה מצוי אף במקור קדום ביותר - שופטים ה7: &quot;חדלו פרזון בישראל חדלו עד שַׁקַּמְתִּי דבורה שקמתי אם בישראל&quot;, </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 14:59:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>תודה על התוספת של שלה בן יהודה, מלשון אשליה, כשם שכזיב, מקום הולדתו, הוא מלשון כזב.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 15:01:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>תודה על התוספת של שלה בן יהודה, מלשון אשליה, כשם שכזיב, מקום הולדתו, הוא מלשון כזב.</p><p>בציטוט ממלכים יש גם משחק מילים (שציינת קודם) בין &quot;השאלתי&quot; ובין &quot;לא תשלה אותי&quot;.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 15:12:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-12 15:12:44' 
+			WHERE messageid=4851;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>אתה צודק בהחלט בהערתך בנוגע ל-של שהיא התפתחות מאוחרת של העברית ונפוצה מאוד בלשון הרבנים. וילהלם גזניוס מאשר זאת, ראה ערך של. אך העובדה שהמילה אינה קיימת כיחידה עצמאית בתנ&quot;ך אינה מערערת דבר. ש היא קיצור של אשר, כמו שהראית יפה, ו-ל הוא קיצור של אל (מילית יחס שהתפתחה מהשם אל) ולשתי האותיות משמעות מוגדרת שמהן התפתחה אגב המילית של.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-12 15:16:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_jlh_0.html',
+		'<p>ועוד אגב, פעם כתבתי בנוגע לכתוב &quot;עד כי יבוא שילה&quot;: ואילו אנו נאמר, כי יתכן שפירוש המילה הוא דוקא מלשון שלוה, כפי שנאמר - &quot; כי לא באתם עד עתה אל המנוחה ואל הנחלה &quot; (דברים, יב\', 9), כך שהדברים מכוונים, כך גם על-פי פירושנו, לתקופה משיחית כלשהי. ועוד יתכן לומר, שהקטע נכתב בימי מלכות בית-דוד והוא מבטא מעין ברכה לכך שהמלכות לא תעבור משבט זה. ואגב, אם רוצים אפשר לפרש מילה זו גם באופנים נוספים, כמו - מלשון אשליה, כלומר - עד כי יבוא בלבול, סוף, או אפילו מלשון שוליים באותו המובן, אך אלו כבר הערכות רחוקות, ועדיין העניין קשה.</p><p>http://www.tora.us.fm/tnk1/messages/prqim_t0149_0.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 15:19:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-28-09.html',
+		'<p>אני חושב שהמאמרים האלו הם מאוד חיונייםץ אבל היותר חשוב מכל הוא להבין לנפשו של התלמיד ולנסות למצוא את הדרך לעזור לו ככל האפשר.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkrVoYDoxOBCauA2paJOqEddnUV2_hIf40',
+		'arie rojtenbarg',
+		'2014-11-12 15:48:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-12 15:48:42' 
+			WHERE messageid=4855;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-28-09.html',
+		'<p>וכן - ישעיהו א15: &quot;ובפרשכם כפיכם אעלים עיני מכם גם כי תרבו תפלה אינני שמע ידיכם דמים מלאו&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-12 16:10:59'
+		)
+		;
+
