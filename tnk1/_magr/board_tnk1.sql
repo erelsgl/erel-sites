@@ -3008,3 +3008,145 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-28-09.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-13 08:47:21'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-13 09:30:12'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/byqwrwt_a5.doc',
+				NULL,
+				'2014-11-13 12:03:33',
+				'2014-11-13 12:03:33',
+				'לקט ביקורות A5',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/index.html',
+				'tnk1/messages/jmewny.doc',
+				NULL,
+				'2014-11-13 12:58:08',
+				'2014-11-13 12:58:08',
+				'מבחר שמעוני',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-13 12:58:08'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/index.html',
+				'tnk1/messages/hkl2_em_twspwt.doc',
+				NULL,
+				'2014-11-13 13:00:52',
+				'2014-11-13 13:00:52',
+				'שמעוני הכל2 עם תוספות',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-11-13 13:00:52'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9philosophy.html',
+				'tnk1/messages/lxyym_whtnk2_ay5_em_herwt_sywm.doc',
+				NULL,
+				'2014-11-13 13:06:37',
+				'2014-11-13 13:06:37',
+				'הדרכה לחיים והתנך2 אי5 עם הערות סיום',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/byqwrwt___spr.doc',
+				NULL,
+				'2014-11-13 13:34:15',
+				'2014-11-13 13:34:15',
+				'לקט ביקורות - ספר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/wspry_hdrkh_axrym___spr.doc',
+				NULL,
+				'2014-11-13 13:35:04',
+				'2014-11-13 13:35:04',
+				'התנך וספרי הדרכה אחרים - ספר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/jmewny___spr.doc',
+				NULL,
+				'2014-11-13 13:37:12',
+				'2014-11-13 13:37:12',
+				'מבחר שמעוני - ספר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

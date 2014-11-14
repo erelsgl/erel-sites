@@ -4460,3 +4460,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום בעלי עזב אותי עם 4 ילדים והמצב שלי הולך ומדרדר בבקשה עזרה בסביבות ה200000525975405</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmRYJHty0MabkuNTP2w-fN-Y0XIiCC5sX0',
+		'LielPC IL',
+		'2014-11-13 08:47:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא ל4 ילדים 0525975405</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmRYJHty0MabkuNTP2w-fN-Y0XIiCC5sX0',
+		'LielPC IL',
+		'2014-11-13 09:30:12'
+		)
+		;
+
