@@ -3150,3 +3150,91 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:00'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:08'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:10'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:12'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:16'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:17'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:19'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:20'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:22'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:23'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-17 18:30:31'
+		WHERE ktovt_bn='tnk1/messages/ktuv_mjly_mj-30-28_0.html'
+		;
+

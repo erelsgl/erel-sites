@@ -4484,3 +4484,212 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p>יש לי שממית</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-17 18:30:05' 
+			WHERE messageid=4859;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mjly_mj-30-28_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqpEgdrn4TRQlDvNb0Kd4ojN7hQVvwTNs',
+		'נתיב לאור',
+		'2014-11-17 18:30:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:41' 
+			WHERE messageid=4860;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:44' 
+			WHERE messageid=4861;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:45' 
+			WHERE messageid=4862;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:46' 
+			WHERE messageid=4863;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:47' 
+			WHERE messageid=4864;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:48' 
+			WHERE messageid=4865;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:48' 
+			WHERE messageid=4866;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:49' 
+			WHERE messageid=4867;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:49' 
+			WHERE messageid=4868;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-18 05:50:50' 
+			WHERE messageid=4869;
+
