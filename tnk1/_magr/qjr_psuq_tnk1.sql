@@ -66,3 +66,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:יהושע כד1', 'יהש', 'כד', 1, 1, '', '', 10, '2014-10-15 09:34:18');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ציור מש י 19' AND `sfr` = 'משל' AND `prq0` = 'י' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
