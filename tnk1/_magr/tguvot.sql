@@ -4693,3 +4693,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-11-18 05:50:50' 
 			WHERE messageid=4869;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5791.html',
+		'<p>בפרשת השבוע &quot;תולדות&quot; אומר עשו &quot;הלעיטני נא...&quot; ויש מפרשים שזה גם במשמעות של לא מבושל שעשו ביקש מיעקב מהנזיד למרות שלא היה מבושל כל צרכו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkaHvnzBfWDt9OY-nEpMwcBEqdszHOdBG0',
+		'dovi K',
+		'2014-11-18 19:52:41'
+		)
+		;
+

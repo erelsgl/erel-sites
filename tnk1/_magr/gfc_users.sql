@@ -1875,3 +1875,15 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-11-18 05:50:36','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-18 14:25:13','https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw','meir levy');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-18 19:50:51','https://www.google.com/accounts/o8/id?id=AItOawkaHvnzBfWDt9OY-nEpMwcBEqdszHOdBG0','dovi K');
+
