@@ -27,3 +27,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `ktovt` = 'tnk1/messages/mjte.jpg', `tarik_hosfa` = '2014-11-02 06:46:56' WHERE `qod` = 'ציור משתה' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'רמזים ליהודה איש קריות בתנ\"ך', `tarik_hosfa` = '2014-11-20 19:52:03' WHERE `qod` = 'יהודה איש קריות' AND 1 LIMIT 1;
+

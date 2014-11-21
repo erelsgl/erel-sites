@@ -3300,3 +3300,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0615_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:51:39'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:51:52'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:04'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:07'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:10'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:53:08'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:53:31'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `kotrt` = 'יהודה איש קריות', `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t0615.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t0615_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `kotrt` = 'רמזים ליהודה איש קריות בתנ\"ך', `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t0615.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t0615_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-21 06:51:10'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/bny_jmuel.html'
+		;
+
