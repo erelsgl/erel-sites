@@ -122,8 +122,12 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
      </div><!--page-->
     ";
   }
-
-  return $html;
+  
+  $html = str_replace("http://localhost/","/",$html); 
+  $html = str_replace("http://tora.us.fm/","/",$html);
+  $html = str_replace("http://www.tora.us.fm/","/",$html);
+  
+    return $html;
 }
 
 
