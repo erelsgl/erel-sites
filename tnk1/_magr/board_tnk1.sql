@@ -3300,3 +3300,91 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0615_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:51:39'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:51:52'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:04'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:07'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:52:10'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:53:08'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-20 15:53:31'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_yozma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `kotrt` = 'Χ™Χ”Χ•Χ“Χ” ΧΧ™Χ© Χ§Χ¨Χ™Χ•Χª', `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t0615.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t0615_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `kotrt` = 'Χ¨ΧΧ–Χ™Χ ΧΧ™Χ”Χ•Χ“Χ” ΧΧ™Χ© Χ§Χ¨Χ™Χ•Χª Χ‘ΧªΧ \"Χ', `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t0615.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t0615_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-21 06:51:10'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/bny_jmuel.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0127.htm',
+				'tnk1/messages/prqim_t0127_5.html',
+				NULL,
+				'2014-11-21 13:09:31',
+				'2014-11-21 13:09:31',
+				'ξωδε ςμ \"ϊεμγεϊ\"',
+				'ηβι δετψ',
+				'hagaihof @ gmail.com'
+			)
+		;
+

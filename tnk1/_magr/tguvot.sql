@@ -4717,3 +4717,148 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p>האתר שלכם מאוד מצויין יש בו המון חומר של דוד ושאול</p><p>!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:51:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:51:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:52:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:52:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:52:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:52:14' 
+			WHERE messageid=4872;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:52:16' 
+			WHERE messageid=4873;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:52:17' 
+			WHERE messageid=4875;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:52:19' 
+			WHERE messageid=4874;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:52:20' 
+			WHERE messageid=4876;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p>אאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאאבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבבגגגגגגגגגגגגגגגגגגגגגגגגגגגגגגדדדדדדדדדדדדדדדדדדדדדדדדדדדדדדדדדהההההההההההההההההההההההההההההוווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווווזזזזזזזזזזזזזזזזזזזזזזזזזזזזזזזזחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחטטטטטטטטטטטטטטטטטטטטטטטטטטטטטטטטטייייייייייייייייייייייייייייככככככככככככככככככככככככככלללללללללללללללללללללללללללמממממממממממממממממממממממממממממממממממממממממממממממממממננננננננננננננננננננננננסססססססססססססססססעעעעעעעעעע!!!!!!!!!!!!!1!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:53:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_yozma.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnaNfEMdhtd7UFgSkmR79Eo9LKxMH-EeXw',
+		'meir levy',
+		'2014-11-20 15:53:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:53:40' 
+			WHERE messageid=4877;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2014-11-20 15:53:42' 
+			WHERE messageid=4878;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_jmuel.html',
+		'<p>מאיר עוזיאל, בספרו &quot;איש הישר בעיניו&quot;, מציע הסבר מקורי: לדבריו, השחיתות של בני שמואל אינה הסיבה להחלפת השלטון, אלא רק אמצעי להפעלת לחץ על שמואל. תומכי המלוכה רמזו לשמואל, שאם לא ישתף איתם פעולה, הבנים שלו יירקבו בכלא... ושמואל נשבר והסכים.</p><p>שמואל לא היה המנהיג האחרון שנאלץ לפעול בניגוד לאידיאולוגיה שלו כדי להגן על בניו שלקחו שוחד.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-11-21 06:51:10'
+		)
+		;
+
