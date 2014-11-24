@@ -4862,3 +4862,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0106_9.html',
+		'<p>כאשר אמר אלהים לאדם בזיעת אפך תאכל לחם ואין להמנע מהקללה הזו כי גם איש היושב במשרד עליו להזיע בחדר כושר כדי לחיות</p><p>כך גם כאשר אמר אלהים לאשה בעצב תלדי בנים ואין להמנע מהקללה הזו באמצעות אפידורל</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-23 12:15:41'
+		)
+		;
+

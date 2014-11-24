@@ -3388,3 +3388,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-23 12:15:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0106_9.html'
+		;
+
