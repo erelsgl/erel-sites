@@ -1923,3 +1923,21 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-11-23 12:12:46','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-24 14:18:04','https://www.google.com/accounts/o8/id?id=AItOawlfTe6utLpnMs0zpe6Nr4lLCv3GFvCuAY4','ariel ashton');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-24 15:25:33','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-11-24 16:57:16','https://www.google.com/accounts/o8/id?id=AItOawmqIermQGs12YNkzu2BUm_Cc_ToTneQ_7U','moamen hag yhya');
+
