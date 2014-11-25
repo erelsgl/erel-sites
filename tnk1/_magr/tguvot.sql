@@ -4874,3 +4874,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>תודה לך את עזרת לי מאוד העבודה היתה לי קשה ואת עזרת לי </p><p>תודה!!!!!!1</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlfTe6utLpnMs0zpe6Nr4lLCv3GFvCuAY4',
+		'ariel ashton',
+		'2014-11-24 14:20:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>את נהדרת!!!!!!!!!!!</p><p>מספר 1</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlfTe6utLpnMs0zpe6Nr4lLCv3GFvCuAY4',
+		'ariel ashton',
+		'2014-11-24 14:21:54'
+		)
+		;
+
