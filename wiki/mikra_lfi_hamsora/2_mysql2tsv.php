@@ -7,14 +7,14 @@ $rows = sql_query_or_die("
 	SELECT *
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'ספר דניאל%'
-			OR chapter_id LIKE 'ספר עזרא%'
-			OR chapter_id LIKE 'ספר דברי %'
+--			OR chapter_id LIKE 'ספר דניאל%'
+--			OR chapter_id LIKE 'ספר עזרא%'
+--			OR chapter_id LIKE 'ספר דברי %'
 			
---			OR chapter_id LIKE 'ספר יהושע%'
---			OR chapter_id LIKE 'ספר שופטים%'
---			OR chapter_id LIKE 'ספר שמואל %'
---			OR chapter_id LIKE 'ספר מלכים %'
+			OR chapter_id LIKE 'ספר יהושע%'
+			OR chapter_id LIKE 'ספר שופטים%'
+			OR chapter_id LIKE 'ספר שמואל %'
+			OR chapter_id LIKE 'ספר מלכים %'
 		ORDER BY book_code_mamre, chapter_number, verse_number
 		");
 
