@@ -4898,3 +4898,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>מעכשיו אפשר לחפש גם בלי רווחים. זה שימושי במיוחד למציאת פלינדרומים. הפלינדרום הארוך ביותר בתנ&quot;ך הוא בן 12 אותיות. כדי למצוא אותו יש לחפש את המחרוזת:</p><p>(.)(.)(.)(.)(.)(.)\\6\\5\\4\\3\\2\\1</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2014-11-26 17:44:52'
+		)
+		;
+
