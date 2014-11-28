@@ -4910,3 +4910,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-28-12.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnjU39J_aeCMhSxRRF-JZeedobKLQKPwBE',
+		'פרידה מורשת',
+		'2014-11-27 14:01:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-28-12.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0128_3.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-28 03:19:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/tkunot_mnhigim.html',
+		'<p>מה הם התכונות של שופט אתה יכול לענות לי?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-28 07:11:08'
+		)
+		;
+

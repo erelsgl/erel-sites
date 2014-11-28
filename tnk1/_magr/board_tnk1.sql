@@ -3498,3 +3498,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-27 14:01:30'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-28-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-28 03:19:22'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-28-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-11-28 07:11:08'
+		WHERE ktovt_bn='tnk1/tora/tkunot_mnhigim.html'
+		;
+
