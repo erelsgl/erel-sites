@@ -4946,3 +4946,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>מעניין מאוד כל מה שאתה אומר פה וגם מעורר מחשבות. אפשר להסביר אסירי התקווה גם באופן אחר. אלה הם אסירים, אסירי גלות שבלבם מפעמת תקווה, תקוות השיבה. בצרון ראיתי שיש גם הסבר הפוך למה שהסברת אתה והוא מבצר, המקום המבוצר, משמע אלוהים או ירושלים העיר המבוצרת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-28 14:56:18'
+		)
+		;
+
