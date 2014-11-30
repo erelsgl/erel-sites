@@ -4910,3 +4910,87 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-28-12.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnjU39J_aeCMhSxRRF-JZeedobKLQKPwBE',
+		'פרידה מורשת',
+		'2014-11-27 14:01:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-28-12.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0128_3.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-28 03:19:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/tkunot_mnhigim.html',
+		'<p>מה הם התכונות של שופט אתה יכול לענות לי?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlNhsGXilFxSNyawSxLA7vr0GLzj-eEdHY',
+		'תומר פינקלשטיין',
+		'2014-11-28 07:11:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>מעניין מאוד כל מה שאתה אומר פה וגם מעורר מחשבות. אפשר להסביר אסירי התקווה גם באופן אחר. אלה הם אסירים, אסירי גלות שבלבם מפעמת תקווה, תקוות השיבה. בצרון ראיתי שיש גם הסבר הפוך למה שהסברת אתה והוא מבצר, המקום המבוצר, משמע אלוהים או ירושלים העיר המבוצרת.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-28 14:56:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>כמובן, לפי פשוטו את צודקת. אני הלכתי על דרך הדרש. איני מרבה בכך, אך הפעם הביטוי &quot;אסירי התקווה&quot;, היפה כל-כך, חייב אותי לזאת. אגב, הדרש מסתדר גם לפי הפירוש בצרון=ציון, או ירושלים, מקום מבוצר. ומה שנבצר הרי הוא מה שמולו יש מבצר. ואפשר לראות פה גם מסר לגלות השנייה, שהייתה כולה אפופה כיסופים ותקווה, עד שובנו לארצנו-מבצרנו, מקום מבטחינו (המובטח). איך שלא יהיה, אני חושב שיש כאן רמז בביטוי הזה &quot;אסירי התקווה&quot;.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-29 17:59:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>ההקבלה של הביטוי אסירי תקווה לביטוי אסירי תודה מאששת את הסברך ומכל מקום אני סבורה שפעמים רבות במקרא ייתכנו כמה פירושים ואף הפוכים ולפעמים אפילו אני חשה שבעל הכתוב מכוון לכך שיהיו שני פירושים הפוכים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-29 18:45:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>מסכים איתך.</p><p>ואגב, אוסיף עוד אבחנה: כשם ש&quot;אסיר ציון&quot; הוא אסיר בגלל ציון, עבור ציון, ולא של ציון, כך אפשר לומר שאסירי התקווה הם אסירים בגלל התקווה, עבור התקווה, ולא &quot;שלה&quot; (אף כי הם הופכים גם לאסירים &quot;שלה&quot; במובן מסוים).</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-29 19:24:14'
+		)
+		;
+
