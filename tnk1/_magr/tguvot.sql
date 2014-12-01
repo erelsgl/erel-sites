@@ -4994,3 +4994,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>אחזק עוד את דבריך: לפי בן שושן, אסיר, במובן הזה, הוא מי שדבוק ואחוז בכל נפשו במשהו. כך שגם אם לא ציון הושיבה את אוהביה בבית אסורים, יש לה &quot;אחריות&quot; בעניין. אך שלא כמו כמכור לסמים, שהוא במצב שלילי ורצוי מאוד שיצא ממנו וישתחרר, אסירי התקווה שואפים לאידיאל חיובי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2014-11-30 09:00:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>ספר שיר השירים פרק ז כתוב:</p><p>(ו)  רֹאשֵׁךְ עָלַיִךְ כַּכַּרְמֶל וְדַלַּת רֹאשֵׁךְ כָּאַרְגָּמָן מֶלֶךְ אָסוּר בָּרְהָטִים.</p><p>מֶלֶךְ אָסוּר בָּרְהָטִים = זה טוב מאד למלך שתמיד רווה מהמים הזורמים ברהטים </p><p>ספר תהילות פרק קי כתוב: (ז) מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-11-30 11:01:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>תודה אורנה ומשה. על &quot;[ארגמן] מלך אסור ברהטים&quot; דיברנו פעם, אני מפרש זאת אחרת [בצימוד: ארגמן-מלך].</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-11-30 11:25:46'
+		)
+		;
+
