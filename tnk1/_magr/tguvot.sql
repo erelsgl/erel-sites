@@ -5030,3 +5030,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_24.html',
+		'<p>ספר בראשית פרק ט כתוב:</p><p>(טו)  וְזָכַרְתִּי אֶת-בְּרִיתִי אֲשֶׁר בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל-נֶפֶשׁ חַיָּה בְּכָל-בָּשָׂר וְלֹא-יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל לְשַׁחֵת כָּל-בָּשָׂר.</p><p>במילים &quot;וְזָכַרְתִּי אֶת-בְּרִיתִי&quot; = מסתתר &quot;וְכַרְתִּי אֶת-בְּרִיתִי&quot; = כי כשאלהים זוכר את הברית הוא כורת את הברית מחדש כחידוש הברית</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-01 13:32:56'
+		)
+		;
+
