@@ -3632,3 +3632,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2014-12-01 21:58:13'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-03 14:44:23'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+

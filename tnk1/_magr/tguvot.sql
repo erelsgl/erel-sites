@@ -5042,3 +5042,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>תודה רבה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnVkN-_ATAIYdcgH9hpF8bStzJkmh7aH08',
+		'ורד פאר',
+		'2014-12-03 14:44:23'
+		)
+		;
+
