@@ -9,7 +9,7 @@ $rows = sql_query_or_die("
 		INNER JOIN qodm_hba qodm ON(qodm.hba=verse_letter)
 		INNER JOIN qodm_hba hba  ON(hba.qodm=verse_letter)
 		WHERE book_name LIKE 'משלי%'
-		AND chapter LIKE 'א'
+		AND chapter LIKE 'ד'
 		AND verse_number BETWEEN 1 AND 100
 		");
 
