@@ -3672,3 +3672,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-07 10:11:20'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_51.html'
+		;
+

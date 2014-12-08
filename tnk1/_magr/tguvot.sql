@@ -5054,3 +5054,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_51.html',
+		'<p>ברוך הבא, אראל, למועדון המבקרים! מקווה שגם לכך יהיה המשך.</p><p>אני עצמי פספסתי את הספר הזה, אולי בעתיד אגיע אליו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-12-07 10:11:20'
+		)
+		;
+
