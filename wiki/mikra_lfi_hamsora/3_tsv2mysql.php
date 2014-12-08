@@ -1,11 +1,11 @@
 <?php
-require_once('0_common.php');
+require_once('../0_common.php');
 
 $FILENAME_INPUT = dirname(__FILE__)."/3_from_spreadsheet.tsv";
 
 // see http://dev.mysql.com/doc/refman/5.1/en/load-data.html
 sql_queries_or_die("
-	CREATE TEMPORARY TABLE psuqim_dovi_corrected(
+	CREATE TEMPORARY TABLE corrected(
 	chapter_id varchar(255),
 	verse_letter char(3),
 	prefix text,
@@ -16,14 +16,14 @@ sql_queries_or_die("
 	);
 
 	LOAD DATA LOCAL INFILE '$FILENAME_INPUT'
-	INTO TABLE psuqim_dovi_corrected;
+	INTO TABLE corrected;
 	
 	UPDATE psuqim_dovi
-	INNER JOIN psuqim_dovi_corrected USING(chapter_id,verse_letter)
-	SET psuqim_dovi.prefix=psuqim_dovi_corrected.prefix,
-	    psuqim_dovi.verse_letter_text=psuqim_dovi_corrected.verse_letter_text,
-	    psuqim_dovi.verse_text=psuqim_dovi_corrected.verse_text,
-	    psuqim_dovi.stylized_text=psuqim_dovi_corrected.stylized_text
+	INNER JOIN corrected USING(chapter_id,verse_letter)
+	SET psuqim_dovi.prefix=corrected.prefix,
+	    psuqim_dovi.verse_letter_text=corrected.verse_letter_text,
+	    psuqim_dovi.verse_text=corrected.verse_text,
+	    psuqim_dovi.stylized_text=corrected.stylized_text
 	");
 
 
@@ -45,7 +45,7 @@ sql_queries_or_die('
 // 	');
 
 		
-//include("4_mysql2wiki.php");
+include("4_mysql2wiki.php");
 
 // update psuqim_dovi
 // set prefix = CONCAT("<noinclude>",prefix,"</noinclude>")
