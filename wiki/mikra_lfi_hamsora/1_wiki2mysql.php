@@ -1,26 +1,31 @@
 <?php
-require_once('0_common.php');
-$FILENAME_INPUT = "0_from_wiki.txt";
+require_once('../0_common.php');
+$chapters = get_pages("0_from_wiki.txt");
 
 
-$text = file_get_contents($FILENAME_INPUT);
+$QTA_HTXLA = "קטע התחלה";
+$QTA_SOF = "קטע סוף";
+$QTA     = "קטע";
 
-$text = trim($text);
+$TVNIT_MSPR_PSUQ = "מ:פסוק";
+$SIMN = "סימן";
 
-$chapters = preg_split("/$SOFPEREQ/", $text);
-print count($chapters)." chapters\n";
 
-function replace_spaces($verse_text) {
-	global $PREFIX_SPACE_REPLACEMENT, $END_OF_LINE_REPLACEMENT;
-	$verse_text = preg_replace("/\\n/", "$END_OF_LINE_REPLACEMENT", $verse_text);
-	$verse_text = preg_replace("/^ /", $PREFIX_SPACE_REPLACEMENT, $verse_text);
-	return $verse_text;
-}
+$CONTAINER = "נביאים וכתובים על פי המסורה";
+$REGEXP_STARTFILE = "@[#][#][#][#][#][^\n]*${CONTAINER}[/]([^\n]+)\n([^<>]+)@s";
+$REGEXP_VERSE = "/^(\\s*((?:[{][{][^{}]+[}][}]\\s*)|(?:[<][^<>]+[>]\\s*))*)(.*)/s";
+// [1] = prefix
+// [3] = verse_text
+$REGEXP_SDR = "/{{מ:סדר[|]([א-ת]+)}}/";
+
+$TVNIT_MILA = "נוסח|כו.ק|קמץ";
+$REGEXP_TVNIT_MILA = "/(([{][{]($TVNIT_MILA)[^{}]+[}][}]\\s*)+)/";
+$SOFPASUQ = "׃"; // special end-of-verse char
 
 function extract_chapter_id_and_prefix($chapter_text) {
 	global $REGEXP_STARTFILE;
 	if (preg_match($REGEXP_STARTFILE,$chapter_text,$matches)) {
-		return array($matches[1], replace_spaces($matches[2]));
+		return array($matches[1], replace_spaces_with_placeholders($matches[2]));
 	} else {
 		die ("No chapter_id! chapter_text=$chapter_text");
 	}
@@ -74,9 +79,9 @@ foreach ($chapters as $chapter_text) {
  			 
 		$prefix = preg_replace("/<$GLOBALS[QTA][^<>]*>/", "", $prefix);
 
-		$prefix = replace_spaces($prefix);
+		$prefix = replace_spaces_with_placeholders($prefix);
 
-		$verse_text = replace_spaces($matches[3]);
+		$verse_text = replace_spaces_with_placeholders($matches[3]);
 		if ($verse_text)
 			$verse_text .= $SOFPASUQ;
 		
@@ -86,7 +91,7 @@ foreach ($chapters as $chapter_text) {
 			$prefix = str_replace($prefix_matches[1], "", $prefix);
 		}
 
-		$prefix = replace_spaces($prefix);
+		$prefix = replace_spaces_with_placeholders($prefix);
 		
 		if (preg_match($REGEXP_SDR,$prefix,$matches)) {
 			$sdr = $matches[1];
