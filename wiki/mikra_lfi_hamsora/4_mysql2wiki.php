@@ -15,11 +15,15 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר שופטים%'
 		--	OR chapter_id LIKE 'ספר שמואל%'
 		--	OR chapter_id LIKE 'ספר מלכים%'
+		
 		--	OR chapter_id LIKE 'ספר ישעיהו%'
 		--	OR chapter_id LIKE 'ספר ירמיהו%'
 		--	OR chapter_id LIKE 'ספר יחזקאל%'
 		--	OR chapter_id LIKE 'ספר תרי%'
-			OR chapter_id LIKE 'ספר משלי%'
+		
+		--	OR chapter_id LIKE 'ספר משלי%'
+			OR chapter_id LIKE 'ספר תהלים%'
+			OR chapter_id LIKE 'ספר איוב%'
 		
 		GROUP BY chapter_id
 		");
