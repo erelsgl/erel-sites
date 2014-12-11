@@ -5090,3 +5090,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_jirim_jirim_xdjim_10_0.html',
+		'<p>סוף סוף אחד שמבין</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkUcAvd0inw4TbHerkjOvzxysN0ag_Zo6Y',
+		'meshi Ab241000',
+		'2014-12-11 03:22:52'
+		)
+		;
+

@@ -3758,3 +3758,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_53.html',
+				NULL,
+				'2014-12-10 13:43:44',
+				'2014-12-10 13:43:44',
+				'על \"אברהם - סיפורו של מסע\" מאת יונתן גרוסמן',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-11 03:22:52'
+		WHERE ktovt_bn='tnk1/messages/klli_jirim_jirim_xdjim_10_0.html'
+		;
+
