@@ -5102,3 +5102,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_52.html',
+		'<p>נשאלתי: מתי נחתם התנ&quot;ך?</p><p>עניתי: בביקורתי כתבתי בשם המחבר: &quot;ניתן לסכם, כי ספרות המקרא מונה כאלף שנים של יצירה, למן תקופת השופטים ועד גזירות אנטיוכוס בשנת 167 לפסה&quot;נ&quot;.</p><p>ממילא היא נחתמה מאוחר יותר.</p><p>באנציקלופדיה המקראית נאמר: &quot;איסוף המקרא כקובץ קבוע ומוגדר של ספרים מקודשים היה תהליך אטי ומסובך, שרובו סמוי מעינינו. התהליך נסתיים בישראל סמוך לחורבן בית שני, ואילו בנצרות הוא נמשך עד לתקופת הריפורמציה&quot; (ערך מקרא - איסוף ספרי המקרא וסידורם). </p><p>תרגום השבעים הוא אמנם בן המאה השלישית לפנה&quot;ס אך &quot;מפרידות כארבע מאות שנה בין תרגום התורה לתרגום המאוחר ביותר הכלול בקאנון של תה&quot;ש&quot; (ערך תנ&quot;ך - תרגומים).</p><p>ואולם, יש לציין כי עוד בתלמוד, שנכתב סביב המאה החמישית, יש ויכוחים לגבי מספר ספרים - קהלת, משלי, שיר השירים וגם יחזקאל - האם להכלילם בתנ&quot;ך או לא (במקור - האם הם &quot;מטמאים את הידיים&quot;, כלומר מקודשים).</p><p>מקווה שעניתי.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-12-11 10:31:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_45.html',
+		'<p>אני מאד אוהב לקרוא את הדברים באתר. הרעיונות והמקורות מפרים את לימודי. לצערי לא השתכנעתי במשפט הפתיחה אותו התיימרת להוכיח  - &quot;יחד עם זאת מדגישה התורה כי ערך חיי האדם קודם לערך קיום מצוות התורה&quot;. לא הוכחת זאת במאמר. הדברים רופפים בעיני. אפשר היה גם להסיק להיפך - אולי דווקא הנכונות למסי&quot;נ מצדיק את החיים ונותן להם את ערכם, כמעשה הקרבן, וכניסת כלל ישראל תוך ביטול מוחלט לפני ולפנים.  </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlnH3haKXBpDXOitj3PTmZrvyL0RdUGU9Y',
+		'Asher Gross',
+		'2014-12-12 03:44:04'
+		)
+		;
+
