@@ -46,8 +46,9 @@ file_put_contents($FILENAME_OUTPUT, $text);
 
 
 
+
 function chapter_normal($chapter_id,$chapter_name) {
-	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $SIMN, $END_OF_PAGE;
+	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
 	$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id\n";
 	$rows = sql_query_or_die("
 			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text
@@ -65,17 +66,15 @@ function chapter_normal($chapter_id,$chapter_name) {
 		if ($verse_number==1)
 			$row['prefix'] = preg_replace("@^$END_OF_LINE_REPLACEMENT@", "", $row['prefix']);
 	
+		if ($verse_number==999)
+			print "\t$row[prefix]\n";
 		$text .= replace_placeholders_with_spaces($row['prefix']);
 	
 		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
-			$text .= "<$QTA_HTXLA=$SIMN/>";
-			$text .= $row['verse_letter_text'];
-			$text .= "<$QTA_SOF=$SIMN/>";
+			$text .= simn($row['verse_letter_text']);
 			$text .= "<$QTA_HTXLA=$row[verse_letter]/>";
 		}
 		$text .= replace_placeholders_with_spaces($row['verse_text']);
-		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999)
-			$text .= "<$QTA_SOF=$row[verse_letter]/>";
 	}
 	$text .= "\n$END_OF_PAGE\n\n";
 	return $text;
@@ -84,7 +83,7 @@ function chapter_normal($chapter_id,$chapter_name) {
 
 
 function chapter_stylized($chapter_id,$chapter_name) {
-	global $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $SIMN, $END_OF_PAGE;
+	global $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
 	$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id/צורת-השיר\n";
 	$rows = sql_query_or_die("
 		SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text, stylized_text
@@ -109,15 +108,19 @@ function chapter_stylized($chapter_id,$chapter_name) {
 
 		$text .= replace_placeholders_with_spaces($row['prefix']);
 
-		if (0<$verse_number && $verse_number<999) {
-			$text .= "<$QTA_HTXLA=$SIMN/>";
-			$text .= $row['verse_letter_text'];
-			$text .= "<$QTA_SOF=$SIMN/>";
-		}
+		if (0<$verse_number && $verse_number<999) 
+			$text .= simn($row['verse_letter_text']);
+		
 		$text .= replace_placeholders_with_spaces($row['verse_text']);
 	}
 	$text .= "\n$END_OF_PAGE\n\n";
 	return $text;
+}
+
+function simn($simn) {
+	global $QTA_HTXLA, $QTA_SOF;
+	$SIMN = "סימן";
+	return "<$QTA_HTXLA=$SIMN/>$simn<$QTA_SOF=$SIMN/>";
 }
 
 print "Output written to: $FILENAME_OUTPUT";

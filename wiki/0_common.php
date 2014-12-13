@@ -4,6 +4,10 @@ $PREFIX_SPACE_REPLACEMENT = "__";
 $END_OF_LINE_REPLACEMENT = "//";
 $END_OF_PAGE = "סוףקובץ";
 
+$QTA_HTXLA = "קטע התחלה";
+$QTA_SOF = "קטע סוף";
+$QTA     = "קטע";
+
 $erel_sites = dirname(__FILE__)."/../";
 require("$erel_sites/tnk1/admin/db_connect.php");
 require_once("$erel_sites/_script/hebrew_utf8.php");

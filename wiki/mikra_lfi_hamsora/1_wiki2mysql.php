@@ -3,12 +3,7 @@ require_once('../0_common.php');
 $chapters = get_pages("0_from_wiki.txt");
 
 
-$QTA_HTXLA = "קטע התחלה";
-$QTA_SOF = "קטע סוף";
-$QTA     = "קטע";
-
 $TVNIT_MSPR_PSUQ = "מ:פסוק";
-$SIMN = "סימן";
 
 
 $CONTAINER = "נביאים וכתובים על פי המסורה";
