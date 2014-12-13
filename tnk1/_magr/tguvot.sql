@@ -5102,3 +5102,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_52.html',
+		'<p>נשאלתי: מתי נחתם התנ&quot;ך?</p><p>עניתי: בביקורתי כתבתי בשם המחבר: &quot;ניתן לסכם, כי ספרות המקרא מונה כאלף שנים של יצירה, למן תקופת השופטים ועד גזירות אנטיוכוס בשנת 167 לפסה&quot;נ&quot;.</p><p>ממילא היא נחתמה מאוחר יותר.</p><p>באנציקלופדיה המקראית נאמר: &quot;איסוף המקרא כקובץ קבוע ומוגדר של ספרים מקודשים היה תהליך אטי ומסובך, שרובו סמוי מעינינו. התהליך נסתיים בישראל סמוך לחורבן בית שני, ואילו בנצרות הוא נמשך עד לתקופת הריפורמציה&quot; (ערך מקרא - איסוף ספרי המקרא וסידורם). </p><p>תרגום השבעים הוא אמנם בן המאה השלישית לפנה&quot;ס אך &quot;מפרידות כארבע מאות שנה בין תרגום התורה לתרגום המאוחר ביותר הכלול בקאנון של תה&quot;ש&quot; (ערך תנ&quot;ך - תרגומים).</p><p>ואולם, יש לציין כי עוד בתלמוד, שנכתב סביב המאה החמישית, יש ויכוחים לגבי מספר ספרים - קהלת, משלי, שיר השירים וגם יחזקאל - האם להכלילם בתנ&quot;ך או לא (במקור - האם הם &quot;מטמאים את הידיים&quot;, כלומר מקודשים).</p><p>מקווה שעניתי.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-12-11 10:31:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_45.html',
+		'<p>אני מאד אוהב לקרוא את הדברים באתר. הרעיונות והמקורות מפרים את לימודי. לצערי לא השתכנעתי במשפט הפתיחה אותו התיימרת להוכיח  - &quot;יחד עם זאת מדגישה התורה כי ערך חיי האדם קודם לערך קיום מצוות התורה&quot;. לא הוכחת זאת במאמר. הדברים רופפים בעיני. אפשר היה גם להסיק להיפך - אולי דווקא הנכונות למסי&quot;נ מצדיק את החיים ונותן להם את ערכם, כמעשה הקרבן, וכניסת כלל ישראל תוך ביטול מוחלט לפני ולפנים.  </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlnH3haKXBpDXOitj3PTmZrvyL0RdUGU9Y',
+		'Asher Gross',
+		'2014-12-12 03:44:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-92.html',
+		'<p>הרב אריה קפלן באחד מספריו באנגלית (דומני קבלה והתנ&quot;ך) מדבר על \'ארכיאולוגיה של מילים\' ומפרש את המילה \'שעשוע\'  ecstatic rapture מני שעל סמך הפסוק &quot;ושעשע יונק על חור פתן&quot;. כדאי לחשוב על משמעות זאת. לעניות דעתי בעקדה יצחק צחק על הקב&quot;ה, וישוע חווה על הצלב שעשוע ממין זה ותפס שהוא עצמו הופך או יהפוך לרבים לאלוהים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmiM0tPQtxeAMr1Ub0wDUcAQE2FO08mQS4',
+		'Yitzhaq Hayut-man',
+		'2014-12-12 12:40:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_2.html',
+		'<p>ספר מלאכי פרק ב כתוב:</p><p>(ז) כִּי-שִׂפְתֵי כֹהֵן יִשְׁמְרוּ-דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יְהוָה-צְבָאוֹת הוּא.</p><p>הכהן הלוי מלאך אלהים הוא על כן שבט הלוי אין לו נחלה באדמה כי לא איש אדמה הוא כי איש אלהים הוא ועתה כל מי שנפתה לבו [מתפתה] ןחומד את תדר המלאכים ידע כל כי לא יהיה לו חלק ונחלה באדמת ישראל</p><p>ואתם אל תהיו פתי ולפני שאתם הולכים שולל עליכם לחשוב היטב ולהחליט בטרם תשימו על עצמכם תדר של מלאכי אלהים</p><p>מה אתם רוצים להיות להיות אנשי אלהים כשבט לוי ללא נחלה</p><p>או אנשי אדמה עם נחלה באדמה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-12 13:34:48'
+		)
+		;
+
