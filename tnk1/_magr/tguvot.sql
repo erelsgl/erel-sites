@@ -5126,3 +5126,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-92.html',
+		'<p>הרב אריה קפלן באחד מספריו באנגלית (דומני קבלה והתנ&quot;ך) מדבר על \'ארכיאולוגיה של מילים\' ומפרש את המילה \'שעשוע\'  ecstatic rapture מני שעל סמך הפסוק &quot;ושעשע יונק על חור פתן&quot;. כדאי לחשוב על משמעות זאת. לעניות דעתי בעקדה יצחק צחק על הקב&quot;ה, וישוע חווה על הצלב שעשוע ממין זה ותפס שהוא עצמו הופך או יהפוך לרבים לאלוהים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmiM0tPQtxeAMr1Ub0wDUcAQE2FO08mQS4',
+		'Yitzhaq Hayut-man',
+		'2014-12-12 12:40:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_2.html',
+		'<p>ספר מלאכי פרק ב כתוב:</p><p>(ז) כִּי-שִׂפְתֵי כֹהֵן יִשְׁמְרוּ-דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יְהוָה-צְבָאוֹת הוּא.</p><p>הכהן הלוי מלאך אלהים הוא על כן שבט הלוי אין לו נחלה באדמה כי לא איש אדמה הוא כי איש אלהים הוא ועתה כל מי שנפתה לבו [מתפתה] ןחומד את תדר המלאכים ידע כל כי לא יהיה לו חלק ונחלה באדמת ישראל</p><p>ואתם אל תהיו פתי ולפני שאתם הולכים שולל עליכם לחשוב היטב ולהחליט בטרם תשימו על עצמכם תדר של מלאכי אלהים</p><p>מה אתם רוצים להיות להיות אנשי אלהים כשבט לוי ללא נחלה</p><p>או אנשי אדמה עם נחלה באדמה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-12 13:34:48'
+		)
+		;
+

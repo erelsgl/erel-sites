@@ -2097,3 +2097,21 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-12 03:36:20','https://www.google.com/accounts/o8/id?id=AItOawlnH3haKXBpDXOitj3PTmZrvyL0RdUGU9Y','Asher Gross');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-12 12:32:48','https://www.google.com/accounts/o8/id?id=AItOawmiM0tPQtxeAMr1Ub0wDUcAQE2FO08mQS4','Yitzhaq Hayut-man');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-12 12:51:33','https://www.google.com/accounts/o8/id?id=AItOawl0xhE6EHdlYBUzhGV_2BTkXyLZAzy9KWM','רוני יהושע');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-12 13:34:34','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+
