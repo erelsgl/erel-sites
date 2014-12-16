@@ -5162,3 +5162,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_jtrot.html',
+		'<p>אי דיוק. שנת 3450 למניין המקובל היום לבריאה היא שנת 1 לשטרות</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkLDAvcBTji2WTq_8x77bQTRQ9bB8jZVWo',
+		'ישראל מאיר',
+		'2014-12-16 00:51:49'
+		)
+		;
+
