@@ -5174,3 +5174,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-04-25.html',
+		'<p>איך &quot;קין וצאציו נמחו במבול&quot; בדיוק? אשתו של נח היתה צאצאית של קין, נח היה צאצא ישיר של של שת.</p><p>בני האדם הם מזרעם של קין ושת.....</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm2SrG4xtr5sAYKDjxR86Y_GM9td3tzF1A',
+		'Eitan Halevy',
+		'2014-12-17 22:13:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0145_3.html',
+		'<p>תנחומא שמות, סימן כז:</p><p>דבר אחר: </p><p>לך לקראת משה המדברה</p><p>זה שאמר הכתוב: מי יתנך כאח לי (שה&quot;ש ח). </p><p>ישראל אומרין לפני הקדוש ברוך הוא: מי יתנך כאח לי. </p><p>את מוצא כל האחים שונאים זה לזה: </p><p>קין שונא להבל, שנאמר: (בראשית ד) ויקם קין אל הבל אחיו וגו\'.</p><p>ישמעאל שונא ליצחק, שנאמר: ותרא שרה את בן הגר המצרית וגו\' (שם כא) ואין מצחק אלא שבקש להרגו, שנאמר: יקומו נא הנערים ויצחקו (שמואל ב ב).</p><p>עשו שונא ליעקב שנאמר: ויאמר עשו בלבו וגו\' (בראשית כו).</p><p>השבטים שנאו ליוסף, שנאמר: וישנאו אותו (שם לז). </p><p>ובאיזה אח אמרו ישראל להקב&quot;ה? </p><p>כמשה ואהרן, שנאמר: הנה מה טוב ומה נעים שבת אחים גם יחד (תהילים קלג), שהיו אוהבין ומחבבין זה את זה. </p><p>שבשעה שנטל משה את המלכות ואהרן את הכהונה לא שנאו זה את זה, אלא היו שמחים זה בגדולת זה וזה בגדולת זה.</p><p>תדע לך שבשעה שאמר הקדוש ברוך הוא למשה שילך בשליחותו אצל פרעה, וא&quot;ל: שלח נא ביד תשלח, את סבור שמא עכב משה שלא רצה לילך, אינו כן, אלא כמכבד לאהרן.</p><p>אמר משה: עד שלא עמדתי היה אהרן אחי מתנבא להם במצרים שמונים שנה, הוא שכתוב ואודע להם בארץ מצרים (יחזקאל כ\'). </p><p>http://www.daat.ac.il/daat/olam_hatanah/mefaresh.asp?book=2&amp;perek=4&amp;mefaresh=tanhuma</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-12-17 23:03:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0145_3.html',
+		'<p>ספר משלי פרק יח כתוב:</p><p>(כד) אִישׁ רֵעִים לְהִתְרֹעֵעַ וְיֵשׁ אֹהֵב דָּבֵק מֵאָח  </p><p>וְיֵשׁ אֹהֵב דָּבֵק מֵאָח = על כן נאמר ...</p><p>לְאַהֲבָה אֶת-יְהוָה אֱלֹהֵיכֶם לָלֶכֶת בְּכָל-דְּרָכָיו וּלְדָבְקָה-בוֹ =   לְאַהֲבָה אֶת-יְהוָה אֱלֹהֶיךָ לִשְׁמֹעַ בְּקֹלוֹ וּלְדָבְקָה-בוֹ:</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-18 05:40:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה דחופה ,עומד להיות מפונה מהבית ,0545402559 .תודה -מוטי</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlF11EKPnjiuSxlIBLNoSghNkAsJCyiV3U',
+		'מוטי מריונובסקי',
+		'2014-12-18 07:35:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>כמו כן 0545402131 .תודה ,מוטי</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlF11EKPnjiuSxlIBLNoSghNkAsJCyiV3U',
+		'מוטי מריונובסקי',
+		'2014-12-18 07:36:50'
+		)
+		;
+
