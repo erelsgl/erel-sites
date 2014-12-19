@@ -5234,3 +5234,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_0.html',
+		'<p>אכן &quot;דור ודור&quot; פירושו לעולם, כמו בתקבולת: &quot;כי טוב ה\' לעולם חסדו, ועד דור ודור אמונתו&quot; (תהילים ק\' - מזמור לתודה)</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkFjyAMudFPIYPVVSbmcxP_lU8_9C676co',
+		'לאה לוי',
+		'2014-12-18 10:56:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pyrot.html',
+		'<p>אין צורך לפרש &quot;הפוך&quot; (&quot;הוביש ששון...כי הגפן הובישה&quot;) אלא הפסוק קובע שסיבת כל התופעות &quot;הטבעיות&quot; (&quot;...כל עצי השדה יבשו&quot;), סיבת הסיבות היא &quot;כי הוביש (ה\') ששון מבני אדם&quot;, מפני שרצון ה\'  להענישם על חטאיהם וליטול מהם את חדוות החיים.                                     בעומק הדברים מחזירים אותנו הפסוקים אל חטאי אדם וחוה, שאלוקים הועיד את פרי העץ למאכלם, ולאחר שאכלו מעץ הדעת, גורשו מגן עדן , ואת שמחת אכילת הפירות שלא עמלו בגידולם, תפסה עבודת האדמה הקשה (&quot;בעצבון תאכלנה&quot;) שתמורתה:&quot;ואכלת את עשב השדה...בזעת אפך תאכל לחם&quot; </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkFjyAMudFPIYPVVSbmcxP_lU8_9C676co',
+		'לאה לוי',
+		'2014-12-18 11:11:15'
+		)
+		;
+

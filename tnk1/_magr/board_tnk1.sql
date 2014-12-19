@@ -3909,3 +3909,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-18 10:56:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1402_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-18 11:11:15'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/pyrot.html'
+		;
+
