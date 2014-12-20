@@ -2169,3 +2169,9 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-18 07:34:37','https://www.google.com/accounts/o8/id?id=AItOawlF11EKPnjiuSxlIBLNoSghNkAsJCyiV3U','מוטי מריונובסקי');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-18 10:55:29','https://www.google.com/accounts/o8/id?id=AItOawkFjyAMudFPIYPVVSbmcxP_lU8_9C676co','לאה לוי');
+
