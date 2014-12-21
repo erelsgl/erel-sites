@@ -5258,3 +5258,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0411_2.html',
+		'<p>בני ישראל אַל-תֶּחֶטְאוּ בַיֶּלֶד</p><p>אל תתנו את ילדיכם זרעכם לריק לזנות הזונה אלא זרעו את זרעכם באשה יראת אלהים לה תתנו את הַיֶּלֶד</p><p>ספר יואל פרק ד כתוב:</p><p>ג וְאֶל עַמִּי יַדּוּ גוֹרָל וַיִּתְּנוּ הַיֶּלֶד בַּזּוֹנָה וְהַיַּלְדָּה מָכְרוּ בַיַּיִן וַיִּשְׁתּוּ.</p><p>ספר בראשית פרק מב כתוב:</p><p>כב  וַיַּעַן רְאוּבֵן אֹתָם לֵאמֹר הֲלוֹא אָמַרְתִּי אֲלֵיכֶם לֵאמֹר אַל-תֶּחֶטְאוּ בַיֶּלֶד וְלֹא שְׁמַעְתֶּם וְגַם-דָּמוֹ הִנֵּה נִדְרָשׁ.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-20 15:17:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_54.html',
+		'<p>1.</p><p>לברר על מה התדיינו בשדה</p><p>קין והבל לא התדיינו בשדה וכי קין לא חפץ לדבר דברים במשא ומתן אלא נהג כרוצח נקט באלימות </p><p>הבל אמר כי אלהים ברא את השדה לחית השדה והזכיר גם כי גם האדם עצמו הוא נפש חיה ככתוב בספר בראשית</p><p>וקין רצה מבחינתו להשביח את הנדלן את ערך השדה בבניית גורד שחקים כמגדל בבל</p><p>2.</p><p>ישמעאל אכן צדיק היה וגם כתוב כי אלהים ברך אותו ושתים עשרה נשיאים הוליד כמניין בני יעקב</p><p>וגם ישמעאל חי 137 שנה כמניין לוי בן יעקב</p><p>3.</p><p>אכן כן</p><p>הגיבור היהודי הוא, אם כך, איש הרוח</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-20 19:24:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>חייבת הלוואה גדולה בפריסה לתשלומים. דיי דחוף. 052-7603652 תודה ותזכו למצוות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm7t70FIVhlni68xzp0Bp9yO6Pv46mWmlY',
+		'מרים בצלאל',
+		'2014-12-21 07:01:20'
+		)
+		;
+
