@@ -2211,3 +2211,9 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-21 06:59:00','https://www.google.com/accounts/o8/id?id=AItOawm7t70FIVhlni68xzp0Bp9yO6Pv46mWmlY','מרים בצלאל');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-21 10:59:50','https://www.google.com/accounts/o8/id?id=AItOawlY4KFHxRzk6pStaP2Z0E5fj4wQ2jYnfvU','אבירמה אלון');
+

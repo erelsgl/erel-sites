@@ -3965,3 +3965,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-21 11:02:26'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+

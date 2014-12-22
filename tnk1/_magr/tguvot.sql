@@ -5294,3 +5294,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>בס&quot;ד </p><p>שבוע טוב , בעוד כחוד וחצי  הנני מחתנת בן בכור , וזקוקה להלוואה בכדי לעזור לזוג הצעיר , הנני חד הורית , מבקשת עזרה בהלוואה  עד 6000 שח </p><p>עיזרו לי בבקשה 0523787264</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlY4KFHxRzk6pStaP2Z0E5fj4wQ2jYnfvU',
+		'אבירמה אלון',
+		'2014-12-21 11:02:26'
+		)
+		;
+
