@@ -3973,3 +3973,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-22 17:35:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-22 17:57:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0144.htm',
+				'tnk1/messages/prqim_t0144_4.html',
+				NULL,
+				'2014-12-22 22:09:10',
+				'2014-12-22 22:09:10',
+				'משהו על \"ויגש\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-23 05:55:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_4.html'
+		;
+
