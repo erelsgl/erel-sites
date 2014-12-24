@@ -24,7 +24,7 @@ function get_pages($input_filename) {
 	$text = trim($text);
 	$pages = preg_split("/$END_OF_PAGE/", $text);
 	print count($pages)." pages\n";
-	return $pages;
+	return array_filter($pages);   // remove empty pages
 }
 
 
