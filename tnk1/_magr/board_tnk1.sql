@@ -4013,3 +4013,81 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t3101_4.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0212.htm',
+				'tnk1/messages/prqim_t0212_5.html',
+				NULL,
+				'2014-12-23 12:11:20',
+				'2014-12-23 12:11:20',
+				'אהבת הגרים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_641.html',
+				NULL,
+				'2014-12-23 14:54:08',
+				'2014-12-23 14:54:08',
+				'פרשת ויגש-גישה חיובית מביאה לאיחוד משפחות- כיצד?/אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-12-23 14:54:08'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_642.html',
+				NULL,
+				'2014-12-23 14:56:40',
+				'2014-12-23 14:56:40',
+				'ירידה למצרים/ שיר  מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2014-12-23 14:56:40'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/154.html',
+				'tnk1/messages/mqc_mdwe_nktb_yeqb_wbhmjk_nhpk_jmw_lyjral.docx',
+				NULL,
+				'2014-12-23 15:25:59',
+				'2014-12-23 15:25:59',
+				'בפרשת מקץ מדוע נכתב יעקב ובהמשך נהפך שמו לישראל ',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
