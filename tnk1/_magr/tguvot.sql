@@ -5363,3 +5363,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2014-12-23 05:55:50' 
 			WHERE messageid=4918;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0144_4.html',
+		'<p>ובכן נראה לי שאין אנו צריכים את פרשת ויגש בשביל לדעת האיך &quot;לחזר אחר בחורה&quot; פשוט זה מגוחך!</p><p>בנוסף, יהודה איננו מחזר אחר אף אחד, הוא מתכונן למלחמה. לקרוא את הפרשה בצורה כזו הוא בושה לקורא!</p><p>אם בכ&quot;ז כך אתה מתכונן לקרוא פרשות אחרות ארה לך שאינך מבין מאומה.</p><p>בכבוד רב</p><p>יהודה</p><p>נ.ב. אינני בא לעקוץ, אע&quot;פ שכך זה נראה, באתי להגן על הרצינות הנדרשת בקריאת החומש, איננו מתעסקים עם &quot;טקסט&quot;. או שהנל מאמין ויודע שזו תורה, כי אם לא, מוטב שתתעסק עם עמוס עוז.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-12-24 15:06:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0144_4.html',
+		'<p>לדעתי דווקא יהודה יצא &quot;גבר&quot;. לא, ברצינות, על כך שהנושא בעייתי הקדמתי הערה. אבל עדיין אני חושב שמוצג לנו כאן איזשהו מופת, שאנו יכולים ללמוד ממנו עד לרמות הכי בסיסיות של החיים שלנו. כן, גם בנושא החיזור. אתה יכול לא לאהוב את המאמר הזה, זו זכותך, אך אני מאמין שיש אנשים שכן יתחברו לדברים. </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2014-12-24 16:32:11'
+		)
+		;
+
