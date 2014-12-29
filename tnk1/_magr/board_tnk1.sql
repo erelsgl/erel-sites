@@ -4146,3 +4146,75 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 09:43:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 12:28:59'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-jiamum.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 19:22:50'
+		WHERE ktovt_bn='tnk1/messages/tora_wyqra_tm01_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 19:22:59'
+		WHERE ktovt_bn='tnk1/messages/tora_wyqra_tm01_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 19:23:04'
+		WHERE ktovt_bn='tnk1/messages/tora_wyqra_tm01_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 19:36:34'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2014-12-28 21:14:47'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_56.html',
+				NULL,
+				'2014-12-28 21:47:50',
+				'2014-12-28 21:47:50',
+				'על \"שמואל - בקודש חזיתיך\" מאת הרב בני לאו',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

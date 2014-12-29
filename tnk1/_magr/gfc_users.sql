@@ -2271,3 +2271,51 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-27 18:30:20','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 09:34:55','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 12:28:28','https://www.google.com/accounts/o8/id?id=AItOawmp4LU0KHpUEnf3jT-hXsZ6Q5eHiuh5SBs','Sara Redy');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 15:58:42','https://www.google.com/accounts/o8/id?id=AItOawm5DX7Hcvd2cwC1FCfuf4L_nTrbAe4FUWo','Volve Goldman');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 19:22:38','https://www.google.com/accounts/o8/id?id=AItOawmuWVljAruRqMw75Z-eBeuxbVZM-jw90mY','יוסי וחני אלפסי');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 19:34:22','https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo','Yehouda Toledano');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 21:13:38','https://www.google.com/accounts/o8/id?id=AItOawkGgf3yVkJb_lUzMbBmTOXqgh1vE9I0tRw','יערה ראובינוף');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-28 21:47:58','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-29 02:39:32','https://www.google.com/accounts/o8/id?id=AItOawm5DX7Hcvd2cwC1FCfuf4L_nTrbAe4FUWo','Volve Goldman');
+
