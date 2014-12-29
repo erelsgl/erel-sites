@@ -5387,3 +5387,87 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>ספר תהילות פרק צב כתוב:</p><p>(ח) בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב וַיָּצִיצוּ כָּל פֹּעֲלֵי אָוֶן לְהִשָּׁמְדָם עֲדֵי עַד.</p><p>ובספר שמות פרק לב כתוב:</p><p>(לג)  וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה מִי אֲשֶׁר חָטָא-לִי אֶמְחֶנּוּ מִסִּפְרִי</p><p>-----------</p><p>כל הרשעים החטאים פֹּעֲלֵי אָוֶן נשמדים לעד ונמחים מספר אלהים</p><p>כל התהליך הזה לא חדל עד בא משיח אלהים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2014-12-28 09:43:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-jiamum.html',
+		'<p>משעמם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmp4LU0KHpUEnf3jT-hXsZ6Q5eHiuh5SBs',
+		'Sara Redy',
+		'2014-12-28 12:28:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_wyqra_tm01_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmuWVljAruRqMw75Z-eBeuxbVZM-jw90mY',
+		'יוסי וחני אלפסי',
+		'2014-12-28 19:22:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_wyqra_tm01_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmuWVljAruRqMw75Z-eBeuxbVZM-jw90mY',
+		'יוסי וחני אלפסי',
+		'2014-12-28 19:22:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_wyqra_tm01_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmuWVljAruRqMw75Z-eBeuxbVZM-jw90mY',
+		'יוסי וחני אלפסי',
+		'2014-12-28 19:23:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>אמת כן קיים: &quot;תורת אמת&quot; מלאכי ב\' ו\'---&quot;והנה אמת ונכון הדבר&quot; דברים כו\' יז\'--&quot;חסד ואמת&quot; בראשית לא\' כט.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2014-12-28 19:36:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי אני צריכה הלוואה דחופה אנא חיזרו אליי 0502858148</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkGgf3yVkJb_lUzMbBmTOXqgh1vE9I0tRw',
+		'יערה ראובינוף',
+		'2014-12-28 21:14:47'
+		)
+		;
+
