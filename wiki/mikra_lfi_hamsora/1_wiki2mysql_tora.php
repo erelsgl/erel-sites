@@ -20,7 +20,7 @@ $REGEXP_TVNIT_MILA = "/(([{][{]($TVNIT_MILA)[^{}]+[}][}]\\s*)+)/";
 $SOFPASUQ = "׃"; // special end-of-verse char
 
 
-
+$next_offset_for_search = 0;
 while (preg_match($REGEXP_START_CHAPTER, $sfr_text, $matches, PREG_OFFSET_CAPTURE, $next_offset_for_search)) {
 	$offset_of_chapter_segment = $matches[0][1];
 	
@@ -45,13 +45,6 @@ while (preg_match($REGEXP_START_CHAPTER, $sfr_text, $matches, PREG_OFFSET_CAPTUR
 	print "$chapter_id\n";
 	$chapter_prefix = "<noinclude>{{תבנית:טעמי המקרא באינטרנט (עליון)}}//{{מ:שוליים|5}}//{{תבנית:משתמש:Dovi/טעמי המקרא}}//</noinclude>";
 	$chapter_suffix = "<noinclude>//{{תבנית:משתמש:Dovi/טעמי המקרא-סוף}}//{{מ:שוליים-סוף}}//==הפרק בלי מספרים==//{{תבנית:משתמש:Dovi/טעמי המקרא}}//{{#בלי קטע:{{שם הדף המלא}}|סימן}}//{{תבנית:משתמש:Dovi/טעמי המקרא-סוף}}</noinclude>";
-	
-	sql_query_or_die("
-		UPDATE psuqim_dovi
-		SET prefix=".quote_all($chapter_prefix)."
-		WHERE chapter_id='$chapter_id' AND
-			  verse_number=0
-		");
 
 	$verses = preg_split("/$SOFPASUQ/", $chapter_text, -1);
 	$verses = array_filter($verses);
@@ -60,7 +53,7 @@ while (preg_match($REGEXP_START_CHAPTER, $sfr_text, $matches, PREG_OFFSET_CAPTUR
 	$verse_number = 1;
 	foreach ($verses as $verse) {
 		$verse_letter = number2hebrew($verse_number);
-		if ($verse && $verse_number>=count($verses))
+		if ($verse && $verse_number>count($verses))
 			user_error("Text after last verse: \$verse=$verse\n", E_USER_ERROR);
 		$verse_number_in_table = $verse_number;
 
@@ -112,14 +105,24 @@ while (preg_match($REGEXP_START_CHAPTER, $sfr_text, $matches, PREG_OFFSET_CAPTUR
 		$verse_number++;
 	} // end of loop on verses
 
+
 	sql_query_or_die("
 		UPDATE psuqim_dovi
-		SET prefix=".quote_all($chapter_suffix)."
-				WHERE chapter_id='$chapter_id' AND
-				verse_number=999
-				");
+		SET prefix=".quote_all($chapter_prefix).",
+			verse_text = ''
+			WHERE chapter_id='$chapter_id' AND
+			verse_number=0
+			");
+	
+	sql_query_or_die("
+		UPDATE psuqim_dovi
+		SET prefix=".quote_all($chapter_suffix).",
+			verse_text = ''
+			WHERE chapter_id='$chapter_id' AND
+			verse_number=999
+			");
 }  // end of loop on chapters
 
-//include("2_mysql2tsv.php");
+include("2_mysql2tsv.php");
 
 ?>
