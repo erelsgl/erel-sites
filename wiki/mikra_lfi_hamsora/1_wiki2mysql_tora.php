@@ -11,7 +11,7 @@ $REGEXP_VERSE = "/^(\\s*((?:[{][{][^{}]+[}][}]\\s*)|(?:[<][^<>]+[>]\\s*))*)(.*)/
 // [3] = verse_text
 $REGEXP_SDR = "/{{מ:סדר[|]([א-ת]+)}}/";
 
-$SFR = "במדבר";
+$SFR = "בראשית";
 $REGEXP_START_CHAPTER = "@<$QTA_HTXLA=($SFR) ([^<>]+)/>@"; 
 $REGEXP_END_CHAPTER = "@<$QTA_SOF=($SFR) ([^<>]+)/>@";
 
@@ -117,7 +117,8 @@ while (preg_match($REGEXP_START_CHAPTER, $sfr_text, $matches, PREG_OFFSET_CAPTUR
 	sql_query_or_die("
 		UPDATE psuqim_dovi
 		SET prefix=".quote_all($chapter_suffix).",
-			verse_text = ''
+			verse_text = '',
+			verse_letter_text = ''
 			WHERE chapter_id='$chapter_id' AND
 			verse_number=999
 			");
