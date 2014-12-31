@@ -5471,3 +5471,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cinyut.html',
+		'<p>נראה לי שתוכן המאמר מתאים יותר לסרקסטיות ולא לציניות. </p><p>נראה לי להוסיף את דברי יהוא (מלכים ב פרק י) צדיקים אתם הנה אני קשרתי על-אדוני, ואהרגהו, ומי הכה, את-כל-אלה ?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkQbErDs0s5BkV9D-fH24ADVaOFCvtvkPQ',
+		'שמעון אברמוביץ',
+		'2014-12-31 05:05:51'
+		)
+		;
+
