@@ -2319,3 +2319,15 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-29 02:39:32','https://www.google.com/accounts/o8/id?id=AItOawm5DX7Hcvd2cwC1FCfuf4L_nTrbAe4FUWo','Volve Goldman');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-30 12:37:51','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-31 05:01:33','https://www.google.com/accounts/o8/id?id=AItOawkQbErDs0s5BkV9D-fH24ADVaOFCvtvkPQ','שמעון אברמוביץ');
+
