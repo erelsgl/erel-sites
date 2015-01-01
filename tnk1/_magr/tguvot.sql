@@ -5483,3 +5483,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-48.html',
+		'<p>שלום </p><p>כתוב בתורה שאדם שנשוי לשתי נשים ונולד לו הבכור מהשנואה לא יוכל לבכר וכו״ </p><p>אז אך יעקב לקח הבכורה מראובן ונתן ליוסף שהוא בן האהובה</p><p>תודה על תשובתך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnVAsOu7R2U708W40BtuaHDScBcWk7RJLA',
+		'Abraham Elimeleh',
+		'2014-12-31 08:11:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-48.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnVAsOu7R2U708W40BtuaHDScBcWk7RJLA',
+		'Abraham Elimeleh',
+		'2014-12-31 08:11:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-48.html',
+		'<p>שלום </p><p>כתוב בתורה שאדם שנשוי לשתי נשים ונולד לו הבכור מהשנואה לא יוכל לבכר וכו״ </p><p>אז אך יעקב לקח הבכורה מראובן ונתן ליוסף שהוא בן האהובה</p><p>תודה על תשובתך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnVAsOu7R2U708W40BtuaHDScBcWk7RJLA',
+		'Abraham Elimeleh',
+		'2014-12-31 08:12:20'
+		)
+		;
+

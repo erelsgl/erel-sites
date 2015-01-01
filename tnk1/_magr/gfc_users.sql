@@ -2331,3 +2331,9 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2014-12-31 05:01:33','https://www.google.com/accounts/o8/id?id=AItOawkQbErDs0s5BkV9D-fH24ADVaOFCvtvkPQ','שמעון אברמוביץ');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2014-12-31 08:08:26','https://www.google.com/accounts/o8/id?id=AItOawnVAsOu7R2U708W40BtuaHDScBcWk7RJLA','Abraham Elimeleh');
+
