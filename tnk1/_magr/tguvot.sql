@@ -5519,3 +5519,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-01 13:07:58' 
+			WHERE messageid=1644;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>ספר יחזקאל פרק יג כתוב:</p><p> יז: ואתה בן אדם שים פניך אל בנות עמך המתנבאות מלבהן והנבא עליהן</p><p>יח: ואמרת כה אמר אדני יהוה הוי למתפרות כסתות על כל אצילי ידי ועשות המספחות על ראש כל קומה לצודד נפשות הנפשות תצודדנה לעמי ונפשות לכנה תחיינה</p><p>יט: ותחללנה אתי אל עמי בשעלי שערים ובפתותי לחם להמית נפשות אשר לא תמותנה ולחיות נפשות אשר לא תחיינה בכזבכם לעמי שמעי כזב</p><p>כ: לכן כה אמר אדני יהוה הנני אל כסתותיכנה אשר אתנה מצדדות שם את הנפשות לפרחות וקרעתי אתם מעל זרועתיכם ושלחתי את הנפשות אשר אתם מצדדות את נפשים לפרחת</p><p>כא: וקרעתי את מספחתיכם והצלתי את עמי מידכן ולא יהיו עוד בידכן למצודה וידעתן כי אני יהוה</p><p>כב: יען הכאות לב צדיק שקר ואני לא הכאבתיו ולחזק ידי רשע לבלתי שוב מדרכו הרע להחיתו</p><p>כג: לכן שוא לא תחזינה וקסם לא תקסמנה עוד והצלתי את עמי מידכן וידעתן כי אני יהוה</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-01 14:40:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_560.html',
+		'<p>&quot;מיטתו שלמה&quot; אין פירושו רק שלא היו לו בנים רעים אלא שיעקב אבינו (היחיד) שמעולם לא חטא בזרע לבטלה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2015-01-01 15:11:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_560.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnla599kIPYrXcvCV1GIfqzRgRqY_vItqo',
+		'Yehouda Toledano',
+		'2015-01-01 15:11:41'
+		)
+		;
+
