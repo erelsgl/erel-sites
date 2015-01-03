@@ -55,7 +55,7 @@ function qijur_lpsuqim($chapter_letter, $chapter_number, $psuqim) {
   <?=qijur_lpsuqim("יד", 14, array(0, 1, 5, 9, 13, 17, 20, 25, 29, 31)); ?>
   <?=qijur_lpsuqim("טו", 15, array(0, 1, 5, 9, 13, 17, 21, 25, 29)); ?>
   <?=qijur_lpsuqim("טז", 16, array(0, 1, 5, 9, 13, 17, 21, 25, 29)); ?>
-  <?=qijur_lpsuqim("יז", 17, array(0, 1, 3, 4, 5, 9, 13, 17, 21)); ?>
+  <?=qijur_lpsuqim("יז", 17, array(0, 1, 5, 9, 13, 17, 21)); ?>
   <?=qijur_lpsuqim("יח", 18, array(0, 1, 5, 8, 10, 13, 17, 18, 19, 21, 25)); ?>
   <?=qijur_lpsuqim("יט", 19, array(0, 1, 5, 9, 13, 17, 18, 19, 21, 24, 27)); ?>
   <?=qijur_lpsuqim("כ", 20, array(0, 1, 5, 6, 9, 13, 16, 17, 19, 21, 25, 28, 29)); ?>
