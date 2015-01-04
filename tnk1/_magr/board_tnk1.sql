@@ -4368,3 +4368,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/tora_jmot_jm-03-14_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-03 16:02:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3304_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-03 22:24:23'
+		WHERE ktovt_bn='tnk1/messages/5501.html'
+		;
+
