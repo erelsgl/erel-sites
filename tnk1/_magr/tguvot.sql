@@ -5610,3 +5610,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-04-0405.html',
+		'<p>בואנה ממש אין לכם חיים. תנך זה דבר משעמם ולא מועיל ומיותר לחיים האלה! תנך פעם היה מקצוע חשוב ומעניין משרד החינוך הופך אותו לנטל עבורנו. </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl6LjuuIB9rYmJ1uPpYysp95C8fM_qFpaU',
+		'אוריין אביב',
+		'2015-01-04 16:05:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-04 16:05:26' 
+			WHERE messageid=4940;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-04-0405.html',
+		'<p>תנך פעם היה מקצוע ממש חשוב אך משרד החינוך הפך אותו לממש נטל. לנו לא כיף ללמוד תנך ובשבילנו זה אפילו קצת מיותר חבל שככה מתייחסים לתנך שזהו מקצוע כלכך משמעותי והיסטורי למדינה ישראל ולכל העם היהודי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl6LjuuIB9rYmJ1uPpYysp95C8fM_qFpaU',
+		'אוריין אביב',
+		'2015-01-04 16:06:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-04-0405.html',
+		'<p></p><p>בראשית ד4: &quot;וְהֶבֶל הֵבִיא גַם הוּא מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן וַיִּשַׁע יהוה אֶל הֶבֶל וְאֶל מִנְחָתוֹ&quot; </p><p>משלי ג9: &quot;כַּבֵּד אֶת יהוה מֵהוֹנֶךָ וּמֵרֵאשִׁית כָּל תְּבוּאָתֶךָ&quot; &quot;רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית יהוה אֱלֹהֶיךָ&quot;</p><p> הבל כיבד אֶת יהוה מֵהוֹנו וּמֵרֵאשִׁית כָּל תְּבוּאָתו וקין לא כיבד כי הביא את פרי האדמה רק מִקֵּץ יָמִים ולא מראשית התבואה </p><p>בראשית ד3: &quot;וַיְהִי מִקֵּץ יָמִים וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה ליהוה\'&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-04 18:54:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2738_3.html',
+		'<p>הודעה לאוהבי אלהים </p><p>אלהים בקדושתו ברא את השמים והארץ וכל נפלאותיו אשר עשה בששת ימי בראשית</p><p>אך האדם לא שמע בקול אלהים והחריב את מעשה אלהים</p><p>וכל הארץ נחרבת מיום אל יום כתוצאה מחטאי האדם </p><p>וככל שמתקדם הדור החורבן רב יותר אך אלהים מוריד מהשמים בהתאם [תינוקות] נשמות שיתמודדו עם החורבן בדור שלהם</p><p>וככל שרבים הימים מתרחקים מימי גן-עדן וקרבים לתֹהוּ וָבֹהוּ</p><p>וביום שנגיע לתֹהוּ וָבֹהוּ אז נשמת אלהים קדושים ירד מהשמים [לעשות סדר ולתקן הבלגן] ליסד הארץ</p><p>ואז נראה את האלהים האחרון הוא גם האלהים הראשון אשר ברא את כל היקום על פני תבל</p><p>שעיהו ד3: &quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַם קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַם&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-05 06:22:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2738_3.html',
+		'<p>הודעה לאוהבי אלהים</p><p>אלהים בקדושתו ברא את השמים והארץ וכל נפלאותיו אשר עשה בששת ימי בראשית</p><p>אך האדם לא שמע בקול אלהים והחריב את מעשה אלהים</p><p>וכל הארץ נחרבת מיום אל יום כתוצאה מחטאי האדם</p><p>וככל שמתקדם הדור החורבן רב יותר אך אלהים מוריד מהשמים בהתאם [תינוקות] נשמות שיתמודדו עם החורבן בדור שלהם</p><p>וככל שרבים הימים מתרחקים מימי גן-עדן וקרבים לתֹהוּ וָבֹהוּ</p><p>וביום שנגיע לתֹהוּ וָבֹהוּ אז נשמת אלהים קדושים ירד מהשמים [לעשות סדר ולתקן הבלגן] ליסד הארץ</p><p>ואז נראה את האלהים האחרון הוא גם האלהים הראשון אשר ברא את כל היקום על פני תבל</p><p>ישעיהו ד3: &quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַם קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַם&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-05 06:23:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-05 06:23:30' 
+			WHERE messageid=4943;
+
