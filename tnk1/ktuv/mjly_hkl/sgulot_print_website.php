@@ -26,6 +26,8 @@ error_reporting(E_ALL);
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
+$path_from_site_to_mj = "ktuv/mja";
+
 $GLOBALS['SCRIPT'] = "$fileroot/_script";
 require_once("$SCRIPT/hebrew.php");
 require_once("$SCRIPT/file.php");  // fixed_template
@@ -126,7 +128,7 @@ while ($row = sql_fetch_assoc($rows)) {
 	$bodyclass = "newsubject";
 
 	$site = "tnk1";
-	$path_from_site_to_document = "ktuv/mj/$chapter_code-$verse_code";
+	$path_from_site_to_document = "$path_from_site_to_mj/$chapter_code-$verse_code";
 	$path_from_reply_to_site = "../../";
 	$path_from_root_to_file_without_ext = "$site/$path_from_site_to_document";
 	$ext = $optional_ext = ".html";

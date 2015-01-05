@@ -2,7 +2,7 @@
 // INCLUDE ONLY AFTER: cookies.js, rte.js, elements.js, fields.js, dates.js, ajax.js!
 
 path_from_document_to_scripts = path_from_document_to_site + '../_script/';
-
+is_local = 	/localhost/.test(location.href);
 
 var urlToLike = "http://tora.us.fm/"+path_from_root_to_document;
 var facebookLikeButton = "<iframe src='http://www.facebook.com/plugins/like.php?href=" +
@@ -13,6 +13,7 @@ var googlePlusButton = "<g:plusone></g:plusone>";
 select_other_versions = 
 	!/\/t0/.test(path_from_root_to_document) && 
 	!/\/index/.test(path_from_root_to_document) && 
+	!is_local && 
 	1;
 
 var gfc_skin = {};
@@ -233,14 +234,16 @@ function hide_old_idfields() {
 // the header of every document
 function kotrt() {
 
-	if (/צחור/.test(theAuthor) || /אביתר/.test(theAuthor) || /הופר/.test(theAuthor))  {
-		google_ad_client = "pub-4131841895603404";
-		/* 728x90, נוצר 11/05/08 */
-		google_ad_slot = "5267744417";
-		google_ad_width = 728;
-		google_ad_height = 90;
-		document.write('<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
-	} 
+	if (!is_local) {
+		if (/צחור/.test(theAuthor) || /אביתר/.test(theAuthor) || /הופר/.test(theAuthor))  {
+			google_ad_client = "pub-4131841895603404";
+			/* 728x90, נוצר 11/05/08 */
+			google_ad_slot = "5267744417";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			document.write('<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
+		} 
+	}
 
 	var theText="";
 	if (theReceiver=='סגלות משלי') {

@@ -11,7 +11,7 @@ $REGEXP_VERSE = "/^(\\s*((?:[{][{][^{}]+[}][}]\\s*)|(?:[<][^<>]+[>]\\s*))*)(.*)/
 // [3] = verse_text
 $REGEXP_SDR = "/{{מ:סדר[|]([א-ת]+)}}/";
 
-$SFR = "בראשית";
+$SFR = "דברים";
 $REGEXP_START_CHAPTER = "@<$QTA_HTXLA=($SFR) ([^<>]+)/>@"; 
 $REGEXP_END_CHAPTER = "@<$QTA_SOF=($SFR) ([^<>]+)/>@";
 
