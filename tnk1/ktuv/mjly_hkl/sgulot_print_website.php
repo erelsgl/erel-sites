@@ -26,7 +26,12 @@ error_reporting(E_ALL);
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
+
 $path_from_site_to_mj = "ktuv/mja";
+$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
+
+//$path_from_site_to_mj = "ktuv/mj";
+//$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'dquyot', 'full');
 
 $GLOBALS['SCRIPT'] = "$fileroot/_script";
 require_once("$SCRIPT/hebrew.php");
@@ -42,7 +47,6 @@ sql_set_charset('utf8');
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = false;
 $GLOBALS['AUTOORDER'] = false;
-$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'dquyot', 'full');
 
 $book_number = 28;
 list($book_code, $book_name) = sql_evaluate_assoc(
