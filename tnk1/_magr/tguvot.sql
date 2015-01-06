@@ -5684,3 +5684,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-05 06:23:30' 
 			WHERE messageid=4943;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0406_2.html',
+		'<p>לכל אדם מועד ושם</p><p>המועד הוא הגורל</p><p>והשם להתמודד עם הגורל</p><p>שם האדם הוא כלי הרכב שלו </p><p>ואם במועד לדתך נגזר עליך [כמטאפורה] להגיע עם מרכולתך שהיא מעל 4 טון יום יום מיפו לבאר-שבע ויש לך רק רכב פרייוט פרטי רק עד 4 טון אז ברור הוא שיהיו לך קשיים וסכנה בדרך ולכן דרוש לך שם רכב גדול יותר כמשאית אשר יכולה לשאת מעל 4 טון</p><p>כי אז יטב לך בדרך ולמעשה גורלך יהיה נעים יותר אבל כל זאת בהנחה שאתה נהג זהיר הנוהג ביראת אלהים ומציית לתמרורים </p><p>כי אם חלילה אינך נהג טוב אז גם כל שם כלי רכב לא יעזור לך</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-06 05:37:41'
+		)
+		;
+
