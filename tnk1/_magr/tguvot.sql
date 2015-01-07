@@ -5696,3 +5696,96 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_tpx_1_0.html',
+		'<p>על אף חידושי הלשון היוצאים מזיהוי זה קשה מאוד לקבלו. זאת על פי המשנה בכלאיים פ&quot;א משנה ד &quot; התפוח והחיזרר אע&quot;פ שדומים זה לזה כלאיים זה בזה&quot; ממשנה זו ועוד מקורות נוספים הסיקו גם לעף בספרו החשוב פלורה _ח&quot;ג עמ\' 212, וכך גם הסיק פליקס בספרו עצי פרי למינהם עמ\' 139. בהחיזרר הוא ככל הנראה אגס הבר כך על פי המקורות כך הסיק גם לעף וגם פליקס _שם, עמ\' 140 ועמ\' 226 - 228 . בברכה ד&quot;ר עקיבא לונדון</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlLBjsE4YRQJXVR7gX2cgkBQcrJSAwgnN0',
+		'עקיבא לונדון',
+		'2015-01-06 11:05:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אם בגורל נגזר עליך [כמטאפורה] להגיע עם מרכולתך שהיא מעל 4 טון יום יום מיפו לבאר-שבע ויש לך רק &quot;שם&quot; רכב פרייוט פרטי רק עד 4 טון אז ברור הוא שיהיו לך קשיים וסכנה בדרך ולכן דרוש לך שם של טנדר או שם רכב גדול יותר כמשאית אשר יכולה לשאת מעל 4 טון</p><p>אמנם הגורל קבע לך את הדרך מיפו לבאר-שבע וזה לא ישתנה</p><p>אך יטב לך כי יקל לך בדרך ולמעשה גורלך יהיה נעים יותר</p><p>[אבל כל זאת בהנחה שאתה נהג זהיר הנוהג ביראת אלהים ומציית לתמרורים שלו]</p><p> </p><p>תהלים פט49: &quot;מִי גֶבֶר יִחְיֶה וְלֹא יִרְאֶה מָּוֶת יְמַלֵּט נַפְשׁוֹ מִיַּד שְׁאוֹל סֶלָה&quot;</p><p>זו כמובן שאלה רטורית כי לא ניתן להתחמק מן המות כי זה הגורל לכל האדם</p><p>אבל כתוב: בספר תהילות מזמור לדוד משיח יהוה</p><p>תהלים כג4: &quot;גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי&quot;</p><p>על כן גם כאשר יִרְאֶה מָּוֶת לֹא אִירָא רָע</p><p>וזו זווית הראייה [הפרספקטיבה] של האלהים</p><p>אז זה כן שינוי גורל או לא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-06 19:26:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אם בגורל נגזר עליך [כמטאפורה] להגיע עם מרכולתך שהיא מעל 4 טון יום יום מיפו לבאר-שבע ויש לך רק &quot;שם&quot; רכב פרטי עד 4 טון אז ברור הוא שיהיו לך קשיים וסכנה בדרך ולכן דרוש לך שם של טנדר או שם רכב גדול יותר כמשאית אשר יכולה לשאת מעל 4 טון</p><p>אמנם הגורל קבע לך את הדרך מיפו לבאר-שבע וזה לא ישתנה</p><p>אך יטב לך כי יקל לך בדרך ולמעשה גורלך יהיה נעים יותר</p><p>[אבל כל זאת בהנחה שאתה נהג זהיר הנוהג ביראת אלהים ומציית לתמרורים שלו]</p><p>תהלים פט49: &quot;מִי גֶבֶר יִחְיֶה וְלֹא יִרְאֶה מָּוֶת יְמַלֵּט נַפְשׁוֹ מִיַּד שְׁאוֹל סֶלָה&quot;</p><p>זו כמובן שאלה רטורית כי לא ניתן להתחמק מן המות כי זה הגורל לכל האדם</p><p>אבל כתוב: בספר תהילות מזמור לדוד משיח יהוה</p><p>תהלים כג4: &quot;גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי&quot;</p><p>על כן גם כאשר יִרְאֶה מָּוֶת לֹא אִירָא רָע</p><p>וזו זווית הראייה [הפרספקטיבה] של האלהים</p><p>אז זה כן שינוי גורל או לא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-06 19:27:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אם בגורל נגזר עליך [כמטאפורה] להגיע עם מרכולתך שהיא מעל 4 טון יום יום מיפו לבאר-שבע ויש לך רק &quot;שם&quot; רכב פרטי עד 4 טון    </p><p>לכן ברור הוא שיהיו לך קשיים וסכנה בדרך ולכן דרוש לך שם של טנדר או שם רכב גדול יותר כמשאית אשר יכולה לשאת מעל 4 טון</p><p>אמנם הגורל קבע לך את הדרך מיפו לבאר-שבע וזה לא ישתנה</p><p>אך יטב לך כי יקל לך בדרך ולמעשה גורלך יהיה נעים יותר</p><p>[אבל כל זאת בהנחה שאתה נהג זהיר הנוהג ביראת אלהים ומציית לתמרורים שלו]</p><p>תהלים פט49: &quot;מִי גֶבֶר יִחְיֶה וְלֹא יִרְאֶה מָּוֶת יְמַלֵּט נַפְשׁוֹ מִיַּד שְׁאוֹל סֶלָה&quot;</p><p>זו כמובן שאלה רטורית כי לא ניתן להתחמק מן המות כי זה הגורל לכל האדם</p><p>אבל כתוב: בספר תהילות מזמור לדוד משיח יהוה</p><p>תהלים כג4: &quot;גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי&quot;</p><p>על כן גם כאשר יִרְאֶה מָּוֶת לֹא אִירָא רָע</p><p>וזו זווית הראייה [הפרספקטיבה] של האלהים</p><p>אז זה כן שינוי גורל או לא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-06 19:28:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-06 19:28:50' 
+			WHERE messageid=4948;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-06 19:28:55' 
+			WHERE messageid=4947;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pfr_0.html',
+		'<p>פטר = יוצא</p><p>תינוק נולד נשמתו יוצאת ל-עולם = פטר</p><p>ואדם שנשמתו יוצאת מ-העולם = נפטר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-07 06:13:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pfr_0.html',
+		'<p>פטר = נפלט יוצא</p><p>שמואל א יט10: &quot;וַיְבַקֵּשׁ שָׁאוּל לְהַכּוֹת בַּחֲנִית בְּדָוִד וּבַקִּיר ***וַיִּפְטַר*** מִפְּנֵי שָׁאוּל וַיַּךְ אֶת הַחֲנִית בַּקִּיר וְדָוִד נָס וַיִּמָּלֵט בַּלַּיְלָה הוּא&quot;</p><p>תינוק נולד נשמתו נפלטת יוצאת ל-עולם = פטר</p><p>ואדם שנשמתו נפלטת יוצאת מ-העולם = נפטר</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-07 06:22:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-07 06:22:37' 
+			WHERE messageid=4950;
+
