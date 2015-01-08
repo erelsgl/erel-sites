@@ -5789,3 +5789,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-07 06:22:37' 
 			WHERE messageid=4950;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>כתובת המייל שלך אינה תקינה.. השאר פרטים ליצירת קשר, תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkNjYnRdA62pTS-Zpvhj26JkU0RkG-2CG0',
+		'נתנאל סוויסה',
+		'2015-01-07 08:22:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_tpx_1_0.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-08 07:03:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-08 07:03:52' 
+			WHERE messageid=4953;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>אפשר לכתוב ל: erelvgalya+ribit0</p><p>ב: gmail.com</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-08 07:50:58'
+		)
+		;
+
