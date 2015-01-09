@@ -18,3 +18,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('נצרות', 'יהודה איש קריות', '', '', 60, 60, '2014-11-20 19:52:33');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('פירושים על מדרשי הלכה', 'שביעית מדבריהם', '', '', 60, 60, '2015-01-08 07:53:40');
+
