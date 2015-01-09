@@ -85,7 +85,7 @@ my @responses;
 
 
 
-open(EXISTING_FILE, ">$file_for_pages_that_already_exist") unless($main::SHOULD_REWRITE_EXISTING_PAGES);
+open(EXISTING_FILE, ">$file_for_pages_that_already_exist");
 autoflush EXISTING_FILE 1;
 
 open(FAILED_FILE, ">$file_for_pages_whose_upload_failed");
@@ -171,7 +171,7 @@ while (<IN_F>) {
 }
 
 print "\nUploaded $count_pages pages. Everything seems to be OK. Log was written to $file_for_debug.";
-print " New content of existing pages was written to  $file_for_pages_that_already_exist" unless ($main::SHOULD_REWRITE_EXISTING_PAGES);
+print " New content of existing pages was written to  $file_for_pages_that_already_exist";
 print "\n\n";
 
 close(DEBUG);
