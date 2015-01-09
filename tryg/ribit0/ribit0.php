@@ -14,7 +14,6 @@ $MAIL_SUBJECT="New loan-info request";
 error_reporting(E_ALL);
 session_start();
 
-require_once('../../_script/remove_magic_quotes.php');
 require_once('../../_script/coalesce.php');
 require_once('../../_script/callback.php');
 require_once('../../_script/html.php');
