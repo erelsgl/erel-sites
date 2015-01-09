@@ -31,3 +31,35 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'רמזים ליהודה איש קריות בתנ\"ך', `tarik_hosfa` = '2014-11-20 19:52:03' WHERE `qod` = 'יהודה איש קריות' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'איך ידע פרעה שפתרונו של יוסף הוא הנכון?', `tarik_hosfa` = '2015-01-08 08:05:15' WHERE `qod` = 'חלומות פרעה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ופרעה חולם', `tarik_hosfa` = '2015-01-08 08:05:15' WHERE `qod` = 'ביאור:בראשית מא1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא24', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא24' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא23', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא23' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא22', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא22' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא21', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא21' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא20', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא20' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא19', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא19' AND 1 LIMIT 1;
+

@@ -5832,3 +5832,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-0809.html',
+		'<p>ליוסף הצדיק ניתן תפקיד משנה למלך בממלכה השלטת של שלטון פרעה לכן כתוב: וְיוֹסֵף הוּא הַשַּׁלִּיט עַל הָאָרֶץ [בראשית מב6] </p><p>ויוסף גם היה איש ירא אלהים צדיק וכתוב: מוֹשֵׁל בָּאָדָם צַדִּיק מוֹשֵׁל יִרְאַת אֱלֹהִים [שמואל ב כג3:] </p><p>לכן יוסף גם מושל וגם שליט</p><p>אבל יש כאלה שליטים רשעים שאינם יראי אלהים לכן הם אינם מושלים ביִרְאַת אֱלֹהִים</p><p>לכן אמר שלמה המלך בספר קהלת י7: &quot;רָאִיתִי עֲבָדִים עַל סוּסִים וְשָׂרִים הֹלְכִים כַּעֲבָדִים עַל הָאָרֶץ&quot;</p><p>כי יש עבדים [רשעים] עַל סוּסִים לאמור שליטים כי מתנהגים כגבורים רשעים ולֹא בִגְבוּרַת הַסּוּס יֶחְפָּץ לֹא בְשׁוֹקֵי הָאִישׁ יִרְצֶה</p><p>והעבדים השליטים הגבורים הם אינם מושלים ברוחם [משלי טז32: &quot;טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;]</p><p>לא חסר דוגמאות של דיקטטורים אשר שולטים בכוח על העם אך לא ברוח כי אינם מושלים ברוחם</p><p>ויש גם מקרים כאלה של צדיקים המושלים ברוחם ככתוב: וְשָׂרִים הֹלְכִים כַּעֲבָדִים עַל הָאָרֶץ [כעניים ואביונים שהשלטון לא בידיהם]</p><p>ואנחנו יודעים כי אין מה ללכת לבחירות כי כולם מחפשים רק לשלוט ולא למשול ביראת אלהים</p><p> לכן אם ברצוננו שליט צדיק ואנחנו עם יהוה מייחלים שתהיה מלכות אלהים כי המושל והוא השליט</p><p>דניאל ז14: &quot;וְלֵהּ יְהִיב שָׁלְטָן וִיקָר וּמַלְכוּ וְכֹל עַמְמַיָּא אֻמַיָּא וְלִשָּׁנַיָּא לֵהּ יִפְלְחוּן שָׁלְטָנֵהּ שָׁלְטָן עָלַם דִּי לָא יֶעְדֵּה וּמַלְכוּתֵהּ דִּי לָא תִתְחַבַּל&quot;</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-08 16:00:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0406_2.html',
+		'<p>לכל אדם מועד ושם</p><p>המועד הוא הגורל</p><p>והשם להתמודד עם הגורל</p><p>שם האדם הוא כלי הרכב שלו</p><p>ואם במועד לדתך נגזר עליך [כמטאפורה] להגיע עם מרכולתך שהיא מעל 4 טון יום יום מיפו לבאר-שבע ויש לך רק רכב פרייוט פרטי רק עד 4 טון אז ברור הוא שיהיו לך קשיים וסכנה בדרך ולכן דרוש לך שם רכב גדול יותר כמשאית אשר יכולה לשאת מעל 4 טון</p><p>כי אז יטב לך בדרך ולמעשה גורלך יהיה נעים יותר אבל כל זאת בהנחה שאתה נהג זהיר הנוהג ביראת אלהים ומציית לתמרורים</p><p>כי אם חלילה אינך נהג טוב אז גם כל שם כלי רכב לא יעזור לך</p><p>----------------------------------------------------------------------</p><p>***לעתים אדם נוהג היטב בחייו נוהג ביראת אלהים ומציית לתמרורים בדרך האל ובכל זאת שם כלי הרכב שלו לא עוזר לו</p><p>רק במקרה כזה בא אלהים ומתערב ונותן לך שם חדש כרכב חדש שיטב לך בדרך כאשר היטיב לאברם וקראהו אברהם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-08 16:16:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-08 16:16:31' 
+			WHERE messageid=4945;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/efrati/dan.html',
+		'<p>מה תפקיגו של שבט דן באחרית הימים וגם איז הוא עוזר למשיח בן יוסף?</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmjuB1h7yNQQ3ODEVNMH-srJ1Wt7SCLnfE',
+		'Elazar Tariku',
+		'2015-01-08 19:36:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/efrati/dan.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmjuB1h7yNQQ3ODEVNMH-srJ1Wt7SCLnfE',
+		'Elazar Tariku',
+		'2015-01-08 19:36:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/efrati/dan.html',
+		'<p>בראש המאמר כתב: [ציטוט] במאמר אנסה לסרטט קוים לדמותו של אחד מהם, שבט דן.[סוף ציטוט]</p><p>כבוד הרב תלמד לכתוב לשרטט ולא לסרטט</p><p>יש שגגה בראש המאמר וכל המאמר חולה בדברי הבל של רבני חזל</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-09 05:59:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-09 06:56:46' 
+			WHERE messageid=4958;
+
