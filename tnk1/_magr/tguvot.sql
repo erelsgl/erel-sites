@@ -5906,3 +5906,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-09 06:56:46' 
 			WHERE messageid=4958;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/prjt_qorx.html',
+		'<p>איש יקר סחתיין על הסיכומים וההסברים המאירים עיניים זה אשמח לקבל את המאמרים שלך אני לומד מהם ונהנה מהפשטות </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmT5UPeaejZOEPFRxqsz1bJVI9JS2inKsM',
+		'Pinhas Amar',
+		'2015-01-09 13:18:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-03.html',
+		'<p>אני עושה עבודה הגשה ורציתי לדעת מהו טעם המצווה רציתי  את ארבעת הפירושים של רשי רמבן רדק וסופרנו  מה הם אומרים על המצווה ? אשמח עם תענו לי השאלה.</p><p>בתודה עדי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkuZvcOIemhODOKNvdA2G4vauomgENNwYA',
+		'עדי בסלי',
+		'2015-01-09 13:44:50'
+		)
+		;
+
