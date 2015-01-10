@@ -22,8 +22,9 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר תרי%'
 		
 		--	OR chapter_id LIKE 'ספר משלי%'
-			OR chapter_id LIKE 'ספר תהלים%'
-			OR chapter_id LIKE 'ספר איוב%'
+		--	OR chapter_id LIKE 'ספר תהלים%'
+		--	OR chapter_id LIKE 'ספר איוב%'
+			OR chapter_id LIKE 'ספר ויקרא%'
 		
 		GROUP BY chapter_id
 		");
@@ -48,8 +49,18 @@ file_put_contents($FILENAME_OUTPUT, $text);
 
 
 function chapter_normal($chapter_id,$chapter_name) {
+	if (
+		preg_match("/בראשית/u",$chapter_name)||
+		preg_match("/שמות/u",$chapter_name)||
+		preg_match("/ויקרא/u",$chapter_name)||
+		preg_match("/במדבר/u",$chapter_name)||
+		preg_match("/דברים/u",$chapter_name)||
+		0
+		)
+		$text = "##### משתמש:Dovi/תורה על פי המסורה/$chapter_id\n";
+	else
+		$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id\n";
 	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
-	$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id\n";
 	$rows = sql_query_or_die("
 			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text
 			FROM psuqim_dovi
@@ -66,8 +77,8 @@ function chapter_normal($chapter_id,$chapter_name) {
 		if ($verse_number==1)
 			$row['prefix'] = preg_replace("@^$END_OF_LINE_REPLACEMENT@", "", $row['prefix']);
 	
-		if ($verse_number==999)
-			print "\t$row[prefix]\n";
+// 		if ($verse_number==999)
+// 			print "\t$row[prefix]\n";
 		$text .= replace_placeholders_with_spaces($row['prefix']);
 	
 		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
