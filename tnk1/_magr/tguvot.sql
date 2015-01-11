@@ -5930,3 +5930,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>סחר מ-טמונים אשר בארץ זית שמן ודבש = זה זהב הארץ כבדלח ואבן השהם הטובה לזכרון לזכור את הקודש</p><p>תהלים יט11: &quot;הַנֶּחֱמָדִים מִזָּהָב וּמִפַּז רָב וּמְתוּקִים מִדְּבַשׁ וְנֹפֶת צוּפִים&quot;</p><p>נחמיה ח10: &quot;וַיֹּאמֶר לָהֶם לְכוּ אִכְלוּ מַשְׁמַנִּים וּשְׁתוּ מַמְתַקִּים וְשִׁלְחוּ מָנוֹת לְאֵין נָכוֹן לוֹ כִּי קָדוֹשׁ הַיּוֹם לַאֲדֹנֵינוּ וְאַל תֵּעָצֵבוּ כִּי חֶדְוַת יהוה הִיא מָעֻזְּכֶם</p><p>לכן אכלו את המטעמים האלה ביום שבת קודש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-10 16:55:36'
+		)
+		;
+
