@@ -6726,3 +6726,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-03.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_57.html',
+				NULL,
+				'2015-01-10 16:52:10',
+				'2015-01-10 16:52:10',
+				'על הספר \"מקרא מול ארכיאולוגיה\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-10 16:55:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+

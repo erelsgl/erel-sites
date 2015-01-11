@@ -63,3 +63,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'ביאור:בראשית מא19', `tarik_hosfa` = '2015-01-08 08:06:35' WHERE `qod` = 'ביאור:בראשית מא19' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-01-10 20:42:40' WHERE `qod` = 'ביאור:משלי ו12' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-01-10 20:42:40' WHERE `qod` = 'ביאור:משלי ו11' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-01-10 20:42:40' WHERE `qod` = 'ביאור:משלי ו13' AND 1 LIMIT 1;
+
