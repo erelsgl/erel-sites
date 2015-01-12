@@ -1,17 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html dir='rtl' lang='he'>
-<head>
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-<title>Sgulot Mishley</title>
-<link type='text/css' rel='stylesheet' href='sgulot.css' />
-<script type='text/javascript' src='/_script/jquery-1.8.1.min.js'></script>
-<script type='text/javascript' src='/_script/jquery.masonry.min.js'></script>
-<script>
-
-</script>
-</head>
-<body>
-
 <?php
 error_reporting(E_ALL);
 
@@ -38,8 +24,32 @@ require_once("$SCRIPT/hebrew.php");
 require_once("$SCRIPT/file.php");  // fixed_template
 
 require_once("$SCRIPT/sql.php");
-$DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
-$DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
+$GLOBALS['DEBUG_SELECT_QUERIES'] = isset($_GET['debug_select']);
+$GLOBALS['DEBUG_QUERY_TIMES'] = isset($_GET['debug_times']);
+$return_html = isset($_GET['return_html']);  // if true, show the HTML of the first verse, and exit.
+
+if ($return_html) {
+	$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
+}
+
+if (!$return_html) {
+?>
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html dir='rtl' lang='he'>
+	<head>
+	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+	<title>Sgulot Mishley</title>
+	<link type='text/css' rel='stylesheet' href='sgulot.css' />
+	<script type='text/javascript' src='/_script/jquery-1.8.1.min.js'></script>
+	<script type='text/javascript' src='/_script/jquery.masonry.min.js'></script>
+	<script>
+	
+	</script>
+	</head>
+	<body>
+<?php 
+}
+
 require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
@@ -174,6 +184,11 @@ while ($row = sql_fetch_assoc($rows)) {
 	$templatebody = fixed_template($templatename);
 	//$templatebody_utf8 = windows1255_to_utf8($templatebody);
 	$body = eval($templatebody);
+	
+	if ($return_html) {
+		print windows1255_to_utf8($body);
+		return;
+	}
 
 	file_put_contents("$fileroot/$path_from_root_to_reply", $body, LOCK_EX)
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
