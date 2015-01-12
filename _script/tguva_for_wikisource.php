@@ -6,7 +6,6 @@ header("Content-Type: text/html; charset=UTF-8");
 
 require_once("system.php");
 require_once("session_forever.php");
-require_once("remove_magic_quotes.php");
 
 require_once("sql.php");
 require_once("sql_backup.php");
