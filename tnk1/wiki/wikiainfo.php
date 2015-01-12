@@ -31,7 +31,7 @@ if (isset($_GET['details'])) {  // view item details
 		sql_evaluate("select date_add(" . quote_smart($_GET['to']) . ", interval -$LOCAL_TIME_MINUS_SERVER_TIME_IN_HOURS+1 hour)"):
 		'2025-01-01');
 	$limit = (isset($_GET['limit'])? "LIMIT $_GET[limit]": "");
-	$ktovt_condition = "((p.ktovt LIKE '%.htm%' OR p.ktovt NOT LIKE '%.%') AND p.ktovt NOT LIKE '%wikia%' AND p.ktovt NOT LIKE '%shirhadash%' AND p.ktovt NOT LIKE '%odot%' AND p.ktovt NOT LIKE '%prqim/help%' AND p.m<>'רמי ניר' AND p.m NOT LIKE '%משה דין%' AND p.m NOT LIKE '%מורה לתורה%')";
+	$ktovt_condition = "((p.ktovt LIKE '%.htm%' OR p.ktovt NOT LIKE '%.%') AND p.ktovt NOT LIKE '%wikia%' AND p.ktovt NOT LIKE '%shirhadash%' AND p.ktovt NOT LIKE '%odot%' AND p.ktovt NOT LIKE '%prqim/help%' AND (p.m LIKE '%אראל%'))";
 	$query = "
 		SELECT DISTINCT ktovt
 		FROM QLT_prtim_wikia p
