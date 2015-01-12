@@ -59,8 +59,15 @@ if (isset($_GET['details'])) {  // view item details
 		ORDER BY ktovt
 		$limit
 	";
+} elseif (isset($_GET['ktovt'])) {   // view all items whose url matches the given pattern.
+	$ktovt_quoted = quote_all($_GET['ktovt']);
+	$query = "
+		SELECT DISTINCT ktovt
+		FROM QLT_prtim_wikia p
+		WHERE ktovt LIKE $ktovt_quoted 
+		";
 } elseif (isset($_GET['av'])) {   // view all items that are children of the given av
-	$av_quoted = quote_smart($_GET['av']);
+	$av_quoted = quote_all($_GET['av']);
 	$limit = (isset($_GET['limit'])? "LIMIT $_GET[limit]": "");
 	$ktovt_condition = "(p.ktovt LIKE '%.htm%' OR p.ktovt NOT LIKE '%.%') AND p.ktovt NOT LIKE '%wikia%' AND p.ktovt NOT LIKE '%shirhadash%' AND p.ktovt NOT LIKE '%odot%'";
 	$query = "

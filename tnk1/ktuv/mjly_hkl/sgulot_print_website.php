@@ -9,6 +9,9 @@ error_reporting(E_ALL);
  * @date 2012-07-16
  */
 
+require_once('sgulot_library.php');
+$GLOBALS['AUTOWIDTH'] = false;
+$GLOBALS['AUTOORDER'] = false;
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
@@ -26,7 +29,7 @@ require_once("$SCRIPT/file.php");  // fixed_template
 require_once("$SCRIPT/sql.php");
 $GLOBALS['DEBUG_SELECT_QUERIES'] = isset($_GET['debug_select']);
 $GLOBALS['DEBUG_QUERY_TIMES'] = isset($_GET['debug_times']);
-$return_html = isset($_GET['return_html']);  // if true, show the HTML of the first verse, and exit.
+$return_html = coalesce($_GET['return_html'],null);  // if true, show the HTML of the first verse, and exit.
 
 if ($return_html) {
 	$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
@@ -54,30 +57,34 @@ require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
 
-require_once('sgulot_library.php');
-$GLOBALS['AUTOWIDTH'] = false;
-$GLOBALS['AUTOORDER'] = false;
 
 $book_number = 28;
 list($book_code, $book_name) = sql_evaluate_assoc(
 	"SELECT qod AS `0`, kotrt AS `1` FROM sfrim WHERE qod_mamre=$book_number");
 
-if (!isset($_GET['chapter'])) {
-	print("<p dir='ltr'>SYNTAX: sgulot_print_website.php?chapter={number}...[&limit=...]</p>");
-	die;
+if ($return_html) {
+	$query = "
+		SELECT * FROM sgulot
+		WHERE main_qod=".quote_all($return_html);
+} else {
+	if (!isset($_GET['chapter'])) {
+		print("<p dir='ltr'>SYNTAX: sgulot_print_website.php?chapter={number}...[&limit=...]</p>");
+		die;
+	}
+	
+	$chapter_number = (int)$_GET['chapter'];
+	
+	$offset = coalesce($_GET["offset"],0);
+	$limit = coalesce($_GET["limit"],1);
+	
+	
+	$query = "
+		SELECT * FROM sgulot
+		WHERE book=".quote_all($book_code)."
+		".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
+		ORDER BY book, chapter_number, verse_number
+		LIMIT $offset,$limit";
 }
-
-$chapter_number = (int)$_GET['chapter'];
-
-$offset = coalesce($_GET["offset"],0);
-$limit = coalesce($_GET["limit"],1);
-
-$query = "
-	SELECT * FROM sgulot
-	WHERE book=".quote_all($book_code)."
-	".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
-	ORDER BY book, chapter_number, verse_number
-	LIMIT $offset,$limit";
 $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
 	//print_r($row);
