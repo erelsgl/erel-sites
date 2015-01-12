@@ -5942,3 +5942,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>בספר משלי פרק כ כתוב:</p><p>    (ז) מִתְהַלֵּךְ בְּתֻמּוֹ צַדִּיק אַשְׁרֵי בָנָיו אַחֲרָיו</p><p>לכן:</p><p>אם למשל:</p><p>יש שני אנשים בשם יונתן בן יוסף</p><p>ושני האנשים האלה נולדו גם באותו תאריך</p><p>זה לא אומר שגורלם יהיה זהה</p><p>יונתן בן יוסף מחיפה [אביו יוסף רשע]</p><p>ויונתן בן יוסף מירושלים [אביו צדיק]</p><p>אז יונתן בן יוסף מירושלים יהיה אדם מאושר יותר עם גורל יותר טוב</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-11 17:05:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>מספר הגורל האסטרו-נומרולוגי שלך הוא משמש רק כפלטפורמה בסיס לתכונות מסוימות באופייך</p><p>למשל אם גורלך האסטרו-נומרולוגי שלך נפל על מספר 7 אז זה מציין רוחניות [כפלטפורמה לאישות שלך]</p><p>אבל השאלה היא איזה רוחניות האם תבחר בדרך הטובה לדרוש אלהים חיים או חלילה לדרוש אל המתים</p><p>אם חלילה דרשת אל המתים אז חיללת את גורל מספר 7 ובגלגול הבא שלך יהיו לך קשיים רוחניים שתצטרך לתקן</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-11 17:17:20'
+		)
+		;
+
