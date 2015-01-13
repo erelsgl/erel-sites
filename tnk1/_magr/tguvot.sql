@@ -5966,3 +5966,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>תהלים כד4: &quot;נְקִי כַפַּיִם וּבַר לֵבָב אֲשֶׁר לֹא נָשָׂא לַשָּׁוְא נַפְשִׁי וְלֹא נִשְׁבַּע לְמִרְמָה&quot; </p><p>תהלים כד4: &quot;נְקִי כַפַּיִם וּבַר לֵבָב-אֲשֶׁ-ר לֹא נָשָׂא לַשָּׁוְא נַפְשִׁי וְלֹא נִשְׁבַּע לְמִרְמָה&quot; </p><p>-------- וְנָבִיא לְבַב חָכְמָה = לֵבָב-אֲשֶׁ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-12 19:23:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>ישעיהו נח10: &quot;וְתָפֵק לָרָעֵב נַפְשֶׁךָ וְנֶפֶשׁ נַעֲנָה תַּשְׂבִּיעַ וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם&quot;</p><p>------------------------------------------תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p><p>וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם = וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם</p><p>**************************וַאֲפֵלָתְךָ = וּמִשְׁפָּטֶךָ**************************</p><p>ככל שאפלתך היתה חשוכה מאד ככה משפטך יותר גדול וחכמתך עמוקה יותר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-12 19:45:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/odot_gibuy.html',
+		'<p>אראל היקר יברכך השם</p><p>גיבוי זה טוב מאד</p><p>ומי יתן שהקדוש ברוך הוא יעשה לנו &quot;גיבוי&quot; בתוך ראשנו בלבנו ובנפשנו יצפין את תורתו</p><p>תהלים קיט11: &quot;בְּלִבִּי צָפַנְתִּי אִמְרָתֶךָ לְמַעַן לֹא אֶחֱטָא לָךְ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-13 04:52:57'
+		)
+		;
+
