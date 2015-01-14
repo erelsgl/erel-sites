@@ -6894,3 +6894,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-01-13 06:51:25'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-14 06:25:34'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-14 06:26:04'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
