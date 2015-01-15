@@ -6033,3 +6033,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-14 06:26:30' 
 			WHERE messageid=4968;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/simnim.html',
+		'<p>תודה רבה על העזרה! זה מאד עזר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnDT_A6h37iqrHqCGNvRkJ2GyhUUeWeMQ8',
+		'Eden Areru',
+		'2015-01-14 15:40:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-14 15:40:53' 
+			WHERE messageid=4970;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמואל הנביא בשם אלהים בחר את דוד בן ישי בהיותו עני נמשח בשמן הקודש</p><p> וַתִּצְלַח רוּחַ יהוה אֶל דָּוִד עוד בהיותו אִישׁ רָשׁ וְנִקְלֶה</p><p>שמואל א טז13: &quot;וַיִּקַּח שְׁמוּאֵל אֶת קֶרֶן הַשֶּׁמֶן וַיִּמְשַׁח אֹתוֹ בְּקֶרֶב אֶחָיו וַתִּצְלַח רוּחַ יהוה אֶל דָּוִד מֵהַיּוֹם הַהוּא וָמָעְלָה וַיָּקָם שְׁמוּאֵל וַיֵּלֶךְ הָרָמָתָה&quot;</p><p> שמואל א יח23: &quot;וַיְדַבְּרוּ עַבְדֵי שָׁאוּל בְּאָזְנֵי דָּוִד אֶת הַדְּבָרִים הָאֵלֶּה וַיֹּאמֶר דָוִד הַנְקַלָּה בְעֵינֵיכֶם הִתְחַתֵּן בַּמֶּלֶךְ וְאָנֹכִי אִישׁ רָשׁ וְנִקְלֶה&quot;</p><p> -------------------</p><p>ומשה נבחר למנהיג גם כשגדל בבית המלוכה של ממלכת מצרים</p><p>לכן סוף דבר כי עליך להיות ירא אלהים כדי להבחר למנהיג זה לא משנה אם אתה עשיר או עני  </p><p>--------------</p><p>וכשאתה כבר נבחרת למנהיג אז מותר לך להרבות כסף וזהב אך לא מאד הרבה [בדגש על המילה &quot;מאד&quot;]</p><p>זאת אומרת שלא יחסר לך דבר אבל אל תהיה [טייקון] עשיר גדול</p><p>דברים יז17: &quot;וְלֹא יַרְבֶּה לּוֹ נָשִׁים וְלֹא יָסוּר לְבָבוֹ וְכֶסֶף וְזָהָב לֹא יַרְבֶּה לּוֹ מְאֹד&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-14 16:06:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמואל הנביא בשם אלהים בחר את דוד בן ישי בהיותו עני נמשח בשמן הקודש</p><p>וַתִּצְלַח רוּחַ יהוה אֶל דָּוִד עוד בהיותו אִישׁ רָשׁ וְנִקְלֶה</p><p>שמואל א טז13: &quot;וַיִּקַּח שְׁמוּאֵל אֶת קֶרֶן הַשֶּׁמֶן וַיִּמְשַׁח אֹתוֹ בְּקֶרֶב אֶחָיו וַתִּצְלַח רוּחַ יהוה אֶל דָּוִד מֵהַיּוֹם הַהוּא וָמָעְלָה וַיָּקָם שְׁמוּאֵל וַיֵּלֶךְ הָרָמָתָה&quot;</p><p>שמואל א יח23: &quot;וַיְדַבְּרוּ עַבְדֵי שָׁאוּל בְּאָזְנֵי דָּוִד אֶת הַדְּבָרִים הָאֵלֶּה וַיֹּאמֶר דָוִד הַנְקַלָּה בְעֵינֵיכֶם הִתְחַתֵּן בַּמֶּלֶךְ וְאָנֹכִי אִישׁ רָשׁ וְנִקְלֶה&quot;</p><p>-------------------</p><p>ומשה איש האלהים נבחר למנהיג גם כשגדל בבית המלוכה של ממלכת מצרים</p><p>לכן סוף דבר כי עליך להיות ירא אלהים כדי להבחר למנהיג זה לא משנה אם אתה עשיר או עני</p><p>--------------</p><p>וכשאתה כבר נבחרת למנהיג אז מותר לך להרבות כסף וזהב אך לא מאד הרבה [בדגש על המילה &quot;מאד&quot;]</p><p>זאת אומרת שלא יחסר לך דבר אבל אל תהיה [טייקון] עשיר גדול</p><p>דברים יז17: &quot;וְלֹא יַרְבֶּה לּוֹ נָשִׁים וְלֹא יָסוּר לְבָבוֹ וְכֶסֶף וְזָהָב לֹא יַרְבֶּה לּוֹ מְאֹד&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-14 16:06:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-14 16:06:51' 
+			WHERE messageid=4971;
+
