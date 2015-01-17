@@ -6095,3 +6095,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-07-03.html',
+		'<p>יפה, אך ה\' גם הכביד את לב פרעה. כפי שכתבתי במאמר שפרסמתי כאן אתמול, הכתוב משתמש בשלושה לשונות: הקשה, הכביד, חיזק:</p><p>http://tora.us.fm/tnk1/messages/prqim_t0204_2.html?no_cache=1421412727</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-01-16 12:52:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-07-03.html',
+		'<p>מאחר שפרעה הרשע הרשיע מאד כשהמית את הזכרים מילדי ישראל</p><p>אז לכן אלהים לא נתן לו לשוב בתשובה אלא הכביד והקשה את לבו כדי להפילו ברעה להשיב לו כגמולו לו ולמשרתיו</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-16 13:02:53'
+		)
+		;
+

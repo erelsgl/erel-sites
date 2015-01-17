@@ -6958,3 +6958,51 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/qjh1.html',
+				'tnk1/tora/jmot/jm-07-03.html',
+				NULL,
+				'2015-01-16 09:55:30',
+				'2015-01-16 09:55:30',
+				'ה\' מנע מפרעה לפחד כדי שתהיה לו בחירה חפשית',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-16 12:52:34'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-07-03.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-16 13:02:53'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-07-03.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2103.htm',
+				'tnk1/messages/lw_ky_meglwtyw_mwknym_lywm_hhwa.pdf',
+				NULL,
+				'2015-01-16 14:26:42',
+				'2015-01-16 14:26:42',
+				'חכו לו כי מעגלותיו מוכנים ליום ההוא',
+				'רמי ניר  ',
+				''
+			)
+		;
+
