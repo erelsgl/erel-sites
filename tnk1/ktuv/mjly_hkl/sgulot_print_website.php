@@ -156,9 +156,13 @@ while ($row = sql_fetch_assoc($rows)) {
 	$path_from_reply_to_root = "../$path_from_reply_to_site";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
 	
-	$title_utf8 = $row['kotrt'];
-	if (!$title_utf8)
-		$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
+	if ($return_html) {
+		$title_utf8 = $row['kotrt'] = '';
+	} else {
+		$title_utf8 = $row['kotrt'];
+		if (!$title_utf8)
+			$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
+	}
 	$title_with_html = $title_without_html = utf8_to_windows1255($title_utf8);
 	$titleType = "";
 	$author = $username = utf8_to_windows1255("אראל");
