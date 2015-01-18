@@ -6119,3 +6119,101 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_2.html',
+		'<p>משלי ג16: &quot;אֹרֶךְ יָמִים בִּימִינָהּ בִּשְׂמֹאולָהּ עֹשֶׁר וְכָבוֹד&quot;</p><p>הלא החרב נמצאת בנדנה בשמאלך ונשלפת ביד ימין</p><p>וכאשר שולפים לצדקה את הכסף מעֹשֶׁר וְכָבוֹד </p><p>אז תָּרֹם יָדְךָ עַל צָרֶיךָ וְכָל אֹיְבֶיךָ יִכָּרֵתוּ כי צדקה תציל ממות</p><p>********** זו הברית בחרב **********</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 16:19:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_2.html',
+		'<p>משלי ג16: &quot;אֹרֶךְ יָמִים בִּימִינָהּ בִּשְׂמֹאולָהּ עֹשֶׁר וְכָבוֹד&quot;</p><p>הלא החרב נמצאת בנדנה בשמאלך ונשלפת ביד ימין</p><p>וכאשר שולפים לצדקה את הכסף מעֹשֶׁר וְכָבוֹד משמאלך</p><p>אז תָּרֹם יָדְךָ עַל צָרֶיךָ וְכָל אֹיְבֶיךָ יִכָּרֵתוּ כי צדקה תציל ממות</p><p>********** זו הברית בחרב **********</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 16:20:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-17 16:20:30' 
+			WHERE messageid=4976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b03_1.html',
+		'<p>במדבר כב21: &quot;וַיָּקָם בִּלְעָם בַּבֹּקֶר וַיַּחֲבֹשׁ אֶת אֲתֹנוֹ וַיֵּלֶךְ עִם שָׂרֵי מוֹאָב&quot;</p><p>במדבר כב22: &quot;וַיִּחַר אַף אֱלֹהִים כִּי הוֹלֵךְ הוּא וַיִּתְיַצֵּב מַלְאַךְ ה\' בַּדֶּרֶךְ לְשָׂטָן לוֹ וְהוּא רֹכֵב עַל אֲתֹנוֹ וּשְׁנֵי נְעָרָיו עִמּוֹ&quot;</p><p>וּשְׁנֵי נְעָרָיו עִמּוֹ = ושני נעוריו עמו = ושנות נעוריו עמו כי בלעם היה כנער במלוא אונו לעשות הרע בעיני אלהים</p><p>ולהבדיל:</p><p>כי אברהם בזקנתו בגיל 125 הלך לשמוע בקול אלהים לעקוד את יצחק ואחרי שהצליח ביראת אלהים שב אל נעוריו</p><p>---------- וכי אברהם שב אל נעוריו לזכות את ארחו לשמור דבר אלהים ----------</p><p>בראשית כב19: &quot; ***** וַיָּשָׁב אַבְרָהָם אֶל נְעָרָיו ***** וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו אֶל בְּאֵר שָׁבַע וַיָּשָׁב אַבְרָהָם בִּבְאֵר שָׁבַע&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 16:47:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b03_1.html',
+		'<p>ההבדל הגדול בין אברהם אבינו הקדוש לבין בלעם הקוסם</p><p>במדבר כב21: &quot;וַיָּקָם בִּלְעָם בַּבֹּקֶר וַיַּחֲבֹשׁ אֶת אֲתֹנוֹ וַיֵּלֶךְ עִם שָׂרֵי מוֹאָב&quot;</p><p>במדבר כב22: &quot;וַיִּחַר אַף אֱלֹהִים כִּי הוֹלֵךְ הוּא וַיִּתְיַצֵּב מַלְאַךְ ה\' בַּדֶּרֶךְ לְשָׂטָן לוֹ וְהוּא רֹכֵב עַל אֲתֹנוֹ וּשְׁנֵי נְעָרָיו עִמּוֹ&quot;</p><p>וּשְׁנֵי נְעָרָיו עִמּוֹ = ושני נעוריו עמו = ושנות נעוריו עמו כי בלעם היה כנער במלוא אונו לעשות הרע בעיני אלהים</p><p>ולהבדיל:</p><p>כי אברהם בזקנתו בגיל 125 הלך לשמוע בקול אלהים לעקוד את יצחק ואחרי שהצליח ביראת אלהים שב אל נעוריו</p><p>---------- וכי אברהם שב אל נעוריו לזכות את ארחו לשמור דבר אלהים ----------</p><p>בראשית כב19: &quot; ***** וַיָּשָׁב אַבְרָהָם אֶל נְעָרָיו ***** וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו אֶל בְּאֵר שָׁבַע וַיָּשָׁב אַבְרָהָם בִּבְאֵר שָׁבַע&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 16:51:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-17 16:51:33' 
+			WHERE messageid=4978;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>שמות כט21: &quot;וְלָקַחְתָּ מִן הַדָּם אֲשֶׁר עַל הַמִּזְבֵּחַ וּמִשֶּׁמֶן הַמִּשְׁחָה וְהִזֵּיתָ [מלשון זיתים = שמן-זית] </p><p>עַל אַהֲרֹן וְעַל בְּגָדָיו וְעַל בָּנָיו וְעַל בִּגְדֵי בָנָיו אִתּוֹ וְקָדַשׁ הוּא וּבְגָדָיו וּבָנָיו וּבִגְדֵי בָנָיו אִתּוֹ&quot; </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 16:57:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>תחילת ספר בראשית באות ב\'</p><p>ספר בראשית פרק א כתוב:</p><p>א:&quot;בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ&quot;</p><p> א: בראש ברא אלהים את השמים ואת הארץ</p><p>ולא נאמר ראש ברא אלהים את השמים ואת הארץ</p><p>כי האלהים הוא ברא את הראש</p><p> וְהִנֵּה עִמָּנוּ בָרֹאשׁ הָאֱלֹהִים וְכֹהֲנָיו וַחֲצֹצְרוֹת הַתְּרוּעָה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-17 17:09:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-07-03.html',
+		'<p>על-פי הפשט אפשר לפרש ש&quot;הכביד את ליבו&quot;, &quot;חיזק את ליבו&quot; ו&quot;הקשה את ליבו&quot; הם ביטויים נרדפים שיש להם אותה משמעות. אפשר גם לפרש שלכל ביטוי ישנה משמעות מעט שונה: http://tora.us.fm/tnk1/kma/hvdlim1/lv_qje.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-17 22:19:16'
+		)
+		;
+
