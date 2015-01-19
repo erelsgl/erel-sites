@@ -6217,3 +6217,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>עזרו לי בבקשה יש לי חוב  לביטוח לאומי שמי סיון אדרי אני צריכה הלוואה בסך 6000</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqC3az9bPi6gyTIlxn6N9xXSXOlTBQNW8',
+		'סיון אדרי',
+		'2015-01-18 10:45:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי אני זקוקה להלוואה דחופה 0527875564</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnqC3az9bPi6gyTIlxn6N9xXSXOlTBQNW8',
+		'סיון אדרי',
+		'2015-01-18 11:21:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אני מחפש פסוק עם האותיות של המילה אהוד שיכול להתאים כפסוק להזמנה לבר המצווה של אהוד</p><p>הפרשה שלו היא ויקרא, אבל גם פסוק רלוונטי אחר יכול להתאים</p><p>תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk2SyG3RJIk-4rZWnAyuy3hyzGIEXgMv-U',
+		'Zur Badash',
+		'2015-01-18 14:04:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תהלים כח7: &quot;ה\' עזי ומגני בו בטח לבי ונעזרתי ויעלז לבי ומשירי אהודנו&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-01-18 22:07:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תהלים כח7: &quot;ה\' עזי ומגני בו בטח לבי ונעזרתי ויעלז לבי ומשירי אהודנו&quot;</p><p>או אהוד בן גרא - שופטים ג\'</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-01-18 22:12:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-18 22:12:43' 
+			WHERE messageid=4986;
+
