@@ -6284,3 +6284,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-18 22:12:43' 
 			WHERE messageid=4986;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>עץ חיים = חוקותי משפטי ומצוותי וחי בהם</p><p>משלי ד4: &quot;וַיֹּרֵנִי וַיֹּאמֶר לִי יִתְמָךְ דְּבָרַי לִבֶּךָ שְׁמֹר מצותי וֶחְיֵה&quot;</p><p>ויקרא יח5: &quot;וּשְׁמַרְתֶּם אֶת חֻקֹּתַי וְאֶת מִשְׁפָּטַי אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם אֲנִי יהוה\'&quot;</p><p>יחזקאל כ11: &quot;וָאֶתֵּן לָהֶם אֶת חֻקּוֹתַי וְאֶת מִשְׁפָּטַי הוֹדַעְתִּי אוֹתָם אֲשֶׁר יַעֲשֶׂה אוֹתָם הָאָדָם וָחַי בָּהֶם&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-19 10:55:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-33-0623.html',
+		'<p>יעקב אבינו ברך: ראובן בכרי אתה כחי = אתה כ-חי = על כן ברך משה: יחי ראובן ואל ימת ויהי מתיו מספר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-19 14:57:03'
+		)
+		;
+
