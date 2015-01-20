@@ -453,11 +453,12 @@ sub login {
 		'Accept-Language' => 'en-US',
 	);
 
+	# first login - without a token:
 	my $response=$wiki::browser->post(
 		$api_url,
 		@ns_headers, 
 		Content=>[
-			action=>"login",
+			action=>'login',
 			lgname=>$username,
 			lgpassword=>$password,
 			format=>'xml']
@@ -465,8 +466,8 @@ sub login {
 
 	if ($response->content =~ m|<login[^<>]*result="NeedToken"[^<>]*token="([^\"]+)"[^<>]*/>|) {
 		my $token = $1;
-		#print "Content:\n\n".$response->content."\n";
 
+		# second login - with a token  (see https://www.mediawiki.org/wiki/API:Login ):
 		$response=$wiki::browser->post(
 			$api_url,
 			@ns_headers, 
@@ -488,18 +489,22 @@ sub login {
 				print "user $username is throttled (too many login attempts)\n";
 				return 0;
 			}
-			$response=$wiki::browser->get("$api_url?titles=עמוד_ראשי&action=query&prop=info&intoken=edit&format=xml");
-			if ($response->content =~ m|<page[^<>]*edittoken="([^\"]+)"[^<>]*/>|) {
+
+
+			my $url = "$api_url?action=query&meta=tokens&continue=&format=xml";
+			print "Getting edit token from: $url\n";
+			$response=$wiki::browser->get($url);
+			if ($response->content =~ m|csrftoken="([^\"]+)"|) {
 				my $edittoken = $1;
 				print "edittoken = ".$edittoken."\n";
 				return $edittoken;
 			} else {
-				print "Cannot get edit token: \n";
-				print $response->content."\n\n";
+				print "Cannot get edit token. \n";
+				print "RESPONSE: ".$response->content."\n\n";
 				return 0;
 			}
 		} else {
-			print "Cannot login:\n";
+			print "Error in second login phase:\n";
 			print substr($response->content,0,1000);
 			print "Posted data: action=>'login,'lgname=>$username,lgpassword=>$password,lgtoken=>$token,format=>'xml'\n\n";
 			return 0;
@@ -510,6 +515,7 @@ sub login {
 		return 0;
 	}
 }
+
 
 sub get_edit {
 	my ($index_url, $name_of_page) = @_;
