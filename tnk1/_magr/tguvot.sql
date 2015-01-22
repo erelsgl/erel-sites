@@ -6363,3 +6363,96 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-01-21 06:02:23' 
 			WHERE messageid=4992;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.youtube.com/watch?v=TeFQGifLLVY</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-21 13:59:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-21 14:05:50' 
+			WHERE messageid=4994;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.youtube.com/watch?v=U1E3UL6uiXc</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-21 14:08:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.youtube.com/watch?v=XAi3VTSdTxU</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-21 14:21:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.youtube.com/watch?v=XAi3VTSdTxU</p><p>https://www.youtube.com/watch?v=U1E3UL6uiXc</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-21 14:23:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-21 14:23:35' 
+			WHERE messageid=4996;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-21 14:23:37' 
+			WHERE messageid=4995;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0226_0.html',
+		'<p>https://www.youtube.com/watch?v=JcTBCEWQxx0</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-21 16:35:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0228_1.html',
+		'<p>שמות כח30: &quot;וְנָתַתָּ אֶל חֹשֶׁן הַמִּשְׁפָּט אֶת הָאוּרִים וְאֶת הַתֻּמִּים וְהָיוּ עַל לֵב אַהֲרֹן בְּבֹאוֹ לִפְנֵי יהוה</p><p>וְנָשָׂא אַהֲרֹן אֶת מִשְׁפַּט בְּנֵי יִשְׂרָאֵל עַל לִבּוֹ לִפְנֵי יהוה תָּמִיד&quot; על כן דַיָּן שמו הוא מורה לתורה משה דַיָּן</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-22 06:15:04'
+		)
+		;
+
