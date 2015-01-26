@@ -7282,3 +7282,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1israel.html',
+				'tnk1/nvia/yjayhu/marriage1.html',
+				NULL,
+				'2015-01-25 23:56:21',
+				'2015-01-25 23:56:21',
+				'זוגיות עם הארץ וזוגיות עם ירושלים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-01-25 23:56:21'
+			WHERE ktovt_bn='tnk1/msr/1israel.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-26 00:25:22'
+		WHERE ktovt_bn='tnk1/messages/msr_atid_12_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-26 06:00:15'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/marriage1.html'
+		;
+
