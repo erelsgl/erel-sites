@@ -6504,3 +6504,84 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:51:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:51:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:52:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 09:55:45' 
+			WHERE messageid=5006;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 09:55:49' 
+			WHERE messageid=5005;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_kotrot_1.html',
+		'<p>משהו יודע מה זה הביטוי העץ כן פיריו ומאיפה הוא לקוח?</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmF_hUKVaykrhQV56FyBohTx6ZKeJYXZAI',
+		'רמי דעי',
+		'2015-01-26 15:07:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 15:08:08' 
+			WHERE messageid=5007;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/caution.html',
+		'<p>לכל מי שמחפש את משה ושגית זעפרי/זפרני או/ו שגית דדון אישתו</p><p>נכון להיום מתגוררים בראשל&quot;צ, אצל ההורים של משה ברח\' חי&quot;ש 6 ק-2</p><p>והם באמת זוג רמאים, מכיר מקרוב מאוד.</p><p>כל חצי שנה מחליפים בתים כי אין להם כסף לשלם ועוד סיפורים בלי סוף......</p><p>אנשים לא רציניים, חייבים כספים לכל העולם, הבעל בקושי עובד.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmkC4zr52st1pO_MLif6xjYWMgMEPUu5bg',
+		'אריה דולב',
+		'2015-01-26 15:27:01'
+		)
+		;
+

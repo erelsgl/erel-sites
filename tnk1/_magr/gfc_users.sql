@@ -2757,3 +2757,21 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-01-26 05:56:24','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-01-26 09:49:33','https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg','פאני חן');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-01-26 15:06:57','https://www.google.com/accounts/o8/id?id=AItOawmF_hUKVaykrhQV56FyBohTx6ZKeJYXZAI','רמי דעי');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-01-26 15:19:16','https://www.google.com/accounts/o8/id?id=AItOawmkC4zr52st1pO_MLif6xjYWMgMEPUu5bg','אריה דולב');
+
