@@ -6585,3 +6585,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>חגי יקר תודה על דבריך, מה עם משה במעמד הסנה? איך לא הבאת אותו כאן....:)).. פתחתי להיות בטוחה שאנני טועה, ואכן . הנני. תודה על ההארה בקשר לאדם הראשון... תודה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_ReWb4vjIC1APxpca3YHADCnB8XvSkfE',
+		'Jenny Aharon',
+		'2015-01-27 10:12:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>בבקשה ג\'ני. אכן גם משה אמר הנני במעמד הסנה. לא זוכר מדוע לא כתבתי זאת, אולי פשוט שכחתי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-01-27 10:42:14'
+		)
+		;
+
