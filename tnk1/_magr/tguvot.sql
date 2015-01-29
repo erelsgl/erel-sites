@@ -6609,3 +6609,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jirtnjim.html',
+		'<p>יישר כח, סיכום יפה מאוד של הנושא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkTS6tnOR0O-0c6xH6JK5txrX2emS5G3-Y',
+		'חנה נהרי',
+		'2015-01-28 11:08:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p>ספר תהילות פרק קיד כתוב:</p><p>א: בצאת ישראל ממצרים בית יעקב מעם לעז</p><p>ב: היתה יהודה לקדשו ישראל ממשלותיו</p><p>ג: הים ראה וינס הירדן יסב לאחור</p><p>ד: ההרים רקדו כאילים גבעות כבני צאן</p><p>ה: מה לך הים כי תנוס הירדן תסב לאחור</p><p>ו: ההרים תרקדו כאילים גבעות כבני צאן</p><p>ז: מלפני אדון חולי ארץ מלפני אלוה יעקב</p><p>ח: ההפכי הצור אגם מים חלמיש למעינו מים</p><p>ספר תהילות פרק קיד8: </p><p>&quot;הַהֹפְכִי הַצּוּר אֲגַם מָיִם חַלָּמִישׁ לְמַעְיְנוֹ מָיִם&quot;</p><p>כאשר יהוה נלחם לישראל גם אנשים עם לב קשה כאבן הצור נהיו למים מהתרגשות</p><p>כי מלחמת יהוה צבאות היא להפוך את לב האבן ללב בשר לב פועם ורגיש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-28 14:50:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>דברים כט28: &quot;הַנִּסְתָּרֹת ליהוה אֱלֹהֵינוּ וְהַנִּגְלֹת לנו ולבנינו עַד עוֹלָם לַעֲשׂוֹת אֶת כָּל דִּבְרֵי הַתּוֹרָה הַזֹּאת&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-28 16:55:41'
+		)
+		;
+
