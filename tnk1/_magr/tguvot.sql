@@ -6645,3 +6645,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/jmym_o_erc.html',
+		'<p>כדור הארץ היה מכוסה כולו מים לאמור שם-מים אשר כיסו את הארץ בהיותה תהו ובהו</p><p>לכן השמים והארץ היו יחדיו באותה עת אך הארץ הייתה תהו ובהו [יעני בלגן]</p><p>ומה שקרה במעשה הבריאה הוא שאלהים הבדיל בין מים למים לכן השמים נבראו בטרם נוסדה הארץ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-29 14:20:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4nvir.html',
+		'<p>בס&quot;ד</p><p>שמחתי לראות את החלוקה הזו יישר כח על היוזמה</p><p>רציתי להשתמש בחלוקה זו בספר שבעזרת ה\' יצא לאור כדי לקדם את הרעיון</p><p>האם זה מקובל עליכם או שזה יהיה &quot;הפרת זכויות יוצרים&quot;?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlxw6_IKEF71I9hRGmBc54xQ7gdRkLKuZo',
+		'רונן חלבי',
+		'2015-01-29 15:45:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4nvir.html',
+		'<p>שלום רונן,</p><p>אתה מוזמן להשתמש בחלוקה כרצונך הטוב,</p><p>בע&quot;ה תצליח בכל מעשיך,</p><p>אראל</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-29 17:47:01'
+		)
+		;
+
