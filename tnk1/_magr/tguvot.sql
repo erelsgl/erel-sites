@@ -6456,3 +6456,228 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>12.01.2015: http://www.themarker.com/advertising/1.2537020</p><p>משה כחלון שם בראש סדר העדיפויות שלו את פירוק מינהל מקרקעי ישראל. גם הוא מבין שהשורשים של בעיית יוקר המחיה נמצאים בקרקע. </p><p>אבל מה בדיוק הוא מתכנן לעשות עם הקרקעות אחרי שיפרק את המינהל? האם הוא יחלק אותן באופן הוגן לאזרחים, או ח&quot;ו ימכור אותן במכירת חיסול לטייקונים?</p><p>האם נמצא את עצמנו, בעוד ארבע שנים, במצבם של אנשי כפר שלם וגבעת עמל? זרוקים מבתינו ומביטים בכליון עיניים על המגדלים שיבנה שם יצחק תשובה?</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-24 22:28:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>12.01.2015: http://www.themarker.com/advertising/1.2537020</p><p>משה כחלון שם בראש סדר העדיפויות שלו את פירוק מינהל מקרקעי ישראל. גם הוא מבין שהשורשים של בעיית יוקר המחיה נמצאים בקרקע.</p><p>אבל מה בדיוק הוא מתכנן לעשות עם הקרקעות אחרי שיפרק את המינהל? האם הוא יחלק אותן באופן הוגן לאזרחים, או ח&quot;ו ימכור אותן במכירת חיסול לטייקונים?</p><p>לפי מגיב מספר 7:</p><p>&quot;עיקר מעייניו זה לדאוג לטייקונים שמממנים אותו. משה כחלון הוא רק ״פיון״ במשחק השח אותו מנהל בערמומיות ונחישות יצחק תשובה נגד ממשלת ישראל. אם יצליח הטייקון תשובה להשיג דריסת רגל של ״כוח שלטוני״ באמצעות מפלגת כחלון, הוא יצליח לאלץ את הממשלה הרופסת, להיכנע לדרישותיו בהקשר הקרקעות, ושדות הגז, הנוכחיים והעתידיים. זהו קרב של ״גדולים״, ומעורבים בו קבלנים גדולים, אינטרסנטים, ״נובל אנרג׳י״, קבוצת ״דלק״, ממשלת ארה״ב, ועוד לא מעט שחקני משנה, כאשר המהות היא סביב הסוגייה: מי באמת יהנה מאוצרות הטבע של הציבור? ל״נובל אנרג׳י״ וליצחק תשובה ושאר הטייקונים, יש תיאבון גדול מאוד להרוויח מה שיותר, והציבור התמים חושב שיש כאן איזו תקווה חברתית בדמות ״רובין הוד״ של 2015 בדמות משה כחלון. כאשר בוחנים את כל השתלשלות הקמת מפלגת כחלון, מוצאים בבירור את טביעות אצבעותיו של הטייקון הדורסני יצחק תשובה, המממן מזה תקופה ארוכה את משה כחלון באמצעות ״מכללת נתניה״. &quot;</p><p>האם נמצא את עצמנו, בעוד ארבע שנים, במצבם של אנשי כפר שלם וגבעת עמל? זרוקים מבתינו ומביטים בכליון עיניים על המגדלים שיבנה שם יצחק תשובה?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-24 22:31:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/msr_atid_12_0.html',
+		'<p>גוג = עמלק! כך גילה לנו רבינו צקוד הכהן מלובלין בספרו פרי צדיק: מלחמת גוג ומגוג על משיח בן יוסף, כי גוג ומגוג הוא מזרע עמלק! ועמלק הוא מנגד תמיד על קדושת ישראל!</p><p>חשוב להבהיר את מיקום מגוג באיזור ירכתי צפון = רוסיה או פרס (לא צפון אמריקה?)</p><p>ע&quot;פ מסורת האדמו&quot;ר מרוז\'ין - הצר ניקולאי הינו זרע עמלק!</p><p>דוביאל שרא דפרסאי! מדבדב=דב רוסי! (יומא ע&quot;ז.) (האם גוג הוא נשיא ארץ המגוג?)</p><p>והנה מיכאל אחד השרים הראשונים בא לעזרני ואני נותרתי שם אצל מלכי פרס. (דניאל מ&quot;ג)</p><p>ואני יוצא והנה שר יון (רוסיה של יון - גרממיא של אדום=מגוג=עמלק) בא עוי עוי וליכא דאשגח ביה!</p><p>ואני יוצא והנה שר יון בא - וכשהגיע זמן מלכות יון (רוסיה) לבא אצא על כרחי שכבר נגזרה גזרה ושר יון יבא במקומי!</p><p>עוי עוי - צעק וצוח גבריאל על זאת שלא ימשלו מלכי יון בישראל!</p><p>ובעת ההיא יעמד מיכאל השר הגדול העמד על-בני עמך והיתה עת צרה אשר לא-נהיתה מהיות גוי עד העת ההיא ובעת ההיא ימלט עמך כל-הנמצא כתוב בספר.</p><p>ואשמע את-האיש לבוש הבדים אשר ממעל למימי היאר וירם ימינו ושמאלו אל-השמים וישבע בחי העולם כי למועד מועדים וחצי וככלות נפץ יד-עם-קדש תכלינה כל-אלה.</p><p>http://he.wikisource.org/.../%D7%99%D7%95%D7%9E%D7%90_%D7...</p><p>http://www.hebrewbooks.org/.../hebrewbooks_org_22721_76.pdf</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmvvH8ZkkffiXDlW7ZEAHKFxwoRgHSMWrc',
+		'Leon Milston',
+		'2015-01-26 00:25:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/marriage1.html',
+		'<p>אראל שאלת שאלה </p><p>הפסוק מתאר חתונה, אבל מי כאן החתן? ה\' או בני ישראל?</p><p>כעת ראה אראל את הכתוב בספר</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>על כן התשובה היא כזו כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל</p><p>לאמור כי כאשר יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל אז יהוה ובני ישראל אחד הם כחתן לבעול את הארץ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-26 06:00:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:51:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:51:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוקה להלוואה דחופה אמא חד הורית לשלושה ילדים שאחד הילדים חולה</p><p>0506621660</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmATs4akv0SGNKWeZf9ygDT7Ht4BK2Xilg',
+		'פאני חן',
+		'2015-01-26 09:52:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 09:55:45' 
+			WHERE messageid=5006;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 09:55:49' 
+			WHERE messageid=5005;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_kotrot_1.html',
+		'<p>משהו יודע מה זה הביטוי העץ כן פיריו ומאיפה הוא לקוח?</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmF_hUKVaykrhQV56FyBohTx6ZKeJYXZAI',
+		'רמי דעי',
+		'2015-01-26 15:07:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-01-26 15:08:08' 
+			WHERE messageid=5007;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/caution.html',
+		'<p>לכל מי שמחפש את משה ושגית זעפרי/זפרני או/ו שגית דדון אישתו</p><p>נכון להיום מתגוררים בראשל&quot;צ, אצל ההורים של משה ברח\' חי&quot;ש 6 ק-2</p><p>והם באמת זוג רמאים, מכיר מקרוב מאוד.</p><p>כל חצי שנה מחליפים בתים כי אין להם כסף לשלם ועוד סיפורים בלי סוף......</p><p>אנשים לא רציניים, חייבים כספים לכל העולם, הבעל בקושי עובד.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmkC4zr52st1pO_MLif6xjYWMgMEPUu5bg',
+		'אריה דולב',
+		'2015-01-26 15:27:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>חגי יקר תודה על דבריך, מה עם משה במעמד הסנה? איך לא הבאת אותו כאן....:)).. פתחתי להיות בטוחה שאנני טועה, ואכן . הנני. תודה על ההארה בקשר לאדם הראשון... תודה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl_ReWb4vjIC1APxpca3YHADCnB8XvSkfE',
+		'Jenny Aharon',
+		'2015-01-27 10:12:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>בבקשה ג\'ני. אכן גם משה אמר הנני במעמד הסנה. לא זוכר מדוע לא כתבתי זאת, אולי פשוט שכחתי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-01-27 10:42:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jirtnjim.html',
+		'<p>יישר כח, סיכום יפה מאוד של הנושא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkTS6tnOR0O-0c6xH6JK5txrX2emS5G3-Y',
+		'חנה נהרי',
+		'2015-01-28 11:08:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p>ספר תהילות פרק קיד כתוב:</p><p>א: בצאת ישראל ממצרים בית יעקב מעם לעז</p><p>ב: היתה יהודה לקדשו ישראל ממשלותיו</p><p>ג: הים ראה וינס הירדן יסב לאחור</p><p>ד: ההרים רקדו כאילים גבעות כבני צאן</p><p>ה: מה לך הים כי תנוס הירדן תסב לאחור</p><p>ו: ההרים תרקדו כאילים גבעות כבני צאן</p><p>ז: מלפני אדון חולי ארץ מלפני אלוה יעקב</p><p>ח: ההפכי הצור אגם מים חלמיש למעינו מים</p><p>ספר תהילות פרק קיד8: </p><p>&quot;הַהֹפְכִי הַצּוּר אֲגַם מָיִם חַלָּמִישׁ לְמַעְיְנוֹ מָיִם&quot;</p><p>כאשר יהוה נלחם לישראל גם אנשים עם לב קשה כאבן הצור נהיו למים מהתרגשות</p><p>כי מלחמת יהוה צבאות היא להפוך את לב האבן ללב בשר לב פועם ורגיש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-28 14:50:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>דברים כט28: &quot;הַנִּסְתָּרֹת ליהוה אֱלֹהֵינוּ וְהַנִּגְלֹת לנו ולבנינו עַד עוֹלָם לַעֲשׂוֹת אֶת כָּל דִּבְרֵי הַתּוֹרָה הַזֹּאת&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-28 16:55:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/jmym_o_erc.html',
+		'<p>כדור הארץ היה מכוסה כולו מים לאמור שם-מים אשר כיסו את הארץ בהיותה תהו ובהו</p><p>לכן השמים והארץ היו יחדיו באותה עת אך הארץ הייתה תהו ובהו [יעני בלגן]</p><p>ומה שקרה במעשה הבריאה הוא שאלהים הבדיל בין מים למים לכן השמים נבראו בטרם נוסדה הארץ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-01-29 14:20:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4nvir.html',
+		'<p>בס&quot;ד</p><p>שמחתי לראות את החלוקה הזו יישר כח על היוזמה</p><p>רציתי להשתמש בחלוקה זו בספר שבעזרת ה\' יצא לאור כדי לקדם את הרעיון</p><p>האם זה מקובל עליכם או שזה יהיה &quot;הפרת זכויות יוצרים&quot;?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlxw6_IKEF71I9hRGmBc54xQ7gdRkLKuZo',
+		'רונן חלבי',
+		'2015-01-29 15:45:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4nvir.html',
+		'<p>שלום רונן,</p><p>אתה מוזמן להשתמש בחלוקה כרצונך הטוב,</p><p>בע&quot;ה תצליח בכל מעשיך,</p><p>אראל</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-01-29 17:47:01'
+		)
+		;
+
