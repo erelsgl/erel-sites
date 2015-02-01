@@ -7637,3 +7637,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/prjot4nvir.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-31 18:00:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-31 18:04:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-31 19:17:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0104_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t26b8.htm',
+				'tnk1/messages/lbnyyn_mqdj___lrbe_eygwl.pdf',
+				NULL,
+				'2015-01-31 20:32:23',
+				'2015-01-31 20:32:23',
+				'השער לבניין מקדש = לרבע עיגול',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-01-31 20:42:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_2.html'
+		;
+
