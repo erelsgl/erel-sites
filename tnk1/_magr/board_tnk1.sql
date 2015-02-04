@@ -8078,3 +8078,66 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-02-03 06:25:07'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-03 15:51:28'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/tjuva.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-03 15:57:55'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-03 19:26:42'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-03 19:46:03'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_654.html',
+				NULL,
+				'2015-02-03 21:55:56',
+				'2015-02-03 21:55:56',
+				'משה כשופט/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-02-03 21:55:56'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-04 07:34:44'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+

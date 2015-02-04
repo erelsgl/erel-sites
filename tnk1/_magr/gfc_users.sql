@@ -2985,3 +2985,45 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-02-02 20:06:23','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 12:05:16','https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY','אלברט שבות');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 15:50:40','https://www.google.com/accounts/o8/id?id=AItOawk1OoVaN6q8A4o0fa4zWDkkhxTyAIsWJqU','may hermoni');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 15:55:58','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 18:27:21','https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY','אלברט שבות');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 19:23:17','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-03 19:45:45','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-02-04 07:31:04','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+

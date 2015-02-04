@@ -6803,3 +6803,70 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-02-02 20:06:46' 
 			WHERE messageid=5024;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/tjuva.html',
+		'<p>לא הבנתי, יש סיכוי לרמה יותר נמוכה?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk1OoVaN6q8A4o0fa4zWDkkhxTyAIsWJqU',
+		'may hermoni',
+		'2015-02-03 15:51:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-03 15:51:43' 
+			WHERE messageid=5026;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>3.2.2015: http://www.calcalist.co.il/local/articles/0,7340,L-3651515,00.html</p><p>מנואל טרכטנברג, מועמד מפלגת העבודה לתפקיד שר האוצר, מציע חלוקת קרקעות לבנייה בחינם. </p><p>גם הוא מבין שהשורשים של בעיית הדיור נטועים בקרקע.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-03 15:57:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>מנואל נוכל משכורתו מעל 100000 ש&quot;ח בחודש ברוטו</p><p>הוא מציע קרקעות חינם לקבלנים יזמים ולא ליוצאי צבא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-03 19:26:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>איך אתה יודע שהוא מציע קרקעות חינם רק לקבלנים?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-03 19:46:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>ציטוט:</p><p>בתחום הדיור, הציגה הרשימה תוכנית תחת השם &quot;הקרקע עלינו, הדירה שלך&quot;. על פי התוכנית, המדינה תאפשר לאזרחים לשכור דירה בתשלום של 10–30 אחוזים מההכנסה. המדינה תספק קרקעות לקבלנים ואלה יבנו עליהן דירות ייעודיות מסובסדות שיושכרו בהמשך לטווח ארוך של 15–20 שנה. לדברי טרכטנברג, &quot;יוקמו יחידות דיור שיינתנו לדיירים, כל אחד ישלם על פי הכנסתו ובהמשך יוכל לרכוש את הדירה&quot;. עוד קרא למנות שר בכיר לסמכות העליונה בענייני דיור, ולהכפיף אליו את רשות מקרקעי ישראל ומינהל התכנון וכן חמ&quot;ל דיור, שימנע עיכובים בקידום התוכניות.</p><p>סוף ציטוט]</p><p>מקור מהקישור הזה</p><p>http://www.haaretz.co.il/news/elections/.premium-1.2556605</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-04 07:34:44'
+		)
+		;
+
