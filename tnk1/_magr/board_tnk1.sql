@@ -8188,3 +8188,59 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 08:58:18'
+		WHERE ktovt_bn='tnk1/sofrim/mali/kiwun_cfon.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 10:32:47'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 13:46:47'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 19:14:43'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 20:15:06'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 20:23:21'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-05 20:29:40'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
