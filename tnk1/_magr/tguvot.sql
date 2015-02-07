@@ -6973,3 +6973,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>א האות הראשונה</p><p>מ האות התיכונה</p><p>ת האות האחרונה</p><p>המילה א.מ.ת</p><p>נולד מ-אם ו-מת בסוף</p><p>זה כל האמ-מת</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-06 09:10:34'
+		)
+		;
+
