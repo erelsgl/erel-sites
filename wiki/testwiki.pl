@@ -11,7 +11,9 @@ close CREDENTIALS;
 
 use LWP::Simple;
 
-my $api_url = "http://he.wikisource.org/w/api.php";
+my $api_url = "http://en.wikisource.org/w/api.php";
+#my $api_url = "http://en.wikipedia.org/w/api.php";
+
 my $browser = LWP::UserAgent->new();
 $browser->cookie_jar( {} );
 push @{$browser->requests_redirectable}, 'POST';
