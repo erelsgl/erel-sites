@@ -8252,3 +8252,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-07 15:55:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-08 04:12:16'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
