@@ -6985,3 +6985,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p></p><p>********** ביום שבת בבקר השכם להשתחוות לפני אלהים על ראש המיטה **********</p><p>ישעיהו סו23: &quot;וְהָיָה מִדֵּי חֹדֶשׁ בְּחָדְשׁוֹ וּמִדֵּי שַׁבָּת בְּשַׁבַּתּוֹ יָבוֹא כָל בָּשָׂר להשתחות לְפָנַי אָמַר יהוה\'&quot;</p><p>שמואל א א19: &quot;וַיַּשְׁכִּמוּ בַבֹּקֶר וַיִּשְׁתַּחֲווּ לִפְנֵי יהוה וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל בֵּיתָם הָרָמָתָה וַיֵּדַע אֶלְקָנָה אֶת חַנָּה אִשְׁתּוֹ וַיִּזְכְּרֶהָ יהוה\'&quot;</p><p>בראשית כח18: &quot;וַיַּשְׁכֵּם יַעֲקֹב בַּבֹּקֶר וַיִּקַּח אֶת הָאֶבֶן אֲשֶׁר שָׂם מְרַאֲשֹׁתָיו וַיָּשֶׂם אֹתָהּ מַצֵּבָה וַיִּצֹק שֶׁמֶן עַל רֹאשָׁהּ&quot;</p><p>בראשית מז31: &quot;וַיֹּאמֶר הִשָּׁבְעָה לִי וַיִּשָּׁבַע לוֹ וַיִּשְׁתַּחוּ יִשְׂרָאֵל עַל רֹאשׁ הַמִּטָּה&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-07 15:55:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_95.html',
+		'<p>תשובת ראש הישיבה:</p><p>שבוע טוב אלברט</p><p>כוונתי איננה להסביר את החכמים אלא את היחס הנדרש מאיתנו להנהגותיהם. זוהי אמונת חכמים. ואמונה כפשוטה הבסיסי היא דבר שאיננו נראה בעין שאם לא כן יוצאת היא מגדר אמונה ונכנסת בקטגוריית הידיעה. </p><p>האמונה שלנו במה שחכמים עושים היא הבנה שיש עולם שקרי ויש אמת אבסולוטית והקב&quot;ה מסייע בידי החכם לקלוע לאמת גם כשהנתונים שנראים לעינינו אינם נתונים המצביעים על הכרעה מכח האמת.</p><p>האם עתה אני מובן יותר?</p><p>שלומות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2015-02-08 04:12:16'
+		)
+		;
+
