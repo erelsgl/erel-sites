@@ -7069,3 +7069,120 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>בראשית יג6: &quot;וְלֹא נָשָׂא אֹתָם הָאָרֶץ לָשֶׁבֶת יַחְדָּו [והסיבה היא] כִּי הָיָה רְכוּשָׁם רָב וְלֹא יָכְלוּ לָשֶׁבֶת יַחְדָּו&quot;</p><p>לאנשים יש מקום אך לא לרכושם</p><p>כאשר לא יהיה רכוש רב לפלמוני אלא רכוש אחד משותף לכל בני ישראל כמו בקיבוץ אחד גדול כי יהיה שיוויון וצדק חברתי ודרור לכל</p><p>אז מִסְפַּר בְּנֵי יִשְׂרָאֵל כְּחוֹל הַיָּם אֲשֶׁר לֹא יִמַּד וְלֹא יִסָּפֵר וְהָיָה בִּמְקוֹם אֲשֶׁר יֵאָמֵר לָהֶם לֹא עַמִּי אַתֶּם יֵאָמֵר לָהֶם בְּנֵי אֵל חָי</p><p>-----------------------------------------------------------</p><p>אם יהיו מטעי עצי פרי בישראל בכל גבול ישראל ככתוב זיתים יהי לך בכל גבולך אז לא נצטרך מכוניות לנסוע לשוק ולא נצטרך מקררים כי הכל יהיה זמין כאשר היה בגן-עדן ולא נצטרך לנסוע לרראות את הטבע כי כל הארץ תהיה יפה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-09 11:24:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/jerusalem100.html',
+		'<p>מדהים , ישר כח גדול </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm6owbNtxfsBZdjYUVb49cwdMcKYvt3WrI',
+		'elad dokow',
+		'2015-02-09 11:25:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>בראשית יג6: &quot;וְלֹא נָשָׂא אֹתָם הָאָרֶץ לָשֶׁבֶת יַחְדָּו [והסיבה היא] כִּי הָיָה רְכוּשָׁם רָב וְלֹא יָכְלוּ לָשֶׁבֶת יַחְדָּו&quot;</p><p>לאנשים יש מקום אך לא לרכושם</p><p>כאשר לא יהיה רכוש רב לפלמוני אלא רכוש אחד משותף לכל בני ישראל כמו בקיבוץ אחד גדול כי יהיה שיוויון וצדק חברתי ודרור לכל</p><p>אז מִסְפַּר בְּנֵי יִשְׂרָאֵל כְּחוֹל הַיָּם אֲשֶׁר לֹא יִמַּד וְלֹא יִסָּפֵר וְהָיָה בִּמְקוֹם אֲשֶׁר יֵאָמֵר לָהֶם לֹא עַמִּי אַתֶּם יֵאָמֵר לָהֶם בְּנֵי אֵל חָי</p><p>-----------------------------------------------------------</p><p>אם יהיו מטעי עצי פרי בישראל בכל גבול ישראל ככתוב זיתים יהי לך בכל גבולך אז לא נצטרך מכוניות לנסוע לשוק ולא נצטרך מקררים כי הכל יהיה זמין כאשר היה בגן-עדן ולא נצטרך מכוניות לנסוע לראות את הטבע כי כל הארץ תהיה יפה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-09 12:12:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-09 12:12:22' 
+			WHERE messageid=5047;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>פירוש יפה. כדאי לכתוב אותו כמאמר בפני עצמו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-09 13:05:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>15.02.2014  http://www.themarker.com/markerweek/1.2244022</p><p>&quot;קללת גבעת עמל&quot; - הכתבה מלפני שנה, אבל גבעת עמל עדיין בכותרות.</p><p>למי באמת שייכת הקרקע על-פי התורה? למי שגר בה או למי שקנה אותה?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-09 13:06:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>הכנענים היו בארץ ואברהם אבינו קנה מאיתם בכסף את מערת המכפלה ואת כל השדה סביב</p><p>על כן הארץ לאברהם אבינו</p><p>רק יש לזכור כי אל עליון קנה שמים וארץ על כן הארץ לאל עליון והולכים בדרכיו</p><p>ויקרא כה23: &quot;וְהָאָרֶץ לֹא תִמָּכֵר לִצְמִתֻת כִּי לִי הָאָרֶץ כִּי גֵרִים וְתוֹשָׁבִים אַתֶּם עִמָּדִי&quot;</p><p> גֵרִים וְתוֹשָׁבִים הם הגרים באופן זמני בלבד לכן הארץ לא לגרים בה אלא למי שקנה אותה אֶל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ</p><p>בראשית יד19: &quot;וַיְבָרְכֵהוּ וַיֹּאמַר בָּרוּךְ אַבְרָם לְאֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ&quot;  </p><p>בראשית יד22: &quot;וַיֹּאמֶר אַבְרָם אֵל מֶלֶךְ סְדֹם הרמתי יָדִי אֶל יהוה אֶל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-09 16:23:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>הכנענים היו בארץ ואברהם אבינו קנה מאיתם בכסף את מערת המכפלה ואת כל השדה סביב</p><p>על כן הארץ לאברהם אבינו</p><p>רק יש לזכור כי אל עליון קנה שמים וארץ על כן הארץ לאל עליון ולהולכים בדרכיו</p><p>ויקרא כה23: &quot;וְהָאָרֶץ לֹא תִמָּכֵר לִצְמִתֻת כִּי לִי הָאָרֶץ כִּי גֵרִים וְתוֹשָׁבִים אַתֶּם עִמָּדִי&quot;</p><p> גֵרִים וְתוֹשָׁבִים הם הגרים באופן זמני בלבד לכן הארץ לא לגרים בה אלא למי שקנה אותה אֶל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ</p><p>בראשית יד19: &quot;וַיְבָרְכֵהוּ וַיֹּאמַר בָּרוּךְ אַבְרָם לְאֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ&quot;  </p><p>בראשית יד22: &quot;וַיֹּאמֶר אַבְרָם אֵל מֶלֶךְ סְדֹם הרמתי יָדִי אֶל יהוה אֶל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-09 16:23:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-09 16:24:00' 
+			WHERE messageid=5052;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>בראשית מז20: &quot;וַיִּקֶן יוֹסֵף אֶת כָּל אַדְמַת מִצְרַיִם לְפַרְעֹה כִּי מָכְרוּ מִצְרַיִם אִישׁ שָׂדֵהוּ כִּי חָזַק עֲלֵהֶם הָרָעָב וַתְּהִי הָאָרֶץ לְפַרְעֹה&quot;</p><p>הארץ למי שקנה אותה</p><p>הכנענים היו בארץ ואברהם אבינו קנה מאיתם בכסף את מערת המכפלה ואת כל השדה סביב</p><p>על כן הארץ לאברהם אבינו</p><p>רק יש לזכור כי אל עליון קנה שמים וארץ על כן הארץ לאל עליון ולהולכים בדרכיו</p><p>ויקרא כה23: &quot;וְהָאָרֶץ לֹא תִמָּכֵר לִצְמִתֻת כִּי לִי הָאָרֶץ כִּי גֵרִים וְתוֹשָׁבִים אַתֶּם עִמָּדִי&quot;</p><p>גֵרִים וְתוֹשָׁבִים הם הגרים באופן זמני בלבד לכן הארץ לא לגרים בה אלא למי שקנה אותה אֶל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-09 16:44:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-09 16:44:50' 
+			WHERE messageid=5053;
+
