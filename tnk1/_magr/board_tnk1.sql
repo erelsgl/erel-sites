@@ -8372,3 +8372,128 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 10:04:46'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 10:16:26'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 11:10:08'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 11:12:13'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 13:24:43'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-10 15:48:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0210_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_656.html',
+				NULL,
+				'2015-02-10 22:09:20',
+				'2015-02-10 22:09:20',
+				'פרשת משפטים- מיהו המלאך המוזכר בפרשתנו?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-02-10 22:09:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1israel.html',
+				'tnk1/nvia/yjayhu/yj-61-10.html',
+				NULL,
+				'2015-02-11 05:58:13',
+				'2015-02-11 05:58:13',
+				'כחתן יכהן פאר וככלה תעדה כליה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-02-11 05:58:13'
+			WHERE ktovt_bn='tnk1/msr/1israel.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_657.html',
+				NULL,
+				'2015-02-11 06:39:34',
+				'2015-02-11 06:39:34',
+				'מלאך שליח אלוקים/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-02-11 06:39:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-11 07:59:00'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-61-10.html'
+		;
+

@@ -7186,3 +7186,108 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-02-09 16:44:50' 
 			WHERE messageid=5053;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>01.04.13  http://www.calcalist.co.il/real_estate/articles/0,7340,L-3598910,00.html</p><p>ברמת הגולן, הקרקע בחינם (לפחות כך היה לפני שנתיים).</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-10 10:04:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>04.02.2015   http://www.israelhayom.co.il/article/256013</p><p>גם אלי ישי ומפלגת &quot;יחד&quot; מציעים קרקעות לבניה בחינם. </p><p>בסה&quot;כ, שלוש מפלגות כבר הכירו בחשיבות של חלוקת קרקעות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-10 10:16:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>2009   http://www.drorisrael.org.il/%D7%9E%D7%98%D7%94-%D7%94%D7%9E%D7%90%D7%91%D7%A7-%D7%91%D7%94%D7%A4%D7%A8%D7%98%D7%AA-%D7%94%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA/</p><p>קצת ישן אבל עדיין רלבנטי: הפגנה של תנועת &quot;דרור ישראל&quot; ו&quot;הנוער העובד והלומד&quot; נגד תוכניתו של נתניהו להפרטת קרקעות. אחת הסיסמאות המרכזיות: &quot;והארץ לא תימכר לצמיתות&quot; (ויקרא כה).</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-10 11:10:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>2009 http://www.drorisrael.org.il/%D7%9E%D7%98%D7%94-%D7%94%D7%9E%D7%90%D7%91%D7%A7-%D7%91%D7%94%D7%A4%D7%A8%D7%98%D7%AA-%D7%94%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA/</p><p>קצת ישן אבל עדיין רלבנטי: הפגנה של תנועות מכל גווני הקשת הפוליטית, ביניהן &quot;דרור ישראל&quot; ו&quot;הנוער העובד והלומד&quot;, נגד תוכניתו של נתניהו להפרטת קרקעות. אחת הסיסמאות המרכזיות: &quot;והארץ לא תימכר לצמיתות&quot; (ויקרא כה).</p><p>http://www.inn.co.il/News/News.aspx/192044</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-10 11:12:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-10 11:21:05' 
+			WHERE messageid=5057;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-10 11:21:12' 
+			WHERE messageid=5055;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-10 13:24:33' 
+			WHERE messageid=5044;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_95.html',
+		'<p>כבוד הרב (...) שבוע טוב ומבורך,</p><p>ישראל נמצאת בתקופת הבחירות וכידוע לך ולכל ישראלי כי בתקופה הזאת, מרחב התימרון של הפוליטיקאים בשיאו; הכל מותר... מותר להבטיח ולא לקיים, מותר לסלף לשקר להתרפס... ומותר להתחמק מהשאלה הקונקרטית: האם לאחר הבחירות תשב עם היריב שלך בקואליציה או לא. ההתחמקות מהשאלה הזאת היא סוג של אומנות שכל הפוליטיקאים בקיאים בה. אתמול במוצ&quot;ש יצא לי לראות בערוץ הישראלי מרטון ראיונות עם מספר פוליטיקאים והיה משעשע לראות איך כל אחד והדרך שלו להתחמק מהשאלה הזאת, זו בעינה הגדרת הפוליטיקה: אומנות הדילוג על השאלות הלא נוחות. אתמול גם נזכרתי ברעיון המנוגד בתכלית הניגוד להגדרת ההתחמקות, הוא הרעיון שנתתי לו ביטוי בהתחלת מכתבי לרב עובדיה: &quot;הבהירות והכנות הם סימני ההיכר של דתנו, אין בדתנו גימגום גם לו ברמז. זהו סימן ההיכר, לדעתי העניה, הגדול ביותר בדת היהודית&quot;.</p><p>אחת השאלות שכל אדם היה מעדיף לחמוק ממנה ולא להקלע אליה היא: האם אני רואה משגה? טעות? רפיון? מה עוד אם אני רואה רפיון כזה אצל אבי, דודי, מורי... או אז הספק אוכל אותי. אין מי שלא נתקל בסיטואציה הזו ואין מי שלא עמד באחד מאופניה. השאלה היא: איך ניתן להתמודד עם ספק כזה? האם להדחיק אותו? האם זו התשובה?</p><p>תורתנו הקדושה נתנה בידינו את הכלי בשביל להתמודד עם הספק. לא יתכן, הרב (...), כי תורתינו תתכחש לקיום סיטואציה כזו. תורתינו לקחה אותנו ביד ביוזמתה אל הסיטואציה המקסימלית עימה ניתן להתקל: היא לקחה אותנו אל הסמכות הגבוהה ביותר שאיש יהודי יכול להתקל בה; היא לקחה אותנו אל נביא, אל נביא אמת והקדימה ודרשה מאיתנו לשמוע בקולו, ובהמשך שאלה את השאלה האנושית שלנו: כיצד ניתן לעמוד על משגה או רפיון ואפילו של נביא אמת. כיצד ניתן להתמודד עם הספק שמקרצף אותנו מבפנים, כי הרי אין בידינו את הכלי להתמודד עימו, מי אני שאפקפק במעשה אבי, אימי, או מורי, או מורי הרוחנו, או הנביא שלי! אבל ומצד שני אני רואה לנגד עיני משהו לא כשורה, משהו שחושף אותי לספק הגדול ביותר: היתכן כי אבי גנב? או כי אימי זנתה? או כי מורי שיקר! כיצד אצא מהספק הזה? כיצד אתמודד עימו.</p><p>התורה עונה בפשטות: ספק יכול להתקיים לתקופה מוגבלת, כמו הספק אם אבי גנב או לא, יתכן וגנב אך חזר בתשובה, יתכן ואימי מעדה אך חזרה בה מהר ועניינה איפוא בינה לבין בוראה- לא עימי. אולם אם הספק לא יתבאר וימשיך להתקיים במשנה תוקף, דהיינו אם מרחב הספק יגדל ויתעצם ויתבסס- או אז, התורה קובעת, הספק הזה קיים וחשדותיך אמיתיות הם. אני מציע לך הרב (...), כיהודי אל יהודי, לעמוד על דברי התורה הברורים בנושא. אני מציע לך לחזור אל התגובה שמתחילה ב-&quot;שלום יוסי&quot; ולקרוא אותה בזהירות - לא במהירות. התורה ברורה, ומעל לכל נהירה, למי שעומד עליה בזהירות.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2015-02-10 13:24:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>יהושע כד14: &quot;וְעַתָּה יְראוּ אֶת יהוה וְעִבְדוּ אֹתוֹ בְּתָמִים וּבֶאֱמֶת</p><p>תהלים ב11:  &quot;עִבְדוּ אֶת יהוה בְּיִרְאָה וְגִילוּ בִּרְעָדָה&quot;</p><p>תהלים ק2:   &quot;עִבְדוּ אֶת יהוה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה&quot;</p><p>----------------</p><p>עִבְדוּ אֶת יהוה בְּתָמִים וּבֶאֱמֶת בְּיִרְאָה בְּשִׂמְחָה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-10 15:48:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-61-10.html',
+		'<p>זה איש האלהים </p><p>ישעיהו נט17: &quot;וַיִּלְבַּשׁ צְדָקָה כַּשִּׁרְיָן וְכוֹבַע יְשׁוּעָה בְּרֹאשׁוֹ וַיִּלְבַּשׁ בִּגְדֵי נָקָם תִּלְבֹּשֶׁת וַיַּעַט כַּמְעִיל קִנְאָה&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-11 07:59:00'
+		)
+		;
+
