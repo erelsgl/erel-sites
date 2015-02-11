@@ -2,6 +2,7 @@
 # Test the Internet connection
 
 $URL = "http://www.google.com";
+$TIMES=20;
 
 use LWP::Simple;
 my $browser = LWP::UserAgent->new();
@@ -13,7 +14,7 @@ my @ns_headers = (
 	'Accept-Language' => 'en-US',
 );
 
-for ($i=0; $i<10; ++$i) {
+for ($i=0; $i<$TIMES; ++$i) {
 	my $response=$browser->get($URL);
 	if ($response->content =~ /Google/) {
 		print "Google loaded\n";
