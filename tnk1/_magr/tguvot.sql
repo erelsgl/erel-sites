@@ -7291,3 +7291,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1056_1.html',
+		'<p>יש קשר בין ישן (שינה) וישן (מלשון יושן)</p><p>בלילה את ישן ובבקר אתה קם חדש</p><p>איכה ג23: &quot;חֲדָשִׁים לַבְּקָרִים רַבָּה אֱמוּנָתֶךָ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-11 10:17:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-17.html',
+		'<p>פירשת שהאח הוא הרע,</p><p>אבל אולי זו הנגדה.</p><p>הרע - נמצא כל הזמן, </p><p>ואילו האח - מופיע רק בעת צרה.</p><p>מי עדיף?</p><p>אולי הרע, שנמצא בכל עת?</p><p>או אולי האח, שנמצא שם גם בצרה כשהרע נעלם לו?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk-0zJdAh4dUpeJGP5DIE2FIXwO6Cvz1No',
+		'Gavri Levis',
+		'2015-02-12 07:56:19'
+		)
+		;
+
