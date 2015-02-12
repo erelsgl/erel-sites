@@ -98,3 +98,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2015-01-10 20:47:59' WHERE `bn` = 'ביאור:משלי לא24' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 24 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:שמות ג5', `tarik_hosfa` = '2015-02-12 02:18:57' WHERE `bn` = 'ביאור:יהושע ה13' AND `sfr` = 'יהש' AND `prq0` = 'ה' AND `psuq0` = 15 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות ג5' AND `sfr` = 'יהש' AND `prq0` = 'ה' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הסר את נעליך, המסמלות שליטה אנושית, כי יציאת מצרים תהיה בהנהגה אלהית בלבד', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2015-02-12 02:20:19' WHERE `bn` = 'ביאור:שמות ג5' AND `sfr` = 'שמת' AND `prq0` = 'ג' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
