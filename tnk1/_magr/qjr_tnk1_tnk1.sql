@@ -58,3 +58,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('השקעות בספר משלי', 'ביאור:משלי ל8', 'מטרת ההשקעה - להתפרנס ולא להתעשר', '', 60, 60, '2015-02-06 06:32:38');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('הקבלות', 'פסוקים מקבילים לפסוקי משלי', '', '', 60, 60, '2015-02-12 17:03:53');
+

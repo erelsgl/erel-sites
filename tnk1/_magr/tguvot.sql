@@ -7315,3 +7315,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-12 15:01:58' 
+			WHERE messageid=5000;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>11.02.15 http://www.calcalist.co.il/local/articles/0,7340,L-3652176,00.html   </p><p>כחלון: &quot;נפרק את מקרקעי ישראל ונעביר קרקעות לרשויות מקומיות וליזמים&quot;.</p><p>אבל למה לא לחלק לאזרחים?! &quot;לאלה תחלק הארץ בנחלה&quot; - לאזרחים, &quot;כל יוצא צבא בישראל&quot;, לא לרשויות המקומיות ולא ליזמים!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-12 17:17:32'
+		)
+		;
+

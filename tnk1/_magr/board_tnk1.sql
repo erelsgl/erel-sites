@@ -8513,3 +8513,49 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-17-17.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-12 17:17:32'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0222.htm',
+				'tnk1/messages/prqim_t0222_4.html',
+				NULL,
+				'2015-02-12 20:36:25',
+				'2015-02-12 20:36:25',
+				'משהו לפרשת \"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/prqim_t0222_4.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0222.htm',
+				'tnk1/messages/prqim_t0222_5.html',
+				NULL,
+				'2015-02-12 20:37:32',
+				'2015-02-12 20:37:32',
+				'משהו לפרשת \"משפטים\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
