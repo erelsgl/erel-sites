@@ -7315,3 +7315,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-12 15:01:58' 
+			WHERE messageid=5000;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>11.02.15 http://www.calcalist.co.il/local/articles/0,7340,L-3652176,00.html   </p><p>כחלון: &quot;נפרק את מקרקעי ישראל ונעביר קרקעות לרשויות מקומיות וליזמים&quot;.</p><p>אבל למה לא לחלק לאזרחים?! &quot;לאלה תחלק הארץ בנחלה&quot; - לאזרחים, &quot;כל יוצא צבא בישראל&quot;, לא לרשויות המקומיות ולא ליזמים!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-12 17:17:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>צוואות השבטים</p><p>מעובד על פי תרגום ישראל אוסטירזיצר</p><p>מתוך: ויקיטקסט </p><p>צוואת לוי הבן השלישי ליעקב וללאה </p><p>פרק יד כתוב:</p><p>א) ועתה אחי ידעתי מספר חנוך כי בקץ העתים תפשעו ביהוה ותישאו ידיכם לכל פשע ואחי יבושו בכם ותהיו ללעג לכל הגויים. </p><p>ב) כי אבינו יעקב חף מפשע הכוהנים הגדולים. </p><p>ג) בני, טהורים תהיו כשמים על הארץ ואתם אשר אור לישראל הנכם כשמש וכירח תהיו. </p><p>ד) כי מה יעשו כל הגויים אם בחושך ילכו בפשעכם ותבואנה קללות על שבטכם והאור הניתן בתורה להאיר לכם ולכל איש אותו תחפצו לכבות ותורו את המצוות נגד חוקי אלוהים. </p><p>ה) את קורבנות יהוה תגזלו ומחלקיו תגנבו כל מבחר ובשאט נפש עם הזונות תאכלו. </p><p>ו) ובבצע כסף את מצות יהוה תורו ------------------------------ [בִּמְחִיר יוֹרוּ ]</p><p>בספר מיכה פרק ג (יא) רָאשֶׁיהָ בְּשֹׁחַד יִשְׁפֹּטוּ וְכֹהֲנֶיהָ [הרבנים] בִּמְחִיר יוֹרוּ וּנְבִיאֶיהָ[המקובלים המכשפים] בְּכֶסֶף יִקְסֹמוּ </p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-13 08:33:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-30-28.html',
+		'<p>חבל שלא נרשם כאן פירוש האמיתי של רש&quot;י</p><p>שממית בידים תתפש - זה עשו שנא\' והידים ידי עשו (בראשית כז). בהיכלי מלך - שנכנס להיכל מלך והחריבו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmTOiGFgTenGdRSvb-kxiXxIVcRrvLDvx0',
+		'Netsiv Maman',
+		'2015-02-13 10:08:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-30-28.html',
+		'<p>משלי ל28: &quot;שְׂמָמִית בְּיָדַיִם תְּתַפֵּשׂ וְהִיא בְּהֵיכְלֵי מֶלֶךְ&quot;</p><p>&quot;שְׂמָמִית בְּיָדַיִם תְּתַפֵּשׂ [על אף]  וְהִיא בְּהֵיכְלֵי מֶלֶךְ&quot;</p><p>כי בְּהֵיכְלֵי מֶלֶךְ שומעים בקול המלך לבדו ואין ידיים עצמאיות לעשות כרצון בעליהם אלא כרצון המלך לבדו</p><p>לכן מעשה השממית המתפשת מאת רצון המלך וזה הדבר הנפלא על כן זה נכתב בספר</p><p>וגם בהיכל המלך אין לסריסים יד</p><p>לכן האלהים מבטיח כי אם הסריסים ישמעו בקולו אז יתן להם *יד ושם*</p><p>ספר ישעיהו פרק נו כתוב:</p><p>ד כִּי כֹה אָמַר יְהוָה לַסָּרִיסִים אֲשֶׁר יִשְׁמְרוּ אֶת שַׁבְּתוֹתַי וּבָחֲרוּ בַּאֲשֶׁר חָפָצְתִּי וּמַחֲזִיקִים בִּבְרִיתִי. </p><p>ה וְנָתַתִּי לָהֶם בְּבֵיתִי וּבְחוֹמֹתַי *** יָד וָשֵׁם *** טוֹב מִבָּנִים וּמִבָּנוֹת שֵׁם עוֹלָם אֶתֶּן לוֹ אֲשֶׁר לֹא יִכָּרֵת</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-13 12:51:15'
+		)
+		;
+
