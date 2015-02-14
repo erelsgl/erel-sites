@@ -8559,3 +8559,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-13 08:33:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-13 10:08:03'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-30-28.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2819.htm',
+				'tnk1/messages/prqim_t2819_3.html',
+				NULL,
+				'2015-02-13 12:44:56',
+				'2015-02-13 12:44:56',
+				'מרדף אמרים - לו המה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-13 12:51:15'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-30-28.html'
+		;
+
