@@ -7370,3 +7370,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p>נורא ואיום!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnHcq3ZqFOUQXOCDEzFMsfIlWd5Maof7KQ',
+		'ליליה אושומירסקי',
+		'2015-02-14 11:59:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-14 11:59:16' 
+			WHERE messageid=5068;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p> </p><p>בני ישראל נקראים צאן כצאנו של אלהי ישראל</p><p>יחזקאל לד15: &quot;אֲנִי אֶרְעֶה צֹאנִי וַאֲנִי אַרְבִּיצֵם נְאֻם אֲדֹנָי יהוה\'&quot;</p><p>יחזקאל לד22: &quot;וְהוֹשַׁעְתִּי לְצֹאנִי וְלֹא תִהְיֶינָה עוֹד לָבַז וְשָׁפַטְתִּי בֵּין שֶׂה לָשֶׂה&quot;</p><p>יחזקאל לד31: &quot;וְאַתֵּן צֹאנִי צֹאן מַרְעִיתִי אָדָם אַתֶּם אֲנִי אֱלֹהֵיכֶם נְאֻם אֲדֹנָי יהוה\'&quot;</p><p>על כן ניתן לדעת שמותר לקחת מספר נשים כיחס מספר הצאן על פי ספר בראשית פרק לב ככתוב:</p><p>(יד) וַיָּלֶן שָׁם בַּלַּיְלָה הַהוּא וַיִּקַּח מִן הַבָּא בְיָדוֹ מִנְחָה לְעֵשָׂו אָחִיו.</p><p>(טו) עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים.</p><p>(טז) גְּמַלִּים מֵינִיקוֹת וּבְנֵיהֶם שְׁלֹשִׁים פָּרוֹת אַרְבָּעִים וּפָרִים עֲשָׂרָה אֲתֹנֹת עֶשְׂרִים וַעְיָרִם עֲשָׂרָה.</p><p>פרוש לבאר:</p><p>צאן = כבשים ועזים</p><p>רְחֵלִים וְאֵילִים = יחס 1:10 זכר</p><p>עִזִּים וּתְיָשִׁים = היחס 1:10 זכר</p><p>היחס בין זכרי הצאן הוא 1 ל- 10 נקבות</p><p>וזה מספר הנשים שמותר למלך ישראל אשר נאמר לו על פי התורה רק לא ירבה לו נשים [וזאת מלבד פילגשים]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-14 16:24:56'
+		)
+		;
+

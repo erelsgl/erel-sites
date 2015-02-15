@@ -8599,3 +8599,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-30-28.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-14 11:59:08'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-14 16:24:56'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+

@@ -892,3 +892,41 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/mjly/mj-30-28.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuelb/njy_dwd.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-02-14 11:59:08'
+		WHERE parent='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-02-14 11:59:16'
+			WHERE parent='tnk1/nvir/jmuelb/njy_dwd.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuelb/njy_dwd.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-02-14 16:24:56'
+		WHERE parent='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+
