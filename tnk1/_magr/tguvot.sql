@@ -7401,3 +7401,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דַיָּן נשפט באש כדבר אלהים</p><p>וְשָׁפַכְתִּי עָלַיִךְ זַעְמִי בְּאֵשׁ עֶבְרָתִי אָפִיחַ עָלָיִךְ</p><p>וּנְתַתִּיךְ בְּיַד אֲנָשִׁים בֹּעֲרִים חָרָשֵׁי מַשְׁחִית</p><p>לַשַּׁחַת קָרָאתִי אָבִי אָתָּה אִמִּי וַאֲחֹתִי לָרִמָּה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-15 10:33:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p> </p><p>דַיָּן מבקש סליחת אלהים </p><p>תהלים כה7: &quot;חַטֹּאות נְעוּרַי וּפְשָׁעַי אַל תִּזְכֹּר כְּחַסְדְּךָ זְכָר לִי אַתָּה לְמַעַן טוּבְךָ יהוה</p><p>דַיָּן נשפט באש כדבר אלהים</p><p>וְשָׁפַכְתִּי עָלַיִךְ זַעְמִי בְּאֵשׁ עֶבְרָתִי אָפִיחַ עָלָיִךְ</p><p>וּנְתַתִּיךְ בְּיַד אֲנָשִׁים בֹּעֲרִים חָרָשֵׁי מַשְׁחִית</p><p>לַשַּׁחַת קָרָאתִי אָבִי אָתָּה אִמִּי וַאֲחֹתִי לָרִמָּה</p><p>ואשאל את אלהים על מה כל הרעה מדוע נתת לי לַחֲטֹא לך</p><p>ויאמר למען תדע את משפט אלהים</p><p>ישעיהו סו16: &quot;כִּי בָאֵשׁ יהוה נִשְׁפָּט וּבְחַרְבּוֹ אֶת כָּל בָּשָׂר וְרַבּוּ חַלְלֵי יהוה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-15 10:57:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-15 10:57:57' 
+			WHERE messageid=5070;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-15 11:11:58' 
+			WHERE messageid=5071;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>   זְכֹר רַחֲמֶיךָ יהוה וַחֲסָדֶיךָ כִּי מֵעוֹלָם הֵמָּה</p><p>   חַטֹּאות נְעוּרַי וּפְשָׁעַי אַל תִּזְכֹּר כְּחַסְדְּךָ זְכָר לִי אַתָּה לְמַעַן טוּבְךָ יהוה</p><p>דַיָּן נשפט באש כדבר אלהים</p><p>וְשָׁפַכְתִּי עָלַיִךְ זַעְמִי בְּאֵשׁ עֶבְרָתִי אָפִיחַ עָלָיִךְ</p><p>וּנְתַתִּיךְ בְּיַד אֲנָשִׁים בֹּעֲרִים חָרָשֵׁי מַשְׁחִית</p><p>לַשַּׁחַת קָרָאתִי אָבִי אָתָּה אִמִּי וַאֲחֹתִי לָרִמָּה</p><p>ואשאל את אלהים על מה כל הרעה מדוע נתת לי לַחֲטֹא לך</p><p>ויאמר למען תדע את משפט אלהים</p><p>ישעיהו סו16: &quot;כִּי בָאֵשׁ יהוה נִשְׁפָּט וּבְחַרְבּוֹ אֶת כָּל בָּשָׂר וְרַבּוּ חַלְלֵי יהוה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-15 11:16:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>שמות יט22: &quot;וְגַם הַכֹּהֲנִים הַנִּגָּשִׁים אֶל יהוה יִתְקַדָּשׁוּ פֶּן יִפְרֹץ בָּהֶם יהוה\'&quot;</p><p>דברים כ2: &quot;וְהָיָה כְּקָרָבְכֶם אֶל הַמִּלְחָמָה וְנִגַּשׁ הַכֹּהֵן וְדִבֶּר אֶל הָעָם&quot; [אתם קרבים למלחמה]</p><p>ירמיהו ל21: &quot;וְהָיָה אַדִּירוֹ מִמֶּנּוּ וּמֹשְׁלוֹ מִקִּרְבּוֹ יֵצֵא וְהִקְרַבְתִּיו וְנִגַּשׁ אֵלָי כִּי מִי הוּא זֶה עָרַב אֶת לִבּוֹ לָגֶשֶׁת אֵלַי נְאֻם יהוה\'&quot;</p><p>כי המלך הוא הכהן הגדול אשר ערב את לבו לָגֶשֶׁת אל יהוה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-16 06:21:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://www.youtube.com/watch?v=_j-Tji1DueU</p><p>ישעיהו כב22: &quot;וְנָתַתִּי מַפְתֵּחַ בֵּית דָּוִד עַל שִׁכְמוֹ וּפָתַח וְאֵין סֹגֵר וְסָגַר וְאֵין פֹּתֵחַ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-16 07:03:56'
+		)
+		;
+

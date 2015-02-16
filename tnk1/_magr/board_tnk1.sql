@@ -8615,3 +8615,81 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuelb/njy_dwd.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/jmuelb.html',
+				'tnk1/sofrim/brurya/jmuelb-sikum.html',
+				NULL,
+				'2015-02-15 08:14:30',
+				'2015-02-15 08:14:30',
+				'שמואל ב - עבודות ושעשועים לסיכון',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/jmuelb.html',
+				'tnk1/sofrim/brurya/jmuelb-games.html',
+				NULL,
+				'2015-02-15 08:15:32',
+				'2015-02-15 08:15:32',
+				'שמואל ב - עבודות ושעשועים לסיכום',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/sofrim/brurya/jmuelb-sikum.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-15 10:33:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-15 10:57:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-15 11:16:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-16 06:21:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-16 07:03:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
