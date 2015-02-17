@@ -26,8 +26,10 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר איוב%'
 		
 		--	OR chapter_id LIKE 'ספר ויקרא%'
-			OR chapter_id LIKE 'ספר במדבר%'
-			OR chapter_id LIKE 'ספר בראשית%'
+		--	OR chapter_id LIKE 'ספר במדבר%'
+		--	OR chapter_id LIKE 'ספר בראשית%'
+			OR chapter_id LIKE 'ספר שמות%'
+			OR chapter_id LIKE 'ספר דברים%'
 		
 		GROUP BY chapter_id
 		");
@@ -49,20 +51,22 @@ while ($chapter_row = sql_fetch_assoc($chapter_rows)) {
 file_put_contents($FILENAME_OUTPUT, $text);
 
 
-
+function book_name($chapter_name) {
+	if (
+	preg_match("/בראשית/u",$chapter_name)||
+	preg_match("/שמות/u",$chapter_name)||
+	preg_match("/ויקרא/u",$chapter_name)||
+	preg_match("/במדבר/u",$chapter_name)||
+	preg_match("/דברים/u",$chapter_name)||
+	0
+	)
+		return "תורה על פי המסורה";
+	else
+		return "נביאים וכתובים על פי המסורה";
+}
 
 function chapter_normal($chapter_id,$chapter_name) {
-	if (
-		preg_match("/בראשית/u",$chapter_name)||
-		preg_match("/שמות/u",$chapter_name)||
-		preg_match("/ויקרא/u",$chapter_name)||
-		preg_match("/במדבר/u",$chapter_name)||
-		preg_match("/דברים/u",$chapter_name)||
-		0
-		)
-		$text = "##### משתמש:Dovi/תורה על פי המסורה/$chapter_id\n";
-	else
-		$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id\n";
+	$text = "##### משתמש:Dovi/".book_name($chapter_name)."/$chapter_id\n";
 	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
 	$rows = sql_query_or_die("
 			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text
@@ -98,7 +102,7 @@ function chapter_normal($chapter_id,$chapter_name) {
 
 function chapter_stylized($chapter_id,$chapter_name) {
 	global $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
-	$text = "##### משתמש:Dovi/נביאים וכתובים על פי המסורה/$chapter_id/צורת-השיר\n";
+	$text = "##### משתמש:Dovi/".book_name($chapter_name)."/$chapter_id/צורת-השיר\n";
 	$rows = sql_query_or_die("
 		SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text, stylized_text
 		FROM psuqim_dovi

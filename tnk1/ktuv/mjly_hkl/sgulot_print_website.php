@@ -30,7 +30,7 @@ $GLOBALS['DEBUG_QUERY_TIMES'] = isset($_GET['debug_times']);
 $return_html = coalesce($_GET['return_html'],null);  // if true, show the HTML of the first verse, and exit.
 
 if ($return_html) {
-	$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
+	$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot');
 }
 
 if (!$return_html) {
