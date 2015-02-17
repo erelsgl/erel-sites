@@ -7475,3 +7475,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>אדם הראשון היה צדיק בצלם אלהים ובדמותו</p><p>ואלהים הבטיח לאדם הצדיק גם אם תעשה רעה אהפוך זאת לטובה</p><p>וכי אדם בהיותו בגן עדן לא ידע טוב ורע לכן חטא הדעת לשגגה יחשב </p><p>ואם בשגגה בלא דעת אז בר-כפרה </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-16 08:30:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>ספר דברי הימים ב פרק יג פסוק 12כתוב: </p><p>&quot;וְהִנֵּה עִמָּנוּ בָרֹאשׁ הָאֱלֹהִים וְכֹהֲנָיו וַחֲצֹצְרוֹת הַתְּרוּעָה לְהָרִיעַ עֲלֵיכֶם בְּנֵי יִשְׂרָאֵל אַל תִּלָּחֲמוּ עִם יהוה אֱלֹהֵי אֲבֹתֵיכֶם כִּי לֹא תַצְלִיחוּ&quot;</p><p>וְהִנֵּה עִמָּנוּ בָרֹאשׁ הָאֱלֹהִים וְכֹהֲנָיו וַחֲצֹצְרוֹת הַתְּרוּעָה לְהָרִיעַ = כי תרועה בשמחה לצאת למלחמה למען יהוה צבאות</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-16 08:36:13'
+		)
+		;
+
