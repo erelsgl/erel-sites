@@ -7499,3 +7499,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_95.html',
+		'<p>Leon Milston:  </p><p>רבים הרשעים העושים קרדום ומנצלים ומפלים לרעה את המונח המקודש: אמונת חכמים, ולשמוע לכל אשר יורוך. בהקשר זה הם דומים לכנסיה הדורשת לחוטאים להתוודות את חטאיהם ומסיקים את המידע הדרוש והאמון הנדרש ע&quot;מ לנצל ולנשל את המאמין הנלעג. בדורנו היתום נותרה בררת המחדל היחידה: בטח בה\' ועשה טוב! ואין לנו על מי להשען אלא על אבינו שבשמים!</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY',
+		'אלברט שבות',
+		'2015-02-17 21:28:48'
+		)
+		;
+
