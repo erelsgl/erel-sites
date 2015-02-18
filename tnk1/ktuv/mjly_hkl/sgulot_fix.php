@@ -11,7 +11,7 @@
 error_reporting(E_ALL);
 
 /**
- * @file sgulot_fix.php - fix links (- convert to absolute) in the "sgulot" table.
+ * @file sgulot_fix.php - fix links (- convert to new) in the "sgulot" table.
  * @author Erel Segal אראל סגל
  * קידוד אחיד
  * @date 2012-10
@@ -43,7 +43,7 @@ sql_set_charset('utf8');
 set_time_limit(0);
 
 if (!isset($_GET['chapter']))
-	user_error("SYNTAX: copy_sgulot.php?chapter=...[&limit=...]", E_USER_ERROR);
+	user_error("SYNTAX: sgulot_fix.php?chapter=...[&limit=...]", E_USER_ERROR);
 $chapter = (int)$_GET['chapter'];
 
 $offset = coalesce($_GET["offset"],0);
@@ -64,6 +64,8 @@ $rows = sql_query_or_die("
 	LIMIT $offset,$limit
 	");
 
+$mjly_ktovot = sql_evaluate_array_key_value("SELECT old,new FROM mjly_ktovot");
+
 global $BIG_FIELDS;
 while ($row=sql_fetch_assoc($rows)) {
 	print "<h2>$row[book] $row[chapter_number] $row[verse_number]</h2>\n";
@@ -72,11 +74,16 @@ while ($row=sql_fetch_assoc($rows)) {
 
 	foreach (array_keys($BIG_FIELDS) as $field) {
 		print "<h3>$field</h3>\n";
-		print "<p>BEFORE: ".strlen($row[$field]);
-		//print $row[$field];
-		$row[$field] = fix_links($row[$field], $path_from_root_to_document, "fix_link_absolute");
-		print "<p>AFTER: ".strlen($row[$field]);
-		//print $row[$field];
+		$strlen_before = strlen($row[$field]);
+		print "<p>BEFORE: $strlen_before";
+		//$row[$field] = fix_links($row[$field], $path_from_root_to_document, "fix_link_absolute");
+		$row[$field] = fix_links_mjly($row[$field]);
+		$row[$field] = str_replace("http://localhost/","/",$row[$field]);
+		$row[$field] = str_replace("http://tora.us.fm/","/",$row[$field]);
+		$strlen_after =  strlen($row[$field]);
+		print "<p>AFTER: $strlen_after";
+		if ($strlen_after<$strlen_before*0.8 && $strlen_after<$strlen_before-100)
+			user_error("too short - stopping", E_USER_ERROR);
 	}
 
 	sql_query_or_die("
@@ -84,12 +91,20 @@ while ($row=sql_fetch_assoc($rows)) {
 			full=".quote_all($row['full']).",
 			dquyot=".quote_all($row['dquyot']).",
 			hqblot=".quote_all($row['hqblot']).",
-			sgulot=".quote_all($row['sgulot']).",
-			tosfot=".quote_all($row['tosfot'])."
+			ecot=".quote_all($row['ecot'])."
 		WHERE book=".quote_all($row['book'])."
 		AND chapter_number=".(int)($row['chapter_number'])."
 		AND verse_number=".(int)($row['verse_number'])."
 		");
+}
+
+
+function fix_links_mjly($string) {
+	global $mjly_ktovot;
+	foreach ($mjly_ktovot as $old=>$new) {
+		$string = str_replace($old, $new, $string);
+	}
+	return $string;
 }
 
 ?>
