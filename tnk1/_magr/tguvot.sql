@@ -7511,3 +7511,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/onj_mwt/jut.html',
+		'<p>מדוע המדינה לא גוזרת עונשים לרוצחים המקורבים לאנשיי ממשלה או אליטה האם הם מעל החוק</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnBreHGKwFg154it-2Oyr393WfD-IrGArg',
+		'יריב יריב איתן יריב בבלי',
+		'2015-02-18 23:49:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-28-11.html',
+		'<p>ודל מבין יחקרנו, בפשטות לא הכוונה שבגלל שהוא דל/עני הוא יחקור טוב יותר מהעשיר מסיבה כלשהי, אלא הפסוק בא להדגיש כי עושר אינה ערובה לחכמה ומי שהוא מבין, אפילו אם הוא דל, עלול הוא לחקור טוב יותר מהעשיר</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnvpw98s1nnfPjdlAzHqldIdlDQYG-VvAM',
+		'חננאל שלוש',
+		'2015-02-19 01:18:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/ojr_msima.html',
+		'<p>משלון הפסוק יען אשר שאלת את הדבר הה ולא שאלת ימים רבים וכו\' נראה בפשטות שקיבל את הכבוד והעושר בגלל שלא שאל שאר דברים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnvpw98s1nnfPjdlAzHqldIdlDQYG-VvAM',
+		'חננאל שלוש',
+		'2015-02-19 01:25:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-19 01:25:16' 
+			WHERE messageid=5080;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/ojr_msima.html',
+		'<p>מלשון הפסוק יען אשר שאלת את הדבר הה ולא שאלת ימים רבים וכו\' נראה בפשטות שקיבל את הכבוד והעושר בגלל שלא שאל שאר דברים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnvpw98s1nnfPjdlAzHqldIdlDQYG-VvAM',
+		'חננאל שלוש',
+		'2015-02-19 01:25:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/beir.html',
+		'<p>תודה על הלימוד</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmS58SRTYE22WgaK4sbxfPE8j8F_GX4GuY',
+		'Mike Leiter',
+		'2015-02-19 03:12:08'
+		)
+		;
+

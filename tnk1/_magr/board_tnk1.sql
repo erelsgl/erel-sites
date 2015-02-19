@@ -8763,3 +8763,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_95.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-18 23:49:42'
+		WHERE ktovt_bn='tokxot/onj_mwt/jut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-19 01:18:43'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-28-11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-19 01:25:05'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/ojr_msima.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-19 01:25:29'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/ojr_msima.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-02-19 03:12:08'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/beir.html'
+		;
+
