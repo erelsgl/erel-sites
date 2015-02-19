@@ -590,6 +590,7 @@ sgulot	kotrt	InputType	short_text
 sgulot	main_qod	InputType	short_text
 sgulot	main_qod_subjects	InputType	long_text
 sgulot	mcudot	InputType	rich_text
+sgulot	mqorot	InputType	rich_text
 sgulot	pages	Default	1
 sgulot	pages	InputType	hidden
 sgulot	prefix	Attributes	size='10'
