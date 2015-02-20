@@ -7578,3 +7578,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-28-11.html',
+		'<p>לדעתי יחקרנו = יחקור אותו, ולא: יחקור טוב יותר ממנו.</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-02-19 10:13:05'
+		)
+		;
+
