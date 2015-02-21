@@ -7590,3 +7590,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-01-05.html',
+		'<p>מנה אחת אפיים - סביר להניח שפרוש אפיים -שניים כי מזכרת המילה אחת -לשון מניה - ספירה  ומכאן  המילה אפיים משורש אף - גם ונגזרת מהמושג עוד ומכאן שכל הביטוי מכוון לריבוי המנה לכיוון פי שניים כך שארטית ניתן להניח שחנה קיבלה מנה גדולה מזו של פנינה כדי לרצותה ולהביע את חשיבותה בעיניו של אלקנה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl7r2VoLJVi1d5v72YVdh90XuUCq5gwMuk',
+		'Yosi Ohayon',
+		'2015-02-20 12:49:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-01-05.html',
+		'<p>בראשית מג26: &quot;וַיָּבֹא יוֹסֵף הַבַּיְתָה וַיָּבִיאּוּ לוֹ אֶת הַמִּנְחָה אֲשֶׁר בְּיָדָם הַבָּיְתָה וַיִּשְׁתַּחֲווּ לוֹ אָרְצָה&quot; </p><p>הַמִּנְחָה היא המנה </p><p>המנה כמנחה שנתן אלקנה לאשתו באהבת מלכים כאשר משתחווים אפים ארצה מכל הלב </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-20 15:07:43'
+		)
+		;
+
