@@ -7614,3 +7614,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום אני צריך דחוף הלוואה של 10000 אלף ש&quot;ח או כמה שניתן אני אב בן 25 עם +2 ועוד 1 בדרך זקוק לעזרה כלכלית יכול להחזיר ב10 תשלומים בצקים תודה ממש דחוף 0526442959</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmmQJk8Xm83BwmybdkwbT0AjSMWOCSCLzw',
+		'איציק שיטרית',
+		'2015-02-22 06:18:48'
+		)
+		;
+
