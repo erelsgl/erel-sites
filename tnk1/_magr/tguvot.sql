@@ -7626,3 +7626,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-32-11.html',
+		'<p>אני ראשון!!!!!!!!!!!!!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmnq9CjgTbaMvOPNvbt3op9GVqTxJV_dbY',
+		'נדב פיינשטיין',
+		'2015-02-22 17:32:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-32-11.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t2655_4.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-22 17:51:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-22 18:26:03' 
+			WHERE messageid=5087;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ecrann.html',
+		'<p>שלומות. </p><p>חגי עופר דבריך מעניינים. </p><p>האם תוכל להרחיב בזה.  להביא מקורות מקראיים/חוץ מקראיים / ארכיאולוגים למידע זה ? </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn4PCcqNvlK90LpeFQwnhVHFh0mkpAwgbw',
+		'חגי לב',
+		'2015-02-23 06:53:25'
+		)
+		;
+
