@@ -12,7 +12,7 @@
 error_reporting(E_ALL);
 
 /**
- * @file sgulot_print.php - print Sgulot Mishley divided to pages, for printing a book.
+ * @file sgulot_print_book.php - print Sgulot Mishley divided to pages, for printing a book.
  * @author Erel Segal Halevi אראל סגל הלוי
  * קידוד אחיד
  * @date 2012-07-16
@@ -22,17 +22,18 @@ error_reporting(E_ALL);
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = true;
 $GLOBALS['AUTOORDER'] = true;
-$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot');
 
 
 $edit = !empty($_GET['edit']);
 
-global $BIG_FIELDS;
-$ORDERED_BIG_FIELDS=array();
-foreach (array('ecot','hqblot','dquyot') as $field)
+global $BIG_FIELDS, $BIG_FIELDS_ORDER;  // in sgulot_library.pgp
+$BIG_FIELDS_ORDER = array('mqorot', 'hqblot');
+
+$TEMP_BIG_FIELDS=array();
+foreach ($BIG_FIELDS_ORDER as $field)
 	if (!isset($_GET["hide_$field"]))
-		$ORDERED_BIG_FIELDS[$field] = $BIG_FIELDS[$field];
-$BIG_FIELDS = $ORDERED_BIG_FIELDS;
+		$TEMP_BIG_FIELDS[$field] = $BIG_FIELDS[$field];
+$BIG_FIELDS = $TEMP_BIG_FIELDS;
 
 
 $book_number = 28;
@@ -48,7 +49,7 @@ $chapters = explode(",",$chapters_string);
 foreach ($chapters as $chapter) {
 	if (!is_numeric($chapter)) {
 		user_error("Chapter numbers must be numeric!", E_USER_WARNING);
-		user_error("SYNTAX: sgulot_print.php?chapter={number}...[&limit=...]", E_USER_ERROR);
+		user_error("SYNTAX: sgulot_print_book.php?chapter={number}...[&limit=...]", E_USER_ERROR);
 	}
 }
 $chapter_number = (int)$_GET['chapter'];
