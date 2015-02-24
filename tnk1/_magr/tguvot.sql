@@ -7669,3 +7669,82 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ecrann.html',
+		'<p>חגי לב, תודה. אבל אני רק הגבתי פה לדברים נקודתית ואין לי מה להוסיף. אם תרצה להרחיב את ידיעתך בנוגע לאשרה ובכלל אני ממליץ לך קודם כל לקרוא את הערך שלה באנציקלופדיה המקראית ולקבל מידע רב לפי המקורות שאתה מבקש.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-02-23 09:30:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1208_0.html',
+		'<p>שופטים ט13: &quot;וַתֹּאמֶר לָהֶם הַגֶּפֶן הֶחֳדַלְתִּי אֶת תִּירוֹשִׁי הַמְשַׂמֵּחַ אֱלֹהִים וַאֲנָשִׁים וְהָלַכְתִּי לָנוּעַ עַל הָעֵצִים&quot;</p><p>שיר השירים ב13: &quot;הַתְּאֵנָה חָנְטָה פַגֶּיהָ וְהַגְּפָנִים סְמָדַר נָתְנוּ רֵיחַ קוּמִי לכי[לָךְ] רַעְיָתִי יָפָתִי וּלְכִי [לָךְ]&quot; </p><p>תִּירוֹשִׁי הַמְשַׂמֵּחַ אֱלֹהִים וְהַגְּפָנִים סְמָדַר נָתְנוּ רֵיחַ</p><p>אלהים נתן את הגפן ברכה ליעקב שישמח שמחת אלהים גם בריח הסְמָדַר וגם בתִּירוֹשׁ באֲשִׁישֵׁי עֲנָבִים&quot;</p><p>אבל בני ישראל עושים [שימוש] רעה בגְּפָנִים ומחללים את שמחת אלהים להכעיסו בפנייתם לאלהים אחרים</p><p>יחזקאל ח17: &quot;וַיֹּאמֶר אֵלַי הֲרָאִיתָ בֶן אָדָם הֲנָקֵל לְבֵית יְהוּדָה מֵעֲשׂוֹת אֶת הַתּוֹעֵבוֹת אֲשֶׁר עָשׂוּ פֹה כִּי מָלְאוּ אֶת הָאָרֶץ חָמָס וַיָּשֻׁבוּ לְהַכְעִיסֵנִי וְהִנָּם שֹׁלְחִים אֶת הַזְּמוֹרָה אֶל אַפָּם&quot;</p><p>הושע ג1: &quot;וַיֹּאמֶר יהוה אֵלַי עוֹד לֵךְ אהב אִשָּׁה אֲהֻבַת רֵעַ וּמְנָאָפֶת כְּאַהֲבַת יהוה אֶת בְּנֵי יִשְׂרָאֵל וְהֵם פֹּנִים אֶל אֱלֹהִים אֲחֵרִים וְאֹהֲבֵי אֲשִׁישֵׁי עֲנָבִים&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-23 14:55:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1208_0.html',
+		'<p>תודה משה. בעיקר ההפניה להושע ג1 שבסוף באמת מעניינת ומאירת עיניים. בראשונה זה נראה פנייה לשכרות, אך בהשוואה לפסוקנו אולי אפשר להבין זאת - את סוף הפסוק - כסוג של עבודה זרה גם כן.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-02-23 15:34:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>קהלת יב9: &quot;וְיֹתֵר שֶׁהָיָה קֹהֶלֶת חָכָם עוֹד לִמַּד דַּעַת אֶת הָעָם וְאִזֵּן וְחִקֵּר תִּקֵּן מְשָׁלִים הַרְבֵּה&quot;</p><p>חכם קהלת הוא המלך שלמה בן דוד לִמַּד דַּעַת אֶת הָעָם כי זו הדרך להלחם בחסרי הדעת</p><p>ובני ישרל יוכלו להביס את אויביהם רק אם בעם ישראל תהיה דעת יְהֹוָה</p><p>בספר דברי הימים פרק יז כתוב:</p><p>(ט) וַיְלַמְּדוּ בִּיהוּדָה וְעִמָּהֶם סֵפֶר תּוֹרַת יְהֹוָה וַיָּסֹבּוּ בְּכָל עָרֵי יְהוּדָה וַיְלַמְּדוּ בָּעָם:</p><p>(י) וַיְהִי פַּחַד יְהֹוָה עַל כָּל מַמְלְכוֹת הָאֲרָצוֹת אֲשֶׁר סְבִיבוֹת יְהוּדָה וְלֹא נִלְחֲמוּ עִם יְהוֹשָׁפָט:</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-23 17:11:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-23 17:11:52' 
+			WHERE messageid=5093;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>קהלת יב9: &quot;וְיֹתֵר שֶׁהָיָה קֹהֶלֶת חָכָם עוֹד לִמַּד דַּעַת אֶת הָעָם וְאִזֵּן וְחִקֵּר תִּקֵּן מְשָׁלִים הַרְבֵּה&quot;</p><p>חכם קהלת הוא המלך שלמה בן דוד לִמַּד דַּעַת אֶת הָעָם כי זו הדרך להלחם בחסרי הדעת</p><p>והָעָם ישראל יוכל להביס את אויביהם רק אם בעם ישראל תהיה דעת יְהֹוָה</p><p>בספר דברי הימים פרק יז כתוב:</p><p>(ט) וַיְלַמְּדוּ בִּיהוּדָה וְעִמָּהֶם סֵפֶר תּוֹרַת יְהֹוָה וַיָּסֹבּוּ בְּכָל עָרֵי יְהוּדָה וַיְלַמְּדוּ בָּעָם:</p><p>(י) וַיְהִי פַּחַד יְהֹוָה עַל כָּל מַמְלְכוֹת הָאֲרָצוֹת אֲשֶׁר סְבִיבוֹת יְהוּדָה וְלֹא נִלְחֲמוּ עִם יְהוֹשָׁפָט:</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-23 17:15:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>דברים כג10: &quot;כִּי תֵצֵא מַחֲנֶה עַל אֹיְבֶיךָ וְנִשְׁמַרְתָּ מִכֹּל דָּבָר רָע&quot;</p><p>דברים כג11: &quot;כִּי יִהְיֶה בְךָ אִישׁ אֲשֶׁר לֹא יִהְיֶה טָהוֹר מִקְּרֵה לָיְלָה וְיָצָא אֶל מִחוּץ לַמַּחֲנֶה לֹא יָבֹא אֶל תּוֹךְ הַמַּחֲנֶה&quot;</p><p>שמואל א כ26: &quot;וְלֹא דִבֶּר שָׁאוּל מְאוּמָה בַּיּוֹם הַהוּא כִּי אָמַר מִקְרֶה הוּא בִּלְתִּי טָהוֹר הוּא כִּי לֹא טָהוֹר&quot;</p><p>לכן אם תדעו להיות טהורים להשמר מִכֹּל דָּבָר רָע לא יהיה מִקְּרֵה לָיְלָה [פליטת זרע בשנת-לילה בחלום]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-23 19:29:29'
+		)
+		;
+
