@@ -26,53 +26,51 @@ $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
 require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
-global $BIG_FIELDS, $BIG_FIELDS_ORDER, $AUTOWIDTH, $AUTOORDER;
-$BIG_FIELDS = array(
-  'dquyot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true), 
-  'mqorot' => array("subtitle"=>"דקויות", "size"=>12, "icon"=>"magnifier140.png", "include"=>true), 
-  'hqblot' => array("subtitle"=>"הקבלות", "size"=>14,  "icon"=>"openbook140.jpg", "include"=>true),
-  'ecot' => array("subtitle"=>"עצות", "size"=>14,  "icon"=>"roadsign100.jpg", "include"=>true),
-  'full'   => array("subtitle"=>"לעיון נוסף", "size"=>12, "icon"=>"", "include"=>true)
-   );
+global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
+global $AUTOWIDTH, $AUTOORDER;
 
+$BIG_FIELDS = array(
+		'dquyot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true),
+		'mqorot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true),
+		'hqblot' => array("subtitle"=>"הקבלות", "size"=>14,	"icon"=>"openbook140.jpg", "include"=>true),
+		'ecot' => array("subtitle"=>"עצות", "size"=>14,	"icon"=>"roadsign100.jpg", "include"=>true),
+		'full'	 => array("subtitle"=>"לעיון נוסף", "size"=>12, "icon"=>"", "include"=>true)
+);
 $BIG_FIELDS_ORDER = array_keys($BIG_FIELDS);
 
-$AUTOORDER = true;
+$SMALL_FIELDS = array(
+		'mcudot' => array("subtitle"=>"מצודות", "size"=>16, "icon"=>"", "include"=>true),
+		'tirgum' => array("subtitle"=>"סגולות", "size"=>16, "icon"=>"", "include"=>true),
+);
+$SMALL_FIELDS_ORDER = array_keys($SMALL_FIELDS);
 
+$AUTOORDER = true;
 $AUTOWIDTH = true;
 
 function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
-  global $BIG_FIELDS, $BIG_FIELDS_ORDER;
-  $is_prq = ($row['verse_number']<=0);
-  $tirgum = $row['tirgum'];
-  $mcudot = $row['mcudot'];
-  
-  $send_to_next_page = coalesce($row['tosfot'], "");
+	global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
+	$chapter_number = $row['chapter_number'];
+	if ($chapter_number>0)
+		list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
+				"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
+	$verse_number = $row['verse_number'];
+	$is_prq = ($verse_number<=0);
+	
+	$send_to_next_page = coalesce($row['tosfot'], "");
 
-  $data = array();
-  foreach ($BIG_FIELDS_ORDER as $field) {
-		$values = $BIG_FIELDS[$field];
-    if (!$values["include"]) continue;  // ignore this field altogether
-    if ($field==$send_to_next_page) continue; // print this field in next page
-    array_push($data, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],  "icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]));
-  }
-  
-  $data = contents_with_classes($data);
-  $tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
-  $chapter_number = $row['chapter_number'];
-  if ($chapter_number>0)
-    list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
-      "SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
-  $verse_number = $row['verse_number'];
+	//$tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
 
-  $page_class = "single_height";
-  if ($row["pages"]>1)
-    $page_class = "double_height";
-  if ($row['chapter_number']==99)   // דף שער
-	$page_class = "gate";
+	/*** Create the page class and the opening div: ***/
+	$page_class = "single_height";
+	if ($row["pages"]>1)
+		$page_class = "double_height";
+	if ($chapter_number==99)	 // דף שער
+		$page_class = "gate";
 	$html = "
 		<div class='page $page_class'".($send_to_next_page? " style='border-bottom:none'": "").">
 		";
+	
+	/*** Add the verse text: ***/
 	$html .= ($chapter_number>0 && $link_to_verse? 
 		"
 		<p><a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>
@@ -85,21 +83,45 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 			<span class='verse_text'>$row[verse_text]</span>
 		</div>
 		"
-	);
+		);
+
+	/*** Add the small (short) cells: ***/
 	$html .= "
-		<div class='short'>
-			".(strlen($tirgum)>8? "<div class='tirgum'>$tirgum</div>": "")."
-		</div><!--short-->
-		<div class='short'>
-			".(strlen($mcudot)>8? "<div class='mcudot'>$mcudot</div>": "")."
-		</div><!--short-->
-					
+		<div class='short'>";
+	$small_cells = array();
+	foreach ($SMALL_FIELDS_ORDER as $field) {
+		$values = $SMALL_FIELDS[$field];
+		if (!$values["include"]) continue;	// ignore this field altogether
+		array_push($small_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]));
+	}
+	$small_cells = contents_with_classes($small_cells);
+	foreach ($small_cells as $column)
+		$html .= html_for_long_cell($column);
+	$html .= "
+	</div><!--short-->
+	<br style='clear:both; line-height:0' />
+	";
+		
+	/*** Add the big (long) cells: ***/
+	$html .= "
 		<div class='long'>";
-	foreach ($data as $column)
+	$big_cells = array();
+	foreach ($BIG_FIELDS_ORDER as $field) {
+		$values = $BIG_FIELDS[$field];
+		if (!$values["include"]) continue;	// ignore this field altogether
+		if ($field==$send_to_next_page) continue; // print this field in next page
+		array_push($big_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]));
+	}
+	$big_cells = contents_with_classes($big_cells);
+	foreach ($big_cells as $column)
 		if ($column['mainclass'] != $send_to_next_page)
 			$html .= html_for_long_cell($column);
 	$html .= "
 	</div><!--long-->
+	";
+	
+	/*** Add the footer: ***/
+	$html .= "
 	".($row['chapter_number']==99?"
 	<table class='copyright'>
 	<tr><td colspan='3'>מאת: אראל בן דב סגל הלוי</td></tr>
@@ -109,31 +131,31 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		<td style='text-align:right'>http://creativecommons.org/licenses/by-sa/3.0/deed.he</td>
 	</tr>
 	</table>": "")."
-    </div><!--page-->
+		</div><!--page-->
 ";
-  if ($send_to_next_page) {
-    $html .= "
-     <div class='page $page_class' style='border-top:none'>
+	if ($send_to_next_page) {
+		$html .= "
+		 <div class='page $page_class' style='border-top:none'>
 	<div class='long'>";
-	  foreach ($BIG_FIELDS_ORDER as $field) {
+		foreach ($BIG_FIELDS_ORDER as $field) {
 			$values = $BIG_FIELDS[$field];
-			if (!$values["include"]) continue;  // ignore this field altogether
+			if (!$values["include"]) continue;	// ignore this field altogether
 			if ($field!=$send_to_next_page) continue; // this field printed in previous page
-				$column = array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],  "icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]);
+				$column = array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]);
 				$column["class"] = "";
 				$html .= html_for_long_cell($column);
 		}
 		$html .= "
 	</div><!--long-->
-     </div><!--page-->
-    ";
-  }
-  
-  $html = str_replace("http://localhost/","/",$html); 
-  $html = str_replace("http://tora.us.fm/","/",$html);
-  $html = str_replace("http://www.tora.us.fm/","/",$html);
-  
-    return $html;
+		 </div><!--page-->
+		";
+	}
+	
+	$html = str_replace("http://localhost/","/",$html); 
+	$html = str_replace("http://tora.us.fm/","/",$html);
+	$html = str_replace("http://www.tora.us.fm/","/",$html);
+	
+		return $html;
 }
 
 
@@ -141,12 +163,12 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
  * @return true if the text is empty in print.
  */
 function isempty($text) {
-  if (strlen($text)<10)
-    return true;
-  $future_div_pos = strpos($text, "future");
-  if ($future_div_pos>0 && $future_div_pos<20)
-    return true;
-  return false;
+	if (strlen($text)<10)
+		return true;
+	$future_div_pos = strpos($text, "future");
+	if ($future_div_pos>0 && $future_div_pos<20)
+		return true;
+	return false;
 }
 
 /**
@@ -189,7 +211,7 @@ function contents_with_classes($data) {
 		if ($data[$i]["length"]<6)
 			continue;
 		$data[$i]["length"] *= $data[$i]["size"];
-		$data[$i]["class"]  = "longcell";  // default class
+		$data[$i]["class"]	= "longcell";	// default class
 		array_push($data_nonzero, $data[$i]);
 		$total_length += $data[$i]["length"];
 	}
@@ -224,7 +246,7 @@ function remove_divs_with_class($xhtml, $class) {
 	$xpath = new DOMXpath($doc);
 	$elements = $xpath->query("//*[contains(@class,'$class')]");
 
-	foreach  ($elements as $element)
+	foreach	($elements as $element)
 		$element->parentNode->removeChild($element);
 
 	$xhtml2 = $doc->saveHTML();
