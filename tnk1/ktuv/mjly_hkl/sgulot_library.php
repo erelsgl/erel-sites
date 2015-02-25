@@ -29,6 +29,7 @@ sql_set_charset('utf8');
 global $BIG_FIELDS, $BIG_FIELDS_ORDER, $AUTOWIDTH, $AUTOORDER;
 $BIG_FIELDS = array(
   'dquyot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true), 
+  'mqorot' => array("subtitle"=>"דקויות", "size"=>12, "icon"=>"magnifier140.png", "include"=>true), 
   'hqblot' => array("subtitle"=>"הקבלות", "size"=>14,  "icon"=>"openbook140.jpg", "include"=>true),
   'ecot' => array("subtitle"=>"עצות", "size"=>14,  "icon"=>"roadsign100.jpg", "include"=>true),
   'full'   => array("subtitle"=>"לעיון נוסף", "size"=>12, "icon"=>"", "include"=>true)
@@ -44,7 +45,8 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
   global $BIG_FIELDS, $BIG_FIELDS_ORDER;
   $is_prq = ($row['verse_number']<=0);
   $tirgum = $row['tirgum'];
-
+  $mcudot = $row['mcudot'];
+  
   $send_to_next_page = coalesce($row['tosfot'], "");
 
   $data = array();
@@ -88,6 +90,10 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		<div class='short'>
 			".(strlen($tirgum)>8? "<div class='tirgum'>$tirgum</div>": "")."
 		</div><!--short-->
+		<div class='short'>
+			".(strlen($mcudot)>8? "<div class='mcudot'>$mcudot</div>": "")."
+		</div><!--short-->
+					
 		<div class='long'>";
 	foreach ($data as $column)
 		if ($column['mainclass'] != $send_to_next_page)
