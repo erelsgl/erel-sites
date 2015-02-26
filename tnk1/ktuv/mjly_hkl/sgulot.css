@@ -3,11 +3,11 @@
   .long {page-break-inside: avoid; background:white; }
 }
 
-body { font-family: "David CLM", "Liberation Sans"; }
+body { font-family: "Liberation Sans"; }
 
 .page {
   width: 19cm; 
-  margin:0 0 1mm 0; border: solid 2px black; 
+  margin:0 0 1mm 0; border: none 2px black; 
   overflow:auto; text-align:justify; border-radius: 20px; 
   background:white;
 }
@@ -15,29 +15,31 @@ body { font-family: "David CLM", "Liberation Sans"; }
 .double_height { max-height: 55.4cm; background:white; }
 
 .verse { background:#eee; text-align:center; background:white; }
-	.verse_text {font-size: 28px; font-weight: 900; letter-spacing: 1px; text-align:center; } 
+	.verse_text {font-size: 24px; /*font-weight: 900; letter-spacing: 1px; */ text-align:center; }  /* font family below with q */
 	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
-.short { border-top: dashed 1px black; font-size: 16px; background:white; }
-	.tirgum { padding: 0.1cm; }
-.long  { display: table; border-top: dashed 1px black; background:white; }
-	.long h3  { font-size: 14px; font-weight: bold; line-height:100%; margin: 12px 0 6px 0;}
+.short { border-top: none 1px black; background:white; }
+	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM'; font-size: 16px}
+	.tirgum { padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 15px}
+.long  { display: table; border-top: none 1px black; background:white; }
+	.long h3  { font-size: 14px; font-weight: bold; line-height:100%; margin: 9px 0 3px 0;}
 	.dquyot { font-size: 14px; }
-	.hqblot { font-size: 14px; }
+	.mqorot { font-family: 'Arial'; font-size: 12px; }
+	.hqblot { font-family: 'Simple CLM'; font-size: 12px; }
 	.ecot   { font-size: 14px; }
-	.subtitle { border-bottom: dotted #fff 1px; font-size: 8px; text-align:center; margin:0; padding:0; line-height:100%; font-weight:normal; }
+	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
 	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm -2mm; }
 	.long .cell { 
 		padding: 2mm;
 		background-repeat: no-repeat;
 		background-position: top right; 
 		background-size: 20px 20px; 
-		border-left:dotted 1px #888; border-right:dotted 1px #888;
+		border-left:none 1px #888; border-right:none 1px #888;
 	}
 	.long .cell table { border-collapse: collapse; }
 	.long .cell table td { border: solid 1px #888; }
 	.longcell { display: table-cell; min-width:20ex; }
-	.longright { float:right; width:5cm; border-bottom: dotted 1px #888; margin-left:0.2cm; }
-	.longleft  { float:left;  width:5cm; border-bottom: dotted 1px #888; margin-right:0.2cm; }
+	.longright { float:right; width:5cm; border-bottom: none 1px #888; margin-left:0.2cm; }
+	.longleft  { float:left;  width:5cm; border-bottom: none 1px #888; margin-right:0.2cm; }
 	.longbig  {  }
 		.paint {
 			font-size: 24px; font-style: italic; text-align:center; background-color:#eee;
@@ -49,9 +51,9 @@ body { font-family: "David CLM", "Liberation Sans"; }
 
 .gate {text-align:center;}
 .gate .verse .verse_text { font-size: 96px; }
-.gate .short { font-size:34px; }
-.gate .long, .gate .long .dquyot, .gate .long .hqblot, .gate .long .ecot {font-size:23px;}
-.gate .long .subtitle {font-size:24px; font-weight:bold;}
+.gate .short, .gate .short .mcudot, .gate .short .tirgum { font-size:34px; }
+.gate .long, .gate .long .mqorot , .gate .long .dquyot, .gate .long .hqblot, .gate .long .ecot {font-size:29px;}
+.gate .subtitle {font-size:24px;}
 .gate .longcell {min-width:0; }
 .gate .copyright {font-size:14px;}
 .gate .imgsubtitle { width:40px; height:40px; }
@@ -89,9 +91,9 @@ body.tirgum td.verse_number {width: 0.2cm;}
 body.tirgum td.tirgum     {width: 7cm;}
 
 
-q, .verse_text { font-family: "Times New Roman", "Liberation Serif"; }
-q.psuq { color: #008; }
-q.mfrj { color: #080; font-style:italic; }
+q { font-family: "Liberation Serif"; }
+q.psuq, .verse_text { font-family: "Stam Ashkenaz CLM"; color: #004; }
+q.mfrj { font-family: "Hadasim CLM"; color: #040; }
 
 /* make quotations look the same in IE and other browsers */
 q:before {content: no-open-quote}
@@ -108,6 +110,5 @@ p.future, span.future, .future {	font-size:6px; background-color:#ccc; display:n
 
 .autowidth1 {display:none;}
 
-
-
+a {text-decoration:none}
 

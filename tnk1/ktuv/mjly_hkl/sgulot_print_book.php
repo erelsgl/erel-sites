@@ -18,6 +18,7 @@ error_reporting(E_ALL);
  * @date 2012-07-16
  */
 
+$SYNTAX = "SYNTAX: sgulot_print_book.php?chapter={number}...[&limit=...]";
 
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = true;
@@ -26,8 +27,10 @@ $GLOBALS['AUTOORDER'] = true;
 
 $edit = !empty($_GET['edit']);
 
-global $BIG_FIELDS, $BIG_FIELDS_ORDER;  // in sgulot_library.pgp
+global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;  // in sgulot_library.pgp
 $BIG_FIELDS_ORDER = array('mqorot', 'hqblot');
+// $BIG_FIELDS_ORDER = array('mqorot');   $BIG_FIELDS['mqorot']['icon']='';
+$SMALL_FIELDS_ORDER = array('mcudot', 'tirgum');
 
 $TEMP_BIG_FIELDS=array();
 foreach ($BIG_FIELDS_ORDER as $field)
@@ -41,7 +44,7 @@ list($book_code, $book_name) = sql_evaluate_assoc(
 	"SELECT qod AS `0`, kotrt AS `1` FROM sfrim WHERE qod_mamre=$book_number");
 
 if (!isset($_GET['chapter']))
-	user_error("SYNTAX: sgulot_print.php?chapter={number}...[&limit=...]", E_USER_ERROR);
+	user_error($SYNTAX, E_USER_ERROR);
 
 
 $chapters_string = $_GET['chapter'];
@@ -49,7 +52,7 @@ $chapters = explode(",",$chapters_string);
 foreach ($chapters as $chapter) {
 	if (!is_numeric($chapter)) {
 		user_error("Chapter numbers must be numeric!", E_USER_WARNING);
-		user_error("SYNTAX: sgulot_print_book.php?chapter={number}...[&limit=...]", E_USER_ERROR);
+		user_error($SYNTAX, E_USER_ERROR);
 	}
 }
 $chapter_number = (int)$_GET['chapter'];
