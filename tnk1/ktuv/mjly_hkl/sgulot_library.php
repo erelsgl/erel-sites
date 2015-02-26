@@ -39,8 +39,8 @@ $BIG_FIELDS = array(
 $BIG_FIELDS_ORDER = array_keys($BIG_FIELDS);
 
 $SMALL_FIELDS = array(
-		'mcudot' => array("subtitle"=>"מצודות", "size"=>16, "icon"=>"", "include"=>true),
-		'tirgum' => array("subtitle"=>"סגולות", "size"=>16, "icon"=>"", "include"=>true),
+		'mcudot' => array("subtitle"=>"מצודות", "size"=>16, "icon"=>"castle-brown.png", "include"=>true),
+		'tirgum' => array("subtitle"=>"סגולות", "size"=>16, "icon"=>"roadsign100.jpg", "include"=>true),
 );
 $SMALL_FIELDS_ORDER = array_keys($SMALL_FIELDS);
 
@@ -178,7 +178,7 @@ function html_for_long_cell($data) {
 	return (!isempty($data["content"])? "
 		<div class='cell $data[mainclass] $data[class]'>
 			".($data['icon']? "<img class='imgsubtitle' src='$data[icon]' />": "")."
-			<h2 class='subtitle'>$data[subtitle]</h2>
+			<h2 class='subtitle'>&nbsp;&nbsp;&nbsp;&nbsp;$data[subtitle]</h2>
 			".autowidth("$data[content]")."
 		</div>": "");
 }
