@@ -7891,3 +7891,120 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-02-24 18:09:09' 
 			WHERE messageid=5102;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0514_1.html',
+		'<p>דברים לא6: &quot;חִזְקוּ וְאִמְצוּ אַל תִּירְאוּ וְאַל תַּעַרְצוּ מִפְּנֵיהֶם כִּי יהוה אֱלֹהֶיךָ הוּא הַהֹלֵךְ עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ&quot;</p><p>דברים לא8: &quot;ויהוה הוּא הַהֹלֵךְ לְפָנֶיךָ הוּא יִהְיֶה עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ לֹא תִירָא וְלֹא תֵחָת&quot;</p><p>דברי הימים א כח20: &quot;וַיֹּאמֶר דָּוִיד לִשְׁלֹמֹה בְנוֹ חֲזַק וֶאֱמַץ וַעֲשֵׂה אַל תִּירָא וְאַל תֵּחָת כִּי יהוה  אֱלֹהִים אֱלֹהַי עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ עַד לִכְלוֹת כָּל מְלֶאכֶת עֲבוֹדַת בֵּית יהוה\'&quot;</p><p>הנה אלהים צדיק אתה לא תעזבנו</p><p>ברכנו גם אנחנו עבדיך לא לעזבך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-25 08:22:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0514_1.html',
+		'<p>דברים פרק 31 פסוק 6: &quot;חִזְקוּ וְאִמְצוּ אַל תִּירְאוּ וְאַל תַּעַרְצוּ מִפְּנֵיהֶם כִּי יהוה אֱלֹהֶיךָ הוּא הַהֹלֵךְ עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ&quot;</p><p>דברים פרק 31 פסוק 8: &quot;ויהוה הוּא הַהֹלֵךְ לְפָנֶיךָ הוּא יִהְיֶה עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ לֹא תִירָא וְלֹא תֵחָת&quot;</p><p>דברי הימים א פרק 28 פסוק 20: &quot;וַיֹּאמֶר דָּוִיד לִשְׁלֹמֹה בְנוֹ חֲזַק וֶאֱמַץ וַעֲשֵׂה אַל תִּירָא וְאַל תֵּחָת כִּי יהוה אֱלֹהִים אֱלֹהַי עִמָּךְ לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ עַד לִכְלוֹת כָּל מְלֶאכֶת עֲבוֹדַת בֵּית יהוה\'&quot;</p><p>---------------------------------------------------</p><p>הנה אלהים צדיק אתה לא תעזבנו</p><p>ברכנו גם אנחנו עבדיך לא לעזבך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-25 08:25:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-25 08:25:33' 
+			WHERE messageid=5105;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ngh.html',
+		'<p>כל כך נכון. אהבתי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkcAixIWKVUM_plFwQe3gnOnTeiIH7_CoY',
+		'Noga B.I.',
+		'2015-02-25 18:12:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ngh.html',
+		'<p></p><p>נֹּגַהּ = זה אור רוחני אור רוח אלהים הוא אשר אמר יְהִי אוֹר וַיְהִי אוֹר  </p><p>ספר בראשית פרק א פסוק 3 כתוב: &quot;וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר&quot; </p><p>וזאת בטרם נבראו המאורות בשמים לְהָאִיר עַל הָאָרֶץ אור שמש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-25 19:10:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ngh.html',
+		'<p></p><p>נֹּגַהּ = זה אור רוחני אור רוח אלהים הוא אשר אמר יְהִי אוֹר וַיְהִי אוֹר  </p><p>ספר בראשית פרק א פסוק 3 כתוב: &quot;וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר&quot; </p><p>וזאת בטרם נבראו המאורות בשמים לְהָאִיר עַל הָאָרֶץ אור שמש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-25 19:23:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-25 19:27:59' 
+			WHERE messageid=5109;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-40-01.html',
+		'<p>פרק מ\' בספר יחזקאל בא מייד לאחר פרשת מלחמת גוג מארץ המגוג שתיתום ביום הכפורים בעשור לחודש השביעי הוא ירח האיתנים </p><p>לכן תהיה שמחה בחג-הסכות בַּכֵּסֶה לְיוֹם חַגֵּנוּ  </p><p>זכריה יד16: &quot;וְהָיָה כָּל הַנּוֹתָר מִכָּל הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים וְעָלוּ מִדֵּי שָׁנָה בְשָׁנָה להשתחות לְמֶלֶךְ יהוה צְבָאוֹת וְלָחֹג אֶת חַג הַסֻּכּוֹת&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-26 05:32:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0530_2.html',
+		'<p>בראשית ז1: &quot;וַיֹּאמֶר יהוה לְנֹחַ </p><p>בֹּא אַתָּה וְכָל בֵּיתְךָ אֶל הַתֵּבָה כִּי אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה&quot;</p><p>בספר תהילות פרק קמג פסוק 2 כתוב: </p><p>&quot;וְאַל תָּבוֹא בְמִשְׁפָּט אֶת עַבְדֶּךָ כִּי לֹא יִצְדַּק לְפָנֶיךָ כָל חָי&quot;</p><p>ונח היה צדיק לפני אלהים כי לנח לא היו חיים מלבד חיי אלהים</p><p>נח היה אדם מת חי לאמור כי נח לא היה מעמי הארץ וכלשונם &quot;לעשות חיים&quot; </p><p>לאמור כי לנח לא חי מהבלי העולם הזה אלא חי חיי אלהים באמת</p><p> ובתורת משה כתוב:</p><p>דברים ל19: &quot;העדתי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ הַחַיִּים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה וּבָחַרְתָּ בַּחַיִּים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ&quot;</p><p>הנה כתוב וּבָחַרְתָּ בַּחַיִּים ואיך נהיה צדיקים בחיינו אם לֹא יִצְדַּק לְפָנֶיךָ כָל חָי</p><p>לכן יש להבין כִּי לֹא יִצְדַּק לְפָנֶיךָ כָל חָי מלבד חיי אלהים</p><p>כאשר נח הצדיק והתמים התהלך את האלהים כי חי חיי אלהים</p><p> בראשית ו9: </p><p>&quot;אֵלֶּה תּוֹלְדֹת נֹחַ נֹחַ אִישׁ צַדִּיק תָּמִים הָיָה בְּדֹרֹתָיו אֶת הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ&quot;</p><p>בראשית ז1: &quot;וַיֹּאמֶר יהוה לְנֹחַ </p><p>בֹּא אַתָּה וְכָל בֵּיתְךָ אֶל הַתֵּבָה כִּי אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-26 06:22:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-40-01.html',
+		'<p>פרק מ\' בספר יחזקאל בא מייד לאחר פרשת מלחמת גוג מארץ המגוג שתיתום ביום הכפורים בעשור לחודש השביעי הוא ירח האיתנים</p><p>לכן תהיה שמחה בחג-הסכות בַּכֵּסֶה לְיוֹם חַגֵּנוּ</p><p>זכריה יד16: &quot;וְהָיָה כָּל הַנּוֹתָר מִכָּל הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים וְעָלוּ מִדֵּי שָׁנָה בְשָׁנָה להשתחות לְמֶלֶךְ יהוה צְבָאוֹת וְלָחֹג אֶת חַג הַסֻּכּוֹת&quot;</p><p>דברים לא10: &quot;וַיְצַו מֹשֶׁה אוֹתָם לֵאמֹר מִקֵּץ שֶׁבַע שָׁנִים בְּמֹעֵד שְׁנַת הַשְּׁמִטָּה בְּחַג הַסֻּכּוֹת&quot;</p><p>יחזקאל לט9: &quot;וְיָצְאוּ יֹשְׁבֵי עָרֵי יִשְׂרָאֵל וּבִעֲרוּ וְהִשִּׂיקוּ בְּנֶשֶׁק וּמָגֵן וְצִנָּה בְּקֶשֶׁת וּבְחִצִּים וּבְמַקֵּל יָד וּבְרֹמַח וּבִעֲרוּ בָהֶם אֵשׁ שֶׁבַע שָׁנִים&quot;</p><p>סוף דבר...</p><p>מלחמת אלהים בגוג מארץ המגוג בְּמֹעֵד שְׁנַת הַשְּׁמִטָּה בְּחַג הַסֻּכּוֹת ביום שבת </p><p>בשנה מעוברת וּקְבָרוּם בֵּית יִשְׂרָאֵל לְמַעַן טַהֵר אֶת הָאָרֶץ שִׁבְעָה חֳדָשִׁים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-26 06:53:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-26 06:53:04' 
+			WHERE messageid=5110;
+
