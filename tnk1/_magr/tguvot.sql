@@ -8008,3 +8008,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-02-26 06:53:04' 
 			WHERE messageid=5110;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-02-26 08:55:11' 
+			WHERE messageid=5112;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>.********** רק נביא קדוש יכול לעמוד מול האלהים **********</p><p>והמלחמה לנביאי אלהים קדושים אמת אשר ילחמו בנביאי השקר</p><p>כי המלחמה מאת אלהים חיים והוא ילחם ברוחות המתים</p><p>פרוש לבאר לכם:</p><p>עמלק=עם-מלק</p><p>עם שצריך למלוק את ראשו כי אין בו דעת</p><p>אֲגַג מֶלֶךְ עֲמָלֵק = כבר מת והוא רוח רעה</p><p>גּוֹג אֶרֶץ הַמָּגוֹג = כבר מת והוא רוח טמאה</p><p>---------------------</p><p>לכן דעו כי המלחמה הבאה היא מלחמה רוחנית ברוח</p><p>ואם אינכם יודעים איכה להלחם ברוחות המתים האלה</p><p>אל תדרשו אל המתים</p><p>יחזקאל יג17: &quot;וְאַתָּה בֶן אָדָם שִׂים פָּנֶיךָ אֶל בְּנוֹת עַמְּךָ הַמִּתְנַבְּאוֹת מִלִּבְּהֶן וְהִנָּבֵא עֲלֵיהֶן&quot;</p><p>יחזקאל לח2: &quot;בֶּן אָדָם שִׂים פָּנֶיךָ אֶל גּוֹג אֶרֶץ הַמָּגוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל וְהִנָּבֵא עָלָיו&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-02-26 12:34:15'
+		)
+		;
+
