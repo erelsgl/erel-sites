@@ -26,8 +26,8 @@ body { font-family: "Liberation Sans"; }
 	.mqorot { font-family: 'Arial'; font-size: 12px; }
 	.hqblot { font-family: 'Simple CLM'; font-size: 12px; }
 	.ecot   { font-size: 14px; }
-	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
-	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm -2mm; }
+	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
+	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm -2mm;  }
 	.long .cell { 
 		padding: 2mm;
 		background-repeat: no-repeat;
@@ -110,5 +110,5 @@ p.future, span.future, .future {	font-size:6px; background-color:#ccc; display:n
 
 .autowidth1 {display:none;}
 
-a {text-decoration:none}
+a {text-decoration:none; color:black}
 
