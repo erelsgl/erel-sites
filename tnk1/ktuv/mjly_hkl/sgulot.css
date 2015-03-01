@@ -14,6 +14,9 @@ body { font-family: "Liberation Sans"; }
 .single_height { max-height: 27.7cm; background:white; }
 .double_height { max-height: 55.4cm; background:white; }
 
+q.psuq, .verse_text { font-family: "Stam Ashkenaz CLM"; color: #000; }
+q.mfrj              { font-family: "David CLM"; color: #000; }
+
 .verse { background:#eee; text-align:center; background:white; }
 	.verse_text {font-size: 24px; /*font-weight: 900; letter-spacing: 1px; */ text-align:center; }  /* font family below with q */
 	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
@@ -21,9 +24,9 @@ body { font-family: "Liberation Sans"; }
 	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM'; font-size: 16px}
 	.tirgum { padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 15px}
 .long  { display: table; border-top: none 1px black; background:white; }
-	.long h3  { font-size: 14px; font-weight: bold; line-height:100%; margin: 9px 0 3px 0;}
-	.dquyot { font-size: 14px; }
-	.mqorot { font-family: 'Arial'; font-size: 12px; }
+	.long h3  { font-size: 14px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
+	.dquyot { font-family: 'Arial';      font-size: 14px; }
+	.mqorot { font-family: 'Arial';      font-size: 12px; }
 	.hqblot { font-family: 'Simple CLM'; font-size: 12px; }
 	.ecot   { font-size: 14px; }
 	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
@@ -91,9 +94,6 @@ body.tirgum td.verse_number {width: 0.2cm;}
 body.tirgum td.tirgum     {width: 7cm;}
 
 
-q { font-family: "Liberation Serif"; }
-q.psuq, .verse_text { font-family: "Stam Ashkenaz CLM"; color: #004; }
-q.mfrj { font-family: "Hadasim CLM"; color: #040; }
 
 /* make quotations look the same in IE and other browsers */
 q:before {content: no-open-quote}
