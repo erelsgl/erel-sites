@@ -9145,3 +9145,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-01 08:45:38'
+		WHERE ktovt_bn='tnk1/msr/knesset/platform.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_58.html',
+				NULL,
+				'2015-03-01 15:13:37',
+				'2015-03-01 15:13:37',
+				'על \"מתי ואיך הומצא העם היהודי\" מאת שלמה זנד',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

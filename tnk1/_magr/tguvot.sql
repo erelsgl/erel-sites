@@ -8027,3 +8027,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/platform.html',
+		'<p>הסתכלות מעניינת, אם כי איני מסכים לה. בשורה התחתונה - על אף נסיונות שונים ומשונים כן למצוא קשר כזה - תקופת התנ&quot;ך נבדלת מתקופתנו בכך שלא הייתה דמוקרטית. זה לא שאין מצע, יש מצע אחד - התורה, והיום, כידוע, אין זה כך.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-01 08:45:38'
+		)
+		;
+
