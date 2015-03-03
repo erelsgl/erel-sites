@@ -8039,3 +8039,96 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>כל הדברים שכתבתי עד הנה נכונים עד יום המשיח</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 08:42:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>כל הדברים שכתבתי עד הנה נכונים עד יום המשיח גאולה לכל האדם</p><p>ישעיהו יז7: &quot;בַּיּוֹם הַהוּא יִשְׁעֶה הָאָדָם עַל עֹשֵׂהוּ וְעֵינָיו אֶל קְדוֹשׁ יִשְׂרָאֵל תִּרְאֶינָה&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 08:44:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-02 08:44:09' 
+			WHERE messageid=5115;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>אשה אל-מנה </p><p>איש אל-מן</p><p>גם המילה מן = הוּא הַלֶּחֶם אֲשֶׁר נָתַן יהוה לָכֶם לְאָכְלָה </p><p>והמילה מְנִי [בלועזית כסף] הוא אליל הכסף אליל החומריות המזון והאוכל</p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 14:56:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>אשה אל-מנה </p><p>איש אל-מן</p><p>גם המילה מן = הוּא הַלֶּחֶם אֲשֶׁר נָתַן יהוה לָכֶם לְאָכְלָה </p><p>והמילה מְנִי [בלועזית כסף] הוא אליל הכסף אליל החומריות המזון והאוכל</p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 15:38:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-02 15:38:55' 
+			WHERE messageid=5118;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>עֵינָי בְּכָה = עֹבְרֵי בְּעֵמֶק הַבָּכָא = הָלוֹךְ יֵלֵךְ וּבָכֹה</p><p>תהילות קמא8: &quot;כִּי אֵלֶיךָ יהוה אֲדֹנָי *עֵינָי בְּכָה* חָסִיתִי אַל תְּעַר נַפְשִׁי&quot;</p><p>ספר תהילות פרק פד (ז) *עֹבְרֵי בְּעֵמֶק הַבָּכָא* מַעְיָן יְשִׁיתוּהוּ גַּם בְּרָכוֹת יַעְטֶה מוֹרֶה </p><p>ספר תהילות פרק קכו6: &quot;*הָלוֹךְ יֵלֵךְ וּבָכֹה* נֹשֵׂא מֶשֶׁךְ הַזָּרַע בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 20:30:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p> עֵמֶק יְהוֹשָׁפָט = עֹבְרֵי בְּעֵמֶק הַבָּכָא = הָלוֹךְ יֵלֵךְ וּבָכֹה = עֵינָי בְּכָה</p><p>תהילות קמא8: &quot;כִּי אֵלֶיךָ יהוה אֲדֹנָי *עֵינָי בְּכָה* חָסִיתִי אַל תְּעַר נַפְשִׁי&quot;</p><p>ספר תהילות פרק פד (ז) *עֹבְרֵי בְּעֵמֶק הַבָּכָא* מַעְיָן יְשִׁיתוּהוּ גַּם בְּרָכוֹת יַעְטֶה מוֹרֶה</p><p>ספר תהילות פרק קכו6: &quot;*הָלוֹךְ יֵלֵךְ וּבָכֹה* נֹשֵׂא מֶשֶׁךְ הַזָּרַע בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-02 20:33:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-02 20:33:30' 
+			WHERE messageid=5119;
+
