@@ -8132,3 +8132,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-03-02 20:33:30' 
 			WHERE messageid=5119;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>אני כתבתי בכותרת המאמר כי טוב לשבת באהלים מבנות בתים</p><p>ובכל זאת אם בונים בתים אסור לבנות בית צמוד לבית אלא חשוב שיהיה בין בית לבית רווח גדול כגודל שטח הבית</p><p>אם למשל יש בית בגודל חצי דונם אז הרווח בין הבית הקרוב אליו יהיה רווח של חצי דונם גם כן</p><p>ואם למשל יש בית בגודל דונם אז הרווח שצריך להיות בין הבית הקרוב אליו יהיה לפחות רווח של דונם אדמה חופשייה</p><p>ישעיהו ה8: &quot;הוֹי מַגִּיעֵי בַיִת בְּבַיִת שָׂדֶה בְשָׂדֶה יַקְרִיבוּ עַד אֶפֶס מָקוֹם וְהוּשַׁבְתֶּם לְבַדְּכֶם בְּקֶרֶב הָאָרֶץ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-03 10:08:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>אני כתבתי בכותרת המאמר כי טוב לשבת באהלים מבנות בתים</p><p>ובכל זאת אם בונים בתים אסור לבנות בית צמוד לבית אלא חשוב שיהיה בין בית לבית רווח גדול כגודל שטח הבית</p><p>אם למשל יש בית בגודל חצי דונם אז הרווח בין הבית הקרוב אליו יהיה רווח של חצי דונם גם כן</p><p>ואם למשל יש בית בגודל דונם אז הרווח שצריך להיות בין הבית הקרוב אליו יהיה לפחות רווח של דונם אדמה חופשייה</p><p>וזאת כדי שיהיה מקום לחיית השדה בשדה פתוח ושיהיו ריאות ירוקות כדי שתהיה לנו אפשרות לנשום וכדי שתהיה לנו אפשרות לעשות חג-סכות ככתוב בתורה סוכה ליד הבית בחצר על האדמה ובערב הפסח נשרוף את החמץ </p><p>לכן אם לא תשמעו אל דבר יהוה אשר ביד ישעיהו הנביא אז הנה לכם תוכחה קשה הפותחת במילה הוי</p><p>ישעיהו ה8: &quot;הוֹי מַגִּיעֵי בַיִת בְּבַיִת שָׂדֶה בְשָׂדֶה יַקְרִיבוּ עַד אֶפֶס מָקוֹם וְהוּשַׁבְתֶּם לְבַדְּכֶם בְּקֶרֶב הָאָרֶץ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-03 10:16:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-03 10:16:10' 
+			WHERE messageid=5121;
+
