@@ -8163,3 +8163,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-03-03 10:16:10' 
 			WHERE messageid=5121;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>03/03/2015: בעקבות דו&quot;ח מבקר המדינה בנושא הדיור, מומלץ מאד לקרוא את הכתבה הבאה, המלמדת של ניסיונן הכושל של מדינות &quot;נאורות&quot; רבות באירופה להתגבר על משבר הדיור באמצעות רגולציה ממשלתית:</p><p>http://www.kav.org.il/b1529.html</p><p>הפתרון של התורה הוא אחר ושונה מהותית - לא רגולציה ממשלתית אלא חופש לכל אדם ואדם לדור בנחלתו, &quot;דרור בארץ לכל יושביה&quot;.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-04 09:28:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3308_2.html',
+		'<p>יפה. ואפשר להוסיף עוד רמז: אסתר היתה משבט בנימין.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-04 11:38:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>הידעתם מי זה עמלק</p><p>עמלק ימח שמו הוא אוייב הדעת בכל דור</p><p>הוא שונא אלהים כי אזני-עמלק ערלות </p><p>כי להמן אין אוזניים לשמוע בקול אלהים</p><p>על כן אנחנו בני ישראל אוכלים את אזני-המן</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-04 15:42:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>פורים שמח!  זקוקה בדחיפות להלוואה.  אין לי איך להאכיל את שלושת ילדיי.  0506214969.  תודה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkUnCntIu3Row1SV4fQOXMjqPi_9d5EaMc',
+		'יפית ביטון',
+		'2015-03-05 07:34:29'
+		)
+		;
+
