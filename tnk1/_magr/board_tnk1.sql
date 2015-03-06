@@ -9345,3 +9345,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-05 15:52:11'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-05-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0230.htm',
+				'tnk1/messages/prqim_t0230_3.html',
+				NULL,
+				'2015-03-05 23:44:28',
+				'2015-03-05 23:44:28',
+				'משהו לפרשת \"כי תישא\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
