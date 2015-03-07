@@ -9369,3 +9369,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t09a11.htm',
+				'tnk1/messages/prqim_t09a11_2.html',
+				NULL,
+				'2015-03-06 14:39:38',
+				'2015-03-06 14:39:38',
+				'\"בית נאמן\", וורט לשבע ברכות, או רעיון למול אחוזי הגירושין הגואים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
