@@ -8223,3 +8223,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-06-0104-mira.html',
+		'<p>בני האלוהים הם גזע חוצני שכונה &quot;השומרים&quot;(מלאכים)שתפקידם היה לשמור ולפקח על האנושות  ולא חלילה להתערות בבני האנוש .אותם מלאכים בחירים מרדו בציווי האלוקי והלכו בעקבות השכנוע של מלאך בשם עזזאל  ושכבו עם בנות האדם ילדיהם היו מוטציה נוראה של ענקים שכדי להתקיים אכלו את כל הצמחיה ולאחר את בעלי החיים ולאחר את בני האדם..האלוקים העניש את המלאכים בצורה חמורה ביותר והשמיד את  ילדיהם הענקים עזזאל מנהיג המרד נענש בצורה הקשה ביותר לעולמי עולמים. (אגב - הקרבת השעיר לעזזאל ביום הכיפורים נועדה להעביר אל אותו מלאך מורד את חטאינו שהרי הוא ממילא נידון לנצח נצחים לסבל)</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmxom2JyxUMRsc8WaETV0fNleGqT6PrrPM',
+		'איתן אור',
+		'2015-03-07 19:00:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-06-0104-mira.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmxom2JyxUMRsc8WaETV0fNleGqT6PrrPM',
+		'איתן אור',
+		'2015-03-07 19:01:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-08 06:00:12' 
+			WHERE messageid=5129;
+

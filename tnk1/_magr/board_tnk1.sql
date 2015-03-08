@@ -9385,3 +9385,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_59.html',
+				NULL,
+				'2015-03-07 17:43:08',
+				'2015-03-07 17:43:08',
+				'על \"מתי ואיך חדלתי להיות יהודי?\" מאת שלמה זנד',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-07 19:00:57'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-06-0104-mira.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-07 19:01:27'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-06-0104-mira.html'
+		;
+
