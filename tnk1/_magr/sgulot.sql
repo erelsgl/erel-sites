@@ -2395,3 +2395,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 10 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 7 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 8 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<p><strong>לִוְיַה</strong> = דבר הנִלְוָה לראש ומְלַוֶּה את הראש. בלשון ימינו אפשר לתרגם ל: הִלָּה. מכאן: <strong>ליוויית חן</strong> = הילה חיננית (יפה), הילה הגורמת לאדם למצוא חן בעיני אחרים.</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tirgum` = '<p>\r\n<strong>בני! שמע וקח</strong>   בלבך את הדברים שאני \r\n<strong>אומר</strong>   לך, ו<strong>יתרבו שנות חייך</strong> -&#160;</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 10 AND 1 LIMIT 1;
+
