@@ -9417,3 +9417,131 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-06-0104-mira.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 08:23:08'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-06-0104-mira.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 08:36:34'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/torim_wyonim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 09:32:00'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/torim_wyonim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 09:35:01'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/torim_wyonim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 16:40:09'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/avjlom_hds.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/mlkima.html',
+				'tnk1/sofrim/brurya/mlkima-shlomo.html',
+				NULL,
+				'2015-03-08 17:37:38',
+				'2015-03-08 17:37:38',
+				'חיי שלמה בהשוואה לחיי דוד',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/mlkimb.html',
+				'tnk1/sofrim/brurya/mlkimb-elyhu.html',
+				NULL,
+				'2015-03-08 17:45:25',
+				'2015-03-08 17:45:25',
+				'אליהו - אישיות נבואית כבירה ומיוחדת',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/mlkimb.html',
+				'tnk1/sofrim/brurya/mlkimb-elisha.html',
+				NULL,
+				'2015-03-08 17:46:14',
+				'2015-03-08 17:46:14',
+				'אלישע - תלמידו המובהק של אליהו',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/jmuelb.html',
+				'tnk1/sofrim/brurya/jmuelb-tfzrt-dmuyot.html',
+				NULL,
+				'2015-03-08 17:49:10',
+				'2015-03-08 17:49:10',
+				'תפזורת - דמויות בספר שמואל ב',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/brurya/jmuelb.html',
+				'tnk1/sofrim/brurya/jmuelb-tfzrt-mqomot.html',
+				NULL,
+				'2015-03-08 17:49:48',
+				'2015-03-08 17:49:48',
+				'תפזורת - מקומות בספר שמואל ב',
+				'ברוריה בן-דוד (וייס)',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-08 18:03:19'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/avjlom_hds.html'
+		;
+
