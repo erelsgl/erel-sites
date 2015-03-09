@@ -8254,3 +8254,82 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-03-08 06:00:12' 
 			WHERE messageid=5129;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-06-0104-mira.html',
+		'<p>כל המאמר בשגגה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-08 08:23:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/torim_wyonim.html',
+		'<p>הענין שהעדיפו להביא תור ולא בני יונה כי בני יונה הם גוזלים שטרם הצמיחו נוצות קבועות והמבחן הינו מבחן הדם שאם תתלוש נוצה מקום התלישה לא יתמלא דם. הזמן שבו הגוזל עונה להגדרה הינו קצר מה שאין כן בתורים ברגע שהם בגרו והצמיחו נוצות הם מותרים בהקרבה והם מצויים וזמינים יותר מאשר בני יונה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnSew6rsXqp7_M-25NdH2j3rdAv817Ubmw',
+		'Moshe Didi',
+		'2015-03-08 08:36:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/torim_wyonim.html',
+		'<p>יונה היא זו היונה הידועה לנו</p><p>תֹר הוא תר-נגול = הוא עוף התֹר [אשר] נגול סביב הראש לכפרה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-08 09:32:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/torim_wyonim.html',
+		'<p>יונה היא זו היונה הידועה לנו</p><p>תֹר הוא תר-נגול = זה עוף התֹר נגול סביב הראש לכפרה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-08 09:35:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-08 14:25:52' 
+			WHERE messageid=5132;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/avjlom_hds.html',
+		'<p>בסיפור מרד אבשלום יש בעיות רבות. נתחיל מהסוף. כיצד יכול שלמה לקחת לאישה את ביתו של אבשלום הבוגד ולהביא איתה לעולם את רחבעם המלך הבא?</p><p>כיצד אפשר להבין את האבל הכבד של דוד על מות אבשלום? מדוע נאמר לדוד שאבשלום רצח את כל בני המלך בטרם שנאמר לו שרק אמנון נרצח? </p><p>לדעתי מרד אבשלום הומצא לכפר על פשעי דוד וכותבי התנ&quot;ך סוגרים עימו חשבון בתיאור ימיו האחרונים.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawm9OhGYrt1Hw_m7H2GHhnD2swtAcplTF1g',
+		'יעקב אבירם',
+		'2015-03-08 16:40:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/avjlom_hds.html',
+		'<p>אם כבר מדברים על אבשלום, ממש במקרה הכנתי סרטון קצר של ראיון עם אבשלום (כן , סוג של שיעורי בית)</p><p>אשמח לשמוע מה דעתכם . :) </p><p>https://www.youtube.com/watch?v=GX4R1pgzPh0</p><p>נתראה אחרי המרד  (כלומר בסרטון הבא )</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlF9iwCiX4m9G9I0jbzObaZuo8xk6r5fcY',
+		'יוני שץ',
+		'2015-03-08 18:03:19'
+		)
+		;
+
