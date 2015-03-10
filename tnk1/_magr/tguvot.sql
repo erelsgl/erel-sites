@@ -8333,3 +8333,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-32.html',
+		'<p>ממש נהנתי לקרוא את הפרוש , כל מילה פנינה, קצר לענין וקולע, יישר כוח גדול.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkp10CMIH23dkKzSC3rKU3bHOY0yuV8QBE',
+		'tehila pinto',
+		'2015-03-09 11:27:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-32.html',
+		'<p>עבודת קודש</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkp10CMIH23dkKzSC3rKU3bHOY0yuV8QBE',
+		'tehila pinto',
+		'2015-03-09 11:30:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/psuqim.html',
+		'<p>האם הייתה התקדמות כלשהי בנושא?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl8K9jH6-ZXm-MVZMs-RKwlfBTK6kMo-ys',
+		'Inbal Cohen',
+		'2015-03-09 13:00:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/psuqim.html',
+		'<p>לידידי אראל סגל היקר</p><p>לא נכון לסווג פסוקים לפי נושאים</p><p>כי בפסוק אחד של מקרא הקודש יש כל כך הרבה משמעויות ויש שאומרים שבעים פנים לה</p><p>וגם אם תסווג פסוק מסויים לנושא כל-שהוא אז יתכן שהחמצת לפרש ולסווג את נושא הפסוק </p><p>וגם מי שיידע לחפש על פי נושא לא בהכרח ימצא פסוק מבוקשו [על אחת כמה וכמה מי שלא ידע לקשר בין הנושא לפסוק]</p><p>---------------</p><p>לכן מה שלדעתי יש לעשות זה להציג באתר הניווט בתנך אולי בחזית האתר מקום לשאלות של קהל הגולשים </p><p>שישאלו ככל העולם על לבם כל פסוק וכל נושא העולה על רוחם ואני מוכן לענות על כל השאלות כפי שאני עונה לכם </p><p>גם באתר הזה וגם באתר אתנכתא ובכלי התקשורת באינטרנט ובכל אתר ואתר</p><p>דִּי בְאַתְרָא‏ הָדֵין וְדִי בְכָל אָתָר וְאָתָר</p><p>http://tora.us.fm/tnk1/daian</p><p>   דַיָּן משה ותורתו    </p><p>   מורה דרך הקודש   </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-09 14:31:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/psuqim.html',
+		'<p>לידידי אראל סגל היקר</p><p>לא נכון לסווג פסוקים לפי נושאים</p><p>כי בפסוק אחד של מקרא הקודש יש כל כך הרבה משמעויות ויש שאומרים שבעים פנים לה</p><p>וגם אם תסווג פסוק מסויים לנושא כל-שהוא אז יתכן שהחמצת לפרש ולסווג את נושא הפסוק</p><p>וגם מי שיידע לחפש על פי נושא לא בהכרח ימצא פסוק מבוקשו [על אחת כמה וכמה מי שלא ידע לקשר בין הנושא לפסוק]</p><p>---------------</p><p>לכן מה שלדעתי יש לעשות זה להציג באתר הניווט בתנך אולי בחזית האתר מקום לשאלות של קהל הגולשים</p><p>שישאלו ככל העולם על לבם כל פסוק וכל נושא העולה על רוחם ואני מוכן לענות על כל השאלות כפי שאני עונה לכם</p><p>גם באתר הזה וגם באתר אתנכתא ובכלי התקשורת באינטרנט ובכל אתר ואתר</p><p>דִּי בְאַתְרָא‏ הָדֵין וְדִי בְכָל אָתָר וְאָתָר</p><p>   דַיָּן משה ותורתו    </p><p>   מורה דרך הקודש   </p><p>http://tora.us.fm/tnk1/daian</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-09 14:34:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-09 14:34:35' 
+			WHERE messageid=5140;
+

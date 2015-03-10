@@ -9545,3 +9545,89 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuelb/avjlom_hds.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-09 11:27:42'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-14-32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-09 11:30:46'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-14-32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-09 13:00:27'
+		WHERE ktovt_bn='tnk1/msr/psuqim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-09 14:31:59'
+		WHERE ktovt_bn='tnk1/msr/psuqim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-09 14:34:06'
+		WHERE ktovt_bn='tnk1/msr/psuqim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_664.html',
+				NULL,
+				'2015-03-09 20:49:53',
+				'2015-03-09 20:49:53',
+				'מחצית השקל/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-09 20:49:53'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_665.html',
+				NULL,
+				'2015-03-09 20:54:39',
+				'2015-03-09 20:54:39',
+				' שולחן לחם הפנים/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-09 20:54:39'
+			WHERE ktovt_bn='tnk1/forums.html';
+
