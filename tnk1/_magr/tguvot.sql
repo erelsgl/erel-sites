@@ -8400,3 +8400,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-03-09 14:34:35' 
 			WHERE messageid=5140;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>אני צריכה בבקשה הלוואה באזור 5000 ש&quot;ח אם אפשרי יותר אשמח</p><p>אני בת למשפחה חד הורית נקלענו למצב קשה מאוד וגם עוד מעט פסח ואני חייבת חייבת עזרה בשביל המשפחה</p><p>054-9176112</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlQynZ4V9yG_WhCpzHRPGYf9QxK1nu9IF0',
+		'לאורה סינמן',
+		'2015-03-11 09:30:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/jlmo.html',
+		'<p>אין כאן אזכור על נשותיו כאלף במספר יש להניח שרובן לא היו יהודיות האם התגיירו האם מוזכר היכן שהוא , שאלתי , איפוא מוזכר הגבול בין יהודי ללא יהודי , להבדיל מימינו , שחלילה , לא להינשא לגוי/ה , ומה עם ברית המילה ? האם היה או נוצר מתישהו החיץ בין נימול לשאינו ?!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmbQr2E0wkCJmm0dXKa2leGr7_tnOvWqiU',
+		'דוד הירש',
+		'2015-03-12 03:54:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/jlmo.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmbQr2E0wkCJmm0dXKa2leGr7_tnOvWqiU',
+		'דוד הירש',
+		'2015-03-12 03:55:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-12 05:51:28' 
+			WHERE messageid=5143;
+

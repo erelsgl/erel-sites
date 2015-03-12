@@ -9654,3 +9654,43 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-03-10 19:00:27'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-11 09:30:04'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_60.html',
+				NULL,
+				'2015-03-11 16:15:03',
+				'2015-03-11 16:15:03',
+				'על \"הברית הישראלית\" מאת יואב שורק',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-12 03:54:53'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/jlmo.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-12 03:55:30'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/jlmo.html'
+		;
+
