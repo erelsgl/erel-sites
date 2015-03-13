@@ -8443,3 +8443,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-03-12 05:51:28' 
 			WHERE messageid=5143;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/jlmo.html',
+		'<p> לדוד הירש שלום</p><p>.שיר השירים ו8: &quot;שִׁשִּׁים הֵמָּה מְּלָכוֹת וּשְׁמֹנִים פִּילַגְשִׁים וַעֲלָמוֹת אֵין מִסְפָּר&quot; </p><p>לשלמה המלך היו שִׁשִּׁים נשים + שְׁמֹנִים פִּילַגְשִׁים = הכל יחדיו 140 נשים</p><p>וַעֲלָמוֹת אֵין מִסְפָּר אלה הן הבתולות שאוהבות את המלך שלמה </p><p>כאשר הבתולות של הבית היהודי אוהבות את נפתלי בנט גבור ישראל</p><p>כאשר בנות השש-עשרה מעריצות זמר פופ</p><p>טו לִרְקָמוֹת תּוּבַל לַמֶּלֶךְ בְּתוּלוֹת אַחֲרֶיהָ רֵעוֹתֶיהָ מוּבָאוֹת לָךְ.</p><p>טז תּוּבַלְנָה בִּשְׂמָחֹת וָגִיל תְּבֹאֶינָה בְּהֵיכַל מֶלֶךְ</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-12 08:43:37'
+		)
+		;
+
