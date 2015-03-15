@@ -9702,3 +9702,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/mlkima/jlmo.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-15 06:43:06'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+

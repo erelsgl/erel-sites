@@ -8455,3 +8455,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>23.1.2015  http://economics.stackexchange.com/a/3144/385</p><p>כולנו רוצים שהמשכורות יעלו ושמחירי הדירות יירדו.    הבעיה, ששני הרצונות הללו סותרים זה את זה!</p><p>מחקר שנעשה בארה&quot;ב מראה על מתאם חזק בין עלייה במשכורות לבין עלייה במחירי הדיור.</p><p>כשמחירי הדיור עולים, אנשים מסוגלים לשלם יותר על דירות, בעלי הדירות מבינים את זה ומעלים את שכר-הדירה, כך שבסופו של דבר, השכר נטו (משכורת פחות שכר דירה) לא משתנה... בעלי הדירות לוקחים לעצמם את רוב הרווח מעליית המשכורות!</p><p>הפתרון הצודק היחיד הוא הפתרון של התורה - לחלק קרקע לכל אחד, כך שכל אדם יהיה &quot;בעל הבית&quot; של עצמו.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-15 06:43:06'
+		)
+		;
+

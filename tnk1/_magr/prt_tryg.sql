@@ -13,3 +13,7 @@ CREATE TABLE `prt_tryg` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_tryg.txt'  INTO TABLE prt_tryg (qod,sug,tvnit,kotrt,ktovt,m,l,tarik_hosfa);
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tryg` SET `ktovt` = 'tryg/thra/tvila_btva.html' WHERE `qod` = 'טבילה בטבע' AND 1 LIMIT 1;
+
