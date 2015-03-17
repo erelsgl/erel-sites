@@ -9710,3 +9710,121 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/half.html',
+				NULL,
+				'2015-03-16 08:54:47',
+				'2015-03-16 08:54:47',
+				'מחצית השקל ביום הבחירות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 11:36:53'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 11:37:21'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 15:58:46'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 17:05:19'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 17:11:46'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 17:22:15'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-16 17:29:59'
+		WHERE ktovt_bn='tnk1/msr/knesset/half.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_667.html',
+				NULL,
+				'2015-03-16 21:30:40',
+				'2015-03-16 21:30:40',
+				'קורבן עולה/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-16 21:30:40'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_668.html',
+				NULL,
+				'2015-03-16 21:35:16',
+				'2015-03-16 21:35:16',
+				'פרשת ויקרא- מה הקשר בן העקדה לעניין הקורבנות?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-16 21:35:16'
+			WHERE ktovt_bn='tnk1/forums.html';
+

@@ -8467,3 +8467,108 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>אונקיית כסף = אגורת כסף = 1 גרה מתוך עשרים גרה שקל הקודש</p><p>5 אונקיות כסף = 5 אגורות כסף = רבע שקל הקודש</p><p>נכון להיום [מחצית חודש מרס 2015 ] אונקיית כסף = 63 ש&quot;ח</p><p>5 כפול 63 ש&quot;ח = 315 ש&quot;ח = רבע שקל כסף</p><p>ומחצית השקל = 630 ש&quot;ח ========== זה שווי מחצית שקל הקודש</p><p>ושקל הקודש = 1260 ש&quot;ח</p><p>ושקל הקודש = 1300 ש&quot;ח</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 11:36:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>אונקיית כסף = אגורת כסף = 1 גרה מתוך עשרים גרה שקל הקודש</p><p>5 אונקיות כסף = 5 אגורות כסף = רבע שקל הקודש</p><p>נכון להיום [מחצית חודש מרס 2015 ] אונקיית כסף = 63 ש&quot;ח</p><p>5 כפול 63 ש&quot;ח = 315 ש&quot;ח = רבע שקל כסף</p><p>ומחצית השקל = 630 ש&quot;ח ========== זה שווי מחצית שקל הקודש</p><p>ושקל הקודש = 1260 ש&quot;ח</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 11:37:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-16 11:37:22' 
+			WHERE messageid=5146;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>מניין לך שהאגורה היא אונקיה?</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-16 15:58:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>1. אני יודע זאת בקודש !!!</p><p>גם שכר הנביא הוא 5 אגורות = 5 גרה = רבע שקל כסף</p><p>וזה מה שהיו נותנים לנביא בעת אשר דרשו מאתו אלהים</p><p>2. בספר שמואל א פרק ב כתוב:</p><p>(לו) וְהָיָה כָּל-הַנּוֹתָר בְּבֵיתְךָ יָבוֹא לְהִשְׁתַּחֲו‍ֹת לוֹ לַאֲגוֹרַת כֶּסֶף וְכִכַּר-לָחֶם וְאָמַר סְפָחֵנִי נָא אֶל-אַחַת הַכְּהֻנּוֹת לֶאֱכֹל פַּת-לָחֶם.</p><p>ככר לחם ליום אחד במקביל לאגורת כסף ליום מתוך עשרים גרה השקל בשקל הקודש</p><p>אגורה = גרה</p><p> מאז שמחשבים משכורת חודשית לפי 30 יום</p><p>קצבה של אוכל [דמי אשל] בחודש זה 30 אגורות = שקל וחצי = עשרים גרה + עשרה גרה</p><p>האגורה היא גרה והייתה אמורה להיות המילה גרם</p><p>30 גרם הם אונקיה אחת = אגורה אחת</p><p>גרם שיבוש המילה גרה </p><p>והגרם היה אמור להיות כמשקל אונקיה </p><p>בקיצור היה שיבוש בגלל החלוקה ל 30</p><p> </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 17:05:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-16 17:10:55' 
+			WHERE messageid=5149;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>1. אני יודע זאת בקודש !!!</p><p>גם שכר הנביא הוא 5 אגורות = 5 גרה = רבע שקל כסף</p><p>וזה מה שהיו נותנים לנביא בעת אשר דרשו מאתו אלהים</p><p>2. בספר שמואל א פרק ב כתוב:</p><p>(לו) וְהָיָה כָּל-הַנּוֹתָר בְּבֵיתְךָ יָבוֹא לְהִשְׁתַּחֲו‍ֹת לוֹ לַאֲגוֹרַת כֶּסֶף וְכִכַּר-לָחֶם וְאָמַר סְפָחֵנִי נָא אֶל-אַחַת הַכְּהֻנּוֹת לֶאֱכֹל פַּת-לָחֶם.</p><p>ככר לחם ליום אחד במקביל לאגורת כסף ליום מתוך עשרים גרה השקל בשקל הקודש</p><p>אגורה = גרה</p><p>מאז שמחשבים משכורת חודשית לפי 30 יום</p><p>קצבה של אוכל [דמי אשל] בחודש זה 30 אגורות = שקל וחצי = עשרים גרה + עשרה גרה [מלבד 30 ככרות לחם]</p><p>האגורה היא גרה והייתה אמורה להיות המילה גרם</p><p>30 גרם הם אונקיה אחת = אגורה אחת</p><p>גרם שיבוש המילה גרה</p><p>והגרם היה אמור להיות כמשקל אונקיה</p><p>בקיצור היה שיבוש בגלל החלוקה ל 30</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 17:11:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>בספר דברי הימים א פרק טז כתוב:</p><p>(ב) וַיְכַל דָּוִיד מֵהַעֲלוֹת הָעֹלָה וְהַשְּׁלָמִים וַיְבָרֶךְ אֶת הָעָם בְּשֵׁם יְהוָה.</p><p>(ג) וַיְחַלֵּק לְכָל אִישׁ יִשְׂרָאֵל מֵאִישׁ וְעַד אִשָּׁה לְאִישׁ כִּכַּר לֶחֶם וְאֶשְׁפָּר וַאֲשִׁישָׁה</p><p>אֲגוֹרַת כֶּסֶף וְכִכַּר-לָחֶם = כִּכַּר לֶחֶם וְאֶשְׁפָּר וַאֲשִׁישָׁה</p><p> אֲגוֹרַת כֶּסֶף = [מחיר אונקיה] = אֶשְׁפָּר וַאֲשִׁישָׁה</p><p>אֶשְׁפָּר זה בשר פר על האש וַאֲשִׁישָׁה זה מיץ ענבים תירוש = מחירם שווה ערך לאגורת כסף אחת [אונקיה אחת] שוויה 60 ש&quot;ח</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 17:22:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-16 17:24:32' 
+			WHERE messageid=2779;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/half.html',
+		'<p>מחיר אונקית כסף </p><p>http://xn--ceben6b.xn--5dbff.net/silver.php?u=std</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-16 17:29:59'
+		)
+		;
+
