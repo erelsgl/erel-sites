@@ -8572,3 +8572,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>פסח שמח ישר כוח על האינפורמציה והשתדלות לעזרה, לצערי משפחתנו זקוקה באופן דחוף להלוואה עקב חובות כספיים. 052-288-3076 תודה.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawloS-f3srZ9JAoE3tjwTUP11s_BRWsm9qI',
+		'Ben chen',
+		'2015-03-19 15:26:04'
+		)
+		;
+
