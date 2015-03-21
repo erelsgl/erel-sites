@@ -269,3 +269,15 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-03-19 14:40:06','https://www.google.com/accounts/o8/id?id=AItOawloS-f3srZ9JAoE3tjwTUP11s_BRWsm9qI','Ben chen');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-03-20 11:40:52','https://www.google.com/accounts/o8/id?id=AItOawnvkn0YZm9Cqy5LcybCxeZcJiJrKJGbHgc','אביתר כהן');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-03-20 13:29:28','https://www.google.com/accounts/o8/id?id=AItOawlWyhCxoWhNaTjwsrFyF0N0q70FQV7YojY','אלברט שבות');
+

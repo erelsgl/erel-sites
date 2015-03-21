@@ -9868,3 +9868,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/kwj.html',
+				'tnk1/messages/ljon_jorj_kwj_1.html',
+				NULL,
+				'2015-03-20 11:42:10',
+				'2015-03-20 11:42:10',
+				'מהודו ועד כוש',
+				'אביתר כהן',
+				'evycohen @ walla.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1238.htm',
+				'tnk1/messages/re_jl_gwg_njya_arc_hmgwg.pdf',
+				NULL,
+				'2015-03-20 14:43:46',
+				'2015-03-20 14:43:46',
+				'מעגל רע של גוג נשיא ארץ המגוג',
+				'רמי ניר  ',
+				''
+			)
+		;
+
