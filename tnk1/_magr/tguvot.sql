@@ -8584,3 +8584,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2816_5.html',
+		'<p>לגבי השאלה האחרונה - נאמר &quot;אוטם אזנו מזעקת דל - גם הוא יקרא ולא ייענה&quot;. ומכאן שכל מגזר בציבור חייב לשמוע את זעקתם של המגזרים האחרים. </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-22 05:53:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2816_5.html',
+		'<p>לגבי השאלה האחרונה - נאמר &quot;אוטם אזנו מזעקת דל - גם הוא יקרא ולא ייענה&quot;. ומכאן שכל מגזר בציבור חייב לשמוע את זעקתם של המגזרים האחרים, להבין מה כואב להם ולהתייחס ברצינות לפחדים שלהם.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-22 05:53:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-22 05:53:57' 
+			WHERE messageid=5154;
+
