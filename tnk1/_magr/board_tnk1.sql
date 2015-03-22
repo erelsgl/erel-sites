@@ -9900,3 +9900,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2816.htm',
+				'tnk1/messages/prqim_t2816_5.html',
+				NULL,
+				'2015-03-21 17:13:13',
+				'2015-03-21 17:13:13',
+				'לפני כשלון גובה רוח ובחירות 2015',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 05:53:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2816_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 05:53:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2816_5.html'
+		;
+
