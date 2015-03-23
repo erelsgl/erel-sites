@@ -2675,3 +2675,35 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `prefix` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 15 AND `verse_number` = 5 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `main_qod_subjects` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 6 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 7 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />', `dquyot` = '<p><strong>הניגוד בין חלקי הפסוק</strong> -</p>             \r\n1. הניגוד העיקרי בפסוק הוא בין\r\n<strong>חכם</strong>           לבין \r\n<strong>אויל</strong>           - החכם \r\n<strong>לב יקח מצוות</strong>           (=ייקח את המצוות ללב), והאויל \r\n<strong>שפתיים יילבט</strong>           (=יקיים את המצוות בעקימת שפתיים בלבד).\r\n<p>2. אולם, לפי הטעמים, המילה \"לב\" מחוברת למילה שלפניה \"חכם\", והביטוי \r\n<strong>חכם-לב</strong>           הוא ביטוי אחד (<a href=\"/tnk1/kma/qjrim1/xkmlv.html\">חכם לב נזכר גם בפסוקים אחרים בספר משלי ובתנ\"ך</a>). לפי זה, ייתכן שהניגוד  העיקרי בפסוק הוא בין \r\n<strong>חכם לב</strong>           (= הלומד כל דבר לעומק עד שהוא מבין אותו בעמקי ליבו), לבין \r\n<strong>אויל שפתיים</strong>           (= העושה כל דבר בשטחיות, ב\"מס שפתיים\" בלבד). גם לפי פירוש זה, משמעות הפסוק היא כבפירוש 1.</p><p>- אולם, הביטוי \r\n<strong>אויל שפתיים</strong>           (שלא כמו הביטוי \r\n<strong>חכם לב</strong>) אינו מופיע בשום מקום אחר בתנ\"ך, פרט לפסוק 10 שגם בו משמעותו אינה ברורה.\r\n</p><p>3. ייתכן גם, שהניגוד העיקרי בפסוק הוא \r\n<strong>חכם לב</strong>           לבין \r\n<strong>אויל</strong>           - החכם-לב \r\n<strong>ייקח מצוות</strong>           (= ישתדל לקיים כמה שיותר מצוות מיוזמתו), והאויל \r\n<strong>שפתיים יילבט</strong>           (= ישתדל לצאת ידי חובה בעקימת שפתיים בלבד): \"<q class=\"mfrj\">[החכם לב] \r\n<strong>יקח מצוות</strong>              - ייקחם בכל עת ולא יחדל מלקחת; אבל \r\n<strong>האויל מייגע</strong>              הוא את \r\n<strong>השפתיים</strong>              לבד, לומר [לומד] הרבה ואין עושה מאומה</q>\" \r\n<small>(מצודת דוד)</small>, \"<q class=\"mfrj\"><strong>חכם לב</strong>... מחזר ומחפש אחרי \r\n<strong>המצוות</strong>, וגם כי לא הגיעה חובה לידו, מתבונן במחשבותיו איזה הדרך תמצא לו מצוה לעשות... \r\n<strong>והאויל</strong>              הוא בעל עבירות, מתעסק בחטא בידיו \r\n<strong>ובשפתיו</strong>              ולא דיו המעשה</q>\"; ועוד: \"<q class=\"mfrj\"><strong>החכם לב... ייקח מצוות</strong>              בידיו לעשותם, ולא בשפתיו, כי לא יתפאר ויתהלל, אך יאמר מעט ויעשה הרבה. \r\n<strong>והאויל נלבט בשפתיו</strong>              ומודיע עברותיו</q>\" \r\n<small>(הרב יונה גירונדי)</small>.&#160;</p><p>- אולם, לפי זה הניגוד בין שני חלקי הפסוק הוא פחות ברור - המילה \"לב\" אינה עומדת כניגוד למילה \"שפתיים\".</p><p><strong>מאיפה לוקחים מצוות? </strong></p><p>1. רוב המפרשים פירשו שה<strong>מצוות</strong>           בפסוק זה הן מצוות ה\' הכתובות בתורה;\r\n</p><p>2. ורלב\"ג פירש, \r\n<strong>שהחכם</strong>             קובע לעצמו \"<strong>מצוות</strong>\", כלומר, נהלים המאפשרים לו לבצע את משימותיו בצורה מסודרת, קביעת סדר יום וכד\'; בניגוד \r\n<strong>לאויל</strong>, הפועל בצורה נמהרת, ללא סדר ותכנון, ולכן נכשל במשימותיו.\r\n \r\n</p>          \r\n  \r\n<div class=\"future\">3. וייתכן שהכוונה למצוות של הצדיק, הנזכר בפסוקים הקודמים: \"<q class=\"psuq\">ברכות לראש צדיק... זכר צדיק לברכה...</q>\"; הפסוק שייך \r\n<a href=\"/tnk1/ktuv/mjly/mj-10-0612.html\">לפיסקה המדברת על היחס הראוי לצדיקים</a>, והוא מלמד, שהחכם לא רק מברך את הצדיק בפיו ובשפתיו, אלא גם לוקח אל ליבו את ההנחיות המעשיות שהצדיק נותן לו.\r\n \r\n</div>           \r\n       \r\n       \r\n<p>\r\n<strong>ואויל שפתיים יילבט -</strong></p><p>פירשנו שהביטוי \r\n<strong>ואויל שפתיים יילבט</strong>           מבטא את נטייתו של האדם השטחי להסתפק\r\nבדיבורי-שפתיים בלבד; אולם ייתכן שמשמעותו שלילית יותר והוא מציין עקימת\r\nשפתיים לאות לעג, כמו \r\n<a href=\"/tnk1/ktuv/mj/10-10.html\">בפסוק 10</a>; כשהאויל רואה את החכם הלוקח מצוות, הוא מעקם את שפתיו ולועג לו. </p><p style=\"margin-bottom: 0in\">בשם הבעש\"ט מצאתי: \"<q class=\"mfrj\">כי בכל מצוה, <strong>לוקח חכם לב</strong> שתי <strong>מצוות</strong> – המצוה בפועל, ומצות הכוונה (שעל כן מברכים על כל מצוה פרטית \"אשר קדשנו במצוותיו\", לשון רבים). \"המעשה הוא העיקר\" בכל מצוה, אך חלילה לקיים את המצוה באופן מת, בלי חיות פנימית, והכוונה היא החיות של המצוה, היא המעניקה את ה\"שמחה של מצוה\". המדרש ממחיש היטב את חכמת הלב של הנשיאים – כל אחד מקריב אותו דבר, אך בפנימיות לוקח עוד מצוה בכוונתו, ומצוה זו יחודית לו ולבני שבטו</q>\".</p>' WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 8 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />' WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 10 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mqorot` = '<br />' WHERE `book` = 'משל' AND `chapter_number` = 10 AND `verse_number` = 13 AND 1 LIMIT 1;
+
