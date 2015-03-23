@@ -9932,3 +9932,79 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2816_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 11:05:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2816_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 11:46:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2816_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1216.htm',
+				'tnk1/messages/prqim_t1216_1.html',
+				NULL,
+				'2015-03-22 13:16:29',
+				'2015-03-22 13:16:29',
+				'\"דם פסח ודם מילה\": רעיון לפסח התשע\"ה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/eyr1.html',
+				'tnk1/klli/mdrjim/irxoma.html',
+				NULL,
+				'2015-03-22 18:19:17',
+				'2015-03-22 18:19:17',
+				'קידוש ערי חומה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 21:10:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-22 22:47:04'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/01.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/ktuv_ewn_sukot_1.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/ktuv_ewn_sukot_1_0.html';
+
