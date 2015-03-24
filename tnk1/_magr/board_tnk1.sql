@@ -10008,3 +10008,90 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/messages/ktuv_ewn_sukot_1_0.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 09:51:56'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 11:18:49'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 11:44:32'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 11:54:24'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 11:55:17'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 12:03:22'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/irxoma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 12:21:15'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-23 12:26:55'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_669.html',
+				NULL,
+				'2015-03-23 21:53:37',
+				'2015-03-23 21:53:37',
+				'פרשת צו,כוחם של ציוויים מאת ה\'- כיצד?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-23 21:53:37'
+			WHERE ktovt_bn='tnk1/forums.html';
+

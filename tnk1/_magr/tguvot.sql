@@ -8670,3 +8670,127 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>מה הקשר בין עלמות לחוסר בתולים</p><p>הלא אתה עצמך הוכחת שאין קשר כזה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk-0zJdAh4dUpeJGP5DIE2FIXwO6Cvz1No',
+		'Gavri Levis',
+		'2015-03-23 09:51:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>עלמה = היא כן בתולה</p><p>--------------------------</p><p>שיר השירים ו8: &quot;שִׁשִּׁים הֵמָּה מְּלָכוֹת וּשְׁמֹנִים פִּילַגְשִׁים וַעֲלָמוֹת אֵין מִסְפָּר&quot;</p><p>שִׁשִּׁים הֵמָּה מְּלָכוֹת = נשים הנשואות בחתונה למלך </p><p>וּשְׁמֹנִים פִּילַגְשִׁים = אלה הנשים השפחות [שפחה מהמילה משפחה]</p><p> וַעֲלָמוֹת אֵין מִסְפָּר = אלה הן הנערות הבתולות </p><p>.שיר השירים ו8: &quot;שִׁשִּׁים הֵמָּה מְּלָכוֹת וּשְׁמֹנִים פִּילַגְשִׁים וַעֲלָמוֹת אֵין מִסְפָּר&quot;</p><p>לשלמה המלך היו שִׁשִּׁים נשים + שְׁמֹנִים פִּילַגְשִׁים = הכל יחדיו 140 נשים</p><p>וַעֲלָמוֹת אֵין מִסְפָּר אלה הן הבתולות שאוהבות את המלך שלמה</p><p>כאשר הבתולות של הבית היהודי אוהבות את נפתלי בנט גבור ישראל</p><p>כאשר בנות השש-עשרה מעריצות זמר פופ</p><p>טו לִרְקָמוֹת תּוּבַל לַמֶּלֶךְ בְּתוּלוֹת אַחֲרֶיהָ רֵעוֹתֶיהָ מוּבָאוֹת לָךְ.</p><p>טז תּוּבַלְנָה בִּשְׂמָחֹת וָגִיל תְּבֹאֶינָה בְּהֵיכַל מֶלֶךְ</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-23 11:18:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>נושא גדול וצריך עיון. בינתיים רק אעיר/אשאל וְדֶרֶךְ גֶּבֶר בְּעַלְמָה - הרי כן נשאר סימן לבתולה והוא קריעת קרום הבתולין.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-23 11:44:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>וראוי להשות/לענות לזה:</p><p>http://www.messiah.co.il/index.php/messiah-deeper/29-virgin41</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-23 11:54:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>וראוי להשות/לענות לזה:</p><p>http://www.messiah.co.il/index.php/messiah-deeper/29-virgin41</p><p>[אפשר להתחיל מהאמצע היכן שרלוונטי]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-23 11:55:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-23 11:55:19' 
+			WHERE messageid=5163;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/irxoma.html',
+		'<p>http://www.yba.org.il/%D7%A7%D7%93%D7%95%D7%A9%D7%AA-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-%D7%95%D7%A7%D7%93%D7%95%D7%A9%D7%AA-%D7%A2%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%A7%D7%A4%D7%95%D7%AA-%D7%97%D7%95%D7%9E%D7%94-/-%D7%94%D7%A8%D7%91-%D7%9E%D7%A9%D7%94-%D7%A6%D7%91%D7%99-%D7%A0%D7%A8%D7%99%D7%94-%D7%96%D7%A6-%D7%9C</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-03-23 12:03:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>נושא גדול וצריך עיון. בינתיים רק אעיר/אשאל, בדרך התמיכה, וְדֶרֶךְ גֶּבֶר בְּעַלְמָה - הרי כן נשאר סימן לבתולה והוא קריעת קרום הבתולין.</p><p>וראוי להשות/לענות לזה:</p><p>http://www.messiah.co.il/index.php/messiah-deeper/29-virgin41</p><p>[אפשר להתחיל מהאמצע היכן שרלוונטי]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-23 12:21:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-23 12:21:17' 
+			WHERE messageid=5162;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-23 12:21:19' 
+			WHERE messageid=5164;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>וְדֶרֶךְ גֶּבֶר בְּעַלְמָה - הרי כן נשאר סימן לבתולה והוא קריעת קרום הבתולין - זה נכון. </p><p>אבל ראוי להשות/לענות לזה:</p><p>http://www.messiah.co.il/index.php/messiah-deeper/29-virgin41</p><p>[אפשר להתחיל מהאמצע היכן שרלוונטי]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-23 12:26:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-23 12:27:11' 
+			WHERE messageid=5166;
+
