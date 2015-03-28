@@ -8994,3 +8994,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ישעיהו ס19: &quot;לֹא יִהְיֶה לָּךְ עוֹד הַשֶּׁמֶשׁ לְאוֹר יוֹמָם וּלְנֹגַהּ הַיָּרֵחַ לֹא יָאִיר לָךְ וְהָיָה לָךְ יהוה לְאוֹר עוֹלָם וֵאלֹהַיִךְ לְתִפְאַרְתֵּךְ&quot;</p><p>לפי פסוק זה הַיָּרֵחַ לֹא יָאִיר בראש החודש </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-27 09:49:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ספר איוב פרק כו כתוב: </p><p>(ט) מְאַחֵז פְּנֵי כִסֵּא פַּרְשֵׁז עָלָיו עֲנָנוֹ: </p><p>(י) חֹק חָג עַל פְּנֵי מָיִם עַד תַּכְלִית אוֹר עִם חשֶׁךְ: </p><p>בראשית א2: &quot;והארץ היתה תהו ובהו וחשך על פני תהום ורוח אלהים מרחפת על פני המים&quot;</p><p>-----------------</p><p>פְּנֵי כִסֵּא חֹק חָג עַל פְּנֵי מָיִם וחשך על פני תהום ורוח אלהים מרחפת על פני המים</p><p>וחשך על פני תהום ורוח אלהים מרחפת על פני המים כי בַּכֵּסֶה לְיוֹם חַגֵּנוּ:(ה) כִּי חֹק לְיִשְׂרָאֵל הוּא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-27 10:50:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-27 10:50:42' 
+			WHERE messageid=5180;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ספר איוב פרק כו כתוב:</p><p>(ט) מְאַחֵז פְּנֵי כִסֵּא פַּרְשֵׁז עָלָיו עֲנָנוֹ:</p><p>(י) חֹק חָג עַל פְּנֵי מָיִם עַד תַּכְלִית אוֹר עִם חשֶׁךְ:</p><p>בראשית א2: &quot;והארץ היתה תהו ובהו וחשך על פני תהום ורוח אלהים מרחפת על פני המים&quot;</p><p>-----------------</p><p>פְּנֵי כִסֵּא חֹק חָג עַל פְּנֵי מָיִם  = וחשך על פני תהום ורוח אלהים מרחפת על פני המים</p><p>******************* חֹק חָג  = וחשך על פני תהום *******************</p><p>וחשך על פני תהום ורוח אלהים מרחפת על פני המים כי בַּכֵּסֶה לְיוֹם חַגֵּנוּ:(ה) כִּי חֹק לְיִשְׂרָאֵל הוּא</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-27 10:56:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-27 10:56:17' 
+			WHERE messageid=5181;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-24-13.html',
+		'<p>כך (3) גם מבארים ב&quot;עולם התנ&quot;ך&quot; וגם מסבירים את הביטוי</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw',
+		'hagai hoffer',
+		'2015-03-27 12:01:02'
+		)
+		;
+
