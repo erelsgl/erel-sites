@@ -10294,3 +10294,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-24-13.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-28 17:01:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0109_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-28 17:13:31'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-24-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-28 17:13:55'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-24-13.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1803.htm',
+				'tnk1/messages/prqim_t1803_2.html',
+				NULL,
+				'2015-03-28 17:52:34',
+				'2015-03-28 17:52:34',
+				'הכול בגללי/ למעני?',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-29 00:02:24'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+

@@ -9056,3 +9056,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0109_2.html',
+		'<p>נח הצדיק ככל אבותינו הקדושים כולם ראו בְּמַרְאוֹת אֱלֹהִים</p><p>אבותינו הקדושים וכן נח הצדיק דרך כל הנביאים עד האדם הראשון הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>דניאל ב22: &quot;הוּא גָּלֵא עַמִּיקָתָא וּמְסַתְּרָתָא יָדַע מָה בַחֲשׁוֹכָא ונהירא[וּנְהוֹרָא] עִמֵּהּ שְׁרֵא&quot;</p><p>בראשית מו2: &quot;וַיֹּאמֶר אֱלֹהִים לְיִשְׂרָאֵל בְּמַרְאֹת הַלַּיְלָה וַיֹּאמֶר יַעֲקֹב יַעֲקֹב וַיֹּאמֶר הִנֵּנִי&quot;</p><p>וְעֵינֵי יִשְׂרָאֵל כָּבְדוּ מִזֹּקֶן לֹא יוּכַל לִרְאוֹת [בכל זאת אמר לבנו יוֹסֵף] וְהִנֵּה הֶרְאָה אֹתִי אֱלֹהִים גַּם אֶת-זַרְעֶךָ</p><p>ספר בראשית פרק מח כתוב:</p><p>(ח) וַיַּרְא יִשְׂרָאֵל אֶת-בְּנֵי יוֹסֵף וַיֹּאמֶר מִי-אֵלֶּה. </p><p>(ט) וַיֹּאמֶר יוֹסֵף אֶל-אָבִיו בָּנַי הֵם אֲשֶׁר-נָתַן-לִי אֱלֹהִים בָּזֶה וַיֹּאמַר קָחֶם-נָא אֵלַי וַאֲבָרְכֵם.  </p><p>(י) וְעֵינֵי יִשְׂרָאֵל כָּבְדוּ מִזֹּקֶן לֹא יוּכַל לִרְאוֹת וַיַּגֵּשׁ אֹתָם אֵלָיו וַיִּשַּׁק לָהֶם וַיְחַבֵּק לָהֶם.  </p><p>(יא) וַיֹּאמֶר יִשְׂרָאֵל אֶל-יוֹסֵף רְאֹה פָנֶיךָ לֹא פִלָּלְתִּי וְהִנֵּה הֶרְאָה אֹתִי אֱלֹהִים גַּם אֶת-זַרְעֶךָ</p><p>-------------------</p><p>סוף דבר </p><p>יעקב ראה את זרעו בְּמַרְאוֹת אֱלֹהִים </p><p>וגם נח ראה את זרעו בְּמַרְאוֹת אֱלֹהִים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-28 17:01:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-24-13.html',
+		'<p>מְשַׁל הַקַּדְמֹנִי </p><p>אחי בני ישראל אנשי אמונה היראים את האלהים</p><p>אם ידברו אליכם בלעז ובלעג לאמונת אלהי ישראל </p><p>ויאמרו לך &quot;אתה פרימיטיבי וסובל מדעות קומות&quot;</p><p>השב להם &quot; אינני סובל מדעות קדומות וכי אני נהנה מדעות קדומות&quot; מֵחָכְמַת כָּל בְּנֵי קֶדֶם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-28 17:13:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-24-13.html',
+		'<p>מְשַׁל הַקַּדְמֹנִי</p><p>אחי בני ישראל אנשי אמונה היראים את האלהים</p><p>אם ידברו אליכם בלעז ובלעג לאמונת אלהי ישראל</p><p>ויאמרו לך &quot;אתה פרימיטיבי וסובל מדעות קדומות&quot;</p><p>השב להם &quot; אינני סובל מדעות קדומות וכי אני נהנה מדעות קדומות&quot; מֵחָכְמַת כָּל בְּנֵי קֶדֶם</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-28 17:13:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-28 17:13:57' 
+			WHERE messageid=5185;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוק בדחיפות להלוואה (מסיי מדינה עד יום שלישי 31.03.15 לפני עיקולים) מזונות ושכר עובדים. אוכל להשיב את כספי ההלוואה בתוך כשנה עד שנה וחצי. עזרתכם חשובה מאוד. שבוע טוב !</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkzuBLrOLEj1eOel588THKK3yQfO1jd2io',
+		'דוד אופק',
+		'2015-03-29 00:02:24'
+		)
+		;
+
