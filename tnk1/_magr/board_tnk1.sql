@@ -10342,3 +10342,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-29 10:08:51'
+		WHERE ktovt_bn='tnk1/messages/forums_386.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-29 10:09:05'
+		WHERE ktovt_bn='tnk1/messages/forums_386.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-30 05:26:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-30 05:34:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-30 05:40:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
