@@ -479,3 +479,15 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-03-29 06:35:46','https://www.google.com/accounts/o8/id?id=AItOawmT2PgRyNOvZraCfAHnyTwComGDl8bFfl0','הילי גילת');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-03-29 10:08:38','https://www.google.com/accounts/o8/id?id=AItOawk30qQ4DDDaczEfr6jmFIY4X9Br6xQ5kCE','גפן אוליבסטון');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-03-30 05:23:23','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+

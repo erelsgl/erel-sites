@@ -9111,3 +9111,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_386.html',
+		'<p>יפה!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk30qQ4DDDaczEfr6jmFIY4X9Br6xQ5kCE',
+		'גפן אוליבסטון',
+		'2015-03-29 10:08:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-29 10:09:01' 
+			WHERE messageid=5188;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_386.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawk30qQ4DDDaczEfr6jmFIY4X9Br6xQ5kCE',
+		'גפן אוליבסטון',
+		'2015-03-29 10:09:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_21.html',
+		'<p>ספר בראשית פרק א </p><p>(א) בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: </p><p>(ב) וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם: </p><p>(ג) וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר: </p><p>(ד) וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחשֶׁךְ: </p><p>(ה) וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד: </p><p>כך החל לוח השנה של האלהים ביום אחד הוא יום ראשון לשבוע של בריאת העולם אך אחרי ארבעה ימים יש עוד לוח שנה </p><p>כי ביום רבעי נבראו המאורות והירח החל להאיר בלילה החמשי ולכן .. </p><p>יום חמשי הוא האחד לחודש הראשון בשנה על פי לוח הירח הוא חודש ניסן </p><p>ויום ששי אשר נברא האדם הוא השני לחודש ניסן </p><p>ויום שבת אשר נח האדם הוא השלשי לחודש ניסן ויומו הראשון לאדם בגן-עדן </p><p>ויום שבת לאחריו אכל האדם מעץ הדעת בעשור לחודש ניסן ביומו השמני לחייו של האדם </p><p>על כן ברית מילה ביום השמני לחייו של האדם </p><p>ועל כן אנחנו צמים את הצומות בעשור לחודש [עיין בספר הנביא ירמיהו פרק נב] </p><p>********** הנחש יצא בעשור לחודש האביב [זו עת הנחש] **********</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-30 05:26:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_21.html',
+		'<p>ספר בראשית פרק א</p><p>(א) בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ:</p><p>(ב) וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם:</p><p>(ג) וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר:</p><p>(ד) וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחשֶׁךְ:</p><p>(ה) וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד:</p><p>כך החל לוח השנה של האלהים ביום אחד הוא יום ראשון לשבוע של בריאת העולם אך אחרי ארבעה ימים יש עוד לוח שנה</p><p>כי ביום רבעי נבראו המאורות והירח החל להאיר בלילה החמשי ולכן ..</p><p>יום חמשי הוא האחד לחודש הראשון בשנה על פי לוח הירח הוא חודש ניסן</p><p>ויום ששי אשר נברא האדם הוא השני לחודש ניסן</p><p>ויום שבת אשר נח האדם הוא השלשי לחודש ניסן ויומו הראשון לאדם בגן-עדן</p><p>ויום שבת לאחריו אכל האדם מעץ הדעת בעשור לחודש ניסן ביומו השמני לחייו של האדם</p><p>על כן ברית מילה ביום השמני לחייו של האדם</p><p>ועל כן אנחנו צמים את הצומות בעשור לחודש [עיין בספר הנביא ירמיהו פרק נב]</p><p>********** הנחש יצא בעשור לחודש האביב [זו עת הנחש] **********</p><p>http://news.walla.co.il/item/2841317</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-30 05:34:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-03-30 05:35:45' 
+			WHERE messageid=5191;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_21.html',
+		'<p>http://news.walla.co.il/item/2841317</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-03-30 05:40:30'
+		)
+		;
+
