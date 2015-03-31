@@ -9185,3 +9185,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/xv-02.html',
+		'<p>תודה רבה :)</p><p>ממליצה להסתכל במגילת&quot;פשר חבקוק&quot; באתר מוזיאון ישראל- http://dss.collections.imj.org.il/he/habakkuk</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnikekguH_i-A0mzq57oO9mxroP-SXFP40',
+		'ניצן רוזן',
+		'2015-03-30 10:05:23'
+		)
+		;
+
