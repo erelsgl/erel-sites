@@ -491,3 +491,9 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-03-30 05:23:23','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-03-30 10:03:24','https://www.google.com/accounts/o8/id?id=AItOawnikekguH_i-A0mzq57oO9mxroP-SXFP40','ניצן רוזן');
+
