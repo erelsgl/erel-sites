@@ -9197,3 +9197,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_4.html',
+		'<p>המאמר פורסם במקור בכתב העת המקוון &quot;מראה&quot;, מגזין בענייני מדינה, חברה ותרבות</p><p>http://www.maraah-magazine.com/show_item.asp?levelId=65840&amp;ItemId=27&amp;katavaId=4867&amp;itemType=0</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-03-31 10:30:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_4.html',
+		'<p>ד&quot;ר אורנה ליברמן היא חוקרת תנ&quot;ך, מיתוסים עתיקים וספרות,  ובעלת הבלוג: לשון המקרא – אור חדש על שפה עתיקה.</p><p>ספרה &quot;שפת התנ&quot;ך כבבואת סיפור הבריאה&quot;, הוצאת סלע ספרים, זמין גם במהדורה אלקטרונית באתרים &quot;מנדלי מוכר ספרים ברשת&quot; ו-&quot;עברית&quot;. </p><p>אל הבלוג:</p><p>https://liebermanorna.wordpress.com/</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-03-31 10:33:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_0.html',
+		'<p>מוזמנים אל הבלוג שלי. קישורית פעילה:</p><p>https://liebermanorna.wordpress.com/</p><p>חג שמח!</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-04-01 07:31:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_1.html',
+		'<p>פורסם במקור ב&quot;מראה&quot;</p><p>http://www.maraah-magazine.com/show_item.asp?levelId=65840&amp;ItemId=27&amp;katavaId=4867&amp;itemType=0</p><p>אל הבלוג של הכותבת: לשון המקרא - אור חדש על שפה עתיקה, הבלוג של אורנה</p><p>https://liebermanorna.wordpress.com/</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-04-01 07:52:14'
+		)
+		;
+

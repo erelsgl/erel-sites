@@ -10459,3 +10459,152 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-03-31 05:23:08'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/hwmnysfyt___spr.doc',
+				NULL,
+				'2015-03-31 09:42:27',
+				'2015-03-31 09:42:27',
+				'יהדות הומניסטית - ספר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/hwmnysfyt_a5.doc',
+				NULL,
+				'2015-03-31 09:47:35',
+				'2015-03-31 09:47:35',
+				'יהדות הומניסטית a5',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_4.html',
+				NULL,
+				'2015-03-31 10:27:00',
+				'2015-03-31 10:27:00',
+				'נַחֲלַיִם: מנהר גן העדן לנחל בית המקדש',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-31 10:27:00'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-31 10:30:02'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-03-31 10:33:40'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_100.html',
+				NULL,
+				'2015-03-31 11:47:39',
+				'2015-03-31 11:47:39',
+				'שיחה עם אימא שכולה',
+				'אלברט שבות',
+				'ashabot @ walla.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-31 11:47:39'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-03-31 11:47:39'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/orna/index.html',
+				'tnk1/messages/sofrim_orna_index_0.html',
+				NULL,
+				'2015-04-01 07:29:21',
+				'2015-04-01 07:29:21',
+				'גן עדן ומדבר במקרא  - דו משמעותה הניגודית של  המילה עֲרָבָה',
+				'אורנה ליברמן',
+				'liebermanorna @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-01 07:31:43'
+		WHERE ktovt_bn='tnk1/messages/sofrim_orna_index_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/orna/index.html',
+				'tnk1/messages/sofrim_orna_index_1.html',
+				NULL,
+				'2015-04-01 07:45:40',
+				'2015-04-01 07:45:40',
+				'מַעְבְּרוֹת הירדן: מֵעֶבְרָה לִבְרִיאָה, מִבְּרִיאָה לְעֶבְרָה',
+				'אורנה ליברמן',
+				'liebermanorna @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-01 07:52:14'
+		WHERE ktovt_bn='tnk1/messages/sofrim_orna_index_1.html'
+		;
+
