@@ -9245,3 +9245,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_5.html',
+		'<p>A point of interpretation of the Hagadah shel Pesakh:</p><p>There is a discussion among the Rabies about the number of Makot in Egypt.</p><p>Rabi Eliezer said 4X10=40</p><p>Rabi A\'kiva said 5X10=50</p><p>It seems not so important until we read in Deu 25:2-3</p><p>והיה אם-בן הכות הרשע--והפילו השפט והכהו לפניו, כדי רשעתו במספר.  ארבעים יכנו, לא יסיף:  פן-יסיף להכתו על-אלה מכה רבה, ונקלה אחיך לעיניך.  </p><p>זאת היא הוספה של אבנר עצמו </p><p> </p><p>If the Egyptians recieved more than 40 Makot, they were dihonored.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-04-01 18:34:06'
+		)
+		;
+
