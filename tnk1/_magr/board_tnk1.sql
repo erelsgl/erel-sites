@@ -10647,3 +10647,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1216_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1040.htm',
+				'tnk1/messages/prqim_t1040_8.html',
+				NULL,
+				'2015-04-02 09:14:17',
+				'2015-04-02 09:14:17',
+				'הן גויים כמר מדלי',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0526.htm',
+				'tnk1/messages/prqim_t0526_4.html',
+				NULL,
+				'2015-04-02 09:48:14',
+				'2015-04-02 09:48:14',
+				'רעיון לליל הסדר מהגדת נחמה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
