@@ -27,7 +27,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 .long  { display: table; border-top: none 1px black; background:white; }
 	.long h3  { font-size: 14px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
 	.dquyot { font-family: 'Aharoni CLM';      font-size: 14px; }
-	.mqorot { font-family: 'Aharoni CLM';      font-size: 12px; }
+	.mqorot { font-family: 'Arial';      font-size: 12px; }
 	.hqblot { font-family: /*'Comix No2 CLM'*/ 'Hadasim CLM'; font-size: 12px; }
 	.ecot   { font-size: 14px; }
 	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}

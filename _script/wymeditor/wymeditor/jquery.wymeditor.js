@@ -3449,7 +3449,7 @@ WYMeditor.XhtmlSaxListener.prototype.replaceNamedEntities = function(xhtml)
 
 WYMeditor.XhtmlSaxListener.prototype.joinRepeatedEntities = function(xhtml)
 {
-  var tags = 'em|strong|sub|sup|acronym|pre|del|address';
+  var tags = 'em|strong|sub|sup|acronym|pre|del|address|h3';
   return xhtml.replace(new RegExp('<\/('+tags+')><\\1>' ,''),'').
   replace(new RegExp('(\s*<('+tags+')>\s*){2}(.*)(\s*<\/\\2>\s*){2}' ,''),'<\$2>\$3<\$2>');
 };
@@ -4228,7 +4228,7 @@ WYMeditor.WymClassMozilla.prototype.keydown = function(evt) {
     if(keycode == 51){
       //CTRL+3 => H3
       evt.preventDefault();
-      wym._exec(WYMeditor.H3);
+      wym._exec(WYMeditor.FORMAT_BLOCK, WYMeditor.H3);
       return false;
    }
    if(keycode == 66){
