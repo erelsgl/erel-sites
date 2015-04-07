@@ -9529,3 +9529,113 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>חג פסח כשר ושמח אני צריכה הלוואה דחופה מחתנת את הבן בע&quot;ה ב ח&quot;סיוון ואני אישה חד הורית ויש לי בבית עוד שני ילדים לפני משורת הדין אני צריכה 20.000 שקל ואני עובדת שעות נוספות בשופר סל כדי להאכיל את הילדים שלי.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl744C0OHczTR9hsjvy-MHY3yYkWrdyeSI',
+		'נעמי ניצה דדון',
+		'2015-04-06 12:07:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>סליחה הטלפון שלי 0506455351</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl744C0OHczTR9hsjvy-MHY3yYkWrdyeSI',
+		'נעמי ניצה דדון',
+		'2015-04-06 12:12:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44-0104.html',
+		'<p>	</p><p>2015-02-16 17:03:56 </p><p>Daian Moshe	</p><p>https://www.youtube.com/watch?v=_j-Tji1DueU</p><p>ואתה אראל דע כי הדלת סגורה רק לרשעים</p><p> האל לא סוגר את הדלת אלא רק הציב מכשולים ומסננים כמבחן לאדם</p><p>ומי שיעבור בשלום וידע את הקוד של הדלת יוכל להכנס לבוא אל המקדש</p><p>מי שידע את הקוד של הדלת של דלת-הארץ </p><p>זה המלך המשיח צַדִּיק וְנוֹשָׁע ועָנִי</p><p>זכריה ט9: &quot;גִּילִי מְאֹד בַּת צִיּוֹן הָרִיעִי בַּת יְרוּשָׁלַים הִנֵּה מַלְכֵּךְ יָבוֹא לָךְ צַדִּיק וְנוֹשָׁע הוּא עָנִי וְרֹכֵב עַל חֲמוֹר וְעַל עַיִר בֶּן אֲתֹנוֹת&quot;</p><p>ישעיהו כב22: &quot;וְנָתַתִּי מַפְתֵּחַ בֵּית דָּוִד עַל שִׁכְמוֹ וּפָתַח וְאֵין סֹגֵר וְסָגַר וְאֵין פֹּתֵחַ&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-06 12:28:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44-0104.html',
+		'<p>יחזקאל מד2: &quot;וַיֹּאמֶר אֵלַי יהוה הַשַּׁעַר הַזֶּה סָגוּר יִהְיֶה לֹא יִפָּתֵחַ וְאִישׁ לֹא יָבֹא בוֹ כִּי יהוה אֱלֹהֵי יִשְׂרָאֵל בָּא בוֹ וְהָיָה סָגוּר&quot;</p><p>אם השער היה סגור לאלהים הן לא יפתח לאדם</p><p>כי אם איש אלהים הוא המשל [המושל] והאדם הוא הנמשל</p><p>ישעיהו כ3: &quot;וַיֹּאמֶר יהוה כַּאֲשֶׁר הָלַךְ עַבְדִּי יְשַׁעְיָהוּ עָרוֹם וְיָחֵף שָׁלֹשׁ שָׁנִים אוֹת וּמוֹפֵת עַל מִצְרַיִם וְעַל כּוּשׁ&quot;</p><p>ישעיהו כ4: &quot;כֵּן יִנְהַג מֶלֶךְ אַשּׁוּר אֶת שְׁבִי מִצְרַיִם וְאֶת גָּלוּת כּוּשׁ נְעָרִים וּזְקֵנִים עָרוֹם וְיָחֵף וַחֲשׂוּפַי שֵׁת עֶרְוַת מִצְרַיִם&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-06 13:49:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pnn.html',
+		'<p>אביתר כהן על פנינה ועל ספיר: http://localhost/tnk1/messages/ljon_jorj_spr4_0.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-04-06 17:49:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pnn.html',
+		'<p>אביתר כהן על פנינה (וגם על ספיר): http://localhost/tnk1/messages/ljon_jorj_spr4_0.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-04-06 17:50:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-06 17:50:08' 
+			WHERE messageid=5221;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pnn.html',
+		'<p>אביתר כהן על פנינה (וגם על ספיר):   http://tora.us.fm/tnk1/messages/ljon_jorj_spr4_0.html</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-04-06 17:51:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-06 17:51:47' 
+			WHERE messageid=5222;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/25-20.html',
+		'<p>&quot;חומץ על נתר&quot; יכול לגרום סתירה (ניטרול), אבל יכול גם לגרום פיצוץ: https://www.youtube.com/watch?v=X_vMr-3P0KQ</p><p>כשדוד ניגן לשאול, התוצאה היתה פיצוץ.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo',
+		'Erel Segal Halevi',
+		'2015-04-07 07:09:11'
+		)
+		;
+

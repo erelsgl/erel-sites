@@ -10847,3 +10847,106 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/kma_qjrim2_mikl_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/nvia/yxzqel/yx-44.html',
+				NULL,
+				'2015-04-06 11:09:01',
+				'2015-04-06 11:09:01',
+				'מבנה יחזקאל מד',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-06 11:09:01'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/kma/qjrim2/mqdj3.html',
+				'tnk1/nvia/yxzqel/yx-44-0104.html',
+				NULL,
+				'2015-04-06 11:53:57',
+				'2015-04-06 11:53:57',
+				'ה\' בא אל המקדש וסוגר את הדלת אחריו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 12:07:27'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 12:12:08'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 12:28:30'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-44-0104.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 13:49:22'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-44-0104.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 17:49:52'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/pnn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 17:50:06'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/pnn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-06 17:51:46'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/pnn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 07:09:11'
+		WHERE ktovt_bn='tnk1/ktuv/mj/25-20.html'
+		;
+
