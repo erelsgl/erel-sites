@@ -1,9 +1,10 @@
 #
-# This file was automatically generated at 2015-02-01 18:09:08
+# This file was automatically generated at 2015-04-07 08:52:29
 
 sub wikia_replace_links {
 $_=shift;
 $OPENLINK="\\[\\[";
+s|${OPENLINK}tryg/thra/tvila_btva|[[ביאור:טבילה בטבע|ig;
 s|${OPENLINK}tryg/sug/zryet_klaym_bkrm|[[ביאור:זריעת כלאים בכרם|ig;
 s|${OPENLINK}tryg/sug/zrwe_lxyym_wqybh|[[ביאור:מתן זרוע לחיים וקיבה לכהן|ig;
 s|${OPENLINK}tryg/sug/znwt|[[ביאור:איסור זנות (יחסי מין במסגרת קשר ארעי)|ig;
@@ -952,7 +953,6 @@ s|${OPENLINK}tryg/jmita/jmira|[[ביאור:שמירת מזון משנות-העב
 s|${OPENLINK}tryg/jmita/arvim|[[ביאור:לא לקנות מנכרים|ig;
 s|${OPENLINK}tryg/index|[[ביאור:האתר למקוריות במצוות|ig;
 s|${OPENLINK}tokxot/xtuna/kisui_rosh|[[ביאור:כיסוי ראש לנשים נשואות 1|ig;
-s|${OPENLINK}tokxot/thra/tvila_btva|[[ביאור:טבילה בטבע|ig;
 s|${OPENLINK}tokxot/thra/thra_xbd|[[ביאור:החשיבות של דיני טהרת המשפחה|ig;
 s|${OPENLINK}tokxot/thra/thra_jrlo|[[ביאור:טהרת המשפחה - האתגר|ig;
 s|${OPENLINK}tokxot/lhr/./doal|[[ביאור:דואר אלקטרוני מבורא העולם|ig;
