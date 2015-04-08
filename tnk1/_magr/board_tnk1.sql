@@ -10950,3 +10950,107 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mj/25-20.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4qrqa.html',
+				'tnk1/nvia/yxzqel/yx-45-0306.html',
+				NULL,
+				'2015-04-07 08:57:54',
+				'2015-04-07 08:57:54',
+				'נחלת הכהנים והלויים בעתיד',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 11:59:03'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 12:01:34'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0207.htm',
+				'tnk1/messages/prqim_t0207_2.html',
+				NULL,
+				'2015-04-07 16:16:03',
+				'2015-04-07 16:16:03',
+				'הטיעון הכפול \"איך יכול להיות ש\" כמבטל את עצמו',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 17:16:39'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/671.html',
+				'tnk1/nvir/jmuela/ja-04-12.html',
+				NULL,
+				'2015-04-07 17:58:01',
+				'2015-04-07 17:58:01',
+				'המרתון הראשון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 18:04:49'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-04-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 18:40:31'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 18:42:43'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-07 18:56:29'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
