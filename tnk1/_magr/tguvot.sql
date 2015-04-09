@@ -9744,3 +9744,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-07 18:56:36' 
 			WHERE messageid=5230;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-45-0306.html',
+		'<p>כאשר טוב לבני ישראל להיות בארץ-ישראל ארץ-הקודש מאשר להיות בחו&quot;ל</p><p>ככה טוב לכהנים הקדושים להיות בנחלה השבעית נחלת המקדש ולא נחלת חול</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-08 17:21:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0207_2.html',
+		'<p>אתה מבולבל לגמרי כתוצאה מחוסר דעת</p><p>אתה הוא אותו אחד שאינו יודע לשאול</p><p>מה דעתך למחוק את המאמר שלך מהאתר </p><p>המאמר שלך הוא תהו ובהו ורע להביט במאמרך</p><p>למה שלא תשאל שאלה ספציפית שאוכל לענות לך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-08 18:35:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-08 18:36:16' 
+			WHERE messageid=5233;
+

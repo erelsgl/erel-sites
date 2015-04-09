@@ -11054,3 +11054,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-08 17:21:58'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-45-0306.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-08 18:35:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0207_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_63.html',
+				NULL,
+				'2015-04-09 07:58:42',
+				'2015-04-09 07:58:42',
+				'על \"מיהו יהודי בימינו?\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
