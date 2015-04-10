@@ -9775,3 +9775,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-08 18:36:16' 
 			WHERE messageid=5233;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>אראל סגל הלוי חדל להאמין בהבלים של רבני חזל</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p> דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 14:06:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>רבני חזל לא ידעו להבין אמת ממקרא הקודש</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p>דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 14:47:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-09 14:47:42' 
+			WHERE messageid=5234;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>רבני חזל לא ידעו להבין את אמת מקרא הקודש</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p>דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 15:06:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-09 15:06:26' 
+			WHERE messageid=5235;
+

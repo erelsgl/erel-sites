@@ -11086,3 +11086,89 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_674.html',
+				NULL,
+				'2015-04-09 10:02:09',
+				'2015-04-09 10:02:09',
+				'פרשת שמיני- העופות הטמאים לאכילה-במה השפעתם על חיי האדם?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-09 10:02:09'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_675.html',
+				NULL,
+				'2015-04-09 10:19:18',
+				'2015-04-09 10:19:18',
+				'עופות טמאים/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-09 10:19:18'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/685.html',
+				'tnk1/klli/mdrjim/em_dwd.html',
+				NULL,
+				'2015-04-09 13:43:56',
+				'2015-04-09 13:43:56',
+				'אמו של דוד - נצבת בת עדאל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-09 14:06:10'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/em_dwd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-09 14:47:39'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/em_dwd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-09 15:06:25'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/em_dwd.html'
+		;
+
