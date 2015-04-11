@@ -9825,3 +9825,65 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-09 15:06:26' 
 			WHERE messageid=5235;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_3.html',
+		'<p>הכותבת היא מחברת הספר &quot;שפת התנ&quot;ך כבבואת סיפור הבריאה&quot;, סלע ספרים, שיצא גם בגרסה דיגיטלית ב&quot;מנדלי מוכר ספרים&quot; וב&quot;עברית&quot; וכותבת הבלוג &quot;לשון המקרא - אור חדש על שפה עתיקה&quot;</p><p>https://liebermanorna.wordpress.com/</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-04-10 08:43:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר: </p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי  = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש </p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD]  שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם </p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם </p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 13:00:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>שמות כ19: &quot;לֹא תַעֲשׂוּן אִתִּי אֱלֹהֵי כֶסֶף וֵאלֹהֵי זָהָב לֹא תַעֲשׂוּ לָכֶם&quot;</p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר:</p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש</p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD] שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם [כמו: דשא סינטטי ,פסלים, גאדגטים, פלאפונים]</p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם</p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 13:59:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-10 14:00:10' 
+			WHERE messageid=5238;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר:</p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש</p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD] שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם [כמו: דשא סינטטי ,פסלים, גאדגטים, פלאפונים]</p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם</p><p>שמות כ19: &quot;לֹא תַעֲשׂוּן אִתִּי אֱלֹהֵי כֶסֶף וֵאלֹהֵי זָהָב לֹא תַעֲשׂוּ לָכֶם&quot;</p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 14:02:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-10 14:03:16' 
+			WHERE messageid=5239;
+

@@ -11172,3 +11172,67 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/mdrjim/em_dwd.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/orna/index.html',
+				'tnk1/messages/sofrim_orna_index_2.html',
+				NULL,
+				'2015-04-10 08:34:47',
+				'2015-04-10 08:34:47',
+				'מאמר חדש על: אורנה ליברמן',
+				'אורנה ליברמן',
+				'liebermanorna @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/orna/index.html',
+				'tnk1/messages/sofrim_orna_index_3.html',
+				NULL,
+				'2015-04-10 08:41:20',
+				'2015-04-10 08:41:20',
+				'ללכת עמו קרי: האם ביטוי שכוח יכול להפוך שכיח',
+				'אורנה ליברמן',
+				'liebermanorna @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-10 08:43:53'
+		WHERE ktovt_bn='tnk1/messages/sofrim_orna_index_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-10 13:00:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-10 13:59:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-10 14:02:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
