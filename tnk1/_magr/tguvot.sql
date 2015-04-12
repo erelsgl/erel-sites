@@ -9887,3 +9887,29 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-10 14:03:16' 
 			WHERE messageid=5239;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mzima.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnZElcgo82kRug1M82qJZFiPfuBVPDMa2Q',
+		'אייל וייס',
+		'2015-04-11 12:04:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-11 17:25:13' 
+			WHERE messageid=5236;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-12 06:05:58' 
+			WHERE messageid=5241;
+
