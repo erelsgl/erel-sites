@@ -9913,3 +9913,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-12 06:05:58' 
 			WHERE messageid=5241;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום לכם אני אמא חדורית ל8 ילדים זקוקה דחוף ללוואה אני יצאתי לא מי זמן מי המקלט לנשים מוכות אין איך לגמור את החודש אין מה לתת לילדים שלי לאכול אני במצב מאוד מאוד קשה  בבקשה תעזרו לי בהלוואה דחופה   0528598152 אנה תודה מי ראש </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:06:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום לכם אני אמא חדורית ל8 ילדים זקוקה דחוף ללוואה אני יצאתי לא מי זמן מי המקלט לנשים מוכות אין איך לגמור את החודש אין מה לתת לילדים שלי לאכול אני במצב מאוד מאוד קשה  בבקשה תעזרו לי בהלוואה דחופה   0528598152 אנה תודה מי ראש </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:07:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שלום אני צריכה הלוואה בדחיפות  יש לי 8ילדים חדורית אין לי כסף  לקנות אוכל לילדים עווד חודשיים אני חוגגת בר מצווה  ובת מצווה  לילדים שלי ואין לי אך לעשות לכם בבקשה תעזרו לי לקחת הלוואה  0528598152</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:47:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>ויקרא כב28: &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot;</p><p>כמה משמעויות:</p><p>1. כלשונו לאמור לא לשחוט באותו יום את הבהמה עם בנה [לכן גם אין לשחוט פרה בהריון]</p><p>2. &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot; לאמור לא לשחוט ביום ראשון לשבוע [דומה לרעיון יום שני ללא בשר]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-12 17:00:22'
+		)
+		;
+
