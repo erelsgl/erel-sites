@@ -9744,3 +9744,220 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-07 18:56:36' 
 			WHERE messageid=5230;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-45-0306.html',
+		'<p>כאשר טוב לבני ישראל להיות בארץ-ישראל ארץ-הקודש מאשר להיות בחו&quot;ל</p><p>ככה טוב לכהנים הקדושים להיות בנחלה השבעית נחלת המקדש ולא נחלת חול</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-08 17:21:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0207_2.html',
+		'<p>אתה מבולבל לגמרי כתוצאה מחוסר דעת</p><p>אתה הוא אותו אחד שאינו יודע לשאול</p><p>מה דעתך למחוק את המאמר שלך מהאתר </p><p>המאמר שלך הוא תהו ובהו ורע להביט במאמרך</p><p>למה שלא תשאל שאלה ספציפית שאוכל לענות לך</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-08 18:35:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-08 18:36:16' 
+			WHERE messageid=5233;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>אראל סגל הלוי חדל להאמין בהבלים של רבני חזל</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p> דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 14:06:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>רבני חזל לא ידעו להבין אמת ממקרא הקודש</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p>דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 14:47:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-09 14:47:42' 
+			WHERE messageid=5234;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>רבני חזל לא ידעו להבין את אמת מקרא הקודש</p><p>דברי הימים ב ח14: &quot;וַיַּעֲמֵד כְּמִשְׁפַּט דָּוִיד אָבִיו אֶת מַחְלְקוֹת הַכֹּהֲנִים עַל עֲבֹדָתָם וְהַלְוִיִּם עַל מִשְׁמְרוֹתָם לְהַלֵּל וּלְשָׁרֵת נֶגֶד הַכֹּהֲנִים לִדְבַר יוֹם בְּיוֹמוֹ וְהַשּׁוֹעֲרִים בְּמַחְלְקוֹתָם לְשַׁעַר וָשָׁעַר כִּי כֵן מִצְוַת דָּוִיד אִישׁ הָאֱלֹהִים&quot;</p><p>דָּוִיד אִישׁ הָאֱלֹהִים אמר בספר תהילות כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>כִּי אָבִיו וְאִמִּו של דָּוִיד אִישׁ הָאֱלֹהִים וַיַּעַזְבֻהוּ</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-09 15:06:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-09 15:06:26' 
+			WHERE messageid=5235;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_3.html',
+		'<p>הכותבת היא מחברת הספר &quot;שפת התנ&quot;ך כבבואת סיפור הבריאה&quot;, סלע ספרים, שיצא גם בגרסה דיגיטלית ב&quot;מנדלי מוכר ספרים&quot; וב&quot;עברית&quot; וכותבת הבלוג &quot;לשון המקרא - אור חדש על שפה עתיקה&quot;</p><p>https://liebermanorna.wordpress.com/</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmlrLxzcBzqYWNFeck3-q4Txh9rCuHunDM',
+		'Orna Lieberman',
+		'2015-04-10 08:43:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר: </p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי  = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש </p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD]  שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם </p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם </p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 13:00:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>שמות כ19: &quot;לֹא תַעֲשׂוּן אִתִּי אֱלֹהֵי כֶסֶף וֵאלֹהֵי זָהָב לֹא תַעֲשׂוּ לָכֶם&quot;</p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר:</p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש</p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD] שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם [כמו: דשא סינטטי ,פסלים, גאדגטים, פלאפונים]</p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם</p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 13:59:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-10 14:00:10' 
+			WHERE messageid=5238;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p><p>ישעיהו סה11: &quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי הַעֹרְכִים לַגַּד שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי מִמְסָךְ&quot;</p><p>פרוש לבאר:</p><p>&quot;וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי = וְאַתֶּם הַגּוֹיִם הַבָּאִים עַל יְרוּשָׁלָים להלחם בהַר-הקודש</p><p>וְאַתֶּם עֹזְבֵי יהוה הַשְּׁכֵחִים אֶת הַר קָדְשִׁי</p><p>הַעֹרְכִים לַגַּד [GOD] שֻׁלְחָן וְהַמְמַלְאִים לַמְנִי [Money] מִמְסָךְ&quot; = כי עובדים את אלהי הכסף [Money] ואלהי הזהב [GOD=GOLD]</p><p>תהלים קלה15: &quot;עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם&quot;</p><p>לכן המלחמה על ירושלים היא בין אלה אוכלי החזיר עֲצַבֵּי הַגּוֹיִם כֶּסֶף וְזָהָב מַעֲשֵׂה יְדֵי אָדָם [כמו: דשא סינטטי ,פסלים, גאדגטים, פלאפונים]</p><p>לבין אוהבי אלהים האוכלים צאן ובקר ואוהבים את [הטבע והסביבה] מעשי אלהים וגם תורמים לקודש מכספם ומזהבם</p><p>שמות כ19: &quot;לֹא תַעֲשׂוּן אִתִּי אֱלֹהֵי כֶסֶף וֵאלֹהֵי זָהָב לֹא תַעֲשׂוּ לָכֶם&quot;</p><p>לכן המלחמה היא בין אהבת הכסף לבין אהבת אלהים</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-10 14:02:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-10 14:03:16' 
+			WHERE messageid=5239;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mzima.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnZElcgo82kRug1M82qJZFiPfuBVPDMa2Q',
+		'אייל וייס',
+		'2015-04-11 12:04:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-11 17:25:13' 
+			WHERE messageid=5236;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-12 06:05:58' 
+			WHERE messageid=5241;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום לכם אני אמא חדורית ל8 ילדים זקוקה דחוף ללוואה אני יצאתי לא מי זמן מי המקלט לנשים מוכות אין איך לגמור את החודש אין מה לתת לילדים שלי לאכול אני במצב מאוד מאוד קשה  בבקשה תעזרו לי בהלוואה דחופה   0528598152 אנה תודה מי ראש </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:06:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום לכם אני אמא חדורית ל8 ילדים זקוקה דחוף ללוואה אני יצאתי לא מי זמן מי המקלט לנשים מוכות אין איך לגמור את החודש אין מה לתת לילדים שלי לאכול אני במצב מאוד מאוד קשה  בבקשה תעזרו לי בהלוואה דחופה   0528598152 אנה תודה מי ראש </p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:07:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שלום אני צריכה הלוואה בדחיפות  יש לי 8ילדים חדורית אין לי כסף  לקנות אוכל לילדים עווד חודשיים אני חוגגת בר מצווה  ובת מצווה  לילדים שלי ואין לי אך לעשות לכם בבקשה תעזרו לי לקחת הלוואה  0528598152</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawl4mEB5_cKnUhZwN1BWCBLgdLhbpJothgQ',
+		'Anna Dyak',
+		'2015-04-12 14:47:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>ויקרא כב28: &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot;</p><p>כמה משמעויות:</p><p>1. כלשונו לאמור לא לשחוט באותו יום את הבהמה עם בנה [לכן גם אין לשחוט פרה בהריון]</p><p>2. &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot; לאמור לא לשחוט ביום ראשון לשבוע [דומה לרעיון יום שני ללא בשר]</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-12 17:00:22'
+		)
+		;
+
