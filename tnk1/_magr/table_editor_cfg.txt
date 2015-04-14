@@ -602,6 +602,18 @@ sgulot	verse_number	Default	0
 sgulot	verse_number	InputType	short_text
 sgulot	verse_text	Attributes	size='20' dir='rtl'
 sgulot	verse_text	InputType	long_text
+sgulot_hqblot		Setup Done	1
+sgulot_hqblot	book	Attributes	size='3'
+sgulot_hqblot	book	InputType	short_text
+sgulot_hqblot	chapter_number	Attributes	size='3'
+sgulot_hqblot	chapter_number	Default	0
+sgulot_hqblot	chapter_number	InputType	short_text
+sgulot_hqblot	hqblot	InputType	rich_text
+sgulot_hqblot	verse_number	Attributes	size='3'
+sgulot_hqblot	verse_number	Default	0
+sgulot_hqblot	verse_number	InputType	short_text
+sgulot_hqblot	verse_text	Attributes	cols='20' rows='2' dir='rtl'
+sgulot_hqblot	verse_text	InputType	long_text
 sgulot_kotrot		Setup Done	1
 sgulot_kotrot	book	Attributes	dir='rtl' size='3'
 sgulot_kotrot	book	InputType	short_text
