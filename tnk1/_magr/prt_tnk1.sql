@@ -79,3 +79,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `l` = '[[ביאור:שמות ג5|שמות ג5]]', `tarik_hosfa` = '2015-02-11 06:52:15' WHERE `qod` = 'ביאור:יהושע ה15' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:דברים יח1' AND 1 LIMIT 1;
+
