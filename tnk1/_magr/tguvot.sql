@@ -9961,3 +9961,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני אשמח לעזרה מכם </p><p>בתודה דוד 0526324323</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnzbobL4lzVxRmah3cqCqn7DpwBYifLqRY',
+		'דוד הרשיש',
+		'2015-04-13 15:45:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני אשמח לעזרה מכם </p><p>בתודה דוד 0526324323</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawnzbobL4lzVxRmah3cqCqn7DpwBYifLqRY',
+		'דוד הרשיש',
+		'2015-04-13 15:46:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>ויקרא כב28: &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot;</p><p>כמה משמעויות:</p><p>1. כלשונו לאמור לא לשחוט באותו יום את הבהמה עם בנה [לכן גם אין לשחוט פרה בהריון]</p><p>2. &quot;וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד&quot; לאמור לא לשחוט ביום ראשון לשבוע [מִזֶּה נלקח רעיון הגוים יום שני ללא בשר]</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-13 16:44:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-13 16:44:41' 
+			WHERE messageid=5245;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/psx_mcrym_xmc.html',
+		'<p>יש כאן אי דיוקים</p><p>במקרה הגעתי לפה, וקראתי ואני מעוניין לתקן ולשמוע דעתך, אראל, </p><p>ציטוט: &quot;&quot;כי לא (חמץ כי (גורשו ממצרים))&quot; = &quot;כי לא (חמץ), למרות ש(גורשו ממצרים)&quot; ראו לא כי = למרות.</p><p>פירוש זה אינו נכון.אלא:</p><p>כי לא= מכיוון ש, כן(אכן) לא</p><p>ולגבי ה&quot;כי&quot; השני, משמעו:</p><p>כי= מכיוון ש, </p><p>וההסבר הוא שהבצק לא החמיץ מכיוון שנתמהמהו עקב גירושם לאחר מכת בכורות- זוכרים? ויהי בחצי הלילה וה\' היכה כל בכור בארץ מצרים....</p><p>בקיצר- נא לתקן ולהבין בצורה נכונה. זה פשוט מאוד.</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmb7GaNR7mG4-OBUIBOFGWMDCFZDXW6voY',
+		'בני קו',
+		'2015-04-13 18:03:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/psx_mcrym_xmc.html',
+		'<p>וְזָכַרְתָּ כִּי עֶבֶד הָיִיתָ בְּאֶרֶץ מִצְרַיִם וַיֹּצִאֲךָ יהוה אֱלֹהֶיךָ מִשָּׁם בְּיָד חֲזָקָה וּבִזְרֹעַ נְטוּיָה עַל כֵּן צִוְּךָ יהוה אֱלֹהֶיךָ לַעֲשׂוֹת אֶת יוֹם הַשַּׁבָּת. </p><p>השבת היא זכר ליציאת מצרים אך שרשי השבת נטועים עמוק בימי בראשית</p><p>ככה גם המצות  אשר הם זכר ליציאת מצרים אך המצות גם הם מימי בראשית</p><p>גם לוט אחי שרה אשת אברהם אפה מצות למלאכים במועד &quot;חג המצות&quot; בעת אשר ישב בסדום</p><p>------------------------------------------------</p><p>בני ישראל נהיו לעם ליהוה בעת צאתם מארץ מצרים וטרם ידעו לשמוע בקולו </p><p>לכן אלהים בדרכו עזר לבני ישראל להקים את מצוות אכילת המצות כאשר גורשו ממצרים ולא יכלו להתמהמה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-13 19:21:40'
+		)
+		;
+
