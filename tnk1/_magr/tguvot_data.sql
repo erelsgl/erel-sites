@@ -214,3 +214,49 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/jmot/psx_mcrym_xmc.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/bm-14-yldim.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-04-14 16:08:47'
+		WHERE parent='tnk1/tora/bmdbr/bm-14-yldim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-04-14 16:08:50'
+			WHERE parent='tnk1/tora/bmdbr/bm-14-yldim.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/bm-14-yldim.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-04-14 16:09:01'
+		WHERE parent='tnk1/tora/bmdbr/bm-14-yldim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-04-15 05:35:16'
+			WHERE parent='tnk1/tora/bmdbr/bm-14-yldim.html'
+			;
+

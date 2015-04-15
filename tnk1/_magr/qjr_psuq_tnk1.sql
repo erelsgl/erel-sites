@@ -110,3 +110,27 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הסר את נעליך, המסמלות שליטה אנושית, כי יציאת מצרים תהיה בהנהגה אלהית בלבד', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2015-02-12 02:20:19' WHERE `bn` = 'ביאור:שמות ג5' AND `sfr` = 'שמת' AND `prq0` = 'ג' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 15, `psuq1` = 15, `kotrt` = 'בעתיד, הנשבעים בשם ה\' ישבחו את ה\' על הגאולה העתידית, שתהיה גדולה יותר מגאולת מצרים', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2015-04-15 05:58:58' WHERE `bn` = 'ירמיהו טז15' AND `sfr` = 'ירמ' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 8, `psuq1` = 8, `kotrt` = 'בעתיד, הנשבעים בשם ה\' ישבחו את ה\' על הגאולה העתידית, שתהיה גדולה יותר מגאולת מצרים', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2015-04-15 05:58:58' WHERE `bn` = 'ירמיהו טז15' AND `sfr` = 'ירמ' AND `prq0` = 'כג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ארבעה פרקים מקבילים' AND `sfr` = 'ירמ' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הפחד מארץ צפון' AND `sfr` = 'ירמ' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ארבעה פרקים מקבילים' AND `sfr` = 'ירמ' AND `prq0` = 'כג' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הפחד מארץ צפון' AND `sfr` = 'ירמ' AND `prq0` = 'כג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+

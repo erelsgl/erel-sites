@@ -10028,3 +10028,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-14-yldim.html',
+		'<p>סתם דבר כזה</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmn7l8goCl8lM1dY6BLRbrJIT4XuGSnSNQ',
+		'Sheli Ariel',
+		'2015-04-14 16:08:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-14 16:08:50' 
+			WHERE messageid=5251;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-14-yldim.html',
+		'<p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmn7l8goCl8lM1dY6BLRbrJIT4XuGSnSNQ',
+		'Sheli Ariel',
+		'2015-04-14 16:09:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-15 05:35:16' 
+			WHERE messageid=5252;
+

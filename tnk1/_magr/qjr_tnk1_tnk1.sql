@@ -62,3 +62,79 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('הקבלות', 'פסוקים מקבילים לפסוקי משלי', '', '', 60, 60, '2015-02-12 17:03:53');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'נגלה או נקלה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'טפח - שני מובנים שונים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'The letter ע' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'ציצת נבל ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'the campaign against Jericho' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'Manna from Heaven' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'Not every Gentile is a bad person' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'Skin of milk?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'ילד או נער?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'A sheep or a ramp? - כבש  ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'לנדה או לכדה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'קשר בין בהל להב הבל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'רזון / רצין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'בצנור או בן - צרויה?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'המן הגורן או מן הגת?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'חרו/חרבו, שמעו/שמו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'קבה, ארה, קלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'אבנר רמו', `tarik_hosfa` = '2015-04-15 06:11:24' WHERE `av` = 'פרטי ביטויים' AND `bn` = 'מלים קצרות שנשמטו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סופרים בני דורנו', 'אבנר רמו', '', '', 60, 60, '2015-04-15 06:13:34');
+
