@@ -444,6 +444,7 @@ jQuery.fn.wymeditor = function(options) {
     toolsItems: [
         {'name': 'Bold', 'title': 'Strong', 'css': 'wym_tools_strong'}, 
         {'name': 'Italic', 'title': 'Emphasis', 'css': 'wym_tools_emphasis'},
+        {'name': 'H3', 'title': 'H3', 'css': 'wym_tools_h3'}, 
         {'name': 'Superscript', 'title': 'Superscript',
             'css': 'wym_tools_superscript'},
         {'name': 'Subscript', 'title': 'Subscript',
@@ -3490,7 +3491,7 @@ WYMeditor.XhtmlSaxListener.prototype.replaceNamedEntities = function(xhtml)
 
 WYMeditor.XhtmlSaxListener.prototype.joinRepeatedEntities = function(xhtml)
 {
-  var tags = 'em|strong|sub|sup|acronym|pre|del|address';
+  var tags = 'em|strong|sub|sup|acronym|pre|del|address|h3';
   return xhtml.replace(new RegExp('<\/('+tags+')><\\1>' ,''),'').
   replace(new RegExp('(\s*<('+tags+')>\s*){2}(.*)(\s*<\/\\2>\s*){2}' ,''),'<\$2>\$3<\$2>');
 };
@@ -4259,39 +4260,45 @@ WYMeditor.WymClassMozilla.prototype.keydown = function(evt) {
 		keycode -= 32;  // convert to upper case
   //alert(evt.type);
   if(evt.ctrlKey){
-    if(keycode == 66){
-      //CTRL+b => STRONG
-			evt.preventDefault();
+    if(keycode == 51){
+      //CTRL+3 => H3
+      evt.preventDefault();
+      wym._exec(WYMeditor.FORMAT_BLOCK, WYMeditor.H3);
+      return false;
+   }
+   if(keycode == 66){
+      //CTRL+B => STRONG
+      evt.preventDefault();
       wym._exec(WYMeditor.BOLD);
       return false;
     }
     if(keycode == 68){
-      //CTRL+d => advanced class
+      //CTRL+D => advanced class
       wym.toggleClassByName("advanced");
       return false;
     }
     if(keycode == 70){
-      //CTRL+f => future class
+      //CTRL+F => future class
       wym.toggleClassByName("future");
       return false;
     }
     if(keycode == 73){
-      //CTRL+i => EMPHASIS
+      //CTRL+I => EMPHASIS
       wym._exec(WYMeditor.ITALIC);
       return false;
     }
     if(keycode == 80){
-      //CTRL+p => Parshanim
+      //CTRL+P => Parshanim
       wym.toggleClassByName("mfrj");
       return false;
     }
     if(keycode == 81 || keycode==47){
-      //CTRL+q => Quote psuq
+      //CTRL+Q => Quote psuq
       wym.toggleClassByName("psuq");
       return false;
     }
     if(keycode == 83){
-      //CTRL+s => Small
+      //CTRL+S => Small
       wym.toggleClassByName("small");
       return false;
     }
@@ -4391,6 +4398,7 @@ WYMeditor.WymClassMozilla.prototype.openBlockTag = function(tag, attributes)
 WYMeditor.WymClassMozilla.prototype.getTagForStyle = function(style) {
 
   if(/bold/.test(style)) return 'strong';
+  if(/h3/.test(style)) return 'h3';
   if(/italic/.test(style)) return 'em';
   if(/sub/.test(style)) return 'sub';
   if(/super/.test(style)) return 'sup';
@@ -4659,6 +4667,7 @@ WYMeditor.WymClassSafari.prototype.addCssRule = function(styles, oCss) {
 };
 
 
+/*keydown handler, mainly used for keyboard shortcuts
 WYMeditor.WymClassSafari.prototype.keydown = function(evt) {
   
   //'this' is the doc
@@ -4677,6 +4686,7 @@ WYMeditor.WymClassSafari.prototype.keydown = function(evt) {
     }
   }
 };
+*/
 
 WYMeditor.WymClassSafari.prototype.keyup = function(evt) {
 
@@ -4760,6 +4770,7 @@ WYMeditor.WymClassSafari.prototype.openBlockTag = function(tag, attributes)
 
 WYMeditor.WymClassSafari.prototype.getTagForStyle = function(style) {
 
+  if(/h3/.test(style)) return 'h3';
   if(/bold/.test(style)) return 'strong';
   if(/italic/.test(style)) return 'em';
   if(/sub/.test(style)) return 'sub';
