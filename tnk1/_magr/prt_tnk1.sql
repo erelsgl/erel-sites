@@ -83,3 +83,27 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:דברים יח1' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2015-04-15 05:48:11' WHERE `qod` = 'ביאור:ישעיהו מג18' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2015-04-15 06:06:55' WHERE `qod` = 'טוב זבח ליהוה דרך אלהי השמים מדרך אלהי הארץ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'לא גמור', `tarik_hosfa` = '2015-04-15 06:07:10' WHERE `qod` = 'מדוע הופסקה הנבואה?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'לא גמור', `tarik_hosfa` = '2015-04-15 06:07:10' WHERE `qod` = 'פסח מצרים ביום רביעי?' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'סרט', `tarik_hosfa` = '2015-04-15 06:07:32' WHERE `qod` = 'הצהרת כורש - מאז ועד היום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('אבנר רמו', 'אוסף', 'tnk_ul', 'אבנר רמו', 'tnk1/sofrim/ramu', '', '', '2015-04-15 06:09:20');
+
