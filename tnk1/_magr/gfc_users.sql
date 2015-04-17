@@ -857,3 +857,27 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-04-15 05:35:12','https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo','Erel Segal Halevi');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-16 11:11:18','https://www.google.com/accounts/o8/id?id=AItOawlsVofZyr804wZHWs8rQa-DJkOleCsaFsA','DeadSea Scrolls');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-16 11:37:45','https://www.google.com/accounts/o8/id?id=AItOawmbQcj0Kbjear9c7N04BYGHSAxtjJ6EYcg','מעיין דניאו');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-16 13:58:49','https://www.google.com/accounts/o8/id?id=AItOawmbQcj0Kbjear9c7N04BYGHSAxtjJ6EYcg','מעיין דניאו');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-17 07:53:49','https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww','Daian Moshe');
+

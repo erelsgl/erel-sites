@@ -10066,3 +10066,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-15 05:35:16' 
 			WHERE messageid=5252;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_10_0.html',
+		'<p>המאמר המלא באתר מגילות קומראן: </p><p>http://www.deadseascrolls.co.il/%D7%9E%D7%92%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%9D-%D7%94%D7%9E%D7%9C%D7%97/100-%D7%97%D7%A0%D7%95%D7%9A</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlsVofZyr804wZHWs8rQa-DJkOleCsaFsA',
+		'DeadSea Scrolls',
+		'2015-04-16 11:14:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שלום אני חייבת את עזרתכם עוד בימים הקרובים בבקשה תעזרו לי אני חד-הורית וקשה לי מאוד זה אני מבקשת סכום לא גבוה בכלל 0549443931</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmbQcj0Kbjear9c7N04BYGHSAxtjJ6EYcg',
+		'מעיין דניאו',
+		'2015-04-16 11:45:14'
+		)
+		;
+
