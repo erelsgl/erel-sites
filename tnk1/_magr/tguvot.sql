@@ -10066,3 +10066,58 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-15 05:35:16' 
 			WHERE messageid=5252;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_10_0.html',
+		'<p>המאמר המלא באתר מגילות קומראן: </p><p>http://www.deadseascrolls.co.il/%D7%9E%D7%92%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%9D-%D7%94%D7%9E%D7%9C%D7%97/100-%D7%97%D7%A0%D7%95%D7%9A</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlsVofZyr804wZHWs8rQa-DJkOleCsaFsA',
+		'DeadSea Scrolls',
+		'2015-04-16 11:14:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שלום אני חייבת את עזרתכם עוד בימים הקרובים בבקשה תעזרו לי אני חד-הורית וקשה לי מאוד זה אני מבקשת סכום לא גבוה בכלל 0549443931</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawmbQcj0Kbjear9c7N04BYGHSAxtjJ6EYcg',
+		'מעיין דניאו',
+		'2015-04-16 11:45:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>ספר תהילות סב12: &quot;אַחַת דִּבֶּר אֱלֹהִים שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים&quot;</p><p>אַחַת דִּבֶּר אֱלֹהִים = מפי אלהים אחד לאמור פה אחד </p><p>שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים = כי שומעים בשתי האוזניים כי דבר אלהים הוא כפל משמעות </p><p>דבר אלהים הוא רב משמעות ולאדם דו-משמעי לשמוע בשתי האוזנים כי אוזן אחת לרגש ואוזן אחת לשכל</p><p>כי כאשר איש אלהים מדבר הוא מכוון גם לשכל IQ וגם לרגש EQ</p><p>וככה על האדם להקשיב לדבר אלהים בשני המישורים גם לרגש וגם לשכל</p><p>לעתים אדם לא פנוי שכלית ולא מקשיב אינטלגנטית אז לפחות הוא יקלוט רגשית</p><p>או ההיפך כי לעתים אדם לא מקשיב רגשית מחוסר לב אז לפחות הוא יקשיב שכלית</p><p>ובכל זאת &quot;אַחַת דִּבֶּר אֱלֹהִים שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים&quot; וְאִם שְׁנֵיהֶם כְּאֶחָד טוֹבִים</p><p></p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-17 08:05:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>ספר תהילות סב12: &quot;אַחַת דִּבֶּר אֱלֹהִים שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים&quot;</p><p>אַחַת דִּבֶּר אֱלֹהִים = מפי אלהים אחד לאמור פה אחד</p><p>שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים = כי שומעים בשתי האוזניים כי דבר אלהים הוא כפל משמעות</p><p>דבר אלהים הוא רב משמעות ולאדם דו-משמעי לשמוע בשתי האוזנים כי אוזן אחת לרגש ואוזן אחת לשכל</p><p>כי כאשר איש אלהים מדבר הוא מכוון גם לשכל IQ וגם לרגש EQ</p><p>וככה על האדם להקשיב לדבר אלהים בשני המישורים גם לרגש וגם לשכל</p><p>לעתים אדם לא פנוי שכלית ולא מקשיב אינטלגנטית אז לפחות הוא יקלוט רגשית</p><p>או ההיפך כי לעתים אדם לא מקשיב רגשית מחוסר לב אז לפחות הוא יקשיב שכלית</p><p>ובכל זאת &quot;אַחַת דִּבֶּר אֱלֹהִים שְׁתַּיִם זוּ שָׁמָעְתִּי&quot; וְאִם שְׁנֵיהֶם כְּאֶחָד טוֹבִים לאמור להבין גם ברגש וגם בשכל</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-17 10:06:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-17 10:07:01' 
+			WHERE messageid=5255;
+
