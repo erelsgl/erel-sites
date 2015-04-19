@@ -134,3 +134,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הפחד מארץ צפון' AND `sfr` = 'ירמ' AND `prq0` = 'כג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `prq0` = 'כה', `psuq1` = 39, `tarik_hosfa` = '2015-04-18 17:52:43' WHERE `bn` = 'סמל המדינה - מהותו ומקורו' AND `sfr` = 'שמת' AND `prq0` = 'כא' AND `psuq0` = 31 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('סמל המדינה - מהותו ומקורו', 'מלא', 'ו', 48, 49, '', '', NULL, '2015-04-18 17:52:43');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('סמל המדינה - מהותו ומקורו', 'זכר', 'ד', 2, 4, '', '', NULL, '2015-04-18 17:52:43');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('סמל המדינה - מהותו ומקורו', 'שמת', 'ל', 7, 8, '', '', NULL, '2015-04-18 17:52:43');
+

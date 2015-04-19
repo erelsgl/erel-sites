@@ -138,3 +138,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סופרים בני דורנו', 'אבנר רמו', '', '', 60, 60, '2015-04-15 06:13:34');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('הסטוריה', 'סמל המדינה - מהותו ומקורו', '', '', 60, 60, '2015-04-18 17:51:22');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('משל ונמשל', 'סמל המדינה - מהותו ומקורו', '', '', 60, 60, '2015-04-18 17:51:22');
+
