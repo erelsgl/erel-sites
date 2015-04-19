@@ -107,3 +107,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('אבנר רמו', 'אוסף', 'tnk_ul', 'אבנר רמו', 'tnk1/sofrim/ramu', '', '', '2015-04-15 06:09:20');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'סמל המדינה - מהותו ומקורו', `tarik_hosfa` = '2015-04-18 17:50:46' WHERE `qod` = 'סמל המדינה - מהותו ומקורו' AND 1 LIMIT 1;
+

@@ -10121,3 +10121,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-17 10:07:01' 
 			WHERE messageid=5255;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_394.html',
+		'<p>תודה רבה עזרת לי מאוד</p><p>☺</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawlLZM7925I0Vg3chaV8n4PtNYrUiOoEs3A',
+		'טל מתניה',
+		'2015-04-18 11:19:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>הושע ב11: &quot;לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ</p><p>וְתִירוֹשִׁי בְּמוֹעֲדוֹ = בַּשַּׁבָּת וּבְיוֹם קֹדֶשׁ</p><p>על כן בעת ההבדלה בטרם מאירים [מדליקים] את הנר</p><p>קודם שותים מן התירוש כשתייה אחרונה לעת הקודש </p><p>ורק אחרי כן מאירים [מדליקים] את הנר להבדלה בין הקודש לחול</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-18 17:24:21'
+		)
+		;
+
