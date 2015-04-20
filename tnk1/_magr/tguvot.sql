@@ -10145,3 +10145,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>שמות כב24: &quot;אִם כֶּסֶף תַּלְוֶה אֶת עַמִּי אֶת הֶעָנִי עִמָּךְ לֹא תִהְיֶה לוֹ כְּנֹשֶׁה לֹא תְשִׂימוּן עָלָיו נֶשֶׁךְ&quot;</p><p>כתב בספר משה איש האלהים = אֶת עַמִּי אֶת הֶעָנִי עִמָּךְ = כי הֶעָנִי הוא עַמִּי = כי הֶעָנִי הוא עַם יהוה</p><p>וכל אלה שבעת אנשי אלהים:</p><p>נביא כהן לוי עני גר יתום ואלמנה</p>',
+		'https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww',
+		'Daian Moshe',
+		'2015-04-19 09:28:25'
+		)
+		;
+
