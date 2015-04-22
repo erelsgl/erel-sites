@@ -13688,3 +13688,81 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-04-20 16:26:09'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0319.htm',
+				'tnk1/messages/prqim_t0319_6.html',
+				NULL,
+				'2015-04-21 13:10:18',
+				'2015-04-21 13:10:18',
+				'משהו לפרשות אחרי מות-קדושים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1801.htm',
+				'tnk1/messages/weygwl_kmym_mwgrym_bmwrd.pdf',
+				NULL,
+				'2015-04-21 19:42:30',
+				'2015-04-21 19:42:30',
+				'עצמאות ועיגול כמים מוגרים במורד',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_678.html',
+				NULL,
+				'2015-04-21 20:00:52',
+				'2015-04-21 20:00:52',
+				'ארץ ישראל לעם ישראל- האומנם?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-21 20:00:52'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_679.html',
+				NULL,
+				'2015-04-21 20:11:35',
+				'2015-04-21 20:11:35',
+				'ארץ ישראל לעם ישראל/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-21 20:11:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+

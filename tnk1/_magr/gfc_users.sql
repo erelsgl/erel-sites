@@ -911,3 +911,15 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-04-19 13:29:04','https://www.google.com/accounts/o8/id?id=AItOawmBO20CtxtVxB4LjRcFs5QCADbhTT_-EnA','קרן זבאן');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-21 09:52:20','https://www.google.com/accounts/o8/id?id=AItOawn6kJtIFqBhSLeLcchuV5kpRazhK7jTE2w','יצחק טנג\'י');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		REPLACE  INTO gfc_users(created_at,id,name)
+		VALUES('2015-04-21 13:10:31','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
+
