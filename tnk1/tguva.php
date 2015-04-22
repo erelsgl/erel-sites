@@ -1,34 +1,38 @@
 <?php
 error_reporting(E_ALL);
 $SCRIPT=realpath(dirname(__FILE__)."/../_script");
-$OPENID=realpath(dirname(__FILE__)."/../sites/openid"); 
 
 require_once("$SCRIPT/html.php");
 require_once("$SCRIPT/hebrew.php");
+require_once("$SCRIPT/system.php");
+require_once("$SCRIPT/session_forever.php");
+require_once("$SCRIPT/sql.php");
+require_once("$SCRIPT/sql_backup.php");
+require_once("$SCRIPT/coalesce.php");
+
 global $HTML_DIRECTION, $HTML_LANGUAGE, $HTML_ENCODING;
 $HTML_DIRECTION = 'rtl';
 $HTML_LANGUAGE = 'he';
 $HTML_ENCODING = 'utf-8';
 $jquery = 'https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+
+require_once("admin/db_connect.php");
+if (isset($_GET['debug_times']))
+	$GLOBALS['DEBUG_QUERY_TIMES']=TRUE;
+sql_set_charset('utf8');
+
 echo xhtml_header(
 		'tguvot',
 		'tguvot',
 		array("_themes/klli_script.css"),
 		"
 		<script type='text/javascript' src='$jquery'></script>
+		<script type='text/javascript' src='https://apis.google.com/js/platform.js' async defer></script>
+		<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
 		");
 
-require_once("$SCRIPT/system.php");
-require_once("$SCRIPT/session_forever.php");
-require_once("$SCRIPT/sql.php");
-require_once("$SCRIPT/sql_backup.php");
 $GLOBALS['BACKUP_MODIFICATION_QUERIES']=TRUE;
 
-
-require_once("admin/db_connect.php");
-if (isset($_GET['debug_times']))
-	$GLOBALS['DEBUG_QUERY_TIMES']=TRUE;
-sql_set_charset('utf8');
 
 if (empty($_GET['followup'])) {
 	print "<p>תקלה - לא הגיעה כתובת המאמר שמגיבים עליו - נא להודיע למנהל האתר</p>\n";
@@ -45,12 +49,16 @@ $logout = isset($_GET['to']) && $_GET['to']=='logout';
 
 global $name_for_display, $current_userid, $current_userid_quoted, $current_email;
 
+// require_once("$OPENID/local.php");
+// $attributes = google_attributes($login, $logout, $followup);
+// $current_userid = $attributes['current_userid'];
+// $name_for_display = $attributes['name_for_display'];
+// $current_email =  $attributes['current_email'];
 
-require_once("$OPENID/local.php");
-$attributes = google_attributes($login, $logout, $followup);
-$current_userid = $attributes['current_userid'];
-$name_for_display = $attributes['name_for_display'];
-$current_email =  $attributes['current_email'];
+$current_userid = coalesce($_GET['id'],''); 
+$name_for_display = coalesce($_GET['name'],'');
+$name_for_display = coalesce($_GET['email'],'');
+
 
 $current_is_manager = ($current_email=='erelsgl@gmail.com' || $current_email=='erelvgalya@gmail.com');
 $current_userid_quoted = quote_all($current_userid);
@@ -190,7 +198,28 @@ function show_new_comment_form($followup_quoted, &$parity) {
 		";
 	} else {
 		echo "
-		<tr><td colspan='2' style='border:none'><a target='_top' href='".htmlspecialchars($openid_login_link)."'>"."כדי לכתוב תגובה יש להתחבר"."</a></td></tr>
+		<tr>
+			<td style='border:none; vertical-align:middle'>".
+				"כדי לכתוב תגובה יש להתחבר:". 
+			"</td><td style='border:none'>".
+				"<div class='g-signin2' data-onsuccess='onSignIn' style='display:inline-block'></div>".
+			//	"<a target='_top' href='".htmlspecialchars($openid_login_link)."'>".
+			//	"</a>".
+			
+			"<script type=text/javascript>
+				function onSignIn(googleUser) {
+					var profile = googleUser.getBasicProfile();
+					console.log('ID: ' + profile.getId());
+					console.log('Name: ' + profile.getName());
+					console.log('Image URL: ' + profile.getImageUrl());
+					console.log('Email: ' + profile.getEmail());
+					var redirectUrl = '?id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
+					console.log(redirectUrl);
+					window.location = redirectUrl; 
+				}
+			</script>
+		</td>
+		</tr>
 		";
 	}
 }
