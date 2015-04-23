@@ -8729,7 +8729,7 @@ function writeWymEditor(id, width, height, buttons) {
 
 /* from http://stackoverflow.com/a/9976309/827927 */
 function resizeIframe(obj) {
-    obj.style.height = (obj.contentWindow.document.body.scrollHeight+20) + 'px';
+    obj.style.height = (obj.contentWindow.document.body.scrollHeight+40) + 'px';
 }
 
 function tguva () {
