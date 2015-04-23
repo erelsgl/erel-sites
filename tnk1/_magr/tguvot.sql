@@ -10157,3 +10157,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>יפה</p>',
+		'117606350813040384070',
+		'Erel Segal Halevi',
+		'2015-04-23 05:54:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-04-23 05:54:50' 
+			WHERE messageid=5260;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>יפה</p>',
+		'117606350813040384070',
+		'Erel Segal Halevi',
+		'2015-04-23 05:54:53'
+		)
+		;
+
