@@ -57,7 +57,7 @@ global $name_for_display, $current_userid, $current_userid_quoted, $current_emai
 
 $current_userid = coalesce($_GET['id'],''); 
 $name_for_display = coalesce($_GET['name'],'');
-$name_for_display = coalesce($_GET['email'],'');
+$current_email = coalesce($_GET['email'],'');
 
 
 $current_is_manager = ($current_email=='erelsgl@gmail.com' || $current_email=='erelvgalya@gmail.com');
@@ -145,8 +145,8 @@ function show_comments($followup_quoted, &$parity) {
 	if (!sql_num_rows($tguvot_rows)) {
 		print "<tr><td colspan='2' style='border:none'>עדיין לא נכתבו תגובות, את/ה הראשון/ה!<br/><br/></td></tr>\n";
 		return;
-	} 
-
+	}
+	
 	while ($row = sql_fetch_assoc($tguvot_rows)) {
 		$delete_div = '';
 		if ($current_userid == $row['userid'] || $current_is_manager)
@@ -213,7 +213,7 @@ function show_new_comment_form($followup_quoted, &$parity) {
 					console.log('Name: ' + profile.getName());
 					console.log('Image URL: ' + profile.getImageUrl());
 					console.log('Email: ' + profile.getEmail());
-					var redirectUrl = '?id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
+					var redirectUrl = window.location.search + '&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
 					console.log(redirectUrl);
 					window.location = redirectUrl; 
 				}
