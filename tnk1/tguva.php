@@ -175,23 +175,36 @@ function show_comments($followup_quoted, &$parity) {
 
 
 function show_new_comment_form($followup_quoted, &$parity) {
-	global $current_is_manager, $current_userid, $current_userid_quoted, $name_for_display, $current_time_quoted, $openid_login_link, $openid_logout_link;
+	global $current_is_manager, $current_userid, $current_userid_quoted, $name_for_display, $current_time_quoted, $followup;
+	// global $openid_login_link, $openid_logout_link;
 	if ($current_userid) {
 		print "
 		<tr class='tguva parity$parity new'>
 			<td class='author'>
-	<br/> $name_for_display
-	<br/>אומר/ת:
-	<div style='font-size:8px; font-style:italic; margin-top:2em'>
-	<a href='".htmlspecialchars($openid_logout_link)."'>"."(התנתקות)"."</a>
-	</div>
-	</td>
+				<br/> $name_for_display
+				<br/>אומר/ת: ".
+// 				"<div style='font-size:8px; font-style:italic; margin-top:2em'>
+// 					<script type='text/javascript'>
+// 						function signOut() {
+// 							var auth2 = gapi.auth2.getAuthInstance();  
+// 							console.log('User signing out.');
+// 							auth2.signOut().then(function () {
+// 								console.log('User signed out.');
+// 								var redirectUrl = '?followup=$followup';
+// 								console.log(redirectUrl);
+// 								window.location = redirectUrl; 
+// 							});
+// 						}
+// 					</script>
+// 					<a href='#' onclick='signOut();'>"."(התנתקות)"."</a>
+// 				</div>".
+			"</td>
 			<td class='body'>
-			<form method='post' action=''>
-				<textarea name='body' rows='5' cols='60'></textarea>
-				<p>תנאי שימוש: הטופס מיועד לתגובות ענייניות בלבד. ביטויי לעג וזלזול יימחקו ללא אזהרה. לחיצה על כפתור 'שליחה' מהווה הסכמה לתנאי זה.</p>
-				<input type='submit' value='שליחה' />
-			</form>
+				<form method='post' action=''>
+					<textarea name='body' rows='5' cols='60'></textarea>
+					<p>תנאי שימוש: הטופס מיועד לתגובות ענייניות בלבד. ביטויי לעג וזלזול יימחקו ללא אזהרה. לחיצה על כפתור 'שליחה' מהווה הסכמה לתנאי זה.</p>
+					<input type='submit' value='שליחה' />
+				</form>
 			</td>
 			<td></td>
 		</tr><!--tguva-->
@@ -199,26 +212,24 @@ function show_new_comment_form($followup_quoted, &$parity) {
 	} else {
 		echo "
 		<tr>
-			<td style='border:none; vertical-align:middle'>".
-				"כדי לכתוב תגובה יש להתחבר:". 
-			"</td><td style='border:none'>".
-				"<div class='g-signin2' data-onsuccess='onSignIn' style='display:inline-block'></div>".
-			//	"<a target='_top' href='".htmlspecialchars($openid_login_link)."'>".
-			//	"</a>".
-			
-			"<script type=text/javascript>
-				function onSignIn(googleUser) {
-					var profile = googleUser.getBasicProfile();
-					console.log('ID: ' + profile.getId());
-					console.log('Name: ' + profile.getName());
-					console.log('Image URL: ' + profile.getImageUrl());
-					console.log('Email: ' + profile.getEmail());
-					var redirectUrl = window.location.search + '&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
-					console.log(redirectUrl);
-					window.location = redirectUrl; 
-				}
-			</script>
-		</td>
+			<td style='border:none; vertical-align:middle'>
+				כדי לכתוב תגובה יש להתחבר: 
+			</td>
+			<td style='border:none'>
+				<div class='g-signin2' data-onsuccess='onSignIn'></div>
+				<script type='text/javascript'>
+					function onSignIn(googleUser) {
+						var profile = googleUser.getBasicProfile();
+						//console.log('ID: ' + profile.getId());
+						//console.log('Name: ' + profile.getName());
+						//console.log('Image URL: ' + profile.getImageUrl());
+						//console.log('Email: ' + profile.getEmail());
+						var redirectUrl = '?followup=$followup&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
+						//console.log(redirectUrl);
+						window.location = redirectUrl; 
+					}
+				</script>
+			</td>
 		</tr>
 		";
 	}

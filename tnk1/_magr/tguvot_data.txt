@@ -153,7 +153,7 @@ tnk1/tora/mje_tlunot.html	1	2012-05-29 12:16:47
 tnk1/ktuv/mgilot/jj-01-15.html	1	2010-07-03 21:37:17
 tnk1/klli/mdrjim/xte_dwd_1.html	4	2014-01-20 06:28:54
 tnk1/ktuv/mjly/mj-02-2122.html	0	2010-07-05 13:52:14
-tnk1/messages/prqim_t2674_0.html	4	2015-01-19 10:55:54
+tnk1/messages/prqim_t2674_0.html	6	2015-04-23 05:54:53
 tnk1/ktuv/mgilot/jj-01-17.html	0	2010-07-07 22:44:40
 tnk1/kma/qjrim1/rht.html	3	2010-07-07 23:44:57
 tnk1/messages/prqim_t0133_0.html	2	2013-07-02 22:06:47
@@ -781,7 +781,7 @@ tnk1/klli/mdrjim/prjnim_ljon_hqodj_1.html	1	2011-12-24 10:20:32
 tnk1/ktuv/mgilot/qh-05-08.html	2	2012-01-01 10:10:29
 tnk1/nvir/jmuela/ja-15-24.html	0	2011-12-26 17:15:55
 tnk1/nvir/yhojua/ya-06-0405.html	1	2011-12-27 22:26:49
-tryg/ribit0/gmx_hsbr.html	23	2015-03-29 00:02:24
+tryg/ribit0/gmx_hsbr.html	25	2015-04-13 15:46:01
 tnk1/sofrim/mali/nxlot_zvulun.html	1	2011-12-29 02:39:19
 tnk1/messages/prqim_t0118_5.html	8	2013-01-16 14:05:00
 tnk1/kma/qjrim1/xjbon.html	3	2012-11-14 08:55:39
@@ -858,7 +858,7 @@ tnk1/kma/hvdlim1/nisuin2.html	1	2012-03-17 13:09:36
 tnk1/kma/hvdlim1/xrut.html	2	2012-04-08 13:56:04
 tnk1/messages/prqim_t0516_7.html	0	2014-04-01 05:20:40
 tnk1/ktuv/mjly/mj-2207.html	1	2012-04-08 12:55:13
-tnk1/messages/prqim_t0310_2.html	8	2014-08-29 09:12:33
+tnk1/messages/prqim_t0310_2.html	9	2015-04-13 16:44:41
 tnk1/ktuv/mjly/mj-02-06.html	2	2012-04-09 07:56:36
 tnk1/kma/qjrim1/pnn.html	4	2015-04-06 17:51:47
 tnk1/messages/prqim_t2820_2.html	0	2012-05-21 23:48:35
@@ -959,7 +959,7 @@ tnk1/messages/sofrim_index_2_4.html	1	2012-07-22 00:04:45
 tnk1/ktuv/mgilot/qh-03-01.html	1	2012-07-26 22:13:26
 tnk1/nvia/yjayhu/yj-01-18.html	0	2012-07-27 09:17:24
 tnk1/messages/msr_atid_0.html	16	2013-07-05 08:55:53
-tnk1/messages/dmut_dmut_10_0.html	2	2014-09-07 22:27:02
+tnk1/messages/dmut_dmut_10_0.html	3	2015-04-16 11:14:03
 tnk1/messages/prqim_t0104_1.html	2	2015-01-31 19:17:53
 tnk1/messages/sofrim_hagay_mxjva_31_0.html	2	2012-07-31 21:47:33
 tnk1/messages/sofrim_hagay_mxjva_30.html	0	2012-07-31 21:44:15
@@ -1137,7 +1137,7 @@ tnk1/kma/qjrim1/xnt.html	2	2013-01-27 08:08:07
 tnk1/messages/prqim_t0101_38.html	3	2013-01-27 08:00:19
 tnk1/messages/msr_index_5.html	2	2013-01-27 07:55:30
 tnk1/ktuv/thlim/th-119-113.html	1	2013-01-26 10:23:26
-tnk1/messages/prqim_t0231_0.html	7	2015-02-07 15:55:20
+tnk1/messages/prqim_t0231_0.html	8	2015-04-18 17:24:21
 tnk1/messages/sig_kll1_0_1_0.html	0	2013-01-27 19:49:45
 tnk1/messages/sofrim_hoffer_aplaton_1.html	1	2013-01-31 12:59:16
 tnk1/ktuv/mgilot/tklt_avrhm_mamrim.html	2	2013-02-01 04:28:15
@@ -1159,7 +1159,7 @@ tnk1/messages/prqim_t0102_11.html	1	2013-02-12 10:51:41
 tnk1/ktuv/mjly/mj-15-20.html	1	2013-02-10 23:21:35
 tokxot/txbura/ntc.html	1	2013-02-11 09:51:14
 tnk1/messages/prqim_t0311_0.html	1	2013-02-13 03:03:43
-tnk1/messages/prqim_t0505_0.html	3	2015-03-04 15:42:29
+tnk1/messages/prqim_t0505_0.html	4	2015-04-17 10:07:01
 tnk1/messages/prqim_t1059_3.html	3	2014-03-25 09:27:44
 tnk1/messages/prqim_t1063_2.html	1	2013-02-18 06:45:54
 tnk1/ktuv/thlim/jft.html	2	2013-02-22 02:31:43
@@ -1246,7 +1246,7 @@ tnk1/messages/prqim_t2637_1.html	3	2014-01-04 13:55:59
 tnk1/kma/qjrim1/smdr.html	1	2013-04-26 01:07:52
 tryg/messages/ribit0_gmx_hsbr_1.html	7	2014-11-13 08:47:21
 tnk1/kma/qjrim1/bmot.html	3	2013-04-28 01:05:33
-tryg/ribit0/hlwaa_mgmx.html	20	2015-04-06 12:12:08
+tryg/ribit0/hlwaa_mgmx.html	22	2015-04-12 14:07:13
 tnk1/ktuv/thlim/th-49-13.html	2	2013-04-28 05:47:46
 tnk1/messages/prqim_t2649_0.html	2	2013-04-29 09:02:04
 tnk1/messages/prqim_t26a2_0.html	1	2013-04-30 07:54:51
@@ -1337,7 +1337,7 @@ tnk1/nvia/yjayhu/yj-05.html	1	2013-08-06 19:03:14
 tnk1/messages/prqim_t0208_2.html	1	2013-08-02 10:57:20
 tnk1/nvir/jmuela/ja-03-03.html	3	2013-08-07 07:28:16
 tnk1/ktuv/thlim/th-97.html	1	2013-08-08 06:07:30
-tnk1/messages/prqim_t1404_0.html	8	2015-04-10 13:59:53
+tnk1/messages/prqim_t1404_0.html	7	2015-04-10 14:03:16
 tnk1/messages/prqim_t0234_7.html	1	2013-08-11 09:48:23
 tnk1/messages/sofrim_brurya_index_2.html	1	2013-08-12 03:00:08
 tnk1/messages/forums_437.html	1	2013-08-12 06:52:59
@@ -1818,5 +1818,10 @@ tnk1/ktuv/mj/25-20.html	1	2015-04-07 07:09:11
 tnk1/nvia/yxzqel/yx-45-0306.html	4	2015-04-08 17:21:58
 tnk1/nvir/jmuela/ja-04-12.html	1	2015-04-07 18:04:49
 tnk1/messages/prqim_t0207_2.html	0	2015-04-08 18:36:16
-tnk1/klli/mdrjim/em_dwd.html	1	2015-04-09 15:06:26
+tnk1/klli/mdrjim/em_dwd.html	0	2015-04-11 17:25:13
 tnk1/messages/sofrim_orna_index_3.html	1	2015-04-10 08:43:53
+tnk1/kma/qjrim1/mzima.html	0	2015-04-12 06:05:58
+tryg/ribit0/bclel.html	2	2015-04-16 11:45:14
+tnk1/tora/jmot/psx_mcrym_xmc.html	2	2015-04-13 19:21:40
+tnk1/tora/bmdbr/bm-14-yldim.html	0	2015-04-15 05:35:16
+tnk1/messages/forums_394.html	1	2015-04-18 11:19:52
