@@ -111,3 +111,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'סמל המדינה - מהותו ומקורו', `tarik_hosfa` = '2015-04-18 17:50:46' WHERE `qod` = 'סמל המדינה - מהותו ומקורו' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-04-24 06:38:06' WHERE `qod` = 'ביאור:דברים לג2' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לו12' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-04-24 07:12:54' WHERE `qod` = 'ביאור:בראשית לו12' AND 1 LIMIT 1;
+
