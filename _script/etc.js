@@ -249,7 +249,7 @@ function kotrt() {
 	if (theReceiver=='סגלות משלי') {
 		theText += ("<p class='sgulot_logo'>" + 
 			"<a href='http://stores.lulu.com/erel'>" +
-			"<img src='/tnk1/_themes/sgolot.png' alt='סגולות משלי' title='מתוך הספר סגולות משלי'/>" +
+			"<img src='/tnk1/_themes/sgulot.png' alt='סגולות משלי' title='מתוך הספר סגולות משלי'/>" +
 			"</a>" +
 			"</p>");
 	}
