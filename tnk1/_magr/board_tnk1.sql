@@ -96,3 +96,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-04-24 07:55:22'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/prtezor.html',
+				'tnk1/tora/dvrim/dm-01-02.html',
+				NULL,
+				'2015-04-24 08:00:03',
+				'2015-04-24 08:00:03',
+				'אחד-עשר יום מחורב, דרך הר שעיר, עד קדש ברנע',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-24 08:00:03'
+			WHERE ktovt_bn='tnk1/sig/prtezor.html';
+
