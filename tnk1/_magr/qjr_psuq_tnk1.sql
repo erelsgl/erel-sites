@@ -150,3 +150,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('סמל המדינה - מהותו ומקורו', 'שמת', 'ל', 7, 8, '', '', NULL, '2015-04-18 17:52:43');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:דברים לג2', 'דבר', 'לג', 2, 2, 'שני פירושים', 'תרגומים', 10, '2015-04-24 06:38:45');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2015-04-24 07:13:05' WHERE `bn` = 'ביאור:בראשית לו12' AND `sfr` = 'ברא' AND `prq0` = 'לו' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
