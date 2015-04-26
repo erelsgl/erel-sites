@@ -119,3 +119,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-04-24 08:00:03'
 			WHERE ktovt_bn='tnk1/sig/prtezor.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-25 17:39:44'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-25 17:56:36'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-02.html'
+		;
+
