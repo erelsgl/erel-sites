@@ -7908,7 +7908,7 @@ function kotrt() {
 	if (theReceiver=='סגלות משלי') {
 		theText += ("<p class='sgulot_logo'>" + 
 			"<a href='http://stores.lulu.com/erel'>" +
-			"<img src='/tnk1/_themes/sgolot.png' alt='סגולות משלי' title='מתוך הספר סגולות משלי'/>" +
+			"<img src='/tnk1/_themes/sgulot.png' alt='סגולות משלי' title='מתוך הספר סגולות משלי'/>" +
 			"</a>" +
 			"</p>");
 	}
@@ -8729,7 +8729,7 @@ function writeWymEditor(id, width, height, buttons) {
 
 /* from http://stackoverflow.com/a/9976309/827927 */
 function resizeIframe(obj) {
-    obj.style.height = (obj.contentWindow.document.body.scrollHeight+40) + 'px';
+    obj.style.height = (obj.contentWindow.document.body.scrollHeight+40) + 'px';  // add 40 because of Google Sign-In Button
 }
 
 function tguva () {
