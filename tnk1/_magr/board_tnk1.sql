@@ -183,3 +183,97 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-27 12:33:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0104_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_26.html',
+				NULL,
+				'2015-04-27 15:37:47',
+				'2015-04-27 15:37:47',
+				'גול, גלול וגלגל',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-27 15:37:47'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_27.html',
+				NULL,
+				'2015-04-27 17:24:10',
+				'2015-04-27 17:24:10',
+				'פגר מובס',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-27 17:24:10'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-28 05:09:08'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-28 05:31:36'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-28 05:35:36'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-28 05:50:47'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-28 06:00:35'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
