@@ -158,3 +158,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('עצות צדק', 'ביאור:משלי יא21', 'מותר להעביר את העונש מיד ליד, אסור לנקות את הרע', '', 60, 60, '2015-04-22 04:36:07');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי כח6', 'דוד - רש הולך בתומו', '', 10, 60, '2015-04-29 07:02:12');
+
