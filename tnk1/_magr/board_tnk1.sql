@@ -277,3 +277,57 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_682.html',
+				NULL,
+				'2015-04-28 19:59:38',
+				'2015-04-28 19:59:38',
+				'ספירת העומר/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-28 19:59:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_683.html',
+				NULL,
+				'2015-04-28 20:03:20',
+				'2015-04-28 20:03:20',
+				'פרשת אמור- מה הטעם בספירת העומר?/מאמר מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-04-28 20:03:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 06:59:32'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/gr_tojv.html'
+		;
+
