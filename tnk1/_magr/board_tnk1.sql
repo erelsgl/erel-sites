@@ -331,3 +331,115 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/mdrjim/gr_tojv.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1804.htm',
+				'tnk1/messages/prqim_t1804_2.html',
+				NULL,
+				'2015-04-29 11:55:10',
+				'2015-04-29 11:55:10',
+				'דמיין - ג\'ון לנון והיהודים - התייחסות למאמר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 18:33:48'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/gr_tojv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 18:35:18'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/gr_tojv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 19:02:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1804_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 19:33:35'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 19:33:55'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-29 19:36:30'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 04:09:23'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 04:12:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1804_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 04:26:11'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 04:29:56'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 04:43:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1804_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-04-30 05:57:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1804_2.html'
+		;
+
