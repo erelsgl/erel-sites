@@ -21,16 +21,6 @@ if (isset($_GET['debug_times']))
 	$GLOBALS['DEBUG_QUERY_TIMES']=TRUE;
 sql_set_charset('utf8');
 
-echo xhtml_header(
-		'tguvot',
-		'tguvot',
-		array("_themes/klli_script.css"),
-		"
-		<script type='text/javascript' src='$jquery'></script>
-		<script type='text/javascript' src='https://apis.google.com/js/platform.js' async defer></script>
-		<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
-		");
-
 $GLOBALS['BACKUP_MODIFICATION_QUERIES']=TRUE;
 
 
@@ -64,6 +54,46 @@ $current_userid_quoted = quote_all($current_userid);
 
 //print "<p>\$current_userid=$current_userid";
 
+
+echo xhtml_header(
+		'tguvot',
+		'tguvot',
+		array("_themes/klli_script.css"),
+		"
+		<script type='text/javascript' src='$jquery'></script>
+		<script type='text/javascript' src='https://apis.google.com/js/platform.js?onload=onLoad' async defer></script>
+		<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
+		<style>
+			iframe#ssIFrame_google {display:none}
+		</style>
+		<script type='text/javascript'>
+			<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
+			function onLoad() {
+					if (!gapi.auth2) {
+						gapi.load('auth2', function() {
+							gapi.auth2.init();
+						});
+					}
+			}
+			
+			function onSignIn(googleUser) {
+					var profile = googleUser.getBasicProfile();
+					var redirectUrl = '?followup=$followup&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail()+'&image='+profile.getImageUrl();
+					//console.log(redirectUrl);
+					window.location = redirectUrl;
+			}
+			
+			function onSignOut() {
+					var auth2 = gapi.auth2.getAuthInstance();
+					console.log('User signing out.');
+					auth2.signOut().then(function () {
+							console.log('User signed out.');
+							var redirectUrl = '?followup=$followup';
+							window.location = redirectUrl;
+					});
+			}
+		</script>
+		");
 
 
 function add_comment($followup_quoted, $body) {
@@ -182,21 +212,9 @@ function show_new_comment_form($followup_quoted, &$parity) {
 			<td class='author'>
 				<br/> $name_for_display
 				<br/>אומר/ת: ".
-// 				"<div style='font-size:8px; font-style:italic; margin-top:2em'>
-// 					<script type='text/javascript'>
-// 						function signOut() {
-// 							var auth2 = gapi.auth2.getAuthInstance();  
-// 							console.log('User signing out.');
-// 							auth2.signOut().then(function () {
-// 								console.log('User signed out.');
-// 								var redirectUrl = '?followup=$followup';
-// 								console.log(redirectUrl);
-// 								window.location = redirectUrl; 
-// 							});
-// 						}
-// 					</script>
-// 					<a href='#' onclick='signOut();'>"."(התנתקות)"."</a>
-// 				</div>".
+				"<div style='font-size:8px; font-style:italic; margin-top:2em'>
+					<a href='#' onclick='onSignOut()'>"."(התנתקות)"."</a>
+				</div>".
 			"</td>
 			<td class='body'>
 				<form method='post' action=''>
@@ -216,18 +234,6 @@ function show_new_comment_form($followup_quoted, &$parity) {
 			</td>
 			<td style='border:none'>
 				<div class='g-signin2' data-onsuccess='onSignIn'></div>
-				<script type='text/javascript'>
-					function onSignIn(googleUser) {
-						var profile = googleUser.getBasicProfile();
-						//console.log('ID: ' + profile.getId());
-						//console.log('Name: ' + profile.getName());
-						//console.log('Image URL: ' + profile.getImageUrl());
-						//console.log('Email: ' + profile.getEmail());
-						var redirectUrl = '?followup=$followup&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail();
-						//console.log(redirectUrl);
-						window.location = redirectUrl; 
-					}
-				</script>
 			</td>
 		</tr>
 		";
