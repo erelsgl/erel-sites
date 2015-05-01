@@ -55,10 +55,9 @@ global $name_for_display, $current_userid, $current_userid_quoted, $current_emai
 // $name_for_display = $attributes['name_for_display'];
 // $current_email =  $attributes['current_email'];
 
-$current_userid = coalesce($_GET['id'],''); 
-$name_for_display = coalesce($_GET['name'],'');
-$current_email = coalesce($_GET['email'],'');
-
+$_SESSION['id'] = $current_userid = coalesce($_GET['id'],''); 
+$_SESSION['name'] = $name_for_display = coalesce($_GET['name'],'');
+$_SESSION['email'] = $current_email = coalesce($_GET['email'],'');
 
 $current_is_manager = ($current_email=='erelsgl@gmail.com' || $current_email=='erelvgalya@gmail.com');
 $current_userid_quoted = quote_all($current_userid);

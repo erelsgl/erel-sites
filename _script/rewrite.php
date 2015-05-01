@@ -178,16 +178,16 @@ $hosef_perah=isset($_POST['hosef_perah']);
 global $current_username, $current_role;
 global $name_for_display, $current_userid, $current_userid_quoted;
 
-require_once(dirname(__FILE__)."/../sites/openid/local.php");
+//require_once(dirname(__FILE__)."/../sites/openid/local.php");
+// if (isset($_SESSION['openid'])) {
+// 	$attributes = $_SESSION['openid'];
+// } else {
+// 	$attributes = empty_attributes();
+// }
 
-if (isset($_SESSION['openid'])) {
-	$attributes = $_SESSION['openid'];
-} else {
-	$attributes = empty_attributes();
-}
-$current_userid = $attributes['current_userid'];
-$name_for_display = $attributes['name_for_display'];
-$current_email =  $attributes['current_email'];
+$current_userid = coalesce($_SESSION['id'],'');
+$name_for_display = coalesce($_SESSION['name'],'');
+$current_email = coalesce($_SESSION['email'],'');
 
 $current_userid_quoted = quote_all($current_userid); // important! leading zeros!
 
