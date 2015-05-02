@@ -426,3 +426,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-04-30 05:58:28' 
 			WHERE messageid=5289;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1804_2.html',
+		'<p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-05-01 08:11:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-01 08:11:53' 
+			WHERE messageid=5290;
+
