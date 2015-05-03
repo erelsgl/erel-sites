@@ -474,3 +474,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1804_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-03 03:49:33'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_10.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1elilut_nkrim.html',
+				'tnk1/nvia/tryasr/mi-04-05.html',
+				NULL,
+				'2015-05-03 07:39:42',
+				'2015-05-03 07:39:42',
+				'כי כל העמים ילכו איש בשם אלהיו?!',
+				'אראל',
+				''
+			)
+		;
+
