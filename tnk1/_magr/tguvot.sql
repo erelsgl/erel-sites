@@ -445,3 +445,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-05-01 08:11:53' 
 			WHERE messageid=5290;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_10.html',
+		'<p>מדוע בספירת העומר אנו סופרים את הימים שעברו ולא כמה נשארו??</p>',
+		'117367339024084609983',
+		'????? ???',
+		'2015-05-03 03:49:33'
+		)
+		;
+
