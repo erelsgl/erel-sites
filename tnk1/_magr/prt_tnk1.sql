@@ -123,3 +123,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2015-04-24 07:12:54' WHERE `qod` = 'ביאור:בראשית לו12' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `ktovt` = 'http://www.ynet.co.il/articles/0,7340,L-3022633,00.html', `tarik_hosfa` = '2015-05-03 13:47:08' WHERE `qod` = 'הצטיינות באתר YNET' AND 1 LIMIT 1;
+

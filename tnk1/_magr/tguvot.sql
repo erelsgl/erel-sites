@@ -457,3 +457,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/mi-04-05.html',
+		'<p>יפה. ואפנה גם למאמר שפרסמתי לפני כמה ימים כאן:</p><p>http://tora.us.fm/tnk1/messages/prqim_t1804_2.html?no_cache=1430642536</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-05-03 08:42:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1804_2.html',
+		'<p>לגבי ההבדל בין ישעיהו למיכה, שים לב שגם ישעיהו, בפסוק שמייד אחרי הנבואה שלו בפרק ב, אומר: &quot;בית יעקב! לכו ו**נלכה** באור ה\'! כי נטשתה עמך בית יעקב, כי מלאו מקדם ועוננים כפלשתים...&quot;.  </p><p>כך שאין ביניהם מחלוקת, שניהם מסכימים שעם ישראל צריך לשמור על ייחודו גם עכשיו וגם באחרית הימים.</p>',
+		'117606350813040384070',
+		'Erel Segal Halevi',
+		'2015-05-03 10:30:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1804_2.html',
+		'<p>תודה שמתי לב לזה, אבל בישעיה זה פותח קטע חדש, בכל זאת, כלומר זה עדיין יותר מעודן. אפשר לומר שמיכה מחדד את דברי ישעיה, או מפרש בדרכו המיוחדת, מאיר צד אחד שלהם. כך נראה לי.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-05-03 11:17:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>הנה זה לחם כורדי של בני עדתי דוברי שפת הארמית </p><p>הלחם נקרא סאג\'י שהיו מכינים אותו על סאג\' שהיא מתכת קמורה</p><p>https://scontent-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11174876_1584465825174920_4741527541158499709_n.jpg?oh=f75927183e6b12484772df041cecfbfb&amp;oe=55DE2A6B</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-04 04:20:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>ככה היו אבותינו מכינים את הלחם</p><p>הנה בתמונה זה לחם כורדי של בני עדתי דוברי שפת הארמית</p><p>https://scontent-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11174876_1584465825174920_4741527541158499709_n.jpg?oh=f75927183e6b12484772df041cecfbfb&amp;oe=55DE2A6B</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-04 04:22:35'
+		)
+		;
+
