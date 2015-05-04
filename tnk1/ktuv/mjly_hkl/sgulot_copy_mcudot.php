@@ -78,8 +78,10 @@ while ($row=sql_fetch_assoc($rows)) {
 	$contents = $client->page_parsed("$prefix $row[book_name] $row[chapter_letter] $row[verse_letter]");
 	$contents = preg_replace("#<h3>.*מצודת דוד.*</h3>#","",$contents);
 	$contents = preg_replace("#<span class=.psuq.*?>(.*?)</span>#","<b>$1</b>",$contents);
+	$contents = preg_replace("#<a.*?>(.*?)</a>#","<b>$1</b>",$contents);
 	$contents = str_replace('"<b>','<b>',$contents);
 	$contents = str_replace('</b>"','</b>',$contents);
+	
 	print $contents;
 	sql_query_or_die("
 	  UPDATE sgulot
