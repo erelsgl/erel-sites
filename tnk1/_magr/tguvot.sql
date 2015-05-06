@@ -517,3 +517,96 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0128_4.html',
+		'<p>את המעשר נותנים לשבעת אנשי-אלהים : נביא כהן לוי עני גר יתום ואלמנה</p><p>ויש לחקק חוק אשר אנשי השלטון לא יוכלו לקבל שכר יותר מפי עשר מאנשי האלהים</p><p>כי אדם יכול להיות גג עד איש אלהים ולא יותר מאלהים</p><p>אם שכר העני 5000 ש&quot;ח אז שכר הנשיא או ראש הממשלה השרים וחברי הכנסת יהיה מוגבל </p><p>עד חמישים אלף ש&quot;ח ולא יותר מזה</p><p>ואם הבכירים בשלטון יחפצו להעלות את שכרם עליהם לדעת כי זה יהיה בצמוד למעשר שינתן לאנשי אלהים</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-05 13:56:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>הנה זה לחם כורדי של בני עדתי דוברי שפת הארמית</p><p>הלחם נקרא סאג\'י שהיו מכינים אותו על סאג\' שהיא מתכת קמורה</p><p>https://scontent-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11174876_1584465825174920_4741527541158499709_n.jpg?oh=f75927183e6b12484772df041cecfbfb&amp;oe=55DE2A6B</p><p>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/11225635_1584794668475369_1914553871_n.jpg?oh=3b06d39a200753eb40c092e567daac7b&amp;oe=554C8844&amp;__gda__=1431022293_5a33fd3a7259a8f56f71d69f31f6ac3e</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-06 04:59:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-06 05:01:20' 
+			WHERE messageid=5295;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-06 05:22:06' 
+			WHERE messageid=5295;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב בבקשה תחזרו לטלפון 0548366670 זה עניין דחוף שכל יום שעובר נהיה יותר קשה ומסובך</p><p></p>',
+		'113385188422840684522',
+		'???? ??????',
+		'2015-05-06 07:17:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב בבקשה תחזרו לטלפון 0548366670 זה עניין דחוף שכל יום שעובר נהיה יותר קשה ומסובך</p><p></p>',
+		'113385188422840684522',
+		'???? ??????',
+		'2015-05-06 07:17:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>מתחנןןןןן 0523505253</p><p></p>',
+		'113385188422840684522',
+		'???? ??????',
+		'2015-05-06 07:18:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>ככה היו אבותינו מכינים את הלחם</p><p>הנה בתמונה זה לחם כורדי של בני עדתי דוברי שפת הארמית</p><p>https://scontent-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11174876_1584465825174920_4741527541158499709_n.jpg?oh=f75927183e6b12484772df041cecfbfb&amp;oe=55DE2A6B</p><p>https://scontent-lhr.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11069782_1585413625080140_8408798454188799400_n.jpg?oh=cb253fde6ebae54397dce75d6ddddc8e&amp;oe=55E35D85</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-06 07:55:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-06 07:55:41' 
+			WHERE messageid=5296;
+
