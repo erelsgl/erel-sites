@@ -610,3 +610,89 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-05-06 07:55:41' 
 			WHERE messageid=5296;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב אבקשש דחוף דחוף עזרה אמא- ל2 -ילדים מתחננת לעזרה דחופה 052-9555437</p>',
+		'113385188422840684522',
+		'???? ??????',
+		'2015-05-06 08:27:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>http://nashdidan.co.il/nash.php?id=urmi</p><p>אבי ואמי דוברי ארמית מאורמיה באו לישראל</p><p>ובאורמיה בחבל הרי כורדיסטאן לפני כמאה שנה זקני העדה וכל אנשי הדת נקראו נאש-תורה לאמור אנשי תורה המאמינים במקרא הקודש לבדו</p><p>ולא היו רבנים לגמרא וכל הלכות הכזב שהרבנים בדו מלבם</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-06 15:16:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>http://nashdidan.co.il/nash.php?id=urmi</p><p>אבי ואמי דוברי ארמית מאורמיה באו לישראל</p><p>ובאורמיה בחבל הרי כורדיסטאן לפני כמאה שנה זקני העדה וכל אנשי הדת נקראו נאש-תורה לאמור אנשי תורה המאמינים במקרא הקודש לבדו</p><p>ולא היו רבנים לגמרא וכל הלכות הכזב שהרבנים בדו מלבם</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-07 03:42:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>http://nashdidan.co.il/nash.php?id=urmi</p><p>אבי ואמי דוברי ארמית מאורמיה באו לישראל</p><p>ובאורמיה בחבל הרי כורדיסטאן לפני כמאה שנה זקני העדה וכל אנשי הדת נקראו נאש-תורה לאמור אנשי תורה המאמינים במקרא הקודש לבדו</p><p>ולא היו רבנים לגמרא וכל הלכות הכזב שהרבנים בדו מלבם</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-07 03:49:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-07 03:54:34' 
+			WHERE messageid=5306;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-07 03:54:37' 
+			WHERE messageid=5305;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>אל תאמינו להבלים של רבני חזל</p><p>אביו ואמו של משיח-אלהים עַזְבֻהוּ </p><p>תהלים כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-07 06:55:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p>משלי טו1: &quot;מַעֲנֶה רַּךְ יָשִׁיב חֵמָה וּדְבַר עֶצֶב יַעֲלֶה אָף&quot;  </p><p>שתי משמעויות ל מַעֲנֶה רַּךְ יָשִׁיב חֵמָה</p><p>1.מַעֲנֶה רַּךְ יָשִׁיב את החֵמָה לאמור ירגיע את חמתו של זה שענית לו  </p><p>2. מַעֲנֶה רַּךְ דיבור רך יָשִׁיב חֵמָה לזה שענית לו לאמור כי הדיבור הרך הוא בעצם מתקפה מתוחכמת </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-07 07:25:34'
+		)
+		;
+
