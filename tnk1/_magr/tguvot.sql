@@ -696,3 +696,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/em_dwd.html',
+		'<p>אל תאמינו להבלים של רבני חזל</p><p>אביו ואמו של משיח-אלהים עַזְבֻהוּ </p><p>תהלים כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-07 09:56:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-07 09:56:30' 
+			WHERE messageid=5309;
+
