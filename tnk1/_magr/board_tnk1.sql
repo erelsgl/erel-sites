@@ -1042,3 +1042,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-05-07 18:14:07'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-08 12:54:56'
+		WHERE ktovt_bn='tnk1/messages/forums_421.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2668.htm',
+				'tnk1/messages/nwtn_ewz_wtecwmwt_lem_brwk_alhym.pdf',
+				NULL,
+				'2015-05-08 15:56:11',
+				'2015-05-08 15:56:11',
+				'הוא נותן עוז ותעצומות לעם ברוך אלהים',
+				'רמי ניר  ',
+				''
+			)
+		;
+

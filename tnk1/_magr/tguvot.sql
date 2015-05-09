@@ -715,3 +715,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-05-07 09:56:30' 
 			WHERE messageid=5309;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_421.html',
+		'<p>מי אומר שארץ ישראל שייכת גם לישמעלים  חו&quot;ח  ארץ ישראל הובטחה אך ורק לבני ישראל ולא לשום ישמעאלי ...ע&quot;י  הקב&quot;ה האם יש בעולם </p><p>איזה מנוול שאומר שארץ ישראל שייכת גם חלילה ל&quot;ישמעאלים &quot;  היא אך ורק לבני ישראל ולעם ישראל לנצח נצחים ... </p><p>                                                                                                                                                        שמעון בשארי תל אביב </p>',
+		'116002767903509604051',
+		'????? ?????',
+		'2015-05-08 12:54:56'
+		)
+		;
+
