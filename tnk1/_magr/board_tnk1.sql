@@ -1066,3 +1066,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-09 17:48:30'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_1309_1.html'
+		;
+

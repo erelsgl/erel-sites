@@ -727,3 +727,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1309_1.html',
+		'<p>אתר מעולה!!!  עוזר לי בשעורי בית ובעוד דברים.......</p>',
+		'103878542696128722896',
+		'shilat 9',
+		'2015-05-09 17:48:30'
+		)
+		;
+
