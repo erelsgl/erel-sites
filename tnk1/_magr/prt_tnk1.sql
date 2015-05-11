@@ -127,3 +127,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `ktovt` = 'http://www.ynet.co.il/articles/0,7340,L-3022633,00.html', `tarik_hosfa` = '2015-05-03 13:47:08' WHERE `qod` = 'הצטיינות באתר YNET' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = '', `l` = 'http://www.deadseascrolls.co.il/%D7%9E%D7%92%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%9D-%D7%94%D7%9E%D7%9C%D7%97/100-%D7%97%D7%A0%D7%95%D7%9A', `tarik_hosfa` = '2015-05-11 05:23:16' WHERE `qod` = 'חנוך בן ירד - מהתנ\"ך ועד ימינו' AND 1 LIMIT 1;
+

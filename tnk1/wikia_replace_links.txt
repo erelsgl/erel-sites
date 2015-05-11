@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2015-05-04 10:27:26
+# This file was automatically generated at 2015-05-11 05:24:13
 
 sub wikia_replace_links {
 $_=shift;
@@ -6181,6 +6181,7 @@ s|${OPENLINK}tnk1/messages/odot_16|[[ביאור:הרשמה לאתר|ig;
 s|${OPENLINK}tnk1/messages/odot_13|[[ביאור:הכותבים הנכבדים מתבקשים לפרסם כל מאמר פעם אחת|ig;
 s|${OPENLINK}tnk1/messages/odot_10|[[ביאור:מצב האתר|ig;
 s|${OPENLINK}tnk1/messages/odot_0|[[ביאור:עזרה בהכנת שיעורי בית בתנ"ך?|ig;
+s|${OPENLINK}tnk1/messages/nwtn_ewz_wtecwmwt_lem_brwk_alhym.pdf|[[ביאור:הוא נותן עוז ותעצומות לעם ברוך אלהים|ig;
 s|${OPENLINK}tnk1/messages/nvir_yhojua_tarikim_0|[[ביאור:חשבון גילו של כלב בן יפונה|ig;
 s|${OPENLINK}tnk1/messages/nvir_xcor_0|[[ביאור:חצור היתה חרבה 150 שנה|ig;
 s|${OPENLINK}tnk1/messages/nvir_mlkim_raim_0|[[ביאור:מדוע אחאב נחשב רע מכל אשר לפניו|ig;
@@ -6790,6 +6791,8 @@ s|${OPENLINK}tnk1/messages/forums_71|[[ביאור:'משה בתיבה' - שיר �
 s|${OPENLINK}tnk1/messages/forums_70|[[ביאור:פרשת שמות - "עם לבדד ישכון"|ig;
 s|${OPENLINK}tnk1/messages/forums_7|[[ביאור:'שירת הלווים' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_69|[[ביאור:'אחרית הימים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_685|[[ביאור:'יובל - השיבה לשדות' - שיר מאת: אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_684|[[ביאור:פרשת בהר - מהי שנת היובל?מה גנוז בה?|ig;
 s|${OPENLINK}tnk1/messages/forums_683|[[ביאור:פרשת אמור - מה הטעם בספירת העומר?|ig;
 s|${OPENLINK}tnk1/messages/forums_682|[[ביאור:'ספירת העומר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_681|[[ביאור:'עוללות' - שיר מאת אהובה קליין (c)|ig;
