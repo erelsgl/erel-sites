@@ -739,3 +739,96 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-06-16.html',
+		'<p>שאלת על דעת רבנין לעיל הסבורים כי &quot;משלח מדנים בין אחים&quot; קשה מכל השישה: </p><p>ואלו דבריך:  &quot;אולם, לענ&quot;ד קשה להגיד שיצירת סכסוכים בין אחים חמורה יותר משפיכות דמים&quot; </p><p>אפשר שלדעת רבנין משלח מדנים בין אחים מבי אלתוצאה של שפיכות דמים וכפי שמצאנו במקום אחר &quot;דכולהו איתנהו ביה&quot; </p><p>משה </p>',
+		'116004054929599940451',
+		'moshe maya',
+		'2015-05-11 14:24:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-11 14:24:33' 
+			WHERE messageid=5312;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-06-16.html',
+		'<p>אולם, לענ&quot;ד קשה להגיד שיצירת סכסוכים בין אחים חמורה יותר משפיכות דמים</p><p>התייחסת  לשיטת רבנין שאומרים: &quot;זו שביעית, שקשה כנגד כולם, ואיזה זה: משלח מדנים בין אחים&quot; </p><p>ושאלת: &quot;אולם, לענ&quot;ד קשה להגיד שיצירת סכסוכים בין אחים חמורה יותר משפיכות דמים.&quot;</p><p>ושמא רבנין סברי שמשלח מדנים בין אחים קשה מכולם משום &quot;דכולהו איתנהו בהו&quot;, מדנים בין אחים מביאים בסופו של גבר לשפיכות דמים וכבר היו דברים מעולם. מאז שפיכות הדמים שהיתה בין קין והבל - אין רעה כמלחמת אחים. </p><p></p>',
+		'116004054929599940451',
+		'moshe maya',
+		'2015-05-11 14:27:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-11 14:28:09' 
+			WHERE messageid=5313;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-06-16.html',
+		'<p>אראל סגל הלוי</p><p>התייחסת לשיטת רבנין שאומרים: &quot;זו שביעית, שקשה כנגד כולם, ואיזה זה: משלח מדנים בין אחים&quot;</p><p>ושאלת: &quot;אולם, לענ&quot;ד קשה להגיד שיצירת סכסוכים בין אחים חמורה יותר משפיכות דמים.&quot;</p><p>ושמא רבנין סברי שמשלח מדנים בין אחים קשה מכולם משום &quot;דכולהו איתנהו בהו&quot;?! </p><p>מדנים בין אחים מביאים בסופו של דבר לשפיכות דמים וכבר היו דברים מעולם. מאז שפיכות הדמים שהיתה בין קין והבל - אין רעה כמלחמת אחים.</p><p></p>',
+		'116004054929599940451',
+		'moshe maya',
+		'2015-05-11 14:29:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_90.html',
+		'<p>זה אתר טוב לחפש בו מצווה</p>',
+		'118212289511503380025',
+		'????? ?????',
+		'2015-05-11 15:14:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-11 15:14:34' 
+			WHERE messageid=5315;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_90.html',
+		'<p>זה אתר טוב לחפש בו מצווה</p>',
+		'118212289511503380025',
+		'????? ?????',
+		'2015-05-11 15:15:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_9.html',
+		'<p>תפילות הצדיקים באדם עושות את התיקון הנדרש לכל האדם ומביאות לשלמות הדעת</p><p>אברהם אבינו שמע בקֹל יְהֹוָה וַיהֹוָה בֵּרַךְ אֶת אַבְרָהָם בַּכֹּל</p><p>סוֹף דָּבָר הַכֹּל נִשְׁמָע אֶת הָאֱלֹהִים יְרָא וְאֶת מִצְוֹתָיו שְׁמוֹר כִּי זֶה כָּל הָאָדָם</p><p>סוֹף דָּבָר הַקֹל נִשְׁמָע אֶת הָאֱלֹהִים יְרָא וְאֶת מִצְוֹתָיו שְׁמוֹר כִּי זֶה קֹל הָאָדָם</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-12 05:13:59'
+		)
+		;
+
