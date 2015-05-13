@@ -328,3 +328,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '<p>ההולך <strong>בדרך צדקה</strong> ימצא <strong>חיים</strong>, וב<strong>דרך נתיב</strong> הצדקה לא ימצא את ה<strong>מוות</strong><small class=\"small\"> (וכפל הדבר במלות שונות)</small>.</p>', `main_qod_subjects` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 12 AND `verse_number` = 28 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '\r\n<p>החכמה תשמור עליך גם <strong>להצילך מאשה זרה</strong> (היא אשת איש, שהיא זרה לך);&#160;&#160;&#160; ו<strong>מ</strong>האשה ה<strong>נכריה</strong> ההיא, אשר <strong>מחלקת אמריה</strong> בפתוי והסתה -&#160;\r\n\r\n\r\n\r\n</p>', `hqblot` = '<p>שלמה המלך, למרות כל חכמתו ותבונתו, נפל בפח. נשים נכריות פיתו אותו והיטו את לבבו, <a class=\"psuq\" href=\"/tnk1/prqim/t09a11.htm#1\">מלכים א יא1</a>: \"<q class=\"psuq\">וְהַמֶּלֶךְ שְׁלֹמֹה אָהַב <strong>נָשִׁים נָכְרִיּוֹת</strong> רַבּוֹת וְאֶת בַּת פַּרְעֹה, מוֹאֲבִיּוֹת עַמֳּנִיּוֹת אֲדֹמִיֹּת צֵדְנִיֹּת חִתִּיֹּת... </q><q class=\"psuq\">וַיְהִי לְעֵת זִקְנַת שְׁלֹמֹה נָשָׁיו הִטּוּ אֶת לְבָבוֹ אַחֲרֵי אֱלֹהִים אֲחֵרִים, וְלֹא הָיָה לְבָבוֹ שָׁלֵם עִם ה\' אֱלֹהָיו כִּלְבַב דָּוִיד אָבִיו</q>\", <a class=\"psuq\" href=\"/tnk1/prqim/t35b13.htm#26\">נחמיה יג26</a>: \"<q class=\"psuq\">הֲלוֹא\r\n עַל אֵלֶּה חָטָא שְׁלֹמֹה מֶלֶךְ יִשְׂרָאֵל, וּבַגּוֹיִם הָרַבִּים לֹא \r\nהָיָה מֶלֶךְ כָּמֹהוּ וְאָהוּב לֵאלֹהָיו הָיָה וַיִּתְּנֵהוּ אֱלֹהִים \r\nמֶלֶךְ עַל כָּל יִשְׂרָאֵל, גַּם אוֹתוֹ הֶחֱטִיאוּ <strong>הַנָּשִׁים הַנָּכְרִיּוֹת</strong></q>\".\'</p><p>יותר מזה: לפי חכמי המדרש, שלמה המלך נפל דווקא <strong>בגלל</strong> חכמתו ותבונתו! נאמר ב<a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0517.htm#17\">דברים יז17</a>: \"<q class=\"psuq\">וְלֹא יַרְבֶּה לּוֹ נָשִׁים וְלֹא יָסוּר לְבָבוֹ</q>\", אבל שלמה אמר \"<q class=\"mfrj\">אני ארבה ולא אסור</q>\"<small class=\"small\"> (ר\' יצחק, ילקוט שמעוני על מלכים א יא)</small>.&#160;&#160;&#160;&#160; שלמה סמך על מה שכתב בפסוק שלנו: הוא היה בטוח, שהחכמה והתבונה שלו יצילו אותו מלהתפתות אחרי הנשים הנכריות. אבל זה לא עבד! </p><p>לפי חז\"ל, שלמה חזר לספר משלי בסוף ימיו, והוסיף לו נספח - פרק ל - שבו הביע חרטה על הבטחון המופרז שלו בחכמתו ובתבונתו <small class=\"small\">(ראו פירוש מצודת דוד שם)</small>.&#160;&#160;&#160; נספח זה למעשה מתקן את המסר העולה מהפסוק שלנו, ואומר: התבונה האנושית אינה מספיקה כדי להציל מפיתויים. <br />צריך לשמור את תורת ה\' בתמימות ובלי להתחכם<small class=\"small\"> (להרחבה ראו משלי ל לפי פירוש מצודות)</small>.</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 2 AND `verse_number` = 16 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '\r\n<p>- <strong>העוזבת אלוף נעוריה</strong> (בעל נעוריה), <strong>ואת ברית אלהיה שכחה</strong> - כי גם הנשים נכנסו בברית ה\', לקיים מצות ה\' ולא תמעול מעל באישהּ.\r\n\r\n\r\n\r\n</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 2 AND `verse_number` = 17 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '\r\n<p>- <strong>כי בית</strong> הזונה הוא מקום מדרון,&#160;לרדת בה <strong>אל המיתה</strong>;&#160;&#160;&#160; <strong>ו</strong>ההולכים אל ביתה הולכים המה <strong>אל</strong> מקום ה<strong>רפאים</strong>, הם המתים שנרפו ונחלשו וכוחם תש.</p><p>ורוצה לומר: הבא אל ביתה יוכשל בה ויאבד נפשו.\r\n\r\n\r\n\r\n</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 2 AND `verse_number` = 18 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '\r\n<p>- <strong>כל הבאים אליה לא ישובון</strong> מדרכם הרע, כי קשה מאד לפרוש ממנה; <strong>ולא ישיגו</strong> עוד מעתה <strong>ארחות חיים</strong>.</p>\r\n<p>ונאמר אף למשל על דרכי המינות, כי קשה מאוד לפרוש ממנה אחר שהורגל בה.</p>\r\n', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 2 AND `verse_number` = 19 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '\r\n<p>החכמה תשמור עליך מזה, <strong>למען תלך בדרך טובים</strong> אשר ימנעו ללכת בדרך הזה,&#160;&#160; <strong>וארחות צדיקים תשמור</strong><small class=\"small\"> (כפל הדבר במילים שונות)</small>.\r\n\r\n</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 2 AND `verse_number` = 20 AND 1 LIMIT 1;
+
