@@ -832,3 +832,62 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>בראשית ג17: </p><p>&quot;וּלְאָדָם אָמַר כִּי שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ&quot;</p><p>הקללה לאדם = אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ</p><p>והברכה לאדם = לאכול ולשתות ולשמוח וככה היה בימי המלך שלמה </p><p>מלכים א ד20: &quot;יְהוּדָה וְיִשְׂרָאֵל רַבִּים כַּחוֹל אֲשֶׁר עַל הַיָּם לָרֹב אֹכְלִים וְשֹׁתִים וּשְׂמֵחִים&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-12 19:27:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>בראשית ג17: &quot;וּלְאָדָם אָמַר כִּי שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ&quot;</p><p>הקללה לאדם = אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ</p><p>והברכה לאדם = לאכול ולשתות ולשמוח וככה היה בימי המלך שלמה </p><p>מלכים א ד20: &quot;יְהוּדָה וְיִשְׂרָאֵל רַבִּים כַּחוֹל אֲשֶׁר עַל הַיָּם לָרֹב אֹכְלִים וְשֹׁתִים וּשְׂמֵחִים&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-12 19:28:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-12 19:28:32' 
+			WHERE messageid=5318;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-13 03:29:39' 
+			WHERE messageid=5318;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-13 03:33:56' 
+			WHERE messageid=5318;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-13 05:17:56' 
+			WHERE messageid=5318;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-13 07:42:24' 
+			WHERE messageid=5318;
+

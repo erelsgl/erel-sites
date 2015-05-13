@@ -1227,3 +1227,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-05-12 06:44:26'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-12 19:27:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-12 19:28:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_30.html',
+				NULL,
+				'2015-05-12 19:37:18',
+				'2015-05-12 19:37:18',
+				'The shifting Promised Land',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-12 19:37:18'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
