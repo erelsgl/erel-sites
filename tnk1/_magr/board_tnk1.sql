@@ -1266,3 +1266,74 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-05-12 19:37:18'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 17:00:57'
+		WHERE ktovt_bn='tnk1/sofrim/ilanhp/mcuda.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_31.html',
+				NULL,
+				'2015-05-13 17:11:46',
+				'2015-05-13 17:11:46',
+				'שוטר',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-13 17:11:46'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 19:42:31'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_rhb_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 20:41:12'
+		WHERE ktovt_bn='tnk1/messages/5499.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 21:00:29'
+		WHERE ktovt_bn='tnk1/messages/5567.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 21:14:59'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_375_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-13 21:42:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t33_3.html'
+		;
+

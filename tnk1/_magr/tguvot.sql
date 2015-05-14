@@ -891,3 +891,75 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-05-13 07:42:24' 
 			WHERE messageid=5318;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/ilanhp/mcuda.html',
+		'<p>היה לי כיף לדעת עוד</p>',
+		'107845328444498648716',
+		'???? ?????',
+		'2015-05-13 17:00:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rhb_0.html',
+		'<p>ראיתי חלום , דרקון עף מתוך אגם עמוק בהרים , ויצר עם כף רגלו גל גבוה.  לויתן - לוין+תנין .  סמלו - האות טת הקדומה ( עגול ואיקס בתוכו) נשארו סמלים אלו ציורים הקדומים, ואם לויתן זה הוא כוכב לכת מלאכותי , שטס מדי פעם לארץ, ועושה עלינו נסיונות גנטים , אז אנחנו עומדים בדיוק לפני הגעתם הנה, כמו בימי המבול .   תודה על ההסברים הנפלאים </p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-05-13 19:42:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5499.html',
+		'<p>תודה </p><p></p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-05-13 20:41:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5567.html',
+		'<p>שלומית יוצאת מהכותונת (מהגוף) בפרק ה\'.  נפשה יצאה , והיא נסתה לקרוא לחתן במילים שלו , אבל הוא לא ענה יותר. אז היא מוסרת לו מסר, ( ח הִשְׁבַּעְתִּי אֶתְכֶם בְּנוֹת יְרוּשָׁלִָם  אִם-תִּמְצְאוּ אֶת-דּוֹדִי מַה-תַּגִּידוּ לוֹ שֶׁחוֹלַת אַהֲבָה אָנִי. ) נפשה בגהנום, ובְּנוֹת יְרוּשָׁלִָם- בגן-עדן , כי כולם נאספו אליו (א בָּאתִי לְגַנִּי אֲחֹתִי כַלָּה אָרִיתִי מוֹרִי עִם-בְּשָׂמִי אָכַלְתִּי יַעְרִי עִם-דִּבְשִׁי שָׁתִיתִי יֵינִי עִם-חֲלָבִי אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דּוֹדִים.)</p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-05-13 21:00:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_375_0.html',
+		'<p>חורבן אולי? מרס זה הרס , מלחמה וגבריות .  (גם שערו של עתיק יומין- חוור , כי הזדקן, ובהתחלה היה אדום , כי יעקב אמר ,שעשיו דומה לאלהים)</p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-05-13 21:14:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t33_3.html',
+		'<p>מהדס עשו מור , סמל של מוות , של רוח ,הנשפכת מכלי שבור. שלומית -( וידי נטפו מור) רסיסי לילה , מוות , מור עובר . אסתר אספה את המור מגופתה , ושברה את הכלי עם המור לפני המלך , ומשחה אותו בו.  מור עוצר שחת , גם מרפא פצעי בגרות )))  </p><p></p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-05-13 21:42:19'
+		)
+		;
+
