@@ -162,3 +162,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי כח6', 'דוד - רש הולך בתומו', '', 10, 60, '2015-04-29 07:02:12');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מצוות קשורות לפסוקי משלי', 'ביאור:משלי יג8', 'מחצית השקל - כופר נפש איש עושרו, כדי שרש לא ישמע גערה', '', 60, 60, '2015-05-14 03:27:38');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `bn` = 'ביאור:משלי יג8', `tarik_hosfa` = '2015-05-14 03:33:16' WHERE `av` = 'סיפורים מקבילים לפסוקי משלי' AND `bn` = 'ביאור:משלי יג7' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יג7', 'עשו - מתעשר ואין כל, מתרושש והון רב', '', 10, 60, '2015-05-14 03:33:36');
+
