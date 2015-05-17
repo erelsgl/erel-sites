@@ -1369,3 +1369,82 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 19:12:51'
+		WHERE ktovt_bn='tryg/ribit0/lmi.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 19:20:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 19:26:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1israel.html',
+				'tnk1/tora/dvrim/dm-01-06.html',
+				NULL,
+				'2015-05-16 19:30:42',
+				'2015-05-16 19:30:42',
+				'רב לכם שבת בהר הזה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-16 19:30:42'
+			WHERE ktovt_bn='tnk1/msr/1israel.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 19:59:27'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 20:02:08'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 20:13:17'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-16 20:20:48'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-01-06.html'
+		;
+
