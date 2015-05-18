@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2015-05-11 05:24:13
+# This file was automatically generated at 2015-05-18 06:39:25
 
 sub wikia_replace_links {
 $_=shift;
@@ -1574,6 +1574,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-02-0607|[[ביאור:לקנות אוכל מהג�
 s|${OPENLINK}tnk1/tora/dvrim/dm-01-2933|[[ביאור:תוכחתו של משה לנרגנים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-01-17|[[ביאור:לא תכירו פנים במשפט|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-01-13|[[ביאור:בחירות - שלב א|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-01-06|[[ביאור:רב לכם שבת בהר הזה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-01-02|[[ביאור:אחד עשר יום מחורב, דרך הר שעיר, עד קדש ברנע|ig;
 s|${OPENLINK}tnk1/tora/dvrim/bxira|[[ביאור:מודל מתימטי לעיקרון הבחירה החופשית|ig;
 s|${OPENLINK}tnk1/tora/dvrim/bq|[[ביאור:הסדר בפרשת הברכות והקללות בספר דברים|ig;
@@ -1791,6 +1792,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-04-01|[[ביאור:הלידה הראשונה|ig
 s|${OPENLINK}tnk1/tora/brejit/br-04|[[ביאור:קין, הבל, והרצח הראשון|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-03-alt|[[ביאור:זה יכל להיות אחרת - בראשית ג|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-03-21|[[ביאור:הבגדים הראשונים|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-03-16|[[ביאור:עונשה של חוה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-03-14|[[ביאור:קללת הנחש|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-03-06.jpg|[[ביאור:בר ג 06|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-03-05|[[ביאור:הנחש האשים את ה' באינטרס אישי|ig;
@@ -4054,11 +4056,14 @@ s|${OPENLINK}tnk1/messages/sofrim_index_7|[[ביאור:ציצת נבל |ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_6|[[ביאור:טפח - שני מובנים שונים|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_5|[[ביאור:נגלה או נקלה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_4|[[ביאור:נחלים: מנהר גן העדן לנחל בית המקדש|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_31|[[ביאור:שוטר|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_30|[[ביאור:The shifting Promised Land|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_5|[[ביאור:דגם המשכן לתשב"ר|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_4|[[ביאור:תגובה לתגובת מר אורי כהן מחבר הספר קמח כלי המשכן|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_3|[[ביאור:סודות סגולת השמירה בקריאת המנורה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_2|[[ביאור:בקורת 'אשר על המשכן' על הספר 'קמח כלי המשכן' מאת אורי כהן|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_0|[[ביאור:תאור פרטי המשכן|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_29|[[ביאור:מפלשת ועד לפלסטינה מאת אבנר רמו (יליד פלשתינה)|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_28|[[ביאור:הכרתי והפלתי|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_27|[[ביאור:פגר מובס|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_26|[[ביאור:גול, גלול וגלגל|ig;
@@ -6791,6 +6796,9 @@ s|${OPENLINK}tnk1/messages/forums_71|[[ביאור:'משה בתיבה' - שיר �
 s|${OPENLINK}tnk1/messages/forums_70|[[ביאור:פרשת שמות - "עם לבדד ישכון"|ig;
 s|${OPENLINK}tnk1/messages/forums_7|[[ביאור:'שירת הלווים' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_69|[[ביאור:'אחרית הימים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_688|[[ביאור:" ירושלים הבנויה כעיר שחוברה לה יחדיו" - כיצד?/מאת: אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_687|[[ביאור:'עץ החיים ופריו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_686|[[ביאור:פרשת בחוקותי - כוחה של ברכה - מהי?|ig;
 s|${OPENLINK}tnk1/messages/forums_685|[[ביאור:'יובל - השיבה לשדות' - שיר מאת: אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_684|[[ביאור:פרשת בהר - מהי שנת היובל?מה גנוז בה?|ig;
 s|${OPENLINK}tnk1/messages/forums_683|[[ביאור:פרשת אמור - מה הטעם בספירת העומר?|ig;

@@ -158,3 +158,99 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2015-04-24 07:13:05' WHERE `bn` = 'ביאור:בראשית לו12' AND `sfr` = 'ברא' AND `prq0` = 'לו' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בן או בת' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בעצב תלדי בנים - והאפידורל' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בעצב תלדי בנים - ולא בנות?' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בריאת האדם - כלל ופרט' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'והוא ימשל בך - בין תיאוריה למציאות' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חמלה ושוויון בני אדם' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'רכב ישראל' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תשוקת האישה לבעלה והנהגת הבית' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תשוקתך - תשוקתו' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית ד1' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'עדי - עד - עדיא' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שיר השירים - חזרה לגן עדן' AND `sfr` = 'ברא' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'משל' AND `prq0` = 'ז' AND `psuq0` = 22 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'ברא' AND `prq0` = 'כא' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'מלא' AND `prq0` = 'כא' AND `psuq0` = 25 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'מלא' AND `prq0` = 'יא' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'משל' AND `prq0` = 'יב' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'משל' AND `prq0` = 'יח' AND `psuq0` = 22 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'שמב' AND `prq0` = 'יג' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'ברא' AND `prq0` = 'לט' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'ברא' AND `prq0` = 'ד' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'תהל' AND `prq0` = 'נא' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'יחז' AND `prq0` = 'טז' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
+
