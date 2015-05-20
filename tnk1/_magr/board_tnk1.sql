@@ -1907,3 +1907,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_690.html',
+				NULL,
+				'2015-05-19 08:25:16',
+				'2015-05-19 08:25:16',
+				'פרשת במדבר,מה הקשר בין מסירות נפש למדבר?/מאת:אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-19 08:25:16'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-19 12:43:28'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/brixt_yona.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-19 14:26:44'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/brixt_yona.html'
+		;
+
