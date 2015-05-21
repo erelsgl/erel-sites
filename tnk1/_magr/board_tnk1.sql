@@ -1946,3 +1946,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/brixt_yona.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 09:42:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25a11_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 09:43:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25a11_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 09:44:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25a11_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 13:33:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0210_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 13:34:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0210_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-20 18:47:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
+		;
+
