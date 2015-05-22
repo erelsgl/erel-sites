@@ -1994,3 +1994,137 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 12:36:47'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-05-10.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 15:12:28'
+		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_mcrym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 15:12:56'
+		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_mcrym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 15:13:01'
+		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_mcrym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 15:14:27'
+		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_mcrym.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_32.html',
+				NULL,
+				'2015-05-21 15:48:54',
+				'2015-05-21 15:48:54',
+				'חצר המטרה ',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-21 15:48:54'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-21 15:54:38'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-05-10.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_691.html',
+				NULL,
+				'2015-05-21 22:10:01',
+				'2015-05-21 22:10:01',
+				' ישראל נודדים במדבר /שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-05-21 22:10:01'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-22 00:27:47'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-22 00:34:59'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-22 04:33:28'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-22 04:34:20'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-22 04:47:10'
+		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_40.html'
+		;
+

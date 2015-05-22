@@ -1597,3 +1597,184 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-05-10.html',
+		'<p>קהלת ה10 : &quot;בִּרְבוֹת הַטּוֹבָה רַבּוּ אוֹכְלֶיהָ וּמַה כִּשְׁרוֹן לִבְעָלֶיהָ כִּי אִם ראית[רְאוּת] עֵינָיו</p><p>כי אם [רְאוּת] עֵינָיו ....= כל המראה שנראה לאדם הוא כשרונו ואין לזה סוף כי לֹא תִשְׂבַּע עַיִן לִרְאוֹת</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>קהלת ד8: &quot;יֵשׁ אֶחָד וְאֵין שֵׁנִי גַּם בֵּן וָאָח אֵין לוֹ וְאֵין קֵץ לְכָל עֲמָלוֹ גַּם עיניו[עֵינוֹ] לֹא תִשְׂבַּע עֹשֶׁר</p><p>--------------------------------------------------------------------------------------------------------</p><p>ובכתיב אחר [כאשר מופיע ללא ניקוד] זה במשמעות לאחרית הימים  </p><p>קהלת ה10: &quot;ברבות הטובה רבו אוכליה ומה כשרון לבעליה כי אם ראית עיניו&quot;</p><p>כי אם ראית עיניו = כי אם רָאִיתָ עיניו ( של הקדוש ברוך הוא]</p><p>ישעיהו יז7: &quot;בַּיּוֹם הַהוּא יִשְׁעֶה הָאָדָם עַל עֹשֵׂהוּ וְעֵינָיו אֶל קְדוֹשׁ יִשְׂרָאֵל תִּרְאֶינָה&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-21 12:36:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אני רוצה לדעת מתי פרעה נולד ומת</p>',
+		'114892826247036946118',
+		'Leah Donner',
+		'2015-05-21 15:12:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אני רוצה לדעת מתי פרעה נולד ומת</p>',
+		'114892826247036946118',
+		'Leah Donner',
+		'2015-05-21 15:12:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אני רוצה לדעת מתי פרעה נולד ומת</p>',
+		'114892826247036946118',
+		'Leah Donner',
+		'2015-05-21 15:13:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-21 15:14:18' 
+			WHERE messageid=5367;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-21 15:14:20' 
+			WHERE messageid=5368;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p></p>',
+		'114892826247036946118',
+		'Leah Donner',
+		'2015-05-21 15:14:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-21 15:14:29' 
+			WHERE messageid=5370;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-05-10.html',
+		'<p>קהלת ה10 : &quot;בִּרְבוֹת הַטּוֹבָה רַבּוּ אוֹכְלֶיהָ וּמַה כִּשְׁרוֹן לִבְעָלֶיהָ כִּי אִם ראית[רְאוּת] עֵינָיו</p><p>כי אם [רְאוּת] עֵינָיו ....= כל המראה שנראה לאדם הוא כשרונו ואין לזה סוף כי לֹא תִשְׂבַּע עַיִן לִרְאוֹת</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>קהלת ד8: &quot;יֵשׁ אֶחָד וְאֵין שֵׁנִי גַּם בֵּן וָאָח אֵין לוֹ וְאֵין קֵץ לְכָל עֲמָלוֹ גַּם עיניו[עֵינוֹ] לֹא תִשְׂבַּע עֹשֶׁר</p><p>--------------------------------------------------------------------------------------------------------</p><p>ובכתיב אחר [כאשר מופיע ללא ניקוד] זה במשמעות לאחרית הימים  </p><p>קהלת ה10: &quot;ברבות הטובה רבו אוכליה ומה כשרון לבעליה כי אם ראית עיניו&quot;</p><p>כי אם ראית עיניו = כי אם רָאִיתָ עיניו ( של הקדוש ברוך הוא]</p><p>ישעיהו יז7: &quot;בַּיּוֹם הַהוּא יִשְׁעֶה הָאָדָם עַל עֹשֵׂהוּ וְעֵינָיו אֶל קְדוֹשׁ יִשְׂרָאֵל תִּרְאֶינָה&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-21 15:54:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-21 16:18:29' 
+			WHERE messageid=5371;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-21 17:34:54' 
+			WHERE messageid=5366;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>יעקב לא נולד בשנת 2108, הוא נולד אח תאום לעשיו בשנת 2089. נא צרו קשר ואשלח לכם במייל את השושלת מאדם הראשון, דרך שת ויתר השושלת. נזכיר שנוח היה בן 502 כשילד את שם (בן 500 כשיפת נולד, בן 501 כשחם נולד ובן 502 כששם נולד). ארפכשד נולד שנתיים לאחר המבול וכו\'. אברהם נולד בשנת 1948 לבריאה, ושרה אמנו, שהיא אחותו למחצה של אברהם אבינו, נולדה בשנת 1958 לבריאה וכו\'.</p>',
+		'105245039057499449471',
+		'??? ??????',
+		'2015-05-22 00:27:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>תיקון טעות שלי - אתם צודקים. אני אתקן את השושלת אצלי בקובץ שהכנתי.</p><p></p>',
+		'105245039057499449471',
+		'??? ??????',
+		'2015-05-22 00:34:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>לשאלתך אראל מתי ברך יצחק את יעקב</p><p>בראשית כח1: &quot;וַיִּקְרָא יִצְחָק אֶל יַעֲקֹב וַיְבָרֶךְ אֹתוֹ וַיְצַוֵּהוּ וַיֹּאמֶר לוֹ לֹא תִקַּח אִשָּׁה מִבְּנוֹת כְּנָעַן&quot;</p><p>בראשית כח2: &quot;קוּם לְךָ פַּדֶּנָה אֲרָם בֵּיתָה בְתוּאֵל אֲבִי אִמֶּךָ וְקַח לֵךְ מִשָּׁם אִשָּׁה מִבְּנוֹת לָבָן אֲחִי אִמֶּךָ&quot;</p><p>ובכן ברכת יצחק ליעקב בשנת 2178 בהיות יעקב בן 70 ובגיל 71 בא לבית לבן הארמי וגר שם 20 שנה עד לדת רחל את יוסף בשנת 2199</p><p>בראשית ל25: &quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וַיֹּאמֶר יַעֲקֹב אֶל לָבָן שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot; </p><p>ואכן בעת הזו בשנת 2199 כשיעקב בן 91 [ולא בן 97 כמו שכתבת אראל] הוא בורח-יוצא מבית לבן אל עבר הר הגלעד שבעבר הירדן המזרחי</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-22 04:33:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>לשאלתך אראל מתי ברך יצחק את יעקב</p><p>בראשית כח1: &quot;וַיִּקְרָא יִצְחָק אֶל יַעֲקֹב וַיְבָרֶךְ אֹתוֹ וַיְצַוֵּהוּ וַיֹּאמֶר לוֹ לֹא תִקַּח אִשָּׁה מִבְּנוֹת כְּנָעַן&quot;</p><p>בראשית כח2: &quot;קוּם לְךָ פַּדֶּנָה אֲרָם בֵּיתָה בְתוּאֵל אֲבִי אִמֶּךָ וְקַח לֵךְ מִשָּׁם אִשָּׁה מִבְּנוֹת לָבָן אֲחִי אִמֶּךָ&quot;</p><p>ובכן ברכת יצחק ליעקב בשנת 2178 בהיות יעקב בן 70 ובגיל 71 בא לבית לבן הארמי וגר שם 20 שנה </p><p>עד לדת רחל את יוסף בשנת 2199</p><p>בראשית ל25: &quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וַיֹּאמֶר יַעֲקֹב אֶל לָבָן שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot; </p><p>ואכן בעת הזו בשנת 2199 כשיעקב בן 91 [ולא בן 97 כמו שכתבת אראל] הוא בורח-יוצא מבית לבן </p><p>אל עבר הר הגלעד שבעבר הירדן המזרחי</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-22 04:34:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-22 04:34:23' 
+			WHERE messageid=5374;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-22 04:35:51' 
+			WHERE messageid=5374;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_40.html',
+		'<p>כותרת המאמר משגה כי לא שלוש פעמים 40 יום </p><p>אלא רק 2 פעמים 40 יום</p><p>פעם אחת בחג השבועות [ממחצית החודש השלשי החלו 40 יום עד 25 לחודש הרביעי]</p><p>ופעם שנייה ביום הכפורים [בעשור לחודש השביעי תמו 40 היום בעת קידוש שנת היובל בשנת 2451 ליובלים]</p><p>---------------------------------------------------------------------------------------------------------------------------</p><p>הפעם הנוספת של תענית 40 יום הייתה לאליהו הנביא</p><p> </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-22 04:47:10'
+		)
+		;
+
