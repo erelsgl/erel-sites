@@ -2183,3 +2183,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-23 09:36:20'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/jvuot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 05:41:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 06:24:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 07:02:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
+		;
+
