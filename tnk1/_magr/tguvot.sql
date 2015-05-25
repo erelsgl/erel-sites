@@ -1902,3 +1902,84 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-05-24 07:03:00' 
 			WHERE messageid=5383;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-24 08:29:22' 
+			WHERE messageid=5383;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>תורת יהוה תורת אהבה על כן מְשִׁיחַ-יהוה מחכה לאהבה </p><p>שאהבת אלהים תמשל באדם ולא חפץ לשלוט כעריץ [דיקטטור הכופה בכפייה בכח המנוגד לרצון איש ואיש]</p><p>וכי משיח אלהים באהבתו יחכה עד בְּכָל לֵב יִדְרְשׁוּהוּ על פי החזון בספר מיכה פרק ד פסוק ב ככתוב: &quot;וְהָלְכוּ גּוֹיִם רַבִּים וְאָמְרוּ </p><p>לְכוּ וְנַעֲלֶה אֶל הַר יהוה וְאֶל בֵּית אֱלֹהֵי יַעֲקֹב וְיוֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יהוה מִירוּשָׁלָים</p><p>ישעיהו ל18: &quot;וְלָכֵן יְחַכֶּה יהוה לַחֲנַנְכֶם וְלָכֵן יָרוּם לְרַחֶמְכֶם כִּי אֱלֹהֵי מִשְׁפָּט יהוה אַשְׁרֵי כָּל חוֹכֵי לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-24 10:03:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2902_2.html',
+		'<p>מסירים את הערלה ביום [השמן] השמני לחיי האדם </p><p>כי ערלה משמעותה תוספת מיותרת לכן גם איש שמן נחשב לאיש ערל ועליו להסיר את תוספת השומן המיותרת כערלה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-24 13:15:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-24 13:15:46' 
+			WHERE messageid=5386;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אדם עיוור אינו יכול לראות בעיניים והוא נסמך יותר על חוש השמיעה לכן חוש השמיעה מתפתח יותר</p><p>******* זו הסיבה שאלהים זורק אותך לחושך כדי שתלמד לשמוע בקולו *******</p><p>כי בממלכת אלהים יש הגנה של חושך וזאת כדי להבטיח כי רק השומעים בקול אלהים יכולים לקרב סביבות חצרות אלהים לבית אלהים</p><p>וכי החושך נועד להסתיר מהרשעים הפוקחים עיניהם מעץ הדעת ורק השומעים בקול אלהים יהיו חופשיים בבית אלהים להלך ברגש</p><p>תהלים יח12: &quot;יָשֶׁת חֹשֶׁךְ סִתְרוֹ סְבִיבוֹתָיו סֻכָּתוֹ חֶשְׁכַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>וזאת להגן מפני רשעים כוחניים שאינם שומעים בקול אלהים כחסידיו אוהביו</p><p> שמואל א ב9: &quot;רַגְלֵי חסידו[חֲסִידָיו] יִשְׁמֹר *** וּרְשָׁעִים בַּחֹשֶׁךְ יִדָּמּוּ *** כִּי לֹא בְכֹחַ יִגְבַּר אִישׁ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-24 14:18:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אדם עיוור אינו יכול לראות בעיניים והוא נסמך יותר על חוש השמיעה לכן חוש השמיעה מתפתח יותר</p><p>******* זו הסיבה שאלהים זורק אותך לחושך כדי שתלמד לשמוע בקולו *******</p><p>כי בממלכת אלהים יש הגנה של חושך וזאת כדי להבטיח כי רק השומעים בקול אלהים יכולים לקרב סביבות חצרות אלהים  </p><p>וכי החושך נועד להסתיר מהרשעים הפוקחים עיניהם מעץ הדעת ורק השומעים בקול אלהים יהיו חופשיים בבית אלהים להלך ברגש</p><p>תהלים יח12: &quot;יָשֶׁת חֹשֶׁךְ סִתְרוֹ סְבִיבוֹתָיו סֻכָּתוֹ חֶשְׁכַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>וזאת להגן מפני רשעים כוחניים שאינם שומעים בקול אלהים כחסידיו אוהביו</p><p> שמואל א ב9: &quot;רַגְלֵי חסידו[חֲסִידָיו] יִשְׁמֹר *** וּרְשָׁעִים בַּחֹשֶׁךְ יִדָּמּוּ *** כִּי לֹא בְכֹחַ יִגְבַּר אִישׁ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-24 14:18:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-05-24 14:18:47' 
+			WHERE messageid=5387;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>בראשית יח15: &quot;וַתְּכַחֵשׁ שָׂרָה לֵאמֹר לֹא צָחַקְתִּי כִּי יָרֵאָה וַיֹּאמֶר לֹא כִּי צָחָקְתְּ&quot; </p><p>לֹא צָחַקְתִּי כִּי יָרֵאָה = לא לְצַחֵק ביִרְאַת אֱלֹהִים אין מְצַחֵק בְּהַר יְהֹוָה יֵרָאֶה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-05-25 07:24:44'
+		)
+		;
+

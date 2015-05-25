@@ -2215,3 +2215,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 10:03:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 13:15:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2902_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 14:18:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-24 14:18:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t3409.htm',
+				'tnk1/messages/heytym_mcwqh_gdwlh_beygwl_nwcqt.pdf',
+				NULL,
+				'2015-05-24 19:29:00',
+				'2015-05-24 19:29:00',
+				'ובצוק העיתים מצוקה גדולה בעיגול נוצקת',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-25 07:24:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_10.html'
+		;
+
