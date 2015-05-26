@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2015-05-18 06:39:25
+# This file was automatically generated at 2015-05-25 15:54:07
 
 sub wikia_replace_links {
 $_=shift;
@@ -4056,6 +4056,8 @@ s|${OPENLINK}tnk1/messages/sofrim_index_7|[[ביאור:ציצת נבל |ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_6|[[ביאור:טפח - שני מובנים שונים|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_5|[[ביאור:נגלה או נקלה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_4|[[ביאור:נחלים: מנהר גן העדן לנחל בית המקדש|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_33|[[ביאור:ארמון המלך|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_32|[[ביאור:חצר המטרה |ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_31|[[ביאור:שוטר|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_30|[[ביאור:The shifting Promised Land|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_2_5|[[ביאור:דגם המשכן לתשב"ר|ig;
@@ -6759,6 +6761,7 @@ s|${OPENLINK}tnk1/messages/HQDMH.doc|[[ביאור:משל הנשרים והעצי
 s|${OPENLINK}tnk1/messages/howto.pps|[[ביאור:איך לשנות דברים ב'אתר הניווט בתנ"ך'|ig;
 s|${OPENLINK}tnk1/messages/hmspr_18_btwrh_hqjr_byn_thylym_kf_18_amt_wjqr.pdf|[[ביאור:מהות המספר 18 בתורה - הקשר בין תהילים כט, 18, אמת ושקר|ig;
 s|${OPENLINK}tnk1/messages/hkl2_em_twspwt.doc|[[ביאור:שמעוני הכל עם תוספות (.doc)|ig;
+s|${OPENLINK}tnk1/messages/heytym_mcwqh_gdwlh_beygwl_nwcqt.pdf|[[ביאור:ובצוק העיתים מצוקה גדולה בעיגול נוצקת|ig;
 s|${OPENLINK}tnk1/messages/hawyqlydy_hwa_mh_jhyh_hwa_jyhyh.pdf|[[ביאור:הצדק האויקלידי הוא מה שהיה הוא שיהיה|ig;
 s|${OPENLINK}tnk1/messages/harwt_benyyny_ljwn___mjly_jlmh_prqym_y_kd.doc|[[ביאור:הארות בענייני לשון - משלי-שלמה פרקים י-כד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/ham_mwtr_lprsm_wlspr_mejh_re_jl_rje__jl_cdyq.doc|[[ביאור:האם מותר לפרסם ולספר מעשה רע של רשע? של צדיק? (דתן ואבירם, זמרי בן סלוא, צלפחד בן חפר) (.doc)|ig;
@@ -6795,7 +6798,10 @@ s|${OPENLINK}tnk1/messages/forums_72|[[ביאור:'המיילדות' - שיר מ
 s|${OPENLINK}tnk1/messages/forums_71|[[ביאור:'משה בתיבה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_70|[[ביאור:פרשת שמות - "עם לבדד ישכון"|ig;
 s|${OPENLINK}tnk1/messages/forums_7|[[ביאור:'שירת הלווים' - אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_691|[[ביאור:' ישראל נודדים במדבר ' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_690|[[ביאור:פרשת במדבר, מה הקשר בין מסירות נפש למדבר?|ig;
 s|${OPENLINK}tnk1/messages/forums_69|[[ביאור:'אחרית הימים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_689|[[ביאור:'ירושלים באחרית הימים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_688|[[ביאור:" ירושלים הבנויה כעיר שחוברה לה יחדיו" - כיצד?/מאת: אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_687|[[ביאור:'עץ החיים ופריו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_686|[[ביאור:פרשת בחוקותי - כוחה של ברכה - מהי?|ig;
