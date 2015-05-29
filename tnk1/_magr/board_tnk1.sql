@@ -2556,3 +2556,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_404.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/428.html',
+				'http://www.parashat-hashavua.com/2014/06/shlach.html',
+				NULL,
+				'2015-05-28 18:10:10',
+				'2015-05-28 18:10:10',
+				'מדוע נקרא יהושע בשמו ובשם אביו',
+				'אבי',
+				'avrymi @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-28 18:55:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0310_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/brk1.html',
+				'tnk1/tora/wyqra/wy-25-21.html',
+				NULL,
+				'2015-05-29 04:59:23',
+				'2015-05-29 04:59:23',
+				'וצויתי את ברכתי לכם בשנה השישית',
+				'אראל',
+				''
+			)
+		;
+
