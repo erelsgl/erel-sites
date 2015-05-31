@@ -2604,3 +2604,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/emu.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-30 18:28:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0226_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-30 22:39:46'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-31 04:52:35'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-05-31 05:15:11'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
