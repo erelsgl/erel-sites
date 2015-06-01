@@ -2313,3 +2313,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום בבקשה תעזרו לי אני חייבת כסף ניסיתי להתאבד וזה לא הצליח אבל הפעם אני כן יצליח אין אני לא יגיע כסף לבנק טפחות תעזרו לי</p>',
+		'116840987467894998234',
+		'????? ????',
+		'2015-05-31 08:01:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום בבקשה תעזרו לי אני חייבת כסף ניסיתי להתאבד וזה לא הצליח אבל הפעם אני כן0526660473 יצליח053 איאני לא יגיע כסף לבנק טפחות תעזרו לי</p>',
+		'116840987467894998234',
+		'????? ????',
+		'2015-05-31 08:03:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום בבקשה תעזרו לי אני חייבת כסף ניסיתי להתאבד וזה לא הצליח אבל הפעם אני כן0526660473 יצליח053 איאני לא יגיע כסף לבנק טפחות תעזרו לי</p>',
+		'116840987467894998234',
+		'????? ????',
+		'2015-05-31 08:03:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום בבקשה תעזרו לי אני חייבת כסף ניסיתי להתאבד וזה לא הצליח אבל הפעם אני כן0526660473 יצליח053 איאני לא יגיע כסף לבנק טפחות תעזרו לי</p>',
+		'116840987467894998234',
+		'????? ????',
+		'2015-05-31 08:05:29'
+		)
+		;
+
