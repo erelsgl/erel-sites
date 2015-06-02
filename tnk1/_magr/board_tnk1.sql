@@ -2691,3 +2691,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-05-31 12:40:28'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-01 08:56:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-01 08:59:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+

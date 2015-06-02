@@ -2361,3 +2361,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>כבר בהיותי נער ידעתי כי גורל סוף כל האדם למות</p><p>על כן אמרתי בלבי למה לי לחשוב על הגרלת הפייס</p><p>הנה כל מה שנותר לי זה להכין את נפשי ליום הדין</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-06-01 08:56:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>כבר בהיותי נער ידעתי כי גורל סוף כל האדם למות</p><p>על כן אמרתי בלבי למה לי לחשוב על הגרלת הפייס</p><p>הנה כל מה שנותר לי זה להכין את נפשי ליום הדין</p><p>על כן אבקש את פני יהוה ללכת בדרכיו כל ימי חיי</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-06-01 08:59:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-01 08:59:26' 
+			WHERE messageid=5418;
+
