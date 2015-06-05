@@ -2800,3 +2800,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-03 10:36:35'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-05 06:45:42'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_60.html'
+		;
+

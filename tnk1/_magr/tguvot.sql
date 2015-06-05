@@ -2428,3 +2428,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_60.html',
+		'<p>כנראה לא למדתם מספיק טוב את הנושא </p><p>או שמרוב ספרים ולא נתשיבה דעתכם</p><p>כנסו ותקראו על קדיש מסוכם בקצרה וענייני לפי דעת חכמים</p><p>http://www.breslevmeir.com/%d7%a7%d7%93%d7%99%d7%a9 </p><p>&lt;a title=&quot;קדיש&quot; href=&quot;http://www.breslevmeir.com/%d7%a7%d7%93%d7%99%d7%a9&quot; target=&quot;_blank&quot;&gt;קדיש&lt;/a&gt;</p><p></p>',
+		'115709255696191515533',
+		'????? ?????',
+		'2015-06-05 06:45:42'
+		)
+		;
+
