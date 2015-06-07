@@ -2831,3 +2831,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-05 14:36:47'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-06 20:42:37'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_37.html'
+		;
+

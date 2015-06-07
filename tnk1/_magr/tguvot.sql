@@ -2440,3 +2440,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_37.html',
+		'<p>חבל מאד שאתה ממשיך לכתוב באנגלית במקום בעברית.</p><p>בכל זאת מדובר בתנך.</p><p>לעצם העניין לדעתי מושיב יחידים = אחודים / אחוזים / קשורים / אסורים</p><p>בהקבלה להמשך הפסוק</p><p> </p><p>&quot;אלהים מושיב יחידים ביתה </p><p>מוציא אסירים בכושרות </p><p>אך סוררים שכנו צחיחה&quot; ( תהלים סח7:)</p><p>בכל מקרה הפירושים שלך יפים ומעניינים, וחבל שזה באנגלית.</p>',
+		'112626326304940971661',
+		'????? ???',
+		'2015-06-06 20:42:37'
+		)
+		;
+
