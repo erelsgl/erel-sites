@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2015-05-25 15:54:07
+# This file was automatically generated at 2015-06-07 13:52:37
 
 sub wikia_replace_links {
 $_=shift;
@@ -1174,6 +1174,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-25-axel|[[ביאור:שמיטה בהר סיני 
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-35|[[ביאור:הלואה לצורך חידוש היכולת להתפרנס|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-2931|[[ביאור:למי שייך הבית?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-23|[[ביאור:והארץ לא תימכר לצמיתות|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-25-21|[[ביאור:וצויתי את ברכתי לכם בשנה השישית|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-2022|[[ביאור:יבול שישית - מה נאכל בשנה השביעית|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-10|[[ביאור:המטרה של שנת היובל - חופש ולא שיוויון|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-25-06|[[ביאור:בשנה השביעית אנחנו סועדים על שולחן השבת של גברת ארץ ישראלי|ig;
@@ -1587,7 +1588,7 @@ s|${OPENLINK}tnk1/tora/dibr02|[[ביאור:הדיבר השני|ig;
 s|${OPENLINK}tnk1/tora/ciurim|[[ביאור:ציורי ספרי התורה|ig;
 s|${OPENLINK}tnk1/tora/bznm10|[[ביאור:איפה היה משה בעשרת הדיברות?|ig;
 s|${OPENLINK}tnk1/tora/bsr_xlv|[[ביאור:איסור גדי בחלב אמו = איסור על ערבוב בין כוחות נמוכים לכוחות גבוהים|ig;
-s|${OPENLINK}tnk1/tora/brejit/y_bmqom_h|[[ביאור:החלפת אות (י במקום ה)|ig;
+s|${OPENLINK}tnk1/tora/brejit/y_bmqom_h|[[ביאור:החלפת אות - י במקום ה|ig;
 s|${OPENLINK}tnk1/tora/brejit/yruja|[[ביאור:'ירושה' - חיים גורי|ig;
 s|${OPENLINK}tnk1/tora/brejit/yosf_wexw|[[ביאור:יוסף ואחיו - כל המאמרים|ig;
 s|${OPENLINK}tnk1/tora/brejit/yosf_bmcrym|[[ביאור:מדוע יוסף לא התקשר הביתה? Why Did Yosef Not Send Word to his Father?|ig;
@@ -4056,6 +4057,11 @@ s|${OPENLINK}tnk1/messages/sofrim_index_7|[[ביאור:ציצת נבל |ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_6|[[ביאור:טפח - שני מובנים שונים|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_5|[[ביאור:נגלה או נקלה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_4|[[ביאור:נחלים: מנהר גן העדן לנחל בית המקדש|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_38|[[ביאור:טעויות בחלוקת האותיות למלים בספר הושע|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_37|[[ביאור:ואת הנדחת אשיב|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_36|[[ביאור:בחר - בכר - בקר - יקר|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_35|[[ביאור:אלחם או אחלק?|ig;
+s|${OPENLINK}tnk1/messages/sofrim_index_34|[[ביאור:יכין ובעז|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_33|[[ביאור:ארמון המלך|ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_32|[[ביאור:חצר המטרה |ig;
 s|${OPENLINK}tnk1/messages/sofrim_index_31|[[ביאור:שוטר|ig;
@@ -6798,6 +6804,10 @@ s|${OPENLINK}tnk1/messages/forums_72|[[ביאור:'המיילדות' - שיר מ
 s|${OPENLINK}tnk1/messages/forums_71|[[ביאור:'משה בתיבה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_70|[[ביאור:פרשת שמות - "עם לבדד ישכון"|ig;
 s|${OPENLINK}tnk1/messages/forums_7|[[ביאור:'שירת הלווים' - אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_695|[[ביאור:'משה ויתרו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_694|[[ביאור:פרשת בהעלותך - מה הקשר בין משה למנורה?|ig;
+s|${OPENLINK}tnk1/messages/forums_693|[[ביאור:'ברכת כוהנים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_692|[[ביאור:פרשת נשוא - ברכת כוהנים לשם מה?|ig;
 s|${OPENLINK}tnk1/messages/forums_691|[[ביאור:' ישראל נודדים במדבר ' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_690|[[ביאור:פרשת במדבר, מה הקשר בין מסירות נפש למדבר?|ig;
 s|${OPENLINK}tnk1/messages/forums_69|[[ביאור:'אחרית הימים' - שיר מאת אהובה קליין (c)|ig;
@@ -11346,25 +11356,16 @@ s|${OPENLINK}tnk1/br-29-26|[[ביאור:ביאור:בראשית כט26|ig;
 s|${OPENLINK}tnk1/br-29-18|[[ביאור:ביאור:בראשית כט18|ig;
 s|${OPENLINK}tnk1/br-26-7|[[ביאור:ביאור:בראשית כו7|ig;
 s|${OPENLINK}tnk1/br-26-20|[[ביאור:ביאור:בראשית כו20|ig;
-s|${OPENLINK}tnk1/br-24-65|[[ביאור:ביאור:בראשית כד65|ig;
-s|${OPENLINK}tnk1/br-24-50|[[ביאור:ביאור:בראשית כד50|ig;
-s|${OPENLINK}tnk1/br-24-14|[[ביאור:ביאור:בראשית כד14|ig;
-s|${OPENLINK}tnk1/br-24-1|[[ביאור:ביאור:בראשית כד1|ig;
 s|${OPENLINK}tnk1/br-22-8|[[ביאור:ביאור:בראשית כב8|ig;
 s|${OPENLINK}tnk1/br-22-6|[[ביאור:ביאור:בראשית כב6|ig;
 s|${OPENLINK}tnk1/br-22-15|[[ביאור:ביאור:בראשית כב15|ig;
 s|${OPENLINK}tnk1/br-22-1|[[ביאור:ביאור:בראשית כב1|ig;
 s|${OPENLINK}tnk1/br-20-2|[[ביאור:ביאור:בראשית כ2|ig;
 s|${OPENLINK}tnk1/br-20-11|[[ביאור:ביאור:בראשית כ11|ig;
-s|${OPENLINK}tnk1/br-19-29|[[ביאור:ביאור:בראשית יט29|ig;
-s|${OPENLINK}tnk1/br-19-25|[[ביאור:ביאור:בראשית יט25|ig;
-s|${OPENLINK}tnk1/br-19-23|[[ביאור:ביאור:בראשית יט23|ig;
 s|${OPENLINK}tnk1/br-19-19|[[ביאור:ביאור:בראשית יט19|ig;
 s|${OPENLINK}tnk1/br-18-17|[[ביאור:ביאור:בראשית יח17|ig;
 s|${OPENLINK}tnk1/br-14-24|[[ביאור:ביאור:בראשית יד24|ig;
 s|${OPENLINK}tnk1/br-13-7|[[ביאור:ביאור:בראשית יג7|ig;
-s|${OPENLINK}tnk1/br-12-4|[[ביאור:ביאור:בראשית יב4|ig;
-s|${OPENLINK}tnk1/br-12-17|[[ביאור:ביאור:בראשית יב17|ig;
 s|${OPENLINK}tnk1/br-04-9|[[ביאור:ביאור:בראשית ד9|ig;
 s|${OPENLINK}tnk1/br-04-23|[[ביאור:ביאור:בראשית ד23|ig;
 s|${OPENLINK}tnk1/br-04-12|[[ביאור:ביאור:בראשית ד12|ig;

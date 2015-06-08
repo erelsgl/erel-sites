@@ -2839,3 +2839,208 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_index_37.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_38.html',
+				NULL,
+				'2015-06-07 08:58:57',
+				'2015-06-07 08:58:57',
+				'θςειεϊ αημεχϊ δΰεϊιεϊ μξμιν αρτψ δεως',
+				'ΰαπψ ψξε',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-07 08:58:57'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ¤Χ¨ΧΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_34.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='ΧΧ Χ™ΧΆΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_692.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ©Χ™Χ¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_693.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='ΧªΧ›ΧΧ™Χª', sdr_bn=NULL
+			WHERE ktovt_bn='http://www.parashat-hashavua.com/2014/06/shlach.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ¤Χ¨ΧΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_35.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='ΧΧΧΧ¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_694.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ©Χ™Χ¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_695.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ¤Χ¨ΧΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_36.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ¤Χ¨ΧΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_37.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ“Χ™Χ•Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-21.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='Χ¤Χ¨ΧΧ™Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_38.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_693.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='http://www.parashat-hashavua.com/2014/06/shlach.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-21.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-21.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=111
+			WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-21.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_695.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_34.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_692.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_35.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_694.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_36.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_37.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/sofrim_index_38.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_64.html',
+				NULL,
+				'2015-06-07 14:36:34',
+				'2015-06-07 14:36:34',
+				'ςμ \"ωτμϊι αηιχκ\" ξΰϊ ηεδ ςφιεπι δμει',
+				'ηβι δετψ',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/sig_9sfr_64.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_65.html',
+				NULL,
+				'2015-06-07 14:38:27',
+				'2015-06-07 14:38:27',
+				'ςμ \"ωτηϊι αηιχκ\" ξΰϊ ηεδ ςφιεπι-δμει',
+				'ηβι δετψ',
+				'hagaihof @ gmail.com'
+			)
+		;
+
