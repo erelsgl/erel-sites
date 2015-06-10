@@ -3090,3 +3090,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-08 20:33:06'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-09 10:19:28'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0.htm',
+				'tnk1/messages/bhelwtk_xfaym_nstrym_jl_mjh_wahrwn.pdf',
+				NULL,
+				'2015-06-09 19:38:00',
+				'2015-06-09 19:38:00',
+				'פרשת בהעלותך: חטאים נסתרים של משה ואהרון ',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-09 19:38:00'
+			WHERE ktovt_bn='tnk1/prqim/t0.htm';
+
