@@ -3121,3 +3121,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-09 19:38:00'
 			WHERE ktovt_bn='tnk1/prqim/t0.htm';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-10 08:48:59'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-29.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-10 16:21:00'
+		WHERE ktovt_bn='tokxot/klkla/mym1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-11 05:00:31'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-29.html'
+		;
+

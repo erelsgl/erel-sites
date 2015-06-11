@@ -2464,3 +2464,395 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-29.html',
+		'<p>ב\'\' ה </p><p>חזק וברוך יהיה המחבר . דבריו מאיריי עניים! </p><p>אבל מאיפה לקח את הפרוש שלו על הזנות ?</p><p>כמו שכתב בראש הדף \'\'קשר גופני בין איש לאישה שהקשר בניהם עשוי להתנתק בקלות\'\' (זה הגיוני אך האם יש חכם שדורש כך גם ?</p>',
+		'117105428444818318183',
+		'???? ???? ????',
+		'2015-06-10 08:48:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 523 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>הדיון כאן הוא ברובו ענייני, כל החישובים לגבי רווחי החברה כ&quot;תירוץ&quot; לאי הצלחה מצערים בעיני.</p><p>כדאי להציץ מעבר לפינה, לארה&quot;ב ואסיה, בה התעשייה מכובדת וללמוד מהם.</p><p>אני רוצה להאמין שיש אנשים שבאמת מוכנים ללמוד תחום חדש ולא &quot;להסביר לעולם&quot; למה זה לגיטימי עבורם לא להצליח.</p><p>אני מגיע מ 5 שנות התפרנסות מהתחום, וברור שהדרך לא הייתה קלה, אני לומר ומתפתח כל הזמן.</p>\r\n\r\n<p>אני מצטרף לדעתה של &quot;אלמונית&quot; וחושב שהרבלייף בהחלט הוכיחה את עצמה הרבה מעבר לכל מה שפורום או ציטוט יוכל אי פעם לערער.</p><p>ההוכחה היא כמובן - הלקוחות החוזרים!</p><p>נוכל תמיד לדבר על &quot;גודל ההזדמנות&quot; או &quot;הפוטנציאל העסקי&quot; במונחים של תזמון, ייחודיות וכולי אך אין ספק שהרבלייף בנתה במידה רבה את התשתית העסקית שלא מעט מבאי הפורום מתפרנסים ממנה במידה כזו או אחרת.</p>\r\n\r\n<p>עלו והצליחו, התעשייה בארץ בחיתוליה ויש עולם שלם לגלות...!</p><p>מואיז אלוש</p><p>אומגה 3 הדור החדש</p><p>new.omega3@gmail.com</p>', `deleted_at` = NULL WHERE `messageid` = 656 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 689 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1071 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1083 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1095 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1370 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1480 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1898 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1967 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2502 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 523 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>הדיון כאן הוא ברובו ענייני, כל החישובים לגבי רווחי החברה כ&quot;תירוץ&quot; לאי הצלחה מצערים בעיני.</p><p>כדאי להציץ מעבר לפינה, לארה&quot;ב ואסיה, בה התעשייה מכובדת וללמוד מהם.</p><p>אני רוצה להאמין שיש אנשים שבאמת מוכנים ללמוד תחום חדש ולא &quot;להסביר לעולם&quot; למה זה לגיטימי עבורם לא להצליח.</p><p>אני מגיע מ 5 שנות התפרנסות מהתחום, וברור שהדרך לא הייתה קלה, אני לומר ומתפתח כל הזמן.</p>\r\n\r\n<p>אני מצטרף לדעתה של &quot;אלמונית&quot; וחושב שהרבלייף בהחלט הוכיחה את עצמה הרבה מעבר לכל מה שפורום או ציטוט יוכל אי פעם לערער.</p><p>ההוכחה היא כמובן - הלקוחות החוזרים!</p><p>נוכל תמיד לדבר על &quot;גודל ההזדמנות&quot; או &quot;הפוטנציאל העסקי&quot; במונחים של תזמון, ייחודיות וכולי אך אין ספק שהרבלייף בנתה במידה רבה את התשתית העסקית שלא מעט מבאי הפורום מתפרנסים ממנה במידה כזו או אחרת.</p>\r\n\r\n<p>עלו והצליחו, התעשייה בארץ בחיתוליה ויש עולם שלם לגלות...!</p><p>מואיז אלוש</p><p>אומגה 3 הדור החדש</p>', `deleted_at` = NULL WHERE `messageid` = 656 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 689 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1071 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1083 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1095 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1370 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1480 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1898 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1967 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2502 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-10 15:56:54' 
+			WHERE messageid=2502;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-10 15:56:55' 
+			WHERE messageid=2503;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-10 15:56:56' 
+			WHERE messageid=2504;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 523 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 656 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 689 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1071 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 1072 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 1073 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1083 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1095 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1370 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1480 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1898 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1967 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2502 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-10 15:59:28' 
+			WHERE messageid=2920;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 523 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 656 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 689 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1071 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1083 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1095 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1370 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1480 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1898 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1967 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2503 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2504 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2920 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 523 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 656 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 689 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1071 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1083 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1095 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1370 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1480 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1898 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1967 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2969 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 3238 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3239 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 3785 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4499 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4500 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4620 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4621 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5078 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/klkla/mym1.html',
+		'<p>*** עדכון ***</p><p>שלחתי את המכתב לרשות המים בחודש 6/2013: http://tora.us.fm/tokxot/klkla/mym-2013-06-erel-to-watergov.pdf</p><p>הם בכלל לא התייחסו להצעה הכללית שהצעתי להם לשינוי חישוב הצריכה המשותפת. הם התייחסו למכתב שלי כאל תלונה פרטית נגד תאגיד מי הוד השרון.    לכן הם העבירו את המכתב שלי לתאגיד, ובחודש 8/2013 קיבלתי את תשובת התאגיד: http://tora.us.fm/tokxot/klkla/mym-2013-08-watergov-to-erel.pdf</p><p>התשובה שלהם היא, למעשה: אנחנו פועלים כחוק.</p><p>בסדר, הם פועלים כחוק, אבל אני הצעתי שישנו את החוק!</p><p>בחודש 9/2013 כתבתי אל חבר-הכנסת (אז) זבולון כלפה:</p><p>לכבוד חה&quot;כ זבולון כלפה שלום,</p><p>אזרחים רבים, הגרים בבתים משותפים, משלמים חשבונות מים מוגזמים, בגלל הסעיף &quot;צריכה משותפת&quot;.</p><p>אופן החישוב הנוכחי של צריכה משותפת מתבצע ע&quot;י תרגיל חשבוני מורכב, אשר מקשה מאד על הדייר הפשוט לעקוב אחר החישוב ולבדוק את נכונותו. כתוצאה מכך נגרם עוול לדיירים רבים, המשלמים סכומים גבוהים מדי.</p><p>לפני כחודשיים וחצי פניתי בנושא אל רשות המים, והעליתי הצעה פשוטה לשינוי אופן החישוב של צריכה משותפת - פשוט להתקין מונה אחד שימדוד את הצריכה המשותפת (מצורף המכתב ששלחתי להם).</p><p>לפני כשבועיים, הם ענו לי, וטענו שהם פועלים על-פי החוק (מצורפת התשובה שקיבלתי מהם).</p><p>אם כך, אני פונה אליך, כמחוקק, ומבקש שתפעל לשינוי החוק. זהו שינוי קטן אשר יכול לתרום באופן משמעותי ל&quot;שיוויון בנטל&quot; של תשלומי המים, עשיית צדק ומניעת עוול.</p><p>בברכת שנה טובה ומלאת עשיה פוריה,</p><p>כתיבה וחתימה טובה,</p><p>---</p><p>מאז ועד היום לא קיבלתי כל תשובה.</p>',
+		'117606350813040384070',
+		'Erel Segal Halevi',
+		'2015-06-10 16:21:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-29.html',
+		'<p>הסבר מפורט לפירוש זה נמצא כאן: http://tora.us.fm/tnk1/kma/qjrim1/zna.html</p>',
+		'117606350813040384070',
+		'Erel Segal Halevi',
+		'2015-06-11 05:00:31'
+		)
+		;
+
