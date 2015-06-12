@@ -78,7 +78,7 @@ echo xhtml_header(
 			
 			function onSignIn(googleUser) {
 					var profile = googleUser.getBasicProfile();
-					var redirectUrl = '?followup=$followup&id='+profile.getId()+'&name='+profile.getName()+'&email='+profile.getEmail()+'&image='+profile.getImageUrl();
+					var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
 					//console.log(redirectUrl);
 					window.location = redirectUrl;
 			}
