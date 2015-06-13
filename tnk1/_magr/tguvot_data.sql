@@ -3098,3 +3098,64 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/wyqra/wy-19-29.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_index_101.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-06-12 12:39:18'
+		WHERE parent='tnk1/messages/sofrim_shabot_index_101.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_index_101.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-06-12 13:02:09'
+		WHERE parent='tnk1/messages/sofrim_shabot_index_101.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-06-12 13:29:57'
+			WHERE parent='tnk1/messages/sofrim_shabot_index_101.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-06-12 13:29:58'
+			WHERE parent='tnk1/messages/sofrim_shabot_index_101.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_mda_13.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-06-12 14:58:20'
+		WHERE parent='tnk1/messages/sofrim_shabot_mda_13.html'
+		;
+
