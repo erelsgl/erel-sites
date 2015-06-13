@@ -3175,3 +3175,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-11 16:22:26'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-12 12:39:18'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_101.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-12 13:02:09'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_101.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-12 14:58:20'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_mda_13.html'
+		;
+

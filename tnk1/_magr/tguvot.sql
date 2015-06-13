@@ -2856,3 +2856,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_101.html',
+		'<p>נסיון</p>',
+		'102459814614545858885',
+		'????? ????',
+		'2015-06-12 12:39:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_101.html',
+		'<p>נסיון 2 </p>',
+		'102459814614545858885',
+		'????? ????',
+		'2015-06-12 13:02:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-12 13:29:57' 
+			WHERE messageid=5430;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-12 13:29:58' 
+			WHERE messageid=5429;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_mda_13.html',
+		'<p>תודה על המילים. רק עכשיו שמתי לב, הבעיה שהמערכת כאן אינה מיידעת את המחבר על תגובות שהתקבלו תחת המאמר... </p><p>תודה שוב ושבת שלום,</p><p>אלברט</p>',
+		'102459814614545858885',
+		'????? ????',
+		'2015-06-12 14:58:20'
+		)
+		;
+
