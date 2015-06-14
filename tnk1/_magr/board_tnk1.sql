@@ -3199,3 +3199,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_mda_13.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-13 19:27:46'
+		WHERE ktovt_bn='tryg/ribit0/jak.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-13 19:28:54'
+		WHERE ktovt_bn='tryg/ribit0/pqdon_zkuyot.html'
+		;
+

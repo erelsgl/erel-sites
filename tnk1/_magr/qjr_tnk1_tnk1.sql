@@ -174,3 +174,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יג7', 'עשו - מתעשר ואין כל, מתרושש והון רב', '', 10, 60, '2015-05-14 03:33:36');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('נבואות מקבילות לפסוקי משלי', 'ביאור:משלי א24', 'ישעיהו: קראתי ואין עונה', '', 10, 60, '2015-06-13 18:19:35');
+

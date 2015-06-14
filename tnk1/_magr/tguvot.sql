@@ -2906,3 +2906,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/jak.html',
+		'<p>יש בנק דומה בניו-זילנד: http://www.le.org.nz/savings-pools</p>',
+		'117606350813040384070',
+		'Erel ???? Segal-Halevi',
+		'2015-06-13 19:27:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/pqdon_zkuyot.html',
+		'<p>רעיון דומה מיושם בניו-זילנד: http://www.le.org.nz/savings-pools</p><p>ובשוודיה:  https://en.wikipedia.org/wiki/JAK_Members_Bank</p>',
+		'117606350813040384070',
+		'Erel ???? Segal-Halevi',
+		'2015-06-13 19:28:54'
+		)
+		;
+
