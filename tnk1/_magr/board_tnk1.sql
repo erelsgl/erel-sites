@@ -3215,3 +3215,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/pqdon_zkuyot.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_39.html',
+				NULL,
+				'2015-06-14 11:15:07',
+				'2015-06-14 11:15:07',
+				'שינוי הסדר מבהיר את המסר',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-14 11:15:07'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
