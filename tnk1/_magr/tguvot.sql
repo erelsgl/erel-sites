@@ -2930,3 +2930,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_39.html',
+		'<p>I erred in the last paragraph it should read&quot;</p><p>אשר בטובך הרב נתת להם </p><p></p>',
+		'114685418958613834647',
+		'Avner Ramu',
+		'2015-06-15 16:30:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.anastasia.org.il</p><p>מתארגנת קבוצה להקמת יישוב שבו לכל משפחה תהיה נחלה.</p><p>---</p><p>מהי נחלה שושלתית?</p><p>הנחלה השושלתית היא פיסת המולדת והבית של כל אדם.</p><p>שטח הנחלה השושלתית הוא שטח חקלאי ברובו, שמכיל גם בתי מגורים ומבני משק נוספים. השטח החקלאי משמש לבניית יער מאכל ונווה גן-עדן חי העונה על כל צרכיו הכלכליים של האדם. שימוש נכון בשטח הנחלה יכול להקנות חופש אמיתי ובר-קיימא לאדם ולסביבה.</p><p>אנו מאמינים שלכל אדם צריכה להינתן פיסת אדמה באופן חוקי וקבוע בשטח של 10 דונם לפחות, עם אפשרות להוריש אותה לבניו ובנותיו במותו.</p>',
+		'117606350813040384070',
+		'Erel ???? Segal-Halevi',
+		'2015-06-15 18:56:52'
+		)
+		;
+
