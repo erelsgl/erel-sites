@@ -2954,3 +2954,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_21.html',
+		'<p>מוסיף על &quot;התאהבות&quot;</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-06-16 13:56:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html',
+		'<p>לשרת-גם דומה ל&quot;שרית&quot; , כמו &quot;שירתת את ה\', ואת אנשים&quot;</p><p></p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2015-06-17 03:04:20'
+		)
+		;
+
