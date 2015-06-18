@@ -3440,3 +3440,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-17 05:40:44'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-17 18:02:08'
+		WHERE ktovt_bn='tryg/ribit0/bankosher.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-17 18:05:56'
+		WHERE ktovt_bn='tryg/ribit0/bankosher.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2646.htm',
+				'tnk1/messages/alhym_lpnwt_bwqr.pdf',
+				NULL,
+				'2015-06-17 19:23:29',
+				'2015-06-17 19:23:29',
+				'יעזרה אלהים לפנות בוקר',
+				'רמי ניר  ',
+				''
+			)
+		;
+

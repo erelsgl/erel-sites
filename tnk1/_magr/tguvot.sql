@@ -2978,3 +2978,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bankosher.html',
+		'<p>http://tora.us.fm/tryg/ribit0/bnq3.html</p>',
+		'117606350813040384070',
+		'Erel ???? Segal-Halevi',
+		'2015-06-17 18:02:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-17 18:05:54' 
+			WHERE messageid=5438;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bankosher.html',
+		'<p>http://tora.us.fm/tryg/ribit0/IsraelBankingQuarterly_2012_LoanMediation.pdf</p>',
+		'117606350813040384070',
+		'Erel ???? Segal-Halevi',
+		'2015-06-17 18:05:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-17 18:06:04' 
+			WHERE messageid=5439;
+
