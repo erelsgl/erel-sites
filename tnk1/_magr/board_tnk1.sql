@@ -3472,3 +3472,42 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_44.html',
+				NULL,
+				'2015-06-18 09:05:50',
+				'2015-06-18 09:05:50',
+				'מלים שנשמטו מספר הושע',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-18 09:05:50'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0416.htm',
+				'tnk1/messages/prqim_t0416_5.html',
+				NULL,
+				'2015-06-19 15:03:50',
+				'2015-06-19 15:03:50',
+				'משהו לפרשת \"קרח\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
