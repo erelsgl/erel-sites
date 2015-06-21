@@ -3511,3 +3511,49 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/kll.html',
+				'tnk1/messages/byn_prjt_qwrx_wprjt_njwa.docx',
+				NULL,
+				'2015-06-20 19:25:04',
+				'2015-06-20 19:25:04',
+				'המשותף בין פרשת קורח ופרשת נשוא',
+				'ראובן זילברמן',
+				'פרשת קורח:המשותף בין פרשת קורח ופרשת נשוא'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-20 19:25:04'
+			WHERE ktovt_bn='tnk1/sig/kll.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0.htm',
+				'tnk1/messages/byn_prjt_qwrx_wprjt_njwa.pdf',
+				NULL,
+				'2015-06-20 19:30:01',
+				'2015-06-20 19:30:01',
+				'המשותף בין פרשת קורח ופרשת נשוא',
+				'ראובן זילברמן',
+				'פרשת קורח:המשותף בין פרשת קורח ופרשת נשוא'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-20 19:30:01'
+			WHERE ktovt_bn='tnk1/prqim/t0.htm';
+
