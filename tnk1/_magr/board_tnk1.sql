@@ -3557,3 +3557,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-20 19:30:01'
 			WHERE ktovt_bn='tnk1/prqim/t0.htm';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-21 10:45:28'
+		WHERE ktovt_bn='tnk1/tora/wyqra/hsair.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-22 06:23:05'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-11-26.html'
+		;
+

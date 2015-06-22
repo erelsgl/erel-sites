@@ -191,3 +191,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `sug` = 'דיון1', `ktovt` = 'http://he.wikisource.org/wiki/ביאור:בראשית_כד_סה', `m` = 'אילן סנדובסקי', `l` = 'ויקיטקסט', `tarik_hosfa` = '2015-06-07 13:50:02' WHERE `qod` = 'ביאור:בראשית כד65' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'אראל', `l` = '', `tarik_hosfa` = '2015-06-22 02:41:19' WHERE `qod` = 'ביאור:יהושע י12' AND 1 LIMIT 1;
+
