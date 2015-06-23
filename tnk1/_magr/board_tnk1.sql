@@ -3573,3 +3573,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-11-26.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2685.htm',
+				'tnk1/messages/prqim_t2685_1.html',
+				NULL,
+				'2015-06-22 15:52:01',
+				'2015-06-22 15:52:01',
+				'משל הנשמות התועות של הרבי מקוצק, או - על מידת האמת',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
