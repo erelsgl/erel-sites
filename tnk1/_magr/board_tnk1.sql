@@ -3589,3 +3589,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_66.html',
+				NULL,
+				'2015-06-23 16:44:52',
+				'2015-06-23 16:44:52',
+				'על \"דניאל - גלות והתגלות\" מאת הרב יעקב מדן',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

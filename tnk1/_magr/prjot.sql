@@ -1,15 +1,15 @@
 CREATE TABLE `prjot` (
-  `qod_sfr_2` varchar(2) default NULL,
-  `kotrt_sfr` varchar(15) default NULL,
-  `ktovt_prq0` varchar(16) default NULL,
-  `mspr_prq0` smallint(6) default NULL,
-  `mspr_psuq0` smallint(6) default NULL,
-  `mspr_prq1` smallint(6) default NULL,
-  `mspr_psuq1` smallint(6) default NULL,
-  `kotrt` varchar(160) default NULL,
-  `sug` varchar(15) default NULL,
-  `sdr` tinyint(4) default NULL
-) ENGINE=MyISAM CHARACTER SET utf8;
+  `qod_sfr_2` char(2) DEFAULT NULL,
+  `kotrt_sfr` varchar(15) DEFAULT NULL,
+  `ktovt_prq0` varchar(16) DEFAULT NULL,
+  `mspr_prq0` smallint(6) DEFAULT NULL,
+  `mspr_psuq0` smallint(6) DEFAULT NULL,
+  `mspr_prq1` smallint(6) DEFAULT NULL,
+  `mspr_psuq1` smallint(6) DEFAULT NULL,
+  `kotrt` varchar(160) DEFAULT NULL,
+  `sug` varchar(15) DEFAULT NULL,
+  `sdr` tinyint(4) DEFAULT NULL
+) ENGINE=InnoDB CHARACTER SET utf8;
 
 SET character_set_database=utf8;
 
