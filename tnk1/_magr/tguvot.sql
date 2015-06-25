@@ -3040,3 +3040,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1059_3.html',
+		'<p>עוד פירוש, מתוך &quot;קוצק&quot; של השל:</p><p>&quot;מילות הפסוק &quot;ותהי האמת נעדרת&quot; (ישעיה נט, טו) מתפרשות בדרך כלל &quot;והאמת חסרה&quot;. אך ר\' מנדל אמר שהשורש עד&quot;ר יכול להתפרש גם כלעדור. יש לעדור את האמת, כי כי טמונה עמוק באדמה. קשה מאוד להגיע לאמת&quot; (עמ\' 116).</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-06-24 11:20:40'
+		)
+		;
+
