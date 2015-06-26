@@ -1020,3 +1020,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '<br />', `main_qod_subjects` = NULL, `mqorot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 29 AND `verse_number` = 13 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mcudot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '<br />', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 2 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '<br />' WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `prefix` = NULL, `mcudot` = '<br />', `main_qod_subjects` = NULL, `hqblot` = '<p>הפסוק מדגיש שיש למצוא חן גם \"<q class=\"psuq\">בעיני אלהים</q>\" וגם \"<q class=\"psuq\">בעיני אדם</q>\". </p><p>רעיון דומה נמצא ב<a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2824.htm#21\">משלי כד21</a>: \"<q class=\"psuq\">יְרָא אֶת <strong>ה\'</strong> בְּנִי,<strong> וָמֶלֶךְ</strong></q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/24-21.html\">פירוט</a>)\r\n		</p><p>וכן בפרקי אבות: \"<q class=\"mfrj\">איזוהי דרך ישרה שיבור לו האדם? כל שהיא תפארת <strong>לעושיה</strong>, ותפארת לו מן <strong>האדם</strong></q>\"<small class=\"small\"> (רבי, </small><small class=\"small\"><big><a href=\"https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%90%D7%91%D7%95%D7%AA_%D7%91_%D7%90\" title=\"משנה אבות ב א\">משנה אבות ב א</a></big>. ע\"פ ר\' ישעיהו הולנדר)</small>. </p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mcudot` = '<br />' WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 5 AND 1 LIMIT 1;
+
