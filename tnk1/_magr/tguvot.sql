@@ -3052,3 +3052,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1507_1.html',
+		'<p>הנבואה הזאת של עמוס היא עליזה וציונית להפליא. דוד זהבי הלחין לה את &quot;והטיפו והטיפו ההרים עסיס&quot;. וילנסקי הלחין את &quot;ושבו בנים לגבולם&quot;. אף אני אנסה את כוחי</p>',
+		'107139377160576755493',
+		'Uri Klein',
+		'2015-06-28 05:44:25'
+		)
+		;
+
