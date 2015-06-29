@@ -3064,3 +3064,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_zvulun.html',
+		'<p>שבט זבולון נחל את הים ואת מדינות הים ואיי הים כרתים,ג\'רבה סרד-ינ- יה קפריסין וכו</p><p> ראה אתרי ישראל המקדשית http:// .www.gideon.022.co.il</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2015-06-28 11:38:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>המאמר שלי על חלוקת-נחלות הדרגתית:</p><p>http://www.tora.us.fm/tryg/yovl/bdd/yovel-bdd-28.pdf</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-06-28 16:15:20'
+		)
+		;
+

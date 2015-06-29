@@ -3690,3 +3690,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1507_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-28 11:38:43'
+		WHERE ktovt_bn='tnk1/sofrim/mali/nxlot_zvulun.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-28 16:15:20'
+		WHERE ktovt_bn='tryg/mamr/yovl_etc.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0.htm',
+				'tnk1/messages/xwqt.pdf',
+				NULL,
+				'2015-06-28 19:51:16',
+				'2015-06-28 19:51:16',
+				'פרשת חוקת',
+				'ראובן זילברמן',
+				'פרשת חוקת'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-28 19:51:16'
+			WHERE ktovt_bn='tnk1/prqim/t0.htm';
+
