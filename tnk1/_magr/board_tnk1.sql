@@ -3729,3 +3729,65 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-28 19:51:16'
 			WHERE ktovt_bn='tnk1/prqim/t0.htm';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_67.html',
+				NULL,
+				'2015-06-29 14:35:41',
+				'2015-06-29 14:35:41',
+				'על \"עיין ערך יהדות\" מאת הרב חגי לונדין',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_702.html',
+				NULL,
+				'2015-06-29 19:28:29',
+				'2015-06-29 19:28:29',
+				'פרשת בלק-\"עם לבדד ישכון ובגויים לא יתחשב\"- כיצד?/מאת: אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-29 19:28:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_703.html',
+				NULL,
+				'2015-06-29 19:59:28',
+				'2015-06-29 19:59:28',
+				'עם לבדד ישכון/שיר מאת: אהובה קליין (c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-29 19:59:28'
+			WHERE ktovt_bn='tnk1/forums.html';
+
