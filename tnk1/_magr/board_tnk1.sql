@@ -3791,3 +3791,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-06-29 19:59:28'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-06-30 12:56:18'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/gr_tojv.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/limud/index.html',
+				'http://www.mobile-gap.com/bible/assets/www/tanach.html',
+				NULL,
+				'2015-06-30 17:31:35',
+				'2015-06-30 17:31:35',
+				'קישור למאמר באתר אחר על: לימוד תנך - כלים ושיטות',
+				'Mobile-Gap',
+				'shlomo @ mobile-gap.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-06-30 17:31:35'
+			WHERE ktovt_bn='tnk1/klli/limud/index.html';
+

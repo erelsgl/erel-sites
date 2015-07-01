@@ -195,3 +195,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `m` = 'אראל', `l` = '', `tarik_hosfa` = '2015-06-22 02:41:19' WHERE `qod` = 'ביאור:יהושע י12' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'משה ואהרן - דמויות אנושיות' AND 1 LIMIT 1;
+

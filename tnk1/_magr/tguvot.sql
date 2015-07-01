@@ -3088,3 +3088,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/gr_tojv.html',
+		'<p>זו כפירה מוחלטת! הרי כתוב את שבע מצוות בני נח, לפני כל פסוק שכתבת, מופיע נושא של עבירה משבע מצוות בני נח, ואיך תיישב טענה זו כאשר גוי שלומד תורה חייב מיתה?</p>',
+		'108926014614675484263',
+		'אסתר סולטן',
+		'2015-06-30 12:56:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-06-30 12:56:33' 
+			WHERE messageid=5446;
+
