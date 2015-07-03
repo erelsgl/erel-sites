@@ -3107,3 +3107,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-06-30 12:56:33' 
 			WHERE messageid=5446;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim2/kibud_lmlakim.html',
+		'<p>יש גם את לט שהציע להם מצות.</p>',
+		'114907031213939841938',
+		'realkification קארן וקנין',
+		'2015-07-02 08:57:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-02-18.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-07-02 18:07:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-02 18:07:59' 
+			WHERE messageid=5448;
+
