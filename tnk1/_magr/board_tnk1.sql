@@ -3854,3 +3854,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_68.html',
+				NULL,
+				'2015-07-03 09:59:10',
+				'2015-07-03 09:59:10',
+				'על \"הכל אפשרי\" מאת שושה גרינפלד',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
