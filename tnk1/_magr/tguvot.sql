@@ -3138,3 +3138,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-07-02 18:07:59' 
 			WHERE messageid=5448;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t31_0.html',
+		'<p>יש להוסיף את המלה&quot;פשר&quot; קוהלת ח 1</p><p></p>',
+		'114685418958613834647',
+		'Avner Ramu',
+		'2015-07-06 17:03:16'
+		)
+		;
+

@@ -3870,3 +3870,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2733.htm',
+				'tnk1/messages/prqim_t2733_0.html',
+				NULL,
+				'2015-07-06 13:34:46',
+				'2015-07-06 13:34:46',
+				'על רוח האדם ופנאנתאיזם',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-06 17:03:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t31_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/211.html',
+				'tnk1/messages/01_46_10_heb.doc',
+				NULL,
+				'2015-07-07 06:03:34',
+				'2015-07-07 06:03:34',
+				'קובץ מסוג אחר על: שאול בן הכנענית',
+				'shimsar@gmail.com',
+				''
+			)
+		;
+
