@@ -3910,3 +3910,120 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_46.html',
+				NULL,
+				'2015-07-08 08:34:58',
+				'2015-07-08 08:34:58',
+				'Confusion caused by the various meanings of the Hebrew word: נקי (naqi) Avner Ramu',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-07-08 08:34:58'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1053.htm',
+				'tnk1/messages/prqim_t1053_3.html',
+				NULL,
+				'2015-07-08 10:32:03',
+				'2015-07-08 10:32:03',
+				'הערה למוות נפשו - מחשבות אובדניות',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t08a02.htm',
+				'tnk1/messages/prqim_t08a02_4.html',
+				NULL,
+				'2015-07-08 13:05:19',
+				'2015-07-08 13:05:19',
+				'מחשבות אדם הבל',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0118.htm',
+				'tnk1/messages/kwxwt_hrje___zeqt_sdwm_wemwrh.pdf',
+				NULL,
+				'2015-07-08 19:25:31',
+				'2015-07-08 19:25:31',
+				'זעקת כוחות הרשע = זעקת סדום ועמורה',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_704.html',
+				NULL,
+				'2015-07-09 04:05:26',
+				'2015-07-09 04:05:26',
+				'פרשת  פינחס- מי הייתה יוכבד ובמה ייחודה?/מאת:אהובה קליין',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-07-09 04:05:26'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_705.html',
+				NULL,
+				'2015-07-09 04:07:00',
+				'2015-07-09 04:07:00',
+				'יוכבד/שיר מאת: אהובה קליין (c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-07-09 04:07:00'
+			WHERE ktovt_bn='tnk1/forums.html';
+
