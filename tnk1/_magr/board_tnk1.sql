@@ -4027,3 +4027,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-07-09 04:07:00'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-09 15:35:50'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/agol.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-09 19:51:34'
+		WHERE ktovt_bn='tnk1/messages/forums_705.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-09 20:10:53'
+		WHERE ktovt_bn='tnk1/messages/forums_705.html'
+		;
+

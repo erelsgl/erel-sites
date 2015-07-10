@@ -3150,3 +3150,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/agol.html',
+		'<p></p>',
+		'110515958494962979523',
+		'Yakov K',
+		'2015-07-09 15:35:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_705.html',
+		'<p>שיר פשוט וחכם. תודה.</p>',
+		'105706963740063215535',
+		'Naomi h greenberg',
+		'2015-07-09 19:51:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_705.html',
+		'<p>שיר פשוט וחכם. תודה.</p>',
+		'105706963740063215535',
+		'Naomi h greenberg',
+		'2015-07-09 20:10:53'
+		)
+		;
+
