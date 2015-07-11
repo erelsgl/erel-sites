@@ -4051,3 +4051,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_705.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0427.htm',
+				'tnk1/messages/prqim_t0427_1.html',
+				NULL,
+				'2015-07-10 10:04:41',
+				'2015-07-10 10:04:41',
+				'משהו לפרשת \"פנחס\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-10 12:48:46'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_21.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-10 12:48:49'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_21.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-10 12:48:49'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_21.html'
+		;
+

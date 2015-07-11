@@ -3186,3 +3186,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_21.html',
+		'<p></p>',
+		'101829578282748934651',
+		'בניה גיל',
+		'2015-07-10 12:48:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_21.html',
+		'<p></p>',
+		'101829578282748934651',
+		'בניה גיל',
+		'2015-07-10 12:48:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_21.html',
+		'<p></p>',
+		'101829578282748934651',
+		'בניה גיל',
+		'2015-07-10 12:48:49'
+		)
+		;
+
