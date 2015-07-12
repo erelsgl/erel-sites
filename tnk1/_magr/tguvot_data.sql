@@ -3551,3 +3551,43 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/sofrim_hagay_mxjva_21.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-07-11 21:37:29'
+			WHERE parent='tnk1/messages/sofrim_hagay_mxjva_21.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-07-11 21:37:30'
+			WHERE parent='tnk1/messages/sofrim_hagay_mxjva_21.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-07-11 21:37:31'
+			WHERE parent='tnk1/messages/sofrim_hagay_mxjva_21.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-07-11 21:37:36'
+			WHERE parent='tnk1/kma/qjrim1/agol.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-07-11 21:37:47'
+			WHERE parent='tnk1/messages/forums_705.html'
+			;
+
