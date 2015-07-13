@@ -3257,3 +3257,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-07-11 21:37:47' 
 			WHERE messageid=5452;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-0607.html',
+		'<p>כל הכבוד -דעתי כדעתכם -כך צריך ללמד תנ&quot;ך ומסורת </p>',
+		'117345955433080530345',
+		'רמי קאליר',
+		'2015-07-12 19:57:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-0607.html',
+		'<p></p>',
+		'117345955433080530345',
+		'רמי קאליר',
+		'2015-07-12 19:57:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-0607.html',
+		'<p>צריך רק תפוח ועץ ראה את המאמר שלי </p><p>http://business-excellence.co.il/blog/321-only-need-an-apple-and-a-tree</p>',
+		'117345955433080530345',
+		'רמי קאליר',
+		'2015-07-13 07:16:28'
+		)
+		;
+
