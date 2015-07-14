@@ -3293,3 +3293,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0411_1.html',
+		'<p>תודה לך על מאמר נפלא זה</p><p></p>',
+		'100986960017777102384',
+		'mosheyon',
+		'2015-07-13 08:39:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/hlka.html',
+		'<p></p>',
+		'102708071425685890563',
+		'ניסים שלוש',
+		'2015-07-13 13:01:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0411_1.html',
+		'<p>בבקשה, שמח שנהנית</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-07-13 13:17:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/hlka.html',
+		'<p>בס&quot;ד אני לא כל כך יודע מי הגוף שמיצג את הדף בנושא ולכן אבקש פירוט לגבי האתר הזה תודה</p><p>  </p><p>   לעצם העניין לפני מספר ימים עלתה במחשבתי השאלה בקשר לנידון - בפרשת בלק בקשר למעשה של זמרי בן סלוא משבט שמעון ומה שנאמר בסנהדרין &quot; נתעלמה ממנו (ממשה) הלכה - &quot;הבועל ארמית קנאין פוגעין בו &quot; ולא קבלתי את ההבנה הפשוטה של המדרש אלא ניסתי ביני לבני לרדת מעט לעומק לפי הבנתי  פשוט שאלתי &quot; מה זה אומר &quot; נתעלמה ממנו הלכה בדגש על ה &quot; נתעלמה &quot; ואכן חשבתי שמדובר &quot;בנגיעה אישית &quot; ועוד חשבתי שהסיבה לכך נובעת מעצם היות משה עסוק וטרוד בהנהגת העם עם אחריות כבדה שמוטלת עליו שאינה קלה כלל ואז כל אירוע &quot; מיוחד &quot;  משה חייב לבדוק את עצמו איך לנווט בכל סיטואציה וכאן משתלב רצון הקב&quot;ה לזכות את פנחס בן אלעזר הכהן  בשכר &quot; לתת לו כהונת עולם &quot; כמובן שהכותב הרחיב והוסיף את מוטיב &quot;הנגיעה&quot; אסיים כאן ואם תמצאו לנכון להשיב לי אשמח . תודה ניסים postsg1945@gmail.com  </p>',
+		'102708071425685890563',
+		'ניסים שלוש',
+		'2015-07-13 13:23:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_dq_armit_hfuka_1.html',
+		'<p>תודה רבה. אפנה בפרטי. </p>',
+		'110140434023775863844',
+		'רות לובין',
+		'2015-07-14 07:42:09'
+		)
+		;
+
