@@ -3711,3 +3711,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/ljon_dq_armit_hfuka_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/klli/limud/xipus.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-07-14 19:18:49'
+		WHERE parent='tnk1/klli/limud/xipus.html'
+		;
+

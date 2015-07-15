@@ -3353,3 +3353,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום אני מחפשת פסוק עם האותיות של המלה מאור שיכול להתאים כפסוק להזמנה לבר המצווה.</p><p>הפרשה של מאור היא כי תצא אך זו רק עדיפות</p><p>תודה רבה</p>',
+		'113850087513392999566',
+		'efrat levi',
+		'2015-07-14 19:18:49'
+		)
+		;
+
