@@ -4209,3 +4209,58 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-07-15 04:20:57'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-15 09:50:24'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-15 11:48:47'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0319.htm',
+				'tnk1/messages/prqim_t0319_7.html',
+				NULL,
+				'2015-07-15 19:15:44',
+				'2015-07-15 19:15:44',
+				'כללי המשחק – עשרת הדיברות לשיח חברתי הגון ומכבד',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_707.html',
+				NULL,
+				'2015-07-15 21:14:20',
+				'2015-07-15 21:14:20',
+				'בתום המסע/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-07-15 21:14:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+

@@ -3365,3 +3365,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>חפשי כאן:</p><p>http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%90%D7%95%D7%A8</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-07-15 09:50:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רציתי לברך את סבא שלי הוא בן 65 עוד מעט והוא קיבל את המחלה הקשה בריאות התפילה הזאת חיזקה אותי ממש וגרמה לי להאמין שאבא שבשמיים יעזור לנו תודה!</p>',
+		'108351205884967606869',
+		'שלי אזולאי',
+		'2015-07-15 11:48:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-15 11:49:19' 
+			WHERE messageid=5466;
+
