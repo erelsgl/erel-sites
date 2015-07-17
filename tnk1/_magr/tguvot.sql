@@ -3396,3 +3396,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-07-15 11:49:19' 
 			WHERE messageid=5466;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-54-13.html',
+		'<p>שלום, תודה על הלימוד. אני ממש אוהב את הקטע הזה ונהנה להגיד אותו בתפילה. אני במיוחד מתחבר לזה כי קוראים לאמא שלי בונה, אמא שלי נפטרה לפני 29 יום, היום בערב זה השלושים, ואני רציתי לבדוק משהו בשביל להגיד איזה דבר תורה. </p><p>בכל מקרה, אני לא הבנתי לגמרי איך ההסבר בסוף פה מסביר את הקשר בין תלמידי חכמים לשלום. שוב, תודה על הדברי תורה</p><p>עמיתי</p>',
+		'112289752060470475267',
+		'amitai haberman-browns',
+		'2015-07-16 14:21:15'
+		)
+		;
+
