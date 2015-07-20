@@ -3420,3 +3420,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-19 15:31:53' 
+			WHERE messageid=5468;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-05-17.html',
+		'<p>קול הקבוד אחלה של אנשים</p><p></p>',
+		'108389993229403350758',
+		'שירה ויינשטיין',
+		'2015-07-19 17:25:05'
+		)
+		;
+
