@@ -3439,3 +3439,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9jir_16.html',
+		'<p>יפה</p><p>לא הבנתי את השורה האחרונה &quot;תן לא את יבנה וחכמיה&quot;</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-07-22 04:21:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-22 04:21:18' 
+			WHERE messageid=5470;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9jir_16.html',
+		'<p>יפה</p><p>לא הבנתי את השורה האחרונה &quot;תן **לא** את יבנה וחכמיה&quot;</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-07-22 04:21:24'
+		)
+		;
+
