@@ -3470,3 +3470,29 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9jir_16.html',
+		'<p>תודה. טעות, תיקנתי</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-07-22 09:32:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-22 16:06:26' 
+			WHERE messageid=5471;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-22 16:06:27' 
+			WHERE messageid=5472;
+
