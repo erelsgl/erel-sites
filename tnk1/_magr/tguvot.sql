@@ -3520,3 +3520,189 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_48.html',
+		'<p>תודה על המאמר המרתק. רעיון מצוין הוא להקביל את כל הפעלים המרובים שמשמעותם היסודית היא פחד. לא פלא שהם כל כך מרובים במקרא שמטרתו היא להרחיק אנשים מחיי חטא (חת/חטא).</p><p>ברצוני לציין שהפועל חול קרוב אמנם ל-חרד ויפה הדגשת את הקרבה הזאת. אך הפועל חול עומד בפני עצמו ויש לו חשיבות רבה על כל גווניו. אולי יש פחות טעויות במקרא ממה שאתה משער.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-26 08:15:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_48.html',
+		'<p>חיל במובן של צירי לידה קשור לחטאה של חוה ולעונשו. פחד, בושה, חטא ועונש קשורים יחד והדבר מתבטא במילים. בריאה מחדש קשורה לצירי לידה במובן של כפרה על העונש והתחלה מחדש. </p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-26 08:25:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_48.html',
+		'<p>הפועל ירא קשור גם ל-ירי/ירה במשמעות של הוראה ולימוד. הירא מקשיב להוראות, לומד, מציית לחוקי המוסר המובעים במקרא, ונמנע מחטא ומעונש.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-26 08:27:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_48.html',
+		'<p>יש אומרים שהאות חית באה מפיקטוגרף שצייר גדר. המילה חית קרובה אכן אל רעותה חטא. לחטוא פירושו לעבור על גדר, גבול, כמו שהים פורץ את מחסום החול. החול הוא גבול שהושם לים בבריאה. חול מהשורש חול שפירושו פחד.</p><p>המילה חיל, פירושה גם פחד וגם אומץ. חיל ורעדה מצד אחד, בני חיל, לעשות חיל, מצד שני. ההיפוכים מהווים את קצוותיו של אותו מושג.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-26 08:37:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 12:57:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 12:58:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 12:58:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 12:58:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 13:01:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה תחזרו אלי 0525669480</p>',
+		'107744398661430673803',
+		'raaya david',
+		'2015-07-26 13:02:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום</p><p>כדאי להזכיר את השימוש של הסוגריים המסולסלים {} שנועדו לציין כמה פעמים נרצה לחזור על ביטוי מסויים.</p><p>לדגומא: הביטוי &quot;( א[א-ת]*){6}&quot; יחזיר את כל הפסוקים בהם יש 6 מילים רצופות הפותחות באות א\' (יש 2 כאלה).</p><p>ממליץ על האתר ללימוד ביטויים רגולריים:</p><p>http://regexone.com/ </p>',
+		'105168729354446798489',
+		'Elad Finish',
+		'2015-07-26 13:21:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום</p><p>כדאי להזכיר את השימוש של הסוגריים המסולסלים {} שנועדו לציין כמה פעמים נרצה לחזור על ביטוי מסויים.</p><p>לדגומא: הביטוי &quot;( א[א-ת]*){6}&quot; יחזיר את כל הפסוקים בהם יש 6 מילים רצופות הפותחות באות א\' (יש 2 כאלה).</p><p>ממליץ על האתר ללימוד ביטויים רגולריים:</p><p>http://regexone.com/ </p>',
+		'105168729354446798489',
+		'Elad Finish',
+		'2015-07-26 14:41:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:23' 
+			WHERE messageid=5484;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:23' 
+			WHERE messageid=5483;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:30' 
+			WHERE messageid=5482;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:31' 
+			WHERE messageid=5481;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:32' 
+			WHERE messageid=5480;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-07-26 15:14:34' 
+			WHERE messageid=5479;
+
