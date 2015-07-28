@@ -3706,3 +3706,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-07-26 15:14:34' 
 			WHERE messageid=5479;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_2.html',
+		'<p>ובלשונו של וולטר</p><p>.Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin </p><p>מזל טוב, מאלף עד אלף, אתה אלוף!!!</p><p>המשך לרקום את כרמך ואנחנו נמשיך ליהנות מחכמתו.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-27 15:26:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_2.html',
+		'<p>תודה רבה, אורנה, על מילותייך החמות</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-07-27 15:47:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_awb_0.html',
+		'<p>יש הבדל בין אוחז עיניים שאומר שהוא אוחז עיניים (קוסם בימנו), לבין אדם שאוחז עיניים ואומר שזה מעשה קסמים או סגולות קדושה. ולכן אני חושב שהקוסמים של ימנו שאינם טוענים שיש להם כוחות או שמעשיהם סוטרים את חוקי הטבע אלא הם זריזות ידיים בלבד הם אינם אסורים.</p>',
+		'116071449941142652757',
+		'משה ליאב לסרי',
+		'2015-07-28 03:59:29'
+		)
+		;
+

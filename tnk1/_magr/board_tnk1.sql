@@ -4548,3 +4548,66 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9cyur.html',
+				'tnk1/messages/sig_9cyur_0.html',
+				NULL,
+				'2015-07-27 15:02:15',
+				'2015-07-27 15:02:15',
+				'יופיו של רבי יוחנן - תמונה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-07-27 15:02:15'
+			WHERE ktovt_bn='tnk1/sig/9cyur.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hoffer/index.html',
+				'tnk1/messages/sofrim_hoffer_index_2.html',
+				NULL,
+				'2015-07-27 15:10:04',
+				'2015-07-27 15:10:04',
+				'חגיגות המאמר האלף!',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-27 15:26:34'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hoffer_index_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-27 15:47:46'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hoffer_index_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-07-28 03:59:29'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_awb_0.html'
+		;
+
