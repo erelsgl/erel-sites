@@ -3742,3 +3742,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_2.html',
+		'<p>חיפשתי את כל מאמריך לפי הקישור שנתת במאמר ולא מצאתי אותם שם. לעומת זאת, מצאתים כאן</p><p>http://tora.us.fm/tnk/find.php?q=%D7%97%D7%92%D7%99+%D7%94%D7%95%D7%A4%D7%A8</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-07-28 18:34:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_2.html',
+		'<p>תודה. תיקנתי וזה עדיין לא עובד. אבל מהקישור שלך זה מגיע, אסתפק בזה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-07-28 23:13:19'
+		)
+		;
+
