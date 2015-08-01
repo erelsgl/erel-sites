@@ -4696,3 +4696,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-07-30 15:17:17'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0521.htm',
+				'tnk1/messages/prqim_t0521_4.html',
+				NULL,
+				'2015-07-31 11:03:45',
+				'2015-07-31 11:03:45',
+				'על סדר היום: פשעי השנאה האחרונים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
