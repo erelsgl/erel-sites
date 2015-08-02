@@ -4712,3 +4712,42 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_70.html',
+				NULL,
+				'2015-08-01 21:31:20',
+				'2015-08-01 21:31:20',
+				'על סדרת \"הנשמה היהודית\" מאת אלי ויזל',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_50.html',
+				NULL,
+				'2015-08-02 07:35:46',
+				'2015-08-02 07:35:46',
+				'מי עשה את \"עגל מסכה\"?',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-08-02 07:35:46'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
