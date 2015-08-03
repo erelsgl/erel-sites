@@ -3766,3 +3766,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_30.html',
+		'<p>כל הכבוד חבל שאתה לא יכול לשלוח לי כל שבוע על פרשת השבוע זה יעזור לי בשעורי תורה שאני מעביר      אחיך יאיר חגבי</p>',
+		'114685489525574963567',
+		'יאיר חגבי',
+		'2015-08-02 08:46:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_30.html',
+		'<p></p>',
+		'114685489525574963567',
+		'יאיר חגבי',
+		'2015-08-02 08:46:56'
+		)
+		;
+

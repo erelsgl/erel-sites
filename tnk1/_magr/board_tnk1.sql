@@ -4751,3 +4751,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-08-02 07:35:46'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-02 08:46:26'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-02 08:46:56'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_30.html'
+		;
+
