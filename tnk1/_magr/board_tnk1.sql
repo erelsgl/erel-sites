@@ -4767,3 +4767,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_30.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-04 06:13:10'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_mxjva_21.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_51.html',
+				NULL,
+				'2015-08-04 07:37:39',
+				'2015-08-04 07:37:39',
+				'כפרי מעלליו',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-08-04 07:37:39'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
