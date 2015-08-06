@@ -3802,3 +3802,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_71.html',
+		'<p>תודה רבה חגי על סקירת הספר. גם הפעם מאמרך נותן תמונה כללית על הספר (שהכנות והיושר הם מרכיבים חשובים בה) והודות לה הקורא יכול לדעת אם רצונו לקרוא את הספר עצמו או לא. </p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-05 08:38:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_71.html',
+		'<p>תודה אורנה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-05 09:14:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_52.html',
+		'<p>יפה הראית את הקרבה בין הלם ו-המם. אבל אינני סבורה שיש כאן טעויות. לדידי יש כאן פעלים נרדפים.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-05 10:34:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>איך אני מוצאת פסוק עם השם כרמל?</p>',
+		'116438476842495124009',
+		'כרמל זקס',
+		'2015-08-05 14:07:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/lpidot.html',
+		'<p>אשת לפידות החשבה שהיא דבורה הנביאה לא הבינה שהקוד בתורה הוא עזר כנגד ענן איש ואישה והאלות והמטות בידיהם אבל לא אלהים. ועל כן יש לסבר את העיניים של כולם למען הדורות הבאים.</p><p>תודה.</p><p></p>',
+		'113374367239791621754',
+		'Racheli ben david',
+		'2015-08-06 05:11:23'
+		)
+		;
+
