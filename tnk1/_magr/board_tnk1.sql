@@ -4923,3 +4923,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/joftim/lpidot.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_53.html',
+				NULL,
+				'2015-08-06 19:41:53',
+				'2015-08-06 19:41:53',
+				'חלצני ה\'',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-08-06 19:41:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
