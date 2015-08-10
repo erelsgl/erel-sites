@@ -3862,3 +3862,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-06-04.html',
+		'<p>&quot;בזכות הדגם הזה הצלחנו לפענח בפעם הראשונה פסוקים שהיו עד אז סתומים, כמו \'חלוני שקופים אטומים\' שמוזכרים בתיאור המקדש. כיום אנחנו יודעים שמדובר במשקופים נסוגים, כמה מסגרות שאינן באות במגע עם החלק הפתוח בחלון, אלא צמודות לקיר אטום. כך בדיוק בנוי הדגם&quot;. </p><p>http://www.nrg.co.il/online/11/ART2/715/748.html</p>',
+		'107557230158752251623',
+		'DeadSea Scrolls',
+		'2015-08-10 07:24:31'
+		)
+		;
+
