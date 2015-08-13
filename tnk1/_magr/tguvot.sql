@@ -3910,3 +3910,118 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_72.html',
+		'<p>תודה חגי על עוד מאמר ביקורת מעניין על ספר שנראה באמת שווה. קראתי על השיטה ברשת אבל לא את הספר הזה. מושג &quot;חיקוי האל&quot; הוא חשוב מאוד ונמצא בבסיס הכול. רבות הן דרכי בריאת העולם, באמירה, בשירה, בבנייה, בפיסול, במאבק, בהולדה, במשחק, בריקוד, ובכל מה שאדם עושה, בכל תחום ועיסוק שבו הוא שרוי ברגע מסוים, הוא צריך ללכת בדרכי הבורא. זהו המסר שניתן לראות במקרא, </p><p>והינה קישור למאמר של הרב יוסף דוב הלוי סולובייצ\'יק בנושא</p><p>http://jewsforjudaism.org/knowledge/articles/issues/social-action/imitating-god-the-basis-of-jewish-morality/</p><p></p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-12 09:27:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_72.html',
+		'<p>תודה אורנה, שמח שמושג חיקוי האל מדבר אליך</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-12 10:04:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_72.html',
+		'<p>יותר מכך אפילו, כל מה שאני כותבת הוא על חיקוי האל...</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-12 10:24:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_72.html',
+		'<p>כן, כמובן. </p><p>מקווה שאתפנה לקרוא את המאמר המצורף.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-12 10:28:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_72.html',
+		'<p>הוא מאוד קצר, בסיסי, וכתוב באנגלית קלה.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-12 11:40:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ezor_index_0.html',
+		'<p>על פי ספר הישר</p><p>בארץ כנען בימים ההם שלטו הכנענים ולא היה שלום ביניהם לבין ממלכת מצרים</p><p>לכן יוסף ואחיו בני ישראל וכל עבדי פרעה מלך מצרים נאלצו להגיע דרך עבר הירדן</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-12 17:30:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_715.html',
+		'<p>מאוד יפה ונדיב אהובה יקרה. תודה!</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2015-08-12 22:40:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ezor_index_0.html',
+		'<p>על פי ספר הישר</p><p>בארץ כנען בימים ההם שלטו הכנענים ולא היה שלום ביניהם לבין ממלכת מצרים</p><p>לכן יוסף ואחיו בני ישראל וכל עבדי פרעה מלך מצרים נאלצו להגיע דרך עבר הירדן</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-13 05:37:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-13 05:46:24' 
+			WHERE messageid=5511;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0530_2.html',
+		'<p>וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ = להודות לאֱלֹהִים חַיִּים</p><p>תהלים ל5: &quot;זַמְּרוּ ליהוה חֲסִידָיו וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ&quot;</p><p>תהלים צז12: &quot;שִׂמְחוּ צַדִּיקִים ביהוה וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ&quot;</p><p>וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ = להודות לְזֵכֶר יָהּ בְּאֶרֶץ הַחַיִּים</p><p>תהלים ו6: &quot;כִּי אֵין בַּמָּוֶת זִכְרֶךָ בִּשְׁאוֹל מִי יוֹדֶה לָּךְ&quot;</p><p> </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-13 06:02:49'
+		)
+		;
+
