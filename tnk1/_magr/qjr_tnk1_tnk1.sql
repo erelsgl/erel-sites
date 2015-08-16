@@ -178,3 +178,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('נבואות מקבילות לפסוקי משלי', 'ביאור:משלי א24', 'ישעיהו: קראתי ואין עונה', '', 10, 60, '2015-06-13 18:19:35');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יג1', 'אדוניהו - לץ לא שמע גערה', '', 10, 60, '2015-08-14 07:13:49');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יג5', 'דתן ואבירם - ורשע יבאיש ויחפיר', '', 40, 60, '2015-08-14 07:14:21');
+
