@@ -4025,3 +4025,82 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_klh2_0.html',
+		'<p>&quot;כי יתחמץ לבבי וכליותי אשתונן&quot;</p><p>לעניות דעתי פרוש האמור הוא ,&quot;ליבי&quot; , הווה אומר הרגש מחמיץ  נעשה רע, ממורמר, כעוס. ו&quot;כליותי&quot; המקום בו אני אמור למצוא את האיזון אינן מפנות את ה&quot;חמץ&quot; ,את הפסולת... &quot;השתן&quot;.</p>',
+		'107511984178452725391',
+		'Ronit Naim',
+		'2015-08-16 18:38:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-13-09.html',
+		'<p>הלוואי והיום מדינת ישראל היתה  כל כך אדיבה, כמה חיילים ואזרחים יכלו לחזור בגאוה מהמלחמות המיותרות ולא לחזור </p><p>מ ת ח ת     ל ד ג ל    </p>',
+		'105174278578532749277',
+		'ady yarkon',
+		'2015-08-16 22:22:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-13-09.html',
+		'<p>מלכים א יח25: &quot;וַיֹּאמֶר אֵלִיָּהוּ לִנְבִיאֵי הַבַּעַל בַּחֲרוּ לָכֶם הַפָּר הָאֶחָד וַעֲשׂוּ רִאשֹׁנָה כִּי אַתֶּם הָרַבִּים וְקִרְאוּ בְּשֵׁם אֱלֹהֵיכֶם וְאֵשׁ לֹא תָשִׂימוּ&quot;</p><p>הסיבה שהצדיק נותן אפשרות בחירה כי הצדיק בוטח באלהים ויודע כי חלקו שמור לו וגם אם יבחרו אחרים לפניו זה יהיה לטובתו </p><p>במדבר טז16: &quot;וַיֹּאמֶר מֹשֶׁה אֶל קֹרַח אַתָּה וְכָל עֲדָתְךָ הֱיוּ לִפְנֵי יהוה אַתָּה וָהֵם וְאַהֲרֹן מָחָר&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-17 07:35:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/wysa_lot_mqdm.html',
+		'<p>לוט נסע מקדם מישראל המזרחית אל מזרחית לישראל</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-17 07:39:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-13-09.html',
+		'<p>מלכים א יח25: &quot;וַיֹּאמֶר אֵלִיָּהוּ לִנְבִיאֵי הַבַּעַל בַּחֲרוּ לָכֶם הַפָּר הָאֶחָד וַעֲשׂוּ רִאשֹׁנָה כִּי אַתֶּם הָרַבִּים וְקִרְאוּ בְּשֵׁם אֱלֹהֵיכֶם וְאֵשׁ לֹא תָשִׂימוּ&quot;</p><p>הסיבה שהצדיק נותן אפשרות בחירה כי הצדיק בוטח באלהים ויודע כי חלקו שמור לו וגם אם יבחרו אחרים לפניו זה יהיה לטובתו </p><p>במדבר טז16: &quot;וַיֹּאמֶר מֹשֶׁה אֶל קֹרַח אַתָּה וְכָל עֲדָתְךָ הֱיוּ לִפְנֵי יהוה אַתָּה וָהֵם וְאַהֲרֹן מָחָר&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-17 07:40:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-17 07:40:12' 
+			WHERE messageid=5517;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/arcot.html',
+		'<p>וכה אמר ליוסף פרעה הצדיק עת מלך במצרים ככתוב בספר: בראשית מז6: &quot;אֶרֶץ מִצְרַיִם לְפָנֶיךָ הִוא </p><p>בְּמֵיטַב הָאָרֶץ הוֹשֵׁב אֶת אָבִיךָ וְאֶת אַחֶיךָ יֵשְׁבוּ בְּאֶרֶץ גֹּשֶׁן וְאִם יָדַעְתָּ וְיֶשׁ בָּם אַנְשֵׁי חַיִל וְשַׂמְתָּם שָׂרֵי מִקְנֶה עַל אֲשֶׁר לִי&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-17 07:43:51'
+		)
+		;
+
