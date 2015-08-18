@@ -5314,3 +5314,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim1/arcot.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-17 08:06:48'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_klh2_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0532.htm',
+				'tnk1/messages/bla_em___aqnyam_bayslm_hqycwny.pdf',
+				NULL,
+				'2015-08-17 19:25:13',
+				'2015-08-17 19:25:13',
+				'אקניאם בלא עם = אקניאם באיסלם הקיצוני',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-18 06:07:33'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_klh2_0.html'
+		;
+
