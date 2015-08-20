@@ -4154,3 +4154,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_3.html',
+		'<p>בראשית א1: &quot;בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ&quot; </p><p>1.בְּרֵאשִׁית =בראש</p><p>2.בָּרָא </p><p>3. אֱלֹהִים </p><p>4. אֵת </p><p>5. הַשָּׁמַיִם </p><p>6. וְאֵת </p><p>7. הָאָרֶץ = כְּדֶרֶךְ כָּל הָאָרֶץ = זה רמז לערוות האדם </p><p>וְהַחוֹסֶה בִי יִנְחַל אֶרֶץ וְיִירַשׁ הַר קָדְשִׁי [את הר יהודה]</p><p>תהלים טז3: &quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-20 05:00:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-20 05:50:07' 
+			WHERE messageid=5522;
+
