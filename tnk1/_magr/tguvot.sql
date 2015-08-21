@@ -4173,3 +4173,108 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-08-20 05:50:07' 
 			WHERE messageid=5522;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-20 09:21:21' 
+			WHERE messageid=5522;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/31-10.html',
+		'<p>אראל כתבתי תגובה כזאת אך היא נעלמה ולא מצאתיה</p><p>אז הנה אכתוב פעם שנית</p><p>משלי לא10 : &quot;אֵשֶׁת חַיִל מִי יִמְצָא וְרָחֹק מִפְּנִינִים מִכְרָהּ.&quot;</p><p>כי המִכְרָהּ [צור מחצבתה מלשון מכרה מחצבים] של אשת חיל לא מפנינים אלא מהחכמה</p><p> איוב כח18: &quot;רָאמוֹת וְגָבִישׁ לֹא יִזָּכֵר וּמֶשֶׁךְ חָכְמָה מִפְּנִינִים   </p><p>משלי ג15: &quot;יְקָרָה הִיא מפניים[מִפְּנִינִים]  וְכָל חֲפָצֶיךָ לֹא יִשְׁווּ בָהּ&quot;</p><p>  משלי ח11: &quot;כִּי טוֹבָה חָכְמָה מִפְּנִינִים וְכָל חֲפָצִים לֹא יִשְׁווּ בָהּ&quot; </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-21 02:55:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/31-10.html',
+		'<p>אראל כתבתי תגובה כזאת אך היא נעלמה ולא מצאתיה</p><p>אז הנה אכתוב פעם שנית</p><p>משלי לא10 : &quot;אֵשֶׁת חַיִל מִי יִמְצָא וְרָחֹק מִפְּנִינִים מִכְרָהּ.&quot;</p><p>כי המִכְרָהּ [צור מחצבתה מלשון מכרה מחצבים] של אשת חיל לא מפנינים אלא מהחכמה</p><p> איוב כח18: &quot;רָאמוֹת וְגָבִישׁ לֹא יִזָּכֵר וּמֶשֶׁךְ חָכְמָה מִפְּנִינִים   </p><p>משלי ג15: &quot;יְקָרָה הִיא מפניים[מִפְּנִינִים]  וְכָל חֲפָצֶיךָ לֹא יִשְׁווּ בָהּ&quot;</p><p>  משלי ח11: &quot;כִּי טוֹבָה חָכְמָה מִפְּנִינִים וְכָל חֲפָצִים לֹא יִשְׁווּ בָהּ&quot; </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-21 06:13:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום אני במצב מאוד בעייתי בחיי אני חייב כרגע לאנשים בריבית הרבה כסף שהם לוקחים לי 10 אחוזים בחודש על החוב וזה לא יורד אני זקוק ל40000 שקלים בשביל לסגור אותם עם תיהיה אפשרות כלשהו לפגישה או שתחזרו אליי אשמח מוכן לתשלומים נוחים שלא יכבד עליי כמובן 0528877400 ...תודה </p>',
+		'102586731264979429338',
+		'meir benisho',
+		'2015-08-21 06:15:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום אני במצב מאוד בעייתי בחיי אני חייב כרגע לאנשים בריבית הרבה כסף שהם לוקחים לי 10 אחוזים בחודש על החוב וזה לא יורד אני זקוק ל40000 שקלים בשביל לסגור אותם עם תיהיה אפשרות כלשהו לפגישה או שתחזרו אליי אשמח מוכן לתשלומים נוחים שלא יכבד עליי כמובן 0528877400 ...תודה </p>',
+		'102586731264979429338',
+		'meir benisho',
+		'2015-08-21 06:15:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום אני במצב מאוד בעייתי בחיי אני חייב כרגע לאנשים בריבית הרבה כסף שהם לוקחים לי 10 אחוזים בחודש על החוב וזה לא יורד אני זקוק ל40000 שקלים בשביל לסגור אותם עם תיהיה אפשרות כלשהו לפגישה או שתחזרו אליי אשמח מוכן לתשלומים נוחים שלא יכבד עליי כמובן 0528877400 ...תודה </p>',
+		'102586731264979429338',
+		'meir benisho',
+		'2015-08-21 06:15:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום אני במצב מאוד בעייתי בחיי אני חייב כרגע לאנשים בריבית הרבה כסף שהם לוקחים לי 10 אחוזים בחודש על החוב וזה לא יורד אני זקוק ל40000 שקלים בשביל לסגור אותם עם תיהיה אפשרות כלשהו לפגישה או שתחזרו אליי אשמח מוכן לתשלומים נוחים שלא יכבד עליי כמובן 0528877400 ...תודה </p>',
+		'102586731264979429338',
+		'meir benisho',
+		'2015-08-21 06:16:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-21 06:17:18' 
+			WHERE messageid=5524;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-21 06:17:40' 
+			WHERE messageid=5524;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/lenyym.html',
+		'<p>שלום אני במצב מאוד בעייתי בחיי אני חייב כרגע לאנשים בריבית הרבה כסף שהם לוקחים לי 10 אחוזים בחודש על החוב וזה לא יורד אני זקוק ל40000 שקלים בשביל לסגור אותם עם תיהיה אפשרות כלשהו לפגישה או שתחזרו אליי אשמח מוכן לתשלומים נוחים שלא יכבד עליי כמובן 0528877400 ...תודה </p>',
+		'102586731264979429338',
+		'meir benisho',
+		'2015-08-21 06:18:27'
+		)
+		;
+
