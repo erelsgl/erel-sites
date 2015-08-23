@@ -186,3 +186,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יג5', 'דתן ואבירם - ורשע יבאיש ויחפיר', '', 40, 60, '2015-08-14 07:14:21');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('עצות צדק', 'ביאור:משלי יג21', 'לרדוף אחרי חטאים, לשלם שכר טוב לצדיקים', '', 60, 60, '2015-08-23 04:48:04');
+
