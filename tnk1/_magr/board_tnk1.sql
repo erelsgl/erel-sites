@@ -5510,3 +5510,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-08-21 09:57:36'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_62.html',
+				NULL,
+				'2015-08-23 08:14:43',
+				'2015-08-23 08:14:43',
+				'והוא במלכים יתקלס ורזנים משחק לו',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-08-23 08:14:43'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0223.htm',
+				'tnk1/messages/prqim_t0223_3.html',
+				NULL,
+				'2015-08-23 10:44:21',
+				'2015-08-23 10:44:21',
+				'לא תבשל גדי בחלב אמו - שלוש פעמים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-23 10:45:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
