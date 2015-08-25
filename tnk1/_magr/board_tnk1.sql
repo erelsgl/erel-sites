@@ -5557,3 +5557,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-24 17:49:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-24 22:46:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_3.html'
+		;
+

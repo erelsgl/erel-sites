@@ -4290,3 +4290,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_3.html',
+		'<p>טענות אלה היו נכונות גם בזמן הרבמ&quot;ם, הלא כן? גם אז העבודה זרה שקעה, אז למה לקיים את כל המצוות שנגד ע&quot;ז? רק מה, הרמבם בא לתת טעמים, לא את כולם.</p><p>אגב, אברהם אבינו בישל את החלב עם הבשר?</p><p> </p>',
+		'113474016048053437056',
+		'אריאל גוגנהיים',
+		'2015-08-24 17:49:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_3.html',
+		'<p>הרמב&quot;ם העלה השערה, היום הדבר כמעט ודאי. חוץ מזה אני לא דן בלמה המשיכו לקיים דבר זה או אחר, שאלה שאחרים מוזמנים לעסוק בה, אלא באופן ההתייחסות המיטבי בעיניי לשלושה פסוקים בתורה.</p><p>שאלת האגב לא רלוונטית, לא כתוב שהוא בישל, אלא שהגיש, ומה בכך? לטעון שהגיש קודם חלב ורק אח&quot;כ בשר זה מאולץ בעיניי.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-24 22:46:24'
+		)
+		;
+
