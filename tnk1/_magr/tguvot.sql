@@ -4314,3 +4314,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_362.html',
+		'<p>ראוי לדעתי לציין כמויות.. וזה קצת מתמיה:</p><p>על הפסוק [שמות יג יח] &quot;וחמשים עלו בני ישראל מארץ מצרים&quot;. [רש&quot;י] אין חמושים אלא מזויינים… ד&quot;א אחד מחמשה יצאו ו 4 חלקים (80%) מתו בשלשת ימי אפילה. ועל הפסוק [יחזקאל כ ח] &quot;וימרו בי… ואומר לשפוך חמתי עליהם לכלות אפי בהם בתוך ארץ מצרים&quot; [רש&quot;י] &quot;וימרו בי&quot; הם הרשעים רובם של ישראל שמתו בשלשת ימי אפלה כמו שנאמר &quot;וחמושים עלו בני ישראל…&quot; אחד מחמשים ויש אומרים אחד מחמש מאות.</p>',
+		'111189796781412879683',
+		'Aryeh Tuchfeld',
+		'2015-08-25 22:56:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_63.html',
+		'<p>להרחבות על המאמר הזה ועוד, מוזמנים לבקר בבלוג שלי: לשון המקרא - אור חדש על שפה עתיקה</p><p>https://liebermanorna.wordpress.com/</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-26 07:00:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_62.html',
+		'<p>Several biblical words from the root </p><p>רדה (rdh) mean “rule “ (e.g. Gen 1:26, 28; Lev 25:43, 46, 53; 1 Ki 5:4, 30; 9:23; Is 14:2; EZe 34:4; Ps 72:8, 110:2; Neh 9:28; 2 Ch 8:10). This suggests the possibility that the Greek translator of the Book of Habakkuk assumed that here רזנים (roznim) is a ד (d) - ז (z) exchange error of רדנים (rodanim). Although such a word does not appear in the Bible, it became the term for “tyrants” in Modern Hebrew.</p><p>זאת היא הוספה של אבנר רמו למאמרו לעיל (לא תגובה של אורנה ליברמן)</p><p></p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-26 07:03:26'
+		)
+		;
+
