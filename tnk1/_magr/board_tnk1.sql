@@ -5643,3 +5643,154 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-08-26 07:05:48'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:25:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:32:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:48:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:48:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:48:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t26a4.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t26a4_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `board_tnk1` (`ktovt_av`, `sug`, `created_at`, `newest_child_created_at`, `ktovt_bn`, `kotrt`, `m`, `l`, `sdr_bn`) VALUES ('tnk1/prqim/t26a4.htm', '×ª×’×•×‘×”', '2009-03-04', NULL, 'tnk1/messages/prqim_t26a4_1.html', '×œ×•×— ×”×©×ž×© ×•×œ×•×— ×”×™×¨×—', '×ž×•×¨×” ×œ×ª×•×¨×” ×ž×©×” ×“×™×Ÿ', 'DAIAN1 @ 013.NET', 60);
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 08:52:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 13:53:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 14:45:23'
+		WHERE ktovt_bn='tnk1/tora/jmot/mvne_hdbrot_h.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 16:08:18'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 16:23:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 16:28:22'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 16:50:23'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-26 17:55:08'
+		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_718.html',
+				NULL,
+				'2015-08-26 18:05:42',
+				'2015-08-26 18:05:42',
+				'ôøùú ëé úöà- îîìçîä ìâàåìä,äëéöã?/îàú: àäåáä ÷ìééï',
+				'àäåáä ÷ìééï.',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-08-26 18:05:42'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-27 07:00:57'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_63.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-27 07:41:07'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_63.html'
+		;
+

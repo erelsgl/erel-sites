@@ -4350,3 +4350,253 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>בלוח השמש לממשלת היום ספירת הימים היא מזריחה עד זריחה</p><p>ובלוח הירח לממשלת הלילה ספירת הימים היא מ-ערב עד ערב</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 08:25:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>בלוח השמש לממשלת היום ספירת הימים היא מזריחה עד זריחה</p><p>ובלוח הירח לממשלת הלילה ספירת הימים היא מ-ערב עד ערב</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 08:32:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 08:32:45' 
+			WHERE messageid=5537;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>ניסיון ...............</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 08:48:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>ניסיון ...............</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 08:48:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 08:48:46' 
+			WHERE messageid=5539;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 08:48:48' 
+			WHERE messageid=5538;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-08-26 08:48:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 08:49:10' 
+			WHERE messageid=5540;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-08-26 08:52:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 08:52:49' 
+			WHERE messageid=5541;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>364*6=2184</p><p>364+8=372 ימים בשנת שמיטה</p><p>ובכל 49 שנות היובל 17892 ימים</p><p>לפי ספירת היובלים</p><p>שמונת ימי מילואים [צו 8] יחלו בראשית שנת השבע</p><p>גם שנת היובל היא כמובן שנת שבע לאמור בשפת היובלים שנת 7+1</p><p>ואם השנה הראשונה ליציאת בני ישראל ממצרים הייתה בשנת 2450</p><p>לכן השנה השנית בה הוקם המשכן היא שנת 2451 שהיא שנת יובל</p><p>ובשנת היובל הזאת ככל שבע שנים אשר יחלו בראשית שמונת ימי המילואים </p><p>צו 8 = רמז לפרשת שמיני אחרי פרשת צו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 13:53:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/mvne_hdbrot_h.html',
+		'<p>הרב משה, ממש נהנתי. תודה</p>',
+		'114699194673206296707',
+		'shlomy b',
+		'2015-08-26 14:45:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p></p><p>יום חמשי ראש חודש ניסן עדי יום חמשי כולל </p><p>לאמור מיום חמישי לשבוע + שבעת ימי מילואים + היום השמיני הוא יום חמישי הבא </p><p>ואחרי כן + 12 ימי חנוכת המזבח לאמור בעשרים בחודש ניסן ואיפה חג הפסח</p><p>לא יתכן שעשו חג פסח בתוך ימי חנוכת מזבח המשכן</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 16:08:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_1.html',
+		'<p>364*6=2184</p><p>364+8=372 ימים בשנת שמיטה</p><p>ובכל 49 שנות היובל 17892 ימים</p><p>לפי ספירת היובלים</p><p>שמונת ימי מילואים [צו 8] יחלו בראשית שנת השבע</p><p>גם שנת היובל היא כמובן שנת שבע לאמור בשפת היובלים שנת 7+1</p><p>ואם השנה הראשונה ליציאת בני ישראל ממצרים הייתה בשנת 2450</p><p>לכן השנה השנית בה הוקם המשכן היא שנת 2451 שהיא שנת יובל</p><p>ובשנת היובל הזאת כבכל שבע שנים אשר יחלו בראשית שמונת ימי המילואים</p><p>צו 8 = רמז לפרשת שמיני אחרי פרשת צו</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 16:23:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 16:23:11' 
+			WHERE messageid=5542;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>המשכן הוקם באחד-עשר לחודש ניסן</p><p>זה ראש חודש האביב לשמש על פי לוח היובלים</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 16:28:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 16:29:02' 
+			WHERE messageid=5546;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>במדבר ז1: &quot;וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כָּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כָּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם&quot;</p><p>במדבר ז2: &quot;וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים&quot;</p><p>במדבר ז3: &quot;וַיָּבִיאוּ אֶת קָרְבָּנָם לִפְנֵי יהוה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן&quot;</p><p>--------------</p><p>ימי המילואים החלו לפני הקמת המשכן</p><p>כי לא יכול להיות לחשב 8 ימים + 12 ימי חנוכת המזבח עד  20 לחודש ואיפה חג הפסח</p><p>לא יתכן שעשו חג פסח בתוך ימי חנוכת מזבח המשכן</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 16:50:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 16:50:25' 
+			WHERE messageid=5544;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p> גם לפי לוח היובלים</p><p>האות ביום ששי וראש החודש ביום שבת</p><p>והחמישה-עשר לחודש ביום שבת</p><p>בליל שבת זבחו הפסח במצרים</p><p>וחג המצות בחמשה-עשר לחודש יצאו בני ישראל מארץ מצרים</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-26 17:55:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-26 17:56:16' 
+			WHERE messageid=5548;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-27 02:37:50' 
+			WHERE messageid=5548;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_63.html',
+		'<p>למתעניינים בעדותו של תומסון, אפשר לקרוא את ספרו במלואו ולראות את האיורים בקישורית הבאה:</p><p>https://books.google.co.uk/books?id=2DUHAAAAQAAJ&amp;printsec=frontcover&amp;hl=iw#v=onepage&amp;q&amp;f=false</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-27 07:00:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_63.html',
+		'<p>למשל, בנוגע לפסוק על רות שליקטה שיבולים בשדהו של בועז, וַתְּלַקֵּט בַּשָּׂדֶה, עַד-הָעָרֶב; וַתַּחְבֹּט אֵת אֲשֶׁר-לִקֵּטָה, וַיְהִי כְּאֵיפָה שְׂעֹרִים (רות ב:יז), תומסון מספר בספרו, שלעתים קרובות ובאזורים רבים של הארץ, הזדמן לו לראות נשים, צעירות ומבוגרות, עניות שהיו חובטות תבואה שהורשו ללקט, במקל או באבן, בצדי הדרכים.  </p><p> </p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-27 07:41:07'
+		)
+		;
+
