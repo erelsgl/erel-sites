@@ -4600,3 +4600,89 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>מזל טוב חגי ליציאת ספרך החדש!!!</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-27 10:52:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-30-13.html',
+		'<p> הנה עדכון</p><p>*** היום 27 לאוגוסט 2015 ***</p><p>מחיר 1 אונקיית כסף = 57 ש&quot;ח</p><p>מחיר 5 אונקיות כסף = 286 ש&quot;ח = רבע שקל כסף אשר יש לתת לנביא לדרוש אלהים</p><p>מחיר 10 אונקיות כסף = 570 ש&quot;ח = מחצית השקל = זה כסף הכפורים אשר יש לתת ביום הכפורים לכפר על נפשותיכם</p><p>מחיר 20 אונקיות כסף = 1140 ש&quot;ח זה שוויו של 1 שקל הקודש </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-27 11:26:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-30-13.html',
+		'<p>את מפקד האוכלוסין יש לעשות לאחר שבני ישראל נתנו את כסף הכפורים מחצית השקל ביום הכפורים</p><p>ואז לאחר יום הכפורים ולפני חג הסכות ניתן לעשות את מפקד האוכלוסין</p><p>כי חג הסכות הוא ראשית שנת האדמה ונכון לעשות מפקד שנתי בראש השנה לאדמה ולשמיטה וליובל</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-27 11:33:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-30-13.html',
+		'<p>הנה עדכון</p><p>*** היום 27 לאוגוסט 2015 ***</p><p>מחיר 1 אונקיית כסף = 57 ש&quot;ח</p><p>מחיר 5 אונקיות כסף = 286 ש&quot;ח = רבע שקל כסף אשר יש לתת לנביא לדרוש אלהים</p><p>מחיר 10 אונקיות כסף = 570 ש&quot;ח = מחצית השקל = זה כסף הכפורים אשר יש לתת ביום הכפורים לכפר על נפשותיכם</p><p>מחיר 20 אונקיות כסף = 1140 ש&quot;ח זה שוויו של 1 שקל הקודש</p><p>------------------------------------------------------------------------------------</p><p>את מפקד האוכלוסין יש לעשות לאחר שבני ישראל נתנו את כסף הכפורים מחצית השקל ביום הכפורים</p><p>ואז לאחר יום הכפורים ולפני חג הסכות ניתן לעשות את מפקד האוכלוסין</p><p>כי חג הסכות הוא ראשית שנת האדמה ונכון לעשות מפקד שנתי בראש השנה לאדמה ולשמיטה וליובל</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-08-27 11:36:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-27 11:36:03' 
+			WHERE messageid=5553;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-27 11:36:07' 
+			WHERE messageid=5552;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>תודה אורנה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-27 11:52:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>שייחטפו העותקים ממדפי החנויות כלחמניות חמות!!!</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-08-28 07:24:28'
+		)
+		;
+
