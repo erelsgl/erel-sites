@@ -4686,3 +4686,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>הלוואי! תודה אורנה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-28 08:56:32'
+		)
+		;
+

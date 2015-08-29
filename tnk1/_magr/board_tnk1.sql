@@ -5904,3 +5904,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-08-28 07:27:32'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-08-28 08:56:32'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hoffer_index_3.html'
+		;
+
