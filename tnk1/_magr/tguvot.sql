@@ -4698,3 +4698,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>יישר כוחך. שתזכה להגדיל תורה ולהאדירה.</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-08-30 07:21:42'
+		)
+		;
+
