@@ -4710,3 +4710,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_index_3.html',
+		'<p>תודה אראל</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-08-30 09:51:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-20.html',
+		'<p>צדק צדק תרדוף למען תחיה       יש כאן  התנייה שאם לא  תירדוף פשוט תמות</p><p> וירשת את הארץ אשר ה אלוהך נתן לך    התנייה שנייה            שאם לא       את הירושה שלך יקבלו אחרים</p><p>חשיבות הצדק בעיני  אלוהים היא מוחלטת   בלי צדק חייך ילקחו אבל קודם כל תוגלה מהארץ בדיוק כפי שקרה לעם ישראל</p><p>לפני שלושת החורבנות  586  70  135 אלא הם תאריכי החורבנות</p><p>אנחנו אומנם חזרנו  האם למדנו מהאסונות  בעבר        כל אחד יחשוב כל יום על מעשיו במיוחד השופטים חייהם שלהם מונחת בכפיהם</p>',
+		'103492067372850325276',
+		'Yosef Wodeslavsky',
+		'2015-08-30 13:31:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-20.html',
+		'<p>צדק צדק תרדוף למען תחיה       יש כאן  התנייה שאם לא  תירדוף פשוט תמות</p><p> וירשת את הארץ אשר ה אלוהך נתן לך    התנייה שנייה            שאם לא       את הירושה שלך יקבלו אחרים</p><p>חשיבות הצדק בעיני  אלוהים היא מוחלטת   בלי צדק חייך ילקחו אבל קודם כל תוגלה מהארץ בדיוק כפי שקרה לעם ישראל</p><p>לפני שלושת החורבנות  586  70  135 אלא הם תאריכי החורבנות</p><p>אנחנו אומנם חזרנו  האם למדנו מהאסונות  בעבר        כל אחד יחשוב כל יום על מעשיו במיוחד השופטים חייהם שלהם מונחת בכפיהם</p>',
+		'103492067372850325276',
+		'Yosef Wodeslavsky',
+		'2015-08-30 13:40:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-08-31 04:44:40' 
+			WHERE messageid=5560;
+
