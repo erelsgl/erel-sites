@@ -4832,3 +4832,43 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-01 14:29:19' 
+			WHERE messageid=5567;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-01 14:29:24' 
+			WHERE messageid=5566;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-01 14:29:26' 
+			WHERE messageid=5565;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-01 14:29:29' 
+			WHERE messageid=5564;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>ויקרא ח3: &quot;וְאֵת כָּל הָעֵדָה הַקְהֵל אֶל פֶּתַח אֹהֶל מוֹעֵד&quot; ולא כתוב אל פתח המשכן כי טרם הוקם חצר המשכן</p><p>לאמור כי שמונת ימי המילואים היו לפני [ובסמוך] ליום האחד בחודש הראשון</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-02 05:50:17'
+		)
+		;
+

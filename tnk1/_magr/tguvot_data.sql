@@ -1478,3 +1478,50 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvia/yrmyhu/yr-17-07.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-09-01 14:29:19'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-17-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-09-01 14:29:24'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-17-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-09-01 14:29:26'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-17-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-09-01 14:29:29'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-17-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/wyqra/yom8_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-09-02 05:50:17'
+		WHERE parent='tnk1/tora/wyqra/yom8_1.html'
+		;
+

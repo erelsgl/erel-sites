@@ -6061,3 +6061,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-08-31 20:55:43'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-02 05:50:17'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
