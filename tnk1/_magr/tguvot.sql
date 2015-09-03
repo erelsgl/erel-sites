@@ -4872,3 +4872,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>ויקרא ח3: &quot;וְאֵת כָּל הָעֵדָה הַקְהֵל אֶל פֶּתַח אֹהֶל מוֹעֵד&quot; ולא כתוב אל פתח המשכן כי טרם הוקם חצר המשכן</p><p>לאמור כי שמונת ימי המילואים היו לפני [ובסמוך] ליום האחד בחודש הראשון</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-02 08:39:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-02 08:44:35' 
+			WHERE messageid=5569;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>דעו נא כי שתיית מים או רחצה במים </p><p>תעשה אחרי אכילת אוכל ולא לפני כן</p><p>אם מתרחצים או שותים מים אז באה רוח אלהים עליך</p><p>ורוח אלהים היא כתורת אלהים משיבת נפש ואין להוסיף או לגרוע מרוח התורה הזאת</p><p>ואם חלילה אכלת לאחר שתיית מים או רחצה במים אז למעשה הוספת לשוא וגרעת מרוח תורת אלהים</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-02 11:24:34'
+		)
+		;
+
