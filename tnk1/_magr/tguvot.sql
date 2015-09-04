@@ -4903,3 +4903,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>איוב לז10: &quot;מִנִּשְׁמַת אֵל יִתֶּן קָרַח וְרֹחַב מַיִם בְּמוּצָק&quot;</p><p>רבותי אם נִּשְׁמַת אֵל בכם אל תתפשרו לעשות פשרות</p><p>אם הקָרַח יתפשר ויפשיר הוא יאבד ולא יהיה קָרַח עוד</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-03 09:57:54'
+		)
+		;
+
