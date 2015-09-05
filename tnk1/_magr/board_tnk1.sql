@@ -6159,3 +6159,42 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_102.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_67.html',
+				NULL,
+				'2015-09-04 12:48:05',
+				'2015-09-04 12:48:05',
+				'שבילי עולם, דרך הטוב',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-04 12:48:05'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-04 13:33:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-04 17:51:49'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_102.html'
+		;
+

@@ -4915,3 +4915,48 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>איוב לז10: &quot;מִנִּשְׁמַת אֵל יִתֶּן קָרַח וְרֹחַב מַיִם בְּמוּצָק&quot;</p><p>רבותי אם נִּשְׁמַת אֵל בכם אל תתפשרו לעשות פשרות</p><p>אם הקָרַח יתפשר ויפשיר הוא יאבד ולא יהיה קָרַח עוד</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-04 13:33:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-04 13:33:57' 
+			WHERE messageid=5572;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_102.html',
+		'<p>נסיון</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2015-09-04 17:51:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-04 17:52:19' 
+			WHERE messageid=5573;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-04 17:52:47' 
+			WHERE messageid=5573;
+
