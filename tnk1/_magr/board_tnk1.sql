@@ -6198,3 +6198,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_102.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-05 12:45:54'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_74.html',
+				NULL,
+				'2015-09-05 19:48:07',
+				'2015-09-05 19:48:07',
+				'על \"עמוס - הנביא מתקוע\" מאת רפאל לוין',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

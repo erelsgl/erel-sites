@@ -4960,3 +4960,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-04 17:52:47' 
 			WHERE messageid=5573;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לגנית בת יפה שתהיה לידה קלה מבקש אבא אורי.</p><p></p>',
+		'112855744661656884735',
+		'פנינה לזרוביץ',
+		'2015-09-05 12:45:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-06 05:17:36' 
+			WHERE messageid=5572;
+

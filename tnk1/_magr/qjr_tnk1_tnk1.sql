@@ -190,3 +190,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('עצות צדק', 'ביאור:משלי יג21', 'לרדוף אחרי חטאים, לשלם שכר טוב לצדיקים', '', 60, 60, '2015-08-23 04:48:04');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('נבואות מקבילות לפסוקי משלי', 'ביאור:משלי ב9', 'צדק משפט מישרים ומעגלים', '', 60, 60, '2015-09-05 18:15:36');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'ישעיהו: צדק משפט מישרים ומעגלים', `tarik_hosfa` = '2015-09-05 18:15:46' WHERE `av` = 'נבואות מקבילות לפסוקי משלי' AND `bn` = 'ביאור:משלי ב9' AND 1 LIMIT 1;
+
