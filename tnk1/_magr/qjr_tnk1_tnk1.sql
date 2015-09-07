@@ -198,3 +198,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'ישעיהו: צדק משפט מישרים ומעגלים', `tarik_hosfa` = '2015-09-05 18:15:46' WHERE `av` = 'נבואות מקבילות לפסוקי משלי' AND `bn` = 'ביאור:משלי ב9' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יד2', 'שלמה: הולך ביושרו ירא ה\'?', '', 10, 60, '2015-09-07 07:03:11');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'שלמה - הולך ביושרו ירא ה\'?', `tarik_hosfa` = '2015-09-07 07:03:18' WHERE `av` = 'סיפורים מקבילים לפסוקי משלי' AND `bn` = 'ביאור:משלי יד2' AND 1 LIMIT 1;
+
