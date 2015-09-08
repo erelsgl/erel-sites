@@ -6245,3 +6245,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-09-07 06:32:51'
 			WHERE ktovt_bn='tnk1/klli/mdrjim/tlmud.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-07 17:38:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-07 17:39:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-07 17:45:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+

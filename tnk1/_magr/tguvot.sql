@@ -4979,3 +4979,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-06 05:17:36' 
 			WHERE messageid=5572;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>על פי לוח השמש </p><p>שבעה שבועות + שבוע ימים = סה&quot;כ 8 שבועות שהם 56 ימים</p><p>56 יום מהראשון לחודש הראשון עד 27 לחודש השני זה חג השבועות</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-07 17:38:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>על פי לוח השמש</p><p>שבעה שבועות + שבוע ימים = סה&quot;כ 8 שבועות שהם 56 ימים</p><p>56 יום מיום 1 לחודש הראשון עד 27 לחודש השני הוא חג השבועות</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-07 17:39:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-07 17:39:49' 
+			WHERE messageid=5575;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>על פי לוח השמש</p><p>שבעה שבועות + שבוע ימים = סה&quot;כ 8 שבועות שהם 56 ימים</p><p>8 שבועות מיום אחד לשבוע מיום ראשון לחודש הראשון</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-07 17:45:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-07 17:45:39' 
+			WHERE messageid=5576;
+
