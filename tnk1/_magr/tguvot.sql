@@ -5029,3 +5029,70 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-07 17:45:39' 
 			WHERE messageid=5576;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlaka.html',
+		'<p>לפי דעתי המאמר צודק ברובו חוץ מההסבר הדחוק של צחי צויג,  לא מבין למה נצרכתם אליו,  ההסבר של - מתן תפקיד לחומרי גלם- גם אם התפקיד הוא אך ורק מיידי הוא הסבר מספיק טוב.  ולראייה נאסר חיתוך נייר טואלט בשבת כי לפני החיתוך אותה פיסת נייר לא הייתה יכולה לשמש לניקוי ואילו לאחר החיתוך יצרת לה תפקיד,  שהוא ניקוי (שכמובן לרוב הנייר נחתך בשביל שימוש מיידי ולא לטווח הארוך) </p>',
+		'100945912673672385707',
+		'Amir Hoze',
+		'2015-09-08 20:25:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>חלמתי חלום כי רוח האלהים באדם התפצלה בכל בני האדם</p><p>ורק אם נהיה מאוחדים יהיה אלהים בכולנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot; </p><p>קהלת ג11: </p><p>&quot;אֶת הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ גַּם אֶת הָעֹלָם נָתַן בְּלִבָּם מִבְּלִי אֲשֶׁר לֹא יִמְצָא הָאָדָם אֶת הַמַּעֲשֶׂה אֲשֶׁר עָשָׂה הָאֱלֹהִים מֵרֹאשׁ וְעַד סוֹף&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-09 03:21:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlaka.html',
+		'<p>אומנות האומן באמונה</p><p>ומלאכת המלאך במלאכות</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-09 03:30:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlaka.html',
+		'<p>אומנות האומן באמונה</p><p>ומלאכת המלאך במלאכות</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-09 05:01:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>חלמתי חלום כי רוח האלהים באדם התפצלה בכל בני האדם</p><p>ורק אם נהיה מאוחדים יהיה אלהים בכולנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot; </p><p>קהלת ג11: </p><p>&quot;אֶת הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ גַּם אֶת הָעֹלָם נָתַן בְּלִבָּם מִבְּלִי אֲשֶׁר לֹא יִמְצָא הָאָדָם אֶת הַמַּעֲשֶׂה אֲשֶׁר עָשָׂה הָאֱלֹהִים מֵרֹאשׁ וְעַד סוֹף&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-09 05:01:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-09 05:03:28' 
+			WHERE messageid=5581;
+
