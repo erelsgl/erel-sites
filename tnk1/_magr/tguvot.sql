@@ -5096,3 +5096,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-09 05:03:28' 
 			WHERE messageid=5581;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>חלמתי חלום כי רוח האלהים באדם התפצלה בכל בני האדם</p><p>ורק אם נהיה מאוחדים יהיה אלהים בכולנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot; </p><p>קהלת ג11: </p><p>&quot;אֶת הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ גַּם אֶת הָעֹלָם נָתַן בְּלִבָּם מִבְּלִי אֲשֶׁר לֹא יִמְצָא הָאָדָם אֶת הַמַּעֲשֶׂה אֲשֶׁר עָשָׂה הָאֱלֹהִים מֵרֹאשׁ וְעַד סוֹף&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-09 08:40:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-09 12:13:25' 
+			WHERE messageid=5583;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_20.html',
+		'<p>שלום. קראתי את הספר הזה במקרה,הוא מעניין מאד כמובן שיש דברים מקצועיעים שלא הבנתי אולם קראתי אותו עד הסוף.הסוף קילקל לי את הטעם.היות והמחבר מכנה את יהודה ושומרון כשטח כיבוש.נראה לי שחלק מהדמויות שהוא מתאר בספרו חיו שם.למה להכניס נימה פוליטית לספר מעולה.</p>',
+		'112061013159910906968',
+		'Dani Soffer',
+		'2015-09-09 15:59:26'
+		)
+		;
+
