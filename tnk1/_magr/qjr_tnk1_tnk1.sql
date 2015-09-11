@@ -206,3 +206,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'שלמה - הולך ביושרו ירא ה\'?', `tarik_hosfa` = '2015-09-07 07:03:18' WHERE `av` = 'סיפורים מקבילים לפסוקי משלי' AND `bn` = 'ביאור:משלי יד2' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('דוד לעומת שלמה - תהלים לעומת משלי', 'ביאור:משלי יד15', 'פתי יאמין - שומר פתאים', '', 10, 60, '2015-09-11 06:34:09');
+
