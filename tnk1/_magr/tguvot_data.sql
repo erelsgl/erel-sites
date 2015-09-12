@@ -1837,3 +1837,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/sig_9sfr_20.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sig_9sfr_74.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-09-11 12:32:02'
+		WHERE parent='tnk1/messages/sig_9sfr_74.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_index_68.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-09-11 12:42:36'
+		WHERE parent='tnk1/messages/sofrim_index_68.html'
+		;
+

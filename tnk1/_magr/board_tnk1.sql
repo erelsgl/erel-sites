@@ -6463,3 +6463,196 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-09-11 04:25:23'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/mnh2.html',
+				'tnk1/messages/ljon_jorj_mnh2_0.html',
+				NULL,
+				'2015-09-11 10:25:13',
+				'2015-09-11 10:25:13',
+				'מה זה מחספס? ואיך נראה המן?',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-11 12:32:02'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_74.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_68.html',
+				NULL,
+				'2015-09-11 12:37:16',
+				'2015-09-11 12:37:16',
+				'מה בין שיבולת לשיבולת, מה בין משבר לשבר',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 12:37:16'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-11 12:42:36'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_68.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/to_jerusalem.pdf',
+				NULL,
+				'2015-09-11 15:21:48',
+				'2015-09-11 15:21:48',
+				'To Jerusalem',
+				'אבנר רמו',
+				'To Jerusalem'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 15:21:48'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/daniel___jehoiachin.pdf',
+				NULL,
+				'2015-09-11 16:49:44',
+				'2015-09-11 16:49:44',
+				'Daniel = Jehoiachin',
+				'אבנר רמו',
+				'Daniel = Jehoiachin'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 16:49:44'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/a_place_named_beer_sheba.pdf',
+				NULL,
+				'2015-09-11 17:03:09',
+				'2015-09-11 17:03:09',
+				'A place named Beer-Sheba',
+				'אבנר רמו',
+				'A place named Beer-Sheba'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 17:03:09'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/was_samuel_a_prophet_or_a_judge.pdf',
+				NULL,
+				'2015-09-11 17:33:48',
+				'2015-09-11 17:33:48',
+				'Was Samuel a prophet or a judge ',
+				'אבנר רמו',
+				'Was Samuel a prophet or a Judge'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 17:33:48'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/eshbaal_king_of_israel.pdf',
+				NULL,
+				'2015-09-11 20:10:57',
+				'2015-09-11 20:10:57',
+				'Eshbaal King of Israel',
+				'אבנר רמו',
+				'Eshbaal king of Israel'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 20:10:57'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/crossing_of_the_sea.pdf',
+				NULL,
+				'2015-09-11 20:45:48',
+				'2015-09-11 20:45:48',
+				'Crossing of the Sea',
+				'אבנר רמו',
+				'Crossing of the Sea'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-11 20:45:48'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

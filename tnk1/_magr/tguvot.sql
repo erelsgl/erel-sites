@@ -5127,3 +5127,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_74.html',
+		'<p>תודה רבה חגי על עוד ביקורת מעניינת בסדרה הארוכה של ביקורותיך. הבעת התקווה שהספר המחדש יזכה ליחס ראוי מובנת מאוד: אנשי אקדמיה ושאר מכובדי כיסאות מתעלמים בדרך כלל מחוקרים עצמאיים הנהנים מהזכות לחשוב חשיבה לא מקובלת, יצירתית ומרעננת. </p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-09-11 12:32:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_index_68.html',
+		'<p>המאמר מבוסס על הרעיונות המובעים בספרי, שפת התנ&quot;ך כבבואת סיפור הבריאה, הוצאת סלע, זמין גם בגרסה אלקטרונית בהוצאת מנדלי ובהוצאת עברית. קוראי האתר מוזמנים לבקר בבלוג &quot;לשון המקרא - אור חדש על שפה עתיקה&quot; הכולל גם הוא הרחבות ופיתוחים על אותו בסיס.</p><p>https://liebermanorna.wordpress.com/</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-09-11 12:42:36'
+		)
+		;
+
