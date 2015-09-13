@@ -5151,3 +5151,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_74.html',
+		'<p>תודה אורנה, מסכים לדברייך</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-09-12 16:21:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-12 17:33:54' 
+			WHERE messageid=5582;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-03-03.html',
+		'<p>שמואל ב כא17: </p><p>&quot;וַיַּעֲזָר לוֹ אֲבִישַׁי בֶּן צְרוּיָה וַיַּךְ אֶת הַפְּלִשְׁתִּי וַיְמִיתֵהוּ אָז נִשְׁבְּעוּ אַנְשֵׁי דָוִד לוֹ לֵאמֹר לֹא תֵצֵא עוֹד אִתָּנוּ לַמִּלְחָמָה וְלֹא תְכַבֶּה אֶת נֵר יִשְׂרָאֵל&quot;</p><p>וְנֵר אֱלֹהִים = נֵר יִשְׂרָאֵל = הוא נר צדיק הדור = משלי כ27: &quot;נֵר יהוה נִשְׁמַת אָדָם חֹפֵשׂ כָּל חַדְרֵי בָטֶן&quot; </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-12 17:57:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_75.html',
+		'<p>נהניתי מאוד מקריאת המאמר. סקירת הרעיונות המופיעים בספר בתוספת הבעת דעתך - שילוב מוצלח מאוד.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-09-13 07:33:26'
+		)
+		;
+
