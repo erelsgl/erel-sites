@@ -6995,3 +6995,188 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sig_9sfr_75.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-13 08:35:23'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_75.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t26a0.htm',
+				'tnk1/messages/megl_weygwl_dew_ky_yhwh_hwa_alhym.pdf',
+				NULL,
+				'2015-09-13 12:36:30',
+				'2015-09-13 12:36:30',
+				'בשיחזור מעגל ועיגול דעו כי יהוה הוא אלהים',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/tabernacle__its_coverings.pdf',
+				NULL,
+				'2015-09-13 17:37:05',
+				'2015-09-13 17:37:05',
+				'Tabernacle and it coverings',
+				'אבנר רמו',
+				'Tabernacle and it coverings'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 17:37:05'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_cherethites_and_the_pelethites.pdf',
+				NULL,
+				'2015-09-13 18:38:18',
+				'2015-09-13 18:38:18',
+				'The Cherethites and the Pelethites',
+				'אבנר רמו',
+				'The Cherethites and the Pelethites'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 18:38:18'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_shifting_promised_land.pdf',
+				NULL,
+				'2015-09-13 18:48:35',
+				'2015-09-13 18:48:35',
+				'The Promised Land',
+				'אבנר רמו',
+				'The Promised Land'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 18:48:35'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_rods_of_moses_and_aaron.pdf',
+				NULL,
+				'2015-09-13 19:05:53',
+				'2015-09-13 19:05:53',
+				'The rods of Moses and Aaron',
+				'אבנר רמו',
+				'The rods of Moses and Aaron'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 19:05:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/tyrannos.pdf',
+				NULL,
+				'2015-09-13 19:18:18',
+				'2015-09-13 19:18:18',
+				'Tyrants',
+				'אבנר רמו',
+				'Tyrants'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 19:18:18'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/tyre_s_ships.pdf',
+				NULL,
+				'2015-09-13 20:10:40',
+				'2015-09-13 20:10:40',
+				'Tyre\'s ships',
+				'אבנר רמו',
+				'Tyre\'s ships'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 20:10:40'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/urim_and_thummim.pdf',
+				NULL,
+				'2015-09-13 21:10:52',
+				'2015-09-13 21:10:52',
+				'Urim and Thummim',
+				'אבנר רמו',
+				'Urim and Thummim'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-13 21:10:52'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

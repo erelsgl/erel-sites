@@ -5194,3 +5194,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_75.html',
+		'<p>תודה רבה אורנה ושנה טובה!</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-09-13 08:35:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-13 09:24:01' 
+			WHERE messageid=5583;
+
