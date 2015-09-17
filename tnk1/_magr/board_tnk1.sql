@@ -7196,3 +7196,26 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_battle_of_jericho.pdf',
+				NULL,
+				'2015-09-16 18:45:53',
+				'2015-09-16 18:45:53',
+				'The battle of Jericho',
+				'абрш шое',
+				'The battle of Jericho'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-16 18:45:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
