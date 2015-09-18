@@ -5213,3 +5213,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-13 09:24:01' 
 			WHERE messageid=5583;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-02-14.html',
+		'<p>-</p><p>--------------------------------------------------------------------------------------------אתר טובב</p><p>-----------------------</p><p>-</p><p>-</p>',
+		'106251374492411630063',
+		'שילת בן סימון',
+		'2015-09-17 14:39:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-17 14:39:44' 
+			WHERE messageid=5591;
+
