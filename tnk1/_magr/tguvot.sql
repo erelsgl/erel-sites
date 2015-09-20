@@ -5232,3 +5232,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-09-17 14:39:44' 
 			WHERE messageid=5591;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p> </p><p>בפרשת נח אלהים נתן את הברית בקשת </p><p>ולאחר סיפור המבול בימי נח לאחר שאלהים מברך הברית בקשת</p><p>אז בא הסיפור על נח איש האדמה אשר נטע כרם ושתה יין והתגל בתוך אהלו ובנו חם ראהו ערום</p><p>-------</p><p>היין מפר את את ברית הקשת</p><p>אמנם נראה כי הקשת רק בענן אך הקשת גם במשכן [גוף] האדם והיא מופיעה כאשר שומרית את הברית</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-19 16:53:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_mlx_0.html',
+		'<p>בין השומרית לעברית המילה עברה באכדית - מלחו, וכמעט לא ניתן להטיל בספק שהיא המקור למלח-יורד ים</p><p>בנוגע ליחזקאל, ראה רש&quot;י: לערוב מערבך - ל\' ערובה הם כל צורכי האדם שהוא חי בהם וממונו הוא ערובתו והצלתו לחייו גרנטיא&quot;ה בלע&quot;ז</p><p>בנוגע לאנגלית - לא מופרך יהיה לומר שהיא שאבה את הכפילות מהעברית</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-09-19 22:32:35'
+		)
+		;
+

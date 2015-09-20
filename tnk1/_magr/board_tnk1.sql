@@ -7296,3 +7296,51 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-09-17 17:46:07'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-19 16:53:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_77.html',
+				NULL,
+				'2015-09-19 17:32:47',
+				'2015-09-19 17:32:47',
+				'על \"ספר יונה - פירוש ישראלי חדש\" מאת זקוביץ ושנאן',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/mlx.html',
+				'tnk1/messages/ljon_jorj_mlx_0.html',
+				NULL,
+				'2015-09-19 19:21:20',
+				'2015-09-19 19:21:20',
+				'מקור המלה מלח (חובל)',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-19 22:32:35'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_mlx_0.html'
+		;
+
