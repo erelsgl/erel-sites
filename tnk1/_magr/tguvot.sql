@@ -5304,3 +5304,120 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_77.html',
+		'<p>נשאלתי אז אפרט:</p><p>&quot;והנה לפי השוואה לתרגום ולפי ההקשר נראה שיש לגרוס אך=איך&quot; - </p><p>התרגום המדובר הוא התרגום היווני מעשה ידי תאודוטיון</p><p>ההקשר: נראה שמופיעה פה תקווה, אך הפסוק הבא ואילך ממשיך בנימת הייאוש</p><p>בנוגע ללשון, נכתב בספר: &quot;לשונו של ספר יונה מעידה בבירור על זמן כתיבתו בימי בית שי, וזאת בשל קרבתה המובהקת ללשון הספרים המאוחרים שבמקרא (כגון עזרא, נחמיה ודברי הימים), ללשון החיבורים הכתובים ארמית ולספרות חז&quot;ל&quot; (עמ\' 13).</p><p>עוד מילים המובאות, פרט לספינה, הן: בשל, עש&quot;ת, גורלות (ברבים), זעף, מינה, טעם, למחרת (במקום ממחרת), רבוא (במקום רבבה).</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-09-21 10:38:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_18.html',
+		'<p>מקסים</p>',
+		'112997640823072645481',
+		'Daniel Albahari',
+		'2015-09-21 14:50:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_18.html',
+		'<p></p>',
+		'112997640823072645481',
+		'Daniel Albahari',
+		'2015-09-21 14:50:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_18.html',
+		'<p></p>',
+		'112997640823072645481',
+		'Daniel Albahari',
+		'2015-09-21 14:50:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p></p>',
+		'109568575396657905138',
+		'יוסף סוסי',
+		'2015-09-22 02:26:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p>תושב פנמה החביב והיקר מילותיך כפטיש המפוצץ סלע מילים כדורבנות  אולם ישנה עוד דרך חשובה ביהדות והיא דרך התמימות איני בא חס וחלילה  ללעוג  למנשקי המזוזות אלא לאנשים שמבטלים דעתם בפני התורה וכמו כן בפני החכמים שדעתם דעת תורה אנשים שכל עיסוקם וחייהם סביב התורה עד שדעתם והתורה חד היא (להבדיל אלף אלפי הבדלות למיני בבות  ומתחזים למיניהם)וכן לענין המשיח בוחרים במופלא ובמכוסה תמים תהיה וכידוע 70 פנים לתורה זה לא סתם מליצה .</p><p>יהי רצון ששתינו יחד נזכה לקבל פני משיח אמן </p><p>אוהבך ומוקירך ומכבדך מאוד מאוד חברך לספסל התפילה </p>',
+		'109568575396657905138',
+		'יוסף סוסי',
+		'2015-09-22 02:36:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p>תושב פנמה החביב והיקר מילותיך כפטיש המפוצץ סלע מילים כדורבנות  אולם ישנה עוד דרך חשובה ביהדות והיא דרך התמימות איני בא חס וחלילה  ללעוג  למנשקי המזוזות אלא לאנשים שמבטלים דעתם בפני התורה וכמו כן בפני החכמים שדעתם דעת תורה אנשים שכל עיסוקם וחייהם סביב התורה עד שדעתם והתורה חד היא (להבדיל אלף אלפי הבדלות למיני בבות  ומתחזים למיניהם)וכן לענין המשיח בוחרים במופלא ובמכוסה תמים תהיה וכידוע 70 פנים לתורה זה לא סתם מליצה .</p><p>יהי רצון ששתינו יחד נזכה לקבל פני משיח אמן </p><p>אוהבך ומוקירך ומכבדך מאוד מאוד חברך לספסל התפילה </p>',
+		'109568575396657905138',
+		'יוסף סוסי',
+		'2015-09-22 02:39:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p>תושב פנמה החביב והיקר מילותיך כפטיש המפוצץ סלע מילים כדורבנות  אולם ישנה עוד דרך חשובה ביהדות והיא דרך התמימות איני בא חס וחלילה  ללעוג  למנשקי המזוזות אלא לאנשים שמבטלים דעתם בפני התורה וכמו כן בפני החכמים שדעתם דעת תורה אנשים שכל עיסוקם וחייהם סביב התורה עד שדעתם והתורה חד היא (להבדיל אלף אלפי הבדלות למיני בבות  ומתחזים למיניהם)וכן לענין המשיח בוחרים במופלא ובמכוסה תמים תהיה וכידוע 70 פנים לתורה זה לא סתם מליצה .</p><p>יהי רצון ששתינו יחד נזכה לקבל פני משיח אמן </p><p>אוהבך ומוקירך ומכבדך מאוד מאוד חברך לספסל התפילה </p>',
+		'109568575396657905138',
+		'יוסף סוסי',
+		'2015-09-22 02:39:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-22 05:22:57' 
+			WHERE messageid=5602;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-22 05:23:23' 
+			WHERE messageid=5603;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-22 05:23:24' 
+			WHERE messageid=5604;
+
