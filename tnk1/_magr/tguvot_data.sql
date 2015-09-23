@@ -2200,3 +2200,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/sofrim_shabot_index_103.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-1821.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-09-22 13:45:01'
+		WHERE parent='tnk1/tora/jmot/jm-1821.html'
+		;
+
