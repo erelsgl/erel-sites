@@ -7547,3 +7547,65 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-09-23 20:03:37'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-24 14:27:04'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-09-24 14:27:17'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'http://haimshore.files.wordpress.com/2014/02/haim-shore_coincidences-in-the-bible-and-in-biblical-hebrew_feb-2014.pdf',
+				NULL,
+				'2015-09-24 16:43:53',
+				'2015-09-24 16:43:53',
+				'צירופי מקרים בתנך ובשפה העברית',
+				'חיים שור',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-24 16:43:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/kll1.html',
+				'http://haimshore.files.wordpress.com/2014/02/haim-shore_coincidences-in-the-bible-and-in-biblical-hebrew_feb-2014.pdf',
+				NULL,
+				'2015-09-24 16:44:33',
+				'2015-09-24 16:44:33',
+				'צירופי מקרים בתנך ובשפה העברית',
+				'חיים שור',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-09-24 16:44:33'
+			WHERE ktovt_bn='tnk1/sig/kll1.html';
+

@@ -5433,3 +5433,304 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>מעניין מאד. אז המחלוקת בין רש&quot;י לרמב&quot;ם היא כנראה עתיקה.</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-09-24 14:27:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>מעניין מאד. אז למחלוקת בין רש&quot;י לרמב&quot;ם יש מקור עתיק.</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-09-24 14:27:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-24 14:27:18' 
+			WHERE messageid=5607;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 640 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ההבדלים בין עת למועד</p><p>מועד זבח הפסח הוא בארבעה-עשר לחודש הראשון אך אם בני ישראל טרם נטהרו אז זה לא העת לזבוח את הפסח</p><p>מועד הגשת המנחה הוא בצהרים אך אם אין חשק תאבה [תיאבון] לאכול אז זה לא העת</p><p>מועד בחינות הבגרות נקבע לחודש טבת אך התלמידים נלקחו לצבא בגלל המלחמה וזו לא העת להגישם לבחינה</p><p>חגיגות מועד ראש השנה נדחו כי העם באבל על דו&quot;ח העוני הכבד וזה לא העת לשמוח בחג וזה לא מצוה לאדם להיות בשמחה תמיד כמו שאומרים הרבנים בניגוד למה שכתוב בדברי חכמת שלמה המלך בספר קהלת בן דוד בפרק ג (ד) עֵת לִבְכּוֹת וְעֵת לִשְׂחוֹק עֵת סְפוֹד וְעֵת רְקוֹד:</p><p>וגם הנה בדברי הנביא ישעיהו פרק כב כתוב:</p><p>(יב) וַיִּקְרָא אֲדֹנָי יֱהֹוִה צְבָאוֹת בַּיּוֹם הַהוּא לִבְכִי וּלְמִסְפֵּד וּלְקָרְחָה וְלַחֲגֹר שָׂק:</p><p>(יג) וְהִנֵּה שָׂשׂוֹן וְשִׂמְחָה הָרֹג בָּקָר וְשָׁחֹט צֹאן אָכֹל בָּשָׂר וְשָׁתוֹת יָיִן אָכוֹל וְשָׁתוֹ כִּי מָחָר נָמוּת:</p><p></p>', `deleted_at` = NULL WHERE `messageid` = 725 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 834 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1213 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1275 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1441 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1484 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1682 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1732 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1971 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>שלום שאול אם אתה רוצה מים מבורכים אגיד לך:</p><p>כל המים היורדים מאת האלהים בשמים קדושים הם ומבורכים הם על כן גם אגם מים גֻּלֹּת מָיִם נקרא בתורה ברכה [בריכה]</p><p>ספר שופטים פרק א כתוב:</p><p>(טו) וַתֹּאמֶר לוֹ הָבָה לִּי ==בְרָכָה == כִּי אֶרֶץ הַנֶּגֶב נְתַתָּנִי וְנָתַתָּה לִי == גֻּלֹּת מָיִם== וַיִּתֶּן לָהּ כָּלֵב אֵת גֻּלֹּת עִלִּית וְאֵת גֻּלֹּת תַּחְתִּית:</p><p>ואם איש קדוש ישתה את המים אז המים כבר נחשבים לחלק ממנו מקדושתו ממעשיו ומרוח האלהים אשר בו לכן כתוב וּבֵרַךְ אֶת מֵימֶיךָ</p><p>אבל אם איש שאינו עובד את האלהים כי לא מקים את דברו ולא שומע בקולו אז מעשיו טמאים וגם אם ישתה את המים המבורכים הלא יטמאו בתוך [גופו] משכנו הטמא לכן מימיו אינם מבורכים</p><p>למשל אם קנית מים טהורים ומבורכים כל עוד לא שתית מהם הם לא נחשבים  מֵימֶיךָ</p><p>ו מֵימֶיךָ יהיו טהורים רק אם מעשיך יהיו טהורים בעיני האלהים</p><p>כי המים אשר אתה שותה מתחברים עם [מחזור] הדם והדם הוא הנפש ואם נפשך טהורה אז מֵימֶיךָ טהורים</p><p>וגם אם לא שתית מים מבורכים ארבעים יום וארבעים לילה כאשר צם משה אז עדיין המים [כל הנוזלים שבגופו] במשכנו טהורים </p><p>והנה כעת הוכחתי שאין לקנות לשוא מים או שמן מהרבנים המקובלים  </p><p>כי לא יעזור מאומה אם לא הולכים בדרך האל על פי תורת משה דַיָּן </p><p></p>', `deleted_at` = NULL WHERE `messageid` = 2033 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2037 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2174 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>בספר תהילות פרק צ כתוב:</p><p>(יב) לִמְנוֹת יָמֵינוּ כֵּן הוֹדַע וְנָבִיא לְבַב חָכְמָה:</p><p>אך רבני חזל מפרידים בין חכמה לנביא ואמרו \"חכם עדיף מנביא\"</p><p>ולא הבינו כי אין חכם כהנביא [הנביא = אותיות בינה וְדַעַת קְדֹשִׁים בִּינָה]</p>', `deleted_at` = NULL WHERE `messageid` = 2248 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2432 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2438 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-24 14:41:57' 
+			WHERE messageid=2430;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2432 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2438 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2441 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>אני לא מאמין בדרך רבני חזל וגם ויקיפדיה לא המקור שלי</p><p>המקור שלי זה תורת אלהים ככתוב בספר הספרים הוא ספר מקרא הקודש</p><p> מיהו [יהודי] בן ישראל</p><p>על פי רבני חזל: בן ישראל יחשב על פי האם מי שאמו יהודיה אף שאביו נכרי יחשב יהודי</p><p>ובכן מי שמאמין בכסילים האלה כנראה שהוא לא בן-ישראל וכי הוא לכל היותר ארמי כי רחל ולאה ושפחותיהם ארמיות היו. וכך כתוב בספר דברי הימים א פרק ז פסוק 14 כתוב:&quot;בְּנֵי מְנַשֶּׁה אַשְׂרִיאֵל אֲשֶׁר יָלָדָה פִּילַגְשׁוֹ הָאֲרַמִּיָּה יָלְדָה אֶת מָכִיר אֲבִי גִלְעָד&quot;</p><p>ובספר בראשית פרק מו פסוק 10 כתוב: וּבְנֵי שִׁמְעוֹן יְמוּאֵל וְיָמִין וְאֹהַד וְיָכִין וְצֹחַרוְשָׁאוּל בֶּן הַכְּנַעֲנִית לאמור כי שאול בן שמעון בן ישראל הוא אף שהוא בן אישה כנענית.</p><p>וגם בני יהודה בן יעקב מאין הם הלא נולדו מתמר הארמיה בת ארם מארם נהרים וכן גם מהכנענית בת שוע העדולמית</p><p>וכעת אתן לכם להבין כי אמו של רחבעם מלך יהודה אשר מלך על כל היהודים [ולא היה יהודי פשוט כאחד העם] ובכן אמו הנכריה היא נעמה העמונית מעמון</p><p>ובספר מלכים א פרק יד פסוק 21 כתוב:&quot;וּרְחַבְעָם בֶּן שְׁלֹמֹה מָלַךְ בִּיהוּדָה בֶּן אַרְבָּעִים וְאַחַת שָׁנָה רְחַבְעָם בְּמָלְכוֹ וּשְׁבַע עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלַם הָעִיר אֲשֶׁר בָּחַר יְהֹוָה לָשֹוּם אֶת שְׁמוֹ שָׁם מִכֹּל שִׁבְטֵי יִשְׂרָאֵל וְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית: </p><p>וגם בהמשך בפסוק 31 כתוב:&quot;וַיִּשְׁכַּב רְחַבְעָם עִם אֲבֹתָיו וַיִּקָּבֵר עִם אֲבֹתָיו בְּעִיר דָּוִד וְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית וַיִּמְלֹךְ אֲבִיָּם בְּנוֹ תַּחְתָּיו</p><p>וגם בספר דברי הימים ב פרק יב פסוק 13 כתוב:&quot;וַיִּתְחַזֵּק הַמֶּלֶךְ רְחַבְעָם בִּירוּשָׁלִַם וַיִּמְלֹךְ כִּי בֶן אַרְבָּעִים וְאַחַת שָׁנָה רְחַבְעָם בְּמָלְכוֹ וּשֲׁבַע עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלַם הָעִיר אֲשֶׁר בָּחַר יְהֹוָה לָשׂוּם אֶת שְׁמוֹ שָׁם מִכֹּל שִׁבְטֵי יִשְׂרָאֵלוְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית&quot;</p><p>ושלא תעזו לחשוב כי הנכריה נעמה העמונית מעמון עבדה את אלהי ישראל כרות המואביה וכי ההיפך הוא הנכון וכי שלמה לא הצליח לקרב את נשותיו הנכריות לעבודת אלהי ישראל כי אם נשותיו הטו את לבו לעבודה זרה ככתוב על פי המקרא בספר מלכים א פרק יא:&quot; וְהַמֶּלֶךְ שְׁלֹמֹה אָהַב נָשִׁים נָכְרִיּוֹת רַבּוֹת וְאֶת בַּת פַּרְעֹה מוֹאֲבִיּוֹת עַמֳּנִיּוֹת אֲדֹמִיֹּת צֵדְנִיֹּת חִתִּיֹּת: מִן הַגּוֹיִם אֲשֶׁר אָמַר יְהֹוָה אֶל בְּנֵי יִשְׂרָאֵל לֹא תָבֹאוּ בָהֶם וְהֵם לֹא יָבֹאוּ בָכֶם אָכֵן יַטּוּ אֶת לְבַבְכֶם אַחֲרֵי אֱלֹהֵיהֶם בָּהֶם דָּבַק שְׁלֹמֹה לְאַהֲבָה: וַיְהִי לוֹ נָשִׁים שָׂרוֹת שְׁבַע מֵאוֹת וּפִלַגְשִׁים שְׁלֹשׁ מֵאוֹת וַיַטּוּ נָשָׁיו אֶת לִבּוֹ: וַיְהִי לְעֵת זִקְנַת שְׁלֹמֹה נָשָׁיו הִטּוּ אֶת לְבָבוֹ אַחֲרֵי אֱלֹהִים אֲחֵרִים וְלֹא הָיָה לְבָבוֹ שָׁלֵם עִם יְהֹוָה אֱלֹהָיו כִּלְבַב דָּוִיד אָבִיו: וַיֵּלֶךְ שְׁלֹמֹה אַחֲרֵי עַשְׁתֹּרֶת אֱלֹהֵי צִדֹנִים וְאַחֲרֵי מִלְכֹּם שִׁקֻּץ עַמֹּנִים&quot; הוא אלהי נעמה העמונית הנכריה מעמון</p><p> הלא בן כהן גם הוא כהן אך בת כהנים לא לכהונה היא וכמובן שבנה לא יוכל לכהן במקדש וכי רק אם אביו כהן רק אז כן</p><p>וכעת אתן לכם כמשל את דרך הארץ [מהטבע]</p><p>אם אקח זרע [כמייצג זכר] של תפוח ואזרע אותו באדמה [מייצגת נקבה] של מצרים אז יהיה לנו תפוח מצרי</p><p>ואם אקח זרע של תפוח ואזרע אותו באדמת ישראל אז יהיה לנו תפוח ישראלי ואולי טעמו יהיה מעט שונה בגלל תנאי האקלים וסוג האדמה אך במהותו הוא נשאר תפוח כאשר רחבעם בן נעמה העמונית היה יהודי</p><p>ואם הבנתם את כל זאת אז תבינו שביננו בעם היושב בציון יש רבים אשר לא מזרע ישראל הם כי אם לפי הרבנות והסוכנות הביאו ארצה עולים מקהילה כלשהי על סמך זה שהאם יהודיה והאב מוסלמי אז זרע הולד הוא מוסלמי ואכן גם לפי הקוראן הוא מוסלמי</p><p></p>' WHERE `messageid` = 2671 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2735 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>בספר ירמיהו פרק כג כתוב:</p><p>ה הִנֵּה יָמִים בָּאִים נְאֻם-יְהוָה וַהֲקִמֹתִי לְדָוִד צֶמַח צַדִּיק וּמָלַךְ מֶלֶךְ וְהִשְׂכִּיל וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ. </p><p> ו בְּיָמָיו תִּוָּשַׁע יְהוּדָה וְיִשְׂרָאֵל יִשְׁכֹּן לָבֶטַח וְזֶה-שְּׁמוֹ אֲשֶׁר-יִקְרְאוֹ יְהוָה צִדְקֵנוּ.  </p><p>ובכן זה בימי הצדיק</p><p>ובימי הנהגת הרבנים בדור הזה לא עשו משפט וצדקה ולא היה בטחון לא אישי ולא כלכלי ולא חברתי ובדור הרבנים האלה נחרבו ישובים יהודים וקצף אלהים גדול</p>', `deleted_at` = NULL WHERE `messageid` = 3348 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3629 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 3921 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ספר שמות פרק ד (כב) וְאָמַרְתָּ אֶל פַּרְעֹה כֹּה אָמַר יְהוָה בְּנִי בְכֹרִי יִשְׂרָאֵל.</p><p>לכן תבין כי שאר העמים כל הגוים אחים קטנים לבני ישראל וכולם בני אלהים</p><p>אבל הרבנים חשבו שאלהים עושה איפה ואיפה בין העמים ומפלה אותם לטובה</p><p>לכן התנשאו על הגוים לאמור אנחנו ישראל עם בכור ומגיע לנו פי שניים</p><p>ולא הבינו הרבנים כי אם באמת עם בכור לאלהים אז עליכם לעבוד פי שנים</p><p>אך הרבנים לא רוצים לעבוד פי שנים ולא לעבוד בכלל ורק להיות כהני עם הארץ להורות הלכות כזב ולגזול מעשר ותרומות</p>', `deleted_at` = NULL WHERE `messageid` = 3924 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4123 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 4124 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4125 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>&quot;עין תחת עין&quot;</p><p>בתורת משה בספר ויקרא כד פסוקים 19-20 כתוב:</p><p>יט) וְאִישׁ כִּי יִתֵּן מוּם בַּעֲמִיתוֹ כַּאֲשֶׁר עָשָׂה כֵּן יֵעָשֶׂה לּוֹ: </p><p>(כ) שֶׁבֶר תַּחַת שֶׁבֶר עַיִן תַּחַת עַיִן שֵׁן תַּחַת שֵׁן כַּאֲשֶׁר יִתֵּן מוּם בָּאָדָם כֵּן יִנָּתֶן בּוֹ:</p><p>ובאמת יש להקים את דברי אלהים ככתוב בתורה אך מה עשו רבני חזל? אמרו לא כי יש לתת ממון כלשונם </p><p>זאת אומרת כי אם אני עשיר גדול אז אני יוציא לכל הרבנים את העינים </p><p>ואל דאגה כי אני אתן להן ממון כסף רב כאשר הם אוהבים ועל פי תורתם</p><p>אתם הבנתם את זה??? </p><p>וכי מי יכול להעריך כמה שווה עין והאם עין של מושל יקרה מעין של פקיד? </p><p>וכמה ממון יש לתת?</p><p>ואם דל אנכי אשר אין ידי משגת [הומלס חסר בית] והוצאתי עין לפלמוני איך אוכל לשלם ואיך יעשה צדק?</p><p>אל תדאגו כי לא איש אל ויכזב ההוא אמר ולא יקימנה </p><p>וכי האלהים הקים כבר לעד את תורתו והוא נוקם עין תחת עין ועל כן האלהים לא נתן לרבנים האלה עיניים לראות עד היום </p><p>כי לא יראו את האלהים כי לא שמוהו לנגדם</p>', `deleted_at` = NULL WHERE `messageid` = 5264 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ויקרא כה35: &quot;וְכִי יָמוּךְ אָחִיךָ וּמָטָה יָדוֹ עִמָּךְ וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ&quot;</p><p>ויקרא כה36: &quot;אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ&quot;</p><p> וְהֶחֱזַקְתָּ בּוֹ = אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ</p><p>וְהֶחֱזַקְתָּ בּוֹ זה לא לתת כסף לישיבה של הרבנים מבלי שיחזירו את הכסף</p><p>ואם הרבנים האלה יגידו לך תן לנו הוראת קבע והחזק בישיבתנו </p><p>אמור לרבנים האלה כי הם מסלפים את המשמעות של המילה להחזיק</p><p>אמור להם כי אתה מוכן להחזיק בכל עני ומך וזאת בהלוואה ללא ריבית </p><p>להחזיק בעני ומך זה לא לתת לו להתכלכל [להתפרנס] על חשבונך כדרך הוראת קבע</p><p>רק במקרים של סכנת נפשות לצדיקים יש לכלכלם [גם זה באופן זמני] ללא כל תמורה וידעת כי יחשב לך לצדקה ויהוה יגמלך חסד</p><p>כי הצלת צדיקים מרשעים</p><p>מלכים א יח4: &quot;וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יהוה וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִאִים וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְכִלְכְּלָם לֶחֶם וָמָיִם&quot;</p><p>מלכים א יח13: &quot;הֲלֹא הֻגַּד לַאדֹנִי אֵת אֲשֶׁר עָשִׂיתִי בַּהֲרֹג אִיזֶבֶל אֵת נְבִיאֵי יהוה וָאַחְבִּא מִנְּבִיאֵי יהוה מֵאָה אִישׁ חֲמִשִּׁים חֲמִשִּׁים אִישׁ בַּמְּעָרָה וָאֲכַלְכְּלֵם לֶחֶם וָמָיִם&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 5330 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ויקרא כה35: &quot;וְכִי יָמוּךְ אָחִיךָ וּמָטָה יָדוֹ עִמָּךְ וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ&quot;</p><p>ויקרא כה36: &quot;אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ&quot;</p><p> וְהֶחֱזַקְתָּ בּוֹ = אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ</p><p>וְהֶחֱזַקְתָּ בּוֹ זה לא לתת כסף לישיבה של הרבנים מבלי שיחזירו את הכסף</p><p>ואם הרבנים האלה יגידו לך תן לנו הוראת קבע והחזק בישיבתנו </p><p>אמור לרבנים האלה כי הם מסלפים את המשמעות של המילה להחזיק</p><p>אמור להם כי אתה מוכן להחזיק בכל עני ומך וזאת בהלוואה ללא ריבית </p><p>להחזיק בעני ומך זה לא לתת לו להתכלכל [להתפרנס] על חשבונך כדרך הוראת קבע</p><p>רק במקרים של סכנת נפשות לצדיקים יש לכלכלם [גם זה באופן זמני] ללא כל תמורה וידעת כי יחשב לך לצדקה ויהוה יגמלך חסד</p><p>כי הצלת צדיקים מרשעים</p><p>מלכים א יח4: &quot;וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יהוה וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִאִים וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְכִלְכְּלָם לֶחֶם וָמָיִם&quot;</p><p>מלכים א יח13: &quot;הֲלֹא הֻגַּד לַאדֹנִי אֵת אֲשֶׁר עָשִׂיתִי בַּהֲרֹג אִיזֶבֶל אֵת נְבִיאֵי יהוה וָאַחְבִּא מִנְּבִיאֵי יהוה מֵאָה אִישׁ חֲמִשִּׁים חֲמִשִּׁים אִישׁ בַּמְּעָרָה וָאֲכַלְכְּלֵם לֶחֶם וָמָיִם&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 5331 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1206 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>אין אמונה ברבנים האלה כולם כסילים או נוכלים</p><p>ממה הם מתפרנסים?</p>', `deleted_at` = NULL WHERE `messageid` = 1269 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1273 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1573 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1896 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2435 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2515 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2666 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2672 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2673 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3363 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3951 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-24 14:52:18' 
+			WHERE messageid=1273;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1206 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1269 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 1273 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>רק רבני התלמוד ביזו את המלך אחשורוש והוציאו עליו דיבה באומרם כי המלך ציוה להביא את המלכה ושתי בעירום</p>', `deleted_at` = NULL WHERE `messageid` = 1573 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>על פי מקרא הקודש </p><p>יש חודש [ראש חודש] ויש כסה כשהירח מכוסה אבל אין קדושת &quot;חג המולד&quot; של הרבנים והקראים המולד מופיע רק ממחרת הכסה ובקושי ניתן לראותו ואיך בני ישראל בימי קדם קידשו את החודש האם הם לקחו טלסקופים כמו הקראים? ברור שלא כי בני ישראל קידשו את החודש כאשר הלבנה בלבן מלאה זה הירח המלא אשר בישר ומבשר עד היום הזה כי ראש חודש הגיע וכל בני ישראל רואים לעדות</p>', `deleted_at` = NULL WHERE `messageid` = 1896 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>רבני חזל הוציאו דיבה על בנו של גרשם בן משה בהפכם את משה למנשה וגם על משה עצמו הם כתבו רע&quot;ה</p><p>ואין ראשי תיבות בכתב העברי</p>' WHERE `messageid` = 2314 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2435 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2515 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2609 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>על פי התורה דת הילוד על פי האב ולא על פי האם.</p><p>הלא יהודה אבי היהודים התחתן עם בת-שוע הכנענית האם בני יהודה לא יהודים בעיניך?</p><p>שלמה המלך התחתן עם נעמה העמונית אשר ילדה לו את רחבעם וזה מלך על כל יהודה האם רחבעם לא יהודי בעיניך?</p><p>יעקב אבינו התחתן עם בנות לבן הארמי [רחל ולאה היו ארמיות] ובני יעקב נקראים בני ישראל ולא בני ארם.</p>', `deleted_at` = NULL WHERE `messageid` = 2666 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 2671 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>אני לא מאמין בדרך רבני חזל וגם ויקיפדיה לא המקור שלי.</p><p>המקור שלי זה תורת אלהים ככתוב בספר הספרים הוא ספר מקרא הקודש.</p><p>מיהו [יהודי] בן ישראל</p><p>על פי רבני חזל ה: בן ישראל יחשב על פי האם מי שאמו יהודיה אף שאביו נכרי יחשב יהודי</p><p>ובכן מי שמאמין בהם כנראה שהוא לא בן-ישראל, כי הוא לכל היותר ארמי, כי רחל ולאה ושפחותיהם ארמיות היו. וכך כתוב בספר דברי הימים א פרק ז פסוק 14:&quot;בְּנֵי מְנַשֶּׁה אַשְׂרִיאֵל אֲשֶׁר יָלָדָה פִּילַגְשׁוֹ הָאֲרַמִּיָּה יָלְדָה אֶת מָכִיר אֲבִי גִלְעָד&quot;</p><p>ובספר בראשית פרק מו פסוק 10 כתוב: וּבְנֵי שִׁמְעוֹן יְמוּאֵל וְיָמִין וְאֹהַד וְיָכִין וְצֹחַרוְשָׁאוּל בֶּן הַכְּנַעֲנִית לאמור כי שאול בן שמעון בן ישראל הוא אף שהוא בן אישה כנענית.</p><p>וגם בני יהודה בן יעקב מאין הם הלא נולדו מתמר הארמיה בת ארם מארם נהרים וכן גם מהכנענית בת שוע העדולמית.</p><p>אמו של רחבעם מלך יהודה אשר מלך על כל היהודים [ולא היה יהודי פשוט כאחד העם] היא נעמה העמונית מעמון.</p><p>ובספר מלכים א פרק יד פסוק 21 כתוב:&quot;וּרְחַבְעָם בֶּן שְׁלֹמֹה מָלַךְ בִּיהוּדָה בֶּן אַרְבָּעִים וְאַחַת שָׁנָה רְחַבְעָם בְּמָלְכוֹ וּשְׁבַע עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלַם הָעִיר אֲשֶׁר בָּחַר יְהֹוָה לָשֹוּם אֶת שְׁמוֹ שָׁם מִכֹּל שִׁבְטֵי יִשְׂרָאֵל וְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית:</p><p>וגם בהמשך בפסוק 31 כתוב:&quot;וַיִּשְׁכַּב רְחַבְעָם עִם אֲבֹתָיו וַיִּקָּבֵר עִם אֲבֹתָיו בְּעִיר דָּוִד וְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית וַיִּמְלֹךְ אֲבִיָּם בְּנוֹ תַּחְתָּיו</p><p>וגם בספר דברי הימים ב פרק יב פסוק 13 כתוב:&quot;וַיִּתְחַזֵּק הַמֶּלֶךְ רְחַבְעָם בִּירוּשָׁלִַם וַיִּמְלֹךְ כִּי בֶן אַרְבָּעִים וְאַחַת שָׁנָה רְחַבְעָם בְּמָלְכוֹ וּשֲׁבַע עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלַם הָעִיר אֲשֶׁר בָּחַר יְהֹוָה לָשׂוּם אֶת שְׁמוֹ שָׁם מִכֹּל שִׁבְטֵי יִשְׂרָאֵלוְשֵׁם אִמּוֹ נַעֲמָה הָעַמֹּנִית&quot;</p><p>ושלא תעזו לחשוב כי הנכריה נעמה העמונית מעמון עבדה את אלהי ישראל כרות המואביה וכי ההיפך הוא הנכון וכי שלמה לא הצליח לקרב את נשותיו הנכריות לעבודת אלהי ישראל כי אם נשותיו הטו את לבו לעבודה זרה ככתוב על פי המקרא בספר מלכים א פרק יא:&quot; וְהַמֶּלֶךְ שְׁלֹמֹה אָהַב נָשִׁים נָכְרִיּוֹת רַבּוֹת וְאֶת בַּת פַּרְעֹה מוֹאֲבִיּוֹת עַמֳּנִיּוֹת אֲדֹמִיֹּת צֵדְנִיֹּת חִתִּיֹּת: מִן הַגּוֹיִם אֲשֶׁר אָמַר יְהֹוָה אֶל בְּנֵי יִשְׂרָאֵל לֹא תָבֹאוּ בָהֶם וְהֵם לֹא יָבֹאוּ בָכֶם אָכֵן יַטּוּ אֶת לְבַבְכֶם אַחֲרֵי אֱלֹהֵיהֶם בָּהֶם דָּבַק שְׁלֹמֹה לְאַהֲבָה: וַיְהִי לוֹ נָשִׁים שָׂרוֹת שְׁבַע מֵאוֹת וּפִלַגְשִׁים שְׁלֹשׁ מֵאוֹת וַיַטּוּ נָשָׁיו אֶת לִבּוֹ: וַיְהִי לְעֵת זִקְנַת שְׁלֹמֹה נָשָׁיו הִטּוּ אֶת לְבָבוֹ אַחֲרֵי אֱלֹהִים אֲחֵרִים וְלֹא הָיָה לְבָבוֹ שָׁלֵם עִם יְהֹוָה אֱלֹהָיו כִּלְבַב דָּוִיד אָבִיו: וַיֵּלֶךְ שְׁלֹמֹה אַחֲרֵי עַשְׁתֹּרֶת אֱלֹהֵי צִדֹנִים וְאַחֲרֵי מִלְכֹּם שִׁקֻּץ עַמֹּנִים&quot; הוא אלהי נעמה העמונית הנכריה מעמון</p><p>הלא בן כהן גם הוא כהן, אך בת כהנים לא לכהונה היא וכמובן שבנה לא יוכל לכהן במקדש וכי רק אם אביו כהן רק אז כן.</p><p>וכעת אתן לכם כמשל את דרך הארץ [מהטבע]</p><p>אם אקח זרע [כמייצג זכר] של תפוח ואזרע אותו באדמה [מייצגת נקבה] של מצרים אז יהיה לנו תפוח מצרי</p><p>ואם אקח זרע של תפוח ואזרע אותו באדמת ישראל אז יהיה לנו תפוח ישראלי ואולי טעמו יהיה מעט שונה בגלל תנאי האקלים וסוג האדמה אך במהותו הוא נשאר תפוח כאשר רחבעם בן נעמה העמונית היה יהודי</p><p>ואם הבנתם את כל זאת אז תבינו שביננו בעם היושב בציון יש רבים אשר לא מזרע ישראל הם כי אם לפי הרבנות והסוכנות הביאו ארצה עולים מקהילה כלשהי על סמך זה שהאם יהודיה והאב מוסלמי אז זרע הולד הוא מוסלמי ואכן גם לפי הקוראן הוא מוסלמי.</p>', `deleted_at` = NULL WHERE `messageid` = 2672 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>משה</p><p> בדברך כתבת &quot;על פי רבני חזל... אשר סלפו את התורה&quot;</p><p>מענין האם אתה מתפלל מתוך סידור ומחזור שנכתבו ע&quot;י רבני חזל. כמו כן מענין אם בחגים אתה מתנהג לפי הוראת חזל.</p><p>שאלה שניה לפי דברך יהודי נחשב לפי האב כלומר עשו הוא אחיו של יעקב ואביהם הוא יצחק והסבא אברהם. כלומר כל צאצאי עשו שהתחתן עם כנענית יש להם קרבה ישירה גנטית ליהודים.</p><p>ההבדל הוא בברכה שקיבל יעקב.</p><p>תשובה שאני אתן לך. רות המואביה אמא קדמונית של דוד המלך התגיירה &quot;וַתִּשֶּׂנָה קוֹלָן, וַתִּבְכֶּינָה עוֹד; וַתִּשַּׁק עָרְפָּה לַחֲמוֹתָהּ, וְרוּת דָּבְקָה בָּהּ.  טו וַתֹּאמֶר, הִנֵּה שָׁבָה יְבִמְתֵּךְ, אֶל-עַמָּהּ, וְאֶל-אֱלֹהֶיהָ; שׁוּבִי, אַחֲרֵי יְבִמְתֵּךְ.  טז וַתֹּאמֶר רוּת אַל-תִּפְגְּעִי-בִי, לְעָזְבֵךְ לָשׁוּב מֵאַחֲרָיִךְ:  כִּי אֶל-אֲשֶׁר תֵּלְכִי אֵלֵךְ, וּבַאֲשֶׁר תָּלִינִי אָלִין--עַמֵּךְ עַמִּי, וֵאלֹהַיִךְ אֱלֹהָי.  יז בַּאֲשֶׁר תָּמוּתִי אָמוּת, וְשָׁם אֶקָּבֵר; כֹּה יַעֲשֶׂה יְהוָה לִי, וְכֹה יוֹסִיף--כִּי הַמָּוֶת, יַפְרִיד בֵּינִי וּבֵינֵךְ&quot;</p><p>כמו כן בתורה האלוקית שאלוקים תכנן אותה ישנו את חוק מנדל שאומר מבחינתי שגן יהודי ועוד גן אחר יכול להביא מנהיגות רוחנית או גשמית.</p><p>לכן שמתחתן עם לא יהודי לא כולם יהפוך ליהודי.</p><p>ואלו כל הדוגמאות שנתת.</p>', `deleted_at` = NULL WHERE `messageid` = 2673 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3363 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>אני מאמין בתורת אלהים ולא ברבנים וגם לא ברבי נחמן שאמרו לדון כל אדם לכף זכות</p><p>ספר דניאל פרק ה: (כז) תְּקֵל, נִשְׁקַלְתָּ בְּמֹאזְנַיִם וְנִמְצֵאתָ חָסֵר.[ולא לכף זכות]</p><p>בספר מלכים ב פרק כד כתוב: </p><p>(ד) וְגַם דַּם הַנָּקִי אֲשֶׁר שָׁפָךְ וַיְמַלֵּא אֶת יְרוּשָׁלַם דָּם נָקִי וְלֹא אָבָה יְהֹוָה לִסְלֹחַ : </p><p>אין סליחה על רצח אנשים נקיים מכל חטא וגם יהוה לא יאבה לסלוח</p><p>ספר ירמיהו פרק טו כתוב:</p><p>(א) וַיֹּאמֶר יְהוָה אֵלַי אִם יַעֲמֹד מֹשֶׁה וּשְׁמוּאֵל לְפָנַי אֵין נַפְשִׁי אֶל הָעָם הַזֶּה שַׁלַּח מֵעַל פָּנַי וְיֵצֵאוּ.</p><p>ספר תהילות פרק קלט כתוב:</p><p>(כא) הֲלוֹא מְשַׂנְאֶיךָ יְהוָה אֶשְׂנָא וּבִתְקוֹמְמֶיךָ אֶתְקוֹטָט.</p>', `deleted_at` = NULL WHERE `messageid` = 3951 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1206 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 1268 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1269 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2435 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 2515 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3363 AND 1 LIMIT 1;
+
