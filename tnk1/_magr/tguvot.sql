@@ -5734,3 +5734,17 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3363 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-25 11:41:46' 
+			WHERE messageid=5298;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-09-26 07:02:25' 
+			WHERE messageid=5298;
+
