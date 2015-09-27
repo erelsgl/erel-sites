@@ -54,8 +54,10 @@ file_put_contents($FILENAME_OUTPUT, $text);
 
 
 function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) {
-	$text = "##### $chapter_page_name/טעמים\n";
 	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
+	$PP = "פפ";
+	$PPP = "{{"+$PP+"}}";
+	$text = "##### $chapter_page_name/טעמים\n";
 	$rows = sql_query_or_die("
 			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text
 			FROM psuqim_dovi
@@ -72,9 +74,12 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 		if ($verse_number==1)
 			$row['prefix'] = preg_replace("@^$END_OF_LINE_REPLACEMENT@", "", $row['prefix']);
 	
-		$prefix = replace_placeholders_with_spaces($row['prefix']);
+		$prefix = $row['prefix'];
+		$prefix = preg_replace("@^//@","",$prefix);
+		print "$prefix\n";
+		$prefix = replace_placeholders_with_spaces($prefix);
 		$text .= preg_replace("/^ /","",$prefix);
-	
+
 		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
 			$text .= simn($row['verse_letter_text']);
 			$text .= "<$QTA_HTXLA=$row[verse_letter]/>";

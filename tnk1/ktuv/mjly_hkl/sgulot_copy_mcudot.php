@@ -50,6 +50,7 @@ $limit = coalesce($_GET["limit"],1);
 
 require_once("$fileroot/sites/MediawikiClient.php");
 $client = new MediawikiClient();
+$client->debug = false;
 
 $rows = sql_query_or_die("
   SELECT 
@@ -67,6 +68,7 @@ $rows = sql_query_or_die("
         
   WHERE sgulot.book=".quote_all($book_code)."
     AND sgulot.chapter_number=$chapter
+    AND verse_number>0
   ORDER BY book, chapter_number, verse_number
   LIMIT $limit;
 ");
@@ -74,8 +76,9 @@ $rows = sql_query_or_die("
 $map_ktovt_to_verse = array();
 $prefix = "קטע:מצודות על";
 while ($row=sql_fetch_assoc($rows)) {
-	print "<p>"; print_r($row);
-	$contents = $client->page_parsed("$prefix $row[book_name] $row[chapter_letter] $row[verse_letter]");
+	$page_title = "$prefix $row[book_name] $row[chapter_letter] $row[verse_letter]";
+	print "<p>"; print_r($row); print $page_title;
+	$contents = $client->page_parsed($page_title);
 	$contents = preg_replace("#<h3>.*מצודת דוד.*</h3>#","",$contents);
 	$contents = preg_replace("#<span class=.psuq.*?>(.*?)</span>#","<b>$1</b>",$contents);
 	$contents = preg_replace("#<a.*?>(.*?)</a>#","",$contents);
@@ -85,7 +88,7 @@ while ($row=sql_fetch_assoc($rows)) {
 	$contents = preg_replace("#^\s+#s","",$contents);
 	$contents = preg_replace("#\s+$#s","",$contents);
 	
-	print $contents;
+	print "'$contents'";
 	sql_query_or_die("
 	  UPDATE sgulot
 	  SET mcudot=".quote_all($contents)."
