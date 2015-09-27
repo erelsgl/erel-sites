@@ -7609,3 +7609,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-09-24 16:44:33'
 			WHERE ktovt_bn='tnk1/sig/kll1.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_78.html',
+				NULL,
+				'2015-09-26 16:42:11',
+				'2015-09-26 16:42:11',
+				'על \"עקדת יצחק\" מאת אלכסנדר אבן-חן',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/bef.html',
+				'tnk1/messages/ljon_jorj_bef_0.html',
+				NULL,
+				'2015-09-26 18:26:10',
+				'2015-09-26 18:26:10',
+				'וישמן ישורון ויבעט ?',
+				'אביתר כהן',
+				''
+			)
+		;
+
