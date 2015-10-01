@@ -5967,3 +5967,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>כתוב: &quot;אֹהֵב יהוה שַׁעֲרֵי צִיּוֹן מִכֹּל מִשְׁכְּנוֹת יַעֲקֹב&quot;</p><p>אך גם כתוב: </p><p>&quot;שִׁיר הַמַּעֲלוֹת הַבֹּטְחִים ביהוה כְּהַר צִיּוֹן לֹא יִמּוֹט לְעוֹלָם יֵשֵׁב&quot;</p><p>לאמור כי לא להתאכזב אם אתה לא גר בהר ציון אשר אהב האלהים</p><p>וכל מה שנדרש ממך זה לבטוח באלהים</p><p>כי הַבֹּטְחִים ביהוה = כְּהַר צִיּוֹן לֹא יִמּוֹט לְעוֹלָם יֵשֵׁב</p><p>----------------------</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-09-30 13:53:59'
+		)
+		;
+
