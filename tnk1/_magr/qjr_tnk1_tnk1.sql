@@ -214,3 +214,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'אלברט שבות' AND `bn` = 'הרב יורם אברג\'ל מתוך תמונה אישית של חזרה ליהדות' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('דוד לעומת שלמה - תהלים לעומת משלי', 'ביאור:משלי טז1', 'לב טהור ברא לי - לאדם מערכי לב', '', 60, 60, '2015-10-02 12:16:47');
+
