@@ -6041,3 +6041,110 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0114_3.html',
+		'<p>בראשית כא12: &quot;וַיֹּאמֶר אֱלֹהִים אַל אַבְרָהָם אֶל יֵרַע בְּעֵינֶיךָ עַל הַנַּעַר וְעַל אֲמָתֶךָ כֹּל אֲשֶׁר תֹּאמַר אֵלֶיךָ שָׂרָה שְׁמַע בְּקֹלָהּ כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע&quot;</p><p>בראשית כא13: &quot;וְגַם אֶת בֶּן הָאָמָה לְגוֹי אֲשִׂימֶנּוּ כִּי זַרְעֲךָ הוּא&quot;  : &quot;זֶרַע אַבְרָהָם עַבְדּוֹ בְּנֵי יַעֲקֹב בְּחִירָיו&quot; [תהלים קה6]</p><p>אמנם נאמר לאברהם כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע אך גם ישמעאל זֶרַע אַבְרָהָם עַבְדּוֹ</p><p> גם ישמעאל וגם יצחק שניהם זֶרַע אַבְרָהָם עַבְדּוֹ</p><p>אך המשכיות ברכת זֶרַע אַבְרָהָם עַבְדּוֹ לבני ישראל הוא יעקב בן יצחק ולא לבני ישמעאל</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-03 15:55:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0114_3.html',
+		'<p>בראשית כא12: </p><p>&quot;וַיֹּאמֶר אֱלֹהִים אַל אַבְרָהָם אֶל יֵרַע בְּעֵינֶיךָ עַל הַנַּעַר וְעַל אֲמָתֶךָ כֹּל אֲשֶׁר תֹּאמַר אֵלֶיךָ שָׂרָה שְׁמַע בְּקֹלָהּ כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע&quot;</p><p>בראשית כא13: &quot;וְגַם אֶת בֶּן הָאָמָה לְגוֹי אֲשִׂימֶנּוּ כִּי זַרְעֲךָ הוּא&quot;  : &quot;זֶרַע אַבְרָהָם עַבְדּוֹ בְּנֵי יַעֲקֹב בְּחִירָיו&quot; [תהלים קה6]</p><p>אמנם נאמר לאברהם כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע אך גם ישמעאל זֶרַע אַבְרָהָם עַבְדּוֹ</p><p> גם ישמעאל וגם יצחק שניהם זֶרַע אַבְרָהָם עַבְדּוֹ</p><p>אך המשכיות ברכת זֶרַע אַבְרָהָם עַבְדּוֹ לבני ישראל הוא יעקב בן יצחק ולא לבני ישמעאל</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-03 15:56:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-03 15:56:50' 
+			WHERE messageid=5627;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-03 17:29:45' 
+			WHERE messageid=5625;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-03 17:30:07' 
+			WHERE messageid=5485;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום מלי,</p><p>עכשיו אפשר לחפש &quot;וידבר ה\' אל משה לאמר&quot;. </p><p>הוספתי לדף קוד לחיפוש הפסוקים שיש בהם חמש מילים בלבד - ראי למעלה.</p>',
+		'117606350813040384070',
+		'Erel אראל Segal-Halevi',
+		'2015-10-03 18:36:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>כל הכבוד על מהירות התגובה ועל התיקון הנחוץ והמועיל!</p><p>יישר כח גדול!!!!</p><p>תזכו למצוות ולהרבות תורה בישראל.</p>',
+		'112049068778546392008',
+		'מלי בר',
+		'2015-10-03 22:27:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>ותודה על הקוד במיוחד בשבילי!</p><p></p>',
+		'112049068778546392008',
+		'מלי בר',
+		'2015-10-03 22:36:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/2593.html',
+		'<p>לא הבנתי שום דבר!!!!!!!!!!!!!!!!!</p>',
+		'108272692573135681599',
+		'Eitan Samson',
+		'2015-10-04 01:16:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-04 02:59:58' 
+			WHERE messageid=5627;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-04 06:10:28' 
+			WHERE messageid=5627;
+
