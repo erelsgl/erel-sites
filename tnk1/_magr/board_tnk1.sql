@@ -7918,3 +7918,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-10-05 21:12:09'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-07 16:06:56'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-07 16:07:51'
+		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
+		;
+

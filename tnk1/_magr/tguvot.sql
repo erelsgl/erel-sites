@@ -6148,3 +6148,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-04 06:10:28' 
 			WHERE messageid=5627;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>שמעתי שהתורה (לא כל התנ&quot;ך) מורכבת מ-1820 שורשי מילים, שזה כמספר שמות יהו-ה הכתובים בתורה. האם זה נכון?</p>',
+		'115333685042287871159',
+		'מאיר ליפשיץ',
+		'2015-10-07 16:06:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>שמעתי שהתורה (לא כל התנ&quot;ך) מורכבת מ-1820 שורשי מילים, שזה כמספר שמות יהו-ה הכתובים בתורה. האם זה נכון?</p>',
+		'115333685042287871159',
+		'מאיר ליפשיץ',
+		'2015-10-07 16:07:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-07 16:08:09' 
+			WHERE messageid=5634;
+
