@@ -6179,3 +6179,108 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-07 16:08:09' 
 			WHERE messageid=5634;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-13.html',
+		'<p>בס&quot;ד  מה קשר בין סך סכך סוכה ובין סיכון סכנה</p><p>נראה הפוכות</p>',
+		'112381813481740966083',
+		'Jo Po',
+		'2015-10-08 13:14:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-13.html',
+		'<p>בס&quot;ד  נדמה לי לכאורה השאבה כך: סך סכך סכה = הגנה</p><p>                                                   ערי מסכנות = אוצר מגן נגד רעב</p><p>                              לא במסכנת תאכל בה לחם = לא צריך הגנה קמצנות וכדו\'</p><p>יצא מסכנות = התנהגות המסכן = מגן נגד סכנה</p><p>לכן עיקר השורש לגמרי הגנה ורק ע&quot;י השאבה יצא סיכון משמעות הפוכה</p><p>כל טוב, ד\' יגן עלינו</p>',
+		'112381813481740966083',
+		'Jo Po',
+		'2015-10-08 14:43:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_arb2_0.html',
+		'<p>רואים בהושענות (אדם ובהמה) שיש שמונה מיני ארבה א. גזם ב.חגב ג. גובי ד. ילק ה. ארבה ו. צלצל ז. סלעם ח. חסיל . השאלה האם יש היום בזמנינו כל סוגי ארבה הנ\'\'ל ?</p>',
+		'111679420201436658087',
+		'Avrumi Dresdner',
+		'2015-10-08 17:28:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_arb2_0.html',
+		'<p></p>',
+		'111679420201436658087',
+		'Avrumi Dresdner',
+		'2015-10-08 17:29:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_arb2_0.html',
+		'<p></p>',
+		'111679420201436658087',
+		'Avrumi Dresdner',
+		'2015-10-08 17:34:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-08 17:38:42' 
+			WHERE messageid=5639;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-08 17:38:45' 
+			WHERE messageid=5638;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_52.html',
+		'<p>להרחבה:</p><p>מי באמת כתב את התורה?</p><p>http://www.haaretz.co.il/magazine/the-edge/.premium-1.2640917</p><p>מי באמת כתב את נביאים ראשונים?</p><p>http://www.haaretz.co.il/magazine/the-edge/.premium-1.2662045</p><p>מי באמת כתב את &quot;נביאים אחרונים&quot;?</p><p>http://www.haaretz.co.il/magazine/the-edge/.premium-1.2705456</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-10-08 21:42:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_53.html',
+		'<p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-10-08 21:42:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-08 21:42:28' 
+			WHERE messageid=5641;
+
