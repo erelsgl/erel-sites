@@ -6284,3 +6284,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-08 21:42:28' 
 			WHERE messageid=5641;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html',
+		'<p>חזק וברוך</p>',
+		'106209499797705326174',
+		'Lion Pingle',
+		'2015-10-09 11:03:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0.html',
+		'<p>חזק וברוך </p>',
+		'106209499797705326174',
+		'Lion Pingle',
+		'2015-10-09 11:08:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html',
+		'<p>חזק וברוך</p>',
+		'106209499797705326174',
+		'Lion Pingle',
+		'2015-10-09 11:09:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p>דיון מעניין על המשיח ומטלותיו:</p><p>http://www.bhol.co.il/forums/topic.asp?topic_id=3101609&amp;whichpage=2&amp;forum_id=1364#R_7</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2015-10-09 17:47:17'
+		)
+		;
+

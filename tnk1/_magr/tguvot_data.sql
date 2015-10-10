@@ -2940,3 +2940,63 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t0101_53.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-09 11:03:15'
+		WHERE parent='tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-09 11:08:45'
+		WHERE parent='tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-09 11:09:17'
+		WHERE parent='tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_index_103.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-09 17:47:17'
+		WHERE parent='tnk1/messages/sofrim_shabot_index_103.html'
+		;
+

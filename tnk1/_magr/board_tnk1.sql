@@ -8006,3 +8006,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_53.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-09 11:03:15'
+		WHERE ktovt_bn='tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-09 11:08:45'
+		WHERE ktovt_bn='tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-09 11:09:17'
+		WHERE ktovt_bn='tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-09 17:47:17'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_103.html'
+		;
+
