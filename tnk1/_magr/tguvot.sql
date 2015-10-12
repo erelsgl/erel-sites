@@ -6332,3 +6332,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-11 08:39:59' 
+			WHERE messageid=5644;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_4.html',
+		'<p>קישורית אל הבלוג</p><p>https://liebermanorna.wordpress.com/2015/10/11/%d7%a8%d7%a9%d7%95%d7%9e%d7%94-%d7%9e%d7%a1-41-%d7%94%d7%9e%d7%a9%d7%91%d7%99%d7%a8-%d7%9c%d7%9b%d7%9c-%d7%a2%d7%9d-%d7%94%d7%90%d7%a8%d7%a5/#comments</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-10-11 09:39:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_orna_index_4.html',
+		'<p>המאמר פורסם לראשונה  ב&quot;מראה&quot;, מגזין בענייני מדינה, חברה ותרבות</p><p>http://www.maraah-magazine.com/</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-10-11 09:41:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-40-27.html',
+		'<p>פ</p><p></p>',
+		'106567265332525684946',
+		'pelegfamily',
+		'2015-10-11 14:41:31'
+		)
+		;
+

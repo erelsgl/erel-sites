@@ -8038,3 +8038,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_103.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/orna/index.html',
+				'tnk1/messages/sofrim_orna_index_4.html',
+				NULL,
+				'2015-10-11 09:37:42',
+				'2015-10-11 09:37:42',
+				'המשביר לכל עם הארץ',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-11 09:39:45'
+		WHERE ktovt_bn='tnk1/messages/sofrim_orna_index_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-11 09:41:34'
+		WHERE ktovt_bn='tnk1/messages/sofrim_orna_index_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-11 14:41:31'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-40-27.html'
+		;
+
