@@ -6375,3 +6375,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p> </p><p>ישעיהו סה25: &quot;זְאֵב וְטָלֶה יָרֵעוּ כְאֶחָד וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן וְנָחָשׁ עָפָר לַחְמוֹ לֹא יִרְעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי אָמַר יהוה\'&quot;</p><p>ישעיהו יא9: &quot;לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים&quot;</p><p>כשתמלא הארץ דעה את יהוה כמים יכסו על ים אז לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי [בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָים]</p><p>לכן רק הפצת הדעת בכל [כדור] הארץ היא המשימה הראשית שלנו בני ישראל</p><p> </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-12 13:58:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p> </p><p>ישעיהו סה25: &quot;זְאֵב וְטָלֶה יָרֵעוּ כְאֶחָד וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן וְנָחָשׁ עָפָר לַחְמוֹ לֹא יִרְעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי אָמַר יהוה\'&quot;</p><p>ישעיהו יא9: &quot;לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים&quot;</p><p>כשתמלא הארץ דעה את יהוה כמים יכסו על ים אז לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי [בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָים]</p><p>לכן רק הפצת הדעת בכל [כדור] הארץ היא המשימה הראשית שלנו בני ישראל</p><p> </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-12 18:24:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-12 18:25:03' 
+			WHERE messageid=5650;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-13 06:48:35' 
+			WHERE messageid=5648;
+
