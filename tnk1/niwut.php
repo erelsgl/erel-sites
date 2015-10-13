@@ -495,7 +495,7 @@ function tokn_lfi_tvnit($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_from_root
 		} elseif (strpos($line, "<%write without template%>")!==false) {
 			return $fullbody;
 		} elseif (strpos($line, "<%prjot%>")!==false) {
-			$prjot_content = file_get_contents("http://localhost/tnk/prjot_1255.php?format=html");
+			$prjot_content = file_get_contents("http://localhost/tnk/prjot_1255.php?format=content");
 			$fullbody .= $prjot_content;
 		} elseif (strpos($line, "<%whatsnew_textia%>")!==false) {
 			$main_land = "ארץ המקרא";
