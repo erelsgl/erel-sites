@@ -8078,3 +8078,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-40-27.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-12 13:58:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-12 18:24:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/atid.html',
+				'tnk1/msr/yovl.html',
+				NULL,
+				'2015-10-13 06:52:29',
+				'2015-10-13 06:52:29',
+				'ירושה שלישית ויובל ראשון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-10-13 06:52:29'
+			WHERE ktovt_bn='tnk1/msr/atid.html';
+
