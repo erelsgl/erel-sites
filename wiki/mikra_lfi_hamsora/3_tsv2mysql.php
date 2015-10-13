@@ -45,7 +45,7 @@ sql_queries_or_die('
 // 	');
 
 		
-include("4_mysql2wiki.php");
+//include("4_mysql2wiki_main.php");
 
 // update psuqim_dovi
 // set prefix = CONCAT("<noinclude>",prefix,"</noinclude>")
