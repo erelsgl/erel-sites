@@ -13,10 +13,10 @@ $chapter_rows = sql_query_or_die("
 			CONCAT('פרק',' ',chapter) AS chapter_section_name    -- for main space
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'ספר יהושע%'
-		--	OR chapter_id LIKE 'ספר שופטים%'
-		--	OR chapter_id LIKE 'ספר שמואל%'
-		--	OR chapter_id LIKE 'ספר מלכים%'
+		--	OR chapter_id LIKE 'ספר יהושע%'
+			OR chapter_id LIKE 'ספר שופטים%'
+			OR chapter_id LIKE 'ספר שמואל%'
+			OR chapter_id LIKE 'ספר מלכים%'
 		
 		--	OR chapter_id LIKE 'ספר ישעיהו%'
 		--	OR chapter_id LIKE 'ספר ירמיהו%'
