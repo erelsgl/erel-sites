@@ -6413,3 +6413,133 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-13 06:48:35' 
 			WHERE messageid=5648;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>השנה הזאת היא בווודאות לא שנת יובל</p><p>הסנהדרין האלה חבורה של בוגדים </p><p>ואתם תשאלו את עצמכם במי אתם מאמינים במי שעשה קורס דיינות או מי שנולד דיין מבטן הריון</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-13 10:08:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>דברים ל5: &quot;וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ וִירִשְׁתָּהּ וְהֵיטִבְךָ וְהִרְבְּךָ מֵאֲבֹתֶיךָ&quot; </p><p>וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ =ככתוב: [דברים ח8]: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;</p><p>דברים ח7: &quot;כִּי יהוה אֱלֹהֶיךָ מְבִיאֲךָ אֶל אֶרֶץ טוֹבָה אֶרֶץ נַחֲלֵי מָיִם עֲיָנֹת וּתְהֹמֹת יֹצְאִים בַּבִּקְעָה וּבָהָר&quot;</p><p>וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ = כאשר ירשו אבותינו הקדושים אברהם יצחק ויעקב וכן בני ישראל בבואם לארץ כנען</p><p>ולא מדובר על ארץ גלות כיום הזה במדינת ישראל הנוכחית ארץ אספלט ומגדלי בטון</p><p>ספר דברים פרק כט כתוב: </p><p>(כא) וְאָמַר הַדּוֹר הָאַחֲרוֹן בְּנֵיכֶם אֲשֶׁר יָקוּמוּ מֵאַחֲרֵיכֶם וְהַנָּכְרִי אֲשֶׁר יָבֹא מֵאֶרֶץ רְחוֹקָה וְרָאוּ אֶת מַכּוֹת הָאָרֶץ הַהִוא וְאֶת תַּחֲלֻאֶיהָ אֲשֶׁר חִלָּה יְהֹוָה בָּהּ: </p><p>(כב) גָּפְרִית וָמֶלַח שְׂרֵפָה כָל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וּצְבֹיִים }וּצְבוִֹים{ אֲשֶׁר הָפַךְ יְהֹוָה בְּאַפּוֹ וּבַחֲמָתוֹ: </p><p>(כג) וְאָמְרוּ כָּל הַגּוֹיִם עַל מֶה עָשָׂה יְהֹוָה כָּכָה לָאָרֶץ הַזֹּאת מֶה חֳרִי הָאַף הַגָּדוֹל הַזֶּה: </p><p>(כד) וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת בְּרִית יְהֹוָה אֱלֹהֵי אֲבֹתָם אֲשֶׁר כָּרַת עִמָּם בְּהוֹצִיאוֹ אֹתָם מֵאֶרֶץ מִצְרָיִם: </p><p>(כה) וַיֵּלְכוּ וַיַּעַבְדוּ אֱלֹהִים אֲחֵרִים וַיִּשְׁתַּחֲווּ לָהֶם אֱלֹהִים אֲשֶׁר לֹא יְדָעוּם וְלֹא חָלַק לָהֶם: </p><p>(כו) וַיִּחַר אַף יְהֹוָה בָּאָרֶץ הַהִוא לְהָבִיא עָלֶיהָ אֶת כָּל הַקְּלָלָה הַכְּתוּבָה בַּסֵּפֶר הַזֶּה: </p><p>(כז) וַיִּתְּשֵׁם יְהֹוָה מֵעַל אַדְמָתָם בְּאַף וּבְחֵמָה וּבְקֶצֶף גָּדוֹל וַיַּשְׁלִכֵם אֶל אֶרֶץ אֲחֶרֶת כַּיּוֹם הַזֶּה: </p><p>[כי מדינת ישראל בדור הזה היא  אֶרֶץ אֲחֶרֶת כַּיּוֹם הַזֶּה ולא הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-13 10:47:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>דברים ל5: &quot;וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ וִירִשְׁתָּהּ וְהֵיטִבְךָ וְהִרְבְּךָ מֵאֲבֹתֶיךָ&quot;</p><p>וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ =ככתוב: [דברים ח8]: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;</p><p>דברים ח7: &quot;כִּי יהוה אֱלֹהֶיךָ מְבִיאֲךָ אֶל אֶרֶץ טוֹבָה אֶרֶץ נַחֲלֵי מָיִם עֲיָנֹת וּתְהֹמֹת יֹצְאִים בַּבִּקְעָה וּבָהָר&quot;</p><p>וֶהֱבִיאֲךָ יהוה אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ = כאשר ירשו אבותינו הקדושים אברהם יצחק ויעקב וכן בני ישראל בבואם לארץ כנען</p><p>ולא מדובר על ארץ גלות כיום הזה במדינת ישראל הנוכחית ארץ אספלט ומגדלי בטון</p><p>ספר דברים פרק כט כתוב:</p><p>(כא) וְאָמַר הַדּוֹר הָאַחֲרוֹן בְּנֵיכֶם אֲשֶׁר יָקוּמוּ מֵאַחֲרֵיכֶם וְהַנָּכְרִי אֲשֶׁר יָבֹא מֵאֶרֶץ רְחוֹקָה וְרָאוּ אֶת מַכּוֹת הָאָרֶץ הַהִוא וְאֶת תַּחֲלֻאֶיהָ אֲשֶׁר חִלָּה יְהֹוָה בָּהּ:</p><p>(כב) גָּפְרִית וָמֶלַח שְׂרֵפָה כָל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וּצְבֹיִים }וּצְבוִֹים{ אֲשֶׁר הָפַךְ יְהֹוָה בְּאַפּוֹ וּבַחֲמָתוֹ:</p><p>(כג) וְאָמְרוּ כָּל הַגּוֹיִם עַל מֶה עָשָׂה יְהֹוָה כָּכָה לָאָרֶץ הַזֹּאת מֶה חֳרִי הָאַף הַגָּדוֹל הַזֶּה:</p><p>(כד) וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת בְּרִית יְהֹוָה אֱלֹהֵי אֲבֹתָם אֲשֶׁר כָּרַת עִמָּם בְּהוֹצִיאוֹ אֹתָם מֵאֶרֶץ מִצְרָיִם:</p><p>(כה) וַיֵּלְכוּ וַיַּעַבְדוּ אֱלֹהִים אֲחֵרִים וַיִּשְׁתַּחֲווּ לָהֶם אֱלֹהִים אֲשֶׁר לֹא יְדָעוּם וְלֹא חָלַק לָהֶם:</p><p>(כו) וַיִּחַר אַף יְהֹוָה בָּאָרֶץ הַהִוא לְהָבִיא עָלֶיהָ אֶת כָּל הַקְּלָלָה הַכְּתוּבָה בַּסֵּפֶר הַזֶּה:</p><p>(כז) וַיִּתְּשֵׁם יְהֹוָה מֵעַל אַדְמָתָם בְּאַף וּבְחֵמָה וּבְקֶצֶף גָּדוֹל וַיַּשְׁלִכֵם אֶל אֶרֶץ אֲחֶרֶת כַּיּוֹם הַזֶּה:</p><p>כי מדינת ישראל בדור הזה היא אֶרֶץ אֲחֶרֶת כַּיּוֹם הַזֶּה ולא הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-13 10:48:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-13 10:48:18' 
+			WHERE messageid=5652;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>אתה כנראה לא מסתובב במקומות הנכונים.</p><p>לך לכאן: http://www.masa.co.il/article/2230/%D7%98%D7%99%D7%95%D7%9C-%D7%90%D7%9C-%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%94%D7%A1%D7%98%D7%A3/</p><p>ותראה איך הברכה מתקיימת במדוייק. נחלי מים, עיינות ותהומות בבקעה ובהר, גפן ותאנה ורימון ועוד הרבה פירות טובים.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-10-13 21:38:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>אראל היקר לא די בכמה מקומות &quot;נכונים&quot; ספורים ובודדים צריך שכל הארץ תהיה &quot;נכונה&quot; כאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבֹתֶיךָ </p><p>ובימי אבותינו הקדושים היו חיים [בטבע] באדמה ומרעה לצאן ובקר והיום נגזלו השדות ואין שדה לחיית השדה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-14 06:25:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5605 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5606 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5608 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5642 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5643 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5645 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5646 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5647 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5649 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>השנה הזאת היא בווודאות לא שנת יובל</p>\r\n\r\n<p>ואתם תשאלו את עצמכם במי אתם מאמינים במי שעשה קורס דיינות או מי שנולד דיין מבטן הריון</p>', `deleted_at` = NULL WHERE `messageid` = 5651 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5652 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5653 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5654 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5655 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-14 07:04:16' 
+			WHERE messageid=3244;
+
