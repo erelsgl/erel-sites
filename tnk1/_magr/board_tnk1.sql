@@ -8242,3 +8242,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/yovl.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-14 18:38:34'
+		WHERE ktovt_bn='tnk1/msr/yovl.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0214.htm',
+				'tnk1/messages/prqim_t0214_5.html',
+				NULL,
+				'2015-10-14 20:49:01',
+				'2015-10-14 20:49:01',
+				'האם הנס משמש כראיה לאמונה? לפי הרמב\"ם ולפי פשט הכתובים',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-15 04:23:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0214_5.html'
+		;
+
