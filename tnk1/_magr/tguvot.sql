@@ -6634,3 +6634,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-16 02:45:59' 
 			WHERE messageid=5661;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-16 13:41:52' 
+			WHERE messageid=5645;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_103.html',
+		'<p>דיון על המשיח ומטלותיו:</p><p>http://www.bhol.co.il/forums/topic.asp?topic_id=3101609&amp;whichpage=2&amp;forum_id=1364#R_7</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2015-10-16 13:42:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לאפי שלי לידה קלה ומוצלחת!</p>',
+		'104806457377912598981',
+		'גילה ויצמן',
+		'2015-10-16 17:38:38'
+		)
+		;
+
