@@ -8346,3 +8346,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-17 09:03:53'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_gml3_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-17 09:04:00'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_gml3_0.html'
+		;
+

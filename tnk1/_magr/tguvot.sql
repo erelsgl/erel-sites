@@ -6665,3 +6665,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_gml3_0.html',
+		'<p>תודה רבה לכם</p><p></p>',
+		'114255608486934544639',
+		'ofek blom',
+		'2015-10-17 09:03:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_gml3_0.html',
+		'<p>תגובה ראשונה</p>',
+		'114255608486934544639',
+		'ofek blom',
+		'2015-10-17 09:04:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-17 22:27:07' 
+			WHERE messageid=5666;
+
