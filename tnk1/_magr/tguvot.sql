@@ -6696,3 +6696,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-10-17 22:27:07' 
 			WHERE messageid=5666;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-33-01.html',
+		'<p>שלום,אני תלמיד בכתה ה ורציתי לשאול  מדוע היכן  מתי מוכיח משה את בני ישראל?</p>',
+		'117188195001350110856',
+		'Ronald Rakov',
+		'2015-10-18 15:20:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-33-01.html',
+		'<p>שלום לתלמיד בכיתה ה</p><p>ראה בספר דברים ככתוב:</p><p>דברים ט7: &quot;זְכֹר אַל תִּשְׁכַּח אֶת אֲשֶׁר הִקְצַפְתָּ אֵת יהוה אֱלֹהֶיךָ בַּמִּדְבָּר לְמִן הַיּוֹם אֲשֶׁר יָצָאתָ מֵאֶרֶץ מִצְרַיִם עַד בֹּאֲכֶם עַד הַמָּקוֹם הַזֶּה מַמְרִים הֱיִיתֶם עִם יהוה &quot;</p><p>דברים ט24: &quot;מַמְרִים הֱיִיתֶם עִם יהוה מִיּוֹם דַּעְתִּי אֶתְכֶם&quot;</p><p>דברים לא27: &quot;כִּי אָנֹכִי יָדַעְתִּי אֶת מֶרְיְךָ וְאֶת עָרְפְּךָ הַקָּשֶׁה הֵן בְּעוֹדֶנִּי חַי עִמָּכֶם הַיּוֹם מַמְרִים הֱיִתֶם עִם יהוה וְאַף כִּי אַחֲרֵי מוֹתִי&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-18 15:47:21'
+		)
+		;
+

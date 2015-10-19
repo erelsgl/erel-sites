@@ -8362,3 +8362,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_gml3_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-18 15:20:32'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-33-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-18 15:47:21'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-33-01.html'
+		;
+
