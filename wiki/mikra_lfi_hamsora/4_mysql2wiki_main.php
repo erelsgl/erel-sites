@@ -14,9 +14,9 @@ $chapter_rows = sql_query_or_die("
 		FROM psuqim_dovi
 		WHERE 0
 		--	OR chapter_id LIKE 'ספר יהושע%'
-			OR chapter_id LIKE 'ספר שופטים%'
-			OR chapter_id LIKE 'ספר שמואל%'
-			OR chapter_id LIKE 'ספר מלכים%'
+		--	OR chapter_id LIKE 'ספר שופטים%'
+		-- OR chapter_id LIKE 'ספר שמואל%'
+		--	OR chapter_id LIKE 'ספר מלכים%'
 		
 		--	OR chapter_id LIKE 'ספר ישעיהו%'
 		--	OR chapter_id LIKE 'ספר ירמיהו%'
@@ -27,11 +27,11 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר תהלים%'
 		--	OR chapter_id LIKE 'ספר איוב%'
 		
-		--	OR chapter_id LIKE 'ספר ויקרא%'
-		--	OR chapter_id LIKE 'ספר במדבר%'
-		--	OR chapter_id LIKE 'ספר בראשית%'
-		--	OR chapter_id LIKE 'ספר שמות%'
-		--	OR chapter_id LIKE 'ספר דברים%'
+			OR chapter_id LIKE 'ספר בראשית%'
+			OR chapter_id LIKE 'ספר שמות%'
+			OR chapter_id LIKE 'ספר ויקרא%'
+			OR chapter_id LIKE 'ספר במדבר%'
+			OR chapter_id LIKE 'ספר דברים%'
 		
 		GROUP BY chapter_id
 		");

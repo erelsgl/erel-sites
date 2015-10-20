@@ -178,7 +178,7 @@ function html_for_long_cell($data) {
 	return (!isempty($data["content"])? "
 		<div class='cell $data[mainclass] $data[class]'>
 			".($data['icon']? "<img class='imgsubtitle' src='$data[icon]' />": "")."
-			<h2 class='subtitle'>&nbsp;&nbsp;&nbsp;&nbsp;$data[subtitle]</h2>
+			<h2 class='subtitle'>$data[subtitle]</h2>
 			".autowidth("$data[content]")."
 		</div>": "");
 }
