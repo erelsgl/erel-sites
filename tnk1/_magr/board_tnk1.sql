@@ -8424,3 +8424,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-10-20 04:30:08'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-20 14:07:36'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-21 03:17:43'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
+		;
+

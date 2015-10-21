@@ -6720,3 +6720,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_5.html',
+		'<p>אופירה, רק עכשיו קראתי את דבריך ואני חותם על מסקנתך. </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2015-10-20 14:07:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-2027.html',
+		'<p>מהכתוב משתמע שנח קילל את כנען מיד אחרי שהקיץ מיינו. איך הוא ידע לקלל את כנען כאשר רק לפני דקות ספורות בא חם על אשת נח וכמו שאתה כותב: &quot;וביאה זו הפכה אותו לאבי כנען&quot;. אבל לא היה עוד כנען כדי שנח יוכל לקללו. האם הוא ידע ברוח הקודש שזה יהיה שמו? האם חיכה תשעה חדשים עד שנולד וקיבל את שמו ואז קיללו? מהו ההסבר שלך לכך?</p>',
+		'110274873776211545292',
+		'Joseph Zerilan',
+		'2015-10-21 03:17:43'
+		)
+		;
+

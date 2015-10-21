@@ -3409,3 +3409,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/dvrim/dm-33-01.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_index_5.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-20 14:07:36'
+		WHERE parent='tnk1/messages/sofrim_shabot_index_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-09-2027.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-21 03:17:43'
+		WHERE parent='tnk1/tora/brejit/br-09-2027.html'
+		;
+
