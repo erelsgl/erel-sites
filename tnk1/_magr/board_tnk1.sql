@@ -8440,3 +8440,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-21 08:08:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-21 09:14:23'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-21 18:49:03'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
+		;
+

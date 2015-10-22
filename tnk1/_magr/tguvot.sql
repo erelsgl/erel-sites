@@ -6744,3 +6744,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>מצוה עלי לכתוב זאת לבני ישראל וישמחו עמי בנצח ישראל</p><p>***********************************************************</p><p>זכריה יד3: &quot;וְיָצָא יהוה וְנִלְחַם בַּגּוֹיִם הָהֵם כְּיוֹם הִלָּחֲמוֹ בְּיוֹם קְרָב&quot;</p><p>איך יצא יהוה להלחם הן לא כמעשה עמלק לקחת חרב אדם</p><p>אך יצא יהוה באהבתו להלחם בתוך עמו בקרב בני ישראל</p><p>ועשו בני ישראל צדקה ומשפט ואהבת אלהים בין איש לרעהו</p><p>והייתה אש אהבת ישראל ככור השמש לעיני כל הגוים</p><p>ואמנם טובה השמש לחמם ולהאיר לכל נפש החי והצומח</p><p>אך כל אשר בזדון יקרב אל השמש ישרף באש אלהים</p><p>ספר תהלות פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים </p><p>חֵן וְכָבוֹד יִתֵּן יהוה לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-21 08:08:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-2027.html',
+		'<p>שאלתך מתייחסת לפירושו של איתי אליצור. אתה מוזמן לפנות אליו ישירות ולשאול אותו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-10-21 09:14:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-2027.html',
+		'<p>האם יש לך אפשרות להעביר לי אימייל או נקודת קישור אחרת לאיתי אליצור? תודה מראש</p>',
+		'110274873776211545292',
+		'Joseph Zerilan',
+		'2015-10-21 18:49:03'
+		)
+		;
+
