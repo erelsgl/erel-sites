@@ -8464,3 +8464,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_79.html',
+				NULL,
+				'2015-10-22 11:35:18',
+				'2015-10-22 11:35:18',
+				'על \"סיטרא אחרא\" מאת עלי אלון',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
