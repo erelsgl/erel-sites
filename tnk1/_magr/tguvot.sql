@@ -6780,3 +6780,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-2027.html',
+		'<p>הוא נמצא בפייסבוק בשם &quot;איתי אליצור&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-10-23 14:13:13'
+		)
+		;
+
