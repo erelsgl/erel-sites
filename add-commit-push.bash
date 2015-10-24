@@ -3,11 +3,11 @@ cd $DIR
 echo --------------------
 date
 echo == add ==
-git add -A
+/usr/bin/git add -A
 echo == commit ==
-git commit -m "$1"
+/usr/bin/git commit -m "$1"
 echo == pull ==
-git pull
+/usr/bin/git pull
 echo == push ==
-git push
+/usr/bin/git push
 
