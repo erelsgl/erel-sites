@@ -218,3 +218,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('דוד לעומת שלמה - תהלים לעומת משלי', 'ביאור:משלי טז1', 'לב טהור ברא לי - לאדם מערכי לב', '', 60, 60, '2015-10-02 12:16:47');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('שביל הזהב', 'ביאור:משלי יט2', 'איזון בין לבד לבין ביחד', '', 60, 60, '2015-10-25 05:38:21');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מידת האיזון', 'ביאור:משלי יט2', 'איזון בין לבד לבין ביחד', '', 60, 60, '2015-10-25 05:38:42');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sug` = 'מידה טובה', `tarik_hosfa` = '2015-10-25 05:38:51' WHERE `av` = 'מידת האיזון' AND `bn` = 'ביאור:משלי יט2' AND 1 LIMIT 1;
+

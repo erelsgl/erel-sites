@@ -8504,3 +8504,58 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-24 15:56:27'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-03-01.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9.html',
+				'tnk1/messages/sig_9_21.html',
+				NULL,
+				'2015-10-24 17:15:17',
+				'2015-10-24 17:15:17',
+				'על \"חכמת נשים\" מאת נילי בוכמן-סלונימסקי',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-10-24 17:15:17'
+			WHERE ktovt_bn='tnk1/sig/9.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_80.html',
+				NULL,
+				'2015-10-24 17:16:52',
+				'2015-10-24 17:16:52',
+				'על \"קבלה ופסיכואנליזה\" מאת חביבה פדיה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-24 21:00:30'
+		WHERE ktovt_bn='tnk1/messages/sig_9_21.html'
+		;
+

@@ -3499,3 +3499,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/brejit/br-09-2027.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuela/ja-03-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-24 15:56:27'
+		WHERE parent='tnk1/nvir/jmuela/ja-03-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sig_9_21.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-10-24 21:00:30'
+		WHERE parent='tnk1/messages/sig_9_21.html'
+		;
+
