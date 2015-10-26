@@ -8559,3 +8559,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sig_9_21.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-25 09:00:45'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-20-12.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_81.html',
+				NULL,
+				'2015-10-25 10:44:12',
+				'2015-10-25 10:44:12',
+				'על \"יהדות ומקורות הנצרות\" מאת דוד פלוסר',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-25 17:05:16'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-20-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-25 17:08:53'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-20-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-26 05:03:34'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+

@@ -6816,3 +6816,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-20-12.html',
+		'<p>אחי, מאוד אוהב את האתר שלך. חילך לאורייתא!</p>',
+		'115734370361729991146',
+		'daniel vana',
+		'2015-10-25 09:00:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-20-12.html',
+		'<p></p><p>אִמְרִי נָא אֲחֹתִי אָתְּ לְמַעַן יִיטַב לִי בַעֲבוּרֵךְ וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ [ יחיה זרעי בגופך בצלמך]</p><p> וַיֹּאמֶר אַבְרָהָם כִּי אָמַרְתִּי רַק אֵין יִרְאַת אֱלֹהִים בַּמָּקוֹם הַזֶּה וַהֲרָגוּנִי עַל דְּבַר אִשְׁתִּי</p><p>וְגַם אָמְנָה אֲחֹתִי בַת אָבִי הִוא אַךְ לֹא בַת אִמִּי </p><p>-</p><p>אברהם אומר לאבימלך כי לא שיקר לו בעניין שרה אחותו רק הסתיר את העובדה ששרה אשתו</p><p>זו הדרך של הצדיקים להמנע מכל שקר ואכן אברהם לא שיקר לאבימלך כי שרה אחותו בת אביו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-25 17:05:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-20-12.html',
+		'<p></p><p>אִמְרִי נָא אֲחֹתִי אָתְּ לְמַעַן יִיטַב לִי בַעֲבוּרֵךְ וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ [ יחיה זרעי בגופך בצלמך]</p><p> וַיֹּאמֶר אַבְרָהָם כִּי אָמַרְתִּי רַק אֵין יִרְאַת אֱלֹהִים בַּמָּקוֹם הַזֶּה וַהֲרָגוּנִי עַל דְּבַר אִשְׁתִּי</p><p>וְגַם אָמְנָה אֲחֹתִי בַת אָבִי הִוא אַךְ לֹא בַת אִמִּי </p><p>-</p><p>אברהם אומר לאבימלך כי לא שיקר לו בעניין שרה אחותו רק הסתיר את העובדה ששרה אשתו</p><p>זו הדרך של הצדיקים להמנע מכל שקר ואכן אברהם לא שיקר לאבימלך כי שרה אחותו בת אביו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-10-25 17:08:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-25 17:09:04' 
+			WHERE messageid=5679;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום זקוקה להלואה דחופה סך 20000שח עקב מצב כלכלי קשה  אודה אם תיצרו איתי קשר 0546308582</p>',
+		'117964431047943382015',
+		'יעל ארד',
+		'2015-10-26 05:03:34'
+		)
+		;
+
