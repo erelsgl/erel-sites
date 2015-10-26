@@ -33,7 +33,7 @@ function get_error (){
 
 function &db_get_link($db_host, $db_user, $db_pass, $debug=false) {
     // Open Connection
-    $db_link=mysql_connect($db_host,$db_user,$db_pass);
+    $db_link=@mysql_connect($db_host,$db_user,$db_pass);
     if ($db_link) {
     	return $db_link;
     } else {

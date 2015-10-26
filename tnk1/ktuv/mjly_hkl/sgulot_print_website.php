@@ -169,7 +169,7 @@ while ($row = sql_fetch_assoc($rows)) {
 
 	$row['tosfot'] = ""; // "send to next page" is meaningless in the website
 	$fullbody = html_for_page($row, $book_number, $book_name, /*link to verse=*/true, /*icons=*/false);
-
+	
 	$fullbody = "
 		<div id='tokn'>
 		$navigation
@@ -181,7 +181,12 @@ while ($row = sql_fetch_assoc($rows)) {
 		<li></li>
 		</ul><!--end-->
 		";
+	//print "xxx $fullbody xxx";
 	$fullbody = iconv("UTF-8", "Windows-1255", $fullbody);
+	if (!$fullbody) 
+		user_error("iconv failed to translate fullbody!",E_USER_ERROR);
+	//$fullbody = utf8_to_windows1255($fullbody);
+	//print "yyy $fullbody yyy";
 	$origsubject = "";
 
 	$tvnit = "";
