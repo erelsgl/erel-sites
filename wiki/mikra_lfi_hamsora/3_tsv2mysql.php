@@ -1,4 +1,15 @@
 <?php
+/**
+ * To use this script:
+ * 
+ * A. Go to the Google-spreadsheet Miqra_al_pi_ha-Mesorah.
+ * B. Go to the specific sheet that you want to update.
+ * C. File -> Download as -> Tab-separated values (.tsv).
+ * D. Save as "3_from_spreadsheet.tsv".
+ * E. Run the current script 3_tsv2mysql.php to update the local database.
+ * F. Go to the script 4_mysql2wiki_main.php to create a file for uploading to Wikisource.
+ */
+
 require_once('../0_common.php');
 
 $FILENAME_INPUT = dirname(__FILE__)."/3_from_spreadsheet.tsv";
@@ -9,7 +20,7 @@ sql_queries_or_die("
 	chapter_id varchar(255),
 	verse_letter char(3),
 	prefix text,
-	verse_letter_text varchar(255),
+	verse_letter_text text,
 	verse_text mediumtext,
 	stylized_text mediumtext,
 	PRIMARY KEY(chapter_id,verse_letter)
@@ -44,7 +55,7 @@ sql_queries_or_die('
 // 	where prefix like "%/A|%"
 // 	');
 
-		
+
 //include("4_mysql2wiki_main.php");
 
 // update psuqim_dovi
