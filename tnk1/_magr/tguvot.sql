@@ -6871,3 +6871,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-03-14.html',
+		'<p></p>',
+		'104837810749237659112',
+		'Yanir Segev',
+		'2015-10-28 09:06:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-03-14.html',
+		'<p>ההסבר הינו מדעי בלבד.א-גם גדולי המדענים והפילוסופים אינם יכולים להגדיר  את מושג ההוייה לכן המספר המקראי רומז בשם אהיה אשר אהיה.שבעצם לא משנה מי ההויה כמו שאנחנו שואלים שאלה כלשהיא על פלוני  והתשובה היא מה זה משנה יהיה מי שיהיה וכך המספר המקראי מצטרף לאנשי המדע שאינו יכל להגדיר את מושג האלהות ולכן עונה לא משנה אהיה אשר אהיה                                                        2.והסנה איננו אובל האש הינה האנרגיה בטבע שגם היא לעולם לא נגמרת</p>',
+		'104837810749237659112',
+		'Yanir Segev',
+		'2015-10-28 09:15:12'
+		)
+		;
+
