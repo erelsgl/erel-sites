@@ -1,11 +1,19 @@
 <?php
+/**
+ * To use this script:
+ * 
+ * A. Make sure the local database is updated (see 3_tsv2mysql.php).
+ * B. Select books to upload by uncommenting lines in the current script.
+ * C. Run the current script 4_mysql2wiki_main.php to create the file "4_to_wiki.existing.txt".
+ * D. Run "perl upload2wiki.pl mikra_lfi_hamsora/4_to_wiki.existing.txt" to upload the file to wikisource.
+ */
 require_once('../0_common.php');
 
 if (empty($FILENAME_OUTPUT)) $FILENAME_OUTPUT = "4_to_wiki.existing.txt";
 
 $chapter_rows = sql_query_or_die("
 		SELECT  
-			(MAX(LENGTH(stylized_text))>0) AS has_stylized_text, 
+			(MAX(LENGTH(stylized_text))>2) AS has_stylized_text, 
 			chapter_id, 
 		 	-- chapter_id AS chapter_page_name, -- for Dovi's pages
 			-- CONCAT(book_name,' ',chapter) AS chapter_section_name    -- for Dovi's pages
@@ -13,10 +21,10 @@ $chapter_rows = sql_query_or_die("
 			CONCAT('פרק',' ',chapter) AS chapter_section_name    -- for main space
 		FROM psuqim_dovi
 		WHERE 0
-		--	OR chapter_id LIKE 'ספר יהושע%'
-		--	OR chapter_id LIKE 'ספר שופטים%'
-		-- OR chapter_id LIKE 'ספר שמואל%'
-		--	OR chapter_id LIKE 'ספר מלכים%'
+			OR chapter_id LIKE 'ספר יהושע%'
+			OR chapter_id LIKE 'ספר שופטים%'
+			OR chapter_id LIKE 'ספר שמואל%'
+			OR chapter_id LIKE 'ספר מלכים%'
 		
 		--	OR chapter_id LIKE 'ספר ישעיהו%'
 		--	OR chapter_id LIKE 'ספר ירמיהו%'
@@ -27,11 +35,11 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר תהלים%'
 		--	OR chapter_id LIKE 'ספר איוב%'
 		
-			OR chapter_id LIKE 'ספר בראשית%'
-			OR chapter_id LIKE 'ספר שמות%'
-			OR chapter_id LIKE 'ספר ויקרא%'
-			OR chapter_id LIKE 'ספר במדבר%'
-			OR chapter_id LIKE 'ספר דברים%'
+		--	OR chapter_id LIKE 'ספר בראשית%'
+		--	OR chapter_id LIKE 'ספר שמות%'
+		--	OR chapter_id LIKE 'ספר ויקרא%'
+		--	OR chapter_id LIKE 'ספר במדבר%'
+		--	OR chapter_id LIKE 'ספר דברים%'
 		
 		GROUP BY chapter_id
 		");

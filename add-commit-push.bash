@@ -1,14 +1,14 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
-echo --------------------
+echo ==== erel-sites ====
 date
-echo == add ==
+echo -- add --
 /usr/bin/git add -A
-echo == commit ==
+echo -- commit --
 /usr/bin/git commit -m "$1"
-echo == pull ==
+echo -- pull --
 /usr/bin/git pull
-echo == push ==
+echo -- push --
 /usr/bin/git push
 
