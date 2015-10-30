@@ -6895,3 +6895,113 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-29 14:06:17' 
+			WHERE messageid=5681;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-29 14:06:19' 
+			WHERE messageid=2288;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p>yytabib@gmil.fom</p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:34:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p></p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:35:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p></p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:36:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p></p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:47:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p>זוהי הסימא והמייל </p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:49:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/citutim.html',
+		'<p></p>',
+		'103903919294707734720',
+		'יחיאל טביב',
+		'2015-10-29 16:50:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/jlom_erel.html',
+		'<p>הקריאה לשלום אמורה להיות מסודרת על ידי הממשלה וכוללת מתן 3 אפשרויות לכל נכרי בארץ  1] שיקבל עליו 7 מצוות בני נח ויישאר בארץ כמעין גר תושב 2]מי שלא מעונין יינתן לו זמן וממון סביר תמורת ביתו ויוכל להגר בשלום ולהתבסס בארץ אחרת (גם בזמן יהושע בן  נון הגרגשי פינו הארץ ולפי חז&quot;ל קבלו ארץ טובה ופוריה . 3] אזהרה שמי שמתעקש להשאר בארץ ולא לקבל מרות שלטון ישראל בתנאי מעין גר תושב (בזמננו שאין מקבלים גר תושב אבל עדייןמ אסור לתת בארץ שלטון לנכריםזה מעין גר תושב ולא ממש גר תושב ) יאלצו אותו בכח לפנות ויילחמו נגדו . הם יכולים להתייחס לזה ברצינות רק אם תהיה ממשלה הלכתית. אבל גם אדם פרטי יכול לקרא לשלום להסביר 7מצוות בני נח וכן את זכותינו על הארץ לפי הדת וכן עוד כל מיני דברים כגון שכתוב שישראל בארץ יהיו לברכה לכל עמי העולם. </p>',
+		'116576990725092823416',
+		'אליעזר מעוז שלום',
+		'2015-10-30 07:35:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/jlom_erel.html',
+		'<p>הקריאה לשלום אמורה להיות מסודרת על ידי הממשלה וכוללת מתן 3 אפשרויות לכל נכרי בארץ  1] שיקבל עליו 7 מצוות בני נח ויישאר בארץ כמעין גר תושב 2]מי שלא מעונין יינתן לו זמן וממון סביר תמורת ביתו ויוכל להגר בשלום ולהתבסס בארץ אחרת (גם בזמן יהושע בן  נון הגרגשי פינו הארץ ולפי חז&quot;ל קבלו ארץ טובה ופוריה . 3] אזהרה שמי שמתעקש להשאר בארץ ולא לקבל מרות שלטון ישראל בתנאי מעין גר תושב (בזמננו שאין מקבלים גר תושב אבל עדייןמ אסור לתת בארץ שלטון לנכריםזה מעין גר תושב ולא ממש גר תושב ) יאלצו אותו בכח לפנות ויילחמו נגדו . הם יכולים להתייחס לזה ברצינות רק אם תהיה ממשלה הלכתית. אבל גם אדם פרטי יכול לקרא לשלום להסביר 7מצוות בני נח וכן את זכותינו על הארץ לפי הדת וכן עוד כל מיני דברים כגון שכתוב שישראל בארץ יהיו לברכה לכל עמי העולם. </p>',
+		'116576990725092823416',
+		'אליעזר מעוז שלום',
+		'2015-10-30 07:36:01'
+		)
+		;
+
