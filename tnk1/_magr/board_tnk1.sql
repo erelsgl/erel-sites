@@ -8692,3 +8692,83 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-10-28 17:09:39'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2614.htm',
+				'tnk1/messages/alhym_bdwr_cdyq___lrbe_eygwl.pdf',
+				NULL,
+				'2015-10-29 11:09:46',
+				'2015-10-29 11:09:46',
+				'כי אלהים בדור צדיק = לרבע עיגול',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:34:54'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:35:08'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:36:13'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:47:40'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:49:57'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-29 16:50:04'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/citutim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-30 07:35:47'
+		WHERE ktovt_bn='tryg/mamr/jlom_erel.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-30 07:36:01'
+		WHERE ktovt_bn='tryg/mamr/jlom_erel.html'
+		;
+
