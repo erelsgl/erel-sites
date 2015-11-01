@@ -8828,3 +8828,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-31 14:54:15'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/mnhgy_evl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-10-31 18:20:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_12.html'
+		;
+

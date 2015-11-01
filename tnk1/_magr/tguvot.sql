@@ -7072,3 +7072,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mnhgy_evl.html',
+		'<p>אכן אין בשום מקום בתנ&quot;ך  ציווי כל שהו על צורת /  ימים /מעשים לגבי אבלות . כל שיש הוא מינהגים , והיא עניין של מסורת . ולא ציווי . </p>',
+		'101783263882312849955',
+		'רווז ליטמן',
+		'2015-10-31 14:54:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-31 17:37:36' 
+			WHERE messageid=5689;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_12.html',
+		'<p>זהר: חגי- קראתי מרותק. תודה. אמנם מדובר על מערכת יחסים בין אב לבן אך הדברים לקחו אותי לילדות המורכבת, המטלטלת, שמספר עליה עמוס עוז בספרו ׳סיפור על אהבה וחושך׳, ועל ילדותו ונערותו בצל אמו הנוגה, הדיכאונית ואביו הכותב, האינטלקטואל, שלעיתים ממותק לגמרי מהווית החיים של ילדו. והעקידה, אקט לקיחת חיים מתוכנן, הזכירה לי את השבר הנורא שחווה הילד עמוס עוז כשאמו התאבדה. ומחשבה שעלתה בראשי היא איזו ילדות חווה יצחק הקטן כבנו של אברהם ושרה, עוד בטרם טראומת העקידה הנוראה ובפרט- אחריה. תודה .</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-10-31 18:20:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-10-31 19:02:15' 
+			WHERE messageid=5697;
+
