@@ -7231,3 +7231,84 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-11-02 06:21:16' 
 			WHERE messageid=5703;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>יפה ומעניין מאוד.</p><p>הייתי מוסיף שספק קהלת מדבר הרבה על לחיות את החיים כפי שהם, על גשמיותם, בשמחה, כמו למשל:</p><p>קהלת ט7: &quot;לך אכל בשמחה לחמך ושתה בלב טוב יינך כי כבר רצה האלהים את מעשיך&quot;</p><p>לכן &quot;צדיק הרבה&quot; אפשר להבין - הרבה מדי, וכן &quot;תתחכם יותר&quot; אפשר להבין - &quot;יותר מדי&quot;, ומהו ה&quot;די&quot;? - זה מה שדרוש לחיים העצמם, ולא מעבר להם, כלומר משהו שלא נצרך.</p><p>ועוד, דוגמא ל&quot;צדיק הרבה&quot;, במובן של יותר מדי, אולי אפשר לראות באיוב, שהקריב קורבנות עבור בניו רק משום המחשבה שאולי חטאו, אף שלא הייתה כל ראיה לכך. אפשר לפרש, שלא ממש כפשט הסיפור, שזה מה שגרם לקטרוג עליו ולנסיונו על ידי האל, ובמובן הזה מוטב להימנע מכך.</p><p>וכן האדם צריך לדעת את מקומו (מידת הענווה כנגד הגאווה, כפי שצוטטתי בפנים), שהרי: &quot;אדם אין צדיק בארץ אשר יעשה טוב ולא יחטא&quot;.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-02 08:24:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>קהלת ז16: &quot; אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם</p><p>הכמרים הנוצרים רוצים להיות צדיקים הרבה מתחכמים ולא לוקחים נשים להנשא לכן הם שוממים כי אין להם משפחה וילדים</p><p>ברצוני להגיד אמת כי אכן לשכב עם האשה במשגל זה אמנם חטא כי אדם ואשתו שניהם נטמאים ועליהם לרחוץ במים להטהר</p><p>תהלים נא7: &quot;הֵן בְּעָווֹן חוֹלָלְתִּי וּבְחֵטְא יֶחֱמַתְנִי אִמִּי&quot; </p><p>אבל אין ברירה כי כדי להביא ילדים להוליד חייבים אנחנו בני ישראל לשכב עם נשותינו וכי מצוה היא גם לכהן הגדול לקחת אשה</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-02 08:48:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>קהלת ז16: &quot; אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם</p><p>הכמרים הנוצרים רוצים להיות צדיקים הרבה מתחכמים ולא לוקחים נשים להנשא לכן הם שוממים כי אין להם משפחה וילדים</p><p>ברצוני להגיד אמת כי אכן לשכב עם האשה במשגל זה אמנם חטא כי אדם ואשתו שניהם נטמאים ועליהם לרחוץ במים להטהר</p><p>תהלים נא7: &quot;הֵן בְּעָווֹן חוֹלָלְתִּי וּבְחֵטְא יֶחֱמַתְנִי אִמִּי&quot; </p><p>אבל אין ברירה כי כדי להביא ילדים להוליד חייבים אנחנו בני ישראל לשכב עם נשותינו וכי מצוה היא גם לכהן הגדול לקחת אשה</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-02 09:33:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-02 09:33:59' 
+			WHERE messageid=5706;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1040_7.html',
+		'<p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-02 14:25:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-02 14:25:21' 
+			WHERE messageid=5707;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_yec_0.html',
+		'<p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-02 14:26:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-02 14:26:29' 
+			WHERE messageid=5708;
+
