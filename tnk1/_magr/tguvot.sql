@@ -7312,3 +7312,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-11-02 14:26:29' 
 			WHERE messageid=5708;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/rvit.html',
+		'<p>מידע זה לא הועיל לי</p>',
+		'115645651483513808806',
+		'נריה רחמים',
+		'2015-11-04 16:23:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/rvit.html',
+		'<p>רבעית = זה רבע [רבע של כל דבר]</p><p>אם זה רבע יום לאמור 24 שעות לחלק לארבע = 6 שעות = רְבִעִית הַיּוֹם</p><p>נחמיה ט3: &quot;וַיָּקוּמוּ עַל עָמְדָם וַיִּקְרְאוּ בְּסֵפֶר תּוֹרַת יהוה אֱלֹהֵיהֶם רְבִעִית הַיּוֹם וּרְבִעִית מִתְוַדִּים וּמִשְׁתַּחֲוִים ליהוה אֱלֹהֵיהֶם&quot;</p><p>ואם אתה ד&quot;ר נכבד מדבר על מידה של נוזלים עליך לחשב על פי התורה את המידה של &quot;הין&quot;[בכל חישוביך לא הזכרת את המילה הִין]</p><p>ואז לחלק הִין לארבע = רְבִיעִת הַהִין</p><p>במדבר כח5: &quot;וַעֲשִׂירִית הָאֵיפָה סֹלֶת לְמִנְחָה בְּלוּלָה בְּשֶׁמֶן כָּתִית רְבִיעִת הַהִין&quot;</p><p>שמות טז36: &quot;וְהָעֹמֶר עֲשִׂרִית הָאֵיפָה הוּא&quot; לכן היחס לעומר 1 : רְבִיעִת הַהִין</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-05 04:38:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/rvit.html',
+		'<p>רבעית = זה רבע [רבע של כל דבר]</p><p>אם זה רבע יום לאמור בערך 12 שעות לחלק לארבע = 3 שעות = רְבִעִית הַיּוֹם</p><p>נחמיה ט3: &quot;וַיָּקוּמוּ עַל עָמְדָם וַיִּקְרְאוּ בְּסֵפֶר תּוֹרַת יהוה אֱלֹהֵיהֶם רְבִעִית הַיּוֹם וּרְבִעִית מִתְוַדִּים וּמִשְׁתַּחֲוִים ליהוה אֱלֹהֵיהֶם&quot;</p><p>ואם אתה ד&quot;ר נכבד מדבר על מידה של נוזלים עליך לחשב על פי התורה את המידה של &quot;הין&quot;[בכל חישוביך לא הזכרת את המילה הִין]</p><p>ואז לחלק הִין לארבע = רְבִיעִת הַהִין</p><p>במדבר כח5: &quot;וַעֲשִׂירִית הָאֵיפָה סֹלֶת לְמִנְחָה בְּלוּלָה בְּשֶׁמֶן כָּתִית רְבִיעִת הַהִין&quot;</p><p>שמות טז36: &quot;וְהָעֹמֶר עֲשִׂרִית הָאֵיפָה הוּא&quot; לכן היחס לעומר 1 : רְבִיעִת הַהִין</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-05 05:57:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-05 05:57:16' 
+			WHERE messageid=5710;
+
