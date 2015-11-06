@@ -9011,3 +9011,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/rvit.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-05 12:52:31'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-05 15:37:53'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t3104.htm',
+				'tnk1/messages/klwa_bmegl_qhlt_wxwf_swkt_dwd.pdf',
+				NULL,
+				'2015-11-05 20:12:56',
+				'2015-11-05 20:12:56',
+				'ראדיאן כלוא במעגל קהלת וחוט סוכת דוד',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-05 21:18:50'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-06 07:50:44'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+

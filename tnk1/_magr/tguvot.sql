@@ -7355,3 +7355,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-11-05 05:57:16' 
 			WHERE messageid=5710;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>תרומת כליה זה גם צדיקות הרבה לאמור צדיקות מוגזמת מדי</p><p>לדעתי זה עובר את הגבול של הצדיקות ואני מתנגד לעידוד תרומות כליה מאנשים חיים </p><p>כי על פי התורה כתוב במפורש שלא לפצוע את הגוף אף לא שריטה קטנה אחת ובוודאי שלא ניתוח להוצאת כליה</p><p>ויקרא יט28: &quot;וְשֶׂרֶט לָנֶפֶשׁ לֹא תִתְּנוּ בִּבְשַׂרְכֶם וּכְתֹבֶת קַעֲקַע לֹא תִתְּנוּ בָּכֶם אֲנִי יהוה\'&quot;</p><p>http://www.kooker.co.il/%D7%91%D7%A0%D7%99-%D7%96%D7%95%D7%92-%D7%93%D7%AA%D7%99%D7%99%D7%9D-%D7%AA%D7%A8%D7%9E%D7%95-%D7%9B%D7%9C%D7%99%D7%94-%D7%91%D7%99%D7%97%D7%93%D7%95%D7%99%D7%93%D7%90%D7%95/</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-05 12:52:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני חייב הלוואה דחופה! 0502386777</p>',
+		'104480923698033182843',
+		'undefined',
+		'2015-11-05 15:37:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>כתוב גם לא תעמוד על דם רעך ועוד הרבה. אשרי התורמים</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-05 21:18:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>חגי הופר ראה את הקישור הזה שכתבתי מזמן לפני הרבה שנים</p><p>בקישור זה נמצא מאמרי שכתבתי ציטוט של יהודה בן יעקב שאומר:</p><p>אל תקרעו את בטני לאחר מותי [ועל אחת כמה וכמה שלא לקרוע בטני בחיי]</p><p>http://tora.us.fm/tnk1/messages/prqim_t25b24_0.html</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-06 07:50:44'
+		)
+		;
+
