@@ -9059,3 +9059,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0123.htm',
+				'tnk1/messages/prqim_t0123_3.html',
+				NULL,
+				'2015-11-06 08:39:36',
+				'2015-11-06 08:39:36',
+				'סיפורים מבראשית - חיי שרה',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-06 09:44:07'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-06 09:48:41'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-06 12:49:13'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-06 13:24:01'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
+		;
+

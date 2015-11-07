@@ -7403,3 +7403,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>בראשית יז1: &quot;וַיְהִי אַבְרָם בֶּן תִּשְׁעִים שָׁנָה וְתֵשַׁע שָׁנִים וַיֵּרָא ה\' אֵל אַבְרָם וַיֹּאמֶר אֵלָיו אֲנִי אֶל שַׁדַּי הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים&quot; </p><p> הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים = תמים שלם בנפש ובגוף שנאמר נפש בריאה בגוף בריא </p><p>******* נפש תמימה בגוף תמים = נפש שלמה בגוף שלם *******</p><p>חגי הופר ראה את הקישור הזה שכתבתי מזמן לפני הרבה שנים</p><p>בקישור זה נמצא מאמרי שכתבתי ציטוט של יהודה בן יעקב שאומר:</p><p>אל תקרעו את בטני לאחר מותי [ועל אחת כמה וכמה שלא לקרוע בטני בחיי]</p><p>http://tora.us.fm/tnk1/messages/prqim_t25b24_0.html</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-06 09:44:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-06 09:44:10' 
+			WHERE messageid=5715;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>בראשית יז1: &quot;וַיְהִי אַבְרָם בֶּן תִּשְׁעִים שָׁנָה וְתֵשַׁע שָׁנִים וַיֵּרָא יהוה אֵל אַבְרָם וַיֹּאמֶר אֵלָיו אֲנִי אֶל שַׁדַּי הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים&quot;</p><p>הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים = תמים שלם בנפש ובגוף שנאמר נפש בריאה בגוף בריא</p><p>******* נפש תמימה בגוף תמים = נפש שלמה בגוף שלם *******</p><p>חגי הופר ראה את הקישור הזה שכתבתי מזמן לפני הרבה שנים</p><p>בקישור זה נמצא מאמרי שכתבתי ציטוט של יהודה בן יעקב שאומר:</p><p>אל תקרעו את בטני לאחר מותי [ועל אחת כמה וכמה שלא לקרוע בטני בחיי]</p><p>http://tora.us.fm/tnk1/messages/prqim_t25b24_0.html</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-06 09:48:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-06 09:48:44' 
+			WHERE messageid=5716;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>זה ציטוט מעניין בנוגע לניתוח לאחר המוות, לא לגבי ניתוח של תרומה מצילת חיים. המציל נפש אחת כאילו הציל עולם מלא</p><p>וגם לגבי ניתוחים לאחר המוות, המצב הרפואי השתנה מאז לפני יותר מאלפיים שנה, מה גם שמשהו שמישהו - לא ברור מי - כתב אז לא מחייב אותי בהכרח</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-06 12:49:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>אלהים רוצה שתהיה צדיק שתעזור למשל בכסף שהוא בא והולך עובר ושב </p><p>אבל אלהים לא רוצה שתהיה צדיק הרבה ותפגע בעצמך בניתוח להוצאת כליה</p><p>רק פושעים כמו ראשי עמותות לתרומת כליה ידרשו מאנשים תמימים לתרום כלייתם להיות צדיקים הרבה בניגוד לדברי התורה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-06 13:24:01'
+		)
+		;
+
