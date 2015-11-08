@@ -7465,3 +7465,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_axryut.html',
+		'<p>יפה מאוד ונכון מאוד</p>',
+		'103189881627553805713',
+		'Orian Ben Moha',
+		'2015-11-07 09:17:56'
+		)
+		;
+

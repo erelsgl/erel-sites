@@ -9107,3 +9107,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-07-16.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-07 09:17:56'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_axryut.html'
+		;
+
