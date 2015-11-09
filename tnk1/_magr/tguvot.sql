@@ -7477,3 +7477,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-16.html',
+		'<p>אני מציע להעביר את הדיון על תרומת כליה לדף חדש: http://tora.us.fm/tnk1/msr/knesset/index.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-11-08 08:45:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_42_0_0_0.html',
+		'<p>משהו מאפן</p><p></p>',
+		'110391693187975316512',
+		'שלו ווגנפלד',
+		'2015-11-08 17:04:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_mxjva_42_0_0_0.html',
+		'<p>לא כדאי להיכנס</p><p></p>',
+		'110391693187975316512',
+		'שלו ווגנפלד',
+		'2015-11-08 17:04:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/drk.html',
+		'<p>דבריך בענין \'דרך \' פשוטים ונכונים. יישר כוח ! </p><p>הר האמורי הינו כל ההר המרכזי בארץ כנען המכונה כך ע&quot;ש האמורי שישבו בו. </p><p>אמורי משמר כנראה את לשון אמיר האילן. או אמיר מלשון נגיד ומצווה בערבית.</p><p>לעומת הכנעני שעניינו סוחר . ומכונים כך ע&quot;ש ישיבתם בעמק בדרכי המסחר. </p><p>האמורי ישבו בגובה ההרים וכוחם היה בהתבצרותם על ראשי ההרים. </p><p>בספר עמוס כמדומני מתואר גבוה וחסון כאמורי. שוב אותו עניין. </p><p>לרב יואל בן נון באחד ממאמריו יש התייחסות להופעות כנעני/אמורי בתורה. </p><p>בברכה , חגי לב - מעלות</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-08 18:47:00'
+		)
+		;
+
