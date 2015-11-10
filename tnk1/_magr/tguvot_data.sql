@@ -228,3 +228,56 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/drk.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/aqdt_ycxq.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-11-09 22:06:25'
+		WHERE parent='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/aqdt_ycxq.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-11-09 22:37:28'
+		WHERE parent='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-11-10 04:39:24'
+			WHERE parent='tnk1/tora/brejit/aqdt_ycxq.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/aqdt_ycxq.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-11-10 05:54:56'
+		WHERE parent='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+

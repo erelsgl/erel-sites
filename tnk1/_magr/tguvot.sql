@@ -7525,3 +7525,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/aqdt_ycxq.html',
+		'<p>הדיוק \'לעולה\' מעניין. אך דורש עוד הוכחות / חיזוקים לפרשנות שאתה נותן. </p><p>יש פעלים נוספים שמשמעותם משתנה עפ&quot;י אות השימוש המלווה אותה .</p><p>כדוגמת : לשכב את/ לשכב עם.  ללכת את / ללכת עם.  לקנא ב/ לקנא ל/ לקנא את .   לשמוע בקול / לשמוע לקול ועוד ועוד...</p><p>בברכה , חגי לב</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-09 22:06:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/aqdt_ycxq.html',
+		'<p>הדיוק \'לעולה\' מעניין. אך דורש עוד הוכחות / חיזוקים לפרשנות שאתה נותן. </p><p>יש פעלים נוספים שמשמעותם משתנה עפ&quot;י אות השימוש המלווה אותה .</p><p>כדוגמת : לשכב את/ לשכב עם.  ללכת את / ללכת עם.  לקנא ב/ לקנא ל/ לקנא את .   לשמוע בקול / לשמוע לקול ועוד ועוד...</p><p>בברכה , חגי לב</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-09 22:37:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-10 04:39:24' 
+			WHERE messageid=5725;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/aqdt_ycxq.html',
+		'<p> </p><p>בראשית כו5: &quot;עֵקֶב אֲשֶׁר שָׁמַע אַבְרָהָם בְּקֹלִי וַיִּשְׁמֹר מִשְׁמַרְתִּי מצותי חֻקּוֹתַי וְתוֹרֹתָי&quot;</p><p>דבר ראשון עֵקֶב אֲשֶׁר שָׁמַע אַבְרָהָם בְּקֹלִי </p><p>דבר שני וַיִּשְׁמֹר מִשְׁמַרְתִּי מצותי חֻקּוֹתַי וְתוֹרֹתָי</p><p>אברהם אשר שמע בקול אלהים כיפר באופן מלא על חטא האדם הראשון אשר לא שמע </p><p>האדם הראשון לא שמע בקול יהוה כי האדם הקריב לאלהים אחרים את עץ הדעת הוא בנו של האלהים הצדיק</p><p>ואברהם אבינו שמע בקול אלהים כי היה מוכן להקריב את בנו זרעו למען יהוה</p><p>אך יהוה בראותו כי אברהם נאמן לו בכל ביתו ומוכן גם לשחוט את בנו זרעו לכן ריחם יהוה על אברהם ועל זרעו וברכם ברכה גדולה לעד</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-10 05:54:56'
+		)
+		;
+
