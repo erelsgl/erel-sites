@@ -1,234 +1,152 @@
 uploaded תקציר
-uploaded יחזקאל א/טעמים
-uploaded יחזקאל ב/טעמים
-uploaded יחזקאל ג/טעמים
-uploaded יחזקאל ד/טעמים
-uploaded יחזקאל ה/טעמים
-uploaded יחזקאל ו/טעמים
-uploaded יחזקאל ז/טעמים
-uploaded יחזקאל ח/טעמים
-uploaded יחזקאל ט/טעמים
-uploaded יחזקאל טו/טעמים
-uploaded יחזקאל טז/טעמים
-uploaded יחזקאל י/טעמים
-uploaded יחזקאל יא/טעמים
-uploaded יחזקאל יב/טעמים
-uploaded יחזקאל יג/טעמים
-uploaded יחזקאל יד/טעמים
-uploaded יחזקאל יז/טעמים
-uploaded יחזקאל יח/טעמים
-uploaded יחזקאל יט/טעמים
-uploaded יחזקאל כ/טעמים
-uploaded יחזקאל כא/טעמים
-uploaded יחזקאל כב/טעמים
-uploaded יחזקאל כג/טעמים
-uploaded יחזקאל כד/טעמים
-uploaded יחזקאל כה/טעמים
-uploaded יחזקאל כו/טעמים
-uploaded יחזקאל כז/טעמים
-uploaded יחזקאל כח/טעמים
-uploaded יחזקאל כט/טעמים
-uploaded יחזקאל ל/טעמים
-uploaded יחזקאל לא/טעמים
-uploaded יחזקאל לב/טעמים
-uploaded יחזקאל לג/טעמים
-uploaded יחזקאל לד/טעמים
-uploaded יחזקאל לה/טעמים
-uploaded יחזקאל לו/טעמים
-uploaded יחזקאל לז/טעמים
-uploaded יחזקאל לח/טעמים
-uploaded יחזקאל לט/טעמים
-uploaded יחזקאל מ/טעמים
-uploaded יחזקאל מא/טעמים
-uploaded יחזקאל מב/טעמים
-uploaded יחזקאל מג/טעמים
-uploaded יחזקאל מד/טעמים
-uploaded יחזקאל מה/טעמים
-uploaded יחזקאל מו/טעמים
-uploaded יחזקאל מז/טעמים
-uploaded יחזקאל מח/טעמים
-uploaded ירמיהו א/טעמים
-uploaded ירמיהו ב/טעמים
-uploaded ירמיהו ג/טעמים
-uploaded ירמיהו ד/טעמים
-uploaded ירמיהו ה/טעמים
-uploaded ירמיהו ו/טעמים
-uploaded ירמיהו ז/טעמים
-uploaded ירמיהו ח/טעמים
-uploaded ירמיהו ט/טעמים
-uploaded ירמיהו טו/טעמים
-uploaded ירמיהו טז/טעמים
-uploaded ירמיהו י/טעמים
-uploaded ירמיהו יא/טעמים
-uploaded ירמיהו יב/טעמים
-uploaded ירמיהו יג/טעמים
-uploaded ירמיהו יד/טעמים
-uploaded ירמיהו יז/טעמים
-uploaded ירמיהו יח/טעמים
-uploaded ירמיהו יט/טעמים
-uploaded ירמיהו כ/טעמים
-uploaded ירמיהו כא/טעמים
-uploaded ירמיהו כב/טעמים
-uploaded ירמיהו כג/טעמים
-uploaded ירמיהו כד/טעמים
-uploaded ירמיהו כה/טעמים
-uploaded ירמיהו כו/טעמים
-uploaded ירמיהו כז/טעמים
-uploaded ירמיהו כח/טעמים
-uploaded ירמיהו כט/טעמים
-uploaded ירמיהו ל/טעמים
-uploaded ירמיהו לא/טעמים
-uploaded ירמיהו לב/טעמים
-uploaded ירמיהו לג/טעמים
-uploaded ירמיהו לד/טעמים
-uploaded ירמיהו לה/טעמים
-uploaded ירמיהו לו/טעמים
-uploaded ירמיהו לז/טעמים
-uploaded ירמיהו לח/טעמים
-uploaded ירמיהו לט/טעמים
-uploaded ירמיהו מ/טעמים
-uploaded ירמיהו מא/טעמים
-uploaded ירמיהו מב/טעמים
-uploaded ירמיהו מג/טעמים
-uploaded ירמיהו מד/טעמים
-uploaded ירמיהו מה/טעמים
-uploaded ירמיהו מו/טעמים
-uploaded ירמיהו מז/טעמים
-uploaded ירמיהו מח/טעמים
-uploaded ירמיהו מט/טעמים
-uploaded ירמיהו נ/טעמים
-uploaded ירמיהו נא/טעמים
-uploaded ירמיהו נב/טעמים
-uploaded ישעיהו א/טעמים
-uploaded ישעיהו ב/טעמים
-uploaded ישעיהו ג/טעמים
-uploaded ישעיהו ד/טעמים
-uploaded ישעיהו ה/טעמים
-uploaded ישעיהו ו/טעמים
-uploaded ישעיהו ז/טעמים
-uploaded ישעיהו ח/טעמים
-uploaded ישעיהו ט/טעמים
-uploaded ישעיהו טו/טעמים
-uploaded ישעיהו טז/טעמים
-uploaded ישעיהו י/טעמים
-uploaded ישעיהו יא/טעמים
-uploaded ישעיהו יב/טעמים
-uploaded ישעיהו יג/טעמים
-uploaded ישעיהו יד/טעמים
-uploaded ישעיהו יז/טעמים
-uploaded ישעיהו יח/טעמים
-uploaded ישעיהו יט/טעמים
-uploaded ישעיהו כ/טעמים
-uploaded ישעיהו כא/טעמים
-uploaded ישעיהו כב/טעמים
-uploaded ישעיהו כג/טעמים
-uploaded ישעיהו כד/טעמים
-uploaded ישעיהו כה/טעמים
-uploaded ישעיהו כו/טעמים
-uploaded ישעיהו כז/טעמים
-uploaded ישעיהו כח/טעמים
-uploaded ישעיהו כט/טעמים
-uploaded ישעיהו ל/טעמים
-uploaded ישעיהו לא/טעמים
-uploaded ישעיהו לב/טעמים
-uploaded ישעיהו לג/טעמים
-uploaded ישעיהו לד/טעמים
-uploaded ישעיהו לה/טעמים
-uploaded ישעיהו לו/טעמים
-uploaded ישעיהו לז/טעמים
-uploaded ישעיהו לח/טעמים
-uploaded ישעיהו לט/טעמים
-uploaded ישעיהו מ/טעמים
-uploaded ישעיהו מא/טעמים
-uploaded ישעיהו מב/טעמים
-uploaded ישעיהו מג/טעמים
-uploaded ישעיהו מד/טעמים
-uploaded ישעיהו מה/טעמים
-uploaded ישעיהו מו/טעמים
-uploaded ישעיהו מז/טעמים
-uploaded ישעיהו מח/טעמים
-uploaded ישעיהו מט/טעמים
-uploaded ישעיהו נ/טעמים
-uploaded ישעיהו נא/טעמים
-uploaded ישעיהו נב/טעמים
-uploaded ישעיהו נג/טעמים
-uploaded ישעיהו נד/טעמים
-uploaded ישעיהו נה/טעמים
-uploaded ישעיהו נו/טעמים
-uploaded ישעיהו נז/טעמים
-uploaded ישעיהו נח/טעמים
-uploaded ישעיהו נט/טעמים
-uploaded ישעיהו ס/טעמים
-uploaded ישעיהו סא/טעמים
-uploaded ישעיהו סב/טעמים
-uploaded ישעיהו סג/טעמים
-uploaded ישעיהו סד/טעמים
-uploaded ישעיהו סה/טעמים
-uploaded ישעיהו סו/טעמים
-uploaded הושע א/טעמים
-uploaded הושע ב/טעמים
-uploaded הושע ג/טעמים
-uploaded הושע ד/טעמים
-uploaded הושע ה/טעמים
-uploaded הושע ו/טעמים
-uploaded הושע ז/טעמים
-uploaded הושע ח/טעמים
-uploaded הושע ט/טעמים
-uploaded הושע י/טעמים
-uploaded הושע יא/טעמים
-uploaded הושע יב/טעמים
-uploaded הושע יג/טעמים
-uploaded הושע יד/טעמים
-uploaded זכריה א/טעמים
-uploaded זכריה ב/טעמים
-uploaded זכריה ג/טעמים
-uploaded זכריה ד/טעמים
-uploaded זכריה ה/טעמים
-uploaded זכריה ו/טעמים
-uploaded זכריה ז/טעמים
-uploaded זכריה ח/טעמים
-uploaded זכריה ט/טעמים
-uploaded זכריה י/טעמים
-uploaded זכריה יא/טעמים
-uploaded זכריה יב/טעמים
-uploaded זכריה יג/טעמים
-uploaded זכריה יד/טעמים
-uploaded חבקוק א/טעמים
-uploaded חבקוק ב/טעמים
-uploaded חבקוק ג/טעמים
-uploaded חגי א/טעמים
-uploaded חגי ב/טעמים
-uploaded יואל א/טעמים
-uploaded יואל ב/טעמים
-uploaded יואל ג/טעמים
-uploaded יואל ד/טעמים
-uploaded יונה א/טעמים
-uploaded יונה ב/טעמים
-uploaded יונה ג/טעמים
-uploaded יונה ד/טעמים
-uploaded מיכה א/טעמים
-uploaded מיכה ב/טעמים
-uploaded מיכה ג/טעמים
-uploaded מיכה ד/טעמים
-uploaded מיכה ה/טעמים
-uploaded מיכה ו/טעמים
-uploaded מיכה ז/טעמים
-uploaded מלאכי א/טעמים
-uploaded מלאכי ב/טעמים
-uploaded מלאכי ג/טעמים
-uploaded נחום א/טעמים
-uploaded נחום ב/טעמים
-uploaded נחום ג/טעמים
-uploaded עובדיה א/טעמים
-uploaded עמוס א/טעמים
-uploaded עמוס ב/טעמים
-uploaded עמוס ג/טעמים
-uploaded עמוס ד/טעמים
-uploaded עמוס ה/טעמים
-uploaded עמוס ו/טעמים
-uploaded עמוס ז/טעמים
-uploaded עמוס ח/טעמים
-uploaded עמוס ט/טעמים
-uploaded צפניה א/טעמים
-uploaded צפניה ב/טעמים
-uploaded צפניה ג/טעמים
+uploaded יהושע א/טעמים
+uploaded יהושע ב/טעמים
+uploaded יהושע ג/טעמים
+uploaded יהושע ד/טעמים
+uploaded יהושע ה/טעמים
+uploaded יהושע ו/טעמים
+uploaded יהושע ז/טעמים
+uploaded יהושע ח/טעמים
+uploaded יהושע ט/טעמים
+uploaded יהושע טו/טעמים
+uploaded יהושע טז/טעמים
+uploaded יהושע י/טעמים
+uploaded יהושע יא/טעמים
+uploaded יהושע יב/טעמים
+uploaded יהושע יב/צורת-השיר
+uploaded יהושע יג/טעמים
+uploaded יהושע יד/טעמים
+uploaded יהושע יז/טעמים
+uploaded יהושע יח/טעמים
+uploaded יהושע יט/טעמים
+uploaded יהושע כ/טעמים
+uploaded יהושע כא/טעמים
+uploaded יהושע כב/טעמים
+uploaded יהושע כג/טעמים
+uploaded יהושע כד/טעמים
+uploaded מלכים א א/טעמים
+uploaded מלכים א ב/טעמים
+uploaded מלכים א ג/טעמים
+uploaded מלכים א ד/טעמים
+uploaded מלכים א ה/טעמים
+uploaded מלכים א ו/טעמים
+uploaded מלכים א ז/טעמים
+uploaded מלכים א ח/טעמים
+uploaded מלכים א ט/טעמים
+uploaded מלכים א טו/טעמים
+uploaded מלכים א טז/טעמים
+uploaded מלכים א י/טעמים
+uploaded מלכים א יא/טעמים
+uploaded מלכים א יב/טעמים
+uploaded מלכים א יג/טעמים
+uploaded מלכים א יד/טעמים
+uploaded מלכים א יז/טעמים
+uploaded מלכים א יח/טעמים
+uploaded מלכים א יט/טעמים
+uploaded מלכים א כ/טעמים
+uploaded מלכים א כא/טעמים
+uploaded מלכים א כב/טעמים
+uploaded מלכים ב א/טעמים
+uploaded מלכים ב ב/טעמים
+uploaded מלכים ב ג/טעמים
+uploaded מלכים ב ד/טעמים
+uploaded מלכים ב ה/טעמים
+uploaded מלכים ב ו/טעמים
+uploaded מלכים ב ז/טעמים
+uploaded מלכים ב ח/טעמים
+uploaded מלכים ב ט/טעמים
+uploaded מלכים ב טו/טעמים
+uploaded מלכים ב טז/טעמים
+uploaded מלכים ב י/טעמים
+uploaded מלכים ב יא/טעמים
+uploaded מלכים ב יב/טעמים
+uploaded מלכים ב יג/טעמים
+uploaded מלכים ב יד/טעמים
+uploaded מלכים ב יז/טעמים
+uploaded מלכים ב יח/טעמים
+uploaded מלכים ב יט/טעמים
+uploaded מלכים ב כ/טעמים
+uploaded מלכים ב כא/טעמים
+uploaded מלכים ב כב/טעמים
+uploaded מלכים ב כג/טעמים
+uploaded מלכים ב כד/טעמים
+uploaded מלכים ב כה/טעמים
+uploaded שופטים א/טעמים
+uploaded שופטים ב/טעמים
+uploaded שופטים ג/טעמים
+uploaded שופטים ד/טעמים
+uploaded שופטים ד/צורת-השיר
+uploaded שופטים ה/טעמים
+uploaded שופטים ה/צורת-השיר
+uploaded שופטים ו/טעמים
+uploaded שופטים ז/טעמים
+uploaded שופטים ח/טעמים
+uploaded שופטים ט/טעמים
+uploaded שופטים טו/טעמים
+uploaded שופטים טז/טעמים
+uploaded שופטים י/טעמים
+uploaded שופטים יא/טעמים
+uploaded שופטים יב/טעמים
+uploaded שופטים יג/טעמים
+uploaded שופטים יד/טעמים
+uploaded שופטים יז/טעמים
+uploaded שופטים יח/טעמים
+uploaded שופטים יט/טעמים
+uploaded שופטים כ/טעמים
+uploaded שופטים כא/טעמים
+uploaded שמואל א א/טעמים
+uploaded שמואל א ב/טעמים
+uploaded שמואל א ג/טעמים
+uploaded שמואל א ד/טעמים
+uploaded שמואל א ה/טעמים
+uploaded שמואל א ו/טעמים
+uploaded שמואל א ז/טעמים
+uploaded שמואל א ח/טעמים
+uploaded שמואל א ט/טעמים
+uploaded שמואל א טו/טעמים
+uploaded שמואל א טז/טעמים
+uploaded שמואל א י/טעמים
+uploaded שמואל א יא/טעמים
+uploaded שמואל א יב/טעמים
+uploaded שמואל א יג/טעמים
+uploaded שמואל א יד/טעמים
+uploaded שמואל א יז/טעמים
+uploaded שמואל א יח/טעמים
+uploaded שמואל א יט/טעמים
+uploaded שמואל א כ/טעמים
+uploaded שמואל א כא/טעמים
+uploaded שמואל א כב/טעמים
+uploaded שמואל א כג/טעמים
+uploaded שמואל א כד/טעמים
+uploaded שמואל א כה/טעמים
+uploaded שמואל א כו/טעמים
+uploaded שמואל א כז/טעמים
+uploaded שמואל א כח/טעמים
+uploaded שמואל א כט/טעמים
+uploaded שמואל א ל/טעמים
+uploaded שמואל א לא/טעמים
+uploaded שמואל ב א/טעמים
+uploaded שמואל ב ב/טעמים
+uploaded שמואל ב ג/טעמים
+uploaded שמואל ב ד/טעמים
+uploaded שמואל ב ה/טעמים
+uploaded שמואל ב ו/טעמים
+uploaded שמואל ב ז/טעמים
+uploaded שמואל ב ח/טעמים
+uploaded שמואל ב ט/טעמים
+uploaded שמואל ב טו/טעמים
+uploaded שמואל ב טז/טעמים
+uploaded שמואל ב י/טעמים
+uploaded שמואל ב יא/טעמים
+uploaded שמואל ב יב/טעמים
+uploaded שמואל ב יג/טעמים
+uploaded שמואל ב יד/טעמים
+uploaded שמואל ב יז/טעמים
+uploaded שמואל ב יח/טעמים
+uploaded שמואל ב יט/טעמים
+uploaded שמואל ב כ/טעמים
+uploaded שמואל ב כא/טעמים
+uploaded שמואל ב כב/טעמים
+uploaded שמואל ב כב/צורת-השיר
+uploaded שמואל ב כג/טעמים
+uploaded שמואל ב כד/טעמים
