@@ -9147,3 +9147,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/drk.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-09 22:06:25'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-09 22:37:28'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-10 05:54:56'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
