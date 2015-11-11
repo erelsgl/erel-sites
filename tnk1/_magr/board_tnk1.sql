@@ -9171,3 +9171,136 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/aqdt_ycxq.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-10 08:13:11'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqdt_ycxq.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_739.html',
+				NULL,
+				'2015-11-10 16:42:35',
+				'2015-11-10 16:42:35',
+				'פרשת  תולדות, מה סודו של יצחק להצלחתו בארץ המובטחת?/מאת:אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-11-10 16:42:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_740.html',
+				NULL,
+				'2015-11-10 17:31:38',
+				'2015-11-10 17:31:38',
+				'אליעזר עבד אברהם/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-11-10 17:31:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_741.html',
+				NULL,
+				'2015-11-10 17:37:01',
+				'2015-11-10 17:37:01',
+				'קנאת הפלישתים ביצחק/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-11-10 17:37:01'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-10 20:52:35'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/dvr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-10 22:44:23'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-03-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-10 23:42:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0118_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-11 04:49:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0118_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-11 05:27:10'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/dvr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-11 05:28:06'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/dvr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-11 05:29:35'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/dvr.html'
+		;
+
