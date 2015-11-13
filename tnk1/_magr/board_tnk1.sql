@@ -9336,3 +9336,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-12 16:46:23'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-12 21:35:14'
+		WHERE ktovt_bn='tryg/mamr/lrek_kmok.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-13 06:12:11'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
