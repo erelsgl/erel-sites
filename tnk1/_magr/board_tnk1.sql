@@ -9360,3 +9360,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-13 10:43:11'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0127.htm',
+				'tnk1/messages/prqim_t0127_6.html',
+				NULL,
+				'2015-11-13 12:15:49',
+				'2015-11-13 12:15:49',
+				'סיפורים מבראשית - תולדות',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
