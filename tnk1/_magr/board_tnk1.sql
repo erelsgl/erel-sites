@@ -9502,3 +9502,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-65-11.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-17 12:58:26'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-57a8.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-17 12:59:01'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-57a8.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-17 14:05:30'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-57a8.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-17 21:02:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0209_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-17 22:45:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0209_0.html'
+		;
+

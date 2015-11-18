@@ -7879,3 +7879,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-57a8.html',
+		'<p>הסבר מעניין,</p><p>הייתי מוסיף בקשר לחלק מההבדלים הלשוניים. בפרק נז נוספו: </p><p>א. בפרק נ&quot;ז - עורה כבודי - המילה כבודי רבות משמשת על הנשמה, רומז למצב בו הנשמה &quot;רדומה&quot;. לעומת זאת בפרק קח אשירה ואזמרה אף כבודי - הנשמה שרה ומזמרת.</p><p>ב. אודך בעמים אד-ני הנזכר בפרק נז מדבר על הודאה וביטול לשם אדנות &quot;אד-ני מלך גאות לבש&quot; - המורה על דרגת האלקות בה השם מתלבש ומסתתר בלבוש מלכות כדי להנהיג ולהחיות את העולמות בלבושי הטבע - דבר המורה על מצב של הסתר, ואילו בפרק ק&quot;ח נזכרת הודאה לשם הוי\' המורה על דרגת אלקותו יתברך לפני ולמעלה משייכות להתלבש במלכות - דרגה המתגלה בנסים שהשם עושה לנו (ונעשו במלחמת דוד עם אויבינו)</p><p>ג. בנוסף, בפרק ק&quot;ח נוספה אות ו\' החיבור המצטרפות ל&quot;ואזמך בלאומים&quot;, &quot;ועל כל הארץ&quot; - דבר הרומז על המשכה וגילוי מלמעלה למטה, הרומז שוב על מצב בו יש גילוי אלוקות</p>',
+		'101185184968065482371',
+		'שמואל פרידמן',
+		'2015-11-17 12:58:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-17 12:58:44' 
+			WHERE messageid=5751;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-57a8.html',
+		'<p>הסבר מעניין,</p><p>הייתי מוסיף בקשר לחלק מההבדלים הלשוניים:</p><p>א. בפרק נ&quot;ז - עורה כבודי - המילה כבודי רבות משמשת על הנשמה, רומז למצב בו הנשמה &quot;רדומה&quot;. לעומת זאת בפרק קח אשירה ואזמרה אף כבודי - הנשמה שרה ומזמרת.</p><p>ב. אודך בעמים אד-ני הנזכר בפרק נז מדבר על הודאה וביטול לשם אדנות &quot;אד-ני מלך גאות לבש&quot; - המורה על דרגת האלקות בה השם מתלבש ומסתתר בלבוש מלכות כדי להנהיג ולהחיות את העולמות בלבושי הטבע - דבר המורה על מצב של הסתר, ואילו בפרק ק&quot;ח נזכרת הודאה לשם הוי\' המורה על דרגת אלקותו יתברך לפני ולמעלה משייכות להתלבש במלכות - דרגה המתגלה בנסים שהשם עושה לנו (ונעשו במלחמת דוד עם אויבינו)</p><p>ג. בנוסף, בפרק ק&quot;ח נוספה אות ו\' החיבור המצטרפות ל&quot;ואזמך בלאומים&quot;, &quot;ועל כל הארץ&quot; - דבר הרומז על המשכה וגילוי מלמעלה למטה, הרומז שוב על מצב בו יש גילוי אלוקות</p>',
+		'101185184968065482371',
+		'שמואל פרידמן',
+		'2015-11-17 12:59:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-57a8.html',
+		'<p>כשהיינו משחקים מחבואים בגינה עת היינו ילדים</p><p>היינו אומרים &quot;מי שעומד מאחורי ומצדדי ומלפני הוא העומד&quot;</p><p>תהלים לו6: &quot;יהוה בְּהַשָּׁמַיִם חַסְדֶּךָ אֱמוּנָתְךָ עַד שְׁחָקִים&quot;</p><p>בְּהַשָּׁמַיִם חַסְדֶּךָ .. גם מעל השמים וגם עד השמים</p><p>אגב כתבתי במאמר נפרד שהמילה &quot;עד&quot; זה כולל הכל</p><p>http://tora.us.fm/tnk1/messages/prqim_t0534_0.html</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-17 14:05:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0209_0.html',
+		'<p>מעניין. קראתי גם את מאמרך על שורש סנ.</p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-17 21:02:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0209_0.html',
+		'<p>תודה, שמח לשמוע</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-17 22:45:19'
+		)
+		;
+
