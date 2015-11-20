@@ -9558,3 +9558,58 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0228_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t28.htm',
+				'tnk1/ktuv/mjly/mj-0109.html',
+				NULL,
+				'2015-11-19 12:46:15',
+				'2015-11-19 12:46:15',
+				'מבנה משלי א-ט',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-11-19 12:46:15'
+			WHERE ktovt_bn='tnk1/prqim/t28.htm';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-19 13:07:04'
+		WHERE ktovt_bn='tnk1/jdl/MefarsheyTanach001-29.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-19 13:07:04'
+		WHERE ktovt_bn='tnk1/jdl/MefarsheyTanach001-29.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_83.html',
+				NULL,
+				'2015-11-19 22:23:23',
+				'2015-11-19 22:23:23',
+				'על \"מידות הראי\"ה\", מבואר בידי חגי לונדין ',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

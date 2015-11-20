@@ -7977,3 +7977,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-11-18 16:00:01' 
 			WHERE messageid=5756;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-29.html',
+		'<p>תודה רבה על התרגום.</p><p>מעניין ומעשיר... </p>',
+		'110469760785154588551',
+		'Hadar Levin',
+		'2015-11-19 13:07:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-29.html',
+		'<p>תודה רבה על התרגום.</p><p>מעניין ומעשיר... </p>',
+		'110469760785154588551',
+		'Hadar Levin',
+		'2015-11-19 13:07:04'
+		)
+		;
+
