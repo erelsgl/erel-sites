@@ -9613,3 +9613,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0128.htm',
+				'tnk1/messages/prqim_t0128_9.html',
+				NULL,
+				'2015-11-20 11:05:48',
+				'2015-11-20 11:05:48',
+				'סיפורים מבראשית - ויצא',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-20 11:38:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0531_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t08a15.htm',
+				'tnk1/messages/ncx_yjral_la_yjqr___megl.pdf',
+				NULL,
+				'2015-11-20 13:59:01',
+				'2015-11-20 13:59:01',
+				'וגם נצח ישראל לא ישקר = מעגל',
+				'רמי ניר  ',
+				''
+			)
+		;
+
