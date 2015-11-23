@@ -9693,3 +9693,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t3107_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-22 15:02:28'
+		WHERE ktovt_bn='tnk1/ktuv/mj/01-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-22 19:24:27'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+

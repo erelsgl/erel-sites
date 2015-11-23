@@ -8080,3 +8080,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/01-02.html',
+		'<p>מורה צדיק בישראל משנן בפיו [בעל פה] לתלמידיו את ספר משלי שלמה כל פרק א מהתחלה עד הסוף</p><p>https://www.facebook.com/shmuel.nissan/videos/10207095649261114/?pnref=story</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-22 15:02:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני צריך בבקשה הלוואה דחופה צרו איתי קשר ב0503320888</p>',
+		'107953466126829842506',
+		'נבו אלביליה',
+		'2015-11-22 19:24:27'
+		)
+		;
+
