@@ -30,7 +30,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 	.mqorot { font-family: 'Arial';      font-size: 12px; }
 	.hqblot { font-family: /*'Comix No2 CLM'*/ 'Hadasim CLM'; font-size: 12px; }
 	.ecot   { font-size: 14px; }
-	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin:0; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
+	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin-right:25px; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
 	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm -2mm;  }
 	.long .cell { 
 		padding: 2mm;
