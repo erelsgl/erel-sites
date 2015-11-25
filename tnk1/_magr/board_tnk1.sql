@@ -9732,3 +9732,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-11-23 17:49:16'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-24 09:35:26'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+

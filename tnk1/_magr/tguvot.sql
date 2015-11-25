@@ -8104,3 +8104,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני חייב הלוואה דחופה אני בחובות לאנשים לא נעימים זה עניין של חיים ומוות בבקשה ממכם תעזרו לי</p><p>0505713666</p>',
+		'108746046980737466118',
+		'אלעד רחימי',
+		'2015-11-24 09:35:26'
+		)
+		;
+
