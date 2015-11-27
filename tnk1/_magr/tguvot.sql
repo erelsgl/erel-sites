@@ -8116,3 +8116,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b23_1.html',
+		'<p>תהלים לג18: &quot;הִנֵּה עֵין יהוה אֶל יְרֵאָיו לַמְיַחֲלִים לְחַסְדּוֹ&quot;</p><p>תהלים לד16: &quot;עֵינֵי יהוה אֶל צַדִּיקִים וְאָזְנָיו אֶל שַׁוְעָתָם&quot;</p><p>------------------------------- צדיקים = יראי יהוה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-27 04:40:15'
+		)
+		;
+
