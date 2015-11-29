@@ -923,3 +923,43 @@ SET character_set_connection=utf8;
 		REPLACE  INTO gfc_users(created_at,id,name)
 		VALUES('2015-04-21 13:10:31','https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw','hagai hoffer');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `profile` = NULL WHERE `id` = 13398491602155927013 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = NULL, `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = NULL, `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawl1oRrc6c8W9MpHKrNB9dumpH_Rg69eTbw' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = NULL, `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawl9a1K3b4Oym0N7Yfr-7O3iXBHNOpBwhrY' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `gfc_users` (`id`, `name`, `thumbnail`, `profile`, `created_at`) VALUES ('http://tora.us.fm/erelsgl/erel35x.jpg', 'Erel Segal-Halevi', 'http://tora.us.fm/erelsgl/erel35x.jpg', NULL, NULL);
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `profile` = NULL WHERE `id` = 13398491602155927013 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = 'http://tora.us.fm/erelsgl/erel35x.jpg', `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = NULL, `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawl1oRrc6c8W9MpHKrNB9dumpH_Rg69eTbw' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `gfc_users` SET `thumbnail` = 'http://tora.us.fm/erelsgl/erel35x.jpg', `profile` = NULL WHERE `id` = 'https://www.google.com/accounts/o8/id?id=AItOawl9a1K3b4Oym0N7Yfr-7O3iXBHNOpBwhrY' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `gfc_users` WHERE `id` = 'http://tora.us.fm/erelsgl/erel35x.jpg' AND 1 LIMIT 1;
+

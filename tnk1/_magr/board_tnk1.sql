@@ -9795,3 +9795,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-28 15:24:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_84.html',
+				NULL,
+				'2015-11-28 20:30:37',
+				'2015-11-28 20:30:37',
+				'על הספר \"בין שני מלכים\" מאת ישראל כץ',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-28 20:50:48'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-11-2526.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-28 21:13:12'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/yda12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-28 21:13:16'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/yda12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-29 06:55:04'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-29 06:55:18'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-11-29 07:54:09'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+

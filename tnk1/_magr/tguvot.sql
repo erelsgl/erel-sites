@@ -8147,3 +8147,115 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-11-27 14:59:30' 
 			WHERE messageid=5770;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>בפרשת נח אלהים נתן את הברית בקשת</p><p>ולאחר סיפור המבול בימי נח לאחר שאלהים מברך הברית בקשת</p><p>אז בא הסיפור על נח איש האדמה אשר נטע כרם ושתה יין והתגל בתוך אהלו ובנו חם ראהו ערום</p><p>-------</p><p>היין מפר את את ברית הקשת</p><p>אמנם נראה כי הקשת רק בענן אך הקשת גם במשכן [גוף] האדם והיא מופיעה כאשר שומרים את הברית</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-28 15:24:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-28 15:24:58' 
+			WHERE messageid=5592;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-2526.html',
+		'<p>מסקרן ומעניין ...לקרוא ולהבין את הפירוש והמשמעות </p>',
+		'114543689395876063531',
+		'Mali Tayar',
+		'2015-11-28 20:50:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yda12.html',
+		'<p>אני מבקש רק להעיר שיש הבדל בין פעלים עם מילות שימוש נלוות שונות. </p><p>לדוגמא : יש הבדל בין לשכב את/ לשכב עם וכן בין לבוא על / לבוא את .</p><p>ממילא הבדיקה צריכה ליות עם רזולציות גבוהות יותר. </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-28 21:13:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yda12.html',
+		'<p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2015-11-28 21:13:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-29 06:17:00' 
+			WHERE messageid=5774;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>&quot;נחרדתי&quot;?! &quot;מביך&quot;?! &quot;מביש&quot;?! וכל זה בגלל שדעתם שונה מדעתך?! נראה לי שהפעם הגזמת. אפשר לחלוק על הזולת גם בלי להנמיך ולזלזל בדעתו.</p><p>אבל כיוון שכבר הזכרת מושגים אלה, מה שבאמת מביש בעיניי הוא אופן החשיבה השטחי של אנשי ביקורת המקרא, שלא מסוגלים להבין מוּרכבוּת, ובכל פעם שהם רואים כפילות או סתירה-לכאורה, הם בוחרים בפתרון הקל של הפרדה לשני מקורות.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-11-29 06:55:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>&quot;נחרדתי&quot;?! &quot;מביך&quot;?! &quot;מביש&quot;?! וכל זה בגלל שדעתם שונה מדעתך?! נראה לי שהפעם הגזמת. אפשר לחלוק על הזולת גם בלי להנמיך ולזלזל בדעתו.</p><p>אבל כיוון שכבר הזכרת מושגים אלה, מה שבאמת מביך ומביש בעיניי הוא אופן החשיבה השטחי של אנשי ביקורת המקרא, שלא מסוגלים להבין מוּרכבוּת, ובכל פעם שהם רואים כפילות או סתירה-לכאורה, הם בוחרים בפתרון הקל של הפרדה לשני מקורות.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-11-29 06:55:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-29 06:55:19' 
+			WHERE messageid=5775;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-29 06:57:48' 
+			WHERE messageid=5775;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>יכול להיות שהשתמשתי בביטויים חריפים מדי אראל, אני מודה, גם אני חשבתי קצת אח&quot;כ אולי קצת הגזמתי. אבל זה פשוט כי הנקודה הזו מאוד מפריעה לי. אין לי בעיה לקבל מגוון דעות, כפי שאתה יודע היטב, אבל מגוון זה אומר להציג גם את דעת הביקורת, שדווקא היא חסרה ואילו היפוכה מיוצגת היטב. האם אתה יכול להפנות אותי ולו לספר אחד שמציג את דעותיה באופן מסודר על ספר שמואל? ועל התורה? כתבתי למעלה שאם יש כזה אשמח להפניה, אני לא מכיר. וכן, אני חושב שהמצב הזה בישראל הוא מביש. ולכן, ציפיתי מספר שמתיימר להיות מדעי להציג לי את הדעה הזו ולו כאלטרנטיבה, אך זה לא קרה, למרות שבספר שמואל הכפילות זועקת מכל עבר, כפי שהראיתי גם במאמר זה. בסיכומו של דבר, לעיתים צריך להיות קצת בוטים כדי לשנות משהו, ועל כן לא שיניתי ביטויים אלה.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-29 07:54:09'
+		)
+		;
+
