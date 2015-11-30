@@ -170,6 +170,11 @@ function preprocess_qjr(&$row) {
 			$row['kotrt'] = '';
 		}
 	}
+    
+	if (preg_match("/אבנר רמו/u",$row['m'],$matches)) {
+		$row['av'] = "אבנר רמו";
+		$row['sdr_bn'] = 60;
+    }
 }
 
 
@@ -283,6 +288,7 @@ function show_qjr_form() {
 		SELECT 
 			avot.qod as av, 
 			bnim.qod as bn,
+            bnim.m as m,
 			qjrim.sdr_bn, 
 			'' as sug,
 			IF (qjrim.kotrt<>bnim.qod AND INSTR(qjrim.kotrt,':')=0, qjrim.kotrt, '') as kotrt,
