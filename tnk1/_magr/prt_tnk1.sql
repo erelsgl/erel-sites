@@ -211,3 +211,71 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית כו20' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'אירוסין=' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'ביאור:דברים כב23' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'בנין אב בתלמוד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'גזרה שוה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'דבר הלמד מענינו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'דבר שהיה בכלל ויצא מן הכלל ללמד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'כלל ופרט' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'כלל ופרט וכלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'מדוע התורה מתירה ריבוי נשים ולא ריבוי גברים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'מידות שהתורה נדרשת בהן' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'משפחה וילדים במשפט העברי לעומת המשפט הרומי' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'נישואין וגירושין בתורה ובתלמוד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'פרט וכלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'ציות עיוור' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'דוד ק', `tarik_hosfa` = '2015-11-30 02:46:28' WHERE `qod` = 'קל וחומר בתלמוד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'מזבח יצחק בבאר-שבע', `tarik_hosfa` = '2015-11-30 06:37:19' WHERE `qod` = 'ביאור:בראשית כו25' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ואבימלך הלך אליו מגרר', `tarik_hosfa` = '2015-11-30 06:37:19' WHERE `qod` = 'ביאור:בראשית כו26' AND 1 LIMIT 1;
+

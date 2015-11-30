@@ -8259,3 +8259,161 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>לשיטת המקורות יש יצוג בולט מאוד במאמרים רבים באתרים רשמיים ובשיח האקדמי בכלל. אבל תודה רבה חגי שכתבת את הביקורת הזאת ונתת לנו מידע על עיקרי הספר כיוון שמן הסתם לא אקרא אותו. לא מתחברת לשיטת המקורות למרות שלפעמים היא נשמעת מאוד משכנעת. נדמה לי תמיד שיש הרבה דברים עמוקים מעבר לכך.</p><p>לא מזמן קראתי במגזין צרפתי על תנ&quot;ך שפרופסור ידוע לתאולוגיה משוויץ ששכחתי את שמו אמר שסיפורים כפולים משולשים מרובעים היו בנורמה בתקופה ההיא. זה הסבר שמאוד מתאים לי.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-11-29 09:20:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>תודה אורנה. שוב אני אומר שידוע לי שביקורת המקרא ותורת התעודות היא לא חזות הכול, ובתנ&quot;ך יש עומקים רבים נוספים, שאל חלקם גם אני מתייחס בכתיבתי. גם ידוע לי שבשיח האקדמי העניין שלט. מה שחורה לי הוא מדוע אין ייצוג הולם לשיח זה לכלל האנשים. האם אני צריך להירשם לחוג למקרא כדי להתרשם לעומק ממצאי המחקר? בשום תחום אחר אין זה כך! לפי דעתי הציבור בארץ צריך להגיע לבגרות מספיקה כדי לפחות להביא ייצוג הולם של הדברים.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-29 09:44:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>נו אז אולי תכתוב אתה רב מכר היסטרי על הנושא...</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-11-29 09:50:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-2526.html',
+		'<p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן וּמַרְוֶה גַּם הוּא יוֹרֶא&quot; </p><p>זה אברהם אבינו....</p><p>בראשית יב2: &quot;וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ וֶהְיֵה בְּרָכָה&quot; </p><p>ואברהם היה מרווה תורה את בני ביתו ובזכות זה הלהים ירה לו את תורתו שאברהם גם הוא יהיה יורה תורה ולא יחדל</p><p>בראשית יח19: &quot;כִּי יְדַעְתִּיו לְמַעַן אֲשֶׁר יְצַוֶּה אֵת בָּנָיו וְאֶת בֵּיתוֹ אַחֲרָיו </p><p>וְשָׁמְרוּ דֶּרֶךְ יהוה לַעֲשׂוֹת צְדָקָה וּמִשְׁפָּט לְמַעַן הָבִיא יהוה עַל אַבְרָהָם אֶת אֲשֶׁר דִּבֶּר עָלָיו&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-29 10:02:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-2526.html',
+		'<p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן וּמַרְוֶה גַּם הוּא יוֹרֶא&quot;</p><p>זה אברהם אבינו....</p><p>בראשית יב2: &quot;וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ וֶהְיֵה בְּרָכָה&quot;</p><p>ואברהם היה מרווה תורה את בני ביתו ובזכות זה האלהים ירה לו את תורתו שאברהם גם הוא יהיה יורה תורה ולא יחדל</p><p>בראשית יח19: &quot;כִּי יְדַעְתִּיו לְמַעַן אֲשֶׁר יְצַוֶּה אֵת בָּנָיו וְאֶת בֵּיתוֹ אַחֲרָיו</p><p>וְשָׁמְרוּ דֶּרֶךְ יהוה לַעֲשׂוֹת צְדָקָה וּמִשְׁפָּט לְמַעַן הָבִיא יהוה עַל אַבְרָהָם אֶת אֲשֶׁר דִּבֶּר עָלָיו&quot;</p><p>מחיקה</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-29 10:02:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-29 10:02:41' 
+			WHERE messageid=5781;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-11-2526.html',
+		'<p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן וּמַרְוֶה גַּם הוּא יוֹרֶא&quot;</p><p>זה אברהם אבינו....</p><p>בראשית יב2: &quot;וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ וֶהְיֵה בְּרָכָה&quot;</p><p>ואברהם היה מרווה תורה את בני ביתו ובזכות זה האלהים ירה לו את תורתו שאברהם גם הוא יהיה יורה תורה ולא יחדל</p><p>בראשית יח19: &quot;כִּי יְדַעְתִּיו לְמַעַן אֲשֶׁר יְצַוֶּה אֵת בָּנָיו וְאֶת בֵּיתוֹ אַחֲרָיו</p><p>וְשָׁמְרוּ דֶּרֶךְ יהוה לַעֲשׂוֹת צְדָקָה וּמִשְׁפָּט לְמַעַן הָבִיא יהוה עַל אַבְרָהָם אֶת אֲשֶׁר דִּבֶּר עָלָיו&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-29 10:03:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-11-29 10:03:26' 
+			WHERE messageid=5782;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>אין לי מספיק ידע בינתיים. אבל באמת חשבתי ללמוד, לעשות דוקוראט ולכתוב את הספר הזה... אבל במחשבה שנייה הדבר הרבה יותר פשוט - פשוט צריך לתרגם ספר מאנגלית, מתוך מגוון גדול שאני משער שקיים בשפה זו. או להמריץ חוקר מקרא ישראלי לכתוב זאת בעצמו.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-29 10:16:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>והנה מתוך המבוא ל&quot;מקרא לישראל&quot;: &quot;ספר שמואל אינו ספר אחיד , אך הוא ספר מאוחד . אפשר להבחין בו בהבדלים בסגנון ובדרכי הסיפר , ואף בכפילויות וסתירות , הנובעים ככל הנראה מריבוי מקורות ומסורות . עם זאת לא יושתת הפירוש על הפרדת הספר למרכיביו ועל השערות בנוגע לשלבי התגבשותו , אלא יתייחס לספר שמואל ברמותו הסופית , כפי שהיה ידוע בקרב עם ישראל לאורך הדורות , וכפי שהשפיע וממשיך להשפיע על היצירה היהודית והכללית עד היום ( סקירה על השפעה זו מובאת במבוא לספר).&quot;</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-29 10:48:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>לעשות סינתזה מספרים באנגלית בהחלט בהישג ידך. בדיוק חשבתי על זה. אם כל כך מטריד אותך החסר הזה, תשלים אותו. לא חושבת שאתה זקוק למנחה ולמסגרת כיום.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-11-29 11:16:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>לא חושב שאוכל לעשות זאת. לקחתי על עצמי את תפקיד הסוקר או המבקר ולא המתרגם, והוא דורש להצביע על הבעיה, לא לפתור אותה. וכן, גם לזהות בעיות כלליות בשוק הספרים המקומי זה חלק מתפקיד הביקורת, בעיניי.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-11-29 13:22:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>אני מזכיר לך את &quot;כללי המשחק&quot; שאתה עצמך פרסמת כאן: http://tora.us.fm/tnk1/messages/prqim_t0319_7.html</p><p>&quot;לא אומר דברים מעליבים, תוקפניים ו/או מסיתים שמטרתם לפגוע ביחיד או בקבוצה&quot;</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-11-30 03:04:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>אראל</p><p>מותר לי לגחך על מסלפי התורה למיניהם ולעלוב בהם כאשר גם אליהו הנביא גיחך על נביאי הבעל שונאי ישראל</p><p>מלכים א יח27: &quot;וַיְהִי בַצָּהֳרַיִם וַיְהַתֵּל בָּהֶם אֵלִיָּהוּ וַיֹּאמֶר קִרְאוּ בְקוֹל גָּדוֹל כִּי אֱלֹהִים הוּא כִּי שִׂיחַ וְכִי שִׂיג לוֹ וְכִי דֶרֶךְ לוֹ אוּלַי יָשֵׁן הוּא וְיִקָץ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-11-30 04:36:59'
+		)
+		;
+

@@ -4,6 +4,7 @@ Disallow: /
 User-agent: *
 Disallow: /_script
 Disallow: /tnk1/_magr
+Disallow: /tnk1/messages
 Disallow: /e*a
 Disallow: /quest/world/article.php
 Disallow: /quest/world/soldier.php
