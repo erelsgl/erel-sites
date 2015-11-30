@@ -276,6 +276,8 @@ function kotrt() {
 			authorForTitle = bilingual(lang,theLang2,"span","אראל סגל","Erel Segal");
 		else if ("רענן" == theAuthor || /רענן אייכלר/.test(theAuthor))
 			authorForTitle = authorLink("רענן אייכלר", "raananyosef","yahoo.com");
+		else if ("דוד ק" == theAuthor || "דוד קיוויתי" == theAuthor) 
+			authorForTitle = "על-פי שיעורים של פרופ' קירשנבאום מהמרכז הבינתחומי";
 		else if ("צחור" == theAuthor)
 			authorForTitle = authorLink("צחור", "the.tzahor","gmail.com");
 		else if ("אביגיל גוטליב" == theAuthor)
