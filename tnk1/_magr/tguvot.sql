@@ -8472,3 +8472,321 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>חגי, תודה על שכתבת על הספר ביקורת והבאת קישורית לפרק מתוכו. מן הסתם אחזור עוד לשם כשאמשיך במאמריי על שאול. רק ששלוש המילים האלה שהשתמשת בהן חריפות מדי גם לדעתי ולא מתאימות לקונטקסט. ועכשיו נמשיך הלאה בדברים אחרים... שבוע טוב!!!</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-12-01 10:12:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>אני לא חושב כך. נמשיך הלאה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-01 14:06:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>אני לא חושב כך. הן חריפות, אך לא מדי. זכותי להביע את דעתי. ובאמת נמשיך הלאה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-01 14:20:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 14:20:29' 
+			WHERE messageid=5795;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>ועוד דבר. במקום להיטפל לביטוי כזה או אחר עדיף להתייחס לתוכן הדברים - דבר שנעדר כאן. אני מבין שיש רתיעה מהסבר המקורות השונים - רתיעה שהיא כנראה ההסבר להתרעמות - אך עדיין לא מצאתי הסבר חלופי מניח את הדעת. רעיון אחד הציע אראל כאן:</p><p>http://tora.us.fm/tnk1/klli/limud/kfiluyot.html</p><p>וכבר כתבתי בעבר שזה רעיון יפה ומקורי מאוד, ממש נהדר, ואף הוספתי לו נדבך משל עצמי (בהודעה בפייסבוק מ-2.12.14: &quot;היי. לפרוייקט שלך: עכשיו ראיתי בחדשות - תחילת דצמבר 2004 - ראש הממשלה (שרון) מפטר את השר לפיד, על רקע אי הבנות בנוגע לתקציב המדינה. והיום...&quot;).</p><p>ועדיין, אני חושב שעם כל הברק של הרעיון הזה הוא לא באמת מספק הסבר חלופי, לא לכפילויות בבראשית ולא לאלה בשמואל. זו דעתי, על כל פנים. ואשמח אם יתעורר דיון על נושא זה עצמו.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-01 14:55:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>השתמשת בנוסח פוגעני וחסר כל פרופורציות ואני מבינה היטב מה אראל רצה להגיד.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-12-01 18:03:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>טוב, זה נראה סתם כמו ניסיון לעשות עליי לינץ מילולי. אני לא מתכוון לשתף עם זה פעולה.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-01 18:08:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>המילה לינץ וכל מה שהיא מסמלת שנואה עליי מכל וכול ואינני מסכימה שיכנו את דבריי כך.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2015-12-01 18:43:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:56:52' 
+			WHERE messageid=5798;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:56:56' 
+			WHERE messageid=5800;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:57:06' 
+			WHERE messageid=5794;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:57:21' 
+			WHERE messageid=5778;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:57:25' 
+			WHERE messageid=5780;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 18:57:30' 
+			WHERE messageid=5786;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-12-1323.html',
+		'<p></p>',
+		'103696696590373877352',
+		'Nadav Rosengarten Nadav Rosengarten',
+		'2015-12-01 19:07:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-01 19:07:31' 
+			WHERE messageid=5801;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-12-1323.html',
+		'<p></p>',
+		'103696696590373877352',
+		'Nadav Rosengarten Nadav Rosengarten',
+		'2015-12-01 19:08:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-12-1323.html',
+		'<p>הדם הוא הנפש והאלהים בוחן לראות את הדם האם טהור הוא בעיניו </p><p>משה בדבר אלהים ציוה את בני ישראל לקחת אזוב ולטבול אותו בדם הקורבן</p><p>כי האזוב מטהר את הדם את הנפש ויש לשמור את העבודה הזו מדור לדור</p><p>כי כאשר בני ישראל עשו המצוה לקחת אזוב לטהר את הדם כבר אז הביעו בני ישראל</p><p>את רצונם להיות טהורים לאל עליון לאלהי ישראל ליהוה צבאות על כן הציל אותם</p><p>http://tora.us.fm/tnk1/messages/prqim_t0212_3.html</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-02 05:46:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-02 06:10:29' 
+			WHERE messageid=5802;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5784 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5785 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5787 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5788 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5789 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5790 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5791 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5792 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5793 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5795 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5796 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5797 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5799 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5801 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5802 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5803 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-02 06:15:34' 
+			WHERE messageid=5799;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_84.html',
+		'<p>לגבי התוכן: קשה לנהל דיון כאשר נקודת המוצא היא שונה לחלוטין. </p><p>לפי הפרשנות המסורתית, התנ&quot;ך הוא יצירה אלהית. לכן כל כפילות או סתירה-לכאורה היא מכוונת, היא מזמינה אותנו לחשוב וללמוד ולגלות את המשמעות העמוקה של הטקסט.</p><p>לפי ביקורת המקרא, התנ&quot;ך הוא יצירה אנושית. לכן, הם מלכתחילה לא מנסים לחפש משמעויות עמוקות בכפילויות ובסתירות. במקום לראות בתנ&quot;ך יצירה אחת עמוקה, הם רואים בה אוסף של מספר יצירות שטחיות.</p><p>איך בכל-זאת אפשר לנהל דיון ענייני? אפשר לדון בפסוקים ספציפיים, לגופם. קח למשל את המשפט היפה &quot;הגם שאול בנביאים?!&quot;. הכפילות כאן גלויה לעין כל... לא צריך להיות חוקר מקרא כדי לשים לב שהביטוי חוזר פעמיים. המפרשים המסורתיים שמו לב לכך כבר לפני דורות רבים, והציעו פירושים שונים. גם מפרשים בני דורנו הציעו פירושים מעניינים.  אתה יכול להגיד &quot;הפירושים האלה לא משכנעים אותי&quot;. זו זכותך, אבל זה לא ממש מקדם את הדיון... אותך זה לא משכנע, אותי זה כן משכנע, ובזה מסתיים הדיון. לעומת זאת, אתה יכול להביא נימוקים ענייניים, מדוע כל הפירושים שהוצעו לכפילות זו בעבר נראים בעיניך לא מספקים. אז יהיה אפשר להביא נימוקים נגדיים ולנהל דיון ענייני. בהצלחה!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-12-02 06:24:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5783 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5784 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5785 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5787 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5788 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5789 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5791 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5792 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5793 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5796 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5797 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>לגבי התוכן: קשה לנהל דיון כאשר נקודת המוצא היא שונה לחלוטין. </p><p>לפי מסורת ישראל, התנ&quot;ך הוא יצירה אלהית. לכן כל כפילות או סתירה-לכאורה היא מכוונת, היא מזמינה אותנו לחשוב וללמוד ולגלות את המשמעות העמוקה של הטקסט. </p><p>לפי מבקרי המקרא, התנ&quot;ך הוא יצירה אנושית. לכן, הם לא טורחים לחפש משמעויות עמוקות בכפילויות ובסתירות, אלא מסתפקים בקביעה שיש כאן כמה כותבים שונים. לוקחים יצירה עמוקה ונפלאה, קורעים אותה לגזרים והופכים אותה לאוסף של יצירות שטחיות.</p><p>איך בכל-זאת אפשר לנהל דיון ענייני? אפשר לדון בפסוקים ספציפיים, לגופם. קח למשל את המשפט היפה &quot;הגם שאול בנביאים?!&quot;. הכפילות כאן גלויה לעין כל. לא צריך להיות חוקר מקרא כדי לשים לב שהביטוי חוזר פעמיים. המפרשים המסורתיים שמו לב לכך כבר לפני דורות רבים, והציעו פירושים שונים. גם מפרשים בני דורנו הציעו פירושים מעניינים.  אתה יכול להגיד &quot;הפירושים האלה לא משכנעים אותי&quot;. זו זכותך, אבל זה לא ממש מקדם את הדיון. אותך זה לא משכנע, אותי זה כן משכנע, ובזה מסתיים הדיון. לעומת זאת, אתה יכול לנסות להביא נימוקים,  מדוע כל הפירושים שהוצעו לכפילות זו בעבר נראים בעיניך לא מספקים. אז יהיה אפשר להביא נימוקים נגדיים ולנהל דיון ענייני. בהצלחה!</p>', `deleted_at` = NULL WHERE `messageid` = 5804 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5803 AND 1 LIMIT 1;
+
