@@ -12824,3 +12824,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-02 09:28:53'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-02 09:42:46'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-02 12:59:28'
+		WHERE ktovt_bn='tnk1/messages/sig_9sfr_84.html'
+		;
+
