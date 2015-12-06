@@ -9024,3 +9024,81 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0133_0.html',
+		'<p>1.ספר שמות פרק יא פסוק,ד </p><p>וַיֹּאמֶר מֹשֶׁה כֹּה אָמַר יְהוָה כַּחֲצֹת הַלַּיְלָה אֲנִי יוֹצֵא בְּתוֹךְ מִצְרָיִם.</p><p>ובתרגום לשפה ארמית.....</p><p>וַאֲמַר מֹשֶׁה כִּדְנָן אֲמַר יְיָ  כְּפַלְגוּת לֵילְיָא אֲנָא מִתְגְּלֵי בְּגוֹ מִצְרָיִם.</p><p>2. ספר שמות פרק יב,פסוק יב </p><p>וְעָבַרְתִּי בְאֶרֶץ-מִצְרַיִם בַּלַּיְלָה הַזֶּה וְהִכֵּיתִי כָל-בְּכוֹר בְּאֶרֶץ מִצְרַיִם מֵאָדָם וְעַד-בְּהֵמָה וּבְכָל-אֱלֹהֵי מִצְרַיִם אֶעֱשֶׂה שְׁפָטִים אֲנִי יְהוָה.</p><p>ובתרגום לשפה ארמית.....</p><p>וְאֶתְגְּלֵי בְּאַרְעָא דְּמִצְרַיִם בְּלֵילְיָא הָדֵין וְאֶקְטוֹל כָּל בֻּכְרָא בְּאַרְעָא דְּמִצְרַיִם מֵאֲנָשָׁא וְעַד בְּעִירָא וּבְכָל טָעֲוָת מִצְרָאֵי אַעֲבֵיד דִּינִין אֲנָא יְיָ.</p><p>כשאלהים עובר עליך = על פי התרגום בארמית הוא מתגלה אליך</p><p>וזו סכנת מוות כשאלהים נגלה אליך = ככתוב בספר שמות לג20: &quot;וַיֹּאמֶר לֹא תוּכַל לִרְאֹת אֶת פָּנָי כִּי לֹא יִרְאַנִי הָאָדָם וָחָי&quot;</p><p>וכי אני כותב לכם זאת בני ישראל למען תדעו כי אבותינו הקדושים אשר נגלה אליהם אלהים נגלה להם שערי מוות</p><p>איוב לח17: &quot;הֲנִגְלוּ לְךָ שַׁעֲרֵי מָוֶת וְשַׁעֲרֵי צַלְמָוֶת תִּרְאֶה&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-05 16:18:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>ספר שמות פרק ז,פסוק א כתוב:</p><p>וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה רְאֵה נְתַתִּיךָ אֱלֹהִים לְפַרְעֹה וְאַהֲרֹן אָחִיךָ יִהְיֶה נְבִיאֶךָ.</p><p>ובשפה הארמית</p><p>וַאֲמַר יְיָ לְמֹשֶׁה חֲזִי דְּמַנִּיתָךְ רָב לְפַרְעֹה וְאַהֲרוֹן אֲחוּךְ יְהֵי מְתֻרְגְּמָנָךְ.</p><p>ובכן ראו נא כי......</p><p>וְאַהֲרֹן אָחִיךָ יִהְיֶה נְבִיאֶךָ = וְאַהֲרוֹן אֲחוּךְ יְהֵי מְתֻרְגְּמָנָךְ</p><p>כי הנביא מבין את שפת האלהים בחלום בחזיון ומתרגם את דבר אלהים לבני האדם</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-05 16:28:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>ספר שמות פרק ז,פסוק א כתוב:</p><p>וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה רְאֵה נְתַתִּיךָ אֱלֹהִים לְפַרְעֹה וְאַהֲרֹן אָחִיךָ יִהְיֶה נְבִיאֶךָ.</p><p>ובשפה הארמית</p><p>וַאֲמַר יְיָ לְמֹשֶׁה חֲזִי דְּמַנִּיתָךְ רָב לְפַרְעֹה וְאַהֲרוֹן אֲחוּךְ יְהֵי מְתֻרְגְּמָנָךְ.</p><p>ובכן ראו נא כי......</p><p>וְאַהֲרֹן אָחִיךָ יִהְיֶה נְבִיאֶךָ = וְאַהֲרוֹן אֲחוּךְ יְהֵי מְתֻרְגְּמָנָךְ</p><p>כי הנביא מבין את שפת האלהים בחלום בחזיון ומתרגם את דבר אלהים לבני האדם</p><p>בימי קדם כולם הבינו את שפת אלהי העברים</p><p>אך בגלל שבימי מגדל בבל לא שמרו את הקודש אבדה להם שפת הקודש</p><p>וכאשר הגוים בוחרים להתייהד הם מתקדשים מטומאתם ולומדים שפה עברית באולפן</p><p>ככה בדרך דומה בני ישראל הבוחרים לעלות בדרך הקודש יכולים ללמוד את שפת האלהים </p><p>להבין השפה כנביא אלהים אמת בראות האלהים בחזון במראה ובחלום</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-05 16:50:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-05 16:50:24' 
+			WHERE messageid=5822;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-05 19:21:36' 
+			WHERE messageid=5811;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 584 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 959 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1732 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>ספר איכה פרק ד (ח) חָשַׁךְ מִשְּׁחוֹר תָּאֳרָם </p><p>לכן שחור זה צבע החושך </p><p>שחור זה שחור</p><p>וכחול זה כחול</p>' WHERE `messageid` = 1777 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5234 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>אל תאמינו לדברי רבני חזל</p><p>אביו ואמו של משיח-אלהים עַזְבֻהוּ </p><p>תהלים כז10: &quot;כִּי אָבִי וְאִמִּי עֲזָבוּנִי ויהוה יַאַסְפֵנִי&quot;</p><p>דברי הימים ב כט6: &quot;כִּי מָעֲלוּ אֲבֹתֵינוּ וְעָשׂוּ הָרַע בְּעֵינֵי יהוה אֱלֹהֵינוּ וַיַּעַזְבֻהוּ וַיַּסֵּבּוּ פְנֵיהֶם מִמִּשְׁכַּן יהוה וַיִּתְּנוּ עֹרֶף&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 5307 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 5309 AND 1 LIMIT 1;
+
