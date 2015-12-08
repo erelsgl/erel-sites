@@ -234,3 +234,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יט18', 'שאול ויהונתן במכמש - אל המיתו אל תשא נפשך', '', 10, 60, '2015-11-15 06:28:15');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי ו26', 'בני עלי - בעד אישה זונה עד כיכר לחם', '', 60, 60, '2015-12-07 08:06:05');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('נבואות מקבילות לפסוקי משלי', 'ביאור:משלי ה18', 'מלאכי - תוכחה על בגידה באשת הנעורים', '', 60, 60, '2015-12-07 08:13:36');
+
