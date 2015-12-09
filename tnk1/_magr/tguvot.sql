@@ -9114,3 +9114,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jlixut_aximac_1.html',
+		'<p>עזר לי מאוד</p><p></p>',
+		'106321713439689225260',
+		'ירדן מימון',
+		'2015-12-08 10:01:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-08 10:01:34' 
+			WHERE messageid=5825;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jlixut_aximac_1.html',
+		'<p>עזר לי אבל זה בטוח נכון?</p>',
+		'106321713439689225260',
+		'ירדן מימון',
+		'2015-12-08 10:10:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-08 10:10:20' 
+			WHERE messageid=5826;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jlixut_aximac_1.html',
+		'<p>תשובה 3 נכונה [של צחור]</p><p>אחימעץ ידע איך לבשר את הבשורה באופן מיטיב בצורה רכה ולא כמו הכושי שלא יבשר טוב</p><p>לכן מוסר ההשכל הוא איך לבשר את הבשורה לשכולים ולכל מי שחווה אובדן</p><p>ובכל זאת עליכם לדעת כי צדיק אמיתי לא ירא גם מבשורה רעה</p><p>תהלים קיב7: &quot;מִשְּׁמוּעָה רָעָה לֹא יִירָא נָכוֹן לִבּוֹ בָּטֻחַ ביהוה\'&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-08 12:15:04'
+		)
+		;
+
