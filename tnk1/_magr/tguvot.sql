@@ -9164,3 +9164,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xrfm_0.html',
+		'<p>אמת חרטום קיים. זה מעוצב חלבון דם עם חומצה. זה שידור של פיזור. אני אלמד אותך בתנאי את חתום וחרט על התורה בתור חוקה אזרחות נבדק. זק</p>',
+		'100745986795999257012',
+		'יצחק צייג',
+		'2015-12-09 15:05:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xrfm_0.html',
+		'<p>שיעור לדור המייסדים  אפשר לארגן.</p>',
+		'100745986795999257012',
+		'יצחק צייג',
+		'2015-12-09 15:06:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1804_2.html',
+		'<p></p><p>היום 35 שנה למותו של ג\'ון לנון</p><p>ואני בחרתי בשיר שלו בביצוע של סינדי לאופר</p><p>https://www.youtube.com/watch?v=Rhp9XBmZF9A&amp;list=LLePtcSBFNqsZJz-J5_WNX3w&amp;index=229</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-09 16:01:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/qeila.html',
+		'<p>כנראה אפשר לשאול באפוד רק שאלה אחת בכל פעם.</p><p>בנוסף, כנראה דוד למד לקח מסיפור מלחמת ישראל בבנימין בסוף ספר שופטים, שם על אף הנחיית ה\' דרך האפוד לצאת למלחמה - ישראל ניגפו פעמיים, כלומר עצתו לא בהכרח לטובתך. לכן הוא דורש פירוט מיוחד עתה - לא רק אם ללכת, אלא גם האם יסגירו.</p><p>[הפנו למאמר זה מ-929]</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-09 22:23:57'
+		)
+		;
+
