@@ -13155,3 +13155,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuela/qeila.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-10 10:21:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1055.htm',
+				'tnk1/messages/mxjbwtykm___megl_yjeyh_nh.pdf',
+				NULL,
+				'2015-12-10 14:24:11',
+				'2015-12-10 14:24:11',
+				'מחשבותי מחשבותיכם = מעגל ישעיה נה',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_85.html',
+				NULL,
+				'2015-12-10 23:02:04',
+				'2015-12-10 23:02:04',
+				'על \"כיצד לקרוא את התנ\"ך\" מאת מארק צבי ברטלר ',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_86.html',
+				NULL,
+				'2015-12-10 23:04:04',
+				'2015-12-10 23:04:04',
+				'על \"אהובות ושנואות\" מאת עליזה שנהר ',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+

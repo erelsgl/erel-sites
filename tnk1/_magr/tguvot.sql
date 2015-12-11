@@ -9212,3 +9212,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>ההבדל בין לב לבין לבב</p><p>לבב = זה בגימטריה 7 לאמור משמעות רוחנית זה רוח הלב שלך</p><p>לב   = זה הלב הבשרי [הפיסי] שנולדת עמו ויש לך אותו</p><p>כָּתְבֵם עַל לוּחַ לִבֶּךָ =לאמור צוק תוכן רוחני בכתיבת רוח הדברים על לבך הפיסי</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-10 10:21:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-10 11:29:24' 
+			WHERE messageid=5832;
+
