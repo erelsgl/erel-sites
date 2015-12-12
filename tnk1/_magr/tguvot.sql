@@ -9231,3 +9231,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-12-10 11:29:24' 
 			WHERE messageid=5832;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ברוך ה` יעשה עמנו שלום ולידה קלה ..</p><p></p>',
+		'106382697121600458156',
+		'דנה נוריאלי',
+		'2015-12-11 08:40:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ברוך ה` יעשה עמנו שלום ולידה קלה ..</p><p></p>',
+		'106382697121600458156',
+		'דנה נוריאלי',
+		'2015-12-11 10:44:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ברוך ה` יעשה עמנו שלום ולידה קלה ..</p><p></p>',
+		'106382697121600458156',
+		'דנה נוריאלי',
+		'2015-12-11 11:52:32'
+		)
+		;
+
