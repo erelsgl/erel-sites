@@ -260,6 +260,10 @@ for ($i=0; $i<count($bnim); ++$i) {
 
 		//$contents = preg_replace("@</b>\s*<b>@s","",$contents); // might remove important spaces
 		//$contents = preg_replace("@</q>\s*<q>@s","",$contents); // might remove important spaces
+        
+        $contents = str_replace("דוד קיוויתי מחברת","תלמיד החפץ בעילום שמו",$contents);
+        $contents = str_replace('<a href="http://gosafe.co.il/">ביטוח נסיעות</a>', "", $contents);
+        
 		$contents = preg_replace("@<span\\s*style=.text-decoration:\\s*underline.*?>([^<>]*)</span>@is", "<b>$1</b>", $contents);
 		$contents = preg_replace("@<span\\s*class=.u.\\s*>([^<>]*)</span>@is", "<b>$1</b>", $contents);
 		$contents = preg_replace("@([.][.][/])+wiki/@", "http://he.wikisource.org/wiki/", $contents);
