@@ -9312,3 +9312,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2015-12-13 05:35:12' 
 			WHERE messageid=5837;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לביתי היקרה אמן וילד בריא תודה על הברכה ,ואלוהים שיעזור לכול היולדות שיהיי להם לידה קלה וידיחם מלאות אמן ואמן </p><p></p>',
+		'107327397232548884047',
+		'Suzi Yusef',
+		'2015-12-13 20:56:51'
+		)
+		;
+

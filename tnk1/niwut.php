@@ -261,8 +261,10 @@ for ($i=0; $i<count($bnim); ++$i) {
 		//$contents = preg_replace("@</b>\s*<b>@s","",$contents); // might remove important spaces
 		//$contents = preg_replace("@</q>\s*<q>@s","",$contents); // might remove important spaces
         
-        $contents = str_replace("דוד קיוויתי מחברת","תלמיד החפץ בעילום שמו",$contents);
-        $contents = str_replace('<a href="http://gosafe.co.il/">ביטוח נסיעות</a>', "", $contents);
+		//print preg_match('@<a href=.http:..gosafe.co.il.>@', $contents)? " true":" false";
+        	$contents = preg_replace('@<a href=.http:..gosafe.co.il.>.*?<.a>@', "", $contents);
+		//print $contents;
+   	        $contents = preg_replace('@<p class=.amnon.>[^<>]*@', '<p class="amnon">'.utf8_to_windows1255('מאמר זה מתבסס על שיעורים של פרופסור קירשנבאום מהמרכז הבינתחומי, והוא הוקלד ע"י תלמיד החפץ בעילום שמו ונתרם על-ידו ל"אתר הניווט בתנך". מותר להעתיק את המאמר בתנאי שהערה זו נמצאת בראש כל עותק.'."\n")   ,$contents);
         
 		$contents = preg_replace("@<span\\s*style=.text-decoration:\\s*underline.*?>([^<>]*)</span>@is", "<b>$1</b>", $contents);
 		$contents = preg_replace("@<span\\s*class=.u.\\s*>([^<>]*)</span>@is", "<b>$1</b>", $contents);

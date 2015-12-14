@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2015-11-30 06:37:23
+# This file was automatically generated at 2015-12-13 08:01:38
 
 sub wikia_replace_links {
 $_=shift;
@@ -3965,6 +3965,7 @@ s|${OPENLINK}tnk1/messages/sofrim_shabot_index_14|[[ביאור:גוף ונשמה
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_13|[[ביאור:גוף ונשמה 7|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_12|[[ביאור:גוף ונשמה 6|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_11|[[ביאור:גוף ונשמה 5|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_104|[[ביאור:מאלף עד תו|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_103|[[ביאור:"המשיח" - מושג מעוות?                       |ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_101|[[ביאור:מכתב גלוי לד"ר ברוס ליפטון|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_100|[[ביאור:שיחה עם אימא שכולה|ig;
@@ -4413,6 +4414,8 @@ s|${OPENLINK}tnk1/messages/sig_9srt_1|[[ביאור:סרטי תנ"ך (ביוטי�
 s|${OPENLINK}tnk1/messages/sig_9srt_0|[[ביאור:סרטים לחג - על יציאת מצרים|ig;
 s|${OPENLINK}tnk1/messages/sig_9sipur_0|[[ביאור:מיומנו של מתמודד|ig;
 s|${OPENLINK}tnk1/messages/sig_9sfr_9|[[ביאור:עוד ספרים על אהבה ביהדות ובכלל|ig;
+s|${OPENLINK}tnk1/messages/sig_9sfr_86|[[ביאור:על "אהובות ושנואות" מאת עליזה שנהר |ig;
+s|${OPENLINK}tnk1/messages/sig_9sfr_85|[[ביאור:על "כיצד לקרוא את התנ"ך" מאת מארק צבי ברטלר |ig;
 s|${OPENLINK}tnk1/messages/sig_9sfr_84|[[ביאור:על הספר "בין שני מלכים" מאת ישראל כץ|ig;
 s|${OPENLINK}tnk1/messages/sig_9sfr_83|[[ביאור:על "מידות הראי"ה", מבואר בידי חגי לונדין |ig;
 s|${OPENLINK}tnk1/messages/sig_9sfr_82|[[ביאור:על "לנצח כל רגע מחדש" מאת יחיאל הררי|ig;
@@ -4774,6 +4777,7 @@ s|${OPENLINK}tnk1/messages/prqim_t2741_0|[[ביאור:מיהו מלך החיות
 s|${OPENLINK}tnk1/messages/prqim_t2740_2|[[ביאור:סיפור הפיל ומקבילותיו?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t2740_1|[[ביאור:פר בן בקר הוא ראשית דרכי אל, ויש ללמוד ממנו על הקרבתו ליהוה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t2740_0|[[ביאור:קדושה בבקר כי הוא ראשית דרכי אל|ig;
+s|${OPENLINK}tnk1/messages/prqim_t2738_4|[[ביאור:רמב"ם מול פשט התנ"ך: האם הגלגלים הם מלאכים?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t2738_3|[[ביאור:רק בדעת קדושים להבין אשר היה בראשית עת יסוד הארץ|ig;
 s|${OPENLINK}tnk1/messages/prqim_t2738_2|[[ביאור:מי נתן לשכוי בינה - ומה על היהודים|ig;
 s|${OPENLINK}tnk1/messages/prqim_t2738_1|[[ביאור:ה' מתגלה מן הסערה - ערבוב קטגוריות|ig;
@@ -6031,6 +6035,7 @@ s|${OPENLINK}tnk1/messages/prqim_t0143_2|[[ביאור:"בי אדוני" - בעצ
 s|${OPENLINK}tnk1/messages/prqim_t0143_1|[[ביאור:נכאת ולט = אוצרות |ig;
 s|${OPENLINK}tnk1/messages/prqim_t0143_0|[[ביאור:דברי צדיקים כנבואה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0142_0|[[ביאור:כינויים של יוסף ובנימין|ig;
+s|${OPENLINK}tnk1/messages/prqim_t0141_3|[[ביאור:סיפורים מבראשית - מקץ|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0141_2|[[ביאור:חלום פרעה = אמת היסטורית = וחמש את - ארץ מצרים |ig;
 s|${OPENLINK}tnk1/messages/prqim_t0141_1|[[ביאור:חלומות השרים לעומת חלומות פרעה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0141_0|[[ביאור:פרשת מקץ - מנהיג ערכי מול מנהיג מעשי|ig;
@@ -6039,6 +6044,7 @@ s|${OPENLINK}tnk1/messages/prqim_t0139_1|[[ביאור:איש ואשה בעולם
 s|${OPENLINK}tnk1/messages/prqim_t0139_0|[[ביאור:וכל אשר הוא עושה ה' מצליח בידו - ואשר הוא עושה ה' מצליח|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0138_1|[[ביאור:האם התנ"ך מתנגד לאוננות?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0138_0|[[ביאור:פרשת וישב - תמר ויהודה|ig;
+s|${OPENLINK}tnk1/messages/prqim_t0137_4|[[ביאור:סיפורים מבראשית - וישב|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0137_3|[[ביאור:משהו על "וישב"|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0137_2|[[ביאור:ויפשיטו את יוסף את כתנתו = יוסף פעמים נמכר לעבדות והוא במערומיו |ig;
 s|${OPENLINK}tnk1/messages/prqim_t0137_1|[[ביאור:פרשת וישב - אהבה חיובית ושלילית|ig;
@@ -6209,6 +6215,7 @@ s|${OPENLINK}tnk1/messages/prqim_t0102_6|[[ביאור:אפלטון והתנ"ך: 
 s|${OPENLINK}tnk1/messages/prqim_t0102_5|[[ביאור:מהו חטא עץ הדעת טוב ורע?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0102_4|[[ביאור:דבר ה' לאדם כרמז למצוות בני נוח|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0102_2|[[ביאור:ומעץ הדעת טוב ורע לא תאכל ממנו|ig;
+s|${OPENLINK}tnk1/messages/prqim_t0102_13|[[ביאור:"דעת טוב ורע" - מין או הבנה שכלית? ואולי שניהם?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0102_12|[[ביאור:עץ הדעת, ילדות וזיקנה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0102_11|[[ביאור:אעשה לו עזר כנגדו|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0102_10|[[ביאור:המספר הטיפולוגי 7 - בראי הפסיכולוגיה|ig;
@@ -6317,6 +6324,7 @@ s|${OPENLINK}tnk1/messages/nvia_tryasr_xg-01_0|[[ביאור:ונפחתי בו - 
 s|${OPENLINK}tnk1/messages/nvia_tryasr_ml-02-10_0_1|[[ביאור:הנביא משתף את עצמו בקריאה לתשובה|ig;
 s|${OPENLINK}tnk1/messages/nvia_tryasr_brixt_yona_2|[[ביאור:אליהו הנביא לעומת יונה הנביא|ig;
 s|${OPENLINK}tnk1/messages/ncx_yjral_la_yjqr___megl.pdf|[[ביאור:וגם נצח ישראל לא ישקר = מעגל|ig;
+s|${OPENLINK}tnk1/messages/mxjbwtykm___megl_yjeyh_nh.pdf|[[ביאור:מחשבותי מחשבותיכם = מעגל ישעיה נה|ig;
 s|${OPENLINK}tnk1/messages/mwldty.jpg|[[ביאור:ציור מולדתי|ig;
 s|${OPENLINK}tnk1/messages/mvcaim_mfrjim_0|[[ביאור:ויקיטקסט|ig;
 s|${OPENLINK}tnk1/messages/msr_index_9|[[ביאור:משכמו ומעלה|ig;
@@ -6901,6 +6909,10 @@ s|${OPENLINK}tnk1/messages/forums_78|[[ביאור:'מכת חושך' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_77|[[ביאור:פרשת בא - מסר כפול בפרשה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_76|[[ביאור:'משעבוד לגאולה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_75|[[ביאור:'כי האדם עץ השדה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_749|[[ביאור:'פרעה נסער' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_748|[[ביאור:פרשת מקץ - מדוע זכה יוסף לגדולה במצרים?|ig;
+s|${OPENLINK}tnk1/messages/forums_747|[[ביאור:'יעקב יושב בכנען' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_746|[[ביאור:פרשת וישב - לימוד חינוכי בפרשה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_745|[[ביאור:' יעקב שולח מלאכים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_744|[[ביאור: פרשת וישלח - הנחייה  לדורות - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_743|[[ביאור:'רחל מתאווה לבנים' - שיר מאת אהובה קליין (c)|ig;

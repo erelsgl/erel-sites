@@ -807,9 +807,8 @@ table.milim_mjorj col, table.mamrim_mjorj col {
 }
 
 .amnon {
-    display: none;   /* per Amnon's request, 11/2015 */
-    /*font-size:0.7em;
-    background: #aef;*/
+    font-size:0.7em;
+    background: #aef;
 }
 
 /* For Google Friend Connect */
