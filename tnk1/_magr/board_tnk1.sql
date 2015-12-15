@@ -13499,3 +13499,49 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_750.html',
+				NULL,
+				'2015-12-14 21:03:29',
+				'2015-12-14 21:03:29',
+				'פרשת ויגש- מדוע יעקב בירך את פרעה במצרים?/מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-14 21:03:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_751.html',
+				NULL,
+				'2015-12-14 21:08:35',
+				'2015-12-14 21:08:35',
+				'יעקב מברך את פרעה/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-14 21:08:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+
