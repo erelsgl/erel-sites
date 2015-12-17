@@ -2380,3 +2380,86 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/ktuv/mgilot/qh-02-14.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0411_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-16 18:09:08'
+		WHERE parent='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0318_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-16 18:48:42'
+		WHERE parent='tnk1/messages/prqim_t0318_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-16 23:49:08'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-16 23:49:52'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0411_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-17 05:26:26'
+		WHERE parent='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-12-17 05:26:35'
+			WHERE parent='tnk1/messages/prqim_t0411_2.html'
+			;
+

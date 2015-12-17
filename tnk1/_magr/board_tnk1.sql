@@ -13593,3 +13593,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-02-14.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-16 18:09:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-16 18:48:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0318_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-16 23:49:08'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-16 23:49:52'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t08a28.htm',
+				'tnk1/messages/prqim_t08a28_3.html',
+				NULL,
+				'2015-12-16 23:51:04',
+				'2015-12-16 23:51:04',
+				'אלוהים ראיתי - רוח המת, והתיאוריה על מוצא הדתות',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-17 05:26:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
