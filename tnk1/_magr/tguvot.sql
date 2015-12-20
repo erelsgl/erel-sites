@@ -9694,3 +9694,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-19 16:41:19' 
+			WHERE messageid=5863;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mluka_sikum.html',
+		'<p>שמות יט6: &quot;וְאַתֶּם תִּהְיוּ לִי מַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ אֵלֶּה הַדְּבָרִים אֲשֶׁר תְּדַבֵּר אֶל בְּנֵי יִשְׂרָאֵל&quot;</p><p> ------------------- ממלכת כהנים זו הדרך לגוי קדוש -------------------</p><p>ובראש הממלכה יעמוד הכהן הגדול הוא המלך שיודע את תורת אלהים</p><p>http://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-19 20:13:17'
+		)
+		;
+
