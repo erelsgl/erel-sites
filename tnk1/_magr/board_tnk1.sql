@@ -13831,3 +13831,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim2/mluka_sikum.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-21 05:35:22'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-21 05:36:06'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
