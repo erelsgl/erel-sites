@@ -9713,3 +9713,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.land.gov.il/static/p19.asp   לאחרונה החליטה רשות מקרקעי ישראל על שיווק קרקעות ב&quot;הרשמה והגרלה&quot; באיזור עדיפות לאומית א ו-ב.  נראה שהם למדו מהתורה: &quot; במדבר כו55: &quot;&quot;אַךְ בְּגוֹרָל יֵחָלֵק אֶת הָאָרֶץ לִשְׁמוֹת מַטּוֹת אֲבֹתָם יִנְחָלוּ&quot;&quot;.</p><p>&quot;</p><p>ב. שיטת הרשמה והגרלה לבנייה עצמית למגורים</p><p>לעיתים מפרסמת הרשות, על פי שיקול דעתה, מכרזים לבניה עצמית גם בדרך של</p><p>הרשמה והגרלה.המחיר לקרקע קבוע.</p><p>בתום ההרשמה נערכת הגרלה פומבית. בהגרלה נקבעים הזכאים לקבל מגרש</p><p>לבנייה, והסדר שעל פיו הם יכולים לבחור במגרש. </p><p>&quot;</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-12-21 05:35:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-21 05:35:32' 
+			WHERE messageid=5865;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>http://www.land.gov.il/static/p19.asp </p><p>לאחרונה החליטה רשות מקרקעי ישראל על שיווק קרקעות ב&quot;הרשמה והגרלה&quot; באיזור עדיפות לאומית א ו-ב.</p><p>נראה שהם למדו מהתורה, במדבר כו55: &quot;אַךְ בְּגוֹרָל יֵחָלֵק אֶת הָאָרֶץ לִשְׁמוֹת מַטּוֹת אֲבֹתָם יִנְחָלוּ&quot;.</p><p>---</p><p>ב. שיטת הרשמה והגרלה לבנייה עצמית למגורים</p><p>לעיתים מפרסמת הרשות, על פי שיקול דעתה, מכרזים לבניה עצמית גם בדרך של הרשמה והגרלה.המחיר לקרקע קבוע. בתום ההרשמה נערכת הגרלה פומבית. בהגרלה נקבעים הזכאים לקבל מגרש לבנייה, והסדר שעל פיו הם יכולים לבחור במגרש. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2015-12-21 05:36:06'
+		)
+		;
+
