@@ -21,15 +21,15 @@ $chapter_rows = sql_query_or_die("
 			CONCAT('פרק',' ',chapter) AS chapter_section_name    -- for main space
 		FROM psuqim_dovi
 		WHERE 0
-			OR chapter_id LIKE 'ספר יהושע%'
-			OR chapter_id LIKE 'ספר שופטים%'
-			OR chapter_id LIKE 'ספר שמואל%'
-			OR chapter_id LIKE 'ספר מלכים%'
+		--	OR chapter_id LIKE 'ספר יהושע%'
+		--	OR chapter_id LIKE 'ספר שופטים%'
+		--	OR chapter_id LIKE 'ספר שמואל%'
+		--	OR chapter_id LIKE 'ספר מלכים%'
 		
-		--	OR chapter_id LIKE 'ספר ישעיהו%'
-		--	OR chapter_id LIKE 'ספר ירמיהו%'
+		--	OR chapter_id LIKE 'ספר ישעיהו%' and chapter_number=66
+		--	OR chapter_id LIKE 'ספר ירמיהו%' and chapter_number=6
 		--	OR chapter_id LIKE 'ספר יחזקאל%'
-		--	OR chapter_id LIKE 'ספר תרי%'
+			OR chapter_id LIKE 'ספר תרי%' and chapter_number=3
 		
 		--	OR chapter_id LIKE 'ספר משלי%'
 		--	OR chapter_id LIKE 'ספר תהלים%'
@@ -49,7 +49,6 @@ $text = "#####תקציר
 סוףקובץ
 ";
 
-$ADD_NEW_CODES = true;
 while ($chapter_row = sql_fetch_assoc($chapter_rows)) {
 	$chapter_id = $chapter_row['chapter_id'];
 	$chapter_page_name = $chapter_row['chapter_page_name'];
@@ -62,7 +61,7 @@ file_put_contents($FILENAME_OUTPUT, $text);
 
 
 function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) {
-	global $ADD_NEW_CODES, $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
+	global $END_OF_LINE_REPLACEMENT, $QTA_HTXLA, $QTA_SOF, $END_OF_PAGE;
 	$PP = "פפ";
 	$PPP = "{{"+$PP+"}}";
 	$text = "##### $chapter_page_name/טעמים\n";
@@ -84,16 +83,19 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 	
 		$prefix = $row['prefix'];
 		$prefix = preg_replace("@^//@","",$prefix);
-		print "$prefix\n";
+		print "'$prefix'\n";
 		$prefix = replace_placeholders_with_spaces($prefix);
 		$text .= preg_replace("/^ /","",$prefix);
 
-		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
+		if (0<$verse_number && $verse_number<999) {
 			$text .= simn($row['verse_letter_text']);
 			$text .= "<$QTA_HTXLA=$row[verse_letter]/>";
 		}
+        //print "***\n$row[verse_text]\n***\n";
 		$text .= replace_placeholders_with_spaces($row['verse_text']);
-		if ($ADD_NEW_CODES && 0<$verse_number && $verse_number<999) {
+        //print "%%%\n".replace_placeholders_with_spaces($row['verse_text'])."\n%%%\n";
+        $text = trim($text);
+		if (0<$verse_number && $verse_number<999) {
 			$text .= "<$QTA_SOF=$row[verse_letter]/>";
 		}
 		$text .= "\n";
