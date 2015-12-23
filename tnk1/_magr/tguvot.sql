@@ -9744,3 +9744,91 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן ה\' אֱלֹהִים חֵן וְכָבוֹד יִתֵּן ה\' לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p><p>והשמש מאירה עליך אור כשאתה חומר חומרי ועשיר כמו כוכב המסתיר אור לאחרים שמאחריו</p><p> אך אם אתה רוח אור השמש עובר דרכך ואתה צדיק כי לא מסתיר את האור למי שמאחוריך</p><p>ישעיהו נח10: &quot;וְתָפֵק לָרָעֵב נַפְשֶׁךָ וְנֶפֶשׁ נַעֲנָה תַּשְׂבִּיעַ וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם&quot;</p><p>------------------------------------------תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p><p>וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם = וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם</p><p>**************************וַאֲפֵלָתְךָ = וּמִשְׁפָּטֶךָ**************************</p><p>ככל שאפלתך היתה חשוכה מאד ככה משפטך יותר גדול וחכמתך עמוקה יותר</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-22 17:27:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן ה\' אֱלֹהִים חֵן וְכָבוֹד יִתֵּן ה\' לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p><p>והשמש מאירה עליך אור כשאתה חומר חומרי ועשיר כמו כוכב המסתיר אור לאחרים שמאחריו</p><p> אך אם אתה רוח אור השמש עובר דרכך ואתה צדיק כי לא מסתיר את האור למי שמאחוריך</p><p>ישעיהו נח10: &quot;וְתָפֵק לָרָעֵב נַפְשֶׁךָ וְנֶפֶשׁ נַעֲנָה תַּשְׂבִּיעַ וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם&quot;</p><p>------------------------------------------תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p><p>וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם = וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם</p><p>**************************וַאֲפֵלָתְךָ = וּמִשְׁפָּטֶךָ**************************</p><p>ככל שאפלתך היתה חשוכה מאד ככה משפטך יותר גדול וחכמתך עמוקה יותר</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-22 17:33:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-22 17:46:32' 
+			WHERE messageid=5868;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים חֵן וְכָבוֹד יִתֵּן יהוה לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p><p>והשמש מאירה עליך אור כשאתה חומר חומרי ועשיר כמו כוכב המסתיר אור לאחרים שמאחריו</p><p>אך אם אתה רוח אור השמש עובר דרכך ואתה צדיק כי לא מסתיר את האור למי שמאחוריך</p><p>ישעיהו נח10: &quot;וְתָפֵק לָרָעֵב נַפְשֶׁךָ וְנֶפֶשׁ נַעֲנָה תַּשְׂבִּיעַ וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם&quot;</p><p>------------------------------------------תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p><p>וְזָרַח בַּחֹשֶׁךְ אוֹרֶךָ וַאֲפֵלָתְךָ כַּצָּהֳרָיִם = וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם</p><p>**************************וַאֲפֵלָתְךָ = וּמִשְׁפָּטֶךָ**************************</p><p>ככל שאפלתך היתה חשוכה מאד ככה משפטך יותר גדול וחכמתך עמוקה יותר</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-22 17:47:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-22 17:47:20' 
+			WHERE messageid=5867;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08a18_1.html',
+		'<p>מוסיף</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-22 23:09:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-22 23:11:02' 
+			WHERE messageid=5870;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_4.html',
+		'<p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2015-12-22 23:11:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-22 23:11:16' 
+			WHERE messageid=5871;
+

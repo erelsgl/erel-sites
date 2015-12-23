@@ -13847,3 +13847,105 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-22 17:27:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-22 17:33:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-22 17:47:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_752.html',
+				NULL,
+				'2015-12-22 19:08:17',
+				'2015-12-22 19:08:17',
+				'פרשת ויחי- ממה חששו אחי יוסף לאחר  מות אביהם?/מאמר מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-22 19:08:17'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_753.html',
+				NULL,
+				'2015-12-22 21:24:19',
+				'2015-12-22 21:24:19',
+				'יוסף ואחיו במות אביהם/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-22 21:24:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t08b01.htm',
+				'tnk1/messages/prqim_t08b01_4.html',
+				NULL,
+				'2015-12-22 22:43:03',
+				'2015-12-22 22:43:03',
+				'שילוב שתי הגרסאות למות שאול',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-22 23:09:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08a18_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-22 23:11:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b01_4.html'
+		;
+
