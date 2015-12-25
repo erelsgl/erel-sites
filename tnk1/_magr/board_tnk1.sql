@@ -13949,3 +13949,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t08b01_4.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2678.htm',
+				'tnk1/messages/ky_bjr_hmh_rwx_hwlk_wla_yjwb.pdf',
+				NULL,
+				'2015-12-24 14:25:35',
+				'2015-12-24 14:25:35',
+				'ויזכור כי בשר המה רוח הולך ולא ישוב',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 16:03:29'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 16:04:17'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 22:03:23'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_index_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 22:22:13'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_index_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 22:23:50'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_index_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-24 22:26:22'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_index_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-25 01:05:04'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
