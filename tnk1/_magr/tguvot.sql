@@ -9937,3 +9937,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>אבקש בריאות הנפש לי אני יעל בת רבקה בבקשה  מאד מאד בודדה</p><p>בבקשה תעזרו לי</p>',
+		'116027711478378176794',
+		'יעל גרוסמן',
+		'2015-12-25 11:36:45'
+		)
+		;
+

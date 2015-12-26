@@ -3018,3 +3018,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_6.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-25 11:36:45'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
