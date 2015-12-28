@@ -9949,3 +9949,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>דברים טז10: </p><p>&quot;וְעָשִׂיתָ חַג שָׁבֻעוֹת ליהוה אֱלֹהֶיךָ מִסַּת נִדְבַת יָדְךָ אֲשֶׁר תִּתֵּן כַּאֲשֶׁר יְבָרֶכְךָ יהוה אֱלֹהֶיךָ&quot;</p><p>מִסַּת נִדְבַת יָדְךָ = מיסה זה מס שנתנו בנדבה בני ישראל מאהבה לאלהים וכהניו</p><p>אמנם במרוצת השנים המס נלקח בכפייה ובאכזריות ממלכים ושליטים עריצים</p><p>אך עליכם לדעת כי במקור את המס היו נותנים מאהבה מאהבת אלהים</p><p>ארץ ישראל היא ארץ זבת חלב ודבש על כן המס הגיע כנדבת מעשה היד בשדה</p><p>אך הגוים האהובים נתנו את המס מיסת נדבה במיוחד מפיהם בשירה וזמר</p><p>תהלים קיט108: &quot;נִדְבוֹת פִּי רְצֵה נָא יהוה וּמִשְׁפָּטֶיךָ לַמְּדֵנִי&quot;</p><p>J. S. Bach - Mass in B Minor, St. Thomas Boys Choir, Freiburg Baroque Orchestra</p><p>Accentus Music new release on DVD and Blu-ray in March 2014: The Mass in B Minor, Bach\'s last…</p><p>YOUTUBE.COM</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-27 17:50:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>דברים טז10:</p><p>&quot;וְעָשִׂיתָ חַג שָׁבֻעוֹת ליהוה אֱלֹהֶיךָ מִסַּת נִדְבַת יָדְךָ אֲשֶׁר תִּתֵּן כַּאֲשֶׁר יְבָרֶכְךָ יהוה אֱלֹהֶיךָ&quot;</p><p>מִסַּת נִדְבַת יָדְךָ = מיסה זה מס שנתנו בנדבה בני ישראל מאהבה לאלהים וכהניו</p><p>אמנם במרוצת השנים המס נלקח בכפייה ובאכזריות ממלכים ושליטים עריצים</p><p>אך עליכם לדעת כי במקור את המס היו נותנים מאהבה מאהבת אלהים</p><p>ארץ ישראל היא ארץ זבת חלב ודבש על כן המס הגיע כנדבת מעשה היד בשדה</p><p>אך הגוים האהובים נתנו את המס מיסת נדבה במיוחד מפיהם בשירה וזמר</p><p>תהלים קיט108: &quot;נִדְבוֹת פִּי רְצֵה נָא יהוה וּמִשְׁפָּטֶיךָ לַמְּדֵנִי&quot;</p><p>https://www.youtube.com/watch?v=39Ww50hZoD0</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-27 17:50:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2015-12-27 17:50:58' 
+			WHERE messageid=5880;
+
