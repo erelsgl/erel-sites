@@ -14091,3 +14091,89 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2015-12-27 20:24:29'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-28 13:26:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2738_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_754.html',
+				NULL,
+				'2015-12-28 16:57:09',
+				'2015-12-28 16:57:09',
+				'  המיילדות העיבריות במצרים/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-28 16:57:09'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t08b05.htm',
+				'tnk1/messages/prqim_t08b05_1.html',
+				NULL,
+				'2015-12-28 22:49:33',
+				'2015-12-28 22:49:33',
+				'\"על-כן יאמרו עור ופסח לא יבוא אל-הבית\" - בית המקדש?',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-28 23:02:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b05_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_755.html',
+				NULL,
+				'2015-12-29 05:40:33',
+				'2015-12-29 05:40:33',
+				'פרשת שמות- מה אפיין את המיילדות  העבריות ובמה גבורתן?/ מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2015-12-29 05:40:33'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-29 07:53:14'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-06-0910.html'
+		;
+
