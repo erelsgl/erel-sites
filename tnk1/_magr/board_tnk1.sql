@@ -14177,3 +14177,99 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-06-0910.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-29 11:24:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_51.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1506.htm',
+				'tnk1/messages/prqim_t1506_2.html',
+				NULL,
+				'2015-12-29 11:25:54',
+				'2015-12-29 11:25:54',
+				'\"והיה אם יותרו עשרה אנשים בבית אחד ומתו\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-29 12:56:35'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-06-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-29 16:38:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-29 19:46:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_87.html',
+				NULL,
+				'2015-12-29 22:28:34',
+				'2015-12-29 22:28:34',
+				'על \"מלאכים במקרא\" מאת אלכסנדר רופא',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 00:10:09'
+		WHERE ktovt_bn='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 00:12:52'
+		WHERE ktovt_bn='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 00:20:16'
+		WHERE ktovt_bn='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 00:34:02'
+		WHERE ktovt_bn='tnk1/messages/forums_755.html'
+		;
+

@@ -3124,3 +3124,155 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvia/yjayhu/yj-06-0910.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_51.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-29 11:24:08'
+		WHERE parent='tnk1/messages/prqim_t0101_51.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-06-0910.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-29 12:56:35'
+		WHERE parent='tnk1/nvia/yjayhu/yj-06-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-12-29 12:58:02'
+			WHERE parent='tnk1/nvia/yjayhu/yj-06-0910.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2690_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-29 16:38:14'
+		WHERE parent='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2690_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-29 19:46:47'
+		WHERE parent='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-12-29 19:48:01'
+			WHERE parent='tnk1/messages/prqim_t2690_2.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/3293.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-30 00:10:09'
+		WHERE parent='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/3293.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-30 00:12:52'
+		WHERE parent='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-12-30 00:12:55'
+			WHERE parent='tnk1/messages/3293.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2015-12-30 00:19:49'
+			WHERE parent='tnk1/messages/3293.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/3293.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-30 00:20:16'
+		WHERE parent='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/forums_755.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2015-12-30 00:34:02'
+		WHERE parent='tnk1/messages/forums_755.html'
+		;
+
