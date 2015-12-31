@@ -14273,3 +14273,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_755.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 14:52:30'
+		WHERE ktovt_bn='tnk1/messages/3293.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 15:15:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 18:11:28'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-30 18:11:50'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-17.html'
+		;
+

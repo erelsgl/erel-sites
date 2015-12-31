@@ -10147,3 +10147,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/3293.html',
+		'<p>וכפי הנראה חוט כחול לבא אחריו ?????????. שטויות במיץ עגבניות</p><p>את חוט השני האדום היו קושרים אך ורק ליוצא בראשונה לדעת מי הבכור</p><p>ולא היו קושרים חוטים אחרים לבאים אחרי הבכור זה לא בתרבות ישראל</p><p>בתרבות ישראל רק הבכור ברכתו נחלה פי שניים לכן תקוות חוט השני עליו</p><p>וכל שאר האחים לכל אחד מהם תהיה נחלה אחת ולא קושרים עליהם חוטים</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-30 14:52:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>עֵשָׂו בן יצחק יצא ראשונה מרחם אמו רבקה אך ריחו של יעקב נעם יותר לרבקה אמו ועל כן זכה לבכורה</p><p>וגם העדות לבכור היא תקות חוט השני האדום שעל ידו וליעקב הייתה זו עדות מולדת כאשר ידו אחזה באדום שעיר</p><p>בראשית כה26: &quot;וְאַחֲרֵי כֵן יָצָא אָחִיו וְיָדוֹ אֹחֶזֶת בַּעֲקֵב עֵשָׂו וַיִּקְרָא שְׁמוֹ יַעֲקֹב וְיִצְחָק בֶּן שִׁשִּׁים שָׁנָה בְּלֶדֶת אֹתָם&quot; </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2015-12-30 15:15:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-17.html',
+		'<p>זה בולשיט</p><p></p>',
+		'114787559311972976112',
+		'Niko Niko',
+		'2015-12-30 18:11:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-17.html',
+		'<p>לא הבנתי כלום</p>',
+		'114787559311972976112',
+		'Niko Niko',
+		'2015-12-30 18:11:50'
+		)
+		;
+
