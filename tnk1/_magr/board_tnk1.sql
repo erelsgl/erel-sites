@@ -14305,3 +14305,67 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-17.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 09:35:58'
+		WHERE ktovt_bn='tryg/mqor/ase_lk_rv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 09:36:24'
+		WHERE ktovt_bn='tryg/mqor/ase_lk_rv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 10:53:38'
+		WHERE ktovt_bn='tnk1/sofrim/meroz/cron_yosf.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 11:24:40'
+		WHERE ktovt_bn='tnk1/sofrim/meroz/cron_glut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 12:27:29'
+		WHERE ktovt_bn='tnk1/sofrim/meroz/cron_yosf.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 14:08:58'
+		WHERE ktovt_bn='tnk1/sofrim/meroz/cron_yosf.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2015-12-31 19:50:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-01 06:07:33'
+		WHERE ktovt_bn='tryg/mqor/ase_lk_rv.html'
+		;
+
