@@ -10372,3 +10372,63 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5903 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לכלתי מירב בת טובה....</p><p>ולבתי הדרה בת זרי-זהבה...לידה קלה ולכל בנות ישראל שתהיה להן לידה קלה ושיצאו בידיים מלאות ומחוייכות..אמן .</p>',
+		'111552606200138701021',
+		'זהבה אזרזר',
+		'2016-01-01 09:14:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לכלתי מירב בת טובה....</p><p>ולבתי הדרה בת זרי-זהבה...לידה קלה ולכל בנות ישראל שתהיה להן לידה קלה ושיצאו בידיים מלאות ומחוייכות..אמן .</p>',
+		'111552606200138701021',
+		'זהבה אזרזר',
+		'2016-01-01 09:15:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה  מירב בת טובה הדרה בת זרי-זהבה...לידה קלה ולכל בנות ישראל שתהיה להן לידה קלה ושיצאו בידיים מלאות ומחוייכות..אמן .</p>',
+		'111552606200138701021',
+		'זהבה אזרזר',
+		'2016-01-01 09:16:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה  מירב בת טובה הדרה בת זרי-זהבה...לידה קלה ולכל בנות ישראל שתהיה להן לידה קלה.</p>',
+		'111552606200138701021',
+		'זהבה אזרזר',
+		'2016-01-01 09:16:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>הדרה בת זרי זהבה לידה קלה וילד בריא אמן</p>',
+		'111552606200138701021',
+		'זהבה אזרזר',
+		'2016-01-01 09:17:40'
+		)
+		;
+
