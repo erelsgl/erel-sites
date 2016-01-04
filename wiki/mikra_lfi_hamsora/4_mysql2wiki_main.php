@@ -29,7 +29,11 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר ישעיהו%' and chapter_number=66
 		--	OR chapter_id LIKE 'ספר ירמיהו%' and chapter_number=6
 		--	OR chapter_id LIKE 'ספר יחזקאל%'
-			OR chapter_id LIKE 'ספר תרי%' and chapter_number=3
+		--	OR chapter_id LIKE 'ספר תרי%' and chapter_number=3
+		
+			OR chapter_id LIKE 'ספר דניאל%'
+			OR chapter_id LIKE 'ספר עזרא%'
+			OR chapter_id LIKE 'ספר דברי %'
 		
 		--	OR chapter_id LIKE 'ספר משלי%'
 		--	OR chapter_id LIKE 'ספר תהלים%'
