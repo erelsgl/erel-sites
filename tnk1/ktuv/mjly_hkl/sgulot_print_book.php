@@ -2,7 +2,7 @@
 <html dir='rtl' lang='he'>
 <head>
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-<title>Sgulot Mishley</title>
+<title>Sgulot Mishley <?=$_GET['chapter']?></title>
 <link type='text/css' rel='stylesheet' href='sgulot.css' />
 <script type='text/javascript' src='/_script/jquery-1.8.1.min.js'></script>
 </head>
