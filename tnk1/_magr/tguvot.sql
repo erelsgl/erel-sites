@@ -10432,3 +10432,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xmf_0.html',
+		'<p>אהלן, אני עושה עבודה על זיהוי החומט. אשמח לדעת על איזה מקורות התבססת?</p>',
+		'100159790055397294701',
+		'עטרה כץ',
+		'2016-01-03 12:41:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/meroz/cron_yosf.html',
+		'<p>נראה לי שלא קראת מספיק בתשומת לב . כול התאריכים ביחס לעברים נלקחו מספרו של אליעזר שולמן  אליעזר &quot;סדר הקורות בתנך&quot;  שקיבל את ברכתם של הרב יוסף, מרדכי אליהו,אברהם כהנא שפירא בגלל היותו נאמן למסורת....מציע לך לקרוא שוב את המאמר .</p>',
+		'115490415335975282863',
+		'קובי מרוז',
+		'2016-01-03 13:52:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xmf_0.html',
+		'<p>היי, זאת פרשנות שלי, הבאתי את פירושו של רס&quot;ג, ובעניין הכינוי גמל אודה זה מהאנציקלופדיה העברית (כרך טז 946-947)</p><p>בהצלחה :)</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2016-01-03 14:22:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_107.html',
+		'<p>קישור לחתונת הדמים, אחד הטובים שלהם.. https://vimeo.com/66662918</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2016-01-04 03:24:06'
+		)
+		;
+

@@ -14409,3 +14409,65 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-03 12:41:18'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_xmf_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-03 13:52:44'
+		WHERE ktovt_bn='tnk1/sofrim/meroz/cron_yosf.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-03 14:22:58'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_xmf_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_107.html',
+				NULL,
+				'2016-01-04 01:12:36',
+				'2016-01-04 01:12:36',
+				'עם נבוך ולא חכם',
+				'אלברט שבות',
+				'ashabot @ walla.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-04 01:12:36'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-04 01:12:36'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-04 03:24:06'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_107.html'
+		;
+
