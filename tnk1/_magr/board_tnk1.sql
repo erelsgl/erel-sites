@@ -14547,3 +14547,58 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2016-01-04 19:43:23'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_69.html',
+				NULL,
+				'2016-01-05 09:58:25',
+				'2016-01-05 09:58:25',
+				'בריאה כצריפה',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-05 09:58:25'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-05 10:04:15'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_69.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0106.htm',
+				'tnk1/messages/prqim_t0106_17.html',
+				NULL,
+				'2016-01-05 13:12:30',
+				'2016-01-05 13:12:30',
+				'חרוזים בתנ\"ך',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 06:05:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0106_17.html'
+		;
+
