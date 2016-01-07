@@ -14602,3 +14602,107 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0106_17.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 09:27:23'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 10:42:39'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 11:35:16'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 11:38:29'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 11:59:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0106_17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 12:03:10'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0106.htm',
+				'tnk1/messages/prqim_t0106_18.html',
+				NULL,
+				'2016-01-06 13:43:22',
+				'2016-01-06 13:43:22',
+				'\"והנני משחיתם את הארץ\"',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 22:53:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1136_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-06 23:16:20'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-07 06:26:07'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-07 07:54:25'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-07 07:58:00'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+

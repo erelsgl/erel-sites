@@ -10504,3 +10504,142 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>לבקש הלוואה מהירה ונוחה כדי לשלם את חשבונות ולפתוח עסק חדש ומימון הפרויקטים שלך בריבית הזולה ביותר של 2%. האם פנה אלינו היום באמצעות: elijahloanfirm@outlook.com</p>',
+		'115760117006799131863',
+		'elijah roland',
+		'2016-01-06 09:27:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום לכם,</p><p>ראשית, לשמחתי גיליתי שהאתר שלכם שימושי ביותר ונותן תוצאות רבות במידה משמעותית מאתרים אחרים, כולל קישורים לפירושים ולמאמרים. מפעל נפלא!!!</p><p>אני מחפשת פסוק או צמד פסוקים יכולים להתאים כמוטיב בהזמנה לבר המצווה של בני ששמו- גלעד משה.</p><p>זה יכול להיות פסוקים בעלי משמעות חיובית שאותיות השם הן חלק ממנו, אך לא מחייב. פרשת השבוע הרלוונטית לבר המצווה היא &quot;מצורע&quot; ושם לא מצאתי שום פסוק מתאים. ההפטרה השבת היא של שבת הגדול.</p><p>אולי יש לכם רעיון בשבילי.</p><p>תודה רבה,</p><p>גילה</p><p></p>',
+		'116192480300524111074',
+		'Gila Reich',
+		'2016-01-06 10:42:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>במדבר לב40: &quot;וַיִּתֵּן מֹשֶׁה אֶת הַגִּלְעָד לְמָכִיר בֶּן מְנַשֶּׁה וַיֵּשֶׁב בָּהּ&quot;</p><p>משה לא עבר את הירדן ימה אלא היה ממזרח לירדן</p><p>ארץ הגלעד גם היא ממזרח הירדן</p><p>וגם חצי שבט מנשה ישב ממזרח הירדן</p><p>---------------------------------------------</p><p>ומה שם האב</p><p>תני עוד פרטים</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-06 11:35:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אולי הפסוק הזה יתאים</p><p>ירמיהו ח22: &quot;הצרי אין בגלעד אם רפא אין שם כי מדוע לא עלתה ארכת בת עמי&quot;</p><p>הצרי של גלעד כתרופה לצרעת ושאר צרות ומחלות..</p><p>מזל טוב :) </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2016-01-06 11:38:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0106_17.html',
+		'<p>תודה!</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-06 11:59:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תהלים ס9: &quot;לי גלעד ולי מנשה ואפרים מעוז ראשי יהודה מחקקי&quot;</p><p>תהלים קח9: &quot;לי גלעד לי מנשה ואפרים מעוז ראשי יהודה מחקקי&quot;</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-06 12:03:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1136_0.html',
+		'<p>ראה מלבי&quot;ם . ששאלו אותו איך הוא כתב שלא מן הכתב שזו חובה הלכתית והוא ענה להם שהוא כתב כמו משה רבנו מפי נבואה . </p>',
+		'107263031983306568868',
+		'אור התפילין',
+		'2016-01-06 22:53:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תודה רבה לכולכם על המענה המהיר והרעיונות המקוריים.</p><p>למשה- שם האב: חיים. האם זה נותן לך רעיון נוסף?</p>',
+		'116192480300524111074',
+		'Gila Reich',
+		'2016-01-06 23:16:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>בראשית ג24: &quot;וַיְגָרֶשׁ אֶת הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן עֵדֶן אֶת הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת דֶּרֶךְ עֵץ הַחַיִּים&quot;</p><p>בפסוק הזה כתוב כל האותיות של גלעד משה חיים [וכן גם שם האם] גילה</p><p>משמעות הפסוק באה להגידכם כי אם בנכם רוצה לשוב לגן עדן עליו לִשְׁמֹר אֶת דֶּרֶךְ עֵץ הַחַיִּים לשוב לדרך צדקה</p><p>משלי יב28: &quot;בְּאֹרַח צְדָקָה חַיִּים וְדֶרֶךְ נְתִיבָה אַל מָוֶת&quot; </p><p>משלי א8: &quot;שְׁמַע בְּנִי מוּסַר אָבִיךָ וְאַל תִּטֹּשׁ תּוֹרַת אִמֶּךָ&quot; לכבד את ההורים ולא להתעצבן עליהם</p><p>וככה על בנכם להגיד......</p><p>משלי יב18: &quot;יֵשׁ בּוֹטֶה כְּמַדְקְרוֹת חָרֶב וּלְשׁוֹן חֲכָמִים מַרְפֵּא&quot; </p><p>הנה נודע לי כי לשוני כחרב חדה ואל לי להשתמש בה לרעה לדקור במיוחד לא את ההורים אלא לכבדם ככתוב בתורה</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-07 06:26:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תודה רבה לכולכם על המענה המהיר והרעיונות המקוריים.</p><p>למשה- שם האב: חיים. האם זה נותן לך רעיון נוסף?</p>',
+		'116192480300524111074',
+		'Gila Reich',
+		'2016-01-07 07:54:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-07 07:55:09' 
+			WHERE messageid=5925;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>יישר כח גדול, ותודה לכם על הרעיונות היפים.</p>',
+		'116192480300524111074',
+		'Gila Reich',
+		'2016-01-07 07:58:00'
+		)
+		;
+
