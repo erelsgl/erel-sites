@@ -10643,3 +10643,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/jmxmyft.html',
+		'<p>עתה אני קורא בספרו של קאסוטו &quot;מנח עד אברהם&quot; נימוק חדש מעניין:</p><p>ב&quot;לוח העמים&quot; בפרק י\' יפת מופיע תחילה, ולכן לפי זה הוא הבכור.</p><p>אמנם לאחריו מופיעים בני חם ולא בני שם, אך שם אוחר מפני חביבותו, וכך גם נוהג המקרא בשושלות ישמעל ועשיו, שמקדים אותן לאלה של יצחק ויעקב.</p><p>אם כך הסדר הוא: יפת הגדול, ולאחריו שם וחם.</p><p>זה נראה לי נימוק חזק ביותר ואף מכריע.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-07 13:57:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/jmxmyft.html',
+		'<p>עתה אני קורא בספרו של קאסוטו &quot;מנח עד אברהם&quot; נימוק חדש מעניין:</p><p>ב&quot;לוח העמים&quot; בפרק י\' יפת מופיע תחילה, ולכן לפי זה הוא הבכור.</p><p>אמנם לאחריו מופיעים בני חם ולא בני שם, אך שם אוחר מפני חביבותו, וכך גם נוהג המקרא בשושלות ישמעל ועשיו, שמקדים אותן לאלה של יצחק ויעקב.</p><p>אם כך הסדר הוא: יפת הגדול, ולאחריו שם וחם.</p><p>זה נראה לי נימוק חזק ביותר (אף כי עדיין ניתן לטעון ששם הוא הגדול, גם מיפת, ואוחר בגלל חביבותו).</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-07 14:39:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-07 14:40:05' 
+			WHERE messageid=5927;
+

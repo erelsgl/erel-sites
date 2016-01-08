@@ -14706,3 +14706,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-07 13:57:31'
+		WHERE ktovt_bn='tnk1/tora/brejit/jmxmyft.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-07 14:39:58'
+		WHERE ktovt_bn='tnk1/tora/brejit/jmxmyft.html'
+		;
+
