@@ -10674,3 +10674,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-01-07 14:40:05' 
 			WHERE messageid=5927;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-24-20.html',
+		'<p>הפוסל במומו פוסל, מאד חשוב שכן תחילת ספר בראשתי ה\' אומר שהוא בא להוציא את ישראל ממצרים. זוכרים בספר בראשית ישנם 2 התחיבויות 1. בהסכם ברית מילה. 2 הסכם להוציא את ישראל לארץ ישראל. מכאן שכל אדם שמתגיר לפי בית דין וכ&quot;ו. אין שום בית דין יכול להפר הסכם זה יהודי הוא וה\' מחויב להביאו לא&quot;י. וכל בית דין הפוסל יהודי שהתגייר הרי הוא פסול.</p>',
+		'101796774353006660764',
+		'Yehudit Gilead',
+		'2016-01-09 17:35:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-24-20.html',
+		'<p></p>',
+		'101796774353006660764',
+		'Yehudit Gilead',
+		'2016-01-09 17:36:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-10 05:43:57' 
+			WHERE messageid=5930;
+
