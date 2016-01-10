@@ -14722,3 +14722,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/jmxmyft.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-09 17:35:29'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-24-20.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-09 17:36:27'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-24-20.html'
+		;
+
