@@ -10705,3 +10705,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-01-10 05:43:57' 
 			WHERE messageid=5930;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutGvr.html',
+		'<p>לא עוזר!!!!!!!!!!!!!!!!!!!!!!!!!!</p>',
+		'108072785183083118745',
+		'אגם אמיתי',
+		'2016-01-10 15:18:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/galarc.html',
+		'<p>ויקרא כה24: &quot;וּבְכֹל אֶרֶץ אֲחֻזַּתְכֶם גְּאֻלָּה תִּתְּנוּ לָאָרֶץ&quot;</p><p>גְּאֻלָּה תִּתְּנוּ לָאָרֶץ = זה לשמור את שבת הארץ בשנת השמיטה</p><p>בשנת השבע יש לנטוש את האדמה למען כל נפש החיה וכן חית השדה</p><p>ולא לכסות את פני האדמה באספלט ובטון אבן ואוון נדלן ועוד נדלן</p><p>לכן אנחנו בדור הזה נמצאים בגלות ומחכים לגאולה לתת לארץ </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-10 16:09:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/galarc.html',
+		'<p>אמא אדמה לפני בן אדם</p><p>גאולת האדמה לפני גאולת האדם</p><p>ואל לרבנים וכל אנשי רוח ההבל לחפש את גאולת האדם בטרם גאולת אדמה</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-10 17:19:11'
+		)
+		;
+
