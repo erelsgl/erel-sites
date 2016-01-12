@@ -14778,3 +14778,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/galarc.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-11 13:36:22'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-26-5253.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-11 13:42:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-11 14:21:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_25.html'
+		;
+

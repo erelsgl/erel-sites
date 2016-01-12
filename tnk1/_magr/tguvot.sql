@@ -10741,3 +10741,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-26-5253.html',
+		'<p>https://www.facebook.com/23tv.tv/videos/1109917275715692/?comment_id=1109936062380480</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-11 13:36:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-11 13:37:12' 
+			WHERE messageid=5934;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_25.html',
+		'<p>&quot;בצלמנו כדמותנו. המלה &quot;צלם&quot; באה במקרא בשתי הוראות עיקריות: 1. כמונח טכני לפסלי אלילים (השווה מלכים ב יא, יח; במדבר 1 ו נב ועוד). 2. בהוראה מושאלת, כמו כאן, במובן \'\'דמות\'\' (השווה בראשית ה, ג ; ט, ו). שתי ההוראות הללו מצויות גם במלה האכדית salmu (פסל, תגליף, דמות) שהיא המקבילה האטימולוגית ל\'\'צלם&quot; המקראי. בספרות הבבלית מתואר המלך כצלמו של האל, כמו באמירה הלקוחה ממכתב אכדי ומקבילה לפסוקנו:... שתרגומה: &quot;אביו של אדוני המלך היה צלמו של בל , ואדוני המלך (אף) הוא צלמו של בל&quot;. בפסוק שלפנינו (וכן בבראשית ה, ג) באה המלה &quot;צלם&quot; בתקבולת למלה &quot;דמות&quot;, שהוראתה העיקרית היא &quot;שוויון הצורה&quot;. גם בספרות מצרים העתיקה נמצא, שהמלך הוא צלמו או דמותו (hntj  או  (twt של האל. אלא שבמקרא חלה דמוקראטיזאציה מסוימת ברעיון זה: התכונה שיוחסה למלך הועברה אל האדם באשר הוא אדם&quot;.</p><p>(עולם התנ&quot;ך בראשית, עמ\' 22).</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-11 13:42:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_25.html',
+		'<p>בדמות אלהים = זה בדם בנפש מבחינה רוחנית</p><p>בצלם אלהים = זה מבחינה [פיסית] ארצית לאמור משכן הגוף החומרי</p><p>-----------------------------------------------------------------------------</p><p>יחזקאל הנביא מוכיח את בתולת ישראל על תועבותיה אשר מחפשת אהבה רק גשמית שבצלם ולא בדמות ברוח</p><p>ולא במקרה לדאבוננו בדור הזה יש ארגון בצלם ולא בדמות </p><p>יחזקאל טז17: &quot;וַתִּקְחִי כְּלֵי תִפְאַרְתֵּךְ מִזְּהָבִי וּמִכַּסְפִּי אֲשֶׁר נָתַתִּי לָךְ וַתַּעֲשִׂי לָךְ צַלְמֵי זָכָר וַתִּזְנִי בָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-11 14:21:49'
+		)
+		;
+
