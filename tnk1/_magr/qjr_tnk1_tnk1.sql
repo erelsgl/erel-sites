@@ -254,3 +254,63 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('סיפורים מקבילים לפסוקי משלי', 'ביאור:משלי יב18', 'שבועת ישראל בגבעת בנימין - בוטה כמדקרות חרב', '', 10, 60, '2016-01-02 17:13:11');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'משלי א - ט', `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי א - ט' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי ג' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי ד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי ו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי ז' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי ח' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי טו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי יא' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'משלי כד', `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי כד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'משלי כה', `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי כה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי כו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'משלי לא', `sdr_bn` = 59, `tarik_hosfa` = '2016-01-13 06:08:34' WHERE `av` = 'סדר נושאים' AND `bn` = 'מבנה משלי לא' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'לשון וסגנון בספר משלי', `tarik_hosfa` = '2016-01-13 06:55:11' WHERE `av` = 'משלי' AND `bn` = 'אשכולות במשלי' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `av` = 'לשון וסגנון בספר משלי', `tarik_hosfa` = '2016-01-13 06:55:11' WHERE `av` = 'משלי' AND `bn` = 'אשכולות במשלי חלק ב' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'אוון = אין והבל, או און המשמש לרעה', `tarik_hosfa` = '2016-01-13 07:08:05' WHERE `av` = 'ביטויים בספר משלי' AND `bn` = 'אוון=' AND 1 LIMIT 1;
+

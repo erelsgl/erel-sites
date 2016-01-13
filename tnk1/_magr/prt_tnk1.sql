@@ -279,3 +279,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'ואבימלך הלך אליו מגרר', `tarik_hosfa` = '2015-11-30 06:37:19' WHERE `qod` = 'ביאור:בראשית כו26' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `tvnit` = '', `tarik_hosfa` = '2016-01-13 05:48:08' WHERE `qod` = 'משלי' AND 1 LIMIT 1;
+
