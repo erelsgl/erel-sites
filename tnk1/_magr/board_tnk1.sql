@@ -14841,3 +14841,81 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2016-01-13 06:09:03'
 			WHERE ktovt_bn='tnk1/sig/mvne2.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_758.html',
+				NULL,
+				'2016-01-13 12:08:35',
+				'2016-01-13 12:08:35',
+				'פרשת בא- דברי אלוקים קורמים עור וגידים-כיצד?/אהובה קליין',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-13 12:08:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-13 14:52:02'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mvne.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-13 16:37:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0118_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-13 17:51:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-13 17:52:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_759.html',
+				NULL,
+				'2016-01-13 21:19:45',
+				'2016-01-13 21:19:45',
+				'יציאת מצרים ברכוש גדול/שיר מאת: אהובה קליין(c)',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-13 21:19:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
