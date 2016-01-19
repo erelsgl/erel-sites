@@ -14991,3 +14991,73 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mj/23-30.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-18 11:09:17'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_760.html',
+				NULL,
+				'2016-01-18 18:46:10',
+				'2016-01-18 18:46:10',
+				'פרעה ומזימתו/שיר מאת: אהובה קליין(c)',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-18 18:46:10'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-18 22:06:25'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-25-25.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_761.html',
+				NULL,
+				'2016-01-19 05:44:13',
+				'2016-01-19 05:44:13',
+				'פרשת בשלח-מה הייתה  זכותו של פרעה  ברודפו אחר ישראל?/אהובה קליין',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-19 05:44:13'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-19 06:29:04'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-25-25.html'
+		;
+
