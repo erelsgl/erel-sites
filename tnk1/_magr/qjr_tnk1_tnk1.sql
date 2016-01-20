@@ -314,3 +314,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'אוון = אין והבל, או און המשמש לרעה', `tarik_hosfa` = '2016-01-13 07:08:05' WHERE `av` = 'ביטויים בספר משלי' AND `bn` = 'אוון=' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'מבנה משלי טז' AND `bn` = 'מלוכה משולבת ברוח ה\'' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'סגלות משלי טז' AND `bn` = 'מלוכה משולבת ברוח ה\'' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `bn` = 'מבנה משלי טז', `tarik_hosfa` = '2016-01-20 06:54:12' WHERE `av` = 'שלטון בספר משלי' AND `bn` = 'מלוכה משולבת ברוח ה\'' AND 1 LIMIT 1;
+

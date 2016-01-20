@@ -11042,3 +11042,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ  נָעֵמָה לא ניתן להתענג בה כִּי וייתן את יוֹם השַׁבָּת.להתענג בו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 06:51:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ נָעֵמָה לא ניתן להתענג בה וייתן את יוֹם השַׁבָּת.להתענג בו</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 06:52:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-20 06:52:12' 
+			WHERE messageid=5955;
+
