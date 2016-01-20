@@ -11006,3 +11006,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב, אני חייבת עזרה דחוף ביותר אין מי שיעזור לי צריכה 30,000 ש&quot;ח נתנאלה 050-4471149 תודה רבה !</p><p></p>',
+		'113218122026587014931',
+		'דור טפירו',
+		'2016-01-18 11:09:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-25.html',
+		'<p>מים קרים על נפש עייפה,מביאים לשמחה גדולה.הצמאון והכמיהה להתחברות , משולים בתנך במקומות נוספים לצמאון כפשוטו.לדוגמא:צמאה לך נפשי....בארץ ציה..   ועייף בלי מים..</p><p>בשורה טובה משמחת ומרווה כמו מים.</p><p>יישר כוח!</p>',
+		'112679460218046864796',
+		'אסתר בורש',
+		'2016-01-18 22:06:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-25.html',
+		'<p>משלי טו30: &quot;מְאוֹר עֵינַיִם יְשַׂמַּח לֵב שְׁמוּעָה טוֹבָה תְּדַשֶּׁן עָצֶם&quot; </p><p>משלי כה25: &quot;מַיִם קָרִים עַל נֶפֶשׁ עֲיֵפָה וּשְׁמוּעָה טוֹבָה מֵאֶרֶץ מֶרְחָק&quot; </p><p>שְׁמוּעָה טוֹבָה תְּדַשֶּׁן עָצֶם = וּשְׁמוּעָה טוֹבָה מֵאֶרֶץ מֶרְחָק</p><p>מַיִם קָרִים עַל נֶפֶשׁ עֲיֵפָה = מְאוֹר עֵינַיִם יְשַׂמַּח לֵב [על כן יאוֹר מִצְרָיִם נקרא יאור כי המים מאירים ומעירים את הנפש העייפה]</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-19 06:29:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ  נָעֵמָה לא ניתן להתענג בה כִּי וייתן את יוֹם השַׁבָּת.להתענג בו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 06:51:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ נָעֵמָה לא ניתן להתענג בה וייתן את יוֹם השַׁבָּת.להתענג בו</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 06:52:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-20 06:52:12' 
+			WHERE messageid=5955;
+
