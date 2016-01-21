@@ -15099,3 +15099,35 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/ktuv/mjly/mj-16-1015.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-20 09:54:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_14.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-20 13:28:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_14.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-20 13:28:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_14.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-20 19:25:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
+		;
+

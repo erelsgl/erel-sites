@@ -11073,3 +11073,72 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-01-20 06:52:12' 
 			WHERE messageid=5955;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>כן, שמתי לב לסוף הפסוק המדבר בעבודה, ובכל זאת ראשיתו נראתה לי מתאימה. אגב, גם מבחינת זה שכבר נאמר על הכול טוב מאוד, אין טעם להוסיף עוד, ובכל זאת. הנקודה ששמתי לב אליה שעל מנוחת ה\' לא נאמר כי טוב, כמו שנאמר על שאר הבריאה, והנה בדרך פלא הדבר מובא בפסוק אחר מאוחר יותר. אבל כאמור איני מייחס לזה יותר מדי חשיבות ולכן קטלגתי את זה ב&quot;מאמר דמיוני&quot;.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-01-20 09:54:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-20 13:28:22' 
+			WHERE messageid=5955;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ נָעֵמָה לא ניתן להתענג בה וייתן את יוֹם השַׁבָּת.להתענג בו</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 13:28:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_14.html',
+		'<p>בראשית מט15: &quot;וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד&quot;</p><p>בגלל שהארץ נעמה והמנוחה טובה לכן צריך לעבוד כמס עובד כי רק לאחר העבודה מרגישים היטב את המנוחה</p><p>לכן פסוק ד\' שלך איננו נכון</p><p>והיית צריך להבין לכתוב כדבר הבא</p><p>ד וַיַּרְא כי אין מְנֻחָה בכל ששת ימי המעשה וְאף כי הארץ  נָעֵמָה לא ניתן להתענג בה כִּי וייתן את יוֹם השַׁבָּת.להתענג בו</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 13:28:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-20 13:43:03' 
+			WHERE messageid=5959;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-20 13:43:05' 
+			WHERE messageid=5958;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>דברי הימים א טז18: &quot;לֵאמֹר לְךָ אֶתֵּן אֶרֶץ כְּנָעַן חֶבֶל נַחֲלַתְכֶם&quot;</p><p>דברי הימים א טז19: &quot;בִּהְיוֹתְכֶם מְתֵי מִסְפָּר כִּמְעַט וְגָרִים בָּהּ&quot;</p><p>ככה נאמר על בני ישראל בהיותם מתי מספר כמעטים ואז במלוא מובן המילה גרים בארץ כנען</p><p>תהלים קה12: &quot;בִּהְיוֹתָם מְתֵי מִסְפָּר כִּמְעַט וְגָרִים בָּהּ&quot;</p><p>כי לעם ישראל טוב להיות כִּמְעַט מאשר כרב</p><p>כתוב בספר דברים פרק ז (ז) לֹא מֵרֻבְּכֶם מִכָּל הָעַמִּים חָשַׁק יְהֹוָה בָּכֶם וַיִּבְחַר בָּכֶם כִּי אַתֶּם הַמְעַט מִכָּל הָעַמִּים:</p><p> </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-01-20 19:25:27'
+		)
+		;
+
