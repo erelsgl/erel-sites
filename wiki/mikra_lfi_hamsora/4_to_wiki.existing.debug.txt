@@ -1,102 +1,266 @@
 uploaded תקציר
-uploaded דברי הימים א א/טעמים
-uploaded דברי הימים א ב/טעמים
-uploaded דברי הימים א ג/טעמים
-uploaded דברי הימים א ד/טעמים
-uploaded דברי הימים א ה/טעמים
-uploaded דברי הימים א ו/טעמים
-uploaded דברי הימים א ז/טעמים
-uploaded דברי הימים א ח/טעמים
-uploaded דברי הימים א ט/טעמים
-uploaded דברי הימים א טו/טעמים
-uploaded דברי הימים א טז/טעמים
-uploaded דברי הימים א טז/צורת-השיר
-uploaded דברי הימים א י/טעמים
-uploaded דברי הימים א יא/טעמים
-uploaded דברי הימים א יב/טעמים
-uploaded דברי הימים א יג/טעמים
-uploaded דברי הימים א יד/טעמים
-uploaded דברי הימים א יז/טעמים
-uploaded דברי הימים א יח/טעמים
-uploaded דברי הימים א יט/טעמים
-uploaded דברי הימים א כ/טעמים
-uploaded דברי הימים א כא/טעמים
-uploaded דברי הימים א כב/טעמים
-uploaded דברי הימים א כג/טעמים
-uploaded דברי הימים א כד/טעמים
-uploaded דברי הימים א כה/טעמים
-uploaded דברי הימים א כו/טעמים
-uploaded דברי הימים א כז/טעמים
-uploaded דברי הימים א כח/טעמים
-uploaded דברי הימים א כט/טעמים
-uploaded דברי הימים ב א/טעמים
-uploaded דברי הימים ב ב/טעמים
-uploaded דברי הימים ב ג/טעמים
-uploaded דברי הימים ב ד/טעמים
-uploaded דברי הימים ב ה/טעמים
-uploaded דברי הימים ב ו/טעמים
-uploaded דברי הימים ב ז/טעמים
-uploaded דברי הימים ב ח/טעמים
-uploaded דברי הימים ב ט/טעמים
-uploaded דברי הימים ב טו/טעמים
-uploaded דברי הימים ב טז/טעמים
-uploaded דברי הימים ב י/טעמים
-uploaded דברי הימים ב יא/טעמים
-uploaded דברי הימים ב יב/טעמים
-uploaded דברי הימים ב יג/טעמים
-uploaded דברי הימים ב יד/טעמים
-uploaded דברי הימים ב יז/טעמים
-uploaded דברי הימים ב יח/טעמים
-uploaded דברי הימים ב יט/טעמים
-uploaded דברי הימים ב כ/טעמים
-uploaded דברי הימים ב כא/טעמים
-uploaded דברי הימים ב כב/טעמים
-uploaded דברי הימים ב כג/טעמים
-uploaded דברי הימים ב כד/טעמים
-uploaded דברי הימים ב כה/טעמים
-uploaded דברי הימים ב כו/טעמים
-uploaded דברי הימים ב כז/טעמים
-uploaded דברי הימים ב כח/טעמים
-uploaded דברי הימים ב כט/טעמים
-uploaded דברי הימים ב ל/טעמים
-uploaded דברי הימים ב לא/טעמים
-uploaded דברי הימים ב לב/טעמים
-uploaded דברי הימים ב לג/טעמים
-uploaded דברי הימים ב לד/טעמים
-uploaded דברי הימים ב לה/טעמים
-uploaded דברי הימים ב לו/טעמים
-uploaded דניאל א/טעמים
-uploaded דניאל ב/טעמים
-uploaded דניאל ג/טעמים
-uploaded דניאל ד/טעמים
-uploaded דניאל ה/טעמים
-uploaded דניאל ו/טעמים
-uploaded דניאל ז/טעמים
-uploaded דניאל ח/טעמים
-uploaded דניאל ט/טעמים
-uploaded דניאל י/טעמים
-uploaded דניאל יא/טעמים
-uploaded דניאל יב/טעמים
-uploaded נחמיה א/טעמים
-uploaded נחמיה ב/טעמים
-uploaded נחמיה ג/טעמים
-uploaded נחמיה ד/טעמים
-uploaded נחמיה ה/טעמים
-uploaded נחמיה ו/טעמים
-uploaded נחמיה ז/טעמים
-uploaded נחמיה ח/טעמים
-uploaded נחמיה ט/טעמים
-uploaded נחמיה י/טעמים
-uploaded נחמיה יא/טעמים
-uploaded נחמיה יב/טעמים
-uploaded נחמיה יג/טעמים
-uploaded עזרא א/טעמים
-uploaded עזרא ב/טעמים
-uploaded עזרא ג/טעמים
-uploaded עזרא ד/טעמים
-uploaded עזרא ה/טעמים
-uploaded עזרא ו/טעמים
-uploaded עזרא ז/טעמים
-uploaded עזרא ח/טעמים
-uploaded עזרא ט/טעמים
-uploaded עזרא י/טעמים
+uploaded איכה א/טעמים
+uploaded איכה ב/טעמים
+uploaded איכה ג/טעמים
+uploaded איכה ד/טעמים
+uploaded איכה ה/טעמים
+uploaded אסתר א/טעמים
+uploaded אסתר ב/טעמים
+uploaded אסתר ג/טעמים
+uploaded אסתר ד/טעמים
+uploaded אסתר ה/טעמים
+uploaded אסתר ו/טעמים
+uploaded אסתר ז/טעמים
+uploaded אסתר ח/טעמים
+uploaded אסתר ח/צורת-השיר
+uploaded אסתר ט/טעמים
+uploaded אסתר ט/צורת-השיר
+uploaded אסתר י/טעמים
+uploaded קהלת א/טעמים
+uploaded קהלת ב/טעמים
+uploaded קהלת ג/טעמים
+uploaded קהלת ג/צורת-השיר
+uploaded קהלת ד/טעמים
+uploaded קהלת ה/טעמים
+uploaded קהלת ו/טעמים
+uploaded קהלת ז/טעמים
+uploaded קהלת ח/טעמים
+uploaded קהלת ט/טעמים
+uploaded קהלת י/טעמים
+uploaded קהלת יא/טעמים
+uploaded קהלת יב/טעמים
+uploaded רות א/טעמים
+uploaded רות ב/טעמים
+uploaded רות ג/טעמים
+uploaded רות ד/טעמים
+uploaded שיר השירים א/טעמים
+uploaded שיר השירים ב/טעמים
+uploaded שיר השירים ג/טעמים
+uploaded שיר השירים ד/טעמים
+uploaded שיר השירים ה/טעמים
+uploaded שיר השירים ו/טעמים
+uploaded שיר השירים ז/טעמים
+uploaded שיר השירים ח/טעמים
+uploaded איוב א/טעמים
+uploaded איוב ב/טעמים
+uploaded איוב ג/טעמים
+uploaded איוב ד/טעמים
+uploaded איוב ה/טעמים
+uploaded איוב ו/טעמים
+uploaded איוב ז/טעמים
+uploaded איוב ח/טעמים
+uploaded איוב ט/טעמים
+uploaded איוב טו/טעמים
+uploaded איוב טז/טעמים
+uploaded איוב י/טעמים
+uploaded איוב יא/טעמים
+uploaded איוב יב/טעמים
+uploaded איוב יג/טעמים
+uploaded איוב יד/טעמים
+uploaded איוב יז/טעמים
+uploaded איוב יח/טעמים
+uploaded איוב יט/טעמים
+uploaded איוב כ/טעמים
+uploaded איוב כא/טעמים
+uploaded איוב כב/טעמים
+uploaded איוב כג/טעמים
+uploaded איוב כד/טעמים
+uploaded איוב כה/טעמים
+uploaded איוב כו/טעמים
+uploaded איוב כז/טעמים
+uploaded איוב כח/טעמים
+uploaded איוב כט/טעמים
+uploaded איוב ל/טעמים
+uploaded איוב לא/טעמים
+uploaded איוב לב/טעמים
+uploaded איוב לג/טעמים
+uploaded איוב לד/טעמים
+uploaded איוב לה/טעמים
+uploaded איוב לו/טעמים
+uploaded איוב לז/טעמים
+uploaded איוב לח/טעמים
+uploaded איוב לט/טעמים
+uploaded איוב מ/טעמים
+uploaded איוב מא/טעמים
+uploaded איוב מב/טעמים
+uploaded משלי א/טעמים
+uploaded משלי ב/טעמים
+uploaded משלי ג/טעמים
+uploaded משלי ד/טעמים
+uploaded משלי ה/טעמים
+uploaded משלי ו/טעמים
+uploaded משלי ז/טעמים
+uploaded משלי ח/טעמים
+uploaded משלי ט/טעמים
+uploaded משלי טו/טעמים
+uploaded משלי טז/טעמים
+uploaded משלי י/טעמים
+uploaded משלי יא/טעמים
+uploaded משלי יב/טעמים
+uploaded משלי יג/טעמים
+uploaded משלי יד/טעמים
+uploaded משלי יז/טעמים
+uploaded משלי יח/טעמים
+uploaded משלי יט/טעמים
+uploaded משלי כ/טעמים
+uploaded משלי כא/טעמים
+uploaded משלי כב/טעמים
+uploaded משלי כג/טעמים
+uploaded משלי כד/טעמים
+uploaded משלי כה/טעמים
+uploaded משלי כו/טעמים
+uploaded משלי כז/טעמים
+uploaded משלי כח/טעמים
+uploaded משלי כט/טעמים
+uploaded משלי ל/טעמים
+uploaded משלי לא/טעמים
+uploaded תהלים א/טעמים
+uploaded תהלים ב/טעמים
+uploaded תהלים ג/טעמים
+uploaded תהלים ד/טעמים
+uploaded תהלים ה/טעמים
+uploaded תהלים ו/טעמים
+uploaded תהלים ז/טעמים
+uploaded תהלים ח/טעמים
+uploaded תהלים ט/טעמים
+uploaded תהלים טו/טעמים
+uploaded תהלים טז/טעמים
+uploaded תהלים י/טעמים
+uploaded תהלים יא/טעמים
+uploaded תהלים יב/טעמים
+uploaded תהלים יג/טעמים
+uploaded תהלים יד/טעמים
+uploaded תהלים יז/טעמים
+uploaded תהלים יח/טעמים
+uploaded תהלים יט/טעמים
+uploaded תהלים כ/טעמים
+uploaded תהלים כא/טעמים
+uploaded תהלים כב/טעמים
+uploaded תהלים כג/טעמים
+uploaded תהלים כד/טעמים
+uploaded תהלים כה/טעמים
+uploaded תהלים כו/טעמים
+uploaded תהלים כז/טעמים
+uploaded תהלים כח/טעמים
+uploaded תהלים כט/טעמים
+uploaded תהלים ל/טעמים
+uploaded תהלים לא/טעמים
+uploaded תהלים לב/טעמים
+uploaded תהלים לג/טעמים
+uploaded תהלים לד/טעמים
+uploaded תהלים לה/טעמים
+uploaded תהלים לו/טעמים
+uploaded תהלים לז/טעמים
+uploaded תהלים לח/טעמים
+uploaded תהלים לט/טעמים
+uploaded תהלים מ/טעמים
+uploaded תהלים מא/טעמים
+uploaded תהלים מב/טעמים
+uploaded תהלים מג/טעמים
+uploaded תהלים מד/טעמים
+uploaded תהלים מה/טעמים
+uploaded תהלים מו/טעמים
+uploaded תהלים מז/טעמים
+uploaded תהלים מח/טעמים
+uploaded תהלים מט/טעמים
+uploaded תהלים נ/טעמים
+uploaded תהלים נא/טעמים
+uploaded תהלים נב/טעמים
+uploaded תהלים נג/טעמים
+uploaded תהלים נד/טעמים
+uploaded תהלים נה/טעמים
+uploaded תהלים נו/טעמים
+uploaded תהלים נז/טעמים
+uploaded תהלים נח/טעמים
+uploaded תהלים נט/טעמים
+uploaded תהלים ס/טעמים
+uploaded תהלים סא/טעמים
+uploaded תהלים סב/טעמים
+uploaded תהלים סג/טעמים
+uploaded תהלים סד/טעמים
+uploaded תהלים סה/טעמים
+uploaded תהלים סו/טעמים
+uploaded תהלים סז/טעמים
+uploaded תהלים סח/טעמים
+uploaded תהלים סט/טעמים
+uploaded תהלים ע/טעמים
+uploaded תהלים עא/טעמים
+uploaded תהלים עב/טעמים
+uploaded תהלים עג/טעמים
+uploaded תהלים עד/טעמים
+uploaded תהלים עה/טעמים
+uploaded תהלים עו/טעמים
+uploaded תהלים עז/טעמים
+uploaded תהלים עח/טעמים
+uploaded תהלים עט/טעמים
+uploaded תהלים פ/טעמים
+uploaded תהלים פא/טעמים
+uploaded תהלים פב/טעמים
+uploaded תהלים פג/טעמים
+uploaded תהלים פד/טעמים
+uploaded תהלים פה/טעמים
+uploaded תהלים פו/טעמים
+uploaded תהלים פז/טעמים
+uploaded תהלים פח/טעמים
+uploaded תהלים פט/טעמים
+uploaded תהלים צ/טעמים
+uploaded תהלים צא/טעמים
+uploaded תהלים צב/טעמים
+uploaded תהלים צג/טעמים
+uploaded תהלים צד/טעמים
+uploaded תהלים צה/טעמים
+uploaded תהלים צו/טעמים
+uploaded תהלים צז/טעמים
+uploaded תהלים צח/טעמים
+uploaded תהלים צט/טעמים
+uploaded תהלים ק/טעמים
+uploaded תהלים קא/טעמים
+uploaded תהלים קב/טעמים
+uploaded תהלים קג/טעמים
+uploaded תהלים קד/טעמים
+uploaded תהלים קה/טעמים
+uploaded תהלים קו/טעמים
+uploaded תהלים קז/טעמים
+uploaded תהלים קח/טעמים
+uploaded תהלים קט/טעמים
+uploaded תהלים קטו/טעמים
+uploaded תהלים קטז/טעמים
+uploaded תהלים קי/טעמים
+uploaded תהלים קיא/טעמים
+uploaded תהלים קיב/טעמים
+uploaded תהלים קיג/טעמים
+uploaded תהלים קיד/טעמים
+uploaded תהלים קיז/טעמים
+uploaded תהלים קיח/טעמים
+uploaded תהלים קיט/טעמים
+uploaded תהלים קכ/טעמים
+uploaded תהלים קכא/טעמים
+uploaded תהלים קכב/טעמים
+uploaded תהלים קכג/טעמים
+uploaded תהלים קכד/טעמים
+uploaded תהלים קכה/טעמים
+uploaded תהלים קכו/טעמים
+uploaded תהלים קכז/טעמים
+uploaded תהלים קכח/טעמים
+uploaded תהלים קכט/טעמים
+uploaded תהלים קל/טעמים
+uploaded תהלים קלא/טעמים
+uploaded תהלים קלב/טעמים
+uploaded תהלים קלג/טעמים
+uploaded תהלים קלד/טעמים
+uploaded תהלים קלה/טעמים
+uploaded תהלים קלו/טעמים
+uploaded תהלים קלז/טעמים
+uploaded תהלים קלח/טעמים
+uploaded תהלים קלט/טעמים
+uploaded תהלים קמ/טעמים
+uploaded תהלים קמא/טעמים
+uploaded תהלים קמב/טעמים
+uploaded תהלים קמג/טעמים
+uploaded תהלים קמד/טעמים
+uploaded תהלים קמה/טעמים
+uploaded תהלים קמו/טעמים
+uploaded תהלים קמז/טעמים
+uploaded תהלים קמח/טעמים
+uploaded תהלים קמט/טעמים
+uploaded תהלים קנ/טעמים
