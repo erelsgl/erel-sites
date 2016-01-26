@@ -358,3 +358,89 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/xsd.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/dmut/ToknLfiDmutIja.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-01-26 07:18:00'
+		WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/dmut/ToknLfiDmutIja.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-01-26 07:18:05'
+		WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:18:09'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:28:20'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:28:28'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:28:34'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:29:04'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:29:19'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-01-26 07:29:25'
+			WHERE parent='tnk1/dmut/ToknLfiDmutIja.html'
+			;
+
