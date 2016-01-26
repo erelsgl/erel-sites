@@ -11331,3 +11331,76 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutIja.html',
+		'<p>הילני המלכה נעדרת מהרשימה </p>',
+		'103846856238682832326',
+		'מוריה יונה',
+		'2016-01-26 07:18:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutIja.html',
+		'<p></p>',
+		'103846856238682832326',
+		'מוריה יונה',
+		'2016-01-26 07:18:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:18:09' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:28:20' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:28:28' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:28:34' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:29:04' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:29:19' 
+			WHERE messageid=5976;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-01-26 07:29:25' 
+			WHERE messageid=5976;
+
