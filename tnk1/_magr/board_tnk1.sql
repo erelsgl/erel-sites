@@ -15486,3 +15486,74 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `board_tnk1` SET `sug` = NULL, `kotrt` = '׳”׳™׳”׳•׳“׳™׳ ׳•׳”׳׳¡׳׳׳', `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/sofrim/shabot/index.html' AND `ktovt_bn` = 'tnk1/messages/sofrim_shabot_index_109.html' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-27 08:51:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-27 09:51:36'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_109.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-27 17:43:03'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-28-0929.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-27 17:43:40'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-28-0929.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_764.html',
+				NULL,
+				'2016-01-27 21:47:00',
+				'2016-01-27 21:47:00',
+				'יתרו מכיר טובה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-01-27 21:47:00'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-28 06:44:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0104_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-28 07:04:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0104_1.html'
+		;
+
