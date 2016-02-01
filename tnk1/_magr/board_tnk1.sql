@@ -15693,3 +15693,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t0214.htm',
+				'tnk1/messages/prqim_t0214_6.html',
+				NULL,
+				'2016-01-31 15:03:29',
+				'2016-01-31 15:03:29',
+				'קריעת ים סוף - שתי גרסאות',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-31 15:21:18'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-31 18:42:00'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-01-31 19:21:11'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
+		;
+
