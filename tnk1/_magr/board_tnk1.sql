@@ -15733,3 +15733,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_88.html',
+				NULL,
+				'2016-02-01 12:49:56',
+				'2016-02-01 12:49:56',
+				'על \"אסופת כתובות עבריות\" מאת שמואל אחיטוב',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_765.html',
+				NULL,
+				'2016-02-01 18:59:04',
+				'2016-02-01 18:59:04',
+				'פרשת משפטים- מהו המסר לדיינים בפרשה?/מאת: אהובה קליין',
+				'אהובה קלייו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-01 18:59:04'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t1240.htm',
+				'tnk1/messages/mph_waxd_mph___xpyph_bmegl.pdf',
+				NULL,
+				'2016-02-01 20:17:50',
+				'2016-02-01 20:17:50',
+				'אחד מפה ואחד מפה = חפיפה במעגל',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-02 02:58:36'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/42.html'
+		;
+
