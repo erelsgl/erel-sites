@@ -11817,3 +11817,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-01-31 19:21:14' 
 			WHERE messageid=6003;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/42.html',
+		'<p>חיפשתי ברכה מיוחדת ואבן מצאתי חן חן למחברה</p>',
+		'110436410846052549476',
+		'יעקב סימנה',
+		'2016-02-02 02:58:36'
+		)
+		;
+
