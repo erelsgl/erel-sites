@@ -11829,3 +11829,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3102_7.html',
+		'<p>גם בחלקים אחרים של התנ&quot;ך אנו רואים אכילה ושתייה כביטוי לשמחה:</p><p>שמות כד11: &quot;ואל אצילי בני ישראל לא שלח ידו ויחזו את האלהים ויאכלו וישתו&quot;</p><p>[וכן - שמות לב6: &quot;וישכימו ממחרת ויעלו עלת ויגשו שלמים וישב העם לאכל ושתו ויקמו לצחק&quot;]</p><p>מלכים א ד20: &quot;יהודה וישראל רבים כחול אשר על הים לרב אכלים ושתים ושמחים&quot;</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-02 12:52:22'
+		)
+		;
+
