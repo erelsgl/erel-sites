@@ -11841,3 +11841,60 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-3031.html',
+		'<p>צת ץ.ךךךך.תתת.</p>',
+		'102161510345888804725',
+		'Efrat Levi',
+		'2016-02-05 12:49:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-3031.html',
+		'<p></p>',
+		'102161510345888804725',
+		'Efrat Levi',
+		'2016-02-05 12:49:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-3031.html',
+		'<p>ללמץ     צויחחחחחינצתתתמל</p>',
+		'102161510345888804725',
+		'Efrat Levi',
+		'2016-02-05 12:49:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-05 12:50:06' 
+			WHERE messageid=6008;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-05 12:50:08' 
+			WHERE messageid=6007;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-05 12:50:09' 
+			WHERE messageid=6009;
+
