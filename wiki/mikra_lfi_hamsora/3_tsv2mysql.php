@@ -19,8 +19,8 @@ sql_queries_or_die("
 	CREATE TEMPORARY TABLE corrected(
 	chapter_id varchar(255),
 	verse_letter char(3),
-	prefix text,
-	verse_letter_text text,
+	prefix mediumtext,
+	verse_letter_text mediumtext,
 	verse_text mediumtext,
 	stylized_text mediumtext,
 	PRIMARY KEY(chapter_id,verse_letter)

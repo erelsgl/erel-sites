@@ -587,14 +587,14 @@ sgulot	full	InputType	rich_text
 sgulot	hqblot	InputType	rich_text
 sgulot	kotrt	Attributes	dir='rtl'
 sgulot	kotrt	InputType	short_text
-sgulot	main_qod	InputType	short_text
-sgulot	main_qod_subjects	InputType	long_text
+sgulot	main_qod	InputType	hidden
+sgulot	main_qod_subjects	InputType	hidden
 sgulot	mcudot	InputType	rich_text
 sgulot	mqorot	InputType	rich_text
 sgulot	pages	Default	1
 sgulot	pages	InputType	hidden
 sgulot	prefix	Attributes	size='10'
-sgulot	prefix	InputType	short_text
+sgulot	prefix	InputType	hidden
 sgulot	tirgum	InputType	rich_text
 sgulot	tosfot	InputType	long_text
 sgulot	verse_number	Attributes	size='3'

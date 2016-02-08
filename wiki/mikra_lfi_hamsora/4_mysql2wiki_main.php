@@ -88,8 +88,16 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 	
 		$prefix = $row['prefix'];
 		$prefix = preg_replace("@^//@","",$prefix);
-		print "'$prefix'\n";
-		$prefix = replace_placeholders_with_spaces($prefix);
+        
+        // WARNING: the code below is a special case, added to handle  אסתר א ט, יג.
+        // It was NOT tested yet on the entire Bible.
+        if (preg_match("@^(<${QTA_SOF}[^<>]>)__(.*)$@",$prefix,$matches)) {
+            $text = trim($text).$matches[1];
+            $prefix = $matces[2];
+        }
+        
+		//print "'$prefix'\n";
+		$prefix = replace_placeholders_with_spaces($prefix);  // replace "__" with space and "//" with newline
 		$text .= preg_replace("/^ /","",$prefix);
 
 		if (0<$verse_number && $verse_number<999) {
@@ -106,6 +114,7 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 		$text .= "\n";
 	}
 	$text .= "\n$END_OF_PAGE\n\n";
+   
 	return $text;
 }
 
