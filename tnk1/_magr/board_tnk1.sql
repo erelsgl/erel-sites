@@ -15874,3 +15874,111 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2016-02-08 19:55:44'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-09 19:37:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_768.html',
+				NULL,
+				'2016-02-09 19:44:50',
+				'2016-02-09 19:44:50',
+				'ציווי התרומה/שיר מאת: אהובה קליין(c)',
+				'אהובה קלייו ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-09 19:44:50'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_molten_sea.pdf',
+				NULL,
+				'2016-02-09 20:09:27',
+				'2016-02-09 20:09:27',
+				'The Molten Sea',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-09 20:09:27'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/templepalace.pdf',
+				NULL,
+				'2016-02-09 20:25:31',
+				'2016-02-09 20:25:31',
+				'היכל',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-09 20:25:31'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/sofrim_index_71.html',
+				NULL,
+				'2016-02-09 22:01:53',
+				'2016-02-09 22:01:53',
+				'תגובה על Molten Sea',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-09 22:01:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-10 06:35:27'
+		WHERE ktovt_bn='tnk1/messages/sofrim_index_71.html'
+		;
+
