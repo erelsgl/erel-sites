@@ -15982,3 +15982,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_index_71.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_89.html',
+				NULL,
+				'2016-02-10 14:40:23',
+				'2016-02-10 14:40:23',
+				'על \"מלחמת הלוחות\" מאת יעקב שביט ומרדכי קליין',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-10 17:37:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0310_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-10 23:00:59'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-13-zqn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-11 06:01:19'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-13-zqn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-11 06:27:34'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-13-zqn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-11 06:36:30'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-13-zqn.html'
+		;
+
