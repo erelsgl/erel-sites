@@ -16094,3 +16094,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/axoti.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-13 16:45:54'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-32-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-13 16:54:47'
+		WHERE ktovt_bn='tnk1/ktuv/mj/21-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-13 16:55:05'
+		WHERE ktovt_bn='tnk1/ktuv/mj/21-13.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9sfr.html',
+				'tnk1/messages/sig_9sfr_90.html',
+				NULL,
+				'2016-02-13 18:25:16',
+				'2016-02-13 18:25:16',
+				'על \"גלוי ונסתר במקרא\" מאת פרופ\' יאירה אמית',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-13 22:17:06'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-21-3334.html'
+		;
+
