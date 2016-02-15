@@ -16142,3 +16142,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-21-3334.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-14 12:29:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a18_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-14 14:32:51'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-08.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/hagay/index.html',
+				'tnk1/messages/sofrim_hagay_index_105.html',
+				NULL,
+				'2016-02-14 18:59:29',
+				'2016-02-14 18:59:29',
+				'מאמר חדש על: נצחיות המשכן כנצחיות הנשמה ',
+				'רפאל ב\"ר אשר חגבי',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-02-14 18:59:29'
+			WHERE ktovt_bn='tnk1/sofrim/hagay/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-15 06:23:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
