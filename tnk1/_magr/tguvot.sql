@@ -12285,3 +12285,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_1.html',
+		'<p>ציינתי שזה דרש ועתה הוספתי הבהרה </p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-17 10:09:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/2_gzrot_al_axav.html',
+		'<p>בבקשה תסבירו מה הם עונשיו האישיים קיבוציים והדורותי</p><p></p>',
+		'113598389823288540101',
+		'לילך גלזר',
+		'2016-02-17 15:45:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/2_gzrot_al_axav.html',
+		'<p>מלכים א כא29: &quot;הראית כִּי נִכְנַע אַחְאָב מִלְּפָנָי יַעַן כִּי נִכְנַע מִפָּנַי לֹא אבי[אָבִיא] הָרָעָה בְּיָמָיו בִּימֵי בְנוֹ [אָבִיא] הָרָעָה עַל בֵּיתוֹ&quot;</p><p>אחאב לֹא אבי[אָבִיא] הָרָעָה = אחאב לא אביו של הָרָעָה = כאשר חם לא קולל כבנו כנען</p><p>אך כאמור אחאב שילם על פשעיו ב-נבות ולא על &quot;חטא נבות&quot; כפי שכתבת במאמרך אראל</p><p>ואמנם יודע אני כי לא התכוונת להגיד שנבות חטא אך יש לכתוב ולהתבטא נכון כדי שמאמרך יהיה נגיש ומובן גם למי שלא יודע</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-17 17:14:25'
+		)
+		;
+
