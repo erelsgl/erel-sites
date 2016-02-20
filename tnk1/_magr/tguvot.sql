@@ -12376,3 +12376,60 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 12:14:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p>אך על בני ישראל להאמין באלהים ובתורת משה עבדו לאמור כן יִרְאֶה אֶת אַחֲרִיתֵנוּ</p><p>דברים לב20: &quot;וַיֹּאמֶר אַסְתִּירָה פָנַי מֵהֶם אֶרְאֶה מָה אַחֲרִיתָם כִּי דוֹר תַּהְפֻּכֹת הֵמָּה בָּנִים לֹא אֵמֻן בָּם&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 13:34:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-19 13:34:13' 
+			WHERE messageid=6044;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p>אך על בני ישראל להאמין באלהים ובתורת משה עבדו לאמור כן יִרְאֶה אֶת אַחֲרִיתֵנוּ ככתוב בתורה: אֶרְאֶה מָה אַחֲרִיתָם</p><p>ולא מחכים דורות אלפי שנים לגאולה אין סוף אלא כל אדם חי שבעים שנה ואם בגבורות שמונים שנה ולכל היותר 120 שנה</p><p>ואז בסוף באחרית ימיו של כל אדם הוא רואה את האלהים ואת כל הצדיקים חיים [זו המשמעות לתחיית המתים]</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 13:50:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-19 13:50:52' 
+			WHERE messageid=6045;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-20 03:01:30' 
+			WHERE messageid=6044;
+
