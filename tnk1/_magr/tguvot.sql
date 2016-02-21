@@ -12433,3 +12433,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-02-20 03:01:30' 
 			WHERE messageid=6044;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mohr.html',
+		'<p>יישר כוח ! </p><p>נעזר רבות באתר בכלל ובמאמריך באופן פרטי בהכנת שעורים. </p><p>מוזמן להכיר את האתר הבא : http://sites.tzafonet.org.il/hagay_lev/</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-02-20 19:49:45'
+		)
+		;
+

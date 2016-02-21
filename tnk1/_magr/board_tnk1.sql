@@ -16379,3 +16379,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-20 19:49:45'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/mohr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t2729.htm',
+				'tnk1/messages/nrw_ely_rajy___megl_awr.pdf',
+				NULL,
+				'2016-02-20 20:07:33',
+				'2016-02-20 20:07:33',
+				'בהילו נרו עלי ראשי = מעגל אור',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t09a19.htm',
+				'tnk1/messages/prqim_t09a19_3.html',
+				NULL,
+				'2016-02-20 23:34:52',
+				'2016-02-20 23:34:52',
+				'אליהו לא \"פוטר\"!',
+				'חגי הופר',
+				'hagaihof @ gmail.com'
+			)
+		;
+
