@@ -16419,3 +16419,59 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-21 12:20:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-21 12:43:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-21 23:08:59'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-19-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-22 02:55:22'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-19-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-22 04:38:23'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-19-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-22 05:08:18'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-19-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-02-22 07:47:33'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-19-18.html'
+		;
+
