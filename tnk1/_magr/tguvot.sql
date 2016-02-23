@@ -12550,3 +12550,123 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-02-22 07:47:36' 
 			WHERE messageid=6053;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>אראל ומשה, אתם הולכים לפי שיטת המצודות:</p><p>מלכים א פרק כ, פסוק טו</p><p>וַיִּפְקֹד, אֶת-נַעֲרֵי שָׂרֵי הַמְּדִינוֹת, וַיִּהְיוּ, מָאתַיִם שְׁנַיִם וּשְׁלֹשִׁים; וְאַחֲרֵיהֶם, פָּקַד אֶת-כָּל-הָעָם כָּל-בְּנֵי יִשְׂרָאֵל--שִׁבְעַת אֲלָפִים.  </p><p>רש&quot;י</p><p>שבעת אלפים - אומר אני, הם שאמר עליהם (לעיל יט יח), כל הברכים אשר לא כרעו לבעל שבעת אלפים</p><p>מצודת דוד</p><p>ואחריהם - רצה לומר, ללכת אחריהם, כי נערי שרי המדינות הלכו בראש כדבר ה\'</p><p>כל בני ישראל - רצה לומר, לא היה עוד ביניהם אנשי מלחמה, או שהמה היו הכשרים בכל בני ישראל, וכמו שכתוב למעלה (יט יח) והשארתי בישראל שבעת אלפים כל הברכים אשר לא כרעו לבעל וגו\'</p><p>ואולם לי עדיין קשה, כי ה\' אמר לאליהו שישארו 7000 ולא ש7000 ילכו למלחמה, וגם מפורש פה שאלה הם &quot;*כל* בני ישראל&quot;. נראה לי שהכתוב הזה נשאר בתחום המיסתורין.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-22 11:52:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>לחגי הופר</p><p>מלכים א יט17: &quot;וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל יָמִית יֵהוּא וְהַנִּמְלָט מֵחֶרֶב יֵהוּא יָמִית אֱלִישָׁע&quot;</p><p>מלכים א יט18: &quot;וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ&quot;</p><p>כעת קרא נא ברצף ותבין הפסוקים</p><p>וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל יָמִית יֵהוּא וְהַנִּמְלָט מֵחֶרֶב יֵהוּא יָמִית אֱלִישָׁע וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל [במחנה ישראל] שִׁבְעַת אֲלָפִים </p><p>וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים = וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל [במחנה צבא ישראל] שִׁבְעַת אֲלָפִים </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 14:43:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>תהלים קה15: &quot;אַל תִּגְּעוּ בִמְשִׁיחָי וְלִנְבִיאַי אַל תָּרֵעוּ&quot;</p><p>במדבר ג3: &quot;אֵלֶּה שְׁמוֹת בְּנֵי אַהֲרֹן הַכֹּהֲנִים הַמְּשֻׁחִים אֲשֶׁר מִלֵּא יָדָם לְכַהֵן&quot;</p><p>כל כהן נקרא משיח ובממלכת כהנים כל הכהנים משיחים ועליהם מפקד הכהן הגדול</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 16:38:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:02:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:02:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:03:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני צריכה סיוע דחוףףףף עזרה בהלוואה .אשמח לקבל מכם טלפון בחזרה</p><p> .0544437994 תודה.</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:05:03'
+		)
+		;
+
