@@ -12670,3 +12670,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן עשה אלהים חסד עם האדם ולא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט מלא ולא יחסרהו מעט מאלהים</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 08:56:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן חסדי-אלהים עם האדם ועד מותו לא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט אמת מלא ולא יחסרהו מעט מאלהים</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 09:06:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-23 09:06:01' 
+			WHERE messageid=6065;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p> לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן חסדי-אלהים עם האדם ועד מותו לא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט אמת מלא ולא יחסרהו מעט מאלהים</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 09:11:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-23 09:12:16' 
+			WHERE messageid=6066;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>יתכן שאתה צודק</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-23 09:23:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-23-1011.html',
+		'<p>אראל, יישר כוח ! </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-02-23 21:45:38'
+		)
+		;
+
