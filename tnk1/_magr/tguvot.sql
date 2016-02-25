@@ -12376,3 +12376,383 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 12:14:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p>אך על בני ישראל להאמין באלהים ובתורת משה עבדו לאמור כן יִרְאֶה אֶת אַחֲרִיתֵנוּ</p><p>דברים לב20: &quot;וַיֹּאמֶר אַסְתִּירָה פָנַי מֵהֶם אֶרְאֶה מָה אַחֲרִיתָם כִּי דוֹר תַּהְפֻּכֹת הֵמָּה בָּנִים לֹא אֵמֻן בָּם&quot;</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 13:34:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-19 13:34:13' 
+			WHERE messageid=6044;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> המענה כבר בתוך השאלה</p><p>שאלת האבל עַד מָתַי = עַד מתים [ורק אז בסוף חזון אחרית הימים וגר זאב עם כבש זה יכול להיות רק בעולם הבא]</p><p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p>אך על בני ישראל להאמין באלהים ובתורת משה עבדו לאמור כן יִרְאֶה אֶת אַחֲרִיתֵנוּ ככתוב בתורה: אֶרְאֶה מָה אַחֲרִיתָם</p><p>ולא מחכים דורות אלפי שנים לגאולה אין סוף אלא כל אדם חי שבעים שנה ואם בגבורות שמונים שנה ולכל היותר 120 שנה</p><p>ואז בסוף באחרית ימיו של כל אדם הוא רואה את האלהים ואת כל הצדיקים חיים [זו המשמעות לתחיית המתים]</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-19 13:50:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-19 13:50:52' 
+			WHERE messageid=6045;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-20 03:01:30' 
+			WHERE messageid=6044;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mohr.html',
+		'<p>יישר כוח ! </p><p>נעזר רבות באתר בכלל ובמאמריך באופן פרטי בהכנת שעורים. </p><p>מוזמן להכיר את האתר הבא : http://sites.tzafonet.org.il/hagay_lev/</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-02-20 19:49:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>תהלים קיח22: &quot;אֶבֶן מָאֲסוּ הַבּוֹנִים הָיְתָה לְרֹאשׁ פִּנָּה&quot;</p><p>לכל הַבּוֹנִים אם תמאסו באבן אז זה הדבר הראשון לְרֹאשׁ פִּנָּה להניח את הראש לאמור אז יהיה לכם באמת בית</p><p>בית כגן עדן עלי אדמות כאשר ברא אלהים מימי בראשית</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-21 12:20:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>תהלים קיח22: &quot;אֶבֶן מָאֲסוּ הַבּוֹנִים הָיְתָה לְרֹאשׁ פִּנָּה&quot;</p><p>ואתם הַבּוֹנִים אם תמאסו באבן אז זה הדבר הראשון לְרֹאשׁ פִּנָּה </p><p>פִּנָּה להניח את הראש לאמור אז יהיה לכם באמת בית </p><p>בית מקדש [כן חיים בטבע] כגן עדן עלי אדמות כאשר ברא אלהים מימי בראשית</p><p>מלאכי ג1: &quot;הִנְנִי שֹׁלֵחַ מַלְאָכִי וּפִנָּה דֶרֶךְ לְפָנָי [לְרֹאשׁ פִּנָּה]</p><p>וּפִתְאֹם יָבוֹא אֶל הֵיכָלוֹ הָאָדוֹן אֲשֶׁר אַתֶּם מְבַקְשִׁים וּמַלְאַךְ הַבְּרִית אֲשֶׁר אַתֶּם חֲפֵצִים הִנֵּה בָא אָמַר יהוה צְבָאוֹת&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-21 12:43:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-21 12:43:40' 
+			WHERE messageid=6048;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>כפי שצוין בתשובה הראשונה, הדבר התקיים בפרק הבא, כ:</p><p>(טו)וַיִּפְקֹד אֶת-נַעֲרֵי שָֹרֵי הַמְּדִינוֹת וַיִּהְיוּ מָאתַיִם שְׁנַיִם וּשְׁלשִׁים וְאַחֲרֵיהֶם פָּקַד אֶת-כָּל-הָעָם כָּל-בְּנֵי יִשְֹרָאֵל שִׁבְעַת אֲלָפִים:</p><p>סדר הזמנים לא נאמר בפירוש</p><p>מה שלא ברור שאם זה אכן כך, אם אכן נשארו בישראל רק 7000 איש (!), כיצד זה לא מספרים לנו דבר על הנסיבות שבהן זה קרה.</p><p>נפלא מעיניי.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-21 23:08:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>לכן מסתבר יותר לפרש שהכוונה ל-7000 חיילים. השאר לא נעלמו - הם פשוט השתמטו מהצבא...  רק ה&quot;דתיים&quot; התגייסו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-02-22 02:55:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p> מלכים א יט18: &quot;וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ&quot;</p><p>כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל = מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם בימי גדעון בספר שופטים</p><p>שופטים ז6: &quot;וַיְהִי מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם שְׁלֹשׁ מֵאוֹת אִישׁ וְכֹל יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם&quot;</p><p>תהלים י3: &quot;כִּי הִלֵּל רָשָׁע עַל תַּאֲוַת נַפְשׁוֹ וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה\'&quot; </p><p> וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה = וְכֹל יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם [לכן הרשעים האלה לא יקחו חלק במלחמה למען אֱלֹהֵי צְבָאוֹת]</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 04:38:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>מלכים א יט18: &quot;וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ&quot;</p><p>כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל = מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם בימי גדעון בספר שופטים</p><p>שופטים ז7: &quot;וַיֹּאמֶר יהוה אֶל גִּדְעוֹן בִּשְׁלֹשׁ מֵאוֹת הָאִישׁ הַמֲלַקְקִים אוֹשִׁיעַ אֶתְכֶם וְנָתַתִּי אֶת מִדְיָן בְּיָדֶךָ וְכָל הָעָם יֵלְכוּ אִישׁ לִמְקֹמוֹ&quot;</p><p>שופטים ז6: &quot;וַיְהִי מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם שְׁלֹשׁ מֵאוֹת אִישׁ וְכֹל יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם&quot;</p><p>תהלים י3: &quot;כִּי הִלֵּל רָשָׁע עַל תַּאֲוַת נַפְשׁוֹ וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה\'&quot;</p><p>וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה = יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם [לכן הרשעים האלה לא יקחו חלק במלחמה למען אֱלֹהֵי צְבָאוֹת]</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 05:08:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-22 05:08:21' 
+			WHERE messageid=6052;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>מלכים א יט18: &quot;וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ&quot;</p><p>כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל = מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם בימי גדעון בספר שופטים</p><p>שופטים ז7: &quot;וַיֹּאמֶר יהוה אֶל גִּדְעוֹן בִּשְׁלֹשׁ מֵאוֹת הָאִישׁ הַמֲלַקְקִים אוֹשִׁיעַ אֶתְכֶם וְנָתַתִּי אֶת מִדְיָן בְּיָדֶךָ וְכָל הָעָם יֵלְכוּ אִישׁ לִמְקֹמוֹ&quot;</p><p>שופטים ז6: &quot;וַיְהִי מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל פִּיהֶם שְׁלֹשׁ מֵאוֹת אִישׁ וְכֹל יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם&quot;</p><p>תהלים י3: &quot;כִּי הִלֵּל רָשָׁע עַל תַּאֲוַת נַפְשׁוֹ וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה\'&quot;</p><p>וּבֹצֵעַ בֵּרֵךְ נִאֵץ יהוה = יֶתֶר הָעָם כָּרְעוּ עַל בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם [לכן הרשעים האלה לא יקחו חלק במלחמה למען אֱלֹהֵי צְבָאוֹת]</p><p>רק הצדיקים ילחנו מלחמות אלהים והם כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 07:47:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-22 07:47:36' 
+			WHERE messageid=6053;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>אראל ומשה, אתם הולכים לפי שיטת המצודות:</p><p>מלכים א פרק כ, פסוק טו</p><p>וַיִּפְקֹד, אֶת-נַעֲרֵי שָׂרֵי הַמְּדִינוֹת, וַיִּהְיוּ, מָאתַיִם שְׁנַיִם וּשְׁלֹשִׁים; וְאַחֲרֵיהֶם, פָּקַד אֶת-כָּל-הָעָם כָּל-בְּנֵי יִשְׂרָאֵל--שִׁבְעַת אֲלָפִים.  </p><p>רש&quot;י</p><p>שבעת אלפים - אומר אני, הם שאמר עליהם (לעיל יט יח), כל הברכים אשר לא כרעו לבעל שבעת אלפים</p><p>מצודת דוד</p><p>ואחריהם - רצה לומר, ללכת אחריהם, כי נערי שרי המדינות הלכו בראש כדבר ה\'</p><p>כל בני ישראל - רצה לומר, לא היה עוד ביניהם אנשי מלחמה, או שהמה היו הכשרים בכל בני ישראל, וכמו שכתוב למעלה (יט יח) והשארתי בישראל שבעת אלפים כל הברכים אשר לא כרעו לבעל וגו\'</p><p>ואולם לי עדיין קשה, כי ה\' אמר לאליהו שישארו 7000 ולא ש7000 ילכו למלחמה, וגם מפורש פה שאלה הם &quot;*כל* בני ישראל&quot;. נראה לי שהכתוב הזה נשאר בתחום המיסתורין.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-22 11:52:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>לחגי הופר</p><p>מלכים א יט17: &quot;וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל יָמִית יֵהוּא וְהַנִּמְלָט מֵחֶרֶב יֵהוּא יָמִית אֱלִישָׁע&quot;</p><p>מלכים א יט18: &quot;וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל וְכָל הַפֶּה אֲשֶׁר לֹא נָשַׁק לוֹ&quot;</p><p>כעת קרא נא ברצף ותבין הפסוקים</p><p>וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל יָמִית יֵהוּא וְהַנִּמְלָט מֵחֶרֶב יֵהוּא יָמִית אֱלִישָׁע וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל [במחנה ישראל] שִׁבְעַת אֲלָפִים </p><p>וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים = וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל [במחנה צבא ישראל] שִׁבְעַת אֲלָפִים </p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 14:43:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>תהלים קה15: &quot;אַל תִּגְּעוּ בִמְשִׁיחָי וְלִנְבִיאַי אַל תָּרֵעוּ&quot;</p><p>במדבר ג3: &quot;אֵלֶּה שְׁמוֹת בְּנֵי אַהֲרֹן הַכֹּהֲנִים הַמְּשֻׁחִים אֲשֶׁר מִלֵּא יָדָם לְכַהֵן&quot;</p><p>כל כהן נקרא משיח ובממלכת כהנים כל הכהנים משיחים ועליהם מפקד הכהן הגדול</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-22 16:38:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:02:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:02:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:03:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום .אני צריכה סיוע בהלוואה .אשמח לקבל מכם טלפון בחזרה.0544437994 תודה</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:04:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני צריכה סיוע דחוףףףף עזרה בהלוואה .אשמח לקבל מכם טלפון בחזרה</p><p> .0544437994 תודה.</p>',
+		'109930988389888708825',
+		'אביטל חן',
+		'2016-02-22 21:05:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן עשה אלהים חסד עם האדם ולא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט מלא ולא יחסרהו מעט מאלהים</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; </p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 08:56:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן חסדי-אלהים עם האדם ועד מותו לא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט אמת מלא ולא יחסרהו מעט מאלהים</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot;</p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 09:06:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-23 09:06:01' 
+			WHERE messageid=6065;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p> לא פשוט לצעוד עם כוס מים מלאה עד שפתה לאמור עד משפת=משפט מלא כי קשה מאד להתהלך מלוא הספל מבלי שישפך</p><p>לכן חסדי-אלהים עם האדם ועד מותו לא ימלאהו משפט=משפת ספל עד תם אלא יהיה מעט חסר לבל ישפך ממנו מימי רוח קודשו</p><p>על כן כתוב בספר תהילות : ח6: &quot;וַתְּחַסְּרֵהוּ מְּעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ&quot;</p><p>קהלת א8: &quot;כָּל הַדְּבָרִים יְגֵעִים לֹא יוּכַל אִישׁ לְדַבֵּר לֹא תִשְׂבַּע עַיִן לִרְאוֹת וְלֹא תִמָּלֵא אֹזֶן מִשְּׁמֹעַ&quot;</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot;</p><p>עד יעלה האדם לשמים למשכן אלהים ושפת-משפט אמת מלא ולא יחסרהו מעט מאלהים</p><p></p>',
+		'115934331744503251746',
+		'Daian Moshe',
+		'2016-02-23 09:11:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-02-23 09:12:16' 
+			WHERE messageid=6066;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-19-18.html',
+		'<p>יתכן שאתה צודק</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-02-23 09:23:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-23-1011.html',
+		'<p>אראל, יישר כוח ! </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-02-23 21:45:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/2_gzrot_al_axav.html',
+		'<p>תודה, תיקנתי</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-02-24 12:42:24'
+		)
+		;
+
