@@ -12744,3 +12744,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/2_gzrot_al_axav.html',
+		'<p>תודה, תיקנתי</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-02-24 12:42:24'
+		)
+		;
+
