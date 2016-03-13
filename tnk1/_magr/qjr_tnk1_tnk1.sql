@@ -326,3 +326,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_tnk1_tnk1` SET `bn` = 'מבנה משלי טז', `tarik_hosfa` = '2016-01-20 06:54:12' WHERE `av` = 'שלטון בספר משלי' AND `bn` = 'מלוכה משולבת ברוח ה\'' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2016-03-12 18:07:12' WHERE `av` = 'דוד לעומת שלמה - תהלים לעומת משלי' AND `bn` = 'ביאור:משלי טז1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('דוד לעומת שלמה - תהלים לעומת משלי', 'ביאור:משלי א30', 'ישראל לא אבה לי - הכסילים לא אבו לעצתי', '', 10, 60, '2016-03-12 18:07:12');
+
