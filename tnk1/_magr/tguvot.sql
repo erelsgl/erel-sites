@@ -12804,3 +12804,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-12 17:38:57' 
+			WHERE messageid=6099;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>http://tora.us.fm/tnk/find.php?q=%D7%91%D7%99%D7%95%D7%9D+%D7%94%D7%97&amp;add_niqud=on</p><p>ראש החודש הראשון האחד בחודש ניסן היה ביום חמשי לשבוע</p><p>שמות לט32: &quot;וַתֵּכֶל כָּל עֲבֹדַת מִשְׁכַּן אֹהֶל מוֹעֵד וַיַּעֲשׂוּ בְּנֵי יִשְׂרָאֵל כְּכֹל אֲשֶׁר צִוָּה יהוה אֶת מֹשֶׁה כֵּן עָשׂוּ&quot;</p><p>שמות מ35: &quot;וְלֹא יָכֹל מֹשֶׁה לָבוֹא אֶל אֹהֶל מוֹעֵד כִּי שָׁכַן עָלָיו הֶעָנָן וּכְבוֹד יהוה מָלֵא אֶת הַמִּשְׁכָּן&quot;</p><p>יום הששי ...........</p><p>בראשית ב1: &quot;וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם&quot;</p><p>בראשית ב2: &quot;וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה&quot;</p><p>ויחלו שבעת ימי המילואים מיום שבת [השלישי לחודש ניסן עד העשור לחודש] עד יום שבת הבא למילואים הוא כבר היום השמיני</p><p>וכן במקביל החלה חנוכת המזבח מיום שבת השלשי לחודש ניסן שנים-עשר יום עד פסח בארבעה עשר לחודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-12 17:39:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-12 17:39:17' 
+			WHERE messageid=6101;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-81-11.html',
+		'<p>ישעיהו יט20: &quot;וְהָיָה לְאוֹת וּלְעֵד ליהוה צְבָאוֹת בְּאֶרֶץ מִצְרָיִם כִּי יִצְעֲקוּ אֶל יהוה מִפְּנֵי לֹחֲצִים וְיִשְׁלַח לָהֶם מוֹשִׁיעַ וָרָב וְהִצִּילָם&quot;</p><p>*************** וְיִשְׁלַח לָהֶם מוֹשִׁיעַ וָרָב וְהִצִּילָם לכן רָחַב פִּי עַל אוֹיְבַי כִּי שָׂמַחְתִּי בִּישׁוּעָתֶךָ ***************</p><p>שמואל א ב1: &quot;וַתִּתְפַּלֵּל חַנָּה וַתֹּאמַר עָלַץ לִבִּי ביהוה רָמָה קַרְנִי ביהוה רָחַב פִּי עַל אוֹיְבַי כִּי שָׂמַחְתִּי בִּישׁוּעָתֶךָ&quot;</p><p> </p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-12 18:26:44'
+		)
+		;
+
