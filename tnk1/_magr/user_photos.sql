@@ -30,3 +30,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `user_photos` (`name`, `photo`) VALUES ('Erel Segal-Halevi', 'http://tora.us.fm/erelsgl/erel35x.jpg');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `user_photos` SET `photo` = 'http://erelsgl.github.io/images/erel35y.jpg' WHERE `name` = 'Erel Segal Halevi' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `user_photos` SET `photo` = 'http://erelsgl.github.io/images/erel35y.jpg' WHERE `name` = 'Erel Segal-Halevi' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `user_photos` SET `photo` = 'http://erelsgl.github.io/images/erel35y.jpg' WHERE `name` = 'אראל' AND 1 LIMIT 1;
+

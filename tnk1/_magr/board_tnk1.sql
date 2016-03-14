@@ -16775,3 +16775,226 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 10:33:10'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 10:45:24'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 11:27:18'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 12:11:26'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 14:03:36'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 15:51:21'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 16:35:26'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 17:35:56'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 17:49:18'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 18:58:39'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-13 23:15:23'
+		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-13-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 03:43:45'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 03:52:50'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 03:53:18'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 03:58:09'
+		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-13-19.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/tora/brejit/tarikim.html',
+				'tnk1/tora/brejit/tarikim30.html',
+				NULL,
+				'2016-03-14 05:44:43',
+				'2016-03-14 05:44:43',
+				'מתי נולד יוסף',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-03-14 05:44:43'
+			WHERE ktovt_bn='tnk1/tora/brejit/tarikim.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 05:55:07'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 05:57:48'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:18:45'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:21:51'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:22:42'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:23:59'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:24:17'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 06:38:28'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 07:03:46'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-14 07:08:14'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+

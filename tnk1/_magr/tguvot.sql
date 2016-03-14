@@ -12842,3 +12842,387 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-13 08:37:56' 
+			WHERE messageid=6100;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/02-16.html',
+		'<p>בדרך כלל אשה זרה זו מינות ולכן כל פרושיך שמדובר כאן על בגידה של אשה ממש בבעלה לענ&quot;ד איננה נכונה כאן</p>',
+		'101439401627884052809',
+		'ראובן הילר',
+		'2016-03-13 10:33:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/02-18.html',
+		'<p>רפאים הם ענקים (דברים ב יא) והפרוש כמו לפני כן שהחכמה הזרה שמתכחשת לאלוף נעוריה שהוא הקב&quot;ה מחפשת לדתה החדשה כח ועוצמה ולאודווקא אמת ולכן מעגלותיה הינם לגייס לשרותיה את הרפאים. מוזר לי שפרשת רפאים -חלשים</p>',
+		'101439401627884052809',
+		'ראובן הילר',
+		'2016-03-13 10:45:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/02-16.html',
+		'<p>אראל צודק ופרש נכון כי המשמעות של זר = לא בקודש</p><p>לכן אשה זרה = אשה שלא לקחת בקודש בחופה נישואין וקידושין</p><p>כעת ראה את הפסוקים האלה ותבין :</p><p>ויקרא כב10: &quot;וְכָל זָר לֹא יֹאכַל קֹדֶשׁ תּוֹשַׁב כֹּהֵן וְשָׂכִיר לֹא יֹאכַל קֹדֶשׁ&quot;</p><p>ויקרא כב13: &quot;וּבַת כֹּהֵן כִּי תִהְיֶה אַלְמָנָה וּגְרוּשָׁה וְזֶרַע אֵין לָהּ וְשָׁבָה אֶל בֵּית אָבִיהָ כִּנְעוּרֶיהָ מִלֶּחֶם אָבִיהָ תֹּאכֵל וְכָל זָר לֹא יֹאכַל בּוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-13 11:27:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>&quot;בגיל 71 בא לבית לבן הארמי וגר שם 20 שנה</p><p>עד לדת רחל את יוסף&quot;.</p><p>שים לב, אתה מתבלבל-יעקב היה בן 63 כשעזב את יצחק, ומשום שאנו יודעים ע&quot;פ חישוב מניין השנים בסוף פרשת תולדות, שהוא למד בבית עבר 14 שנים, הוא הגיע ללבן רק בגיל 77.</p><p>&quot;ואכן בעת הזו בשנת 2199 כשיעקב בן 91 [ולא בן 97 כמו שכתבת אראל] הוא בורח-יוצא מבית לבן</p><p>אל עבר הר הגלעד שבעבר הירדן המזרחי&quot;.</p><p>כעת תוסיף את השש שנים שהיו חסרות לך, ויעקב כן היה בן 97 כשהוא עוזב את לבן. </p><p>לאחר עזיבת בית לבן הוא נמצא בסוכות 18 חודשים בהם קרה גם מקרה דינה, ולבסוף פוגש את יצחק לאחר שנתיים מהיציאה מבית לבן, כך שבנימין נולד במהלך החצי שנה מצאת סוכות עד הפגישה עם יצחק, ומכאן שיעקב היה בהולדת בנימין בן 98-99.</p>',
+		'115361967783210012861',
+		'Matan Asaf',
+		'2016-03-13 12:11:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>30 גיל יוסף בעמדו לפני פרעה+7 שנות שבע+2 שנות רעב=39 גיל יוסף בעת שיעקב בן 130</p><p>130-39=91 גיל יעקב בעת שיוסף נולד לאחר תם 20 שנה בבית לבן</p><p>בראשית ל25: &quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וַיֹּאמֶר יַעֲקֹב אֶל לָבָן שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot; </p><p>91-20= 71 זה גיל יעקב כאשר בא אל בית לבן</p><p>-----------------------------------------------------------</p><p>צוואת בנימין הבן השנים עשר ליעקב ובן רחל </p><p>פרק א</p><p>א) העתקת דברי בנימין, אשר ציווה לבניו בהיותו בן חמש ועשרים ומאה שנה. </p><p>ב) וינשק להם ויאמר אליהם, כאשר נולד יצחק לאברהם לזקוניו ככה נולדתי גם אני ליעקב. </p><p>ג) ויהי כאשר מתה רחל אמי בעת לדתה אותי, ולא היה לי חלב, ואינק שדי בלהה אמתה. </p><p>ד) ורחל הייתה אחרי לדתה את יוסף עקרה שתים עשרה שנה, ותתפלל אל ה\' ותצום, ותהר ותלד אותי. </p><p>ה) כי אהב יעקב אבי את רחל מאוד, ויתפלל אשר יראה ממנה שני בנים. </p><p>ו) ועל כן קראו את שמי בנימין, לאמור בן ימים. </p><p>-------</p><p>בנימין נולד 12 שנה לאחר יוסף שנולד בעת יעקב בן 91 שנה</p><p>91+12= 103 גיל יעקב בעת בנימין נולד </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-13 14:03:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>אז הנה מקור המחלוקת בינינו... יוסף נולד 14 שנה אחרי שיעקב עבד בבית לבן ואחרי לידת יוסף הוא נשאר לעבוד עוד שש שנים בשביל הצאן,סה&quot;כ השנים יצאו 20 שנים.</p><p>תקרא רש&quot;י פרשת תולדות, פרק כח, פס\' ט\': &quot;שהרי לא שהה בבית לבן לפני לידתו של יוסף אלא י&quot;ד שנה&quot;..</p><p>בנוגע לגיל יעקב בעת לידתו של יוסף, אני מסכים איתך, הוא היה בן 91. </p><p>בבראשית ל\' 25 רק כתוב שיעקב אמר שהוא מעוניין לשוב אל ארצו, לא שבאמת הוא עשה זאת מיד לאחר מכן.</p><p>בנוגע לצוואת בנימין לא הבנתי מאיפה לקחת את המקור הזה, מה שבטוח הוא לא מקור מהימן אם כתוב בו משהו שסותר את רש&quot;י: </p><p>רחל לא הייתה עקרה 12 שנה אחרי יוסף אלא 8 שנים, שזהו הפער בגילאים בין יוסף לבנימין.</p><p>כמו כן במידה והוא היה באמת בן 71 בבואו אל לבן, איך מסתדר לך 14 שנה שהוא למד בבית עבר בין גיל 63 לגיל 71?</p>',
+		'115361967783210012861',
+		'Matan Asaf',
+		'2016-03-13 15:51:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>תמחק את השטויות שלך אסור לך להתווכח אתי אסור לך להתווכח עם דיין</p><p>ואני מודיע לך כי הרבנים שלך כסילים וסלפו את התורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-13 16:35:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>מה?!?!?!?!</p><p>לא הבנתי מדוע נעלבת? אני קודם כל מצטער אם פירשת את דברי כעלבון, אני באמת ניסית להסביר לך את מה שאני יודע ושלא מסתדר ע&quot;פ מה שכתבת...</p><p>אם טעיתי, תוכל להסביר לי בבקשה, שאני גם אבין... למה התכוון רש&quot;י שהוא כתב &quot;שהרי לא שהה בבית לבן לפני לידתו של יוסף אלא י&quot;ד שנה&quot; (בראשית, כ&quot;ח/ט\'), איך ניתן לפרש זאת כעשרים שנה אם כתוב 14? </p>',
+		'115361967783210012861',
+		'Matan Asaf',
+		'2016-03-13 17:35:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-13 17:45:56' 
+			WHERE messageid=6111;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>מה?!?!?!?!</p><p>לא הבנתי מדוע נעלבת? אני קודם כל מצטער אם פירשת את דברי כעלבון, אני באמת ניסית להסביר לך את מה שאני יודע ושלא מסתדר ע&quot;פ מה שכתבת...</p><p>אם טעיתי, תוכל להסביר לי בבקשה, שאני גם אבין... למה התכוון רש&quot;י שהוא כתב &quot;שהרי לא שהה בבית לבן לפני לידתו של יוסף אלא י&quot;ד שנה&quot; (בראשית, כ&quot;ח/ט\'), איך ניתן לפרש זאת כעשרים שנה אם כתוב 14? </p><p>כמו כן איך קוראים לך אם אתה דיין? קשה לי להאמין שדיין יגיב בצורה כזו לוויכוח תורני, במקום לענות לעניין ולספק מקורות.</p><p>אתה מנסה להגיד לי שהרבנים שלך טוענים כנגד רש&quot;י ואתה מנסה להוציא את הרבנים שלי ככאלו שמסלפים את התורה?</p><p>למרות שהשיח הפך קצת ללא נעים, בעקבות התגובה האחרונה, אשמח לתשובה לעניין ולא התחמקויות.</p>',
+		'115361967783210012861',
+		'Matan Asaf',
+		'2016-03-13 17:49:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>אם אני נחרץ בדעתי אל תתווכח אך אם אתה מבקש להבין אפרש לך </p><p>ראה את אשר כתבת: לציטוט &quot;איך ניתן לפרש זאת כעשרים שנה אם כתוב 14 &quot;</p><p>ובכן בדיוק ההיפך לכן עליך להגיד &quot;איך ניתן בשגגה לפרש זאת 14 אם כתוב בתורה עשרים שנה&quot;</p><p>שים לב כי מרוב שכיבדת לשוא את הפרשנות של חזל קראת לזה &quot;כתוב&quot; </p><p>ואילו לכתוב באמת על פי התורה קראת לזה &quot;פרוש&quot;</p><p>באשר לשאלתך למה התכוון הרב הפרשן שלך</p><p>ובכן הפרשן של חזל לא פרש נכון ואין טעם להגיד למה התכוון כי הוא שגה תעה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-13 18:58:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-13-19.html',
+		'<p>ולפי דעתי, מי שיש לו אנרגיה פנימית גדולה, כעס גדול על האויבים וכו\' - האנרגיה הזו אמורה להתבטא גם במעשה, ולכן אין הכאה 3 פעמים כהכאה 5 או 6. זה מנגנון פסיכולוגי בסיסי: אם מישהו מרוגז והוא מכה בקיר, למשל, אם הוא מרוגז מאוד הוא יכה הרבה ואם לא אז פחות. בהסתכלות זו מלך ישראל היה רפה וחסר אנרגיה (אולי גם חסר אמונה בפעולות הנביא), ולכן הנביא כעס עליו.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-03-13 23:15:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>אם אני נחרץ בדעתי אל תתווכח אך אם אתה מבקש להבין אפרש לך </p><p>ראה את אשר כתבת: לציטוט &quot;איך ניתן לפרש זאת כעשרים שנה אם כתוב 14 &quot;</p><p>ובכן בדיוק ההיפך לכן עליך להגיד &quot;איך ניתן בשגגה לפרש זאת 14 אם כתוב בתורה עשרים שנה&quot;</p><p>שים לב כי מרוב שכיבדת לשוא את הפרשנות של חזל קראת לזה &quot;כתוב&quot; </p><p>ואילו לכתוב באמת על פי התורה קראת לזה &quot;פרוש&quot;</p><p>באשר לשאלתך למה התכוון הרב הפרשן שלך</p><p>ובכן הפרשן של חזל לא פרש נכון ואין טעם להגיד למה התכוון כי הוא שגה תעה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 03:43:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 03:49:15' 
+			WHERE messageid=6110;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 03:49:41' 
+			WHERE messageid=6113;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/02-16.html',
+		'<p>לכבוד הרב שלום,</p><p>רש&quot;י על משלי א ו כותב: &quot;להבין משל ומליצה - שיתנו לב להבין במקראות שני הדרכים, המשל והמליצה, שיבינו את מה המשיל למליצה; ואף מן המליצה לא יסורו לבם, שגם היא צריכים להבין. כשאמר: &quot;להצילך מאשה זרה ונכריה&quot; – על הבלי מצרים נאמר, הרי המשל; ***ואף המליצה שהוציא משלו בלשון אשה, הבן בה והזהר מאשה זרה***.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 03:52:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 03:53:10' 
+			WHERE messageid=6116;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/02-16.html',
+		'<p>לכבוד הרב שלום,</p><p>רש&quot;י על משלי א ו כותב: &quot;להבין משל ומליצה - שיתנו לב להבין במקראות שני הדרכים, המשל והמליצה, שיבינו את מה המשיל למליצה; ואף מן המליצה לא יסורו לבם, שגם היא צריכים להבין. כשאמר: &quot;להצילך מאשה זרה ונכריה&quot; – על הבלי נוצרים נאמר, הרי המשל; ***ואף המליצה שהוציא משלו בלשון אשה, הבן בה והזהר מאשה זרה***.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 03:53:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-13-19.html',
+		'<p>\'לְהַכּוֹת חָמֵשׁ אוֹ שֵׁשׁ פְּעָמִים אָז הִכִּיתָ אֶת אֲרָם עַד כַּלֵּה! </p><p>תהלים יח38: &quot;אֶרְדּוֹף אוֹיְבַי וְאַשִּׂיגֵם וְלֹא אָשׁוּב עַד כַּלּוֹתָם&quot;</p><p>********************* זו המצוה *********************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 03:58:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 05:54:46' 
+			WHERE messageid=6112;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 05:54:47' 
+			WHERE messageid=6115;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>לגבי זמן לידת יוסף, ראו כאן: http://tora.us.fm/tnk1/tora/brejit/tarikim30.html</p><p>בברכת המשך דיון פורה ומכובד..</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 05:55:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 05:57:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 05:57:49' 
+			WHERE messageid=6120;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>לא נכון !! </p><p>כעת ראה את הפרוש הנכון</p><p> בראשית לא41: &quot; זֶה לִּי עֶשְׂרִים שָׁנָה בְּבֵיתֶךָ עֲבַדְתִּיךָ אַרְבַּע עֶשְׂרֵה שָׁנָה בִּשְׁתֵּי בְנֹתֶיךָ וְשֵׁשׁ שָׁנִים בְּצֹאנֶךָ וַתַּחֲלֵף אֶת מַשְׂכֻּרְתִּי עֲשֶׂרֶת מֹנִים &quot; </p><p>עֲבַדְתִּיךָ אַרְבַּע עֶשְׂרֵה שָׁנָה בִּשְׁתֵּי בְנֹתֶיךָ ברחל ולאה</p><p>יעקב בגיל 71 בא לבית לבן בשנת 2179 </p><p>עבד שבע שנים וקיבל את לאה בשנת 2186 כשיעקב בן 78</p><p>ועבד עוד שבע שנים אחרות וקיבל את רחל בשנת 2193 כשיעקב בן 85</p><p>ובתם 14 שנות עבודה החל יעקב במסגרת 6 שנות עבודה בצאן אז נולדו לו בניו מראובן עד יוסף בשנה האחרונה לבית לבן בשנה העשרים</p><p>לאה הביאה בנים רק לאחר שאלהים ראה כי יעקב אוהב את רחל יותר מלאה</p><p>בראשית כט30: &quot;וַיָּבֹא גַּם אֶל רָחֵל וַיֶּאֱהַב גַּם אֶת רָחֵל מִלֵּאָה וַיַּעֲבֹד עִמּוֹ עוֹד שֶׁבַע שָׁנִים אֲחֵרוֹת&quot; [משנת 2186 עד שנת 2193]</p><p>אלהים פתח את רחם לאה רק אחרי שיעקב קיבל את רחל לאחר 14 שנות העבודה הראשונות בבית לבן הארמי</p><p>בראשית כט31: &quot;וַיַּרְא יהוה כִּי שְׂנוּאָה לֵאָה וַיִּפְתַּח אֶת רַחְמָהּ וְרָחֵל עֲקָרָה&quot; </p><p>מזכירים בפסוק זה כי רחל עקרה ולא יכלה להביא ילדים זאת אומרת שכבר יעקב קיבל את רחל לאחר 14 שנות עבודה</p><p>כי יעקב לא קיבל את רחל לאחר שבע השנים הראשונות אלא רק לאחר שבע השנים [הנוספות] האחרות לאמור בתם 14 השנים הראשונות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 06:18:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>כתוב בבראשית ל25:&quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף, וַיֹּאמֶר יַעֲקֹב אֶל לָבָן: שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot;. </p><p>מכאן, שכאשר נולד יוסף, יעקב סיים לעבוד את ארבע-עשרה השנים שהתחייב לעבוד עבור רחל ולאה. אחרת לא היה יכול לבקש לעזוב!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 06:21:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 06:22:10' 
+			WHERE messageid=6122;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>כתוב בבראשית ל25:&quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף, וַיֹּאמֶר יַעֲקֹב אֶל לָבָן: שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot;.</p><p>מכאן, שכאשר נולד יוסף, יעקב סיים לעבוד את ארבע-עשרה השנים שהתחייב לעבוד עבור רחל ולאה. אחרת לא היה יכול לבקש לעזוב!</p><p>ועוד: רק אחרי שיעקב ביקש לעזוב, לבן הציע לו לעבוד תמורת הצאן. מכאן, רק אחרי שנולד יוסף, התחילו שש השנים שבהן יעקב עבד תמורת צאן לבן.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 06:22:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 06:22:57' 
+			WHERE messageid=6123;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>כתבת &quot;ובתם 14 שנות עבודה החל יעקב במסגרת 6 שנות עבודה בצאן אז נולדו לו בניו מראובן עד יוסף בשנה האחרונה לבית לבן בשנה העשרים&quot;</p><p>אבל זה בדיוק הפוך מהסדר שכתוב בתורה.</p><p>לפי התורה, קודם-כל יעקב הוליד את בניו מראובן עד יוסף,</p><p>ואז יעקב ביקש לעזוב ולחזור אל ביתו, בראשית ל25: &quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף, וַיֹּאמֶר יַעֲקֹב אֶל לָבָן: שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot;,</p><p>ורק אז הציע לבן ליעקב שיישאר לעבוד תמורת הצאן.</p><p>כלומר, שש השנים שיעקב עבד תמורת הצאן, התחילו רק לאחר שיוסף נולד.</p><p>ורק אז, </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 06:23:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>כתבת &quot;ובתם 14 שנות עבודה החל יעקב במסגרת 6 שנות עבודה בצאן אז נולדו לו בניו מראובן עד יוסף בשנה האחרונה לבית לבן בשנה העשרים&quot;</p><p>אבל זה בדיוק הפוך מהסדר שכתוב בתורה.</p><p>לפי התורה, קודם-כל יעקב הוליד את בניו מראובן עד יוסף,</p><p>ואז יעקב ביקש לעזוב ולחזור אל ביתו, בראשית ל25: &quot;וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף, וַיֹּאמֶר יַעֲקֹב אֶל לָבָן: שַׁלְּחֵנִי וְאֵלְכָה אֶל מְקוֹמִי וּלְאַרְצִי&quot;,</p><p>ורק אז הציע לבן ליעקב שיישאר לעבוד תמורת הצאן.</p><p>כלומר, שש השנים שיעקב עבד תמורת הצאן, התחילו רק לאחר שיוסף נולד.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-14 06:24:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 06:24:18' 
+			WHERE messageid=6124;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>וכעת הודעה אליך אראל בעל האתר</p><p>כי אותי האשמת בחטא גאווה על כן כעסת ומחקת את דברי את דברי דיין כי דברי לא היו לכבוד בעיניך</p><p>כעת עליך להחליט במחשבתך את מי אתה מכבד אם את רבניך וגדול פרשני חזל בכל הזמנים או אותי דיין איש אלהי אמת</p><p>אם הצלחת להבין כי דברי אמת</p><p>אנא בקש ממני סליחה כי לא חפצתי לשאת עליך חטא </p><p>ויקרא יט17: &quot;לֹא תִשְׂנָא אֶת אָחִיךָ בִּלְבָבֶךָ הוֹכֵחַ תּוֹכִיחַ אֶת עֲמִיתֶךָ וְלֹא תִשָּׂא עָלָיו חֵטְא&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 06:38:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>לאה ילדה את</p><p>--------------</p><p>ראובן = 9 ירחי לדה</p><p>שמעון = 9 ירחי לדה</p><p>לוי = 9 ירחי לדה</p><p>יהודה = 9 ירחי לדה</p><p>קָרְאָה שְׁמוֹ יְהוּדָה וַתַּעֲמֹד מִלֶּדֶת [לאמור הפסקה של שנה אחת לאחר 36 ירחי לדה שהם 3 שנים הראשונות לעבודה בצאן]</p><p>יששכר = 9ירחי לדה</p><p>זבולון= 9 ירחי לדה</p><p>דינה = 9 ירחי לדה ואז נולד יוסף לרחל</p><p>---------------------------------------------</p><p>ככה הביאו נשות יעקב אבינו את בניו כי נולדו אחד אחרי השני כבעלי חיים  כִּי חָיוֹת הֵנָּה</p><p>שמות א19: &quot;וַתֹּאמַרְןָ הַמְיַלְּדֹת אֶל פַּרְעֹה כִּי לֹא כַנָּשִׁים הַמִּצְרִיֹּת הָעִבְרִיֹּת כִּי חָיוֹת הֵנָּה בְּטֶרֶם תָּבוֹא אֲלֵהֶן הַמְיַלֶּדֶת וְיָלָדוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 07:03:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-14 07:07:36' 
+			WHERE messageid=6127;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>לאה ילדה את</p><p>--------------</p><p>ראובן = 9 ירחי לדה</p><p>שמעון = 9 ירחי לדה</p><p>לוי = 9 ירחי לדה</p><p>יהודה = 9 ירחי לדה</p><p>קָרְאָה שְׁמוֹ יְהוּדָה וַתַּעֲמֹד מִלֶּדֶת [לאמור הפסקה של שנה אחת לאחר 36 ירחי לדה שהם 3 שנים הראשונות לעבודה בצאן]</p><p>יששכר = 9ירחי לדה</p><p>זבולון= 9 ירחי לדה</p><p>דינה = 9 ירחי לדה ואז נולד יוסף לרחל</p><p>---------------------------------------------</p><p>ככה במשך [בדיוק 6 שנים]  שש שנות עבודה בצאן הביאו נשות יעקב אבינו את בניו כי נולדו אחד אחרי השני כבעלי חיים כִּי חָיוֹת הֵנָּה</p><p>שמות א19: &quot;וַתֹּאמַרְןָ הַמְיַלְּדֹת אֶל פַּרְעֹה כִּי לֹא כַנָּשִׁים הַמִּצְרִיֹּת הָעִבְרִיֹּת כִּי חָיוֹת הֵנָּה בְּטֶרֶם תָּבוֹא אֲלֵהֶן הַמְיַלֶּדֶת וְיָלָדוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-14 07:08:14'
+		)
+		;
+
