@@ -17134,3 +17134,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-15 08:30:14'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-15 09:21:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_9.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-15 09:22:01'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_9.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-15 13:13:59'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/yra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2016-03-15 14:04:26'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/yra.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_776.html',
+				NULL,
+				'2016-03-15 20:07:22',
+				'2016-03-15 20:07:22',
+				' פרשת ויקרא- מה תכלית הקורבנות?/ מאת:אהובה קליין',
+				'אהובה קלייו ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2016-03-15 20:07:22'
+			WHERE ktovt_bn='tnk1/forums.html';
+

@@ -13493,3 +13493,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim30.html',
+		'<p>תיקנתי את הטבלה לגבי יוסף. תודה על התיקון.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-03-15 08:30:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_9.html',
+		'<p>משלי יט2: &quot;גַּם בְּלֹא דַעַת נֶפֶשׁ לֹא טוֹב וְאָץ בְּרַגְלַיִם חוֹטֵא&quot; פרןש: גַּם בְּלֹא דַעַת נֶפֶשׁ לֹא טוֹב = כשכלי הכוס שלך ריק זה לא טוב</p><p>קהלת א18: &quot;כִּי בְּרֹב חָכְמָה רָב כָּעַס וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב&quot;  פרוש: וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב = וכשמוזגים לכוס זה תהליך כואב</p><p> אם בלא דעת נפש לא טוב וכשמוסיפים דעת זה כואב וגם זה לא טוב אז מה כן טוב</p><p>ובכן הטוב הוא שהכוס שלך לא תהיה ריקה ולא תצטרך להוסיף למלא את הכוס</p><p> ורק כשהכוס שלך מלאה עד שפתי הכוס לברכה ככוס הקידוש בשבת קודש אז טוב מאד</p><p>חבקוק ב14: &quot;כִּי תִּמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יהוה כַּמַּיִם יְכַסּוּ עַל יָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-15 09:21:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_9.html',
+		'<p>משלי יט2: &quot;גַּם בְּלֹא דַעַת נֶפֶשׁ לֹא טוֹב וְאָץ בְּרַגְלַיִם חוֹטֵא&quot; פרוש: גַּם בְּלֹא דַעַת נֶפֶשׁ לֹא טוֹב = כשכלי הכוס שלך ריק זה לא טוב</p><p>קהלת א18: &quot;כִּי בְּרֹב חָכְמָה רָב כָּעַס וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב&quot; פרוש: וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב = וכשמוזגים לכוס זה תהליך כואב</p><p>אם בלא דעת נפש לא טוב וכשמוסיפים דעת זה כואב וגם זה לא טוב אז מה כן טוב</p><p>ובכן הטוב הוא שהכוס שלך לא תהיה ריקה ולא תצטרך להוסיף למלא את הכוס</p><p>ורק כשהכוס שלך מלאה עד שפתי הכוס לברכה ככוס הקידוש בשבת קודש אז טוב מאד</p><p>חבקוק ב14: &quot;כִּי תִּמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יהוה כַּמַּיִם יְכַסּוּ עַל יָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-15 09:22:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-15 09:22:03' 
+			WHERE messageid=6147;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yra.html',
+		'<p>יראה, זו תחושה ממושכת, ו פחד- פתאומית.</p><p> יראה, זה כשאתה לא בטוח מה יקרה, ופחד- כשזה כבר ידוע. </p><p>יראה זה &quot;פעולה&quot;, ו פחד זה &quot;ישות&quot;, רוח רעה</p>',
+		'111504799102057405473',
+		'Tanya Severin',
+		'2016-03-15 13:13:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yra.html',
+		'<p>שמות לג20: &quot;וַיֹּאמֶר לֹא תוּכַל לִרְאֹת אֶת פָּנָי כִּי לֹא יִרְאַנִי הָאָדָם וָחָי&quot;</p><p>לֹא יִרְאַנִי הָאָדָם וָחָי = יש לזה שתי משמעויות</p><p>1. לא ירא ממני האדם ולא ינוס מפני ואז יחייה כצדיק = כי על פי ספר משלי כח1: &quot;נָסוּ וְאֵין רֹדֵף רָשָׁע וְצַדִּיקִים כִּכְפִיר יִבְטָח&quot; </p><p>2. האדם וכל חי לא יוכל לראות אותי</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-15 14:04:26'
+		)
+		;
+
