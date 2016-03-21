@@ -3195,3 +3195,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/mjly/mj-28-04.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/thlim/th-24.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-20 17:07:02'
+		WHERE parent='tnk1/ktuv/thlim/th-24.html'
+		;
+

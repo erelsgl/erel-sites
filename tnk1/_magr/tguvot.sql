@@ -13639,3 +13639,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-24.html',
+		'<p>שאו שערים רשיכם והנשאו לפתחי עולם. זה פתחו שערי רשיכם. ואל תהיו עם קשי עורף. ותראו את נפלאותיי. וזה רק אחרי שתקיימו את דרכי תורתי. ואת האחדות אחים. שאני מבקש. </p>',
+		'108870386336866134338',
+		'Meir Avigdor',
+		'2016-03-20 17:07:02'
+		)
+		;
+
