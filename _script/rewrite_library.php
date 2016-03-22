@@ -499,7 +499,7 @@ function rewrite_page() {
 		### b. from all its ancestors
 		$quote = "'\"";
 		foreach ($currentContentLines as $line) {
-			if (preg_match("|<a href=[^<>]*index.html[$quote]?>[^<>]*</a>&gt;.*<a href=[$quote]?([^<>$quote]*)[$quote]?>[^<>]*</a>&gt;</div>|", $line, $matches)) {
+			if (preg_match("|<a href=[$quote]?([^<>$quote]+)[$quote]?>[^<>]+</a>&gt;</div>|", $line, $matches)) {
 				update_ancestor ("$fileroot/$dir/$matches[1]");
 			}
 		}

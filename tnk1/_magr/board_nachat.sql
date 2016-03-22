@@ -28,3 +28,27 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_nachat
 			WHERE ktovt_bn='tnk1/ktuv/mjly/axrim.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_nachat
+			WHERE ktovt_bn='tnk1/messages/new_0.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_nachat
+			WHERE ktovt_bn='tnk1/messages/new_0.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_nachat
+			WHERE ktovt_bn='tnk1/messages/new_0.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_nachat
+			WHERE ktovt_bn='tnk1/messages/new_0.html';
+

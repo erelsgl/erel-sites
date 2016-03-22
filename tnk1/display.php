@@ -306,9 +306,11 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 	require_once('../_script/language.php');
 	sql_set_charset('utf8');
 	$DEFAULT_LANGUAGE_CODE = 'he';
-	
+
+/*
 	if (!empty($_GET['tnk1_index'])) {
-		$forum_title = "תוספות אחרונות" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / הוספת מאמר</a>";
+		$forum_title = "תוספות אחרונות" .
+			" <a href='/tnk1/new.html' style='font-size:50%; display:inline; color:#006666' target='_top'> / הוספת מאמר</a>";
 		$site = 'tnk1';
 		$file = 'board';
 		$linkroot = '';
@@ -329,7 +331,7 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 ";
 		print $forum_content ;
 	}
-	
+*/
 
 	if (!(isset($_GET['site']) && isset($_GET['file']))) {
 		echo "<pre>SYNTAX: 
@@ -397,7 +399,8 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 
 
 	// Print title and opening tag:
-	$title = static_text($file) ." <a href='../tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / הוספת מאמר</a>";
+/*
+	$title = static_text($file) ." <a href='/tnk1/new.html' style='font-size:50%; display:inline; color:#006666' target='_top'> / הוספת מאמר</a>";
 	if ($format==='taconite') {
 		require_once('../_script/taconite.php');
 		print jquery_taconite_header($HTML_ENCODING);
@@ -442,7 +445,7 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 		"; 
 		print xhtml_footer();
 	}
-
+*/
 }
 
 function is_image($address) {
