@@ -644,7 +644,7 @@ function onSubmitAdd(theForm) {
 
 
 function tguva () {
-
+  return;
 	if (!theBnim) theBnim = document.getElementById('ulbnim');
 	theTokn = document.getElementById('tokn');
 	theTguvot = document.getElementById('ultguvot');

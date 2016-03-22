@@ -20,7 +20,7 @@ $HTML_LANGUAGE = 'he';
 
 sql_set_charset('utf8');
 
-$forum_title = "תוספות אחרונות" ." <a href='/tnk1/messages/odot_6.html' style='font-size:50%; display:inline; color:#009933' target='_top'> / הוספת מאמר</a>";
+$forum_title = "תוספות אחרונות" ." <a href='/tnk1/new.html' style='font-size:50%; display:inline; color:#009999' target='_top'> / הוספת מאמר</a>";
 $site = 'tnk1';
 $file = 'board';
 $linkroot = '';
