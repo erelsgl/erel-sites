@@ -3598,3 +3598,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/sig_9sfr_91.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-25 07:22:27'
+		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
+		;
+

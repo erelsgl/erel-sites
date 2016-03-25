@@ -13968,3 +13968,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',
+		'<p>רעיון הצום הינו רלוונטי גם לימינו ,ואילו לא הנהיגוהו לדורות עדיין היה מן הראוי לתקנו,וכי היום לא קוראים על השמדת עמינו ומאותה מדינה,</p><p>א&quot;כ הטעם הוא שבכל דור ודור הרגישו את אותה הרגשה שהרגישו היהודים בשלושת ימי הצום,ואין צורך לתקנו בדיוק באותו תאריך שהם צמו,אלא באותו זמן שבו אנו חשים וחווים את הסיפור.</p>',
+		'105333242510894469749',
+		'אברהם דוד לוין',
+		'2016-03-25 07:22:27'
+		)
+		;
+
