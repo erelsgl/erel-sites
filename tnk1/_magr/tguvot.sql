@@ -13980,3 +13980,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',
+		'<p>מי שנכנס אדר מרבים בשמחה</p><p>חודש אדר הוא של שמחה ולא מתענים בו בצום</p><p>חודשיים לפני פסח וכן גם חודשיים אחרי פסח</p><p>לאמור בכל ארבעת החודשים האלה ימי שמחה וקציר ברינה ולא מתענים בצום</p><p>גם אסתר וכל היהודים ידעו כי אלה לא ימים להתענות בצום</p><p>וכי אסתר צמה רק לאחר חג שבועות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-25 14:12:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',
+		'<p>מי שנכנס אדר מרבים בשמחה</p><p>חודש אדר הוא של שמחה ולא מתענים בו בצום</p><p>חודשיים לפני פסח וכן גם חודשיים אחרי פסח</p><p>לאמור בכל ארבעת החודשים האלה ימי שמחה וקציר ברינה ולא מתענים בצום</p><p>גם אסתר וכל היהודים ידעו כי אלה לא ימים להתענות בצום</p><p>וכי אסתר צמה רק לאחר חג שבועות</p><p>-----------------------------------------</p><p>ודבר נוסף כי על פי מגילת אסתר כתוב כי חודש אדר הוא חודש שנים-עשר</p><p>לכן רבני חזל שגו עוד פעם כשקבעו את פורים באדר ב\' בחודש השלושה עשר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-25 14:21:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-25 14:21:55' 
+			WHERE messageid=6179;
+

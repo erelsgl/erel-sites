@@ -3613,3 +3613,41 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-25 14:12:10'
+		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/tklt_avrhm_tanit.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-25 14:21:52'
+		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-03-25 14:21:55'
+			WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
+			;
+
