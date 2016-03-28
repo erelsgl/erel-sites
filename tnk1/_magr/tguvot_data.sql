@@ -3651,3 +3651,56 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_tanit.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/truma.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-27 13:29:24'
+		WHERE parent='tnk1/kma/qjrim1/truma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/truma.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-27 13:30:15'
+		WHERE parent='tnk1/kma/qjrim1/truma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/joftim/jmjon_moto.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-27 15:28:49'
+		WHERE parent='tnk1/nvir/joftim/jmjon_moto.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-03-27 15:28:59'
+			WHERE parent='tnk1/nvir/joftim/jmjon_moto.html'
+			;
+

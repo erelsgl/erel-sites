@@ -14011,3 +14011,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-03-25 14:21:55' 
 			WHERE messageid=6179;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/truma.html',
+		'<p>עיין גם במאמרו של מנחם בן ישר \'תרומה מה היא ? \' באתר דף פרשת השבוע של אוניברסיטת בר אילן.</p><p>פרשת תמורה תשעו . </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-03-27 13:29:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/truma.html',
+		'<p>עיין גם במאמרו של מנחם בן ישר \'תרומה מה היא ? \' באתר דף פרשת השבוע של אוניברסיטת בר אילן.</p><p>פרשת תמורה תשעו . </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2016-03-27 13:30:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jmjon_moto.html',
+		'<p></p>',
+		'105284852090522720893',
+		'Nadav Unterman',
+		'2016-03-27 15:28:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-27 15:28:59' 
+			WHERE messageid=6183;
+
