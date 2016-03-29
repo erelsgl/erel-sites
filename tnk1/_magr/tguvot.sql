@@ -14054,3 +14054,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-03-27 15:28:59' 
 			WHERE messageid=6183;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_1.html',
+		'<p>שַׁרְשֶׁרֶת הדורות מעידה כי פעם אתה בא בדור שר ואחריך דור רש ואחריו דור שר וכולם קשורים בשַׁרְשֶׁרֶת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-28 13:05:38'
+		)
+		;
+

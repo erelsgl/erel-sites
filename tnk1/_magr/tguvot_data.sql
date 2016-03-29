@@ -3704,3 +3704,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/nvir/joftim/jmjon_moto.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/new_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-03-28 13:05:38'
+		WHERE parent='tnk1/messages/new_1.html'
+		;
+
