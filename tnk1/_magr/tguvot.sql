@@ -14090,3 +14090,110 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>רינה בלשון חז&quot;ל זוהי שמחה המגיע אחרי צער עם נעקוב אחרי המקומות שמוזכר בתורה המילה רינה תמיד או שבתוכן הפסוק מוזכר הצער במפורש או בחז&quot;ל לדוגמא: &quot;הזורעים בדמעה ברינה יקצורו&quot; &quot;הלך ילך ובכה נשא משך הזרע בו יבוא ברינה נשא אלומותיו&quot; וגן בלכה דודי לשון זה מושאל על הרצון להדיע לה\' דרך השבת שזה מגיע אחרי ריחוק  צא ובדוק  </p>',
+		'111722695208961006514',
+		'אביחי בוזגלו',
+		'2016-03-30 08:31:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:22' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:25' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:26' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:27' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p> </p><p> 2016-03-30 18:31:42 </p><p>אביחי בוזגלו  </p><p>רינה בלשון חז&quot;ל זוהי שמחה המגיע אחרי צער, אם נעקוב אחרי המקומות שמוזכר בתורה המילה &quot;רינה&quot;,נגלה תמיד, או שבתוכן הפסוק מוזכר הצער במפורש,או בחז&quot;ל,לדוגמא: &quot;הזורעים בדמעה ברינה יקצורו&quot; &quot;הלך ילך ובכה נשא משך הזרע בו יבוא ברינה נשא אלומותיו&quot; וגם בלכה דודי לשון זה מושאל על הרצון להדיע לה\' דרך השבת שזה מגיע אחרי ריחוק &quot;צא ובדוק&quot; </p><p> </p>',
+		'111722695208961006514',
+		'אביחי בוזגלו',
+		'2016-03-30 08:34:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>https://www.facebook.com/photo.php?fbid=1666351453627822&amp;set=a.1375548426041461.1073741827.100007589492931&amp;type=3&amp;theater</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-30 13:00:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>https://www.facebook.com/photo.php?fbid=1666351453627822&amp;set=a.1375548426041461.1073741827.100007589492931&amp;type=3&amp;theater</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-30 14:52:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 14:52:51' 
+			WHERE messageid=6190;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>מעולה  !</p><p>תודה רבה, אשתמש גם בזה בליל הסדר הקרוב !</p><p>אודי</p>',
+		'114714346614227259131',
+		'Udi Wallach',
+		'2016-03-30 18:12:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר: בַּעֲבוּר זֶה עָשָׂה יהוה לִי בְּצֵאתִי מִמִּצְרָיִם&quot;. </p><p>בַּעֲבוּר זֶה = זה שכר עבודת אלהים בחג הפסח אשר מקריבים בו קורבן כבש תמים ואוכלים מצות בכל שבעת ימי החג</p><p>בַּעֲבוּר זֶה = זה לדעת לזכור את יום צאת בני ישראל עבדי אלהים כבני חורין מארץ מצרים מהגלות והעבדות </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-31 05:30:43'
+		)
+		;
+
