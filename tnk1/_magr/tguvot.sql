@@ -14197,3 +14197,60 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/yhojua.html',
+		'<p>אתר גרועה</p>',
+		'101948521858836469157',
+		'Efi Hirsch',
+		'2016-03-31 10:38:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/yhojua.html',
+		'<p></p>',
+		'101948521858836469157',
+		'Efi Hirsch',
+		'2016-03-31 10:38:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 10:38:13' 
+			WHERE messageid=6194;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 10:38:15' 
+			WHERE messageid=6193;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר: בַּעֲבוּר זֶה עָשָׂה יהוה לִי בְּצֵאתִי מִמִּצְרָיִם&quot;. </p><p>בַּעֲבוּר זֶה = זה שכר עבודת אלהים בחג הפסח אשר מקריבים בו קורבן כבש תמים ואוכלים מצות בכל שבעת ימי החג</p><p>בַּעֲבוּר זֶה = זה לדעת לזכור את יום צאת בני ישראל עבדי אלהים כבני חורין מארץ מצרים מהגלות והעבדות </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-31 17:43:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 17:43:18' 
+			WHERE messageid=6195;
+
