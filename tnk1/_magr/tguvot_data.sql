@@ -3948,3 +3948,26 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/jmot/jm-13-08.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/wyqra/yom8_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-04-01 09:49:09'
+		WHERE parent='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-04-01 09:49:11'
+			WHERE parent='tnk1/tora/wyqra/yom8_1.html'
+			;
+
