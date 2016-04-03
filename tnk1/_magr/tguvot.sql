@@ -14054,3 +14054,241 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-03-27 15:28:59' 
 			WHERE messageid=6183;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_1.html',
+		'<p>שַׁרְשֶׁרֶת הדורות מעידה כי פעם אתה בא בדור שר ואחריך דור רש ואחריו דור שר וכולם קשורים בשַׁרְשֶׁרֶת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-28 13:05:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_1.html',
+		'<p>והקשר הזה הוא בעל חוזק. שרשרת הדורות מאפשרת את קיום העם והעברת ערכיו. ב-דור יש גם דר, לדור, לגור וגם העברה, כמו במילה דואר.</p><p>ניתן להניח שהמילים קיסר ו-צאר נגזרות מאותו מקור שממנו באה המילה שר.</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2016-03-29 10:02:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_1.html',
+		'<p>מוזמנים לעיין בבלוג שלי שרשומתו הראשונה נקראת &quot;לכל מילה יש כפיל ניגודי&quot;:</p><p>לשון המקרא - אור חדש על שפה עתיקה</p><p>https://liebermanorna.wordpress.com/2013/01/18/%D7%A8%D7%A9%D7%95%D7%9E%D7%94-%D7%9E%D7%A1-1-%D7%9C%D7%9B%D7%9C-%D7%9E%D7%99%D7%9C%D7%94-%D7%99%D7%A9-%D7%9B%D7%A4%D7%99%D7%9C-%D7%A0%D7%99%D7%92%D7%95%D7%93%D7%99/</p><p></p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2016-03-29 10:04:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>רינה בלשון חז&quot;ל זוהי שמחה המגיע אחרי צער עם נעקוב אחרי המקומות שמוזכר בתורה המילה רינה תמיד או שבתוכן הפסוק מוזכר הצער במפורש או בחז&quot;ל לדוגמא: &quot;הזורעים בדמעה ברינה יקצורו&quot; &quot;הלך ילך ובכה נשא משך הזרע בו יבוא ברינה נשא אלומותיו&quot; וגן בלכה דודי לשון זה מושאל על הרצון להדיע לה\' דרך השבת שזה מגיע אחרי ריחוק  צא ובדוק  </p>',
+		'111722695208961006514',
+		'אביחי בוזגלו',
+		'2016-03-30 08:31:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:22' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:25' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:26' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 08:32:27' 
+			WHERE messageid=6187;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p> </p><p> 2016-03-30 18:31:42 </p><p>אביחי בוזגלו  </p><p>רינה בלשון חז&quot;ל זוהי שמחה המגיע אחרי צער, אם נעקוב אחרי המקומות שמוזכר בתורה המילה &quot;רינה&quot;,נגלה תמיד, או שבתוכן הפסוק מוזכר הצער במפורש,או בחז&quot;ל,לדוגמא: &quot;הזורעים בדמעה ברינה יקצורו&quot; &quot;הלך ילך ובכה נשא משך הזרע בו יבוא ברינה נשא אלומותיו&quot; וגם בלכה דודי לשון זה מושאל על הרצון להדיע לה\' דרך השבת שזה מגיע אחרי ריחוק &quot;צא ובדוק&quot; </p><p> </p>',
+		'111722695208961006514',
+		'אביחי בוזגלו',
+		'2016-03-30 08:34:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>https://www.facebook.com/photo.php?fbid=1666351453627822&amp;set=a.1375548426041461.1073741827.100007589492931&amp;type=3&amp;theater</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-30 13:00:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/rina_smxa.html',
+		'<p>https://www.facebook.com/photo.php?fbid=1666351453627822&amp;set=a.1375548426041461.1073741827.100007589492931&amp;type=3&amp;theater</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-30 14:52:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-30 14:52:51' 
+			WHERE messageid=6190;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>מעולה  !</p><p>תודה רבה, אשתמש גם בזה בליל הסדר הקרוב !</p><p>אודי</p>',
+		'114714346614227259131',
+		'Udi Wallach',
+		'2016-03-30 18:12:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר: בַּעֲבוּר זֶה עָשָׂה יהוה לִי בְּצֵאתִי מִמִּצְרָיִם&quot;. </p><p>בַּעֲבוּר זֶה = זה שכר עבודת אלהים בחג הפסח אשר מקריבים בו קורבן כבש תמים ואוכלים מצות בכל שבעת ימי החג</p><p>בַּעֲבוּר זֶה = זה לדעת לזכור את יום צאת בני ישראל עבדי אלהים כבני חורין מארץ מצרים מהגלות והעבדות </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-31 05:30:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/yhojua.html',
+		'<p>אתר גרועה</p>',
+		'101948521858836469157',
+		'Efi Hirsch',
+		'2016-03-31 10:38:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/yhojua.html',
+		'<p></p>',
+		'101948521858836469157',
+		'Efi Hirsch',
+		'2016-03-31 10:38:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 10:38:13' 
+			WHERE messageid=6194;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 10:38:15' 
+			WHERE messageid=6193;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-13-08.html',
+		'<p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר: בַּעֲבוּר זֶה עָשָׂה יהוה לִי בְּצֵאתִי מִמִּצְרָיִם&quot;. </p><p>בַּעֲבוּר זֶה = זה שכר עבודת אלהים בחג הפסח אשר מקריבים בו קורבן כבש תמים ואוכלים מצות בכל שבעת ימי החג</p><p>בַּעֲבוּר זֶה = זה לדעת לזכור את יום צאת בני ישראל עבדי אלהים כבני חורין מארץ מצרים מהגלות והעבדות </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-03-31 17:43:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-03-31 17:43:18' 
+			WHERE messageid=6195;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>http://tora.us.fm/tnk/find.php?q=%D7%91%D7%99%D7%95%D7%9D+%D7%94%D7%97&amp;add_niqud=on</p><p>ראש החודש הראשון האחד בחודש ניסן היה ביום חמשי לשבוע</p><p>שמות לט32: &quot;וַתֵּכֶל כָּל עֲבֹדַת מִשְׁכַּן אֹהֶל מוֹעֵד וַיַּעֲשׂוּ בְּנֵי יִשְׂרָאֵל כְּכֹל אֲשֶׁר צִוָּה יהוה אֶת מֹשֶׁה כֵּן עָשׂוּ&quot;</p><p>שמות מ35: &quot;וְלֹא יָכֹל מֹשֶׁה לָבוֹא אֶל אֹהֶל מוֹעֵד כִּי שָׁכַן עָלָיו הֶעָנָן וּכְבוֹד יהוה מָלֵא אֶת הַמִּשְׁכָּן&quot;</p><p>יום הששי ...........</p><p>בראשית ב1: &quot;וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם&quot;</p><p>בראשית ב2: &quot;וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה&quot;</p><p>ויום השמיני למילואים הוא יום שבת [השלישי לחודש ניסן] </p><p>וכן במקביל החלה חנוכת המזבח מיום שבת השלשי לחודש ניסן שנים-עשר יום עד פסח בארבעה עשר לחודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-01 09:49:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-01 09:49:11' 
+			WHERE messageid=6102;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b24_3.html',
+		'<p>הושע ב11: &quot;לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ וְהִצַּלְתִּי צַמְרִי וּפִשְׁתִּי לְכַסּוֹת אֶת עֶרְוָתָהּ&quot;</p><p>דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ ....</p><p>כי עת הדגן לא במועד קבוע כי חג בכורי קציר חטים לא במועד קבוע אלא מהחל חרמש בקמה סופרים שבעה שבועות</p><p>אך התירוש במועדו כי מועד התירוש הוא תמיד שבעה שבועות לאחר עת הדגן עת חג השבועות בכורי קציר חטים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-02 17:11:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-02 17:11:40' 
+			WHERE messageid=5594;
+
