@@ -14273,3 +14273,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-04-01 09:49:11' 
 			WHERE messageid=6102;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b24_3.html',
+		'<p>הושע ב11: &quot;לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ וְהִצַּלְתִּי צַמְרִי וּפִשְׁתִּי לְכַסּוֹת אֶת עֶרְוָתָהּ&quot;</p><p>דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ ....</p><p>כי עת הדגן לא במועד קבוע כי חג בכורי קציר חטים לא במועד קבוע אלא מהחל חרמש בקמה סופרים שבעה שבועות</p><p>אך התירוש במועדו כי מועד התירוש הוא תמיד שבעה שבועות לאחר עת הדגן עת חג השבועות בכורי קציר חטים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-02 17:11:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-02 17:11:40' 
+			WHERE messageid=5594;
+
