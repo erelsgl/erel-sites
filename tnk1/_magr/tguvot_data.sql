@@ -3994,3 +3994,41 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t08b24_3.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t26a4_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-04-03 11:59:23'
+		WHERE parent='tnk1/messages/prqim_t26a4_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t26a4_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-04-03 13:42:39'
+		WHERE parent='tnk1/messages/prqim_t26a4_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-04-03 13:42:45'
+			WHERE parent='tnk1/messages/prqim_t26a4_2.html'
+			;
+
