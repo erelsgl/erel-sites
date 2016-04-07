@@ -14349,3 +14349,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-04-04 17:28:00' 
 			WHERE messageid=6200;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>דברים טז1: &quot;שָׁמוֹר אֶת חֹדֶשׁ הָאָבִיב וְעָשִׂיתָ פֶּסַח ליהוה אֱלֹהֶיךָ כִּי בְּחֹדֶשׁ הָאָבִיב הוֹצִיאֲךָ יהוה אֱלֹהֶיךָ מִמִּצְרַיִם לָיְלָה&quot;</p><p>מִמִּצְרַיִם לָיְלָה = מהחושך של הגלות במצרים --- לאמור כי היתה זו יציאה מגלות רוחנית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-06 15:51:08'
+		)
+		;
+
