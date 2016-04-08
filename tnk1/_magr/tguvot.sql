@@ -14361,3 +14361,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_2.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t26a5_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-07 11:34:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_2.html',
+		'<p>זכרתי שכך אתה חושב גם, משה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-07 12:05:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/estr_ori_1.html',
+		'<p>אז כיצד אחשוורוש הדיח את ושתי? הוא הודיע לה פשוט? איך זה קרה?</p>',
+		'104373624115889774247',
+		'Hayla x',
+		'2016-04-08 04:20:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-08 04:20:19' 
+			WHERE messageid=6204;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/estr_ori_1.html',
+		'<p>אז כיצד אחשוורוש הדיח את ושתי? הוא הודיע לה פשוט? איך זה קרה?</p>',
+		'104373624115889774247',
+		'Hayla x',
+		'2016-04-08 04:20:24'
+		)
+		;
+
