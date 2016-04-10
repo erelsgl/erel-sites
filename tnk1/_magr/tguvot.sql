@@ -14416,3 +14416,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>חודש האביב כעת הביטו בקישור זה </p><p>לוח שנת התשע&quot;ו בתחתית הלוח</p><p>בסוף ספטמבר תחילת אוקטובר [2016]</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>   וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-10 04:23:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-10 04:23:18' 
+			WHERE messageid=6206;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p></p><p>http://oneplusone.co.il/year.html</p><p>חודש האביב כעת הביטו בקישור זה </p><p>לוח שנת התשע&quot;ו בתחתית הלוח בסוף הלוח</p><p>בסוף ספטמבר תחילת אוקטובר [2016]</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>   וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-10 04:24:38'
+		)
+		;
+
