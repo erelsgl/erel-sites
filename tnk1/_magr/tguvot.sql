@@ -14502,3 +14502,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-11 11:26:32' 
+			WHERE messageid=6207;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p>אוף, כל הפרשנים מדברים על אותו הדבר אני צריכה שתי פרשנויות מיוחדות לבצדק תשפוט עמיתך</p>',
+		'111774246287384505954',
+		'זלטא ברון',
+		'2016-04-11 14:29:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p> זלטא ברון</p><p>שלום לך</p><p>הנה אני דיין אפרש לך את הפסוק הזה  </p><p>ויקרא יט15: &quot;לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט לֹא תִשָּׂא פְּנֵי דָל וְלֹא תֶהְדַּר פְנֵי גָדוֹל בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ&quot; </p><p>1. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = כדי שהמשפט יהיה צודק לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט  </p><p>2. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = בצדק אתה תשפט עמיתך לאמור שלא תהיה אתה רשע בעת שאתה שופט</p><p>כשכתוב בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ הדגש הוא עליך להיות שופט צדיק על פי דרך אלהים ככתוב:</p><p>תהלים ז12: &quot;אֱלֹהִים שׁוֹפֵט צַדִּיק וְאֵל זֹעֵם בְּכָל יוֹם&quot;</p><p>כי אתה תלך בדרך אלהים לעשות משפט וצדקה אז תהיה שופט צדיק</p><p>ואם אתה שופט צדיק אז בטוח שתעשה משפט צדק בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-11 16:08:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p>זלטא ברון</p><p>שלום לך</p><p>הנה אני דיין אפרש לך את הפסוק הזה</p><p>ויקרא יט15: &quot;לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט לֹא תִשָּׂא פְּנֵי דָל וְלֹא תֶהְדַּר פְנֵי גָדוֹל בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ&quot;</p><p>1. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = כדי שהמשפט יהיה צודק לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט</p><p>2. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = בצדק אתה תשפט עמיתך לאמור שלא תהיה אתה רשע בעת שאתה שופט</p><p>כשכתוב בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ הדגש הוא עליך להיות שופט צדיק על פי דרך אלהים ככתוב:</p><p>תהלים ז12: &quot;אֱלֹהִים שׁוֹפֵט צַדִּיק וְאֵל זֹעֵם בְּכָל יוֹם&quot;</p><p>כי אם אתה תלך בדרך אלהים לעשות משפט וצדקה אז תהיה שופט צדיק</p><p>ואם אתה שופט צדיק אז בטוח שתעשה משפט צדק בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-11 16:09:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-11 16:09:41' 
+			WHERE messageid=6213;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>מורה לתורה כתב את זה???</p><p>קיבלת את ההסמכה לרבנות אצל הגיאהד האיסלמי או אצל דאעש? </p><p>תעיין ברמבם הלכות עבודה זרה פרק י</p><p>עוכר ישראל!</p>',
+		'104594664013684333050',
+		'pr antibit le',
+		'2016-04-11 18:54:47'
+		)
+		;
+
