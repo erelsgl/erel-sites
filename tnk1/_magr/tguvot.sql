@@ -14564,3 +14564,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-14-09.html',
+		'<p>הסבר יפה, תודה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-04-12 10:18:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1009_1.html',
+		'<p>והנה מצאתי מדרש מפתיע:</p><p>(מגילה יח, ע&quot;א):</p><p>ואמר רבי אחא אמר רבי אלעזר: מנין שקראו הקדוש ברוך הוא ליעקב א-ל? שנאמר \'ויקרא לו א-ל א-להי ישראל\'. דאי סלקא דעתך למזבח קרא ליה יעקב א-ל - ויקרא לו יעקב מיבעי ליה, אלא ויקרא לו ליעקב א-ל, ומי קראו א-ל – א-להי ישראל.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-12 10:56:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-06-11.html',
+		'<p>דף פרשנות יעיל ומתומצת, הנושא בחובו את כל אפשרויות הפרשנות לכאן ולכאן. כל הכבוד. </p>',
+		'108541864499997014971',
+		'Arnon Ophir',
+		'2016-04-13 07:10:46'
+		)
+		;
+
