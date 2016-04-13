@@ -18,7 +18,7 @@ print "
 ";
 
 $SCRIPT = dirname(__FILE__) . '/../../_script';
-	
+
 require_once("$SCRIPT/sql.php");
 require_once("$SCRIPT/sql_backup.php");
 require_once("$SCRIPT/coalesce.php");

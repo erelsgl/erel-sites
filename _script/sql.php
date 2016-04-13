@@ -683,6 +683,82 @@ function sql_shorter_table($result, $maxlength=1000, $rows_between_headers=10000
 
 
 /**
+ * returns a HTML table from a query resource with shorter text fields.
+ * 
+ * This variant allows you to specify the field names.
+ *
+ * @author      Erel Segal (http://tora.us.fm/erelsgl)
+ * @param       $result    The result resource of an sql_query; OR a string with a SELECT query.
+ * @param       $maxlength    The maximum number of chars per field. Longer values will be truncated and appended with "...".
+ * @param       $rows_between_headers  The function will insert a copy of the header row between this number of table rows (useful for long tables).
+ * @param       $null_value_replacement  A value to insert in the table where the value is NULL (useful for WITH ROLLUP queries).
+ * @return      string representing the table body = WITHOUT table tags! 
+ * @note        see http://aidanlister.com/repos/v/function.sql_draw_table.php for an alternative way to print a table.
+ */
+function sql_shorter_table_with_field_names($result, $fieldnames, $maxlength=1000, $rows_between_headers=10000, $null_value_replacement="") {
+	if (is_string($result))
+		$result = sql_query_or_die($result);
+
+	$fieldcount = sql_num_fields($result);
+  $fieldnamescount = count($fieldnames);
+  if ($fieldnamescount!=$fieldcount)
+    user_error("There are $fieldcount fields in the query, but $fieldnamescount fields in the fieldnames array!",E_USER_ERROR);
+
+	// print field names  
+	$tableheader = "<tr>\n";
+	$tablecols = "";
+	for ($f=0; $f<$fieldcount; ++$f) {
+		$fieldname = $fieldnames[$f];
+		$tableheader .= "  <th>".$fieldname."</th>\n";
+		$classnum = $f % 8;
+		$tablecols .= "  <col class='col$classnum' />\n";
+	}
+	$tableheader .= "</tr>\n";
+
+	// print fields
+	$linenum = 0;
+	$tablehtml = "$tablecols";
+	$tablehtml .= "<thead>$tableheader</thead>\n<tbody>\n";
+	while ($line = sql_fetch_array($result)) {
+		if ($linenum > 0 && $linenum % $rows_between_headers === 0)
+			$tablehtml .= "$tableheader\n";
+			
+		$tablehtml .= "<tr>\n";
+		for ($f=0; $f<$fieldcount; ++$f) {
+			$value = $line[$f];
+			if ($value && strpos(sql_field_name($result, $f), "serialized")!==false) {
+				$length = strlen($value);
+				$length_str = "$length bytes: ";
+				if ($length<$maxlength || $GLOBALS['DEBUG_SERIALIZED_DATA']) {
+					require_once('pack.php');
+					$value = unpack_string($value);
+					$length_str .= "=>" . strlen($value) . " bytes: ";
+				} else {
+					$value='';
+				}
+				$value = $length_str.$value;
+			} else {
+				if (strlen($value)>$maxlength)
+					$value = substr($value,0,$maxlength) . " ... ";
+				if ($value==NULL)
+					$value = $null_value_replacement? $null_value_replacement: $GLOBALS['NULL_VALUE_REPLACEMENT'];
+			}
+			$tablehtml .= "  <td>" . $value . "</td>\n";  // don't use htmlspecialchars, to allow HTML formatting!
+		}
+		$tablehtml .= "</tr>\n";
+		++$linenum;
+	}
+	$tablehtml .= "</tbody>\n";
+	//$tablehtml .= $tableheader;
+	sql_free_result($result);
+
+	return $tablehtml;
+}
+
+
+
+
+/**
  * returns a Tab-seperated-values table from a query resource
  *
  * @author      Erel Segal (http://tora.us.fm/erelsgl)

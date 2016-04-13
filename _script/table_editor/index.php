@@ -47,13 +47,6 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
 
     <script type='text/javascript' src='<?=$base_url?>/../wymeditor/jquery/jquery.js' ></script>
     <script type='text/javascript' src='<?=$base_url?>/../wymeditor/wymeditor/jquery.wymeditor.js' ></script>
-    <!-- style type='text/css'> 
-    	/* Put all links to classes in a single line on top of the WYMEditor */
-    	.wym_skin_default .wym_section a {display:inline; }
-    	li.wym_classes_advanced {display: inline; color:green !important; }
-    	li.wym_classes_advanced a {display: inline; color:green !important; }
-    	div.wym_classes ul li {display: inline; color:green; }
-    </style -->
     <script type='text/javascript'>
       $(document).ready(function() {
          $('.wymeditor').wymeditor({
@@ -63,55 +56,29 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
             updateEvent: "click",    
             updateSelector: "[type=submit]",
             postInit: function(wym) {
-							//var height = wym._element.context.style.height;	
-							//var width = wym._element.context.style.width;	
             	$(wym._iframe).attr('dir','rtl').css('height', '300px').css('width', '600px').css('direction', 'rtl');
             },
             skin: 'default',
 
-      //we customize the XHTML structure of WYMeditor by overwriting 
-      //the value of boxHtml. In this example, "CONTAINERS" and 
-      //"CLASSES" have been moved from "wym_area_right" to "wym_area_top":
       boxHtml:   "<div class='wym_box'>"
               + "<div class='wym_area_top'>"
-              //+ WYMeditor.TOOLS
-              // + WYMeditor.CONTAINERS
-              //+ "<div class='wym_classes wym_section wym_panel'><ul>"+WYMeditor.CLASSES_ITEMS+"</ul></div>"
               + "<div class='wym_area_left'></div>"
               + "<div class='wym_area_right'>"
               + "</div>"
               + "<div class='wym_area_main'>"
               + WYMeditor.HTML
               + WYMeditor.IFRAME
-              //+ WYMeditor.STATUS
               + "</div>"
               + "<div class='wym_area_bottom'>"
               + "</div>"
               + "</div>",
 
             containersHtml: "",
-            //classesHtml: "",
             toolsHtml: "",
             statusHtml: "",
 
             toolsItems: [
-    {'name': 'Bold', 'title': 'Strong', 'css': 'wym_tools_strong'}, 
-    /*{'name': 'Italic', 'title': 'Emphasis', 'css': 'wym_tools_emphasis'},
-    //{'name': 'Superscript', 'title': 'Superscript', 'css': 'wym_tools_superscript'},
-    //{'name': 'Subscript', 'title': 'Subscript', 'css': 'wym_tools_subscript'},
-    {'name': 'InsertOrderedList', 'title': 'Ordered_List', 'css': 'wym_tools_ordered_list'},
-    {'name': 'InsertUnorderedList', 'title': 'Unordered_List', 'css': 'wym_tools_unordered_list'},
-    {'name': 'Indent', 'title': 'Indent', 'css': 'wym_tools_indent'},
-    {'name': 'Outdent', 'title': 'Outdent', 'css': 'wym_tools_outdent'},
-    {'name': 'Undo', 'title': 'Undo', 'css': 'wym_tools_undo'},
-    {'name': 'Redo', 'title': 'Redo', 'css': 'wym_tools_redo'},
-    {'name': 'CreateLink', 'title': 'Link', 'css': 'wym_tools_link'},
-    {'name': 'Unlink', 'title': 'Unlink', 'css': 'wym_tools_unlink'},
-    {'name': 'InsertImage', 'title': 'Image', 'css': 'wym_tools_image'},
-    {'name': 'InsertTable', 'title': 'Table', 'css': 'wym_tools_table'},
-    {'name': 'Paste', 'title': 'Paste_From_Word', 'css': 'wym_tools_paste'},
-    {'name': 'ToggleHtml', 'title': 'HTML', 'css': 'wym_tools_html'},
-    {'name': 'Preview', 'title': 'Preview', 'css': 'wym_tools_preview'}*/
+                {'name': 'Bold', 'title': 'Strong', 'css': 'wym_tools_strong'}, 
               ],
           });
       });

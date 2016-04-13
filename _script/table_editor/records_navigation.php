@@ -66,7 +66,7 @@ function records_navigation($table, $db_link, $cfg_db_link, $cfg_table) {
                            $RowOffset.'-'.$RowTo.'</a>] </span>';        
         }
         
-        echo $nav_string;
+        echo "<div class='navigation'>$nav_string</div>";
     }
 }
 ?>

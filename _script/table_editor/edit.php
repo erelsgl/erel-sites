@@ -120,9 +120,9 @@ HTMLEND;
         </table>
         <input type="hidden" name = "action" id="action" value="update" />
         <input id="submit_update" type="submit" value="Update Table" accesskey="s" />
-        <p>
+        <p class='confirm_delete'>
             <input type="checkbox" id="confirm_delete" name="confirm_delete" />
-            confirm deletion of selected rows
+            <span>confirm deletion of selected rows</span>
         </p>
 
 HTMLEND;

@@ -183,8 +183,12 @@ HTMLEND;
 		<!-- Erel end (there are more changes above) -->
 
         <input type="hidden" id="insert_num_rows" name="insert_num_rows" value ="$rows_to_insert" />
-        <input id="submit_insert" type="submit" value="Update Table" /> And insert 
-        <input type="text" id="next_time_new_rows" name="next_time_new_rows" value = "1" size = "4" /> more rows.
+        <input id="submit_insert" type="submit" value="Update Table" /> 
+        <span id='and_insert'>
+            And insert 
+            <input type="text" id="next_time_new_rows" name="next_time_new_rows" value = "1" size = "4" /> 
+            more rows.
+        </span>
 HTMLEND;
 
      echo <<<HTMLEND

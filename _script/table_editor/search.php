@@ -15,7 +15,7 @@ function search_table ($table, $db_link, $cfg_db_link, $cfg_table) {
         $fields_list [$i++] = $field_name;
     }
     
-    echo '<form method="post" action="'.htmlspecialchars($_SERVER['REQUEST_URI']).'">'.chr(13);
+    echo '<form class="search" method="post" action="'.htmlspecialchars($_SERVER['REQUEST_URI']).'">'.chr(13);
 
     echo '  <fieldset>'.chr(13);
     if (isset ($get_params['Search'])) {
@@ -37,7 +37,7 @@ function search_table ($table, $db_link, $cfg_db_link, $cfg_table) {
 
 
     //Erel: Add order-by form
-    echo '<form method="post" action="">'.chr(13);
+    echo '<form class="order" method="post" action="">'.chr(13);
 
     echo '  <fieldset>'.chr(13);
     if (isset ($get_params['OrderBy'])) {
