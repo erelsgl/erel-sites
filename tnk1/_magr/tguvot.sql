@@ -14416,3 +14416,235 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>חודש האביב כעת הביטו בקישור זה </p><p>לוח שנת התשע&quot;ו בתחתית הלוח</p><p>בסוף ספטמבר תחילת אוקטובר [2016]</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>   וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-10 04:23:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-10 04:23:18' 
+			WHERE messageid=6206;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p></p><p>http://oneplusone.co.il/year.html</p><p>חודש האביב כעת הביטו בקישור זה </p><p>לוח שנת התשע&quot;ו בתחתית הלוח בסוף הלוח</p><p>בסוף ספטמבר תחילת אוקטובר [2016]</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>   וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-10 04:24:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-10 12:27:10' 
+			WHERE messageid=6207;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1041_1.html',
+		'<p>מאמר מאוד יפה ומעניין ישר כוח !</p>',
+		'108176914917044202141',
+		'אוריה בעל צדקה',
+		'2016-04-10 18:43:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1041_1.html',
+		'<p>מאמר מאוד יפה ומעניין ישר כוח !</p>',
+		'108176914917044202141',
+		'אוריה בעל צדקה',
+		'2016-04-10 19:04:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/hcd_h2.html',
+		'<p></p>',
+		'105213517800381142033',
+		'י. חדד',
+		'2016-04-10 21:08:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-14-09.html',
+		'<p>אשר חג\'בי , יהודי , לא צדיק , לא מצליח לקיים הכל אך מאמין בהכל . לדעתי אם הגעת למשפט שצדו עיני &quot; אילו רבי עקיבא היה יודע תנ&quot;ך&quot;, אז אני אומר : כל דבר בעיתו, ויתכן שבזמן ראייתו את האבן והשחיקה עדיין לא שנה ולא ידע את כל התורה ואת דברי איוב , אז יתכן שכך היה צריך להיות על מנת ללמוד רק את ו-מהחלק הראשון של הפסוק על מנת להיות ר\' עקיבא , ואם גדול התנאים שאחד מקטני תלמידיו התנאים הוא ר\' שמעון בר יוחאי והיה דורש כל את ואת שבתורה , ולא תיקן את עצמו יותר מאוחר בפירוש פסוק זה כאשר בטוח היה שלמד אותו, הרי שכך צריך ללמוד מהפסוק של איוב ולא כמו איוב שהרי אנחנו יודעים שאחרי בערך 40 פרקים שאיוב רק מטיח דברים, בפרק ל&quot;ח באיוב הקב&quot;ה גם לא הסכים עם איוב ועם הרבה מדבריו כמו שכתוב שם :  &quot; וַיַּעַן יְהוָה אֶת אִיּוֹב מן הסערה [מִן הַסְּעָרָה] וַיֹּאמַר. ב מִי זֶה מַחְשִׁיךְ עֵצָה בְמִלִּין בְּלִי דָעַת. ג אֱזָר נָא כְגֶבֶר חֲלָצֶיךָ וְאֶשְׁאָלְךָ וְהוֹדִיעֵנִי. ד אֵיפֹה הָיִיתָ בְּיָסְדִי אָרֶץ הַגֵּד אִם יָדַעְתָּ בִינָה. ה מִי שָׂם מְמַדֶּיהָ כִּי תֵדָע אוֹ מִי נָטָה עָלֶיהָ קָּו. ו עַל מָה אֲדָנֶיהָ הָטְבָּעוּ אוֹ מִי יָרָה אֶבֶן פִּנָּתָהּ. ז בְּרָן יַחַד כּוֹכְבֵי בֹקֶר וַיָּרִיעוּ כָּל בְּנֵי אֱלֹהִים. ח וַיָּסֶךְ בִּדְלָתַיִם יָם בְּגִיחוֹ מֵרֶחֶם יֵצֵא. ט בְּשׂוּמִי עָנָן לְבֻשׁוֹ וַעֲרָפֶל חֲתֻלָּתוֹ. י וָאֶשְׁבֹּר עָלָיו חֻקִּי וָאָשִׂים בְּרִיחַ וּדְלָתָיִם. יא וָאֹמַר עַד פֹּה תָבוֹא וְלֹא תֹסִיף וּפֹא יָשִׁית בִּגְאוֹן גַּלֶּיךָ. יב הְמִיָּמֶיךָ צִוִּיתָ בֹּקֶר ידעתה שחר [יִדַּעְתָּ הַשַּׁחַר] מְקֹמוֹ.  והכל בסימן שאלה ??? הקב&quot;ה שואל אותו : אֵיפֹה הָיִיתָ בְּיָסְדִי אָרֶץ הַגֵּד אִם יָדַעְתָּ בִינָה&quot; ורואים כאן שדרך חשיבתו של איוב לא מצאה חן ממש בעיני הקב&quot;ה אז ברור שר\' עקיבא בהמשך גם הוא לא קיבל את תוכו של איוב ואכל רק את קליפתו , גם אני לא פוסק שום הלכה , תודה אראל , מקווה שהבנתי אותך ומעניין מה תחשוב על דבריי .</p>',
+		'114981897320296940884',
+		'Asher Hadjbi',
+		'2016-04-10 23:50:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-11 11:26:32' 
+			WHERE messageid=6207;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p>אוף, כל הפרשנים מדברים על אותו הדבר אני צריכה שתי פרשנויות מיוחדות לבצדק תשפוט עמיתך</p>',
+		'111774246287384505954',
+		'זלטא ברון',
+		'2016-04-11 14:29:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p> זלטא ברון</p><p>שלום לך</p><p>הנה אני דיין אפרש לך את הפסוק הזה  </p><p>ויקרא יט15: &quot;לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט לֹא תִשָּׂא פְּנֵי דָל וְלֹא תֶהְדַּר פְנֵי גָדוֹל בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ&quot; </p><p>1. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = כדי שהמשפט יהיה צודק לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט  </p><p>2. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = בצדק אתה תשפט עמיתך לאמור שלא תהיה אתה רשע בעת שאתה שופט</p><p>כשכתוב בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ הדגש הוא עליך להיות שופט צדיק על פי דרך אלהים ככתוב:</p><p>תהלים ז12: &quot;אֱלֹהִים שׁוֹפֵט צַדִּיק וְאֵל זֹעֵם בְּכָל יוֹם&quot;</p><p>כי אתה תלך בדרך אלהים לעשות משפט וצדקה אז תהיה שופט צדיק</p><p>ואם אתה שופט צדיק אז בטוח שתעשה משפט צדק בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-11 16:08:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-15.html',
+		'<p>זלטא ברון</p><p>שלום לך</p><p>הנה אני דיין אפרש לך את הפסוק הזה</p><p>ויקרא יט15: &quot;לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט לֹא תִשָּׂא פְּנֵי דָל וְלֹא תֶהְדַּר פְנֵי גָדוֹל בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ&quot;</p><p>1. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = כדי שהמשפט יהיה צודק לֹא תַעֲשׂוּ עָוֶל בַּמִּשְׁפָּט</p><p>2. בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ = בצדק אתה תשפט עמיתך לאמור שלא תהיה אתה רשע בעת שאתה שופט</p><p>כשכתוב בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ הדגש הוא עליך להיות שופט צדיק על פי דרך אלהים ככתוב:</p><p>תהלים ז12: &quot;אֱלֹהִים שׁוֹפֵט צַדִּיק וְאֵל זֹעֵם בְּכָל יוֹם&quot;</p><p>כי אם אתה תלך בדרך אלהים לעשות משפט וצדקה אז תהיה שופט צדיק</p><p>ואם אתה שופט צדיק אז בטוח שתעשה משפט צדק בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-11 16:09:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-11 16:09:41' 
+			WHERE messageid=6213;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>מורה לתורה כתב את זה???</p><p>קיבלת את ההסמכה לרבנות אצל הגיאהד האיסלמי או אצל דאעש? </p><p>תעיין ברמבם הלכות עבודה זרה פרק י</p><p>עוכר ישראל!</p>',
+		'104594664013684333050',
+		'pr antibit le',
+		'2016-04-11 18:54:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/eyov/yv-14-09.html',
+		'<p>הסבר יפה, תודה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-04-12 10:18:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1009_1.html',
+		'<p>והנה מצאתי מדרש מפתיע:</p><p>(מגילה יח, ע&quot;א):</p><p>ואמר רבי אחא אמר רבי אלעזר: מנין שקראו הקדוש ברוך הוא ליעקב א-ל? שנאמר \'ויקרא לו א-ל א-להי ישראל\'. דאי סלקא דעתך למזבח קרא ליה יעקב א-ל - ויקרא לו יעקב מיבעי ליה, אלא ויקרא לו ליעקב א-ל, ומי קראו א-ל – א-להי ישראל.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-12 10:56:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-06-11.html',
+		'<p>דף פרשנות יעיל ומתומצת, הנושא בחובו את כל אפשרויות הפרשנות לכאן ולכאן. כל הכבוד. </p>',
+		'108541864499997014971',
+		'Arnon Ophir',
+		'2016-04-13 07:10:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוק להלוואה ל-3.5 חודשים בלבד. עבור דירה 0527696555 תודה רבה.</p>',
+		'101550137965135013283',
+		'אלחנן בוגנים',
+		'2016-04-13 09:07:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t35b08_1.html',
+		'<p>ויקרא כג40: &quot;וּלְקַחְתֶּם לָכֶם בַּיּוֹם הָרִאשׁוֹן פְּרִי עֵץ הָדָר כַּפֹּת תְּמָרִים וַעֲנַף עֵץ עָבֹת וְעַרְבֵי נָחַל וּשְׂמַחְתֶּם לִפְנֵי יהוה אֱלֹהֵיכֶם שִׁבְעַת יָמִים&quot;</p><p>פְּרִי עֵץ הָדָר = הוא פרי עץ מהודר</p><p>ולא מדובר על אתרוג או תפוז כי אלה עדיין ירוקים בישראל וזו לא עונתם </p><p>ואמנם נקראו בשוגג פרי-הדר אך האמת היא כי פרי-אדר הם מלשון חודש אדר בחורף שיא עונת התפוז המקורי ממשפחת ההדרים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-13 13:01:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/mjkn_mqdj.html',
+		'<p>המאמר טוב!</p><p>עדיין לא התברר לי למה אנחנו מיחלים, האם בכל זאת אחרי מה שאמרת שדווקא משכן מיצג רמה יותר רוחנית אנחנו מקווים לדבר היותר גשמי-מקדש? אם כן, למה? זה מה שאנחנו אמורים ליחל אליו או שזה נובע מתוך חוסר הבנה..? </p>',
+		'109905766854155134940',
+		'אודיה פלאם',
+		'2016-04-13 20:29:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/mjkn_mqdj.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t2824_1.html</p><p>חגי ב9: &quot;גָּדוֹל יִהְיֶה כְּבוֹד הַבַּיִת הַזֶּה הָאַחֲרוֹן מִן הָרִאשׁוֹן אָמַר יהוה צְבָאוֹת וּבַמָּקוֹם הַזֶּה אֶתֵּן שָׁלוֹם נְאֻם יהוה צְבָאוֹת&quot; </p><p>הנה היה בית ראשון והיה בית אחרון ואף כי הרבנים קוראים לבית האחרון בית שני כדי ליצור אשליה שיהיה עוד בית כזה שלישי</p><p>אך לא כן הדבר ולמה לנו עוד בית אבן ואוון שסופו להחרב לכן השכילו כי באחרית הימים בגאולה השלמה כל הארץ תהיה מקדש</p><p>והמקדש כגן עדן עלי אדמות</p><p>שמואל ב ז6: &quot;כִּי לֹא יָשַׁבְתִּי בְּבַיִת לְמִיּוֹם הַעֲלֹתִי אֶת בְּנֵי יִשְׂרָאֵל מִמִּצְרַיִם וְעַד הַיּוֹם הַזֶּה וָאֶהְיֶה מִתְהַלֵּךְ בְּאֹהֶל וּבְמִשְׁכָּן&quot;</p><p>דברי הימים א יז5: &quot;כִּי לֹא יָשַׁבְתִּי בְּבַיִת מִן הַיּוֹם אֲשֶׁר הֶעֱלֵיתִי אֶת יִשְׂרָאֵל עַד הַיּוֹם הַזֶּה וָאֶהְיֶה מֵאֹהֶל אֶל אֹהֶל וּמִמִּשְׁכָּן&quot;</p><p>הושע יב10: &quot;וְאָנֹכִי יהוה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם עֹד אוֹשִׁיבְךָ בָאֳהָלִים כִּימֵי מוֹעֵד&quot; </p><p>http://tora.us.fm/tnk1/messages/prqim_t1312_3.html</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-14 06:49:17'
+		)
+		;
+
