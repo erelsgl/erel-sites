@@ -14648,3 +14648,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-smal-ymin.html',
+		'<p>תפסיקו עם השטויות האלה זאת שירה אירוטית לכל דבר .... מי שלא מבין  לא מבין ,אך מי שנפקחו עיניו יוכל לראות למרחקים .</p>',
+		'102127121487587723914',
+		'Yuval Gazit',
+		'2016-04-18 05:38:04'
+		)
+		;
+
