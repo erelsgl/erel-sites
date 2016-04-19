@@ -958,7 +958,7 @@ function form_row($element_type, $name_for_display_text, $default_value="", $att
 	if (!is_array($validate_on))
 		$validate_on = array();
 	if (preg_match('/(submit|save)$/',$element_type,$matches)) {
-		return 	"<div class='$element_type'><input type='submit' name='$matches[1]_button' value='$name_for_display_html' 	$attributes /></div>\n";
+		return 	"<div class='row $element_type'><span class='input'><input type='submit' name='$matches[1]_button' value='$name_for_display_html' 	$attributes /></span><label>&nbsp;</label></div>\n";
 	} elseif ($element_type == 'submit_hidden') {
 		return 	"<div class='submit_hidden'><input type='submit' name='submit_button' value='$name_for_display_html' 	$attributes /></div>\n";
 	} elseif (preg_match('/(submit|save)_(.+)$/',$element_type,$matches)) {
