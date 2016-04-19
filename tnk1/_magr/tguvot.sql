@@ -14660,3 +14660,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/gideon_wyrubal.html',
+		'<p>עזר לי מאוד</p><p>תודה!</p><p></p>',
+		'103880729581891823647',
+		'Ariel Feldman',
+		'2016-04-18 16:08:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0106_17.html',
+		'<p>ירמיהו א5: </p><p>&quot;בטרם אצורך בבטן ידעתיך </p><p>ובטרם תצא מרחם הקדשתיך </p><p>נביא לגוים נתתיך&quot;</p><p>מובא בעולם התנ&quot;ך כחרוז משולש</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-18 17:43:50'
+		)
+		;
+
