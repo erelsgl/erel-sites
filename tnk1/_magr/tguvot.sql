@@ -14684,3 +14684,108 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>תשובה יותר מעמיקה מצאתי כאן:</p><p>http://www.haaretz.co.il/.premium-1.2299009</p><p>הכותב פוסל את שורשי מצץ מצי ונצי (מלשון מהירות, אך מצה היא גם ריב בשורש זה, ואולי יש קשר בין שתי המשמעויות?), ומגיע ליוונית, בה &quot;מָזָה, שפירושה לחם שעורה&quot;.</p><p>בעקבות דברים אלה עלתה לי אפשרות נוספת - שמא מצה היא מלשון מזה, כמו ב-מזה רעב?</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-19 10:51:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>תשובה יותר מעמיקה מצאתי כאן:</p><p>http://www.haaretz.co.il/.premium-1.2299009</p><p>הכותב פוסל את שורשי מצץ מצי (כאן גם הוא מוצא קשר לשוני בין חמץ ומצה כשני הפכים) ונצי (מלשון מהירות, אך מצה היא גם ריב בשורש זה, ואולי יש קשר בין שתי המשמעויות?), ומגיע ליוונית, בה &quot;מָזָה, שפירושה לחם שעורה&quot;.</p><p>בעקבות דברים אלה עלתה לי אפשרות נוספת - שמא מצה היא מלשון מזה, כמו ב-מזה רעב?</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-19 10:53:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-19 10:53:10' 
+			WHERE messageid=6226;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>ישעיהו נח4: &quot;הן לריב ומצה תצומו</p><p>משלי יג10: &quot;רק בזדון יתן מצה</p><p>משלי יז19: &quot;אהב פשע אהב מצה</p><p>---------------------------------------</p><p>אמנם מצה זה ריב פשע זדון</p><p>אך כשאוכלים את המצה בא שלום </p><p>בדיוק כאשר כתוב המילה חסד בתורה</p><p>ויקרא כ17: &quot;וְאִישׁ אֲשֶׁר יִקַּח אֶת אֲחֹתוֹ בַּת אָבִיו אוֹ בַת אִמּוֹ וְרָאָה אֶת עֶרְוָתָהּ וְהִיא תִרְאֶה אֶת עֶרְוָתוֹ </p><p>***** חֶסֶד  הוּא ***** וְנִכְרְתוּ לְעֵינֵי בְּנֵי עַמָּם עֶרְוַת אֲחֹתוֹ גִּלָּה עונו יִשָּׂא&quot;</p><p>מיכה ז18: &quot;מִי אֵל כָּמוֹךָ נֹשֵׂא עון וְעֹבֵר עַל פֶּשַׁע לִשְׁאֵרִית נַחֲלָתוֹ לֹא הֶחֱזִיק לָעַד אַפּוֹ כִּי חָפֵץ *****חֶסֶד הוּא *****&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-19 17:01:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-19 17:02:04' 
+			WHERE messageid=6228;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>ישעיהו נח4: &quot;הן לריב ומצה תצומו</p><p>משלי יג10: &quot;רק בזדון יתן מצה</p><p>משלי יז19: &quot;אהב פשע אהב מצה</p><p>---------------------------------------</p><p>אמנם מצה זה ריב פשע זדון</p><p>אך כשאוכלים את המצה בא שלום</p><p>בדיוק כאשר כתוב המילה חסד בתורה</p><p>ויקרא כ17: &quot;וְאִישׁ אֲשֶׁר יִקַּח אֶת אֲחֹתוֹ בַּת אָבִיו אוֹ בַת אִמּוֹ וְרָאָה אֶת עֶרְוָתָהּ וְהִיא תִרְאֶה אֶת עֶרְוָתוֹ</p><p>***** חֶסֶד הוּא ***** [במובן שלילי] וְנִכְרְתוּ לְעֵינֵי בְּנֵי עַמָּם עֶרְוַת אֲחֹתוֹ גִּלָּה עונו יִשָּׂא&quot;</p><p>מיכה ז18: &quot;מִי אֵל כָּמוֹךָ נֹשֵׂא עון וְעֹבֵר עַל פֶּשַׁע לִשְׁאֵרִית נַחֲלָתוֹ לֹא הֶחֱזִיק לָעַד אַפּוֹ כִּי חָפֵץ *****חֶסֶד הוּא *****&quot;[במובן חיובי]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-19 17:02:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>כמו שלחם קשור למלחמה, כך גם מצה קשור לריב ומלחמה</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2016-04-19 20:30:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-19 20:30:15' 
+			WHERE messageid=6230;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>כמו שלחם קשור למלחמה, כך גם מצה קשורה לריב ומלחמה</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2016-04-19 20:30:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>מענין, תודה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-04-19 21:50:31'
+		)
+		;
+
