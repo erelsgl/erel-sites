@@ -14789,3 +14789,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_6.html',
+		'<p>מַצָּה = מַסָּה</p><p>ישעיהו נח4: &quot;הֵן לְרִיב וּמַצָּה תָּצוּמוּ</p><p>שמות יז7: &quot;וַיִּקְרָא שֵׁם הַמָּקוֹם מַסָּה וּמְרִיבָה עַל רִיב בְּנֵי יִשְׂרָאֵל וְעַל נַסֹּתָם אֶת יהוה לֵאמֹר הֲיֵשׁ יהוה בְּקִרְבֵּנוּ אִם אָיִן&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-04-22 15:46:17'
+		)
+		;
+
