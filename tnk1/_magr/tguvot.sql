@@ -14815,3 +14815,10 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-04-25 07:50:33' 
 			WHERE messageid=5302;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-26 06:02:04' 
+			WHERE messageid=6223;
+
