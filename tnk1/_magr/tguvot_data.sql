@@ -222,3 +222,11 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t0216_6.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-04-26 06:02:04'
+			WHERE parent='tnk1/ktuv/mgilot/jj-smal-ymin.html'
+			;
+
