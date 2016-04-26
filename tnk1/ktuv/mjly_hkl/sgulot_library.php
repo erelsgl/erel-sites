@@ -47,15 +47,189 @@ $SMALL_FIELDS_ORDER = array_keys($SMALL_FIELDS);
 $AUTOORDER = true;
 $AUTOWIDTH = true;
 
-function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
+function clean_urls($html) {
+	$html = str_replace("http://localhost/","/",$html); 
+	$html = str_replace("http://tora.us.fm/","/",$html);
+	$html = str_replace("http://www.tora.us.fm/","/",$html);
+	$html = str_replace("&action=edit","",$html);	
+	$html = str_replace("&amp;action=edit","",$html);
+	return $html;
+}
+
+
+$QUOTE = "[\\'\\\"]";
+$QOD_SFR_TO_KOTRT_SFR = sql_evaluate_array_key_value("SELECT qod_mamre,kotrt FROM sfrim");
+$QOD_PRQ_TO_KOTRT_PRQ = sql_evaluate_array_key_value("SELECT qod_mlbim,kotrt FROM prqim");
+$MSPR_TO_QOD_MLBIM = sql_evaluate_array_key_value("SELECT mspr,qod_mlbim FROM prqim");
+
+function clean_links($html, $limit=1000) {   // assumes that clean_urls was run
+	if (!$html) return $html;
+
+	global $QUOTE;
+	/* לציטוטים של כמה פסוקים */
+	$html = preg_replace_callback(
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm[^'\"<>]*{$QUOTE}>[^<>0-9]+(\d+)-(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"clean_link",
+		$html,
+		$limit);
+	if (!$html)
+		user_error("Error in preg_replace_callback!",E_USER_ERROR);
+	/* לציטוטים שבהם יש מספרי פסוקים בהפניה */
+	$html = preg_replace_callback(
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm#(\d+){$QUOTE}>[^<>]+</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"clean_link",
+		$html,
+		$limit);
+	if (!$html)
+		user_error("Error in preg_replace_callback!",E_USER_ERROR);
+
+/* לציטוטים שבהם אין מספרי פסוקים בהפניה */
+	$html = preg_replace_callback(
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm{$QUOTE}>[^<>0-9]+(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"clean_link",
+		$html,
+		$limit);
+	if (!$html)
+		user_error("Error in preg_replace_callback!",E_USER_ERROR);
+
+	return $html;
+}
+
+	/**
+	 * Private; callback for clean_links
+	 */
+
+	function clean_link($matches) {
+		global $QOD_SFR_TO_KOTRT_SFR, $QOD_PRQ_TO_KOTRT_PRQ;
+		$contents = $matches[0];
+		$book_name = $QOD_SFR_TO_KOTRT_SFR[$matches[1]];
+		$chapter_letter = $QOD_PRQ_TO_KOTRT_PRQ[$matches[2]];
+		$verse_number_1 = (int)$matches[3];
+		$verse_letter = number2hebrew($verse_number_1);
+		$verse_text = $matches[count($matches)-1];
+		return "{{צמ|$verse_text|$book_name $chapter_letter $verse_letter}}";
+	}
+
+function clean_wiki_code($wikicode) {
+    global $hebchar, $QUOTE; // from hebrew.php
+
+		// clean spaces (initial):
+    $wikicode = preg_replace("@\s+@s"," ",$wikicode);
+
+		// clean html tags:
+    $wikicode = preg_replace("@<strong>(.*?)</strong>@s","'''$1'''",$wikicode);
+    $wikicode = preg_replace("@<b>(.*?)</b>@s","'''$1'''",$wikicode);
+    $wikicode = preg_replace("@<small.*?>(.*?)</small>@s","{{קטן|$1}}",$wikicode);
+    $wikicode = preg_replace("@\s*<p.*?>\s*(.*?)\s*</p>\s*@s","$1\n\n",$wikicode);
+    $wikicode = preg_replace("@<h3>(.*?)</h3>@s","\n=== $1 ===\n",$wikicode);
+    $wikicode = preg_replace("@<li>(.*?)</li>@s","* $1\n",$wikicode);
+    $wikicode = preg_replace("@<ul>(.*?)</ul>@s","\n$1\n",$wikicode);
+
+		// clean links:
+		$wikicode = preg_replace("@<a[^<>]*>\s*</a>@","",$wikicode);
+    $wikicode = clean_urls($wikicode);
+    $wikicode = clean_links($wikicode);  // must be after clean_urls
+    $wikicode = preg_replace("@\"?<q class=.psuq.>(.*?)</q>\"?@s","{{צ|תוכן=$1}}",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@\"?<q class=.mfrj.>(.*?)</q>\"?@s","{{צפ|תוכן=$1}}",$wikicode);
+    $wikicode = preg_replace("@<a href=${QUOTE}[^<>]*?he.wikisource.org/wiki/([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a href=${QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a href=${QUOTE}/([^<>]*?)[.]html${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a href=${QUOTE}http([^<> ]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
+
+		// clean spaces (final):
+    $wikicode = preg_replace("@\n\n+@s","\n\n",$wikicode);
+		$wikicode = preg_replace("@^\s+@s","",$wikicode); // trim leading spaces
+		$wikicode = preg_replace("@\s+$@s","",$wikicode); // trim trailing spaces
+    return $wikicode;
+}
+
+function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
 	global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
+	global $MSPR_TO_QOD_MLBIM;
+
+
+	$book_code = $row['book'];
+
+	$chapter_number = $row['chapter_number'];
+	$chapter_code = $MSPR_TO_QOD_MLBIM[$chapter_number];
+	$chapter_letter = $row['chapter_letter'];
+
+	$verse_number = $row['verse_number'];
+	$verse_code = $MSPR_TO_QOD_MLBIM[$verse_number];
+	$verse_letter = number2hebrew($verse_number);
+
+	//print "<p style='color:red'>verse $verse_number</p>\n";
+
+	$is_prq = ($verse_number<=0);
+
+	list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
+		"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
+		 FROM tnk.psuq_qodm_hba 
+		 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
+	$previous_verse_letter = number2hebrew($previous_verse_number);
+	$next_verse_letter = number2hebrew($next_verse_number);
+
+	$verse_text = clean_wiki_code($row["verse_text"]);
+	$mcudot = clean_wiki_code($row["mcudot"]);
+	$tirgum = clean_wiki_code($row["tirgum"]);
+	//$tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
+
+	/*** Create the header: ***/
+    $wikicode = "##### ביאור:". (
+        $verse_number>0? "$book_name $chapter_letter $verse_letter\n":
+                         "מבנה $book_name $chapter_letter\n"
+                         );
+	/*** Add the first template with the small (short) cells: ***/
+    if ($verse_number>0) {
+        $wikicode .= "\n{{סיכום על פסוק|$book_name|$chapter_letter|$previous_chapter_letter $previous_verse_letter|$verse_letter|$next_chapter_letter $next_verse_letter|הבהרה=כן
+|ציטוט=$verse_text
+|מצודות=$mcudot
+|תרגום=$tirgum 
+}}
+";
+    }
+		
+	/*** Add the big (long) cells: ***/
+	$big_cells = array();
+	foreach ($BIG_FIELDS_ORDER as $field) {
+		$values = $BIG_FIELDS[$field];
+		if (!$values["include"]) 
+			continue;	// ignore this field altogether
+    $contents = $row[$field];
+		if (strlen($contents)<6)
+			continue;
+    $wikicode .= "\n\n== ".$values["subtitle"]." ==\n";
+		$clean_contents = clean_wiki_code($contents);
+    $wikicode .= $clean_contents;
+	}
+
+
+	/*** Add the last template and create the footer: ***/
+   $wikicode .= htmlspecialchars("
+<noinclude>
+");
+    if ($verse_number>0) {
+        $wikicode .= "{{סיכום על פסוק|$book_name|$chapter_letter|$previous_chapter_letter $previous_verse_letter|$verse_letter|$next_chapter_letter $next_verse_letter|הבהרה=לא}}";
+    }
+   $wikicode .= htmlspecialchars("
+{{הוסב מאתר הניווט בתנך|http://tora.us.fm/tnk1/ktuv/mj/$chapter_code-$verse_code.html}}
+{{קיצור דרך|tnk1/ktuv/mj/$chapter_code-$verse_code}}
+</noinclude>
+");
+    $wikicode .= "סוףקובץ";
+    return $wikicode;
+}
+
+
+function html_for_page($row, $book_number, $book_name) {
+    global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
 	$chapter_number = $row['chapter_number'];
 	if ($chapter_number>0)
 		list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
 				"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
 	$verse_number = $row['verse_number'];
 	$is_prq = ($verse_number<=0);
-	
+
 	$send_to_next_page = coalesce($row['tosfot'], "");
 
 	//$tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
@@ -150,12 +324,7 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		 </div><!--page-->
 		";
 	}
-	
-	$html = str_replace("http://localhost/","/",$html); 
-	$html = str_replace("http://tora.us.fm/","/",$html);
-	$html = str_replace("http://www.tora.us.fm/","/",$html);
-	
-		return $html;
+    return clean_urls($html);
 }
 
 

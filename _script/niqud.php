@@ -15,12 +15,12 @@ global $NOTLETTER, $WORDBOUND, $winnolet;
 $NOTLETTER = "[^א-ת]";
 $WORDBOUND = "[ \t\n<>.;:,'\"!?]";  // Don't include []
 $winnolet =utf8_to_windows1255($NOTLETTER);
-
+$QUOTE = "[\\'\\\"]";
 /** 
  * Add niqud to the first $limit psuqim in $contents. (set $limit=-1 to convert all)
  */
 function niqud_psuqim($contents, $limit=1) {
-	$quote = "[\\'\\\"]";
+	global $QUOTE;
 	$current_charset = sql_get_charset();
 	sql_set_charset("utf8");
 
@@ -33,7 +33,7 @@ function niqud_psuqim($contents, $limit=1) {
 
 	/* לציטוטים של כמה פסוקים */
 	$new_contents = preg_replace_callback(
-		"@<a *(?:class=.psuq.)? *href={$quote}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm[^'\"<>]*{$quote}>[^<>0-9]+(\d+)-(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm[^'\"<>]*{$QUOTE}>[^<>0-9]+(\d+)-(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
 		"niqud_psuq",
 		$contents,
 		$limit);
@@ -41,29 +41,29 @@ function niqud_psuqim($contents, $limit=1) {
 	if (is_too_shorter($new_contents,$contents)) {
 		print "<p>Warning (1): contents=".strlen($contents)." bytes, new_contents='$new_contents', it is shorter, skipping!</p>";
 		//return $contents; // return the un-dotted text (it will be dotted, probably, next time)
-		return NULL; // a memory problem - abort before you spoil anything
+		return NULL; // a memory problem - abort before you ruin anything
 	} else $contents = $new_contents;
 
 	/* לציטוטים שבהם יש מספרי פסוקים בהפניה */
 	$new_contents = preg_replace_callback(
-		"@<a *(?:class=.psuq.)? *href={$quote}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm#(\d+){$quote}>[^<>]+</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm#(\d+){$QUOTE}>[^<>]+</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
 		"niqud_psuq",
 		$contents,
 		$limit);
 	if (is_too_shorter($new_contents,$contents)) {
 		print "<p>Warning (2): contents=".strlen($contents)." bytes, new_contents='$new_contents', it is shorter, skipping!</p>";
-		return NULL; // a memory problem - abort before you spoil anything
+		return NULL; // a memory problem - abort before you ruin anything
 	} else $contents = $new_contents;
 
 /* לציטוטים שבהם אין מספרי פסוקים בהפניה */
 	$new_contents = preg_replace_callback(
-		"@<a *(?:class=.psuq.)? *href={$quote}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm{$quote}>[^<>0-9]+(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
+		"@<a *(?:class=.psuq.)? *href={$QUOTE}[^'\"<>]+prqim/t([0-9][0-9][ab]?)([0-9a-f][0-9a-f])[.]htm{$QUOTE}>[^<>0-9]+(\d+)</a>\\)?: \"<q class=.psuq.>(.*?)</q>\"@s",
 		"niqud_psuq",
 		$contents,
 		$limit);
 	if (is_too_shorter($new_contents,$contents)) {
 		print "<p>Warning (3): contents='...', new_contents='$new_contents', it is shorter, skipping!</p>";
-		return NULL; // a memory problem - abort before you spoil anything
+		return NULL; // a memory problem - abort before you ruin anything
 	} else $contents = $new_contents;
 
 	if ($current_charset!="utf8") sql_set_charset($current_charset);
@@ -80,7 +80,7 @@ function niqud_psuq($matches) {
 	$qod_sfr_quoted = quote_all($matches[1]);
 	$qod_prq_quoted = quote_all($matches[2]);
 	$mspr_psuq_1 = (int)$matches[3];
-	$mspr_psuq_2 = count($matches)>=6? $matches[4]: $mspr_psuq_1;
+	$mspr_psuq_2 = count($matches)>=6? (int)$matches[4]: $mspr_psuq_1;
 	$citut_mqori = $matches[count($matches)-1];
 
 
