@@ -117,24 +117,24 @@ function clean_wiki_code($wikicode) {
     $wikicode = preg_replace("@\s+@s"," ",$wikicode);
 
 		// clean html tags:
-    $wikicode = preg_replace("@<strong>(.*?)</strong>@s","'''$1'''",$wikicode);
-    $wikicode = preg_replace("@<b>(.*?)</b>@s","'''$1'''",$wikicode);
-    $wikicode = preg_replace("@<small.*?>(.*?)</small>@s","{{קטן|$1}}",$wikicode);
-    $wikicode = preg_replace("@\s*<p.*?>\s*(.*?)\s*</p>\s*@s","$1\n\n",$wikicode);
-    $wikicode = preg_replace("@<h3>(.*?)</h3>@s","\n=== $1 ===\n",$wikicode);
-    $wikicode = preg_replace("@<li>(.*?)</li>@s","* $1\n",$wikicode);
-    $wikicode = preg_replace("@<ul>(.*?)</ul>@s","\n$1\n",$wikicode);
+    $wikicode = preg_replace("@<strong *[^<>]*?>(.*?)</strong>@s","'''$1'''",$wikicode);
+    $wikicode = preg_replace("@<b *[^<>]*?>(.*?)</b>@s","'''$1'''",$wikicode);
+    $wikicode = preg_replace("@<small *[^<>]*?>(.*?)</small>@s","{{קטן|$1}}",$wikicode);
+    $wikicode = preg_replace("@\s*<p *[^<>]*?>\s*(.*?)\s*</p>\s*@s","$1\n\n",$wikicode);
+    $wikicode = preg_replace("@<h3 *[^<>]*?>(.*?)</h3>@s","\n=== $1 ===\n",$wikicode);
+    $wikicode = preg_replace("@<li *[^<>]*?>(.*?)</li>@s","* $1\n",$wikicode);
+    $wikicode = preg_replace("@<ul *[^<>]*?>(.*?)</ul>@s","\n$1\n",$wikicode);
 
 		// clean links:
-		$wikicode = preg_replace("@<a[^<>]*>\s*</a>@","",$wikicode);
+		$wikicode = preg_replace("@<a *[^<>]*>\s*</a>@","",$wikicode);
     $wikicode = clean_urls($wikicode);
     $wikicode = clean_links($wikicode);  // must be after clean_urls
-    $wikicode = preg_replace("@\"?<q class=.psuq.>(.*?)</q>\"?@s","{{צ|תוכן=$1}}",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@\"?<q class=.mfrj.>(.*?)</q>\"?@s","{{צפ|תוכן=$1}}",$wikicode);
-    $wikicode = preg_replace("@<a href=${QUOTE}[^<>]*?he.wikisource.org/wiki/([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a href=${QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a href=${QUOTE}/([^<>]*?)[.]html${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a href=${QUOTE}http([^<> ]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
+    $wikicode = preg_replace("@\"?<q *class=.psuq.>(.*?)</q>\"?@s","{{צ|תוכן=$1}}",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@\"?<q *class=.mfrj.>(.*?)</q>\"?@s","{{צפ|תוכן=$1}}",$wikicode);
+    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}[^<>]*?he.wikisource.org/wiki/([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}/([^<>]*?)[.]html${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}http([^<> ]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
 
 		// clean spaces (final):
     $wikicode = preg_replace("@\n\n+@s","\n\n",$wikicode);
@@ -166,8 +166,8 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
 		 FROM tnk.psuq_qodm_hba 
 		 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
-	$previous_verse_letter = number2hebrew($previous_verse_number);
-	$next_verse_letter = number2hebrew($next_verse_number);
+	$previous_verse_letter = $previous_verse_number>0? number2hebrew($previous_verse_number): "";
+	$next_verse_letter = $next_verse_number>0? number2hebrew($next_verse_number): "א";
 
 	$verse_text = clean_wiki_code($row["verse_text"]);
 	$mcudot = clean_wiki_code($row["mcudot"]);
