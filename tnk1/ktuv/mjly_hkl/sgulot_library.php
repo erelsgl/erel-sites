@@ -116,6 +116,9 @@ function clean_wiki_code($wikicode) {
 		// clean spaces (initial):
     $wikicode = preg_replace("@\s+@s"," ",$wikicode);
 
+		// clean linebreaks in headings:
+    $wikicode = preg_replace("@<br/?>\s*(</h\d>)@s","$1",$wikicode);
+
 		// clean html tags:
     $wikicode = preg_replace("@<strong *[^<>]*?>(.*?)</strong>@s","'''$1'''",$wikicode);
     $wikicode = preg_replace("@<b *[^<>]*?>(.*?)</b>@s","'''$1'''",$wikicode);
