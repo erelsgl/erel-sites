@@ -14822,3 +14822,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-04-26 06:02:04' 
 			WHERE messageid=6223;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-07-05.html',
+		'<p>הי</p>',
+		'111877933525919850680',
+		'ליאורי מהמיק',
+		'2016-04-27 16:41:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-04-27 16:42:01' 
+			WHERE messageid=6234;
+
