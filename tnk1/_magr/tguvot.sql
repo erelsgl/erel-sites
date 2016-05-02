@@ -14841,3 +14841,65 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-04-27 16:42:01' 
 			WHERE messageid=6234;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>אנא אבינו שבשמיים ,אתה אל רחום וחנון תן רפואה שלמה  רפואה הנפש רפואת הגוף לאחות שלי ,אנא שלח לה רפואה שלמה  בעזרת ה</p><p>כמו שנאמר כל המחלה אשר שמתי במצריים כי אני ה רופאך</p><p>אני מאמין באמונה שלמה שאתה האל תעזור לנו ויהיה לנו בשרות טובות ולכל חולי עמך בני ישראל. אמן כן יהיה רצון.</p><p></p>',
+		'112327204207255478615',
+		'אורי נפתלי נפתלי',
+		'2016-05-01 08:41:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-01 08:45:47' 
+			WHERE messageid=6235;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>יעל גרוסמן</p><p>ראי נא כי בני אדם כסוחרים רוצים תמורה לכל דבר וככה זה גם בחברות</p><p>ואנשים מתחשבנים עם חבריהם ושואלים תמיד מה יש לך להציע לי</p><p>ואם את לא זוכה לאהבת בני אדם אז תאמצי לך בעל חיים חיית מחמד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-05-01 15:26:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>יעל גרוסמן</p><p>ראי נא כי בני אדם כסוחרים רוצים תמורה לכל דבר וככה זה גם בחברות</p><p>ואנשים מתחשבנים עם חבריהם ושואלים תמיד מה יש לך להציע לי</p><p>ואם את לא זוכה לאהבת בני אדם אז תאמצי לך בעל חיים חיית מחמד</p><p>ואם את רוצה את יכולה לפנות  אלי כשקשה לך ואקל על בדידותך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-05-01 15:42:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-01 15:42:56' 
+			WHERE messageid=6236;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק להלוואה בבקשה אם אתם יכולים לעזור לי 0509909174 תודה רבא</p>',
+		'101358073725358468889',
+		'Yossi Yossi',
+		'2016-05-02 07:53:33'
+		)
+		;
+
