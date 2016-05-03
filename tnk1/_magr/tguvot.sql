@@ -14903,3 +14903,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/plgj.html',
+		'<p>א. בירושלמי כתובות פרק ה הלכה ב מובאת מחלוקת תנאים מהי פילגש.</p><p>ב. הרמב&quot;ם בהלכות מלכים פרק ד הלכה ד מתיר פילגש למלך.</p><p>כתבתי מאמר על דין פילגש לשיטת הרמב&quot;ם. אם אתה רוצה, אתה יכול לשלוח לי מייל ל uag9996@gmail.com ואשלח לך אותו.</p>',
+		'116470212565971745049',
+		'אוריאל גרינבלט',
+		'2016-05-02 09:38:07'
+		)
+		;
+
