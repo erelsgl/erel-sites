@@ -14915,3 +14915,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/pilgj.html',
+		'<p>אבקש התיחסוך לענין שלמה המלך</p><p>ולחרם דרבנו גרשום</p><p>תודה</p>',
+		'117109947092566414811',
+		'Moshe Shimon',
+		'2016-05-06 14:32:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/pilgj.html',
+		'<p>אבקש התיחסוך לענין שלמה המלך</p><p>ולחרם דרבנו גרשום</p><p>תודה</p>',
+		'117109947092566414811',
+		'Moshe Shimon',
+		'2016-05-06 16:50:00'
+		)
+		;
+
