@@ -374,3 +374,48 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/mamr/pilgj.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/mamr/pilgj.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-05-07 19:27:01'
+		WHERE parent='tryg/mamr/pilgj.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/klli/mdrjim/gd.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-05-08 04:18:38'
+		WHERE parent='tnk1/klli/mdrjim/gd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/klli/mdrjim/gd.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-05-08 05:45:37'
+		WHERE parent='tnk1/klli/mdrjim/gd.html'
+		;
+
