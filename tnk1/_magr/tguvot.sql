@@ -15035,3 +15035,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-10 12:53:54' 
+			WHERE messageid=6240;
+
