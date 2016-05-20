@@ -15252,3 +15252,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-05-19 07:00:03' 
 			WHERE messageid=6262;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-19 08:37:53' 
+			WHERE messageid=6262;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0133_0.html',
+		'<p>בראשית ב17: &quot;וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת&quot; </p><p>בראשית ג19: &quot;בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶחֶם עַד שׁוּבְךָ אֶל הָאֲדָמָה כִּי מִמֶּנָּה לֻקָּחְתָּ כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב&quot;</p><p>מוֹת תָּמוּת כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב ....... לְעוֹלָם יהוה דְּבָרְךָ נִצָּב בַּשָּׁמָיִם רֹאשׁ דְּבָרְךָ אֱמֶת וּלְעוֹלָם כָּל מִשְׁפַּט צִדְקֶךָ</p><p>תהלים קיט89: &quot;לְעוֹלָם יהוה דְּבָרְךָ נִצָּב בַּשָּׁמָיִם&quot; </p><p>תהלים קיט160: &quot;רֹאשׁ דְּבָרְךָ אֱמֶת וּלְעוֹלָם כָּל מִשְׁפַּט צִדְקֶךָ&quot;</p><p>http://tora.us.fm/tnk1/messages/prqim_t25b06_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-05-19 13:00:10'
+		)
+		;
+
