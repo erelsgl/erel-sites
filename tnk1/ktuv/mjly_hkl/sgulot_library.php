@@ -224,7 +224,7 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 }
 
 
-function html_for_page($row, $book_number, $book_name) {
+function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
     global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
 	$chapter_number = $row['chapter_number'];
 	if ($chapter_number>0)

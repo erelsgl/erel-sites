@@ -38,9 +38,9 @@ $chapter_rows = sql_query_or_die("
 		--	OR chapter_id LIKE 'ספר משלי%'
 		--	OR chapter_id LIKE 'ספר תהלים%'
 		--	OR chapter_id LIKE 'ספר איוב%'
-		--	OR chapter_id LIKE 'מגילת%'
+			OR chapter_id LIKE 'מגילת%'
 		
-			OR chapter_id LIKE 'ספר בראשית%'
+		--	OR chapter_id LIKE 'ספר בראשית%'
 		--	OR chapter_id LIKE 'ספר שמות%'
 		--	OR chapter_id LIKE 'ספר ויקרא%'
 		--	OR chapter_id LIKE 'ספר במדבר%'
@@ -71,7 +71,7 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 	$PPP = "{{"+$PP+"}}";
 	$text = "##### $chapter_page_name/טעמים\n";
 	$rows = sql_query_or_die("
-			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text
+			SELECT prefix, verse_number, verse_letter, verse_letter_text, verse_text, suffix
 			FROM psuqim_dovi
 			WHERE chapter_id='$chapter_id'
 			ORDER BY book_code_mamre, chapter_number, verse_number
@@ -89,14 +89,6 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 		$prefix = $row['prefix'];
 		$prefix = preg_replace("@^//@","",$prefix);
         
-        // WARNING: the code below is a special case, added to handle  אסתר א ט, יג.
-        // It was NOT tested yet on the entire Bible.
-        if (preg_match("@^(<${QTA_SOF}[^<>]>)__(.*)$@",$prefix,$matches)) {
-            $text = trim($text).$matches[1];
-            $prefix = $matces[2];
-        }
-        
-		//print "'$prefix'\n";
 		$prefix = replace_placeholders_with_spaces($prefix);  // replace "__" with space and "//" with newline
 		$text .= preg_replace("/^ /","",$prefix);
 
@@ -104,9 +96,11 @@ function chapter_normal($chapter_id, $chapter_page_name, $chapter_section_name) 
 			$text .= simn($row['verse_letter_text']);
 			$text .= "<$QTA_HTXLA=$row[verse_letter]/>";
 		}
-        //print "***\n$row[verse_text]\n***\n";
+        
 		$text .= replace_placeholders_with_spaces($row['verse_text']);
-        //print "%%%\n".replace_placeholders_with_spaces($row['verse_text'])."\n%%%\n";
+        
+        $text .= $row['suffix'];
+        
         $text = trim($text);
 		if (0<$verse_number && $verse_number<999) {
 			$text .= "<$QTA_SOF=$row[verse_letter]/>";

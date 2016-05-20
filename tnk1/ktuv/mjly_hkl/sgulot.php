@@ -18,10 +18,12 @@ function qijur_lpsuqim($chapter_letter, $chapter_number, $psuqim) {
 		$tocaa .= qijur_lpsuq($chapter_number, $psuqim[$p], $psuqim[$p+1]-$psuqim[$p]+1) . "\n";
 	}
 
-  $tocaa .= "<a href='$TABLEEDITOR?table=sgulot_kotrot&Search=%60chapter_number%60=$chapter_number&Limit=100&RowOffset=0&OrderBy=verse_number+ASC'>כותרות</a> &nbsp;  &nbsp;";
-  $tocaa .= "<a href='$TABLEEDITOR?table=sgulot_hqblot&Search=%60chapter_number%60=$chapter_number&Limit=100&RowOffset=0&OrderBy=verse_number+ASC'>הקבלות</a> &nbsp;  &nbsp;";
+    $tocaa .= "<a href='$TABLEEDITOR?table=sgulot_kotrot&Search=%60chapter_number%60=$chapter_number&Limit=100&RowOffset=0&OrderBy=verse_number+ASC'>כותרות</a> &nbsp;  &nbsp;";
+    $tocaa .= "<a href='$TABLEEDITOR?table=sgulot_hqblot&Search=%60chapter_number%60=$chapter_number&Limit=100&RowOffset=0&OrderBy=verse_number+ASC'>הקבלות</a> &nbsp;  &nbsp;";
 
-	$tocaa .= "</p>\n";
+	$tocaa .= "<a href='http://127.0.0.1/tnk1/ktuv/mjly_hkl/sgulot_print_wikisource.php?chapter=$chapter_number&limit=100'>ויקי</a>&nbsp; ";
+
+    $tocaa .= "</p>\n";
 	return $tocaa;
 }
 ?>

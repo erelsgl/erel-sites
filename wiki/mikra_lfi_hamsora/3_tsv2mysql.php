@@ -23,6 +23,7 @@ sql_queries_or_die("
 	verse_letter_text mediumtext,
 	verse_text mediumtext,
 	stylized_text mediumtext,
+    suffix mediumtext,
 	PRIMARY KEY(chapter_id,verse_letter)
 	);
 
@@ -34,7 +35,9 @@ sql_queries_or_die("
 	SET psuqim_dovi.prefix=corrected.prefix,
 	    psuqim_dovi.verse_letter_text=corrected.verse_letter_text,
 	    psuqim_dovi.verse_text=corrected.verse_text,
-	    psuqim_dovi.stylized_text=corrected.stylized_text
+	    psuqim_dovi.stylized_text=corrected.stylized_text,
+	    psuqim_dovi.suffix=corrected.suffix
+        
 	");
 
 
