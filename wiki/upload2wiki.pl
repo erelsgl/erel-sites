@@ -61,7 +61,7 @@ $main::summary = "";
 
 print "Uploading file $in_file\n";
 
-$main::TARGET_URL = "http://he.wikisource.org/w";
+$main::TARGET_URL = "https://he.wikisource.org/w";
 
 $main::SHOULD_REWRITE_EXISTING_PAGES = ($in_file =~ /existing/);
 
@@ -296,7 +296,7 @@ sub upload_file {
 		} else {  # usual upload - do some conversions before uploading:
 			# convert indirect links to wikisource to direct links
 			if ($main::TARGET_URL =~ /wikisource/) {
-				$wpTextbox1 =~ s{\[http://he.wikisource.org/wiki/([^ \]]+) ([^\]]+)]}{[[$1|$2]]}ig;
+				$wpTextbox1 =~ s{\[https?://he.wikisource.org/wiki/([^ \]]+) ([^\]]+)]}{[[$1|$2]]}ig;
 			}
 
 			if ($name_of_page =~ /^שערי קדושה ([א-ת]+) ?([א-ת]+)?$/) {
@@ -435,7 +435,7 @@ use LWP::Simple;
 
 # INPUT: api_url, username, password.
 # OUTPUT: edit token, OR 0 if failed.
-# For explanation about the login protocol see http://www.mediawiki.org/wiki/API:Login
+# For explanation about the login protocol see https://www.mediawiki.org/wiki/API:Login
 sub login {
 	my ($api_url, $username, $password) = @_;
 
