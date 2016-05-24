@@ -15357,3 +15357,89 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-18-13.html',
+		'<p>בראשית יח15: &quot;וַתְּכַחֵשׁ שָׂרָה לֵאמֹר לֹא צָחַקְתִּי כִּי יָרֵאָה וַיֹּאמֶר לֹא כִּי צָחָקְתְּ&quot;  ואם צחקת את לא יראה ובגלל זה האל לא דיבר עמה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-05-23 09:08:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mrnfj.html',
+		'<p>כוס אמא שלך חרא אתר</p>',
+		'102840162816609021296',
+		'tal gabay',
+		'2016-05-23 14:13:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-23 14:13:56' 
+			WHERE messageid=6272;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mrnfj.html',
+		'<p>אני ראשון1</p>',
+		'102840162816609021296',
+		'tal gabay',
+		'2016-05-23 14:14:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mrnfj.html',
+		'<p></p>',
+		'102840162816609021296',
+		'tal gabay',
+		'2016-05-23 14:14:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-05-23 14:14:18' 
+			WHERE messageid=6274;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/03-27.html',
+		'<p>יפה מאד</p>',
+		'101141223074016375477',
+		'ראובן הילר',
+		'2016-05-23 16:08:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/1xy.html',
+		'<p>הרמב&quot;ם מצייר את ה\' במיוחד על ידי תיאורים \'שליליים\'. נגד ההגשמה. לגמרי לא הופך אותו לכזה שאי אפשר להתיחס אליו. הרי מהי נבואה? ותפילה?</p>',
+		'107833868624484785981',
+		'אמתי ט.',
+		'2016-05-23 22:58:46'
+		)
+		;
+
