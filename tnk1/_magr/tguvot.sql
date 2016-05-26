@@ -15474,3 +15474,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקה</p>',
+		'101358073725358468889',
+		'Yossi Yossi',
+		'2016-05-25 14:39:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>בבקשה 0509909176</p>',
+		'101358073725358468889',
+		'Yossi Yossi',
+		'2016-05-25 14:39:38'
+		)
+		;
+
