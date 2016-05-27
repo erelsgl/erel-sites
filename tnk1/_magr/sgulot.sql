@@ -2548,3 +2548,27 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 25 AND `verse_number` = 4 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 30 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `ecot` = '<p>האם מותר להשתמש בדברי תורה למשחק ושעשוע? על-פי ספר משלי, לא רק שזה מותר, אלא שאפילו ה\' נהג כך. כך אומרת החכמה = התורה:\r\n</p><p><strong>ואהיה שעשועים יום יום, משחקת לפניו בכל עת</strong> - התורה היתה משחק ושעשוע לה\' עוד לפני בריאת העולם, ולכן אחרי בריאת העולם היא -</p><p><strong>משחקת בתבל ארצו, ושעשועיי את בני אדם</strong> - ולכן גם בני האדם יכולים להשתמש בה למשחק ושעשוע:</p><p>\"<q class=\"mfrj\">וכשאתה מייגע את עצמך בתורה, השתעשע בה, שמצינו שאמרה תורה: \"<strong>ה\' קנני ראשית דרכו... ואהיה שעשועים יום יום...</strong>        \", הנה לך, כי ה\' ברוך הוא היה משתעשע בה, ויש לך לעשות כן, וזהו שנאמר: \"<strong>משחקת בתבל ארצו ושעשועי את בני אדם</strong>        \", רוצה לומר, כאשר היתה התורה שעשועים להקב\"ה קודם יצירת העולם, כן תהיה משחקת בתבל אחרי שנברא העולם, ושעשועים לבני אדם</q>\" \r\n<small>(הרב יונה גירונדי על אבות ב יד)</small>. </p><p>אז אם חלק מהפירושים בספר זה נראים לכם כמו בדיחה, ייתכן שהם אכן בדיחה - לקיים מה שנאמר \"<q class=\"psuq\">משחקת      בתבל ארצו,\r\nושעשעי      את בני אדם</q>\".   \r\n \r\n</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 31 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL, `kotrt` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 32 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 30 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 31 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL, `kotrt` = NULL WHERE `book` = 'משל' AND `chapter_number` = 8 AND `verse_number` = 32 AND 1 LIMIT 1;
+
