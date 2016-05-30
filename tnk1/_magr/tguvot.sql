@@ -15510,3 +15510,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0707_0.html',
+		'<p>תודה חגי</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-05-29 10:46:36'
+		)
+		;
+
