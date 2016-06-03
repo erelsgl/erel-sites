@@ -15553,3 +15553,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>יעל בת פרידה. לידה קלה וילד בריא. אמן</p>',
+		'107976819184328180302',
+		'Adina Adar',
+		'2016-06-03 04:50:16'
+		)
+		;
+
