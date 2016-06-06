@@ -15565,3 +15565,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_7.html',
+		'<p>מוזמנים לבקר בבלוג שלי, לשון המקרא - אור חדש על שפה עתיקה, שבו יש עוד שפע תכנים על ההיפוכים בתנ&quot;ך כמו גם הסברים לתופעה</p><p>https://liebermanorna.wordpress.com/2013/01/18/%D7%A8%D7%A9%D7%95%D7%9E%D7%94-%D7%9E%D7%A1-1-%D7%9C%D7%9B%D7%9C-%D7%9E%D7%99%D7%9C%D7%94-%D7%99%D7%A9-%D7%9B%D7%A4%D7%99%D7%9C-%D7%A0%D7%99%D7%92%D7%95%D7%93%D7%99/</p><p></p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2016-06-05 08:50:41'
+		)
+		;
+
