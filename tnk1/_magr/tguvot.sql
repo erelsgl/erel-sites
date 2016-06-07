@@ -15577,3 +15577,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני במצב כלכלי לא קל. ואני זקוקה להלוואה דחופה. אני מפרנסת את בני שנפגע בגב בזמן הצבא. בבקשה מלפני שורת הדין. תודה רבה מראש, 0543067810.</p>',
+		'107091533464732080299',
+		'hila silvi Frish',
+		'2016-06-06 17:26:01'
+		)
+		;
+
