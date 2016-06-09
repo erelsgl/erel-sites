@@ -15613,3 +15613,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/lenyym.html',
+		'<p>שלום רב אני גרושה בת 61 במצב בריאותי קוי משנת 2008 עד שנת 2008 עבדתי ופרנסתי בכבוד ולא הייתי זקוקה לאף אחד משנת 2008 אני מוגדרת כנכה 100% ומתפרנסת מקיצבה של 2350 ש&quot;ח לצערי כל החסכונות נאעלו ואין לי אפשרות לעבוד ולכלכל את עצמי מצבי מוגדר ענייה כי מקצבה זו רני משלמת שכר דירה תרופות מיסים חשמל וכלכלה לא עומדת בזה נצברו לי חובות בסך 15000 ש&quot;ח ואני חיה בפחד תמידי האם קיימת אפשרות לסיוע אולקבלת הלוואה אשמח לקבל תגובה  מספר טלפון 052-6274747</p><p></p>',
+		'115245692232125802839',
+		'חיה אשוש',
+		'2016-06-08 13:41:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/lenyym.html',
+		'<p>שלום רב אני גרושה בת 61 במצב בריאותי קוי משנת 2008 עד שנת 2008 עבדתי ופרנסתי בכבוד ולא הייתי זקוקה לאף אחד משנת 2008 אני מוגדרת כנכה 100% ומתפרנסת מקיצבה של 2350 ש&quot;ח לצערי כל החסכונות נאעלו ואין לי אפשרות לעבוד ולכלכל את עצמי מצבי מוגדר ענייה כי מקצבה זו רני משלמת שכר דירה תרופות מיסים חשמל וכלכלה לא עומדת בזה נצברו לי חובות בסך 15000 ש&quot;ח ואני חיה בפחד תמידי האם קיימת אפשרות לסיוע אולקבלת הלוואה אשמח לקבל תגובה  מספר טלפון 052-6274747</p><p></p>',
+		'115245692232125802839',
+		'חיה אשוש',
+		'2016-06-08 13:41:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>מבקש עזרה באופן דחוף 0509590011</p>',
+		'113720359034274023949',
+		'Efi Ventura',
+		'2016-06-08 19:29:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>מבקש עזרה באופן דחוף 0509590011</p>',
+		'113720359034274023949',
+		'Efi Ventura',
+		'2016-06-08 19:29:53'
+		)
+		;
+
