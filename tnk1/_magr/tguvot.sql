@@ -15661,3 +15661,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_800.html',
+		'<p>מעניין שלא רק הטמא נקרא עליו &quot;בדד ישב&quot; כי אם גם עם ישראל נקרא עליו &quot;הן-עם לבדד ישכן&quot;, אומנם כל בדד נאמר בקונוטציה נבדלת אבל התורה לימדה אותנו שהשימוש באותם המונחים מצביע על נקודה משותפת או מרחב משותף בין המקומות שהמונח נכנס אליהם. השאלה איפא מה המשותף בין הטמא והטומאה לעם ישראל בין העמים. למה הטמא נקרא בודד וגם עם ישראל נקרא בודד. חומר למחשבה לכולנו לחג השבועות. </p><p>חג שבועות שמח לכל משתתפי האתר היפה והיחיד במינו זה. זה הזמן להגיד תודה לאראל שכולנו נתאספנו כאן בזכותו. </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2016-06-10 13:13:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-06-10 13:15:08' 
+			WHERE messageid=6294;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_800.html',
+		'<p>מעניין שלא רק הטמא נקרא עליו &quot;בדד ישב&quot; כי אם גם עם ישראל נקרא עליו &quot;הן-עם לבדד ישכן&quot;, אומנם כל בדד נאמר בקונוטציה נבדלת אבל התורה לימדה אותנו שהשימוש באותם המונחים מצביע על נקודה משותפת או מרחב משותף בין המקומות שהמונח נכנס אליהם. השאלה איפא מה המשותף בין הטמא שבתוך העדה לעם ישראל בין העמים. למה הטמא נקרא בודד וגם עם ישראל נקרא בודד. חומר למחשבה לכולנו לחג השבועות.</p><p>חג שבועות שמח לכל משתתפי האתר היפה והיחיד במינו זה. זה הזמן להגיד תודה לאראל שכולנו נתאספנו כאן בזכותו.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2016-06-10 13:15:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה בע&quot;ה ליעל בת תקוה</p>',
+		'118092583926245323353',
+		'tikvaori15@gmail.com to12345678',
+		'2016-06-10 23:47:55'
+		)
+		;
+
