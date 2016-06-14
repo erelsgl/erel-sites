@@ -15716,3 +15716,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/m.html',
+		'<p>מסוף - מקום שהוא הסוף</p>',
+		'106913836662931980946',
+		'shalev ku',
+		'2016-06-13 20:45:54'
+		)
+		;
+
