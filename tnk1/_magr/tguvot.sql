@@ -15752,3 +15752,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0106_17.html',
+		'<p>ירמיה א: </p><p>(ה) בְּטֶרֶם אצורך [אֶצָּרְךָ] בַבֶּטֶן יְדַעְתִּיךָ </p><p>וּבְטֶרֶם תֵּצֵא מֵרֶחֶם הִקְדַּשְׁתִּיךָ </p><p>נָבִיא לַגּוֹיִם נְתַתִּיךָ׃</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-07-02 22:04:06'
+		)
+		;
+
