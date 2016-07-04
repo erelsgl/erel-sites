@@ -15764,3 +15764,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/eivl.html',
+		'<p>ישר כוח . הערת את עיני בנושא העברים שכלל לאשמתי לב לייחוד שלו . מוזר שיוסף משתמש בביטוי ארץ העברים ולא כנען . צריך להעמיק בעניין ....לא פשוט הוא .</p>',
+		'115490415335975282863',
+		'קובי מרוז',
+		'2016-07-03 10:59:49'
+		)
+		;
+
