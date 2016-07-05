@@ -15776,3 +15776,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sig_9sfr_43.html',
+		'<p>בשעה טובה סיימתי את עין יעקב (תודה על ההפניה), וזו המשנה האחרונה בו:</p><p>עוקצין ג יב:</p><p>אמר רבי שמעון בן חלפתא, לא מצא הקדוש ברוך הוא כלי מחזיק ברכה לישראל אלא השלום, שנאמר (תהלים כט), יי עז לעמו יתן יי יברך את עמו בשלום.</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-07-04 21:58:11'
+		)
+		;
+
