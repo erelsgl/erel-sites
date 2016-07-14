@@ -16238,3 +16238,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-07-12 16:01:14' 
 			WHERE messageid=6329;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0107_2.html',
+		'<p>משלי כ7: &quot;מִתְהַלֵּךְ בְּתֻמּוֹ צַדִּיק אַשְׁרֵי בָנָיו אַחֲרָיו&quot; </p><p>********** הלא אלהים צדיק אז מדוע ?????????? </p><p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>והסיבה כי בָנָיו המושחתים לא אַחֲרָיו ואם אחריו לא ישחת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-07-13 13:43:55'
+		)
+		;
+
