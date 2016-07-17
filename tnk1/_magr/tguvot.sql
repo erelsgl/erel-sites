@@ -16274,3 +16274,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-03-16.html',
+		'<p></p>',
+		'114148204258660651169',
+		'nimrod hefets',
+		'2016-07-16 13:09:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-03-16.html',
+		'<p>אולי בצער תלדי בנים פרושו שהבנים מתים אחר כך בצורה לא טבעית? כמו רצח הבל על ידי קין? או במלחמות הרי הבנים הם הלוחמים?</p>',
+		'114148204258660651169',
+		'nimrod hefets',
+		'2016-07-16 13:11:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-03-16.html',
+		'<p>אולי בצער תלדי בנים פרושו שהבנים מתים אחר כך בצורה לא טבעית? כמו רצח הבל על ידי קין? או במלחמות הרי הבנים הם הלוחמים?</p>',
+		'114148204258660651169',
+		'nimrod hefets',
+		'2016-07-16 13:11:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-03-16.html',
+		'<p>בְּעֶצֶב תֵּלְדִי בָנִים [וכמובן גם] בְּעֶצֶב תֵּלְדִי בנִות כאשר גם הציווי &quot;לא תרצח&quot; = &quot;לא תרצחי&quot; </p><p>בְּעֶצֶב תֵּלְדִי בָנִים זו התייחסות הצער אל האשה</p><p>כי אשה כשנכנסת להריון נוספת לה רוח-נשמה ועל כן האשה מרגישה טוב מאד ובלידה זה ההיפך כי נשמת הילוד ניתקת מהאשה</p><p>והאשה מרגישה חסרון של רוח [זו הנשמה שהייתה עמה תשעה ירחים] לכן האשה חווה דכאון שלאחר לידה ככתוב: בְּעֶצֶב תֵּלְדִי בָנִים</p><p>ובאשר למחקר הזה בקישור הנה הסבר לבאר לכם</p><p>http://www.ynet.co.il/articles/0,7340,L-4822526,00.html</p><p>********** מחקר: דתיות סובלות יותר מדיכאון לאחר לידה **********</p><p>והסיבה היא שהזרע של מרבית הדתיים פורה ואיכותי יותר כי הם יראי אלהים</p><p>ולאשה שבעלה דתי ירא אלהים נוח ונעים לאחסן ברחמה את הזרע המשובח הזה</p><p>אך בעת הלידה האשה הזאת מרגישה חסרון גדול יותר מכל אשה אשר חיה בזוגיות עם בעלה החילוני</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-07-16 18:02:17'
+		)
+		;
+
