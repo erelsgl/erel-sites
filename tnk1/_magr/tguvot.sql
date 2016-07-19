@@ -16355,3 +16355,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-07-18 05:37:31' 
 			WHERE messageid=6338;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-55-23.html',
+		'<p>תהילים נה23: &quot; הַשְׁלֵךְ עַל יהוה יְהָבְךָ וְהוּא יְכַלְכְּלֶךָ לֹא יִתֵּן לְעוֹלָם מוֹט לַצַּדִּיק &quot;.</p><p>קהלת יא1: &quot;שַׁלַּח לַחְמְךָ עַל פְּנֵי הַמָּיִם כִּי בְרֹב הַיָּמִים תִּמְצָאֶנּוּ&quot;</p><p>שַׁלַּח לַחְמְךָ עַל פְּנֵי הַמָּיִם --- וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם ---[על כן] הַשְׁלֵךְ עַל יהוה יְהָבְךָ וְהוּא יְכַלְכְּלֶךָ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-07-18 13:56:44'
+		)
+		;
+
