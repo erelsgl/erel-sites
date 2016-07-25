@@ -16391,3 +16391,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_7.html',
+		'<p>יפה ומעניין כמה נכונים דבריו של מרטין נימלר . לדאבון כולנו מעטים הם המרימים את קולם. ואלה הם שעשויים להביא תיקון.</p><p> (לא מוכר לי, ואבדוק), </p>',
+		'106054328891371970440',
+		'נהרה כהן',
+		'2016-07-24 16:16:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_7.html',
+		'<p>דברים ה1: </p><p>&quot;וַיִּקְרָא מֹשֶׁה אֶל כָּל יִשְׂרָאֵל וַיֹּאמֶר אֲלֵהֶם שְׁמַע יִשְׂרָאֵל אֶת הַחֻקִּים וְאֶת הַמִּשְׁפָּטִים אֲשֶׁר אָנֹכִי דֹּבֵר בְּאָזְנֵיכֶם הַיּוֹם </p><p>וּלְמַדְתֶּם אֹתָם וּשְׁמַרְתֶּם לַעֲשֹׂתָם&quot;</p><p>וּלְמַדְתֶּם אֹתָם וּשְׁמַרְתֶּם לַעֲשֹׂתָם&quot; = קודם ללמוד את התורה ואחרי כן לשמור לעשות את התורה</p><p>מי שלומד ולא עושה אז זה לא נחשב וככה לא שומרים לעשות את התורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-07-24 18:25:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0213_7.html',
+		'<p>תודה נהרה ודיין</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-07-24 21:36:14'
+		)
+		;
+
