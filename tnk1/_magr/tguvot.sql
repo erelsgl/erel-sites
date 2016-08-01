@@ -16506,3 +16506,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_8.html',
+		'<p>לגבי התנאים לדיבור: ה&quot;חפץ חיים&quot; עסק בכך הרבה. בין השאר, הוא מתאר שבעה תנאים שבהם מותר להגיד לשון הרע &quot;לתועלת&quot;:</p><p>https://he.wikisource.org/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_-_%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A8%D7%A2_%D7%99</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-07-31 16:19:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_8.html',
+		'<p>לגבי התנאים לדיבור: ה&quot;חפץ חיים&quot; עסק בכך הרבה. בין השאר, הוא מתאר שבעה תנאים שבהם מותר להגיד לשון הרע &quot;לתועלת&quot;:</p><p>https://he.wikisource.org/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_-_%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A8%D7%A2_%D7%99</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-07-31 16:19:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-07-31 16:19:37' 
+			WHERE messageid=6351;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_8.html',
+		'<p>לגבי התנאים לדיבור: ה&quot;חפץ חיים&quot; עסק בכך הרבה. בין השאר, הוא מתאר שבעה תנאים שבהם מותר להגיד לשון הרע &quot;לתועלת&quot;:</p><p>https://he.wikisource.org/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D_-_%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A8%D7%A2_%D7%99</p><p>זה אמנם לא מתייחס ישירות למצב שאתה מתאר, אבל אתה יכול להשתמש בכללים האלה כבסיס, ולכתוב כללים המתאימים יותר ללשון ימינו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-07-31 16:20:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-07-31 16:20:28' 
+			WHERE messageid=6352;
+
