@@ -1,5 +1,4 @@
 *.tmp.*
-/sites
 /whatsnew
 /a*n
 /au*rs.txt
@@ -8,3 +7,4 @@
 bo*log.txt
 *.log
 /www_gibuy
+

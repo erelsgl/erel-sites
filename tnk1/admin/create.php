@@ -13,7 +13,7 @@ print "
 ## Requirements
 
 * MySQL 5+
-* PHP 5+
+* PHP 5-6 (but not 7)
 * PHP-MySQL extension
 ";
 
@@ -79,6 +79,9 @@ function update_create_page() {
 
 	print "* create_database_tables();
 ";	create_database_tables();
+
+	print "* create_tnk_views();
+";	create_tnk_views();
 
 	print "
 
@@ -156,4 +159,12 @@ function create_database_tables() {
 	sql_queries_or_die(file_get_contents(dirname(__FILE__)."/make_temporary_tables_girsaot.sql"));
 	sql_queries_or_die(file_get_contents(dirname(__FILE__)."/make_temporary_tables.sql"));
 }
+
+function create_tnk_views() {
+	// from http://stackoverflow.com/a/19010747/827927
+	$tnk_tables = sql_evaluate_array("SHOW TABLES FROM tnk");
+	foreach ($tnk_tables as $tnk_table)
+		sql_query("CREATE VIEW $tnk_table AS SELECT * FROM tnk.$tnk_table");
+}
+
 ?>
