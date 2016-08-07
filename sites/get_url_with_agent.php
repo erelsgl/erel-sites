@@ -16,6 +16,10 @@ function get_url_with_agent($url) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_USERAGENT, 'Erel Bot');
     $result = curl_exec($ch);
+    $error = curl_error($ch);
+    if ($error) {
+         user_error("get_url_with_agent error: '$error'", E_USER_WARNING);
+    }
     curl_close($ch);
     return $result;
 }
