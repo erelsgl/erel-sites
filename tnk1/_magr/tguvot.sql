@@ -16659,3 +16659,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>תהלים לו6: &quot;יהוה בְּהַשָּׁמַיִם חַסְדֶּךָ אֱמוּנָתְךָ עַד שְׁחָקִים&quot; </p><p>תהלים נז11: &quot;כִּי גָדֹל עַד שָׁמַיִם חַסְדֶּךָ וְעַד שְׁחָקִים אֲמִתֶּךָ&quot;</p><p>תהלים קח5: &quot;כִּי גָדוֹל מֵעַל שָׁמַיִם חַסְדֶּךָ וְעַד שְׁחָקִים אֲמִתֶּךָ&quot;</p><p>אֱמוּנָתְךָ עַד שְׁחָקִים = וְעַד שְׁחָקִים אֲמִתֶּךָ</p><p> ----------- אֱמוּנָתְךָ = אֲמִתֶּךָ -----------</p><p>************ א.מ.נ = א.מ.ת ************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-06 17:31:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0107_2.html',
+		'<p>תהלים טז3: &quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot; ------- אז הייה קדוש בארץ</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; ---- לכן הייה צדיק בשמים</p><p>****************הייה צדיק בשמים וקדוש בארץ ****************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-06 17:43:27'
+		)
+		;
+
