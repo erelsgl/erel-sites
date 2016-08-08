@@ -16683,3 +16683,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-32-07.html',
+		'<p></p>',
+		'115085931580888213876',
+		'אורי הירש',
+		'2016-08-07 09:14:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-32-07.html',
+		'<p>וְכֵלַי - כֵּלָיו רָעִים,[הכלי הוא הקלי-פות החיצוניים של עֵשָׂו ולא התוכן הפנימי של ישראל]</p><p>בראשית כז3: &quot;וְעַתָּה שָׂא נָא כֵלֶיךָ תֶּלְיְךָ וְקַשְׁתֶּךָ וְצֵא הַשָּׂדֶה וְצוּדָה לִּי צידה[צָיִד] </p><p>ישעיהו נד17: &quot;כָּל כְּלִי יוּצַר עָלַיִךְ לֹא יִצְלָח וְכָל לָשׁוֹן תָּקוּם אִתָּךְ לַמִּשְׁפָּט תַּרְשִׁיעִי זֹאת נַחֲלַת עַבְדֵי יהוה וְצִדְקָתָם מֵאִתִּי נְאֻם יהוה\'&quot; </p><p>מלאכי א2: &quot;אָהַבְתִּי אֶתְכֶם אָמַר יהוה וַאֲמַרְתֶּם בַּמָּה אֲהַבְתָּנוּ הֲלוֹא אָח עֵשָׂו לְיַעֲקֹב נְאֻם יהוה וָאֹהַב אֶת יַעֲקֹב&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-07 10:24:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-07 10:46:32' 
+			WHERE messageid=6365;
+
