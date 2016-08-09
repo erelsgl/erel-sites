@@ -16714,3 +16714,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-08-07 10:46:32' 
 			WHERE messageid=6365;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_64.html',
+		'<p>אראל וחגי שלום,</p><p>דפדפתי היום בדפים מהעבר והיגעתי אל הדיון הזה בו התחלנו לפני 7 שנים אך לא היגענו לשום מסקנה. בא לכם להמשיך?</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2016-08-08 14:35:08'
+		)
+		;
+
