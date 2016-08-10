@@ -2577,3 +2577,57 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/sofrim_shabot_index_64.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-09 09:39:07'
+			WHERE parent='tnk1/nvia/yjayhu/yj-32-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0412_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-09 15:17:20'
+		WHERE parent='tnk1/messages/prqim_t0412_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0412_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-09 16:27:09'
+		WHERE parent='tnk1/messages/prqim_t0412_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-09 16:27:16'
+			WHERE parent='tnk1/messages/prqim_t0412_1.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-09 16:27:16'
+			WHERE parent='tnk1/messages/prqim_t0412_1.html'
+			;
+

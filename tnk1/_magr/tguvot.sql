@@ -16726,3 +16726,48 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-09 09:39:07' 
+			WHERE messageid=6364;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0412_1.html',
+		'<p>בני העדה האתיופית הם לא יהודים מלשון יהודה אלא לוים בני משה ואשתו הכושית שהיא אשה נוספת לאשה ציפורה</p><p>והלווים האלה [האתיופים לעתיד] התיישבו בנחלת דן זה נכון אך הסיפור על מנליק הוא אינו אמיתי כי שלמה לא שכב עם מלכת שבא</p><p>והאתיופים נטו להאמין לסיפור אגדת העם על מנליק בן שלמה כי זה מאד מחמיא לעדה האתיופית להיות צאצאים של החכם מכל אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-09 15:17:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0412_1.html',
+		'<p>בני העדה האתיופית הם לא יהודים מלשון יהודה אלא לוים בני משה ואשתו הכושית שהיא אשה נוספת לאשה ציפורה</p><p>והלווים האלה [האתיופים לעתיד] התיישבו בנחלת דן זה נכון אך הסיפור על מנליק הוא אינו אמיתי כי שלמה לא שכב עם מלכת שבא</p><p>והאתיופים נטו להאמין לסיפור אגדת העם על מנליק בן שלמה כי זה מאד מחמיא לעדה האתיופית להיות צאצאים של החכם מכל אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-09 16:27:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-09 16:27:16' 
+			WHERE messageid=6368;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-09 16:27:16' 
+			WHERE messageid=6368;
+
