@@ -16833,3 +16833,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>מבקשת עזרה דחופה . אין לי לאן לפנות . 0522639385</p>',
+		'102882370236158703257',
+		'Hana Itshaki',
+		'2016-08-11 11:23:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0412_1.html',
+		'<p>בני העדה האתיופית הם לא יהודים מלשון יהודה אלא לוים בני משה ואשתו הכושית שהיא אשה נוספת לאשה ציפורה</p><p>והלווים האלה [האתיופים לעתיד] התיישבו בנחלת דן זה נכון אך הסיפור על מנליק הוא אינו אמיתי כי שלמה לא שכב עם מלכת שבא</p><p>והאתיופים נטו להאמין לסיפור אגדת העם על מנליק בן שלמה כי זה מאד מחמיא לעדה האתיופית להיות צאצאים של החכם מכל אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-12 04:27:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-12 04:36:59' 
+			WHERE messageid=6374;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-02-23.html',
+		'<p>הנביא ירמיה מדמה את עם ישראל לבכרה בת של גמל צעירה מפני שמשפחת הגמלים ידועים  כצנועים בתשמיש </p><p>מדוע הנביא ירמיה מדמה את עם ישראל לבכרה קלה ולא לבהמה אחרת מפני שמשפחת הגמלים ידועים כצנועים (ראה רשי פרשת וישלח שהגמלים מפורסמים כצנועים בתשמיש)ואת שמוצאך ממשפחה צנועה הלכת ועשית מעשים לא צנועים</p><p>01</p>',
+		'103931031525012300221',
+		'ינון אליה',
+		'2016-08-12 04:53:38'
+		)
+		;
+
