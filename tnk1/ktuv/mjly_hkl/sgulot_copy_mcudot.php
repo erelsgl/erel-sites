@@ -88,7 +88,7 @@ while ($row=sql_fetch_assoc($rows)) {
 	$contents = preg_replace("#^\s+#s","",$contents);
 	$contents = preg_replace("#\s+$#s","",$contents);
 	
-	print "'$contents'";
+	//print "'$contents'";
 	sql_query_or_die("
 	  UPDATE sgulot
 	  SET mcudot=".quote_all($contents)."
