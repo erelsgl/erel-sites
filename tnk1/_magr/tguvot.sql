@@ -16876,3 +16876,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-02-23.html',
+		'<p>ינון אליה - </p><p> בִּכְרָה קַלָּה מְשָׂרֶכֶת דְּרָכֶיהָ -- זה נאמר בלשון גנאי לשלילה ולא לחיוב</p><p>הגמל הוא חיה טמאה למאכל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-12 13:39:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-02-23.html',
+		'<p>ינון אליה	</p><p>בִּכְרָה קַלָּה מְשָׂרֶכֶת דְּרָכֶיהָ -- כי הגמל מנפש החיה שאיננה טהורה -- וזה נאמר בלשון גנאי לשלילה </p><p>כי אם בני ישראל טהורים יחשבו לצאן כבשים לאמור מן הבהמות הטהורות כשמה של רחל אשת יעקב אבינו</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-12 13:43:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-12 13:43:46' 
+			WHERE messageid=6376;
+
