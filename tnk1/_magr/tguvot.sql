@@ -16907,3 +16907,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-08-12 13:43:46' 
 			WHERE messageid=6376;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/gr_tojv.html',
+		'<p>אהבתי אך מהו תושב? הפרשנות המלאה לתושב</p>',
+		'105501108054636838442',
+		'Ilda Raphael',
+		'2016-08-13 16:16:40'
+		)
+		;
+
