@@ -2813,3 +2813,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/hvdlim1/gr_tojv.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/gr_tojv.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-14 13:24:34'
+		WHERE parent='tnk1/kma/hvdlim1/gr_tojv.html'
+		;
+
