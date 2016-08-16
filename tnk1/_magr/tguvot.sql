@@ -16931,3 +16931,110 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>חיי פרעה בין השנים 2332 עד 2450</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-15 18:20:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-15 18:25:59' 
+			WHERE messageid=6380;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אביו של פרעה מלך משנת 2332 השנה אשר החלה העבדות וישראל לעני ורָשׁ</p><p>ובספר קהלת פרק ד14: &quot;כִּי מִבֵּית הָסוּרִים יָצָא לִמְלֹךְ כִּי גַּם בְּמַלְכוּתוֹ נוֹלַד רָשׁ&quot;</p><p>ופרעה בנו מלך מעת אשר נולד גרשם לציפורה בהיות משה בן 35 עד היות משה בן 80</p><p> עד שנת 2450 עת צאת בני ישראל מארץ מצרים בעת משה בן 80</p><p>לאמור כי פרעה מלך 45 שנה מאז היה בן 20 סה&quot;כ חייו 65 שנה</p><p>2450 - 65 שנה = 2385 היא השנה שנולד פרעה</p><p>שמות ב22: &quot;וַתֵּלֶד בֵּן וַיִּקְרָא אֶת שְׁמוֹ גֵּרְשֹׁם כִּי אָמַר גֵּר הָיִיתִי בְּאֶרֶץ נָכְרִיָּה&quot;</p><p>שמות ב23: &quot;וַיְהִי בַיָּמִים הָרַבִּים הָהֵם וַיָּמָת מֶלֶךְ מִצְרַיִם וַיֵּאָנְחוּ בְנֵי יִשְׂרָאֵל מִן הָעֲבֹדָה וַיִּזְעָקוּ וַתַּעַל שַׁוְעָתָם אֶל הָאֱלֹהִים מִן הָעֲבֹדָה&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-15 19:22:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אביו של פרעה מלך משנת 2332 השנה אשר החלה העבדות וישראל לעני ורָשׁ</p><p>ובספר קהלת פרק ד14: &quot;כִּי מִבֵּית הָסוּרִים יָצָא לִמְלֹךְ כִּי גַּם בְּמַלְכוּתוֹ נוֹלַד רָשׁ&quot;</p><p>ופרעה בנו מלך מעת אשר נולד גרשם לציפורה בשנת 2403 עת נולד אלעזר לאהרן בהיות משה בן 33 עד היות משה בן 80</p><p>עד שנת 2450 עת צאת בני ישראל מארץ מצרים בעת משה בן 80</p><p>לאמור כי פרעה מלך 47 שנה מאז היה בן 20 סה&quot;כ חייו 67 שנה</p><p>2450 - 67 שנה = 2383 היא השנה שנולד פרעה</p><p>שמות ב22: &quot;וַתֵּלֶד בֵּן וַיִּקְרָא אֶת שְׁמוֹ גֵּרְשֹׁם כִּי אָמַר גֵּר הָיִיתִי בְּאֶרֶץ נָכְרִיָּה&quot;</p><p>שמות ב23: &quot;וַיְהִי בַיָּמִים הָרַבִּים הָהֵם וַיָּמָת מֶלֶךְ מִצְרַיִם וַיֵּאָנְחוּ בְנֵי יִשְׂרָאֵל מִן הָעֲבֹדָה וַיִּזְעָקוּ וַתַּעַל שַׁוְעָתָם אֶל הָאֱלֹהִים מִן הָעֲבֹדָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-15 19:30:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-15 19:30:04' 
+			WHERE messageid=6381;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-15 19:30:04' 
+			WHERE messageid=6381;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-15 19:30:23' 
+			WHERE messageid=6381;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/new.html',
+		'<p>עוגה זה משהו עגול. לא דווקא מאפה. </p>',
+		'108213288963189559095',
+		'דניאל גיל',
+		'2016-08-15 20:07:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_mcrym.html',
+		'<p>אביו של פרעה מלך משנת 2332 השנה אשר החלה העבדות וישראל לעני ורָשׁ</p><p>ובספר קהלת פרק ד14: &quot;כִּי מִבֵּית הָסוּרִים יָצָא לִמְלֹךְ כִּי גַּם בְּמַלְכוּתוֹ נוֹלַד רָשׁ&quot;</p><p>שמות ב22: &quot;וַתֵּלֶד בֵּן וַיִּקְרָא אֶת שְׁמוֹ גֵּרְשֹׁם כִּי אָמַר גֵּר הָיִיתִי בְּאֶרֶץ נָכְרִיָּה&quot;</p><p>שמות ב23: &quot;וַיְהִי בַיָּמִים הָרַבִּים הָהֵם וַיָּמָת מֶלֶךְ מִצְרַיִם וַיֵּאָנְחוּ בְנֵי יִשְׂרָאֵל מִן הָעֲבֹדָה וַיִּזְעָקוּ וַתַּעַל שַׁוְעָתָם אֶל הָאֱלֹהִים מִן הָעֲבֹדָה&quot;</p><p>ופרעה בנו מלך מעת אשר נולד גרשם לציפורה בשנת 2403 עת נולד אלעזר לאהרן בהיות משה בן 33 עד היות משה בן 80</p><p>עד שנת 2450 עת צאת בני ישראל מארץ מצרים בעת משה בן 80</p><p>לאמור כי פרעה מלך 47 שנה מאז היה בן 20 סה&quot;כ חייו 67 שנה</p><p>2450 - 67 שנה = 2383 היא השנה שנולד פרעה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-16 03:20:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-16 03:21:05' 
+			WHERE messageid=6382;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_10.html',
+		'<p>שלום וברכה.</p><p>תודה על הכתוב במאמרך זה.  בהחלט   מוסיף  דעת  . מהרהורי לבי אכוון  דבר או שניים הברורים לבוחרים בחסד וקיומו..</p><p>חסד הינו גם חס  ד\'</p><p>השאלה מה הפרוש המדבר בנו הסכמה.?</p><p>ייתכן  שהמובן השלילי נולד ממקור המבקש להנציח \'שכל תחתון \'כמנהיג ראלי לחיים.. הנובע מניהול הטבע המבוסס על עמדה מצויה המחזיקה את ההפכים  כמצב מובן. מאפשרת  מצב \'להכיל את ההפכים\' אמת נוספת המתגלה בדבריו  של הנביא ישעיה..</p><p>שהרי כתוב בישעיה פרק נה   ח\'  \'\' כי לא מחשבותי  מחשבותיכם, \'\' ועוד דברים נפלאים..אי לכך..נכר כי בהפכים מתבקש מהאדם לחשוב..ולשחרר מעצמו את הרצון  הפנימי המסוגל לפעול. </p><p>כך אומר  הראי\'\'ה קוק \'\' וכל  עמל המוסר מכוון הוא לגאולת הרצון, והשבתו למקור חייו היסודיים, להתאחד באחדות שלמה וחיה באמתת הרצון הכללי.\'\' אורות קודש ד  תקמט.</p><p></p>',
+		'104711364822650466351',
+		'אווה עמוס',
+		'2016-08-16 07:16:32'
+		)
+		;
+
