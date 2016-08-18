@@ -17081,3 +17081,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-08-17 02:47:02' 
 			WHERE messageid=6388;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_3.html',
+		'<p>מעוניינת בהלוואה אנה פנו אליי לפלאפון 0522623443 תודה מראש זה דחוף</p>',
+		'103204461363133947740',
+		'Silvy Cohen',
+		'2016-08-17 11:04:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_8.html',
+		'<p>נראה שיצא ספר כזה, מאת הרב שרלו:</p><p>http://www.haaretz.co.il/literature/study/.premium-1.3032159</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-08-17 17:30:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p> אֶרֶץ נִתְּנָה בְיַד רָשָׁע כי הוא השופט הקפדן והמחמיר ואת הצדיקים פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה שלא ירחמו לעשות הנחות לצדיקים</p><p>כשאֶרֶץ נִתְּנָה בְיַד רָשָׁע אז האתגרים והמבחנים קשים מאד לצדיקים בארץ</p><p>ואם לא יהיה שופט רשע ומחמיר אז במה יבחנו הצדיקים ואיכה יעברו את המסננת הזאת בדרך לגן עדן לחזון אחרית הימים בעולם הבא</p><p>הלא רק אם הצדיקים האלה יעברו בשלום את המכשולים שמציב בפניהם הרשע אשר הארץ נתנה בידו רק אז נדע מי הם באמת הצדיקים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-17 20:33:48'
+		)
+		;
+
