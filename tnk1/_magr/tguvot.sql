@@ -17117,3 +17117,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שום אני חייבת עזרה,אני צריכה הלוואה על סך 60,000 שקל לכיסוי המשכנתא  טלפון 050-8753038</p>',
+		'114865947251138930748',
+		'ענת אבוטבול',
+		'2016-08-18 08:47:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p></p>',
+		'106762860153779166178',
+		'דבורה שרמן',
+		'2016-08-19 06:37:52'
+		)
+		;
+

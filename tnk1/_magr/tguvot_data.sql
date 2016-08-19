@@ -3056,3 +3056,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t2709_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/bclel.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-18 08:47:45'
+		WHERE parent='tryg/ribit0/bclel.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_5.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-19 06:37:52'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
