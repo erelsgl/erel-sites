@@ -17229,3 +17229,62 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-08-20 06:59:19' 
 			WHERE messageid=6397;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-20 12:40:22' 
+			WHERE messageid=6397;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0507_0.html',
+		'<p>דברים ז14: &quot;בָּרוּךְ תִּהְיֶה מִכָּל הָעַמִּים לֹא יִהְיֶה בְךָ עָקָר וַעֲקָרָה וּבִבְהֶמְתֶּךָ&quot;</p><p>לכן תבינו גם בהפוך....</p><p>שמקולל תהיה מכל העמים כשיהיה בך עקר ועקרה ובבהמתך [בכל חית השדה]</p><p>************ ולכן... על פי התורה אסור לעקר בעלי חיים ************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-20 17:14:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p></p><p>צוואת יהודה פרק יד כתוב:</p><p>ז) ועל כן ***תבונה רבה*** דרושה לאיש השותה יין, וזה יהיה שֶכֶל שתיית היין אשר ישתה איש כל עוד יבוש. </p><p>איוב יב12: &quot;בִּישִׁישִׁים חָכְמָה וְאֹרֶךְ יָמִים תְּבוּנָה&quot; ולזקנים הנבונים טוב לשתות היין </p><p>על כן הצדיק נח שתה היין בגיל מאוחר ובחלק השלשי האחרון לחייו</p><p>בגיל 600 שנה שתה היין ובגיל 950 שנה מת</p><p>ומקביל לדור הזה</p><p>בגיל 60 שנה טוב לשתות היין עד גיל 95 ואולי יותר</p><p>כי תבונה רבה דרושה לאיש השותה יין, </p><p>------</p><p>תהלים צ10: &quot;יְמֵי שְׁנוֹתֵינוּ בָהֶם שִׁבְעִים שָׁנָה וְאִם בִּגְבוּרֹת שְׁמוֹנִים שָׁנָה ... וְרָהְבָּם עָמָל וָאָוֶן כִּי גָז חִישׁ וַנָּעֻפָה&quot;</p><p>חיים בממוצע 75 שנה לכן בסביבות גיל 50 אם יש תבונה נכון לשתות היין</p><p>במדבר ח25: &quot;וּמִבֶּן חֲמִשִּׁים שָׁנָה יָשׁוּב מִצְּבָא הָעֲבֹדָה וְלֹא יַעֲבֹד עוֹד&quot;</p><p>כי עד גיל 50 משרתים בקודש ואין לשתות היין עד אחרי גיל 50 כשמסיימים את צבא הקודש אז יודעים את אלהים ותבונתו</p><p>לכן אמר משה בספר דברים כט5: &quot;לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p><p>************** ורק כאשר יודעים את האלהים ותבונתו בגיל מאוחר רק אז ניתן לשתות בתבונה את היין **************</p><p>http://tora.us.fm/tnk1/daian</p><p>    דַיָּן שֵׁם וּמִשְׁפָּטָיו  </p><p>  מורה דרך הקודש    </p><p>  </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-20 17:14:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-21 04:44:40' 
+			WHERE messageid=5907;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-21 04:44:44' 
+			WHERE messageid=5908;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-21 04:44:47' 
+			WHERE messageid=5909;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-08-21 04:44:52' 
+			WHERE messageid=6393;
+

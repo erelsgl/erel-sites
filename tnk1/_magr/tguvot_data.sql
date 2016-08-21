@@ -3193,3 +3193,73 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t26e7_1.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-20 12:40:22'
+			WHERE parent='tnk1/messages/prqim_t26e7_1.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0507_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-20 17:14:30'
+		WHERE parent='tnk1/messages/prqim_t0507_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2823_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-08-20 17:14:51'
+		WHERE parent='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-21 04:44:40'
+			WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-21 04:44:44'
+			WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-21 04:44:47'
+			WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-08-21 04:44:52'
+			WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+			;
+
