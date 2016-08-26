@@ -17386,3 +17386,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-08-23 15:40:46' 
 			WHERE messageid=6406;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>אני מבקשת לדבר איתכם באופן דחוף. רוצה לעשות חסד עם אדם העובד קשה לפרנסתו. קיבל החלטה להפטר בפשיטת רגל אבל אין לו את הכסף. מתבייש לבקש אבל הגיע למצב כלכלי קשה ביותר. אני עושה את זה בשבילו ואודה אם תצרו איתי קשר - 0502860229.</p><p></p>',
+		'115572675939726060765',
+		'smadar ganon',
+		'2016-08-25 08:39:45'
+		)
+		;
+
