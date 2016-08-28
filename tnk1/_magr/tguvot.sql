@@ -17410,3 +17410,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_2.html',
+		'<p>שיר השירים ב5: &quot;סַמְּכוּנִי בָּאֲשִׁישׁוֹת רַפְּדוּנִי בַּתַּפּוּחִים כִּי חוֹלַת אַהֲבָה אָנִי&quot; </p><p>שיר השירים ב5: &quot;שַׂמְּחוּנִי בָּאֲשִׁישׁוֹת רַפְּדוּנִי בַּתַּפּוּחִים כִּי חוֹלַת אַהֲבָה אָנִי&quot; </p><p>סַמְּכוּנִי בָּאֲשִׁישׁוֹת = שַׂמְּחוּנִי בָּאֲשִׁישׁוֹת [כי ענבי הגפן משמחים את האלהים]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-27 17:11:48'
+		)
+		;
+
