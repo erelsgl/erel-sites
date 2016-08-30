@@ -17513,3 +17513,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-08-02.html',
+		'<p>רמז בפסוקים האלה</p><p>תהלים פב6: &quot;אני אָמַרְתִּי אֱלֹהִים אַתֶּם וּבְנֵי עֶלְיוֹן כֻּלְּכֶם&quot;</p><p>תהלים פב7: &quot;אָכֵן כְּאָדָם תְּמוּתוּן וּכְאַחַד הַשָּׂרִים תִּפֹּלוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-29 10:40:56'
+		)
+		;
+
