@@ -17525,3 +17525,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-08-02.html',
+		'<p>ופתרון מענה החידה .......</p><p>דָּוִיד אִישׁ הָאֱלֹהִים = ועל כן לא יגור מכל רע ובגלל זה אומר כמבקש מהאלהים &quot;בְּחָנֵנִי יהוה וְנַסֵּנִי צרופה[צָרְפָה] כִלְיוֹתַי וְלִבִּי&quot;</p><p>אך אתם כְּאָדָם תְּמוּתוּן וּכְאַחַד הַשָּׂרִים תִּפֹּלוּ אינכם בני עליון ולא אלהים לכן כבהמות תחשבו ותאמרו אל תביאנו לידי ניסיון ולא לידי ביזיון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-08-31 17:59:10'
+		)
+		;
+
