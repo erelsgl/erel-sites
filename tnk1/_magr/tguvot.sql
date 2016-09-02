@@ -17537,3 +17537,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-08-02.html',
+		'<p>גם איוב אמר,  איוב כג10: &quot;כִּי יָדַע דֶּרֶךְ עִמָּדִי בְּחָנַנִי כַּזָּהָב אֵצֵא&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-09-01 09:34:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>אֶרֶץ נִתְּנָה בְיַד רָשָׁע</p><p>משכן האדם [הגוף הארצי] ניתן בידי רשע שנמצא בשמים והוא מלאך רשע</p><p>רק ביום המות נפטרים מהמלאך הרשע הזה</p><p>אבל לעת עתה יש לדעת את דרך הקדושים בארץ</p><p>תהלים טז3: &quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-09-01 15:07:08'
+		)
+		;
+
