@@ -17561,3 +17561,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>יישר כח גדול!</p><p>מצאתי את http://tora.us.fm/tnk1/ljon/sikumim/otiototiot.doc אבל האם לא ניתן לסדר את כל 24 אלף פסוקי התנך בטבלת אקסל (או 24 טבלאות) מסודרים לפי א\'ב\' וסידור משנה אות אחרונה?</p>',
+		'107942238226085626003',
+		'Gidon Ariel',
+		'2016-09-06 07:26:08'
+		)
+		;
+
