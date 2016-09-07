@@ -17573,3 +17573,193 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אין לי מושג מה היה שם.....אני זוכר שהיה מלא שתיה באמבטיה של סבתא....עם מים וקרח וסיידר תפוחים שמאוד היה לי טעים.....</p><p>פעם ראשונה שטעמתי התאהבתי ! לא זוכר....הייתי בן חמש 55555</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 08:40:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אין לי מושג מה היה שם.....אני זוכר שהיה מלא שתיה באמבטיה של סבתא....עם מים וקרח וסיידר תפוחים שמאוד היה לי טעים.....</p><p>פעם ראשונה שטעמתי התאהבתי ! לא זוכר....הייתי בן חמש 55555</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 08:40:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אין לי מושג מה היה שם.....אני זוכר שהיה מלא שתיה באמבטיה של סבתא....עם מים וקרח וסיידר תפוחים שמאוד היה לי טעים.....</p><p>פעם ראשונה שטעמתי התאהבתי ! לא זוכר....הייתי בן חמש 55555</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 08:41:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אין לי מושג מה היה שם.....אני זוכר שהיה מלא שתיה באמבטיה של סבתא....עם מים וקרח וסיידר תפוחים שמאוד היה לי טעים.....</p><p>פעם ראשונה שטעמתי התאהבתי ! לא זוכר....הייתי בן חמש 55555</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 08:41:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אין לי מושג מה היה שם.....אני זוכר שהיה מלא שתיה באמבטיה של סבתא....עם מים וקרח וסיידר תפוחים שמאוד היה לי טעים.....</p><p>פעם ראשונה שטעמתי התאהבתי ! לא זוכר....הייתי בן חמש 55555</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 08:41:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>שמשון פנה אל אביו הרחום והחנון הרגיש והמבין ולא חלילה בגלל שהוא לדבריך חלש אופי </p><p>אלא ההיפך כי אביו של שמשון  משל בביתו על אשתו ככתוב בתורה על כן שמשון פנה אליו אל אביו כי דעתו היא הקובעת בבית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-09-06 12:12:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>זה מה שהיה......זה מה שאני זוכר מהחתונה ואת החופה זהו .</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 15:23:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>ואת החיים בבית לאחר החתונה.....ומה שעשו לבני....אימלל אותו !!!!!</p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 15:25:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/hory_jmjon.html',
+		'<p>אני צריך להיות חזק ולהגמל מסמים ! שלום !</p><p></p>',
+		'117549139914661923489',
+		'ran cohen',
+		'2016-09-06 15:28:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 17:15:23' 
+			WHERE messageid=6428;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:09:49' 
+			WHERE messageid=6423;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:09:50' 
+			WHERE messageid=6424;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:09:51' 
+			WHERE messageid=6425;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:10:01' 
+			WHERE messageid=6426;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:10:02' 
+			WHERE messageid=6427;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:10:03' 
+			WHERE messageid=6429;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:10:03' 
+			WHERE messageid=6430;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-06 18:10:04' 
+			WHERE messageid=6431;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אפשר, אבל הטבלה תהיה מאד ארוכה. </p><p>בכל מקרה, בעזרת חיפוש ביטוי רגולרי אתה יכול לבנות בעצמך טבלה כזאת.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-09-06 18:11:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-07 07:59:40' 
+			WHERE messageid=6428;
+
