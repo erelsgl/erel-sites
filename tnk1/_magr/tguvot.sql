@@ -17811,3 +17811,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_thm_0.html',
+		'<p>הקטע בשירה האוגריתית מופיע ב&quot;עלילת אקהת&quot; לא נראה שזה יעזור למישהו..</p><p>בראשית רבה: פרשת ויחי צח </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2016-09-09 09:14:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_thm_0.html',
+		'<p>תודה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-09-09 13:09:26'
+		)
+		;
+
