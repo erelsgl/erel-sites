@@ -17835,3 +17835,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_11.html',
+		'<p>תודה אלברט, מסכים עם דבריך.</p><p>אוסיף שדיון בשושלת הבעייתית של המשיח אפשר למצוא בספר &quot;לפני ולפנים&quot; של אבשלום אליצור, וכן בספר &quot;קדשות וקדושות&quot; של רות איוונוב קרא, את שני הספרים סקרתי כאן.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-09-10 20:40:34'
+		)
+		;
+
