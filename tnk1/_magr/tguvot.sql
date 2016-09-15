@@ -17847,3 +17847,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p> אני צריך הלווה דחוף 0536068101</p>',
+		'113889981635089194850',
+		'בן לביא',
+		'2016-09-14 10:49:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p> אני צריך הלווה דחוף 0536068101</p>',
+		'113889981635089194850',
+		'בן לביא',
+		'2016-09-14 10:50:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p> אני צריך הלווה דחוף 0536068101</p>',
+		'113889981635089194850',
+		'בן לביא',
+		'2016-09-14 10:50:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-14 10:51:21' 
+			WHERE messageid=6441;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-14 10:51:22' 
+			WHERE messageid=6440;
+
