@@ -17897,3 +17897,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-09-14 10:51:22' 
 			WHERE messageid=6440;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_dvrim_dm-23-19_1.html',
+		'<p>כל הכבוד!! *****</p>',
+		'118041761795896036025',
+		'Helena Bereby',
+		'2016-09-15 14:46:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_dvrim_dm-23-19_1.html',
+		'<p>מחיר כ-לב = סחר ב-לב המייצג רגשות [כמו אלה שעושים מניפולציות ברגשות]</p><p>שיר השירים ח7: &quot;מַיִם רַבִּים לֹא יוּכְלוּ לְכַבּוֹת אֶת הָאַהֲבָה וּנְהָרוֹת לֹא יִשְׁטְפוּהָ אִם יִתֵּן אִישׁ אֶת כָּל הוֹן בֵּיתוֹ בָּאַהֲבָה בּוֹז יָבוּזוּ לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-09-15 16:02:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_dvrim_dm-23-19_1.html',
+		'<p>מחיר כ-לב = סחר ב-לב המייצג רגשות [כמו אלה שעושים מניפולציות ברגשות]</p><p>שיר השירים ח7: &quot;מַיִם רַבִּים לֹא יוּכְלוּ לְכַבּוֹת אֶת הָאַהֲבָה וּנְהָרוֹת לֹא יִשְׁטְפוּהָ אִם יִתֵּן אִישׁ אֶת כָּל הוֹן בֵּיתוֹ בָּאַהֲבָה בּוֹז יָבוּזוּ לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-09-15 16:03:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-15 16:03:11' 
+			WHERE messageid=6445;
+
