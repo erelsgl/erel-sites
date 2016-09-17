@@ -17940,3 +17940,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-09-15 16:03:11' 
 			WHERE messageid=6445;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/odot.html',
+		'<p>מופיעה מודעה עם מס טל 0545342199 בגמחים -</p><p>בבקשה להוריד  אותה מהאתר ולראות אותה כמבוטלת, תודה</p>',
+		'116384409175368245955',
+		'David Dayan',
+		'2016-09-16 08:04:38'
+		)
+		;
+
