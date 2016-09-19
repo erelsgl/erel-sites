@@ -17952,3 +17952,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_1.html',
+		'<p>תפילה לזיווג הרב שלום ... www.breslevmeir.com/תפילה-לזיווג</p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2016-09-18 12:52:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-18 12:57:02' 
+			WHERE messageid=6447;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_1.html',
+		'<p>תפילה לזיווג הגון של הרב שלום</p><p>http://www.breslevmeir.com</p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2016-09-18 12:57:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_1.html',
+		'<p>תפילה לזיווג הגון של הרב שלום</p><p>http://www.breslevmeir.com</p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2016-09-18 13:02:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-18 13:02:44' 
+			WHERE messageid=6448;
+
