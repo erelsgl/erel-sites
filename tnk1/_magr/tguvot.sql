@@ -18002,3 +18002,414 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-09-18 13:02:44' 
 			WHERE messageid=6448;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4yxtr.html',
+		'<p>זה לא עוזר לי בכלל איפה כל הפירושים של יונה</p>',
+		'110596002805714707979',
+		'דנה נאור',
+		'2016-09-26 12:41:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4yxtr.html',
+		'<p>איפה כל הפירושים של יונה?</p>',
+		'110596002805714707979',
+		'דנה נאור',
+		'2016-09-26 12:42:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-26 12:42:19' 
+			WHERE messageid=6451;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/prjot4yxtr.html',
+		'<p>???</p>',
+		'110596002805714707979',
+		'דנה נאור',
+		'2016-09-26 12:42:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:03:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:04:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:09:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:10:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:11:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:12:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:26:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:26:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:26:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:27:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:27:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:28:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:31:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:32:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:32:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:32:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:33:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>בנגב נמצאו 207 אתרי פולחן עם מצבות וכן נמצאו בארץ 14 מקדשים מתקופות הכלכוליתית והברונזה הקדומה .</p><p> המקדשים הראשונים בעולם הם מקדש הנמרים בבקעת עובדה והמקדש הכלכוליתי בעין גד</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:34:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:42' 
+			WHERE messageid=6454;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:43' 
+			WHERE messageid=6455;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:45' 
+			WHERE messageid=6456;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:46' 
+			WHERE messageid=6457;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:47' 
+			WHERE messageid=6458;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:47' 
+			WHERE messageid=6459;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:48' 
+			WHERE messageid=6460;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:49' 
+			WHERE messageid=6461;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:50' 
+			WHERE messageid=6462;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:50' 
+			WHERE messageid=6463;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:51' 
+			WHERE messageid=6463;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:51' 
+			WHERE messageid=6463;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:51' 
+			WHERE messageid=6463;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:52' 
+			WHERE messageid=6464;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:53' 
+			WHERE messageid=6465;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:54' 
+			WHERE messageid=6466;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:54' 
+			WHERE messageid=6467;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:55' 
+			WHERE messageid=6468;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:56' 
+			WHERE messageid=6469;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-09-27 05:34:57' 
+			WHERE messageid=6470;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-22.html',
+		'<p>השינוי בעבודת ה\' מאבן מונוליתית ואשרה  למבנה מקדש ומזבח מורכבים טרם התברר מספיק</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2016-09-27 05:35:53'
+		)
+		;
+
