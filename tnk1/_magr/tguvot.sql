@@ -18413,3 +18413,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>צריכה הלווה סכום 8000 ש&quot;ח חולת סרטן לא אוכל לשלם דכר דירה 2,5-3 חודשים כי אעבור כימאוטרםיה ונכות מביטוח לאומי רק אחרי 90 יום.עובדת משרה חלקית אין מספיק ימי מחלה נייד שלי 052-5716305</p>',
+		'113950208871731639788',
+		'dina wasserman',
+		'2016-09-27 10:49:25'
+		)
+		;
+
