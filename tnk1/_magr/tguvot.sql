@@ -18425,3 +18425,48 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-40-27.html',
+		'<p>ישעיהו מ27: &quot;לָמָּה תֹאמַר יַעֲקֹב וּתְדַבֵּר יִשְׂרָאֵל נִסְתְּרָה דַרְכִּי מיהוה וּמֵאֱלֹהַי מִשְׁפָּטִי יַעֲבוֹר&quot; ????</p><p>כי אני דיין ומאלוהי משפטי יעבור וכבר קצתי בחיי</p><p>אני  הגבר אשר דרכו נסתרה ויסך אלוה בעדי</p><p>איוב ג23: &quot;לְגֶבֶר אֲשֶׁר דַּרְכּוֹ נִסְתָּרָה וַיָּסֶךְ אֱלוֹהַּ בַּעֲדוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-01 19:29:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-40-27.html',
+		'<p>ישעיהו מ27: &quot;לָמָּה תֹאמַר יַעֲקֹב וּתְדַבֵּר יִשְׂרָאֵל נִסְתְּרָה דַרְכִּי מיהוה וּמֵאֱלֹהַי מִשְׁפָּטִי יַעֲבוֹר&quot; ????</p><p>כי אני דיין וּמֵאֱלֹהַי מִשְׁפָּטִי יַעֲבוֹר וכבר קצתי בחיי</p><p>אני הגבר אשר דרכו נסתרה ויסך אלוה בעדי</p><p>איוב ג23: &quot;לְגֶבֶר אֲשֶׁר דַּרְכּוֹ נִסְתָּרָה וַיָּסֶךְ אֱלוֹהַּ בַּעֲדוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-01 19:30:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-01 19:30:43' 
+			WHERE messageid=6473;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-02 04:29:37' 
+			WHERE messageid=6474;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-02 06:13:54' 
+			WHERE messageid=6473;
+

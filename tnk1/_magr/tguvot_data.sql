@@ -119,3 +119,57 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-40-27.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-01 19:29:53'
+		WHERE parent='tnk1/nvia/yjayhu/yj-40-27.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-40-27.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-01 19:30:40'
+		WHERE parent='tnk1/nvia/yjayhu/yj-40-27.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-01 19:30:43'
+			WHERE parent='tnk1/nvia/yjayhu/yj-40-27.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-02 04:29:37'
+			WHERE parent='tnk1/nvia/yjayhu/yj-40-27.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-02 06:13:54'
+			WHERE parent='tnk1/nvia/yjayhu/yj-40-27.html'
+			;
+
