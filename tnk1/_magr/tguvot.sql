@@ -18513,3 +18513,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-10-04 04:34:17' 
 			WHERE messageid=6476;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>תהלים סח34: &quot;לָרֹכֵב בִּשְׁמֵי שְׁמֵי קֶדֶם הֵן יִתֵּן בְּקוֹלוֹ קוֹל עֹז&quot;</p><p>----------------</p><p>כו: אין כאל ישרון רכב שמים בעזרך ובגאותו שחקים</p><p>כז: מענה אלהי קדם ומתחת זרעת עולם ויגרש מפניך אויב ויאמר השמד</p><p>כח: וישכן ישראל בטח בדד עין יעקב אל ארץ דגן ותירוש אף שמיו יערפו טל</p><p>כט: אשריך ישראל מי כמוך עם נושע ביהוה מגן עזרך ואשר חרב גאותך ויכחשו איביך לך ואתה על במותימו תדרך</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-04 09:41:49'
+		)
+		;
+
