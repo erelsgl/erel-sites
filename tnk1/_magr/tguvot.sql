@@ -18561,3 +18561,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-29-01.html',
+		'<p>מעניין שהפרשנות ההפוכה לפשט של רבנים וחז&quot;ל אינה עולה עם מגילת \'רז נהיה\'/\'מוסר למבין\':</p><p>&quot;היה בעל ריב לחפצכה ואיש תוכחות לכול נעוותכה (עוונותיך). דבר משפטיכה כמושל צדיק. אל תקח לשונכה ואל תעבור על פשעיכה. היה כאיש עני בריבך משפטכה .... קח ואז יראה אל ושב אפו ועבר (סלח) על חטאתכה כיא לפני אפו לוא יעמוד כול ומי יצדק במשפטו ובלי סליחה איכה יקום לפניו כול.&quot;</p>',
+		'107557230158752251623',
+		'DeadSea Scrolls',
+		'2016-10-11 12:38:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-11 12:38:08' 
+			WHERE messageid=6482;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-29-01.html',
+		'<p>מעניין שהפרשנות ההפוכה לפשט של רבנים וחז&quot;ל אינה עולה עם מגילת \'רז נהיה\'/\'מוסר למבין\':</p><p>&quot;היה בעל ריב לחפצכה ואיש תוכחות לכול נעוותכה (עוונותיך). דבר משפטיכה כמושל צדיק. אל תקח לשונכה ואל תעבור על פשעיכה. היה כאיש עני בריבך משפטכה .... קח ואז יראה אל ושב אפו ועבר (סלח) על חטאתכה כיא לפני אפו לוא יעמוד כול ומי יצדק במשפטו ובלי סליחה איכה יקום לפניו כול.&quot; (Frg. 2 Col. i (formerly 1 i). הקטע התאפשר בזכות ההדרה של קימרון, החיבורים העבריים, כרך ב\', עמ\' 152)</p><p></p>',
+		'107557230158752251623',
+		'DeadSea Scrolls',
+		'2016-10-11 12:39:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-29-01.html',
+		'<p>משלי כט1: &quot;אִישׁ תּוֹכָחוֹת מַקְשֶׁה עֹרֶף, פֶּתַע יִשָּׁבֵר וְאֵין מַרְפֵּא&quot;</p><p>איש שמוכיחים אותו רבות אבל הוא מקשה את ערפו ולא שומע = פתע פתאום ישבר ואין מרפא לאמור המכה הזאת סופנית</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-11 13:09:51'
+		)
+		;
+
