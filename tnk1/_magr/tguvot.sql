@@ -18917,3 +18917,67 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-10-17 05:19:12' 
 			WHERE messageid=6505;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>אנא יהוה סלח לנו כי חטאנו בעץ הדעת אשר ציוית לא לגעת בו ועתה הנה אנחנו מתוודים ככתוב בתורה</p><p>ויקרא כו40: &quot;וְהִתְוַדּוּ אֶת עונם וְאֶת עון אֲבֹתָם בְּמַעֲלָם אֲשֶׁר מָעֲלוּ בִי וְאַף אֲשֶׁר הָלְכוּ עִמִּי בְּקֶרִי&quot;</p><p>במדבר ה7: &quot;וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ&quot; </p><p>ויקרא ה24: &quot;אוֹ מִכֹּל אֲשֶׁר יִשָּׁבַע עָלָיו לַשֶּׁקֶר וְשִׁלַּם אֹתוֹ בְּרֹאשׁוֹ וַחֲמִשִׁתָיו יֹסֵף עָלָיו לַאֲשֶׁר הוּא לוֹ יִתְּנֶנּוּ בְּיוֹם אַשְׁמָתוֹ&quot; </p><p>וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ&quot; --- למשיח אלהים הוא עץ האלהים בתוך הגן כי הוא פרי עץ הדעת שחטאנו בו </p><p>ויקרא ה23: </p><p>&quot;וְהָיָה כִּי יֶחֱטָא וְאָשֵׁם וְהֵשִׁיב אֶת הַגְּזֵלָה אֲשֶׁר גָּזָל אוֹ אֶת הָעֹשֶׁק אֲשֶׁר עָשָׁק אוֹ אֶת הַפִּקָּדוֹן אֲשֶׁר הָפְקַד אִתּוֹ אוֹ אֶת הָאֲבֵדָה אֲשֶׁר מָצָא&quot;</p><p>והנה כעת אנחנו התוודינו וגם משיבים לעץ הדעת כל אשר אכלנו ממנו כל אשר חטאנו בו </p><p>וגם משיבים אנחנו בנוסף חמישית לעץ אלהים אשר אשמנו לו כי קדוש הוא</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-17 12:04:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>אנא יהוה סלח לנו כי חטאנו בעץ הדעת אשר ציוית לא לגעת בו ועתה הנה אנחנו מתוודים ככתוב בתורה</p><p>ויקרא כו40: &quot;וְהִתְוַדּוּ אֶת עונם וְאֶת עון אֲבֹתָם בְּמַעֲלָם אֲשֶׁר מָעֲלוּ בִי וְאַף אֲשֶׁר הָלְכוּ עִמִּי בְּקֶרִי&quot;</p><p>במדבר ה7: &quot;וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ&quot;</p><p>וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ&quot; --- למשיח אלהים הוא עץ האלהים בתוך הגן כי הוא פרי עץ הדעת שחטאנו בו</p><p>והנה כעת אנחנו התוודינו וגם משיבים לעץ הדעת כל אשר אכלנו ממנו כל אשר חטאנו בו</p><p>וגם משיבים אנחנו בנוסף חמישית לעץ אלהים אשר אשמנו לו כי קדוש הוא</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-17 12:08:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-17 12:08:34' 
+			WHERE messageid=6507;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-17 20:12:49' 
+			WHERE messageid=6491;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-17 20:12:52' 
+			WHERE messageid=6489;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-17 20:12:54' 
+			WHERE messageid=6488;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-30-2123.html',
+		'<p>שמחתי לעזור</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-10-17 20:14:04'
+		)
+		;
+
