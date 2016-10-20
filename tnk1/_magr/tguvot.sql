@@ -18981,3 +18981,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>הי.</p><p>2 הערות:</p><p>א. אולי תועיל אפשרות להגדיר חיפוש כולל אותיות סופיות, כלומר שחיפוש &quot;שלום&quot; ימצא גם &quot;שלומ&quot; מבלי שיצטרכו לכתוב &quot;שלו(מ|ם)&quot;</p><p>ב. אני משתמש הרבה באתר לחיפוש שורשים. חיפוש שורש תלת עיצורי הוא פשוט: למשל כדי לחפש את השורש אמר נחפש &quot;אי?ו?מי?ו?ר&quot;. למישהו יש רעיון איך לחפש שורש מגזירות הנחים למינהם: למשל איך אפשר לחפש את השורש מחה : וימח, אמחה וכו\' מבלי לקבל &quot;ויצמח&quot;?</p><p></p>',
+		'107647340770395430252',
+		'Matan Wiesner',
+		'2016-10-19 10:40:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>הי.</p><p>2 הערות:</p><p>א. אולי תועיל אפשרות להגדיר חיפוש כולל אותיות סופיות, כלומר שחיפוש &quot;שלום&quot; ימצא גם &quot;שלומ&quot; מבלי שיצטרכו לכתוב &quot;שלו(מ|ם)&quot;</p><p>ב. אני משתמש הרבה באתר לחיפוש שורשים. חיפוש שורש תלת עיצורי הוא פשוט: למשל כדי לחפש את השורש אמר נחפש &quot;אי?ו?מי?ו?ר&quot;. למישהו יש רעיון איך לחפש שורש מגזירות הנחים למינהם: למשל איך אפשר לחפש את השורש מחה : וימח, אמחה וכו\' מבלי לקבל &quot;ויצמח&quot;?</p><p></p>',
+		'107647340770395430252',
+		'Matan Wiesner',
+		'2016-10-19 12:22:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_1.html',
+		'<p>אהבה זו הקרבה</p><p>ואלהי אברהם יצחק ויעקב מלמדנו בעקדת יצחק כי יהוה לא חפץ בקורבן אדם כי אם בקורבן מהבהמות הטהורות</p><p>אך פר בן-בקר הוא ראשית דרכי אל ורק אם אתה מהלך בדרכי אל תוכל להקריב שנאמר  הָעֹשׂוֹ יַגֵּשׁ חַרְבּוֹ:</p><p>על כן דבר יהוה ביד עבדו בספר הנביא יחזקאל מד15 ככתוב: </p><p>&quot;וְהַכֹּהֲנִים הַלְוִיִּם בְּנֵי צָדוֹק אֲשֶׁר שָׁמְרוּ אֶת מִשְׁמֶרֶת מִקְדָּשִׁי בִּתְעוֹת בְּנֵי יִשְׂרָאֵל מֵעָלַי הֵמָּה יִקְרְבוּ אֵלַי לְשָׁרְתֵנִי וְעָמְדוּ לְפָנַי לְהַקְרִיב לִי חֵלֶב וָדָם נְאֻם אֲדֹנָי יהוה\'&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-20 05:34:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-20 05:50:27' 
+			WHERE messageid=6510;
+
