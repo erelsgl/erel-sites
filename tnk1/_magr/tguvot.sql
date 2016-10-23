@@ -19177,3 +19177,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/tarikim.html',
+		'<p>לא מסתדר עם התאריכים בסדר כולם רבה. </p><p>שמה נכתב שהמצור על יריחו החל בכ&quot;ב ניסן. </p>',
+		'105766872995282816226',
+		'Shmuel Pollak',
+		'2016-10-22 18:56:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-22 18:56:32' 
+			WHERE messageid=6524;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/tarikim.html',
+		'<p>לא מסתדר עם התאריכים בסדר עולם רבה.</p><p>שמה נכתב שהמצור על יריחו החל בכ&quot;ב ניסן. </p>',
+		'105766872995282816226',
+		'Shmuel Pollak',
+		'2016-10-22 18:56:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/14.html',
+		'<p>האם עכשיו מניחים תפילין ? יום ראשון 6:30 בבוקר כן או לא </p><p></p>',
+		'102675391560354315569',
+		'לאה גינת',
+		'2016-10-23 03:28:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p><p>וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot; --- כן אחי בסופו של דבר כל הרוחות כולם &quot;חוזרים בתשובה&quot; גם הדתיים גם החילוניים וגם כל הגויים</p><p>ואם אתם תזכרו זאת בדרך במסע החיים אז תוכלו להיות בעלי אורך רוח [לגלות סבלנות] לכל איש בדרך כי גם רוחו בסוף תשוב אל האלהים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-23 05:32:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p><p>וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot; - כן אחי בסופו של דבר כל הרוחות כולם &quot;חוזרים בתשובה&quot; דתיים וחילוניים וגם הגויים</p><p>ואתם זכרו זאת בדרך במסע החיים ונהגו באורך אפיים [גלו סבלנות] לכל איש בדרך כי גם רוחו בסוף תשוב אל האלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-23 05:35:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-23 05:35:48' 
+			WHERE messageid=6527;
+
