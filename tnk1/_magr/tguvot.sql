@@ -19306,3 +19306,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-10-23 16:53:09' 
 			WHERE messageid=6531;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-24 12:49:26' 
+			WHERE messageid=6532;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1028_1.html',
+		'<p>מסכים איתך נהרה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-10-24 19:20:03'
+		)
+		;
+
