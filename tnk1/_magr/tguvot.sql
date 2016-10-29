@@ -19466,3 +19466,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-10-28 06:52:06' 
 			WHERE messageid=6542;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/xte_adm_qyn.html',
+		'<p>במה עונשו של קין חמור יותר מעונשו של האדם?</p>',
+		'107529664117144396594',
+		'Alla Alla',
+		'2016-10-29 05:55:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/xte_adm_qyn.html',
+		'<p>במה עונשו של קין חמור יותר מעונשו של האדם?</p>',
+		'107529664117144396594',
+		'Alla Alla',
+		'2016-10-29 05:55:55'
+		)
+		;
+
