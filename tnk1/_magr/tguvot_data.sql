@@ -1551,3 +1551,126 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/nfil.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-31 09:29:43'
+			WHERE parent='tnk1/tora/brejit/xte_adm_qyn.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-31 09:31:08'
+			WHERE parent='tnk1/nvir/mlkima/ma-01-0710.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-31 09:31:13'
+			WHERE parent='tnk1/nvir/mlkima/ma-01-0710.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-10-31 09:31:14'
+			WHERE parent='tnk1/nvir/mlkima/ma-01-0710.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/dvrim/sixon.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-31 13:15:21'
+		WHERE parent='tnk1/tora/dvrim/sixon.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/dvrim/sixon.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-31 13:15:27'
+		WHERE parent='tnk1/tora/dvrim/sixon.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/yhojua/12avnim_byrdn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-31 18:25:37'
+		WHERE parent='tnk1/nvir/yhojua/12avnim_byrdn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/yhojua/12avnim_byrdn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-10-31 18:53:45'
+		WHERE parent='tnk1/nvir/yhojua/12avnim_byrdn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/yhojua/12avnim_byrdn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2016-11-01 06:17:25'
+		WHERE parent='tnk1/nvir/yhojua/12avnim_byrdn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-11-01 06:17:30'
+			WHERE parent='tnk1/nvir/yhojua/12avnim_byrdn.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-11-01 06:33:34'
+			WHERE parent='tnk1/tora/dvrim/sixon.html'
+			;
+

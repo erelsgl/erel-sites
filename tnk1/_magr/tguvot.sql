@@ -19588,3 +19588,105 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-31 09:29:43' 
+			WHERE messageid=6545;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-31 09:31:08' 
+			WHERE messageid=6539;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-31 09:31:13' 
+			WHERE messageid=1711;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-10-31 09:31:14' 
+			WHERE messageid=1710;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/sixon.html',
+		'<p>השאלה שלי לדעת מה ה\' מצווה את משה בעניין סיחון? </p>',
+		'102355031065474050599',
+		'אביטל שהם',
+		'2016-10-31 13:15:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/sixon.html',
+		'<p></p>',
+		'102355031065474050599',
+		'אביטל שהם',
+		'2016-10-31 13:15:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/12avnim_byrdn.html',
+		'<p>אתר גרוע לא עניתם לי על השאלה!!!!!!</p>',
+		'117589089104522084053',
+		'לוטם משרקי',
+		'2016-10-31 18:25:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/12avnim_byrdn.html',
+		'<p>לוטם משרקי שאל שאלתך ונענה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-10-31 18:53:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/12avnim_byrdn.html',
+		'<p>לוטם משרקי שאל שאלתך ונענה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-01 06:17:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-11-01 06:17:30' 
+			WHERE messageid=6557;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-11-01 06:33:34' 
+			WHERE messageid=6554;
+
