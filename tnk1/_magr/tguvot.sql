@@ -19690,3 +19690,87 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-11-01 06:33:34' 
 			WHERE messageid=6554;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim2/hxyaa.html',
+		'<p>השוואה יפה מאוד ,לגבי המסקנה יש לעיין ברמבם במורה נבוכים שיש נידון בעניין המוות של הילד וכן בגמרא נידה ע</p>',
+		'117207411083957475743',
+		'צבי שוייגר',
+		'2016-11-02 10:55:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jb-15-0709.html',
+		'<p>עיין בפרק ב שם נאמר שבחברון התפזרו שרידי הגדוד של דוד שהיו איתו בנדודיו יש לשער שהיו ממורמרים מהעובדה שדוד פיזר אותם לפני עלותו לירושלים.וכן שחברון היא בירת שבט יהודה  והרי עיקר המרד הוא מאנשי  חברון שנפגעו מזה שדוד העביר את בירתו מחברון היהודאית לירושלים הבינלאומית. </p>',
+		'117207411083957475743',
+		'צבי שוייגר',
+		'2016-11-02 12:05:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim2_mikl_2_1.html',
+		'<p>דוד היה אמור לחשוש שמא היא משתפת פעולה עם אביה ולא היה יכול לסמוך עליה</p>',
+		'117207411083957475743',
+		'צבי שוייגר',
+		'2016-11-02 12:08:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jb-03-05.html',
+		'<p>גם רחל היא שם של חית בית וכן רבקה הוא מקום פיטום בהמות</p>',
+		'117207411083957475743',
+		'צבי שוייגר',
+		'2016-11-02 12:09:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim2/hxyaa.html',
+		'<p>אני מסתייג מהכותרת כי אין פה באמת החייאת מתים ולא יתכן להחיות מתים</p><p>לכן כתוב בתהלים פח11: &quot;הֲלַמֵּתִים תַּעֲשֶׂה פֶּלֶא אִם רְפָאִים יָקוּמוּ יוֹדוּךָ סֶּלָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-02 12:11:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_654_0.html',
+		'<p>מיכל דיברה כמלכה לכן היא נקראת אשת דוד על פי הבטחת דוד לשאול שמיכל תהיה האישה המרכזית. לכן מודגש שהיא בת שאול ובאמת שדוד חייב להבטחה שלו לשאול שמיכל תהיה האישה המרכזית שממנה יהיה היורש. אבל הקבה רצה את דוד כמלך מצד עצמו לכן דאג שלמיכל לא יהיו ילדים כדי להציל את דוד מהתחייבותו לשאול</p>',
+		'117207411083957475743',
+		'צבי שוייגר',
+		'2016-11-02 12:15:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jb-03-05.html',
+		'<p>נתן הנביא המשיל במשל כבשת הרש את בת-שבע בת אליעם אשת אוריה החתי בספר הנביא שמואל ב יב3: </p><p>&quot;וְלָרָשׁ אֵין כֹּל כִּי אִם כִּבְשָׂה אַחַת קְטַנָּה אֲשֶׁר קָנָה וַיְחַיֶּהָ וַתִּגְדַּל עִמּוֹ וְעִם בָּנָיו יַחְדָּו מִפִּתּוֹ תֹאכַל וּמִכֹּסוֹ תִשְׁתֶּה וּבְחֵיקוֹ תִשְׁכָּב וַתְּהִי לוֹ כְּבַת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-02 12:23:10'
+		)
+		;
+
