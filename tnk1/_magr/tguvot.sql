@@ -19848,3 +19848,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>רותם בת רחל לידה קלה...שלום לך ולתינוק...ובשורות טובות</p><p></p>',
+		'101637651328562258270',
+		'דקלה קויירו',
+		'2016-11-07 08:36:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לווביי ארגיי  שיהיה לך לידה קלה לך ....תינוק ...ובשורות טובות</p>',
+		'110606259448529048148',
+		'Wubalem Aragie',
+		'2016-11-08 01:33:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>קהלת ח11: </p><p>&quot;אֲשֶׁר אֵין נַעֲשָׂה פִתְגָם מַעֲשֵׂה הָרָעָה מְהֵרָה </p><p>עַל כֵּן מָלֵא לֵב בְּנֵי הָאָדָם בָּהֶם לַעֲשׂוֹת רָע&quot;</p><p>פרוש לבאר:</p><p>בני האדם לא נשפטים על מַעֲשֵׂה הָרָעָה מְהֵרָה </p><p>בני האדם משלמים על מעשיהם לעתים בזמן מאוחר</p><p>ולעתים בני האדם לא משלמים על מעשיהם בכל מהלך חייהם</p><p>והחשבון למשפט יהיה רק באחרית הימים [בעולם הבא]</p><p>אבל את זאת בני האדם לא רואים ולכן חושבים שאין דין ואין דיין</p><p>ובגלל מחשבתם זאת בני האדם לא חדלים לחטוא</p><p>עַל כֵּן מָלֵא לֵב בְּנֵי הָאָדָם בָּהֶם לַעֲשׂוֹת רָע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-08 05:20:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>קהלת ח11:</p><p>&quot;אֲשֶׁר אֵין נַעֲשָׂה פִתְגָם מַעֲשֵׂה הָרָעָה מְהֵרָה</p><p>עַל כֵּן מָלֵא לֵב בְּנֵי הָאָדָם בָּהֶם לַעֲשׂוֹת רָע&quot;</p><p>פרוש לבאר:</p><p>בני האדם לא נשפטים על מַעֲשֵׂה הָרָעָה מְהֵרָה</p><p>בני האדם משלמים על מעשיהם לעתים בזמן מאוחר</p><p>כי אלהים ארך אפיים ובתבונתו מאריך אפו ככתוב:</p><p>יהוה יהוה אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב חֶסֶד וֶאֱמֶת</p><p>תהלים קמה8: &quot;חַנּוּן וְרַחוּם יהוה אֶרֶךְ אַפַּיִם וּגְדָל חָסֶד&quot;</p><p>משלי יד29: &quot;אֶרֶךְ אַפַּיִם רַב תְּבוּנָה וּקְצַר רוּחַ מֵרִים אִוֶּלֶת&quot; </p><p>ולעתים האלהים חפץ להאריך מאד אפו ויש אשר </p><p>בני האדם לא משלמים על מעשיהם בכל מהלך חייהם</p><p>והחשבון למשפט יהיה רק באחרית הימים [בעולם הבא]</p><p>אבל את זאת בני האדם לא רואים ולכן חושבים שאין דין ואין דיין</p><p>ובגלל מחשבתם זאת בני האדם לא חדלים לחטוא</p><p>עַל כֵּן מָלֵא לֵב בְּנֵי הָאָדָם בָּהֶם לַעֲשׂוֹת רָע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-08 05:45:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-11-08 05:45:47' 
+			WHERE messageid=6572;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p></p><p>תהלים קלב16: &quot;וְכֹהֲנֶיהָ אַלְבִּישׁ יֶשַׁע וַחֲסִידֶיהָ רַנֵּן יְרַנֵּנוּ&quot;</p><p>ואנכי אבקש חסד ולא אבקש כהונה כמשכן קרח ועדתו</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-08 05:50:41'
+		)
+		;
+
