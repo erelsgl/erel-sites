@@ -2248,3 +2248,19 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t1404_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-11-14 20:52:55'
+			WHERE parent='tnk1/tora/brejit/lot.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2016-11-14 20:52:58'
+			WHERE parent='tnk1/tora/brejit/lot.html'
+			;
+

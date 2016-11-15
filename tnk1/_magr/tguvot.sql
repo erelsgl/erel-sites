@@ -20154,3 +20154,17 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-11-14 20:52:55' 
+			WHERE messageid=6582;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-11-14 20:52:58' 
+			WHERE messageid=6583;
+
