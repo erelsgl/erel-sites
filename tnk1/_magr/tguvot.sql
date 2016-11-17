@@ -20180,3 +20180,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/lrek_kmok.html',
+		'<p>הסידרה כיום מכילה 11 כרכים, התווסף כרך 11 שהוא עיבוד של הספר חובות הלבבות. להשגת כל כרך אפילו בנפרד 0527656528</p>',
+		'109743304758671897123',
+		'david ariav',
+		'2016-11-16 08:39:39'
+		)
+		;
+
