@@ -20204,3 +20204,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>שמואל א טז5: &quot;וַיֹּאמֶר שָׁלוֹם לִזְבֹּחַ ליהוה בָּאתִי הִתְקַדְּשׁוּ וּבָאתֶם אִתִּי בַּזָּבַח וַיְקַדֵּשׁ אֶת יִשַׁי וְאֶת בָּנָיו וַיִּקְרָא לָהֶם לִזְבֹּחַ&quot;</p><p>לא כתוב באתם איתי לזבח כי אם בזבח ככתוב &quot;הִתְקַדְּשׁוּ וּבָאתֶם אִתִּי בַּזָּבַח&quot; כי בזבח באים לחצרותיו של האלהים</p><p>ופה המשמעות להבין את המושג &quot;לצאת ולבוא&quot;</p><p>כי בימי הקודש שבתות ומועדים באים לגן עדן בזבח ככתוב: תהלים ק4: &quot;בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרֲכוּ שְׁמוֹ&quot;</p><p>ואם בוחרים לצאת מגן עדן אז לא זובחים .....וככה יש לנהוג בחיים האלה על פני האדמה פעם לצאת מגן עדן ופעם לבוא לגן עדן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-18 10:10:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/midot_gj.html',
+		'<p>כמדומני כתוב בתורה שיחרור העבד הן ביובל או במרומז בעניין המרצע או הסיבה למה נהיה לעבד (עברי) לתקופה מסויימת כי יש לשחררו תמיד ...</p>',
+		'105523856080334552259',
+		'Galed Zamir',
+		'2016-11-19 01:48:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/midot_gj.html',
+		'<p>כמדומני כתוב בתורה שיחרור העבד הן ביובל או במרומז בעניין המרצע או הסיבה למה נהיה לעבד (עברי) לתקופה מסויימת כי יש לשחררו תמיד ...</p>',
+		'105523856080334552259',
+		'Galed Zamir',
+		'2016-11-19 02:17:29'
+		)
+		;
+
