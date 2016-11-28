@@ -40,8 +40,8 @@ set_time_limit(0);
 */
 
 $show_contents = true;
-$limitTitles = 1000;
-$limitContents = 1000;
+$limitTitles = 500;
+$limitContents = 500;
 
 if ($_POST) {
 	require_once("MediawikiClient.php");  // in _script or in sites
