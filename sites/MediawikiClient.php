@@ -276,7 +276,7 @@ function getNodeList($url, $xpath_query, $tag_name=null) {
 		user_error("getNodeList expects a string!", E_USER_ERROR);
 	}
 
-	$DEBUG=true;
+	$DEBUG=false;
 	if ($DEBUG) print("<p dir='ltr'>getNodeList($url, $xpath_query, $tag_name)</p>\n");
 	$contents = get_url_with_agent($url);
 	if ($DEBUG) print("<p class='contents' dir='rtl'>$contents</p>\n");

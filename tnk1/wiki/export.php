@@ -17,34 +17,16 @@ error_reporting(E_ALL);
  * @note קידוד אחיד
  * @date 2013-09
  */
-set_include_path(realpath(dirname(__FILE__) . "/../../_script") . PATH_SEPARATOR . get_include_path());
-set_include_path(realpath(dirname(__FILE__) . "/../../sites") . PATH_SEPARATOR . get_include_path());
 
-require_once("forms.php");  // in _script
-
-/*
-$GLOBALS['serverroot'] = "http://tora.us.fm";  // = $fileroot;
-$GLOBALS['linkroot'] = "..";
-require_once("$fileroot/_script/file.php");
-require_once("$fileroot/_script/mkpath.php");
-require_once("$fileroot/_script/string.php");
-require_once("$fileroot/_script/string_torausfm.php");
-require_once("$fileroot/_script/hebrew_internal_name.php");
-require_once("$fileroot/_script/benchmark.php");
-require_once("$fileroot/_script/fix_links.php");
-require_once("$fileroot/_script/coalesce.php");
-require_once("$fileroot/_script/html_torausfm.php");
-$DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
-$DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
-set_time_limit(0);
-*/
+$fileroot = dirname(__FILE__)."/../..";
+require_once("$fileroot/_script/forms.php");
 
 $show_contents = true;
 $limitTitles = 500;
 $limitContents = 500;
 
 if ($_POST) {
-	require_once("MediawikiClient.php");  // in _script or in sites
+	require_once("$fileroot/sites/MediawikiClient.php"); 
 	$client = new MediawikiClient();
 
 	$prefix = $_POST['prefix'];
