@@ -20515,3 +20515,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-11-26 16:24:11' 
 			WHERE messageid=6614;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/lrek_kmok.html',
+		'<p>כרך יא הוא עיבוד של ספר חובות הלבבות עם דוגמאות רבות מחיי היום יום למעשה. הספר הופך כך לקריא ומרתק ונגיש לכל אחד. מאוד מומלץ. ניתן להשיג גם בטלפון 0548414027</p>',
+		'109743304758671897123',
+		'david ariav',
+		'2016-11-28 15:42:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>במדבר טז2: &quot;וַיָּקֻמוּ לִפְנֵי מֹשֶׁה וַאֲנָשִׁים מִבְּנֵי יִשְׂרָאֵל חֲמִשִּׁים וּמָאתָיִם נְשִׂיאֵי עֵדָה קְרִאֵי מוֹעֵד אַנְשֵׁי שֵׁם&quot; </p><p>במדבר טז3: &quot;וַיִּקָּהֲלוּ עַל מֹשֶׁה וְעַל אַהֲרֹן וַיֹּאמְרוּ אֲלֵהֶם רַב לָכֶם כִּי כָל הָעֵדָה כֻּלָּם קְדֹשִׁים וּבְתוֹכָם יהוה וּמַדּוּעַ תִּתְנַשְּׂאוּ עַל קְהַל יהוה\'&quot;</p><p>במדבר טז4: &quot;וַיִּשְׁמַע מֹשֶׁה וַיִּפֹּל עַל פָּנָיו&quot; [כעת שימו לב לדברי משה]</p><p>במדבר טז5: &quot;וַיְדַבֵּר אֶל קֹרַח וְאֶל כָּל עֲדָתוֹ לֵאמֹר בֹּקֶר וְיֹדַע יהוה אֶת אֲשֶׁר לוֹ וְאֶת הַקָּדוֹשׁ וְהִקְרִיב אֵלָיו וְאֵת אֲשֶׁר יִבְחַר בּוֹ יַקְרִיב אֵלָיו&quot; </p><p>תהלים קמה18: &quot;קָרוֹב יהוה לְכָל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת&quot; ובאמת קרא משה לאלהים וקרוב אליו על כן גבר על עדת קרח</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-28 17:20:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>נביא אלהים שמח חכם לב נבון כי בראות מחזה אלהים זו הדרך לחופש</p><p>ישעיהו מב7: &quot;לִפְקֹחַ עֵינַיִם עִוְרוֹת לְהוֹצִיא מִמַּסְגֵּר אַסִּיר מִבֵּית כֶּלֶא יֹשְׁבֵי חֹשֶׁךְ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-11-29 04:53:40'
+		)
+		;
+
