@@ -153,7 +153,7 @@ while (<IN_F>) {
 		print DEBUG "uploaded $name_of_page\n";
 		$count_pages++;
 
-		if ($wpTextbox1 =~ /{{קיצור דרך\|([^{}]+)}}/i && $in_file!~/existing/) {
+		if ($wpTextbox1 =~ /\{\{קיצור דרך\|([^{}]+)\}\}/i && $in_file!~/existing/) {
 			my $name_of_shortcut = $1;
 			print "$name_of_shortcut   ";
 			(my $redirect_target=$name_of_page) =~ s/^קטגוריה:/:קטגוריה:/;
@@ -289,7 +289,7 @@ sub upload_file {
 		my $are_both_redirects = $wpOldContent? 
 			($wpOldContent =~/#הפניה/ || $wpOldContent =~/#redirect/i) && 
 			($wpTextbox1 =~/#הפניה/ || $wpTextbox1 =~/#redirect/i): 0;
-		if ($wpOldContent && $wpOldContent=~/./ && !$main::SHOULD_REWRITE_EXISTING_PAGES && $name_of_page !~ /ארגז חול/ && $wpOldContent !~ /{{הוסב מאתר הניווט בתנך/&& $wpOldContent !~ /{{הוסב אוטומטית מהקלדה/ && !$are_both_redirects && $wpOldContent !~/^\s*=.*\(.*\)\s*$/i) {
+		if ($wpOldContent && $wpOldContent=~/./ && !$main::SHOULD_REWRITE_EXISTING_PAGES && $name_of_page !~ /ארגז חול/ && $wpOldContent !~ /\{\{הוסב מאתר הניווט בתנך/&& $wpOldContent !~ /\{\{הוסב אוטומטית מהקלדה/ && !$are_both_redirects && $wpOldContent !~/^\s*=.*\(.*\)\s*$/i) {
 			print ":  already contains data - skipping:\n\n";# \n$wpOldContent\n";
 			print EXISTING_FILE "##### $name_of_page\n$wpTextbox1\nENDOFFILE\n";
 			return;
