@@ -20563,3 +20563,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0115_3.html',
+		'<p>(ה) וְנָתַתִּי לָהֶם בְּבֵיתִי וּבְחוֹמֹתַי יָד וָשֵׁם, טוֹב מִבָּנִים וּמִבָּנוֹת שֵׁם עוֹלָם אֶתֶּן לוֹ אֲשֶׁר לֹא יִכָּרֵת:</p><p>ומה יותר טוב מבנים ומבנות אם לא [בע&quot;ח] נפש החיה המשלימה את האדם על חסרונותיו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-03 16:02:36'
+		)
+		;
+
