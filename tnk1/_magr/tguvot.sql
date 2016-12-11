@@ -20635,3 +20635,101 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-09-24.html',
+		'<p>נו באמת. נראה לי התחכמות לשמה.</p><p>הארורה היא איזבל (ולא האדמה!), והפקודה היא לקבור אותה (את איזבל).</p>',
+		'115211312919007613597',
+		'Alex Korem',
+		'2016-12-10 16:22:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>על בראשית לג17: &quot;וְיַעֲקֹב נָסַע סֻכֹּתָה וַיִּבֶן לוֹ בָּיִת וּלְמִקְנֵהוּ עָשָׂה סֻכֹּת עַל כֵּן קָרָא שֵׁם הַמָּקוֹם סֻכּוֹת&quot; אומר רש&quot;י: &quot;שהה שם י&quot;ח חדש, קיץ וחורף וקיץ: סכות קיץ, בית חורף, סכות קיץ&quot;. ועוד (כנראה) חצי שנה שהה בשכם, ומכאן הגיע רש&quot;י ל&quot;2 שנים שיהוי הדרך&quot;.  מכאן, לפי רש&quot;י, בנימין אכן נולד בשנת 99 ליעקב.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-12-10 18:16:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>בטבלה לא כתוב שבנימין נולד בשנת 97 ליעקב, אלא שהוא נולד &quot;*אחרי* שנת 97 ליעקב&quot;. מהפסוקים אי אפשר לדעת את שנת הולדתו המדוייקת.</p><p>לפי רש&quot;י, יעקב שהה עוד שנתיים בדרך לאחר שחזר לארץ ישראל. על בראשית לג17: &quot;וְיַעֲקֹב נָסַע סֻכֹּתָה וַיִּבֶן לוֹ בָּיִת וּלְמִקְנֵהוּ עָשָׂה סֻכֹּת עַל כֵּן קָרָא שֵׁם הַמָּקוֹם סֻכּוֹת&quot; אומר רש&quot;י: &quot;שהה שם י&quot;ח חדש, קיץ וחורף וקיץ: סכות קיץ, בית חורף, סכות קיץ&quot;. ועוד (כנראה) חצי שנה שהה בשכם, ומכאן הגיע רש&quot;י ל&quot;2 שנים שיהוי הדרך&quot;. מכאן, לפי רש&quot;י, בנימין נולד בשנת 99 ליעקב.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2016-12-10 18:18:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-12-10 18:18:12' 
+			WHERE messageid=6629;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-20.html',
+		'<p>&quot;החכמה תעוז לחכם&quot; - לפי שאמר אל תרשע הרבה אם רשעת מעט אל תוסף עליו אלא פשפש במעשיך ותהא תוהא על החטא אמר החכמה תעוז לחכם שהיא יועצתו לשוב בתשובה</p><p>&quot;מעשרה שליטים&quot; - מצינו ביאשיהו שהעיד עליו הכתוב (מלכים ב כג) וכמוהו לא היה לפניו מלך וגו\' הרי עמדה לו חכמתו שפשפש במעשיו וטוב לו מעשרה מלכים שהרשיעו ולא שבו מדרכם</p><p>&quot;אשר היו בעיר&quot; - בירושלים רחבעם אביה אחזיה יואש אחרי מות יהוידע אמציה אחז מנשה אמון יהויקים צדקיהו</p>',
+		'101548241748676743499',
+		'שי בוארון',
+		'2016-12-11 03:40:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-20.html',
+		'<p>פירש רש&quot;י ז&quot;ל </p>',
+		'101548241748676743499',
+		'שי בוארון',
+		'2016-12-11 03:43:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-20.html',
+		'<p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; ---- לכן הייה צדיק בשמים</p><p>תהלים טז3: &quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot; ------- אז הייה קדוש בארץ</p><p>****************הייה צדיק בשמים וקדוש בארץ ****************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-11 05:13:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-12-11 05:13:41' 
+			WHERE messageid=6633;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-07-20.html',
+		'<p>פרוש דיין שם משה לבאר לכם</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; ---- לכן הייה צדיק בשמים</p><p>תהלים טז3: &quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot; ------- אז הייה קדוש בארץ</p><p>****************הייה צדיק בשמים וקדוש בארץ ****************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-11 05:15:02'
+		)
+		;
+
