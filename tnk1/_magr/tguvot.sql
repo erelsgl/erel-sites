@@ -20733,3 +20733,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/48.html',
+		'<p>מי המפרש שאומר את הפירוש האחרון שהייתה שנה יבשה?</p>',
+		'112242159389815063912',
+		'אוראל לינדל',
+		'2016-12-11 09:34:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>בימי שלמה המלך נבנה בית המקדש ובימי הרבנים אסור לעלות להר הבית</p><p>בימי דוד המלך גברו במלחמה על כל אויבי ישראל ובימי הרבנים טרור פיגועים</p><p>בימי יהושע בן נון כבש את כל ארץ ישראל השלמה ובימי הרבנים חורבן גוש קטיף וסכנת מדינה פלשתינית</p><p>בימי משה ואהרן הוציאו את בני ישראל ממצרים ובימי הרבנים עבודה זרה מקובלים ומכשפים </p><p>בימי יוסף הצדיק כלכל את בני ישראל לחיותם ברעב ובימי הרבנים דו&quot;ח העוני כבד מנשוא</p><p>--------------</p><p>ומדוע הרבנים האלה קוראים לעצמם גדולי ישראל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-11 15:37:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-12-11 15:37:42' 
+			WHERE messageid=6626;
+
