@@ -20905,3 +20905,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-12-15 04:57:36' 
 			WHERE messageid=6645;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_40.html',
+		'<p>אני תומך בידי משה. לפי פשט הכתובים עצמם משה עלה להר ושהה בו 40 יום רק פעמיים, ולא שלוש כדברי חז&quot;ל</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2016-12-15 10:49:45'
+		)
+		;
+
