@@ -1,0 +1,74 @@
+/* page color */
+
+BODY {padding: 1em; background: #99bbff; color: rgb(0,0,0); font-family: Verdana, Arial, Helvetica }
+BODY DIV.pnim { background: white }
+
+
+/* colors */
+
+h1 {	color: rgb(0,0,102);}
+h2, marquee {	color: rgb(0,0,102);}
+h3 {	color: rgb(0,0,102);}
+h4 {	color: rgb(0,0,102);}
+h5 {	color: rgb(0,0,102);}
+h6 {	color: rgb(0,0,102);}
+HR {	color: rgb(0,0,102);}
+BUTTON {	background-color: rgb(0,0,102);		border-color: rgb(51,102,153);	color: white;}
+TEXTAREA {	border-color: rgb(0,51,153);	color: black;}
+FIELDSET {	border-color: rgb(0,51,153);	color: black;}
+LEGEND {	color: rgb(0,0,102); }
+SELECT {	border-color: rgb(0,51,153);	color: black; }
+TABLE {		table-border-color-light: rgb(51,102,153);	table-border-color-dark: rgb(0,51,153);	border-color: rgb(0,51,153);	color: rgb(0,0,0); }
+CAPTION {	color: rgb(0,0,102); }
+TH {		color: rgb(0,0,0);	border-color: rgb(0,51,153); }
+TD {	border-color: rgb(0,51,153); }
+a:link {	color: rgb(51,51,153);}
+a:visited {	color: rgb(51,102,102);}
+a:active {	color: rgb(204,153,51);}
+
+
+
+/* sizes */
+
+body { font-size: 15pt }
+h1 { text-align: center; font-weight: normal; font-size: 36pt }nwj
+h2 { text-align: center; font-weight: normal; font-size: 24pt }
+h3 { font-weight: normal; font-size: 18pt }
+h4 { font-weight: normal; font-size: 14pt }
+h5 { font-weight: normal; font-size: 12pt }
+h6 { font-weight: normal; font-size: 10pt }
+
+
+/* tags */
+
+TEXTAREA, INPUT {font-style: monospace}
+IMG {background: white}
+
+LI TABLE {border: none}
+LI TABLE TD {FONT-SIZE: 11pt; border: groove 1.1pt rgb(230,230,184)}
+LI TABLE TD A {text-decoration: none}
+UL LI UL LI {FONT-SIZE: x-small}
+
+TD {vertical-align:top}
+SMALL {font-size: x-small}
+EM { color: #008800 }
+CITE { font-family: monospace; font-weight:bold; font-style:normal }
+
+
+/* classes */
+
+.NiwutElyon { FONT-FAMILY: monospace; FONT-SIZE: small; PADDING-top: 1ex; PADDING-bottom: 1ex; BORDER-top: 2pt ridge; BORDER-bottom: 2pt ridge;}
+.NiwutElyon A { MARGIN-LEFT: 1ex; MARGIN-RIGHT: 1ex}
+.NiwutElyon .NiwutElyon { BORDER: none; PADDING: 0px; MARGIN: 0px; }
+
+.txtit { TEXT-ALIGN: center; FONT-FAMILY: monospace; FONT-SIZE: xx-small; PADDING-top: 1ex; PADDING-bottom: 1ex; BORDER-top: 2pt ridge; BORDER-bottom: 2pt ridge;}
+.edited { border:dashed 1pt }
+.date {	font-size: 12pt; margin-right: 2ex;}
+.none {	line-height: 0;	height: 0;	margin: 0 0 0 0;	padding: 0 0 0 0;	border-top: solid 0.25pt;}
+.teur_tguva { font-size: x-small }
+.idfields TR {background:#dfdfdf}
+
+.versionlink {text-align:center; margin:auto; font-style:italic}
+.versionlink A {text-decoration:none; font-size:10pt; font-weight:bold; border:solid 1pt}
+DIV.lang {border-top: 1pt solid #eeeeee; border-bottom: 1pt solid #eeeeee; padding-top: 1ex}
+SPAN.lang {border-left: 1pt solid #eeeeee; border-right: 1pt solid #eeeeee}

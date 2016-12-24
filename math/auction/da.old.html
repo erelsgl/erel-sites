@@ -1,0 +1,73 @@
+<head>
+<meta charset='utf-8'/>
+<script src="jquery-1.11.0.min.js"></script>
+<script>
+$(document).ready(function() {
+	
+	function calculateK(buyers,sellers) {
+		// Calculate k, the number of efficient deals, which is the largest index for which b_k>=s_k (starting from 1).
+		var mincount = Math.min(buyers.length, sellers.length);
+		var k = mincount;  
+		for (var i=0; i<mincount; ++i) {
+			if (buyers[i]<sellers[i])
+				k = i;
+		}
+		return k;
+	}
+
+	function calculatePrice(buyers,sellers,k) {
+		// Calculate the highest price of a competitive (Walrasian) equilibrium
+		if (k<=0) return 0;
+		return Math.min(buyers[k-1], (k<sellers.length? sellers[k]: Infinity));
+	}
+	
+	function parseInt10(x) {
+		return parseInt(x,10);
+	}
+	
+	function calculateAll(){
+		var market  = $(this).closest(".market");
+		var buyers = market.find(".buyers").val().trim().split(/ +/).map(parseInt10);
+		var sellers = market.find(".sellers").val().trim().split(/ +/).map(parseInt10);
+		//buyers.sort(function(a,b){return b-a});
+		//sellers.sort(function(a,b){return a-b});
+		//market.find(".buyers").val(buyers.join(" "));
+		//market.find(".sellers").val(sellers.join(" "));
+		market.find(".buyersCount").text(buyers.length);
+		market.find(".sellersCount").text(sellers.length);
+		var k = calculateK(buyers,sellers);
+		market.find(".k").text(k);
+		var price = calculatePrice(buyers,sellers,k);
+		market.find(".price").text(price);
+	}
+	
+	
+	$(".traders").keyup(calculateAll);   // keyup event updates the input field first
+	$(".traders").click(calculateAll);
+	
+	$(".market").clone(true).appendTo("body")
+})
+</script>
+<style>
+.traders {width:90%; font-size:16px; font-family:monospace}
+.result {font-size:16px; font-family:monospace}
+</style>
+</head>
+
+<body>
+<h1>Double auction calculator</h1>
+
+<div class='market'>
+<p><b>Buyers:</b><input class='buyers traders'/>
+<p><b>Sellers:</b><input class='sellers traders'/>
+<p>
+	<div style='display:none'>
+	buyers=<span class='buyersCount result'> </span>
+	sellers=<span class='sellersCount result'> </span>
+	</div>
+	<b>k=<span class='k result'> </span></b>&nbsp;&nbsp;&nbsp;
+	<b>price=<span class='price result'> </span></b>
+	<hr/>
+</div>
+
+</body>
