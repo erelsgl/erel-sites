@@ -21027,3 +21027,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-12-27 14:39:05' 
 			WHERE messageid=6496;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-18-21.html',
+		'<p>אֵרֲדָה נָּא וְאֶרְאֶה הַכְּצַעֲקָתָהּ הַבָּאָה אֵלַי עָשׂוּ כָּלָה וְאִם לֹא אֵדָעָה\'&quot;</p><p>הַכְּצַעֲקָתָהּ הַבָּאָה אֵלַי = האם זו צעקת רשעים או צעקת צדיקים</p><p>אם זו צעקת רשעים אשר באה אלי כפי ששמעתי אז תעשו כלה מלשון כליון</p><p>ואם לא אז אדעה כאשר צעקו בני ישראל במצרים וידע אלהים</p><p>שמות ב23: &quot;וַיְהִי בַיָּמִים הָרַבִּים הָהֵם וַיָּמָת מֶלֶךְ מִצְרַיִם וַיֵּאָנְחוּ בְנֵי יִשְׂרָאֵל מִן הָעֲבֹדָה וַיִּזְעָקוּ וַתַּעַל שַׁוְעָתָם אֶל הָאֱלֹהִים מִן הָעֲבֹדָה&quot;</p><p>שמות ב25: &quot;וַיַּרְא אֱלֹהִים אֶת בְּנֵי יִשְׂרָאֵל וַיֵּדַע אֱלֹהִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-28 16:10:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2016-12-28 16:10:57' 
+			WHERE messageid=6653;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אשמח לשמוע רעיונות לפסוק עם המילה שלו (shalev) להזמנה לבר מצווה</p>',
+		'108987891044711959811',
+		'מיכאלה חטבי',
+		'2016-12-28 19:16:03'
+		)
+		;
+
