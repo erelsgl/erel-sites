@@ -21139,3 +21139,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2016-12-30 05:31:30' 
 			WHERE messageid=6662;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>שמות טו17: &quot;תְּבִאֵמוֹ וְתִטָּעֵמוֹ בְּהַר נַחֲלָתְךָ </p><p>מָכוֹן לְשִׁבְתְּךָ פָּעַלְתָּ יהוה מִקְּדָשׁ אֲדֹנָי כּוֹנְנוּ יָדֶיךָ&quot;</p><p>משלי ג19: &quot;יהוה בְּחָכְמָה יָסַד אָרֶץ כּוֹנֵן שָׁמַיִם בִּתְבוּנָה&quot; </p><p>תהלים קב26: &quot;לְפָנִים הָאָרֶץ יָסַדְתָּ וּמַעֲשֵׂה יָדֶיךָ שָׁמָיִם&quot;</p><p> מִקְּדָשׁ אֲדֹנָי כּוֹנְנוּ יָדֶיךָ&quot; = כּוֹנֵן שָׁמַיִם בִּתְבוּנָה&quot; = וּמַעֲשֵׂה יָדֶיךָ שָׁמָיִם&quot;</p><p>******* המקדש בשמים על ראש הקדושים *******</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2016-12-31 17:55:41'
+		)
+		;
+
