@@ -21151,3 +21151,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/bgd_qobi.html',
+		'<p>אפשר את המקור לדבריו של ר\' צדוק?</p>',
+		'102784245192707090536',
+		'חן אבקסיס',
+		'2017-01-01 10:31:25'
+		)
+		;
+
