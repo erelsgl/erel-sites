@@ -21163,3 +21163,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>נא להיתפלל לרפואה שלימה למרדכי מנחם מענדל בן רבקה</p><p></p>',
+		'105045502603017768117',
+		'אשר דייטש',
+		'2017-01-02 11:06:28'
+		)
+		;
+
