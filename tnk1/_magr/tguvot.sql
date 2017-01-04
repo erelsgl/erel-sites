@@ -21163,3 +21163,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>נא להיתפלל לרפואה שלימה למרדכי מנחם מענדל בן רבקה</p><p></p>',
+		'105045502603017768117',
+		'אשר דייטש',
+		'2017-01-02 11:06:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שמי נעמה ואני אם חד הורית לשניים אני חייבת עזרה דחופה בעלי הדירה שאני שוכרת מהם רוצים להעיף אותי החוצה יחד עם הילדים שלי </p><p>נשאר לי עוד שבוע אחד לשלם להם את כל הכסף אחרת איני נזרקת לרחובו</p><p>אין לי משפחה שיכולה לעזור לי ואני נתמחת מביטוח לאומי וסיוע בשכר דירה</p><p>התחלתי לעבוד רק לפני שבוע ואני אקבל את השכר רק חודש הבא</p><p>ואוכל להחזיר .. אני מבקשת 3000 ואחזיר הכל תוך חודשיים  הקו פלאפון שלי נותק עקב חוב שיש לי</p><p>אז אני זמינה רק דרך הווצאפ  0502670901 במידה ולא הסגתם אותי אפשר להתקשר לחברה שלי </p><p>054-6878079</p>',
+		'115045201646253288346',
+		'נעמה משה',
+		'2017-01-03 20:20:14'
+		)
+		;
+
