@@ -21328,3 +21328,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jf-03-19.html',
+		'<p>נחמד שיש אתר עם מידע שימושי חוץ מזה שציפיתי למידע מורחב יותר מהמידע שביקשתי אבל כן קיבלתי את התשובה שרציתי ממליצה בחום!!!</p>',
+		'117352535471523650243',
+		'misivi_fdez@Gmail.com 0543046813',
+		'2017-01-08 16:47:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jf-03-19.html',
+		'<p>חרה של אתר</p>',
+		'117352535471523650243',
+		'misivi_fdez@Gmail.com 0543046813',
+		'2017-01-08 16:48:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-01-08 16:48:22' 
+			WHERE messageid=6678;
+
