@@ -21409,3 +21409,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-01-10 14:57:25' 
 			WHERE messageid=6680;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אנו זקוקים דחוף להלואת כספים דחוף ביותר.0532820023</p>',
+		'117955029454670329382',
+		'Revitalכטעסכי Revital',
+		'2017-01-11 13:54:19'
+		)
+		;
+
