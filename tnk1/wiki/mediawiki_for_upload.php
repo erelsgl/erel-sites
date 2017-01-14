@@ -3,7 +3,7 @@
 /**
  * @file mediawiki.php - קידוד חלונות
  * Utilities for writing files for importing into MediaWiki sites.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
  * @date 2006-11
  */
 
@@ -67,12 +67,12 @@ function mediawiki_redirect_page($source_title, $target_title) {
 	if ($target_title===$source_title)
 		return "";
 	else
-		return mediawiki_page_new_revision($source_title, 
+		return mediawiki_page_new_revision($source_title,
 		mediawiki_redirect_string($target_title) );
 }
 
 function mediawiki_redirect_to_template_page($source_title, $target_title) {
-	return mediawiki_page_new_revision($source_title, 
+	return mediawiki_page_new_revision($source_title,
 		"#REDIRECT [[תבנית:$target_title]]");
 }
 
@@ -98,7 +98,7 @@ function mediawiki_file_get_contents($url) {
 	$indices = find_regexps_in_order(array(
 		"|<!-- start content -->|",    // 0 1
 		"|<!-- end content -->|"),    // 2 3
-		$full_contents); 
+		$full_contents);
 	if ($indices[1]===NULL || $indices[2]===NULL) {
 		user_error("Bad content format, please notify site admin: <pre>$full_contents</pre>\n", E_USER_WARNING);
 	}
