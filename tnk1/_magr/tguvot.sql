@@ -21421,3 +21421,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/tvla.html',
+		'<p>אני צריכה סיכום</p>',
+		'103635445430832097124',
+		'sisaynesh checole',
+		'2017-01-12 16:09:57'
+		)
+		;
+
