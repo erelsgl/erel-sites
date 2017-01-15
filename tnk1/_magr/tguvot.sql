@@ -21433,3 +21433,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_joftim_jnim_0_0.html',
+		'<p>לא יודע</p>',
+		'118160149794400882467',
+		'הראל ברוקר',
+		'2017-01-14 20:43:26'
+		)
+		;
+
