@@ -21567,3 +21567,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_ajr_nftli.html',
+		'<p>האסורד הגדול שמקום קברי שני השבטים אשר בן יעקב ואחיו נפתלי בן יעקב גלוי וידוע לכל ואם זאת אין שום כתובת במקום רק מצבה שבורה בכביש 899!</p>',
+		'108154653506365959200',
+		'משה כהן',
+		'2017-01-17 12:03:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_ajr_nftli.html',
+		'<p></p>',
+		'108154653506365959200',
+		'משה כהן',
+		'2017-01-17 12:03:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-01-17 12:03:24' 
+			WHERE messageid=6695;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>ישעיהו נו7: &quot;וַהֲבִיאוֹתִים אֶל הַר קָדְשִׁי וְשִׂמַּחְתִּים בְּבֵית תְּפִלָּתִי עוֹלֹתֵיהֶם וְזִבְחֵיהֶם לְרָצוֹן עַל מִזְבְּחִי כִּי בֵיתִי בֵּית תְּפִלָּה יִקָּרֵא לְכָל הָעַמִּים&quot;</p><p>כפי שכתבתי גם במאמר זה זמירות הן כחוק ושירים כתפילה</p><p>https://www.youtube.com/watch?v=gulGkZbW8IQ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-01-18 04:01:04'
+		)
+		;
+
