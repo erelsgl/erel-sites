@@ -21610,3 +21610,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לאישתי היקרה מירית דהן בת ציפורה ב&quot;ה היום</p>',
+		'102801679060763970951',
+		'דודי דהן',
+		'2017-01-19 09:19:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לאישתי היקרה מירית דהן בת ציפורה ב&quot;ה היום</p>',
+		'102801679060763970951',
+		'דודי דהן',
+		'2017-01-19 09:19:21'
+		)
+		;
+
