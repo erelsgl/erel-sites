@@ -21634,3 +21634,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_40.html',
+		'<p>לפי הכתוב במאמר , משה עלה למקום פעמיים , פעם נוספת התפלל באוהל מועד ולא עלה למרום</p>',
+		'108405227396007246914',
+		'Moti Weg',
+		'2017-01-28 18:40:40'
+		)
+		;
+
