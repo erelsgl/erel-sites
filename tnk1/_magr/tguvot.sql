@@ -21634,3 +21634,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_40.html',
+		'<p>לפי הכתוב במאמר , משה עלה למקום פעמיים , פעם נוספת התפלל באוהל מועד ולא עלה למרום</p>',
+		'108405227396007246914',
+		'Moti Weg',
+		'2017-01-28 18:40:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/paro.html',
+		'<p>אישי מבקש לדעת מה המקור המדוייק בתוך &quot;המשך חכמה&quot; שהבאת לעיל וכן אם אפשר לקבל את שאר המקורות החסרים. תודה. </p><p></p>',
+		'107013617545668736280',
+		'michal sternthal',
+		'2017-01-29 08:13:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>הלוואות ללא ריבית לבעלי עסקים קטנים ובינוניים - מוזמנים ליצור קשר עם חברת אביב ייעוץ עסקי</p><p>http://www.aviv-ebc.co.il/ </p><p></p>',
+		'101008341561663842946',
+		'אביב יעוץ עסקי',
+		'2017-01-29 10:27:02'
+		)
+		;
+
