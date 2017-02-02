@@ -21670,3 +21670,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_get_0.html',
+		'<p>פתחתי חשבון בבנק מזרחי טפחות ואני מעוניינת לקבל הלוואה.</p><p>ההכנסה החודשית שלי היא 20000 ש&quot;ח</p>',
+		'111651107751392661017',
+		'אסתי אלבלינק',
+		'2017-02-01 15:24:25'
+		)
+		;
+
