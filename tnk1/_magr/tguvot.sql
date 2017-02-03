@@ -21682,3 +21682,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לביתי היקרה מור פרץ בת אווה בעזרת השם היום עכשו ללידה קלה ומהירה לה ולכל בנות ישראל שיצאו בידיים מלאות ושמחות אמן כן יהי רצון</p>',
+		'107398300429831643953',
+		'אווה שריקי',
+		'2017-02-03 00:38:14'
+		)
+		;
+
