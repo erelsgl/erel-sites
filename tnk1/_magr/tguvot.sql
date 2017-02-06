@@ -21694,3 +21694,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutIja.html',
+		'<p></p>',
+		'115261057168352770009',
+		'dalia meghnagi',
+		'2017-02-05 11:42:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-02-05 11:42:06' 
+			WHERE messageid=6704;
+
