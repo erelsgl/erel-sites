@@ -21713,3 +21713,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-02-05 11:42:06' 
 			WHERE messageid=6704;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0220_0.html',
+		'<p>המאמר הופיע תחת הכותרת, &quot;עיון מחדש בכפילות עשרת הדברות&quot; , טללי אורות ט (תש&quot;ס), עמ\' 79-88, ובספר שירת עלמות, ירושלים תשס&quot;ד, עמ\' 160-172, וניתן למצוא בלינק הבא: http://asif.co.il/wpfb-file/2-15-pdf/</p>',
+		'100318802860085642452',
+		'ארי שבט וזאת לראיה בית הרב',
+		'2017-02-06 08:47:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0220_0.html',
+		'<p>אני, בתור מחבר המאר, מרשה ואף אשמח, אם תעלו את המאמר לגוף האתר, שלא יצטרכו להתרוצץ ללינקים אחרים. תודה רבה! ארי שבט</p>',
+		'100318802860085642452',
+		'ארי שבט וזאת לראיה בית הרב',
+		'2017-02-06 08:48:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0220_0.html',
+		'<p>אני, בתור מחבר המאר, מרשה ואף אשמח, אם תעלו את המאמר לגוף האתר, שלא יצטרכו להתרוצץ ללינקים אחרים. תודה רבה! ארי שבט</p>',
+		'100318802860085642452',
+		'ארי שבט וזאת לראיה בית הרב',
+		'2017-02-06 08:49:49'
+		)
+		;
+
