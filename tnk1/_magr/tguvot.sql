@@ -21780,3 +21780,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי זקוקה להלוואה 0533403678 </p><p></p>',
+		'106844754001960109946',
+		'דגנית עבו',
+		'2017-02-13 08:45:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mpny.html',
+		'<p>יפה, והפנים מסמלות הרבה פעמים את כל הישות, ואף מיוחסות לאל, למשל:</p><p>ויקרא כו17: &quot;ונתתי פני בכם ונגפתם לפני איביכם ורדו בכם שנאיכם ונסתם ואין רדף אתכם&quot;</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2017-02-13 15:20:42'
+		)
+		;
+
