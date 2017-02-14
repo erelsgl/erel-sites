@@ -21761,3 +21761,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-02-12 18:39:37' 
+			WHERE messageid=6707;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0220_0.html',
+		'<p>שלום ארי,</p><p>ניסיתי להעתיק את הטקסט מהקישור, אבל זה לא יצא טוב כי זה קובץ pdf. האם אתה יכול להעתיק את הטקסט של המאמר מהקובץ שעל המחשב שלך?</p><p> </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-02-12 18:47:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי זקוקה להלוואה 0533403678 </p><p></p>',
+		'106844754001960109946',
+		'דגנית עבו',
+		'2017-02-13 08:45:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mpny.html',
+		'<p>יפה, והפנים מסמלות הרבה פעמים את כל הישות, ואף מיוחסות לאל, למשל:</p><p>ויקרא כו17: &quot;ונתתי פני בכם ונגפתם לפני איביכם ורדו בכם שנאיכם ונסתם ואין רדף אתכם&quot;</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2017-02-13 15:20:42'
+		)
+		;
+
