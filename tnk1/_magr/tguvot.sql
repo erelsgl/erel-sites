@@ -21804,3 +21804,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום,זקוקה לעזרה דחוף.אמא לשני ילדים קטנים 0528746775</p>',
+		'111927885896008850352',
+		'טל לבחר',
+		'2017-02-14 12:43:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום,זקוקה לעזרה דחוף.אמא לשני ילדים קטנים 0528746775</p>',
+		'111927885896008850352',
+		'טל לבחר',
+		'2017-02-14 12:44:42'
+		)
+		;
+
