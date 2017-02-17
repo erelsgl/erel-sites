@@ -21828,3 +21828,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_mavq.html',
+		'<p>זה מאוד ארוך ומשאמם</p>',
+		'108259724324185276966',
+		'soper catGHTV',
+		'2017-02-16 15:14:25'
+		)
+		;
+
