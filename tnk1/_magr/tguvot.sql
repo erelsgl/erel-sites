@@ -21840,3 +21840,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/yovlot.html',
+		'<p>בע&quot;ה</p><p>שלום</p><p>מדוע מחבר היובלים משמיט את סיפור המפגש של יעקב ועשיו?</p><p>איזו מגמות משרתת השמטה זו?</p><p>אודה ואשמח לתשובה</p><p>יוסי זיו</p>',
+		'100593317993097083386',
+		'יוסי זיו',
+		'2017-02-17 10:35:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_ja-17-43_0.html',
+		'<p>תודה שאמרתם. יש לי עוד שבוע מבחן בתנך ואני בכלל לא הבנתי את החומר!</p><p>תודה בכל מקרה :)</p>',
+		'108002543895996863852',
+		'l.o style',
+		'2017-02-17 13:56:02'
+		)
+		;
+
