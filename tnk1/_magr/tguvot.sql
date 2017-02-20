@@ -21864,3 +21864,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לנועה בת ציפורה השם יחיה ויזכה ללידה קלה ושתצא בעזרת השם יתברך בידיים מלאות ובריאות לכל  אמן כן יהי רצון.</p><p></p>',
+		'102425436195424131994',
+		'Rami Hefetz',
+		'2017-02-19 08:14:06'
+		)
+		;
+
