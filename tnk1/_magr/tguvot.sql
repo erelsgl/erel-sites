@@ -21876,3 +21876,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/aqda2.html',
+		'<p>תודה רבה על הפרשנות המעניינת :)</p>',
+		'113650349735496733803',
+		'גל סוקוליק',
+		'2017-02-22 16:58:51'
+		)
+		;
+
