@@ -21888,3 +21888,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בבקשה להתפלל על אלון חן בן מרים רפואה שלמה</p>',
+		'107235973156959337139',
+		'adva chen',
+		'2017-02-23 09:40:29'
+		)
+		;
+
