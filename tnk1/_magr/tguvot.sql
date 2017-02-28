@@ -21900,3 +21900,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-19-2021.html',
+		'<p>&quot;אשריכם ישראל&quot; את החלק הטוב לקחתם שלא יוכח מכם</p>',
+		'107788780748645678140',
+		'ben-zion kohlani',
+		'2017-02-27 17:03:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-02-27 17:15:05' 
+			WHERE messageid=6720;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-19-2021.html',
+		'<p>אשריכם ישראל על שקיבלתי דברי נועם טהורים אמרי נועם מן המוכן,</p><p>אשריך יגיע כפיך כי תאכל ישראל</p><p>מודה לפניכם</p><p></p>',
+		'107788780748645678140',
+		'ben-zion kohlani',
+		'2017-02-27 17:21:15'
+		)
+		;
+
