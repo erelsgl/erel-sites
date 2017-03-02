@@ -21931,3 +21931,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-20-20.html',
+		'<p>לא את כל המצוות אפשר/צריך לקיים. לדוגמה - תושבי חוץ אינם יכולים לקיים מצוות התלויות בארץ. עדיין, כל מצווה היא בחזקת נר דולק אחד. לא קיימת - כבה אותו נר, אך שאר הנרות ממשיכים בגירוש החושך...</p><p>מה שאין כן בכיבוד אב ואם. לא קיימת - יכבו כל הנרות כולם ואתה תיוותר בחושך ר&quot;ל!</p>',
+		'106521699769704476450',
+		'Daniel Freimann',
+		'2017-03-01 11:13:29'
+		)
+		;
+
