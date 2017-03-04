@@ -10,6 +10,7 @@
 
 <?php
 error_reporting(E_ALL);
+set_time_limit (60 /*seconds*/);
 
 /**
  * @file sgulot_print_wikisource.php - print Sgulot Mishley for upload to Hebrew Wikisource
@@ -47,6 +48,7 @@ if (!isset($_GET['chapter']))
 	user_error($SYNTAX, E_USER_ERROR);
 
 
+/*
 $chapters_string = $_GET['chapter'];
 $chapters = explode(",",$chapters_string);
 foreach ($chapters as $chapter) {
@@ -55,6 +57,7 @@ foreach ($chapters as $chapter) {
 		user_error($SYNTAX, E_USER_ERROR);
 	}
 }
+*/
 $chapter_number = (int)$_GET['chapter'];
 
 $offset = coalesce($_GET["offset"],0);
@@ -64,7 +67,8 @@ $query = "
 	SELECT *
   FROM sgulot
 	WHERE book=".quote_all($book_code)."
-	AND chapter_number IN (".$chapters_string.")
+	".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
+	"./*AND chapter_number IN (".$chapters_string).*/"
 	AND verse_number<99
 	ORDER BY book, chapter_number, verse_number
 	LIMIT $offset,$limit";
