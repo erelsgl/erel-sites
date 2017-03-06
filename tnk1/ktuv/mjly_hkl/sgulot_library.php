@@ -27,7 +27,11 @@ require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
 global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
-global $AUTOWIDTH, $AUTOORDER;
+
+// These are the defaults; change them in your main file
+$GLOBALS['AUTOWIDTH'] = true;
+$GLOBALS['AUTOORDER'] = true;
+
 
 $BIG_FIELDS = array(
 		'dquyot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true),
@@ -44,8 +48,6 @@ $SMALL_FIELDS = array(
 );
 $SMALL_FIELDS_ORDER = array_keys($SMALL_FIELDS);
 
-$AUTOORDER = true;
-$AUTOWIDTH = true;
 
 function clean_urls($html) {
 	$html = str_replace("http://localhost/","/",$html); 
