@@ -21967,3 +21967,79 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/es-06-01.html',
+		'<p>הסיפור היה היה מאוד גרוע אני גר בבאר שבע</p>',
+		'114401418559748581295',
+		'איתן שיף',
+		'2017-03-06 16:34:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-06 16:39:00' 
+			WHERE messageid=6725;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/es-06-01.html',
+		'<p></p>',
+		'114401418559748581295',
+		'איתן שיף',
+		'2017-03-06 16:39:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/es-06-01.html',
+		'<p></p>',
+		'114401418559748581295',
+		'איתן שיף',
+		'2017-03-06 16:39:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/es-06-01.html',
+		'<p></p>',
+		'114401418559748581295',
+		'איתן שיף',
+		'2017-03-06 16:39:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-06 16:39:11' 
+			WHERE messageid=6728;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-06 16:39:12' 
+			WHERE messageid=6727;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-06 16:39:13' 
+			WHERE messageid=6726;
+
