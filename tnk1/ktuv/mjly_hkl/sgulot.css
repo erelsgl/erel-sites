@@ -1,13 +1,15 @@
 @media print {
-  .page {page-break-inside: avoid; background:white; }
-  .long {page-break-inside: avoid; background:white; }
+  /*.page {page-break-inside: avoid; background:white; }
+  .long {page-break-inside: avoid; background:white; }*/
 }
 
 body { font-family: "Liberation Sans"; }
 
 .page {
-  width: 19cm; 
-  margin:0 0 1mm 0; border: none 2px black; 
+  width: 190mm;   /* for printing in Firefox */
+  margin:0 0 0 0; 
+  border: none 2px black; 
+  padding: 0 0 0 0;
   overflow:auto; text-align:justify; border-radius: 20px; 
   background:white;
 }
@@ -89,10 +91,10 @@ table.tirgum td { border-style:dotted; border-color:#888; border-width: 1px 0; p
 
 /* 19 = 4.8 + 0.2 + 7*2 */
 /* 27.6 = 4.8 + 0.2 + 11.6*2 */
-body.tirgum .page {width: 19cm; }
-body.tirgum td.verse_text {width: 4.8cm;}
-body.tirgum td.verse_number {width: 0.2cm;}
-body.tirgum td.tirgum     {width: 7cm;}
+body.tirgum .page {width: 190mm; }
+body.tirgum td.verse_text {width: 48mm;}
+body.tirgum td.verse_number {width: 2mm;}
+body.tirgum td.tirgum     {width: 70mm;}
 
 
 
@@ -108,8 +110,6 @@ p.future, span.future, .future {	font-size:6px; background-color:#ccc; display:n
 /* http://stackoverflow.com/questions/11536806/html-columns-whose-width-automatically-changes-according-to-their-content/11734054?iemail=1#11734054 */
 .autowidth {visibility:hidden;height:0;} 
 .autowidth * {display:inline;}
-
-.autowidth1 {display:none;}
 
 a {text-decoration:none; color:black}
 

@@ -27,7 +27,11 @@ require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
 global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
-global $AUTOWIDTH, $AUTOORDER;
+
+// These are the defaults; change them in your main file
+$GLOBALS['AUTOWIDTH'] = true;
+$GLOBALS['AUTOORDER'] = true;
+
 
 $BIG_FIELDS = array(
 		'dquyot' => array("subtitle"=>"דקויות", "size"=>14, "icon"=>"magnifier140.png", "include"=>true),
@@ -44,8 +48,6 @@ $SMALL_FIELDS = array(
 );
 $SMALL_FIELDS_ORDER = array_keys($SMALL_FIELDS);
 
-$AUTOORDER = true;
-$AUTOWIDTH = true;
 
 function clean_urls($html) {
 	$html = str_replace("http://localhost/","/",$html); 
@@ -61,6 +63,21 @@ $QUOTE = "[\\'\\\"]";
 $QOD_SFR_TO_KOTRT_SFR = sql_evaluate_array_key_value("SELECT qod_mamre,kotrt FROM sfrim");
 $QOD_PRQ_TO_KOTRT_PRQ = sql_evaluate_array_key_value("SELECT qod_mlbim,kotrt FROM prqim");
 $MSPR_TO_QOD_MLBIM = sql_evaluate_array_key_value("SELECT mspr,qod_mlbim FROM prqim");
+$MSPR_TO_QOD_MLBIM[0] = "0"; // http://tora.us.fm/tnk1/ktuv/mj/01-0.html
+
+$WIKIA_REPLACE_LINKS = sql_evaluate_array_key_value("SELECT
+	concat('[[',ktovt),
+	replace(
+		concat('[[ביאור:',kotrt),
+		'ביאור:ביאור:',
+		'ביאור:')
+		FROM QLT_prtim_wikia
+		WHERE ktovt LIKE 't%'
+		ORDER BY ktovt DESC;
+	");
+$WIKIA_REPLACE_LINKS_KEYS = array_keys($WIKIA_REPLACE_LINKS);
+$WIKIA_REPLACE_LINKS_VALUES = array_values($WIKIA_REPLACE_LINKS);
+
 
 function clean_links($html, $limit=1000) {   // assumes that clean_urls was run
 	if (!$html) return $html;
@@ -111,7 +128,7 @@ function clean_links($html, $limit=1000) {   // assumes that clean_urls was run
 	}
 
 function clean_wiki_code($wikicode) {
-    global $hebchar, $QUOTE; // from hebrew.php
+    global $hebchar, $QUOTE, $WIKIA_REPLACE_LINKS_KEYS, $WIKIA_REPLACE_LINKS_VALUES; // from hebrew.php
 
 		// clean spaces (initial):
     $wikicode = preg_replace("@\s+@s"," ",$wikicode);
@@ -138,6 +155,8 @@ function clean_wiki_code($wikicode) {
     $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
     $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}/([^<>]*?)[.]html${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
     $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}http([^<> ]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
+		
+		$wikicode = str_replace($WIKIA_REPLACE_LINKS_KEYS, $WIKIA_REPLACE_LINKS_VALUES, $wikicode);
 
 		// clean spaces (final):
     $wikicode = preg_replace("@\n\n+@s","\n\n",$wikicode);
@@ -168,7 +187,8 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
 		"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
 		 FROM tnk.psuq_qodm_hba 
-		 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
+		 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=".($verse_number==0? 1: $verse_number));
+	if ($verse_number==0) $next_verse_number=1;
 	$previous_verse_letter = $previous_verse_number>0? number2hebrew($previous_verse_number): "";
 	$next_verse_letter = $next_verse_number>0? number2hebrew($next_verse_number): "א";
 

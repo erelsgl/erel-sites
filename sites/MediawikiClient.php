@@ -76,7 +76,7 @@ class MediawikiClient {
 		*/
 		function page_timestamp($title) {
 				if (preg_match("/http:/",$title))
-					return;  // probably spam
+					return 0;  // probably spam
 				$title_encoded = urlencode($title);
 				$url = $this->api_url. "?action=query&prop=revisions&rvprop=timestamp&titles=$title_encoded&redirects=1&format=xml";
 				$contents = get_url_with_agent($url);
@@ -147,7 +147,7 @@ class MediawikiClient {
 				$source = ($parsed?
 						$this->page_parsed($title,/*$with_noinclude_sections=*/false):
 						$this->page_source($title));
-				if (!$source) 
+				if (!$source)
 					return $source; //probably an xml error
 				if ($DEBUG) toc(1000,"Loading '$title' from Wikisource took %d ms");
 				if ($compile_function) {
@@ -237,7 +237,7 @@ class MediawikiClient {
 				return "<a href='".$this->link_by_title($title)."'>$title_for_output</a>";
 		}
 
-	
+
 		/**
 		* login to the MediaWiki site with the given username and password.
 		* NOT TESTED
@@ -323,7 +323,7 @@ function getNodeListFromXmlContents($url, $contents, $xpath_query, $tag_name=nul
  */
 function getTitles($nodeList) {
 		$titles = array();
-		foreach ($nodeList as $node) 
+		foreach ($nodeList as $node)
 			$titles[] = $node->getAttribute("title");
 		return $titles;
 }
@@ -336,8 +336,18 @@ function getTitles($nodeList) {
  */
 function getValues($nodeList) {
 	$values = array();
-	foreach ($nodeList as $node) 
+	foreach ($nodeList as $node)
 		$values[] = $node->nodeValue;
 	return $values;
+}
+
+
+/* UNIT TEST */
+if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
+	$client = new MediawikiClient("he.wikisource.org");
+
+	$limitTitles = 100;
+	$titles = $client->titles_prefix(NAMESPACE_PROJECT, "ארגז חול", $limitTitles);
+	print_r($titles);
 }
 ?>

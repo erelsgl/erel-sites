@@ -88,6 +88,12 @@ while ($row = sql_fetch_assoc($rows)) {
 	//print_r($row);
 	$chapter_number = (int)$row['chapter_number'];
 	$verse_number = (int)$row['verse_number'];
+	//print "<p>chapter=$chapter_number verse=$verse_number</p>\n";
+	if ($verse_number==0) {
+		user_error("Verse 0 skipped!",E_USER_WARNING);
+		continue;
+	}
+	
 
 	list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
@@ -206,11 +212,11 @@ while ($row = sql_fetch_assoc($rows)) {
 
 	file_put_contents("$fileroot/$path_from_root_to_reply", $body, LOCK_EX)
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
-	chmod ("$fileroot/$path_from_root_to_reply", 0666);
+	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
 
 	print "<p><a href='$linkroot/$path_from_root_to_reply'>$title_utf8</a></p>\n";
 
-	sql_query_or_die("REPLACE INTO prt_tnk1_new(qod,ktovt) VALUES(".quote_all($title_utf8).",".quote_all($path_from_root_to_reply).")");
+	//sql_query_or_die("REPLACE INTO prt_tnk1_new(qod,ktovt) VALUES(".quote_all($title_utf8).",".quote_all($path_from_root_to_reply).")");
 }
 
 function print_ascii($s) {

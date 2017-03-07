@@ -3,7 +3,7 @@
 /**
  * @file mediawiki.php
  * Utilities for writing files for importing into MediaWiki sites.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
  * @date 2006-11
  */
 
@@ -59,7 +59,7 @@ function mediawiki_template_new_revision($title, $contents) {
 }
 
 function mediawiki_redirect_page($source_title, $target_title) {
-	return mediawiki_page_new_revision($source_title, 
+	return mediawiki_page_new_revision($source_title,
 		"#REDIRECT [[$target_title]]");
 }
 

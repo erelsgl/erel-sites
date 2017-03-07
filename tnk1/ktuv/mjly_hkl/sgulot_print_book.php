@@ -4,7 +4,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>Sgulot Mishley <?=$_GET['chapter']?></title>
 <link type='text/css' rel='stylesheet' href='sgulot.css' />
-<script type='text/javascript' src='/_script/jquery-1.8.1.min.js'></script>
 </head>
 <body>
 
@@ -21,7 +20,7 @@ error_reporting(E_ALL);
 $SYNTAX = "SYNTAX: sgulot_print_book.php?chapter={number}...[&limit=...]";
 
 require_once('sgulot_library.php');
-$GLOBALS['AUTOWIDTH'] = true;
+$GLOBALS['AUTOWIDTH'] = false;
 $GLOBALS['AUTOORDER'] = true;
 
 
@@ -55,7 +54,6 @@ foreach ($chapters as $chapter) {
 		user_error($SYNTAX, E_USER_ERROR);
 	}
 }
-$chapter_number = (int)$_GET['chapter'];
 
 $offset = coalesce($_GET["offset"],0);
 $limit = coalesce($_GET["limit"],1);
@@ -72,14 +70,15 @@ $query = "
 	LIMIT $offset,$limit";
 $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
+
 	foreach ($BIG_FIELDS as $field=>$values) {
 		if (!$values['include']) continue;
 		$row[$field] = preg_replace("#\\s*\\(\\s*<a\\s*href=[^<>]*>\\s*פירוט\\s*</a>\\s*\\)\\s*#i","*", $row[$field]);
-		$row[$field] = remove_divs_with_class($row[$field], "future");		 // changes encoding! put at end!
+		//$row[$field] = remove_divs_with_class($row[$field], "future");		 // changes encoding! put at end!
 	}
 	$html = html_for_page($row, $book_number, $book_name);
 	if ($row['verse_number']==0 && $row['chapter_number']!=0 && $row['chapter_number']!=99)
-		print "<hr style='page-break-before:always' />";
+		print "<hr style='page-break-before:always' /><!-- start new chapter in new page -->";
 	print $html;
 }
 
