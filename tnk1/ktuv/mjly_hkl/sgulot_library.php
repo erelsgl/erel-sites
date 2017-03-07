@@ -60,9 +60,11 @@ function clean_urls($html) {
 
 
 $QUOTE = "[\\'\\\"]";
-$QOD_SFR_TO_KOTRT_SFR = sql_evaluate_array_key_value("SELECT qod_mamre,kotrt FROM sfrim");
-$QOD_PRQ_TO_KOTRT_PRQ = sql_evaluate_array_key_value("SELECT qod_mlbim,kotrt FROM prqim");
-$MSPR_TO_QOD_MLBIM = sql_evaluate_array_key_value("SELECT mspr,qod_mlbim FROM prqim");
+$QOD_SFR_TO_KOTRT_SFR = sql_evaluate_array_key_value("SELECT qod_mamre,kotrt FROM tnk.sfrim");
+$QOD_PRQ_TO_KOTRT_PRQ = sql_evaluate_array_key_value("SELECT qod_mlbim,kotrt FROM tnk.prqim");
+
+$MSPR_TO_QOD_MLBIM = sql_evaluate_array_key_value("SELECT mspr,qod_mlbim FROM tnk.prqim");
+$MSPR_TO_KOTRT_PRQ = sql_evaluate_array_key_value("SELECT mspr,kotrt FROM tnk.prqim");
 $MSPR_TO_QOD_MLBIM[0] = "0"; // http://tora.us.fm/tnk1/ktuv/mj/01-0.html
 
 $WIKIA_REPLACE_LINKS = sql_evaluate_array_key_value("SELECT
@@ -245,11 +247,13 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 
 
 function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
-    global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
+	global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
+	global $MSPR_TO_QOD_MLBIM, $MSPR_TO_KOTRT_PRQ;
 	$chapter_number = $row['chapter_number'];
-	if ($chapter_number>0)
-		list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
-				"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
+	if ($chapter_number>0) {
+		$chapter_code = $MSPR_TO_QOD_MLBIM[$chapter_number];
+		$chapter_letter = $MSPR_TO_KOTRT_PRQ[$chapter_number];
+	}
 	$verse_number = $row['verse_number'];
 	$is_prq = ($verse_number<=0);
 
@@ -276,7 +280,7 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		": 
 		"
 		<div class='verse'>
-			".($row['verse_number']==0||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
+			".($row['verse_number']==0||$row['verse_number']==99||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
 			<span class='verse_text'>$row[verse_text]</span>
 		</div>
 		"
@@ -369,9 +373,13 @@ function isempty($text) {
 function html_for_long_cell($data) {
 	return (!isempty($data["content"])? "
 		<div class='cell $data[mainclass] $data[class]'>
-			".($data['icon']? "<img class='imgsubtitle' src='$data[icon]' />": "")."
-			<h2 class='subtitle'>$data[subtitle]</h2>
+			<h2 class='subtitle'>
+				".($data['icon']? "<img class='imgsubtitle' src='$data[icon]' />": "")."
+				&nbsp;$data[subtitle]
+			</h2>
+			<div class='cellcontent'>
 			".autowidth("$data[content]")."
+			</div><!--cellcontent-->
 		</div>": "");
 }
 

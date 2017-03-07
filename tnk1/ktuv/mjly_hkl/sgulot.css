@@ -19,22 +19,26 @@ body { font-family: "Liberation Sans"; }
 /*q.psuq { font-family: "Stam Ashkenaz CLM"; color: #000; }*/
 q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 
-.verse { background:#eee; text-align:center; background:white; }
-	.verse_text {font-size: 19px; font-weight: normal; letter-spacing: 1px; text-align:center; }
+.verse { background:#ff8; text-align:center; margin-top: 1em; margin-bottom:.3em}
+	.verse_text {font-size: 22px; font-weight: normal; letter-spacing: 1px; text-align:center; }
 	.verse_text { font-family: "Stam Ashkenaz CLM"; color: #000; }
 	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
+.cell  {display: table-row; }
+	.tirgum, .tirgum .subtitle {background-color:#cfc}
+	.tirgum .subtitle {display:none}
 .short { border-top: none 1px black; background:white; }
-	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM'; font-size: 16px}
-	.tirgum { padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 15px}
+	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM';  font-size: 20px; }
+	.tirgum { padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 19px; }
 .long  { display: table; border-top: none 1px black; background:white; }
-	.long h3  { font-size: 14px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
-	.dquyot { font-family: 'Aharoni CLM';      font-size: 14px; }
-	.mqorot { font-family: 'Arial';      font-size: 12px; }
-	.hqblot { font-family: /*'Comix No2 CLM'*/ 'Hadasim CLM'; font-size: 12px; }
-	.ecot   { font-size: 14px; }
-	.subtitle { border-bottom: none #fff 1px; font-size: 8px; text-align:right; margin-right:25px; padding:0 0 0 1em; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
-	.imgsubtitle { width:20px; height:20px; float:right; margin:-1.2mm 0mm -2mm 2mm;  }
-	.long .cell { 
+	.long h3  { font-size: 18px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
+	.dquyot { font-family: 'Aharoni CLM';      font-size: 18px; }
+	.mqorot { font-family: 'David CLM';            font-size: 16px; }
+	.hqblot { font-family: 'David CLM'/*'Comix No2 CLM' 'Hadasim CLM'*/; font-size: 16px; }
+	.ecot   { font-size: 18px; }
+	.subtitle { display:table-cell; width:10mm; border-bottom: none #fff 1px; font-size: 8px; text-align:right; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
+	.cellcontent { display:table-cell; padding-bottom: 1em}
+	.imgsubtitle { display:block; width:20px; height:20px; margin:/*-1.2mm 0mm -2mm 2mm*/0;  }
+	.long .cell {
 		padding: 2mm;
 		background-repeat: no-repeat;
 		background-position: top right; 
@@ -43,9 +47,9 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 	}
 	.long .cell table { border-collapse: collapse; }
 	.long .cell table td { border: solid 1px #888; }
-	.longcell { display: table-cell; min-width:20ex; }
-	.longright { float:right; width:5cm; border-bottom: none 1px #888; margin-left:0.2cm; }
-	.longleft  { float:left;  width:5cm; border-bottom: none 1px #888; margin-right:0.2cm; }
+	.longcell { display: table-row; min-width:20ex; }
+	.longright { /*float:right; width:5cm; */ border-bottom: none 1px #888; margin-left:0.2cm; }
+	.longleft  { /*float:left;  width:5cm; */ border-bottom: none 1px #888; margin-right:0.2cm; }
 	.longbig  {  }
 		.paint {
 			font-size: 24px; font-style: italic; text-align:center; background-color:#eee;
@@ -59,7 +63,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 .gate .verse .verse_text { font-size: 96px; }
 .gate .short, .gate .short .mcudot, .gate .short .tirgum { font-size:34px; }
 .gate .long, .gate .long .mqorot , .gate .long .dquyot, .gate .long .hqblot, .gate .long .ecot {font-size:29px;}
-.gate .subtitle {font-size:24px;}
+.gate .subtitle {font-size:24px; width: 30mm; }
 .gate .longcell {min-width:0; }
 .gate .copyright {font-size:14px;}
 .gate .imgsubtitle { width:40px; height:40px; }
@@ -76,7 +80,7 @@ td {vertical-align:top}
 
 
 ul {margin:0 0 0 0;}
-ul li {margin:0 -2em 0 0;}
+ul li {margin:0 -1em 0 0;}
 
 
 table { border-collapse:collapse; }
