@@ -36,7 +36,7 @@ function qijur_lpsuqim($chapter_letter, $chapter_number, $psuqim) {
   <body>
   <p>
 	<a href="<?=$TABLEEDITOR;?>?table=sgulot&Limit=4&RowOffset=0&Search=`chapter_number`+%3D+'99'">שער</a>&nbsp; &nbsp;
-	<a href="<?=$TABLEEDITOR;?>?table=sgulot&Limit=10&RowOffset=0&Search=`verse_number`+%3D+'0'">מבנה פרק</a>&nbsp; &nbsp;
+	<a href="<?=$TABLEEDITOR;?>?table=sgulot&Limit=10&RowOffset=0&Search=`verse_number`+IN+(0,99)&OrderBy=chapter_letter+ASC">מבנה פרק</a>&nbsp; &nbsp;
 	<a href="http://127.0.0.1/tnk1/ktuv/mjly_hkl/sgulot_print_booklet.php?chapter=1,2,3,4,5,6,7,8,9&limit=1000">תירגומים</a>&nbsp; &nbsp;
   </p>
 
