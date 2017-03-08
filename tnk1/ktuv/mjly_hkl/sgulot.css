@@ -24,7 +24,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 	.verse_text { font-family: "Stam Ashkenaz CLM"; color: #000; }
 	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
 .cell  {display: table-row; }
-	.tirgum, .tirgum .subtitle {background-color:#cfc}
+	.tirgum, .tirgum .subtitle {background-color:#cfc; }
 	.tirgum .subtitle {display:none}
 .short { border-top: none 1px black; background:white; }
 	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM';  font-size: 20px; }
@@ -32,7 +32,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 .long  { display: table; border-top: none 1px black; background:white; }
 	.long h3  { font-size: 18px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
 	.dquyot { font-family: 'Aharoni CLM';      font-size: 18px; }
-	.mqorot { font-family: 'David CLM';            font-size: 16px; }
+	.mqorot { font-family: 'Arial';            font-size: 16px; }
 	.hqblot { font-family: 'David CLM'/*'Comix No2 CLM' 'Hadasim CLM'*/; font-size: 16px; }
 	.ecot   { font-size: 18px; }
 	.subtitle { display:table-cell; width:10mm; border-bottom: none #fff 1px; font-size: 8px; text-align:right; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
