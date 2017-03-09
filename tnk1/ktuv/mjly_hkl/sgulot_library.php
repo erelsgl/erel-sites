@@ -279,6 +279,7 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		</a>".(0<$verse_number && $verse_number<99? ": \"<q class='psuq'>$row[verse_text]</q>\"": ":")."</p>
 		": 
 		"
+		<div class='verse_and_tirgumim'>
 		<div class='verse'>
 			".($row['verse_number']==0||$row['verse_number']==99||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
 			<span class='verse_text'>$row[verse_text]</span>
@@ -300,6 +301,7 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		$html .= html_for_long_cell($column);
 	$html .= "
 	</div><!--short-->
+	</div><!--verse_and_tirgumim-->
 	<br style='clear:both; line-height:0' />
 	";
 		
