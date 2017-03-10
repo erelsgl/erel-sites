@@ -29,7 +29,7 @@ $edit = !empty($_GET['edit']);
 global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;  // in sgulot_library.pgp
 $BIG_FIELDS_ORDER = array('hqblot', 'mqorot');
 // $BIG_FIELDS_ORDER = array('mqorot');   $BIG_FIELDS['mqorot']['icon']='';
-$SMALL_FIELDS_ORDER = array('tirgum');
+$SMALL_FIELDS_ORDER = array('tirgum','mcudot');
 
 $TEMP_BIG_FIELDS=array();
 foreach ($BIG_FIELDS_ORDER as $field)
@@ -69,11 +69,12 @@ $query = "
 	ORDER BY book, chapter_number<>99, chapter_number, verse_number
 	LIMIT $offset,$limit";
 $rows = sql_query_or_die($query);
+$PERUT = "<small> (ראו שם)</small>";
 while ($row = sql_fetch_assoc($rows)) {
 
 	foreach ($BIG_FIELDS as $field=>$values) {
 		if (!$values['include']) continue;
-		$row[$field] = preg_replace("#\\s*\\(\\s*<a\\s*href=[^<>]*>\\s*פירוט\\s*</a>\\s*\\)\\s*#i","", $row[$field]);
+		$row[$field] = preg_replace("#\\s*\\(\\s*<a\\s*href=[^<>]*>\\s*פירוט\\s*</a>\\s*\\)\\s*#i",$PERUT, $row[$field]);
 		//$row[$field] = remove_divs_with_class($row[$field], "future");		 // changes encoding! put at end!
 	}
 	$html = html_for_page($row, $book_number, $book_name);

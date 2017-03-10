@@ -1,6 +1,7 @@
 @media print {
-  /*.page {page-break-inside: avoid; background:white; }
-  .long {page-break-inside: avoid; background:white; }*/
+  /*.page {page-break-inside: avoid; background:white; }*/
+  /*.long {page-break-inside: avoid; background:white; }*/
+  .verse_and_tirgumim {page-break-inside: avoid }
 }
 
 body { font-family: "Liberation Sans"; }
@@ -19,22 +20,25 @@ body { font-family: "Liberation Sans"; }
 /*q.psuq { font-family: "Stam Ashkenaz CLM"; color: #000; }*/
 q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 
-.verse { background:#ff8; text-align:center; margin-top: 1em; margin-bottom:.3em}
+.verse { background:#ccc; text-align:center; margin-top: 1em; margin-bottom:.3em}
 	.verse_text {font-size: 22px; font-weight: normal; letter-spacing: 1px; text-align:center; }
 	.verse_text { font-family: "Stam Ashkenaz CLM"; color: #000; }
 	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
 .cell  {display: table-row; }
-	.tirgum, .tirgum .subtitle {background-color:#cfc}
-	.tirgum .subtitle {display:none}
-.short { border-top: none 1px black; background:white; }
-	.mcudot { padding: 10px 10px 10px 20px; font-family:'David CLM';  font-size: 20px; }
-	.tirgum { padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 19px; }
+	.tirgum, .tirgum .subtitle {background-color:#cfc; }
+	.tirgum .subtitle {/*display:none*/}
+	.mcudot, .mcudot .subtitle {background-color:#fdc; }
+	.mcudot .subtitle {/*display:none*/}
+	.tirgum, .mcudot  {/*width:50%*/ border-left: solid 5px white; border-right: solid 5px white}
+.short { display:table-row; border-top: none 1px black; background:white; }
+	.mcudot { display:table-cell; padding: 10px 10px 10px 20px; font-family:'David CLM';  font-size: 20px; }
+	.tirgum { display:table-cell; padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 19px; }
 .long  { display: table; border-top: none 1px black; background:white; }
 	.long h3  { font-size: 18px; font-weight: normal; line-height:100%; margin: 9px 0 3px 0;}
-	.dquyot { font-family: 'Aharoni CLM';      font-size: 18px; }
-	.mqorot { font-family: 'David CLM';            font-size: 16px; }
-	.hqblot { font-family: 'David CLM'/*'Comix No2 CLM' 'Hadasim CLM'*/; font-size: 16px; }
-	.ecot   { font-size: 18px; }
+	.dquyot { display:table-row; font-family: 'Aharoni CLM';      font-size: 18px; }
+	.mqorot { display:table-row; font-family: 'Arial';            font-size: 16px; }
+	.hqblot { display:table-row; font-family: 'David CLM'/*'Comix No2 CLM' 'Hadasim CLM'*/; font-size: 16px; }
+	.ecot   { display:table-row; font-size: 18px; }
 	.subtitle { display:table-cell; width:10mm; border-bottom: none #fff 1px; font-size: 8px; text-align:right; line-height:100%; font-weight:normal; background:#fefefe; font-style:italic}
 	.cellcontent { display:table-cell; padding-bottom: 1em}
 	.imgsubtitle { display:block; width:20px; height:20px; margin:/*-1.2mm 0mm -2mm 2mm*/0;  }
@@ -47,7 +51,7 @@ q.mfrj { /*font-family: "David CLM"; */ font-style:italic; color: #000; }
 	}
 	.long .cell table { border-collapse: collapse; }
 	.long .cell table td { border: solid 1px #888; }
-	.longcell { display: table-row; min-width:20ex; }
+	.longcell { min-width:20ex; }
 	.longright { /*float:right; width:5cm; */ border-bottom: none 1px #888; margin-left:0.2cm; }
 	.longleft  { /*float:left;  width:5cm; */ border-bottom: none 1px #888; margin-right:0.2cm; }
 	.longbig  {  }
