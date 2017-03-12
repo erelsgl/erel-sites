@@ -22205,3 +22205,122 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-03-10 15:09:05' 
 			WHERE messageid=6737;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>מלכים א כ33: &quot;וְהָאֲנָשִׁים יְנַחֲשׁוּ וַיְמַהֲרוּ וַיַּחְלְטוּ הֲמִמֶּנּוּ </p><p>וַיֹּאמְרוּ אָחִיךָ בֶּן הֲדַד וַיֹּאמֶר בֹּאוּ קָחֻהוּ וַיֵּצֵא אֵלָיו בֶן הֲדַד וַיַּעֲלֵהוּ עַל הַמֶּרְכָּבָה&quot;</p><p>******* כל מה שיוצא מפי המלך הוא כנדר לאלהים = &quot;פסק דין חלוט&quot; *******</p><p>שופטים יא35: &quot;וַיְהִי כִרְאוֹתוֹ אוֹתָהּ וַיִּקְרַע אֶת בְּגָדָיו וַיֹּאמֶר אֲהָהּ בִּתִּי הַכְרֵעַ הִכְרַעְתִּנִי וְאַתְּ הָיִיתְ בְּעֹכְרָי וְאָנֹכִי פָּצִיתִי פִי אֶל יהוה וְלֹא אוּכַל לָשׁוּב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:12:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>מלכים א כ33: &quot;וְהָאֲנָשִׁים יְנַחֲשׁוּ וַיְמַהֲרוּ וַיַּחְלְטוּ הֲמִמֶּנּוּ</p><p>וַיֹּאמְרוּ אָחִיךָ בֶּן הֲדַד וַיֹּאמֶר בֹּאוּ קָחֻהוּ וַיֵּצֵא אֵלָיו בֶן הֲדַד וַיַּעֲלֵהוּ עַל הַמֶּרְכָּבָה&quot;</p><p>******* כל מה שיוצא מפי המלך הוא כנדר לאלהים = &quot;פסק דין חלוט&quot; *******</p><p>שופטים יא35: </p><p>&quot;וַיְהִי כִרְאוֹתוֹ אוֹתָהּ וַיִּקְרַע אֶת בְּגָדָיו וַיֹּאמֶר אֲהָהּ בִּתִּי הַכְרֵעַ הִכְרַעְתִּנִי וְאַתְּ הָיִיתְ בְּעֹכְרָי וְאָנֹכִי פָּצִיתִי פִי אֶל יהוה וְלֹא אוּכַל לָשׁוּב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:13:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-12 04:13:19' 
+			WHERE messageid=6739;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>אם אדם נדר נדר לעשות רע לפלמוני לרצוח או כל דבר רע אשר לא על פי התורה</p><p>אין חובה להקים נדר זה כי דברי התורה כנדר קודמים לכל נדר</p><p>3 איש כי-ידר נדר ליהוה או-השבע שבעה לאסר אסר על-נפשו לא יחל דברו ככל-היצא מפיו יעשה. </p><p>הנדר הוא לאסור על נפשך</p><p>  </p><p>קהלת ה3: &quot;כאשר תדר נדר לאלהים אל תאחר לשלמו כי אין חפץ בכסילים את אשר תדר שלם&quot;</p><p>http://tora.us.fm/tnk1/daian</p><p>   דַיָּן משה ותורתו    </p><p>   מורה דרך הקודש   </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:25:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-12 04:26:33' 
+			WHERE messageid=6741;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>אם אדם נדר נדר לעשות רע לפלמוני לרצוח או כל דבר רע אשר לא על פי התורה</p><p>אין חובה להקים נדר זה כי דברי התורה כנדר קודמים לכל נדר</p><p>וכי מעמד הר סיני נשבעו בני ישראל כנדר עולמים חהקים את כל דברי התורה ככתוב נעשה ונשמע</p><p>3 איש כי-ידר נדר ליהוה או-השבע שבעה לאסר אסר על-נפשו לא יחל דברו ככל-היצא מפיו יעשה.</p><p>  </p><p>קהלת ה3: &quot;כאשר תדר נדר לאלהים אל תאחר לשלמו כי אין חפץ בכסילים את אשר תדר שלם&quot;</p><p>http://tora.us.fm/tnk1/daian</p><p>   דַיָּן משה ותורתו    </p><p>   מורה דרך הקודש   </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:27:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>אם אדם נדר נדר לעשות רע לפלמוני לרצוח או כל דבר רע אשר לא על פי התורה</p><p>אין חובה להקים נדר זה כי דברי התורה כנדר קודמים לכל נדר</p><p>וכי במעמד הר סיני נשבעו בני ישראל כנדר עולמים להקים את כל דברי התורה ככתוב נעשה ונשמע</p><p>3 איש כי-ידר נדר ליהוה או-השבע שבעה לאסר אסר על-נפשו לא יחל דברו ככל-היצא מפיו יעשה.</p><p>קהלת ה3: &quot;כאשר תדר נדר לאלהים אל תאחר לשלמו כי אין חפץ בכסילים את אשר תדר שלם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:29:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-12 04:29:03' 
+			WHERE messageid=6742;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>אם אדם נדר נדר לעשות רע לפלמוני לרצוח או כל דבר רע אשר לא על פי התורה</p><p>אין חובה להקים נדר זה כי דברי התורה כנדר קודמים לכל נדר</p><p>וכי במעמד הר סיני נשבעו בני ישראל כנדר עולמים להקים את כל דברי התורה ככתוב נעשה ונשמע</p><p> איש כי-ידר נדר ליהוה או-השבע שבעה לאסר אסר על-נפשו לא יחל דברו ככל-היצא מפיו יעשה.</p><p>קהלת ה3: &quot;כאשר תדר נדר לאלהים אל תאחר לשלמו כי אין חפץ בכסילים את אשר תדר שלם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:40:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-12 04:40:19' 
+			WHERE messageid=6743;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/psd.html',
+		'<p>אם אדם נדר נדר לעשות רע לפלמוני לרצוח או כל דבר רע אשר לא על פי התורה</p><p>אין חובה להקים נדר זה כי דברי התורה כנדר קודמים לכל נדר</p><p>וכי במעמד הר סיני נשבעו בני ישראל כנדר עולמים להקים את כל דברי התורה ככתוב נעשה ונשמע</p><p>איש כי-ידר נדר ליהוה או-השבע שבעה לאסר אסר על-נפשו לא יחל דברו ככל-היצא מפיו יעשה.</p><p>קהלת ה3: &quot;כאשר תדר נדר לאלהים אל תאחר לשלמו כי אין חפץ בכסילים את אשר תדר שלם&quot;</p><p>תהלים סא9: &quot;כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְשַׁלְּמִי נְדָרַי יוֹם יוֹם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-12 04:43:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-03-12 04:43:15' 
+			WHERE messageid=6744;
+
