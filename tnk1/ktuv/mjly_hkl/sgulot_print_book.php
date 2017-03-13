@@ -21,7 +21,7 @@ $SYNTAX = "SYNTAX: sgulot_print_book.php?chapter={number}...[&limit=...]";
 
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = false;
-$GLOBALS['AUTOORDER'] = true;
+$GLOBALS['AUTOORDER'] = false;
 
 
 $edit = !empty($_GET['edit']);
@@ -74,7 +74,7 @@ while ($row = sql_fetch_assoc($rows)) {
 
 	foreach ($BIG_FIELDS as $field=>$values) {
 		if (!$values['include']) continue;
-		$row[$field] = preg_replace("#\\s*\\(\\s*<a\\s*href=[^<>]*>\\s*פירוט\\s*</a>\\s*\\)\\s*#i",$PERUT, $row[$field]);
+		$row[$field] = preg_replace("#\\s*\\(\\s*<a\\s*href=[^<>]*>\\s*פירוט\\s*</a>\\s*\\)#i",$PERUT, $row[$field]);
 		//$row[$field] = remove_divs_with_class($row[$field], "future");		 // changes encoding! put at end!
 	}
 	$html = html_for_page($row, $book_number, $book_name);
