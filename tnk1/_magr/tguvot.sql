@@ -22348,3 +22348,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/az.html',
+		'<p>ב&quot;ה  הביטוי:&quot;אז&quot; במקרא מופיע להדגיש ביחס לזמן שלפני כן ולא ביחס לאחרי כן לזמן כתיבת הדברים. כגון:&quot;אז תרצה הארץ את שבתותיה, וכגון:&quot;אז ראה ויספרה הכינה וגם חקרה&quot;. ואילו במקומות שבהם המקרא רוצה להדגיש שהיה בעבר ולא כעת בזמן כתיבת הדברים הוא משתמש בביטוי :&quot;בימים ההם , כגון:&quot;הנפילים היו בארץ בימים ההם&quot;, וכגון:&quot;בימים ההם אין מלך בישראל איש הישר בעיניו יעשה&quot; . ומכאן שאין כאן שום קושיא על המסורת, והאמת מוכחת כפירוש רש&quot;י . והקושיא כביכול, נובעת מבורות וחוסר ידע בלשון ודרך המקרא. ואדרבא, מזה שהמקרא משתמש כאן בביטוי:&quot;אז&quot;, ולא בביטוי :&quot;בימים ההם&quot;, אפשר לראות שהכנענים היו בארץ בזמן כתיבת הדברים בתורה, וכעמדת המסורת.</p>',
+		'116576990725092823416',
+		'אליעזר מעוז שלום',
+		'2017-03-13 15:47:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/az.html',
+		'<p>ויש גם:&quot;אז&quot; לאו דוקא בניגוד לזמן אחר, אלא לומר שכשהיה הדבר האחד היה הדבר השני , כגון:&quot;אז אמר שלמה ה\' אמר לשכון בערפל&quot;.</p>',
+		'116576990725092823416',
+		'אליעזר מעוז שלום',
+		'2017-03-13 16:10:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/az.html',
+		'<p>אז בארץ = עז בארץ</p><p>לאמור כי הכנעני נאחז בעוז חזק בארץ ולא ניתן לגרשו בעת ההיא כי לא שלם עוון האמורי עד הנה</p><p>רק בימי יהושע תם ונשלם עוון הכנעני ואז אלהים צדיק גרש את הכנעני מהארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-13 16:19:52'
+		)
+		;
+
