@@ -22487,3 +22487,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/atid_teva.html',
+		'<p>ירמיהו יב4: &quot;עַד מָתַי תֶּאֱבַל הָאָרֶץ וְעֵשֶׂב כָּל הַשָּׂדֶה יִיבָשׁ מֵרָעַת יֹשְׁבֵי בָהּ סָפְתָה בְהֵמוֹת וָעוֹף כִּי אָמְרוּ לֹא יִרְאֶה אֶת אַחֲרִיתֵנוּ&quot;</p><p>יואל א12: &quot;הַגֶּפֶן הוֹבִישָׁה וְהַתְּאֵנָה אֻמְלָלָה רִמּוֹן גַּם תָּמָר וְתַפּוּחַ כָּל עֲצֵי הַשָּׂדֶה יָבֵשׁוּ כִּי הֹבִישׁ שָׂשׂוֹן מִן בְּנֵי אָדָם&quot;</p><p>תהלים קז34: &quot;אֶרֶץ פְּרִי לִמְלֵחָה מֵרָעַת יֹשְׁבֵי בָהּ&quot;</p><p>הפסוקים האלה מעידים על קשר ישיר בין מצב הרוח של בני האדם לבין האדמה </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-18 16:15:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-02.html',
+		'<p>יש הקבלה מעניינת בין משה ,שנושא דווקא את ציפורה.האיש שהופך אותנו לעם נבדל ומקודש.(ואכן חז&quot;ל שמים בפי זמרי את ההתרסה&quot;בת יתרו מי התיר לך?!&quot;   הקדוש והנבדל מכולנו, זקוק דווקא ל&quot;קונטרה&quot; שתייבא כוחות מבחוץ.</p><p>בדומה לכך, יהושע שיצטרך להתמודד עם מצוות &quot;לא תחיה כל מנהשמה, נושא ע&quot;פ חז&quot;ל את       מי שהכי כנענית שאפשר: קדשה מהעיר הראשונה. אסור לקחת משללל יריחו, אבל מותר לשאץת את רחב.</p><p>כלומר: גם במקומות הפחות צפויים יש ערך.</p><p>ציפ]ורה מייצגת ערך שיש באומות העולם באופן כללי, ערך שמעשיר את משה בשלב הראשון, עד פרישתו.</p><p>רחב מייצגת את הערך שיש בכנען, שמעשיר את עמ&quot;י גווקא כשנאבק כנגד כנען.</p><p>דווקא היא מלמדת אותנו על גדלות ה\', מילים שאנו מזכירים לעצמנו יום יום בתפילת כעלינו לשבח.&quot;</p>',
+		'105243681001453494934',
+		'חוה מנסבך',
+		'2017-03-18 21:40:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-38.html',
+		'<p>צדיק ישראל! תודה על המידע המעשיר!!!!!</p>',
+		'111758419899813671130',
+		'hadarfarkas',
+		'2017-03-19 06:59:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-38.html',
+		'<p>תמשיך ליצור לעורר השראה בקרב בני הנוער! בזכותך אני מתחזקת כל יום. ישר כוח!</p>',
+		'111758419899813671130',
+		'hadarfarkas',
+		'2017-03-19 07:00:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-38.html',
+		'<p>תודה! תודה! תודה!</p>',
+		'111758419899813671130',
+		'hadarfarkas',
+		'2017-03-19 07:01:25'
+		)
+		;
+
