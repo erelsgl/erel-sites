@@ -7,8 +7,8 @@
 body { font-family: "Liberation Sans"; }
 
 .page {
-  width: 190mm;   /* for printing in Firefox */
-  margin:0 0 0 0; 
+  width: 150mm;   /* for printing in Firefox */
+  margin:20mm 20mm 20mm 20mm; 
   border: none 2px black; 
   padding: 0 0 0 0;
   overflow:auto; text-align:justify; border-radius: 20px; 
