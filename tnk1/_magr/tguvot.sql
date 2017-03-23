@@ -22666,3 +22666,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-03-21 19:39:53' 
 			WHERE messageid=6620;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/tvla.html',
+		'<p>לא טוב אני צריכה סיכום</p>',
+		'101045308977317362143',
+		'זוהר אדן',
+		'2017-03-22 15:34:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/tvla.html',
+		'<p>לא טוב אני צריכה סיכום</p>',
+		'101045308977317362143',
+		'זוהר אדן',
+		'2017-03-22 15:35:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-16-32.html',
+		'<p>הרחבה יפה . דוגמאות טובות ופרשנות מדויקת . לא נותר אלא להמשיך לעבוד על המידות בשאיפה למגר את מידת הכעס כליל.</p>',
+		'117830637716303759641',
+		'אילון ארקין',
+		'2017-03-22 16:31:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>דברים יח8: &quot;חֵלֶק כְּחֵלֶק יֹאכֵלוּ לְבַד מִמְכָּרָיו עַל הָאָבוֹת&quot; ........ והכהנים בני אהרן הם אבות הלוים</p><p>לאמור כי הלוים יאכלו את כל חלקי הנתחים מקורבן הבהמה לְבַד מִמְכָּרָיו עַל הָאָבוֹת מלבד חלקי הנתחים שמיועדים לכהנים </p><p>דברי הימים א טו12: בפסוק זה נאמר כי הכהנים הם ראשי אבות ללוים</p><p>&quot;וַיֹּאמֶר לָהֶם אַתֶּם רָאשֵׁי הָאָבוֹת לַלְוִיִּם הִתְקַדְּשׁוּ אַתֶּם וַאֲחֵיכֶם וְהַעֲלִיתֶם אֵת אֲרוֹן יהוה אֱלֹהֵי יִשְׂרָאֵל אֶל הֲכִינוֹתִי לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-22 17:42:45'
+		)
+		;
+
