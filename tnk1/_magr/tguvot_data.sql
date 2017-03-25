@@ -820,3 +820,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvia/yxzqel/yx-44.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/hlwaa_mgmx.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-03-24 09:14:25'
+		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
+		;
+

@@ -22738,3 +22738,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום שמי שרה פקץ חתמתי לבני ערבות בבנק ובני לא עמד בתשלומיו יש לו 5 ילדים.ואילו אני עוברת 7 מדורי גהנום מההוצאה לפועל .הגעתי להסדר איתם שאשלם להם 15000 ש והם יסגרו את התיק אנא מבקשת שתצילו אותי אשה חולה .וזועקת לעזרא אנא תעזרו לאלמנה בת 70 שיש לה פנסיה .מבקשת פריסה ויכולה להחזיר עד 800 ש&quot;ח לחדש.פל:0586446296</p>',
+		'107752881764371357718',
+		'Sara P',
+		'2017-03-24 09:14:25'
+		)
+		;
+
