@@ -22666,3 +22666,87 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-03-21 19:39:53' 
 			WHERE messageid=6620;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/tvla.html',
+		'<p>לא טוב אני צריכה סיכום</p>',
+		'101045308977317362143',
+		'זוהר אדן',
+		'2017-03-22 15:34:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/tvla.html',
+		'<p>לא טוב אני צריכה סיכום</p>',
+		'101045308977317362143',
+		'זוהר אדן',
+		'2017-03-22 15:35:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-16-32.html',
+		'<p>הרחבה יפה . דוגמאות טובות ופרשנות מדויקת . לא נותר אלא להמשיך לעבוד על המידות בשאיפה למגר את מידת הכעס כליל.</p>',
+		'117830637716303759641',
+		'אילון ארקין',
+		'2017-03-22 16:31:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>דברים יח8: &quot;חֵלֶק כְּחֵלֶק יֹאכֵלוּ לְבַד מִמְכָּרָיו עַל הָאָבוֹת&quot; ........ והכהנים בני אהרן הם אבות הלוים</p><p>לאמור כי הלוים יאכלו את כל חלקי הנתחים מקורבן הבהמה לְבַד מִמְכָּרָיו עַל הָאָבוֹת מלבד חלקי הנתחים שמיועדים לכהנים </p><p>דברי הימים א טו12: בפסוק זה נאמר כי הכהנים הם ראשי אבות ללוים</p><p>&quot;וַיֹּאמֶר לָהֶם אַתֶּם רָאשֵׁי הָאָבוֹת לַלְוִיִּם הִתְקַדְּשׁוּ אַתֶּם וַאֲחֵיכֶם וְהַעֲלִיתֶם אֵת אֲרוֹן יהוה אֱלֹהֵי יִשְׂרָאֵל אֶל הֲכִינוֹתִי לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-22 17:42:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>ירמיהו כב15: </p><p>&quot;הֲתִמְלֹךְ כִּי אַתָּה מְתַחֲרֶה בָאָרֶז אָבִיךָ הֲלוֹא אָכַל וְשָׁתָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot; </p><p>בראשית ב15: &quot;וַיִּקַּח יהוה אֱלֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ&quot; </p><p>לְעָבְדָהּ וּלְשָׁמְרָהּ = אָכַל וְשָׁתָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot; </p><p>לְעָבְדָהּ = אָכַל וְשָׁתָה</p><p>וּלְשָׁמְרָהּ = וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot; </p><p>זה גן העדן לא עובדים בפרך </p><p>כי העבודה זה לאכול ולשתות </p><p>ולשמרה זה לעשות משפט וצדקה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-23 16:23:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44.html',
+		'<p>עזרת לי להבין את מבנה ופשט הפרק, תודה! </p><p>מדוע יש מחכמי ישראל, שלקחו מהפסוקים על הכהנים בפרק זה (&quot;ואלמנה וגרושה לא יקחו להם לנשים כי אם בתולת מזרע בית ישראל..&quot;) שאסור לכהן להתחתן עם גיורת? הרי כל הדיבור פה הוא במפורש על מצב של בית מקדש עתידי, שבו נבחרים כהנים ממשפחה מסוימת, שהם במדרגה גבוהה יותר משאר הכהנים, כך שאפילו אלמנה רגילה אסורה להם...</p>',
+		'102202082954079536553',
+		'Betzalel Silver',
+		'2017-03-23 21:51:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום שמי שרה פקץ חתמתי לבני ערבות בבנק ובני לא עמד בתשלומיו יש לו 5 ילדים.ואילו אני עוברת 7 מדורי גהנום מההוצאה לפועל .הגעתי להסדר איתם שאשלם להם 15000 ש והם יסגרו את התיק אנא מבקשת שתצילו אותי אשה חולה .וזועקת לעזרא אנא תעזרו לאלמנה בת 70 שיש לה פנסיה .מבקשת פריסה ויכולה להחזיר עד 800 ש&quot;ח לחדש.פל:0586446296</p>',
+		'107752881764371357718',
+		'Sara P',
+		'2017-03-24 09:14:25'
+		)
+		;
+
