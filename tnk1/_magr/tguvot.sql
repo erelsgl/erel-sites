@@ -22750,3 +22750,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_2.html',
+		'<p>:)</p><p></p>',
+		'111203698928851439116',
+		'רוני לדרמן',
+		'2017-03-25 13:16:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44.html',
+		'<p>נראה לי שהאיסור לנישואי כהן עם גיורת לא לקוח מכאן אלא מספר ויקרא, פרשת אמור.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-03-26 06:55:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44.html',
+		'<p>לכהן מותר להתחתן עם גיורת אם היא בתולה </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-26 11:17:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>הושע ו6: &quot;כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת&quot;</p><p>זָבַח ======= מֵעֹלוֹת&quot; </p><p>כִּי חֶסֶד === וְדַעַת אֱלֹהִים </p><p>מי שעושה חסד זוכה לדעת אלהים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-26 14:59:12'
+		)
+		;
+
