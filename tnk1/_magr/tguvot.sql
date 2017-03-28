@@ -22798,3 +22798,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/31-23.html',
+		'<p>אישה היא המראה והמורה של בעלה.היא כתר לראשחכם.</p><p></p>',
+		'117824841717190642932',
+		'מוטי אטיה',
+		'2017-03-28 07:59:17'
+		)
+		;
+
