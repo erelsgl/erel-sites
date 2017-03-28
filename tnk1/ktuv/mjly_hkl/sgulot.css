@@ -1,14 +1,14 @@
 @media print {
-  /*.page {page-break-inside: avoid; background:white; }*/
+  .page {page-break-inside: avoid; background:white; }
   /*.long {page-break-inside: avoid; background:white; }*/
-  .verse_and_tirgumim {page-break-inside: avoid }
+  /*.verse_and_tirgumim {page-break-inside: avoid }*/
 }
 
 body { font-family: "Liberation Sans"; }
 
 .page {
-  width: 150mm;   /* for printing in Firefox */
-  margin:20mm 20mm 20mm 20mm; 
+  width: 190mm;
+  margin:0mm 0mm 0mm 0mm; 
   border: none 2px black; 
   padding: 0 0 0 0;
   overflow:auto; text-align:justify; border-radius: 20px; 

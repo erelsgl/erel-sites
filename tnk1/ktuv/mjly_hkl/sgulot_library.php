@@ -257,7 +257,8 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	$verse_number = $row['verse_number'];
 	$is_prq = ($verse_number<=0);
 
-	$send_to_next_page = coalesce($row['tosfot'], "");
+	$send_to_next_page = False; //$send_to_next_page = coalesce($row['tosfot'], "");
+
 
 	//$tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
 
