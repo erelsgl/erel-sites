@@ -22810,3 +22810,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>השמש הוא מלך.השמש הוא מרפא .השמש שורפת.</p>',
+		'117824841717190642932',
+		'מוטי אטיה',
+		'2017-03-30 00:51:08'
+		)
+		;
+
