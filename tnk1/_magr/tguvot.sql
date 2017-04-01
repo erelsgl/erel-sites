@@ -22798,3 +22798,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/31-23.html',
+		'<p>אישה היא המראה והמורה של בעלה.היא כתר לראשחכם.</p><p></p>',
+		'117824841717190642932',
+		'מוטי אטיה',
+		'2017-03-28 07:59:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>השמש הוא מלך.השמש הוא מרפא .השמש שורפת.</p>',
+		'117824841717190642932',
+		'מוטי אטיה',
+		'2017-03-30 00:51:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>ויקרא כג14: &quot;וְלֶחֶם וְקָלִי וְכַרְמֶל לֹא תֹאכְלוּ עַד עֶצֶם הַיּוֹם הַזֶּה עַד הֲבִיאֲכֶם אֶת קָרְבַּן אֱלֹהֵיכֶם חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם בְּכֹל מֹשְׁבֹתֵיכֶם&quot;</p><p>בפסח אוכלים מצות אשר הם גם כן לחם ונקראים לחמא עניא לכן לפני פסח כבר מקריבים את קורבן העומר</p><p>ממחרת השבת הראשונה לשנה החדשה לאמור ממחרת השבת הראשונה לחודש האביב אז מקריבים את קורבן העומר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-03-30 16:21:24'
+		)
+		;
+
