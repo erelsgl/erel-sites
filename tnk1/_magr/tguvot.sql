@@ -22834,3 +22834,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-44.html',
+		'<p>בתורה מופיע לגבי כהן הדיוט, רק איסורים אלה: &quot;אשה זונה וחללה לא יקח .. ואשה גרושה..&quot; ולומר על גיורת שהיא סעיף של \'זונה\' זה רחוק ומבזה, לפחות בתקופתנו, שבה נדיר שנשים וילדות נבעלות-נאנסות ברחוב.</p>',
+		'102202082954079536553',
+		'Betzalel Silver',
+		'2017-04-03 12:04:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום זקוקה דחוף להלוואה ואחזיר חודש הבא</p>',
+		'112712289481765547175',
+		'NAVA Te',
+		'2017-04-03 17:39:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום זקוקה דחוף להלוואה ואחזיר חודש הבא טלפון:0544974233</p>',
+		'112712289481765547175',
+		'NAVA Te',
+		'2017-04-03 17:40:14'
+		)
+		;
+
