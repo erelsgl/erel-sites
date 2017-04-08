@@ -22870,3 +22870,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/br-02-18.html',
+		'<p>מה עושים שהיא תמיד נגדו?זה גזרה?</p>',
+		'117824841717190642932',
+		'מוטי אטיה',
+		'2017-04-06 07:14:58'
+		)
+		;
+
