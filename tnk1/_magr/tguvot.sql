@@ -22882,3 +22882,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר בַּעֲבוּר זֶה עָשָׂה יהוה לִי בְּצֵאתִי מִמִּצְרָיִם&quot; </p><p>שמות יג8: &quot;וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר בַּעֲבוּר זֶה...........  ומה זה בעבור זה</p><p>ובכן מי שהקריב קורבן פסח ואכלו בזבח בטהור ובקדוש אז יבינו מה זה</p><p>זה == לאמור כהרגשה הנפלאה הזאת של בן חורין לאחר אכילת הזבח</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-04-09 19:09:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/psx.html',
+		'<p>על פסיחה והחמצה / הרב ארי לנדא - קהילת \'נוה אברהם\', פ&quot;ת.</p><p>http://mikve.net/content/845</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-04-10 04:59:30'
+		)
+		;
+
