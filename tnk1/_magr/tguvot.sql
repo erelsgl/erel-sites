@@ -22961,3 +22961,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-1617.html',
+		'<p>אהבתי ולמדתי, תודה.</p>',
+		'111503655370040335888',
+		'Din Moriel',
+		'2017-04-13 11:49:35'
+		)
+		;
+
