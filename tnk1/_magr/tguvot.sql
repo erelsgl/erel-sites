@@ -23016,3 +23016,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-04-22 18:26:01' 
 			WHERE messageid=6798;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/abramm/avrhm.html',
+		'<p>חרא</p><p></p>',
+		'110646218178834030592',
+		'Funny royale',
+		'2017-04-23 14:55:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-04-23 14:55:55' 
+			WHERE messageid=6799;
+
