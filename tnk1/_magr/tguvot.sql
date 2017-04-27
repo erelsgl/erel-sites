@@ -23035,3 +23035,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-04-23 14:55:55' 
 			WHERE messageid=6799;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-3031.html',
+		'<p>גרוע גרוע גרוע גרוע</p>',
+		'104161032880698082443',
+		'shimi dea\'ee',
+		'2017-04-26 12:08:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי אני זקוקה דחוף להלאווה ואני יחזיר כל חודש אני מפחדת שבעל הדירה יוציא אותי מהבית לרחוב אני חיה לבד זה ממש באמת דחוף אשמח אם תחזרו אליי לטלפון0524074234</p>',
+		'103580773200078845733',
+		'מיטל סוויסא',
+		'2017-04-26 12:34:13'
+		)
+		;
+
