@@ -23059,3 +23059,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>ז: שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד</p><p>ח: מי זה מלך הכבוד יהוה עזוז וגבור יהוה גבור מלחמה</p><p>ט: שאו שערים ראשיכם ושאו פתחי עולם ויבא מלך הכבוד</p><p>י: מי הוא זה מלך הכבוד יהוה צבאות הוא מלך הכבוד סלה</p><p>חבקוק ב14: &quot;כִּי תִּמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יהוה כַּמַּיִם יְכַסּוּ עַל יָם&quot;</p><p>יחזקאל מג2: &quot;וְהִנֵּה כְּבוֹד אֱלֹהֵי יִשְׂרָאֵל בָּא מִדֶּרֶךְ הַקָּדִים וְקוֹלוֹ כְּקוֹל מַיִם רַבִּים וְהָאָרֶץ הֵאִירָה מִכְּבֹדוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-04-29 17:25:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2649_0.html',
+		'<p>ראב&quot;ע תהלים פרק מט</p><p>[מט, א]</p><p>למנצח, שמעו זאת כל העמים -</p><p>זה המזמור הוא נכבד מאד, כי יש בו מפורש אור העולם הבא ונשמת החכמה שלא תמות.</p><p>[מט, טז]</p><p>אך -</p><p>כבר הזכרתי בספר כי הנפש והנשמה והרוח שם אחד לנשמת אדם העליונה העומדת לעד ולא תמות ונקראה נפש גם רוח, בעבור שלא תראה לעין כי אם עם אלה, ובעבור היותו המשורר מלא רוח חכמה ומכתב השם חרות על נשמתו, על כן אמר: אך אלהים יפדה נפשי מיד שאול, שלא יתכן שהוא אומר שלא ימות כשאר בני אדם, כי מי גבר יחיה ולא יראה המות, וזה טעם יקחני, שתדבק נשמתו בנשמה העליונה שהיא נשמת השמים וכמוהו: כי לקח אותו אלהים ואחר כבוד תקחני.</p><p></p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2017-04-29 21:46:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-a4-35.html',
+		'<p>יִתַּמּוּ חַטָּאִים מִן הָאָרֶץ וּרְשָׁעִים עוֹד אֵינָם --- זה רק בעולם הבא</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-04-30 04:08:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2649_0.html',
+		'<p>כל חזון אחרית הימים זה לעולם הבא</p><p>ישעיהו סה25: &quot;זְאֵב וְטָלֶה יִרְעוּ כְאֶחָד וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן וְנָחָשׁ עָפָר לַחְמוֹ לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי אָמַר יהוה\'&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-04-30 04:25:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-a4-35.html',
+		'<p>יִתַּמּוּ חַטָּאִים מִן הָאָרֶץ וּרְשָׁעִים עוֹד אֵינָם --- זה רק בעולם הבא</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-04-30 04:45:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-04-30 04:45:47' 
+			WHERE messageid=6806;
+
