@@ -23126,3 +23126,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-04-30 04:45:47' 
 			WHERE messageid=6806;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום צריכים הלוואה לקניית בית מועניין הלוואה מיידית החזר חודשי כנגד אשמח לתשובה 0524560884</p>',
+		'116669486076480060361',
+		'רועי מושיוב',
+		'2017-05-01 07:21:13'
+		)
+		;
+
