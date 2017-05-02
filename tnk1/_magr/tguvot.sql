@@ -23138,3 +23138,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_642_0.html',
+		'<p>הקישור לא עובד</p><p></p>',
+		'115261995805388351890',
+		'Michael Kisluk',
+		'2017-05-02 05:57:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_642_0.html',
+		'<p>https://www.facebook.com/groups/114888271906914/?fref=ts</p><p>יש גם קישור בדף הראשי</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-05-02 06:20:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_642_0.html',
+		'<p>https://www.facebook.com/groups/114888271906914/?fref=ts</p><p>(מסתבר שצריך לעדכן את הקישור גם בדף הראשי)</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-05-02 06:29:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-02 06:29:36' 
+			WHERE messageid=6809;
+
