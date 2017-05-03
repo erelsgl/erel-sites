@@ -23181,3 +23181,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-05-02 06:29:36' 
 			WHERE messageid=6809;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_642_0.html',
+		'<p>שיניתי את הקישור בדף הראשי, האם זה עובד עכשיו?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-05-02 10:23:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_642_0.html',
+		'<p>עכשיו כן.</p><p></p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2017-05-02 12:08:17'
+		)
+		;
+
