@@ -23205,3 +23205,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/mje_tlunot.html',
+		'<p>בני ישראל התלוננו על זה שאין יאכלנו בשר וגם אין מי שידאג להם והם מי שיטפל בהם חוץ מאלוהים.</p>',
+		'112405205014445396532',
+		'יובל בן שושן',
+		'2017-05-03 12:59:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/mje_tlunot.html',
+		'<p></p>',
+		'112405205014445396532',
+		'יובל בן שושן',
+		'2017-05-03 13:01:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>אתמהה כיצד לא הביא המחבר הנכבד את הרמב&quot;ם?</p>',
+		'104473332761559463057',
+		'דן עמיאל',
+		'2017-05-03 17:02:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-03 19:18:25' 
+			WHERE messageid=6814;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0518_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-05-04 04:23:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/yom_yrujlym.html',
+		'<p>אבל לפי מה שכתוב פה, הניצחון היה ביום כז באייר ולא בכ&quot;ח?</p>',
+		'112736317587885100394',
+		'Yehuda Poch',
+		'2017-05-04 07:27:04'
+		)
+		;
+
