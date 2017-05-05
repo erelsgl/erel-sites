@@ -23272,3 +23272,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0714_0.html',
+		'<p>הוא מוזהר רק על טומאת מת ולא על טומאת נבילה</p>',
+		'101243802394280377549',
+		'יעקב מאיר',
+		'2017-05-04 09:10:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני צריך הלוואה בדחיפות לקניית בית בהזדמנות החזר חודשי כנגד תודה 0548406166</p>',
+		'102597872680929676767',
+		'אופיר תמיר',
+		'2017-05-04 09:42:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0518_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-05-04 11:11:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-04 11:11:35' 
+			WHERE messageid=6820;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/yom_yrujlym.html',
+		'<p>בתנ&quot;ך החגיגות הם ביום שאחרי הניצחון. כמו בפורים - הניצחון היה בי&quot;ג אבל החגיגות בי&quot;ד.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-05-05 05:41:04'
+		)
+		;
+
