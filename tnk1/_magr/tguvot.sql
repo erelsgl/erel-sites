@@ -23327,3 +23327,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יט11: &quot;וַיֹּאמֶר צֵא וְעָמַדְתָּ בָהָר לִפְנֵי יהוה </p><p>וְהִנֵּה יהוה עֹבֵר וְרוּחַ גְּדוֹלָה וְחָזָק מְפָרֵק הָרִים וּמְשַׁבֵּר סְלָעִים לִפְנֵי יהוה לֹא בָרוּחַ יהוה וְאַחַר הָרוּחַ רַעַשׁ לֹא בָרַעַשׁ יהוה&quot; </p><p>מלכים א יט12: &quot;וְאַחַר הָרַעַשׁ אֵשׁ לֹא בָאֵשׁ יהוה וְאַחַר הָאֵשׁ קוֹל דְּמָמָה דַקָּה&quot; </p><p>************** קוֹל דְּמָמָה דַקָּה **************</p><p>https://www.youtube.com/watch?v=eVu6Wihbp4Q</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-05-05 11:43:36'
+		)
+		;
+
