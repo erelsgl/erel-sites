@@ -23339,3 +23339,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/tvla.html',
+		'<p>מאוד יפה אהבתי נורא </p><p></p>',
+		'108243790290050392040',
+		'אחיה שושן',
+		'2017-05-09 11:09:08'
+		)
+		;
+
