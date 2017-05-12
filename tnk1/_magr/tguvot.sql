@@ -23351,3 +23351,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אנו זקוקים דחוף ביותר להלוואה אנא עיזרו לנו אבקש ליצור קשר בטל\'0537177617 או 0502273707 תודה</p>',
+		'100442709936088479499',
+		'מוטי אבוטבול',
+		'2017-05-12 06:01:56'
+		)
+		;
+
