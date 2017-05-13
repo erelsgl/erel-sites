@@ -1,5 +1,6 @@
 @media print {
-  .page {page-break-inside: avoid; background:white; }
+  /*.page {page-break-inside: avoid; background:white; }*/
+  .page {page-break-after: right}   /* For Galya */
   /*.long {page-break-inside: avoid; background:white; }*/
   /*.verse_and_tirgumim {page-break-inside: avoid }*/
 }
