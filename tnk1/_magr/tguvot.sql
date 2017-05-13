@@ -23363,3 +23363,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>הטלפון הזה - 089703388, של גמח העיר העתיקה במודיעין לא קיים עוד</p>',
+		'118373549918720901455',
+		'בת-שבע סעדה',
+		'2017-05-12 08:30:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>העולם עוד טוב</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2017-05-12 19:21:00'
+		)
+		;
+
