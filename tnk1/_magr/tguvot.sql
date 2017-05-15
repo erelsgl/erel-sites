@@ -23387,3 +23387,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/plit.html',
+		'<p>לידיעתך : סרח בת אשר חיה יותר שנים מזמן יעקב עד אחרי שנכנסו לארץ: כלומר שני שעבוד מיניממום 210  40 שנה במדבר וזה בלי לחשבן א שנים שהיא חייה לפני השעבוד. </p><p> לגבי עוג מלך הבשן: האם נקרא לו בכלל אדם נפיל  שכידוע זיוג של מלאכים עם בנות האדם. ובנוסף לכ הוא נודד לפני הקללה שהזכרת.  </p>',
+		'117663617151625989341',
+		'רומן בינימינוב',
+		'2017-05-14 18:06:28'
+		)
+		;
+
