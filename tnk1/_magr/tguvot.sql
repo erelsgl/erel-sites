@@ -23399,3 +23399,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום לכם מעוניינת בהלוואה דחופה לצריכת תרופות יש לי גידול בראש עברתי 6 אירועים מוחיים ניסיתי בכמה מקומות וחוסמים אותי חייבת באופן גחוף שמי אורה 0527040560</p>',
+		'103253676334877331785',
+		'נירית כהן',
+		'2017-05-16 08:08:21'
+		)
+		;
+
