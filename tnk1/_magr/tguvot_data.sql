@@ -1656,3 +1656,48 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/messages/ribit0_gmx_hsbr_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/bm-11-yldim.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-05-20 08:36:39'
+		WHERE parent='tnk1/tora/bmdbr/bm-11-yldim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/lv_wlvv.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-05-21 01:03:28'
+		WHERE parent='tnk1/kma/hvdlim1/lv_wlvv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/lv_wlvv.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-05-21 03:38:29'
+		WHERE parent='tnk1/kma/hvdlim1/lv_wlvv.html'
+		;
+

@@ -23411,3 +23411,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-11-yldim.html',
+		'<p>איזה יופי! תודה אראל</p>',
+		'106497913343212286425',
+		'אתי אייזנברג',
+		'2017-05-20 08:36:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/lv_wlvv.html',
+		'<p>בכל לבבך - פירוש בכל אחד מהלבבות,</p><p>לב הוא איבר שלם של שתי לבבות.</p>',
+		'108975694774177343145',
+		'zaga zaga',
+		'2017-05-21 01:03:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/lv_wlvv.html',
+		'<p>לבב בגימטריה 7 משמעות רוחנית ביטוי לרגש</p><p>לב בגימטריה 5 משמעות שכלית</p><p>לבב בהיפוך אותיות = בבל -- מלשון בלל אולי תערובת בלילה של כל יצר הלב טוב ורע</p><p>לב בהיפוך אותיות = בל -- שמשמעותו לא </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-05-21 03:38:29'
+		)
+		;
+
