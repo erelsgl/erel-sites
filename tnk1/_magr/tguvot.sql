@@ -23447,3 +23447,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>היי שלום שמי אילן ואני זקוק להלוואה דחוף עובד בעבודה מסודרת אשמח אם תחזרו אליי דחוף 0586999080</p>',
+		'103431188323375288401',
+		'אילן אטלן',
+		'2017-05-22 06:44:41'
+		)
+		;
+
