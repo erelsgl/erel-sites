@@ -23459,3 +23459,224 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p>\'רוג הןנדגיכהגדכימ חעכדיצכ עד כיכיעגיכעדגיכ יעי כדגעיכעיגעכידגעכי עיחדשגעיכעישדעגכיעדש גדגיעכחישדעגכיחגעכיחגדע דגכעישדעכידעגכחי דגעכישגעדיכעדגיעכ דיגשעכדגשעכדגעכשדגע חדגעכיחדשעכעדגיכ ישדעכחשדגיכידגכעכגד</p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:35:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p>אני נתתי לירושלים את השם הזה</p><p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:35:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p>\'רוג הןנדגיכהגדכימ חעכדיצכ עד כיכיעגיכעדגיכ יעי כדגעיכעיגעכידגעכי עיחדשגעיכעישדעגכיעדש גדגיעכחישדעגכיחגעכיחגדע דגכעישדעכידעגכחי דגעכישגעדיכעדגיעכ דיגשעכדגשעכדגעכשדגע חדגעכיחדשעכעדגיכ ישדעכחשדגיכידגכעכגד</p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p>אני נתתי לירושלים את השם הזה</p><p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5130_0.html',
+		'<p></p>',
+		'113954377546989443919',
+		'שקד וולפברג',
+		'2017-05-22 13:36:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-02-05.html',
+		'<p>&quot;כי נטשתה עמך בית יעקב&quot; </p><p>לדעתי אולי &quot;עמך&quot; הכוונה לבית ישראל, כלומר פילוג הממלכות שהייתה.</p>',
+		'116854154653979175538',
+		'אלי אבטאו',
+		'2017-05-22 18:30:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:40' 
+			WHERE messageid=6833;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:41' 
+			WHERE messageid=6834;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:42' 
+			WHERE messageid=6835;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:45' 
+			WHERE messageid=6836;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:46' 
+			WHERE messageid=6837;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:46' 
+			WHERE messageid=6838;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:47' 
+			WHERE messageid=6839;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:47' 
+			WHERE messageid=6840;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:48' 
+			WHERE messageid=6841;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:49' 
+			WHERE messageid=6842;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-22 20:36:49' 
+			WHERE messageid=6843;
+
