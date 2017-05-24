@@ -23680,3 +23680,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-05-22 20:36:49' 
 			WHERE messageid=6843;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>הי שלום אני צריך הלוואה רק לתווך קצר של 3 חודשים, בעיה עם עבודה שיטופל, ולכן אני יודע שאוכל לשלם תוך שלוש  חודשים, אבל כעת אני בבעיה, האם יש לך רעיון בשבילי. תודה נחמיה 0527560618</p><p></p>',
+		'117168825020171210746',
+		'Nechemya Moskowitz',
+		'2017-05-23 17:57:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-05-23 18:42:18' 
+			WHERE messageid=6414;
+
