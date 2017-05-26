@@ -23699,3 +23699,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-05-23 18:42:18' 
 			WHERE messageid=6414;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/tvla.html',
+		'<p>כל הכבוד</p><p></p>',
+		'117591499928875325875',
+		'Shani Kalish',
+		'2017-05-25 16:33:38'
+		)
+		;
+
