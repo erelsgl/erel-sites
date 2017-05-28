@@ -23711,3 +23711,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>ישר כוח! כל הנותן נותנים לו כפול שנהיה תמיד מהצד הנותן אמן!</p>',
+		'102034832509213396658',
+		'איינשפרוך שחר',
+		'2017-05-28 00:18:15'
+		)
+		;
+
