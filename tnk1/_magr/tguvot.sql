@@ -23723,3 +23723,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-jiamum.html',
+		'<p>נפלא</p>',
+		'100058890940606508934',
+		'איתן איש בית',
+		'2017-05-28 20:16:46'
+		)
+		;
+
