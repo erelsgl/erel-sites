@@ -23807,3 +23807,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/hlka.html',
+		'<p></p>',
+		'114105492726114809921',
+		'נועם סאיג',
+		'2017-05-31 08:42:34'
+		)
+		;
+
