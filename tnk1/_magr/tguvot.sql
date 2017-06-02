@@ -23819,3 +23819,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>בספר סדר הדורות כותבים שלאה נפטרה אחרי יצחק וכן שבין בינמין ליוסף 8 שני לאה נפטרה כאשר בינימין היה בן 6 כלומר יוסף היה בן 14 ואילו אנו יודעים שיצחק שנפטר כביכול לפני לאה ידע על ירידת יוסף ( שירד בגיל 17 למיצריים) וגם לפי המדרשים יצחק היה מבין הדיינים במשפט יהודה ותמר אז השאלה היא באיזו תקופה נפטר יצחק???</p><p></p>',
+		'105935383942825206590',
+		'orpaz cohen',
+		'2017-06-01 14:25:51'
+		)
+		;
+
