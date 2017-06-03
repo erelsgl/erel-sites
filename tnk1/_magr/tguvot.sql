@@ -23831,3 +23831,106 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ze_siny.html',
+		'<p>https://he.wikisource.org/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%97_-_%D7%91%D7%99%D7%90%D7%95%D7%A8_%D7%A2%22%D7%A4_%D7%94%D7%A9%D7%95%D7%95%D7%90%D7%94_%D7%9C%D7%9E%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D_%D7%A7%D7%93%D7%95%D7%9E%D7%99%D7%9D</p>',
+		'112552315809960394932',
+		'Nivע Yonat',
+		'2017-06-02 08:50:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80.html',
+		'<p>ברכת המזון נוסח תימני - http://www.ברכת-המזון.com</p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:04:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80_0.html',
+		'<p>אמת ! לכן אם לא שמת לב - כתוב \'נוסח ישראלי\'</p><p>http://www.ברכת-המזון.com </p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:05:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80.html',
+		'<p></p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:06:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80.html',
+		'<p></p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:08:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80_0.html',
+		'<p>אמת ! לכן אם לא שמת לב - כתוב \'נוסח ישראלי\'</p><p>http://www.ברכת-המזון.com </p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:08:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-02 12:09:02' 
+			WHERE messageid=6862;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/SDR_BRKT_HMZWN80.html',
+		'<p>ברכת המזון נוסח תימני - http://www.ברכת-המזון.com</p>',
+		'115709255696191515533',
+		'ברסלב מאיר',
+		'2017-06-02 12:09:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>קהלת ט16: &quot;וְאָמַרְתִּי אָנִי טוֹבָה חָכְמָה מִגְּבוּרָה</p><p>   משלי טז32: &quot;טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;</p><p>טוֹבָה חָכְמָה מִגְּבוּרָה = טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר ...וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;</p><p>******* חָכְמָה = אֶרֶךְ אַפַּיִם *******</p><p>------------------------------------------</p><p>http://tora.us.fm/tnk1/daian</p><p>    דַיָּן שֵׁם וּמִשְׁפָּטָיו  </p><p>  מורה דרך הקודש    </p><p>  </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-02 13:33:03'
+		)
+		;
+
