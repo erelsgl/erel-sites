@@ -23934,3 +23934,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>קהלת ט16: &quot;וְאָמַרְתִּי אָנִי טוֹבָה חָכְמָה מִגְּבוּרָה</p><p>   משלי טז32: &quot;טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;</p><p>טוֹבָה חָכְמָה מִגְּבוּרָה = טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר ...וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;</p><p>******* חָכְמָה = אֶרֶךְ אַפַּיִם *******</p><p>------------------------------------------</p><p>http://tora.us.fm/tnk1/daian</p><p>    דַיָּן שֵׁם וּמִשְׁפָּטָיו  </p><p>  מורה דרך הקודש    </p><p>  </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-03 10:09:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-03 10:09:54' 
+			WHERE messageid=6865;
+
