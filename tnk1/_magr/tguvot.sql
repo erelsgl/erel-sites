@@ -23953,3 +23953,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-06-03 10:09:54' 
 			WHERE messageid=6865;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ebr2.html',
+		'<p>שלומות. </p><p>יישר כוח !</p><p>בשעתו בדקתי בחומש ומצאתי שיש הבדל בין הפועל ע.ב.ר. לפועל י.ר.ד. /ע.ל.ה. </p><p>הראשון מציין מזרח מערב או ההיפך והאחרונים מציינים צפון - דרום או ההיפך. </p><p>דבר זה מבסס גם מבחינה לשונית  שאברם נכנס לארץ מן הירדן .</p><p>[ מדרש חז&quot;ל מתאר את אברהם נכנס דרך סולמה של צור ונראה שאין זה פשוטו של מקרא ולענ&quot;ד חז&quot;ל לא התכוונו לכך ואכמ&quot;ל ] </p><p>כמדומני שפעם אחת מצאתי \'ע.ב.ר אחד שקצת בעייתי לפרשנות שלי. אך איני זוכר היכן הוא. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-06-04 19:23:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/drk1_mje.html',
+		'<p>מקסים ! פשוט מקסים !</p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-06-04 20:58:03'
+		)
+		;
+
