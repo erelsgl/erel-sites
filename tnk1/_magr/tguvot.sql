@@ -23977,3 +23977,113 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום לכולם, האם אתה סחוט כלכלית? האם אתם מחפשים כספים כדי לשלם את החובות ואת החובות? האם אתם מחפשים מימון להקים עסק משלך? האם אתה זקוק פרטי או הלוואה עסקית למטרות שונות? האם אתם מחפשים הלוואות לביצוע פרויקטים גדולים? Secure הלוואה מאיתנו היום ולהתחיל עם משהו מתגמל. העסקה שלנו היא 100% מובטחת כפי שאנו גם להבטיח קשר לבבי עם הלקוחות שלנו. אנו מציעים הלוואות ללא אשראי בדיקות, ללא בטחונות, צעדים פשוטים, מימון מהיר וריבית נמוכה של 3%. למה להישאר בפיגור כספי? צור קשר היום באמצעות דוא&quot;ל: Oceanicfinance113@gmail.com</p>',
+		'106893284730527078412',
+		'Kellie Wilson',
+		'2017-06-05 13:41:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום לכולם, האם אתה סחוט כלכלית? האם אתם מחפשים כספים כדי לשלם את החובות ואת החובות? האם אתם מחפשים מימון להקים עסק משלך? האם אתה זקוק פרטי או הלוואה עסקית למטרות שונות? האם אתם מחפשים הלוואות לביצוע פרויקטים גדולים? Secure הלוואה מאיתנו היום ולהתחיל עם משהו מתגמל. העסקה שלנו היא 100% מובטחת כפי שאנו גם להבטיח קשר לבבי עם הלקוחות שלנו. אנו מציעים הלוואות ללא אשראי בדיקות, ללא בטחונות, צעדים פשוטים, מימון מהיר וריבית נמוכה של 3%. למה להישאר בפיגור כספי? צור קשר היום באמצעות דוא&quot;ל: Oceanicfinance113@gmail.com</p>',
+		'106893284730527078412',
+		'Kellie Wilson',
+		'2017-06-05 13:44:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-05 13:44:25' 
+			WHERE messageid=6868;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/ribit0.html',
+		'<p>שלום לכולם, האם אתה סחוט כלכלית? האם אתם מחפשים כספים כדי לשלם את החובות ואת החובות? האם אתם מחפשים מימון להקים עסק משלך? האם אתה זקוק פרטי או הלוואה עסקית למטרות שונות? האם אתם מחפשים הלוואות לביצוע פרויקטים גדולים? Secure הלוואה מאיתנו היום ולהתחיל עם משהו מתגמל. העסקה שלנו היא 100% מובטחת כפי שאנו גם להבטיח קשר לבבי עם הלקוחות שלנו. אנו מציעים הלוואות ללא אשראי בדיקות, ללא בטחונות, צעדים פשוטים, מימון מהיר וריבית נמוכה של 3%. למה להישאר בפיגור כספי? צור קשר היום באמצעות דוא&quot;ל: Oceanicfinance113@gmail.com</p>',
+		'106893284730527078412',
+		'Kellie Wilson',
+		'2017-06-05 13:47:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/arvim_jrlo.html',
+		'<p>שלום לכולם, האם אתה סחוט כלכלית? האם אתם מחפשים כספים כדי לשלם את החובות ואת החובות? האם אתם מחפשים מימון להקים עסק משלך? האם אתה זקוק פרטי או הלוואה עסקית למטרות שונות? האם אתם מחפשים הלוואות לביצוע פרויקטים גדולים? Secure הלוואה מאיתנו היום ולהתחיל עם משהו מתגמל. העסקה שלנו היא 100% מובטחת כפי שאנו גם להבטיח קשר לבבי עם הלקוחות שלנו. אנו מציעים הלוואות ללא אשראי בדיקות, ללא בטחונות, צעדים פשוטים, מימון מהיר וריבית נמוכה של 3%. למה להישאר בפיגור כספי? צור קשר היום באמצעות דוא&quot;ל: Oceanicfinance113@gmail.com</p>',
+		'106893284730527078412',
+		'Kellie Wilson',
+		'2017-06-05 13:47:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-24-0104.html',
+		'<p>בענין הגט שאין מקבלים בקהלת הקונסבטרבית האם הילדים שנולדים מנשואים שניים הם ממזרים? ומאיפה הם קיבלו עליהם שאיש לא חייב לתת לאישה גט? </p><p>תודה</p>',
+		'117459140828299400054',
+		'rachel dear',
+		'2017-06-05 16:07:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-05 16:07:46' 
+			WHERE messageid=6872;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-10-1112.html',
+		'<p>הבן יקיר לי אפרים - ה\' השאלה, אבל לא בלשון תמיהה. הוא אכן בן יקיר לי</p><p></p>',
+		'112048296518662023346',
+		'רפאל מיוחס',
+		'2017-06-05 17:13:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לאתיה בת אמי יפה שתזכה ללידה קלה ובשורות טובות תמיד</p>',
+		'106947051235786189955',
+		'Emi Laufer',
+		'2017-06-06 05:14:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לאתיה בת אמי יפה שתזכה ללידה קלה ובשורות טובות תמיד</p>',
+		'106947051235786189955',
+		'Emi Laufer',
+		'2017-06-06 05:14:46'
+		)
+		;
+
