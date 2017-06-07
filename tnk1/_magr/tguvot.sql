@@ -24087,3 +24087,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום.. אני אם חד הורית בת 25 לשני ילדים ונמצאת כרגע בהיריון בחודש 6 אני צריכה הלוואה כי כבר במשך חודש אין לי איך להאכיל את ילדייי אני נמצאת בתהליך של פשיטת רגל שמבקשים ממני סכום של 4500 אלף לפני שיוציאו אותי משם ..</p><p>אני עובדת בחצי משרה ומקבלת מזונות אני ממש זקוקה להלוואה אבל כולם דוחים אותיי אשמח לעזרה </p>',
+		'104254353830931243050',
+		'sandra kadoush',
+		'2017-06-07 05:20:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום.. אני אם חד הורית בת 25 לשני ילדים ונמצאת כרגע בהיריון בחודש 6 אני צריכה הלוואה כי כבר במשך חודש אין לי איך להאכיל את ילדייי אני נמצאת בתהליך של פשיטת רגל שמבקשים ממני סכום של 4500 אלף לפני שיוציאו אותי משם ..</p><p>אני עובדת בחצי משרה ומקבלת מזונות אני ממש זקוקה להלוואה אבל כולם דוחים אותיי אשמח לעזרה סנדרה 0548061890</p>',
+		'104254353830931243050',
+		'sandra kadoush',
+		'2017-06-07 05:21:12'
+		)
+		;
+
