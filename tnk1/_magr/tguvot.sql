@@ -24185,3 +24185,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-06-09 04:50:47' 
 			WHERE messageid=6881;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>דברי הימים א יב33: &quot;וּמִבְּנֵי יִשָּׂשכָר יוֹדְעֵי בִינָה לַעִתִּים לָדַעַת מַה יַּעֲשֶׂה יִשְׂרָאֵל רָאשֵׁיהֶם מָאתַיִם וְכָל אֲחֵיהֶם עַל פִּיהֶם&quot;</p><p>יוֹדְעֵי בִינָה לַעִתִּים = עיתויים בנומורולוגיה היהודית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-10 18:32:09'
+		)
+		;
+
