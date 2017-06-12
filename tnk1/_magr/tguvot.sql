@@ -24197,3 +24197,86 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-11 16:49:49' 
+			WHERE messageid=6871;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-11 16:50:07' 
+			WHERE messageid=6870;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-11 16:57:03' 
+			WHERE messageid=6855;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-11 16:57:04' 
+			WHERE messageid=6854;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>תהלים פט20: &quot;אָז דִּבַּרְתָּ בְחָזוֹן לַחֲסִידֶיךָ וַתֹּאמֶר שִׁוִּיתִי עֵזֶר עַל גִּבּוֹר הֲרִימוֹתִי בָחוּר מֵעָם&quot;</p><p>תהלים פט20: &quot;אָז דִּבַּרְתָּ בְחָזוֹן לַחֲסִידֶיךָ ....... = כי אלהים חסיד ולהיות חסיד זו הדרך לחזון להיות חוזה נביא רואה</p><p>לכן אזכיר פעם נוספת....</p><p>משלי כב9: &quot;טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִלַּחְמוֹ לַדָּל&quot;</p><p>משלי כב9: &quot;טוֹב עַיִן = זה החסיד שעושה חסדים זו הדרך להיות רואה חוזה נביא אלהים</p><p>********** טוב עין זה ההיפך מרע עין *********</p><p>משלי כג6: &quot;אַל תִּלְחַם אֶת לֶחֶם רַע עָיִן וְאַל תתאו[תִּתְאָיו] לְמַטְעַמֹּתָיו&quot; </p><p>משלי כח22: &quot;נִבֳהָל לַהוֹן אִישׁ רַע עָיִן וְלֹא יֵדַע כִּי חֶסֶר יְבֹאֶנּוּ&quot; </p><p>אז אל תבהל להון ואל תהיה רע עין לחסוך מנפש הישר </p><p>אדרבא פזר כסף ונוסף לך עוד</p><p>משלי יא24: &quot;יֵשׁ מְפַזֵּר וְנוֹסָף עוֹד וְחוֹשֵׂךְ מִיֹּשֶׁר אַךְ לְמַחְסוֹר&quot; </p><p>לכן פזר כסף בלי עין הרע לא להיות רע עין כי אם טוב עין </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-11 18:50:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/emori.html',
+		'<p>אמורי מלשון אמיר האילן . אמיר= וזיר=שולט . האמורי מכונים כך מחמת ישיבתם על ראשי ההרים ומחמת חוזקם. שלא ככנעני היושבים בעמקים ועוסקים במסחר. </p><p>מחמת שראשית ההתישבות הישראלית בתקופת ההתנחלות הייתה בהר [ בהר המרכזי המכונה בכל מקום הר האמורי ] , וכן ברצועת ההר המרכזי בעבר הירדן המזרחי [ גם שם שני מלכי האמורי] , לכן האמורי מוזכרים ראשונים גם בעניין ע&quot;ז. </p><p>אין הבדל דרגאי בעניין חומרת ועומק הפולחן בין האמורי לכנעני. </p><p>אדרבא, אם כבר , אזי הכנעני הם סמל לשחיתות הפולחנית בליווי יצרא דעריות כפי שלומדים כבר מקללת נח. </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-06-11 20:32:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/21-04.html',
+		'<p>אם....רוּם עֵינַיִם וּרְחַב לֵב=  נִר רְשָׁעִים חַטָּאת</p><p>מדוע נתן אלהים לשלמה רחב לב</p><p>ורחב לב מוצג בפסוק הזה באופן חיובי</p><p>מלכים א ה9: &quot;וַיִּתֵּן אֱלֹהִים חָכְמָה לִשְׁלֹמֹה וּתְבוּנָה הַרְבֵּה מְאֹד וְרֹחַב לֵב כַּחוֹל אֲשֶׁר עַל שְׂפַת הַיָּם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-12 04:50:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/21-04.html',
+		'<p>אם....רוּם עֵינַיִם וּרְחַב לֵב=  נִר רְשָׁעִים חַטָּאת</p><p>מדוע נתן אלהים לשלמה רחב לב</p><p>ורחב לב מוצג בפסוק הזה באופן חיובי</p><p>מלכים א ה9: &quot;וַיִּתֵּן אֱלֹהִים חָכְמָה לִשְׁלֹמֹה וּתְבוּנָה הַרְבֵּה מְאֹד וְרֹחַב לֵב כַּחוֹל אֲשֶׁר עַל שְׂפַת הַיָּם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-12 04:51:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-12 04:51:10' 
+			WHERE messageid=6887;
+
