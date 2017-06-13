@@ -24280,3 +24280,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-06-12 04:51:10' 
 			WHERE messageid=6887;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני זקוקה בדחיפות להלוואה 0505554148</p><p></p>',
+		'107402092557366173025',
+		'אלי בן אהרון',
+		'2017-06-12 21:01:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-21-2021.html',
+		'<p>כתבה מעולה ומועילה!</p><p>תודה!</p>',
+		'111731189651236631667',
+		'Rabbi Elchanan Poupko',
+		'2017-06-12 21:34:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום שמי יונתן ואני  פתוח בהלוואות בריבית עם אנשים רעים!</p><p>אשמח שתחזרו אליי בהקדם </p><p>0543329123</p>',
+		'105805348182160256317',
+		'יונתן זדה',
+		'2017-06-13 07:55:19'
+		)
+		;
+
