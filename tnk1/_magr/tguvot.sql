@@ -24328,3 +24328,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_20.html',
+		'<p>ירמיהו א5: &quot;בְּטֶרֶם אצורך[אֶצָּרְךָ] בַבֶּטֶן יְדַעְתִּיךָ וּבְטֶרֶם תֵּצֵא מֵרֶחֶם הִקְדַּשְׁתִּיךָ נָבִיא לַגּוֹיִם נְתַתִּיךָ&quot;</p><p>תהלים צ12: &quot;לִמְנוֹת יָמֵינוּ כֵּן הוֹדַע וְנָבִא לְבַב חָכְמָה&quot;....... ואם ירמיהו נולד נביא לבב חכמה אז יש אדם שנולד חכם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-14 16:56:22'
+		)
+		;
+
