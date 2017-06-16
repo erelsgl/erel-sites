@@ -254,3 +254,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"והוא ימשל בך\", האמנם?' AND `sfr` = 'יחז' AND `prq0` = 'טז' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הסכם לקנות, לשלם בכסף ובמאמץ כדי ללמוד דברי אמת;   אולם אל תנסה למכור - להפיק רווח מדברי חכמה, מוסר ובינה, אלא למד אחרים בחינם.', `tarik_hosfa` = '2017-06-16 07:54:36' WHERE `bn` = 'ביאור:משלי כג23' AND `sfr` = 'משל' AND `prq0` = 'כג' AND `psuq0` = 23 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
