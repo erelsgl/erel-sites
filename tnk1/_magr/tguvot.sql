@@ -24340,3 +24340,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_21.html',
+		'<p>המאמר פורסם לראשונה בגרסה אחרת, באתר אימגו, תחת הכותרת</p><p>לשׁגות, להתפלל, לשׂגות: דו משמעותו הניגודית של הפועל שגה</p><p>http://www.e-mago.co.il/magazine/mikra-orna.html</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2017-06-15 09:58:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_21.html',
+		'<p>מוזמנים אל הבלוג שלי</p><p>לשון המקרא - אור חדש על שפה עתיקה</p><p>https://liebermanorna.wordpress.com/</p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2017-06-15 09:59:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pre.html',
+		'<p>האם אתה כותב על עוד בעלי חיים? אני מחפשת מקום בו אוכל לקרוא על מה שאפשר ללמוד מכל בעל חיים, או מה הוא מסמל.</p><p>יעל</p>',
+		'108618290704245288733',
+		'יעל דאר',
+		'2017-06-15 15:09:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pre.html',
+		'<p>האם אתה כותב על עוד בעלי חיים? אני מחפשת מקום בו אוכל לקרוא על מה שאפשר ללמוד מכל בעל חיים, או מה הוא מסמל.</p><p>יעל</p>',
+		'108618290704245288733',
+		'יעל דאר',
+		'2017-06-15 15:10:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-21-3334.html',
+		'<p>תודה רבה זה נורא עזר לי</p>',
+		'111829232739188089233',
+		'שחר ברוכי',
+		'2017-06-15 17:39:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-32-07.html',
+		'<p>יפה מאוד.</p>',
+		'109154042701766514040',
+		'איתמר ארליך',
+		'2017-06-16 07:22:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-16 07:49:39' 
+			WHERE messageid=6896;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/pre.html',
+		'<p>יש כאן אוסף של מאמרים על צמחים ובעלי-חיים בתנ&quot;ך: http://tora.us.fm/tnk1/ljon/sug/EcmTva.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-06-16 07:50:21'
+		)
+		;
+
