@@ -24431,3 +24431,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cdiqim.html',
+		'<p>יוסף ושמעון</p>',
+		'115909296078476044441',
+		'משה חזן',
+		'2017-06-18 09:34:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cdiqim.html',
+		'<p>גם תמר צדקה ממנו</p>',
+		'115909296078476044441',
+		'משה חזן',
+		'2017-06-18 09:35:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ijim.html',
+		'<p>חשבתי שאישים זה במשמעות גברים ואנשים זה במשמעות בני אדם מכל סוג.</p>',
+		'105729189803279698777',
+		'אור הושמנד',
+		'2017-06-18 15:16:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/simnim.html',
+		'<p>ואוו איזה יפה! רעיון מקסים! נהדר! לא יודעת אם אלמד חידון אבל מאוד התלהבתי מהרעיון ומהביצוע!. מה שכן זה יעזור אם ארצה (יעזור מאוד...) נ.ב מי בנה את האתר? חתן תנך לשעבר או מה?</p>',
+		'115761566572472499183',
+		'RUT KALIMI',
+		'2017-06-18 18:58:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/simnim.html',
+		'<p>ואוו איזה יפה! רעיון מקסים! נהדר! לא יודעת אם אלמד חידון אבל מאוד התלהבתי מהרעיון ומהביצוע!. מה שכן זה יעזור אם ארצה (יעזור מאוד...) נ.ב מי בנה את האתר? חתן תנך לשעבר או מה?</p>',
+		'115761566572472499183',
+		'RUT KALIMI',
+		'2017-06-18 19:00:29'
+		)
+		;
+
