@@ -24491,3 +24491,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/simnim.html',
+		'<p>כותב המאמר - אראל סגל יסד ובנה את האתר, ולמיטב זכרוני הוא היה סגן חתן התנך..</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-06-19 17:58:16'
+		)
+		;
+
