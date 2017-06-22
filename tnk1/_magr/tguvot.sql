@@ -24510,3 +24510,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-06-20 13:48:07' 
 			WHERE messageid=6903;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-01.html',
+		'<p>מעולה!</p><p>תודה רבה </p>',
+		'108281651704297398917',
+		'Din Bh',
+		'2017-06-22 06:36:39'
+		)
+		;
+
