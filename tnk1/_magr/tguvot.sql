@@ -24522,3 +24522,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>אלהים צדיק עשה חסד ואין לשאת את שמו נפשו לשוא</p><p>אז שימו לב לפסוק הזה ולפסוק הבא אחריו</p><p>שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot; </p><p>שמות כ6: &quot;לֹא תִשָּׂא אֶת שֵׁם יהוה אֱלֹהֶיךָ לַשָּׁוְא כִּי לֹא יְנַקֶּה יהוה אֵת אֲשֶׁר יִשָּׂא אֶת שְׁמוֹ לַשָּׁוְא&quot;</p><p>תהלים כד4: &quot;נְקִי כַפַּיִם וּבַר לֵבָב --- אֲשֶׁר לֹא נָשָׂא לַשָּׁוְא נַפְשִׁי --- וְלֹא נִשְׁבַּע לְמִרְמָה&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-25 04:33:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>אלהים צדיק עשה חסד ואין לשאת את שמו נפשו לשוא</p><p>תהלים כד4: &quot;נְקִי כַפַּיִם וּבַר לֵבָב --- אֲשֶׁר לֹא נָשָׂא לַשָּׁוְא נַפְשִׁי --- וְלֹא נִשְׁבַּע לְמִרְמָה&quot;</p><p>אז שימו לב לפסוק הזה ולפסוק הבא אחריו</p><p>שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>שמות כ6: &quot;לֹא תִשָּׂא אֶת שֵׁם יהוה אֱלֹהֶיךָ לַשָּׁוְא כִּי לֹא יְנַקֶּה יהוה אֵת אֲשֶׁר יִשָּׂא אֶת שְׁמוֹ לַשָּׁוְא&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-25 04:34:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-25 04:34:48' 
+			WHERE messageid=6907;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>תהלים קמה10: &quot;יוֹדוּךָ יהוה כָּל מַעֲשֶׂיךָ וַחֲסִידֶיךָ יְבָרֲכוּכָה&quot; </p><p>תהלים פט20: &quot;אָז דִּבַּרְתָּ בְחָזוֹן לַחֲסִידֶיךָ וַתֹּאמֶר שִׁוִּיתִי עֵזֶר עַל גִּבּוֹר הֲרִימוֹתִי בָחוּר מֵעָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-06-25 04:37:46'
+		)
+		;
+
