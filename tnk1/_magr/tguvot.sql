@@ -24589,3 +24589,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-02-22.html',
+		'<p>יפה מאד נהדר</p>',
+		'105526172713008978079',
+		'ami trabelsi',
+		'2017-06-27 10:03:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-02-22.html',
+		'<p>אהבתי</p>',
+		'105526172713008978079',
+		'ami trabelsi',
+		'2017-06-27 10:03:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-02-22.html',
+		'<p>נהדר</p>',
+		'105526172713008978079',
+		'ami trabelsi',
+		'2017-06-27 10:04:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-02-22.html',
+		'<p>כול הכבוד</p>',
+		'105526172713008978079',
+		'ami trabelsi',
+		'2017-06-27 10:04:35'
+		)
+		;
+
