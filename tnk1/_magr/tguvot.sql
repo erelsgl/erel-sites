@@ -24637,3 +24637,48 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-28 09:10:51' 
+			WHERE messageid=6913;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-28 09:10:55' 
+			WHERE messageid=6914;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-06-28 09:10:59' 
+			WHERE messageid=6915;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>רעות בת שושנה ללידה קלה</p>',
+		'106858168374422916505',
+		'רעות ע',
+		'2017-06-28 21:32:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>רעות בת שושנה ללידה קלה</p>',
+		'106858168374422916505',
+		'רעות ע',
+		'2017-06-28 21:32:51'
+		)
+		;
+
