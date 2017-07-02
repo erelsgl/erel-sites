@@ -24682,3 +24682,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/xkma_bina_wdat.html',
+		'<p>החכמה היא היכולת של האדם להקשיב וללמוד מאדם אחר והתבונה היא היכולת של האדם להעביר לאחר את מידת החכמה שהוא אגר </p>',
+		'113093969258338763401',
+		'יהודה אוחנה',
+		'2017-07-01 17:54:30'
+		)
+		;
+
