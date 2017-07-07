@@ -24823,3 +24823,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ho-0407.html',
+		'<p>בעקבות התאונה הלילה ב&quot;רוחמה&quot;  - רכב התהפך באמצע הלילה  והנהג נפגע. הוא זעק  לעזרה כנראה  ואיש לא שמע אותו = ואולי אפילו התעלמו מזעקותיו. יש פער גדול בין שם המקום &quot;רוחמה&quot; למעשה שבו &quot;הנהג לא רוחם&quot; = לא עצרו את דמו  ולא חבשו את פצעיו לא חיברו את עצמותיו השבורות. איש לא ראה איש לא שמע. יש כאן פרדוכס  ((&quot;מצב חידתי&quot; הפוך)) בין שם המקום &quot;רוחמה&quot; לגורלו של האיש שכנראה עסק בתחום &quot;הבאת שמחה  לחתונות&quot; ((על פניו)). אולי יש כאן רמז למילים &quot;לא רוחמה&quot; של הנביא הושע.  ((יהא זכרו ברוך של אותו  נהג משדרות שלא רוחם הלילה ב&quot;רוחמה&quot;))</p>',
+		'117161176018588857663',
+		'Ahuva p',
+		'2017-07-06 10:23:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/qjyut_orf.html',
+		'<p>כל הכבוד , חזק .</p>',
+		'113181699836456546554',
+		'דוד אבודרהם',
+		'2017-07-06 19:17:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-07 06:55:45' 
+			WHERE messageid=6925;
+

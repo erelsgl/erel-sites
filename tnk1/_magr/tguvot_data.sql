@@ -3397,3 +3397,41 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/sug/rayon_xsd.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/ho-0407.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-06 10:23:20'
+		WHERE parent='tnk1/nvia/tryasr/ho-0407.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim2/qjyut_orf.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-06 19:17:48'
+		WHERE parent='tnk1/kma/qjrim2/qjyut_orf.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-07-07 06:55:45'
+			WHERE parent='tryg/ribit0/caution.html'
+			;
+
