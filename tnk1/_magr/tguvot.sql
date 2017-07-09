@@ -24854,3 +24854,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-07-07 06:55:45' 
 			WHERE messageid=6925;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-07-09 04:40:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-07-09 06:08:53'
+		)
+		;
+
