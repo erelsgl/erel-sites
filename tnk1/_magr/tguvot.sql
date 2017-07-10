@@ -24878,3 +24878,36 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:43' 
+			WHERE messageid=6930;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:45' 
+			WHERE messageid=6931;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:46' 
+			WHERE messageid=6794;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-12-16.html',
+		'<p>בשלטון המלך, ישנה אמנה חברתית מובנת מאליה - המלך הוא prime mover ואילו העם הולכים אחריו בתנאי שהוא יספק להם את כל צורכיהם, ברגע שאמנה זו מופרט נוצר קונפליקט בין העם והמלך. דבר זה מוביל למלחמות אחים. העצה שצעירי היועצים של רחבעם המלך נתנו לו הייתה כעצת אחיתפל -מכאן היה נתק בעם שדוד בן ישי כל  כך איחד אותם את 12 השבטים תחת שלטון מרכזי אחד- כאשר האידאולוגיה הייתה האמונה באל אחד, ומרכזו היה בית המקדש., וזאת להוביל את העם מהאנרכיה שהייתה בתוקפת שפוט השופטים לשלטון טוטליטרי של המלך , דוד בן ישי היה המלך מאד דמוקרט ופעל למען העם ולטובתו בראש וראשונה.</p><p>אך יורשיו בחרו בדרך של דאגה לכסא שלהם קודם כל ולאחר מכן דאגה לעם., למרות ששמואל הנביא שלוש דורות לפני כן אמר להם את משפט המלך . תשובתם הייתה תמליך עלינו מלך ונהיה כמו כל העמים </p><p>נכתב על ידי רם שמע , חוקר חברתי </p>',
+		'103374973587911091167',
+		'ram shama',
+		'2017-07-09 22:55:44'
+		)
+		;
+
