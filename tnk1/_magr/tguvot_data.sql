@@ -3504,3 +3504,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvir/mlkima/ma-12-16.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-10 20:34:05'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+

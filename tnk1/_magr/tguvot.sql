@@ -24911,3 +24911,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק לסכום גדול לעזור לבתי לקנות דירה תודה אם תציעו לי איך אוכל להשיג חלק מהסכום 0528630212</p>',
+		'113017060760682142062',
+		'יהושע ביסמוט',
+		'2017-07-10 20:34:05'
+		)
+		;
+
