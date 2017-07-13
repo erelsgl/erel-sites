@@ -24923,3 +24923,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:00:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:01:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:01:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:02:10'
+		)
+		;
+
