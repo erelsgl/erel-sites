@@ -24823,3 +24823,194 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ho-0407.html',
+		'<p>בעקבות התאונה הלילה ב&quot;רוחמה&quot;  - רכב התהפך באמצע הלילה  והנהג נפגע. הוא זעק  לעזרה כנראה  ואיש לא שמע אותו = ואולי אפילו התעלמו מזעקותיו. יש פער גדול בין שם המקום &quot;רוחמה&quot; למעשה שבו &quot;הנהג לא רוחם&quot; = לא עצרו את דמו  ולא חבשו את פצעיו לא חיברו את עצמותיו השבורות. איש לא ראה איש לא שמע. יש כאן פרדוכס  ((&quot;מצב חידתי&quot; הפוך)) בין שם המקום &quot;רוחמה&quot; לגורלו של האיש שכנראה עסק בתחום &quot;הבאת שמחה  לחתונות&quot; ((על פניו)). אולי יש כאן רמז למילים &quot;לא רוחמה&quot; של הנביא הושע.  ((יהא זכרו ברוך של אותו  נהג משדרות שלא רוחם הלילה ב&quot;רוחמה&quot;))</p>',
+		'117161176018588857663',
+		'Ahuva p',
+		'2017-07-06 10:23:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/qjyut_orf.html',
+		'<p>כל הכבוד , חזק .</p>',
+		'113181699836456546554',
+		'דוד אבודרהם',
+		'2017-07-06 19:17:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-07 06:55:45' 
+			WHERE messageid=6925;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-07-09 04:40:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-07-09 06:08:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:43' 
+			WHERE messageid=6930;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:45' 
+			WHERE messageid=6931;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-09 10:41:46' 
+			WHERE messageid=6794;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-12-16.html',
+		'<p>בשלטון המלך, ישנה אמנה חברתית מובנת מאליה - המלך הוא prime mover ואילו העם הולכים אחריו בתנאי שהוא יספק להם את כל צורכיהם, ברגע שאמנה זו מופרט נוצר קונפליקט בין העם והמלך. דבר זה מוביל למלחמות אחים. העצה שצעירי היועצים של רחבעם המלך נתנו לו הייתה כעצת אחיתפל -מכאן היה נתק בעם שדוד בן ישי כל  כך איחד אותם את 12 השבטים תחת שלטון מרכזי אחד- כאשר האידאולוגיה הייתה האמונה באל אחד, ומרכזו היה בית המקדש., וזאת להוביל את העם מהאנרכיה שהייתה בתוקפת שפוט השופטים לשלטון טוטליטרי של המלך , דוד בן ישי היה המלך מאד דמוקרט ופעל למען העם ולטובתו בראש וראשונה.</p><p>אך יורשיו בחרו בדרך של דאגה לכסא שלהם קודם כל ולאחר מכן דאגה לעם., למרות ששמואל הנביא שלוש דורות לפני כן אמר להם את משפט המלך . תשובתם הייתה תמליך עלינו מלך ונהיה כמו כל העמים </p><p>נכתב על ידי רם שמע , חוקר חברתי </p>',
+		'103374973587911091167',
+		'ram shama',
+		'2017-07-09 22:55:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק לסכום גדול לעזור לבתי לקנות דירה תודה אם תציעו לי איך אוכל להשיג חלק מהסכום 0528630212</p>',
+		'113017060760682142062',
+		'יהושע ביסמוט',
+		'2017-07-10 20:34:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:00:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:01:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:01:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>חני חנה פנינה בת תמי תמר ללידה קלה ולא יאונה לה כל רע ושהולד יהיה בריא ושלם בכל רמ&quot;ח איבריו ושס&quot;ה גידיו.  </p>',
+		'105867130440319025434',
+		'yosef elfassy',
+		'2017-07-12 12:02:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>חגי,שכחת ארוע יוצא דופן בו המילה הנני מופיעה. שמואל ב פרק א-7 הנער העמלקי מספר לדוד -קרוב לודאי דבר שקר על מנת לזכות בתהילה - שמותת את שאול הגוסס.זו דמות חריגה ביותר המגיבה לקריאת שאול אליו בגלבוע במילה הנני . הדמות כה שלילית שפשוט  לא נתפש שאכן תימנה בין קוראי הנני במקרא. לקולא נאמר, שבעצם הוא מספר לדוד שכביכול הגיב לדבר שאול במילה הנני וכל מסכת דבריו שקר ובדיה... ועוד. הפתיח בדברי שמואל לעם בשמואל א פרק יב 3 לעניות דעתי לא שייך לענין כי שמואל לא נענה לקריאה מאף אחד בארוע זה והמילה מהווה סוג של פתיחת נאום לעם. </p><p>בברכה אלי גילמור </p>',
+		'109578129680244523449',
+		'manetmonetimp',
+		'2017-07-14 08:53:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>אמנם מעת הדלקת נרות ביום ששי בערב אנחנו מקבלים את פני השבת</p><p>אך על כל גבר מבני ישראל עליו לדעת כי כאשר הוא מתרחץ ומטהר לכבוד שבת</p><p>לכבוד שבת לבית תפילה כבר אז יחל יום הקודש ואין לעסוק בחולין גם אם טרם הדליקו נרות השבת להאיר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-14 12:50:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>אמנם מעת הדלקת נרות ביום ששי בערב אנחנו מקבלים את פני השבת</p><p>אך על כל גבר מבני ישראל עליו לדעת כי כאשר הוא מתרחץ ומטהר לכבוד שבת</p><p>לכבוד שבת לבית תפילה כבר אז יחל יום הקודש ואין לעסוק בחולין גם אם טרם הדליקו נרות השבת להאיר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-14 12:50:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-14 12:50:36' 
+			WHERE messageid=6940;
+
