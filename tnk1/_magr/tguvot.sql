@@ -24971,3 +24971,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_8.html',
+		'<p>חגי,שכחת ארוע יוצא דופן בו המילה הנני מופיעה. שמואל ב פרק א-7 הנער העמלקי מספר לדוד -קרוב לודאי דבר שקר על מנת לזכות בתהילה - שמותת את שאול הגוסס.זו דמות חריגה ביותר המגיבה לקריאת שאול אליו בגלבוע במילה הנני . הדמות כה שלילית שפשוט  לא נתפש שאכן תימנה בין קוראי הנני במקרא. לקולא נאמר, שבעצם הוא מספר לדוד שכביכול הגיב לדבר שאול במילה הנני וכל מסכת דבריו שקר ובדיה... ועוד. הפתיח בדברי שמואל לעם בשמואל א פרק יב 3 לעניות דעתי לא שייך לענין כי שמואל לא נענה לקריאה מאף אחד בארוע זה והמילה מהווה סוג של פתיחת נאום לעם. </p><p>בברכה אלי גילמור </p>',
+		'109578129680244523449',
+		'manetmonetimp',
+		'2017-07-14 08:53:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>אמנם מעת הדלקת נרות ביום ששי בערב אנחנו מקבלים את פני השבת</p><p>אך על כל גבר מבני ישראל עליו לדעת כי כאשר הוא מתרחץ ומטהר לכבוד שבת</p><p>לכבוד שבת לבית תפילה כבר אז יחל יום הקודש ואין לעסוק בחולין גם אם טרם הדליקו נרות השבת להאיר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-14 12:50:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>אמנם מעת הדלקת נרות ביום ששי בערב אנחנו מקבלים את פני השבת</p><p>אך על כל גבר מבני ישראל עליו לדעת כי כאשר הוא מתרחץ ומטהר לכבוד שבת</p><p>לכבוד שבת לבית תפילה כבר אז יחל יום הקודש ואין לעסוק בחולין גם אם טרם הדליקו נרות השבת להאיר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-14 12:50:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-14 12:50:36' 
+			WHERE messageid=6940;
+
