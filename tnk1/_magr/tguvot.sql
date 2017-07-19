@@ -25026,3 +25026,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>תהלים נ13: &quot;הַאוֹכַל בְּשַׂר אַבִּירִים וְדַם עַתּוּדִים אֶשְׁתֶּה&quot;???</p><p>תהלים נ14: &quot;זְבַח לֵאלֹהִים תּוֹדָה וְשַׁלֵּם לְעֶלְיוֹן נְדָרֶיךָ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-18 14:06:01'
+		)
+		;
+
