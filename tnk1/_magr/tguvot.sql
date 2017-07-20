@@ -25038,3 +25038,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה והצלחה בטיפול לעינב בת מרגלית אמן כן יהי רצון</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-07-19 10:08:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה והצלחה בטיפול לעינב בת מרגלית אמן כן יהי רצון</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-07-19 10:08:35'
+		)
+		;
+
