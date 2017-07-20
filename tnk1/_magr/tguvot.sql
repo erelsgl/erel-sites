@@ -25014,3 +25014,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-07-14 12:50:36' 
 			WHERE messageid=6940;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן והצלחה בהשתלה אמן ואמן </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-07-16 13:05:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>תהלים נ13: &quot;הַאוֹכַל בְּשַׂר אַבִּירִים וְדַם עַתּוּדִים אֶשְׁתֶּה&quot;???</p><p>תהלים נ14: &quot;זְבַח לֵאלֹהִים תּוֹדָה וְשַׁלֵּם לְעֶלְיוֹן נְדָרֶיךָ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-18 14:06:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה והצלחה בטיפול לעינב בת מרגלית אמן כן יהי רצון</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-07-19 10:08:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה והצלחה בטיפול לעינב בת מרגלית אמן כן יהי רצון</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-07-19 10:08:35'
+		)
+		;
+
