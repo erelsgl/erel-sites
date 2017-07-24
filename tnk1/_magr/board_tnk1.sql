@@ -65,3 +65,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-07-23 08:21:26'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-07-23 11:07:18'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-58-14.html'
+		;
+
