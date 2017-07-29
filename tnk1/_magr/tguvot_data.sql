@@ -3760,3 +3760,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvia/yjayhu/yj-58-14.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/zuckm/53.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-28 16:14:37'
+		WHERE parent='tnk1/sofrim/zuckm/53.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/zuckm/53.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-28 16:15:44'
+		WHERE parent='tnk1/sofrim/zuckm/53.html'
+		;
+

@@ -25117,3 +25117,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/53.html',
+		'<p>קצר ולעניין ואומר הכל !יפה.תודה ושבת שלום.</p>',
+		'101731095369579282866',
+		'אפרים בן סימון',
+		'2017-07-28 16:14:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/53.html',
+		'<p>קצר ולעניין ואומר הכל !יפה.תודה ושבת שלום.</p>',
+		'101731095369579282866',
+		'אפרים בן סימון',
+		'2017-07-28 16:15:44'
+		)
+		;
+

@@ -127,3 +127,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-07-26 20:21:30'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-07-28 16:14:37'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/53.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-07-28 16:15:44'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/53.html'
+		;
+
