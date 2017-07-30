@@ -25141,3 +25141,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/efrati/dan.html',
+		'<p>פשוט יוצא מן הכלל.</p><p>הכל כל כך נכון.</p><p>הלוואי ויכלתי להעביר איתכם שעות ולהביט אל תוך האור. לדלות עוד מידע ואינסופי מן האור האלוקי.</p><p>תענוג. </p><p>תודה רבה.</p>',
+		'108646369943910021101',
+		'Dan Eylat-Rosenblum',
+		'2017-07-29 17:18:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>1. כִּי אִם עֲשׂוֹת מִשְׁפָּט = אַשְׁרֵי שֹׁמְרֵי מִשְׁפָּט יִשְׁמְרוּ אֶת שַׁבְּתוֹתַי       [תהלים קו3: &quot;אַשְׁרֵי שֹׁמְרֵי מִשְׁפָּט עֹשֵׂה צְדָקָה בְכָל עֵת&quot;]</p><p>2. וְאַהֲבַת חֶסֶד = וּבָחֲרוּ בַּאֲשֶׁר חָפָצְתִּי= כי חֶסֶד חפצתי</p><p>3. וְהַצְנֵעַ לֶכֶת עִם אֱלֹהֶיךָ = וּמַחֲזִיקִים בִּבְרִיתִי [צניעות וענוה]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-29 17:28:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום שמי אביטל אני יתומה יש לי אמא ואחים לא עוזרים לי רק מבקשים ממני דברים או כסף אני הגעתי למצב אנוש שאני עובדת בעבודה של טומאה ברחוב רוצה להתחזק ולחזור בתשובה וצריכה כסף הלוואה לקנות אוטו כדי להתפרנס מעבודה מכובדת ומשכורת בהתאם קשה לי לכלכל את עצמי לבד וקניות לוקחת מוניות ועוד.. המשפחה מודעת לטומאה שעובדת לא מעניין אותם משפחה חרדית שככה מתנהגת בגלל זה התרחקתי מהדרך היהדות ורוצה להתחזק חייבת אוטו או דירה אפילו להשכיר כדי לצאת מהבית ולהתקדם בחיים ולבנות את עצמי מחדש מתחננת לנשמות יהודיות שיצילו אותי בכסף אחזיר כל חודש סכום אבא שלי ז&quot;ל היה עוזר לי דואג לי ותורם תמיד לישיבות ולמלא מוסדות ואנשים והוא היה מחזק אותי עכשיו אני בודדה חלשה פונה כל יום להשם שיציל אותי שאוכל לחזור בתשובה אבל אין שינוי..אפילו תורמת כספים מהכסף שעובדת רק כדי שייפתח לי המזל..בבקשה מכם יהודים יקרים מי שיכול לעזור לי אודה לו מאוד אחזיר כסף כל חודש סכום 0556654721 תודה </p>',
+		'115369770554536891245',
+		'אביטל שרעבי',
+		'2017-07-29 21:52:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-30 05:21:47' 
+			WHERE messageid=6950;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-12.html',
+		'<p>&quot;אל תען כסיל כאולתו פן תשווה לו גם אתה&quot; (משלי כו\' ד), זה מקביל ל:  &quot;משכיל צדיק לבית רשע&quot;.</p><p>&quot;ענה כסיל כאולתו פן יהיה חכם בעיניו&quot; (משלי כו\' ה), זה מקביל ל: &quot;מסלף רשעים לרע&quot;.  </p>',
+		'108541864499997014971',
+		'Arnon Ophir',
+		'2017-07-30 05:36:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-04-28.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-07-30 05:49:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-30 05:49:09' 
+			WHERE messageid=6955;
+
