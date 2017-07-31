@@ -183,3 +183,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/dvrim/dm-04-28.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/xwrbn_wglwt.docx',
+				NULL,
+				'2017-07-31 07:02:12',
+				'2017-07-31 07:02:12',
+				'קללה חורבן וגלות',
+				'סימה שרייבר',
+				''
+			)
+		;
+
