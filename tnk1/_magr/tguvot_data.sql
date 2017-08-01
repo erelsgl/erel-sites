@@ -3881,3 +3881,26 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/dvrim/dm-04-28.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/et_kl_hon_beto.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-07-31 13:18:57'
+		WHERE parent='tnk1/kma/hvdlim1/et_kl_hon_beto.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-07-31 14:52:05'
+			WHERE parent='tnk1/kma/hvdlim1/et_kl_hon_beto.html'
+			;
+

@@ -25215,3 +25215,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-07-30 05:49:09' 
 			WHERE messageid=6955;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/et_kl_hon_beto.html',
+		'<p>לא ניתן להתקרב לאלהים על ידי כסף שוחד וכופר</p><p>לאלהים ניתן להתקרב על ידי אהבה בלבד כי על כל פשעים תכסה אהבה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-07-31 13:18:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-07-31 14:52:05' 
+			WHERE messageid=6956;
+

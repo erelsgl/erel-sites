@@ -199,3 +199,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-07-31 13:18:57'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/et_kl_hon_beto.html'
+		;
+
