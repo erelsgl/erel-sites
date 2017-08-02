@@ -25234,3 +25234,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-07-31 14:52:05' 
 			WHERE messageid=6956;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לכלתי מירב בת שולה מאחל לידה קלה ושלא יאונה כל רע לנולדולאם שיהיו בריאים </p>',
+		'112353758826754218025',
+		'nofarim hatab',
+		'2017-08-01 09:43:22'
+		)
+		;
+
