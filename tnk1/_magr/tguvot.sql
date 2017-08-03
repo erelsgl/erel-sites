@@ -25246,3 +25246,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-29-04.html',
+		'<p>כל ההסבר על תרומות במשמעות של ימינו , נראית לי מוטעית. ההסבר במשמעות של איש תרומות , אדם שיש לו גבהות הלב, הרבה יותר קולעתכמו כן יתכן ותרומות במשמעות רמיה שהיא הפך ממשפט</p>',
+		'111218336367170401546',
+		'משה בן-ברוך',
+		'2017-08-02 15:19:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלןם אני בן 27 נקלעתי למצב לא פשוט עם חרדות וכל הוצאות הבית נפלו עליי שמי אור וההורים שלי שניהם חולים במחלה אני עבדתי עד סף התמוטטות כדי לסייע להם בכל דרך אפשרית </p><p>רק התרופה של אבא שלי עולה 4500 בחודש של הכימוטרפייה זה בכלל בלי כל שאר התרופות והסטרואידים שהם מקבלים. נפלתי לבסוף גם אני להלוואה של 30 אלף בבנק בבקשה תעזרו ותשתפו</p><p>כל המציל נפש אחת כאילו הציל עולם מלא וההורים שלי הם העולם המלא שלי . אני בבנק הפועלים מספר בנק 12</p><p>סניף 160 מספר חשבון 047986. כל דבר יכול לעזור בבקשה וגם יש לי המלצות ומסמכים גם רפואיים המעידים על המצב. מספר פלאפון 0533376057 אם אני לא עונה נא לשלוח הודעה או להשאיר הודעה . תבוא עמכם הברכה</p>',
+		'114722209775033916787',
+		'Or Zohar',
+		'2017-08-03 05:37:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-18-25.html',
+		'<p>מאמרים נוספים:</p><p>* המשמעות הכפולה של טומאת הארץ / הרב אמנון בזק  http://www.zomet.org.il/?CategoryID=160&amp;ArticleID=3935</p><p>* ולא תקיא הארץ אתכם / הרב יעקב הלוי פילבר http://www.inn.co.il/Articles/Article.aspx/8749</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-08-03 06:40:32'
+		)
+		;
+
