@@ -341,3 +341,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-08-06 05:47:12'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-06 19:50:04'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/onj_krt.html'
+		;
+
