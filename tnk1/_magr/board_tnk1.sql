@@ -403,3 +403,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-08-08 18:19:27'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/cdq_awqlydy___xjbwn_xwf___wlhjkyl_bamytk.pdf',
+				NULL,
+				'2017-08-11 14:24:38',
+				'2017-08-11 14:24:38',
+				'במעגל צדק אוקלידי = חשבון חוט = ולהשכיל באמיתך',
+				'רמי ניר  ',
+				''
+			)
+		;
+
