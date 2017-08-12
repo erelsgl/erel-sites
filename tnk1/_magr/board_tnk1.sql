@@ -318,3 +318,104 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-18-25.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_923.html',
+				NULL,
+				'2017-08-06 05:47:12',
+				'2017-08-06 05:47:12',
+				'תחנוני משה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-08-06 05:47:12'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-06 19:50:04'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/onj_krt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-08 11:49:08'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_924.html',
+				NULL,
+				'2017-08-08 17:20:31',
+				'2017-08-08 17:20:31',
+				'פרשת עקב- במה כוחן של כ\"ב אותיות בתורה?/מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-08-08 17:20:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_925.html',
+				NULL,
+				'2017-08-08 18:19:27',
+				'2017-08-08 18:19:27',
+				'סוד אותיות הקודש/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-08-08 18:19:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/cdq_awqlydy___xjbwn_xwf___wlhjkyl_bamytk.pdf',
+				NULL,
+				'2017-08-11 14:24:38',
+				'2017-08-11 14:24:38',
+				'במעגל צדק אוקלידי = חשבון חוט = ולהשכיל באמיתך',
+				'רמי ניר  ',
+				''
+			)
+		;
+

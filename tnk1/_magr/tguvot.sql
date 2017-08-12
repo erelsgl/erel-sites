@@ -25349,3 +25349,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/onj_krt.html',
+		'<p>יתכן שיש קשר בין ההגדים \'ויאסף אל עמיו\' לבין ונכרתה הנפש ההיא מעמיה. </p><p>האספות אל עמיו היא הקרבורה במערה המשפחתית, חבור וקשר לדורות הקודמים. הכריתה מעמיו, היא אבוד הקשר למשפחה ולדורות הקודמים. </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-08-06 19:50:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן אמן ואמןןן</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-08-08 11:49:08'
+		)
+		;
+
