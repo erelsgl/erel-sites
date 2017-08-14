@@ -419,3 +419,59 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 14:46:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1057_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 14:51:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1057_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 14:52:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1057_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 14:55:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1057_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 15:13:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1302_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-13 15:14:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-14 04:24:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
+		;
+
