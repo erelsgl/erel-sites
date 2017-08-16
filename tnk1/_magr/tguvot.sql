@@ -25478,3 +25478,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_195.html',
+		'<p>שיר מרגש המביע את האוירה המיוחדת שבעקדה.</p><p>מלבד השורה: כאריה השש לקרב- המצייר לנו דמות לא כל כך סימפאטית.</p><p> אריאל</p>',
+		'104843385153413564266',
+		'אריאל ומאיה פנדל',
+		'2017-08-15 10:09:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/plgj.html',
+		'<p>באדם גרוש שאינו חזק ברוחניות ,(זרע לבטלה),ואינו יכול נפשית להתחתן,לא יתיר פילגש לעצמו???!! ,ויסמוך על המתירים! ,הרי לא נתיר לו, ,מי יקח על עצמו להגיד כדעת האוסרין,ובוודאי יפגום,ואיני מדבר כלל לכתחילה,ולהורות לרבים ח&quot;ו.ועוד בדורינו,הרי בתלמוד מסופר על רבי עמרם חסידא שלקח סולם ......ומה אנחנו.......? אשמח לתשובה עניינית,תודה.</p>',
+		'109485314203373696485',
+		'אריק סלומון',
+		'2017-08-15 14:37:47'
+		)
+		;
+

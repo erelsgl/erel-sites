@@ -475,3 +475,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-15 10:09:08'
+		WHERE ktovt_bn='tnk1/messages/forums_195.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-15 14:37:47'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/plgj.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_926.html',
+				NULL,
+				'2017-08-16 04:01:30',
+				'2017-08-16 04:01:30',
+				'פרשת ראה, חציית הירדן-הברכה והקללה- הקשר?/מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-08-16 04:01:30'
+			WHERE ktovt_bn='tnk1/forums.html';
+
