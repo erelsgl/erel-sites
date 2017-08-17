@@ -4236,3 +4236,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/plgj.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_5.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-08-16 11:00:03'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuelb/njy_dwd.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-08-16 16:30:04'
+		WHERE parent='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+

@@ -25502,3 +25502,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>אמן שביתי שירן בת תמר תלד בשלום</p>',
+		'102592795758510282297',
+		'7storeb B-7',
+		'2017-08-16 11:00:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p>למלך מותר לקחת עד 10 נשים </p><p>באשר לפילגשים נשים שפחות אין הגבלה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-16 16:30:04'
+		)
+		;
+
