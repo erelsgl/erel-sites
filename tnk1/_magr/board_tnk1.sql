@@ -553,3 +553,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-08-16 19:41:01'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-17 12:56:25'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-17 13:18:10'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-25-1617.html'
+		;
+

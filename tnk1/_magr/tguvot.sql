@@ -25526,3 +25526,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-23-17.html',
+		'<p>אראל, תמיד דבריך יפים, נכוחים ופשטי הכתובים. </p><p>ציינת הפעם שמדינת ישראל צריכה לקלוט את הפליטים ולסייע להם עד היום שיחזרו למקומם. </p><p>שים לב ! הם לא מעוניינים לחזור למקומם. הם לא רואים עצמם פליטים .</p><p>במקום שעזבו אין פרנסה לרובם. </p><p>הם באים על מנת להתנחל ולהתרבות אצלנו. </p><p>לא שייך כלל לחבר בין מציאות הפליטים שאתה מבקש ללמוד מן התורה לתופעת המסתננים העוטלמית הגורמת להרס יבשת אירופה ומדינת ישראל בכללה. </p><p>בברכה , חגי </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-08-17 12:56:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-1617.html',
+		'<p>כמה חוכמה יש בזה הבנתי הפירוש מאו מלמד השכלתי.</p><p>תודה רבה לכם</p>',
+		'115891903134962182665',
+		'אברהם אסממאו קטמאו',
+		'2017-08-17 13:18:10'
+		)
+		;
+
