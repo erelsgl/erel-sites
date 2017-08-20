@@ -25550,3 +25550,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן והצלחה בהמשך תתחזקי ותגדלי את בנותייך אמן ואמן </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:12:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:13:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:14:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:14:10'
+		)
+		;
+
