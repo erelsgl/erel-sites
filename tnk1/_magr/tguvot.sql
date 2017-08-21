@@ -25598,3 +25598,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-05-2324.html',
+		'<p>אתר נפלא!</p>',
+		'109896860519237424819',
+		'ורד פרץ',
+		'2017-08-20 21:32:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בבקשה בבקשה לברך את נדב בן שמחה לבריאות איתנה בע&quot;ה ושנתבשר בבשורות טובות אמן ואמן </p>',
+		'101157822513399280165',
+		'מלמל פרץ',
+		'2017-08-21 00:31:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-21 04:13:41' 
+			WHERE messageid=6984;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-21 04:13:42' 
+			WHERE messageid=6983;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_23.html',
+		'<p>המאמר בקובץ וורד:</p><p>http://tora.us.fm/tnk1/messages/mwl_bytr.docx</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-08-21 04:50:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/kas2.html',
+		'<p>אמנם לעתים רחוקות גם מזגי קודר.</p><p>את הסיבה מספקים תמיד הסובבים אותי.</p><p>ומתוך שמצחיקים אותי, יש ואני עוקץ</p><p>משתדל בשנינות שתפגע, הגם שאיני מכוון לכך.</p><p>רק כדי ובכדי לפקוח עיניהם של עיוורים.</p><p>לי יש לכאורה בעיה, שאיני יודע לסתום את הפה</p><p>ואני אומר מה שבא לי בעקבות מה שאני חש.</p><p>קוראים לזה היום. &quot;אין לך טַקְט&quot;.</p><p>איני יודע מדוע לא יכול לנצור את לשוני.</p><p>חכמים בגרוש אמרו.</p><p>&quot;לא כל מה שיש לך בראש חייב לצאת מהפה&quot;</p><p>בקטנה, בוודאי צודקת הסבתא וצודקת הברירה.</p><p>בגדול זה מה שכתוב. &quot;לֹא תִשְׂנָא אֶת אָחִיךָ בִּלְבָבֶךָ</p><p>הוֹכֵחַ תּוֹכִיחַ אֶת עֲמִיתֶךָ וְלֹא תִשָּׂא עָלָיו חֵטְא&quot;.</p><p>כלומר, שאם אינך מוכיח אותו אתה האשם והנענש.</p><p>&quot;אַל תּוֹכַח לֵץ פֶּן יִשְׂנָאֶךָּ הוֹכַח לְחָכָם וְיֶאֱהָבֶךָּ&quot;</p><p>אז אל תייצרו טלנובלות תבנו יחד מציאות לחיים ישרים.</p><p>ואני מבטיח לשתוק:</p><p></p>',
+		'115909296078476044441',
+		'משה חזן',
+		'2017-08-21 07:17:47'
+		)
+		;
+
