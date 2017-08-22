@@ -4101,3 +4101,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim1/kas2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-21 12:28:47'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-31-30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-21 12:33:31'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-31-30.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/hzmn___440_jnh___megl_dwd.pdf',
+				NULL,
+				'2017-08-21 18:05:43',
+				'2017-08-21 18:05:43',
+				'חוט הזמן = 440 שנה = מעגל דוד',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-21 19:19:09'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-31-30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-21 19:24:02'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-17-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-08-22 05:30:50'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-17-06.html'
+		;
+
