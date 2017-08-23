@@ -25720,3 +25720,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-23 02:38:19' 
+			WHERE messageid=6989;
+
