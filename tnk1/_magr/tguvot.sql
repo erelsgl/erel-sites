@@ -25727,3 +25727,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-08-23 02:38:19' 
 			WHERE messageid=6989;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-27.html',
+		'<p>לחם אשר נעשה בעצלות, ללא התפחה (בעבר היה לוקח יום יומיים), אשר קל להכינו ונשמר לאורך זמן אך קשה לעיכול ומגעיל באופן כללי.</p><p>לאכול לחם עצלות זה בזוי כי זה מעיד על אופיו של הבן אדם אשר הכין אותו אשר חושב לספק את צרכיו במהרה.</p><p>בבית אשר לא אוכלים בו לחם עצלות מעיד על תפקודו של הבית ועל כך שהכל מתוכנן מראש, תכונה ראויה להערכה.</p>',
+		'110189585247101917075',
+		'Stanley Aldam',
+		'2017-08-25 05:14:52'
+		)
+		;
+
