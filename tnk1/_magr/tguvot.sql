@@ -25373,3 +25373,369 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1057_2.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי =  כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא לא טוב מאבותיו אז יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 14:46:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1057_2.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא מרגיש לא טוב מאבותיו אז יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 14:51:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-13 14:52:11' 
+			WHERE messageid=6969;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1057_2.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא מרגיש לא טוב מאבותיו יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 14:52:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-13 14:54:53' 
+			WHERE messageid=6968;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-13 14:54:54' 
+			WHERE messageid=6970;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1057_2.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא מרגיש לא טוב מאבותיו יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 14:55:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1302_0.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא מרגיש לא טוב מאבותיו יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 15:13:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>מלכים א יט4:</p><p>&quot;וְהוּא הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אחת[אֶחָד] וַיִּשְׁאַל אֶת נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>יונה ד3: &quot;וְעַתָּה יהוה קַח נָא אֶת נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי&quot; = עַתָּה יהוה קַח נַפְשִׁי כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי&quot;</p><p>***************************************כִּי טוֹב מוֹתִי מֵחַיָּי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי **************************************</p><p>----------------------------------------- כי לא טוב חיי ממותי = כִּי לֹא טוֹב אָנֹכִי מֵאֲבֹתָי ----------------------------------</p><p>ןהפרוש לבאר הוא כי בן-אדם כמשביח גניטקת DNA יבקש חיים רק אם הוא טוב מאבותיו ואם הוא מרגיש לא טוב מאבותיו יבקש למות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-13 15:14:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>אלהים אמר לאדם: כִּי-עָפָר אַתָּה וְאֶל-עָפָר תָּשׁוּב</p><p>ודוד שאל רטורית: הֲיוֹדְךָ עָפָר הֲיַגִּיד אֲמִתֶּךָ</p><p>ומדוע הודה דוד הוֹדוּ לַיהוָה קִרְאוּ בִשְׁמוֹ</p><p>יַעַן אֲשֶׁר הֲרִימֹתִיךָ מִן-הֶעָפָר וָאֶתֶּנְךָ נָגִיד עַל עַמִּי יִשְׂרָאֵל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-14 04:24:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_195.html',
+		'<p>שיר מרגש המביע את האוירה המיוחדת שבעקדה.</p><p>מלבד השורה: כאריה השש לקרב- המצייר לנו דמות לא כל כך סימפאטית.</p><p> אריאל</p>',
+		'104843385153413564266',
+		'אריאל ומאיה פנדל',
+		'2017-08-15 10:09:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/plgj.html',
+		'<p>באדם גרוש שאינו חזק ברוחניות ,(זרע לבטלה),ואינו יכול נפשית להתחתן,לא יתיר פילגש לעצמו???!! ,ויסמוך על המתירים! ,הרי לא נתיר לו, ,מי יקח על עצמו להגיד כדעת האוסרין,ובוודאי יפגום,ואיני מדבר כלל לכתחילה,ולהורות לרבים ח&quot;ו.ועוד בדורינו,הרי בתלמוד מסופר על רבי עמרם חסידא שלקח סולם ......ומה אנחנו.......? אשמח לתשובה עניינית,תודה.</p>',
+		'109485314203373696485',
+		'אריק סלומון',
+		'2017-08-15 14:37:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>אמן שביתי שירן בת תמר תלד בשלום</p>',
+		'102592795758510282297',
+		'7storeb B-7',
+		'2017-08-16 11:00:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p>למלך מותר לקחת עד 10 נשים </p><p>באשר לפילגשים נשים שפחות אין הגבלה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-16 16:30:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-23-17.html',
+		'<p>אראל, תמיד דבריך יפים, נכוחים ופשטי הכתובים. </p><p>ציינת הפעם שמדינת ישראל צריכה לקלוט את הפליטים ולסייע להם עד היום שיחזרו למקומם. </p><p>שים לב ! הם לא מעוניינים לחזור למקומם. הם לא רואים עצמם פליטים .</p><p>במקום שעזבו אין פרנסה לרובם. </p><p>הם באים על מנת להתנחל ולהתרבות אצלנו. </p><p>לא שייך כלל לחבר בין מציאות הפליטים שאתה מבקש ללמוד מן התורה לתופעת המסתננים העוטלמית הגורמת להרס יבשת אירופה ומדינת ישראל בכללה. </p><p>בברכה , חגי </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-08-17 12:56:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-1617.html',
+		'<p>כמה חוכמה יש בזה הבנתי הפירוש מאו מלמד השכלתי.</p><p>תודה רבה לכם</p>',
+		'115891903134962182665',
+		'אברהם אסממאו קטמאו',
+		'2017-08-17 13:18:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן והצלחה בהמשך תתחזקי ותגדלי את בנותייך אמן ואמן </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:12:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:13:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:14:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בורא עולם חנון ורחום עושה ניסים וניפלאות </p>',
+		'112485080936752493994',
+		'מרגלית מלכה',
+		'2017-08-19 17:14:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-05-2324.html',
+		'<p>אתר נפלא!</p>',
+		'109896860519237424819',
+		'ורד פרץ',
+		'2017-08-20 21:32:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>בבקשה בבקשה לברך את נדב בן שמחה לבריאות איתנה בע&quot;ה ושנתבשר בבשורות טובות אמן ואמן </p>',
+		'101157822513399280165',
+		'מלמל פרץ',
+		'2017-08-21 00:31:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-21 04:13:41' 
+			WHERE messageid=6984;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-21 04:13:42' 
+			WHERE messageid=6983;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_23.html',
+		'<p>המאמר בקובץ וורד:</p><p>http://tora.us.fm/tnk1/messages/mwl_bytr.docx</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-08-21 04:50:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/kas2.html',
+		'<p>אמנם לעתים רחוקות גם מזגי קודר.</p><p>את הסיבה מספקים תמיד הסובבים אותי.</p><p>ומתוך שמצחיקים אותי, יש ואני עוקץ</p><p>משתדל בשנינות שתפגע, הגם שאיני מכוון לכך.</p><p>רק כדי ובכדי לפקוח עיניהם של עיוורים.</p><p>לי יש לכאורה בעיה, שאיני יודע לסתום את הפה</p><p>ואני אומר מה שבא לי בעקבות מה שאני חש.</p><p>קוראים לזה היום. &quot;אין לך טַקְט&quot;.</p><p>איני יודע מדוע לא יכול לנצור את לשוני.</p><p>חכמים בגרוש אמרו.</p><p>&quot;לא כל מה שיש לך בראש חייב לצאת מהפה&quot;</p><p>בקטנה, בוודאי צודקת הסבתא וצודקת הברירה.</p><p>בגדול זה מה שכתוב. &quot;לֹא תִשְׂנָא אֶת אָחִיךָ בִּלְבָבֶךָ</p><p>הוֹכֵחַ תּוֹכִיחַ אֶת עֲמִיתֶךָ וְלֹא תִשָּׂא עָלָיו חֵטְא&quot;.</p><p>כלומר, שאם אינך מוכיח אותו אתה האשם והנענש.</p><p>&quot;אַל תּוֹכַח לֵץ פֶּן יִשְׂנָאֶךָּ הוֹכַח לְחָכָם וְיֶאֱהָבֶךָּ&quot;</p><p>אז אל תייצרו טלנובלות תבנו יחד מציאות לחיים ישרים.</p><p>ואני מבטיח לשתוק:</p><p></p>',
+		'115909296078476044441',
+		'משה חזן',
+		'2017-08-21 07:17:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-30.html',
+		'<p></p>',
+		'112148605089341199906',
+		'Yoni Maor',
+		'2017-08-21 12:28:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-30.html',
+		'<p>הערה קטנה (שקר קטן?)</p><p>לא מצאתי אזכור לדברי איינשטיין...</p><p>תורת היחסות שלו דווקא נחשבת היפה מכל התיאוריות של המאה העשרים.</p><p></p>',
+		'112148605089341199906',
+		'Yoni Maor',
+		'2017-08-21 12:33:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-30.html',
+		'<p>ספר משלי פרק 31 הוא הפרק האחרון בספר כתוב:</p><p>(ל) שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי אִשָּׁה יִרְאַת יְהוָה הִיא תִתְהַלָּל. ===== אך אם היופי משולב עם יראת האלהים כרחל ושרה אמנו אז טוב</p><p>--------------------------</p><p>כעת הבן את המשל</p><p>(יג) וְקִרְעוּ לְבַבְכֶם וְאַל בִּגְדֵיכֶם......  וְשׁוּבוּ אֶל יְהֹוָה אֱלֹהֵיכֶם כִּי חַנּוּן וְרַחוּם הוּא אֶרֶךְ אַפַּיִם וְרַב חֶסֶד וְנִחָם עַל הָרָעָה:</p><p>הבגד זה חיצוני ואין טעם לקרוע אותו לעשות פוזות</p><p>ולקרוע את הלב זה התאבלות אמיתית ואם יחד עם קריעת הלב קרעת גם את בגדיך אז הדבר דומה לזה שהאשה גם יפה מבחוץ וגם יפה מבפנים</p><p>בספרי מקרא הקודש כתוב שהאלהים לא חפץ בזבח מנחה וקורבן עולה כי אם בדעת אלהים</p><p>(ו) כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת:</p><p>(יא) לָמָּה לִּי רֹב זִבְחֵיכֶם יֹאמַר יְהֹוָה שָׂבַעְתִּי עֹלוֹת אֵילִים וְחֵלֶב מְרִיאִים וְדַם פָּרִים וּכְבָשִׂים וְעַתּוּדִים לֹא חָפָצְתִּי:</p><p>(ז) זֶבַח וּמִנְחָה לֹא חָפַצְתָּ אָזְנַיִם כָּרִיתָ לִּי עוֹלָה וַחֲטָאָה לֹא שָׁאָלְתָּ:</p><p>אך אם יש דעת אלהים יחד עם קורבנות אז זה רצוי לכן לאמור לך כי לא הזבח הוא החשוב כי אם לשמוע בקול אלהים</p><p>וכך עליך להבין את המשל והנמשל כי האלהים רוצה שתשוב אליו בכל לבבך ואם יחד עם זה קרעת את בגדיך אז רצוי אבל אם לא שבת עד אלהיך אז לשוא קרעת את בגדיך</p><p>וזה המשל: כי אם אשה יפה ולא יראת אלהים אז לשוא האשה יפה כי כנזם זהב באף חזיר אשה יפה וסרת טעם</p><p>אבל אם האשה יפה ויראת אלהים אז היא טובה בעיני אבותינו הקדושים הרואים מחזה שדי נופל וגלוי עיניים</p><p>לראות נופל = זה לראות נסתרות לאמור את פנימיות האשה</p><p>ולראות גלוי עיניים = זה לראות את יופיה החיצוני של האשה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-21 19:19:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-17-06.html',
+		'<p>לדעתי מדובר בתושבי בית הערבה</p><p>בדיוק כמו שתושבי נערה/נערן - נקראו נערים</p><p>מלכים ב ב23: &quot;ויעל משם בית אל והוא עלה בדרך ונערים קטנים יצאו מן העיר ויתקלסו בו ויאמרו לו עלה קרח עלה קרח&quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-08-21 19:24:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-17-06.html',
+		'<p>העורבים הם הרוכלים [הסוחרים] אשר ציוה אותם אלהים לכלכל את אליהו הנביא</p><p>יחזקאל כז17: &quot;יְהוּדָה וְאֶרֶץ יִשְׂרָאֵל הֵמָּה רֹכְלָיִךְ בְּחִטֵּי מִנִּית וּפַנַּג וּדְבַשׁ וָשֶׁמֶן וָצֹרִי נָתְנוּ מַעֲרָבֵךְ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-22 05:30:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-23 02:38:19' 
+			WHERE messageid=6989;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-27.html',
+		'<p>לחם אשר נעשה בעצלות, ללא התפחה (בעבר היה לוקח יום יומיים), אשר קל להכינו ונשמר לאורך זמן אך קשה לעיכול ומגעיל באופן כללי.</p><p>לאכול לחם עצלות זה בזוי כי זה מעיד על אופיו של הבן אדם אשר הכין אותו אשר חושב לספק את צרכיו במהרה.</p><p>בבית אשר לא אוכלים בו לחם עצלות מעיד על תפקודו של הבית ועל כך שהכל מתוכנן מראש, תכונה ראויה להערכה.</p>',
+		'110189585247101917075',
+		'Stanley Aldam',
+		'2017-08-25 05:14:52'
+		)
+		;
+

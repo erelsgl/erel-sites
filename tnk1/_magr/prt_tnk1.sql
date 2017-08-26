@@ -287,3 +287,103 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'מלוכה משולבת ברוח ה\'' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ספירת העומר בספר ויקרא', `tarik_hosfa` = '2017-08-21 05:02:58' WHERE `qod` = 'ביאור:ויקרא כג15' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ספירת העומר בספר דברים', `tarik_hosfa` = '2017-08-21 05:02:58' WHERE `qod` = 'ביאור:דברים טז9' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'נרות שבת\' ג - אהובה קליין', `kotrt` = '\'נרות שבת\' ג - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:05:38' WHERE `qod` = 'הדלקת נרות שבת' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'נרות שבת\' א - אהובה קליין', `kotrt` = '\'נרות שבת\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:05:38' WHERE `qod` = '\'נרות שבת\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'נרות שבת\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:05:38' WHERE `qod` = '\'נרות שבת\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'נרות שבת\' ד - אהובה קליין', `kotrt` = '\'נרות שבת\' ד - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:05:38' WHERE `qod` = '\'הדלקת נרות שבת\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'ברכות\' א - אהובה קליין', `kotrt` = '\'ברכות\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:06:25' WHERE `qod` = '\'ברכות\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'ברכות\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:06:25' WHERE `qod` = '\'ברכות\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'ירושלים שלי - סיפור', `kotrt` = 'ירושלים שלי - סיפור', `tarik_hosfa` = '2017-08-21 05:06:56' WHERE `qod` = 'ירושלים שלי' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ירושלים שלי - סרטון', `tarik_hosfa` = '2017-08-21 05:06:56' WHERE `qod` = 'ירושלים שלי - סרטון' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ירושלים שלי - שיר', `tarik_hosfa` = '2017-08-21 05:06:56' WHERE `qod` = 'ירושלים שלי - שיר' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'ירושלים שלי', `tarik_hosfa` = '2017-08-21 05:07:13' WHERE `qod` = 'ירושלים שלי - סיפור' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'היעד - לארץ הבחירה\' א - אהובה קליין', `kotrt` = '\'היעד - לארץ הבחירה\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:07:42' WHERE `qod` = '\'היעד - לארץ הבחירה\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'היעד - לארץ הבחירה\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:07:42' WHERE `qod` = '\'היעד - לארץ הבחירה\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'הבאת ביכורים\' א - אהובה קליין', `kotrt` = '\'הבאת ביכורים\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:08:20' WHERE `qod` = '\'הבאת ביכורים\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'ביכורים\' ג - אהובה קליין', `kotrt` = '\'ביכורים\' ג - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:08:20' WHERE `qod` = '\'ביכורים\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'הבאת ביכורים\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:08:20' WHERE `qod` = '\'הבאת ביכורים\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'בחירתו של אדם\' א - אהובה קליין', `kotrt` = '\'בחירתו של אדם\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:08:42' WHERE `qod` = '\'בחירתו של אדם\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'בחירתו של אדם\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:08:42' WHERE `qod` = '\'בחירתו של אדם\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'בנות יתרו\' א - אהובה קליין', `kotrt` = '\'בנות יתרו\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:02' WHERE `qod` = '\'בנות יתרו\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'בנות יתרו\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:02' WHERE `qod` = '\'בנות יתרו\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'קורבן עולה\' א - אהובה קליין', `kotrt` = '\'קורבן עולה\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:22' WHERE `qod` = '\'קורבן עולה\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'קורבן עולה\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:22' WHERE `qod` = '\'קורבן עולה\' ב - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = '\'חזון אחרית הימים\' א - אהובה קליין', `kotrt` = '\'חזון אחרית הימים\' א - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:41' WHERE `qod` = '\'חזון אחרית הימים\' - אהובה קליין' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'חזון אחרית הימים\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:41' WHERE `qod` = '\'חזון אחרית הימים\' ב - אהובה קליין' AND 1 LIMIT 1;
+
