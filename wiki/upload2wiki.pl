@@ -298,22 +298,6 @@ sub upload_file {
 			if ($main::TARGET_URL =~ /wikisource/) {
 				$wpTextbox1 =~ s{\[https?://he.wikisource.org/wiki/([^ \]]+) ([^\]]+)]}{[[$1|$2]]}ig;
 			}
-
-			if ($name_of_page =~ /^שערי קדושה ([א-ת]+) ?([א-ת]+)?$/) {
-				my $sargelniwut="סרגל ניווט";
-				my $book = "שערי קדושה";
-				my $part = $1;
-				my $chapter = $2;
-				my $sargel = (
-					$part eq 'הקדמה'? "{{$sargelniwut|$book|||$part|א}}":
-					sargel_niwut($book, $part, $chapter)
-					);
-				print "$sargel\n";
-				#return;
-
-				$wpTextbox1 = "$sargel\n$wpTextbox1\n$sargel";
-				$summary = "פירוק והוספת סרגלי ניווט";
-			}
 		}
 	}
 
