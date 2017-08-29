@@ -25739,3 +25739,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן אמן ואמן ישועות ה\' כהרף עין אמןןן</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-08-28 13:36:32'
+		)
+		;
+
