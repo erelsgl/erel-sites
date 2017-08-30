@@ -25751,3 +25751,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/musr_hmlxma.html',
+		'<p>מדהים. חשוב ביותר. מפורט, מנומק ומשכנע. והכי חשוב - מלא יראת שמים.</p>',
+		'104184987570302890921',
+		'רועי גרבר',
+		'2017-08-29 13:41:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אם אתה רוצה שאלהים ישמע בקולך שמע אתה בקול אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-30 06:33:43'
+		)
+		;
+
