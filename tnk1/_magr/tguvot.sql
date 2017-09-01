@@ -25806,3 +25806,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>לדעתי הצרעה = צרעת </p><p>בתהילים פרק ע&quot;ח מנויים עשרת המכות</p><p>מכת צרעת (שחין) מתוארת כמלאך (שליח) רע שה\' שולח:</p><p>תהילים עח49 :  *ישלח* בם חרון אפו עברה וזעם וצרה *משלחת מלאכי רעים*.   </p><p>שמות כג23 : כי ילך *מלאכי* לפניך והביאך אל האמרי והחתי והפרזי והכנעני החוי והיבוסי והכחדתיו:</p><p>שמות כג28 : *ושלחתי* את *הצרעה* לפניך וגרשה את החוי את הכנעני ואת החתי מלפניך:</p><p>דברים ז20 : וגם את *הצרעה* *ישלח* ה\' אלהיך בם עד אבד הנשארים והנסתרים מפניך:</p><p>יהושע כד12 : *ואשלח* לפניכם את *הצרעה* ותגרש אותם מפניכם שני מלכי האמרי לא בחרבך ולא בקשתך: </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-08-31 15:08:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>מדוע &quot;משלחת מלאכי רעים&quot; היא צרעת (שחין)?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-01 06:12:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>מעניין, בתנ&quot;ך הדבורה קשורה דווקא לאשור, והזבוב קשור למצרים, ישעיהו ז18: &quot;וְהָיָה בַּיּוֹם הַהוּא יִשְׁרֹק ה\' לַזְּבוּב אֲשֶׁר בִּקְצֵה יְאֹרֵי מִצְרָיִם וְלַדְּבוֹרָה אֲשֶׁר בְּאֶרֶץ אַשּׁוּר&quot;.</p><p>מדוע &quot;משלחת מלאכי רעים&quot; היא צרעת (שחין)?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-01 06:14:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-01 06:14:01' 
+			WHERE messageid=7001;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>מלכים א כ31: &quot;וַיֹּאמְרוּ אֵלָיו עֲבָדָיו הִנֵּה נָּא שָׁמַעְנוּ כִּי מַלְכֵי בֵּית יִשְׂרָאֵל כִּי מַלְכֵי חֶסֶד הֵם</p><p>נָשִׂימָה נָא שַׂקִּים בְּמָתְנֵינוּ וַחֲבָלִים בְּרֹאשֵׁנוּ וְנֵצֵא אֶל מֶלֶךְ יִשְׂרָאֵל אוּלַי יְחַיֶּה אֶת נַפְשֶׁךָ&quot;</p><p>בימי קדם ידעו כל הגוים כי מלכי בית ישראל מלכי חסד הם לאמור עושים חסד </p><p>אך קראו נא בהמשך לפסוקים האלה וראו כי אחאב עשה חסד עם אויבי יהוה</p><p>לכן עם כל הכבוד לעשיית החסד אין החסד רצוי אם לא שומעים בקול אלהים</p><p>ואתם בני ישראל אנשי חסד אתם השכילו ראשית לשמוע בקול יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-01 06:45:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>לפי ההקבלה שעשיתי</p><p>http://www.tora.us.fm/tnk1/messages/tora_jmot_mkot_1.html</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-09-01 07:30:53'
+		)
+		;
+
