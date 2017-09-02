@@ -25873,3 +25873,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>יהושע יט41: &quot;וַיְהִי גְּבוּל נַחֲלָתָם צָרְעָה וְאֶשְׁתָּאוֹל וְעִיר שָׁמֶשׁ&quot;</p><p>צרעה [ואשתאול] זה שם של מקום נחלת דן</p><p>צרעת זה שם של מחלה</p><p>צירעה = זה מלאך לעזור לבני ישראל במלחמה</p><p>-----------------------------------</p><p>כל שלושת המילים הם משהו אחר על אף הקרבה במילים</p><p>המילים אמנם קרובות אך משמעותן שונה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-01 14:38:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>עוד מפרשים שצרעה - צרעת</p><p>http://www.yeshiva.org.il/midrash/13524</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-09-01 15:31:37'
+		)
+		;
+
