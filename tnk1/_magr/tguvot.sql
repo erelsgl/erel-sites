@@ -25897,3 +25897,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jbg.html',
+		'<p>על תשובה 4:</p><p>עיין ילקוט שמעוני סימן תתרנג</p>',
+		'112479291847859972494',
+		'פוטש יעקב',
+		'2017-09-02 21:29:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>משחה = מלשון שמן המשחה</p><p>משחת= מלשון שחיתות</p><p>למרות הקרבה בין המילים לכל מילה משמעות שונה</p><p> והוא הדבר גם בין המילים צרעה וצרעת שהם שתי מילים שונות לחלוטין</p><p>צרעה = מלאך</p><p>צרעת = זה מחלה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-03 04:30:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>משחה = מלשון שמן המשחה</p><p>משחת= מלשון שחיתות</p><p>למרות הקרבה בין המילים לכל מילה משמעות שונה</p><p>והוא הדבר גם בין המילים צרעה וצרעת שהם שתי מילים שונות לחלוטין</p><p>צרעה = מלאך</p><p>צרעת = זה מחלה</p><p>------------------------------------</p><p>לכן אבקשכם לא לסלף את השפה העברית בתורה</p><p>אל תכתבו הבלים ואל תסלפו את המקרא</p><p>נא גלו אחריות כלפי הגולשים הקוראים באתר הזה אתר הניווט בתנך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-03 04:51:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-03 04:51:51' 
+			WHERE messageid=7008;
+
