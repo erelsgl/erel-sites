@@ -25940,3 +25940,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-09-03 04:51:51' 
 			WHERE messageid=7008;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/gorl.html',
+		'<p>ראשון!!</p>',
+		'109973613642321333947',
+		'amir g',
+		'2017-09-03 10:10:03'
+		)
+		;
+
