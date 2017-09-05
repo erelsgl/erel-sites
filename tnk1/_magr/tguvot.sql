@@ -25739,3 +25739,264 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לעינב בת מרגלית ויויאן אמן ואמן ישועות ה\' כהרף עין אמןןן</p>',
+		'106683411382990448668',
+		'אסתר בוזגלו',
+		'2017-08-28 13:36:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/musr_hmlxma.html',
+		'<p>מדהים. חשוב ביותר. מפורט, מנומק ומשכנע. והכי חשוב - מלא יראת שמים.</p>',
+		'104184987570302890921',
+		'רועי גרבר',
+		'2017-08-29 13:41:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אם אתה רוצה שאלהים ישמע בקולך שמע אתה בקול אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-08-30 06:33:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>פירוש מקורי מכיוון אחר מביא גארסטאנג, [5] חוקר בריטי שהיה מנהל חברת העתיקות בארץ ישראל בימי המנדט. לדבריו, הצרעה לא הייתה יצור ממשי אלא סמל של מצרים. על הכובע של פרעה במצרים העליונה הייתה מצוירת דבורה. כשם שמקובל לכנות את רוסיה &quot;הדוב הרוסי&quot;, את אנגליה &quot;האריה הבריטי&quot; ואת ארצות הברית &quot;הנשר האמריקני&quot;, כך הצרעה, היא הדבורה, מסמלת את מצרים. מצרים שלטה ביד קשה בארץ כנען בתקופה שקדמה לכיבוש הארץ על ידי יהושע. על פי מקורות שונים, ובתוכם תעודות אל עמארנה שנתגלו בסוף המאה ה-19, נתהדקה מאוד השליטה המצרית בארץ כנען, ולנחלות המצריות סופחו ערי שלטון חדשות. באיגרות ממלכי לכיש, ירושלים, אשקלון, מגידו, גזר וחצור אל פרעה, מתלוננים מלכי כנען על היד הקשה של השלטון המצרי ומבקשים עזרה נגד הח\'בירו. [6]</p><p>https://www.biu.ac.il/JH/Parasha/mishpatim/gaz.html</p><p>https://www.biu.ac.il/JH/Parasha/mishpatim/gaz.html</p><p>נמצאנו למדים שה\' שלח את מצרים המסומלת על ידי הצרעה להכביד את ידה על החיים בארץ כנען, ועל ידי זה נחלש השלטון של מלכי כנען. חולשה מדינית זו הקלה על בני ישראל את כיבוש הארץ. כך ראינו את יד ה\' המכוונת את ההיסטוריה. הצרעה אכן סייעה לגירוש עמי כנען, כהבטחת הקב&quot;ה.</p>',
+		'109578129680244523449',
+		'manetmonetimp',
+		'2017-08-31 01:52:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-08-31 01:53:12' 
+			WHERE messageid=6998;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>https://www.biu.ac.il/JH/Parasha/mishpatim/gaz.html</p><p>פירוש מקורי מכיוון אחר מביא גארסטאנג, [5] חוקר בריטי שהיה מנהל חברת העתיקות בארץ ישראל בימי המנדט. לדבריו, הצרעה לא הייתה יצור ממשי אלא סמל של מצרים. על הכובע של פרעה במצרים העליונה הייתה מצוירת דבורה. כשם שמקובל לכנות את רוסיה &quot;הדוב הרוסי&quot;, את אנגליה &quot;האריה הבריטי&quot; ואת ארצות הברית &quot;הנשר האמריקני&quot;, כך הצרעה, היא הדבורה, מסמלת את מצרים. מצרים שלטה ביד קשה בארץ כנען בתקופה שקדמה לכיבוש הארץ על ידי יהושע. על פי מקורות שונים, ובתוכם תעודות אל עמארנה שנתגלו בסוף המאה ה-19, נתהדקה מאוד השליטה המצרית בארץ כנען, ולנחלות המצריות סופחו ערי שלטון חדשות. באיגרות ממלכי לכיש, ירושלים, אשקלון, מגידו, גזר וחצור אל פרעה, מתלוננים מלכי כנען על היד הקשה של השלטון המצרי ומבקשים עזרה נגד הח\'בירו. [6]</p><p>נמצאנו למדים שה\' שלח את מצרים המסומלת על ידי הצרעה להכביד את ידה על החיים בארץ כנען, ועל ידי זה נחלש השלטון של מלכי כנען. חולשה מדינית זו הקלה על בני ישראל את כיבוש הארץ. כך ראינו את יד ה\' המכוונת את ההיסטוריה. הצרעה אכן סייעה לגירוש עמי כנען, כהבטחת הקב&quot;ה.</p>',
+		'109578129680244523449',
+		'manetmonetimp',
+		'2017-08-31 01:53:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>לדעתי הצרעה = צרעת </p><p>בתהילים פרק ע&quot;ח מנויים עשרת המכות</p><p>מכת צרעת (שחין) מתוארת כמלאך (שליח) רע שה\' שולח:</p><p>תהילים עח49 :  *ישלח* בם חרון אפו עברה וזעם וצרה *משלחת מלאכי רעים*.   </p><p>שמות כג23 : כי ילך *מלאכי* לפניך והביאך אל האמרי והחתי והפרזי והכנעני החוי והיבוסי והכחדתיו:</p><p>שמות כג28 : *ושלחתי* את *הצרעה* לפניך וגרשה את החוי את הכנעני ואת החתי מלפניך:</p><p>דברים ז20 : וגם את *הצרעה* *ישלח* ה\' אלהיך בם עד אבד הנשארים והנסתרים מפניך:</p><p>יהושע כד12 : *ואשלח* לפניכם את *הצרעה* ותגרש אותם מפניכם שני מלכי האמרי לא בחרבך ולא בקשתך: </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-08-31 15:08:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>מדוע &quot;משלחת מלאכי רעים&quot; היא צרעת (שחין)?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-01 06:12:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>מעניין, בתנ&quot;ך הדבורה קשורה דווקא לאשור, והזבוב קשור למצרים, ישעיהו ז18: &quot;וְהָיָה בַּיּוֹם הַהוּא יִשְׁרֹק ה\' לַזְּבוּב אֲשֶׁר בִּקְצֵה יְאֹרֵי מִצְרָיִם וְלַדְּבוֹרָה אֲשֶׁר בְּאֶרֶץ אַשּׁוּר&quot;.</p><p>מדוע &quot;משלחת מלאכי רעים&quot; היא צרעת (שחין)?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-01 06:14:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-01 06:14:01' 
+			WHERE messageid=7001;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>מלכים א כ31: &quot;וַיֹּאמְרוּ אֵלָיו עֲבָדָיו הִנֵּה נָּא שָׁמַעְנוּ כִּי מַלְכֵי בֵּית יִשְׂרָאֵל כִּי מַלְכֵי חֶסֶד הֵם</p><p>נָשִׂימָה נָא שַׂקִּים בְּמָתְנֵינוּ וַחֲבָלִים בְּרֹאשֵׁנוּ וְנֵצֵא אֶל מֶלֶךְ יִשְׂרָאֵל אוּלַי יְחַיֶּה אֶת נַפְשֶׁךָ&quot;</p><p>בימי קדם ידעו כל הגוים כי מלכי בית ישראל מלכי חסד הם לאמור עושים חסד </p><p>אך קראו נא בהמשך לפסוקים האלה וראו כי אחאב עשה חסד עם אויבי יהוה</p><p>לכן עם כל הכבוד לעשיית החסד אין החסד רצוי אם לא שומעים בקול אלהים</p><p>ואתם בני ישראל אנשי חסד אתם השכילו ראשית לשמוע בקול יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-01 06:45:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>לפי ההקבלה שעשיתי</p><p>http://www.tora.us.fm/tnk1/messages/tora_jmot_mkot_1.html</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-09-01 07:30:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>יהושע יט41: &quot;וַיְהִי גְּבוּל נַחֲלָתָם צָרְעָה וְאֶשְׁתָּאוֹל וְעִיר שָׁמֶשׁ&quot;</p><p>צרעה [ואשתאול] זה שם של מקום נחלת דן</p><p>צרעת זה שם של מחלה</p><p>צירעה = זה מלאך לעזור לבני ישראל במלחמה</p><p>-----------------------------------</p><p>כל שלושת המילים הם משהו אחר על אף הקרבה במילים</p><p>המילים אמנם קרובות אך משמעותן שונה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-01 14:38:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>עוד מפרשים שצרעה - צרעת</p><p>http://www.yeshiva.org.il/midrash/13524</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-09-01 15:31:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jbg.html',
+		'<p>על תשובה 4:</p><p>עיין ילקוט שמעוני סימן תתרנג</p>',
+		'112479291847859972494',
+		'פוטש יעקב',
+		'2017-09-02 21:29:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>משחה = מלשון שמן המשחה</p><p>משחת= מלשון שחיתות</p><p>למרות הקרבה בין המילים לכל מילה משמעות שונה</p><p> והוא הדבר גם בין המילים צרעה וצרעת שהם שתי מילים שונות לחלוטין</p><p>צרעה = מלאך</p><p>צרעת = זה מחלה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-03 04:30:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>משחה = מלשון שמן המשחה</p><p>משחת= מלשון שחיתות</p><p>למרות הקרבה בין המילים לכל מילה משמעות שונה</p><p>והוא הדבר גם בין המילים צרעה וצרעת שהם שתי מילים שונות לחלוטין</p><p>צרעה = מלאך</p><p>צרעת = זה מחלה</p><p>------------------------------------</p><p>לכן אבקשכם לא לסלף את השפה העברית בתורה</p><p>אל תכתבו הבלים ואל תסלפו את המקרא</p><p>נא גלו אחריות כלפי הגולשים הקוראים באתר הזה אתר הניווט בתנך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-03 04:51:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-03 04:51:51' 
+			WHERE messageid=7008;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/gorl.html',
+		'<p>ראשון!!</p>',
+		'109973613642321333947',
+		'amir g',
+		'2017-09-03 10:10:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/ribit0.html',
+		'<p>&quot;במצב של ריבית אפס אין הלוואות&quot; - חוץ מהלוואות לעניים וזו בדיוק הנקודה החשובה של התורה. האינטרס לתת הלוואה הוא טוב הלב או לחילופין הרצון לזכות במצווה.</p><p>אז איך יוכל למשל קבלן לבנות בנין או מרכז מסחרי? התשובה היא שהוא יצטרך שיהיה כדאי לבנק לתת לו את הכסף ולא להשקיע את הכסף במניות למשל. הוא יציע לבנק להיות שותף שלו ברווחים. הבנק יצטרך כמובן לבדוק היטב שהקבלן יודע מה הוא עושה ושהוא לא זורק את כספו. נשמע הגיוני שגם הבנק צריך להסתכן.</p><p>איך יוכל אדם מן השורה לקבל כסף מהבנק לקניית דירה? שוב צריך שהדבר ישתלם לבנק במקום להשקיע במניות למשל. אני מציע את הרעיון הבא: מה מרוויח האדם (מן השורה) מהעסקה? קורת גג מעל ראשו עכשיו במקום עוד 20 שנה. אבל הוא יכול לשכור דירה? כאן תהיה לו דירה משלו בעוד 20 שנה. כלומר הכסף אינו הולך לבעל דירה אלא לעצמו. אז הפתרון שלנו הוא שגם הבנק ירוויח מזה שהכסף אינו הולך לבעל דירה. הפתרון הוא כך: האדם והבנק קונים את הדירה ונעשים שותפים בבעלות עליה. במשך 20 שנה הבעלות עוברת באופן הדרגתי מהבנק לאדם. האדם משלם שכר דירה לבנק לפי החלק היחסי של הבעלות של הבנק על דירתו.</p><p>פתרון זה ניתן ליישם גם בהלוואה לצורך קניית רכב, הקמת עסק וכדומה. ייתכן שזה קצת מזכיר את היתר העסקה שיש כיום בבנקים.</p><p>היכן לא ניתן ליישם את הפתרון? הלוואה בשביל לקבל כסף ביד. מה שנקרא &quot;הלוואה לכל מטרה&quot;: הלוואה לצורך נסיעה לחו&quot;ל, הלוואה לצורך הוצאה גדולה על חתונה. על הלוואות כאלה לדעתי בהחלט ניתן לוותר.</p><p>מה עם הלוואה לצורך ניתוח דחוף? כאן הלווה נכנס להגדרה של עני והוא יוכל לפנות לגמ&quot;ח לקבל הלוואה ללא ריבית.</p><p>אני בטוח שלא סגרתי את כל הפינות, אבל יש כאן רעיון ליישום של כלכלה ללא ריבית.</p><p>ניצן חמיאל</p><p></p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2017-09-04 10:09:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/ribit0.html',
+		'<p>אראל, יש לי שאלה מאתגרת:</p><p>אם כלכלה ללא ריבית היא האידיאלית, מדוע אנו מצווים: &quot;לנכרי תשיך, לאחיך לא תשיך&quot;?</p><p>לדעתי הדבר מרמז שאיסור ריבית משתייך לדינים רבים שהם &quot;לפנים משורת הדין&quot; מתוך התחשבות בעניים - מצוות שהן כולן תקפות רק לגבי ישראל:</p><p>שמיטת חובות בסוף שמיטה, צדקה, שחרור עבד עברי ומענק שחרור, השבת אבידה, הקם תקים עימו, לא תשכב בעבוטו, ביומו תיתן שכרו</p><p>כך יוצא שאיסור ריבית הוא לא בגלל שריבית זה דבר רע ומשחית, וגם לא בגלל שכלכלה ללא ריבית היא אידיאלית, אלא בגלל הצורך להתחשב בעני ולמנוע פערים בחברה.</p><p>במילים אחרות להיפך: על מנת להתחשב בעניים אנחנו מוותרים על ריבית גם אם היתה זו מועילה למשק.</p><p>ניתן לטעון בהמשך שאם נתחשב בעניים אז בסוף הכלכלה כולה תרוויח.</p><p>אבל חשוב לא להציג את הריבית כדבר רע ומשחית, אחרת &quot;היתר עסקה&quot; הוא דבר די שלילי שמנסה לעקוף את האיסור ההלכתי ולהכשיר את השרץ.</p><p>&quot;היתר עסקה&quot; לא נועד לאפשר הלוואה לעניים והם אמורים לפנות לגמ&quot;ח</p><p>למסקנה, קשה לבוא בטענה מתמטית שכלכלה ללא ריבית היא עדיפה שכן:</p><p>1) למה מנכרי מותר (מצווה???) לקחת ריבית</p><p>2) ההתחשבות בעניים היא בדרך כלל &quot;על חשבון&quot; רווח כלכלי, אחרת למה שנקבל שכר? לפום צערא אגרא</p><p>ניצן חמיאל</p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2017-09-04 10:38:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0525_0.html',
+		'<p>לא לשכוח שבמדבר הקדוש ברוך הוא הוריד לנו את המן וכמובן בארה של מרים שתינו מים, ולא באנו לדבר כדי לקחת מהם מים או מזון</p><p></p>',
+		'116317363105174723306',
+		'Gabriel Betech',
+		'2017-09-04 11:12:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>עוד על הקשר בין צרעה לצרעת</p><p>http://www.tora.us.fm/tnk1/messages/ljon_jorj_cre_0.html</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2017-09-04 12:56:15'
+		)
+		;
+
