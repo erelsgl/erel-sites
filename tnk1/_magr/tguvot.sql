@@ -26000,3 +26000,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bsr_xlv.html',
+		'<p>נכון שאסור לאכול ולבשל את הגדי עם החלב.</p><p>אבל את העוף מותר לבשל ביחד עם בצים? כמו שניצל למשל.</p>',
+		'107948501974366700917',
+		'יאיר קורש',
+		'2017-09-06 06:53:46'
+		)
+		;
+
