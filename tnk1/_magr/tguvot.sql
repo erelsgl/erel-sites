@@ -26012,3 +26012,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>אני חייבת עזרה לכיסוי חובות , זוג צעיר , אשמח לעזרה! 0532298634</p>',
+		'115045307770821647784',
+		'יעל ל',
+		'2017-09-06 15:01:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>שופטים יג7: &quot;וַיֹּאמֶר לִי הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וְעַתָּה אַל תִּשְׁתִּי יַיִן וְשֵׁכָר וְאַל תֹּאכְלִי כָּל טֻמְאָה כִּי נְזִיר אֱלֹהִים יִהְיֶה הַנַּעַר מִן הַבֶּטֶן עַד יוֹם מוֹתוֹ&quot;</p><p>כי אין קדושת המלאכים ביַיִן וְשֵׁכָר לכן גם נזיר קדוש אל לו לשתות יַיִן וְשֵׁכָר </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-06 16:02:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לשרית לידה קלה</p>',
+		'107223438937609713926',
+		'יורם כחלון',
+		'2017-09-06 17:49:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום</p><p>האם אתה צריך הלוואה דחופה כדי לענות על הצרכים הפיננסיים שלך? אנו מציעים הלוואות מ 2000 ל 50 000 000.00, אנחנו אמין, חזק, מהיר ודינמי, לא לבדוק אשראי ולהציע ערבות 100% עבור הלוואות חיצוניות במהלך תקופה זו.</p><p>אנחנו גם השאיל את כל המטבע עם ריבית של 2% על כל ההלוואות .... אם אתה מעוניין, לחזור אלינו עם הדוא&quot;ל הזה.</p><p>אנא חזור אלינו, אם מעוניינים, עם trustfirm2010@gmail.com</p><p>שלך תמיד,</p><p>מר אנדי קול</p><p>Trustfirm2010@gmail.com</p>',
+		'114958792241569114904',
+		'Trust Firm',
+		'2017-09-06 20:16:43'
+		)
+		;
+

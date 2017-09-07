@@ -4471,3 +4471,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/bsr_xlv.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/13_mydwt_rxmym.doc',
+				NULL,
+				'2017-09-06 10:43:41',
+				'2017-09-06 10:43:41',
+				'טבלה בקובץ טקסט על: י\"ג מידות רחמים',
+				'סימה שרייבר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-06 15:01:30'
+		WHERE ktovt_bn='tryg/ribit0/bclel.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-06 16:02:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-06 17:49:53'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-06 20:16:43'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
