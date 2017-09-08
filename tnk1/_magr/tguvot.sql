@@ -26060,3 +26060,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>תודה שאישפאתם לי לברך את שני כץ ללידה קלה ומוצלחת אמן</p>',
+		'100274285537409464323',
+		'Aliza Hirsh',
+		'2017-09-07 10:46:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-07 10:47:29' 
+			WHERE messageid=7020;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לשני כץ שתהיה לך לידה קלה ותחזרי הביתה עם ידיים מלאות בבת מתוקה בריאה ושלימה ,אמן</p>',
+		'100274285537409464323',
+		'Aliza Hirsh',
+		'2017-09-07 10:48:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>הבהרה:</p><p>כתבתי במאמר שהפרח הוא בראש הצמח ואמנם אם האדם עומד מול הצמח אז הפרח משיק לו</p><p>אבל האמת היא כי השורש הוא ראש הצמח הוא ראשית הצמח</p><p>הצמח נמצא במהופך לאדם </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-07 15:10:24'
+		)
+		;
+
