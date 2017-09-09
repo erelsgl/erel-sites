@@ -26103,3 +26103,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה בריאה ובע&quot;ה בידיים מלאות למיטל בת תקווה אמן כן יהי רצון !! </p>',
+		'104694011925947663049',
+		'מיטל קשק',
+		'2017-09-08 20:05:20'
+		)
+		;
+
