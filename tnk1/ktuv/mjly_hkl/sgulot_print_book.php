@@ -27,7 +27,7 @@ $GLOBALS['AUTOORDER'] = false;
 $edit = !empty($_GET['edit']);
 
 global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;  // in sgulot_library.pgp
-$BIG_FIELDS_ORDER = array('hqblot', 'mqorot');
+$BIG_FIELDS_ORDER = array('mqorot','hqblot');
 // $BIG_FIELDS_ORDER = array('mqorot');   $BIG_FIELDS['mqorot']['icon']='';
 $SMALL_FIELDS_ORDER = array('tirgum','mcudot');
 
