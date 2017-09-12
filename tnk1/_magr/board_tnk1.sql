@@ -4606,3 +4606,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-11 14:41:57'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-22-07.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_934.html',
+				NULL,
+				'2017-09-12 04:55:11',
+				'2017-09-12 04:55:11',
+				'פרשת ניצבים-וילך- מהי השירה הזאת?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-09-12 04:55:11'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/qdj1.html',
+				'tnk1/nvia/yjayhu/yj-29-2223.html',
+				NULL,
+				'2017-09-12 05:10:32',
+				'2017-09-12 05:10:32',
+				'יעקב יפסיק להתבייש כשילדיו יקדשו את שם ה\'',
+				'אראל',
+				''
+			)
+		;
+
