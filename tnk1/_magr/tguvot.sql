@@ -26175,3 +26175,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/rja.html',
+		'<p>שמחתי על הרעיון</p>',
+		'113518435191235517727',
+		'יאיר בן שטרית',
+		'2017-09-12 08:12:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/rja.html',
+		'<p>תהלים לט2: &quot;אָמַרְתִּי אֶשְׁמְרָה דְרָכַי מֵחֲטוֹא בִלְשׁוֹנִי אֶשְׁמְרָה לְפִי מַחְסוֹם בְּעֹד רָשָׁע לְנֶגְדִּי&quot;</p><p>אם יש רשע לנגדך אל תדבר איתו אל תעשה את התעות שעשתה חוה בדברה עם הנחש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-12 11:11:50'
+		)
+		;
+

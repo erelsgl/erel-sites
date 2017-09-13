@@ -4653,3 +4653,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-12 08:12:53'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/rja.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-12 11:11:50'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/rja.html'
+		;
+
