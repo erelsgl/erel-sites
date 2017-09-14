@@ -26199,3 +26199,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מתחננת אל הקדוש ברוך הוא רפואה שלמה לרפאל אבנר כהן בן מרים סבי היקר מכל❤️</p>',
+		'113221781006970345124',
+		'תמר כהן',
+		'2017-09-13 22:11:20'
+		)
+		;
+
