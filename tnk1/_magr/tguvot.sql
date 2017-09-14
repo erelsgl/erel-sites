@@ -26163,3 +26163,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-22-07.html',
+		'<p>מעניין</p><p></p>',
+		'117856954588857440370',
+		'hodaya',
+		'2017-09-11 14:41:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/rja.html',
+		'<p>שמחתי על הרעיון</p>',
+		'113518435191235517727',
+		'יאיר בן שטרית',
+		'2017-09-12 08:12:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/rja.html',
+		'<p>תהלים לט2: &quot;אָמַרְתִּי אֶשְׁמְרָה דְרָכַי מֵחֲטוֹא בִלְשׁוֹנִי אֶשְׁמְרָה לְפִי מַחְסוֹם בְּעֹד רָשָׁע לְנֶגְדִּי&quot;</p><p>אם יש רשע לנגדך אל תדבר איתו אל תעשה את התעות שעשתה חוה בדברה עם הנחש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-12 11:11:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מתחננת אל הקדוש ברוך הוא רפואה שלמה לרפאל אבנר כהן בן מרים סבי היקר מכל❤️</p>',
+		'113221781006970345124',
+		'תמר כהן',
+		'2017-09-13 22:11:20'
+		)
+		;
+
