@@ -26211,3 +26211,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ליפית אל בת נדיה, שתהיה לידה קלה ושנראה אותך בריאה ובידיים מלאות ושיהיו אך ורק בשורות טובות לך ולכל עם ישראל אמן ואמן.</p>',
+		'101372206490624252903',
+		'מנשה ניסים',
+		'2017-09-15 12:53:59'
+		)
+		;
+
