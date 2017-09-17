@@ -378,3 +378,71 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-29-2223.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-16 17:44:54'
+		WHERE parent='tnk1/nvia/yjayhu/yj-29-2223.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-29-2223.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-16 17:49:09'
+		WHERE parent='tnk1/nvia/yjayhu/yj-29-2223.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-09-16 17:49:16'
+			WHERE parent='tnk1/nvia/yjayhu/yj-29-2223.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yxzqel/yx-40-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-16 21:18:37'
+		WHERE parent='tnk1/nvia/yxzqel/yx-40-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-16 23:06:57'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
