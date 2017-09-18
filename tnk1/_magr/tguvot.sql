@@ -26278,3 +26278,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'113221781006970345124',
+		'תמר כהן',
+		'2017-09-17 23:31:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-17 23:31:32' 
+			WHERE messageid=7037;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_935.html',
+		'<p>יפה.</p>',
+		'115145438517118720702',
+		'RAVIT SHAHAM',
+		'2017-09-17 23:56:14'
+		)
+		;
+
