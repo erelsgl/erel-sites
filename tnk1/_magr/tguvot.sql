@@ -26309,3 +26309,67 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>בני אדם אם השפילו אותכם עד עפר ביזו אותכם ודרכו עליכם </p><p>דעו כי אלהים עשה עמכם חסד להכינכם ליום שבו ידרכו עליכם לנצח</p><p>******************* כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב *******************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-18 13:31:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0148_3.html',
+		'<p>בני אדם אם השפילו אותכם עד עפר ביזו אותכם ודרכו עליכם </p><p>דעו כי אלהים עשה עמכם חסד להכינכם ליום שבו ידרכו עליכם לנצח</p><p>******************* כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב *******************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-18 13:32:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>לא הבנתי שום דבר..</p><p></p>',
+		'110784093026328458997',
+		'רן קלנר',
+		'2017-09-18 15:10:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:52' 
+			WHERE messageid=4844;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:53' 
+			WHERE messageid=4843;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:54' 
+			WHERE messageid=4842;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:52:18' 
+			WHERE messageid=6686;
+

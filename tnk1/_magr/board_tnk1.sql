@@ -4788,3 +4788,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_935.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-18 13:31:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-18 13:32:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0148_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-18 15:10:14'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_936.html',
+				NULL,
+				'2017-09-18 18:40:33',
+				'2017-09-18 18:40:33',
+				'פרשת: האזינו- \" כי כל דרכיו משפט\"- כיצד?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-09-18 18:40:33'
+			WHERE ktovt_bn='tnk1/forums.html';
+
