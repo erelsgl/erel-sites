@@ -26373,3 +26373,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-09-19 04:52:18' 
 			WHERE messageid=6686;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>רן קלנר ------  שאל נא מה לא הבנת ואענה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-19 12:49:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/xtuna.html',
+		'<p>לא מכיר אף אחד שמצא אישה ובאמת מאמין שמצא טוב!!!</p>',
+		'115493702506390842919',
+		'Shimon Bidoussa',
+		'2017-09-19 19:39:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 20:11:01' 
+			WHERE messageid=7043;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p></p><p>החיים זה כמו משחק שש-בש</p><p>צריך גם שכל וגם מזל בקוביות כדי לגבור במערכה</p><p>ובמשחק אני מוכן לוותר על המזל כדי להתמודד עם אתגרים קשים </p><p>ולאמץ כמה שיותר את השכל במשחק</p><p>ואתה אחי אל תאמץ את השכל חינם כי אם רק בהתאם לקוביות המזל</p><p>וכל פעם שנופלת קוביית המזל תכנן מחדש את צעדיך</p><p>בהצלחה אחי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-20 07:49:02'
+		)
+		;
+

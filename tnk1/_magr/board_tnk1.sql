@@ -4835,3 +4835,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-09-18 18:40:33'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-19 12:49:00'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_bny_eli_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-19 19:39:36'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/xtuna.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_937.html',
+				NULL,
+				'2017-09-19 19:44:11',
+				'2017-09-19 19:44:11',
+				'משפט אלוקי/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-09-19 19:44:11'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-20 07:49:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
