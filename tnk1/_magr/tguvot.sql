@@ -26440,3 +26440,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0325_2.html',
+		'<p>שנת השמיטה = שנת השבע</p><p>----------------------------------------</p><p>שנת השבע הראשונה = שנה 8</p><p>שנת השבע השנייה    = שנה 15</p><p>שנת השבע השלשית  = שנה 22</p><p>שנת השבע הרבעית   = שנה 29</p><p>שנת השבע החמשית  = שנה 36</p><p>שנת השבע הששית    = שנה 43</p><p>שנת השבע השבעית   = שנה 50 שנת היובל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-21 10:26:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>אותיות נכה = כהנ = כהן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-21 17:47:28'
+		)
+		;
+

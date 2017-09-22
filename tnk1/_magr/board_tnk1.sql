@@ -4921,3 +4921,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/mi-03-0507.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-21 10:26:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-21 17:47:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1066_1.html'
+		;
+
