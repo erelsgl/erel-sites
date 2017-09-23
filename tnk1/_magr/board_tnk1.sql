@@ -4937,3 +4937,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1066_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/dwd_ajr_nsgr_bjnt_18_lyajyhw.pdf',
+				NULL,
+				'2017-09-22 15:36:42',
+				'2017-09-22 15:36:42',
+				'מעגל דוד אשר נסגר בשנת 18 ליאשיהו',
+				'רמי ניר  ',
+				''
+			)
+		;
+
