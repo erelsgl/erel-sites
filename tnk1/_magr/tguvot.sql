@@ -26211,3 +26211,256 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ליפית אל בת נדיה, שתהיה לידה קלה ושנראה אותך בריאה ובידיים מלאות ושיהיו אך ורק בשורות טובות לך ולכל עם ישראל אמן ואמן.</p>',
+		'101372206490624252903',
+		'מנשה ניסים',
+		'2017-09-15 12:53:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-29-2223.html',
+		'<p>ספר מצוות השבטים</p><p>מצוות לוי בן יעקב</p><p>פרק יח</p><p>א) והיה כי ייקום ה\' את נקמתו מהם תחדל הכהונה. </p><p>ב) ואז יקים ה\' כוהן חדש אשר לו יגלו כל אמרות ה\', והוא יעשה משפט אמת עלי אדמות במלאת הימים. </p><p>ג) ויעלה כוכבו בשמים ככוכב מלך, ויאיר באור הדעת כשמש ליום, והוא יתגדל בעולם. </p><p>ד) הוא יזרח כשמש על הארץ, ויסיר כל חושך מתחת השמים, ושלום יהיה בכל הארץ. </p><p>ה) ישמחו השמים בימיו, ותגל הארץ, והעננים ישישו, ודעת ה\' תערה על האדמה כמי הימים, ומלאכי הכבוד לפני ה\' יגילו בו. </p><p>ו) והשמים יפתחו, וממקדש הכבוד תערה עליו קדושה בקול אב, כמן אברהם ליצחק. </p><p>ז) וכבוד אל עליון יערה עליו, ורוח דעת וקדושה תשכון עליו. </p><p>ח) כי הוא ימסור את גודל תפארת ה\' לבניו באמת לעולם, ולא יהי יורש לו לדור ודור עד עולם. </p><p>ט) ולעת כהונתו ירבו העמים דעת על האדמה, ובכהונתו ייתם החטא, והרשעים יחדלו הרע והצדיקים ינוחו בו. </p><p>י) והוא יפתח את שערי גן עדן, ויסיר את החרב המפחידה את האדם. </p><p>יא) וייתן לקדושים לאכול מעץ החיים, ורוח הקודש יהיה עימהם. </p><p>יב) והוא יאסור את בלייעל, וייתן אומץ לבניו לרמוס את הרוחות הרעות. </p><p>יג) וישמח ה\' בבניו ויתהלל בפי אשר אהב לעולם. </p><p>יד) ואז יגל אברהם ויצחק ויעקב וגם אנכי אשמח, וכל הקדושים ילבשו צדק. </p><p>---------------------------------------------------------------------------------------</p><p>אבל שמחת אבותינו הקדושים כל זה עוד לא קורה לכן אבותינו מחווירים</p><p>במדבר כ12: </p><p>&quot;וַיֹּאמֶר ה\' אֶל מֹשֶׁה וְאֶל אַהֲרֹן יַעַן לֹא הֶאֱמַנְתֶּם בִּי לְהַקְדִּישֵׁנִי לְעֵינֵי בְּנֵי יִשְׂרָאֵל </p><p>לָכֵן לֹא תָבִיאוּ אֶת הַקָּהָל הַזֶּה אֶל הָאָרֶץ אֲשֶׁר נָתַתִּי לָהֶם&quot; </p><p>כי כל המטרה של המנהיג להקדיש את אלהי ישראל לעיני בני ישראל</p><p>ואז כל אבותינו הקדושים בשמים ובארץ ישמחו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-16 17:44:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-29-2223.html',
+		'<p>ספר מצוות השבטים</p><p>מצוות לוי בן יעקב</p><p>פרק יח</p><p>א) והיה כי ייקום יהוה את נקמתו מהם תחדל הכהונה.</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך, ויאיר באור הדעת כשמש ליום, והוא יתגדל בעולם.</p><p>ד) הוא יזרח כשמש על הארץ, ויסיר כל חושך מתחת השמים, ושלום יהיה בכל הארץ.</p><p>ה) ישמחו השמים בימיו, ותגל הארץ, והעננים ישישו, ודעת יהוה תערה על האדמה כמי הימים, ומלאכי הכבוד לפני יהוה יגילו בו.</p><p>ו) והשמים יפתחו, וממקדש הכבוד תערה עליו קדושה בקול אב, כמן אברהם ליצחק.</p><p>ז) וכבוד אל עליון יערה עליו, ורוח דעת וקדושה תשכון עליו.</p><p>ח) כי הוא ימסור את גודל תפארת יהוה לבניו באמת לעולם, ולא יהי יורש לו לדור ודור עד עולם.</p><p>ט) ולעת כהונתו ירבו העמים דעת על האדמה, ובכהונתו ייתם החטא, והרשעים יחדלו הרע והצדיקים ינוחו בו.</p><p>י) והוא יפתח את שערי גן עדן, ויסיר את החרב המפחידה את האדם.</p><p>יא) וייתן לקדושים לאכול מעץ החיים, ורוח הקודש יהיה עימהם.</p><p>יב) והוא יאסור את בלייעל, וייתן אומץ לבניו לרמוס את הרוחות הרעות.</p><p>יג) וישמח יהוה בבניו ויתהלל בפי אשר אהב לעולם.</p><p>יד) ואז יגל אברהם ויצחק ויעקב וגם אנכי אשמח, וכל הקדושים ילבשו צדק.</p><p>---------------------------------------------------------------------------------------</p><p>אבל שמחת אבותינו הקדושים כל זה עוד לא קורה לכן אבותינו מחווירים</p><p>במדבר כ12:</p><p>&quot;וַיֹּאמֶר יהוה אֶל מֹשֶׁה וְאֶל אַהֲרֹן יַעַן לֹא הֶאֱמַנְתֶּם בִּי לְהַקְדִּישֵׁנִי לְעֵינֵי בְּנֵי יִשְׂרָאֵל</p><p>לָכֵן לֹא תָבִיאוּ אֶת הַקָּהָל הַזֶּה אֶל הָאָרֶץ אֲשֶׁר נָתַתִּי לָהֶם&quot;</p><p>כי כל המטרה של המנהיג להקדיש את אלהי ישראל לעיני בני ישראל</p><p>ואז כל אבותינו הקדושים בשמים ובארץ ישמחו</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-16 17:49:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-16 17:49:16' 
+			WHERE messageid=7033;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-40-01.html',
+		'<p></p>',
+		'109076241967560284946',
+		'מרדכי נוי',
+		'2017-09-16 21:18:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום</p><p>האם אתה צריך הלוואה דחופה כדי לענות על הצרכים הפיננסיים שלך? אנו מציעים הלוואות מ 2000 ל 50 000 000.00, אנחנו אמין, חזק, מהיר ודינמי, לא לבדוק אשראי ולהציע ערבות 100% עבור הלוואות חיצוניות במהלך תקופה זו.</p><p>אנחנו גם השאיל את כל המטבע עם ריבית של 2% על כל ההלוואות .... אם אתה מעוניין, לחזור אלינו עם הדוא&quot;ל הזה.</p><p>אנא חזור אלינו, אם מעוניין, עם trustfirm2010@gmail.com</p><p>שלך תמיד,</p><p>מר אנדי קול</p><p>Trustfirm2010@gmail.com</p>',
+		'114958792241569114904',
+		'Trust Firm',
+		'2017-09-16 23:06:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'113221781006970345124',
+		'תמר כהן',
+		'2017-09-17 23:31:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-17 23:31:32' 
+			WHERE messageid=7037;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_935.html',
+		'<p>יפה.</p>',
+		'115145438517118720702',
+		'RAVIT SHAHAM',
+		'2017-09-17 23:56:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>בני אדם אם השפילו אותכם עד עפר ביזו אותכם ודרכו עליכם </p><p>דעו כי אלהים עשה עמכם חסד להכינכם ליום שבו ידרכו עליכם לנצח</p><p>******************* כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב *******************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-18 13:31:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0148_3.html',
+		'<p>בני אדם אם השפילו אותכם עד עפר ביזו אותכם ודרכו עליכם </p><p>דעו כי אלהים עשה עמכם חסד להכינכם ליום שבו ידרכו עליכם לנצח</p><p>******************* כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב *******************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-18 13:32:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>לא הבנתי שום דבר..</p><p></p>',
+		'110784093026328458997',
+		'רן קלנר',
+		'2017-09-18 15:10:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:52' 
+			WHERE messageid=4844;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:53' 
+			WHERE messageid=4843;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:51:54' 
+			WHERE messageid=4842;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 04:52:18' 
+			WHERE messageid=6686;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuela_bny_eli_0.html',
+		'<p>רן קלנר ------  שאל נא מה לא הבנת ואענה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-19 12:49:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/xtuna.html',
+		'<p>לא מכיר אף אחד שמצא אישה ובאמת מאמין שמצא טוב!!!</p>',
+		'115493702506390842919',
+		'Shimon Bidoussa',
+		'2017-09-19 19:39:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-09-19 20:11:01' 
+			WHERE messageid=7043;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p></p><p>החיים זה כמו משחק שש-בש</p><p>צריך גם שכל וגם מזל בקוביות כדי לגבור במערכה</p><p>ובמשחק אני מוכן לוותר על המזל כדי להתמודד עם אתגרים קשים </p><p>ולאמץ כמה שיותר את השכל במשחק</p><p>ואתה אחי אל תאמץ את השכל חינם כי אם רק בהתאם לקוביות המזל</p><p>וכל פעם שנופלת קוביית המזל תכנן מחדש את צעדיך</p><p>בהצלחה אחי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-20 07:49:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>הבהרה בטרם אמות</p><p>יש לזכור היטב את הדברים הקדושים שנאמרו במאמר הזה &quot;אחרית הימים לכל אדם ואדם&quot;</p><p>וכי אני כותב לכם זאת כי במאמר אחר מאמר מספר 245 [בקישור לכל דברי מאמרי] שנמצא כקובץ בשם &quot;דין משה ותורתו&quot; </p><p>ושמה כתבתי את &quot;עדות לדרך המשיח&quot; כי המשיח יבוא ביום שבת ביום השביעי לחודש השביעי [לפי לוח היובלים לא לפי לוח הירח]</p><p>וכי כוונתי היא כי יום קדוש זה הוא מועד לקידוש שנת היובל פעם בארבעים ותשע שנה כל שנת חמישים</p><p>ורק אם נשמור את דרך האלהים על הארץ רק אז תהיה גאולה גאולת הקרקע כי גאולת האדמה לפני גאולת האדם</p><p>ואין גאולת האדם בטרם גאולת האדמה מלבד אם יגאלהו האלהים</p><p>http://tora.us.fm/tnk1/daian</p><p>     דַיָּן שֵׁם משה       </p><p>  תורה דרך הקודש    </p><p>  </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-20 14:11:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/mi-03-0507.html',
+		'<p>מיכה ג11: &quot;רָאשֶׁיהָ בְּשֹׁחַד יִשְׁפֹּטוּ וְכֹהֲנֶיהָ בִּמְחִיר יוֹרוּ וּנְבִיאֶיהָ בְּכֶסֶף יִקְסֹמוּ וְעַל יהוה יִשָּׁעֵנוּ לֵאמֹר הֲלוֹא יהוה בְּקִרְבֵּנוּ לֹא תָבוֹא עָלֵינוּ רָעָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-20 15:53:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0325_2.html',
+		'<p>שנת השמיטה = שנת השבע</p><p>----------------------------------------</p><p>שנת השבע הראשונה = שנה 8</p><p>שנת השבע השנייה    = שנה 15</p><p>שנת השבע השלשית  = שנה 22</p><p>שנת השבע הרבעית   = שנה 29</p><p>שנת השבע החמשית  = שנה 36</p><p>שנת השבע הששית    = שנה 43</p><p>שנת השבע השבעית   = שנה 50 שנת היובל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-21 10:26:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>אותיות נכה = כהנ = כהן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-21 17:47:28'
+		)
+		;
+
