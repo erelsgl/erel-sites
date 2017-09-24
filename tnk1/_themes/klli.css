@@ -931,3 +931,33 @@ table.inner_navigation { width:100%; background-color:#cfc; border:#080 solid;}
 		table.inner_navigation td.next {text-align: left; width:33%;}
 
 
+/* SGULOT */
+
+.gate .verse .verse_text { font-size: 96px; }
+body.tirgum .page {height:auto}
+table.tirgum td { border-style:dotted; border-color:#888; border-width: 1px 0; padding:0 6px; }
+	table.tirgum .verse_text {font-size: 15px; text-align:right; border-left:1px dashed}
+	table.tirgum .verse_number { padding:0; margin:0; letter-spacing:0; font-size:10px; text-align:center; border-right:1px dashed; }
+	table.tirgum .tirgum     {font-size: 15px}
+	table.tirgum th     {text-align:center;}
+
+/* 19 = 4.8 + 0.2 + 7*2 */
+/* 27.6 = 4.8 + 0.2 + 11.6*2 */
+body.tirgum .page {width: 190mm; }
+body.tirgum td.verse_text {width: 48mm;}
+body.tirgum td.verse_number {width: 2mm;}
+body.tirgum td.tirgum     {width: 70mm;}
+.verse { background:#ccc; text-align:center; margin-top: 1em; margin-bottom:.3em}
+	.verse_text {font-size: 22px; font-weight: normal; letter-spacing: 1px; text-align:center; }
+	.verse_text { font-family: "Stam Ashkenaz CLM"; color: #000; }
+	.verse_number {font-size: 11px; color: #888; padding-right: 1em; }
+.cell  {display: table-row; }
+	.tirgum, .tirgum .subtitle {background-color:#cfc; }
+	.tirgum .subtitle {/*display:none*/}
+	.mcudot, .mcudot .subtitle {background-color:#fdc; }
+	.mcudot .subtitle {/*display:none*/}
+	.tirgum, .mcudot  {/*width:50%*/ border-left: solid 5px white; border-right: solid 5px white}
+.short { display:table-row; border-top: none 1px black; background:white; }
+	.mcudot { display:table-cell; padding: 10px 10px 10px 20px; font-family:'David CLM';  font-size: 20px; }
+	.tirgum { display:table-cell; padding: 10px 10px 10px 10px; font-family:'Yehuda CLM'; font-size: 19px; }
+
