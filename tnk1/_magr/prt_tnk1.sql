@@ -387,3 +387,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = '\'חזון אחרית הימים\' ב - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2017-08-21 05:09:41' WHERE `qod` = '\'חזון אחרית הימים\' ב - אהובה קליין' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'קדרים (רמו)', `tarik_hosfa` = '2017-09-24 06:34:43' WHERE `qod` = 'קדר' AND 1 LIMIT 1;
+

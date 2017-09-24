@@ -334,3 +334,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('דוד לעומת שלמה - תהלים לעומת משלי', 'ביאור:משלי א30', 'ישראל לא אבה לי - הכסילים לא אבו לעצתי', '', 10, 60, '2016-03-12 18:07:12');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-09-24 06:24:26' WHERE `av` = 'עוני בספר משלי' AND `bn` = 'דל מרעהו ייפרד - כל אחי רש שנאוהו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_tnk1_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-09-24 06:24:33' WHERE `av` = 'פרטי אזורים' AND `bn` = 'ערי הלויים - ספר יהושע לעומת דברי הימים' AND 1 LIMIT 1;
+

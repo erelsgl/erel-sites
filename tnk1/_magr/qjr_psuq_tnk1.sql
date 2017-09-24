@@ -258,3 +258,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הסכם לקנות, לשלם בכסף ובמאמץ כדי ללמוד דברי אמת;   אולם אל תנסה למכור - להפיק רווח מדברי חכמה, מוסר ובינה, אלא למד אחרים בחינם.', `tarik_hosfa` = '2017-06-16 07:54:36' WHERE `bn` = 'ביאור:משלי כג23' AND `sfr` = 'משל' AND `prq0` = 'כג' AND `psuq0` = 23 AND `sug` = 'תרגום' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2017-09-24 06:36:00' WHERE `bn` = 'ביאור:בראשית א9' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-09-24 06:36:00' WHERE `bn` = 'ביאור:בראשית א9' AND `sfr` = 'תהל' AND `prq0` = 'קד' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+

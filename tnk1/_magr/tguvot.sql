@@ -26464,3 +26464,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0531_1.html',
+		'<p>ספר ירמיהו פרק יח כתוב:</p><p>(יח) וַיֹּאמְרוּ לְכוּ וְנַחְשְׁבָה עַל יִרְמְיָהוּ מַחֲשָׁבוֹת כִּי לֹא תֹאבַד תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא לְכוּ וְנַכֵּהוּ בַלָּשׁוֹן וְאַל נַקְשִׁיבָה אֶל כָּל דְּבָרָיו.</p><p>ספר יחזקאל פרק ז כתוב:</p><p>(כו) הֹוָה עַל הֹוָה תָּבוֹא וּשְׁמֻעָה אֶל שְׁמוּעָה תִּהְיֶה, וּבִקְשׁוּ חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא=</p><p>חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>אז ככה:</p><p>תּוֹרָה מִכֹּהֵן = תּוֹרָה מִכֹּהֵן</p><p>חָזוֹן מִנָּבִיא = וְדָבָר מִנָּבִיא</p><p>וְעֵצָה מִזְּקֵנִים = וְעֵצָה מֵחָכָם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-24 04:08:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-104-09.html',
+		'<p>יש הרבה מקומות ביבשה שנמצאים מתחת לגובה פני הים:</p><p>http://geology.com/below-sea-level/</p><p>יש מספיק מים באוקיינוס כדי להציף את כולם:</p><p>https://mountainmystery.com/2015/08/17/hiding-rising-seas-in-sunken-deserts/</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-24 06:16:41'
+		)
+		;
+
