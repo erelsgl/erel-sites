@@ -704,3 +704,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/thlim/th-104-09.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/klli/mdrjim/roj_hjna.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-24 11:39:54'
+		WHERE parent='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_6.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-25 05:09:46'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+

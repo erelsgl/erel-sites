@@ -5309,3 +5309,19 @@ UPDATE board_tnk1
 			SET sdr_bn=111
 			WHERE ktovt_bn='tnk1/ktuv/thlim/th-104-09.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-24 11:39:54'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-09-25 05:09:46'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+

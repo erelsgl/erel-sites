@@ -26488,3 +26488,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/roj_hjna.html',
+		'<p></p>',
+		'104425091576708343416',
+		'Clash with Ori',
+		'2017-09-24 11:39:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p> נא  להתפלל על  אחי היקר , אליהו בן סולטנה  . לרפואה שלמה , הוא זקוק לרחמי שמים מרובים .ושבע&quot;ה  נתבשר בבשורות טובות . אמן.</p>',
+		'101737574019660768566',
+		'חנה ואקיל',
+		'2017-09-25 05:09:46'
+		)
+		;
+
