@@ -26596,3 +26596,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>אראל אינני חושב כמוך בעניין זה</p><p>שים לב כי בתורה כתוב במפורש וְלָאָרֶץ לֹא יְכֻפַּר לַדָּם אֲשֶׁר שֻׁפַּךְ בָּהּ כִּי אִם בְּדַם שֹׁפְכוֹ</p><p>כעת אם היה כתוב בתורה &quot;להמית&quot; את הרוצח אז היינו דנים אם פירושך נכון או לא ומה הכוונה למילה מוות</p><p>אך כתוב כי יש לשפוך את דם הרוצח ולא מדובר על מות וירטואלי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-26 10:35:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>אראל הרעיון שלך על עונש מוות ווירטואלי פשוט גאוני, כל כך הגיוני וצודק וכל כולי מזדהה עימו. גמר חתימה טובה ידידי.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2017-09-26 14:52:23'
+		)
+		;
+
