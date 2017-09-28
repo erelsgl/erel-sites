@@ -26488,3 +26488,183 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/roj_hjna.html',
+		'<p></p>',
+		'104425091576708343416',
+		'Clash with Ori',
+		'2017-09-24 11:39:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p> נא  להתפלל על  אחי היקר , אליהו בן סולטנה  . לרפואה שלמה , הוא זקוק לרחמי שמים מרובים .ושבע&quot;ה  נתבשר בבשורות טובות . אמן.</p>',
+		'101737574019660768566',
+		'חנה ואקיל',
+		'2017-09-25 05:09:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/agla.html',
+		'<p>הִנֵּה אָנֹכִי מֵעִיק תַּחְתֵּיכֶם כַּאֲשֶׁר תָּעִיק הָעֲגָלָה הַמְלֵאָה לָהּ עָמִיר</p><p>מעיק = מכביד ולמה עומרים ולא אבנים? משום שגם כשמכביד ידו על ישראל, מזין אותם ולא מכלה אותם.</p><p>עיק عيكط בערבית זה ללוש. מהעומרים עושים קמח אותו יש ללוש. </p><p>תחתיכם זה במקומכם. כאומר אני נותן לחמכם.</p><p>כאשר תעיק, אמור כאשר תעניק הָעֲגָלָה הַמְלֵאָה לָהּ עָמִיר. למה הוסיף לה. והיה לו לומר,  הָעֲגָלָה הַמְלֵאָה עָמִיר. </p><p>לה בא לומר, גם כשאתם גודשים סאה. מעל לדי לה. כל שנופל ממנה [عك = הפיך]</p><p>כלומר אפשר לתקן</p><p></p>',
+		'115909296078476044441',
+		'משה חזן',
+		'2017-09-25 08:20:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה בריאה ובע&quot;ה בידיים מלאות לעינת בת אסתר אמן כן יהי רצון !!</p>',
+		'111196174784664757104',
+		'אביאור שחר',
+		'2017-09-25 12:42:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_9.html',
+		'<p>הקשר שבין</p><p>דעת = אהבה = מות</p><p>כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים = וְעַל כָּל פְּשָׁעִים תְּכַסֶּה אַהֲבָה = כִּי עַזָּה כַמָּוֶת אַהֲבָה</p><p>כשאני אוהב אשה אני יודע אותה אני מת עליה</p><p>כשאני אוהב אלהים אני יודע את אלהים אני מת עליו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-25 16:24:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>ספר צוואת השבטים --- מצוות לוי בן יעקב</p><p>פרק יא</p><p>א) ואקח לי אישה ואני בן שמונה ועשרים שנה ושמה מלכה. </p><p>ב) ותהר ותלד בן ואקרא שמו גרשם כי גרים היינו בארצנו. </p><p>ג) ואדע כי הוא לא יהיה במערכת הראשונה. </p><p>ד) ובשנת חמש ושלושים לחיי נולד קהת לעת עלות השמש. </p><p>ה) ואראה בחלומי והנה הוא עומד במעלה בתוך כל הקהל. </p><p>ו) על כן קראתי שמו קהת כי הוא ראשית התפארת והקהילה. </p><p>ז) ותלד לי בן שלישי את מררי בשנת ארבעים לחיי. ויהי בהקשות אמו בלדתה ואקרא שמו מררי לאמור מרתי כי גם הוא נטה למות. </p><p>---</p><p>מדוע כל בני לוי נטו למות</p><p>כי יש קשר משולש בין -------- מוות =דעת = אהבה</p><p>הקשר שבין</p><p>דעת = אהבה = מות</p><p>כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים = וְעַל כָּל פְּשָׁעִים תְּכַסֶּה אַהֲבָה = כִּי עַזָּה כַמָּוֶת אַהֲבָה</p><p>כשאני אוהב אשה אני יודע אותה אני מת עליה</p><p>כשאני אוהב אלהים אני יודע את אלהים אני מת עליו</p><p>וכל בני לוי ידעו דעת אלהים אהבו את אלהים אהבה עד מות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-25 17:15:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>במדבר לה33: &quot;וְלֹא תַחֲנִיפוּ אֶת הָאָרֶץ אֲשֶׁר אַתֶּם בָּהּ כִּי הַדָּם הוּא יַחֲנִיף אֶת הָאָרֶץ וְלָאָרֶץ לֹא יְכֻפַּר לַדָּם אֲשֶׁר שֻׁפַּךְ בָּהּ כִּי אִם בְּדַם שֹׁפְכוֹ&quot; </p><p>הנה מצוה מפורשת לשפוך את דמו של הרוצח במזיד בזדון </p><p>אך לדאבוני בגלל שבמדינת ישראל כיום אין עונש מות לרוצחים אז הדם מחניף את הארץ</p><p>לכן יש לחקק גזר דין מות על כל רוצח בזדון ולא משנה מה הרקע לאומני או פלילי או כל סוג אחר</p><p>יש לשפוך אאת דם הרוצח בזדון בין אם הוא מחבל טרוריסט ערבי או בין אם הוא יהודי שרוצח בזדון מכל סיבה שהיא </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-26 04:36:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מי שיכול ורוצה, נא להתפלל על אחותי היקרה אושרת בת שרה לרפואה שלמה ושבעזרת השם נתבשר בבשורות טובות. אמן.</p>',
+		'111671838157255365247',
+		'סימה מוטיעי',
+		'2017-09-26 05:19:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>לענ&quot;ד, הסיבה העיקרית שאנשים בישראל רוצים עונש מוות בימינו היא המצב המעוות שבו רוצחים יושבים בכלא בתנאי בית-מלון, ואז משתחררים מוקדם מסיבות פוליטיות ומסתובבים חופשיים.</p><p>ייתכן שהיה ראוי לקבוע &quot;עונש מוות וירטואלי&quot; - אדם יושב בכלא, אבל לכל מטרה מעשית הוא נחשב כמת: אין לו זכות לצאת או ללמוד או לדבר עם אנשים אחרים, וודאי שאין לו זכות להשתחרר מכל סיבה שהיא.  כמו שהנרצח לא יכול לחזור לחיים - כך גם הרוצח לא יכול לחזור להיות אדם חופשי.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-26 05:27:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>אראל אינני חושב כמוך בעניין זה</p><p>שים לב כי בתורה כתוב במפורש וְלָאָרֶץ לֹא יְכֻפַּר לַדָּם אֲשֶׁר שֻׁפַּךְ בָּהּ כִּי אִם בְּדַם שֹׁפְכוֹ</p><p>כעת אם היה כתוב בתורה &quot;להמית&quot; את הרוצח אז היינו דנים אם פירושך נכון או לא ומה הכוונה למילה מוות</p><p>אך כתוב כי יש לשפוך את דם הרוצח ולא מדובר על מות וירטואלי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-26 10:35:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>אראל הרעיון שלך על עונש מוות ווירטואלי פשוט גאוני, כל כך הגיוני וצודק וכל כולי מזדהה עימו. גמר חתימה טובה ידידי.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2017-09-26 14:52:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>תודה רבה רבה לך עכשיו אני מוכנה ומזומנה למבחן תודה רבה רבה רבה לך!!!!!!!!!!!!!!</p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:36:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>כל הכבוד באמת!</p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:37:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>עם היה לי פייסבוק הייתי מסמנת לייק רק שתדעי לך</p><p></p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:38:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>ראה באונקלוס כי משמעות המילה לְקִדּוּשׁ = לרחצה</p><p>בפרשת פקודי בספר שמות פרק מ פסוק ל\' כתוב:לקידוש=לרחצה</p><p>וְשַׁוִּי, יָת כִּיּוֹרָא, בֵּין מַשְׁכַּן זִמְנָא, וּבֵין מַדְבְּחָא; וִיהַב תַּמָּן מַיָּא, לְקִדּוּשׁ.</p><p>[תרגום] וַיָּשֶׂם, אֶת-הַכִּיֹּר, בֵּין-אֹהֶל מוֹעֵד, וּבֵין הַמִּזְבֵּחַ; וַיִּתֵּן שָׁמָּה מַיִם, לְרָחְצָה.</p><p>---</p><p>לכן כשאתה מתרחץ אתה מתקדש</p><p>שמות יט14: &quot;וַיֵּרֶד מֹשֶׁה מִן הָהָר אֶל הָעָם וַיְקַדֵּשׁ אֶת הָעָם וַיְכַבְּסוּ שִׂמְלֹתָם&quot;</p><p>ויקדש את העם = הורה להם להתרחץ [וגם לכבס את בגדיהם]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-28 03:37:11'
+		)
+		;
+
