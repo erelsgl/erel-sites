@@ -26620,3 +26620,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>תודה רבה רבה לך עכשיו אני מוכנה ומזומנה למבחן תודה רבה רבה רבה לך!!!!!!!!!!!!!!</p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:36:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>כל הכבוד באמת!</p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:37:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>עם היה לי פייסבוק הייתי מסמנת לייק רק שתדעי לך</p><p></p>',
+		'116414832366811370062',
+		'adi & noam',
+		'2017-09-27 12:38:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0523_0.html',
+		'<p>ראה באונקלוס כי משמעות המילה לְקִדּוּשׁ = לרחצה</p><p>בפרשת פקודי בספר שמות פרק מ פסוק ל\' כתוב:לקידוש=לרחצה</p><p>וְשַׁוִּי, יָת כִּיּוֹרָא, בֵּין מַשְׁכַּן זִמְנָא, וּבֵין מַדְבְּחָא; וִיהַב תַּמָּן מַיָּא, לְקִדּוּשׁ.</p><p>[תרגום] וַיָּשֶׂם, אֶת-הַכִּיֹּר, בֵּין-אֹהֶל מוֹעֵד, וּבֵין הַמִּזְבֵּחַ; וַיִּתֵּן שָׁמָּה מַיִם, לְרָחְצָה.</p><p>---</p><p>לכן כשאתה מתרחץ אתה מתקדש</p><p>שמות יט14: &quot;וַיֵּרֶד מֹשֶׁה מִן הָהָר אֶל הָעָם וַיְקַדֵּשׁ אֶת הָעָם וַיְכַבְּסוּ שִׂמְלֹתָם&quot;</p><p>ויקדש את העם = הורה להם להתרחץ [וגם לכבס את בגדיהם]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-28 03:37:11'
+		)
+		;
+

@@ -869,3 +869,63 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/brejit/br-09-06.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuela/bny_eli.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-27 12:36:35'
+		WHERE parent='tnk1/nvir/jmuela/bny_eli.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuela/bny_eli.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-27 12:37:39'
+		WHERE parent='tnk1/nvir/jmuela/bny_eli.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuela/bny_eli.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-27 12:38:18'
+		WHERE parent='tnk1/nvir/jmuela/bny_eli.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0523_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-09-28 03:37:11'
+		WHERE parent='tnk1/messages/prqim_t0523_0.html'
+		;
+
