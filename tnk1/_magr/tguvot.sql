@@ -26668,3 +26668,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>אני מורה הצדק [זה ממגילות קומראן]</p><p>ידעתי בקודש את כל ספרי המקרא והמגילות הגנוזות </p><p>ובקישור הזה בארתי לכם את כתבי הקודש</p><p>http://tora.us.fm/tnk1/daian</p><p>     דַיָּן שֵׁם משה       </p><p>  תורה דרך הקודש    </p><p>  </p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-09-30 17:49:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-09-06.html',
+		'<p>הפירוש שלך נכון, אבל איך תמנע את הסכנה שהשופטים בעצמם יהפכו להיות שופכי-דמים? הרי אם השופטים לא כשרים, הם עלולים להוציא להורג אנשים חפים מפשע!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-09-30 18:16:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה למירב בת יעל נמצאת עכשו בחדר לידה &quot;</p><p></p>',
+		'112103679765455140950',
+		'יעל לנקרי',
+		'2017-09-30 20:37:11'
+		)
+		;
+
