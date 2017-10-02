@@ -26704,3 +26704,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0148_3.html',
+		'<p>הקשר המשולש בין</p><p>דעת = אהבה = מות</p><p>1.כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים = </p><p>2.וְעַל כָּל פְּשָׁעִים תְּכַסֶּה אַהֲבָה = 3. כִּי עַזָּה כַמָּוֶת אַהֲבָה</p><p>כשאני אוהב אשה אני יודע אותה אני מת עליה</p><p>כשאני אוהב אלהים אני יודע את אלהים אני מת עליו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-01 16:43:05'
+		)
+		;
+
