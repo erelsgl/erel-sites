@@ -5539,3 +5539,74 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0148_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-02 16:14:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-02 17:06:18'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-06.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/prc1.html',
+				'tnk1/tora/brejit/br-28-14.html',
+				NULL,
+				'2017-10-02 19:06:22',
+				'2017-10-02 19:06:22',
+				'ופרצת ימה וקדמה צפונה ונגבה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-02 20:24:16'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-28-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_940.html',
+				NULL,
+				'2017-10-03 05:11:31',
+				'2017-10-03 05:11:31',
+				'  מצוות הקהל- מהי ומה מטרתה?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-10-03 05:11:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-04 04:51:54'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-01-0506.html'
+		;
+
