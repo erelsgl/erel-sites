@@ -26838,3 +26838,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>ספר בראשית פרק ג כתוב:</p><p>בראשית ג23: &quot;וַיְשַׁלְּחֵהוּ יהוה אֱלֹהִים מִגַּן עֵדֶן ***לַעֲבֹד*** אֶת הָאֲדָמָה אֲשֶׁר לֻקַּח מִשָּׁם&quot;</p><p>וללא ניקוד :כג: וישלחהו יהוה אלהים מגן עדן ***לעבד*** את האדמה אשר לקח משם</p><p>וכדי לעבד את האדמה תחילה יש לחרוש ולזרוע על כן אלה ימי חג-הסכות בתם הקיית [קייץ] וראשית החורף</p><p>ומאז תחל שנת האדמה השמיטה והיובל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-07 16:19:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>עמוס ט11: &quot;בַּיּוֹם הַהוּא אָקִים אֶת סֻכַּת דָּוִיד הַנֹּפֶלֶת וְגָדַרְתִּי אֶת פִּרְצֵיהֶן וַהֲרִסֹתָיו אָקִים וּבְנִיתִיהָ כִּימֵי עוֹלָם&quot;</p><p>עמוס ט11: &quot;בַּיּוֹם הַהוּא אָקִים אֶת סֻכַּת דָּוִיד [כי מועד המשיח והגאולה בחג-הסכות]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-07 16:20:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים קד15: &quot;וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ לְהַצְהִיל פָּנִים מִשָּׁמֶן וְלֶחֶם לְבַב אֱנוֹשׁ יִסְעָד&quot;</p><p>כתוב בקודש : &quot;וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ ....רק שיהיה לכם לב למען תשמחו ביין </p><p>ואם אין לב איכה יעזור היין ?????????????????????????????????</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-07 16:45:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים קד15: &quot;וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ לְהַצְהִיל פָּנִים מִשָּׁמֶן וְלֶחֶם לְבַב אֱנוֹשׁ יִסְעָד&quot;</p><p>קהלת י19: &quot;לִשְׂחוֹק עֹשִׂים לֶחֶם וְיַיִן יְשַׂמַּח חַיִּים וְהַכֶּסֶף יַעֲנֶה אֶת הַכֹּל&quot;</p><p>******* וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ =  וְיַיִן יְשַׂמַּח חַיִּים *******</p><p>על כן ................לבב אנוש = חיים</p><p>משלי ד23: &quot;מִכָּל מִשְׁמָר נְצֹר לִבֶּךָ כִּי מִמֶּנּוּ תּוֹצְאוֹת חַיִּים&quot; </p><p>------------------------------------------------------------------------------------------</p><p>תהלים קד15: &quot;וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ לְהַצְהִיל פָּנִים מִשָּׁמֶן וְלֶחֶם לְבַב אֱנוֹשׁ יִסְעָד&quot;</p><p>כתוב בקודש : &quot;וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ ....רק שיהיה לכם לב למען תשמחו ביין</p><p>ואם אין לב איכה יעזור היין ?????????????????????????????????</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-07 17:21:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-07 17:21:16' 
+			WHERE messageid=7081;
+
