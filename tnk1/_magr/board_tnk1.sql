@@ -5673,3 +5673,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-07 16:19:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-07 16:20:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-07 16:45:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-07 17:21:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/bgd.html',
+				'tnk1/kma/qjrim1/bgd.html',
+				NULL,
+				'2017-10-08 07:56:23',
+				'2017-10-08 07:56:23',
+				'בוגד = צבוע, המכסה את רשעתו כמו בבגד',
+				'אראל',
+				''
+			)
+		;
+
