@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 
 
 /**
- * @file sgulot_page.php - write Sgulot Mishley to files, for the website.
+ * @file sgulot_print_website.php - write Sgulot Mishley to files, for the website.
  * @author Erel Segal Halevi אראל סגל הלוי
  * קידוד אחיד
  * @date 2012-07-16
@@ -89,25 +89,42 @@ $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
 	//print_r($row);
 	$chapter_number = (int)$row['chapter_number'];
-	$verse_number = (int)$row['verse_number'];
-	//print "<p>chapter=$chapter_number verse=$verse_number</p>\n";
-	if ($verse_number==0) {
-		user_error("Verse 0 skipped!",E_USER_WARNING);
-		continue;
-	}
-	
-
 	list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
+	
+	$verse_number = (int)$row['verse_number'];
 	list($verse_code, $verse_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim `0`, kotrt `1`  FROM tnk.prqim WHERE mspr=$verse_number");
-	if ($verse_number<99)
+	
+	//print "<p>chapter=$chapter_number verse=$verse_number</p>\n";
+	#if ($verse_number==0) {
+	#	user_error("Verse 0 skipped!",E_USER_WARNING);
+	#	continue;
+	#}
+
+	if ($verse_number == 0) {
+		$next_chapter_letter = $chapter_letter;
+		$next_verse_number = 1;
+		list($previous_chapter_letter, $previous_verse_number) = sql_evaluate_assoc(
+			"SELECT previous_chapter AS `0`, previous_verse_number AS `1`
+			 FROM tnk.psuq_qodm_hba 
+			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=1");
+	} else if ($verse_number<99) {
 		list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
 			"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
 			 FROM tnk.psuq_qodm_hba 
 			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
-	else 
-		$previous_chapter_letter=$previous_verse_number=$next_chapter_letter=$next_verse_number=null;
+	} else {
+		$previous_chapter_letter = $chapter_letter;
+		$previous_verse_number = sql_evaluate(
+		"SELECT MAX(verse_number) 
+			FROM tnk.psuq_qodm_hba 
+			WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter));
+		list($next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
+			"SELECT next_chapter AS `0`, next_verse_number as `1` 
+			 FROM tnk.psuq_qodm_hba 
+			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$previous_verse_number");
+	}
 	
 	if ($chapter_number===1 && $verse_number===0)
 		$previous_chapter_letter = $previous_verse_number = null;
@@ -232,5 +249,3 @@ function print_ascii($s) {
 ?>
 </body>
 </html>
-
-
