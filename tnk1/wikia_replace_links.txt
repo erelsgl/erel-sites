@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2017-09-24 06:36:06
+# This file was automatically generated at 2017-10-08 17:56:55
 
 sub wikia_replace_links {
 $_=shift;
@@ -1720,6 +1720,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-28-21|[[ביאור:הבקשה וההתחייב�
 s|${OPENLINK}tnk1/tora/brejit/br-28-19|[[ביאור:המקדש בבית אל|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-28-17|[[ביאור:מה נורא המקום הזה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-28-16|[[ביאור:יש ה' במקום הזה|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-28-14|[[ביאור:ופרצת ימה וקדמה צפונה ונגבה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-28-12.jpg|[[ביאור:בר כח 12|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-28-12|[[ביאור:סולם יעקב|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-28-11|[[ביאור:המקום של יעקב|ig;
@@ -1775,6 +1776,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-11-02a|[[ביאור:מאיפה לאיפה נס�
 s|${OPENLINK}tnk1/tora/brejit/br-11-02|[[ביאור:למה הם בנו בבקעה?|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-10-19|[[ביאור:גבול הכנעני|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-09-2027|[[ביאור:חם חטא וכנען נענש|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-09-06|[[ביאור:עונש מוות לרוצחים?|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-08-22|[[ביאור:כל ימי הארץ|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-07-23|[[ביאור:וימח את כל היקום|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-0609|[[ביאור:המבול - כל המאמרים|ig;
@@ -7013,7 +7015,11 @@ s|${OPENLINK}tnk1/messages/forums_98|[[ביאור:'עגל הזהב' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_97|[[ביאור:פרשת כי תשא - מהות חטא העגל והמסקנה|ig;
 s|${OPENLINK}tnk1/messages/forums_96|[[ביאור:האומן הראשון בעולמנו|ig;
 s|${OPENLINK}tnk1/messages/forums_95|[[ביאור:'הכהן וחושן המשפט' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_941|[[ביאור:'הקהל- ' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_940|[[ביאור:מצוות הקהל - מהי ומה מטרתה?|ig;
 s|${OPENLINK}tnk1/messages/forums_94|[[ביאור:'הכוהנים והקורבן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_939|[[ביאור:'בצאת יום הכיפורים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_938|[[ביאור:סוד מעלת עבודת הקורבנות ביום הכיפורים|ig;
 s|${OPENLINK}tnk1/messages/forums_937|[[ביאור:'משפט אלוקי' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_936|[[ביאור:פרשת האזינו - 'כי כל דרכיו משפט' - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_935|[[ביאור:השירה הזאת - שיר מאת אהובה קליין(c)|ig;
@@ -8545,6 +8551,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-149-0709|[[ביאור:נקמה על-פי חוק|
 s|${OPENLINK}tnk1/ktuv/thlim/th-147-16|[[ביאור:שלג כצמר, כפור כאפר|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-147-09|[[ביאור:עורב = עוף טמא בצבע שחור כמו ערב|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-139-13|[[ביאור:כי אתה קנית כליותיי, תסוכני בבטן אמי|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-139-11|[[ביאור:ואומר אך חושך ישופני, ולילה אור בעדני|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-139-08|[[ביאור:אם אסק שמיים - שם אתה, ואציעה שאול - הנך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-139-02|[[ביאור:אתה ידעת שבתי וקומי, בנת לרעי מרחוק|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-137-09|[[ביאור:אשרי שיאחז וניפץ את עולליך אל הסלע|ig;
@@ -10786,6 +10793,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/bgll|[[ביאור:בגלל- = בסיבת-, לטוב
 s|${OPENLINK}tnk1/kma/qjrim1/bgd_qobi|[[ביאור:הבגד עושה את האדם|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bgd_hds|[[ביאור:מה חשוב כל כך בבגדים?|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bgd_glmn|[[ביאור:שאלות ותשובות ואבנים יקרות|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/bgd|[[ביאור:בוגד = צבוע, המכסה את רשעתו כמו בבגד|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/beyn|[[ביאור:בעיני- = מנקודת מבט סובייקטיבית|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bet_el|[[ביאור:בית אל - במורד ההר|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/beir|[[ביאור:בעיר = בהמה|ig;
