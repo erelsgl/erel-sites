@@ -266,3 +266,79 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-09-24 06:36:00' WHERE `bn` = 'ביאור:בראשית א9' AND `sfr` = 'תהל' AND `prq0` = 'קד' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגומים', `tarik_hosfa` = '2017-10-08 09:10:20' WHERE `bn` = 'ביאור:חגי ב18' AND `sfr` = 'חגי' AND `prq0` = 'ב' AND `psuq0` = 18 AND `sug` = 'דיון1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:תהלים כז4' AND `sfr` = 'מלא' AND `prq0` = 'ג' AND `psuq0` = 9 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:בראשית כה30' AND `sfr` = 'ברא' AND `prq0` = 'כד' AND `psuq0` = 17 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:במדבר יג18' AND `sfr` = 'שמת' AND `prq0` = 'ג' AND `psuq0` = 8 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:במדבר יח21' AND `sfr` = 'ברא' AND `prq0` = 'מז' AND `psuq0` = 22 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:במדבר יח21' AND `sfr` = 'ברא' AND `prq0` = 'מז' AND `psuq0` = 26 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:במדבר כו55' AND `sfr` = 'שמת' AND `prq0` = 'ו' AND `psuq0` = 8 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:משלי ד3' AND `sfr` = 'דהא' AND `prq0` = 'ג' AND `psuq0` = 5 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:שמואל א ז9' AND `sfr` = 'שמא' AND `prq0` = 'ד' AND `psuq0` = 3 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:שמואל א ז9' AND `sfr` = 'שמא' AND `prq0` = 'ב' AND `psuq0` = 29 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:10:55' WHERE `bn` = 'ביאור:שמואל א ז9' AND `sfr` = 'שמא' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = 'הבדל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:11:12' WHERE `bn` = 'קמו בניה ויאשרוה - ראוה בנות ויאשרוה' AND `sfr` = 'משל' AND `prq0` = 'לא' AND `psuq0` = 28 AND `sug` = 'הבדלים1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'הבדלים', `tarik_hosfa` = '2017-10-08 09:11:12' WHERE `bn` = 'קמו בניה ויאשרוה - ראוה בנות ויאשרוה' AND `sfr` = 'שיר' AND `prq0` = 'ו' AND `psuq0` = 9 AND `sug` = 'הבדלים1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:15:01' WHERE `bn` = 'התשובה לפי תפילות דוד' AND `sfr` = 'תהל' AND `prq0` = 'נא' AND `psuq0` = 0 AND `sug` = 'מאמר' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:15:01' WHERE `bn` = 'מה לא מספיק לעשות כדי לחזור בתשובה שלמה' AND `sfr` = 'תהל' AND `prq0` = 'נא' AND `psuq0` = 0 AND `sug` = 'מאמר' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:15:01' WHERE `bn` = 'פרי כמשל לתוצאה או גמול' AND `sfr` = 'הוש' AND `prq0` = 'י' AND `psuq0` = 13 AND `sug` = 'מאמר לא גמור' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:15:01' WHERE `bn` = 'שאול ודוד - השוואה - ביאור פילוסופי' AND `sfr` = 'תהל' AND `prq0` = 'נא' AND `psuq0` = 0 AND `sug` = 'מאמר' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:15:19' WHERE `bn` = 'ביאור:ירמיהו יד11' AND `sfr` = 'ירמ' AND `prq0` = 'יד' AND `psuq0` = 12 AND `sug` = 'לא_גמור' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:16:04' WHERE `bn` = 'יד חזית' AND `sfr` = 'ישע' AND `prq0` = 'נז' AND `psuq0` = 8 AND `sug` = 'בדיחה' AND 1 LIMIT 1;
+
