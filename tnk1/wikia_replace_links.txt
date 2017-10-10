@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2017-10-08 17:56:55
+# This file was automatically generated at 2017-10-09 10:13:38
 
 sub wikia_replace_links {
 $_=shift;
@@ -1815,6 +1815,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-01-26|[[ביאור:תכנון בריאת האד
 s|${OPENLINK}tnk1/tora/brejit/br-01-21|[[ביאור:בריאת חיות המים והעופות|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-16|[[ביאור:המאור הקטן|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-1415|[[ביאור:לא על השמש לבדה יחיה העולם|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-01-07|[[ביאור:המים אשר מעל לרקיע|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-05|[[ביאור:סוף היום הראשון|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-04|[[ביאור:בין האור ובין החושך|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-03|[[ביאור:אור = כל קרינה אלקטרומגנטית|ig;

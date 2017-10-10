@@ -27003,3 +27003,101 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t35b08_1.html',
+		'<p>the tabernacle of the tent of meeting = the feast of tabernacles</p><p>**חג-הסכות = tabernacle = משכן אהל מועד **</p><p>כפי שאתם רואים בשפה האנגלית משמעות המילה tabernacle משמעות כפולה גם חג-הסכות וגם משכן אהל מועד</p><p>ולמעשה את הסוכה יש לבנות כמשכן אהל מועד ולא מעורות הבהמה אלא מרכבתה מן הצומח מכל ארבעת [חמשת] המינים</p><p>ככה שלכל איש ישראל תהיה לו בקרבתו סוכה כמשכן אוהל מועד</p><p>לאמור כי הסוכה תהיה מקורה בסכך עצים [באופן הרמטית] להציל מפני חום השמש ולהגן מפני הגשם</p><p>ישעיהו ד6: &quot;וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב וּלְמַחְסֶה וּלְמִסְתּוֹר מִזֶּרֶם וּמִמָּטָר&quot;</p><p>ונא הבינו כי לא די שיהיה סכך לפי רבני חזל שלדבריהם יש לראות כוכבים בשמים דרך הסכך</p><p>רבני חזל תעו ושגו ולא חשבו מה יעשה ישראל בחג-הסכות בתוך הסוכה אשר יורד עליה גשם </p><p>ואיך ישבו שבעת ימים בתוך הסוכה כאשר יורד עליה גשם לתוך הסוכה שתתרטב בגלל שחז&quot;ל ציוו לשוא לראות כוכבים דרך הסכך</p><p>הלא כתוב במפורש</p><p>ויקרא כג42: &quot;בַּסֻּכֹּת תֵּשְׁבוּ שִׁבְעַת יָמִים כָּל הָאֶזְרָח בְּיִשְׂרָאֵל יֵשְׁבוּ בַּסֻּכֹּת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-09 08:08:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-09 08:10:32' 
+			WHERE messageid=7090;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-21-22.html',
+		'<p></p><p>אני מתנגד להפלות וחושב שהנוצרים בעניין זה צודקים כאשר הם אוסרים הפלות</p><p>בספר בראשית פרק לח כתוב:</p><p>(ט) וַיֵּדַע אוֹנָן כִּי לֹּא לוֹ יִהְיֶה הַזָּרַע וְהָיָה אִם בָּא אֶל אֵשֶׁת אָחִיו וְשִׁחֵת אַרְצָה לְבִלְתִּי נְתָן זֶרַע לְאָחִיו.</p><p>לכן אסור לאונן ואין להשחית את הזרע ובוודאי שלא להשחית זרע מפותח שכבר התפתח לעובר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-09 10:18:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-48-22.html',
+		'<p>הפנח רזא (בראשית ויחי, מח כב) כותב: &quot;בחרבי ובקשתי. פירוש תיכף בביאתי שמה בעודי חגור חרבי וקשתי קניתיו, כדכתיב (לעיל לג יט) וַיִּקֶן אֶת חֶלְקַת הַשָּׂדֶה אֲשֶׁר נָטָה שָׁם אָהֳלוֹ מִיַּד בְּנֵי חֲמוֹר אֲבִי שְׁכֶם בְּמֵאָה קְשִׂיטָה&quot;.</p>',
+		'115831312359675136989',
+		'Israel sooperman',
+		'2017-10-09 12:11:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>מי נחשב נזיר</p><p>ובכן מי שהקים את דבר הנזירות ככתוב בתורה [בספר במדבר פרק ו\'] </p><p>מיום ראשון לשבוע עד יום השביעי הוא יום שבת לקדשו אם שמר את שבעת הימים האלה יחשב נזיר כבר בתם יום השבת</p><p>לאמור כי החל מיום אחד [יום ראשון לשבוע] בשבוע הבא יחשב נזיר קדוש וחלים עליו כל דיני קדושת הנזיר כמעמד הכהן הגדול</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-09 13:05:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-01-07.html',
+		'<p>יש שמ-מים גם כיום</p><p>בראשית א8: &quot;וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם</p><p>המים מעל הרקיע הם המים אשר מעל השמים</p><p>תהלים קמח4: &quot;הַלְלוּהוּ שְׁמֵי הַשָּׁמָיִם וְהַמַּיִם אֲשֶׁר מֵעַל הַשָּׁמָיִם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-09 13:22:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>מי נחשב נזיר</p><p>ובכן מי שהקים את דבר הנזירות ככתוב בתורה [בספר במדבר פרק ו\']</p><p>מיום ראשון לשבוע עד יום השביעי הוא יום שבת לקדשו אם שמר את שבעת הימים האלה יחשב נזיר כבר בתם יום השבת</p><p>[כשבעת ימי גן-עדן וכשבעת ימי המילואים וכעליית משה אל ההר עד קראהו אלהים] </p><p>לאמור כי החל מיום אחד [יום ראשון לשבוע] בשבוע הבא יחשב נזיר קדוש וחלים עליו כל דיני קדושת הנזיר כמעמד הכהן הגדול</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-09 13:34:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-09 13:34:45' 
+			WHERE messageid=7094;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-01-07.html',
+		'<p>איפה נמצאים המים האלה היום? אני לא רואה אותם.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-10-10 07:45:02'
+		)
+		;
+
