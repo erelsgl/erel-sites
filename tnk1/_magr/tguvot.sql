@@ -27101,3 +27101,139 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-01-07.html',
+		'<p>כשהירח בכסה [מכוסה] הוא גם לא נראה האם הוא אינו קיים</p><p>יש שם מים בשמ-ים ויש גם מים מעל השמים גם אם אינך רואה אותם</p><p>אגב ראה נא בקישור</p><p>https://www.haaretz.co.il/news/science/1.2739734</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 09:04:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-01-07.html',
+		'<p>שמואל ב כב12: &quot;וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת חַשְׁרַת מַיִם עָבֵי שְׁחָקִים&quot; </p><p>תהלים יח12: &quot;יָשֶׁת חֹשֶׁךְ סִתְרוֹ סְבִיבוֹתָיו סֻכָּתוֹ חֶשְׁכַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>על כן אינך רואה את המים סביבות אלהים בשמים כי השית חושך</p><p>כשהירח בכסה [מכוסה] הוא גם לא נראה האם הוא אינו קיים</p><p>יש שם מים בשמ-ים ויש גם מים מעל השמים גם אם אינך רואה אותם</p><p>אגב ראה נא בקישור</p><p>https://www.haaretz.co.il/news/science/1.2739734</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 09:25:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-10 09:25:29' 
+			WHERE messageid=7098;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-01-07.html',
+		'<p>קהלת ה1: &quot;אַל תְּבַהֵל עַל פִּיךָ וְלִבְּךָ אַל יְמַהֵר לְהוֹצִיא דָבָר לִפְנֵי הָאֱלֹהִים כִּי הָאֱלֹהִים בַּשָּׁמַיִם... וְאַתָּה עַל הָאָרֶץ עַל כֵּן יִהְיוּ דְבָרֶיךָ מְעַטִּים&quot;</p><p>כִּי הָאֱלֹהִים בַּשָּׁמַיִם ...</p><p>שמואל ב כב12: &quot;וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת חַשְׁרַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>תהלים יח12: &quot;יָשֶׁת חֹשֶׁךְ סִתְרוֹ סְבִיבוֹתָיו סֻכָּתוֹ חֶשְׁכַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>על כן אינך רואה את המים סביבות אלהים בשמים כי השית חושך</p><p>כשהירח בכסה [מכוסה] הוא גם לא נראה האם הוא אינו קיים</p><p>יש שם מים בשמ-ים ויש גם מים מעל השמים גם אם אינך רואה אותם</p><p>אגב ראה נא בקישור</p><p>https://www.haaretz.co.il/news/science/1.2739734</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 09:40:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-10 09:40:54' 
+			WHERE messageid=7099;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>*******אותיות נכה = כהנ = כהן *******</p><p>ומדובר על נכה-הרוח אשר דעת אלהים לו</p><p>ולא מדובר על נכה בעל מום </p><p>כי על פי ספר ויקרא פרק כא כתוב:</p><p>טז: וידבר יהוה אל משה לאמר</p><p>יז: דבר אל אהרן לאמר איש מזרעך לדרתם אשר יהיה בו מום לא יקרב להקריב לחם אלהיו</p><p>יח: כי כל איש אשר בו מום לא יקרב איש עור או פסח או חרם או שרוע</p><p>יט: או איש אשר יהיה בו שבר רגל או שבר יד</p><p>כ: או גבן או דק או תבלל בעינו או גרב או ילפת או מרוח אשך</p><p>כא: כל איש אשר בו מום מזרע אהרן הכהן לא יגש להקריב את אשי יהוה מום בו את לחם אלהיו לא יגש להקריב</p><p>כב: לחם אלהיו מקדשי הקדשים ומן הקדשים יאכל</p><p>כג: אך אל הפרכת לא יבא ואל המזבח לא יגש כי מום בו ולא יחלל את מקדשי כי אני יהוה מקדשם</p><p>כד: וידבר משה אל אהרן ואל בניו ואל כל בני ישראל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 14:11:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-10 14:12:13' 
+			WHERE messageid=7048;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>במדבר לה34: &quot;כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>שמואל ב כב12: &quot;וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת חַשְׁרַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל ..וכשסְבִיבֹתָיו סֻכּוֹת בחג-סֻכּוֹת וַיָּשֶׁת חֹשֶׁךְ לאמור כי בלילה לא מאיר המאור הקטן כי הירח בכסה מכוסה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 20:12:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>במדבר לה34: &quot;כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>שמואל ב כב12: &quot;וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת חַשְׁרַת מַיִם עָבֵי שְׁחָקִים&quot;</p><p>כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל וכשסְבִיבֹתָיו סֻכּוֹת בחג-סֻכּוֹת וַיָּשֶׁת חֹשֶׁךְ לאמור כי בלילה לא מאיר המאור הקטן כי הירח בכסה מכוסה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 20:13:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-10 20:13:17' 
+			WHERE messageid=7102;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>שלום רב</p><p>אבקש לתפלל למען אמא שלי ורפואה שלמה </p><p>שם אמי</p><p>מהין בת חורשיד</p><p>בתודה מראש לכל המתפללים</p><p></p>',
+		'115575207318681508636',
+		'Vida Darbi',
+		'2017-10-10 20:15:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>משלי י4: &quot;רָאשׁ עֹשֶׂה כַף רְמִיָּה וְיַד חָרוּצִים תַּעֲשִׁיר&quot; </p><p>משלי י22: &quot;בִּרְכַּת יהוה הִיא תַעֲשִׁיר וְלֹא יוֹסִף עֶצֶב עִמָּהּ&quot; </p><p>***בִּרְכַּת יהוה הִיא תַעֲשִׁיר = וְיַד חָרוּצִים תַּעֲשִׁיר***</p><p>-----------------בִּרְכַּת יהוה = וְיַד חָרוּצִים-----------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 21:45:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_4.html',
+		'<p>משלי י4: &quot;רָאשׁ עֹשֶׂה כַף רְמִיָּה וְיַד חָרוּצִים תַּעֲשִׁיר&quot;</p><p>משלי י22: &quot;בִּרְכַּת יהוה הִיא תַעֲשִׁיר וְלֹא יוֹסִף עֶצֶב עִמָּהּ&quot;</p><p>***בִּרְכַּת יהוה הִיא תַעֲשִׁיר = וְיַד חָרוּצִים תַּעֲשִׁיר***</p><p>-----------------בִּרְכַּת יהוה = וְיַד חָרוּצִים-----------------</p><p>יַד חָרוּצִים תִּמְשׁוֹל = מוֹשֵׁל בָּאָדָם צַדִּיק מוֹשֵׁל יִרְאַת אֱלֹהִים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-10 21:50:24'
+		)
+		;
+
