@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2017-10-09 10:13:38
+# This file was automatically generated at 2017-10-11 12:48:24
 
 sub wikia_replace_links {
 $_=shift;
@@ -1823,7 +1823,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-01-0110.ppt|[[ביאור:בריאת השמים,
 s|${OPENLINK}tnk1/tora/brejit/br-01-0110|[[ביאור:בריאת השמים, הארץ והמים - כל המאמרים|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-01-jdl|[[ביאור:מתי נבראו השמים והארץ?|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-01-01|[[ביאור:בראשית ברא אלהים - למה פתחה התורה בשלוש מילים בלתי מובנות?|ig;
-s|${OPENLINK}tnk1/tora/brejit/botanics|[[ביאור:דשא ועשב - חלוקת עולם הצומח בתורה|ig;
+s|${OPENLINK}tnk1/tora/brejit/botanics|[[ביאור:חלוקת עולם הצומח בתורה|ig;
 s|${OPENLINK}tnk1/tora/brejit/bnymin|[[ביאור:תן לי את בנימין|ig;
 s|${OPENLINK}tnk1/tora/brejit/az|[[ביאור:והכנעני (והפריזי) אז (יושב) בארץ|ig;
 s|${OPENLINK}tnk1/tora/brejit/axry_haqda|[[ביאור:יורה דעה א|ig;
@@ -7016,6 +7016,8 @@ s|${OPENLINK}tnk1/messages/forums_98|[[ביאור:'עגל הזהב' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_97|[[ביאור:פרשת כי תשא - מהות חטא העגל והמסקנה|ig;
 s|${OPENLINK}tnk1/messages/forums_96|[[ביאור:האומן הראשון בעולמנו|ig;
 s|${OPENLINK}tnk1/messages/forums_95|[[ביאור:'הכהן וחושן המשפט' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_943|[[ביאור:פרשת בראשית - היום השלישי - מה המיוחד בו?|ig;
+s|${OPENLINK}tnk1/messages/forums_942|[[ביאור:'היום השלישי לבריאה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_941|[[ביאור:'הקהל- ' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_940|[[ביאור:מצוות הקהל - מהי ומה מטרתה?|ig;
 s|${OPENLINK}tnk1/messages/forums_94|[[ביאור:'הכוהנים והקורבן' - שיר מאת אהובה קליין (c)|ig;

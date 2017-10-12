@@ -27237,3 +27237,120 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>דברים טו9: </p><p>&quot;הִשָּׁמֶר לְךָ פֶּן יִהְיֶה דָבָר עִם לְבָבְךָ בְלִיַּעַל לֵאמֹר קָרְבָה שְׁנַת הַשֶּׁבַע שְׁנַת הַשְּׁמִטָּה </p><p>וְרָעָה עֵינְךָ בְּאָחִיךָ הָאֶבְיוֹן וְלֹא תִתֵּן לוֹ וְקָרָא עָלֶיךָ אֶל יהוה וְהָיָה בְךָ חֵטְא&quot;</p><p>*******שְׁנַת הַשֶּׁבַע שְׁנַת הַשְּׁמִטָּה*******</p><p>אם שנת 7 היא שנת השמיטה אז אל לך לכתוב שכעת השנה השלישית לשמיטה כי זו למעשה שנה 10</p><p>לכן כל עוד טרם הגיעה שנת השבע שנת השמיטה הראשונה אז יש להתייחס רק למספר השנים אחר היובל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-11 10:23:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>לענ&quot;ד יש לספור את השנים כפי שסופרים את הימים: כמו ש&quot;יום ראשון&quot; הוא היום שבא מייד אחרי שבת, כך &quot;שנה ראשונה&quot; היא השנה שבאה מייד לאחר שנת השבת.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-10-11 12:53:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>ספר עזרא פרק ז כתוב:</p><p>(כו) וְכָל דִּי לָא לֶהֱוֵא עָבֵד דָּתָא דִי אֱלָהָךְ וְדָתָא דִּי מַלְכָּא אָסְפַּרְנָא דִּינָה לֶהֱוֵא מִתְעֲבֵד מִנֵּהּ הֵן לְמוֹת הֵן לִשְׁרשִׁו }לִשְׁרשִׁי{ הֵן לַעֲנָשׁ נִכְסִין וְלֶאֱסוּרִין:</p><p>ואלה הגזרות שאמור לגזור בית משפט על פי חוק</p><p>הֵן לְמוֹת = להורג </p><p>הֵן לִשְׁרשִׁי = לגלות</p><p>הֵן לַעֲנָשׁ נִכְסִין =קנס</p><p>וְלֶאֱסוּרִין = בית סוהר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 03:21:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>ספר עזרא פרק ז כתוב:</p><p>(כו) וְכָל דִּי לָא לֶהֱוֵא עָבֵד דָּתָא דִי אֱלָהָךְ וְדָתָא דִּי מַלְכָּא אָסְפַּרְנָא דִּינָה לֶהֱוֵא מִתְעֲבֵד מִנֵּהּ הֵן לְמוֹת הֵן לִשְׁרשִׁי הֵן לַעֲנָשׁ נִכְסִין וְלֶאֱסוּרִין:</p><p>ואלה הגזרות שאמור לגזור בית משפט על פי חוק</p><p>הֵן לְמוֹת = להורג </p><p>הֵן לִשְׁרשִׁי = לגלות</p><p>הֵן לַעֲנָשׁ נִכְסִין =קנס</p><p>וְלֶאֱסוּרִין = בית סוהר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 03:22:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-12 03:22:18' 
+			WHERE messageid=7109;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>חי יהוה כי אנכי עבדו </p><p>אנכי הכהן הגדול הכהן-המורה מורה-הצדק</p><p>גם לוח השנה בידי והנני מודיעכם כי מלבד השבת כל מועדיכם פסולים</p><p>כעת אני בשנת החמשים לחיי בשנת היובל לחיי ויהוה ציוה לאדם עד 120 שנה וגם אני לא לעולם אחיה</p><p>ואתם עד מתי למה אתם מחכים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 04:50:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>על אהרן הכהן הגדול נאמר</p><p>ויקרא כא11: &quot;וְעַל כָּל נַפְשֹׁת מֵת לֹא יָבֹא לְאָבִיו וּלְאִמּוֹ לֹא יִטַּמָּא&quot;</p><p>נַפְשֹׁת מֵת = נַפְשֹׁת אבלים</p><p>לכן בעניין מרים הנביאה שחלתה בצרעת אמר אהרן הכהן הגדול לאחיו משה</p><p>במדבר יב12: &quot;אַל נָא תְהִי כַּמֵּת אֲשֶׁר בְּצֵאתוֹ מֵרֶחֶם אִמּוֹ וַיֵּאָכֵל חֲצִי בְשָׂרוֹ&quot;</p><p>כי אם נאכל חצי בשרך לאמור אחותך או אחיך ממשפחתך מת אז אתה נחשב------- נַפְשֹׁת אבלים=נַפְשֹׁת מֵת</p><p>ומשה איש האלהים הבין זאת היטב</p><p>במדבר יב13: &quot;וַיִּצְעַק מֹשֶׁה אֶל יהוה לֵאמֹר אֵל נָא רְפָא נָא לָהּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 07:30:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>על אהרן הכהן הגדול נאמר</p><p>ויקרא כא11: &quot;וְעַל כָּל נַפְשֹׁת מֵת לֹא יָבֹא לְאָבִיו וּלְאִמּוֹ לֹא יִטַּמָּא&quot;</p><p>נַפְשֹׁת מֵת = נַפְשֹׁת אבלים</p><p>לכן בעניין מרים הנביאה שחלתה בצרעת אמר אהרן הכהן הגדול לאחיו משה</p><p>במדבר יב12: &quot;אַל נָא תְהִי כַּמֵּת אֲשֶׁר בְּצֵאתוֹ מֵרֶחֶם אִמּוֹ וַיֵּאָכֵל חֲצִי בְשָׂרוֹ&quot;</p><p>כי אם נאכל חצי בשרך לאמור אחותך או אחיך ממשפחתך מת אז אתה נחשב------- נַפְשֹׁת אבלים=נַפְשֹׁת מֵת</p><p>ומשה איש האלהים הבין זאת היטב פן תמות מרים אחותו ממחלת הצרעת</p><p>במדבר יב13: &quot;וַיִּצְעַק מֹשֶׁה אֶל יהוה לֵאמֹר אֵל נָא רְפָא נָא לָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 07:31:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-12 07:32:13' 
+			WHERE messageid=7112;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>על אהרן הכהן הגדול נאמר</p><p>ויקרא כא11: &quot;וְעַל כָּל נַפְשֹׁת מֵת לֹא יָבֹא לְאָבִיו וּלְאִמּוֹ לֹא יִטַּמָּא&quot;</p><p>נַפְשֹׁת מֵת = נַפְשֹׁת אבלים</p><p>לכן בעניין מרים הנביאה שחלתה בצרעת אמר אהרן הכהן הגדול לאחיו משה</p><p>במדבר יב12: &quot;אַל נָא תְהִי כַּמֵּת אֲשֶׁר בְּצֵאתוֹ מֵרֶחֶם אִמּוֹ וַיֵּאָכֵל חֲצִי בְשָׂרוֹ&quot;</p><p>כי אם נאכל חצי בשרך לאמור אחותך או אחיך שאר בשר ממשפחתך מת אז אתה נחשב------- נַפְשֹׁת אבלים=נַפְשֹׁת מֵת</p><p>ומשה איש האלהים הבין זאת היטב פן תמות מרים אחותו ממחלת הצרעת</p><p>במדבר יב13: &quot;וַיִּצְעַק מֹשֶׁה אֶל יהוה לֵאמֹר אֵל נָא רְפָא נָא לָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-12 07:33:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-12 07:33:35' 
+			WHERE messageid=7113;
+

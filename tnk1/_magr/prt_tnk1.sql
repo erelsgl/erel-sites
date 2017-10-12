@@ -391,3 +391,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `qod` = 'קדרים (רמו)', `tarik_hosfa` = '2017-09-24 06:34:43' WHERE `qod` = 'קדר' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `kotrt` = 'חלוקת עולם הצומח בתורה', `tarik_hosfa` = '2017-10-11 12:46:39' WHERE `qod` = 'ביאור:בראשית א11' AND 1 LIMIT 1;
+
