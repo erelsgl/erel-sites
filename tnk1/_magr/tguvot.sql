@@ -27538,3 +27538,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/05.html',
+		'<p>אתר מצוין! ישר כוח למחבר הטקסט!!!!</p><p>עוזר בהרבה</p>',
+		'114113198955489115370',
+		'אליאב אילוז',
+		'2017-10-15 10:14:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר דברים פרק כט (ה) לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם:</p><p>ברור הוא שבני ישראל אכלו לחם כדי לחיות אך בפסוק זה מדובר על הבשר אשר הוא לחם אלהים</p><p>ולכן משמעות הפסוק היא שכדי לדעת את האלהים יש להמנע מבשר ויין</p><p>ורק כאשר יודעים את האלהים ניתן לאכול בשר ולנסך יין וזה קורה בדעת אלהים במקדש</p><p>על כן משה ואהרן הקריבו קורבנות יום יום במשכן אהל-מועד</p><p>ואני מזהיר את כל מי שטרם ידע את האלהים אל נא תאכלו בשר ואל תשתו יין</p><p>כל אב ואם [אבא ואמא] עליהם לשמור את ילדיהם מפני בשר ויין</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-15 16:27:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-15 16:29:08' 
+			WHERE messageid=7129;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר דברים פרק כט (ה) לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם:</p><p>ברור הוא שבני ישראל אכלו לחם כדי לחיות אך בפסוק זה מדובר על הבשר אשר הוא לחם אלהים</p><p>ולכן משמעות הפסוק היא שכדי לדעת את האלהים יש להמנע מבשר ויין</p><p>ורק כאשר יודעים את האלהים ניתן לאכול בשר ולנסך יין וזה קורה בדעת אלהים במקדש</p><p>על כן משה ואהרן הקריבו קורבנות יום יום במשכן אהל-מועד</p><p>ואני מזהיר את כל מי שטרם ידע את האלהים אל נא תאכלו בשר ואל תשתו יין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-15 16:29:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר דברים פרק כט (ה) לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם:</p><p>ברור הוא שבני ישראל אכלו לחם כדי לחיות אך בפסוק זה מדובר על הבשר אשר הוא לחם אלהים</p><p>ולכן משמעות הפסוק היא שכדי לדעת את האלהים יש להמנע מבשר ויין</p><p>ורק כאשר יודעים את האלהים ניתן לאכול בשר ולנסך יין וזה קורה בדעת אלהים בקודש</p><p>על כן משה ואהרן הקריבו קורבנות יום יום במשכן אהל-מועד</p><p>ואני מזהיר את כל מי שטרם ידע את האלהים אל נא תאכלו בשר ואל תשתו יין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-16 04:16:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-16 04:17:02' 
+			WHERE messageid=7130;
+
