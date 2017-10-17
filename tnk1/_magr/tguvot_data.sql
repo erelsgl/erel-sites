@@ -2079,3 +2079,33 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t2823_0.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/jj-01-0506.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-16 16:42:39'
+		WHERE parent='tnk1/ktuv/mgilot/jj-01-0506.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/thlim/th-112-05.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-17 07:54:04'
+		WHERE parent='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
