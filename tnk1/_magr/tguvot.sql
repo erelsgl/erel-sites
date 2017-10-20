@@ -27698,3 +27698,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/nisuin2.html',
+		'<p>דעה נוספת,</p><p>לא יוכל הבעל &quot;לסחור&quot; באשתו ולתתה לעשיר על תנאי תמורת כסף מתוך כוונה לחזור אליה בעתיד. מעשה זנות הוא זה.</p>',
+		'110686380496186057492',
+		'אייל גרוסי',
+		'2017-10-19 10:39:32'
+		)
+		;
+
