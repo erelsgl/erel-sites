@@ -6675,3 +6675,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 13:52:33'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 13:54:40'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 14:06:34'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 14:11:45'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-21 07:12:18'
+		WHERE ktovt_bn='tnk1/ktuv/ewn/nx-04.html'
+		;
+

@@ -2215,3 +2215,102 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/nisuin2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-20 13:52:33'
+		WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-10-20 13:54:25'
+			WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/nisuin2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-20 13:54:40'
+		WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-10-20 14:05:08'
+			WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/nisuin2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-20 14:06:34'
+		WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-10-20 14:10:42'
+			WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/nisuin2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-20 14:11:45'
+		WHERE parent='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/ewn/nx-04.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-10-21 07:12:18'
+		WHERE parent='tnk1/ktuv/ewn/nx-04.html'
+		;
+
