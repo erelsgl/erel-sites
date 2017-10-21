@@ -6486,3 +6486,232 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/ndr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-14 16:03:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-14 16:14:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-15 02:08:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-15 10:14:42'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-15 16:27:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-15 16:29:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/agda.html',
+				'tnk1/nvia/tryasr/xv-02-01.html',
+				NULL,
+				'2017-10-16 03:09:09',
+				'2017-10-16 03:09:09',
+				'חבקוק הנביא וחוני המעגל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-10-16 03:09:09'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/agda.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-16 04:16:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-16 16:42:39'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-01-0506.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-17 07:54:04'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-17 08:02:59'
+		WHERE ktovt_bn='tryg/ribit0/pqdon_zkuyot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-17 13:05:32'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-17 13:08:02'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-17 15:50:58'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_944.html',
+				NULL,
+				'2017-10-17 18:33:10',
+				'2017-10-17 18:33:10',
+				'פרשת נח- במה חטאו ונענשו דור הפלגה?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-10-17 18:33:10'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_945.html',
+				NULL,
+				'2017-10-17 20:28:57',
+				'2017-10-17 20:28:57',
+				'אנשי דור הפלגה/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-10-17 20:28:57'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-18 03:37:42'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-112-05.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-19 10:39:32'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 13:52:33'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 13:54:40'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 14:06:34'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-20 14:11:45'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/nisuin2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-21 07:12:18'
+		WHERE ktovt_bn='tnk1/ktuv/ewn/nx-04.html'
+		;
+
