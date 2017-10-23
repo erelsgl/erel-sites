@@ -27803,3 +27803,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר משלי פרק 31 (ו) תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ: (ז) יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד:</p><p>וַעֲמָלוֹ לֹא יִזְכָּר עוֹד... ביום שבת קודש כי שוכחים מעמל עבודה לכן מועד היין ביום שבת ביום השבעי</p><p>מועד היין הכי טוב ככתוב במגילת אסתר פרק א (י) בַּיּוֹם הַשְּׁבִיעִי כְּטוֹב לֵב הַמֶּלֶךְ בַּיָּיִן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-22 12:10:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר משלי פרק 31 (ו) תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ: (ז) יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד:</p><p>וַעֲמָלוֹ לֹא יִזְכָּר עוֹד... ביום שבת קודש כי שוכחים מעמל עבודה לכן מועד היין ביום שבת ביום השבעי</p><p>מועד היין הכי טוב ככתוב במגילת אסתר פרק א (י) בַּיּוֹם הַשְּׁבִיעִי כְּטוֹב לֵב הַמֶּלֶךְ בַּיָּיִן</p><p>יין = 7 בגימטריה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-22 12:11:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-22 12:11:46' 
+			WHERE messageid=7146;
+
