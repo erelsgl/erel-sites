@@ -27791,3 +27791,82 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>רק לצדיק נכון לשתות יין ------- על פי ספר ישעיהו פרק סג כתוב:</p><p>א: מי זה בא מאדום חמוץ בגדים מבצרה זה הדור בלבושו צעה ברב כחו אני מדבר בצדקה רב להושיע</p><p>ב: מדוע אדם ללבושך ובגדיך כדרך בגת</p><p>ג: פורה דרכתי לבדי ומעמים אין איש אתי ואדרכם באפי וארמסם בחמתי ויז נצחם על בגדי וכל מלבושי אגאלתי</p><p>ד: כי יום נקם בלבי ושנת גאולי באה</p><p>ה: ואביט ואין עזר ואשתומם ואין סומך ותושע לי זרעי וחמתי היא סמכתני</p><p>ו: ואבוס עמים באפי ואשכרם בחמתי ואוריד לארץ נצחם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-21 15:52:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר משלי פרק 31 (ו) תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ: (ז) יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד:</p><p>וַעֲמָלוֹ לֹא יִזְכָּר עוֹד... ביום שבת קודש כי שוכחים מעמל עבודה לכן מועד היין ביום שבת ביום השבעי</p><p>מועד היין הכי טוב ככתוב במגילת אסתר פרק א (י) בַּיּוֹם הַשְּׁבִיעִי כְּטוֹב לֵב הַמֶּלֶךְ בַּיָּיִן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-22 12:10:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר משלי פרק 31 (ו) תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ: (ז) יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד:</p><p>וַעֲמָלוֹ לֹא יִזְכָּר עוֹד... ביום שבת קודש כי שוכחים מעמל עבודה לכן מועד היין ביום שבת ביום השבעי</p><p>מועד היין הכי טוב ככתוב במגילת אסתר פרק א (י) בַּיּוֹם הַשְּׁבִיעִי כְּטוֹב לֵב הַמֶּלֶךְ בַּיָּיִן</p><p>יין = 7 בגימטריה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-22 12:11:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-10-22 12:11:46' 
+			WHERE messageid=7146;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>הארץ ניתנת לאשר ישר בעיני אלהים</p><p>ירמיהו כז5: &quot;אָנֹכִי עָשִׂיתִי אֶת הָאָרֶץ אֶת הָאָדָם וְאֶת הַבְּהֵמָה אֲשֶׁר עַל פְּנֵי הָאָרֶץ בְּכֹחִי הַגָּדוֹל וּבִזְרוֹעִי הַנְּטוּיָה וּנְתַתִּיהָ לַאֲשֶׁר יָשַׁר בְּעֵינָי&quot;</p><p>והארץ גם ניתנת ביד רשע</p><p>בספר איוב פרק ט (כד) אֶרֶץ נִתְּנָה בְיַד רָשָׁע [אך הרשע לא יוכל כצדיק לשמור על הארץ שניתנה לו לכן הרשע הזה יאבד]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-24 04:03:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>שלום לכולם, כל מי שרוצה ויכול, אשמח שתתפללו לשלומה של אמי אורנה בת אלישבע לרפואה שלמה והחלמה מהירה. אמא שלי אחרי ניתוח ראש. תודה רבה!</p>',
+		'106400420505426843578',
+		'Roi Sarid',
+		'2017-10-24 07:02:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'106400420505426843578',
+		'Roi Sarid',
+		'2017-10-24 07:03:36'
+		)
+		;
+
