@@ -27834,3 +27834,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-10-22 12:11:46' 
 			WHERE messageid=7146;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>הארץ ניתנת לאשר ישר בעיני אלהים</p><p>ירמיהו כז5: &quot;אָנֹכִי עָשִׂיתִי אֶת הָאָרֶץ אֶת הָאָדָם וְאֶת הַבְּהֵמָה אֲשֶׁר עַל פְּנֵי הָאָרֶץ בְּכֹחִי הַגָּדוֹל וּבִזְרוֹעִי הַנְּטוּיָה וּנְתַתִּיהָ לַאֲשֶׁר יָשַׁר בְּעֵינָי&quot;</p><p>והארץ גם ניתנת ביד רשע</p><p>בספר איוב פרק ט (כד) אֶרֶץ נִתְּנָה בְיַד רָשָׁע [אך הרשע לא יוכל כצדיק לשמור על הארץ שניתנה לו לכן הרשע הזה יאבד]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-24 04:03:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>שלום לכולם, כל מי שרוצה ויכול, אשמח שתתפללו לשלומה של אמי אורנה בת אלישבע לרפואה שלמה והחלמה מהירה. אמא שלי אחרי ניתוח ראש. תודה רבה!</p>',
+		'106400420505426843578',
+		'Roi Sarid',
+		'2017-10-24 07:02:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p></p>',
+		'106400420505426843578',
+		'Roi Sarid',
+		'2017-10-24 07:03:36'
+		)
+		;
+
