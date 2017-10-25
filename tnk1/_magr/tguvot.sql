@@ -27870,3 +27870,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_25.html',
+		'<p>חכם = עמל</p><p>חכם ועמל אחד הם כי עמל זה הפוך מעצל</p><p>משלי ו6: &quot;לֵךְ אֶל נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-25 05:22:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_113.html',
+		'<p>תודה שאתה משתף אותנו בסיפורי צדיקים שהתרחשו בימינו!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-10-25 05:27:53'
+		)
+		;
+
