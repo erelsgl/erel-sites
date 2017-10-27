@@ -28037,3 +28037,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-05-2324.html',
+		'<p>אראל, אני נעזר רבות באתר. </p><p>ממאמריך באופן מיוחד אני משכיל , לןמד ומתחדש. </p><p>תודה רבה !</p><p>חזק ואמץ בביאור התורה עפ&quot;י פשטה ובביאור מדרשי חז&quot;ל היוצאים ממנה .</p><p>חגי </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-10-26 09:10:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לספיר אוזן בת נורית</p>',
+		'105271931406046412017',
+		'כוכבה ועקנין',
+		'2017-10-26 15:46:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-05-2324.html',
+		'<p>תודה רבה על הברכות</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-10-26 15:55:51'
+		)
+		;
+
