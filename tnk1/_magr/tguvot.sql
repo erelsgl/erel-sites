@@ -28245,3 +28245,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/dniel/dn-07-09.html',
+		'<p>ניתן להבין מהאדרא זוטא שבספר הזוהר, כי רבי שמעון נעשה בעצמו לכסא השכינה כך שהוא מן הסתם הכסא השני. </p><p> </p>',
+		'106777808061416795052',
+		'Yitzhaq Hayut-man',
+		'2017-10-31 13:17:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/dniel/dn-07-09.html',
+		'<p>ועוד הערה קטנה, מאותם מקורות ניתן להבין כי &quot;עתיק ימים&quot; איננו יהוה אלהי ישראל, אלא ישוב קוסמית קודמת וגדולה יותר וכולה חסדים. </p>',
+		'106777808061416795052',
+		'Yitzhaq Hayut-man',
+		'2017-10-31 13:19:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/dniel/dn-07-09.html',
+		'<p>אלהים בשמים ובארץ</p><p>1. אלהים בשמים</p><p>2. אלהים בארץ</p><p>תהלים נח12: &quot;וְיֹאמַר אָדָם אַךְ פְּרִי לַצַּדִּיק אַךְ יֵשׁ אֱלֹהִים שֹׁפְטִים בָּאָרֶץ&quot;  </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-10-31 15:39:38'
+		)
+		;
+
