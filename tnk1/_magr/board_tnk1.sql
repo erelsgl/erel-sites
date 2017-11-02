@@ -7086,3 +7086,98 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-31 13:17:04'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-07-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-31 13:19:02'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-07-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-10-31 15:39:38'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-07-09.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_949.html',
+				NULL,
+				'2017-10-31 20:03:12',
+				'2017-10-31 20:03:12',
+				'לוט בשער סדום/ שיר מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-10-31 20:03:12'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-01 15:09:36'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:07:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b09_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:08:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:11:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:12:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b09_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 06:43:40'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-51-07.html'
+		;
+
