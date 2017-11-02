@@ -7133,3 +7133,51 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-10-31 20:03:12'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-01 15:09:36'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:07:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b09_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:08:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:11:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 05:12:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b09_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 06:43:40'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-51-07.html'
+		;
+
