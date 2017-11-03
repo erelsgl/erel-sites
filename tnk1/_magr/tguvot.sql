@@ -28367,3 +28367,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/MefarsheyTanach001-07.html',
+		'<p>מעניין</p>',
+		'113099256362560159127',
+		'אריאל בן סימון',
+		'2017-11-02 09:55:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/rlbg.html',
+		'<p>שלום.</p><p>נכנסתי לספר תועלתיות הרלב&quot;ג. דרך אוצר החכמה.</p><p>נכנסתי כאורח וקבלתי כניסה מלאה.</p><p>אין אפשרות להעתיק מתוך הדפים של אוצר החכמה.</p><p>אגודת &quot;שתי הלכות ביום&quot;, שולחת בכל יום מספר פסוקי נביאים עם פירוש הרלב&quot;ג. ובכל מספר ימים, קטע מתועלתיות הרלב&quot;ג.</p><p></p>',
+		'102440774343692933750',
+		'יחיאל ברונר',
+		'2017-11-02 11:57:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/rlbg.html',
+		'<p>מוסיף קישור למאצר שמתפרסם באתר &quot;דעת&quot;. על התועלתיות:</p><p>http://www.daat.ac.il/daat/kitveyet/mahanaim/perush.htm</p>',
+		'102440774343692933750',
+		'יחיאל ברונר',
+		'2017-11-02 11:58:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-34.html',
+		'<p>עיין בירושלמי נדרים פרק ט הלכה ד   ודת יצחק כן מדרש רבהעל לך לך  בפרשת לך לך ועל לך לך בפרשת וארא על ההשוואה בין עקדת יצחק לבין  לך לך מארצך</p>',
+		'111065666977063078779',
+		'אשר שלומאי',
+		'2017-11-02 14:17:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>על הבטוח הלאומי להבין את המשמעות של אשה אל-מנה שהיא למעשה כל אשה ענייה</p><p>ולהערך בהתאם לעזרתה עם מתן קצבה שתאפר לה חיים בכבוד היא וילדיה היתומים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-03 05:19:58'
+		)
+		;
+

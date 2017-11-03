@@ -7181,3 +7181,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-51-07.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 09:55:53'
+		WHERE ktovt_bn='tnk1/jdl/MefarsheyTanach001-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 11:57:18'
+		WHERE ktovt_bn='tnk1/rlbg.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 11:58:54'
+		WHERE ktovt_bn='tnk1/rlbg.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-02 14:17:38'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-08-34.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-03 05:19:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0222_2.html'
+		;
+
