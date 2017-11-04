@@ -28427,3 +28427,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>נא הבינו כי אם עשיר גדול ימות הן אשתו בחיים לא תוכל להחשב אל-מנה</p><p>ובאמת לא נדרש לעזור לאשה עשירה כזו אשר ירשה את כל הון בעלה העשיר</p><p>******* לכן אל-מנה היא רק אשה עניה זו המשמעות על פי התורה *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-03 10:49:18'
+		)
+		;
+

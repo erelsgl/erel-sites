@@ -7221,3 +7221,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0222_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-03 10:49:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0222_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/hemwd___12_amwt___hyqp_mjwlj.pdf',
+				NULL,
+				'2017-11-03 14:11:31',
+				'2017-11-03 14:11:31',
+				'היקף העמוד = 12 אמות = היקף משולש',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/tolerance_toward_gentiles.pdf',
+				NULL,
+				'2017-11-03 17:45:18',
+				'2017-11-03 17:45:18',
+				'Tolerance toward Gentiles',
+				'אבנר רמו',
+				'Tolerance toward gentiles'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-11-03 17:45:18'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
