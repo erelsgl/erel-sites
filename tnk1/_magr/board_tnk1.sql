@@ -7268,3 +7268,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-11-03 17:45:18'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-04 12:04:55'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-119-19.html'
+		;
+

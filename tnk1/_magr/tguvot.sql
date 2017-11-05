@@ -28439,3 +28439,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-19.html',
+		'<p>דווקא דוד, &quot;הצדיק&quot; הזה, הוא האיש לחלק תעודות יושר? אם זה כך, &quot;הצדיקים&quot; שעברו שם היו בערבון מוגבל, מאוד. קראתי עכשיו את &quot;תנאי השימוש&quot;, ואני חושב שההערה כאן עומדת בהם.</p>',
+		'111519051921913266672',
+		'זהר ארנון',
+		'2017-11-04 12:04:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-04 17:59:44' 
+			WHERE messageid=7192;
+
