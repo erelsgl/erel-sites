@@ -7292,3 +7292,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-15-27.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/skl.html',
+				'tnk1/ktuv/mgilot/qh-10-03.html',
+				NULL,
+				'2017-11-06 17:14:04',
+				'2017-11-06 17:14:04',
+				'מי שאומר על כולם שהם סכלים - הוא בעצמו סכל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_950.html',
+				NULL,
+				'2017-11-06 19:37:21',
+				'2017-11-06 19:37:21',
+				' פרשת חיי שרה-מה גנוז בשידוך הראשון בתורה?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-11-06 19:37:21'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-07 05:31:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0218_5.html'
+		;
+
