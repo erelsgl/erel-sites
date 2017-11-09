@@ -28530,3 +28530,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>ספר בראשית פרק מו כתוב: </p><p>(ד) אָנֹכִי אֵרֵד עִמְּךָ מִצְרַיְמָה </p><p>זה הדבר אשר אמר יהוה ליעקב אבינו טרם רדתו מִצְרַיְמָה</p><p>תהלים צד14: &quot;כִּי לֹא יִטֹּשׁ יהוה עַמּוֹ וְנַחֲלָתוֹ לֹא יַעֲזֹב&quot;</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-08 13:54:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>ספר בראשית פרק מו כתוב:</p><p>(ד) אָנֹכִי אֵרֵד עִמְּךָ מִצְרַיְמָה</p><p>זה הדבר אשר אמר יהוה ליעקב אבינו טרם רדתו מִצְרַיְמָה</p><p>תהלים צד14: &quot;כִּי לֹא יִטֹּשׁ יהוה עַמּוֹ וְנַחֲלָתוֹ לֹא יַעֲזֹב&quot;</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>ואם נגזר על בני ישראל לרדת מהארץ לגלות</p><p>ידעו הגוים כי יהוה אלהי ישראל ירד עם בניו הם נחלתו</p><p>ואין משמעות לארץ הקודש אם עם הקודש לא ישב בה</p><p>והנה אודיע זאת לגוים לבל יחמדו לשוא את ארץ הקודש</p><p>תהלים י16: &quot;יהוה מֶלֶךְ עוֹלָם וָעֶד אָבְדוּ גוֹיִם מֵאַרְצוֹ&quot;</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-08 14:16:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-08 14:16:50' 
+			WHERE messageid=7199;
+
