@@ -28561,3 +28561,51 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-11-08 14:16:50' 
 			WHERE messageid=7199;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1_0.html',
+		'<p>רמי ניר- מה השטויות האלה שאתה כותב- איך מרשים לך לכתוב כאן?</p>',
+		'111852995209759650784',
+		'בני קו',
+		'2017-11-09 13:12:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1_0.html',
+		'<p>או שאתה לא מבין עברית, או שאתה לא יודע איך התורה כותבת תאריכים.</p>',
+		'111852995209759650784',
+		'בני קו',
+		'2017-11-09 13:13:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/iby.html',
+		'<p>אראל היקר,</p><p>אמרת &quot;מדוע ה\' אסר על השופטים לעשות את הדבר הטבעי וההגיוני ביותר, שהוא עצמו עושה, ולשפוט כל אדם לפי מעשי אבותיו?&quot; </p><p>אני לא מבין מה הגיוני בזה לשפוט אדם לפי מעשי אבותיו?</p>',
+		'111852995209759650784',
+		'בני קו',
+		'2017-11-09 14:07:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>כתבתי לכם כדברים הבאים</p><p>1.בתוך המאמר</p><p>וגדול כבוד אלהים במות הכהן הגדול גם יָקָר בְּעֵינֵי יְהֹוָה הַמָּוְתָה לַחֲסִידָיו </p><p>2.ובאחת התגובות:</p><p>לִפְנֵי יְהוָה = לִפְנֵי מוֹתִי.</p><p>וכעת אבאר לכם ....דרך המקרא</p><p>שופטים טז30: &quot;וַיֹּאמֶר שִׁמְשׁוֹן תָּמוֹת נַפְשִׁי עִם פְּלִשְׁתִּים וַיֵּט בְּכֹחַ וַיִּפֹּל הַבַּיִת עַל הַסְּרָנִים וְעַל כָּל הָעָם אֲשֶׁר בּוֹ </p><p>וַיִּהְיוּ הַמֵּתִים אֲשֶׁר הֵמִית בְּמוֹתוֹ רַבִּים מֵאֲשֶׁר הֵמִית בְּחַיָּיו&quot;....כי בחייו הגם כי צדיק אך טרם אלהים חי ובמותו אלהים חי</p><p>על כן הֵמִית בְּמוֹתוֹ רַבִּים מֵאֲשֶׁר הֵמִית בְּחַיָּיו = </p><p>= לאמור כי אלהיו הוא אשר המית את הרשעים הרבה יותר מאשר המית אותם בהיות שמשון אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-09 16:45:48'
+		)
+		;
+
