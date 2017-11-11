@@ -28609,3 +28609,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_21.html',
+		'<p> אברהם אבינו בגיל 100 שנה ילד את יצחק</p><p>אברהם אבינו בגיל 125 שנה עקד את יצחק בהיותו בן 25 ובעת הזו נולדה רבקה</p><p>25 שנים הפרש בין רבקה ליצחק אשר בהיותו בן 40 התחתן עם רבקה בהיותה בת 15</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-10 14:18:45'
+		)
+		;
+
