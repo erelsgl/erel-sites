@@ -28669,3 +28669,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום צריכה עזרה לזוג קשישישם ילדים יתנו ערבות סכום דחוף להלוואה 60000עד סוף חודש יש הוראה מערייה לפינוי   חסד אמיתי נא לחזור למייל אן 0532556243 wwwhagit3@gmail.com </p>',
+		'113328362239715289410',
+		'חגית שוקרון',
+		'2017-11-13 12:04:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>תהלים כה8: &quot;טוֹב וְיָשָׁר יהוה עַל כֵּן יוֹרֶה חַטָּאִים בַּדָּרֶךְ&quot;</p><p>יהוה לבדו מורה בדרך אך מי זה האיש ירא יהוה.......</p><p>תהלים כה12: &quot;מִי זֶה הָאִישׁ יְרֵא יהוה יוֹרֶנּוּ בְּדֶרֶךְ יִבְחָר&quot; </p><p>והתשובה .....</p><p>תהלים כה13: &quot;נַפְשׁוֹ בְּטוֹב תָּלִין וְזַרְעוֹ יִירַשׁ אָרֶץ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-13 19:47:55'
+		)
+		;
+
