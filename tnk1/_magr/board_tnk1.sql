@@ -7529,3 +7529,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0122_10.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-14 13:13:54'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/iby.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-14 17:25:47'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/iby.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-14 17:28:23'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/iby.html'
+		;
+
