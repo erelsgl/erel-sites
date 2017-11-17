@@ -28755,3 +28755,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/hcd_hpljti_bsipur_jmjon.html',
+		'<p>2</p>',
+		'115208962830404920447',
+		'יובל סריקוב',
+		'2017-11-16 09:16:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-17 03:40:34' 
+			WHERE messageid=7216;
+
