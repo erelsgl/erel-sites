@@ -28774,3 +28774,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-11-17 03:40:34' 
 			WHERE messageid=7216;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מי שיכול להתפלל על אלמנת אבי מרי (מרים) בת מרג\' בבית חולים עם דלקת קשה בבטן לרפואה שלמה  </p><p></p>',
+		'111601069230051994581',
+		'Hadas Satamkar',
+		'2017-11-17 08:59:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>בראשית ג17: </p><p>&quot;וּלְאָדָם אָמַר כִּי שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ ****אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ**** בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ&quot;</p><p>האדם הוא תרכובת של גוף ונפש</p><p>1.הגוף נוצר מהאדמה</p><p>2. והנפש מרוח אלהים</p><p>--------------------------</p><p>אלהים לא יקלל את עצמו את רוח האלהים שבאדם [סעיף 2 שהוא חלק בלתי נפרד מהאדם]</p><p>אלהים קלל את האדמה בעבור האדם לכן גוף האדם [סעיף 1] הולך בלה וקמל עד מות האדם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-17 12:25:53'
+		)
+		;
+

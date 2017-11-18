@@ -7592,3 +7592,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-11-16 21:15:35'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-17 08:59:46'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-11-17 12:25:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
+		;
+
