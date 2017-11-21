@@ -28965,3 +28965,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/byt_hll.html',
+		'<p></p>',
+		'102741084182784189052',
+		'Matan kashy',
+		'2017-11-20 13:37:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>תהלים נא19: &quot;זִבְחֵי אֱלֹהִים רוּחַ נִשְׁבָּרָה לֵב נִשְׁבָּר וְנִדְכֶּה אֱלֹהִים לֹא תִבְזֶה&quot;</p><p>ישעיהו נז15: &quot;כִּי כֹה אָמַר רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ מָרוֹם וְקָדוֹשׁ אֶשְׁכּוֹן וְאֶת דַּכָּא וּשְׁפַל רוּחַ לְהַחֲיוֹת רוּחַ שְׁפָלִים וּלְהַחֲיוֹת לֵב נִדְכָּאִים&quot;</p><p>ישעיהו נז15: &quot;כִּי כֹה אָמַר רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ מָרוֹם וְקָדוֹשׁ אֶשְׁכּוֹן וְאֶת דַּכָּא וּשְׁפַל רוּחַ</p><p> [ וַיֹּאמֶר אֱלֹהִים אֶשְׁכּוֹן ברוּחַ נִשְׁבָּרָה לֵב נִשְׁבָּר וְנִדְכֶּה ] לְהַחֲיוֹת רוּחַ שְׁפָלִים וּלְהַחֲיוֹת לֵב נִדְכָּאִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-20 14:36:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-20 15:42:52' 
+			WHERE messageid=7230;
+
