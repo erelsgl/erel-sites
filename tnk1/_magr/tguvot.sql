@@ -29330,3 +29330,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>הגר ובנה ישמעאל שולחו ולא גורשו</p><p>והעדות והראיה היא כי ישמעאל שב משליחותו </p><p>וגם ביחד עם יצחק קברו בסוף את אברהם</p><p>גם ציפורה אשת משה שולחה ולא גורשה</p><p>שמות יח2: &quot;וַיִּקַּח יִתְרוֹ חֹתֵן מֹשֶׁה אֶת צִפֹּרָה אֵשֶׁת מֹשֶׁה אַחַר שִׁלּוּחֶיהָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-24 13:30:46'
+		)
+		;
+
