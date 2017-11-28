@@ -29440,3 +29440,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/sdr.html',
+		'<p>״כיוון שהרמח&quot;ל כתב את ספרו באמסטרדם שבהולנד, הוא הסתמך על הגירסה המתאימה לחיים בגלות, שבה יש מעמד מרכזי יותר לתורה, זהירות ופרישות.״</p><p>מעולה! </p>',
+		'105187234581216540568',
+		'danny t',
+		'2017-11-27 16:05:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>שלום וברכה</p><p>האם ישנו מקור לגילה של לאה בעת נישואיה ליעקב? האם היו תאומות (כיעקב ועשו)?</p><p>תודה</p>',
+		'100199024811680250466',
+		'YAactivities YActivities',
+		'2017-11-27 17:26:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_0.html',
+		'<p>גם וגם</p><p>המושיע הוא גם נושע</p><p>ומרוה גם הוא יורה </p><p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן וּמַרְוֶה גַּם הוּא יוֹרֶא&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-27 17:32:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>משלי לא6: &quot;תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ&quot;</p><p>תנו שכר לאובד = תנו שכר לעובד</p><p>תְּנוּ שֵׁכָר לְאוֹבֵד וְיַיִן לְמָרֵי נָפֶשׁ</p><p>יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד</p><p>&quot;שכר [משכר] לאובד&quot; = &quot;שכר [משכורת] לעובד&quot;</p><p>אשר ישכח את רִישׁוֹ ועוניו [כי קיבל משכורת] ועמלו [של עבודה] לא יזכר עוד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-28 05:02:12'
+		)
+		;
+
