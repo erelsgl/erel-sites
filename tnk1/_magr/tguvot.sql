@@ -29588,3 +29588,63 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-11-28 16:51:05' 
 			WHERE messageid=7270;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1050_2.html',
+		'<p>בראשית יח27: </p><p>&quot;וַיַּעַן אַבְרָהָם וַיֹּאמַר הִנֵּה נָא הוֹאַלְתִּי לְדַבֵּר אֶל אֲדֹנָי וְאָנֹכִי עָפָר וָאֵפֶר&quot; </p><p>ואתם אחיי אם זרע אברהם אתם אל תעשו עניין יותר מדי אם דרכו עליכם</p><p>**************************** הלא עפר אתם ****************************</p><p>בני אדם אם השפילו אותכם עד עפר ביזו אותכם ודרכו עליכם </p><p>דעו כי אלהים עשה עמכם חסד להכינכם ליום שבו ידרכו עליכם לנצח</p><p>******************* כִּי עָפָר אַתָּה וְאֶל עָפָר תָּשׁוּב *******************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-11-29 15:11:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlk0.html',
+		'<p>כלום, זה לא עוזר לי עדין לדעת מהו משטר מלוכני לפי דעתי התוכן אשר העלתם על המשטר מהלוגני אינו קשור לשאלה אשר כתובה בכותרת</p>',
+		'108835427753869942766',
+		'מאיה אמינוב גורדון חולון',
+		'2017-11-29 15:46:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlk0.html',
+		'<p></p>',
+		'108835427753869942766',
+		'מאיה אמינוב גורדון חולון',
+		'2017-11-29 15:46:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlk0.html',
+		'<p></p>',
+		'108835427753869942766',
+		'מאיה אמינוב גורדון חולון',
+		'2017-11-29 15:46:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/mlk0.html',
+		'<p></p>',
+		'108835427753869942766',
+		'מאיה אמינוב גורדון חולון',
+		'2017-11-29 15:46:52'
+		)
+		;
+
