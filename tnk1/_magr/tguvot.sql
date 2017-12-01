@@ -29648,3 +29648,36 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-30 11:47:08' 
+			WHERE messageid=7276;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-30 11:47:09' 
+			WHERE messageid=7275;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-11-30 11:47:10' 
+			WHERE messageid=7274;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ליטל בת זהבה ללידה קלה בידיים מלאות </p><p>שברגעים אלו בניתוח קיסרי תלד נסיכה בריאה ושלמה ותצא מניתוח בריאה ושלמה אמן</p>',
+		'100528282434983964769',
+		'סיון טבק',
+		'2017-11-30 20:33:33'
+		)
+		;
+

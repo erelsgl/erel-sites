@@ -4606,3 +4606,42 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/mlk0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-11-30 11:47:08'
+			WHERE parent='tnk1/kma/qjrim1/mlk0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-11-30 11:47:09'
+			WHERE parent='tnk1/kma/qjrim1/mlk0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-11-30 11:47:10'
+			WHERE parent='tnk1/kma/qjrim1/mlk0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_5.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-11-30 20:33:33'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
