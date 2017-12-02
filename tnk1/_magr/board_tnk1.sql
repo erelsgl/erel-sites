@@ -8275,3 +8275,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-01 10:17:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-01 13:31:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_27.html',
+				NULL,
+				'2017-12-01 15:45:04',
+				'2017-12-01 15:45:04',
+				'צמד ההפכים להעז / להעיז',
+				'אורנה ליברמן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-01 15:47:52'
+		WHERE ktovt_bn='tnk1/messages/new_27.html'
+		;
+
