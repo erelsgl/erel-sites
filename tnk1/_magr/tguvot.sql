@@ -29717,3 +29717,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p> המטעמים שעשתה רבקה ליצחק ביד יעקב וַיַּגֶּשׁ-לוֹ וַיֹּאכַל וַיָּבֵא לוֹ יַיִן וַיֵּשְׁתְּ---וכל זה ביום שבת</p><p>בראשית ב3: &quot;וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכָּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת&quot;</p><p>סוד הצלחת ברכת יעקב ביום שבת : &quot;וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל אֶת הַשַּׁבָּת לַעֲשׂוֹת אֶת הַשַּׁבָּת לְדֹרֹתָם בְּרִית עוֹלָם&quot;  [שמות לא16]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-02 15:32:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_24.html',
+		'<p>צבעי הקשת הם ברית אלהים</p><p>וכדי להבין לעומק את משמעות צבעי הקשת יש לשמור את ברית אלהים</p><p>http://tora.us.fm/tnk1/messages/prqim_t0505_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-03 04:26:15'
+		)
+		;
+
