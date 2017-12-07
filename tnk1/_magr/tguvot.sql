@@ -29870,3 +29870,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-12-06 04:58:53' 
 			WHERE messageid=7289;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_klx_0.html',
+		'<p>איוב ה26: &quot;תָּבוֹא בְכֶלַח אֱלֵי קָבֶר כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ&quot; </p><p>כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ = בזמן הנכון והמושלם בשלום כשאתה בשיא שלך זו המשמעות של שיבה טובה</p><p>כאשר אלהים בוצר את רוח הנגיד=המלך ... ככתוב בספר תהלים עו13: &quot;יִבְצֹר רוּחַ נְגִידִים נוֹרָא לְמַלְכֵי אָרֶץ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-06 19:43:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_klx_0.html',
+		'<p>איוב ה26: &quot;תָּבוֹא בְכֶלַח אֱלֵי קָבֶר כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ&quot;</p><p>כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ = בזמן הנכון והמושלם בשלום כשאתה בשיא הרוחני שלך זו המשמעות של שיבה טובה</p><p>כאשר אלהים בוצר את רוח הנגיד=המלך ... ככתוב בספר תהלים עו13: &quot;יִבְצֹר רוּחַ נְגִידִים נוֹרָא לְמַלְכֵי אָרֶץ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-06 19:44:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-06 19:44:11' 
+			WHERE messageid=7292;
+
