@@ -29901,3 +29901,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-12-06 19:44:11' 
 			WHERE messageid=7292;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_klx_0.html',
+		'<p>איוב ה26: &quot;תָּבוֹא בְכֶלַח אֱלֵי קָבֶר כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ&quot;</p><p>כַּעֲלוֹת גָּדִישׁ בְּעִתּוֹ = בזמן הנכון והמושלם בשלום כשאתה בשיא הרוחני שלך זו המשמעות של שיבה טובה</p><p>כאשר אלהים בוצר את רוח הנגיד=המלך ... ככתוב בספר תהלים עו13: &quot;יִבְצֹר רוּחַ נְגִידִים נוֹרָא לְמַלְכֵי אָרֶץ&quot;</p><p>כלח = ברוח אלהים באדם אשר בעת יום במות שבה אל האלהים ונא הבן כי כלח זה לא כח אלא רוח הפוך מכח</p><p>זכריה ד6: &quot;וַיַּעַן וַיֹּאמֶר אֵלַי לֵאמֹר זֶה דְּבַר יהוה אֶל זְרֻבָּבֶל לֵאמֹר לֹא בְחַיִל וְלֹא בְכֹחַ כִּי אִם בְּרוּחִי אָמַר יהוה צְבָאוֹת&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-07 13:18:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-07 13:18:54' 
+			WHERE messageid=7293;
+
