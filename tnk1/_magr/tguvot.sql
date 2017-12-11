@@ -30030,3 +30030,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>ויקרא יט18: </p><p>&quot;לֹא תִקֹּם וְלֹא תִטֹּר אֶת בְּנֵי עַמֶּךָ וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יהוה\'&quot;</p><p>אל תאמר האיש הזה ככה והאשה הזאת כזאת</p><p>זכור בני כי כל החיים ברוח אלהים ואתה הבט וראה לנשמה של האדם איתה תתקשר </p><p>זו אותה הנשמה שנמצאת גם בך זו רוח האלהים לאהבה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-10 12:02:08'
+		)
+		;
+
