@@ -8561,3 +8561,82 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-11 14:39:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/wnbwat_xgy.doc',
+				NULL,
+				'2017-12-11 18:37:47',
+				'2017-12-11 18:37:47',
+				'חנוכה ונבואת חגי',
+				'סימה שרייבר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_961.html',
+				NULL,
+				'2017-12-11 20:15:46',
+				'2017-12-11 20:15:46',
+				'פרשת מקץ- סוד היציאה מאפלה לאורה!/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-12-11 20:15:46'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-12 04:15:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0147_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-12 04:16:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0147_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-12 04:17:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0147_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-12 04:23:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0147_3.html'
+		;
+
