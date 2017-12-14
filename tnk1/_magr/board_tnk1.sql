@@ -8663,3 +8663,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-12-12 09:51:51'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-14 04:57:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
+		;
+
