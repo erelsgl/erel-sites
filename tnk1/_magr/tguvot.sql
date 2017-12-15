@@ -30135,3 +30135,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/zmn.html',
+		'<p>נראה שבעבר עול הבית היצריך הרבה יותר מאשר היום .כמו כן היום נשים גם לומדות ועובדות בזכות כך(אין צורך לכבס בגדים בנהר ולא לשאוב מים וכו..) לא מן הראוי שהיום נשים יקיימו מצוות עשה  שהזמן גרמא וכך תרבנה במצוות.?אני מרגישה שזה רק ימלא אותנו יותר מבחינה רוחנית.ויצור איזון יותר נכון בין כל העיסוקים הרבים שלנו .כאשר אנו מוותרות לעצמינו ומקיימות את המינימום רק אנו מפסידות מכך (אם זה בנושא התפילה או בכל נושא אחר)..</p>',
+		'113388917676665784752',
+		'דורון צפניה',
+		'2017-12-14 22:50:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/zmn.html',
+		'<p></p>',
+		'113388917676665784752',
+		'דורון צפניה',
+		'2017-12-14 22:55:18'
+		)
+		;
+

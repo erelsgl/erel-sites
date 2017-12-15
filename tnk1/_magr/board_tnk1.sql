@@ -8671,3 +8671,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-14 22:50:33'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/zmn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-14 22:55:18'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/zmn.html'
+		;
+
