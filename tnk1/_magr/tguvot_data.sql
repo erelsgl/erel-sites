@@ -388,3 +388,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/sofrim/zuckm/zmn.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2017-12-15 11:49:02'
+			WHERE parent='tnk1/sofrim/zuckm/zmn.html'
+			;
+
