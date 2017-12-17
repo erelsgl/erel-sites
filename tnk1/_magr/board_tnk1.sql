@@ -8687,3 +8687,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/zmn.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-16 16:30:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-16 16:31:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/index.html',
+				'tnk1/messages/klli_mdrjim_index_10.html',
+				NULL,
+				'2017-12-16 18:28:09',
+				'2017-12-16 18:28:09',
+				'אתר ספריא - שפע פירושים ותרגומים על התנך',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2017-12-16 18:28:09'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-17 05:08:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0315_0.html'
+		;
+
