@@ -30228,3 +30228,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/bkl_ljon_o_bljon_hqodj.html',
+		'<p>תוסיפו לאנשים מקום לכתוב מילים ןתתרגמו אותן</p><p></p>',
+		'102365701987966246586',
+		'Shaeon Cohen',
+		'2017-12-19 08:31:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/48.html',
+		'<p>בס&quot;ד</p><p>כל כך נהניתי לקרוא את הסיכום . </p><p>התורה כמו שהיא מלאה בתוכן לאין שיעור , אך יותר מכך שבא תלמיד חכם ושופך לתוכה את האור הגנוז שבתוכו ונותן לה מהלכים על דרך האמת, ממש בחינת נבואה פרטית, ההעצמה של הקדושה ,שכינה מדברת מקצה הקולמוס.</p>',
+		'113301235477652860026',
+		'אבי חן',
+		'2017-12-19 12:19:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-25-2122.html',
+		'<p>תודה רבה וחנוכה שמחה :)</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-12-20 03:56:50'
+		)
+		;
+
