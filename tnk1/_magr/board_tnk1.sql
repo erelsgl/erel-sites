@@ -8765,3 +8765,51 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2017-12-19 06:25:54'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-19 08:31:12'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/bkl_ljon_o_bljon_hqodj.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-19 12:19:55'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/48.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-20 03:56:50'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-25-2122.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/sjmal.html',
+				'tnk1/nvia/yxzqel/yx-04-04.html',
+				NULL,
+				'2017-12-20 03:58:03',
+				'2017-12-20 03:58:03',
+				'הנביא יחזקאל נושא את עוון ישראל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-20 14:22:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
