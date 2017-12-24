@@ -30376,3 +30376,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-12-22 10:29:04' 
 			WHERE messageid=7324;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/amozeg/mqorot/ahavat_ger.html',
+		'<p></p>',
+		'110546558810555042769',
+		'Sosi Kornfeld',
+		'2017-12-23 09:07:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/amozeg/mqorot/ahavat_ger.html',
+		'<p>6</p>',
+		'110546558810555042769',
+		'Sosi Kornfeld',
+		'2017-12-23 09:07:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>יש אנשים שאוהבים לשמוע דברי תורה ומוסר אבל לא לקחת מוסר</p><p>ספר משלי פרק יט (כז) חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר לִשְׁגוֹת מֵאִמְרֵי דָעַת:</p><p>וכי יש לקחת מוסר לעשות את דבר התורה [תכלס]</p><p>ספר משלי פרק א (ג) לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵשָׁרִים:</p><p>חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר עד מתי תשמע מוסר </p><p>וכי יש לָקַחַת מוּסַר ולהקים את דברי התורה לעשותם [תכלס]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-24 05:29:20'
+		)
+		;
+

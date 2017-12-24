@@ -8861,3 +8861,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-23 09:07:16'
+		WHERE ktovt_bn='tnk1/sofrim/amozeg/mqorot/ahavat_ger.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-23 09:07:42'
+		WHERE ktovt_bn='tnk1/sofrim/amozeg/mqorot/ahavat_ger.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-24 05:29:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2801_1.html'
+		;
+

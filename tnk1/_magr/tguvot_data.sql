@@ -654,3 +654,48 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t2709_1.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/amozeg/mqorot/ahavat_ger.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-12-23 09:07:16'
+		WHERE parent='tnk1/sofrim/amozeg/mqorot/ahavat_ger.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/amozeg/mqorot/ahavat_ger.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-12-23 09:07:42'
+		WHERE parent='tnk1/sofrim/amozeg/mqorot/ahavat_ger.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2801_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2017-12-24 05:29:20'
+		WHERE parent='tnk1/messages/prqim_t2801_1.html'
+		;
+
