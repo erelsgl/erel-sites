@@ -30412,3 +30412,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>ספר משלי פרק י (כה) כַּעֲבוֹר סוּפָה וְאֵין רָשָׁע וְצַדִּיק יְסוֹד עוֹלָם:</p><p>הסוּפָה כשמגיעה לחיי האדם לא פוסחת על איש בין אם צַדִּיק ובין אם רָשָׁע</p><p>אבל ההבדל הוא שהצַדִּיק מחזיק מעמד באמונתו</p><p>ספר משלי פרק יב (ז) הָפוֹךְ רְשָׁעִים וְאֵינָם וּבֵית צַדִּיקִים יַעֲמֹד:</p><p>כי הצדיק יכול גם הפוך לעמוד על ראשו לאמור כי בראשו יפתור כל צרה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-24 12:30:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/torim_wyonim.html',
+		'<p>בענין זהות מדעית של תור ובן יונה ובענין הקדמת בן יונה לתור רק בקרבן יולדת ועוד סוגיות מרתקות.</p><p>ראו דר משה רענן בקשורית הבאה : http://daf-yomi.com/DYItemDetails.aspx?itemId=16158</p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-12-25 07:13:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sdr.html',
+		'<p>מעניין . תודה. </p><p>בענין תור ובן יונה ראה מאמרו הבא של דר\' משה רענן http://daf-yomi.com/DYItemDetails.aspx?itemId=16158</p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2017-12-25 07:38:50'
+		)
+		;
+
