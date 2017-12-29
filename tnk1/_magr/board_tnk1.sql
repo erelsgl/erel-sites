@@ -9011,3 +9011,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1402_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-28 13:28:59'
+		WHERE ktovt_bn='tnk1/tora/brejit/sdom.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-28 16:58:47'
+		WHERE ktovt_bn='tnk1/tora/brejit/sdom.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-29 07:10:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2017-12-29 07:11:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
+		;
+
