@@ -30539,3 +30539,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/sdom.html',
+		'<p>ממש שטויות. איך אפשר לומר על אברהם אבינו שלא רצה להיכנס ל&quot;בוץ הזה&quot; אברהם אבינו נטל את חייו בידי הקב&quot;ה כדי לפנות את כל חייו לשליחות וקרוב יהודים להשם. </p>',
+		'106797747164026507428',
+		'רוחה בולאשניק',
+		'2017-12-28 13:28:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/sdom.html',
+		'<p>כותרת המאמר מסלפת את התורה</p><p>אין פסוק כזה בכל התורה !!!!!!!!!!!</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-28 16:58:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-28 16:59:13' 
+			WHERE messageid=7340;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>ספר שופטים פרק ה כתוב:</p><p>(א) וַתָּשַׁר דְּבוֹרָה וּבָרָק בֶּן אֲבִינֹעַם בַּיּוֹם הַהוּא לֵאמֹר:</p><p>(ב) בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל בְּהִתְנַדֵּב עָם בָּרְכוּ יְהֹוָה:</p><p>(ט) לִבִּי לְחוֹקְקֵי יִשְׂרָאֵל הַמִּתְנַדְּבִים בָּעָם בָּרְכוּ יְהֹוָה:</p><p>התנדבות בעם מביאה לבִּרְכַּת יְהֹוָה כי נובעת מאהבה שלא למען כסף</p><p>ואם חוֹקְקֵי יִשְׂרָאֵל יתנדבו בָּעָם וכל העם יתנדב </p><p>לאמור יעשה איש איש לפי כשרונו את עבודתו באמונה ולא בגלל אהבת הכסף</p><p>כי אם אומנות האומן באמונה ומלאכת המלאך במלאכות</p><p>אז אין אָרוּר עֹשֶׂה מְלֶאכֶת יְהֹוָה רְמִיָּה </p><p>אז בִּרְכַּת יְהֹוָה הִיא תַעֲשִׁיר וְלֹא יוֹסִף עֶצֶב עִמָּהּ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 07:10:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>עבודת הכהנים היא התנדבות מהלב על כן ציוה אלהים לתת להם המעשר</p><p>ספר שופטים פרק ה כתוב:</p><p>(א) וַתָּשַׁר דְּבוֹרָה וּבָרָק בֶּן אֲבִינֹעַם בַּיּוֹם הַהוּא לֵאמֹר:</p><p>(ב) בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל בְּהִתְנַדֵּב עָם בָּרְכוּ יְהֹוָה:</p><p>(ט) לִבִּי לְחוֹקְקֵי יִשְׂרָאֵל הַמִּתְנַדְּבִים בָּעָם בָּרְכוּ יְהֹוָה:</p><p>התנדבות בעם מביאה לבִּרְכַּת יְהֹוָה כי נובעת מאהבה שלא למען כסף</p><p>ואם חוֹקְקֵי יִשְׂרָאֵל יתנדבו בָּעָם וכל העם יתנדב </p><p>לאמור יעשה איש איש לפי כשרונו את עבודתו באמונה ולא בגלל אהבת הכסף</p><p>כי אם אומנות האומן באמונה ומלאכת המלאך במלאכות</p><p>אז אין אָרוּר עֹשֶׂה מְלֶאכֶת יְהֹוָה רְמִיָּה </p><p>אז בִּרְכַּת יְהֹוָה הִיא תַעֲשִׁיר וְלֹא יוֹסִף עֶצֶב עִמָּהּ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 07:11:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-29 07:11:38' 
+			WHERE messageid=7341;
+
