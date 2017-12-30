@@ -30601,3 +30601,139 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-12-29 07:11:38' 
 			WHERE messageid=7341;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/sdom.html',
+		'<p>נא למחוק את המאמר המטופש הזה</p><p>כותרת המאמר מסלפת בעליל את התורה</p><p>אין משפט כזה !!!! כי אבותינו הקדושים לא עשו נפש בסדום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 09:28:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/sdom.html',
+		'<p>נא למחוק את המאמר המטופש הזה</p><p>כותרת המאמר מסלפת בעליל את התורה</p><p>אין פסוק כזה אין משפט כזה !!!! </p><p>כי אבותינו הקדושים לא עשו נפש בסדום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 09:29:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-29 09:29:42' 
+			WHERE messageid=7343;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>מה זה מאסר עולם לרצח אחד או שני מאסרי עולם לרצח כפול</p><p>האם להיטלר הייתם נותנים 6 מיליון מאסרי עולם</p><p>אין צדק במשפטכם כי לא על פי התורה</p><p>על פי התורה יש לגזור מות על כל רוצח בזדון</p><p>ספר במדבר לה33 כתוב: </p><p>&quot;וְלֹא תַחֲנִיפוּ אֶת הָאָרֶץ אֲשֶׁר אַתֶּם בָּהּ כִּי הַדָּם הוּא יַחֲנִיף אֶת הָאָרֶץ וְלָאָרֶץ לֹא יְכֻפַּר לַדָּם אֲשֶׁר שֻׁפַּךְ בָּהּ כִּי אִם בְּדַם שֹׁפְכוֹ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 10:03:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>יש אנשים שאוהבים לשמוע דברי תורה ומוסר אבל לא לקחת מוסר</p><p>ספר משלי פרק יט (כז) חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר לִשְׁגוֹת מֵאִמְרֵי דָעַת:</p><p>וכי יש לקחת מוסר [תכלס]</p><p>ספר משלי פרק א (ג) לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵשָׁרִים:</p><p>חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר עד מתי תשמע מוסר </p><p>וכי יש לָקַחַת מוּסַר ולהקים את דברי התורה [תכלס]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 10:10:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>יש לשמוע וגם לעשות</p><p>מי ששומע ולא עושה למעשה לא שומע</p><p> יש אנשים שאוהבים לשמוע דברי תורה ומוסר אבל לא לקחת מוסר</p><p>ספר משלי פרק יט (כז) חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר לִשְׁגוֹת מֵאִמְרֵי דָעַת:</p><p>וכי יש לקחת מוסר [תכלס]</p><p>ספר משלי פרק א (ג) לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵשָׁרִים:</p><p>חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר עד מתי תשמע מוסר </p><p>וכי יש לָקַחַת מוּסַר ולהקים את דברי התורה [תכלס]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 10:13:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-29 10:13:42' 
+			WHERE messageid=7346;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>יש לשמוע וגם לעשות</p><p>מי ששומע ולא עושה למעשה לא שומע</p><p>------- אין טעם לשמוע ולא לעשות ------- </p><p>יש אנשים שאוהבים לשמוע דברי תורה ומוסר אבל לא לקחת מוסר</p><p>ספר משלי פרק יט (כז) חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר לִשְׁגוֹת מֵאִמְרֵי דָעַת:</p><p>וכי יש לקחת מוסר [תכלס]</p><p>ספר משלי פרק א (ג) לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵשָׁרִים:</p><p>חֲדַל בְּנִי לִשְׁמֹעַ מוּסָר עד מתי תשמע מוסר</p><p>וכי יש לָקַחַת מוּסַר ולהקים את דברי התורה [תכלס]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 10:15:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-29 10:15:41' 
+			WHERE messageid=7347;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0107_2.html',
+		'<p>מבול הגשם ארבעים יום בימי נח היה למעשה סוּפָה סופת גשמים עזה במשך 40 יום</p><p>ספר משלי פרק י (כה) כַּעֲבוֹר סוּפָה וְאֵין רָשָׁע וְצַדִּיק יְסוֹד עוֹלָם:</p><p>הסוּפָה כשמגיעה לחיי האדם לא פוסחת על איש בין אם צַדִּיק ובין אם רָשָׁע</p><p>אבל ההבדל הוא שהצַדִּיק מחזיק מעמד באמונתו</p><p>ספר משלי פרק יב (ז) הָפוֹךְ רְשָׁעִים וְאֵינָם וּבֵית צַדִּיקִים יַעֲמֹד:</p><p>כי הצדיק יכול גם הפוך לעמוד על ראשו לאמור כי בראשו יפתור כל צרה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 10:22:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_2.html',
+		'<p>אלהים ברא כל בעל-חיים באופן מושלם ואין צורך לאלף אותם</p><p>מי שחושב לאלף אילוף בעלי חיים לא מאמין ביצירתו המושלמת של האלהים </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 12:35:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_2.html',
+		'<p>אלהים ברא באהבתו כל בעלי חיים</p><p>רק מי שאינו מאמין באהבת אלהים</p><p>או מי שחושב את עצמו לאלהים</p><p>חושב לאלף ולחנך את בעלי החיים</p><p>ובשפה פשוטה....</p><p>אלהים ברא כל בעל-חיים באופן מושלם ואין צורך לאלף אותם</p><p>מי שחושב לאלף אילוף בעלי חיים לא מאמין ביצירתו המושלמת של האלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2017-12-29 13:11:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-29 13:11:52' 
+			WHERE messageid=7350;
+
