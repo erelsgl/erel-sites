@@ -30737,3 +30737,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2017-12-29 13:11:52' 
 			WHERE messageid=7350;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jm0.html',
+		'<p>חשבו שזה צדקיהו. אבל זה לא הצליח</p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2017-12-30 22:34:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-15.html',
+		'<p>הראל סגל לוי אתה כותב מאמרים נפלאים , כבר מספר פעמים שאני נתקל ברשת בקטעים שונים שלך על </p><p>פסוקים שונים וממש נהנה .   יישר כח , אשריכם ישראל ....</p>',
+		'108294782568984298508',
+		'רני יעקב בירון',
+		'2017-12-30 22:39:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-31 06:30:51' 
+			WHERE messageid=7326;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2017-12-31 06:30:53' 
+			WHERE messageid=7327;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-15.html',
+		'<p>תודה רבה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2017-12-31 06:34:00'
+		)
+		;
+
