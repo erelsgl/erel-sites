@@ -30887,3 +30887,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-01-01 05:32:25' 
 			WHERE messageid=7359;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-20.html',
+		'<p> הִנֵּה הַחִצִּים מִמְּךָ וָהֵנָּה -- לאמור כי החצים קרובים הנה אל הנער ויקחם וישוב אל יהונתן ועל כן אות היא כי גם דוד ישוב</p><p>הִנֵּה הַחִצִּים מִמְּךָ וָהָלְאָה --- כי החצים רחוקים מהנער ולא שב אל יהונתן כי אם ירוץ הלאה רחוק וזה האות לשלח את דוד</p><p>לֵךְ כִּי שִׁלַּחֲךָ יְהוָה --- לאמור כי אות החצים על פי יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-02 13:50:34'
+		)
+		;
+

@@ -9210,3 +9210,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-01-01 16:27:15'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-02 13:50:34'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-20.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_967.html',
+				NULL,
+				'2018-01-02 21:47:19',
+				'2018-01-02 21:47:19',
+				'פרשת שמות- מדוע משה גדל והתחנך בבית פרעה?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-01-02 21:47:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
