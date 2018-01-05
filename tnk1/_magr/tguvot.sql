@@ -30899,3 +30899,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ללידה קלה בשעות אלו לנוח בת אפרת </p>',
+		'117254228691002586405',
+		'Avirama Alon',
+		'2018-01-04 20:49:57'
+		)
+		;
+
