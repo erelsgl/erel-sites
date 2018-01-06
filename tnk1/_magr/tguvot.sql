@@ -30899,3 +30899,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>ללידה קלה בשעות אלו לנוח בת אפרת </p>',
+		'117254228691002586405',
+		'Avirama Alon',
+		'2018-01-04 20:49:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>איך ניתן למצוא שתי מלים רצופות עוקבות, כמו ״משה משה״  ״קדוש קדוש״ וכו</p><p>תודה</p><p>אהרן</p>',
+		'101071984888435076391',
+		'אהרן',
+		'2018-01-05 09:47:05'
+		)
+		;
+
