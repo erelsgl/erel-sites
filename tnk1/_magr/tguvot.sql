@@ -30923,3 +30923,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>יפה מאוד, כדי שגם  פשוטי העם יבינו כדי אולי להוסיף תאריך לועזי,</p>',
+		'104279799495439090973',
+		'אברהם בר',
+		'2018-01-06 20:01:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>שני צירים בת נצחיה בחדר לידה לידה קלה בעזרת השם</p>',
+		'118272871926553603511',
+		'שמואל שחר',
+		'2018-01-06 23:35:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>הנה פתרון חלקי:</p><p>http://tora.us.fm/tnk/find.php?q=+%28%5B%5E+%5D%2B%29+%5C1+</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-01-07 05:57:52'
+		)
+		;
+
