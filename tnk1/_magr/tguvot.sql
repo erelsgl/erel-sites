@@ -30959,3 +30959,75 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p></p>',
+		'108747686729666410587',
+		'נילי ארד נחום',
+		'2018-01-07 10:04:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p></p>',
+		'108747686729666410587',
+		'נילי ארד נחום',
+		'2018-01-07 10:07:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לבת שלי </p><p>...אלה בת נילי לידה טבעית קלה ובריאה אמן</p>',
+		'108747686729666410587',
+		'נילי ארד נחום',
+		'2018-01-07 10:10:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לבת שלי </p><p>...אלה בת נילי לידה טבעית קלה ובריאה אמן</p>',
+		'108747686729666410587',
+		'נילי ארד נחום',
+		'2018-01-07 10:10:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>בעזרת השם...לידה טבעית..לידה מושלמת..לידה בריאה...אמן.</p>',
+		'108747686729666410587',
+		'נילי ארד נחום',
+		'2018-01-07 10:12:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>למזי כלתי, בעזרת השם לידה קלה טבעית ובריאה, ובריאות שלמה</p>',
+		'105328179295212391973',
+		'Ela Vurtzel',
+		'2018-01-08 06:23:10'
+		)
+		;
+
