@@ -31031,3 +31031,75 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>חפשתי ברכה לרפואה לזמר אדם אשר מאשופז בטיפול נמרץ</p><p></p>',
+		'101288618812333499880',
+		'Inbal Mor',
+		'2018-01-08 08:07:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>חפשתי ברכה לרפואה לזמר אדם אשר מאשופז בטיפול נמרץ</p><p></p>',
+		'101288618812333499880',
+		'Inbal Mor',
+		'2018-01-08 08:08:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לכלתינו היקרה רעות בת שמחה בשעה טובה לידה קלה ומוצלחת אמן!</p>',
+		'116888478875993494365',
+		'ראובן בן שמואל',
+		'2018-01-08 09:48:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>ההבדל בין משה לבין פרעה</p><p>1.שמות ה5: &quot;וַיֹּאמֶר פַּרְעֹה הֵן רַבִּים עַתָּה עַם הָאָרֶץ וְהִשְׁבַּתֶּם אֹתָם מִסִּבְלֹתָם&quot;</p><p>2. שמות ב11: &quot;וַיְהִי בַּיָּמִים הָהֵם וַיִּגְדַּל מֹשֶׁה וַיֵּצֵא אֶל אֶחָיו וַיַּרְא בְּסִבְלֹתָם וַיַּרְא אִישׁ מִצְרִי מַכֶּה אִישׁ עִבְרִי מֵאֶחָיו&quot; </p><p>מארמון הממלכה יוצא משה אל אחיו</p><p>אך פרעה מתנשא וקרא להם עַם הָאָרֶץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-08 11:51:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_bxira.html',
+		'<p>זה אחלה אתר</p><p></p>',
+		'105462208040704006827',
+		'LIAM GINI KING',
+		'2018-01-08 13:32:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-20-08.html',
+		'<p>משלי ד3: &quot;כִּי בֵן הָיִיתִי לְאָבִי רַךְ וְיָחִיד לִפְנֵי אִמִּי&quot; </p><p>שלמה המלך שהיה ירא אלהים העיד זאת על עצמו כרך ויחיד</p><p>אך בימי שלמה היה שלום ולא מלחמה ולא נדרש לצאת לקרב</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-09 04:33:12'
+		)
+		;
+

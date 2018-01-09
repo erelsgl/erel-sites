@@ -342,3 +342,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = '', `tarik_hosfa` = '2017-10-08 09:16:04' WHERE `bn` = 'יד חזית' AND `sfr` = 'ישע' AND `prq0` = 'נז' AND `psuq0` = 8 AND `sug` = 'בדיחה' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'דינה שמעון ולוי הסבר המעשה ודרכו של לוי' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שופטים ז3' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 8 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: המדינאי' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ב14' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 9 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קרבנות מלחמה וקרבנות מזבח' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
