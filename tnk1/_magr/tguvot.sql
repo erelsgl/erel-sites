@@ -31103,3 +31103,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>לאוהבי בעלי החיים לטבעונים ולצמחונים</p><p>https://www.facebook.com/animal.org.il/</p><p>http://anonymous.org.il/</p><p> אנונימוס לזכויות בעלי-חיים וכל מי שרוצה להבין</p><p>שמעו נא דברי איש אלהים אמת ובתקוה שתשכילו.</p><p>בדור הזה מתעללים בפרה לכן לא מוסרי לקנות חלב !</p><p>מה שאכתוב כעת נכון למצב אשר לא התעללו בפרה</p><p>חלב הוא משקה קדוש [אם תרצו משקה האלים]</p><p>ואם אתם קדושים אז החלב יהיה לכם לברכה</p><p>ואם אתם טמאים [כמו הדור הרע הזה] החלב יזיק לכם</p><p>לכן יש מחקרים סותרים והמדענים במחלוקת ומתווכחים בינהם</p><p>כי הם רואים שהחלב מזיק בד&quot;כ למבוגרים אך מיטיב עם הילדים </p><p>והסיבה היא שהילדים טהורים כי טרם חטאו מעץ הדעת [גיל הבגרות המינית] וטרם חללו את קדושתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-09 13:32:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>תהלים קה14: &quot;לֹא הִנִּיחַ אָדָם לְעָשְׁקָם וַיּוֹכַח עֲלֵיהֶם מְלָכִים&quot;</p><p>תהלים קה15: &quot;אַל תִּגְּעוּ בִמְשִׁיחָי וְלִנְבִיאַי אַל תָּרֵעוּ&quot;</p><p>תהלים קה16: &quot;וַיִּקְרָא רָעָב עַל הָאָרֶץ כָּל מַטֵּה לֶחֶם שָׁבָר&quot;</p><p>הסיבה לרעב עַל הָאָרֶץ כי רצו לגעת לרעה בִמְשִׁיחָי וְלִנְבִיאַי לְעָשְׁקָם</p><p>אתם רציתם לגעת לרעה בִּמְשִׁיחָי וּבִנְבִיאַי לְעָשְׁקָם לכן אתם תרעבו</p><p>ובעממית אומרים מידה כנגד מידה וכתוב בספר תהילות פרק כח4: </p><p>&quot;תֶּן לָהֶם כְּפָעֳלָם וּכְרֹעַ מַעַלְלֵיהֶם כְּמַעֲשֵׂה יְדֵיהֶם תֶּן לָהֶם הָשֵׁב גְּמוּלָם לָהֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-09 19:58:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לשרית ב</p><p>ת אביבה לידה קלה ומהירה</p>',
+		'115138961276463567675',
+		'אביבה נוי',
+		'2018-01-09 21:15:25'
+		)
+		;
+
