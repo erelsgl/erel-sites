@@ -9345,3 +9345,121 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-08 08:07:47'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-08 08:08:19'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-08 09:48:52'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-08 11:51:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-08 13:32:14'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_bxira.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_968.html',
+				NULL,
+				'2018-01-08 20:10:14',
+				'2018-01-08 20:10:14',
+				'פרשת  וארא- בין נבואמה ת משה לנבואת שאר הנביאים?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-01-08 20:10:14'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4cva.html',
+				'tnk1/tora/dvrim/dm-20-08.html',
+				NULL,
+				'2018-01-09 03:29:35',
+				'2018-01-09 03:29:35',
+				'פטור מגיוס לפחדנים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-01-09 03:29:35'
+			WHERE ktovt_bn='tnk1/msr/4cva.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-09 04:33:12'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-20-08.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-09 13:32:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-09 19:58:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-09 21:15:25'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
