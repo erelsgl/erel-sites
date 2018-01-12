@@ -9486,3 +9486,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-01-10 21:51:37'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-11 08:02:07'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-13-03.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-11 13:40:36'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/tfilt_jlmo.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-11 13:40:43'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/tfilt_jlmo.html'
+		;
+

@@ -31139,3 +31139,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-13-03.html',
+		'<p>השערתך מעניינת מאד. תודה. </p><p>עלי לציין שהסבירו לי בשעתו שכאשר צבע כהה נמצא בסמיכות לצבע בהיר, העין מקבלת תחושה של תלת מימד, של עומק. </p><p>ואכן נסה להתבונן במסך המחשב יחסית למסגרת השחורה המקיפה אותו. </p><p>הבעיה היא שלכאורה הבהיר הוא הנראה עמוק יותר. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2018-01-11 08:02:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/tfilt_jlmo.html',
+		'<p></p>',
+		'110875812336930030254',
+		'Alon Talmi',
+		'2018-01-11 13:40:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-01-11 13:40:39' 
+			WHERE messageid=7383;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/tfilt_jlmo.html',
+		'<p></p>',
+		'110875812336930030254',
+		'Alon Talmi',
+		'2018-01-11 13:40:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-01-11 13:40:45' 
+			WHERE messageid=7384;
+
