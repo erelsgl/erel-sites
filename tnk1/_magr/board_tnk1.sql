@@ -9510,3 +9510,419 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/mlkima/tfilt_jlmo.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:28:24'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:28:34'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:28:50'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:13'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:15'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:16'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:18'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:19'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:21'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:23'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:24'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:26'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:27'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:28'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:38'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:40'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:41'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:42'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:43'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:47'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:48'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:49'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:50'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:57'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:58'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:59'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:30:59'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:00'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:03'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:04'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:05'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:06'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:07'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:08'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:08'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:09'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:15'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:17'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:18'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:19'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:20'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:22'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:24'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:25'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:26'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:26'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:28'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:29'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:30'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:31'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:32'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-12 17:31:33'
+		WHERE ktovt_bn='tnk1/tora/brejit/hgr_wsra.html'
+		;
+

@@ -31189,3 +31189,627 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-01-11 13:40:45' 
 			WHERE messageid=7384;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p>קקי שמאקי</p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:28:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:28:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p>סתם קקי פופונים</p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:28:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p>רדו למטה</p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p>ועוד למטה</p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:30:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p>ועוד למטה</p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/hgr_wsra.html',
+		'<p></p>',
+		'111503013555945512824',
+		'ליה צ\'יצ\'יאן',
+		'2018-01-12 17:31:33'
+		)
+		;
+
