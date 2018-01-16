@@ -9973,3 +9973,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-01-14 21:47:47'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-01-15 20:57:09'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+

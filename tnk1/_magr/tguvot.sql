@@ -31825,3 +31825,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לשטרנה שרה בת לאה טבי לידה קלה</p>',
+		'105513198681028380077',
+		'yacov000@yahoo.fr',
+		'2018-01-15 20:57:09'
+		)
+		;
+
