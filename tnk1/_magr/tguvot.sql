@@ -31837,3 +31837,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0106_13.html',
+		'<p>אני עושה עבודת חקר על הסיפור המיקראי  נח והמבול והשיר הזה לא משהו רואים שאין הרבה השקעה בשיר הזה</p>',
+		'111532304595539889839',
+		'יהונתן מכבי',
+		'2018-01-17 12:40:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-01-17 12:40:58' 
+			WHERE messageid=7439;
+
