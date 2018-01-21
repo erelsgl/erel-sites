@@ -31997,3 +31997,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>הנביא קורא לבעלי החיים לבוא לאכול</p><p>ישעיהו נו9: &quot;כֹּל חַיְתוֹ שָׂדָי אֵתָיוּ לֶאֱכֹל כֹּל חַיְתוֹ בַּיָּעַר&quot;</p><p>ישעיהו נו9: &quot;כֹּל חַיְתוֹ שָׂדָי אֵתָיוּ לֶאֱכֹל --- וחיות השדה שואלות מי יבוא כולנו והנביא עונה כן כֹּל חַיְתוֹ בַּיָּעַר&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-01-20 16:18:13'
+		)
+		;
+
