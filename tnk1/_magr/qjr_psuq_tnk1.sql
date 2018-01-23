@@ -362,3 +362,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קרבנות מלחמה וקרבנות מזבח' AND `sfr` = 'דבר' AND `prq0` = 'כ' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-01-23 04:39:25' WHERE `bn` = 'ביאור:ויקרא יט14' AND `sfr` = 'הוש' AND `prq0` = 'יד' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2018-01-23 04:39:25' WHERE `bn` = 'ביאור:ויקרא יט14' AND `sfr` = 'ויק' AND `prq0` = 'יט' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-01-23 04:39:25' WHERE `bn` = 'ביאור:ויקרא יט14' AND `sfr` = 'יחז' AND `prq0` = 'יד' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-01-23 04:39:25' WHERE `bn` = 'ביאור:ויקרא יט14' AND `sfr` = 'תהל' AND `prq0` = 'יט' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: החוקים' AND `sfr` = 'ויק' AND `prq0` = 'יט' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
