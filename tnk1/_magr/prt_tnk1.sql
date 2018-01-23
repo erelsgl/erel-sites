@@ -399,3 +399,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2017-10-26 16:08:18' WHERE `qod` = 'ביאור:איוב ב4' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2018-01-23 04:32:07' WHERE `qod` = 'ביאור:ויקרא יט14' AND 1 LIMIT 1;
+
