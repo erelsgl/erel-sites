@@ -32138,3 +32138,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-01-23 16:28:07' 
 			WHERE messageid=7455;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/nfj.html',
+		'<p>נפש = גרון: https://www.safa-ivrit.org/expressions/tsipor.php</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-01-26 03:48:11'
+		)
+		;
+
