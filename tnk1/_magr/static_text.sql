@@ -7,7 +7,5 @@ CREATE TABLE `static_text` (
   UNIQUE KEY `name` (`name`)
 ) ENGINE=MyISAM AUTO_INCREMENT=59 CHARACTER SET hebrew;
 
-SET character_set_database=utf8;
-
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/static_text.txt'  INTO TABLE static_text (id,name,English,Hebrew);
 

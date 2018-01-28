@@ -1,7 +1,7 @@
-daian moshe	http://tora.us.fm/tnk1/_themes/daian.gif
+daian moshe	/tnk1/_themes/daian.gif
 ?¦??¤? ?¢? ?? ?????¨	http://www.google.com/friendconnect/scs/images/NoPictureDark.png
-אראל	http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs275.snc3/23255_529200667_7312_q.jpg
-מורה לתורה משה דין	http://tora.us.fm/tnk1/_themes/daian.gif
+אראל	http://erelsgl.github.io/images/erel35y.jpg
+מורה לתורה משה דין	/tnk1/_themes/daian.gif
 hagai hoffer	http://www.google.com/friendconnect/profile/picture/JGmFzWLUnOp41Z0oJR69m-J8Yhx76Vo4h594El8_qdvO73V6wEPxC3OZGT2IzMkDydQ_-DxMvg-1k4LETof6GonS5WqdP5L5ka1_3z_cSbg
 12worku	http://www.google.com/friendconnect/scs/images/NoPictureDark.png
 hapatish	http://www.google.com/friendconnect/profile/picture/DdIhPMObbcN2LSWBy1OWXUwCT3aTzhrsAhH0WfUFwIwLDXuJzVtqEQnyzYGVDUeeZs7P9zPgHdY5Sjx0JwQNmzdYr1iaLwbjdXr3NiQEe8OMS-QA-p6qdWU0HeBNK6kwC57kAP--01qRHpyKbY5GIzYSqNIWonbNj7CXfM0KUpR0xTO6JltLwYenjTEOJKiRycDNg96f0VCssfz5dM3X4l1joEMIXfF0zDqCwxo5MksI9q8lT5amx3VLgHc8Z2YB6PMh1ZOartr1yUnKynK_hw
@@ -42,7 +42,7 @@ eli	http://www.google.com/friendconnect/profile/picture/Q-C3NSmDSHsfu9-blwtT7A2F
 ariena	http://www.google.com/friendconnect/scs/images/NoPictureDark.png
 uv	http://www.google.com/friendconnect/static/images/NoPictureDark.png
 ינשוף הברים	http://3.bp.blogspot.com/_AJm4b4H20nY/SaotbIt6r0I/AAAAAAAAA8A/FuFweaSA4O4/S45/0DSC_0069+gb.JPG
-אלברט שבות	http://tora.us.fm/tnk1/tnk1/sofrim/shabot/albert.png
+אלברט שבות	/tnk1/sofrim/shabot/albert.png
 nitz38	http://www.google.com/friendconnect/static/images/NoPictureDark.png
 isaac	http://www.google.com/friendconnect/static/images/NoPictureDark.png
 Igor	http://www.google.com/friendconnect/profile/picture/Ikl9Lvy1Q0-Q2NvYFICKkA2FWO2q5u2RAhH0WfUFwIwLDXuJzVtqEQnyzYGVDUeeZs7P9zPgHdY5Sjx0JwQNmzdYr1iaLwbjrtY2Xd6NkxD8c-dJOURVxHW3NzAhZfORbkXSpcYCsst_VY1q0dKlgfZlwwKY9rKJUqf6Zixj2spNN0Z4pmkl-yw33CkZ4sr0AIAD8MtP-_LcadlqksdntIgn5lga2N1t04pbbRTcP6AEdBOmA1k9mpQhqkHy5jzPyPIcpR0LovjAziDcDQJ6ug
@@ -236,5 +236,8 @@ Tomer Greenberg	http://www.google.com/friendconnect/profile/picture/Xhe3p14OapPX
 motinue	http://www.articles.co.il/images/uploads/img1569.jpg
 מוטי לקסמן	http://www.articles.co.il/images/uploads/img1569.jpg
 אהובה קליין	http://upload.wikimedia.org/wikipedia/commons/5/53/Copyright_crystal_orange.png
-albert shabot	http://tora.us.fm/tnk1/tnk1/sofrim/shabot/albert.png
-אהרן אמוזג	http://tora.us.fm/tnk1/sofrim/amozeg/ma/ma.small.png
+albert shabot	/tnk1/sofrim/shabot/albert.png
+אהרן אמוזג	/tnk1/sofrim/amozeg/ma/ma.small.png
+Erel Segal Halevi	http://erelsgl.github.io/images/erel35y.jpg
+Erel Segal-Halevi	http://erelsgl.github.io/images/erel35y.jpg
+DAIAN SHEM 	/tnk1/_themes/daian.gif
