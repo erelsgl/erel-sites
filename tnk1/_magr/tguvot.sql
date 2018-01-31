@@ -152,3 +152,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לנטלי היקרה שלנו, לידה קלה ותינוקת בריאה בע&quot;ה!</p>',
+		'118244617096071622833',
+		'Ruti Reiner',
+		'2018-01-30 15:32:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לעדי כלתי המקסימה. לידה קלה ובשורות טובות בעזרת השם . באהבה</p><p></p>',
+		'111728821825700294272',
+		'Shlomo Cohen',
+		'2018-01-31 06:03:14'
+		)
+		;
+
