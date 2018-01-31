@@ -17,7 +17,7 @@ $GLOBALS['USER_TABLES'] = array(
 		'whatsnew' => array(),
 		
 		'psuqim_qijurim' => array('book','chapter','verse_number'),
-		'sgulot' => array('book','chapter_number','verse_number'),
+//		'sgulot' => array('book','chapter_number','verse_number'),
 
 		'prt_tnk1' => array("qod"),
 		'qjr_tnk1_tnk1' => array("av","bn"),
