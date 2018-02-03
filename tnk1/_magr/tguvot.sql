@@ -317,3 +317,84 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-02-01 15:14:16' 
 			WHERE messageid=7482;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>איוב כז19: &quot;עָשִׁיר יִשְׁכַּב וְלֹא יֵאָסֵף עֵינָיו פָּקַח וְאֵינֶנּוּ&quot;</p><p>לכן אל תאכל ארוחה עשירה בטרם תשכב כי לא תאסף רוחך מאת אלהים </p><p>לאמור לא תישן טוב על משכבך וגם כשתקום לפקוח עיניך לא תמצא רוחך</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-02 12:44:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ זה בחיים על פני האדמה וְדוֹר בָּא זה המתים וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>תהלים עח39: &quot;וַיִּזְכֹּר כִּי בָשָׂר הֵמָּה רוּחַ הוֹלֵךְ וְלֹא יָשׁוּב&quot; </p><p>כי כל כל עוד רוח האדם הוֹלֵךְ בחיים על פני האדמה טרם שב אל העפר</p><p>קהלת ג20: &quot;הַכֹּל הוֹלֵךְ אֶל מָקוֹם אֶחָד הַכֹּל הָיָה מִן הֶעָפָר וְהַכֹּל שָׁב אֶל הֶעָפָר&quot;</p><p> קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-02 14:25:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ זה בחיים על פני האדמה וְדוֹר בָּא זה המות וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>תהלים עח39: &quot;וַיִּזְכֹּר כִּי בָשָׂר הֵמָּה רוּחַ הוֹלֵךְ וְלֹא יָשׁוּב&quot;</p><p>כי כל כל עוד רוח האדם הוֹלֵךְ בחיים על פני האדמה טרם שב אל העפר</p><p>קהלת ג20: &quot;הַכֹּל הוֹלֵךְ אֶל מָקוֹם אֶחָד הַכֹּל הָיָה מִן הֶעָפָר וְהַכֹּל שָׁב אֶל הֶעָפָר&quot;</p><p>קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-02 14:27:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-02 14:28:04' 
+			WHERE messageid=7485;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת פרק א פסוק ד כתוב: דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת</p><p>בספר קהלת כתוב: וְהָאָרֶץ לְעוֹלָם עֹמָדֶת [זו הארץ לאלהים אשר חי לעולם]</p><p>---</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ זה בחיים על פני האדמה וְדוֹר בָּא זה המות וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>תהלים עח39: &quot;וַיִּזְכֹּר כִּי בָשָׂר הֵמָּה רוּחַ הוֹלֵךְ וְלֹא יָשׁוּב&quot;</p><p>כי כל כל עוד רוח האדם הוֹלֵךְ בחיים על פני האדמה טרם שב אל העפר</p><p>קהלת ג20: &quot;הַכֹּל הוֹלֵךְ אֶל מָקוֹם אֶחָד הַכֹּל הָיָה מִן הֶעָפָר וְהַכֹּל שָׁב אֶל הֶעָפָר&quot;</p><p>קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-02 14:37:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-02 14:37:31' 
+			WHERE messageid=7486;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>קהלת פרק א פסוק ד כתוב: דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת</p><p>בספר קהלת כתוב: וְהָאָרֶץ לְעוֹלָם עֹמָדֶת [זו הארץ לאלהים אשר חי לעולם]</p><p>---</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ זה בחיים על פני האדמה וְדוֹר בָּא כאשר באה השמש סוף היום זה המות וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>תהלים עח39: &quot;וַיִּזְכֹּר כִּי בָשָׂר הֵמָּה רוּחַ הוֹלֵךְ וְלֹא יָשׁוּב&quot;</p><p>כי כל כל עוד רוח האדם הוֹלֵךְ בחיים על פני האדמה טרם שב אל העפר</p><p>קהלת ג20: &quot;הַכֹּל הוֹלֵךְ אֶל מָקוֹם אֶחָד הַכֹּל הָיָה מִן הֶעָפָר וְהַכֹּל שָׁב אֶל הֶעָפָר&quot;</p><p>קהלת יב7: &quot;וְיָשֹׁב הֶעָפָר עַל הָאָרֶץ כְּשֶׁהָיָה וְהָרוּחַ תָּשׁוּב אֶל הָאֱלֹהִים אֲשֶׁר נְתָנָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-02 14:50:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-02 14:51:00' 
+			WHERE messageid=7487;
+
