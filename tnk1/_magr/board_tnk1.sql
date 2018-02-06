@@ -333,3 +333,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/teb.html',
+				'tnk1/tora/dvrim/dm-07-26.html',
+				NULL,
+				'2018-02-05 20:13:32',
+				'2018-02-05 20:13:32',
+				'לא תביא תועבה אל ביתך',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jmn1.html',
+				'tnk1/tora/dvrim/dm-32-15.html',
+				NULL,
+				'2018-02-06 07:02:14',
+				'2018-02-06 07:02:14',
+				'וישמן ישורון ויבעט',
+				'אראל',
+				''
+			)
+		;
+
