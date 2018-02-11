@@ -585,3 +585,101 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>תודה על אתר מקסים שגיליתי.. </p><p>אני מחפשת פסוק בתהילים שבו יש מילים רצופות שמתחילות באות א’..  ממש לא מצליחה להבין את.מנוע החיפוש.. תודה לכם..  </p><p></p>',
+		'114364053535395309891',
+		'חיה ידגר',
+		'2018-02-10 19:37:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>צריכה חמש מילים רצופות. המילה חמש* נשמטה..</p>',
+		'114364053535395309891',
+		'חיה ידגר',
+		'2018-02-10 19:41:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>צריכה חמש מילים רצופות. המילה חמש* נשמטה..</p>',
+		'114364053535395309891',
+		'חיה ידגר',
+		'2018-02-10 19:42:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-10 19:43:07' 
+			WHERE messageid=7506;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/byt_hll.html',
+		'<p>ובנוסף \'נוחין ועלובין היו\' - משמע, סבלניים ולא מתנשאים! זאת בשונה מבית שמאי, שהפכו קשים ואלימים. &quot;&quot;אותו יום היה קשה לישראל כיום שנעשה בו העגל...תנא ר\' יהושע אונייא תלמידי בית שמאי עמדו להן מלמטה והיו הורגין בתלמידי בית הלל, תני [גרסה אחרת]: ששה מהן עלו והשאר עמדו עליהן בחרבות וברמחים&quot;[1], כלומר בית שמאי שמרו על הרוב שהיה להם בחדר ההצבעות על ידי הרג של אנשים מבית הלל או על ידי איום בחרבות ורמחים. ייתכן שהכתוב נקט בהפרזה כדי להמחיש את הדברים, אך עדיין הדברים קשים. </p><p>כיוון שהתורה נמשלה למים, הרי כמו המים, גם האמת זורמת למקום הנמוך והרך ולא המתנשא והקשה. והדברים חיוניים במיוחד בימינו!</p>',
+		'102805342698894977178',
+		'Reuven Gerber rgerber@orange.net.il',
+		'2018-02-10 20:55:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>הנה: http://tora.us.fm/tnk/find.php?q=+%D7%90%5B%5E+%5D*+%D7%90%5B%5E+%5D*++%D7%90%5B%5E+%5D*++%D7%90%5B%5E+%5D*++%D7%90</p><p>(תתעלמי מההדגשות)</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-02-10 22:08:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-10 23:22:10' 
+			WHERE messageid=7506;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>אמן שתהיה לי לידה קלה ושהתינוקת תיצאה בריאה אמ ן🙏</p>',
+		'116887409649201583651',
+		'רוזה יוספי',
+		'2018-02-11 02:00:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>אמן שתהיה לי לידה קלה ושהתינוקת תיצאה בריאה אמ ן🙏</p>',
+		'116887409649201583651',
+		'רוזה יוספי',
+		'2018-02-11 02:00:59'
+		)
+		;
+
