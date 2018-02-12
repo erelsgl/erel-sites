@@ -683,3 +683,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_txpost.html',
+		'<p>אבל לא כתוב מה המקור של זה</p>',
+		'108276225406358422537',
+		'נעמה בן שלום',
+		'2018-02-11 08:59:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_txpost.html',
+		'<p></p>',
+		'108276225406358422537',
+		'נעמה בן שלום',
+		'2018-02-11 08:59:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-11 09:00:03' 
+			WHERE messageid=7512;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לבת המקסימה שלי, גילי בת רחלי .</p><p>לידה קלה ובריאה . </p><p>שהיא והולד יהיו בריאים ושלמים בכל רמ&quot;ח איבריהם ושס&quot;ה גידיהם .</p><p>באהבה גדולה . </p><p>אמן כן יהי רצון.</p>',
+		'103342345056087112664',
+		'רחלי מזרחי',
+		'2018-02-12 06:39:05'
+		)
+		;
+

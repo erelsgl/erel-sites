@@ -554,3 +554,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-11 08:59:51'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_txpost.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-11 08:59:56'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_txpost.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-12 06:39:05'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
