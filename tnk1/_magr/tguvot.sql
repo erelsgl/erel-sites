@@ -726,3 +726,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p></p>',
+		'113351001274046137686',
+		'אילנית בוסקילה',
+		'2018-02-12 17:16:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>שמות כא14: &quot;וְכִי יָזִד אִישׁ עַל רֵעֵהוּ לְהָרְגוֹ בְעָרְמָה מֵעִם מִזְבְּחִי תִּקָּחֶנּוּ לָמוּת&quot; </p><p>על פי התורה יש להמית בכל מחיר את האיש שהזיד על רעהו להרגו בערמה גם אם האיש הרוצח נאחז בקרנות המזבח ובעת זבחו ואם משיח אלהים אתה באמרי פיך בשבט פיך תכה ארץ רשע תמיתנו ברוח שפתיך</p><p>   </p><p>ישעיהו יא4: &quot;וְשָׁפַט בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי אָרֶץ וְהִכָּה אֶרֶץ בְּשֵׁבֶט פִּיו וּבְרוּחַ שְׂפָתָיו יָמִית רָשָׁע&quot;</p><p>הושע ו5: &quot;עַל כֵּן חָצַבְתִּי בַּנְּבִיאִים הֲרַגְתִּים בְּאִמְרֵי פִי וּמִשְׁפָּטֶיךָ אוֹר יֵצֵא&quot;</p><p>תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p><p> </p><p>http://tora.us.fm/tnk1/daian</p><p>     דַיָּן שֵׁם משה       </p><p>  תורה דרך הקודש    </p><p>  </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-13 05:58:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>שמות כא14: &quot;וְכִי יָזִד אִישׁ עַל רֵעֵהוּ לְהָרְגוֹ בְעָרְמָה מֵעִם מִזְבְּחִי תִּקָּחֶנּוּ לָמוּת&quot;</p><p>על פי התורה יש להמית בכל מחיר את האיש שהזיד על רעהו להרגו בערמה גם אם האיש הרוצח נאחז בקרנות המזבח ובעת זבחו</p><p>  ואם משיח אלהים אתה באמרי פיך בשבט פיך תכה ארץ רשע תמיתנו ברוח שפתיך</p><p>ישעיהו יא4: &quot;וְשָׁפַט בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי אָרֶץ וְהִכָּה אֶרֶץ בְּשֵׁבֶט פִּיו וּבְרוּחַ שְׂפָתָיו יָמִית רָשָׁע&quot;</p><p>הושע ו5: &quot;עַל כֵּן חָצַבְתִּי בַּנְּבִיאִים הֲרַגְתִּים בְּאִמְרֵי פִי וּמִשְׁפָּטֶיךָ אוֹר יֵצֵא&quot;</p><p>תהלים לז6: &quot;וְהוֹצִיא כָאוֹר צִדְקֶךָ וּמִשְׁפָּטֶךָ כַּצָּהֳרָיִם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-13 06:02:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-13 06:02:39' 
+			WHERE messageid=7515;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-23-07.html',
+		'<p>הצעה לפרשנות נוספת היא: שער בנפשו, מתוך הפועל לשער, לדמיין, להעריך וההשלמה &quot;כן הוא&quot;, כפי שאדם ישער כך יקבל. אם בלב האדם קמצנות ומשער כי כך פועלים מולו, הרי שזו ההנהגה שיקבל מלמעלה וכך ינהגו כלפיו בני אנשא. מה שישער בליבו כך יקבל. בהלימה מוחלטת. ישער לחיוב, לחסד לנתינה כך יקבל. בפנימיות שלנו יש כוחות הפועלים החוצה אף מבלי שנבחין בהם. </p>',
+		'106601960175180555356',
+		'Tzlil Bar',
+		'2018-02-13 06:10:35'
+		)
+		;
+
