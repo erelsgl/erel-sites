@@ -781,3 +781,87 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוקה לעזרה דחופה</p><p>054881066 תודה ויישר כוח</p>',
+		'117207876976001630497',
+		'Oriya Ben Shabat',
+		'2018-02-13 11:18:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>ספר במדבר לב6: </p><p>&quot;וַיֹּאמֶר מֹשֶׁה לִבְנֵי גָד וְלִבְנֵי רְאוּבֵן </p><p>הַאַחֵיכֶם יָבֹאוּ לַמִּלְחָמָה וְאַתֶּם תֵּשְׁבוּ פֹה&quot;</p><p>פרוש לבאר לכם:</p><p>&quot;וַיֹּאמֶר מֹשֶׁה לִבְנֵי גָד וְלִבְנֵי רְאוּבֵן</p><p>הַאַחֵיכֶם יָבֹאוּ לַמִּלְחָמָה [בארץ כנען] וְאַתֶּם תֵּשְׁבוּ פֹה&quot; בעבר הירדן ?</p><p>הפסוק הזה כנראה לעד</p><p>משה ידע כי ארץ כנען היא ארץ מלחמות</p><p>וכי גם בעת שלום יש להלחם למען יהוה צבאות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-13 12:11:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוקה לעזרה דחופה</p><p>054881066 תודה ויישר כוח</p>',
+		'117207876976001630497',
+		'Oriya Ben Shabat',
+		'2018-02-13 13:02:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0115_3.html',
+		'<p>וְנָתַתִּי לָהֶם בְּבֵיתִי וּבְחוֹמֹתַי יָד וָשֵׁם, טוֹב מִבָּנִים וּמִבָּנוֹת שֵׁם עוֹלָם אֶתֶּן לוֹ אֲשֶׁר לֹא יִכָּרֵת:</p><p>בְּבֵיתִי וּבְחוֹמֹתַי --- בית אלהים נמצא בשמים </p><p>ובשמים יתן  יָד וָשֵׁם שֵׁם עוֹלָם אֶתֶּן לוֹ אֲשֶׁר לֹא יִכָּרֵת לַסָּרִיסִים  אֲשֶׁר יִשְׁמְרוּ אֶת שַׁבְּתוֹתַי וּבָחֲרוּ בַּאֲשֶׁר חָפָצְתִּי וּמַחֲזִיקִים בִּבְרִיתִי</p><p>כי הסריס עץ יבש אין לו זרע אין לו ילדים לא בנים ולא בנות ושכרו זרעו לא יוכל להיות בארץ כי הבנים שכר פרי הבטן ולו אין זרע</p><p>לכן כל אשר שמר ברית אלהים ואין לו זרע בארץ שכרו יהיה בשמים מקום בית אלהים וחומותיו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-13 16:13:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1701_0.html',
+		'<p>למיטב ידיעתי, אלוהים כפי שנתפס במערב, לא קיים בבודהיזם. בודהיזם זה פלוסופיה ודרך חיים, המיושמות בטכניקות של מדיטציות.</p>',
+		'113961352156332927190',
+		'מיכאל לוי',
+		'2018-02-13 18:42:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1701_0.html',
+		'<p>יכול להיות, אבל הנקודה ברורה גם ללא פרט זה</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2018-02-13 22:17:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/maznym.html',
+		'<p>אני &quot;מגלה&quot; לך בזאת... שבכל פעם שאני נזקקת לפרשנות לפרשיות התורה, אני מחפשת את האתר של אראל סגל הלוי. אתה טוב!</p>',
+		'105235564966743942051',
+		'yael keinan',
+		'2018-02-14 21:31:33'
+		)
+		;
+
