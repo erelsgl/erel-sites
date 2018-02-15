@@ -853,3 +853,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/maznym.html',
+		'<p>אני &quot;מגלה&quot; לך בזאת... שבכל פעם שאני נזקקת לפרשנות לפרשיות התורה, אני מחפשת את האתר של אראל סגל הלוי. אתה טוב!</p>',
+		'105235564966743942051',
+		'yael keinan',
+		'2018-02-14 21:31:33'
+		)
+		;
+
