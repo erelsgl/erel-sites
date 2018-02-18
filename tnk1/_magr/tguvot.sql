@@ -889,3 +889,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_225.html',
+		'<p>יפה מאד. </p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2018-02-17 20:53:33'
+		)
+		;
+
