@@ -759,3 +759,118 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/forums_225.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/commander_or_head.pdf',
+				NULL,
+				'2018-02-18 18:49:24',
+				'2018-02-18 18:49:24',
+				'Commander or head',
+				'אבנר רמו',
+				'קצין ו/או ראש?'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-18 18:49:24'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/to_gather.pdf',
+				NULL,
+				'2018-02-18 19:06:59',
+				'2018-02-18 19:06:59',
+				'To gather',
+				'אבנר רמו',
+				'לקט וקבץ'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-18 19:06:59'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/god_in_the_book_of_song_of_songs.pdf',
+				NULL,
+				'2018-02-18 19:22:30',
+				'2018-02-18 19:22:30',
+				'God in the Book of Song of Songs',
+				'אבנר רמו',
+				'אלהים בספר שיר השירים'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-18 19:22:30'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/flashing_sword.pdf',
+				NULL,
+				'2018-02-18 19:32:53',
+				'2018-02-18 19:32:53',
+				'Flashing sword',
+				'אבנר רמו',
+				'להב חרב וברק חנית'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-18 19:32:53'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/silversmith.pdf',
+				NULL,
+				'2018-02-18 19:42:03',
+				'2018-02-18 19:42:03',
+				'Silversmith',
+				'אבנר רמו',
+				'שורף - צורף'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-18 19:42:03'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
