@@ -901,3 +901,120 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_1.html',
+		'<p>לפרץ וזרח מגיעה נחלה בארץ כשלעצמם. חלקם של ער ואונן הלכו לפרץ הבכור. עכשיו יש בידיו 3 נחלות. שתי נחלות הוריש לשני בניו הראשונים שנולדו במצרים. ניתן לעיין במאמר המלא: pshat.com/ברכת-אפרים-ומנשה/</p><p></p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 10:03:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-14-14.html',
+		'<p>ראשונההההה</p>',
+		'116676164032005870520',
+		'shelly Maylik',
+		'2018-02-19 11:22:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_1.html',
+		'<p>לפרץ וזרח מגיעה נחלה בארץ כשלעצמם. חלקם של ער ואונן הלכו לפרץ הבכור. עכשיו יש בידיו 3 נחלות. שתי נחלות הוריש לשני בניו הראשונים שנולדו במצרים. ניתן לעיין במאמר המלא:</p><p>/ברכת-אפרים-ומנשה/www.pshat.com</p><p></p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 12:49:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-19 12:49:07' 
+			WHERE messageid=7528;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_1.html',
+		'<p>לפרץ וזרח מגיעה נחלה בארץ כשלעצמם. חלקם של ער ואונן הלכו לפרץ הבכור. עכשיו יש בידיו 3 נחלות. שתי נחלות הוריש לשני בניו הראשונים שנולדו במצרים. ניתן לעיין במאמר המלא:</p><p>www.pshat.com/ברכת-אפרים-ומנשה/</p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 12:50:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-19 12:50:34' 
+			WHERE messageid=7530;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/tojba.html',
+		'<p>ממליץ מאוד לעיין בהקדמה שלי לספר דברים העוסקת בנושא זה:</p><p>http://pshat.com/מבוא-לחומש-דברים/</p><p></p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 13:08:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_1.html',
+		'<p>לפרץ וזרח מגיעה נחלה בארץ כשלעצמם. חלקם של ער ואונן הלכו לפרץ הבכור. עכשיו יש בידיו 3 נחלות. שתי נחלות הוריש לשני בניו הראשונים שנולדו במצרים. ניתן לעיין במאמר המלא:</p><p>http://pshat.com/ברכת-אפרים-ומנשה/</p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 13:09:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-19 13:09:35' 
+			WHERE messageid=7531;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_225.html',
+		'<p>על תרומתן של הנשים בפרשת שמות:</p><p>http://pshat.com/בזכות-נשים-צדקניות/</p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-02-19 13:12:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>גם אני כאבותינו מאמין ומבקש לִרְאוֹת בְּטוּב יהוה בְּאֶרֶץ חַיִּים</p><p>תהלים כז13: &quot;לולא הֶאֱמַנְתִּי לִרְאוֹת בְּטוּב יהוה בְּאֶרֶץ חַיִּים&quot;</p><p>ירמיהו לא11: [בפסוק זה מפורש מה בְּטוּב יהוה בְּאֶרֶץ חַיִּים]</p><p>&quot;וּבָאוּ וְרִנְּנוּ בִמְרוֹם צִיּוֹן וְנָהֲרוּ אֶל טוּב יהוה עַל דָּגָן וְעַל תִּירֹשׁ וְעַל יִצְהָר וְעַל בְּנֵי צֹאן וּבָקָר וְהָיְתָה נַפְשָׁם כְּגַן רָוֶה וְלֹא יוֹסִיפוּ לְדַאֲבָה עוֹד&quot;</p><p>ישעיהו נח11: &quot;וְנָחֲךָ יהוה תָּמִיד וְהִשְׂבִּיעַ בְּצַחְצָחוֹת נַפְשֶׁךָ וְעַצְמֹתֶיךָ יַחֲלִיץ וְהָיִיתָ כְּגַן רָוֶה....... וּכְמוֹצָא מַיִם אֲשֶׁר לֹא יְכַזְּבוּ מֵימָיו&quot;</p><p>ספר ישעיהו פרק נח לשבת להיות כְּגַן רָוֶה.</p><p>א: קרא בגרון אל תחשך כשופר הרם קולך והגד לעמי פשעם ולבית יעקב חטאתם</p><p>ב: ואותי יום יום ידרשון ודעת דרכי יחפצון כגוי אשר צדקה עשה ומשפט אלהיו לא עזב ישאלוני משפטי צדק קרבת אלהים יחפצון</p><p>ג: למה צמנו ולא ראית ענינו נפשנו ולא תדע הן ביום צמכם תמצאו חפץ וכל עצביכם תנגשו</p><p>ד: הן לריב ומצה תצומו ולהכות באגרף רשע לא תצומו כיום להשמיע במרום קולכם</p><p>ה: הכזה יהיה צום אבחרהו יום ענות אדם נפשו הלכף כאגמן ראשו ושק ואפר יציע הלזה תקרא צום ויום רצון ליהוה</p><p>ו: הלוא זה צום אבחרהו פתח חרצבות רשע התר אגדות מוטה ושלח רצוצים חפשים וכל מוטה תנתקו</p><p>ז: הלוא פרס לרעב לחמך ועניים מרודים תביא בית כי תראה ערם וכסיתו ומבשרך לא תתעלם</p><p>ח: אז יבקע כשחר אורך וארכתך מהרה תצמח והלך לפניך צדקך כבוד יהוה יאספך</p><p>ט: אז תקרא ויהוה יענה תשוע ויאמר הנני אם תסיר מתוכך מוטה שלח אצבע ודבר און</p><p>י: ותפק לרעב נפשך ונפש נענה תשביע וזרח בחשך אורך ואפלתך כצהרים</p><p>יא: ונחך יהוה תמיד והשביע בצחצחות נפשך ועצמתיך יחליץ והיית כגן רוה וכמוצא מים אשר לא יכזבו מימיו</p><p>יב: ובנו ממך חרבות עולם מוסדי דור ודור תקומם וקרא לך גדר פרץ משבב נתיבות לשבת</p><p>יג: אם תשיב משבת רגלך עשות חפצך ביום קדשי וקראת לשבת ענג לקדוש יהוה מכבד וכבדתו מעשות דרכיך ממצוא חפצך ודבר דבר</p><p>יד: אז תתענג על יהוה והרכבתיך על במותי ארץ והאכלתיך נחלת יעקב אביך כי פי יהוה דבר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-19 16:35:30'
+		)
+		;
+
