@@ -1000,3 +1000,43 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-02-19 21:44:19'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-20 13:49:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-20 16:34:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/pjr.html',
+				'tnk1/ktuv/mgilot/qh-08-01.html',
+				NULL,
+				'2018-02-21 03:31:30',
+				'2018-02-21 03:31:30',
+				'מאמר חדש על: פשר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-21 05:28:40'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-08-01.html'
+		;
+
