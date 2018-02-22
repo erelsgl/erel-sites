@@ -83,9 +83,9 @@ function setLanguage(theNewLanguage) {
 				replace(/^תת-נושאים ?$/,newTguvotHeading2);
 		}
 	}
-	addVersionsByStyle(lang);
-	addVersionsByLanguage(lang);
-	addVersionsByContent(lang);
+	//addVersionsByStyle(lang);
+	//addVersionsByLanguage(lang);
+	//addVersionsByContent(lang);
 }
 
 
@@ -341,27 +341,15 @@ function kotrt() {
 			"{lang: 'iw'}"+
 		"</script>"+
 		"<table class='versionselectors'>\n<tr>\n" + 
-			"<td>" + emptyVersionSelector('versionsByStyle') + "</td>\n" + 
-			"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
-			"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
+			//"<td>" + emptyVersionSelector('versionsByStyle') + "</td>\n" + 
+			//"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
+			//"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
 			"<td>" + facebookLikeButton + "</td>\n"+
 			"<td>" + googlePlusButton + "</td>\n"+
 		"</tr>\n</table>\n";
 	}
 
 	document.write(theText);
-
-	/*
-	if (/מורה לתורה משה דין/.test(theAuthor)) {
-		document.write('<div class="daian">ליצירת קשר להשמת פרסומת כאן:<br><a href="mailto:DAIAN1@013.NET">משה דין DAIAN1@013.NET</a></div>');
-		google_ad_client = "pub-5668940475962184";
-		// 728x90, נוצר 01/12/10 
-		//google_ad_slot = "5267744417";  // What is it???
-		google_ad_width = 728;
-		google_ad_height = 90;
-		//document.write('<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
-	}
-	*/
 }
 
 function currentVersionIsFormal() {
