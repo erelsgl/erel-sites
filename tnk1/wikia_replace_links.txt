@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-01-23 07:12:09
+# This file was automatically generated at 2018-02-22 03:13:09
 
 sub wikia_replace_links {
 $_=shift;
@@ -1480,6 +1480,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-33-0105|[[ביאור:לפני ברכת משה - 
 s|${OPENLINK}tnk1/tora/dvrim/dm-33-01|[[ביאור:להיפרד בברכה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-32-4647|[[ביאור:כי הוא חייכם|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-32-21|[[ביאור:לא אל - לא עם|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-32-15|[[ביאור:וישמן ישורון ויבעט|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-32-11|[[ביאור:כנשר יעיר קינו על גוזליו ירחף|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-32-08|[[ביאור:כשה' חילק את העולם בין העמים, הוא דאג שיישאר מקום לעם ישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-32-05|[[ביאור:שיחת לו לא בניו מומם|ig;
@@ -1564,6 +1565,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-08-1118|[[ביאור:מצעד צה"ל - טוב �
 s|${OPENLINK}tnk1/tora/dvrim/dm-08-0614a|[[ביאור:ברכת המזון - מצוה מהתורה?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-08-02|[[ביאור:לדעת את אשר בלבבך|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-0708|[[ביאור:הברכות בפרשת עקב|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-07-26|[[ביאור:לא תביא תועבה אל ביתך|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-07|[[ביאור:מבנה דברים ז|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-06-19|[[ביאור:להדוף את כל אויביך מפניך|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-06-16|[[ביאור:איך אפשר להעמיד את הבטחות התורה במבחן מדעי?|ig;
@@ -3792,7 +3794,9 @@ s|${OPENLINK}tnk1/messages/tyre_s_ships.pdf|[[ביאור:Tyre's ships|ig;
 s|${OPENLINK}tnk1/messages/tyrannos.pdf|[[ביאור:Tyrants|ig;
 s|${OPENLINK}tnk1/messages/twpewt_fbe_bspr_thlym.doc|[[ביאור:תופעות טבע בספר תהלים - קובץ וורד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/to_jerusalem.pdf|[[ביאור:To Jerusalem|ig;
+s|${OPENLINK}tnk1/messages/to_gather.pdf|[[ביאור:To gather|ig;
 s|${OPENLINK}tnk1/messages/tora_wyqra_tm01_ofot_0_0|[[ביאור:מדוע נזכרו בתורה רק העופות הטמאים, ורק החיות הטהורות?|ig;
+s|${OPENLINK}tnk1/messages/tora_wyqra_mmxrt_hjbt_0|[[ביאור:ממחרת השבת = ממחרת שביתת המן בכניסה לארץ|ig;
 s|${OPENLINK}tnk1/messages/tora_tk12_2_0|[[ביאור:עשרת הדיברות - למה יש הבדלים?|ig;
 s|${OPENLINK}tnk1/messages/tora_tk12_1|[[ביאור:יומת - מות יומת|ig;
 s|${OPENLINK}tnk1/messages/tora_min_waxryut_1|[[ביאור:אונס של נשים נשואות בתנ"ך|ig;
@@ -4420,6 +4424,7 @@ s|${OPENLINK}tnk1/messages/sofrim_ahuvak_jirim_11|[[ביאור:יום הכיפו
 s|${OPENLINK}tnk1/messages/sofrim_ahuvak_jirim_10|[[ביאור:פרשת וילך - לאן הלך משה?|ig;
 s|${OPENLINK}tnk1/messages/sofrim_ahuvak_jirim_1|[[ביאור:'מקום המקדש' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/sofrim_ahuvak_jirim_0|[[ביאור:'עבודת הכהן הגדול ביוה"כ' - שיר מאת אהובה קליין(c) |ig;
+s|${OPENLINK}tnk1/messages/silversmith.pdf|[[ביאור:Silversmith|ig;
 s|${OPENLINK}tnk1/messages/sig_mvne2_5|[[ביאור:מיקומו של חטא העגל ומבנה פרשת כי תשא|ig;
 s|${OPENLINK}tnk1/messages/sig_mvne2_4|[[ביאור:סמיכות הפרשיות בפרשת שלח, והקשר בין הציצית למרגלים בדרך הרמז|ig;
 s|${OPENLINK}tnk1/messages/sig_mvne2_3|[[ביאור:מבנה פרשת קדושים|ig;
@@ -4577,6 +4582,7 @@ s|${OPENLINK}tnk1/messages/sig_9jir_11|[[ביאור:'נועם שבת' - הרב �
 s|${OPENLINK}tnk1/messages/sig_9jir_1|[[ביאור:'שיר המעפילים' - לוין קיפניס|ig;
 s|${OPENLINK}tnk1/messages/sig_9jir_0|[[ביאור:'פרשת דינה' - שאול טשרניחובסקי|ig;
 s|${OPENLINK}tnk1/messages/re_jl_gwg_njya_arc_hmgwg.pdf|[[ביאור:מעגל רע של גוג נשיא ארץ המגוג|ig;
+s|${OPENLINK}tnk1/messages/redemption_of_the_first_born.pdf|[[ביאור:Redemption of the first born|ig;
 s|${OPENLINK}tnk1/messages/ramp.pdf|[[ביאור:?A sheep or a ramp|ig;
 s|${OPENLINK}tnk1/messages/qyn_bcennym_ajr_at_qdj.pdf|[[ביאור:אות קין בצעננים אשר את קדש|ig;
 s|${OPENLINK}tnk1/messages/queen_athalie.pdf|[[ביאור:Queen Athalie|ig;
@@ -7022,13 +7028,24 @@ s|${OPENLINK}tnk1/messages/harwt_benyyny_ljwn___mjly_jlmh_prqym_y_kd.doc|[[בי�
 s|${OPENLINK}tnk1/messages/ham_mwtr_lprsm_wlspr_mejh_re_jl_rje__jl_cdyq.doc|[[ביאור:האם מותר לפרסם ולספר מעשה רע של רשע? של צדיק? (דתן ואבירם, זמרי בן סלוא, צלפחד בן חפר) (.doc)|ig;
 s|${OPENLINK}tnk1/messages/hagar_s_revenge.pdf|[[ביאור:Hagar's revenge|ig;
 s|${OPENLINK}tnk1/messages/gybwrym_mgn_jawl_bly_mjyx_bjmn.pdf|[[ביאור:מגן גיבורים מגן שאול בלי משיח בשמן|ig;
+s|${OPENLINK}tnk1/messages/grief.pdf|[[ביאור:Grief|ig;
 s|${OPENLINK}tnk1/messages/goren.pdf|[[ביאור:Goren|ig;
+s|${OPENLINK}tnk1/messages/god_in_the_book_of_song_of_songs.pdf|[[ביאור:God in the Book of Song of Songs|ig;
 s|${OPENLINK}tnk1/messages/girdle.pdf|[[ביאור:מה"אזור" התנכי ל"סינר" התלמודי|ig;
 s|${OPENLINK}tnk1/messages/gilead_and_bashan.pdf|[[ביאור:Gilead and Bashan|ig;
 s|${OPENLINK}tnk1/messages/from_plesheth_to_palestina.pdf|[[ביאור:From Plesheth to Palestina|ig;
 s|${OPENLINK}tnk1/messages/from_before_you.pdf|[[ביאור:לפני, מפני, ומלפני|ig;
 s|${OPENLINK}tnk1/messages/forums_99|[[ביאור:'מלאכת המשכן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_980|[[ביאור:'הקדשת אהרון לכהן גדול' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_98|[[ביאור:'עגל הזהב' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_979|[[ביאור:פרשת תצווה - משיחת הכהן הגדול  בשמן המשחה|ig;
+s|${OPENLINK}tnk1/messages/forums_978|[[ביאור:'"ועשו לי מקדש"' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_977|[[ביאור:פרשת תרומה - הקמת המשכן - לשם מה|ig;
+s|${OPENLINK}tnk1/messages/forums_976|[[ביאור:'שמיטה בתום שש שנים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_975|[[ביאור:פרשת משפטים - שמיטה - לשם מה?|ig;
+s|${OPENLINK}tnk1/messages/forums_974|[[ביאור:' יתרו והחלטתו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_973|[[ביאור:פרשת יתרו - מה רומזים שמות בני משה?|ig;
+s|${OPENLINK}tnk1/messages/forums_972|[[ביאור:פרשת בשלח - "ה' ילחם לכם ואתם תחרישון"|ig;
 s|${OPENLINK}tnk1/messages/forums_971|[[ביאור:' פרעה ועבדיו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_970|[[ביאור:פרשת בא - במה נחלקו פרעה ועבדיו?|ig;
 s|${OPENLINK}tnk1/messages/forums_97|[[ביאור:פרשת כי תשא - מהות חטא העגל והמסקנה|ig;
@@ -7990,6 +8007,7 @@ s|${OPENLINK}tnk1/messages/forums_102|[[ביאור:'קורבן פסח' - שיר 
 s|${OPENLINK}tnk1/messages/forums_101|[[ביאור:'טוויית חוטים למשכן' - שיר מאת אהובה קליין(c)|ig;
 s|${OPENLINK}tnk1/messages/forums_100|[[ביאור:פרשת ויקהל פקודי, פרשת החודש - המיוחד בכיור המשכן|ig;
 s|${OPENLINK}tnk1/messages/forums_10|[[ביאור:'שמיעה ושמועה' - אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/flashing_sword.pdf|[[ביאור:Flashing sword|ig;
 s|${OPENLINK}tnk1/messages/fear_of_god.pdf|[[ביאור:Fear of God|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_2_0|[[ביאור:אבן השתייה בירושלים|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0|[[ביאור:מדוע הפיסחים והעיוורים היו שנואי נפש דוד|ig;
@@ -8191,6 +8209,7 @@ s|${OPENLINK}tnk1/messages/darics_and_drachmas.pdf|[[ביאור:Darics and Drach
 s|${OPENLINK}tnk1/messages/daniel___jehoiachin.pdf|[[ביאור:Daniel = Jehoiachin|ig;
 s|${OPENLINK}tnk1/messages/daian.doc|[[ביאור:דין משה ותורתו (.doc)|ig;
 s|${OPENLINK}tnk1/messages/crossing_of_the_sea.pdf|[[ביאור:Crossing of the Sea|ig;
+s|${OPENLINK}tnk1/messages/commander_or_head.pdf|[[ביאור:Commander or head|ig;
 s|${OPENLINK}tnk1/messages/comet_halley_in_1986.gif|[[ביאור:comet Halley in 1986|ig;
 s|${OPENLINK}tnk1/messages/chuppah.pdf|[[ביאור:Chuppah|ig;
 s|${OPENLINK}tnk1/messages/child_or_a_lad.pdf|[[ביאור:Child or a lad|ig;
@@ -8228,6 +8247,7 @@ s|${OPENLINK}tnk1/messages/all_the_king_s_men.pdf|[[ביאור:All the king's me
 s|${OPENLINK}tnk1/messages/alhym_lpnwt_bwqr.pdf|[[ביאור:יעזרה אלהים לפנות בוקר|ig;
 s|${OPENLINK}tnk1/messages/alhym_bdwr_cdyq___lrbe_eygwl.pdf|[[ביאור:כי אלהים בדור צדיק = לרבע עיגול|ig;
 s|${OPENLINK}tnk1/messages/ajr_yhyh_baxryt_hzem.pdf|[[ביאור:המעגל אשר יהיה באחרית הזעם|ig;
+s|${OPENLINK}tnk1/messages/ajr_am_jaw_erym_mayn_ywjb.pdf|[[ביאור:עד אשר אם - שאו ערים מאין יושב|ig;
 s|${OPENLINK}tnk1/messages/7778|[[ביאור:פסוקים ללא נושא ברור|ig;
 s|${OPENLINK}tnk1/messages/7072|[[ביאור:שמו של גלית|ig;
 s|${OPENLINK}tnk1/messages/7067|[[ביאור:צפון, סבון|ig;
@@ -9943,6 +9963,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/qh-09-16|[[ביאור:להקשיב גם למי ש�
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-09-1318|[[ביאור:עיר קטנה, מלך גדול, מסכן חכם, מושל בכסילים|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-09-10|[[ביאור:כל אשר תמצא ידך לעשות בכוחך - עשה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-08-0809|[[ביאור:שלט האדם באדם לרע לו|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/qh-08-01|[[ביאור:מי יודע פשר דבר?|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-07-29|[[ביאור:חישבונות רבים|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-07-27|[[ביאור:אמרה קהלת|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-07-26|[[ביאור:מתי הנישואין מרים ממוות|ig;

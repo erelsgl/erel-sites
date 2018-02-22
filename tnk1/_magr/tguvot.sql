@@ -1061,3 +1061,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>יכול להיות שפשר קשור לפתר (פת\'ר)</p><p>לכן פשר (פירוש, הסבר) מקביל לפתרון </p><p>והיות שפתר (פתור) זה גם שולחן (ארמית)</p><p>והעיר פתור מזוהה עם אחת המעברות/גשרים בנהר פרת</p><p>אז לפשר = לגשר..</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-02-21 16:06:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>האם העיר פתור היא כל-כך חשובה עד שהיא יצרה מילה חדשה בשפה העברית?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-02-22 03:18:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לבת שלי לינוי </p>',
+		'109313575850479089379',
+		'נוגה שוקני',
+		'2018-02-22 04:30:07'
+		)
+		;
+
