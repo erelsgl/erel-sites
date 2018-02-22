@@ -874,3 +874,169 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-02-18 19:42:03'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 10:03:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 11:22:02'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-14-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/ajr_am_jaw_erym_mayn_ywjb.pdf',
+				NULL,
+				'2018-02-19 11:50:14',
+				'2018-02-19 11:50:14',
+				'עד אשר אם-שאו ערים מאין יושב',
+				'רמי ניר  ',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 12:49:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 12:50:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 13:08:06'
+		WHERE ktovt_bn='tnk1/tora/dvrim/tojba.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 13:09:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 13:12:23'
+		WHERE ktovt_bn='tnk1/messages/forums_225.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/tora/wyqra/mmxrt_hjbt.html',
+				'tnk1/messages/tora_wyqra_mmxrt_hjbt_0.html',
+				NULL,
+				'2018-02-19 13:18:25',
+				'2018-02-19 13:18:25',
+				'מאמר חדש על: ממחרת השבת - מאמרים על דברי חזל שממחרת השבת = ממחרת הפסח',
+				'ניצן חמיאל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-19 13:18:25'
+			WHERE ktovt_bn='tnk1/tora/wyqra/mmxrt_hjbt.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-19 16:35:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_979.html',
+				NULL,
+				'2018-02-19 21:44:19',
+				'2018-02-19 21:44:19',
+				'פרשת תצווה- משיחת הכהן הגדול  בשמן המשחה/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-02-19 21:44:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-20 13:49:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-20 16:34:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/pjr.html',
+				'tnk1/ktuv/mgilot/qh-08-01.html',
+				NULL,
+				'2018-02-21 03:31:30',
+				'2018-02-21 03:31:30',
+				'מאמר חדש על: פשר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-21 05:28:40'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-08-01.html'
+		;
+
