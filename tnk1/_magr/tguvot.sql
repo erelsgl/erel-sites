@@ -1097,3 +1097,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>לא, לדעתי היא נקראה פתור בגלל הגשר, ויש קשר בין המילים</p><p>זה כמו ששולחני = בנקאי = מתווך (מגשר)</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-02-22 09:35:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p> ארון ברית יהוה שם עשרת הדברים על שתי לוחות הברית מכתב אלהים המה</p><p>ויש לדרוש את יהוה וכן גם את עוזו לאמור ארון ברית יהוה</p><p>תהלים קלב8: &quot;קוּמָה יהוה לִמְנוּחָתֶךָ אַתָּה וַאֲרוֹן עֻזֶּךָ&quot; </p><p>וְעֻזּוֹ בַּשְּׁחָקִים על כן ארון ברית יהוה זה מעשה שמים על הארץ</p><p>תהלים סח35: &quot;תְּנוּ עֹז לֵאלֹהִים עַל יִשְׂרָאֵל גַּאֲוָתוֹ וְעֻזּוֹ בַּשְּׁחָקִים&quot;</p><p>תהלים קה4: &quot;דִּרְשׁוּ יהוה וְעֻזּוֹ בַּקְּשׁוּ פָנָיו תָּמִיד&quot;</p><p>דברי הימים א טז11: &quot;דִּרְשׁוּ יהוה וְעֻזּוֹ בַּקְּשׁוּ פָנָיו תָּמִיד&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-22 12:08:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>אוסיף כי במגילות מדבר יהודה יש הרבה &quot;פשרים&quot; כמו &quot;פשר חבקוק&quot; וכד\', והם כולם פירושים.</p>',
+		'115183744128479087177',
+		'hagai hoffer',
+		'2018-02-22 22:11:28'
+		)
+		;
+
