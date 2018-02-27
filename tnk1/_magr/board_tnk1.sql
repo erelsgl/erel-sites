@@ -1533,3 +1533,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-26 10:00:24'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqda2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-26 17:52:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-26 18:08:49'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqda2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xcr3.html',
+				'tnk1/ktuv/thlim/th-103-17.html',
+				NULL,
+				'2018-02-26 19:07:53',
+				'2018-02-26 19:07:53',
+				'אנוש כחציר ימיו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xcr3.html',
+				'tnk1/kma/qjrim1/xcir.html',
+				NULL,
+				'2018-02-26 19:15:32',
+				'2018-02-26 19:15:32',
+				'חציר = עשב הצומח מהר ומתייבש מהר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-26 20:13:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-26 20:22:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
+		;
+
