@@ -1422,3 +1422,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-02-28 05:52:14' 
 			WHERE messageid=7560;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/cdiqim.html',
+		'<p>תודה רבה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-02-28 11:49:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>משלי ג3-4: &quot;חֶסֶד וֶאֱמֶת אַל יַעַזְבֻךָ קָשְׁרֵם עַל גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל לוּחַ לִבֶּךָ&quot;: &quot;וּמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם&quot;</p><p>כדי למצוא חן ושכל טוב בעיני אלהים ואדם יש לעשות חסד ואמת</p><p>ואת החסד והאמת קושרים על הגרגרת כשקוראים לשם בלחם לאמור בברכת המזון וכן כותבים את תורת החסד והאמת על לוח הלב</p><p>ואז מוצאים חן בעיני אלהים וכתוב וְגַם לֹא לַיֹּדְעִים חֵן וזו הדרך ללכת בעקבות אלהים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ</p><p>סוף דבר ללכת בעקבות אלהים למצוא חן בעיניו זה לעשות חסד ואמת</p><p>ירמיהו ב2:</p><p>&quot;הָלֹךְ וְקָרָאתָ בְאָזְנֵי יְרוּשָׁלַים לֵאמֹר כֹּה אָמַר יהוה זָכַרְתִּי לָךְ חֶסֶד נְעוּרַיִךְ אַהֲבַת כְּלוּלֹתָיִךְ לֶכְתֵּךְ אַחֲרַי בַּמִּדְבָּר בְּאֶרֶץ לֹא זְרוּעָה&quot;</p><p>ירמיהו לא1: &quot;כֹּה אָמַר יהוה מָצָא חֵן בַּמִּדְבָּר עַם שְׂרִידֵי חָרֶב הָלוֹךְ לְהַרְגִּיעוֹ יִשְׂרָאֵל&quot;</p><p>כֹּה אָמַר יהוה זָכַרְתִּי לָךְ חֶסֶד נְעוּרַיִךְ אַהֲבַת כְּלוּלֹתָיִךְ לֶכְתֵּךְ אַחֲרַי בַּמִּדְבָּר ------- כֹּה אָמַר יהוה מָצָא חֵן בַּמִּדְבָּר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-02-28 15:19:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-02-28 15:20:30' 
+			WHERE messageid=7548;
+

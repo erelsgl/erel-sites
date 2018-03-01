@@ -1715,3 +1715,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-02-28 06:26:49'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-28 11:49:13'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/cdiqim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-02-28 15:19:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0210_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_983.html',
+				NULL,
+				'2018-03-01 04:09:51',
+				'2018-03-01 04:09:51',
+				' פרשת: כי תישא/ השבט שלא חטא בחטא העגל?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-03-01 04:09:51'
+			WHERE ktovt_bn='tnk1/forums.html';
+
