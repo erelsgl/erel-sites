@@ -1572,3 +1572,98 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-03-01 20:37:40' 
 			WHERE messageid=7545;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>ספר מגילת רות ב20: </p><p>&quot;וַתֹּאמֶר נָעֳמִי לְכַלָּתָהּ בָּרוּךְ הוּא ליהוה אֲשֶׁר לֹא עָזַב חַסְדּוֹ אֶת הַחַיִּים וְאֶת הַמֵּתִים וַתֹּאמֶר לה נָעֳמִי קָרוֹב לָנוּ הָאִישׁ מִגֹּאֲלֵנוּ הוּא&quot;</p><p>אלהים חַסְדּוֹ אֶת הַחַיִּים וְאֶת הַמֵּתִים לאמור כי חסד אלהים גם עם החיים וגם עם המתים</p><p>על כן אמר בספר תהילות  </p><p>  תהלים סג4: &quot;כִּי טוֹב חַסְדְּךָ מֵחַיִּים שְׂפָתַי יְשַׁבְּחוּנְךָ&quot;</p><p>חסד אלהים טוב מן החיים כי במות האדם כל צדקתו עולה לשמים וגם שם אלהים יעשה עמו חסד בשמים כי השמים חסד הם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-02 14:27:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-16.html',
+		'<p></p>',
+		'108885433392215797438',
+		'אורי מזרחי',
+		'2018-03-02 17:57:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-02 17:57:52' 
+			WHERE messageid=7575;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-16.html',
+		'<p></p>',
+		'108885433392215797438',
+		'אורי מזרחי',
+		'2018-03-02 17:57:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-16.html',
+		'<p></p>',
+		'108885433392215797438',
+		'אורי מזרחי',
+		'2018-03-02 17:57:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-16.html',
+		'<p></p>',
+		'108885433392215797438',
+		'אורי מזרחי',
+		'2018-03-02 17:57:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-02 17:58:03' 
+			WHERE messageid=7576;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-02 17:58:04' 
+			WHERE messageid=7577;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-02 17:58:05' 
+			WHERE messageid=7578;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-02 18:07:17' 
+			WHERE messageid=7578;
+
