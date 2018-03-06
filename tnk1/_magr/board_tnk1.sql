@@ -1929,3 +1929,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-05 12:32:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2738_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-05 12:53:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-05 17:00:16'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/es-04-11.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/alm2.html',
+				'tnk1/tora/jmot/jm-04-11.html',
+				NULL,
+				'2018-03-06 04:05:51',
+				'2018-03-06 04:05:51',
+				'מי שם פה לאדם?',
+				'אראל',
+				''
+			)
+		;
+
