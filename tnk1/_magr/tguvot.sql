@@ -1818,3 +1818,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-07 09:59:15' 
+			WHERE messageid=7589;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-11-01.html',
+		'<p></p>',
+		'101775182438406714614',
+		'שלמה שמש',
+		'2018-03-07 09:59:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-07 09:59:42' 
+			WHERE messageid=7591;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-11-01.html',
+		'<p>&quot;שַׁלַּח לַחְמְךָ=בשרך שלך,תמית עצמך לקיים את התורה הקדושה שנקראת &quot;מים&quot; ,</p><p>ואולם  צריך היה להיות כתוב &quot;שלח לחמך על המים&quot; ולכן צריך לפרש מהו &quot;על פני המים&quot;.</p><p>&quot;על פני ה&quot;- על פני השכינה, כי השכינה נקראת &quot;ה&quot; וה-&quot;ה&quot; היא השכינה היא המלכות והיא דין  ברמ&quot;ח אברים ושס&quot;ה גידים</p><p>ברמ&quot;ח מצוות עשה ובשס&quot;ה מצוות לא תעשה. ולכן כתוב &quot;על פני המים&quot; כי השכינה והתורה  שנקראת &quot;מים&quot; אחד הם.</p><p>&quot;כִּי בְרֹב הַיָּמִים תִּמְצָאֶנּוּ&quot;- לאחר שיפטר האדם מן העולם מבטיח הקדוש ברוך הוא שימצא את כל עמלו אשר עמל בתורה.</p><p>כי כשאדם עומל בתורה הוא יוצר מלאכים וחייל גדול מאוד שלא ייספר מרב.</p><p></p>',
+		'101775182438406714614',
+		'שלמה שמש',
+		'2018-03-07 10:48:51'
+		)
+		;
+

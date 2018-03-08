@@ -2008,3 +2008,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-03-06 20:23:45'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-07 09:59:30'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-11-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-07 10:48:51'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-11-01.html'
+		;
+
