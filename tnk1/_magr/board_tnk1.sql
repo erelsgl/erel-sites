@@ -1969,3 +1969,42 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-06 14:31:41'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-11-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-06 16:39:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0222_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_985.html',
+				NULL,
+				'2018-03-06 20:23:45',
+				'2018-03-06 20:23:45',
+				' פרשת ויקהל- פקודי- הסוד להשראת השכינה במשכן/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-03-06 20:23:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
