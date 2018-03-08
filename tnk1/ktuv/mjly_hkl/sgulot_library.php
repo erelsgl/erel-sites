@@ -182,8 +182,6 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	$verse_code = $MSPR_TO_QOD_MLBIM[$verse_number];
 	$verse_letter = number2hebrew($verse_number);
 
-	//print "<p style='color:red'>verse $verse_number</p>\n";
-
 	$is_prq = ($verse_number<=0);
 
 	list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
@@ -257,10 +255,8 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	$verse_number = $row['verse_number'];
 	$is_prq = ($verse_number<=0);
 
-	$send_to_next_page = False; //$send_to_next_page = coalesce($row['tosfot'], "");
+	$send_to_next_page = False;
 
-
-	//$tirgum = preg_replace("#/ #ms","<span class='subtitle'>ביאור נוסף:</span> ", $tirgum);
 
 	/*** Create the page class and the opening div: ***/
 	$page_class = "single_height";
@@ -273,8 +269,9 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		";
 	
 	/*** Add the verse text: ***/
-	$html .= ($chapter_number>0 && $link_to_verse? 
+	$html .= ($link_to_verse? 
 		"
+		<div class='verse_and_tirgumim'>
 		<p><a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>
 			".(0<$verse_number && $verse_number<99? "$book_name $chapter_letter$verse_number": "$book_name $chapter_letter")."
 		</a>".(0<$verse_number && $verse_number<99? ": \"<q class='psuq'>$row[verse_text]</q>\"": ":")."</p>

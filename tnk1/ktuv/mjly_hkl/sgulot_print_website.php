@@ -19,7 +19,7 @@ $GLOBALS['linkroot'] = "../../..";
 //$path_from_site_to_mj = "ktuv/mja"; $GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
 
 $path_from_site_to_mj = "ktuv/mj"; 
-$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'dquyot', 'full');
+$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
 $GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
 
 $GLOBALS['SCRIPT'] = "$fileroot/_script";
@@ -87,7 +87,8 @@ if ($return_html) {
 }
 $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
-	//print_r($row);
+
+	/* 1. Calculate current chapter and verse codes: */
 	$chapter_number = (int)$row['chapter_number'];
 	list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
@@ -95,70 +96,24 @@ while ($row = sql_fetch_assoc($rows)) {
 	$verse_number = (int)$row['verse_number'];
 	list($verse_code, $verse_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim `0`, kotrt `1`  FROM tnk.prqim WHERE mspr=$verse_number");
-	
-	//print "<p>chapter=$chapter_number verse=$verse_number</p>\n";
-	#if ($verse_number==0) {
-	#	user_error("Verse 0 skipped!",E_USER_WARNING);
-	#	continue;
-	#}
 
-	if ($verse_number == 0) {
-		$next_chapter_letter = $chapter_letter;
-		$next_verse_number = 1;
-		list($previous_chapter_letter, $previous_verse_number) = sql_evaluate_assoc(
-			"SELECT previous_chapter AS `0`, previous_verse_number AS `1`
-			 FROM tnk.psuq_qodm_hba 
-			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=1");
-	} else if ($verse_number<99) {
-		list($previous_chapter_letter, $previous_verse_number, $next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
-			"SELECT previous_chapter AS `0`, previous_verse_number AS `1`, next_chapter AS `2`, next_verse_number as `3` 
-			 FROM tnk.psuq_qodm_hba 
-			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$verse_number");
-	} else {
-		$previous_chapter_letter = $chapter_letter;
-		$previous_verse_number = sql_evaluate(
-		"SELECT MAX(verse_number) 
-			FROM tnk.psuq_qodm_hba 
-			WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter));
-		list($next_chapter_letter, $next_verse_number) = sql_evaluate_assoc(
-			"SELECT next_chapter AS `0`, next_verse_number as `1` 
-			 FROM tnk.psuq_qodm_hba 
-			 WHERE book_code=".quote_all($book_code)." AND chapter_letter=".quote_all($chapter_letter)." AND verse_number=$previous_verse_number");
-	}
-	
-	if ($chapter_number===1 && $verse_number===0)
-		$previous_chapter_letter = $previous_verse_number = null;
-	if ($previous_chapter_letter)
-		list($previous_chapter_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM tnk.prqim WHERE kotrt = ".quote_all($previous_chapter_letter));
-	if ($next_chapter_letter)
-		list($next_chapter_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM tnk.prqim WHERE kotrt = ".quote_all($next_chapter_letter));
-	if ($previous_verse_number!==null) 
-		list($previous_verse_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM tnk.prqim WHERE mspr = ".$previous_verse_number);
-	if ($next_verse_number!==null)
-		list($next_verse_code) = sql_evaluate_array(
-			"SELECT qod_mlbim FROM tnk.prqim WHERE mspr = ".$next_verse_number);
+
+
+	/* 2. Calculate title for current page: */	
 	$current_title = (
 			$verse_number===0? "מבנה $book_name $chapter_letter":
 			$verse_number===99? "סיכום $book_name $chapter_letter":
 			"$book_name $chapter_letter $verse_number"
 	);
-	$verse_link = utf8_to_windows1255("<a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>$current_title</a>");
 
-	if ($previous_verse_number!==null) 
-		$previous_link = "$previous_chapter_code-$previous_verse_code.html";
-	$previous_title = "$previous_chapter_letter $previous_verse_number";
-	$next_link = "$next_chapter_code-$next_verse_code.html";
-	$next_title = " $next_chapter_letter $next_verse_number";
-	$navigation = "
-		<table class='inner_navigation'><tr>
-			<td class='previous'>".($previous_chapter_letter&&$previous_chapter_code? "<a href='$previous_link'> &rarr;$previous_title&mdash; </a>": "")."</td>
-			<td class='current'>$current_title</td>
-			<td class='next'>".($next_chapter_code>=32? "": "<a href='$next_link'> &mdash;$next_title&larr; </a>")."</td>
-		</tr></table><!-- inner_navigation -->
-		";
+	$verse_link = $verse_number==0? 
+		"": 
+		utf8_to_windows1255("<a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>$current_title</a>");
+
+
+	$book_navigation = book_navigation($book_name, $book_code, $chapter_number);
+	$chapter_navigation = chapter_navigation($book_code, $chapter_letter, $chapter_number, $chapter_code, $verse_number);
+
 	global $fileroot, $newline, $lang, $direction, $bodyclass, $fullbody,
 		$site, $path_from_reply_to_root, $path_from_root_to_reply, $path_from_reply_to_site, $path_from_site_to_document,
 		$title_without_html, $title_with_html, $titleType,
@@ -193,25 +148,25 @@ while ($row = sql_fetch_assoc($rows)) {
 	$anipruj = false;
 
 	$row['tosfot'] = ""; // "send to next page" is meaningless in the website
-	$fullbody = html_for_page($row, $book_number, $book_name, /*link to verse=*/true, /*icons=*/false);
+	$link_to_verse = $chapter_number>0 && $verse_number>0 && $verse_number<99;
+	$fullbody = html_for_page($row, $book_number, $book_name, $link_to_verse, /*icons=*/false);
 	
 	$fullbody = "
 		<div id='tokn'>
-		$navigation
+		$book_navigation
+		$chapter_navigation
 		$fullbody
-		$navigation
+		$chapter_navigation
+		$book_navigation
 		</div><!--tokn-->
 		<h2 id='tguvot'>תגובות</h2>
 		<ul id='ultguvot'>
 		<li></li>
 		</ul><!--end-->
 		";
-	//print "xxx $fullbody xxx";
 	$fullbody = iconv("UTF-8", "Windows-1255", $fullbody);
 	if (!$fullbody) 
 		user_error("iconv failed to translate fullbody!",E_USER_ERROR);
-	//$fullbody = utf8_to_windows1255($fullbody);
-	//print "yyy $fullbody yyy";
 	$origsubject = "";
 
 	$tvnit = "";
@@ -221,7 +176,6 @@ while ($row = sql_fetch_assoc($rows)) {
 
 	$templatename = "$SCRIPT/newfiletemplate.pm";
 	$templatebody = fixed_template($templatename);
-	//$templatebody_utf8 = windows1255_to_utf8($templatebody);
 	$body = eval($templatebody);
 	
 	if ($return_html) {
@@ -234,18 +188,85 @@ while ($row = sql_fetch_assoc($rows)) {
 	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
 
 	print "<p><a href='$linkroot/$path_from_root_to_reply'>$title_utf8</a></p>\n";
-
-	//sql_query_or_die("REPLACE INTO prt_tnk1_new(qod,ktovt) VALUES(".quote_all($title_utf8).",".quote_all($path_from_root_to_reply).")");
 }
 
-function print_ascii($s) {
-	print "<p>";
-	for ($i=0; $i<strlen($s); ++$i) {
-		print ord($s{$i})." ";
+
+
+
+/**
+ * Create a navigation bar to all chapters of the given book.
+ */
+function book_navigation($book_name, $book_code, $chapter_number) {
+	$query = "
+		SELECT DISTINCT chapter_number, chapter_letter, qod_mlbim AS chapter_code
+		FROM sgulot
+		LEFT JOIN tnk.prqim ON(mspr = chapter_number)
+		WHERE book=".quote_all($book_code)."
+		AND chapter_number BETWEEN 1 AND 98
+		";
+	$rows = sql_query_or_die($query);
+	$chapters = "";
+	while ($row = sql_fetch_assoc($rows)) {
+		$other_chapter_number = (int)$row['chapter_number'];
+		$other_chapter_letter   = $row['chapter_letter'];
+		$other_chapter_code   = $row['chapter_code'];
+		$link_title = $other_chapter_letter;
+		if ($other_chapter_number==0)  $link_title="מבנה";
+		if ($other_chapter_number==99) $link_title="סיכום";
+		$href = "$other_chapter_code-00.html";
+		$link = ($chapter_number==$other_chapter_number? 
+			"<b>$link_title</b>":
+			"<a href='$href'>$link_title</a>");
+		$chapters .= "
+			&nbsp;$link&nbsp;";
 	}
-	print "</p>\n";
+	return "
+		<table class='inner_navigation'><tr><td>
+			<b>ספר $book_name</b>: 
+			<a href='../mjly/mvne.html'>מבנה</a>&nbsp;&nbsp;&nbsp;
+			$chapters
+		</td></tr></table><!-- inner_navigation -->
+		";
 }
+
+
+/**
+ * Create a navigation bar to all verses of the given chapter.
+ */
+function chapter_navigation($book_code, $chapter_letter, $chapter_number, $chapter_code, $verse_number) {
+	$query = "
+		SELECT verse_number, qod_mlbim as verse_code 
+		FROM sgulot
+		LEFT JOIN tnk.prqim ON(mspr = verse_number)
+		WHERE book=".quote_all($book_code)."
+		AND   chapter_number=$chapter_number
+		AND verse_number BETWEEN 0 AND 99
+		";
+	$rows = sql_query_or_die($query);
+	$verses = "";
+	while ($row = sql_fetch_assoc($rows)) {
+		$other_verse_number = (int)$row['verse_number'];
+		$other_verse_code   = $row['verse_code'];
+		$link_title = $other_verse_number;
+		if ($other_verse_number==0) $link_title="מבנה";
+		if ($other_verse_number==99) $link_title="סיכום";
+		$href = "$chapter_code-$row[verse_code].html";
+		$link = ($verse_number==$other_verse_number? 
+			"<b>$link_title</b>":
+			"<a href='$href'>$link_title</a>");
+		$verses .= "
+			&nbsp;$link&nbsp;";
+	}
+	return "
+		<table class='inner_navigation'><tr><td>
+			<b>פרק $chapter_letter</b>: 
+			$verses
+		</td></tr></table><!-- inner_navigation -->
+		";
+}
+
 
 ?>
 </body>
 </html>
+
