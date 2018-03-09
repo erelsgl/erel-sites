@@ -1856,3 +1856,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-05-12-D.html',
+		'<p>ממליץ לקרוא את המאמר המלא כאן: http//www.pshat.com/חידת-ממחרת-השבת/</p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-03-08 13:56:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-08 13:56:26' 
+			WHERE messageid=7593;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-05-12-D.html',
+		'<p>ממליץ לקרוא את המאמר המלא כאן: http://www.pshat.com/חידת-ממחרת-השבת/</p><p></p>',
+		'101891375168259576649',
+		'Nitzan Chamiel',
+		'2018-03-08 13:56:43'
+		)
+		;
+
