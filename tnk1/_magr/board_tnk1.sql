@@ -2119,3 +2119,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-11 16:50:35'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-25-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-11 17:42:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0310_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-12 06:07:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
