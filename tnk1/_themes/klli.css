@@ -933,6 +933,11 @@ table.inner_navigation { width:100%; background-color:#cfc; border:#080 solid;}
 
 /* SGULOT */
 
+body.sgulot table.inner_navigation { width:100%; background-color:#ddf; border:#008 2px solid;}
+	body.sgulot table.inner_navigation td { border-top: solid 1px #44c;}
+	body.sgulot div.verse_and_tirgumim q.psuq {font-size: 40px}
+	body.sgulot div.verse { background: none}
+
 .gate .verse .verse_text { font-size: 96px; }
 body.tirgum .page {height:auto}
 table.tirgum td { border-style:dotted; border-color:#888; border-width: 1px 0; padding:0 6px; }

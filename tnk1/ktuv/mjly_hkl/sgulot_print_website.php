@@ -124,7 +124,7 @@ while ($row = sql_fetch_assoc($rows)) {
 	$newline = "\n";
 	$lang = "he";
 	$direction = "rtl";
-	$bodyclass = "newsubject";
+	$bodyclass = "sgulot";
 
 	$site = "tnk1";
 	$path_from_site_to_document = "$path_from_site_to_mj/$chapter_code-$verse_code";
@@ -148,16 +148,20 @@ while ($row = sql_fetch_assoc($rows)) {
 	$anipruj = false;
 
 	$row['tosfot'] = ""; // "send to next page" is meaningless in the website
-	$link_to_verse = $chapter_number>0 && $verse_number>0 && $verse_number<99;
+	$link_to_verse = false; //$chapter_number>0 && $verse_number>0 && $verse_number<99;
 	$fullbody = html_for_page($row, $book_number, $book_name, $link_to_verse, /*icons=*/false);
 	
 	$fullbody = "
 		<div id='tokn'>
+		<table class='inner_navigation'>
 		$book_navigation
 		$chapter_navigation
+		</table><!-- inner_navigation -->
 		$fullbody
+		<table class='inner_navigation'>
 		$chapter_navigation
 		$book_navigation
+		</table><!-- inner_navigation -->
 		</div><!--tokn-->
 		<h2 id='tguvot'>תגובות</h2>
 		<ul id='ultguvot'>
@@ -211,8 +215,6 @@ function book_navigation($book_name, $book_code, $chapter_number) {
 		$other_chapter_letter   = $row['chapter_letter'];
 		$other_chapter_code   = $row['chapter_code'];
 		$link_title = $other_chapter_letter;
-		if ($other_chapter_number==0)  $link_title="מבנה";
-		if ($other_chapter_number==99) $link_title="סיכום";
 		$href = "$other_chapter_code-00.html";
 		$link = ($chapter_number==$other_chapter_number? 
 			"<b>$link_title</b>":
@@ -221,11 +223,12 @@ function book_navigation($book_name, $book_code, $chapter_number) {
 			&nbsp;$link&nbsp;";
 	}
 	return "
-		<table class='inner_navigation'><tr><td>
-			<b>ספר $book_name</b>: 
-			<a href='../mjly/mvne.html'>מבנה</a>&nbsp;&nbsp;&nbsp;
+		<tr><td>
+			<a href='../mjly/mvne.html'><b>ספר $book_name</b></a>
+			&nbsp;&nbsp;&nbsp;פרק&nbsp;&nbsp;
 			$chapters
-		</td></tr></table><!-- inner_navigation -->
+		</td></tr>
+
 		";
 }
 
@@ -248,7 +251,7 @@ function chapter_navigation($book_code, $chapter_letter, $chapter_number, $chapt
 		$other_verse_number = (int)$row['verse_number'];
 		$other_verse_code   = $row['verse_code'];
 		$link_title = $other_verse_number;
-		if ($other_verse_number==0) $link_title="מבנה";
+		if ($other_verse_number==0) $link_title="פרק ".$chapter_letter;
 		if ($other_verse_number==99) $link_title="סיכום";
 		$href = "$chapter_code-$row[verse_code].html";
 		$link = ($verse_number==$other_verse_number? 
@@ -256,12 +259,13 @@ function chapter_navigation($book_code, $chapter_letter, $chapter_number, $chapt
 			"<a href='$href'>$link_title</a>");
 		$verses .= "
 			&nbsp;$link&nbsp;";
+		if ($other_verse_number==0) 
+			$verses .= "&nbsp;&nbsp;&nbsp;פסוק&nbsp;&nbsp;";
 	}
 	return "
-		<table class='inner_navigation'><tr><td>
-			<b>פרק $chapter_letter</b>: 
+		<tr><td>
 			$verses
-		</td></tr></table><!-- inner_navigation -->
+		</td></tr>
 		";
 }
 
