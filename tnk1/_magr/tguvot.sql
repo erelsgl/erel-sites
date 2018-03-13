@@ -1997,3 +1997,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>משלי ט9: &quot;תֵּן לְחָכָם וְיֶחְכַּם עוֹד הוֹדַע לְצַדִּיק וְיוֹסֶף לֶקַח&quot; </p><p>תהלים קג7: &quot;יוֹדִיעַ דְּרָכָיו לְמֹשֶׁה לִבְנֵי יִשְׂרָאֵל עֲלִילוֹתָיו&quot;</p><p>הוֹדַע לְצַדִּיק על כן יהוה יוֹדִיעַ דְּרָכָיו לְמֹשֶׁה </p><p>******* מֹשֶׁה = צַדִּיק *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-13 05:06:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>יהי רצון מלפניו שהחתולה שאספה אורנה אצל אמה תבריא ברפואה שלמה ותחזור במהרה לאיתנה ללא מכואבים</p>',
+		'109762530341025819711',
+		'Gideon Shalkovsky',
+		'2018-03-13 05:47:13'
+		)
+		;
+
