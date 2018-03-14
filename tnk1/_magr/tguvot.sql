@@ -2021,3 +2021,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אני חד הורית וזקוקה להלוואה דחופה אין לי מקום מגורים אשמח עם תחזרו אליי0502525032 תודה</p>',
+		'101608160732681512289',
+		'שרית לייבוביץ-ידגר',
+		'2018-03-14 05:34:31'
+		)
+		;
+
