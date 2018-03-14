@@ -224,7 +224,7 @@ function book_navigation($book_name, $book_code, $chapter_number) {
 	}
 	return "
 		<tr><td>
-			<a href='../mjly/mvne.html'><b>ספר $book_name</b></a>
+			<a href='00-00.html'><b>ספר $book_name</b></a>
 			&nbsp;&nbsp;&nbsp;פרק&nbsp;&nbsp;
 			$chapters
 		</td></tr>

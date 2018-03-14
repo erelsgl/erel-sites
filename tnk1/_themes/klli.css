@@ -937,6 +937,7 @@ body.sgulot table.inner_navigation { width:100%; background-color:#ddf; border:#
 	body.sgulot table.inner_navigation td { border-top: solid 1px #44c;}
 	body.sgulot div.verse_and_tirgumim q.psuq {font-size: 40px}
 	body.sgulot div.verse { background: none}
+	body.sgulot .future { display: none }
 
 .gate .verse .verse_text { font-size: 96px; }
 body.tirgum .page {height:auto}

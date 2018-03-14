@@ -44,7 +44,7 @@
 	(preg_match('/9083/',$path_from_site_to_document)? "": ($anipruj? "kotrt_mfrj()": "kotrt()")) .
 	"</script>$newline" .
 
-	(($bodyclass eq "newarticle" or $bodyclass eq "newsubject" or $tvnit)? "":
+	(($bodyclass eq "newarticle" or $bodyclass eq "newsubject" or $bodyclass eq "sgulot" or $tvnit)? "":
 		"<p class='teur_tguva'>" . 
 		($lang eq 'en'? "Written: $date_for_html, as an addition/reply to:": "נכתב ב: $date_for_html, כתוספת/תגובה ל: ") . 
 		"<a href='$path_from_reply_to_site$path_from_site_to_document$optional_ext'>$origsubject</a></p>$newline") .
