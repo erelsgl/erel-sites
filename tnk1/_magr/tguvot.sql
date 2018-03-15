@@ -2033,3 +2033,273 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>איוב הצדיק התאבל באבלו ומרוב כאב גדול מאד מחשים לאמור עֵת לַחֲשׁוֹת וְלא עֵת לְדַבֵּר כי לא ניתן לדבר בעת אבל כואב מאד </p><p>איוב ב13: &quot;וַיֵּשְׁבוּ אִתּוֹ לָאָרֶץ שִׁבְעַת יָמִים וְשִׁבְעַת לֵילוֹת וְאֵין דֹּבֵר אֵלָיו דָּבָר כִּי רָאוּ כִּי גָדַל הַכְּאֵב מְאֹד&quot;</p><p>ובעת אבל מחשים וקורעים את הבגדים כי עֵת לִקְרוֹעַ ועֵת לַחֲשׁוֹת</p><p>ובעת בשמחה תופרים ומדברים כי עֵת לִתְפּוֹר וְעֵת לְדַבֵּר&quot;</p><p>קהלת ג7: &quot;עֵת לִקְרוֹעַ וְעֵת לִתְפּוֹר עֵת לַחֲשׁוֹת וְעֵת לְדַבֵּר&quot;</p><p>ויש להיות נאמן לאלהים בכל עת [בכל סיטואציה] כדי לדעת טוב ורע</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 12:17:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>איוב הצדיק התאבל באבלו ומרוב כאב גדול מאד מחשים לאמור עֵת לַחֲשׁוֹת וְלא עֵת לְדַבֵּר כי לא ניתן לדבר בעת אבל כואב מאד</p><p>איוב ב13: &quot;וַיֵּשְׁבוּ אִתּוֹ לָאָרֶץ שִׁבְעַת יָמִים וְשִׁבְעַת לֵילוֹת וְאֵין דֹּבֵר אֵלָיו דָּבָר כִּי רָאוּ כִּי גָדַל הַכְּאֵב מְאֹד&quot;</p><p>ובעת אבל מחשים וקורעים את הבגדים כי עֵת לִקְרוֹעַ ועֵת לַחֲשׁוֹת</p><p>ובעת בשמחה תופרים ומדברים כי עֵת לִתְפּוֹר וְעֵת לְדַבֵּר&quot;</p><p>קהלת ג7: &quot;עֵת לִקְרוֹעַ וְעֵת לִתְפּוֹר עֵת לַחֲשׁוֹת וְעֵת לְדַבֵּר&quot;</p><p>ויש להיות נאמן לאלהים בכל עת [בכל סיטואציה] כדי להיות כאלהים יודע דעת טוב ורע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 12:22:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-14 12:22:34' 
+			WHERE messageid=7114;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-14 12:27:30' 
+			WHERE messageid=7606;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>ומה עם עוף?....למשל תרנגולת היא בריה הנשלטת ע&quot; האדם</p>',
+		'108840682233902727686',
+		'Avner Gershoni',
+		'2018-03-14 14:01:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>מאמר תורני אינפורמטיבי חשוב ומנומק וכתוב בעט ברורה; תודה. </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-03-14 14:29:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 930 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 931 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 951 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 952 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1131 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1132 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 3790 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4462 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 4722 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 6151 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 7114 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 7607 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0406_2.html',
+		'<p>1.שמות לג12: &quot;וַיֹּאמֶר מֹשֶׁה אֶל יהוה רְאֵה אַתָּה אֹמֵר אֵלַי הַעַל אֶת הָעָם הַזֶּה וְאַתָּה לֹא הוֹדַעְתַּנִי אֵת אֲשֶׁר תִּשְׁלַח עִמִּי </p><p>וְאַתָּה אָמַרְתָּ יְדַעְתִּיךָ בְשֵׁם וְגַם מָצָאתָ חֵן בְּעֵינָי&quot;</p><p>2.שמות לג17: &quot;וַיֹּאמֶר יהוה אֶל מֹשֶׁה גַּם אֶת הַדָּבָר הַזֶּה אֲשֶׁר דִּבַּרְתָּ אֶעֱשֶׂה כִּי מָצָאתָ חֵן בְּעֵינַי וָאֵדָעֲךָ בְּשֵׁם&quot;</p><p>-------</p><p>אז יש פה 2 גרסאות</p><p>1. לפי הגרסה של משה</p><p>קודם יְדַעְתִּיךָ בְשֵׁם וְאחרי כן גַם מָצָאתָ חֵן בְּעֵינָי</p><p>לפי גרסה זו גרסה 1 ניתן לחשוב כי יש קדימות לשם &quot;משה&quot; ובזכות זה מצא חן בעיני אלהים </p><p>2. אך לפי יהוה כִּי מָצָאתָ חֵן בְּעֵינַי וָאֵדָעֲךָ בְּשֵׁם</p><p>-------</p><p>אף כי משה איש אלהים לאמור נביא הוא אך אדם הוא וכי דברי יהוה גוברים על האדם</p><p>על כן גרסה מספר 2 היא הנכונה</p><p>לאמור כי קודם יש למצוא חן בעיני אלהים ואחרי כן ידעך בשם</p><p>וזה גם מעיד כי אם תמצא חן בעיני אלהים אז אלהים ידעך בשם קודשו ברוח הקודש ולא בהכרח בשם הפרטי שלך על אף חשיבותו</p><p>---</p><p>על כן דבר ראשון בטרם ידעך אלהים בשם קודשו</p><p>משלי ג3: &quot;חֶסֶד וֶאֱמֶת אַל יַעַזְבֻךָ קָשְׁרֵם עַל גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל לוּחַ לִבֶּךָ&quot; </p><p>משלי ג4: &quot;וּמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 18:35:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>זֹאת הַחַיָּה אֲשֶׁר תֹּאכְלוּ מִכָּל הַבְּהֵמָה אֲשֶׁר עַל הָאָרֶץ</p><p>כעת פרוש ..........</p><p>חיה =היא כל נפש חיה במים בימים וכן בארץ וגם עוף השמים</p><p>אך הבהמה = היא הַבְּהֵמָה אֲשֶׁר עַל הָאָרֶץ... לא בשמים כעוף השמים ולא בימים שם חיות קטנות עם גדולות</p><p>תהלים קד25: &quot;זֶה הַיָּם גָּדוֹל וּרְחַב יָדָיִם שָׁם רֶמֶשׂ וְאֵין מִסְפָּר חַיּוֹת קְטַנּוֹת עִם גְּדֹלוֹת&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 18:46:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2831_2.html',
+		'<p>יחזקאל טז13: &quot;וַתַּעְדִּי זָהָב וָכֶסֶף וּמַלְבּוּשֵׁךְ ששי[שֵׁשׁ] וָמֶשִׁי וְרִקְמָה סֹלֶת וּדְבַשׁ וָשֶׁמֶן אכלתי[אָכָלְתְּ] וַתִּיפִי בִּמְאֹד מְאֹד וַתִּצְלְחִי לִמְלוּכָה&quot;</p><p>וַתִּיפִי בִּמְאֹד מְאֹד וַתִּצְלְחִי לִמְלוּכָה - כי אשה יפה מאד מאד נכונה למלך</p><p>אך בעיני מלך המלכים הוא יהוה שמו הלא יִרְאֶה לַלֵּבָב לאמור כי היופי הפנימי בנפש הוא היופי הטהור בעיני אלהים</p><p>שמואל א טז7: </p><p>&quot;וַיֹּאמֶר יהוה אֶל שְׁמוּאֵל אַל תַּבֵּט אֶל מַרְאֵהוּ וְאֶל גְּבֹהַּ קוֹמָתוֹ כִּי מְאַסְתִּיהוּ כִּי לֹא אֲשֶׁר יִרְאֶה הָאָדָם כִּי הָאָדָם יִרְאֶה לַעֵינַיִם ויהוה יִרְאֶה לַלֵּבָב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 19:49:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2831_2.html',
+		'<p>יחזקאל טז13: &quot;וַתַּעְדִּי זָהָב וָכֶסֶף וּמַלְבּוּשֵׁךְ ששי[שֵׁשׁ] וָמֶשִׁי וְרִקְמָה סֹלֶת וּדְבַשׁ וָשֶׁמֶן אכלתי[אָכָלְתְּ] וַתִּיפִי בִּמְאֹד מְאֹד וַתִּצְלְחִי לִמְלוּכָה&quot;</p><p>וַתִּיפִי בִּמְאֹד מְאֹד וַתִּצְלְחִי לִמְלוּכָה - כי אשה יפה מאד מאד נכונה למלך</p><p>אך בעיני מלך המלכים הוא יהוה שמו הלא יִרְאֶה לַלֵּבָב לאמור כי היופי הפנימי בנפש הוא היופי הטהור בעיני אלהים</p><p>שמואל א טז7:</p><p>&quot;וַיֹּאמֶר יהוה אֶל שְׁמוּאֵל אַל תַּבֵּט אֶל מַרְאֵהוּ וְאֶל גְּבֹהַּ קוֹמָתוֹ כִּי מְאַסְתִּיהוּ </p><p>כִּי לֹא אֲשֶׁר יִרְאֶה הָאָדָם כִּי הָאָדָם יִרְאֶה לַעֵינַיִם ויהוה יִרְאֶה לַלֵּבָב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-14 19:50:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-14 19:50:51' 
+			WHERE messageid=7612;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>לגבי העוף, זו באמת שאלה טובה. מצד אחד, ברור שעוף הוא חיה. מצד שני, כתוב בויקרא יז13: &quot;...אֲשֶׁר יָצוּד צֵיד חַיָּה אוֹ עוֹף אֲשֶׁר יֵאָכֵל...&quot; - חיה או עוף נחשבים שני דברים שונים!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-03-15 03:54:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>לגבי העוף, זו באמת שאלה טובה. מצד אחד, ברור שעוף הוא יצור חי. מצד שני, כתוב בויקרא יז13: &quot;...אֲשֶׁר יָצוּד צֵיד חַיָּה אוֹ עוֹף אֲשֶׁר יֵאָכֵל...&quot; - חיה או עוף נחשבים שני דברים שונים!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-03-15 03:54:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-15 03:54:29' 
+			WHERE messageid=7614;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>תהלים כה21: &quot;תֹּם וָיֹשֶׁר יִצְּרוּנִי כִּי קִוִּיתִיךָ&quot; </p><p>משלי כ28: &quot;חֶסֶד וֶאֱמֶת יִצְּרוּ מֶלֶךְ וְסָעַד בַּחֶסֶד כִּסְאוֹ&quot; </p><p>---------- לעדות ראו נא מה יוצר את המלך</p><p>תֹּם וָיֹשֶׁר תקוה לאלהים וחֶסֶד וֶאֱמֶת</p><p>ומה משמר את המלך לחיי עולם הנה כתוב בפסוק הבא</p><p>משלי כט14: &quot;מֶלֶךְ שׁוֹפֵט בֶּאֱמֶת דַּלִּים כִּסְאוֹ לָעַד יִכּוֹן&quot; </p><p>משלי כד21: &quot;יְרָא אֶת יהוה בְּנִי וָמֶלֶךְ עִם שׁוֹנִים אַל תִּתְעָרָב&quot; </p><p>יְרָא אֶת יהוה בְּנִי וָמֶלֶךְ = ירא את יהוה בני ותמלוך כמלך</p><p>כי ירא יהוה זה המלך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-15 04:47:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>תהלים י18: &quot;לִשְׁפֹּט יָתוֹם וָדָךְ בַּל יוֹסִיף עוֹד לַעֲרֹץ אֱנוֹשׁ מִן הָאָרֶץ&quot;</p><p>תהלים סח6: &quot;אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת אֱלֹהִים בִּמְעוֹן קָדְשׁוֹ&quot;</p><p>--------------</p><p>לִשְׁפֹּט יָתוֹם וָדָךְ - אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת</p><p>יתום ואלמנה עם אלה לעשות משפט וצדקה </p><p>ודרך הטוב לעשות עמם משפט וצדקה זה לעודד אותם</p><p>תהלים קמו9: &quot;יהוה שֹׁמֵר אֶת גֵּרִים יָתוֹם וְאַלְמָנָה יְעוֹדֵד וְדֶרֶךְ רְשָׁעִים יְעַוֵּת&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-15 05:12:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>תהלים י18: &quot;לִשְׁפֹּט יָתוֹם וָדָךְ בַּל יוֹסִיף עוֹד לַעֲרֹץ אֱנוֹשׁ מִן הָאָרֶץ&quot;</p><p>תהלים סח6: &quot;אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת אֱלֹהִים בִּמְעוֹן קָדְשׁוֹ&quot;</p><p>--------------</p><p>לִשְׁפֹּט יָתוֹם וָדָךְ - אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת</p><p>יתום ואלמנה את הדלים האלה לשפוט </p><p>ודרך הטוב לעשות עמם משפט וצדקה זה לעודד אותם</p><p>תהלים קמו9: &quot;יהוה שֹׁמֵר אֶת גֵּרִים יָתוֹם וְאַלְמָנָה יְעוֹדֵד וְדֶרֶךְ רְשָׁעִים יְעַוֵּת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-15 05:16:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-15 05:16:52' 
+			WHERE messageid=7617;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>תהלים י18: &quot;לִשְׁפֹּט יָתוֹם וָדָךְ בַּל יוֹסִיף עוֹד לַעֲרֹץ אֱנוֹשׁ מִן הָאָרֶץ&quot;</p><p>תהלים סח6: &quot;אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת אֱלֹהִים בִּמְעוֹן קָדְשׁוֹ&quot;</p><p>--------------</p><p>לִשְׁפֹּט יָתוֹם וָדָךְ - אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת</p><p>יתום ואלמנה --- את הדלים האלה לשפוט</p><p>ודרך הטוב לעשות עמם משפט וצדקה זה לעודד אותם</p><p>תהלים קמו9: &quot;יהוה שֹׁמֵר אֶת גֵּרִים יָתוֹם וְאַלְמָנָה יְעוֹדֵד וְדֶרֶךְ רְשָׁעִים יְעַוֵּת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-15 05:17:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-15 05:17:35' 
+			WHERE messageid=7618;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>אמנם עוף זה נפש חיה אך כאשר מדובר על חַיָּה מדובר על חַיַּת הָאָרֶץ להבדיל מעוֹף הַשָּׁמַיִם</p><p>בראשית א30: &quot;וּלְכָל חַיַּת הָאָרֶץ וּלְכָל עוֹף הַשָּׁמַיִם וּלְכָל רוֹמֵשׂ עַל הָאָרֶץ אֲשֶׁר בּוֹ נֶפֶשׁ חַיָּה אֶת כָּל יֶרֶק עֵשֶׂב לְאָכְלָה וַיְהִי כֵן&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-15 05:28:43'
+		)
+		;
+
