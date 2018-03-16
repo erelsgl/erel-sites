@@ -2310,3 +2310,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim1/xya_bhma.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-15 17:44:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-15 17:50:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
