@@ -916,3 +916,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 3 AND `verse_number` = 26 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `kotrt` = 'אשת חיל - מציאה נדירה' WHERE `book` = 'משל' AND `chapter_number` = 31 AND `verse_number` = 10 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 31 AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 31 AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 31 AND `verse_number` = 13 AND 1 LIMIT 1;
+
