@@ -2346,3 +2346,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0212_2.html',
+		'<p>תהלים קה43: &quot;וַיּוֹצִא עַמּוֹ בְשָׂשׂוֹן בְּרִנָּה אֶת בְּחִירָיו&quot;</p><p>תהלים קה37: &quot;וַיּוֹצִיאֵם בְּכֶסֶף וְזָהָב וְאֵין בִּשְׁבָטָיו כּוֹשֵׁל&quot;</p><p>וַיּוֹצִא עַמּוֹ בְשָׂשׂוֹן בְּרִנָּה = וַיּוֹצִיאֵם בְּכֶסֶף וְזָהָב</p><p>********* בְשָׂשׂוֹן בְּרִנָּה = בְּכֶסֶף וְזָהָב *********</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-17 17:19:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p></p><p>ספר איוב פרק ט (כד) אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא</p><p>תהלים צז10: &quot;אֹהֲבֵי יהוה שִׂנְאוּ רָע שֹׁמֵר נַפְשׁוֹת חֲסִידָיו מִיַּד רְשָׁעִים יַצִּילֵם&quot;</p><p>אֶרֶץ נִתְּנָה בְיַד רָשָׁע אך אם אתם אֹהֲבֵי יהוה שִׂנְאוּ רָע שֹׁמֵר נַפְשׁוֹת חֲסִידָיו מִיַּד רְשָׁעִים יַצִּילֵם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-17 18:00:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>ספר איוב פרק ט (כד) אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא</p><p>תהלים צז10: &quot;אֹהֲבֵי יהוה שִׂנְאוּ רָע שֹׁמֵר נַפְשׁוֹת חֲסִידָיו מִיַּד רְשָׁעִים יַצִּילֵם&quot;</p><p>אֶרֶץ נִתְּנָה בְיַד רָשָׁע אך אם אתם הקדושים בארץ אֹהֲבֵי יהוה שִׂנְאוּ רָע שֹׁמֵר נַפְשׁוֹת חֲסִידָיו מִיַּד רְשָׁעִים יַצִּילֵם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-17 18:03:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-17 18:03:39' 
+			WHERE messageid=7625;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cfn.html',
+		'<p>מעולה תודה! אחת המילים המעניינות בעברית</p>',
+		'101362036002452726597',
+		'ניצה הנשקה',
+		'2018-03-17 22:02:21'
+		)
+		;
+
