@@ -2444,3 +2444,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה לבת שלי פאינה</p>',
+		'118258222813559829870',
+		'Marina Braziler',
+		'2018-03-19 17:19:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אם תסירו עוונותיכם מעליכם לא יהיה הבדל ביניכם לבין אלהים</p><p>אם תסירו חַטֹּאותֵיכֶם מעליכם תוכלו לשמוע בקול אלהים כי רוחו תלבש פניכם ולא יהיה הסתר פנים</p><p>ישעיהו נט2: &quot;כִּי אִם עונתיכם הָיוּ מַבְדִּלִים בֵּינֵכֶם לְבֵין אֱלֹהֵיכֶם וְחַטֹּאותֵיכֶם הִסְתִּירוּ פָנִים מִכֶּם מִשְּׁמוֹעַ&quot;</p><p>על כן התפלל את התפילה הזאת</p><p>תהלים נא11: &quot;הַסְתֵּר פָּנֶיךָ מֵחֲטָאָי וְכָל עונתי מְחֵה&quot;</p><p>-- </p><p>תהלים כז9: &quot;אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי אַל תַּט בְּאַף עַבְדֶּךָ עֶזְרָתִי הָיִיתָ אַל תִּטְּשֵׁנִי וְאַל תַּעַזְבֵנִי אֱלֹהֵי יִשְׁעִי&quot;</p><p>תהלים סט18: &quot;וְאַל תַּסְתֵּר פָּנֶיךָ מֵעַבְדֶּךָ כִּי צַר לִי מַהֵר עֲנֵנִי&quot;</p><p>תהלים קב3: &quot;אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי בְּיוֹם צַר לִי הַטֵּה אֵלַי אָזְנֶךָ בְּיוֹם אֶקְרָא מַהֵר עֲנֵנִי&quot;</p><p> </p><p>תהלים קמג7: &quot;מַהֵר עֲנֵנִי יהוה כָּלְתָה רוּחִי אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי וְנִמְשַׁלְתִּי עִם יֹרְדֵי בוֹר&quot;</p><p>תהלים קיט19: &quot;גֵּר אָנֹכִי בָאָרֶץ אַל תַּסְתֵּר מִמֶּנִּי מצותיך&quot;</p><p>המלך המשיח התפלל לאלהים את התפילה הזאת למען לא יסתר פניו ממנו ממצוותיו כי אם רק מחטאיו</p><p>הַסְתֵּר פָּנֶיךָ מֵחֲטָאָי וְכָל עונתי מְחֵה  &quot;אַל תַּסְתֵּר מִמֶּנִּי מצותיך&quot;</p><p>כי אם עושים חטאים ולא מביטים אל המצוות אז המצוות נסתרות ממך ואז אלהים יסתר פנים ממך</p><p>לכן אחי השמר מחטאים וזכור רק לעשות מצוות יהוה אלהים ולא יסתר פניו ממך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-20 04:51:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>יואל ב18: &quot;וַיְקַנֵּא יהוה לְאַרְצוֹ וַיַּחְמֹל עַל עַמּוֹ&quot;</p><p>כי עמו נחלתו היא ארצו ארץ אחוזת יהוה</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-20 05:38:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>יואל ב18: &quot;וַיְקַנֵּא יהוה לְאַרְצוֹ וַיַּחְמֹל עַל עַמּוֹ&quot;</p><p>כי עמו נחלתו היא ארצו ארץ אחוזת יהוה</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>תהלים צד14: &quot;כִּי לֹא יִטֹּשׁ יהוה עַמּוֹ וְנַחֲלָתוֹ לֹא יַעֲזֹב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-03-20 05:59:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-03-20 05:59:31' 
+			WHERE messageid=7633;
+
