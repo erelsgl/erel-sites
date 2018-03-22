@@ -3033,3 +3033,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t1201_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/yhojua/ya-05-12-D.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-03-21 22:38:27'
+		WHERE parent='tnk1/nvir/yhojua/ya-05-12-D.html'
+		;
+
