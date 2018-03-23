@@ -2500,3 +2500,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-22 09:09:34'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-23 04:32:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-23 04:35:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
