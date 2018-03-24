@@ -2476,3 +2476,74 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-21 22:38:27'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-05-12-D.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_31.html',
+				NULL,
+				'2018-03-21 22:42:35',
+				'2018-03-21 22:42:35',
+				'סתירה בין ספר ויקרא לבין ספר במדבר בעניין קורבן הבכורים',
+				'חייםדדון',
+				'haimsub12 @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-22 09:09:34'
+		WHERE ktovt_bn='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-23 04:32:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-23 04:35:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_990.html',
+				NULL,
+				'2018-03-23 12:20:20',
+				'2018-03-23 12:20:20',
+				' הכוהן בעבודתו/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-03-23 12:20:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
