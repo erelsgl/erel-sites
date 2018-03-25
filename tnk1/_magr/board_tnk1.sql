@@ -2547,3 +2547,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-03-23 12:20:20'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-24 17:43:54'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-16-16.html'
+		;
+
