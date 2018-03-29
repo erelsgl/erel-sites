@@ -2781,3 +2781,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ezra.html',
+		'<p>מעניין. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2018-03-28 21:29:05'
+		)
+		;
+
