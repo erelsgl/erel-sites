@@ -2728,3 +2728,131 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/hvdlim1/ezra.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 11:33:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09b24_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_32.html',
+				NULL,
+				'2018-03-29 12:53:45',
+				'2018-03-29 12:53:45',
+				'מה מקור המילה חירות?',
+				'חגי הופר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 14:56:22'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 14:56:52'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 15:11:44'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 15:17:15'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 15:30:17'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 17:47:04'
+		WHERE ktovt_bn='tnk1/ktuv/mj/07-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 17:53:04'
+		WHERE ktovt_bn='tnk1/ktuv/mj/07-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 18:36:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2703_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-29 19:01:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-30 03:15:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0116_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-30 03:32:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0116_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-30 06:18:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2703_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-03-30 06:19:31'
+		WHERE ktovt_bn='tnk1/messages/new_32.html'
+		;
+
