@@ -3034,3 +3034,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-03-30 10:16:56' 
 			WHERE messageid=7670;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/byom_o_blyla.html',
+		'<p>יכול להיות שהכוונה היא מטאפורית. כלומר, שלא ממש היתה זריחה של השמש, אבל בגלל גודל המעמד זה נקרא יום. מכל מקום, הביטוי עצם היום אינו מתכוון לשעה מסויימת ביום אלא כוונתו ש״בתאריך המיוחד הזה ארע אירוע״. </p><p>הפסוק ממסעי כנראה מדבר על עיקר זמנו של המסע, כך שרק בסוף היום הגיעו לסוכות. </p><p>הציווי לא תצאו מבתיכם עד בוקר, הוא ציווי של משה ולא של ה׳ ויכול להיות שהיה שינוי בתכניות בעקבות ההחלטה של פרעה לגרש כבר בלילה. </p><p></p>',
+		'116109788454776583847',
+		'Zachi Dvira',
+		'2018-03-31 20:20:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/byom_o_blyla.html',
+		'<p>צריך לזכור שאחרי חצות זה כבר בטוח היום הבא ויכול להחשב ממחרת. גם הזמן שלקח מזימון של פרעה, ההוראה שנתן, החזרה של משה ואהרן למושב בני ישראל, וההתארגנות היה כבר עלות השחר.</p>',
+		'116109788454776583847',
+		'Zachi Dvira',
+		'2018-03-31 20:30:41'
+		)
+		;
+
