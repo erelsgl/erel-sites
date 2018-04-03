@@ -3206,3 +3206,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_114.html',
+		'<p>יפה מאד. מתי אתה מוציא ספר?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-04-02 09:44:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_31.html',
+		'<p>שלום חיים,</p><p>התייחסתי לנושא זה כאן: http://tora.us.fm/tnk1/kma/hvdlim2/zmn.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-04-02 10:14:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_114.html',
+		'<p>כשיבוא המשיח :)</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-04-02 13:08:12'
+		)
+		;
+
