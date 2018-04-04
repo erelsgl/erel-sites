@@ -3242,3 +3242,29 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/psx_mcrym_xmc.html',
+		'<p>שאלות טובות. נראה שהסיבה היא שה\' לא גילה לבני-ישראל את השעה המדוייקת שבה ייצאו ממצרים. הם ידעו שמכת בכורות תהיה בלילה אבל חשבו שהיציאה עצמה תהיה בבוקר, כמו שנאמר להם &quot;ואתם לא תצאו איש מפתח ביתו עד בוקר&quot;, כך שיהיה להם מספיק זמן להכין אוכל טרי לדרך.  באופן מפתיע המצרים גירשו אותם כבר באמצע הלילה.    ראה כאן: http://tora.us.fm/tnk1/tora/jmot/jm-12-39.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-04-03 09:12:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-03 10:01:23' 
+			WHERE messageid=4271;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-03 15:01:14' 
+			WHERE messageid=3160;
+

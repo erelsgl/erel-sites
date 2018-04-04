@@ -3934,3 +3934,34 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/sofrim_shabot_index_114.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/psx_mcrym_xmc.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-04-03 09:12:42'
+		WHERE parent='tnk1/tora/jmot/psx_mcrym_xmc.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-04-03 10:01:23'
+			WHERE parent='tnk1/messages/prqim_t0212_4.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-04-03 15:01:14'
+			WHERE parent='tnk1/messages/prqim_t0122_3.html'
+			;
+

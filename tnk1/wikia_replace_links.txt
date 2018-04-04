@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-04-03 07:48:46
+# This file was automatically generated at 2018-04-03 17:05:30
 
 sub wikia_replace_links {
 $_=shift;
@@ -1381,7 +1381,10 @@ s|${OPENLINK}tnk1/tora/jmot/jm-13-13|[[ביאור:ופטר חמור תפדה ב�
 s|${OPENLINK}tnk1/tora/jmot/jm-13-08|[[ביאור:בעבור זה עשה ה' לי בצאתי ממצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13-03|[[ביאור:ולא ייאכל חמץ = ביטוי למהירות היציאה ממצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13|[[ביאור:מבנה שמות יג|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-39|[[ביאור:מדוע בני ישראל לא הכינו צדה לדרך?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-15|[[ביאור:למה אסור להחזיק שאור בפסח?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-1323|[[ביאור:האם ה' צריך לראות דם כדי להציל את בני ישראל מהמשחית|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-12|[[ביאור:שפטים באלהי מצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-08|[[ביאור:מדוע צוו בני ישראל לאכול מצות שבועיים לפני שבצקם לא הספיק להחמיץ?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-02|[[ביאור:החודש הזה לכם ראש חודשים, ראשון הוא לכם לחדשי השנה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-0128|[[ביאור:כשהעם פוחד - הזקנים צריכים לתת דוגמה אישית|ig;
@@ -5918,7 +5921,6 @@ s|${OPENLINK}tnk1/messages/prqim_t0306_1|[[ביאור:פרשת צו - אבות �
 s|${OPENLINK}tnk1/messages/prqim_t0306_0|[[ביאור:פרשת צו שבת שושן פורים - כדאי להתחפש?|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0301_7|[[ביאור:ה' קורא לאדם|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0301_6|[[ביאור:פרשת ויקרא - קרבנות הרוח|ig;
-s|${OPENLINK}tnk1/messages/prqim_t0301_4|[[ביאור:קרבנות תמימים כמשל לאבות התמימים|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0301_3|[[ביאור:פרשת ויקרא - אלוהים קורא למשה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0301_2|[[ביאור:פרשת ויקרא - במקום קרבנות, ערכים ומעשים לקימום האדם|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0301_0|[[ביאור:"ולא הביישן למד" - ויקרא בא' קטנה|ig;
@@ -6195,7 +6197,7 @@ s|${OPENLINK}tnk1/messages/prqim_t0122_8|[[ביאור:הנני|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_7|[[ביאור:קירקגור והתנ"ך: פרדוקס העקדה|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_6|[[ביאור:עתה ידעתי כי גדול יהוה מכל האלהים|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_5|[[ביאור:עתה ידעתי - בודאות|ig;
-s|${OPENLINK}tnk1/messages/prqim_t0122_3|[[ביאור:דמויות תמימות|ig;
+s|${OPENLINK}tnk1/messages/prqim_t0122_3|[[ביאור:קרבנות תמימים כמשל לאבות התמימים|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_2|[[ביאור:יחיד - אחד - לבד|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_12|[[ביאור:סיפורים מבראשית - וירא|ig;
 s|${OPENLINK}tnk1/messages/prqim_t0122_11|[[ביאור:עקדת יצחק בין יהדות ונצרות - 4 דעות|ig;
@@ -10226,6 +10228,7 @@ s|${OPENLINK}tnk1/kma/qjrim2/nvua3|[[ביאור:נבואת משה - תלת מי�
 s|${OPENLINK}tnk1/kma/qjrim2/na_edut|[[ביאור:האם נביא יכול לשנות את התורה?|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/na_dorot|[[ביאור:זיהוי נביא לאורך הדורות|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/na|[[ביאור:איך מזהים נביא אמת|ig;
+s|${OPENLINK}tnk1/kma/qjrim2/mzlot|[[ביאור:שחיטת המזלות|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/mzbxot|[[ביאור:מעשה אבות סימן לבנים - ארבעת המזבחות שבנה אברהם; מדוע בנה אברהם מזבח "בין בית אל ובין העי"?|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/mvxnim|[[ביאור:שני המבחנים של שאול ושל דוד|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/mvqjy_rxmim|[[ביאור:מנהיגים טובים משתדלים להקל את החטא מעל העם|ig;
