@@ -136,3 +136,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למה איסור חמץ מתחיל מאמצע היום' AND `sfr` = 'שמת' AND `prq0` = 'יב' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2018-04-04 18:32:29' WHERE `bn` = 'ביאור:שמות יב12' AND `sfr` = 'שמת' AND `prq0` = 'יב' AND `psuq0` = 12 AND `sug` = 'דיון1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = NULL, `tarik_hosfa` = '2018-04-04 18:32:29' WHERE `bn` = 'תפילין - מזוזה - דם הפסח - דם המילה' AND `sfr` = 'שמת' AND `prq0` = 'יב' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+

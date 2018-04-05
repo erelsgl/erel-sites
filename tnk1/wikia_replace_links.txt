@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-04-03 17:05:30
+# This file was automatically generated at 2018-04-04 19:18:04
 
 sub wikia_replace_links {
 $_=shift;
@@ -1386,6 +1386,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-12-15|[[ביאור:למה אסור להחזיק �
 s|${OPENLINK}tnk1/tora/jmot/jm-12-1323|[[ביאור:האם ה' צריך לראות דם כדי להציל את בני ישראל מהמשחית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-12|[[ביאור:שפטים באלהי מצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-08|[[ביאור:מדוע צוו בני ישראל לאכול מצות שבועיים לפני שבצקם לא הספיק להחמיץ?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-03|[[ביאור:שה לבית אבות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-02|[[ביאור:החודש הזה לכם ראש חודשים, ראשון הוא לכם לחדשי השנה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-0128|[[ביאור:כשהעם פוחד - הזקנים צריכים לתת דוגמה אישית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12|[[ביאור:פרשת יציאת מצרים - המבנה|ig;
@@ -1559,6 +1560,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-12-0405|[[ביאור:אל תבנו לה' בית 
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-03|[[ביאור:לאבד עבודה זרה מהשטח ומהתודעה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-02|[[ביאור:לאבד עבודה זרה בלי להרוס את הטבע|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12|[[ביאור:המקום אשר יבחר ה' - מבנה הפרשה|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-11-15|[[ביאור:ונתתי עשב בשדך לבהמתך, ואכלת ושבעת|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-1315|[[ביאור:לשתף את ה' באהבה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-12|[[ביאור:להסתכל רק על ארץ ישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-10-17|[[ביאור:ה' לא לוקח שוחד|ig;
@@ -3220,6 +3222,7 @@ s|${OPENLINK}tnk1/nvia/yjayhu/yj-51-13|[[ביאור:פחד מוגזם נובע �
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-51-0102|[[ביאור:המעטים צריכים להיות יציבים כסלע|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-51|[[ביאור:מבנה ישעיהו נא|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-50-07|[[ביאור:הבוטח בה' לא מתבייש להוכיח|ig;
+s|${OPENLINK}tnk1/nvia/yjayhu/yj-48-12|[[ביאור:אני ראשון, אף אני אחרון|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-48-0308|[[ביאור:מדוע כתב ישעיהו שני ספרים?|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-44-14.jpg|[[ביאור:יש מד 14|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-43-23|[[ביאור:ולא אותי קראת יעקב, כי יגעת בי ישראל|ig;
@@ -7042,6 +7045,7 @@ s|${OPENLINK}tnk1/messages/girdle.pdf|[[ביאור:מה"אזור" התנכי ל"
 s|${OPENLINK}tnk1/messages/gilead_and_bashan.pdf|[[ביאור:Gilead and Bashan|ig;
 s|${OPENLINK}tnk1/messages/from_plesheth_to_palestina.pdf|[[ביאור:From Plesheth to Palestina|ig;
 s|${OPENLINK}tnk1/messages/from_before_you.pdf|[[ביאור:לפני, מפני, ומלפני|ig;
+s|${OPENLINK}tnk1/messages/forums_992|[[ביאור:פרשת שמיני - צרת תלמידי חכמים מוטלת על העם - האומנם?|ig;
 s|${OPENLINK}tnk1/messages/forums_991|[[ביאור:ליל הסדר - מה גנוז בשם זה?|ig;
 s|${OPENLINK}tnk1/messages/forums_990|[[ביאור:' הכוהן בעבודתו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_99|[[ביאור:'מלאכת המשכן' - שיר מאת אהובה קליין (c)|ig;
@@ -11254,6 +11258,7 @@ s|${OPENLINK}tnk1/kma/hvdlim1/dror_snunit|[[ביאור:דרור - סנונית|i
 s|${OPENLINK}tnk1/kma/hvdlim1/cyut|[[ביאור:ביטויים של ציות|ig;
 s|${OPENLINK}tnk1/kma/hvdlim1/cva|[[ביאור:המתגייסים לצבא|ig;
 s|${OPENLINK}tnk1/kma/hvdlim1/cur|[[ביאור:אין צור - מי צור|ig;
+s|${OPENLINK}tnk1/kma/hvdlim1/cpor-of-knf|[[ביאור:ציפור - עוף - כנף|ig;
 s|${OPENLINK}tnk1/kma/hvdlim1/cdq_tm|[[ביאור:צדיק - תמים|ig;
 s|${OPENLINK}tnk1/kma/hvdlim1/cdq_jft_yjr|[[ביאור:צדק - דין ומשפט - מישור|ig;
 s|${OPENLINK}tnk1/kma/hvdlim1/brkot|[[ביאור:ברכות|ig;
