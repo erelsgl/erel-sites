@@ -3695,3 +3695,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>למשות מן המים להציל זה התפקיד של משה</p><p>תהלים יח17: &quot;יִשְׁלַח מִמָּרוֹם יִקָּחֵנִי יַמְשֵׁנִי מִמַּיִם רַבִּים&quot;</p><p>כי זה החסד הגדול שעשה עמו יהוה אלהים בראשונה</p><p>שמות ב10: &quot;וַיִגְדַּל הַיֶּלֶד וַתְּבִאֵהוּ לְבַת פַּרְעֹה וַיְהִי לָהּ לְבֵן וַתִּקְרָא שְׁמוֹ מֹשֶׁה וַתֹּאמֶר כִּי מִן הַמַּיִם מְשִׁיתִהוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-06 08:15:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>שמות ט31: &quot;וְהַפִּשְׁתָּה וְהַשְּׂעֹרָה נֻכָּתָה כִּי הַשְּׂעֹרָה אָבִיב וְהַפִּשְׁתָּה גִּבְעֹל&quot;</p><p>כִּי הַשְּׂעֹרָה אָבִיב --- והחל מראש חודש האביב השעורה לקציר וממחרת השבת הנפת העומר</p><p>לאמור כי יום הנפת העומר ממחרת השבת הראשונה לחודש הראשון בלוח השנה</p><p>ויקרא כג11: &quot;וְהֵנִיף אֶת הָעֹמֶר לִפְנֵי יהוה לִרְצֹנְכֶם מִמָּחֳרַת הַשַּׁבָּת יְנִיפֶנּוּ הַכֹּהֵן&quot;</p><p>ויקרא כג15: &quot;וּסְפַרְתֶּם לָכֶם מִמָּחֳרַת הַשַּׁבָּת מִיּוֹם הֲבִיאֲכֶם אֶת עֹמֶר הַתְּנוּפָה שֶׁבַע שַׁבָּתוֹת תְּמִימֹת תִּהְיֶינָה&quot; </p><p>ויקרא כג16: &quot;עַד מִמָּחֳרַת הַשַּׁבָּת הַשְּׁבִיעִת תִּסְפְּרוּ חֲמִשִּׁים יוֹם וְהִקְרַבְתֶּם מִנְחָה חֲדָשָׁה ליהוה\'&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-06 09:42:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ואם בלוח הירח ------- יום הנפת העומר יחל ממחרת השבת הראשונה לחודש הראשון בלוח השנה</p><p>אם בלוח השמש ------- יום הנפת העומר ממחרת השבת יחל ממחרת השבת שאחרי השביעי של פסח</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-06 10:28:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>אלהים אם טוב לך ורע לי אז רע לי</p><p>ואם טוב לי ורע לך לא חפצתי בזה</p><p>אלהים שיהיה טוב לי וטוב לך</p><p>------------------------------------</p><p>האמת היא שאם טוב לך טוב לי</p><p>רק תן לי הָעֵדֻת לזכור זאת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-06 15:32:32'
+		)
+		;
+
