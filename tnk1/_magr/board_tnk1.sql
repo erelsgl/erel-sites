@@ -4526,3 +4526,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-08 12:27:01'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3103_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-08 12:40:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3103_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-08 16:13:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-08 16:13:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/sjar.html',
+				'tnk1/tora/wyqra/wy-02-11.html',
+				NULL,
+				'2018-04-08 17:49:22',
+				'2018-04-08 17:49:22',
+				'אסור להקריב שאור ודבש על המזבח',
+				'אראל',
+				''
+			)
+		;
+
