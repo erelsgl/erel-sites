@@ -3917,3 +3917,58 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-04-08 16:14:02' 
 			WHERE messageid=7729;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-02-11.html',
+		'<p>ויקרא ב11: &quot;כָּל הַמִּנְחָה אֲשֶׁר תַּקְרִיבוּ לַיהוָה לֹא תֵעָשֶׂה חָמֵץ כִּי כָל שְׂאֹר וְכָל דְּבַשׁ לֹא תַקְטִירוּ מִמֶּנּוּ אִשֶּׁה לַיהוָה&quot;</p><p>לפי הפסוק הזה</p><p>חָמֵץ = כָל שְׂאֹר וְכָל דְּבַשׁ </p><p>גם  דבש = זה חמץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-09 17:58:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום שמי יונתן ואני מבקש את עזרתכם בבקשה .. </p><p>אני מחפש הלוואה כדי ליפדות את הירושה שקיבלה אישתי מאביה המנוח ,הירושה נימצאת בחשבון של אביה ועל מנת ליפדות את הירושה אנחנו מחוייבים לשלם 3000$ דולר .. אנחנו רוצים בסך הכל להלוות ולחזיר זו לא אמורה ליהיות בעיה בכלל מצידנו אחרי שתלוו לנו את ה: 3,000 דולר</p>',
+		'111156839962847757273',
+		'Yoni Desta',
+		'2018-04-09 20:37:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-09 20:38:02' 
+			WHERE messageid=7732;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p></p><p>Yoni Desta	</p><p>שלום שמי יונתן ואני מבקש את עזרתכם בבקשה ..</p><p>אני מחפש הלוואה כדי ליפדות את הירושה שקיבלה אישתי מאביה המנוח ,הירושה נימצאת בחשבון של אביה ועל מנת ליפדות את הירושה אנחנו מחוייבים לשלם 3000$ דולר .. אנחנו רוצים בסך הכל להלוות ולחזיר זו לא אמורה ליהיות בעיה מכיוון שאנחנו ניפדה את הירושה ואז מצידנו אחרי שתלוו לנו את ה: 3,000 דולר תוך חודשיים אפילו נחזיר לכם את ההלוואה בבקשה מכם אנא עשו עימנו חסד וחיזרו אלינו בהקדם האפשרי 0503205904</p>',
+		'111156839962847757273',
+		'Yoni Desta',
+		'2018-04-09 20:39:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>היי אשמח שתחזרו אליי לגבי הלוואה דחוף לי </p><p>למס\' </p><p>0557230520 </p>',
+		'107656833972684495637',
+		'מירית בן אבו',
+		'2018-04-09 22:07:29'
+		)
+		;
+
