@@ -4330,3 +4330,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-13 07:59:08' 
+			WHERE messageid=7718;
+
