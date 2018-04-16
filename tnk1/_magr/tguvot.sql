@@ -4349,3 +4349,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/9bav3.html',
+		'<p>היי ,מה נשמע ?</p><p>היה מעניין לקרוא את המאמר ויישר כח.</p><p>שאלה, כמה מחיילי רומי השתתפו כדי להביס את המרד ? וכמה מחייליו נהרגו ? להערכתך.</p><p>בברכה</p><p>אברהם מדי</p><p>0523996176</p>',
+		'101050228660817032790',
+		'אברהם מדי',
+		'2018-04-15 10:09:33'
+		)
+		;
+
