@@ -4899,3 +4899,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/9bav3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-16 15:26:23'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/ayn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-17 07:08:28'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/9bav3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-17 07:45:09'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/ayn.html'
+		;
+

@@ -4361,3 +4361,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ayn.html',
+		'<p>היי, אשמח לדעת באיזה עמוד בספר שלך כתבת על עניין זה? ומתי יצא לאור הספר סגולות משלי?</p>',
+		'103370312537371347108',
+		'רומי כהן',
+		'2018-04-16 15:26:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/9bav3.html',
+		'<p>אברהם שלום - תמיד מעניין לשמוע מכם</p><p>ישנם הערכות שונות לגבי מספר ההרוגים </p><p>בממוצע - נהרגו במרד הגדול +מרד בר כוכבא כ 1,000,000 יהודים - דבר שהחליש ביותר את הישוב היהודי בארץ</p><p>מאידך הערכה היא שנהרגו בקרבות אלו כ 200,000 חיילים רומאים .</p><p>חודש טוב</p><p>מנחם</p>',
+		'102003103541239987978',
+		'menachem zucker',
+		'2018-04-17 07:08:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ayn.html',
+		'<p>שלום. עד כמה שזכור לי, המאמר הזה עדיין לא נכנס לספר. </p><p>המהדורה הראשונה של הספר יצאה לאור לפני כשבע שנים: http://www.lulu.com/spotlight/erel</p><p>המהדורה הבאה נמצאת עכשיו בהגהה ועריכה, אני עדיין לא יודע מתי תצא לאור.</p><p>כל טוב</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-04-17 07:45:09'
+		)
+		;
+
