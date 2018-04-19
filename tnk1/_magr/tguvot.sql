@@ -4397,3 +4397,63 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1381_0.html',
+		'<p>שמע, קראתי מעט מאוד ממה שכתבת, אבל ממש התלהבתי! בבקשה תתחיל לסרטט מפת שמים ע&quot;פ חכמי ישראל! ובע&quot;ה יהיה אפשר להעלות את זה לסטלריום! ובכלל לפרסם את זה בקרב מצפי כוכבים ומכוני אסטרונומיה בישראל! יש לך ידע ושמות של מערכות וכוכבים- קדימה תחיה מחדש את המפה האסטרונומית של אבותינו! היא כמעט לא ידועה היום!</p><p>עלה והצלח!</p>',
+		'105335068641689304373',
+		'דרור קובי',
+		'2018-04-18 07:33:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1381_0.html',
+		'<p>תודה, היו לי תכניות ועדיין יש לכתוב ספר על ההיסטוריה של קבוצות הכוכבים </p><p>וגם האסטרונום ד&quot;ר יגאל פת אל שכתב את האנציקלופדיה של קבוצות הכוכבים , אהב והתרשם מהרעיונות שלי..</p><p>אך עקב מיעוט התעניינות הקוראים מצד אחד וטרדות היום היום מצד שני.. עוד חזון למועד..  </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-04-18 16:28:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>אם אתה רוצה לשנות את העולם אז תשנה קודם את העולם שלך</p><p>אם אתה מתקן את העולם שלך תוכל לתקן את העולם</p><p>ולא תוכל לתקן את העולם בטרם תיקנת את עולמך שלך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-18 16:48:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אני רוצה להוסיף פירוש שכתבתי על התורה עם תבונות מספר ישעיהו לאתר.  איך אני עושה את זה?</p>',
+		'104929896062307026376',
+		'Ben Gavers',
+		'2018-04-18 19:10:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלח לי דואל לכתובת:  erelvgalya+tnk1@gmail.com עם דוגמה מהפירוש ואני אבדוק את הנושא.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-04-19 05:25:13'
+		)
+		;
+
