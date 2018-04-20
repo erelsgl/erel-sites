@@ -4457,3 +4457,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא&quot;</p><p>איוב ט24: &quot;אֶרֶץ = פְּנֵי שֹׁפְטֶיהָ </p><p>על כן אמרתי לכן כי דיין זה ארץ</p><p>תהלים נ4: &quot;יקרא אל השמים מעל ואל הארץ לדַיָּן עַמּוֹ&quot;</p><p>בתגובה זאת </p><p>2018-03-19 04:51:41 </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-04-19 10:50:28'
+		)
+		;
+
