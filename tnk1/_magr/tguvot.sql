@@ -4469,3 +4469,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ina.html',
+		'<p>מעניין.</p><p>הפירוש של ניסן אררט , ביאר לי לשון שגם לי הייתה לא ברורה שנים רבות. </p><p>יישר כוח על הכל ! </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2018-04-23 06:46:07'
+		)
+		;
+
