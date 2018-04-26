@@ -5071,3 +5071,110 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/ina.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-23 14:23:30'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/adma.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1000.html',
+				NULL,
+				'2018-04-23 18:41:49',
+				'2018-04-23 18:41:49',
+				'פרשת אמור,מה גנוז בשבת קודש?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-23 18:41:49'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_115.html',
+				NULL,
+				'2018-04-24 16:42:00',
+				'2018-04-24 16:42:00',
+				'מסר התורה שפוספס',
+				'אלברט שבות',
+				'ashabot @ walla.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-24 16:42:00'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-24 16:42:00'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/draw_water_with_your_feet.pdf',
+				NULL,
+				'2018-04-24 17:45:42',
+				'2018-04-24 17:45:42',
+				'Draw water with your feet',
+				'אבנר רמו',
+				'והשקית ברגלך'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-24 17:45:42'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/ashes_on_his_eyes.pdf',
+				NULL,
+				'2018-04-24 17:50:55',
+				'2018-04-24 17:50:55',
+				'Ashes on his eyes',
+				'אבנר רמו',
+				'\"ויתחפש באפר עך-עיניו\"'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-24 17:50:55'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

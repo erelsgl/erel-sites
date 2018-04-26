@@ -4481,3 +4481,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/adma.html',
+		'<p>האדמה לא נענשת, אין אלוהים והכל סיפורי מעשיות. </p>',
+		'110559800853282907150',
+		'worker Vendor Lambda',
+		'2018-04-23 14:23:30'
+		)
+		;
+
