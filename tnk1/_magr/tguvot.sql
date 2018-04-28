@@ -4493,3 +4493,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1381_0.html',
+		'<p>הממ.. אולי תעלה את המאמרים לאסטרופורום? לא ששוקק חיים שם... אבל אולי זה יכול לעזור שעוד אנשים יראו את זה ושיתופי רעיונות ומחשבות וכו\'</p><p>http://www.astroforum.org.il/index.php?sid=57439411302d714ccf82670bc5cb05b0</p>',
+		'105335068641689304373',
+		'דרור קובי',
+		'2018-04-27 09:16:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1381_0.html',
+		'<p>יש קישור למאמרים שלי , פה: http://www.dubagdola.com/</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-04-27 11:13:44'
+		)
+		;
+
