@@ -4517,3 +4517,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ezor/ToknLfiEzorEir.html',
+		'<p></p>',
+		'116793559169823786200',
+		'Dror D',
+		'2018-04-29 10:34:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-29 10:34:26' 
+			WHERE messageid=7774;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ezor/ToknLfiEzorEir.html',
+		'<p>תודה רבה!!!</p>',
+		'116793559169823786200',
+		'Dror D',
+		'2018-04-29 10:34:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-04-29 10:34:55' 
+			WHERE messageid=7775;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>יישר כח על המאמר המפורט והמעניין.</p><p>כל ההוגים שהבאת בסקירה שלך לקחו את מצוות היובל למטרות הסוציליסטיות שלהן, אך לענ&quot;ד מצוות היובל נועדה למטרות אחרות - והעיקר חסר. אכתוב בקצרה, ויש עוד להאריך.</p><p>עיקרה של הפרשיה היא מהסיבה &quot;כי לי כל הארץ&quot;, ושיבת האדם אל אדמתו שלו. ארץ ישראל מתחלקת לשבטים ולמשפחות. הסיבה לכך אינה סוציאליסטית. הכלל בישראל מורכב מעגלים מעגלים. 12 שבטים המחולקים למשפחות ולבתי אב. כל אדם מישראל מחובר אל הכלל דרך אביו, המשפחה, והשבט. אשה מחוברת דרך אביה או בעלה. (וכאן יש לעמוד על כך שהאם מביאה לבנה את הקישור הדתי, והאב את הקישור הלאומי).</p><p>ארץ ישראל היא ביטוי של הלאומיות. לכל שבט יש מקום משלו, וכך לכל משפחה ובית אב. קישור זה מבוסס על &quot;כי לי כל הארץ&quot;. ישראל הם עם ה\', והלאומיות שלהם היא אלוקית וכך גם המקום שלהם. שנת היובל מבססת את הקישור למקום, ושהוא גם קישור לכלל.</p><p>התורה ציוותה לעזור לעניים, אך היא לא ציוותה בשום מקום להפקיע בעלות. ההפך הוא הנכון, היובל דווקא מחזק את הבעלות המשפחתית על הקרקע. אמנם היא שווה (פחות או יותר), אך לא זו הנקודה.</p><p>הדיון בנושא היובל צריך להתחיל מהשאלה, איך אנחנו יכולים להשיב את המצב שכל שבט יושב במקומו. ואולי הכוון הוא כנבואת יחזקאל שמיקומי השבטים ישתנו.</p><p>יש לדון במשמעות של חלוקה לשבטים, בבניין הכלל הישראלי.</p><p>בנימין</p><p></p>',
+		'115414013305420526344',
+		'בנג\'י קוסובסקי',
+		'2018-04-29 15:16:47'
+		)
+		;
+
