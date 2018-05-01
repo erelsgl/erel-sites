@@ -5241,3 +5241,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/mamr/yovl_etc.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1002.html',
+				NULL,
+				'2018-04-30 18:36:42',
+				'2018-04-30 18:36:42',
+				'פרשת בהר- מאין ההוכחה שהתורה ומצוותיה ניתנו משמים?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-04-30 18:36:42'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-04-30 20:19:20'
+		WHERE ktovt_bn='tnk1/sofrim/efrati/pinxas.html'
+		;
+
