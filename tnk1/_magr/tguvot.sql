@@ -4579,3 +4579,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>יהי רצון  שוכן המרומים  ישלח רפואה שלמה ליגאל בן ברכה</p>',
+		'110167388981942836085',
+		'רפאל עמר',
+		'2018-05-02 15:14:49'
+		)
+		;
+
