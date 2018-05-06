@@ -4591,3 +4591,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/yovl_etc.html',
+		'<p>השאלה היא האם החלוקה לשבטים היא אכן עיקר מהותו של היובל?  כתוב &quot;וְשַׁבְתֶּם אִישׁ אֶל אֲחֻזָּתוֹ וְאִישׁ אֶל מִשְׁפַּחְתּוֹ תָּשֻׁבוּ&quot;:</p><p>* &quot;אִישׁ אֶל אֲחֻזָּתוֹ&quot; - כנגד האנשים שאיבדו את הקרקע שלהם שהיא אחיזתם בארץ ישראל.</p><p>* &quot;אִישׁ אֶל מִשְׁפַּחְתּוֹ&quot; - כנגד האנשים שהפכו לעבדים הרחק מהמשפחה שלהם.</p><p>אולם לא כתוב &quot;ושבתם איש אל שבטו&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-05-05 17:53:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/efrati/pinxas.html',
+		'<p>תיקנתי, תודה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-05-05 17:55:04'
+		)
+		;
+
