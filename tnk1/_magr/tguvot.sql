@@ -4615,3 +4615,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/ohb.html',
+		'<p>יפה</p><p>אך תיקון קטן </p><p>״האברבנאל לפרשת &quot;בחוקתי&quot; הוא המקור לשאלה הנ&quot;ל״</p><p>השאלה נידונת זמן רב לפני האברבנאל</p><p>הרמב״ן על התורה ב3 מקומות</p><p>הרשב״א בשו״ת</p><p>החינוך בהקדמתו</p><p>רבינו בחיי על התורה</p><p>בספר חובות הלבבות</p><p>ספר העיקרים ועוד רבים</p><p></p>',
+		'109533383354693761321',
+		'דוד בראון',
+		'2018-05-07 15:32:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/elyhu.html',
+		'<p>תודה מאוד עזרתם לי</p>',
+		'113563509175661960039',
+		'ניקול קוצ\'טקוב',
+		'2018-05-07 17:14:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה ל אליזה בת נסרין</p>',
+		'108773559612189038394',
+		'דורון בלאזדה',
+		'2018-05-07 23:06:28'
+		)
+		;
+
