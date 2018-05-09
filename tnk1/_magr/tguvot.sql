@@ -4651,3 +4651,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-25-0103.html',
+		'<p>יונתן קרמש הוא שקד מאוד</p>',
+		'101550630919125412768',
+		'Daniel Keidar',
+		'2018-05-09 05:33:59'
+		)
+		;
+
