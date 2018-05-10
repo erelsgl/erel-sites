@@ -696,3 +696,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/dvrim/dm-25-0103.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-05-09 09:52:46'
+			WHERE parent='tnk1/tora/dvrim/dm-25-0103.html'
+			;
+

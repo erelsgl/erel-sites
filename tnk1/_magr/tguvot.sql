@@ -4663,3 +4663,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-09 09:52:46' 
+			WHERE messageid=7784;
+
