@@ -4670,3 +4670,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-05-09 09:52:46' 
 			WHERE messageid=7784;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לכל עם ישראל</p>',
+		'117743599676201296947',
+		'shlomi ohanuna',
+		'2018-05-10 10:57:32'
+		)
+		;
+
