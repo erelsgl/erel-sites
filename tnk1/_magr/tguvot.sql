@@ -4682,3 +4682,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-89-03.html',
+		'<p>תודה על ההסברה! יחי המלך המשיח!</p>',
+		'117297648376600911831',
+		'Long live the king messiah “Moshiach News” kindness & More',
+		'2018-05-11 12:19:47'
+		)
+		;
+
