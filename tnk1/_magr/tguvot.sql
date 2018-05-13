@@ -4694,3 +4694,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/bhw.html',
+		'<p>יישר כח על הבאת הדברים</p><p>האם יש אפשרות קישורים למאמרים עצמם ?</p>',
+		'114035827519562765709',
+		'Aharon Una',
+		'2018-05-12 21:47:12'
+		)
+		;
+

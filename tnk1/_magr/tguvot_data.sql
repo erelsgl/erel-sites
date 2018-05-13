@@ -734,3 +734,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/thlim/th-89-03.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/mamr/bhw.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-05-12 21:47:12'
+		WHERE parent='tryg/mamr/bhw.html'
+		;
+
