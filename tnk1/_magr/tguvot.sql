@@ -4706,3 +4706,72 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום וברכה שמי חיים מנקובסקי בן 34 נשוי +3.(ילד בן 6 ותאומות פגות בנות 9 חודשים).. מהצפון (קריות).. אני מפרנס יחיד.. אני רק צרי 3000 שח דחוף רוצים לנתק את החשמל אם תוכלו תעזור לי בבקשה. מס טלפון 0585524915</p>',
+		'116537752619098634380',
+		'Jai Man',
+		'2018-05-14 11:48:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום וברכה שמי חיים מנקובסקי בן 34 נשוי +3.(ילד בן 6 ותאומות פגות בנות 9 חודשים).. מהצפון (קריות).. אני מפרנס יחיד.. אני רק צרי 3000 שח דחוף רוצים לנתק את החשמל אם תוכלו תעזור לי בבקשה. מס טלפון 0585524915</p>',
+		'116537752619098634380',
+		'Jai Man',
+		'2018-05-14 11:48:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום וברכה שמי חיים מנקובסקי בן 34 נשוי +3.(ילד בן 6 ותאומות פגות בנות 9 חודשים).. מהצפון (קריות).. אני מפרנס יחיד.. אני רק צרי 3000 שח דחוף רוצים לנתק את החשמל אם תוכלו תעזור לי בבקשה. מס טלפון 0585524915</p>',
+		'116537752619098634380',
+		'Jai Man',
+		'2018-05-14 11:49:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום וברכה שמי חיים מנקובסקי בן 34 נשוי +3.(ילד בן 6 ותאומות פגות בנות 9 חודשים).. מהצפון (קריות).. אני מפרנס יחיד.. אני רק צרי 3000 שח דחוף רוצים לנתק את החשמל אם תוכלו תעזור לי בבקשה. מס טלפון 0585524915</p>',
+		'116537752619098634380',
+		'Jai Man',
+		'2018-05-14 11:49:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-14 17:37:44' 
+			WHERE messageid=7791;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-14 17:37:44' 
+			WHERE messageid=7790;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-14 17:37:46' 
+			WHERE messageid=7789;
+

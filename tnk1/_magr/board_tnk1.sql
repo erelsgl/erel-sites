@@ -5492,3 +5492,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-14 11:48:16'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-14 11:48:53'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-14 11:49:18'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-14 11:49:50'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
+		;
+
