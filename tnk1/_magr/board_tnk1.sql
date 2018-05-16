@@ -5524,3 +5524,81 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1007.html',
+				NULL,
+				'2018-05-15 19:33:41',
+				'2018-05-15 19:33:41',
+				'פרשת במדבר-הקשר בין היהודי-לתורה והמדבר/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-05-15 19:33:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/darkened_vision.pdf',
+				NULL,
+				'2018-05-16 02:45:28',
+				'2018-05-16 02:45:28',
+				'ועיני לאה רכות',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-05-16 02:45:28'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_33.html',
+				NULL,
+				'2018-05-16 03:01:43',
+				'2018-05-16 03:01:43',
+				'ממזר לא יבוא בקהל ה ?',
+				'סתםמתעניין',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-16 05:02:28'
+		WHERE ktovt_bn='tnk1/messages/new_33.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-16 07:59:12'
+		WHERE ktovt_bn='tnk1/messages/new_33.html'
+		;
+
