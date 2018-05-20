@@ -4890,3 +4890,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2673_1.html',
+		'<p>בראשית ג12: &quot;וַיֹּאמֶר הָאָדָם הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי הִוא נָתְנָה לִּי מִן הָעֵץ וָאֹכֵל&quot;</p><p>בראשית ג12: &quot;וַיֹּאמֶר הָאָדָם הָאִשָּׁה...  </p><p>זה &quot;הָאָדָם-הָאִשָּׁה&quot; הוא ההומוסקסואל למשכבי תועבה כמעשה סדום ועמורה זה חטא הדעת כמעשה הנחש וקללתו</p><p>---------------------</p><p>ויקרא כ13: &quot;וְאִישׁ אֲשֶׁר יִשְׁכַּב אֶת זָכָר מִשְׁכְּבֵי אִשָּׁה תּוֹעֵבָה עָשׂוּ שְׁנֵיהֶם מוֹת יוּמָתוּ דְּמֵיהֶם בָּם&quot;</p><p>ויקרא יח22: &quot;וְאֶת זָכָר לֹא תִשְׁכַּב מִשְׁכְּבֵי אִשָּׁה תּוֹעֵבָה הִוא&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-19 17:24:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>אבקש סליחתכם כי נפלה שגגה במאמר</p><p>כתבתי כי הספירה מחג המצות ולא כן הוא</p><p>כי הספירה מיום ראש החודש הראשון באביב היא שבוע ימים</p><p>וממחרת השבת הראשונה לשנה החדשה סופרים 50 יום עד חג השבועות עד 27 לחודש השני </p><p> וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ = הכל יחדיו  7+50 =57 יום מראש השנה באביב </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-19 17:25:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-19 20:13:59' 
+			WHERE messageid=7717;
+
