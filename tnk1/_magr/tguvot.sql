@@ -5148,3 +5148,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-05-23 09:03:24' 
 			WHERE messageid=7812;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>משה: אם השמש הוא זכר והחמה היא נקבה, מדוע נאמר בשמות כב2: &quot;אִם זָרְחָה הַשֶּׁמֶשׁ עָלָיו...&quot; - מדוע לא נאמר &quot;אם זרח השמש עליו&quot; או &quot;אם זרחה החמה עליו&quot;?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-05-25 03:19:07'
+		)
+		;
+

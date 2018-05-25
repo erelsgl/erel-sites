@@ -5926,3 +5926,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-05-23 22:46:48'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/yrx.html',
+				'tnk1/ktuv/thlim/th-121-06.html',
+				NULL,
+				'2018-05-25 01:34:30',
+				'2018-05-25 01:34:30',
+				'מכת ירח',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-25 03:19:07'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/jmj.html'
+		;
+
