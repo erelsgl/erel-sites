@@ -5160,3 +5160,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>שלום לך אראל</p><p>ראה נא כי השמש גם זכר גם נקבה</p><p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים </p><p>ויהוה אלהים כשמש וברא את האדם בצלמו לאמור גם זכר גם נקבה </p><p>בראשית א27: &quot;וַיִּבְרָא אֱלֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם&quot; </p><p>ואמנם אכן נכתב כאשר ציטטת בספר שמות כב2: &quot;אִם זָרְחָה הַשֶּׁמֶשׁ עָלָיו.</p><p>אך בספר קהלת כתוב גם על השמש בלשון זכר</p><p>קהלת א5: &quot;וְזָרַח הַשֶּׁמֶשׁ וּבָא הַשָּׁמֶשׁ וְאֶל מְקוֹמוֹ שׁוֹאֵף זוֹרֵחַ הוּא שָׁם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-25 08:02:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>שלום לך אראל</p><p>ראה נא כי השמש גם זכר גם נקבה</p><p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים</p><p>ויהוה אלהים כשמש וברא את האדם בצלמו לאמור גם זכר גם נקבה</p><p>בראשית א27: &quot;וַיִּבְרָא אֱלֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם&quot;</p><p>ואמנם אכן נכתב בלשון נקבה כאשר ציטטת </p><p>בספר שמות כב2: &quot;אִם זָרְחָה הַשֶּׁמֶשׁ עָלָיו.</p><p>אך בספר קהלת כתוב גם על השמש בלשון זכר</p><p>קהלת א5: &quot;וְזָרַח הַשֶּׁמֶשׁ וּבָא הַשָּׁמֶשׁ וְאֶל מְקוֹמוֹ שׁוֹאֵף זוֹרֵחַ הוּא שָׁם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-25 08:03:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-25 08:03:36' 
+			WHERE messageid=7820;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>שימו לב לפרק פ \' בספר תהילות </p><p>לאסף המשורר כי תחנוניו ובקשתו  &quot;יהוה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot; </p><p>וזאת בסדר עולה לכבד כבוד ככתוב:</p><p>1.אֱלֹהִים</p><p>2. אֱלֹהִים צְבָאוֹת</p><p>3.יהוה אֱלֹהִים צְבָאוֹת</p><p>--------------------------</p><p>תהלים פ4: &quot;אֱלֹהִים הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p><p>תהלים פ8: &quot;אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p><p>תהלים פ20: &quot;יהוה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-25 12:51:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>שימו לב לפרק פ\' בספר תהילות</p><p>לאסף המשורר כי תחנוניו ובקשתו &quot;יהוה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p><p>וזאת בסדר עולה לכבד כבוד ככתוב:</p><p>1.אֱלֹהִים</p><p>2. אֱלֹהִים צְבָאוֹת</p><p>3.יהוה אֱלֹהִים צְבָאוֹת</p><p>--------------------------</p><p>תהלים פ4: &quot;אֱלֹהִים הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p><p>תהלים פ8: &quot;אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p><p>תהלים פ20: &quot;יהוה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-25 12:52:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-25 12:52:17' 
+			WHERE messageid=7822;
+
