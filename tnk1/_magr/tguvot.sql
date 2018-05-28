@@ -5346,3 +5346,41 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-05-27 04:45:15' 
 			WHERE messageid=7830;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-27 12:43:34' 
+			WHERE messageid=6355;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>על פי התורה יש שבעה מועדים</p><p>ואלה הם:</p><p>1. פסח</p><p>2. חג המצות</p><p>3.  חג השבועות הוא חג הקציר</p><p>4. יום זכרון תרועה</p><p>5. יום הכפורים</p><p>6. חג-הסכות הוא חג האסיף</p><p>7. שמיני עצרת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-05-27 12:45:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-05-27 15:07:09' 
+			WHERE messageid=7826;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה ומהירה בגוף ובנפש לוולטר יעקוב קוזלוסקי בן שרה ואברהם במהרה בימינו, י״ג בסיון התשעח. כן יהי רצון. אמן אמן ואמן.</p>',
+		'108276938458800144164',
+		'Ofira Bat Amram',
+		'2018-05-28 03:20:24'
+		)
+		;
+
