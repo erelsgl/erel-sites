@@ -5384,3 +5384,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17-15.html',
+		'<p>ב&quot;ה</p><p>רעיון יפה ומקורי.</p><p> אבל בחיפוש בתנ&quot;ך, אע&quot;פ שהמלה \'אצל\' מופיעה פעמים רבות, אין לה אף פעם נטיות. </p><p>חיפוש הערך \'אצלך\' (או גם \'*אצלך\') בפרויקט השו&quot;ת או תכנת חיפוש אחרת נותן רק תוצאות מחז&quot;ל והלאה, ושם הנטיה הזו מרובה מאד.</p><p>כלומר - אין זו לשון מקרא</p>',
+		'117969402493086133177',
+		'ישראל שדיאל',
+		'2018-05-29 16:48:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לידה קלה ליפית בת שרה</p>',
+		'101890314116730096069',
+		'יפית מתיתיהו',
+		'2018-05-29 20:19:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17-15.html',
+		'<p>חיפוש &quot;אצל&quot; במנוע החיפוש של אתר הניווט בתנ&quot;ך מגלה מייד את:</p><p>* בראשית לט10: &quot;וְלֹא שָׁמַע אֵלֶיהָ לִשְׁכַּב *אֶצְלָהּ* לִהְיוֹת עִמָּהּ&quot;, </p><p>* בראשית לט15: &quot;וַיְהִי כְשָׁמְעוֹ כִּי הֲרִימֹתִי קוֹלִי וָאֶקְרָא וַיַּעֲזֹב בִּגְדוֹ *אֶצְלִי*&quot;, </p><p>* שמואל א יז30: &quot;וַיִּסֹּב *מֵאֶצְלוֹ* אֶל מוּל אַחֵר&quot;,</p><p>* מלכים א ג20: &quot;וַתָּקָם בְּתוֹךְ הַלַּיְלָה וַתִּקַּח אֶת בְּנִי *מֵאֶצְלִי*&quot;,</p><p>* מלכים א יג24: &quot;וַתְּהִי נִבְלָתוֹ מֻשְׁלֶכֶת בַּדֶּרֶךְ וְהַחֲמוֹר עֹמֵד *אֶצְלָהּ*&quot; </p><p>ועוד כמה</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-05-30 05:03:46'
+		)
+		;
+

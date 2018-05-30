@@ -6085,3 +6085,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-05-29 05:33:24'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-29 16:48:47'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-29 20:19:02'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-05-30 05:03:46'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17-15.html'
+		;
+
