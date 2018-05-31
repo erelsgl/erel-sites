@@ -5420,3 +5420,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17-15.html',
+		'<p>ב&quot;ה</p><p>שלום - ותודה על התיקון.  באמת חיפשתי רק \'אצלך\'.</p><p>כל טוב - ישראל שדיאל</p>',
+		'117969402493086133177',
+		'ישראל שדיאל',
+		'2018-05-30 14:44:51'
+		)
+		;
+
