@@ -5432,3 +5432,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17-15.html',
+		'<p>איזה רעיון נפלא אראל! שמעת אותו ממישהו או שהרעיון אישי שלך? </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-05-31 17:32:21'
+		)
+		;
+
