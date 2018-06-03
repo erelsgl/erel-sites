@@ -6148,3 +6148,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17-15.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-02 14:11:08'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-03-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-02 14:12:28'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-03-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-02 14:13:23'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-03-15.html'
+		;
+
