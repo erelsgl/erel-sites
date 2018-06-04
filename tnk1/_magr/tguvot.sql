@@ -5494,3 +5494,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-06-02 14:13:26' 
 			WHERE messageid=7840;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>בספר דברים פרק ה כתוב (דברים ה24):</p><p> קְרַב אַתָּה וּשֲׁמָע אֵת כָּל אֲשֶׁר יֹאמַר יְהֹוָה אֱלֹהֵינוּ וְאַתְּ תְּדַבֵּר אֵלֵינוּ אֵת כָּל אֲשֶׁר יְדַבֵּר יְהֹוָה אֱלֹהֵינוּ אֵלֶיךָ וְשָׁמַעְנוּ וְעָשִׂינוּ: </p><p> קְרַב אַתָּה וּשֲׁמָע אֵת כָּל אֲשֶׁר יֹאמַר יְהֹוָה אֱלֹהֵינוּ  =  קְרַב אַתָּה וּשֲׁמָע....... לאמור כי בטרם תשמע קרב לאלהים</p><p>כי אם רחוק אתה מאלהים איכה תשמע דבריו ואמנם קול אלהים גם למרחוק למרחקים אך טוב להיות קרוב מאשר רחוק</p><p>ואתה בני דע כי אם קרוב אתה לאלהים ושמעת דברו ככל רֹאֵי פְּנֵי הַמֶּלֶךְ הַיֹּשְׁבִים רִאשֹׁנָה בַּמַּלְכוּת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-03 15:06:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לתהלה בת יולן</p><p>שתהייה לידה קלה ושתחזרי הבייתה עם פרי בטנך בריא ושלם</p><p>אמן</p><p>אורי</p><p></p>',
+		'113173955534769974867',
+		'URIR2222',
+		'2018-06-04 07:27:47'
+		)
+		;
+
