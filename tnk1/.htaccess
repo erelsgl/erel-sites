@@ -3,6 +3,7 @@ RewriteOptions inherit
 
 Redirect Permanent /tnk1/daian http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
 Redirect Permanent /tnk1/daian1 http://tora.us.fm/tnk/find.php?q=%D7%9E%D7%95%D7%A8%D7%94+%D7%9C%D7%AA%D7%95%D7%A8%D7%94+%D7%9E%D7%A9%D7%94+%D7%93%D7%99%D7%9F
+Redirect Permanent /tnk1/daian2 /tnk1/daian2.html
 
 RewriteRule ^xidon(.*)$ http://ipaper.co.il/cgi-bin/v.cgi?id=nachat&sp=3 [R]
 RewriteRule ^find(.*)$ /tnk/find$1 [R]
