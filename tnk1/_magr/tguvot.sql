@@ -5847,3 +5847,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-06-11 06:08:33' 
 			WHERE messageid=6772;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/zk-09-17.html',
+		'<p>כנראה שמדובר בנשים צנועות וחסודות. ואולי הרב דוד אף חי במחיצת שכאלה.</p>',
+		'110183487821086859289',
+		'ישי קוטב',
+		'2018-06-12 07:43:05'
+		)
+		;
+
