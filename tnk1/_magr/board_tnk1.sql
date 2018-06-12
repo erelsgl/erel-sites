@@ -6456,3 +6456,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/zk-09-17.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-12 12:57:07'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/zk-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-12 14:26:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2740_0.html'
+		;
+
