@@ -5883,3 +5883,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/hfrka.html',
+		'<p>בס&quot;ד                                                                                              13/06/2018</p><p>סגל שלום,</p><p>יש לי שאלה </p><p>מי מחליט שאדם זה הוא נביא ?</p><p>ומי מחליט אדם זה נביא מוחזק ?</p><p>אדם שהוכר כנביא בירושלים איך אנשי טבריה מקבלים את המידע שפלוני זה נביא כדי שאנשי טבריה התייחסו אליו ?</p><p>בברכה</p><p>אברהם מדי</p><p>0523996176  </p>',
+		'101050228660817032790',
+		'אברהם מדי',
+		'2018-06-13 06:19:12'
+		)
+		;
+
