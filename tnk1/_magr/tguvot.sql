@@ -5981,3 +5981,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/arkim.html',
+		'<p>בנושא הנידון למעלה, ממליץ לקרוא את מאמרו של הרב אמנון בזק בסוגיא זו. http://etzion.org.il/he/%D7%A4%D7%A8%D7%A9%D7%AA-%D7%91%D7%97%D7%95%D7%A7%D7%95%D7%AA%D7%99-%D7%A2%D7%A8%D7%9B%D7%99-%D7%94%D7%90%D7%93%D7%9D</p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2018-06-14 09:23:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/arkim.html',
+		'<p>  </p><p>קהלת ה4: &quot;טוֹב אֲשֶׁר לֹא תִדֹּר מִשֶּׁתִּדּוֹר וְלֹא תְשַׁלֵּם&quot;</p><p>תהלים עו12: &quot;נִדֲרוּ וְשַׁלְּמוּ ליהוה אלהיכם כָּל סְבִיבָיו יוֹבִילוּ שַׁי לַמּוֹרָא&quot;</p><p>יונה ב10: &quot;וַאֲנִי בְּקוֹל תּוֹדָה אֶזְבְּחָה לָּךְ אֲשֶׁר נָדַרְתִּי אֲשַׁלֵּמָה יְשׁוּעָתָה ליהוה\'&quot;</p><p>----------</p><p>שמואל ב טו7: &quot;וַיְהִי מִקֵּץ אַרְבָּעִים שָׁנָה וַיֹּאמֶר אַבְשָׁלוֹם אֶל הַמֶּלֶךְ אֵלֲכָה נָּא וַאֲשַׁלֵּם אֶת נִדְרִי אֲשֶׁר נָדַרְתִּי ליהוה בְּחֶבְרוֹן&quot;  </p><p>שמואל ב טו8: &quot;כִּי נֵדֶר נָדַר עַבְדְּךָ בְּשִׁבְתִּי בִגְשׁוּר בַּאֲרָם לֵאמֹר אִם ישיב[יָשׁוֹב] יְשִׁיבֵנִי יהוה יְרוּשָׁלַים וְעָבַדְתִּי אֶת יהוה\'&quot;</p><p>אבשלום אומר כי כעת תם הנדר אלהים השיבו בשלום לירושלים וכעת עליו לעבוד את יהוה ולשלם את נדרו לכהן יהוה</p><p>את הנדר יש לשלם תרתי משמע</p><p>משמעות אחת לשלם את הנדר לאמור להקים את דבר הנדר</p><p>ומשמעות שנית לשלם את הנדר זה לשלם כסף בתם הנדר לאחר שהקמת את דבר הנדר</p><p>וכל נפש אדם לפי ערכו ככתוב בספר ויקרא פרק כז:</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-14 11:29:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-14 11:34:13' 
+			WHERE messageid=7876;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/arkim.html',
+		'<p>יפה, תודה רבה!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-06-14 11:43:25'
+		)
+		;
+
