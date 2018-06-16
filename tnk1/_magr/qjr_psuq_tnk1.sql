@@ -144,3 +144,31 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = NULL, `tarik_hosfa` = '2018-04-04 18:32:29' WHERE `bn` = 'תפילין - מזוזה - דם הפסח - דם המילה' AND `sfr` = 'שמת' AND `prq0` = 'יב' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-06-15 15:41:33' WHERE `bn` = 'ייפלא' AND `sfr` = 'ויק' AND `prq0` = 'כז' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'יותר טוב מבנים' AND `sfr` = 'ויק' AND `prq0` = 'כז' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'דינה שמעון ולוי הסבר המעשה ודרכו של לוי' AND `sfr` = 'ויק' AND `prq0` = 'כז' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'האם התנ\"ך שוביניסטי?' AND `sfr` = 'ויק' AND `prq0` = 'כז' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:ויקרא כז4', 'ויק', 'כז', 4, 4, 'משמעות הערכים של האיש והאישה', 'תרגומים', 10, '2018-06-15 15:42:15');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'משמעות הערכים של האישה', `tarik_hosfa` = '2018-06-15 15:43:08' WHERE `bn` = 'ביאור:ויקרא כז4' AND `sfr` = 'ויק' AND `prq0` = 'כז' AND `psuq0` = 4 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:ויקרא כז4', 'ויקר', 'כז', 3, 3, 'משמעות הערכים של האיש בגילאים שונים', 'תרגומים', 10, '2018-06-15 15:43:08');
+

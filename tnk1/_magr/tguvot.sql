@@ -6024,3 +6024,115 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>במה תבחרו בממלכת כהנים או קרח ועדתו</p><p>מי חפצתם יורה לכם התורה ?????????</p><p>כי אם ממלכת כהנים אין נשאר קרח ועדתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 13:32:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-15 13:38:45' 
+			WHERE messageid=7878;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>במה תבחרו בכהן הגדול או בקֹרַח </p><p>מי חפצתם יורה לכם התורה ???</p><p>כי אם כהן גדול אין אז נשאר קֹרַח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 13:39:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p> במי תבחרו בכהן הגדול או בקֹרַח</p><p>מי חפצתם יורה לכם התורה ???</p><p>כי אם כהן גדול אין אז נשאר קֹרַח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 13:41:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-15 13:41:38' 
+			WHERE messageid=7879;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>קהלת א18: &quot;כִּי בְּרֹב חָכְמָה רָב כָּעַס וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב&quot; </p><p>דַּעַת= מַכְאוֹב</p><p>חָכְמָה = כָּעַס  </p><p>קהלת יא10: &quot;וְהָסֵר כַּעַס מִלִּבֶּךָ וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ כִּי הַיַּלְדוּת וְהַשַּׁחֲרוּת הָבֶל&quot;</p><p>קהלת יא10: &quot;וְהָסֵר חָכְמָה מִלִּבֶּךָ ????... כן לאמור יהיה לבך ישר ותמים בלי להתחכם בלי לעשות חכמות... </p><p>וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ כִּי הַיַּלְדוּת וְהַשַּׁחֲרוּת הָבֶל&quot;</p><p>ובלשון עממית אגידך כי אם לא תעשה חכמות אז לבב חכמה לך</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 14:54:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>קהלת א18: &quot;כִּי בְּרֹב חָכְמָה רָב כָּעַס וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב&quot;</p><p>דַּעַת= מַכְאוֹב</p><p>חָכְמָה = כָּעַס</p><p>קהלת יא10: &quot;וְהָסֵר כַּעַס מִלִּבֶּךָ וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ כִּי הַיַּלְדוּת וְהַשַּׁחֲרוּת הָבֶל&quot;</p><p>קהלת יא10: &quot;וְהָסֵר חָכְמָה מִלִּבֶּךָ ????... כן לאמור יהיה לבך ישר ותמים בלי להתחכם בלי לעשות חכמות...וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ ...</p><p>ובלשון עממית אגידך כי אם לא תעשה חכמות אז לבב חכמה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 14:57:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-15 14:58:00' 
+			WHERE messageid=7881;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>כאשר דעת אלהים זה לפעול בחן בלי דעת</p><p>ככה גם חכמת אלהים זה לפעול כביכול ללא מחשבה ממש כאשר אתם רואים את הציפורים חיות באופן טבעי מבלי להתאמץ בשכל</p><p>קהלת א18: &quot;כִּי בְּרֹב חָכְמָה רָב כָּעַס וְיוֹסִיף דַּעַת יוֹסִיף מַכְאוֹב&quot;</p><p>דַּעַת= מַכְאוֹב</p><p>חָכְמָה = כָּעַס</p><p>קהלת יא10: &quot;וְהָסֵר כַּעַס מִלִּבֶּךָ וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ כִּי הַיַּלְדוּת וְהַשַּׁחֲרוּת הָבֶל&quot;</p><p>קהלת יא10: &quot;וְהָסֵר חָכְמָה מִלִּבֶּךָ ????... כן לאמור יהיה לבך ישר ותמים בלי להתחכם בלי לעשות חכמות...וְהַעֲבֵר רָעָה מִבְּשָׂרֶךָ ...</p><p>ובלשון עממית אגידך כי אם לא תעשה חכמות אז לבב חכמה לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 15:03:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-15 15:03:51' 
+			WHERE messageid=7882;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>תהלים נה6: &quot;יִרְאָה וָרַעַד יָבֹא בִי וַתְּכַסֵּנִי פַּלָּצוּת&quot;</p><p>איוב ד14: &quot;פַּחַד קְרָאַנִי וּרְעָדָה וְרֹב עַצְמוֹתַי הִפְחִיד&quot;</p><p>-----------</p><p>תהלים ב11: &quot;עִבְדוּ אֶת יהוה בְּיִרְאָה וְגִילוּ בִּרְעָדָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-15 15:17:11'
+		)
+		;
+
