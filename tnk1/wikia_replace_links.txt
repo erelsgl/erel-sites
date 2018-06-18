@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-04-04 19:18:04
+# This file was automatically generated at 2018-06-18 05:27:38
 
 sub wikia_replace_links {
 $_=shift;
@@ -1216,6 +1216,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-05|[[ביאור:מבנה ויקרא ה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-04|[[ביאור:מבנה ויקרא ד|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-03|[[ביאור:מבנה ויקרא ג|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-02-14|[[ביאור:אביב קלוי באש - מתכון|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-02-11|[[ביאור:אסור להקריב שאור ודבש על המזבח|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-02|[[ביאור:מבנה ויקרא ב|ig;
 s|${OPENLINK}tnk1/tora/wyqra/tojba|[[ביאור:מצוות שניתנו בהר סיני ונכתבו רק בספר ויקרא|ig;
 s|${OPENLINK}tnk1/tora/wyqra/tm91|[[ביאור:ארנבת ושפן|ig;
@@ -1377,6 +1378,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-14-15|[[ביאור:צעקת משה על ים סו
 s|${OPENLINK}tnk1/tora/jmot/jm-14-14|[[ביאור:ה' יילחם לכם - ואתם תחרישון|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-14-13|[[ביאור:עם ישראל מתחלק לארבע מפלגות ליד ים סוף|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-14-07|[[ביאור:ויקח שש מאות רכב בחור|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-13-17|[[ביאור:דרך קצרה שהיא ארוכה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13-13|[[ביאור:ופטר חמור תפדה בשה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13-08|[[ביאור:בעבור זה עשה ה' לי בצאתי ממצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13-03|[[ביאור:ולא ייאכל חמץ = ביטוי למהירות היציאה ממצרים|ig;
@@ -3338,6 +3340,7 @@ s|${OPENLINK}tnk1/nvia/tryasr/zk-08|[[ביאור:מבנה זכריה ח|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-0708|[[ביאור:צומות ומועדים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-06-0108|[[ביאור:סוסים ורוחות|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-06|[[ביאור:מבנה זכריה ו|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/zk-05-09|[[ביאור:שתי נשים עם כנפי חסידה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-05-0511|[[ביאור:איפה ונשים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-05-03|[[ביאור:כל הגונב מזה כמוה ניקה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-05-0104|[[ביאור:מגילה עפה|ig;
@@ -4018,6 +4021,7 @@ s|${OPENLINK}tnk1/messages/sofrim_shabot_index_15|[[ביאור:גוף ונשמה
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_14|[[ביאור:גוף ונשמה 8|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_13|[[ביאור:גוף ונשמה 7|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_12|[[ביאור:גוף ונשמה 6|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_115|[[ביאור:מסר התורה שפוספס|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_114|[[ביאור:סיפור יהודי-ישראלי|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_113|[[ביאור:חכם יוסף שאשו הלוי זצ"ל |ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_112|[[ביאור:כתר ארם צובא|ig;
@@ -6429,6 +6433,9 @@ s|${OPENLINK}tnk1/messages/new_7|[[ביאור:זוג ההיפוכים קם - מ�
 s|${OPENLINK}tnk1/messages/new_6|[[ביאור:מצוות אנשים מלומדה לעומת רוח החסד|ig;
 s|${OPENLINK}tnk1/messages/new_5|[[ביאור:ארבע מידות באדם - הצד הכלכלי|ig;
 s|${OPENLINK}tnk1/messages/new_4|[[ביאור:דרשה קצרה לפסח וליום העצמאות|ig;
+s|${OPENLINK}tnk1/messages/new_35|[[ביאור:האם ניתן לאבד את הצלם?|ig;
+s|${OPENLINK}tnk1/messages/new_34|[[ביאור:על "מגילת רות - פירוש ישראלי חדש"|ig;
+s|${OPENLINK}tnk1/messages/new_33|[[ביאור:ממזר לא יבוא בקהל ה'?|ig;
 s|${OPENLINK}tnk1/messages/new_32|[[ביאור:מה מקור המילה חירות?|ig;
 s|${OPENLINK}tnk1/messages/new_30|[[ביאור:על "מקראות: יתרו" מאת יואל בן נון ושאול ברוכי|ig;
 s|${OPENLINK}tnk1/messages/new_3|[[ביאור:נבואות ירמיה שלא התגשמו ונסיונות המפרשים ליישבן|ig;
@@ -7002,6 +7009,7 @@ s|${OPENLINK}tnk1/messages/jmewny.doc|[[ביאור:מבחר שמעוני (.doc)|
 s|${OPENLINK}tnk1/messages/jlwm_mr_ybkywn_la_xjb_anwj.pdf|[[ביאור:מלאכי שלום מר יבכיון לא חשב אנוש|ig;
 s|${OPENLINK}tnk1/messages/jlwjh_mjyxym_bswp_ywmya_wbswp_glwwta.doc|[[ביאור:שלושה משיחים בסוף יומיא ובסוף גלוותא (.doc)|ig;
 s|${OPENLINK}tnk1/messages/JLMH_JALWT0.ppt|[[ביאור:שאלות על שלמה המלך - מצגת|ig;
+s|${OPENLINK}tnk1/messages/jfmwn_byxws_jl_alyhw_hnbya.doc|[[ביאור:יעוד שטמון ביחוס של אליהו הנביא (.doc)|ig;
 s|${OPENLINK}tnk1/messages/jerichoisraelmap0.jpg|[[ביאור:יריחו על מפת ישראל|ig;
 s|${OPENLINK}tnk1/messages/jephthah.pdf|[[ביאור:בת יפתח ואיפיגניה|ig;
 s|${OPENLINK}tnk1/messages/jdl_MefarsheyTanach001-36_0|[[ביאור:בלע בן בעור ועירו דנהבה|ig;
@@ -7045,6 +7053,13 @@ s|${OPENLINK}tnk1/messages/girdle.pdf|[[ביאור:מה"אזור" התנכי ל"
 s|${OPENLINK}tnk1/messages/gilead_and_bashan.pdf|[[ביאור:Gilead and Bashan|ig;
 s|${OPENLINK}tnk1/messages/from_plesheth_to_palestina.pdf|[[ביאור:From Plesheth to Palestina|ig;
 s|${OPENLINK}tnk1/messages/from_before_you.pdf|[[ביאור:לפני, מפני, ומלפני|ig;
+s|${OPENLINK}tnk1/messages/forums_999|[[ביאור:'מולדתי חוגגת עצמאות' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_998|[[ביאור:'ארץ חמדה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_997|[[ביאור:לקראת יום העצמאות השבעים למדינת ישראל - בעין המקרא|ig;
+s|${OPENLINK}tnk1/messages/forums_996|[[ביאור: פרשת אחרי מות-קדושים - כיצד נבטיח את ישיבתנו על אדמתנו?|ig;
+s|${OPENLINK}tnk1/messages/forums_995|[[ביאור:'צרעת בבגדים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_994|[[ביאור:פרשת תזריע-מצורע: מה הקשר בין נגע הצרעת - לשבת ויום טוב?|ig;
+s|${OPENLINK}tnk1/messages/forums_993|[[ביאור:'העם מבכה את מות בני אהרון' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_992|[[ביאור:פרשת שמיני - צרת תלמידי חכמים מוטלת על העם - האומנם?|ig;
 s|${OPENLINK}tnk1/messages/forums_991|[[ביאור:ליל הסדר - מה גנוז בשם זה?|ig;
 s|${OPENLINK}tnk1/messages/forums_990|[[ביאור:' הכוהן בעבודתו' - שיר מאת אהובה קליין (c)|ig;
@@ -8026,7 +8041,24 @@ s|${OPENLINK}tnk1/messages/forums_105|[[ביאור:פרשת צו - אבן יסו
 s|${OPENLINK}tnk1/messages/forums_104|[[ביאור:'ויקרא אל משה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_103|[[ביאור:פרשת ויקרא - משמעות האות אלף הזעירא|ig;
 s|${OPENLINK}tnk1/messages/forums_102|[[ביאור:'קורבן פסח' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1016|[[ביאור:'קורח ומחלוקתו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1015|[[ביאור:פרשת קורח - מה היה המניע למחלוקת קורח?|ig;
+s|${OPENLINK}tnk1/messages/forums_1014|[[ביאור:'המקושש' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1013|[[ביאור:פרשת שלח - מי היה  המקושש ובמה נענש?|ig;
+s|${OPENLINK}tnk1/messages/forums_1012|[[ביאור:'חטא המתאוננים ועונשם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1011|[[ביאור:פרשת בהעלותך - מה היה שורש חטאם של המתאוננים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1010|[[ביאור:פרשת נשא - מדוע נקרא המשכן על שם משה?|ig;
 s|${OPENLINK}tnk1/messages/forums_101|[[ביאור:'טוויית חוטים למשכן' - שיר מאת אהובה קליין(c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1009|[[ביאור:'יום הקמת המשכן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1008|[[ביאור:'מניין ישראל במדבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1007|[[ביאור:פרשת במדבר - הקשר בין היהודי - לתורה והמדבר|ig;
+s|${OPENLINK}tnk1/messages/forums_1006|[[ביאור:' ברכת שלום' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1005|[[ביאור:פרשת בחוקותיי - המתכון האמיתי להשגת שלום|ig;
+s|${OPENLINK}tnk1/messages/forums_1004|[[ביאור:'ברכת ה'' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1003|[[ביאור:' ברכת ה'' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1002|[[ביאור:פרשת בהר - מאין ההוכחה שהתורה ומצוותיה ניתנו משמים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1001|[[ביאור:' עונג שבת' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1000|[[ביאור:פרשת אמור - מה גנוז בשבת קודש?|ig;
 s|${OPENLINK}tnk1/messages/forums_100|[[ביאור:פרשת ויקהל פקודי, פרשת החודש - המיוחד בכיור המשכן|ig;
 s|${OPENLINK}tnk1/messages/forums_10|[[ביאור:'שמיעה ושמועה' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/flashing_sword.pdf|[[ביאור:Flashing sword|ig;
@@ -8052,6 +8084,7 @@ s|${OPENLINK}tnk1/messages/emqw_mxjbwtyk_kxwf___megl.pdf|[[ביאור:מאוד �
 s|${OPENLINK}tnk1/messages/dywqym_btrgwm_ywntn___yrmyhw_prq_a.doc|[[ביאור:דיוקים בתרגום יונתן - ירמיהו פרק א (.doc)|ig;
 s|${OPENLINK}tnk1/messages/dybwry_ecb_wrwgz_jl_dwd.doc|[[ביאור:דיבורי עצב ורוגז בפי דוד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/dwd_ajr_nsgr_bjnt_18_lyajyhw.pdf|[[ביאור:מעגל דוד אשר נסגר בשנת 18 ליאשיהו|ig;
+s|${OPENLINK}tnk1/messages/draw_water_with_your_feet.pdf|[[ביאור:Draw water with your feet|ig;
 s|${OPENLINK}tnk1/messages/does_piousness_allows_imaginay_writing.pdf|[[ביאור:From before you|ig;
 s|${OPENLINK}tnk1/messages/dmut_ToknLfiDmutIja_1|[[ביאור:איך ייתכן שאחד מבני ישראל המשועבדים במצרים לקח לאישה את בתיה בת פרעה?|ig;
 s|${OPENLINK}tnk1/messages/dmut_ToknLfiDmutAm_0_0|[[ביאור:תיעוד "צוען מצרים"...|ig;
@@ -8227,6 +8260,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_1016_0|[[ביאור:צדקת צדקיהו|i
 s|${OPENLINK}tnk1/messages/dmut_dmut_1009_0|[[ביאור:מי היו ארבעת בניו של יאשיהו|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1003_0|[[ביאור:אמון שר העיר|ig;
 s|${OPENLINK}tnk1/messages/dinah_and_shechem.pdf|[[ביאור:Dinah and Shechem|ig;
+s|${OPENLINK}tnk1/messages/darkened_vision.pdf|[[ביאור:ועיני לאה רכות|ig;
 s|${OPENLINK}tnk1/messages/darics_and_drachmas.pdf|[[ביאור:Darics and Drachmas|ig;
 s|${OPENLINK}tnk1/messages/daniel___jehoiachin.pdf|[[ביאור:Daniel = Jehoiachin|ig;
 s|${OPENLINK}tnk1/messages/daian.doc|[[ביאור:דין משה ותורתו (.doc)|ig;
@@ -8263,6 +8297,7 @@ s|${OPENLINK}tnk1/messages/auva1g.jpg|[[ביאור:ציור אלקנה פנינ�
 s|${OPENLINK}tnk1/messages/auav2g.jpg|[[ביאור:ציור פגישת יעקב ועשו|ig;
 s|${OPENLINK}tnk1/messages/at_hym_mwcq___egwl_sbyb.pdf|[[ביאור:ויעש את הים מוצק = עגול סביב|ig;
 s|${OPENLINK}tnk1/messages/asprnh.pdf|[[ביאור:וגדולתך אספרנה|ig;
+s|${OPENLINK}tnk1/messages/ashes_on_his_eyes.pdf|[[ביאור:Ashes on his eyes|ig;
 s|${OPENLINK}tnk1/messages/ark_cover.pdf|[[ביאור:כפרת|ig;
 s|${OPENLINK}tnk1/messages/aram_naharaim.pdf|[[ביאור:Aram - Naharaim|ig;
 s|${OPENLINK}tnk1/messages/aps_mqwm.pdf|[[ביאור:עד אפס מקום|ig;
@@ -8272,6 +8307,7 @@ s|${OPENLINK}tnk1/messages/alhym_lpnwt_bwqr.pdf|[[ביאור:יעזרה אלהי
 s|${OPENLINK}tnk1/messages/alhym_bdwr_cdyq___lrbe_eygwl.pdf|[[ביאור:כי אלהים בדור צדיק = לרבע עיגול|ig;
 s|${OPENLINK}tnk1/messages/ajr_yhyh_baxryt_hzem.pdf|[[ביאור:המעגל אשר יהיה באחרית הזעם|ig;
 s|${OPENLINK}tnk1/messages/ajr_am_jaw_erym_mayn_ywjb.pdf|[[ביאור:עד אשר אם - שאו ערים מאין יושב|ig;
+s|${OPENLINK}tnk1/messages/agriculture.pdf|[[ביאור:Agriculture|ig;
 s|${OPENLINK}tnk1/messages/7778|[[ביאור:פסוקים ללא נושא ברור|ig;
 s|${OPENLINK}tnk1/messages/7072|[[ביאור:שמו של גלית|ig;
 s|${OPENLINK}tnk1/messages/7067|[[ביאור:צפון, סבון|ig;
@@ -8650,6 +8686,8 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-137-09|[[ביאור:אשרי שיאחז וניפ
 s|${OPENLINK}tnk1/ktuv/thlim/th-133|[[ביאור:הנה מה טוב ומה נעים שבת אחים גם יחד|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-128-02|[[ביאור:יגיע כפיך כי תאכל, אשריך וטוב לך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-126-04|[[ביאור:שיטפון של שיבת ציון|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-124-05|[[ביאור:המים הזידונים|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-121-06|[[ביאור:מכת ירח|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-119t|[[ביאור:ת = תפילה לעתיד טוב יותר|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-119s|[[ביאור:ש = שמירה על הקיים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-119r|[[ביאור:ר = מריבות ומאבקים ציבוריים|ig;
@@ -10004,6 +10042,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/qh-07-02|[[ביאור:טוב לכת אל בית א
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-05-10|[[ביאור:ברבות הטובה - רבו אוכליה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-05-08|[[ביאור:יתרון ארץ בכל הוא|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-04-13|[[ביאור:טוב ילד מסכן וחכם ממלך זקן וכסיל|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/qh-04-12|[[ביאור:החוט המשולש|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-04-10|[[ביאור:כי אם יפלו - האחד יקים את חברו|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-04-05|[[ביאור:הכסיל חובק את ידיו ואוכל את בשרו|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/qh-03-15|[[ביאור:האלהים יבקש את נרדף|ig;
@@ -10122,6 +10161,7 @@ s|${OPENLINK}tnk1/ktuv/eyov/yv-36-02|[[ביאור:כתר לי זעיר ואחו�
 s|${OPENLINK}tnk1/ktuv/eyov/yv-33-23|[[ביאור:להבין את המסר מאחרי המחלה|ig;
 s|${OPENLINK}tnk1/ktuv/eyov/yv-33|[[ביאור:מבנה איוב לג|ig;
 s|${OPENLINK}tnk1/ktuv/eyov/yv-29-04|[[ביאור:בימי חרפי|ig;
+s|${OPENLINK}tnk1/ktuv/eyov/yv-28-25|[[ביאור:לעשות לרוח משקל|ig;
 s|${OPENLINK}tnk1/ktuv/eyov/yv-28-12|[[ביאור:והחכמה מאין תמצא|ig;
 s|${OPENLINK}tnk1/ktuv/eyov/yv-26-04|[[ביאור:לא להגיד את המובן מאליו|ig;
 s|${OPENLINK}tnk1/ktuv/eyov/yv-24-24|[[ביאור:רומו מעט ואיננו|ig;

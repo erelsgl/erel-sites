@@ -2538,3 +2538,64 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/sug_mjkb_zkr_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-06-17 11:10:24'
+		WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/sug_mjkb_zkr_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-06-17 11:23:50'
+		WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/sug_mjkb_zkr_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-06-17 11:29:37'
+		WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-06-17 11:30:23'
+			WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-06-17 11:30:27'
+			WHERE parent='tryg/messages/sug_mjkb_zkr_0.html'
+			;
+
