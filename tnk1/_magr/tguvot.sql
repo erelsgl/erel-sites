@@ -6210,3 +6210,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-06-17 11:30:27' 
 			WHERE messageid=7887;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p>אפשר בבקשה רשימה שמית לפי סדר ספרי התנך של כל הנפשות הפועלות</p>',
+		'115909296078476044441',
+		'משה חזן ”בַּמָּה אֲקַדֵּם יָהּ“ יש מיש',
+		'2018-06-18 16:11:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutHkl.html',
+		'<p>מדוע אין רשימה לפי סדר הופעתם בתנך</p><p></p>',
+		'115909296078476044441',
+		'משה חזן ”בַּמָּה אֲקַדֵּם יָהּ“ יש מיש',
+		'2018-06-18 16:16:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/ndr.html',
+		'<p>יעקב אבינו הביא ברכה לעולם וזה ברור.</p><p>עקב השעה (התעקב) עם נדרו ויקרא רבא לז\' לא נאמר שיעקב לא שילם את נדרו. ונראה שהוא נענש אל עיקוב שהשם מדקדק אם צדיקים יבמות קכא: </p><p>ועוד נראה שיעקב נדר לתת חומש (20%) עשר אעשרנו מעשר כפול אתן מן הברכה שלי שהוא חומש (דרשות בן איש חי פרשת ויצא על הפסוק אם היה אלקים עמדי)</p><p>יעקב אבינו היה האדם הראשון לפני כן ורבקה אימו הייתה חווה אשת האדם הראשון וכששלחה רבקה את יעקב אבינו ליצחק כדי  שיברך אותו אמרה לו בגיגול הקודם עצתי לך לאכול מעץ המות ועצתי היתה מהנחש שנתלבש בי ועכשיו עצתי האי ממני מחווה שעל ידי זה שתתברך מיצחק תתקן את הקללות לברכות</p>',
+		'109608056928531279818',
+		'natan belloulou',
+		'2018-06-19 01:54:03'
+		)
+		;
+
