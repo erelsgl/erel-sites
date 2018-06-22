@@ -7471,3 +7471,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-06-19 20:56:13'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-21 16:39:23'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-21 16:39:53'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+

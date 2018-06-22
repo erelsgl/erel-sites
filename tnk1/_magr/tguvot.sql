@@ -6258,3 +6258,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום נקלעתי לבעייה כספית אני זקוק לעזרה אשמח אם תחזרו אליי                  0528306195</p>',
+		'108888352457612517116',
+		'עמית אביטל',
+		'2018-06-21 16:39:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום נקלעתי לבעייה כספית אני זקוק לעזרה אשמח אם תחזרו אליי                  0528306195</p>',
+		'108888352457612517116',
+		'עמית אביטל',
+		'2018-06-21 16:39:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-21 18:46:11' 
+			WHERE messageid=7895;
+
