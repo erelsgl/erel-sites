@@ -6289,3 +6289,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-06-21 18:46:11' 
 			WHERE messageid=7895;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-19.html',
+		'<p>כלאיים באתר ערכים: http://www.arachim.org/ArticleDetail.asp?ArticleId=13848</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-06-24 00:33:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/tm01_klaym_bsr_bxlv.html',
+		'<p>עוד על כלאיים ראו כאן: http://tora.us.fm/tnk1/tora/wyqra/wy-19-19.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-06-24 00:58:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-24 00:59:10' 
+			WHERE messageid=7896;
+

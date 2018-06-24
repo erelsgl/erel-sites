@@ -172,3 +172,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:ויקרא כז4', 'ויקר', 'כז', 3, 3, 'משמעות הערכים של האיש בגילאים שונים', 'תרגומים', 10, '2018-06-15 15:43:08');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `tarik_hosfa` = '2018-06-24 00:42:22' WHERE `bn` = 'ביאור:דברים כב8' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-06-24 00:42:22' WHERE `bn` = 'ביאור:דברים כב8' AND `sfr` = 'שמת' AND `prq0` = 'כא' AND `psuq0` = 33 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\"ויקח אחת מצלעותיו\" - עוד זווית' AND `sfr` = 'תהל' AND `prq0` = 'לה' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קריעה מטאפורית' AND `sfr` = 'תהל' AND `prq0` = 'לה' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+

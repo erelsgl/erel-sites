@@ -7510,3 +7510,51 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-06-22 09:47:26'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/kla.html',
+				'tnk1/tora/wyqra/wy-19-19.html',
+				NULL,
+				'2018-06-23 23:26:32',
+				'2018-06-23 23:26:32',
+				'מה זה כלאיים?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-24 00:33:45'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-24 00:58:36'
+		WHERE ktovt_bn='tnk1/tora/dvrim/tm01_klaym_bsr_bxlv.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nkh=nka.html',
+				'tnk1/ktuv/thlim/th-35-15.html',
+				NULL,
+				'2018-06-24 01:02:30',
+				'2018-06-24 01:02:30',
+				'נאספו עליי נכים',
+				'אראל',
+				''
+			)
+		;
+

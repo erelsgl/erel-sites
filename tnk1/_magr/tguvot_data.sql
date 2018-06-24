@@ -2697,3 +2697,41 @@ SET character_set_connection=utf8;
 			WHERE parent='tryg/ribit0/get.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/wyqra/wy-19-19.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-06-24 00:33:45'
+		WHERE parent='tnk1/tora/wyqra/wy-19-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/dvrim/tm01_klaym_bsr_bxlv.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-06-24 00:58:36'
+		WHERE parent='tnk1/tora/dvrim/tm01_klaym_bsr_bxlv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-06-24 00:59:10'
+			WHERE parent='tnk1/tora/wyqra/wy-19-19.html'
+			;
+
