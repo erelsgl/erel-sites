@@ -7614,3 +7614,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-19.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 04:04:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jefnz.html',
+				'tnk1/tora/dvrim/dm-22-11.html',
+				NULL,
+				'2018-06-26 04:56:25',
+				'2018-06-26 04:56:25',
+				'טעמי איסור לבישת שעטנז',
+				'אראל',
+				''
+			)
+		;
+
