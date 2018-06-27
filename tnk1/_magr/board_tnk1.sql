@@ -7638,3 +7638,136 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1019.html',
+				NULL,
+				'2018-06-26 12:00:25',
+				'2018-06-26 12:00:25',
+				' פרשת בלק- מי היה בלעם ומה גילה על עם ישראל?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-06-26 12:00:25'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 12:03:53'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-22-11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 12:07:38'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-22-11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 13:36:40'
+		WHERE ktovt_bn='tryg/ribit0/hlwaa_mgmx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 13:47:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 18:03:16'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-26 18:06:08'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-09-2027.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/tora/dvrim/dm09.html',
+				NULL,
+				'2018-06-27 02:50:06',
+				'2018-06-27 02:50:06',
+				'מבנה דברים ט',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-06-27 02:50:06'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1020.html',
+				NULL,
+				'2018-06-27 03:59:51',
+				'2018-06-27 03:59:51',
+				' בלעם ותגליתו/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-06-27 03:59:51'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-27 04:27:11'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-06-27 04:29:21'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm09.html'
+		;
+
