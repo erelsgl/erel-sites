@@ -6547,3 +6547,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-06-27 04:29:24' 
 			WHERE messageid=7912;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm09.html',
+		'<p>הסבר תכליתי וסיכום לידו; שאפו ענק לכותב. </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-06-27 12:23:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>ישעיהו כח9: &quot;אֶת מִי יוֹרֶה דֵעָה וְאֶת מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם&quot;  </p><p>יש לדעת ולהבין</p><p>מה אתה מרגיש וחש מכל מערכת החושים</p><p>וככל שאתה צדיק וקדוש ככה מערכת החושים נפתחת בהתאם ככה השמים נפתחים</p><p>רק זכור להיות נדיב לב עם יד פתוחה כי ככל שהיד פתוחה ככה השמים פתוחים</p><p>וזה החסד הגדול שעשה יהוה לבנו של דוד המלך היושב על כסאו </p><p>מלכים א ה9: &quot;וַיִּתֵּן אֱלֹהִים חָכְמָה לִשְׁלֹמֹה וּתְבוּנָה הַרְבֵּה מְאֹד וְרֹחַב לֵב כַּחוֹל אֲשֶׁר עַל שְׂפַת הַיָּם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-27 18:35:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>ישעיהו כח9: &quot;אֶת מִי יוֹרֶה דֵעָה וְאֶת מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם&quot;</p><p>יש לדעת ולהבין</p><p>מה אתה מרגיש וחש מכל מערכת החושים</p><p>וככל שאתה צדיק וקדוש ככה מערכת החושים נפתחת בהתאם ככה השמים נפתחים</p><p>רק זכור להיות נדיב לב עם יד פתוחה כי ככל שהיד פתוחה ככה השמים פתוחים</p><p>וזה החסד הגדול שעשה יהוה לבנו של דוד המלך היושב על כסאו [וְרֹחַב לֵב  = שמים פתוחים]</p><p>מלכים א ה9: &quot;וַיִּתֵּן אֱלֹהִים חָכְמָה לִשְׁלֹמֹה וּתְבוּנָה הַרְבֵּה מְאֹד וְרֹחַב לֵב כַּחוֹל אֲשֶׁר עַל שְׂפַת הַיָּם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-06-27 18:37:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-06-27 18:37:09' 
+			WHERE messageid=7915;
+
