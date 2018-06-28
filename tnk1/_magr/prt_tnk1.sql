@@ -25,3 +25,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `m` = 'אראל', `tarik_hosfa` = '2018-04-03 17:05:20' WHERE `qod` = 'מבנה שמות יב' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2018-06-24 00:41:56' WHERE `qod` = 'ביאור:דברים כב8' AND 1 LIMIT 1;
+
