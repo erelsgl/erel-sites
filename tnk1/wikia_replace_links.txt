@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-06-18 05:27:38
+# This file was automatically generated at 2018-06-29 15:08:12
 
 sub wikia_replace_links {
 $_=shift;
@@ -1192,6 +1192,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-20-17|[[ביאור:גילוי עריות - חס�
 s|${OPENLINK}tnk1/tora/wyqra/wy-20|[[ביאור:ויקרא כ - עונשים בסדר יורד|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19_h|[[ביאור:ויקרא יט בראי הסימטריה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-29|[[ביאור:אל תחלל את בתך להזנותה, ולא תזנה הארץ|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-19-19|[[ביאור:מה זה כלאיים?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-18-xyim|[[ביאור:ואהבת לרעך כמוך - למי בדיוק צריך לאהוב?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-17|[[ביאור:לא תשנא - הוכח תוכיח|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-1516|[[ביאור:כל אחד הוא שופט|ig;
@@ -1479,6 +1480,7 @@ s|${OPENLINK}tnk1/tora/dvrim/hjoftim_whegla_harufa|[[ביאור:השופטים �
 s|${OPENLINK}tnk1/tora/dvrim/hfrka|[[ביאור:זיהוי נביא - מבחן ההפרכה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/guf|[[ביאור:מצוות בגוף שני ומצוות בגוף שלישי|ig;
 s|${OPENLINK}tnk1/tora/dvrim/geula_tokatly|[[ביאור:שלבים בגאולה|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm09|[[ביאור:מבנה דברים ט|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-bnnun|[[ביאור:קריאת שמע - התמצית של דברים ה-יא|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-33-0811|[[ביאור:ברכת משה לשבט לוי|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-33-08|[[ביאור:ברכת משה לאהרן|ig;
@@ -1523,6 +1525,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-23-06|[[ביאור:הקללה שהפכה לבר�
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-29|[[ביאור:עונשם של אנסים בתורה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-2327-aq|[[ביאור:נערה מאורשה - פיתוי ואונס|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-2324|[[ביאור:מדוע בתולה שאינה צועקת בעיר, אינה נחשבת לאנוסה?|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-22-11|[[ביאור:טעמי איסור לבישת שעטנז|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-09|[[ביאור:פן תקדש המלאה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-0607|[[ביאור:מצוות שילוח הקן - טעמים שונים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-05-normot|[[ביאור:האם נורמות הלבוש משפיעות על המצוה?|ig;
@@ -8040,7 +8043,11 @@ s|${OPENLINK}tnk1/messages/forums_106|[[ביאור:'הכוהנים בפתח או
 s|${OPENLINK}tnk1/messages/forums_105|[[ביאור:פרשת צו - אבן יסוד לחינוך העולם|ig;
 s|${OPENLINK}tnk1/messages/forums_104|[[ביאור:'ויקרא אל משה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_103|[[ביאור:פרשת ויקרא - משמעות האות אלף הזעירא|ig;
+s|${OPENLINK}tnk1/messages/forums_1020|[[ביאור:' בלעם ותגליתו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_102|[[ביאור:'קורבן פסח' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1019|[[ביאור: פרשת בלק - מי היה בלעם ומה גילה על עם ישראל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1018|[[ביאור:'שליחת נחשים בעם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1017|[[ביאור: פרשת חוקת - מדוע נענשו ישראל במכת הנחשים?|ig;
 s|${OPENLINK}tnk1/messages/forums_1016|[[ביאור:'קורח ומחלוקתו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1015|[[ביאור:פרשת קורח - מה היה המניע למחלוקת קורח?|ig;
 s|${OPENLINK}tnk1/messages/forums_1014|[[ביאור:'המקושש' - שיר מאת אהובה קליין (c)|ig;
@@ -8647,6 +8654,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-37-07|[[ביאור:דום לה' והתחולל �
 s|${OPENLINK}tnk1/ktuv/thlim/th-36-10|[[ביאור:כי עמך מקור חיים, באורך נראה אור|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-36-0607|[[ביאור:חסד ה' - תגובה לנאום פשע|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-36-0203|[[ביאור:הרשע שבתוך הלב|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-35-15|[[ביאור:נאספו עליי נכים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-34-1214|[[ביאור:דיבורי יראת ה'|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-33-22|[[ביאור:יהי חסדך ה' עלינו, כאשר ייחלנו לך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-32-0102|[[ביאור:מותר להסתיר חטאים בין אדם למקום כשלא מתגאים|ig;

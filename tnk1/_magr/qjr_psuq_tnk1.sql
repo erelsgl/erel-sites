@@ -188,3 +188,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קריעה מטאפורית' AND `sfr` = 'תהל' AND `prq0` = 'לה' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2018-06-29 15:01:03' WHERE `bn` = 'ביאור:במדבר כב12' AND `sfr` = 'במד' AND `prq0` = 'כב' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
