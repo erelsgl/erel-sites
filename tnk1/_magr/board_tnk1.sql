@@ -8089,3 +8089,11 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/messages/forums_1017.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 03:50:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
