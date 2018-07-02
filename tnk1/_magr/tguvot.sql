@@ -6602,3 +6602,122 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/akpt.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-01 10:16:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-01 10:16:11' 
+			WHERE messageid=7918;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/akpt.html',
+		'<p>בלעם הקוסם כן קלל אבל אלהים לא שמע בקולו והפך הקללה לברכה וכן כתוב בתורה</p><p>דברים כג6: &quot;וְלֹא אָבָה יהוה אֱלֹהֶיךָ לִשְׁמֹעַ אֶל בִּלְעָם וַיַּהֲפֹךְ יהוה אֱלֹהֶיךָ לְּךָ אֶת הַקְּלָלָה לִבְרָכָה כִּי אֲהֵבְךָ יהוה אֱלֹהֶיךָ&quot; </p><p>נחמיה יג2: &quot;כִּי לֹא קִדְּמוּ אֶת בְּנֵי יִשְׂרָאֵל בַּלֶּחֶם וּבַמָּיִם וַיִּשְׂכֹּר עָלָיו אֶת בִּלְעָם לְקַלְלוֹ וַיַּהֲפֹךְ אֱלֹהֵינוּ הַקְּלָלָה לִבְרָכָה&quot;</p><p>-</p><p>יהושע כד9: &quot;וַיָּקָם בָּלָק בֶּן צִפּוֹר מֶלֶךְ מוֹאָב וַיִּלָּחֶם בְּיִשְׂרָאֵל וַיִּשְׁלַח וַיִּקְרָא לְבִלְעָם בֶּן בְּעוֹר לְקַלֵּל אֶתְכֶם&quot;</p><p>יהושע כד10: &quot;וְלֹא אָבִיתִי לִשְׁמֹעַ לְבִלְעָם וַיְבָרֶךְ בָּרוֹךְ אֶתְכֶם וָאַצִּל אֶתְכֶם מִיָּדוֹ&quot;</p><p>-------------</p><p> במדבר לא8: &quot;וְאֶת מַלְכֵי מִדְיָן הָרְגוּ עַל חַלְלֵיהֶם אֶת אֱוִי וְאֶת רֶקֶם וְאֶת צוּר וְאֶת חוּר וְאֶת רֶבַע חֲמֵשֶׁת מַלְכֵי מִדְיָן </p><p>וְאֶת בִּלְעָם בֶּן בְּעוֹר הָרְגוּ בֶּחָרֶב&quot;</p><p>יהושע יג22: &quot;וְאֶת בִּלְעָם בֶּן בְּעוֹר הַקּוֹסֵם הָרְגוּ בְנֵי יִשְׂרָאֵל בַּחֶרֶב אֶל חַלְלֵיהֶם&quot;</p><p>בִּלְעָם בֶּן בְּעוֹר הַקּוֹסֵם ---  כי לקח קסמים וחומרי כישוף ומאגיה לקלל את ישראל לכן בני ישראל הרגו אותו בחרב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-01 10:39:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-01 10:40:20' 
+			WHERE messageid=7919;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-09-17.html',
+		'<p>ומדוע קראת ללוחות &quot;מרחפים&quot;</p><p>הלוחות לא ריחפו זו אגדה של רבני חזל </p><p>הלא את ארון הברית אשר בו נמצאים לוחות האבן יש לשאת במוטות כאשר נשאו הלוים</p><p>שמואל ב ו13: &quot;וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן יהוה ------------ שִׁשָּׁה צְעָדִים וַיִּזְבַּח שׁוֹר וּמְרִיא&quot;</p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-01 11:06:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-09-17.html',
+		'<p>ומדוע קראת ללוחות &quot;מרחפים&quot;</p><p>הלוחות לא ריחפו זו אגדה של רבני חזל</p><p>הלא את ארון הברית אשר בו נמצאים לוחות האבן יש לשאת במוטות כאשר נשאו הלוים</p><p>שמואל ב ו13: &quot;וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן יהוה שִׁשָּׁה צְעָדִים ------------- וַיִּזְבַּח שׁוֹר וּמְרִיא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-01 11:07:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-01 11:07:28' 
+			WHERE messageid=7920;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-09-17.html',
+		'<p>ומדוע קראת ללוחות &quot;מרחפים&quot;</p><p>הלוחות לא ריחפו זו אגדה של רבני חזל</p><p>הלא את ארון הברית אשר בו נמצאים לוחות האבן יש לשאת במוטות כאשר נשאו הלוים</p><p> </p><p>דברים י8: &quot;בָּעֵת הַהִוא הִבְדִּיל ה\' אֶת שֵׁבֶט הַלֵּוִי לָשֵׂאת אֶת אֲרוֹן בְּרִית ה\' לַעֲמֹד לִפְנֵי ה\' לְשָׁרְתוֹ וּלְבָרֵךְ בִּשְׁמוֹ עַד הַיּוֹם הַזֶּה&quot;</p><p>שמואל ב ו13: &quot;וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן יהוה שִׁשָּׁה צְעָדִים ------------- וַיִּזְבַּח שׁוֹר וּמְרִיא&quot;</p><p>דברי הימים א טו2: &quot;אָז אָמַר דָּוִיד לֹא לָשֵׂאת אֶת אֲרוֹן הָאֱלֹהִים כִּי אִם הַלְוִיִּם כִּי בָם בָּחַר ה\' לָשֵׂאת אֶת אֲרוֹן ה\' וּלְשָׁרְתוֹ עַד עוֹלָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-01 11:10:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-01 11:11:11' 
+			WHERE messageid=7921;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-09-17.html',
+		'<p>ומדוע קראת ללוחות &quot;מרחפים&quot;</p><p>הלוחות לא ריחפו זו אגדה של רבני חזל</p><p>הלא את ארון הברית אשר בו נמצאים לוחות האבן יש לשאת במוטות כאשר נשאו הלוים</p><p>דברים י8: &quot;בָּעֵת הַהִוא הִבְדִּיל יהוה אֶת שֵׁבֶט הַלֵּוִי לָשֵׂאת אֶת אֲרוֹן בְּרִית יהוה לַעֲמֹד לִפְנֵי יהוה לְשָׁרְתוֹ וּלְבָרֵךְ בִּשְׁמוֹ עַד הַיּוֹם הַזֶּה&quot;</p><p>שמואל ב ו13: &quot;וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן יהוה שִׁשָּׁה צְעָדִים ------------- וַיִּזְבַּח שׁוֹר וּמְרִיא&quot;</p><p>דברי הימים א טו2: &quot;אָז אָמַר דָּוִיד לֹא לָשֵׂאת אֶת אֲרוֹן הָאֱלֹהִים כִּי אִם הַלְוִיִּם כִּי בָם בָּחַר יהוה לָשֵׂאת אֶת אֲרוֹן יהוה וּלְשָׁרְתוֹ עַד עוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-01 11:12:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-01 11:12:08' 
+			WHERE messageid=7922;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-09-17.html',
+		'<p>הפסוקים שהבאת מתייחסים ללוחות השניים.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-01 11:27:41'
+		)
+		;
+

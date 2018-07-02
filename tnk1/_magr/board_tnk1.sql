@@ -8097,3 +8097,98 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 10:16:10'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/akpt.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/lwx.html',
+				'tnk1/tora/dvrim/dm-09-17.html',
+				NULL,
+				'2018-07-01 10:35:46',
+				'2018-07-01 10:35:46',
+				'לוחות הברית המרחפים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 10:39:27'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/akpt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 11:06:34'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 11:07:24'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 11:10:57'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 11:12:06'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-01 11:27:41'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4axryut1.html',
+				'tnk1/tora/bmdbr/bm-25-06.html',
+				NULL,
+				'2018-07-01 12:10:21',
+				'2018-07-01 12:10:21',
+				'והמה בוכים פתח אוהל מועד',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-07-01 12:10:21'
+			WHERE ktovt_bn='tnk1/msr/4axryut1.html';
+
