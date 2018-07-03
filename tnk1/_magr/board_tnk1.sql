@@ -8192,3 +8192,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-07-01 12:10:21'
 			WHERE ktovt_bn='tnk1/msr/4axryut1.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-02 18:49:59'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-02 23:31:00'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-03-14.html'
+		;
+
