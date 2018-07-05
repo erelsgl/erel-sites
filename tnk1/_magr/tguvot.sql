@@ -6757,3 +6757,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_limud_xipus_5.html',
+		'<p></p>',
+		'108203623639455013662',
+		'ענת נוב',
+		'2018-07-04 13:24:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/klli_limud_xipus_5.html',
+		'<p></p>',
+		'108203623639455013662',
+		'ענת נוב',
+		'2018-07-04 13:24:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvia_yrmyhu_qore_0.html',
+		'<p>יתכן שהקורא הוא כינוי לעורב (על פי קולו : קרא קרא) , והעורב אכן דוגר על ביצים של הקוקייה המצויצת</p><p>הקוקייה המצויצת. מטילה את הביצים שלה בקנים של עורבים, ו&quot;דואגת&quot; שהם ידגרו על הביצים ואחר כך יטפלו בגוזלים הבוקעים מהן. </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-07-04 14:55:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/qore.html',
+		'<p>יתכן שהקורא הוא כינוי לעורב (על פי קולו : קרא קרא) , והעורב אכן דוגר על ביצים של הקוקייה המצויצת</p><p>הקוקייה המצויצת. מטילה את הביצים שלה בקנים של עורבים, ו&quot;דואגת&quot; שהם ידגרו על הביצים ואחר כך יטפלו בגוזלים הבוקעים מהן. </p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-07-04 14:55:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לנוית בת אילה. שיהיה בשעה טובה</p>',
+		'108698266002199843109',
+		'Haim Shein',
+		'2018-07-05 03:20:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p></p><p>https://www.ynet.co.il/articles/0,7340,L-5304125,00.html</p><p>הרעידה הראשונה הייתה בשעה 04:50 שעון קיץ וגם ברעש הגדול הרעש יהיה בשעה זו</p><p>-------------------------------------------------------</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>   וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-05 05:06:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>https://images1.ynet.co.il//PicServer5/2018/07/04/8638338/2.jpg</p><p>הרעידה הראשונה הייתה בשעה 04:50 שעון קיץ וגם ברעש הגדול הרעש יהיה בשעה זו</p><p>-------------------------------------------------------</p><p>ביום ששי בליל שבת בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-05 05:07:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-05 05:07:46' 
+			WHERE messageid=7933;
+
