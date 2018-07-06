@@ -6848,3 +6848,65 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-05 05:07:46' 
 			WHERE messageid=7933;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>https://images1.ynet.co.il//PicServer5/2018/07/04/8638338/2.jpg</p><p>הרעידה הראשונה הייתה בשעה 04:50 שעון קיץ וגם ברעש הגדול הרעש יהיה בשעה זו</p><p>-------------------------------------------------------</p><p>ביום ששי בליל שבת לפנות-בֹקֶר בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-05 11:52:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-05 11:52:25' 
+			WHERE messageid=7934;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>https://images1.ynet.co.il//PicServer5/2018/07/04/8638338/2.jpg</p><p>הרעידה הראשונה הייתה בשעה 04:50 שעון קיץ וגם ברעש הגדול הרעש יהיה בשעה זו</p><p>----------------------------------------------------------------------------</p><p>ביום ששי בליל שבת לפנות-בֹקֶר בשעה 04:50 שעון קיץ</p><p>רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל [רעידת אדמה] רעש שמקורו מהים</p><p>וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ וּמוֹסְדֵי הָרִים יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-05 11:53:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-05 11:53:12' 
+			WHERE messageid=7935;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>תעיפו כבר את השרשור הדבילי הזה</p><p>את מי זה מעניין שפלמונית ילדה</p><p>הגעתם כבר למספר 60 בתגובות ואין לזה סוף</p><p>בראשית ג16: &quot;אֶל הָאִשָּׁה אָמַר הַרְבָּה אַרְבֶּה עִצְּבוֹנֵךְ וְהֵרֹנֵךְ בְּעֶצֶב תֵּלְדִי בָנִים וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל בָּךְ&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-05 19:22:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>ספר קהלת פרק ח כתוב:</p><p>(ו) כִּי לְכָל חֵפֶץ יֵשׁ עֵת וּמִשְׁפָּט כִּי רָעַת הָאָדָם רַבָּה עָלָיו:</p><p>ספר בראשית פרק ו כתוב:</p><p>(ה) וַיַּרְא יְהֹוָה כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ וְכָל יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע כָּל הַיּוֹם:</p><p>(ו) וַיִּנָּחֶם יְהֹוָה כִּי עָשָׂה אֶת הָאָדָם בָּאָרֶץ וַיִּתְעַצֵּב אֶל לִבּוֹ:</p><p>(ז) וַיֹּאמֶר יְהֹוָה אֶמְחֶה אֶת הָאָדָם אֲשֶׁר בָּרָאתִי מֵעַל פְּנֵי הָאֲדָמָה מֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמָיִם כִּי נִחַמְתִּי כִּי עֲשִׂיתִם:</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-06 04:06:04'
+		)
+		;
+
