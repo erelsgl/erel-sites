@@ -6922,3 +6922,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>אני מבקשת רפואה שלמה </p><p>לעובדיה בן רוזה אבא שלי </p><p>ותפילה חזקה לעילוי נשמת סוזי בת איבון חייה אמא שלי</p><p>ו</p>',
+		'100312429414800274989',
+		'עדי פרג',
+		'2018-07-08 00:20:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-08 05:26:16' 
+			WHERE messageid=7927;
+
