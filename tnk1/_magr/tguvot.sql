@@ -6941,3 +6941,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-08 05:26:16' 
 			WHERE messageid=7927;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p> </p><p>פה זה אתר הניווט בתנ&quot;ך</p><p>מי שרוצה להתפלל שילך לבית כנסת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-08 14:08:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-08 14:11:03' 
+			WHERE messageid=7941;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0107_2.html',
+		'<p>אם איש צדיק יראה איזה זקן שנפל</p><p>אז האיש הצדיק ימהר להרים אותו</p><p>גם אם הזקן שנפל לא יזעק לעזרה</p><p>---------------------------------------</p><p>ואתה האמן כי אם אלהים צדיק ויראה שאתה בצרה </p><p>הנה יעזרך גם אם לא תתפלל אליו</p><p>(יא) וַיֹּאמֶר יִשְׂרָאֵל אֶל-יוֹסֵף רְאֹה פָנֶיךָ לֹא פִלָּלְתִּי וְהִנֵּה הֶרְאָה אֹתִי אֱלֹהִים גַּם אֶת-זַרְעֶךָ</p><p>לכן כל מה שנדרש ממך זה להיות צדיק [זה הרבה יותר חשוב מתפילה]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-08 16:32:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0107_2.html',
+		'<p>אם איש צדיק יראה איזה זקן שנפל</p><p>אז האיש הצדיק ימהר להרים אותו</p><p>גם אם הזקן שנפל לא יזעק לעזרה</p><p>---------------------------------------</p><p>ככה הוא הדבר כי אם אלהים צדיק ויראה שאתה בצרה </p><p>הנה יעזרך גם אם לא תתפלל אליו</p><p>(יא) וַיֹּאמֶר יִשְׂרָאֵל אֶל-יוֹסֵף רְאֹה פָנֶיךָ לֹא פִלָּלְתִּי וְהִנֵּה הֶרְאָה אֹתִי אֱלֹהִים גַּם אֶת-זַרְעֶךָ</p><p>------------------------------------------------------------------------------------------------</p><p>ואתה האמן באלהים צדיק זה הרבה יותר חשוב מתפילה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-08 16:35:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-08 16:36:11' 
+			WHERE messageid=7942;
+
