@@ -6991,3 +6991,77 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-08 16:36:11' 
 			WHERE messageid=7942;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_36.html',
+		'<p>לפי פירושך, לא ברור מה היא ההלכה - מה זה בדיוק &quot;לא תחוס עינך&quot;?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-09 09:40:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>קהלת א13: &quot;וְנָתַתִּי אֶת לִבִּי לִדְרוֹשׁ וְלָתוּר בַּחָכְמָה עַל כָּל אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמָיִם הוּא עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ&quot;</p><p>******* וְלִגְדֻלָּתוֹ אֵין חֵקֶר --- אֵין חֵקֶר לִתְבוּנָתוֹ *******</p><p>לכן לנצח הרעה הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ</p><p>עד יום המות עד היום בו רואים את גדולתו ותבונתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-09 12:45:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>קהלת א13: &quot;וְנָתַתִּי אֶת לִבִּי לִדְרוֹשׁ וְלָתוּר בַּחָכְמָה עַל כָּל אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמָיִם הוּא עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ&quot;</p><p>******* וְלִגְדֻלָּתוֹ אֵין חֵקֶר --- אֵין חֵקֶר לִתְבוּנָתוֹ *******</p><p>לכן לנצח הרעה הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ</p><p>עד יום המות עד היום בו רואים את גדולתו ותבונתו</p><p>-------------------------------------------------------------</p><p>יהוה אלהים אחרי הודעתני זאת מה תנחמני</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-09 12:49:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-09 12:49:33' 
+			WHERE messageid=7945;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p></p><p>קהלת א13: &quot;וְנָתַתִּי אֶת לִבִּי לִדְרוֹשׁ וְלָתוּר בַּחָכְמָה עַל כָּל אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמָיִם הוּא עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ&quot;</p><p>******* וְלִגְדֻלָּתוֹ אֵין חֵקֶר --- אֵין חֵקֶר לִתְבוּנָתוֹ *******</p><p>לכן לנצח הרעה הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ</p><p>עד יום המות עד היום בו רואים גְדֻלָּתוֹ תְבוּנָתוֹ</p><p>---------------------------------------------------------------</p><p>יהוה אלהים אחרי הודעתני זאת מה תנחמני</p><p>האראה  גְדֻלָּתך תְבוּנָתך אם אחקור אין חקר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-09 13:13:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-09 13:13:19' 
+			WHERE messageid=7946;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_36.html',
+		'<p>באמת יש קושי בפסוק ...</p><p>אולי הכוונה לא לחוס על הגבר אף על פי שיש סכנה לאשכיו ולהמשך זרעו .</p><p>ואולי ההפך הגמור ! לא לחוס על האישה אף על פי שהיא מגנה על בעלה בכל כוחה ! אלא שבמקום לפרש שהכוונה היא בלקצץ את ידה , נפרש שהכוונה היא בכל דרך כלומר בדרך פחות \'אכזרית\' מלכרות את היד.</p><p>כמובן שיכול להיות שאני טועה פשוט תמוה לי הניסוח של הפסוק וגם אני לא מבין מדוע &quot;וקצתה&quot; מתפרש כלקצוץ ..</p>',
+		'112528711781981336347',
+		'אסף מלול',
+		'2018-07-09 21:39:47'
+		)
+		;
+
