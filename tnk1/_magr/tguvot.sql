@@ -7144,3 +7144,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>שמואל א כח6: &quot;וַיִּשְׁאַל שָׁאוּל ביהוה וְלֹא עָנָהוּ יהוה גַּם בַּחֲלֹמוֹת גַּם בָּאוּרִים גַּם בַּנְּבִיאִם&quot;</p><p>שלושה דרכים למענה אלהים</p><p>גַּם בַּחֲלֹמוֹת </p><p>גַּם בָּאוּרִים </p><p>גַּם בַּנְּבִיאִם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-11 15:36:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>שמואל א כח6: &quot;וַיִּשְׁאַל שָׁאוּל ביהוה וְלֹא עָנָהוּ יהוה גַּם בַּחֲלֹמוֹת גַּם בָּאוּרִים גַּם בַּנְּבִיאִם&quot;</p><p>שלושה דרכים למענה אלהים</p><p>1.גַּם בַּחֲלֹמוֹת</p><p>בראשית כ3: &quot;וַיָּבֹא אֱלֹהִים אֶל אֲבִימֶלֶךְ בַּחֲלוֹם הַלָּיְלָה</p><p>בראשית לא24: &quot;וַיָּבֹא אֱלֹהִים אֶל לָבָן הָאֲרַמִּי בַּחֲלֹם הַלָּיְלָה</p><p>בראשית מו2: &quot;וַיֹּאמֶר אֱלֹהִים לְיִשְׂרָאֵל בְּמַרְאֹת הַלַּיְלָה</p><p>2. גַּם בָּאוּרִים</p><p>האורים הם המאורות של הכהן כשמש וירח</p><p>3.גַּם בַּנְּבִיאִם</p><p>אלה הם הרואים [המתקשרים] והחוזים בעלי החזון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-11 16:30:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-11 16:31:35' 
+			WHERE messageid=7955;
+
