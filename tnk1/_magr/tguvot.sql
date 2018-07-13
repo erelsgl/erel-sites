@@ -7175,3 +7175,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-11 16:31:35' 
 			WHERE messageid=7955;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/na_dorot.html',
+		'<p>דברים יג2: &quot;כִּי יָקוּם בְּקִרְבְּךָ נָבִיא אוֹ חֹלֵם חֲלוֹם וְנָתַן אֵלֶיךָ אוֹת אוֹ מוֹפֵת&quot;</p><p>שמואל א יב17: &quot;הֲלוֹא קְצִיר חִטִּים הַיּוֹם אֶקְרָא אֶל יהוה וְיִתֵּן קֹלוֹת וּמָטָר וּדְעוּ וּרְאוּ כִּי רָעַתְכֶם רַבָּה אֲשֶׁר עֲשִׂיתֶם בְּעֵינֵי יהוה לִשְׁאוֹל לָכֶם מֶלֶךְ&quot;</p><p>------------------</p><p>לכן נביא אשר דבריו נאמנים כן עליו לעשות אות ומופת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-12 13:59:42'
+		)
+		;
+
