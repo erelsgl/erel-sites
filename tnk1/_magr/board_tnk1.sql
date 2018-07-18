@@ -8763,3 +8763,65 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0618_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-17 15:48:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-17 16:34:18'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-16-0506.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1025.html',
+				NULL,
+				'2018-07-17 16:59:22',
+				'2018-07-17 16:59:22',
+				'פרשת דברים- הר שעיר- ירושה למי?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-07-17 16:59:22'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/fierce_anger.docx',
+				NULL,
+				'2018-07-18 00:26:41',
+				'2018-07-18 00:26:41',
+				'Fierce anger',
+				'אבנר רמו',
+				'avnerramu @ aol.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-07-18 00:26:41'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
