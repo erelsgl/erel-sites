@@ -7624,3 +7624,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-20 07:13:21' 
 			WHERE messageid=7986;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>המושב זקנים בפרשת בראשית פרק ה\' פסוק כד אומר: . &quot;תימה למה לקח חנוך יותר מכל הצדיקים מנח ומאברהם ומהשאר, וי&quot;ל לפי שהשביעיות חביבים עליו, וחנוך היה שביעי לבריאת העולם, אדם שת אנוש קינן מהללאל ירד חנוך. וכן אליהו היה כמו כן שביעי. וכן משה היה שביעי לאברהם כתיב ביה (שמות יט ג) וּמֹשֶׁה עָלָה אֶל הָאֱלֹהִים&quot;.</p><p>מה כוונתו שאליהו היה שביעי, שביעי למה?</p>',
+		'115831312359675136989',
+		'Israel sooperman',
+		'2018-07-20 12:53:39'
+		)
+		;
+
