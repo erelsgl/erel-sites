@@ -7748,3 +7748,120 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-22 04:07:40' 
 			WHERE messageid=7994;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-06.html',
+		'<p>עוד על חובת התוכחה:  http://www.daat.ac.il/daat/tanach/achronim/yehezkel7a-4.htm</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-22 12:35:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-06.html',
+		'<p>עוד על חובת התוכחה, מתוך: http://www.daat.ac.il/daat/tanach/achronim/yehezkel7a-4.htm</p><p>&quot;הנביא יחזקאל מתלבט הרבה בשאלת האחריות של מנהיגי העם למעשי ההמון. נבואות הצופה של פרק ג\' הן דוגמה לבעיה שהנביא מתלבט בה: האם יש ערך לדברי הנביא אם הוא יודע כי לא ישמעו לדבריו? ובפרק ג התשובה היא &quot;ואתה כי הזהרת רשע ולא שב מרשעו ומדרכו הרשעה, הוא בעונו ימות, ואתה את נפשך הצלת&quot; [ג יט]. כאילו כל תפקידו של הנביא להציל את נפשו. והדבר חוזר בהמשך הפרק: &quot;ובדברי אותך אפתח את פיך, ואמרת אליהם כה אמר ה\' אלקים. השומע ישמע והחדל יחדל כי בית מרי המה&quot; [ג כז].</p><p>העניין הוא, כמובן, עמוק הרבה יותר. לא את נפשו צריך הנביא להציל, אלא את נפש העם. כאשר הנביא אומר את דבר ה\' לעם, והעם מסרב לשמוע, ונענש, בכל זאת קידם הנביא את העם לדרגה גבוהה מזו שהיה בה קודם: הפך אותו מעדר נסחף, לעם המחליט החלטות. החוטא מתוך בחירה והחלטה עדיף על זה שאינו מחליט ואינו חושב, ואינו אדם. והדבר מובן: זה שחוטא מתוך מחשבה, יכול לחשוב גם אחרת. זה שחוטא מתוך היגררות - אינו חושב ואינו משנה את מחשבתו.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-22 12:36:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-06.html',
+		'<p> וַיֵּלְכוּ בְלֹא כֹחַ לִפְנֵי רוֹדֵף --- לאמור לא יכלו להתגבר על יצר הרע על תאוותם שרדפה אותם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-22 13:35:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-06.html',
+		'<p>וַיֵּלְכוּ בְלֹא כֹחַ לִפְנֵי רוֹדֵף --- לאמור לא יכלו להתגבר על יצר הרע על תאוותם שרדפה אותם ואכלה אותם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-22 13:36:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-22 13:37:01' 
+			WHERE messageid=7998;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-09-06.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-22 13:51:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-22 13:51:42' 
+			WHERE messageid=8000;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-22 13:52:47' 
+			WHERE messageid=7996;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-03-1619.html',
+		'<p>זה מה שעשיתי לפני כמה שנים</p><p>שלחתי מכתב הזהרה לרה&quot;מ דרך שרת המשפטים איילת שקד</p><p>ובמכתב הזהרתי מפני חורבן פיסי שיבוא בגלל החורבן הרוחני</p><p>כיום נוכח גל רעידות האדמה בכנרת כולם כבר יודעים כי זו רק שאלה של זמן מתי יבוא הרעש הגדול ואכן בוא יבוא</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-22 14:25:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-03-1619.html',
+		'<p>אספר לך מה כתבתי לפני טרור הסכינים שהחל בירושלים לפני כמה שנים</p><p>וזה המכתב שכתבתי למשרד ר&quot;המ</p><p>---</p><p>אם זעם יהוה עליכם הלא אזעם גם אני עליכם ובעממית &quot;בא לי לרצוח אתכם&quot;</p><p>אבל אני איש תורת אלהים ודעת יהוה עמי ותורת משה נגד עיני וכי כתוב לא תרצח ואני קדוש ולא מרצח</p><p>אבל אגיד לך מה אלהים עושה עם הזעם הזה שלי ואיכה מנתב אותו</p><p>אלהים לוקח את זעמי ומלביש אותו על אויבי המדינה על איש חסר דעת אשר לא ישלוט ברוחו כמו ערבי טרוריסט וכמו האנטישמים ויעשו לכם צרות רעות ורבות עם הזעם שלי ואתם תמשיכו לעשות פוזות של צדיקים ותצעקו אנטישמיות אנטישמיות נראה לאן תגיעו</p><p>הלא הפכתם את מדינת ישראל לסדום ועמורה ומה חשבתם להשאר בארץ הזאת לא תשארו פה כי הארץ תקיא אתכם מפה</p><p>וככל שתעשו רע לעניים ואביונים שבעת אנשי יהוה הנביא הכהן הלוי העני הגר היתום והאלמנה כי אל לה מנה מנת אוכל</p><p>גם הגוים יתעללו בכם</p><p>כי ליהוה המלוכה ומשל בגוים  </p><p>-------------------------------------</p><p>בעקבות המכתב הקשה שלחו לי שוטרים הביתה החרימו לי את המחשב ולקחו אותו לבדיקה</p><p> ואותי שלחו &quot;להסתכלות&quot; באחד מבתי החולים בארץ ואלצו אותי להביע חרטה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-22 15:41:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-03-1619.html',
+		'<p>. התקיים בך הפסוק בהושע ט7: &quot;בָּאוּ יְמֵי הַפְּקֻדָּה בָּאוּ יְמֵי הַשִׁלֻּם יֵדְעוּ יִשְׂרָאֵל אֱוִיל הַנָּבִיא מְשֻׁגָּע אִישׁ הָרוּחַ עַל רֹב עונך וְרַבָּה מַשְׂטֵמָה&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-07-22 18:34:15'
+		)
+		;
+

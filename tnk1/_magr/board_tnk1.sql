@@ -8992,3 +8992,119 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ayl3.html',
+				'tnk1/ktuv/mgilot/ei-01-06.html',
+				NULL,
+				'2018-07-22 09:57:44',
+				'2018-07-22 09:57:44',
+				'גדולי ישראל העלימו עין מעבירות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 12:35:24'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 12:36:10'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 13:35:04'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 13:36:59'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-01-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 13:51:40'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-09-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `sug` = '׳“׳™׳•׳1', `m` = '׳׳¨׳׳' WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/nvia/yxzqel/yx-09-06.html' AND 1 LIMIT 1;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/cph1.html',
+				'tnk1/nvia/yxzqel/yx-03-1619.html',
+				NULL,
+				'2018-07-22 14:01:49',
+				'2018-07-22 14:01:49',
+				'הצופה צריך להזהיר את הרשע גם אם לא ישמע',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 14:25:36'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-03-1619.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/22___al_kmw_rmym_mqdjw.pdf',
+				NULL,
+				'2018-07-22 14:56:03',
+				'2018-07-22 14:56:03',
+				'המספר 22 = אל כמו רמים מקדשו',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 15:41:06'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-03-1619.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-22 18:34:15'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-03-1619.html'
+		;
+

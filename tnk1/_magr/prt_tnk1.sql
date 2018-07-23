@@ -37,3 +37,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'מדוע היה אכפת לה\' אם בלעם מקלל או מברך?', `tarik_hosfa` = '2018-06-29 15:00:39' WHERE `qod` = 'ביאור:במדבר כב12' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `m` = 'אראל', `tarik_hosfa` = '2018-07-22 12:31:37' WHERE `qod` = 'ביאור:יחזקאל ט6' AND 1 LIMIT 1;
+

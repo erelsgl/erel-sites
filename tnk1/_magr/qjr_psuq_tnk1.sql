@@ -192,3 +192,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2018-06-29 15:01:03' WHERE `bn` = 'ביאור:במדבר כב12' AND `sfr` = 'במד' AND `prq0` = 'כב' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `tarik_hosfa` = '2018-07-22 12:31:04' WHERE `bn` = 'ביאור:יחזקאל ט6' AND `sfr` = 'יחז' AND `prq0` = 'ט' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-07-22 12:31:04' WHERE `bn` = 'ביאור:יחזקאל ט6' AND `sfr` = 'יחז' AND `prq0` = 'ח' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
