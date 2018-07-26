@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-06-29 15:08:12
+# This file was automatically generated at 2018-07-26 04:57:40
 
 sub wikia_replace_links {
 $_=shift;
