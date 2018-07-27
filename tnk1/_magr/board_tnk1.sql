@@ -9257,3 +9257,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-07-26 04:45:08'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/swears_to_his_fellow.docx',
+				NULL,
+				'2018-07-26 20:06:19',
+				'2018-07-26 20:06:19',
+				'Swears to his fellow',
+				'абрш шое',
+				'avnerramu @ aol.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-07-26 20:06:19'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-27 03:54:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+

@@ -7992,3 +7992,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-26 17:35:33' 
+			WHERE messageid=8004;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>משלי ל16: &quot;שְׁאוֹל וְעֹצֶר רָחַם אֶרֶץ לֹא שָׂבְעָה מַּיִם וְאֵשׁ לֹא אָמְרָה הוֹן&quot; ---------- ובעממית: לאכזריות אין גבול</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-27 03:54:34'
+		)
+		;
+
