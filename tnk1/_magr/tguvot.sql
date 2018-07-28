@@ -7932,3 +7932,82 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p></p>',
+		'110961231284825487511',
+		'hagai tahabash',
+		'2018-07-25 14:36:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה של 6000 שח אשמח אם תעזרו לי 0547221909</p>',
+		'110961231284825487511',
+		'hagai tahabash',
+		'2018-07-25 14:37:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה של 6000 שח אשמח אם תעזרו לי 0547221909</p>',
+		'110961231284825487511',
+		'hagai tahabash',
+		'2018-07-25 14:37:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוק להלוואה של 6000 שח אשמח אם תעזרו לי 0547221909</p>',
+		'110961231284825487511',
+		'hagai tahabash',
+		'2018-07-25 14:38:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בראשית ב1: &quot;וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם&quot;</p><p>בראשית ב2: &quot;וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה&quot;</p><p>בראשית ב3: &quot;וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכָּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת&quot;</p><p>---------------</p><p>יום השבת הוא אוניברסלי וגם הגוים מחוייבים לשמור את יום השבת ואמנם הנוצרים שובתים ביום ראשון</p><p>אך ההבדל הוא בין הגוים לבין בני ישראל כי בני ישראל מחוייבים לשמור גם את שבת הארץ שנת השמיטה</p><p>לנטוש את השנה השביעית היא שנת השבע שנת השמיטה כל שבע שנים</p><p>שמות כג11: &quot;וְהַשְּׁבִיעִת תִּשְׁמְטֶנָּה וּנְטַשְׁתָּהּ וְאָכְלוּ אֶבְיֹנֵי עַמֶּךָ וְיִתְרָם תֹּאכַל חַיַּת הַשָּׂדֶה כֵּן תַּעֲשֶׂה לְכַרְמְךָ לְזֵיתֶךָ&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-25 16:37:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-07-26 17:35:33' 
+			WHERE messageid=8004;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>משלי ל16: &quot;שְׁאוֹל וְעֹצֶר רָחַם אֶרֶץ לֹא שָׂבְעָה מַּיִם וְאֵשׁ לֹא אָמְרָה הוֹן&quot; ---------- ובעממית: לאכזריות אין גבול</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-07-27 03:54:34'
+		)
+		;
+
