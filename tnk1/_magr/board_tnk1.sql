@@ -9288,3 +9288,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/dates_in_the_book_ofezekiel.docx',
+				NULL,
+				'2018-07-28 22:03:23',
+				'2018-07-28 22:03:23',
+				'Dates in the Book ofEzekiel',
+				'абрш шое',
+				'avnerramu @ aol.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-07-28 22:03:23'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
