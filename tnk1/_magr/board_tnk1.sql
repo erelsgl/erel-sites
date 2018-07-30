@@ -9311,3 +9311,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-07-28 22:03:23'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-29 16:15:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-07-29 18:11:54'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
