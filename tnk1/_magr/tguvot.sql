@@ -8104,3 +8104,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-30 16:42:52' 
 			WHERE messageid=8018;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5868.html',
+		'<p>אתם רוצה לומר שיש שני צפת, צפת בצפון וצפת בדרום?</p>',
+		'115831312359675136989',
+		'Israel sooperman',
+		'2018-07-31 08:31:21'
+		)
+		;
+
