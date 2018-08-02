@@ -9413,3 +9413,39 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-08-01 04:42:21'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-01 16:48:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-01 18:13:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-02 06:22:21'
+		WHERE ktovt_bn='tnk1/tora/jmot/kbd_et.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `m` = 'אראל', `l` = NULL WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/tora/jmot/kbd_et.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-02 06:26:01'
+		WHERE ktovt_bn='tnk1/tora/jmot/kbd_et.html'
+		;
+
