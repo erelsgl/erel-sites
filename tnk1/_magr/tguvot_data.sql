@@ -5015,3 +5015,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/jmot/kbd_et.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/kbd_et.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-08-02 16:53:22'
+		WHERE parent='tnk1/tora/jmot/kbd_et.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/thlim/th-19-0205.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-08-02 19:23:41'
+		WHERE parent='tnk1/ktuv/thlim/th-19-0205.html'
+		;
+

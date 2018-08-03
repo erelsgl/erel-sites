@@ -8171,3 +8171,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/kbd_et.html',
+		'<p>מאמר טוב אלמונית יקרה</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-08-02 16:53:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-19-0205.html',
+		'<p>תהלים יט2: &quot;הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל וּמַעֲשֵׂה יָדָיו מַגִּיד הָרָקִיעַ&quot; ---------- על זה מיוסדת האסטרולוגיה</p><p>האסטרולוגיה מגידה את מעשי ידי אלהים דרך אופן הצגת גרמי השמים --- שמש ירח כוכבים ומזלות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-02 19:23:41'
+		)
+		;
+

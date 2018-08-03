@@ -9449,3 +9449,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/kbd_et.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-02 16:53:22'
+		WHERE ktovt_bn='tnk1/tora/jmot/kbd_et.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-02 19:23:41'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-19-0205.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/balaam_and_the_snakes.docx',
+				NULL,
+				'2018-08-02 21:42:41',
+				'2018-08-02 21:42:41',
+				'Balaam and the snakes',
+				'абрш шое',
+				'avnerramu @ aol.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-08-02 21:42:41'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
