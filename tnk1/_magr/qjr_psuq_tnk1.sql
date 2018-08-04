@@ -200,3 +200,51 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'כלל', `tarik_hosfa` = '2018-07-22 12:31:04' WHERE `bn` = 'ביאור:יחזקאל ט6' AND `sfr` = 'יחז' AND `prq0` = 'ח' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אב ואם בספר משלי' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ארבעה פרקים מקבילים' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 10, `psuq1` = 10, `tarik_hosfa` = '2018-08-03 14:53:06' WHERE `bn` = 'השבת בספר ירמיהו' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת לך לך - להתנתק מהשורשים ולהתחיל דרך חדשה' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חיוב חיי העולם הזה (ניטשה)' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כיבוד אב ואם (ואהבה) בימינו' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חושך שבטו שונא בנו - ו\"שיקום הסמכות ההורית\"' AND `sfr` = 'שמת' AND `prq0` = 'כ' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'יעקב נאבק עם אלילים' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'יעקב או לא יעקב' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'יעקב הפך לישר' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שלושה סוגים של שינויי שמות' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'עם אלהים - ועם אנשים' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
+

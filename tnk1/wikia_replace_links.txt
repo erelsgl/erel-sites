@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-07-26 04:57:40
+# This file was automatically generated at 2018-08-03 15:31:25
 
 sub wikia_replace_links {
 $_=shift;
@@ -1570,6 +1570,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-11-1315|[[ביאור:לשתף את ה' באהב�
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-12|[[ביאור:להסתכל רק על ארץ ישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-10-17|[[ביאור:ה' לא לוקח שוחד|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-21|[[ביאור:הנחל היורד מן ההר|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-09-17|[[ביאור:לוחות הברית המרחפים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-1517|[[ביאור:לוחות מרחפים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-0405|[[ביאור:מדוע זכו ישראל לרשת את ארצם של הכנענים?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09|[[ביאור:דברים ט-י|ig;
@@ -1717,6 +1718,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-36|[[ביאור:מבנה בראשית לו|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-35-08|[[ביאור:דבורה מינקת רבקה - סיכום|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-34-30|[[ביאור:עכרתם אותי|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-34|[[ביאור:מאמרים על מלחמתם של שמעון ולוי באנשי שכם כנקמה על אונס דינה|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-32-29|[[ביאור:בן ישראל יכול להתגבר על כל נטיה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-25.jpg|[[ביאור:בר לב 25|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-22|[[ביאור:ותעבור המנחה על פניו|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-08|[[ביאור:פחדיו של יעקב|ig;
@@ -1895,6 +1897,7 @@ s|${OPENLINK}tnk1/tora/bmdbr/bm-26-5355|[[ביאור:ליוצאי מצרים נ�
 s|${OPENLINK}tnk1/tora/bmdbr/bm-26-5253|[[ביאור:לאלה תחלק הארץ בנחלה|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-26-49|[[ביאור:ליצר - משפחת היצרי, לשילם - משפחת השילמי|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-25-yldim|[[ביאור:במדבר כה לילדים|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-25-06|[[ביאור:והמה בוכים פתח אוהל מועד|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-yldim|[[ביאור:במדבר כד לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-24-0104|[[ביאור:בלעם פוקח את עיניו|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-23-yldim|[[ביאור:במדבר כג לילדים|ig;
@@ -3046,6 +3049,7 @@ s|${OPENLINK}tnk1/nvia/yxzqel/yx-08-12|[[ביאור:יחזקאל בחדר הסו
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-08-0712|[[ביאור:יחזקאל בחדר הסודות (1)|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-07-13|[[ביאור:המוכר אל הממכר לא ישוב?!|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-04-04|[[ביאור:הנביא יחזקאל נושא את עוון ישראל|ig;
+s|${OPENLINK}tnk1/nvia/yxzqel/yx-03-1619|[[ביאור:הצופה צריך להזהיר את הרשע גם אם לא ישמע|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-03|[[ביאור:מה קורה למי שמתרשל בתפקידו|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yx-02-10|[[ביאור:קינים והגה והי|ig;
 s|${OPENLINK}tnk1/nvia/yxzqel/yt-mlk_cor|[[ביאור:היפים והתנכיים - מלך צור; ופינת הדרכה|ig;
@@ -3873,6 +3877,7 @@ s|${OPENLINK}tnk1/messages/the_book_of_covenant_and_the_ark_of_witness.pdf|[[ב�
 s|${OPENLINK}tnk1/messages/the_battle_of_jericho.pdf|[[ביאור:The battle of Jericho|ig;
 s|${OPENLINK}tnk1/messages/templepalace.pdf|[[ביאור:היכל|ig;
 s|${OPENLINK}tnk1/messages/tabernacle__its_coverings.pdf|[[ביאור:Tabernacle and it coverings|ig;
+s|${OPENLINK}tnk1/messages/swears_to_his_fellow.docx|[[ביאור:Swears to his fellow|ig;
 s|${OPENLINK}tnk1/messages/SPR_MLKYM.doc|[[ביאור:מלכים א - סיכומי פרקים וחידות (.doc)|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shlomit_index_0|[[ביאור:'מדרש הלב הנאמן'|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_mda_9|[[ביאור:התורה נגד המדע - פרק יא|ig;
@@ -6436,6 +6441,7 @@ s|${OPENLINK}tnk1/messages/new_7|[[ביאור:זוג ההיפוכים קם - מ�
 s|${OPENLINK}tnk1/messages/new_6|[[ביאור:מצוות אנשים מלומדה לעומת רוח החסד|ig;
 s|${OPENLINK}tnk1/messages/new_5|[[ביאור:ארבע מידות באדם - הצד הכלכלי|ig;
 s|${OPENLINK}tnk1/messages/new_4|[[ביאור:דרשה קצרה לפסח וליום העצמאות|ig;
+s|${OPENLINK}tnk1/messages/new_36|[[ביאור:וקצותה את כפה|ig;
 s|${OPENLINK}tnk1/messages/new_35|[[ביאור:האם ניתן לאבד את הצלם?|ig;
 s|${OPENLINK}tnk1/messages/new_34|[[ביאור:על "מגילת רות - פירוש ישראלי חדש"|ig;
 s|${OPENLINK}tnk1/messages/new_33|[[ביאור:ממזר לא יבוא בקהל ה'?|ig;
@@ -7007,6 +7013,7 @@ s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_3|[[ביאור:'רק עלה (�
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_2|[[ביאור:'אוריה' - כתב יונתן גפן, הלחין שלום חנוך, מבצעת שולה חן|ig;
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_1|[[ביאור:'שישמור על ישראל' - בביצוע עפרה חזה ז"ל|ig;
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_0|[[ביאור:'מת אב ומת אלול' - כתב נתן יונתן ז"ל, הלחין צביקה פיק|ig;
+s|${OPENLINK}tnk1/messages/job_s_crocodile.docx|[[ביאור:Job's crocodile|ig;
 s|${OPENLINK}tnk1/messages/jmewny___spr.doc|[[ביאור:מבחר שמעוני - ספר (.doc)|ig;
 s|${OPENLINK}tnk1/messages/jmewny.doc|[[ביאור:מבחר שמעוני (.doc)|ig;
 s|${OPENLINK}tnk1/messages/jlwm_mr_ybkywn_la_xjb_anwj.pdf|[[ביאור:מלאכי שלום מר יבכיון לא חשב אנוש|ig;
@@ -7046,6 +7053,7 @@ s|${OPENLINK}tnk1/messages/hemwd___12_amwt___hyqp_mjwlj.pdf|[[ביאור:היק�
 s|${OPENLINK}tnk1/messages/heaven_s_bread.pdf|[[ביאור:Heaven's bread|ig;
 s|${OPENLINK}tnk1/messages/hawyqlydy_hwa_mh_jhyh_hwa_jyhyh.pdf|[[ביאור:הצדק האויקלידי הוא מה שהיה הוא שיהיה|ig;
 s|${OPENLINK}tnk1/messages/harwt_benyyny_ljwn___mjly_jlmh_prqym_y_kd.doc|[[ביאור:הארות בענייני לשון - משלי-שלמה פרקים י-כד (.doc)|ig;
+s|${OPENLINK}tnk1/messages/hard_at_heart.docx|[[ביאור:Hard at heart|ig;
 s|${OPENLINK}tnk1/messages/ham_mwtr_lprsm_wlspr_mejh_re_jl_rje__jl_cdyq.doc|[[ביאור:האם מותר לפרסם ולספר מעשה רע של רשע? של צדיק? (דתן ואבירם, זמרי בן סלוא, צלפחד בן חפר) (.doc)|ig;
 s|${OPENLINK}tnk1/messages/hagar_s_revenge.pdf|[[ביאור:Hagar's revenge|ig;
 s|${OPENLINK}tnk1/messages/gybwrym_mgn_jawl_bly_mjyx_bjmn.pdf|[[ביאור:מגן גיבורים מגן שאול בלי משיח בשמן|ig;
@@ -8042,7 +8050,17 @@ s|${OPENLINK}tnk1/messages/forums_107|[[ביאור:'גדי קטן' - שיר מא
 s|${OPENLINK}tnk1/messages/forums_106|[[ביאור:'הכוהנים בפתח אוהל מועד' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_105|[[ביאור:פרשת צו - אבן יסוד לחינוך העולם|ig;
 s|${OPENLINK}tnk1/messages/forums_104|[[ביאור:'ויקרא אל משה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1030|[[ביאור:'הארץ המובטחת' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_103|[[ביאור:פרשת ויקרא - משמעות האות אלף הזעירא|ig;
+s|${OPENLINK}tnk1/messages/forums_1029|[[ביאור:פרשת עקב - ישראל תמיד במוקד החדשות העולמי - מדוע?|ig;
+s|${OPENLINK}tnk1/messages/forums_1028|[[ביאור:'מאפלה לאורה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1027|[[ביאור:פרשת ואתחנן - חזון אחרית הימים - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1026|[[ביאור:'הר שעיר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1025|[[ביאור:פרשת דברים - הר שעיר - ירושה למי?|ig;
+s|${OPENLINK}tnk1/messages/forums_1024|[[ביאור:'בני גד וראובן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1023|[[ביאור:פרשת מטות-מסעי - במה חטאו בני גד וראובן?|ig;
+s|${OPENLINK}tnk1/messages/forums_1022|[[ביאור:'יום תרועה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1021|[[ביאור:פרשת פינחס - מהו "יום תרועה"?|ig;
 s|${OPENLINK}tnk1/messages/forums_1020|[[ביאור:' בלעם ותגליתו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_102|[[ביאור:'קורבן פסח' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1019|[[ביאור: פרשת בלק - מי היה בלעם ומה גילה על עם ישראל?|ig;
@@ -8069,6 +8087,7 @@ s|${OPENLINK}tnk1/messages/forums_1000|[[ביאור:פרשת אמור - מה ג�
 s|${OPENLINK}tnk1/messages/forums_100|[[ביאור:פרשת ויקהל פקודי, פרשת החודש - המיוחד בכיור המשכן|ig;
 s|${OPENLINK}tnk1/messages/forums_10|[[ביאור:'שמיעה ושמועה' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/flashing_sword.pdf|[[ביאור:Flashing sword|ig;
+s|${OPENLINK}tnk1/messages/fierce_anger.docx|[[ביאור:Fierce anger|ig;
 s|${OPENLINK}tnk1/messages/fear_of_god.pdf|[[ביאור:Fear of God|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_2_0|[[ביאור:אבן השתייה בירושלים|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0|[[ביאור:מדוע הפיסחים והעיוורים היו שנואי נפש דוד|ig;
@@ -8267,6 +8286,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_1016_0|[[ביאור:צדקת צדקיהו|i
 s|${OPENLINK}tnk1/messages/dmut_dmut_1009_0|[[ביאור:מי היו ארבעת בניו של יאשיהו|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1003_0|[[ביאור:אמון שר העיר|ig;
 s|${OPENLINK}tnk1/messages/dinah_and_shechem.pdf|[[ביאור:Dinah and Shechem|ig;
+s|${OPENLINK}tnk1/messages/dates_in_the_book_ofezekiel.docx|[[ביאור:Dates in the Book of Ezekiel|ig;
 s|${OPENLINK}tnk1/messages/darkened_vision.pdf|[[ביאור:ועיני לאה רכות|ig;
 s|${OPENLINK}tnk1/messages/darics_and_drachmas.pdf|[[ביאור:Darics and Drachmas|ig;
 s|${OPENLINK}tnk1/messages/daniel___jehoiachin.pdf|[[ביאור:Daniel = Jehoiachin|ig;
@@ -8295,6 +8315,7 @@ s|${OPENLINK}tnk1/messages/bhelwtk_xfaym_nstrym_jl_mjh_wahrwn.pdf|[[ביאור:�
 s|${OPENLINK}tnk1/messages/benjaminite.pdf|[[ביאור:Benjaminite|ig;
 s|${OPENLINK}tnk1/messages/ba_hxlwm_brb_enyn_el_kl_megl_fwb.pdf|[[ביאור:כי בא החלום ברב ענין על כל מעגל טוב|ig;
 s|${OPENLINK}tnk1/messages/balaam_s_nationality.pdf|[[ביאור:Balaam's nationality|ig;
+s|${OPENLINK}tnk1/messages/balaam_and_the_snakes.docx|[[ביאור:Balaam and the snakes|ig;
 s|${OPENLINK}tnk1/messages/bah_hcpyrh_____rwsyh___arc_hmgwg_myrkty_cpwn.pdf|[[ביאור:הנה באה הצפירה - רוסיה = ארץ המגוג מירכתי צפון|ig;
 s|${OPENLINK}tnk1/messages/a_thorn_in_your_side.pdf|[[ביאור:A thorn in your side|ig;
 s|${OPENLINK}tnk1/messages/a_place_named_beer_sheba.pdf|[[ביאור:A place named Beer - Sheba|ig;
@@ -8315,6 +8336,7 @@ s|${OPENLINK}tnk1/messages/alhym_bdwr_cdyq___lrbe_eygwl.pdf|[[ביאור:כי א
 s|${OPENLINK}tnk1/messages/ajr_yhyh_baxryt_hzem.pdf|[[ביאור:המעגל אשר יהיה באחרית הזעם|ig;
 s|${OPENLINK}tnk1/messages/ajr_am_jaw_erym_mayn_ywjb.pdf|[[ביאור:עד אשר אם - שאו ערים מאין יושב|ig;
 s|${OPENLINK}tnk1/messages/agriculture.pdf|[[ביאור:Agriculture|ig;
+s|${OPENLINK}tnk1/messages/adnwt.doc|[[ביאור:שם אדנות (.doc)|ig;
 s|${OPENLINK}tnk1/messages/7778|[[ביאור:פסוקים ללא נושא ברור|ig;
 s|${OPENLINK}tnk1/messages/7072|[[ביאור:שמו של גלית|ig;
 s|${OPENLINK}tnk1/messages/7067|[[ביאור:צפון, סבון|ig;
@@ -8371,6 +8393,7 @@ s|${OPENLINK}tnk1/messages/3293|[[ביאור:שפרה ופועה המיילדו�
 s|${OPENLINK}tnk1/messages/2__ky_tca_lmlxmh.jpg|[[ביאור:ציור כי תצא למלחמה|ig;
 s|${OPENLINK}tnk1/messages/2517|[[ביאור:ענתות לך על שדיך|ig;
 s|${OPENLINK}tnk1/messages/2443|[[ביאור:היתכן שירמיהו היה בנו של חלקיהו הכהן הגדול בזמן יאשיהו?|ig;
+s|${OPENLINK}tnk1/messages/22___al_kmw_rmym_mqdjw.pdf|[[ביאור:המספר 22 = אל כמו רמים מקדשו|ig;
 s|${OPENLINK}tnk1/messages/2105|[[ביאור:'שיר השועלים' - אורי אבנרי|ig;
 s|${OPENLINK}tnk1/messages/2101|[[ביאור:'אהבת שמשון' - לאה גולדברג|ig;
 s|${OPENLINK}tnk1/messages/2100|[[ביאור:'תנכי פתוח בספר איוב' - רחל|ig;
@@ -10145,6 +10168,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/es-01-10|[[ביאור:שבעת הסריסים המ
 s|${OPENLINK}tnk1/ktuv/mgilot/es-01-08|[[ביאור:והשתיה כדת|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-mtnya|[[ביאור:ספר איכה - סדר וצורה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-40|[[ביאור:חשבון נפש אישי ע"פ מגילת איכה|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-06|[[ביאור:גדולי ישראל יצאו לגלות כי העלימו עין מעבירות|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01|[[ביאור:איכה א בצבעים|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/dod01|[[ביאור:היפים והתנכיים - הדוד בשיר השירים|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/D-wjti|[[ביאור:שתי האמהות של ושתי|ig;

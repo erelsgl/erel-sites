@@ -8104,3 +8104,94 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-07-30 16:42:52' 
 			WHERE messageid=8018;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5868.html',
+		'<p>אתם רוצה לומר שיש שני צפת, צפת בצפון וצפת בדרום?</p>',
+		'115831312359675136989',
+		'Israel sooperman',
+		'2018-07-31 08:31:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_21.html',
+		'<p>דברים ד19: &quot;וּפֶן תִּשָּׂא עֵינֶיךָ הַשָּׁמַיְמָה וְרָאִיתָ אֶת הַשֶּׁמֶשׁ וְאֶת הַיָּרֵחַ וְאֶת הַכּוֹכָבִים כֹּל צְבָא הַשָּׁמַיִם </p><p>וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לָהֶם וַעֲבַדְתָּם אֲשֶׁר חָלַק יהוה אֱלֹהֶיךָ אֹתָם לְכֹל הָעַמִּים תַּחַת כָּל הַשָּׁמַיִם&quot;</p><p>כי מלבד בני ישראל כל העמים תחת כל השמים לאמור כל בני נח יצאו ביום רביעי עת בריאת המאורות</p><p>כי חיכו לאור כי לא יכלו לצאת בחושך באמונת אלהים כעם-יהוה</p><p>דברים ה19: &quot;וַיְהִי כְּשָׁמְעֲכֶם אֶת הַקּוֹל מִתּוֹךְ הַחֹשֶׁךְ [כי דבר אלהים באמונה]</p><p>וְהָהָר בֹּעֵר בָּאֵשׁ וַתִּקְרְבוּן אֵלַי כָּל רָאשֵׁי שִׁבְטֵיכֶם וְזִקְנֵיכֶם&quot;</p><p>זה הסיפור של בני ישראל מהאש יצאו מהָר בֹּעֵר בָּאֵשׁ מִתּוֹךְ הַחֹשֶׁךְ </p><p>בטרם ברא אלהים את השמים ואת הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-01 16:48:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>דברים ד29: &quot;וּבִקַּשְׁתֶּם מִשָּׁם אֶת יהוה אֱלֹהֶיךָ וּמָצָאתָ כִּי תִדְרְשֶׁנּוּ בְּכָל לְבָבְךָ וּבְכָל נַפְשֶׁךָ&quot;</p><p>שמואל ב יב16: &quot;וַיְבַקֵּשׁ דָּוִד אֶת הָאֱלֹהִים בְּעַד הַנָּעַר וַיָּצָם דָּוִד צוֹם וּבָא וְלָן וְשָׁכַב אָרְצָה&quot; </p><p>************************** לבקש את אלהים **************************</p><p>כִּי תִדְרְשֶׁנּוּ בְּכָל לְבָבְךָ וּבְכָל נַפְשֶׁךָ  = וַיָּצָם דָּוִד צוֹם וּבָא וְלָן וְשָׁכַב אָרְצָה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-01 18:13:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/kbd_et.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-08-02 06:22:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-02 06:22:22' 
+			WHERE messageid=8024;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/kbd_et.html',
+		'<p>כיבוד הורים, שבת, ומצוות הביטחון / הרב משה צוריאל, ה\'תשס&quot;ח</p><p>https://www.inn.co.il/Articles/Article.aspx/7252</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-08-02 06:26:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/kbd_et.html',
+		'<p>מאמר טוב אלמונית יקרה</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-08-02 16:53:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-19-0205.html',
+		'<p>תהלים יט2: &quot;הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל וּמַעֲשֵׂה יָדָיו מַגִּיד הָרָקִיעַ&quot; ---------- על זה מיוסדת האסטרולוגיה</p><p>האסטרולוגיה מגידה את מעשי ידי אלהים דרך אופן הצגת גרמי השמים --- שמש ירח כוכבים ומזלות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-02 19:23:41'
+		)
+		;
+
