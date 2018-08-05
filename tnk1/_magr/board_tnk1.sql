@@ -9895,3 +9895,27 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/tora/brejit/br-32-29.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-04 18:31:05'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/cpor-of-knf.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ayj.html',
+				'tnk1/tora/brejit/br-02-23.html',
+				NULL,
+				'2018-08-04 19:41:26',
+				'2018-08-04 19:41:26',
+				'לזאת ייקרא אישה - כי מאיש לוקחה זאת?!',
+				'אראל',
+				''
+			)
+		;
+
