@@ -8517,3 +8517,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-08-07 17:08:05' 
 			WHERE messageid=8047;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-12.html',
+		'<p>פירוש אחד ויחיד יש דרך ישרה היא דרכי ה תורה ומצוות ואחריתה דרכי מוות הן העברות...כמו שכתוב רשעים בחייהם קרואים מתים </p>',
+		'105191684359443899787',
+		'Bgal433@gmail.com Verona10',
+		'2018-08-09 22:21:25'
+		)
+		;
+

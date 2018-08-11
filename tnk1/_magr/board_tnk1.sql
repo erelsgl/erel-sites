@@ -10132,3 +10132,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-08-07 19:54:50'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-09 22:21:25'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-14-12.html'
+		;
+
