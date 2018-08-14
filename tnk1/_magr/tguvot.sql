@@ -8644,3 +8644,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-08-13 05:14:35' 
 			WHERE messageid=8057;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>על בני האדם לבכות הרבה בכי כדי להתקרב לטוהר עיני בעלי החיים כי הם כטְהוֹר עֵינַיִם מֵרְאוֹת רָע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-14 05:02:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0324_0.html',
+		'<p>על בני האדם לבכות הרבה בכי כדי להתקרב לטוהר עיני בעלי החיים כי הם כטְהוֹר עֵינַיִם מֵרְאוֹת רָע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-14 05:03:48'
+		)
+		;
+
