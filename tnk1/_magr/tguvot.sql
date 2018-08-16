@@ -8728,3 +8728,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-15 13:34:16' 
+			WHERE messageid=8063;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 5376 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 6644 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `tguvot` WHERE `messageid` = 6645 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `body` = '<p>שמות כד18: &quot;וַיָּבֹא מֹשֶׁה בְּתוֹךְ הֶעָנָן וַיַּעַל אֶל הָהָר וַיְהִי מֹשֶׁה בָּהָר אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה&quot;</p><p>שמות לד28: &quot;וַיְהִי שָׁם עִם יהוה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַל וּמַיִם לֹא שָׁתָה וַיִּכְתֹּב עַל הַלֻּחֹת אֵת דִּבְרֵי הַבְּרִית עֲשֶׂרֶת הַדְּבָרִים&quot;</p><p>דברים ט9: &quot;בַּעֲלֹתִי הָהָרָה לָקַחַת לוּחֹת הָאֲבָנִים לוּחֹת הַבְּרִית אֲשֶׁר כָּרַת יהוה עִמָּכֶם וָאֵשֵׁב בָּהָר אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי וּמַיִם לֹא שָׁתִיתִי&quot;</p><p>דברים ט11: &quot;וַיְהִי מִקֵּץ אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה נָתַן יהוה אֵלַי אֶת שְׁנֵי לֻחֹת הָאֲבָנִים לֻחוֹת הַבְּרִית&quot;</p><p>-------------------- עד פה זאת הייתה הפעם הראשונה אשר משה לא אכל ולא שתה 40 יום --------------------</p><p>דברים ט18: &quot;וָאֶתְנַפַּל לִפְנֵי יהוה כָּרִאשֹׁנָה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי וּמַיִם לֹא שָׁתִיתִי עַל כָּל חַטַּאתְכֶם אֲשֶׁר חֲטָאתֶם לַעֲשׂוֹת הָרַע בְּעֵינֵי יהוה לְהַכְעִיסוֹ&quot;</p><p>דברים ט25: &quot;וָאֶתְנַפַּל לִפְנֵי יהוה אֵת אַרְבָּעִים הַיּוֹם וְאֶת אַרְבָּעִים הַלַּיְלָה אֲשֶׁר הִתְנַפָּלְתִּי כִּי אָמַר יהוה לְהַשְׁמִיד אֶתְכֶם&quot;</p><p>דברים י10: &quot;וְאָנֹכִי עָמַדְתִּי בָהָר כַּיָּמִים הָרִאשֹׁנִים אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה וַיִּשְׁמַע יהוה אֵלַי גַּם בַּפַּעַם הַהִוא לֹא אָבָה יהוה הַשְׁחִיתֶךָ&quot;</p><p>וזאת הייתה הפעם השנייה והאחרונה אשר התנפל משה כי נפל על פניו ולא אכל ולא שתה 40 יום ולילה</p>\r\n\r\n<p>בתורה כתוב כי משה לא אכל ולא שתה 40 יום ועשה זאת רק פעמיים בלבד</p>\r\n\r\n\r\n<p>נא הבן כי בתחילה בפעם הראשונה בעת מתן התורה משה לא אכל ולא שתה 40 יום</p><p>ובפעם השנייה כאשר בני ישראל חטאו בעגל אז עלה משה לכפר ולא אכל ולא שתה 40 יום</p><p>וזה הכל אין יותר</p>', `deleted_at` = NULL WHERE `messageid` = 6646 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 6647 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 6699 AND 1 LIMIT 1;
+
