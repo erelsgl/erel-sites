@@ -10337,3 +10337,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-08-15 20:19:20'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-18 17:26:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-18 17:33:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-19 03:08:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
