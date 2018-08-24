@@ -10502,3 +10502,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-23 13:39:27'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-45-07.html'
+		;
+
