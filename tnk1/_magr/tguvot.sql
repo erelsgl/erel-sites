@@ -8941,3 +8941,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-08-24 12:18:00' 
 			WHERE messageid=8078;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/10-01.html',
+		'<p>תודה על כל ההסברים. הסבר מס.3 לפסוק הבאת את דברי הרב י.מ. לאו ע&quot;פ הגאון מוילנה. הייתי רוצה לדעת אם יש מצאת בכתוב ואם כך אולי אפשר לקבל את המקום. או שמעת בע&quot;פ.   בתודה</p><p> אלישבע מגנס מהגולן </p>',
+		'101391792709722132550',
+		'Yaakov Magness',
+		'2018-08-26 13:50:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-26 18:35:32' 
+			WHERE messageid=8022;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>עזרו להתפלל על חי שבתאי בן בלבל ופר\'ג לרפואה שלמה שיהיה חזק❤🙏</p>',
+		'113274397610291697782',
+		'Agam Shabtay',
+		'2018-08-26 20:52:07'
+		)
+		;
+
