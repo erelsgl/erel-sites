@@ -10603,3 +10603,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-28 19:01:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-28 19:02:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-08-29 04:57:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
