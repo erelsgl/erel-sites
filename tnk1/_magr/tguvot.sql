@@ -9082,3 +9082,134 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-08-30 05:03:52' 
 			WHERE messageid=8088;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא***אֵפוֹא מִי הוּא***&quot;</p><p>ירמיהו ב8: &quot;הַכֹּהֲנִים לֹא אָמְרוּ ***אַיֵּה יְהוָה*** וְתֹפְשֵׂי הַתּוֹרָה לֹא יְדָעוּנִי וְהָרֹעִים פָּשְׁעוּ בִי וְהַנְּבִיאִים נִבְּאוּ בַבַּעַל וְאַחֲרֵי לֹא יוֹעִלוּ הָלָכוּ&quot;</p><p>אַיֵּה יְהוָה = אֵפוֹא מִי הוּא</p><p>הַכֹּהֲנִים לֹא אָמְרוּ אַיֵּה יְהוָה</p><p>ואיוב הצדיק אמר אֵפוֹא מִי הוּא [וזאת לחפש דרכיו]</p><p>לכן איוב ככהן קדוש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-30 18:25:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא***אֵפוֹא מִי הוּא***&quot;</p><p>ירמיהו ב8: &quot;הַכֹּהֲנִים לֹא אָמְרוּ ***אַיֵּה יְהוָה*** וְתֹפְשֵׂי הַתּוֹרָה לֹא יְדָעוּנִי וְהָרֹעִים פָּשְׁעוּ בִי וְהַנְּבִיאִים נִבְּאוּ בַבַּעַל וְאַחֲרֵי לֹא יוֹעִלוּ הָלָכוּ&quot;</p><p>אַיֵּה יְהוָה = אֵפוֹא מִי הוּא [שאל איוב כמחפש את יהוה ללכת בדרכו]</p><p>הַכֹּהֲנִים לֹא אָמְרוּ אַיֵּה יְהוָה [וזאת ביקורת על הכהנים ותוכחה עליהם כי לא בקשו לחפש את דרך יהוה]  </p><p>ואיוב הצדיק אמר אֵפוֹא מִי הוּא [וזאת לחפש דרכיו]</p><p>*** לכן איוב ככהן קדוש ***</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-30 18:29:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא***אֵפוֹא מִי הוּא***&quot;</p><p>ירמיהו ב8: &quot;הַכֹּהֲנִים לֹא אָמְרוּ ***אַיֵּה יְהוָה*** וְתֹפְשֵׂי הַתּוֹרָה לֹא יְדָעוּנִי וְהָרֹעִים פָּשְׁעוּ בִי וְהַנְּבִיאִים נִבְּאוּ בַבַּעַל וְאַחֲרֵי לֹא יוֹעִלוּ הָלָכוּ&quot;</p><p>אַיֵּה יְהוָה = אֵפוֹא מִי הוּא [שאל איוב כמחפש את יהוה ללכת בדרכו]</p><p>הַכֹּהֲנִים לֹא אָמְרוּ אַיֵּה יְהוָה [וזאת ביקורת על הכהנים ותוכחה עליהם כי לא בקשו לחפש את דרך יהוה]</p><p>ואיוב הצדיק אמר אֵפוֹא מִי הוּא [וזאת לחפש דרכיו]</p><p>******* לכן איוב ככהן קדוש *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-30 18:30:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-30 18:30:13' 
+			WHERE messageid=8091;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-30 18:30:16' 
+			WHERE messageid=8090;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/lez_brjy.html',
+		'<p>מי שרוצה לשמוע את השיעור בנושא, ניתן לראות באתר של ישיבת כוכב השחר, פרשת כי תבוא תשע&quot;ח. אגב, שיניתי את הדוא&quot;ל שלי: arishvat@gmail.com7</p>',
+		'100318802860085642452',
+		'ארי שבט וזאת לראיה בית הרב',
+		'2018-08-30 19:16:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>שמות כא6: &quot;וְהִגִּישׁוֹ אֲדֹנָיו אֶל הָאֱלֹהִים וְהִגִּישׁוֹ אֶל הַדֶּלֶת אוֹ אֶל הַמְּזוּזָה וְרָצַע אֲדֹנָיו אֶת אָזְנוֹ בַּמַּרְצֵעַ וַעֲבָדוֹ לְעֹלָם&quot; </p><p>הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים</p><p>מלכים ב כה12: &quot;וּמִדַּלַּת הָאָרֶץ הִשְׁאִיר רַב טַבָּחִים לְכֹרְמִים וּלְיֹגְבִים&quot;</p><p>הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים </p><p>וּמִדַּלַּת הָאָרֶץ = האביונים הם אנשי הָאֱלֹהִים</p><p>על כן מצוה לתת המעשר לאביונים כי מדלת הארץ הם כי אנשי אלהים הם</p><p>ואלה שבעת אנשי האלהים....נביא כהן לוי עני גר יתום ואלמנה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-31 04:07:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>שמות כא6: &quot;וְהִגִּישׁוֹ אֲדֹנָיו אֶל הָאֱלֹהִים וְהִגִּישׁוֹ אֶל הַדֶּלֶת אוֹ אֶל הַמְּזוּזָה וְרָצַע אֲדֹנָיו אֶת אָזְנוֹ בַּמַּרְצֵעַ וַעֲבָדוֹ לְעֹלָם&quot;</p><p>מלכים ב כה12: &quot;וּמִדַּלַּת הָאָרֶץ הִשְׁאִיר רַב טַבָּחִים לְכֹרְמִים וּלְיֹגְבִים&quot;</p><p>הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים</p><p>וּמִדַּלַּת הָאָרֶץ = האביונים הם אנשי הָאֱלֹהִים</p><p>על כן מצוה לתת המעשר לאביונים כי מדלת הארץ הם כי אנשי אלהים הם</p><p>ואלה שבעת אנשי האלהים....נביא כהן לוי עני גר יתום ואלמנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-31 04:08:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>1.שמות כא6: &quot;וְהִגִּישׁוֹ אֲדֹנָיו אֶל הָאֱלֹהִים וְהִגִּישׁוֹ אֶל הַדֶּלֶת אוֹ אֶל הַמְּזוּזָה וְרָצַע אֲדֹנָיו אֶת אָזְנוֹ בַּמַּרְצֵעַ וַעֲבָדוֹ לְעֹלָם&quot;</p><p>2.מלכים ב כה12: &quot;וּמִדַּלַּת הָאָרֶץ הִשְׁאִיר רַב טַבָּחִים לְכֹרְמִים וּלְיֹגְבִים&quot;</p><p>1.הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים</p><p>2.וּמִדַּלַּת הָאָרֶץ = האביונים הם אנשי הָאֱלֹהִים</p><p>על כן מצוה לתת המעשר לאביונים כי מדלת הארץ הם כי אנשי אלהים הם</p><p>ואלה שבעת אנשי האלהים....נביא כהן לוי עני גר יתום ואלמנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-31 04:09:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-31 04:10:08' 
+			WHERE messageid=8095;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-31 04:10:17' 
+			WHERE messageid=8094;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>1.שמות כא6: &quot;וְהִגִּישׁוֹ אֲדֹנָיו אֶל הָאֱלֹהִים וְהִגִּישׁוֹ אֶל הַדֶּלֶת אוֹ אֶל הַמְּזוּזָה וְרָצַע אֲדֹנָיו אֶת אָזְנוֹ בַּמַּרְצֵעַ וַעֲבָדוֹ לְעֹלָם&quot;</p><p>הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים</p><p>2.מלכים ב כה12: &quot;וּמִדַּלַּת הָאָרֶץ הִשְׁאִיר רַב טַבָּחִים לְכֹרְמִים וּלְיֹגְבִים&quot;</p><p>.וּמִדַּלַּת הָאָרֶץ = האביונים הם אנשי הָאֱלֹהִים</p><p>1.הַדֶּלֶת והַמְּזוּזָה = הָאֱלֹהִים</p><p>2.וּמִדַּלַּת הָאָרֶץ = האביונים הם אנשי הָאֱלֹהִים</p><p>על כן מצוה לתת המעשר לאביונים כי מדלת הארץ הם כי אנשי אלהים הם</p><p>ואלה שבעת אנשי האלהים....נביא כהן לוי עני גר יתום ואלמנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-08-31 04:12:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-08-31 04:13:07' 
+			WHERE messageid=8096;
+
