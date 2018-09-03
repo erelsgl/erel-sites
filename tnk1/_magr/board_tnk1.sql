@@ -10770,3 +10770,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/atid_amim.html',
+				'tnk1/nvia/yjayhu/yj-56-02.html',
+				NULL,
+				'2018-09-02 18:14:04',
+				'2018-09-02 18:14:04',
+				'האם הגויים צריכים לשמור שבת?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-03 02:48:40'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-03 03:09:20'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-03 03:35:38'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-03 03:40:33'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
+		;
+
