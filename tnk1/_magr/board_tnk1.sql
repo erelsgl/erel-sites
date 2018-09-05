@@ -10818,3 +10818,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-04 18:18:58'
+		WHERE ktovt_bn='tryg/mamr/himur.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1038.html',
+				NULL,
+				'2018-09-05 04:59:14',
+				'2018-09-05 04:59:14',
+				'פרשת ניצבים- מאין כי אלוקים אינו נוטש בניו גם בגלות?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-09-05 04:59:14'
+			WHERE ktovt_bn='tnk1/forums.html';
+

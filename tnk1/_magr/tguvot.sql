@@ -9318,3 +9318,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-09-03 03:40:56' 
 			WHERE messageid=8103;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/himur.html',
+		'<p>אני מעונין להסביר בצורה יותר מקצועית למה לא להמר עם הסברים  איך עובדים  ואיך מכונות המזל עובדות תכנית אולי יעשה וידיו רק שאין לי הרבה עומץ מחפש עומץ לעשות וידיו למה לא להמר אדם סמל 0529505784</p><p></p>',
+		'117362817606082971864',
+		'אדם סמל',
+		'2018-09-04 18:18:58'
+		)
+		;
+
