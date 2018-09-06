@@ -10849,3 +10849,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-09-05 04:59:14'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-05 12:46:20'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-56-02.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1039.html',
+				NULL,
+				'2018-09-05 19:43:42',
+				'2018-09-05 19:43:42',
+				'מארבע כנפות הארץ/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-09-05 19:43:42'
+			WHERE ktovt_bn='tnk1/forums.html';
+
