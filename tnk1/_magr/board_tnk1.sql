@@ -11023,3 +11023,82 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/eyov/yv-31-02.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-08 16:49:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-08 16:50:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-08 16:50:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-08 17:07:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-08 18:00:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-09 03:55:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0tov.html',
+				'tnk1/nvia/yjayhu/yj-12-01.html',
+				NULL,
+				'2018-09-09 06:24:35',
+				'2018-09-09 06:24:35',
+				'באחרית הימים נגיד תודה על כל הצרות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-09-09 06:24:35'
+			WHERE ktovt_bn='tnk1/msr/0tov.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-09 07:51:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0218_5.html'
+		;
+
