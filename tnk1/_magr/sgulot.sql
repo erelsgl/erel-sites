@@ -2264,3 +2264,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 12 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `hqblot` = '<p>הביטוי <strong>שנות חיים</strong> נזכרו בשלושה פסוקים בספר משלי:</p><p>1. כשכר על זכירת התורה והמצוות,&#160; <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2803.htm#2\">משלי ג2</a>: \"<q class=\"psuq\">כִּי אֹרֶךְ יָמִים <strong>וּשְׁנוֹת חַיִּים</strong> וְשָׁלוֹם יוֹסִיפוּ לָךְ</q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/03-02.html\">פירוט</a>); </p><p>3. כשכר על חכמה ובינה, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2809.htm#11\">משלי ט11</a>: \"<q class=\"psuq\">כִּי בִי יִרְבּוּ יָמֶיךָ, וְיוֹסִיפוּ לְּךָ <strong>שְׁנוֹת חַיִּים</strong></q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/09-11.html\">פירוט</a>).</p><p>2. ואצלנו, כשכר על שמיעה בקול ההורים,&#160;<a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2804.htm#10\">משלי ד10</a>: \"<q class=\"psuq\">שְׁמַע בְּנִי וְקַח אֲמָרָי, וְיִרְבּוּ לְךָ <strong>שְׁנוֹת חַיִּים</strong></q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/04-10.html\">פירוט</a>).&#160;&#160;&#160;&#160; וכן נאמר בתורה, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0220.htm#11\">שמות כ11</a>: \"<q class=\"psuq\">כַּבֵּד אֶת אָבִיךָ וְאֶת אִמֶּךָ <strong>לְמַעַן יַאֲרִכוּן יָמֶיךָ</strong> עַל הָאֲדָמָה אֲשֶׁר ה\' אֱלֹהֶיךָ נֹתֵן לָךְ</q>\" (<a href=\"http://tora.us.fm/tnk1/tora/jmot/kbd_et.html\">פירוט</a>).</p><p>בכל הפסוקים הללו, אפשר לפרש את הביטויים כפשוטם - תזכה לחיות הרבה ימים ושנים, ואפשר גם לפרשם כמשל - תזכה שימיך ושנותיך יהיו מלאים יותר בחיים ובתוכן רוחני.</p><p>כל הפסוקים הללו נמצאים בחלק הראשון של ספר משלי; לפי פירושנו <small class=\"small\">(ראו במבוא)</small>, החלק הזה נאמר ע\"י דוד ובת-שבע אל שלמה בנם.&#160;&#160; הם רצו מאד ששלמה יחיה שנים רבות, אולם שלמה לא שמע בקולם ועבר על מצוות ה\', ואכן חי רק 52 שנה.</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 10 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 4 AND `verse_number` = 12 AND 1 LIMIT 1;
+
