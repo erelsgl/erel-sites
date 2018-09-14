@@ -11444,3 +11444,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-13 10:31:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/nwde_ldwd_hmlk_hmspr_hncxy_hqbwe_hntwn_mraj.pdf',
+				NULL,
+				'2018-09-13 13:27:44',
+				'2018-09-13 13:27:44',
+				'כך נודע לדוד המלך המספר הנצחי הקבוע הנתון מראש',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-14 02:46:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-14 02:48:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
