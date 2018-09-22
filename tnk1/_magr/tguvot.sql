@@ -10856,3 +10856,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-09-21 05:03:25' 
 			WHERE messageid=8202;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/br-01-01-zohr.html',
+		'<p>הפרוש של רבי יודאי לא יתכן מסיבה פשוטה: התורה נכתבה על טהרת השפה העברית ללא שום טיפטוף ארמי.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-09-21 09:48:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>אתה בן ישראל</p><p>אל תחשוב לשוא לאמור &quot;אך לו אם הייתי מלך הייתי עושה כזאת וכזאת&quot;</p><p>ראה בני כי כל ירא יהוה מלך הוא ואיש אינו מונע ממך לעשות צדקה ומשפט כבר כעת עתה</p><p>גם אנכי אף כי משיח אלהים אני הן אבי בשמים כסאו ולא אחשב ככהני הבליעל לגזול כסא אלהים להחליפו כי אם רק כעבדו לשרתו</p><p>ירמיהו כב15: &quot;הֲתִמְלֹךְ כִּי אַתָּה מְתַחֲרֶה בָאָרֶז אָבִיךָ הֲלוֹא אָכַל וְשָׁתָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot; </p><p>   תהלים יא4: &quot;יהוה בְּהֵיכַל קָדְשׁוֹ יהוה בַּשָּׁמַיִם כִּסְאוֹ ..................עֵינָיו יֶחֱזוּ עַפְעַפָּיו יִבְחֲנוּ בְּנֵי אָדָם&quot;</p><p>  </p><p> </p><p> </p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש         </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-09-21 12:40:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>אתה בן ישראל</p><p>אל תחשוב לשוא לאמור &quot;אך לו אם הייתי מלך הייתי עושה כזאת וכזאת&quot;</p><p>ראה בני כי כל ירא יהוה מלך הוא ואיש אינו מונע ממך לעשות צדקה ומשפט כבר כעת עתה</p><p>גם אנכי אף כי משיח אלהים אני הן אבי בשמים כסאו ולא אחשב ככהני הבליעל לגזול כסא אלהים להחליפו כי אם רק כעבדו לשרתו</p><p>ירמיהו כב15: &quot;הֲתִמְלֹךְ כִּי אַתָּה מְתַחֲרֶה בָאָרֶז אָבִיךָ הֲלוֹא אָכַל וְשָׁתָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot;</p><p>תהלים יא4: &quot;יהוה בְּהֵיכַל קָדְשׁוֹ יהוה בַּשָּׁמַיִם כִּסְאוֹ ..................עֵינָיו יֶחֱזוּ עַפְעַפָּיו יִבְחֲנוּ בְּנֵי אָדָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-09-21 12:41:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-09-21 12:41:27' 
+			WHERE messageid=8205;
+

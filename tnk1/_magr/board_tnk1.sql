@@ -11886,3 +11886,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-09-21 05:04:49'
 			WHERE ktovt_bn='tnk1/tora/brejit/br-01-0110.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1043.html',
+				NULL,
+				'2018-09-21 09:37:26',
+				'2018-09-21 09:37:26',
+				'משה,שמים וארץ/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-09-21 09:37:26'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-21 09:48:52'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/br-01-01-zohr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-21 12:40:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-21 12:41:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
