@@ -11933,3 +11933,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 17:28:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 17:32:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 17:33:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 18:36:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0216_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 19:49:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0216_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-22 22:17:36'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/mzlot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-23 04:43:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
