@@ -11125,3 +11125,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/trjij.html',
+		'<p>תרשיש באתר &quot;מסע אחר&quot; - מאת מאיר בן דב https://www.masa.co.il/article/%D7%AA%D7%A8%D7%A9%D7%99%D7%A9-%D7%94%D7%AA%D7%A2%D7%9C%D7%95%D7%9E%D7%94-%D7%94%D7%A4%D7%99%D7%A0%D7%99%D7%A7%D7%99%D7%AA/</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-09-25 16:43:44'
+		)
+		;
+

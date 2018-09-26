@@ -12043,3 +12043,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/rjj.html',
+				'tnk1/kma/qjrim1/trjij.html',
+				NULL,
+				'2018-09-25 15:02:08',
+				'2018-09-25 15:02:08',
+				'תרשיש = עם, מקום, אבן',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-25 16:43:44'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/trjij.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/28.html',
+				'tnk1/kma/qjrim1/trjij.html',
+				NULL,
+				'2018-09-25 16:44:10',
+				'2018-09-25 16:44:10',
+				'תרשיש = עם, מקום, אבן',
+				'אראל',
+				'../tnk1/klli/mdrjim/br-01-01-zohr'
+			)
+		;
+
