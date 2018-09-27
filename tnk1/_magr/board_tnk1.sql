@@ -12083,3 +12083,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_37.html',
+				NULL,
+				'2018-09-26 18:46:19',
+				'2018-09-26 18:46:19',
+				'מעולם לא נלמד מהתנך שני ימי חודש !',
+				'משתשמשכלשהו',
+				'mlwlsp34 @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-27 07:16:34'
+		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-11.html'
+		;
+

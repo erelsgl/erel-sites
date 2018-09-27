@@ -11137,3 +11137,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-11.html',
+		'<p>פרשה מרתקת של שלטון, הדרך אליו, הדרך לשמרו ושל מנהיגות עוצמתית נחושה - שלא לשם עוצמה אלא לשם סימון הדרך בה יהיה נכון לצעוד לטווח הארוך.</p><p>גם אז מן הסתם נטה ליבו של עם הארץ לסירוגין אחר שתי האפשרויות: עבודת אלילים מצד אחד וסגידה לכריזמה מנהיגותית מצד שני. העוז, התבונה והכבוד ליהוידע הם.</p>',
+		'112196086330011847951',
+		'piano90@zahav.net.il',
+		'2018-09-27 07:16:34'
+		)
+		;
+
