@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-09-28 12:12:27
+# This file was automatically generated at 2018-09-30 01:54:46
 
 sub wikia_replace_links {
 $_=shift;
@@ -1655,7 +1655,6 @@ s|${OPENLINK}tnk1/tora/brejit/mkirt_yosf|[[ביאור:מכירת יוסף - מא
 s|${OPENLINK}tnk1/tora/brejit/mi_mkr_oti|[[ביאור:דיון - מי מכר אותי?|ig;
 s|${OPENLINK}tnk1/tora/brejit/mgdl_bvl_wsulm_yaqv|[[ביאור:מגדל נמרוד וסולם יעקב|ig;
 s|${OPENLINK}tnk1/tora/brejit/mgdl_bvl_wanxnu|[[ביאור:מגדל בבל ואנחנו|ig;
-s|${OPENLINK}tnk1/tora/brejit/mgdl_bvl_pjt|[[ביאור:פרשת מגדל-בבל על-פי הפשט|ig;
 s|${OPENLINK}tnk1/tora/brejit/mgdl_bvl_2039|[[ביאור:מגדל בבל תשצט|ig;
 s|${OPENLINK}tnk1/tora/brejit/mgdl_bvl|[[ביאור:מגדל בבל - סיכום הדעות|ig;
 s|${OPENLINK}tnk1/tora/brejit/mgdlbvl|[[ביאור:מגדל בבל (דור הפלגה) - כל המאמרים|ig;
@@ -10810,6 +10809,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/jmot_mlakim|[[ביאור:אין צורך לדעת �
 s|${OPENLINK}tnk1/kma/qjrim1/jmj|[[ביאור:שמש - זכר או נקבה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/jmirteyn|[[ביאור:שמירת העיניים - סיכום|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/jmc|[[ביאור:שמצ = דיבה או מיעוט|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/jm1|[[ביאור:שם ה' בראשי תיבות|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/jm0|[[ביאור:שם לתינוק שעוד לא נוצר|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/jm|[[ביאור:שם = דבר שבאמצעותו אחד מתייחס לזולתו|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/jlx1|[[ביאור:קיום מצוות כשליחות|ig;
@@ -12115,7 +12115,6 @@ s|${OPENLINK}tnk1/br-02-20|[[ביאור:ביאור:בראשית ב20|ig;
 s|${OPENLINK}tnk1/br-02-16|[[ביאור:ביאור:בראשית ב16|ig;
 s|${OPENLINK}tnk1/br-02-15|[[ביאור:ביאור:בראשית ב15|ig;
 s|${OPENLINK}tnk1/br-01-8|[[ביאור:ביאור:בראשית א8|ig;
-s|${OPENLINK}tnk1/br-01-28|[[ביאור:ביאור:בראשית א28|ig;
 s|${OPENLINK}tnk1/br-01-23|[[ביאור:ביאור:בראשית א23|ig;
 s|${OPENLINK}tnk1/br-01-19|[[ביאור:ביאור:בראשית א19|ig;
 s|${OPENLINK}tnk1/br-01-14|[[ביאור:ביאור:בראשית א14|ig;
