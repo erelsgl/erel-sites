@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-09-30 01:54:46
+# This file was automatically generated at 2018-09-30 08:57:38
 
 sub wikia_replace_links {
 $_=shift;
@@ -10568,6 +10568,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/rgn|[[ביאור:נרגן = האשים את הזו�
 s|${OPENLINK}tnk1/kma/qjrim1/rfaim|[[ביאור:רפאים = א. ענקים, ב. מתים|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/rek|[[ביאור:רעך = מכרך|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/reh|[[ביאור:רעה = שהה זמן רב ב- / עם-, או: הלך בעקבות-|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/rdh|[[ביאור:רדה = שלט בחזקה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/rca|[[ביאור:רצון = חפץ-לב או חיבה או התפייסות|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/qyc|[[ביאור:קיץ = פירות בשלים, והעונה שבה מבשילים הפירות|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/qrqa|[[ביאור:קרקע = תחתית הבית|ig;

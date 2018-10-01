@@ -12950,3 +12950,63 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/kma/qjrim1/jm1.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/rdh1.html',
+				'tnk1/kma/qjrim1/rdh.html',
+				NULL,
+				'2018-09-30 08:33:42',
+				'2018-09-30 08:33:42',
+				'רדה = שלט בחזקה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳”׳’׳“׳¨׳”', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/kma/qjrim1/rdh.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/kma/qjrim1/rdh.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-30 15:18:38'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_mjpt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-30 16:05:01'
+		WHERE ktovt_bn='tnk1/tora/brejit/mgdl_bvl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-30 20:20:57'
+		WHERE ktovt_bn='tnk1/ljon/dq/armit.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-09-30 20:22:05'
+		WHERE ktovt_bn='tnk1/ljon/dq/armit.html'
+		;
+

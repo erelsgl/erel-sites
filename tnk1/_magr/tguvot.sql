@@ -11173,3 +11173,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_mjpt.html',
+		'<p>אז מהם הזכויות</p>',
+		'100073547396625105853',
+		'skull trooper',
+		'2018-09-30 15:18:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mgdl_bvl.html',
+		'<p>צריך להבין מה הרתיח את דמו של השם שנצטרך לרדת ולהתערב. </p><p>האם זה המגדל הגבוה? האחדות וההתלכדות של קבוצת אנשים? ברור שלא.</p><p>אלא זוהי כוונת הזדון  שלהם לסתור, לבזות ולהשכיח את מלכותו של שם שמיים מלב האדם !</p><p>גם היום ישנם רבים שמאמינים במצח נחושה בדת המדע והטכנולוגיה וגוזרים ממנה כפירה ברעיון האלוהי. וכשהאידיאולוגיה הרעה הזאת כובשת לבבות והופכת לחזון כל הארץ יורד האל ומתערב.</p><p>נ&quot;ב: כך עשה לאחרונה גם לנאצים ועוזריהם, ימח שמם וזכרם.</p>',
+		'105603448719652838244',
+		'bennyc4268',
+		'2018-09-30 16:05:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/dq/armit.html',
+		'<p>בכתובת תל דן שהוצבה לציון נצחון חזראל הארמי על מלכי ישראל ויהודה, וזמנה המאה התשיעת לסה&quot;נ מופיע המנוח &quot;ארק&quot; במשמעות &quot;ארץ&quot;</p>',
+		'110235978647709621906',
+		'Red Heifer',
+		'2018-09-30 20:20:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-09-30 20:21:37' 
+			WHERE messageid=8226;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/dq/armit.html',
+		'<p>בכתובת תל דן שהוצבה לציון נצחון חזראל הארמי על מלכי ישראל ויהודה, וזמנה המאה התשיעית לפסה&quot;נ, מופיע המנוח &quot;ארק&quot; במשמעות &quot;ארץ&quot;</p>',
+		'110235978647709621906',
+		'Red Heifer',
+		'2018-09-30 20:22:05'
+		)
+		;
+
