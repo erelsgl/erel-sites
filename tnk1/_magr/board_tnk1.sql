@@ -13064,3 +13064,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-10-02 20:04:59'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-04 08:06:23'
+		WHERE ktovt_bn='tnk1/tora/brejit/mgdl_bvl_2039.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-04 08:07:25'
+		WHERE ktovt_bn='tnk1/tora/brejit/mgdl_bvl_2039.html'
+		;
+

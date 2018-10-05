@@ -11240,3 +11240,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mgdl_bvl_2039.html',
+		'<p>המילה &quot;שם&quot; באקדית הפרוש חללית\\ רכב חלל.</p><p>המגדל זה היה למעשה חללית .הם רצו לעלות לכובב ממנו באו</p>',
+		'105500942132609311415',
+		'y',
+		'2018-10-04 08:06:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mgdl_bvl_2039.html',
+		'<p>&quot;נעשה לנו שם&quot; </p><p>נעשה לנו חללית</p>',
+		'105500942132609311415',
+		'y',
+		'2018-10-04 08:07:25'
+		)
+		;
+
