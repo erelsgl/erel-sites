@@ -11264,3 +11264,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום רב שיפצתי את הבית ונקלעתי לבעיה כספית לרהיטים  אשמח אם יחזרו אליי לגבי הלוואה 0526937803</p>',
+		'113525430634291642846',
+		'לירון כהן',
+		'2018-10-06 07:16:14'
+		)
+		;
+

@@ -13080,3 +13080,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/mgdl_bvl_2039.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/yjral_mwl_al_nkr.pdf',
+				NULL,
+				'2018-10-05 13:58:15',
+				'2018-10-05 13:58:15',
+				'אל ישראל מול אל נכר',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-06 07:16:14'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
