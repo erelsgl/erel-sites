@@ -11276,3 +11276,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-10-06 17:51:24' 
+			WHERE messageid=8081;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/rcx_amsa.html',
+		'<p>לכן יש מקום לטעון שהפרק הזה קרה הרבה יותר מוקדם (בתחילת מלכותו של דוד) - משיעורי הרב וינר</p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2018-10-06 21:43:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_10_0.html',
+		'<p>הקישור למאמר המלא לא פועל </p><p> נא לתקן או להעביר גם אלי </p><p>charlapg.archi@gmail.com</p>',
+		'112355409146879783409',
+		'גדעון חרלפ',
+		'2018-10-07 05:46:12'
+		)
+		;
+

@@ -13104,3 +13104,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/get.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-06 21:43:32'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/rcx_amsa.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-07 05:46:12'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_10_0.html'
+		;
+
