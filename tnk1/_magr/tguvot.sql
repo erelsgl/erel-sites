@@ -11307,3 +11307,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-41-32.html',
+		'<p>אז ככה יש לי שאלה חלמתי על ילד שאני מאוד מחבבת חלמתי שאנחנו מדברים וצוחקים והכל באמת זורם ואז קמתי ואחרי זה חזרתי לישון עוד פעם ואז עוד פעם חלמתי עליו ואז חזרתי עוד פעם לישון ועוד פעם חלמתי עליו *בשעות הבוקר</p>',
+		'100634372675918771739',
+		'shani shalom',
+		'2018-10-08 20:11:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-41-32.html',
+		'<p>אז ככה יש לי שאלה חלמתי על ילד שאני מאוד מחבבת חלמתי שאנחנו מדברים וצוחקים והכל באמת זורם ואז קמתי ואחרי זה חזרתי לישון עוד פעם ואז עוד פעם חלמתי עליו ואז חזרתי עוד פעם לישון ועוד פעם חלמתי עליו *בשעות הבוקר</p>',
+		'100634372675918771739',
+		'shani shalom',
+		'2018-10-08 20:12:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-10-09 06:50:51' 
+			WHERE messageid=8235;
+

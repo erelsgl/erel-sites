@@ -3758,3 +3758,41 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/dmut_dmut_10_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-41-32.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-10-08 20:11:58'
+		WHERE parent='tnk1/tora/brejit/br-41-32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-41-32.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-10-08 20:12:29'
+		WHERE parent='tnk1/tora/brejit/br-41-32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-10-09 06:50:51'
+			WHERE parent='tnk1/tora/brejit/br-41-32.html'
+			;
+

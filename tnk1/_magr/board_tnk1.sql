@@ -13120,3 +13120,88 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/dmut_dmut_10_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/adam_and_eve.pdf',
+				NULL,
+				'2018-10-08 17:18:12',
+				'2018-10-08 17:18:12',
+				'Adam and Eve',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-10-08 17:18:12'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1046.html',
+				NULL,
+				'2018-10-08 20:00:37',
+				'2018-10-08 20:00:37',
+				'שיר על: פורומים, דיונים',
+				'נח, מצא חן בעיני ה\'/ שיר מאת: אהובה קליין (c)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-10-08 20:00:37'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-08 20:11:58'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-41-32.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-08 20:12:29'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-41-32.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1047.html',
+				NULL,
+				'2018-10-09 04:28:09',
+				'2018-10-09 04:28:09',
+				'פרשת נח- במה נח מצא  חן- בעיני ה\'?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-10-09 04:28:09'
+			WHERE ktovt_bn='tnk1/forums.html';
+
