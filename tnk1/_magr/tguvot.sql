@@ -11350,3 +11350,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/06-10.html',
+		'<p>כל כך יפה ומעשיר את הקורא ,חזק וברוך!!</p>',
+		'117105428444818318183',
+		'יוסף חיים יוסף',
+		'2018-10-14 16:44:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-27-19-sachnashim.html',
+		'<p>בפסוק זה אני משתמש לאימון מנטאלי להסביר תהליכים רגשיים בליבו באדם.</p><p>ולפעמים הפסוק מסייע לנו להתמודד עם רגשות קשים מאוד.</p>',
+		'106086796194702415484',
+		'רם מנשה',
+		'2018-10-14 18:54:12'
+		)
+		;
+

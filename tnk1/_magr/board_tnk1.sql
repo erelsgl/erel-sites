@@ -13213,3 +13213,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-21-37.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-14 16:44:51'
+		WHERE ktovt_bn='tnk1/ktuv/mj/06-10.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-10-14 18:54:12'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-27-19-sachnashim.html'
+		;
+
