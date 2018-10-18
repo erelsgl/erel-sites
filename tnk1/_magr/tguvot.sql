@@ -11374,3 +11374,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_1048.html',
+		'<p>כל הכבוד על המאמר המחכים והמקיף.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-10-17 14:16:20'
+		)
+		;
+
