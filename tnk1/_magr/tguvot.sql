@@ -11386,3 +11386,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_38.html',
+		'<p>מוזמנים לאתר שלי: </p><p>אור חדש על שפה עתיקה, לכל מילה יש כפיל ניגודי</p><p></p>',
+		'115724810730240993800',
+		'Orna Lieberman',
+		'2018-10-19 08:04:32'
+		)
+		;
+
