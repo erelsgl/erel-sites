@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-09-30 08:57:38
+# This file was automatically generated at 2018-10-20 17:42:47
 
 sub wikia_replace_links {
 $_=shift;
@@ -3800,6 +3800,7 @@ s|${OPENLINK}tnk1/messages/_akylt_bely_xyym_fmaym_.jpg|[[ביאור:ציור א�
 s|${OPENLINK}tnk1/messages/_005.jpg|[[ביאור:ציור השלום 005|ig;
 s|${OPENLINK}tnk1/messages/ywm_ywm_xkmh_bxwqw_xwg.pdf|[[ביאור:שעשועים יום יום חכמה בחוקו חוג|ig;
 s|${OPENLINK}tnk1/messages/ykwl_hyh_lrbe_megl.pdf|[[ביאור:אוקלידס יכול היה לרבע מעגל|ig;
+s|${OPENLINK}tnk1/messages/yjral_mwl_al_nkr.pdf|[[ביאור:אל ישראל מול אל נכר|ig;
 s|${OPENLINK}tnk1/messages/yhwh_lewlm.pdf|[[ביאור:ואמת יהוה לעולם|ig;
 s|${OPENLINK}tnk1/messages/yg_jl_rxmym___hmjk.docx|[[ביאור:מידה י"ג של רחמים (מאמר שלישי)|ig;
 s|${OPENLINK}tnk1/messages/xzq_wamc.pdf|[[ביאור:מעגל חזק ואמץ|ig;
@@ -4033,7 +4034,9 @@ s|${OPENLINK}tnk1/messages/sofrim_shabot_index_15|[[ביאור:גוף ונשמה
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_14|[[ביאור:גוף ונשמה 8|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_13|[[ביאור:גוף ונשמה 7|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_12|[[ביאור:גוף ונשמה 6|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_119|[[ביאור:מיינה של תורה - סדרה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_118|[[ביאור:מלחמת יוה"כ מזווית ראייתו של ילד בן 12 בחלב|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_117|[[ביאור:חשבון נפש|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_116|[[ביאור:מי כתב את התורה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_115|[[ביאור:מסר התורה שפוספס|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_114|[[ביאור:סיפור יהודי-ישראלי|ig;
@@ -6448,6 +6451,7 @@ s|${OPENLINK}tnk1/messages/new_7|[[ביאור:זוג ההיפוכים קם - מ�
 s|${OPENLINK}tnk1/messages/new_6|[[ביאור:מצוות אנשים מלומדה לעומת רוח החסד|ig;
 s|${OPENLINK}tnk1/messages/new_5|[[ביאור:ארבע מידות באדם - הצד הכלכלי|ig;
 s|${OPENLINK}tnk1/messages/new_4|[[ביאור:דרשה קצרה לפסח וליום העצמאות|ig;
+s|${OPENLINK}tnk1/messages/new_38|[[ביאור:צמד ההפכים אד-איד|ig;
 s|${OPENLINK}tnk1/messages/new_37|[[ביאור:מעולם לא נלמד מהתנך שני ימי חודש !|ig;
 s|${OPENLINK}tnk1/messages/new_36|[[ביאור:וקצותה את כפה|ig;
 s|${OPENLINK}tnk1/messages/new_35|[[ביאור:האם ניתן לאבד את הצלם?|ig;
@@ -8057,6 +8061,12 @@ s|${OPENLINK}tnk1/messages/forums_108|[[ביאור:פרשת שמיני - בעל�
 s|${OPENLINK}tnk1/messages/forums_107|[[ביאור:'גדי קטן' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_106|[[ביאור:'הכוהנים בפתח אוהל מועד' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_105|[[ביאור:פרשת צו - אבן יסוד לחינוך העולם|ig;
+s|${OPENLINK}tnk1/messages/forums_1049|[[ביאור:' הגר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1048|[[ביאור:פרשת לך לך - מי הייתה הגר, כיצד הפכה לשפחה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1047|[[ביאור:פרשת נח - במה נח מצא  חן - בעיני ה'?|ig;
+s|${OPENLINK}tnk1/messages/forums_1046|[[ביאור:'נח מצא חן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1045|[[ביאור:'קין וחטאו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1044|[[ביאור:פרשת בראשית - מהו שורש  חטאו של קין?|ig;
 s|${OPENLINK}tnk1/messages/forums_1043|[[ביאור:'משה,שמים וארץ' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1042|[[ביאור:פרשת האזינו - מה גנוז בה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1041|[[ביאור:'שירת החיים' - שיר מאת אהובה קליין (c)|ig;
@@ -8361,6 +8371,7 @@ s|${OPENLINK}tnk1/messages/ajr_yhyh_baxryt_hzem.pdf|[[ביאור:המעגל אש
 s|${OPENLINK}tnk1/messages/ajr_am_jaw_erym_mayn_ywjb.pdf|[[ביאור:עד אשר אם - שאו ערים מאין יושב|ig;
 s|${OPENLINK}tnk1/messages/agriculture.pdf|[[ביאור:Agriculture|ig;
 s|${OPENLINK}tnk1/messages/adnwt.doc|[[ביאור:שם אדנות (.doc)|ig;
+s|${OPENLINK}tnk1/messages/adam_and_eve.pdf|[[ביאור:Adam and Eve|ig;
 s|${OPENLINK}tnk1/messages/7778|[[ביאור:פסוקים ללא נושא ברור|ig;
 s|${OPENLINK}tnk1/messages/7072|[[ביאור:שמו של גלית|ig;
 s|${OPENLINK}tnk1/messages/7067|[[ביאור:צפון, סבון|ig;

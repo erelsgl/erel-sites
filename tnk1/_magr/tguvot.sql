@@ -11398,3 +11398,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2309_0.html',
+		'<p>קח לדוגמא את המושיע הראשון של ישראל שמן המים משו אותו - כלומר גם הוא היה נושע שהושיע. </p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2018-10-20 21:31:13'
+		)
+		;
+
