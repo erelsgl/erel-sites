@@ -11410,3 +11410,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/4ktot.html',
+		'<p>האם לכבד רב לשם טובת הנאה זו חנופה</p>',
+		'114153762948654844919',
+		'מרים ארביב',
+		'2018-10-21 14:28:07'
+		)
+		;
+
