@@ -11422,3 +11422,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/drk1_sdom.html',
+		'<p>יישר כוח, מעניין מאוד!</p><p>אהבתי את הקישור וההשלכה שעשית לימינו!</p>',
+		'109445666800209983152',
+		'אריאל פרוינדליך',
+		'2018-10-26 10:12:35'
+		)
+		;
+
