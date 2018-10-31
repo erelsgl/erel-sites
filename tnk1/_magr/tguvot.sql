@@ -11434,3 +11434,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-02-eitn.html',
+		'<p>איפה יש חסד בשיר השירים ב?</p><p></p>',
+		'113579257325454716398',
+		'Nikol',
+		'2018-10-30 10:36:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-02-eitn.html',
+		'<p>משל יפה וראוי רק הערה קטנה: לא דוד מנסה לקטוף את השושנה כי אם בנו שלמה מחבר שיר השירים.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-10-30 20:42:32'
+		)
+		;
+

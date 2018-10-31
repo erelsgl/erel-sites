@@ -3916,3 +3916,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/brejit/drk1_sdom.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/jj-02-eitn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-10-30 10:36:46'
+		WHERE parent='tnk1/ktuv/mgilot/jj-02-eitn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/jj-02-eitn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-10-30 20:42:32'
+		WHERE parent='tnk1/ktuv/mgilot/jj-02-eitn.html'
+		;
+
