@@ -13619,3 +13619,33 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-02-eitn.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/600.html',
+				'tnk1/nvir/joftim/jf-16-17.html',
+				NULL,
+				'2018-11-03 16:26:47',
+				'2018-11-03 16:26:47',
+				'מדוע כוחו של שמשון תלוי בשער?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-03 16:31:18'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-02-eitn.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/prqim_t29_4.html';
+

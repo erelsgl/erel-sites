@@ -11458,3 +11458,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-02-eitn.html',
+		'<p>נראה לי שהכוונה לא לדָוִד אלא לדוֹד - זה כינויו של החתן בשיר השירים.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-11-03 16:31:18'
+		)
+		;
+
