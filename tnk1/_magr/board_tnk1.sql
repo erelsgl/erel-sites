@@ -13649,3 +13649,73 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/messages/prqim_t29_4.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-06 05:44:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-06 05:45:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-06 05:47:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1053.html',
+				NULL,
+				'2018-11-06 06:46:12',
+				'2018-11-06 06:46:12',
+				'פרשת תולדות- מכירת הבכורה והשפעתה לדורות/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-11-06 06:46:12'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1054.html',
+				NULL,
+				'2018-11-06 06:46:23',
+				'2018-11-06 06:46:23',
+				'פרשת תולדות- מכירת הבכורה והשפעתה לדורות/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-11-06 06:46:23'
+			WHERE ktovt_bn='tnk1/forums.html';
+
