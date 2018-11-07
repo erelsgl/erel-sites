@@ -4022,3 +4022,155 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t0319_4.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-23-15.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 09:48:43'
+		WHERE parent='tnk1/tora/brejit/br-23-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-23-15.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 09:49:58'
+		WHERE parent='tnk1/tora/brejit/br-23-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/br-23-15.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 10:35:55'
+		WHERE parent='tnk1/tora/brejit/br-23-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 12:39:04'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 12:44:41'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 12:46:05'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-06 12:46:11'
+			WHERE parent='tnk1/messages/prqim_t0533_4.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-06 12:46:14'
+			WHERE parent='tnk1/messages/prqim_t0533_4.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 13:01:00'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-06 13:01:39'
+			WHERE parent='tnk1/messages/prqim_t0533_4.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2619_1.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-06 13:10:50'
+		WHERE parent='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-06 13:47:36'
+			WHERE parent='tnk1/tora/brejit/br-23-15.html'
+			;
+
