@@ -11644,3 +11644,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-11-06 13:47:36' 
 			WHERE messageid=8250;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום אשמח שיצרו איתי קשר זקוקה להלוואה דחופה 0542531334 תודה</p>',
+		'113723918403215329401',
+		'אתי עמוס',
+		'2018-11-07 08:03:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>זקוקה להלוואה דחופה אשמח שיצרו עימי קשר תודה 0542531334</p>',
+		'113723918403215329401',
+		'אתי עמוס',
+		'2018-11-07 08:04:16'
+		)
+		;
+
