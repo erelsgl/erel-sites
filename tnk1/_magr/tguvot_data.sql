@@ -4204,3 +4204,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/hvdlim1/pljt_etc.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-08 08:03:26'
+		WHERE parent='tnk1/kma/hvdlim1/pljt_etc.html'
+		;
+

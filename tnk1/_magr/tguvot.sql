@@ -11668,3 +11668,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/pljt_etc.html',
+		'<p>חרא בלבן יזונות</p>',
+		'111476542229517187395',
+		'elad jaffa',
+		'2018-11-08 08:03:26'
+		)
+		;
+
