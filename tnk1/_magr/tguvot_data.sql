@@ -4219,3 +4219,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/hvdlim1/pljt_etc.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-09 13:39:04'
+			WHERE parent='tnk1/kma/hvdlim1/pljt_etc.html'
+			;
+
