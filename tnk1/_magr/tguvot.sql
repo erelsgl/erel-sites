@@ -11773,3 +11773,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוק להלוואה דחופה 0547221909</p>',
+		'110961231284825487511',
+		'hagai tahabash',
+		'2018-11-12 17:39:45'
+		)
+		;
+
