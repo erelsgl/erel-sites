@@ -11940,3 +11940,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_121.html',
+		'<p>יש בינינו עוד כמה הבדלים לא יודע אם ספר יספיק למנות אותם. תודה אראל ושבת שלום</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2018-11-16 13:18:53'
+		)
+		;
+
