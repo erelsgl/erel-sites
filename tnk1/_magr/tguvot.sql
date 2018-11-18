@@ -11952,3 +11952,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p></p>',
+		'105129698364812089320',
+		'noya noya',
+		'2018-11-17 18:17:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p>אפשר בבקשה רשימה שמית לפי סדר ספרי התנך של כל הנפשות הפועלות</p>',
+		'105129698364812089320',
+		'noya noya',
+		'2018-11-17 18:17:44'
+		)
+		;
+
