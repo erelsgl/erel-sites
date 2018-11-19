@@ -11976,3 +11976,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/new_40.html',
+		'<p>בראשית יב6: &quot;וַיַּעֲבֹר אַבְרָם בָּאָרֶץ עַד מְקוֹם שְׁכֶם עַד אֵלוֹן מוֹרֶה וְהַכְּנַעֲנִי אָז בָּאָרֶץ&quot;  </p><p> וְהַכְּנַעֲנִי אָז בָּאָרֶץ =  וְהַכְּנַעֲנִי עז בָּאָרֶץ = לאמור כי הכנעני אז חזק בארץ ואברהם לא יכול נגדו בלעדי אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-11-18 19:08:48'
+		)
+		;
+
