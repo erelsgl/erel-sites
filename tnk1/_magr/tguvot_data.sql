@@ -4636,3 +4636,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t08b24_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_6.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-21 10:29:32'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+

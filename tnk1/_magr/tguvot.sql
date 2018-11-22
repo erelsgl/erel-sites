@@ -12019,3 +12019,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>תתפללו דחוף לרפואה שלמה לסיוון בת זהבה</p><p></p>',
+		'112264542884836122008',
+		'זהבה אדרעי',
+		'2018-11-21 10:29:32'
+		)
+		;
+
