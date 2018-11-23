@@ -12031,3 +12031,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-22 19:47:14' 
+			WHERE messageid=8279;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p>אין לי רשימה לפי סדר התנ&quot;ך, רק לפי סדר אלפביתי או לפי עץ משפחה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-11-22 19:47:56'
+		)
+		;
+
