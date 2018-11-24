@@ -12050,3 +12050,250 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>ןל</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:18:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:19:03' 
+			WHERE messageid=8286;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>תקרא מרואן</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:20:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>נוווווווווווווו תקרא ותסכם</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:21:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>מרוון מרוון מרוון מרוון</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:21:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>מרוון מראון נננננננננננננננ</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:21:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>מכוער שתוקקקקקקקקקקקקק</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:21:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>טיפש מקוק</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:21:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>חחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחח תקרא אני הולך</p>',
+		'111386165813028960344',
+		'liam mannor',
+		'2018-11-23 09:21:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>מקוק</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:21:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>קוק</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:22:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>למה חזרת</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:22:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:58:57' 
+			WHERE messageid=8287;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:58:57' 
+			WHERE messageid=8288;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:58:58' 
+			WHERE messageid=8289;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:58:58' 
+			WHERE messageid=8290;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:58:59' 
+			WHERE messageid=8293;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>אנח ליעם ואני אדיוטטטט</p><p></p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:59:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/rxv.html',
+		'<p>אני שמןן</p>',
+		'115715061990709665685',
+		'Marwan Halabi',
+		'2018-11-23 09:59:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:20' 
+			WHERE messageid=8298;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:21' 
+			WHERE messageid=8297;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:23' 
+			WHERE messageid=8296;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:24' 
+			WHERE messageid=8295;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:26' 
+			WHERE messageid=8294;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:27' 
+			WHERE messageid=8292;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-23 09:59:32' 
+			WHERE messageid=8291;
+
