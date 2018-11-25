@@ -4973,3 +4973,56 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/nvir/yhojua/rxv.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/amozeg/mqorot/ljon_hra.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-24 09:40:45'
+		WHERE parent='tnk1/sofrim/amozeg/mqorot/ljon_hra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/jjn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-24 20:39:31'
+		WHERE parent='tnk1/kma/qjrim1/jjn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/jjn.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-11-24 20:39:58'
+		WHERE parent='tnk1/kma/qjrim1/jjn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2018-11-25 07:17:48'
+			WHERE parent='tnk1/kma/qjrim1/jjn.html'
+			;
+

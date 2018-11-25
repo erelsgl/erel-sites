@@ -12297,3 +12297,46 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-11-23 09:59:32' 
 			WHERE messageid=8291;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/amozeg/mqorot/ljon_hra.html',
+		'<p>קצת תמוה בעיניי כיצד מאפשרים לכתבים מסוימים המגובים על ידי בעלי שליטה בעיתונים לשחרר ניצרה ואיךו לא להמתין שנייה לפני זריקת הרימון המורעל  בהכפשות וחצאי אמת על בני אדם מבלי לתחקר, מבלי לבדוק ביסודיות שלא נותרה כינה בראשם, מבלי לפנות לגורמי השלטון האחראים על התנהגות האזרחים בקבוצה וקובעים את מתחם הסבירות בהתנהגות האדם הסביר, השכל הישר  ההיגיון  הבריא.</p><p>פשוט: זורקים, אם תפס, אז 100 טון בטון, אם לא, לא קרה כלום הרגנו נפש וחיסלנו עוד אחד.</p><p>על כך אמר נאמר : המנהיגים עסוקים בטכנולוגיה המתקדמת והמתפתחת ויחד עם זאת, משחיתה ומאיצה  המוות שלנו.</p><p>לא קם מנהיג בדור  שיתפור 3 סוגיות אנושיות כפלטפורמה ליקום : יציב יותר, מאוזן, הגון יותר, בריא יותר ושמח יותר :</p><p>1. הרוע האנושי - מאיפה זה בא ? 2. הסבל האנושי, האם איבדנו את החמלה ?  3. המוות - מי הבא בתור ומי בתור הבא !</p>',
+		'117046615161858207805',
+		'יעקב עזרא',
+		'2018-11-24 09:40:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jjn.html',
+		'<p>אני שמעתי שיש 13 עלי כותרת לשושנה ואנשים משתמשים בזה בהזמנת פרחים לשמחה כיג\' מידות.</p><p>ולואי שנזכה כל עמ,י רק לשמחות</p>',
+		'110031778712088522825',
+		'יהודית רוטנר',
+		'2018-11-24 20:39:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jjn.html',
+		'<p></p>',
+		'110031778712088522825',
+		'יהודית רוטנר',
+		'2018-11-24 20:39:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-25 07:17:48' 
+			WHERE messageid=8301;
+
