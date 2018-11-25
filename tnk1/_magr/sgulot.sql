@@ -3708,3 +3708,43 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 5 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 2 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mqorot` = '<p><strong>אחרית</strong>              \r\n<a href=\"http://localhost/tnk1/kma/qjrim1/axrit.html\">= תקופה מאוחרת, שבה המציאות אחרת</a>. הפסוק מדגיש את ההבדל בין הפיתוי לבין התוצאה המאוחרת שלו.</p><p>הפסוקים 3-4 כתובים\r\n<a href=\"http://localhost/tnk1/kma/qjrim1/tvlaot.html\">כטבלה</a>:</p><p><q class=\"psuq\">כִּי נֹפֶת תִּטֹּפְנָה שִׂפְתֵי זָרָה / וְחָלָק מִשֶּׁמֶן חִכָּהּ;</q></p><p><q class=\"psuq\">וְאַחֲרִיתָהּ מָרָה כַלַּעֲנָה / חַדָּה כְּחֶרֶב פִּיּוֹת.</q></p>             \r\n           \r\n                                                                        \r\n<p>     בכל טור יש ניגוד:\r\n<br />\r\n</p>             <ul><li>בטור הימני, \r\n<strong>הנופת</strong>                   המתוקה מנוגדת \r\n<strong>ללענה</strong>,              \r\n<a href=\"http://localhost/tnk1/kma/qjrim1/lan.html\">שהיא עשב מר</a>;</li><li>בטור השמאלי, \r\n<strong>השמן החלק</strong>                   מנוגד \r\n<strong>לחרב</strong>                   \r\n<strong>החדה</strong>.</li></ul>\r\n             \r\n           \r\n           \r\n           \r\n<p>             \r\nהמבנה מדגיש את הניגוד - ככל שהפיתוי מתוק ונעים יותר בתחילתו, כך הוא מר וכואב יותר בסופו. \r\n<strong>אחריתה</strong>                   - סוף הקשר עם האישה הזרה - \r\n<strong>מרה כלענה</strong>                   - גורם לתחושת מרירות והחמצה, \r\n<strong>חדה כחרב פיות</strong>                   - גורם לכאב חד ודוקר. </p><p><strong>חרב פיות</strong> <a href=\"http://localhost/tnk1/kma/qjrim1/xerev.html\">היא חרב עם שני \"פיות\", שני צדדים מחודדים</a>. ולפי המדרש: \"<q class=\"mfrj\">מה החרב אוכלת משני צדדין, כך זונה מאבדת חייו של אדם מחיי העולם הזה ומחיי העולם הבא</q>\" \r\n<small>(ר\' יהושע, מדרש משלי)</small>.</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 5 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 2 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mqorot` = '<p><strong>אחרית</strong>              \r\n<a href=\"http://localhost/tnk1/kma/qjrim1/axrit.html\">= תקופה מאוחרת, שבה המציאות אחרת</a>. הפסוק מדגיש את ההבדל בין הפיתוי לבין התוצאה המאוחרת שלו.</p><p>הפסוקים 3-4 כתובים\r\n<a href=\"http://localhost/tnk1/kma/qjrim1/tvlaot.html\">כטבלה</a>:</p><p><q class=\"psuq\">כִּי נֹפֶת תִּטֹּפְנָה שִׂפְתֵי זָרָה / וְחָלָק מִשֶּׁמֶן חִכָּהּ;</q></p><p><q class=\"psuq\">וְאַחֲרִיתָהּ מָרָה כַלַּעֲנָה / חַדָּה כְּחֶרֶב פִּיּוֹת.</q></p>             \r\n           \r\n                                                                        \r\n<p>     בכל טור יש ניגוד:\r\n<br />\r\n</p>             <ul><li>בטור הימני, \r\n<strong>הנופת</strong>                   המתוקה מנוגדת \r\n<strong>ללענה</strong>,              \r\n<a href=\"http://localhost/tnk1/kma/qjrim1/lan.html\">שהיא עשב מר</a>;</li><li>בטור השמאלי, \r\n<strong>השמן החלק</strong>                   מנוגד \r\n<strong>לחרב</strong>                   \r\n<strong>החדה</strong>.</li></ul>\r\n             \r\n           \r\n           \r\n           \r\n<p>             \r\nהמבנה מדגיש את הניגוד - ככל שהפיתוי מתוק ונעים יותר בתחילתו, כך הוא מר וכואב יותר בסופו. \r\n<strong>אחריתה</strong>                   - התוצאה של הקשר עם האישה הזרה - \r\n<strong>מרה כלענה</strong>                   - גורם לתחושה של מרירות - תחושה של \"איך נפלתי בפח?!\", \r\n<strong>חדה כחרב פיות</strong>                   - גורם לכאב חד ודוקר. </p><p><strong>חרב פיות</strong> <a href=\"http://localhost/tnk1/kma/qjrim1/xerev.html\">היא חרב עם שני \"פיות\", שני צדדים מחודדים</a>. ולפי המדרש: \"<q class=\"mfrj\">מה החרב אוכלת משני צדדין, כך זונה מאבדת חייו של אדם מחיי העולם הזה ומחיי העולם הבא</q>\" \r\n<small>(ר\' יהושע, מדרש משלי)</small>.</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 5 AND 1 LIMIT 1;
+
