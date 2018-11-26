@@ -248,3 +248,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'עם אלהים - ועם אנשים' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ישעיהו כז13' AND `sfr` = 'ויק' AND `prq0` = 'כו' AND `psuq0` = 38 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים קיט176' AND `sfr` = 'ויק' AND `prq0` = 'כו' AND `psuq0` = 38 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על הספר \"שבירת הלוחות\" מאת דוד הלבני' AND `sfr` = 'ויק' AND `prq0` = 'כו' AND `psuq0` = 38 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ככה יעשה לאיש אשר' AND `sfr` = 'דבר' AND `prq0` = 'כה' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מואב סיר רחצי' AND `sfr` = 'דבר' AND `prq0` = 'כה' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
