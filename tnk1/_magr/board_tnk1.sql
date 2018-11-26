@@ -14351,3 +14351,58 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/jjn.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-25 10:13:13'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-25 13:11:28'
+		WHERE ktovt_bn='tryg/ribit0/magrim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0tov.html',
+				'tnk1/tora/wyqra/wy-26-38.html',
+				NULL,
+				'2018-11-26 03:15:59',
+				'2018-11-26 03:15:59',
+				'ואבדתם בגויים?  ואכלה אתכם ארץ אויביכם?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-11-26 03:15:59'
+			WHERE ktovt_bn='tnk1/msr/0tov.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ybm.html',
+				'tnk1/tora/dvrim/dm-25-09.html',
+				NULL,
+				'2018-11-26 03:49:20',
+				'2018-11-26 03:49:20',
+				'ככה יעשה לאיש אשר לא יבנה את בית אחיו',
+				'אראל',
+				''
+			)
+		;
+
