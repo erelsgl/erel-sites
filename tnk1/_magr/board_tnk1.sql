@@ -14406,3 +14406,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-26 16:50:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
