@@ -12376,3 +12376,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-10.html',
+		'<p></p>',
+		'113462613947300396124',
+		'רזיאל סעדה',
+		'2018-11-27 13:22:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-27 13:23:06' 
+			WHERE messageid=8305;
+
