@@ -14445,3 +14445,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-11-28 06:37:25'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1062.html',
+				NULL,
+				'2018-11-28 12:38:42',
+				'2018-11-28 12:38:42',
+				'יוסף מושלך לבור/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-11-28 12:38:42'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-28 19:21:18'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-27-04.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-28 19:48:55'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-11-29 05:04:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
