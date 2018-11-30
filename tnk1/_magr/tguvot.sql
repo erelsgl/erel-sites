@@ -12431,3 +12431,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-11-29 12:22:55' 
+			WHERE messageid=8307;
+
