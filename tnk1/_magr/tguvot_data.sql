@@ -5147,3 +5147,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/wyqra/yom8.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0529_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-12-02 04:31:21'
+		WHERE parent='tnk1/messages/prqim_t0529_4.html'
+		;
+
