@@ -12450,3 +12450,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מבקשת להתפלל לרפואת סבוש שלי חנניה בן עישה עליזה </p><p> לרפואת הגוף והנפש ובסד יזכה לראות אותי תחת חופה וקידושין . תודה  רפואה שלמה לכל האהובים שלנו </p>',
+		'109515092789836653446',
+		'מירי אלבז',
+		'2018-12-02 20:39:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מבקשת להתפלל לרפואת סבוש שלי חנניה בן עישה עליזה </p><p> לרפואת הגוף והנפש ובסד יזכה לראות אותי תחת חופה וקידושין . תודה  רפואה שלמה לכל האהובים שלנו </p>',
+		'109515092789836653446',
+		'מירי אלבז',
+		'2018-12-02 20:39:54'
+		)
+		;
+
