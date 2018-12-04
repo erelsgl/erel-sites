@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2018-10-20 17:42:47
+# This file was automatically generated at 2018-12-04 06:45:49
 
 sub wikia_replace_links {
 $_=shift;
@@ -1164,6 +1164,7 @@ s|${OPENLINK}tnk1/tora/wyqra/yom8_1|[[ביאור:חנוכת המשכן - באי�
 s|${OPENLINK}tnk1/tora/wyqra/yom8|[[ביאור:אירועי היום השמיני|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-27-2829|[[ביאור:החרמת חיים|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-27-16|[[ביאור:מה ערכו של שדה?|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-26-38|[[ביאור:ואבדתם בגויים? ואכלה אתכם ארץ אויביכם?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-26-3435|[[ביאור:הארץ תנוח, איתנו או בלעדינו|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-26-29|[[ביאור:ואכלתם בשר בניכם|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-26-23|[[ביאור:ואם באלה לא תוסרו לי והלכתם עמי קרי|ig;
@@ -1510,6 +1511,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-28-0114|[[ביאור:הברכות בפרשת כ�
 s|${OPENLINK}tnk1/tora/dvrim/dm-26-06|[[ביאור:המצרים עשו אותנו רעים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-15b|[[ביאור:הקשר בין שלמות המידות במסחר לבין אריכות ימים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-1316-ky|[[ביאור:ה' מתעב גם מעשים ישרים שהרמאי עושה כדי שלא יחשדו בו|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-25-09|[[ביאור:ככה יעשה לאיש אשר לא יבנה את בית אחיו|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-06|[[ביאור:ולא ימחה שמו מישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-0103|[[ביאור:הלכות מכות בבית המשפט|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-09|[[ביאור:זכור את אשר עשה ה' אלהיך למרים בדרך בצאתכם ממצרים|ig;
@@ -2818,6 +2820,7 @@ s|${OPENLINK}tnk1/nvir/joftim/jf-2029-2103.doc|[[ביאור:מלחמת הגבע�
 s|${OPENLINK}tnk1/nvir/joftim/jf-19-02|[[ביאור:מה עשתה הפילגש ללוי|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-16-30.jpg|[[ביאור:שפ טז 30|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-16-19.jpg|[[ביאור:שפ טז 19|ig;
+s|${OPENLINK}tnk1/nvir/joftim/jf-16-17|[[ביאור:מדוע כוחו של שמשון תלוי בשער?|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-16|[[ביאור:שמשון ודלילה - כל המאמרים|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-15-15.jpg|[[ביאור:שפ טו 15 ???|ig;
 s|${OPENLINK}tnk1/nvir/joftim/jf-14-06.jpg|[[ביאור:שפ יד 6|ig;
@@ -4033,6 +4036,8 @@ s|${OPENLINK}tnk1/messages/sofrim_shabot_index_16|[[ביאור:גוף ונשמה
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_15|[[ביאור:גוף ונשמה 9|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_14|[[ביאור:גוף ונשמה 8|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_13|[[ביאור:גוף ונשמה 7|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_121|[[ביאור:הבריחה מסוריה|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_120|[[ביאור:מיינה של תורה - "בכור"|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_12|[[ביאור:גוף ונשמה 6|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_119|[[ביאור:מיינה של תורה - סדרה|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_118|[[ביאור:מלחמת יוה"כ מזווית ראייתו של ילד בן 12 בחלב|ig;
@@ -6450,7 +6455,9 @@ s|${OPENLINK}tnk1/messages/new_8|[[ביאור:זכות הדיבור חשובה �
 s|${OPENLINK}tnk1/messages/new_7|[[ביאור:זוג ההיפוכים קם - מק|ig;
 s|${OPENLINK}tnk1/messages/new_6|[[ביאור:מצוות אנשים מלומדה לעומת רוח החסד|ig;
 s|${OPENLINK}tnk1/messages/new_5|[[ביאור:ארבע מידות באדם - הצד הכלכלי|ig;
+s|${OPENLINK}tnk1/messages/new_40|[[ביאור:עוד משהו על "והכנעני אז בארץ"|ig;
 s|${OPENLINK}tnk1/messages/new_4|[[ביאור:דרשה קצרה לפסח וליום העצמאות|ig;
+s|${OPENLINK}tnk1/messages/new_39|[[ביאור:שפינוזה?|ig;
 s|${OPENLINK}tnk1/messages/new_38|[[ביאור:צמד ההפכים אד-איד|ig;
 s|${OPENLINK}tnk1/messages/new_37|[[ביאור:מעולם לא נלמד מהתנך שני ימי חודש !|ig;
 s|${OPENLINK}tnk1/messages/new_36|[[ביאור:וקצותה את כפה|ig;
@@ -8059,7 +8066,19 @@ s|${OPENLINK}tnk1/messages/forums_11|[[ביאור:'הר גרזים והר עיב
 s|${OPENLINK}tnk1/messages/forums_109|[[ביאור:פרשת תזריע מצורע - קורבן היולדת - מדוע?|ig;
 s|${OPENLINK}tnk1/messages/forums_108|[[ביאור:פרשת שמיני - בעלי חיים אסורים לאכילה - מדוע?|ig;
 s|${OPENLINK}tnk1/messages/forums_107|[[ביאור:'גדי קטן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1062|[[ביאור:'יוסף מושלך לבור' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1061|[[ביאור: פרשת וישב - מה גנוז בשנאת האחים ליוסף?|ig;
+s|${OPENLINK}tnk1/messages/forums_1060|[[ביאור:' יעקב רוכש חלקת שדה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_106|[[ביאור:'הכוהנים בפתח אוהל מועד' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1059|[[ביאור:פרשת וישלח - "איזהו חכם הרואה את הנולד"?|ig;
+s|${OPENLINK}tnk1/messages/forums_1058|[[ביאור:'ליד הבאר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1057|[[ביאור:פרשת ויצא - מה גנוז בפגישת יעקב ורחל ליד הבאר?|ig;
+s|${OPENLINK}tnk1/messages/forums_1056|[[ביאור:'אליעזר יוצא לדרך' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1055|[[ביאור:'מכירת הבכורה ליעקב' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1054|[[ביאור:פרשת תולדות - מכירת הבכורה והשפעתה לדורות|ig;
+s|${OPENLINK}tnk1/messages/forums_1052|[[ביאור:פרשת חיי שרה - מי היה אליעזר ומה הייתה שליחותו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1051|[[ביאור:'שרה וצחוקה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1050|[[ביאור:פרשת וירא - מה הקשר בין צחוקה של שרה - לעתיד עם ישראל?|ig;
 s|${OPENLINK}tnk1/messages/forums_105|[[ביאור:פרשת צו - אבן יסוד לחינוך העולם|ig;
 s|${OPENLINK}tnk1/messages/forums_1049|[[ביאור:' הגר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1048|[[ביאור:פרשת לך לך - מי הייתה הגר, כיצד הפכה לשפחה?|ig;
@@ -8363,6 +8382,7 @@ s|${OPENLINK}tnk1/messages/ashes_on_his_eyes.pdf|[[ביאור:Ashes on his eyes|
 s|${OPENLINK}tnk1/messages/ark_cover.pdf|[[ביאור:כפרת|ig;
 s|${OPENLINK}tnk1/messages/aram_naharaim.pdf|[[ביאור:Aram - Naharaim|ig;
 s|${OPENLINK}tnk1/messages/aps_mqwm.pdf|[[ביאור:עד אפס מקום|ig;
+s|${OPENLINK}tnk1/messages/anky_jwlx_lkm_at_alyh_hnbya.pdf|[[ביאור:הנה אנכי שולח לכם את אליה הנביא|ig;
 s|${OPENLINK}tnk1/messages/amwntw.pdf|[[ביאור:מעגל אמונתו|ig;
 s|${OPENLINK}tnk1/messages/all_the_king_s_men.pdf|[[ביאור:All the king's men|ig;
 s|${OPENLINK}tnk1/messages/alhym_lpnwt_bwqr.pdf|[[ביאור:יעזרה אלהים לפנות בוקר|ig;
