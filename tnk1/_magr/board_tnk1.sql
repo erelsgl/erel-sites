@@ -14975,3 +14975,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-12-08 17:46:55'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-10 16:43:12'
+		WHERE ktovt_bn='tnk1/kma/hvdlim1/pljt_mlxmot.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1065.html',
+				NULL,
+				'2018-12-10 20:49:48',
+				'2018-12-10 20:49:48',
+				' פרשת ויגש-הפגישה הדרמטית בין יוסף ובנימין והמסר?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2018-12-10 20:49:48'
+			WHERE ktovt_bn='tnk1/forums.html';
+

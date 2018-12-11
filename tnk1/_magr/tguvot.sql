@@ -12510,3 +12510,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/pljt_mlxmot.html',
+		'<p>יהושע רודף אחרי 5 מלכי האמורי מגבעון דרך מעלה בית חורון ובהמשך דרך עמק איילון בואך עזקה ומקדה. את מקדה הוא כובש. על עזקה לא מסופר שום דבר. עזקה היא על ציר התנועה של צבא יהושע . האם יתכן שעזקה הייתה נטושה באותה העת ?</p><p></p>',
+		'111637059906452714321',
+		'haviva hatuka',
+		'2018-12-10 16:43:12'
+		)
+		;
+
