@@ -15006,3 +15006,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-12-10 20:49:48'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-11 15:23:16'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-04.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-12 07:26:21'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-08-01.html'
+		;
+

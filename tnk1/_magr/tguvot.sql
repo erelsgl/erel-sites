@@ -12522,3 +12522,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-04.html',
+		'<p>עיין ברמב&quot;ן: א. זה הכלי היחיד שכיסו ביחד עם התוצרת שלו-לחם הפנים ולכן היה צורך בכיסוי נפרד ללחם לפני ששם את שאר כלי השולחן.</p><p>ב. הסיבה דווקא לתולעת שני קשורה לכך שיש קשר בין השולחן למידת הדין ולכן היותר חיצוני הוא אדום.</p>',
+		'111984207824200750236',
+		'יהודה מנדלבאום',
+		'2018-12-11 15:23:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>&quot;לעדן את הנשמה&quot;?</p><p>הנשמה - חלק אלוקי.</p><p>אולי התכוונת &quot;לגוף&quot;- שייך לעדן</p>',
+		'115341370079494769322',
+		'אבי צוברי',
+		'2018-12-12 07:26:21'
+		)
+		;
+
