@@ -12546,3 +12546,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-08-01.html',
+		'<p>בספר דניאל מופיע רבות המילה פשר ובארמית פשרא</p><p>דניאל ב4: &quot;וַיְדַבְּרוּ הַכַּשְׂדִּים לַמֶּלֶךְ אֲרָמִית מַלְכָּא לְעָלְמִין חֱיִי אֱמַר חֶלְמָא לעבדיך[לְעַבְדָךְ] וּפִשְׁרָא נְחַוֵּא&quot;</p><p>וּפִשְׁרָא נְחַוֵּא ------- נגיד את החלום נפתור אותו</p><p>לאמור כי פשר זה פתרון הבעיה או החלום ובאור הדברים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-12 14:29:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-23.html',
+		'<p>עוד על הקשר בין מצוות השמיטה והיובל לבין יוסף: </p><p>http://www.daat.ac.il/daat/maamar.asp?id=45</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-12-12 14:32:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-23.html',
+		'<p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בארץ הקודש זאת אחזת-יהוה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-12 14:50:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-23.html',
+		'<p>מה מיוחד בארץ? מדוע דווקא לארץ ישנו דין מיוחד?</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בארץ הקודש זאת אחזת-יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-12 14:51:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-12 14:51:52' 
+			WHERE messageid=8320;
+
