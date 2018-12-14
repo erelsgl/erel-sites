@@ -15054,3 +15054,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-13 12:37:33'
+		WHERE ktovt_bn='tnk1/sofrim/amozeg/ma/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-13 15:11:38'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-01-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-14 03:15:14'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-01-0910.html'
+		;
+

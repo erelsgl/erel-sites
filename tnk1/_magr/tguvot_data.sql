@@ -182,3 +182,48 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/wyqra/wy-25-23.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/amozeg/ma/index.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-12-13 12:37:33'
+		WHERE parent='tnk1/sofrim/amozeg/ma/index.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-01-0910.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-12-13 15:11:38'
+		WHERE parent='tnk1/tora/jmot/jm-01-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-01-0910.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2018-12-14 03:15:14'
+		WHERE parent='tnk1/tora/jmot/jm-01-0910.html'
+		;
+

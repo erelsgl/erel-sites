@@ -12601,3 +12601,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2018-12-12 14:51:52' 
 			WHERE messageid=8320;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/amozeg/ma/index.html',
+		'<p>תודה רבה קראת חלק מהמארים והחכמתי תודה רבה </p>',
+		'109999004408191298459',
+		'דוד החקיין',
+		'2018-12-13 12:37:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-01-0910.html',
+		'<p>לא מצליח למצוא את המאמר של פרו\' יהודה פינצ\'ובר על המניעים של פרעה. מעוין לקרוא את המאמר.</p><p>תודה,</p><p>אפרים</p>',
+		'118186370249718592012',
+		'Ephraim Even-Hen',
+		'2018-12-13 15:11:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-01-0910.html',
+		'<p>אכן הקישור כבר לא פעיל. מצאתי כמה גיליונות של &quot;שבת שלום&quot; כאן:  http://ozveshalom.org.il/  אפשר לנסות לחפש שם.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-12-14 03:15:14'
+		)
+		;
+
