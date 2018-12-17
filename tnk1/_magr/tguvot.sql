@@ -12811,3 +12811,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_121.html',
+		'<p>אלברט שלום.</p><p>כמוך גם הורי עלו מחלב ארצה, אך לצערי כל הסיפורים על גבורה וציונות, לא נשמעים היטב ונופלים על אזניים ערלות.</p><p>כל הקושי והתפתחות הרוע מצד המוסלמים, על הסיפורים מהכלא, סבי נתפס מבריח יהודים ארצה, ועונה בכלא באכזריות.</p><p>אז אני בטוח שישנם עוד המון סיפורי בריחה בדרכים עקלקלות, היה צריך מזמן לכתוב ספר או לפחות סרט דוקו.</p><p>בכל אופן המון בריאות והצלחה, תודה רבה על סיפור משפחתך.</p>',
+		'108019510514838379836',
+		'אבי סקף',
+		'2018-12-16 20:12:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_121.html',
+		'<p></p>',
+		'108019510514838379836',
+		'אבי סקף',
+		'2018-12-16 20:12:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_121.html',
+		'<p></p>',
+		'108019510514838379836',
+		'אבי סקף',
+		'2018-12-16 20:12:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p> מבקשת להתפלל לרפואת אופיר כהן בן </p><p>כנמצא כרגע בטיפול נמרץ . מונשם מורדם</p><p>פרק תהילים אחד, בכוחו לקרוע שערי שמיים </p><p>תעזרו לנו לקרוע שערי שמיים</p>',
+		'101975878753566898972',
+		'עדי חיזגיאייב',
+		'2018-12-16 23:05:03'
+		)
+		;
+
