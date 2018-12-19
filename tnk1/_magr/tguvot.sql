@@ -12883,3 +12883,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-18 11:40:56' 
+			WHERE messageid=8337;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-18 11:40:57' 
+			WHERE messageid=8338;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>הוספתי את מרים ודבורה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-12-18 12:14:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t06_0.html',
+		'<p>תודה</p><p></p>',
+		'100055127005723409244',
+		'shahar eder',
+		'2018-12-18 16:25:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_2.html',
+		'<p>לא עקבו ננקעה אלא &quot;כף ירך&quot; יעקב.  אזור אחר לגמרי.</p>',
+		'112736317587885100394',
+		'Yehuda Poch',
+		'2018-12-18 18:53:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_2.html',
+		'<p>כף הירך ליד איזור המפשעה על כן כתוב&quot;יוצאי ירך יעקב&quot;</p><p>שמות א5: &quot;וַיְהִי כָּל נֶפֶשׁ ***יֹצְאֵי יֶרֶךְ יַעֲקֹב*** שִׁבְעִים נָפֶשׁ וְיוֹסֵף הָיָה בְמִצְרָיִם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-18 23:12:19'
+		)
+		;
+
