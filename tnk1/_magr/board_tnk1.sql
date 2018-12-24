@@ -15324,3 +15324,83 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/yhojua/yhojua.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 13:25:08'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-13-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 15:00:25'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-13-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 15:03:03'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-13-13.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/mqrywt.pdf',
+				NULL,
+				'2018-12-23 16:20:48',
+				'2018-12-23 16:20:48',
+				'אין מקריות',
+				'ראובן זילברמן',
+				'reuven49 @ walla.co.il'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 18:11:13'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 18:28:02'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 18:33:59'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 18:35:18'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-23 22:47:28'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+

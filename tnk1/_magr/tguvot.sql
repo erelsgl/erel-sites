@@ -12969,3 +12969,120 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-13-13.html',
+		'<p>יש לשפר ולהסביר</p><p></p>',
+		'117521386135940795751',
+		'רן אזרזר',
+		'2018-12-23 13:25:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-23 13:25:17' 
+			WHERE messageid=8348;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-13-13.html',
+		'<p>אראל היקר כתבת נכון </p><p>וגם אני נזכרתי בפסוק הזה</p><p>דברי הימים ב לו16: &quot;וַיִּהְיוּ מַלְעִבִים בְּמַלְאֲכֵי הָאֱלֹהִים ***וּבוֹזִים דְּבָרָיו*** וּמִתַּעְתְּעִים בִּנְבִאָיו עַד עֲלוֹת חֲמַת יהוה בְּעַמּוֹ עַד לְאֵין מַרְפֵּא&quot;</p><p> וּבוֹזִים דְּבָרָיו ----- חבל ממש חבל [תרתי משמע]</p><p>---------------------------------------------------------------------</p><p>וגם יש מצוה לשמוע אל דברי הנביא</p><p>כי דבר מנביא זה מצוה אשר אלהים מצוך</p><p>ספר ירמיהו פרק יח כתוב:</p><p>(יח) וַיֹּאמְרוּ לְכוּ וְנַחְשְׁבָה עַל יִרְמְיָהוּ מַחֲשָׁבוֹת כִּי לֹא תֹאבַד תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא לְכוּ וְנַכֵּהוּ בַלָּשׁוֹן וְאַל נַקְשִׁיבָה אֶל כָּל דְּבָרָיו.</p><p>ספר יחזקאל פרק ז כתוב:</p><p>(כו) הֹוָה עַל הֹוָה תָּבוֹא וּשְׁמֻעָה אֶל שְׁמוּעָה תִּהְיֶה, וּבִקְשׁוּ חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא=</p><p>חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>אז ככה:</p><p>תּוֹרָה מִכֹּהֵן = תּוֹרָה מִכֹּהֵן</p><p>חָזוֹן מִנָּבִיא = וְדָבָר מִנָּבִיא [זאת מצות אלהים]</p><p>וְעֵצָה מִזְּקֵנִים = וְעֵצָה מֵחָכָם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-23 15:00:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-13-13.html',
+		'<p>אראל היקר נכון מאד כתבת</p><p>וגם אני נזכרתי בפסוק הזה</p><p>דברי הימים ב לו16: &quot;וַיִּהְיוּ מַלְעִבִים בְּמַלְאֲכֵי הָאֱלֹהִים ***וּבוֹזִים דְּבָרָיו*** וּמִתַּעְתְּעִים בִּנְבִאָיו עַד עֲלוֹת חֲמַת יהוה בְּעַמּוֹ עַד לְאֵין מַרְפֵּא&quot;</p><p>וּבוֹזִים דְּבָרָיו ----- חבל ממש חבל [תרתי משמע]</p><p>---------------------------------------------------------------------</p><p>וגם יש מצוה לשמוע אל דברי הנביא</p><p>כי דבר מנביא זה מצוה אשר אלהים מצוך</p><p>ספר ירמיהו פרק יח כתוב:</p><p>(יח) וַיֹּאמְרוּ לְכוּ וְנַחְשְׁבָה עַל יִרְמְיָהוּ מַחֲשָׁבוֹת כִּי לֹא תֹאבַד תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא לְכוּ וְנַכֵּהוּ בַלָּשׁוֹן וְאַל נַקְשִׁיבָה אֶל כָּל דְּבָרָיו.</p><p>ספר יחזקאל פרק ז כתוב:</p><p>(כו) הֹוָה עַל הֹוָה תָּבוֹא וּשְׁמֻעָה אֶל שְׁמוּעָה תִּהְיֶה, וּבִקְשׁוּ חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>תּוֹרָה מִכֹּהֵן וְעֵצָה מֵחָכָם וְדָבָר מִנָּבִיא=</p><p>חָזוֹן מִנָּבִיא וְתוֹרָה תֹּאבַד מִכֹּהֵן וְעֵצָה מִזְּקֵנִים</p><p>אז ככה:</p><p>תּוֹרָה מִכֹּהֵן = תּוֹרָה מִכֹּהֵן</p><p>חָזוֹן מִנָּבִיא = וְדָבָר מִנָּבִיא </p><p>וְעֵצָה מִזְּקֵנִים = וְעֵצָה מֵחָכָם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2018-12-23 15:03:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-23 15:03:05' 
+			WHERE messageid=8349;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>אז מה פירוש הפסוק בבראשית מט4?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2018-12-23 18:11:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>קשה לדעת.. </p><p>אך נראה לי שבהתחלה יעקב מציין שראובן בכורו</p><p>&quot;בכרי אתה כחי וראשית אוני יתר שאת ויתר עז&quot;</p><p>אך בגלל חטאו</p><p>&quot;פחז כמים אל תותר כי עלית משכבי אביך אז חללת יצועי עלה&quot;</p><p>הוא מאבד את הבכורה (שעוברת ליהודה)</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-12-23 18:28:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>קשה לדעת..</p><p>אך נראה לי שבהתחלה יעקב מציין שראובן בכורו</p><p>&quot;בכרי אתה כחי וראשית אוני יתר שאת ויתר עז&quot;</p><p>אך בגלל חטאו</p><p>&quot;פחז כמים אל תותר כי עלית משכבי אביך אז חללת יצועי עלה&quot;</p><p>הוא מאבד את הבכורה</p><p>דברי הימים א ה1: &quot;ובני ראובן בכור ישראל כי הוא הבכור ובחללו יצועי אביו נתנה בכרתו לבני יוסף בן ישראל ולא להתיחש לבכרה&quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-12-23 18:33:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2018-12-23 18:34:01' 
+			WHERE messageid=8352;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>זאת אומרת שראובן בכורו אכזב (פחז) אותו..</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-12-23 18:35:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>אני סבטלנה מבקשת להתפלל להעברת ניתוח לאלכס בן דיאנה.ניתוח קשה מחר ב24/12 בן 30 שקיבל מחלה קשה.</p>',
+		'115109172823875260490',
+		'svetlana rolburd',
+		'2018-12-23 22:47:28'
+		)
+		;
+
