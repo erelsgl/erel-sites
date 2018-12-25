@@ -15404,3 +15404,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2018-12-24 20:15:46'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+

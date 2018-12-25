@@ -13086,3 +13086,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>עכשיו במקרה עברתי שוב על פשר בראשית (מגילות מדבר יהודה)</p><p>מה זה התאכזבתי.. אחרי הפשר על הפסוק הראשון</p><p>היה אמור לבוא הפשר על הפסוק השני (פחז) אך הכתב היה מחוק..</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-12-24 20:15:46'
+		)
+		;
+
