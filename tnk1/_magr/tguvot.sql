@@ -13098,3 +13098,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_pxz_0.html',
+		'<p>כנראה בעבודה שלי עוקבים, והיום היה קינוח פחזניות..</p><p>אך העדפתי לשמור על הדיאטה..</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2018-12-25 11:33:11'
+		)
+		;
+
