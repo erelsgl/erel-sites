@@ -15482,3 +15482,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2018-12-26 21:59:08'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/_yjr___37_lspyrt_hewmr___jbt.pdf',
+				NULL,
+				'2018-12-28 12:33:16',
+				'2018-12-28 12:33:16',
+				'אל-ישר = 37 לספירת העומר = שבת',
+				'רמי ניר',
+				''
+			)
+		;
+
