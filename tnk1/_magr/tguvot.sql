@@ -13225,3 +13225,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0617_0.html',
+		'<p>תהלים עז16: &quot;גָּאַלְתָּ בִּזְרוֹעַ עַמֶּךָ בְּנֵי יַעֲקֹב וְיוֹסֵף סֶלָה&quot; ----------  יוסף מובדל מבני יעקב כי ראובן ושמעון כבני יעקב </p><p>בראשית מח5: &quot;וְעַתָּה שְׁנֵי בָנֶיךָ הַנּוֹלָדִים לְךָ בְּאֶרֶץ מִצְרַיִם עַד בֹּאִי אֵלֶיךָ מִצְרַיְמָה לִי הֵם אֶפְרַיִם וּמְנַשֶּׁה כִּרְאוּבֵן וְשִׁמְעוֹן יִהְיוּ לִי&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-01 06:13:12'
+		)
+		;
+
