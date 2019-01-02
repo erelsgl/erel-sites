@@ -15601,3 +15601,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-01-01 06:41:30'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-01 17:33:02'
+		WHERE ktovt_bn='tnk1/ktuv/mj/03-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-01 18:37:05'
+		WHERE ktovt_bn='tnk1/messages/tora_brejit_br-11-02a_1.html'
+		;
+

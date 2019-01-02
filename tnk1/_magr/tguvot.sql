@@ -13237,3 +13237,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/03-01.html',
+		'<p>פירוש מאת הרב אהרן זכאי - החולה ששתה את המרשם:</p><p>https://b-2.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/24-maamarim/3098-%D7%94%D7%97%D7%95%D7%9C%D7%94-%D7%A9%D7%A9%D7%AA%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%A9%D7%9D-%D7%91%D7%A2%D7%A6%D7%9E%D7%95.html</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-01 17:33:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_brejit_br-11-02a_1.html',
+		'<p>יש תיעוד של השחתת הפירמידות והספינקסים ע&quot;י זרם חזק מאוד של מים למשך זמן גבוה מאוד אשר הרס את השכבות החיצוניות שלהם וייצר צורות זרימה והתפרקות על רגלי הספינקס.</p><p>כמו שאתה יכול לנחש, הפירמידות מאוד מאוד גבוהות.</p>',
+		'106033402159903355184',
+		'Prob_io',
+		'2019-01-01 18:37:05'
+		)
+		;
+
