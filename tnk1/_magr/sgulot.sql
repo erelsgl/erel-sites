@@ -4100,3 +4100,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 13 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `hqblot` = '<p>ה<strong>קול </strong>רומז לקול ה\' ששמע עם ישראל על הר סיני,&#160; <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0219.htm#19\">שמות יט19</a>: \"<q class=\"psuq\">מֹשֶׁה יְדַבֵּר, וְהָאֱלֹהִים יַעֲנֶנּוּ <strong>בְקוֹל</strong></q>\".&#160; והוא מנוגד לקולה  של האישה הזרה המנסה לפתות לעבירה, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2805.htm#3\">משלי ה3</a>: \"<q class=\"psuq\">כִּי נֹפֶת תִּטֹּפְנָה שִׂפְתֵי זָרָה, וְחָלָק מִשֶּׁמֶן חִכָּהּ</q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/05-03.html\">פירוט</a>).&#160;&#160;&#160; כשאדם לא שומע קול תורה, הוא נמשך לקול שיש בו ערווה <small class=\"small\">(ע\"פ גליה)</small>.</p><p>ה<strong>קול</strong> רומז גם לקול יעקב, שכוחו בתפילתו, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0127.htm#22\">בראשית כז22</a>: \"<q class=\"psuq\">הַקֹּל <strong>קוֹל</strong> יַעֲקֹב</q>\" (<a href=\"http://he.wikisource.org/wiki/ביאור:בראשית_כז_כב\">פירוט</a>).&#160;&#160; כשיוסף התמודד עם קולה של אשת פוטיפר, שניסתה לפתות אותו לעבירה, קולו של יעקב עלה בליבו והציל אותו,&#160; <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0139.htm#15\">בראשית לט15</a>: \"<q class=\"psuq\">וַיְהִי כְשָׁמְעוֹ כִּי הֲרִימֹתִי <strong>קוֹלִי</strong> וָאֶקְרָא וַיַּעֲזֹב בִּגְדוֹ אֶצְלִי וַיָּנָס וַיֵּצֵא הַחוּצָה</q>\" (<a href=\"http://he.wikisource.org/wiki/ביאור:בראשית_לט_טו\">פירוט</a>).</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 13 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `hqblot` = '<p>1. ה<strong>קול </strong>רומז לקול ה\' ששמע עם ישראל על הר סיני,&#160; <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0219.htm#19\">שמות יט19</a>: \"<q class=\"psuq\">מֹשֶׁה יְדַבֵּר, וְהָאֱלֹהִים יַעֲנֶנּוּ <strong>בְקוֹל</strong></q>\".&#160; והוא מנוגד לקולה  של האישה הזרה המנסה לפתות לעבירה, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t2805.htm#3\">משלי ה3</a>: \"<q class=\"psuq\">כִּי נֹפֶת תִּטֹּפְנָה שִׂפְתֵי זָרָה, וְחָלָק מִשֶּׁמֶן חִכָּהּ</q>\" (<a href=\"http://tora.us.fm/tnk1/ktuv/mj/05-03.html\">פירוט</a>).&#160;&#160;&#160; כשאדם לא שומע קול תורה, הוא נמשך לקול שיש בו ערווה <small class=\"small\">(ע\"פ גליה)</small>.</p><p>2. ה<strong>קול</strong> רומז גם לקול יעקב, שכוחו בתפילתו, <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0127.htm#22\">בראשית כז22</a>: \"<q class=\"psuq\">הַקֹּל <strong>קוֹל</strong> יַעֲקֹב</q>\" (<a href=\"http://he.wikisource.org/wiki/ביאור:בראשית_כז_כב\">פירוט</a>).&#160;&#160; כשיוסף התמודד עם קולה של אשת פוטיפר, שניסתה לפתות אותו לעבירה, קולו של יעקב עלה בליבו והציל אותו,&#160; <a class=\"psuq\" href=\"http://tora.us.fm/tnk1/prqim/t0139.htm#15\">בראשית לט15</a>: \"<q class=\"psuq\">וַיְהִי כְשָׁמְעוֹ כִּי הֲרִימֹתִי <strong>קוֹלִי</strong> וָאֶקְרָא וַיַּעֲזֹב בִּגְדוֹ אֶצְלִי וַיָּנָס וַיֵּצֵא הַחוּצָה</q>\" (<a href=\"http://he.wikisource.org/wiki/ביאור:בראשית_לט_טו\">פירוט</a>).</p>', `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 5 AND `verse_number` = 13 AND 1 LIMIT 1;
+
