@@ -15617,3 +15617,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/tora_brejit_br-11-02a_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1071.html',
+				NULL,
+				'2019-01-02 12:14:15',
+				'2019-01-02 12:14:15',
+				' מכת הברד/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-02 12:14:15'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/mqrywt_ay_mqrywt.pdf',
+				NULL,
+				'2019-01-02 21:02:42',
+				'2019-01-02 21:02:42',
+				'אין מקריות אי מקריות',
+				'ראובן זילברמן',
+				'reuven49 @ walla.co.il'
+			)
+		;
+
