@@ -15656,3 +15656,32 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/tora/brejit/br-04.html',
+				'tnk1/klli/mdrjim/qyn-hvl.html',
+				NULL,
+				'2019-01-04 07:31:36',
+				'2019-01-04 07:31:36',
+				'הבל התפילה נרצח על-ידי בעל הקניינים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-04 07:31:36'
+			WHERE ktovt_bn='tnk1/tora/brejit/br-04.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/klli/mdrjim/qyn-hvl.html';
+
