@@ -15685,3 +15685,34 @@ SET character_set_connection=hebrew;
 			DELETE FROM board_tnk1
 			WHERE ktovt_bn='tnk1/klli/mdrjim/qyn-hvl.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-04 08:19:21'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-04-25.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/jezebel_s_death.pdf',
+				NULL,
+				'2019-01-04 17:12:11',
+				'2019-01-04 17:12:11',
+				'Jezebel\'s death',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-04 17:12:11'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
