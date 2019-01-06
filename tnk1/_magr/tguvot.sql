@@ -13280,3 +13280,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-04 08:19:23' 
 			WHERE messageid=8370;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_446.html',
+		'<p>חרא שיר לא אהבתי בכלל</p>',
+		'103572779936251294051',
+		'שקד מאור',
+		'2019-01-05 14:32:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-05 14:33:00' 
+			WHERE messageid=8371;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_446.html',
+		'<p>איזה שיר של כושים</p>',
+		'103572779936251294051',
+		'שקד מאור',
+		'2019-01-05 14:33:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-04-25.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-05 16:42:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-05 16:42:41' 
+			WHERE messageid=8373;
+
