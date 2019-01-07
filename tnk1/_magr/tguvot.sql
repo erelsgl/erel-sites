@@ -13330,3 +13330,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-05 16:42:41' 
 			WHERE messageid=8373;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>משלי כט18: &quot;בְּאֵין חָזוֹן יִפָּרַע עָם וְשֹׁמֵר תּוֹרָה אַשְׁרֵהוּ&quot;</p><p>כן רבותי כי כל השֹׁמֵר תּוֹרָה למעשה הגשים את החזון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-06 10:52:52'
+		)
+		;
+
