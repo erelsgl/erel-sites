@@ -13342,3 +13342,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מבקש  להתפלל על אמא שלי מרים סולומון בת רחל לרפואה שלמה שתצא מטיפול נימרץ נושמת בכוחות עצמה ללא עזרת מכונת הנשמה </p><p>ותחזור אלינו הבית למשפחתה אמן.</p>',
+		'111981167404857807759',
+		'דורון סולומון',
+		'2019-01-08 09:57:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>הקשר המשולש שבין</p><p>דעת = אהבה = מות</p><p>כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים = וְעַל כָּל פְּשָׁעִים תְּכַסֶּה אַהֲבָה = כִּי עַזָּה כַמָּוֶת אַהֲבָה</p><p>כשאני אוהב אשה אני יודע אותה אני מת עליה</p><p>כשאני אוהב אלהים אני יודע את אלהים אני מת עליו</p><p>----------------------------------------------------------</p><p>כי אלהים חי ---במות באהבה בדעת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-08 11:49:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>על פי רוב מה שכתוב בספר זה אמת ---------- בדרך כלל מה שכתוב על האריזה נמצא בתוך האריזה</p><p>אך לעתים יש שגגה ובתוך האריזה יש משהו אחר ופה יש יתרון לרואה-החוזה-הנביא המביט את התמונה הנכונה</p><p>---</p><p>הגעתי לתובנה זאת כאשר ראיתי כי היום בעבודה במפעל קיבלנו &quot;שניצל עוף&quot; למרות שעל האריזה היה כתוב &quot;קציצות דג&quot; </p><p>הנה שגגה כזאת יכולה ליפול בספר המוכר כספר חיצוני אך תוכנו כדברי קודש וזאת רק הנביא יכול להביט לראות לחזות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-08 12:04:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>על פי רוב מה שכתוב בספר זה אמת ---------- בדרך כלל מה שכתוב על האריזה נמצא בתוך האריזה</p><p>אך לעתים יש שגגה ובתוך האריזה יש משהו אחר ופה יש יתרון לרואה-החוזה-הנביא המביט את התמונה הנכונה</p><p>---</p><p>הגעתי לתובנה זאת כאשר ראיתי כי היום בעבודה במפעל קיבלנו &quot;שניצל עוף&quot; למרות שעל האריזה היה כתוב &quot;קציצות דג&quot;</p><p>הנה שגגה כזאת יכולה ליפול בספר המוכר כספר חיצוני אך תוכנו כדברי קודש וזאת רק הנביא יכול להביט לראות לחזות</p><p>או במקרה הפוך שספר שחשבת שהוא ספר קודש הוא למעשה ספר של סיפורי בדים </p><p>ופה רק הנביא או הכהן הקדוש יכול להבדיל בין הקודש לחול</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-08 12:12:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-08 12:12:57' 
+			WHERE messageid=8377;
+
