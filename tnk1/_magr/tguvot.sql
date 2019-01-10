@@ -13397,3 +13397,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-08 12:12:57' 
 			WHERE messageid=8377;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>רוח האלהים מחולקת בין האדם לנפש החיה</p><p>כאשר עולים אל האלהים בבית אלהים מהלכים ברגש מרגישים את האהבה</p><p>כשעולים אל האלהים מרגישים את האחדות בין כל נפש חי יחד עם האדם</p><p>על כן כתוב: וְרוּחַ אֶחָד לַכֹּל </p><p>קהלת ג19: </p><p>&quot;כִּי מִקְרֶה בְנֵי הָאָדָם וּמִקְרֶה הַבְּהֵמָה וּמִקְרֶה אֶחָד לָהֶם כְּמוֹת זֶה כֵּן מוֹת זֶה וְרוּחַ אֶחָד לַכֹּל וּמוֹתַר הָאָדָם מִן הַבְּהֵמָה אָיִן כִּי הַכֹּל הָבֶל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-10 05:57:09'
+		)
+		;
+
