@@ -13440,3 +13440,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-11 12:51:26' 
 			WHERE messageid=8381;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>מלמד את הגוים לברך המוציא לחם מן הארץ</p><p>https://www.facebook.com/KfarKedem/videos/954629624618350/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-13 05:31:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1302_0.html',
+		'<p>אתאיסטים זה שם לועזי</p><p>ובעברית קוראים להם נבלות</p><p>תהלים נג2: &quot;אָמַר נָבָל בְּלִבּוֹ אֵין אֱלֹהִים הִשְׁחִיתוּ וְהִתְעִיבוּ עָוֶל אֵין עֹשֵׂה טוֹב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-13 05:33:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>ספר מלכים ב פרק יז כתוב:</p><p>(לג) אֶת יְהֹוָה הָיוּ יְרֵאִים וְאֶת אֱלֹהֵיהֶם הָיוּ עֹבְדִים כְּמִשְׁפַּט הַגּוֹיִם אֲשֶׁר הִגְלוּ אֹתָם מִשָּׁם:</p><p>לכן בני ישראל עליכם לדעת לעבוד את האלהים ולא די ביראת אלהים</p><p>לא די לנשק את המזוזה כי יש להקים את דבר האלהים לשמוע בקולו</p><p>ועל פי תורת משה דין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-13 05:38:55'
+		)
+		;
+
