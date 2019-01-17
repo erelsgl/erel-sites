@@ -13476,3 +13476,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/mzl.html',
+		'<p>יישר כח גדול על המאמר הבהיר והמובנה.</p><p>הרבה דברים שהציקו לי כבר זמן רב התבררו לי עתה.</p><p>תודה רבה רבה</p>',
+		'100273896078032158428',
+		'דניאל דויטש',
+		'2019-01-17 05:20:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/mzl.html',
+		'<p></p>',
+		'100273896078032158428',
+		'דניאל דויטש',
+		'2019-01-17 05:20:42'
+		)
+		;
+

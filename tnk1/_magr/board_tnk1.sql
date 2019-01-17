@@ -16023,3 +16023,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1075.html' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-17 05:20:33'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/mzl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-17 05:20:42'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/mzl.html'
+		;
+
