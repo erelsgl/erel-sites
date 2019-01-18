@@ -13500,3 +13500,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום שמי מנשה ואני זקוק בדחיפות להלוואה עד 50.000 שח תודה הנייד שלי 0529401853</p><p></p>',
+		'107362371666891219502',
+		'אסתר קסהון',
+		'2019-01-17 17:52:36'
+		)
+		;
+
