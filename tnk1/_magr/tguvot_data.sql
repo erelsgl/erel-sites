@@ -1308,3 +1308,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/messages/ribit0_gmx_hsbr_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-01-18 11:48:51'
+			WHERE parent='tnk1/klli/mdrjim/mzl.html'
+			;
+
