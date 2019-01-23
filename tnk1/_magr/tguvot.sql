@@ -13619,3 +13619,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xmj_0.html',
+		'<p>ודור רביעי ישובו הנה</p><p>לא כתוב דור חמשי ישובו הנה</p><p>***לכן הפרוש שגוי***</p><p>בכלל רק בדור של קהת החלה עבדות בני ישראל במצרים</p><p>---</p><p>יעקב רוב חייו בארץ כנען מלבד 17 שנים במצרים בחסות יוסף ולא תחת עבדות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-22 19:23:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-22 19:24:50' 
+			WHERE messageid=8394;
+

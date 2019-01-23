@@ -16134,3 +16134,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/cira.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xmj.html',
+				'tnk1/messages/ljon_jorj_xmj_0.html',
+				NULL,
+				'2019-01-22 17:00:17',
+				'2019-01-22 17:00:17',
+				'חמשים = דור חמישי',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-22 19:23:39'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_xmj_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1077.html',
+				NULL,
+				'2019-01-23 06:19:52',
+				'2019-01-23 06:19:52',
+				' פרשת יתרו, מהו הסוד למתכון לאחדות  העם?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-23 06:19:52'
+			WHERE ktovt_bn='tnk1/forums.html';
+
