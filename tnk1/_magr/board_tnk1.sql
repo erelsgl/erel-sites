@@ -16181,3 +16181,82 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-01-23 06:19:52'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-23 15:24:28'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/mnhigut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-23 15:56:11'
+		WHERE ktovt_bn='tnk1/tora/mje_tlunot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-23 16:03:43'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/haotot_ljaul.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1078.html',
+				NULL,
+				'2019-01-23 19:33:07',
+				'2019-01-23 19:33:07',
+				'אחדות עם ישראל/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-23 19:33:07'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/mlf.html',
+				'tnk1/messages/ljon_jorj_mlf_0.html',
+				NULL,
+				'2019-01-23 19:58:24',
+				'2019-01-23 19:58:24',
+				'ואתמלטה בעור שני',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/mlf.html',
+				'tnk1/messages/ljon_jorj_mlf_1.html',
+				NULL,
+				'2019-01-23 19:58:39',
+				'2019-01-23 19:58:39',
+				'ואתמלטה בעור שני',
+				'אביתר כהן',
+				''
+			)
+		;
+

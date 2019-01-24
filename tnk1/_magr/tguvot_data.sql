@@ -1461,3 +1461,48 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/ljon_jorj_xmj_0.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim2/mnhigut.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-01-23 15:24:28'
+		WHERE parent='tnk1/kma/qjrim2/mnhigut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/mje_tlunot.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-01-23 15:56:11'
+		WHERE parent='tnk1/tora/mje_tlunot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuela/haotot_ljaul.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-01-23 16:03:43'
+		WHERE parent='tnk1/nvir/jmuela/haotot_ljaul.html'
+		;
+

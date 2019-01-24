@@ -13638,3 +13638,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-22 19:24:50' 
 			WHERE messageid=8394;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mnhigut.html',
+		'<p>אין על יהושע...</p>',
+		'115197317045531875321',
+		'Shira Cohen',
+		'2019-01-23 15:24:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/mje_tlunot.html',
+		'<p>אבל איזה סוג תלונות אילו?</p>',
+		'103228690038355467027',
+		'Liam Royal',
+		'2019-01-23 15:56:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/haotot_ljaul.html',
+		'<p>איך יודעים עם שאול הגיב להם או לא (לאנשים שעבר בדרך באותות)</p><p>דחוף מאוד</p><p> </p>',
+		'101879704834137451281',
+		'Guy Kalman',
+		'2019-01-23 16:03:43'
+		)
+		;
+
