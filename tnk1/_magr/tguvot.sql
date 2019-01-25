@@ -13674,3 +13674,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_mlf_1.html',
+		'<p>תהלים קב5: &quot;הוּכָּה כָעֵשֶׂב וַיִּבַשׁ לִבִּי כִּי שָׁכַחְתִּי מֵאֲכֹל לַחְמִי&quot;</p><p>תהלים קב6: &quot;מִקּוֹל אַנְחָתִי דָּבְקָה עַצְמִי לִבְשָׂרִי&quot; [מרוב רזון]</p><p>איוב יט20: &quot;בְּעוֹרִי וּבִבְשָׂרִי דָּבְקָה עַצְמִי וָאֶתְמַלְּטָה בְּעוֹר שִׁנָּי&quot;</p><p>  וָאֶתְמַלְּטָה בְּעוֹר שִׁנָּי = נמלטתי בעור המכסה את השיניים</p><p>כעצמות חשופות אשר יש עליהן רק עור וללא בשר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-24 13:32:25'
+		)
+		;
+
