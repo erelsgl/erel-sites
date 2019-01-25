@@ -16260,3 +16260,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-01-24 13:32:25'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_mlf_1.html'
+		;
+
