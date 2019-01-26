@@ -13686,3 +13686,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-25 15:13:33' 
+			WHERE messageid=8099;
+

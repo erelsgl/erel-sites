@@ -16268,3 +16268,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_mlf_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/between_the_holy_and_the_unholy_.pdf',
+				NULL,
+				'2019-01-25 18:32:36',
+				'2019-01-25 18:32:36',
+				'Between the holy and the unholy',
+				'אבנר רמו',
+				'להבדיל בין קדש לחל'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-01-25 18:32:36'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

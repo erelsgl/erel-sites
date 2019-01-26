@@ -1521,3 +1521,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/ljon_jorj_mlf_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-01-25 15:13:33'
+			WHERE parent='tnk1/messages/prqim_t2674_0.html'
+			;
+
