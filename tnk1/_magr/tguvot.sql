@@ -13693,3 +13693,58 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-01-25 15:13:33' 
 			WHERE messageid=8099;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמות יח25: &quot;וַיִּבְחַר מֹשֶׁה אַנְשֵׁי חַיִל מִכָּל יִשְׂרָאֵל וַיִּתֵּן אֹתָם רָאשִׁים עַל הָעָם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת&quot;</p><p>אם ברצוננו ללכת בדרך תורת מושה לבחור אנשי חיל עלינו לבחור במפלגת הגנרלים משה יעלון ובני גנץ</p><p>אך שני אלה מתנגדים לחוק הלאום ולעומתם ב&quot;ימין החדש&quot; תומכים בחוק הלאום ומתנגדים למסירת נחלת אבותינו באופן נחרץ יותר</p><p>ככתוב וְלֹא יָשִׁיב אֶת הָעָם מִצְרַיְמָה </p><p>אז מי עדיף ???????????????</p><p>האם לבחור איש חיל כשר הבטחון [בדימוס] ורב אלוף משה יעלון הלא הוא איש חיל </p><p>או לבחור בנפתלי בנט המצהיר לשמור על ארץ ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-27 19:16:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמות יח25: &quot;וַיִּבְחַר מֹשֶׁה אַנְשֵׁי חַיִל מִכָּל יִשְׂרָאֵל וַיִּתֵּן אֹתָם רָאשִׁים עַל הָעָם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת&quot;</p><p>אם ברצוננו ללכת בדרך תורת משה לבחור אנשי חיל עלינו לבחור במפלגת הגנרלים משה יעלון ובני גנץ</p><p>אך שני אלה מתנגדים לחוק הלאום ולעומתם ב&quot;ימין החדש&quot; תומכים בחוק הלאום ומתנגדים למסירת נחלת אבותינו באופן נחרץ יותר</p><p>ככתוב וְלֹא יָשִׁיב אֶת הָעָם מִצְרַיְמָה</p><p>אז מי עדיף ???????????????</p><p>האם לבחור איש חיל כשר הבטחון [בדימוס] ורב אלוף משה יעלון הלא הוא איש חיל</p><p>או לבחור בנפתלי בנט המצהיר לשמור על ארץ ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-27 19:19:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-27 19:19:58' 
+			WHERE messageid=8399;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>נוי בת עדנה לידה קלה ומהירה</p>',
+		'116662763321265568854',
+		'Roni Hen',
+		'2019-01-27 20:29:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>נוי בת עדנה לידה קלה ומהירה</p>',
+		'116662763321265568854',
+		'Roni Hen',
+		'2019-01-27 20:30:26'
+		)
+		;
+
