@@ -13748,3 +13748,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>&quot;אנשי חיל&quot; הם לא דווקא אנשים שהיו רמטכ&quot;לים. להיפך, דווקא חיילים פשוטים יכולים להיות יותר גיבורים ויותר &quot;אנשי חיל&quot; מהגנרלים.  שמואל א לא12: &quot;וַיָּקוּמוּ ***כָּל אִישׁ חַיִל*** וַיֵּלְכוּ כָל הַלַּיְלָה וַיִּקְחוּ אֶת גְּוִיַּת שָׁאוּל וְאֵת גְּוִיֹּת בָּנָיו מֵחוֹמַת בֵּית שָׁן וַיָּבֹאוּ יָבֵשָׁה וַיִּשְׂרְפוּ אֹתָם שָׁם&quot;. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-29 01:52:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>רמז לצמחונות באחרית הימים</p><p>ישעיהו סה25: </p><p>&quot;זְאֵב וְטָלֶה יִרְעוּ כְאֶחָד וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן וְנָחָשׁ עָפָר לַחְמוֹ </p><p>לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי אָמַר יהוה&quot;</p><p>ישעיהו יא9: &quot;לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי </p><p>כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-29 05:45:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמואל א יח13: &quot;וַיְסִרֵהוּ שָׁאוּל מֵעִמּוֹ וַיְשִׂמֵהוּ לוֹ שַׂר אָלֶף וַיֵּצֵא וַיָּבֹא לִפְנֵי הָעָם&quot;</p><p>ואמנם אקבל כי חפ&quot;ש לוחם גם הוא איש חיל אך לא יותר איש חיל משר אלף</p><p>אני הייתי חפ&quot;ש לוחם בעורב גבעתי אך מי שהיה למשל קצין בגבעתי הוא יותר איש חיל ממני</p><p>בנט היה אמנם בסיירת מטכל אך הרמטכל הוא איש חיל בכיר ממנו [בלי להכנס לדעותיהם]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-29 06:11:34'
+		)
+		;
+
