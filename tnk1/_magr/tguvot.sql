@@ -13784,3 +13784,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>כששר הביטחון בוחר את מי למנות לרמטכ&quot;ל, הוא לא תמיד בוחר את מי שיותר גיבור. לפעמים הוא בוחר את מי שיותר מתאים לדעות ולהשקפות שלו. ולכן ייתכן שיהיה רמטכ&quot;ל שהוא פחות גיבור מקצין פשוט.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-29 08:12:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>כששר הביטחון בוחר את מי למנות לרמטכ&quot;ל, הוא לא תמיד בוחר את מי שיותר גיבור. לפעמים הוא בוחר את מי שיותר מתאים לדעות ולהשקפות שלו. ולכן ייתכן שיהיה רמטכ&quot;ל שהוא פחות גיבור מקצין פשוט.</p><p>ועוד, נאמר בספר משלי (משלי טז32): &quot;טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר, וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר&quot;, מכאן ש&quot;איש חיל&quot; האמיתי הוא לא דווקא הגיבור בשדה-הקרב, אלא מי שיודע למשול ברוחו.</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-29 08:13:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-01-29 08:14:00' 
+			WHERE messageid=8406;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שר הבטחון בוחר רמטכל מתוך המטכל לאמור  אלוף מתוך המטה הכללי</p><p>קצין בכיר כזה משרת על פי רוב כשלושים או אף ארבעים שנה בצהל</p><p>אלוף כזה המקדיש חייו לבטחון ישראל נקרא איש חיל ואין לקחת זאת ממנו</p><p>גם אם האלוף הזה או רב-האלוף מחזיק בדעות והשקפות אחרות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-29 19:22:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לסיגל בת מירב לידה קלה ובשורות טובות</p>',
+		'117001206033431505910',
+		'כרמלה קולטון יהודה',
+		'2019-01-30 02:27:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>לסיגל בת מירב לידה קלה ובשורות טובות מדודתך</p>',
+		'117001206033431505910',
+		'כרמלה קולטון יהודה',
+		'2019-01-30 02:28:14'
+		)
+		;
+
