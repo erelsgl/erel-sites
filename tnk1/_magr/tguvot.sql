@@ -13851,3 +13851,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>נניח שהוא היה גיבור בעבר, כשנלחם בשדה הקרב.</p><p>אבל, מאז עבר הרבה זמן, והוא שירת בעיקר בתפקידי מטה בקריה. לא בטוח שעכשיו הוא עדיין גיבור.</p><p>ייתכן שדווקא קצין קרבי זוטר הוא גיבור יתר ממנו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-01-30 12:09:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>תהלים ט16: &quot;טָבְעוּ גוֹיִם בְּשַׁחַת עָשׂוּ בְּרֶשֶׁת זוּ טָמָנוּ נִלְכְּדָה רַגְלָם&quot;</p><p>תהלים ט17: &quot;נוֹדַע יהוה מִשְׁפָּט עָשָׂה בְּפֹעַל כַּפָּיו נוֹקֵשׁ רָשָׁע הִגָּיוֹן סֶלָה&quot;</p><p>זה הצדק של האלהים כי יהוה כבר עשה משפט צדק וצדקתו לעולם</p><p>על כן הקדוש ברוך הוא ממלכתו מוגנת זה השער ליהוה צדיקים יבואו בו</p><p>ואין כניסה לרשעים גם אם תראו אותם אוחזים בכוס שותים יין חמרא טבא </p><p>לא יוכלו הרשעים להתענג על יהוה לכן גם היין חמרא טבא לא יעזור להם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-01-31 04:16:00'
+		)
+		;
+
