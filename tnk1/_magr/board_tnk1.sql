@@ -16449,3 +16449,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-02-01 12:28:33'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-02 16:41:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-02 18:04:45'
+		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
+		;
+
