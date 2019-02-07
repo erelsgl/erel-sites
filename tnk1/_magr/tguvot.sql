@@ -14006,3 +14006,139 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-05 12:35:18' 
 			WHERE messageid=8419;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/skir.html',
+		'<p>מעניין מאד. תודה </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2019-02-06 08:10:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/skir.html',
+		'<p>אין דבר כזה &quot;גוי של שבת&quot; כמו שקבעו הרבנים</p><p>גם שכיר חייב לשמור שבת !!!!!!!!!!!!!!!!!!!!!!!!!!!</p><p>גם את יום שבת וגם שנת השבת הלא היא שבת הארץ בשמיטה</p><p>אם בהמתך צריך לשמור שבת אז ודאי גם שכיר</p><p>ונגיד ששכיר יעבוד בשבת ואם קרתה איזו שהיא תקלה חלילה הלא הוא יפנה למעסיקו היהודי שיצטרך לחלל שבת </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-06 12:02:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אראל ידידי אני מבין ללבך שאתה כמוני אוהב ארץ ישראל ותורת ישראל ועם ישראל</p><p>אבל לא נתכחש לאמת צריך להגיד את האמת כי רב-אלוף הוא ללא ספק גבור חיל</p><p>אך מי שתמך בהתנתקות גם אם הוא רב-אלוף לא ראוי להיות פוליטיקאי יהודי</p><p>כי כתוב בתורה : &quot;רק לא ישיב את העם מצרימה&quot; שלא יעקור את בני ישראל מנחלתם</p><p>דברים יז16: &quot;רַק לֹא יַרְבֶּה לּוֹ סוּסִים וְלֹא יָשִׁיב אֶת הָעָם מִצְרַיְמָה לְמַעַן הַרְבּוֹת סוּס ויהוה אָמַר לָכֶם לֹא תֹסִפוּן לָשׁוּב בַּדֶּרֶךְ הַזֶּה עוֹד&quot;</p><p>וגם טובה חכמה מגבורה מכל גבור ואיש חיל</p><p>קהלת ט16: &quot;וְאָמַרְתִּי אָנִי טוֹבָה חָכְמָה מִגְּבוּרָה וְחָכְמַת הַמִּסְכֵּן בְּזוּיָה וּדְבָרָיו אֵינָם נִשְׁמָעִים&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-06 12:18:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_txpost.html',
+		'<p></p>',
+		'106305587141347141942',
+		'טוהר שירה וינברג',
+		'2019-02-06 14:55:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_txpost.html',
+		'<p>טוב</p>',
+		'106305587141347141942',
+		'טוהר שירה וינברג',
+		'2019-02-06 14:55:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-06 14:55:31' 
+			WHERE messageid=8424;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-06 14:55:35' 
+			WHERE messageid=8425;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_txpost.html',
+		'<p>בסדר</p>',
+		'106305587141347141942',
+		'טוהר שירה וינברג',
+		'2019-02-06 14:55:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-06 14:55:46' 
+			WHERE messageid=8426;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אני דיין לעשות צדקה ומשפט </p><p>ולא די להיות ימין שאוהב את ארץ ישראל הלא גם הערבים הכנענים אוהבים את האדמה הזאת</p><p>אך השאלה מי יעשה צדקה ומשפט בארץ לשמור על ארץ הקודש</p><p>ואמנם נכון התשובה ברורה כי עם ישראל הוא אשר יעשה צדקה ומשפט וחסד ואמת בארץ</p><p>אך אני מאוד מאוכזב מהימין שמדבר רק על התנחלות ואף כי זה חשוב מאד</p><p>אך אני דיין מצפה ומייחל למשפט וצדקה וחסד ואמת בארץ הזאת עם הקשישים הזקנים ועם הנכים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-07 06:14:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אני דיין לעשות צדקה ומשפט</p><p>ולא די להיות ימין שאוהב את ארץ ישראל הלא גם הערבים הכנענים אוהבים את האדמה הזאת</p><p>אך השאלה מי יעשה צדקה ומשפט בארץ לשמור על ארץ הקודש</p><p>ואמנם נכון התשובה ברורה כי עם ישראל הוא אשר יעשה צדקה ומשפט וחסד ואמת בארץ</p><p>אך אני מאוד מאוכזב מהימין שמדבר רק על התנחלות ואף כי זה חשוב מאד</p><p>אך אני דיין מצפה ומייחל למשפט וצדקה וחסד ואמת בארץ הזאת עם הקשישים הזקנים ועם הנכים</p><p>עם כל האביונים עם כל שבעת אנשי האלהים נביא כהן לוי עני גר יתום ואלמנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-07 06:17:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-07 06:17:51' 
+			WHERE messageid=8427;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_1.html',
+		'<p>תהלים כה9: &quot;יַדְרֵךְ עֲנָוִים בַּמִּשְׁפָּט וִילַמֵּד עֲנָוִים דַּרְכּוֹ&quot;</p><p>ובספר תהילות דוד המלך כתב: &quot;אֲלַמְּדָה פֹשְׁעִים דְּרָכֶיךָ וְחַטָּאִים אֵלֶיךָ יָשׁוּבוּ&quot;</p><p>אז מי ילמד דרך יהוה ענוים או פושעים</p><p>ובכן:</p><p>פֹשְׁעִים וְחַטָּאִים ישובו ליהוה רק אם יהיו ענוים כי אלה ילמדו דרכו של יהוה</p><p>מי שישאר פושע לא יזכה להדרכה כענוים במשפט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-07 07:02:50'
+		)
+		;
+
