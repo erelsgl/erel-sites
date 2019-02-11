@@ -16639,3 +16639,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4qrqa.html',
+				'tnk1/tora/dvrim/dm-11-10.html',
+				NULL,
+				'2019-02-11 03:36:43',
+				'2019-02-11 03:36:43',
+				'ארץ ישראל לא כארץ מצרים',
+				'אראל',
+				''
+			)
+		;
+
