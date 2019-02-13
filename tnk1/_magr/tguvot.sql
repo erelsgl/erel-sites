@@ -14173,3 +14173,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-11 14:15:59' 
 			WHERE messageid=8392;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yra.html',
+		'<p>רש&quot;י על הפסוק &quot;פחדכם ומוראכם&quot; (דברים יא כה): והלא פחד הוא מורא אלא פחדכם על הקרובים ומוראכם על הרחוקים.</p><p>נראה שזה מתאים עם דברי המלבי\'\'ם.</p><p>האומות הקרובות אינם במצב של שיקול הדעת שנותנת להם את האפשרות להגיע ליראה רציונלית, הפחד שלהם הוא פתאומי ומאיים,</p><p>לעומת הרחוקים, הם נמצאים במורא שלא מגיע כ\'\'כ מאיבוד עשתונות אלא מנתונים עובדתיים.</p><p></p>',
+		'112926584250659167432',
+		'יאיר שור',
+		'2019-02-12 16:37:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/yaj.html',
+		'<p>תודה רבה עזר לי מאד. שאול מחפש את דוד. העם מחפש את הקב״ה.</p>',
+		'117246662948311323651',
+		'ariel katz',
+		'2019-02-12 20:21:49'
+		)
+		;
+
