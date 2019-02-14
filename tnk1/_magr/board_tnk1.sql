@@ -16725,3 +16725,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-02-13 07:06:41'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-13 13:57:26'
+		WHERE ktovt_bn='tnk1/sofrim/mali/nxlot_dn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-13 14:01:28'
+		WHERE ktovt_bn='tnk1/messages/7004.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-14 07:08:28'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/krml.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-14 07:08:31'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/krml.html'
+		;
+

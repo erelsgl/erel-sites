@@ -14197,3 +14197,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_dn.html',
+		'<p>היי וולף נשמע די מעניין, אפשר קישור לאתר של המפה הזאת?</p>',
+		'113383006165142861120',
+		'יעקב בן חמו',
+		'2019-02-13 13:57:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/7004.html',
+		'<p>מה המקור לדעה המעניינת הזאת? ספר דברי הימים?</p>',
+		'113383006165142861120',
+		'יעקב בן חמו',
+		'2019-02-13 14:01:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/krml.html',
+		'<p>שמעתי שאחד משמות ירושלים הוא כרמל. מה המקור לכך? </p>',
+		'105867486330446147086',
+		'Yakov Kenig',
+		'2019-02-14 07:08:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/krml.html',
+		'<p></p>',
+		'105867486330446147086',
+		'Yakov Kenig',
+		'2019-02-14 07:08:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-14 07:08:43' 
+			WHERE messageid=8437;
+
