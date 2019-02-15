@@ -14252,3 +14252,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-14 07:08:43' 
 			WHERE messageid=8437;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/krml.html',
+		'<p>א. הכרמל במדבר יהודה - היה מקום מרעה משובח, בו רעה לבן??? את צאנו הגדול (&quot;ואיש במעון ומעשהו בכרמל...&quot;);</p><p>יש לתקן כי נבל  ולא לבן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-14 11:05:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/krml.html',
+		'<p>תיקנתי, תודה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-02-14 15:54:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-14 16:08:09' 
+			WHERE messageid=7075;
+
