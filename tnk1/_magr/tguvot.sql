@@ -14283,3 +14283,84 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-14 16:08:09' 
 			WHERE messageid=7075;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אלהים תמיד מדבר אליך ואם ברצונך לשמוע את דבריו בקש שיפתח לך אֹזֶן</p><p>שיפתח לך אֹזֶן לשמוע בקולו לעשות את מצוותיו</p><p>ישעיהו נ5: &quot;אֲדֹנָי יהוה פָּתַח לִי אֹזֶן וְאָנֹכִי לֹא מָרִיתִי אָחוֹר לֹא נְסוּגֹתִי&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-15 08:57:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אלהים תמיד מדבר אליך ואם ברצונך לשמוע את דבריו בקש שיפתח לך אֹזֶן</p><p>שיפתח לך אֹזֶן לשמוע בקולו לעשות את מצוותיו המדברים אליך</p><p>ישעיהו נ5: &quot;אֲדֹנָי יהוה פָּתַח לִי אֹזֶן וְאָנֹכִי לֹא מָרִיתִי אָחוֹר לֹא נְסוּגֹתִי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-15 08:58:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-15 08:58:04' 
+			WHERE messageid=8440;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אלהים לנצח מדבר ואם ברצונך לשמוע את דבריו בקש שיפתח לך אֹזֶן</p><p>שיפתח לך אֹזֶן לשמוע בקולו לעשות את מצוותיו המדברים אליך</p><p>ישעיהו נ5: &quot;אֲדֹנָי יהוה פָּתַח לִי אֹזֶן וְאָנֹכִי לֹא מָרִיתִי אָחוֹר לֹא נְסוּגֹתִי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-15 09:05:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-15 09:05:33' 
+			WHERE messageid=8441;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>דברים כח12: &quot;יִפְתַּח יהוה לְךָ אֶת אוֹצָרוֹ הַטּוֹב אֶת הַשָּׁמַיִם </p><p>ואוצר השמים על פי התורה זה....</p><p>אוצרות מאכל --- דגן תירוש ויצהר ובני צאן ובקר [גם יין וחלב]</p><p>  לֹא יוֹעִילוּ אוֹצְרוֹת רֶשַׁע וּצְדָקָה תַּצִּיל מִמָּוֶת כי עשות צדקה ומשפט זה אוצר צדיקים</p><p>וְהָיָה אֱמוּנַת עִתֶּיךָ חֹסֶן יְשׁוּעֹת חָכְמַת וָדָעַת יִרְאַת יהוה הִיא אוֹצָרוֹ</p><p>אמרי יהוה כי תזל כטל אמרתי זה כסף צרוף בעליל מן השמים לארץ מזוקק שבעתים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-15 12:06:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-15 12:06:59' 
+			WHERE messageid=8443;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>דברים כח12: &quot;יִפְתַּח יהוה לְךָ אֶת אוֹצָרוֹ הַטּוֹב אֶת הַשָּׁמַיִם</p><p>ואוצר השמים על פי התורה זה....</p><p>אוצרות מאכל --- דגן תירוש ויצהר ובני צאן ובקר [גם יין וחלב]</p><p>לֹא יוֹעִילוּ אוֹצְרוֹת רֶשַׁע וּצְדָקָה תַּצִּיל מִמָּוֶת כי עשות צדקה ומשפט זה אוצר צדיקים</p><p>וְהָיָה אֱמוּנַת עִתֶּיךָ חֹסֶן יְשׁוּעֹת חָכְמַת וָדָעַת יִרְאַת יהוה הִיא אוֹצָרוֹ</p><p>אמרי יהוה כי תזל כטל אמרתי זה כסף צרוף בעליל מן השמים לארץ מזוקק שבעתים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-15 12:07:13'
+		)
+		;
+
