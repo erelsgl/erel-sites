@@ -14364,3 +14364,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום שמי דניאל בן דוד אני גר בירושלים בשכונת גילה אני עובד במקצוע ספרות גברים ואני רוצה מאוד לפתוח מספרה אשמח לקבל מענה במספר - 0528586866 תודה רבה </p>',
+		'112165444612567831882',
+		'דניאל בן דוד',
+		'2019-02-17 13:20:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>יואל ב3: </p><p>&quot;לְפָנָיו אָכְלָה אֵשׁ וְאַחֲרָיו תְּלַהֵט לֶהָבָה כְּגַן עֵדֶן הָאָרֶץ לְפָנָיו וְאַחֲרָיו מִדְבַּר שְׁמָמָה וְגַם פְּלֵיטָה לֹא הָיְתָה לּוֹ&quot;</p><p> כְּגַן עֵדֶן הָאָרֶץ לְפָנָיו לפני אלהים ובתם חיי האדם בשובו לאלהים ישוב גם לאדמתו כְּגַן עֵדֶן הָאָרֶץ לְפָנָיו </p><p>ואתם אחי בני האדם שמרו דרך יהוה לעשות צדקה ומשפט למען לא תשחת נפשכם וביום המות תשובו</p><p>אך העידותי בכם כי אם לא תשמרו נפשכם והשחתם ונשמדתם ואיה הנפש לשוב לאלהים הלא אבדתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-17 14:45:32'
+		)
+		;
+
