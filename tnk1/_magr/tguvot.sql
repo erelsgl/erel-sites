@@ -14400,3 +14400,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים לא20: &quot;מָה רַב טוּבְךָ אֲשֶׁר צָפַנְתָּ לִּירֵאֶיךָ פָּעַלְתָּ לַחֹסִים בָּךְ נֶגֶד בְּנֵי אָדָם&quot;</p><p>קהלת ח12: &quot;אֲשֶׁר חֹטֶא עֹשֶׂה רָע מְאַת וּמַאֲרִיךְ לוֹ כִּי גַּם יוֹדֵעַ אָנִי אֲשֶׁר יִהְיֶה טּוֹב לְיִרְאֵי הָאֱלֹהִים אֲשֶׁר יִירְאוּ מִלְּפָנָיו&quot;</p><p>מָה רַב טוּבְךָ אֲשֶׁר צָפַנְתָּ לִּירֵאֶיךָ = כִּי גַּם יוֹדֵעַ אָנִי אֲשֶׁר יִהְיֶה טּוֹב לְיִרְאֵי הָאֱלֹהִים אֲשֶׁר יִירְאוּ מִלְּפָנָיו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-20 13:09:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום שמי ביטון שמעון ואני מעפולה אני אלמן פלוס 4 ילדים ומצבי הכלכלי די קשה עוד שבועיים מוציאים אותי מהבית אם אני לא מארגן 16 אלף שקל אני בדיכאון וגם ילדי אנא ממכם אשמח אים מישהו יוכל לעזור שאר הפרטים בפרטי אפילו בהלוואה 0507299220 תודה לכולם</p><p></p>',
+		'114274244808210932720',
+		'שמעון ביטון',
+		'2019-02-20 17:34:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/tarikim_40.html',
+		'<p>צודק לחלוטין! משה רבנו היה פעמיים</p><p>על הר סיני ארבעים יום ולילה. </p><p></p>',
+		'109076241967560284946',
+		'moti noy',
+		'2019-02-20 21:06:53'
+		)
+		;
+
