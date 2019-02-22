@@ -14436,3 +14436,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/2tqufot.html',
+		'<p>כמה פרקים הנבואה הראשונה?</p>',
+		'104030814951900782423',
+		'דורון לופז',
+		'2019-02-21 14:36:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/2tqufot.html',
+		'<p></p>',
+		'104030814951900782423',
+		'דורון לופז',
+		'2019-02-21 14:36:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-21 14:36:36' 
+			WHERE messageid=8452;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_3.html',
+		'<p>היי שלום וברכה אני נשואה אם ל5 ילדים עם תינוקת בבית כרגע בעלי לא עובד כי כרגע אין לו עבודה (עובד עצמאי) ואני עובדת במשרת אם בניקיון מרויחה 1000 שקל בחודש.</p><p>בעל הבית שלי רוצה להעיף אותי את בעלי וילדיי מהבית אם עד יום ראשון לא אשלם 20,000 שקל .</p><p>אני ובעלי נקלענו לחוב מול בעל הדירה שלנו עקב כך שלא שילמנו לו כבר 4 חודשים שכירות.</p><p>כרגע בעלי נמצא בדיכאון עקב המצב הזה ואני גם לא יודעץ איך להגיד לילדים שלי שבעל הבית רוצה לזרוק אותנו אם לא נשלם.</p><p>אנא ממכם פתחו את ליבכם עבורי ועבור משפחתי.</p><p>תודה רבה .</p><p>אשמח שתחזרו אלי 0552437219</p>',
+		'108477514265842011711',
+		'סביון נבון',
+		'2019-02-21 19:29:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_3.html',
+		'<p>היי שלום וברכה אני נשואה אם ל5 ילדים עם תינוקת בבית כרגע בעלי לא עובד כי כרגע אין לו עבודה (עובד עצמאי) ואני עובדת במשרת אם בניקיון מרויחה 1000 שקל בחודש.</p><p>בעל הבית שלי רוצה להעיף אותי את בעלי וילדיי מהבית אם עד יום ראשון לא אשלם 20,000 שקל .</p><p>אני ובעלי נקלענו לחוב מול בעל הדירה שלנו עקב כך שלא שילמנו לו כבר 4 חודשים שכירות.</p><p>כרגע בעלי נמצא בדיכאון עקב המצב הזה ואני גם לא יודעץ איך להגיד לילדים שלי שבעל הבית רוצה לזרוק אותנו אם לא נשלם.</p><p>אנא ממכם פתחו את ליבכם עבורי ועבור משפחתי.</p><p>תודה רבה .</p><p>אשמח שתחזרו אלי 0552437219</p>',
+		'108477514265842011711',
+		'סביון נבון',
+		'2019-02-21 19:30:08'
+		)
+		;
+

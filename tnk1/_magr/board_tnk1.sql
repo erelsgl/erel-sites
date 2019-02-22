@@ -16937,3 +16937,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/tarikim_40.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-21 14:36:21'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/2tqufot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-21 14:36:30'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/2tqufot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-21 19:29:42'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-21 19:30:08'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
