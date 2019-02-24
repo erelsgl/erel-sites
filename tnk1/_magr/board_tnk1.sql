@@ -16999,3 +16999,66 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-02-22 12:29:48'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-23 17:00:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-23 17:14:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-23 17:32:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1086.html',
+				NULL,
+				'2019-02-23 19:28:58',
+				'2019-02-23 19:28:58',
+				'חיפזון העם/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-02-23 19:28:58'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-24 05:47:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-02-24 05:49:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
+		;
+

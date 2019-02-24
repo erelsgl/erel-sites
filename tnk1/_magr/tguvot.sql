@@ -14491,3 +14491,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>אז מה לעשות לשתות יין ביום שבת כן או לא</p><p>ובכן אענה כזאת על פי הפסוק הזה</p><p>איוב ה7: &quot;כִּי אָדָם לְעָמָל יוּלָּד וּבְנֵי רֶשֶׁף יַגְבִּיהוּ עוּף&quot;</p><p>ובכן...</p><p>אם אתה  אָדָם לְעָמָל יוּלָּד --- עליך נאמר --- משלי לא7: &quot;יִשְׁתֶּה וְיִשְׁכַּח רִישׁוֹ וַעֲמָלוֹ לֹא יִזְכָּר עוֹד&quot; </p><p>אך אם אתה בן רשף רִשְׁפֵּי אֵשׁ שַׁלְהֶבֶתְיָה הלא אתה כבן אלהים ואל לך לשתות היין ביום השבת </p><p>כי אמנם את היין יש לשתות בקודש אך היין מסיר את הקדושה --- לכן חכה ושמור יום שבת לקדשו אל תשת יין </p><p>כי ביום הזה יקדשך אלהים ורק בתם השבת כשאתה מקודש צא מיום הקודש בשמחה עם היין להבדלה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-23 17:00:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>במאמר זה העתקתי את ספר שמות פרק ל&quot;ד אר כתוב שם כי כבוד אלהים נגלה למשה בדברי הברית אשר כרת עם ישראל</p><p>ומה עשה משה בתם דבר אליו אלהים --- ישר ציוה אותם לשמור את יום השבת לקדשו בפרק הבא בספר שמות פרק ל&quot;ה</p><p> שמות לה1: &quot;וַיַּקְהֵל מֹשֶׁה אֶת כָּל עֲדַת בְּנֵי יִשְׂרָאֵל וַיֹּאמֶר אֲלֵהֶם אֵלֶּה הַדְּבָרִים אֲשֶׁר צִוָּה יהוה לַעֲשֹׂת אֹתָם&quot;</p><p>שמות לה2: &quot;שֵׁשֶׁת יָמִים תֵּעָשֶׂה מְלָאכָה וּבַיּוֹם הַשְּׁבִיעִי יִהְיֶה לָכֶם קֹדֶשׁ שַׁבַּת שַׁבָּתוֹן ליהוה כָּל הָעֹשֶׂה בוֹ מְלָאכָה יוּמָת&quot;</p><p>שמות לה3: &quot;לֹא תְבַעֲרוּ אֵשׁ בְּכֹל מֹשְׁבֹתֵיכֶם בְּיוֹם הַשַּׁבָּת&quot; </p><p>כי רבותי קודם כל שבת קודש ורק אחרי כן יקחו לי תרומה לעשות את המשכן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-23 17:14:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות לה1: &quot;וַיַּקְהֵל מֹשֶׁה אֶת כָּל עֲדַת בְּנֵי יִשְׂרָאֵל וַיֹּאמֶר אֲלֵהֶם אֵלֶּה הַדְּבָרִים אֲשֶׁר צִוָּה יהוה לַעֲשֹׂת אֹתָם&quot;</p><p>שמות לה2: &quot;שֵׁשֶׁת יָמִים תֵּעָשֶׂה מְלָאכָה וּבַיּוֹם הַשְּׁבִיעִי יִהְיֶה לָכֶם קֹדֶשׁ שַׁבַּת שַׁבָּתוֹן ליהוה כָּל הָעֹשֶׂה בוֹ מְלָאכָה יוּמָת&quot;</p><p>שמות לה3: &quot;לֹא תְבַעֲרוּ אֵשׁ בְּכֹל מֹשְׁבֹתֵיכֶם בְּיוֹם הַשַּׁבָּת&quot;</p><p>ורק בפסוקים הבאים נאמר קחו מאתכם תרומה לעשות את המשכן</p><p>כן רבותי כי שמירת שבת קודש קודמת למעשה המשכן הקדוש</p><p>כי אם חלילה לא ישמרו את יום השבת לקדשו איך יהיה לנו בית מקדש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-23 17:32:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>  אלה הם הבחירות של מלאכי אלהים פה אחד</p><p> ראו כי כבר בָּחַר בכהן הגדול ויש לשמוע בקולו</p><p>ספר תהילות פרק קה (כו) שָׁלַח מֹשֶׁה עַבְדּוֹ אַהֲרֹן אֲשֶׁר בָּחַר בּוֹ:</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-24 05:47:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>אלה הם הבחירות של מלאכי אלהים פה אחד</p><p>ראו כי כבר בָּחַר בכהן הגדול ויש לשמוע בקולו</p><p>כי הוא הסמכות הראשונה להוראת משפט התורה</p><p>ספר תהילות פרק קה (כו) שָׁלַח מֹשֶׁה עַבְדּוֹ אַהֲרֹן אֲשֶׁר בָּחַר בּוֹ:</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-24 05:49:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-24 05:49:47' 
+			WHERE messageid=8458;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-24 06:29:08' 
+			WHERE messageid=8454;
+
