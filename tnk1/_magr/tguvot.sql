@@ -14565,3 +14565,53 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-24 06:29:08' 
 			WHERE messageid=8454;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>במאמר זה העתקתי את ספר שמות פרק ל&quot;ד אשר כתוב שם כי כבוד אלהים נגלה למשה בדברי הברית אשר כרת עם ישראל</p><p>ומה עשה משה בתם דבר אליו אלהים --- ישר ציוה אותם לשמור את יום השבת לקדשו בפרק הבא בספר שמות פרק ל&quot;ה</p><p>שמות לה1: &quot;וַיַּקְהֵל מֹשֶׁה אֶת כָּל עֲדַת בְּנֵי יִשְׂרָאֵל וַיֹּאמֶר אֲלֵהֶם אֵלֶּה הַדְּבָרִים אֲשֶׁר צִוָּה יהוה לַעֲשֹׂת אֹתָם&quot;</p><p>שמות לה2: &quot;שֵׁשֶׁת יָמִים תֵּעָשֶׂה מְלָאכָה וּבַיּוֹם הַשְּׁבִיעִי יִהְיֶה לָכֶם קֹדֶשׁ שַׁבַּת שַׁבָּתוֹן ליהוה כָּל הָעֹשֶׂה בוֹ מְלָאכָה יוּמָת&quot;</p><p>שמות לה3: &quot;לֹא תְבַעֲרוּ אֵשׁ בְּכֹל מֹשְׁבֹתֵיכֶם בְּיוֹם הַשַּׁבָּת&quot;</p><p>כי רבותי קודם כל שבת קודש ורק אחרי כן יקחו לי תרומה לעשות את המשכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-24 13:38:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-24 13:38:49' 
+			WHERE messageid=8456;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-24 13:39:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-24 13:39:18' 
+			WHERE messageid=8461;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_123.html',
+		'<p>צדיק אהבתי מאוד. כי זה אמיץ מאוד וכל הכבוד.</p>',
+		'101747152814511281988',
+		'max maxmen',
+		'2019-02-24 23:19:16'
+		)
+		;
+
