@@ -2680,3 +2680,72 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/jmot/jm-33-07.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-33-07.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-02-26 11:46:47'
+		WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-33-07.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-02-26 11:47:18'
+		WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-02-26 11:47:20'
+			WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-33-07.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-02-26 11:56:56'
+		WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-02-26 11:57:01'
+			WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-02-26 11:57:05'
+			WHERE parent='tnk1/tora/jmot/jm-33-07.html'
+			;
+

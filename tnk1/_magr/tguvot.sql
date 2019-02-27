@@ -14627,3 +14627,60 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-33-07.html',
+		'<p>אהל מועד מחוץ למחנה היה מיום 5.5.2450 עד שנת 2451 היא שנת היובל היא שנת השבע השביעית בשנה זו הוקדשו הכהנים בשמונת ימי המילואים ואחרי היום השמיני [שנפל ביום שבת] החל ראש החודש הראשון ליובלים אז הוקם המשכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-26 11:46:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-33-07.html',
+		'<p>אהל מועד מחוץ למחנה היה מיום 5.5.2450 עד שנת 2451 היא שנת היובל היא שנת השבע השביעית בשנה זו הוקדשו הכהנים בשמונת ימי המילואים ואחרי היום השמיני [שנפל ביום שבת] החל ראש החודש הראשון ליובלים אז הוקם המשכן בתוך המחנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-26 11:47:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-26 11:47:20' 
+			WHERE messageid=8464;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-33-07.html',
+		'<p>שמות לב1: &quot;וַיַּרְא הָעָם כִּי בֹשֵׁשׁ מֹשֶׁה לָרֶדֶת מִן הָהָר וַיִּקָּהֵל הָעָם עַל אַהֲרֹן וַיֹּאמְרוּ אֵלָיו קוּם עֲשֵׂה לָנוּ אֱלֹהִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ</p><p>כִּי זֶה מֹשֶׁה הָאִישׁ אֲשֶׁר הֶעֱלָנוּ מֵאֶרֶץ מִצְרַיִם לֹא יָדַעְנוּ מֶה הָיָה לוֹ&quot;</p><p>בני ישראל בקשו עֲשֵׂה לָנוּ אֱלֹהִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ לאמור כי טרם ידעו את האלהים להתהלך לפניו</p><p>לכן אחרי חטא העגל בתם 40 יום מיום עלות משה בהר סיני נאספו בני לוי באמור משה מי ליהוה אלי</p><p>וכעשרה ימים לאחר מכן ביום 50 לקח משה את אהל מועד מחוץ למחנה למען בני ישראל המבקשים את יהוה</p><p>לאמור כשבעה שבועות לאחר מחצית החודש השלשי מיום 15.3 בשנת 2450 עד 5.5 בשנת 2450 ליובלים</p><p>וזה היה התיקון כי</p><p>החוטאים אמרו קוּם עֲשֵׂה לָנוּ אֱלֹהִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ</p><p>והצדיקים מבקשים באמת את יהוה באהל מועד מחוץ למחנה</p><p>--------------------------------------------------------------------</p><p>אהל מועד מחוץ למחנה היה מיום 5.5.2450 עד שנת 2451 היא שנת היובל היא שנת השבע השביעית בשנה זו הוקדשו הכהנים בשמונת ימי המילואים ואחרי היום השמיני [שנפל ביום שבת] החל ראש החודש הראשון ליובלים אז הוקם המשכן בתוך המחנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-02-26 11:56:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-26 11:57:01' 
+			WHERE messageid=8465;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-26 11:57:05' 
+			WHERE messageid=8463;
+
