@@ -14684,3 +14684,58 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-02-26 11:57:05' 
 			WHERE messageid=8463;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_123.html',
+		'<p>תודה מקס</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-02-27 14:31:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/nzmim.html',
+		'<p>חידוש תורה...</p><p>מדוע דווקא יצא עגל ?</p><p>הדבר רמוז בדברי אהרון &quot;פרקו נזמי הזהב&quot;.</p><p>מכיוון שנזם הינו עגיל זהב , עגיל אותיות עגל להוציא את האות י\' (שם השם ) , כדי שלא תשתתף במעשה עבודה זרה וקיבלת עגל זהב.</p>',
+		'112512825364720855299',
+		'משה בוחבוט',
+		'2019-02-27 15:21:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/nzmim.html',
+		'<p>יפה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-02-27 18:54:35'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-02-27 18:56:43' 
+			WHERE messageid=8469;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/nzmim.html',
+		'<p>יפה, תודה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-02-27 18:56:50'
+		)
+		;
+
