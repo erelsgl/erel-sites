@@ -2817,3 +2817,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/hvdlim1/nzmim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-30-13.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-01 05:42:34'
+		WHERE parent='tnk1/tora/jmot/jm-30-13.html'
+		;
+
