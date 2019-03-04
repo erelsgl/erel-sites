@@ -14751,3 +14751,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>קניתי דירה ואני צריך לעשיג כסף למשכנתה</p>',
+		'102293246762327254011',
+		'ישראל שביט',
+		'2019-03-03 18:02:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>חטא דוד הוא חטא פרטי, ואפשר לעשות עליו תשובה ואף לנשוא בעונש הכבד, כי יש כאן גם ניצול של כוח המלוכה, כמשל כבשת הרש, ולכן גם נענש באופן פרטי שנלקחה ממנו השררה והמלוכה לזמן מסוים, אבל אין כאן חטא כלפי המלוכה ולכן לא איבד אותה כשאול שפעם אחר פעם לא עמד באומץ מול העם, ולכן הוסר מהמלוכה.</p>',
+		'116794367333168604438',
+		'משה מרדכי אייכנשטיין',
+		'2019-03-03 22:29:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>האם אי-עמידה מול העם היא חטא כל-כך חמור? הרי בסופו של דבר המלך מתמנה ע&quot;י העם: &quot;שום תשים עליך מלך&quot;. העם הוא הנותן כוח למלך. ולכן מן הראוי שהמלך יתחשב בדעת העם. אמנם המלך צריך קודם-כל לשמוע בקול ה\' (כמו כל אדם), אבל קשה לומר שעצם השמיעה בקול העם היא חטא.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-04 06:47:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-04 06:47:07' 
+			WHERE messageid=8474;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>האם שמיעה בקול העם היא חטא כל-כך חמור? הרי בסופו של דבר המלך מתמנה ע&quot;י העם: &quot;שום תשים עליך מלך&quot;. העם הוא הנותן כוח למלך. ולכן מן הראוי שהמלך יתחשב בדעת העם. אמנם המלך צריך קודם-כל לשמוע בקול ה\' (כמו כל אדם), אבל קשה לומר שעצם השמיעה בקול העם היא חטא.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-04 06:47:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-04 06:48:49' 
+			WHERE messageid=8475;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>האם שמיעה בקול העם היא חטא כל-כך חמור? הרי בסופו של דבר המלך מתמנה ע&quot;י העם: &quot;שום תשים עליך מלך&quot;. העם הוא הנותן כוח למלך. ולכן מן הראוי שהמלך יתחשב בדעת העם. אמנם המלך צריך קודם-כל לשמוע בקול ה\' (כמו כל אדם), אבל קשה לומר שעצם השמיעה בקול העם היא חטא.</p><p>אבל אפשר לפרש בדומה למה שכתבת - חטאו של דוד הוא בעניין פרטי בין אדם לחברו, וחטאו של שאול הוא בעניין המלחמה בעמלק שהוא אחד התפקידים העיקריים של מלך ישראל, ולכן נשללה מלכותו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-04 06:48:59'
+		)
+		;
+

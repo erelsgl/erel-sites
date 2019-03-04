@@ -17236,3 +17236,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-30-13.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-03 18:02:09'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-03 22:29:57'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-04 06:47:03'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-04 06:47:18'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-04 06:48:59'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
