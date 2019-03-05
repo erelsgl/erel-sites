@@ -14825,3 +14825,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>השמיעה לקולו של העם הוא עניין חשוב שלא כמו רחבעם, אבל השמיעה בקול העם היא חטא חמור, כי מלך צריך למלוך ולא להיכנע לקול העם, וכמובן עיקר החטא הוא כשהמלך נכנע לקול העם ולא שומע לקול הנביא המצווה אותו בשם השם, זהו חסרון בעצם המלוכה.</p>',
+		'116794367333168604438',
+		'משה מרדכי אייכנשטיין',
+		'2019-03-04 13:12:17'
+		)
+		;
+
