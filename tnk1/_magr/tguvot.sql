@@ -14837,3 +14837,77 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>בפרקנו נאמר, שמואל א טו9: &quot;וַיַּחְמֹל **שָׁאוּל וְהָעָם** עַל אֲגָג וְעַל מֵיטַב הַצֹּאן...&quot; - קודם שאול ואחר-כך העם. כלומר שאול לא באמת שמע בקול העם כפי שאמר, אלא להיפך, העם נגרר אחרי שאול.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-05 15:02:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1302_0.html',
+		'<p>שמות יד31:  וַיִּירְאוּ הָעָם אֶת יהוה וַיַּאֲמִינוּ ביהוה וּבְמֹשֶׁה עַבְדּוֹ&quot;</p><p>יראת עם בני ישראל יראה את יהוה לבדו כי יראת אלהים היא</p><p>אך האמונה ביהוה וּבְמֹשֶׁה עַבְדּוֹ ואנכי דיין שם משה עבד יהוה </p><p>אני יודע שאתם מאמינים לי ואני מקווה גם שאתם מאמינים בי</p><p>http://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-05 15:42:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>גם אם זה היה תרוץ שלו - מה שלא מחייב בהכרח כלל הסדר שכתוב קודם שאול ואח&quot;כ העם- עכ&quot;פ הדבר מראה על הלך הרוח שלו</p><p>כמעט אפשר להיות משוכנע שמשפט כזה לא היה יוצא מפי דוד המלך</p>',
+		'116794367333168604438',
+		'משה מרדכי אייכנשטיין',
+		'2019-03-05 22:43:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_dwd_wbt7_0.html',
+		'<p>כיון ולא חזר בסוף המלחמה תנאי הגט עוד לא התבטל</p>',
+		'116794367333168604438',
+		'משה מרדכי אייכנשטיין',
+		'2019-03-05 22:48:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-05 22:48:26' 
+			WHERE messageid=8481;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_dwd_wbt7_0.html',
+		'<p>כיון ולא חזר בסוף המלחמה התנאי עוד קיים</p>',
+		'116794367333168604438',
+		'משה מרדכי אייכנשטיין',
+		'2019-03-05 22:48:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-06 05:09:52' 
+			WHERE messageid=8228;
+

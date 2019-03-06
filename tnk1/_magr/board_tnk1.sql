@@ -17284,3 +17284,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/xtati.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-05 15:02:27'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-05 15:42:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1302_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/they.pdf',
+				NULL,
+				'2019-03-05 18:59:51',
+				'2019-03-05 18:59:51',
+				'They',
+				'абрш шое',
+				'They'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-03-05 18:59:51'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-05 22:43:27'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-05 22:48:16'
+		WHERE ktovt_bn='tnk1/messages/nvir_dwd_wbt7_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-05 22:48:44'
+		WHERE ktovt_bn='tnk1/messages/nvir_dwd_wbt7_0.html'
+		;
+
