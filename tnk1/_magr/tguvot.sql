@@ -14911,3 +14911,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-06 05:09:52' 
 			WHERE messageid=8228;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/19.html',
+		'<p>הערות טובות ומעניינות , אבל שום דבר לא חד משמעי אלא יתכן לכאן או לשם.</p><p>לדעתי מרדכי אמנם לא עלה לארץ , כי כפי שכתב אחד המעירים , מדוע שיחזור לפרס?  </p><p>ועוד הרי עזרא לא הזכיר את כל נושא המגילה ולכן סביר שמרדכי היה עם &quot;הלא ציוניים&quot; שנשארו בפרס וזה חלק מהחטא הגדול שעליו הם נענשו כמובן כולל השתתפותם בסעודתו של אותו חשיראש הראשון הלא הוא אחשוורוש. זו גם הסיבה לקיומו של הפרק הראשון במגילת אסתר שאחרת הוא מיותר (ראו דבריו של הרב מידן מישיבת הר עציון באותו נושא)</p>',
+		'102003103541239987978',
+		'menachem zucker',
+		'2019-03-07 14:13:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/19.html',
+		'<p>הרב מדן</p>',
+		'102003103541239987978',
+		'menachem zucker',
+		'2019-03-07 14:19:45'
+		)
+		;
+
