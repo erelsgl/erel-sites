@@ -17409,3 +17409,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/19.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-08 09:18:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_9.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-08 14:21:30'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_mjpt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-08 14:29:27'
+		WHERE ktovt_bn='tnk1/nvir/xtati.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-08 14:32:44'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_122.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-08 14:33:25'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_122.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/spr4.html',
+				'tnk1/tora/jmot/jm-24-10.html',
+				NULL,
+				'2019-03-08 14:53:04',
+				'2019-03-08 14:53:04',
+				'לבנת הספיר',
+				'אראל',
+				''
+			)
+		;
+

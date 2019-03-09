@@ -14935,3 +14935,70 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_9.html',
+		'<p>אלהים טוב והאדם רע</p><p>אך בני האדם טובים ובני האלהים רעים</p><p>בנות האדם טובות ובנות האלהים רעות</p><p>בני האדם ישרים ובני האלהים מום בם</p><p> דברים לב5: &quot;שִׁחֵת לא לוֹ בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot; </p><p>בראשית ו2: &quot;וַיִּרְאוּ בְנֵי הָאֱלֹהִים אֶת בְּנוֹת הָאָדָם כִּי טֹבֹת הֵנָּה וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ&quot; </p><p>בנות האדם = בנות הגוים</p><p>בני האלהים = בני ישראל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-08 09:18:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_mjpt.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-08 14:21:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/xtati.html',
+		'<p>מהפרקים הקודמים עולה בבירור ששאול לא היה אדם השומע בקול העם. למשל בפרק יא, כשרצה להביא את העם למלחמה ביבש גלעד, איים שכל מי שלא יבוא - יישחט כל בקרו, והעם שמע בקולו. גם במלחמת מכמש, כשראה שהעם חוטאים ואוכלים על הדם, פעל מייד ועצר בעדם. לאחר מכן אסר על כל העם לאכול, וכולם שמעו בקולו.</p><p>לכן מסתבר שגם כאן העם שמע בקול שאול ולא להיפך. העובדה ששאול השתמש בטענה (השקרית) &quot;שמעתי בקול העם&quot; מראה שזו טענה משמעותית - המנהיג אכן צריך לשמוע בקול העם - אילו שאול באמת היה שומע בקול העם, זו היתה סיבה להקל בעונשו. אלא שבמקרה זה טענתו לא התקבלה כי לא היתה אמיתית.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-08 14:29:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_122.html',
+		'<p>בכל תחום אחר בכלכלה, התחרות משפרת את איכות המוצרים ואת מחירם. אם כך, מדוע שלא תהיה תחרות גם בתחום השגחת הכשרות?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-08 14:32:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-08 14:32:50' 
+			WHERE messageid=8488;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_122.html',
+		'<p>בכל תחום אחר בכלכלה, התחרות משפרת את איכות המוצרים ואת מחירם. נכון שהיצרנים עובדים ממניעים אנוכיים, אבל בסופו של דבר הצרכנים מרויחים.  </p><p>אם כך, מדוע שלא תהיה תחרות גם בתחום השגחת הכשרות? נכון שגופי הכשרות מרויחים מזה כסף, אבל בסופו של דבר הצרכנים מרויחים כשרות ברמה גבוהה יותר.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-03-08 14:33:25'
+		)
+		;
+
