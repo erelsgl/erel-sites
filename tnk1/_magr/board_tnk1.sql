@@ -17465,3 +17465,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xrsj.html',
+				'tnk1/nvia/yj-30-14.html',
+				NULL,
+				'2019-03-09 16:52:35',
+				'2019-03-09 16:52:35',
+				'מה אפשר לעשות בחרס שבור?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-09 16:56:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-09 17:49:13'
+		WHERE ktovt_bn='tnk1/nvia/yj-30-14.html'
+		;
+
