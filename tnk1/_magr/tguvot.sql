@@ -15026,3 +15026,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1032_0_0.html',
+		'<p>להערכתי הסיבה הייתה &quot;הדיל&quot; שהציע אליהו לאחאב הפסקת הבצורת , תמורת כינוס כל העם ונביאי הבעל והאשרה להר הכרמל. ואחאב שמצטייר כמלך אחראי לפחות בתחום החומרי ( כמי שבעצמו חיפש עם עובדיהו מקורות מים) , קבל הצעה זו בשתי ידיים, והסכים ולא רק זאת אלא שלאחר שהתברר מי &quot;האל האמתי&quot;  לא מנע בעד אליהו והעם להרוג את נביאי הבעל והאשרה,</p>',
+		'115351255394724942545',
+		'אבנר חממי',
+		'2019-03-10 12:57:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1032_0_0.html',
+		'<p></p>',
+		'115351255394724942545',
+		'אבנר חממי',
+		'2019-03-10 12:57:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>שמואל ב כב45: &quot;בְּנֵי נֵכָר יִתְכַּחֲשׁוּ לִי לִשְׁמוֹעַ אֹזֶן יִשָּׁמְעוּ לִי&quot;</p><p>שמואל ב כב46: &quot;בְּנֵי נֵכָר יִבֹּלוּ וְיַחְגְּרוּ מִמִּסְגְּרוֹתָם&quot;</p><p>תהלים יח45: &quot;לְשֵׁמַע אֹזֶן יִשָּׁמְעוּ לִי בְּנֵי נֵכָר יְכַחֲשׁוּ לִי&quot;</p><p>תהלים יח46: &quot;בְּנֵי נֵכָר יִבֹּלוּ וְיַחְרְגוּ מִמִּסְגְּרוֹתֵיהֶם&quot;</p><p>---------------</p><p>דברים לג29: &quot;אַשְׁרֶיךָ יִשְׂרָאֵל מִי כָמוֹךָ עַם נוֹשַׁע ביהוה מָגֵן עֶזְרֶךָ וַאֲשֶׁר חֶרֶב גַּאֲוָתֶךָ וְיִכָּחֲשׁוּ אֹיְבֶיךָ לָךְ וְאַתָּה עַל בָּמוֹתֵימוֹ תִדְרֹךְ&quot;</p><p> בְּנֵי נֵכָר יְכַחֲשׁוּ לִי  --- וְיִכָּחֲשׁוּ אֹיְבֶיךָ לָךְ</p><p>כי אויבי ישראל אלה הם המכחשים למשיח</p><p>כי כל המכחש לי אחשיבהו לאויב ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-10 13:39:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>שמואל ב כב45: &quot;בְּנֵי נֵכָר יִתְכַּחֲשׁוּ לִי לִשְׁמוֹעַ אֹזֶן יִשָּׁמְעוּ לִי&quot;</p><p>שמואל ב כב46: &quot;בְּנֵי נֵכָר יִבֹּלוּ וְיַחְגְּרוּ מִמִּסְגְּרוֹתָם&quot;</p><p>תהלים יח45: &quot;לְשֵׁמַע אֹזֶן יִשָּׁמְעוּ לִי בְּנֵי נֵכָר יְכַחֲשׁוּ לִי&quot;</p><p>תהלים יח46: &quot;בְּנֵי נֵכָר יִבֹּלוּ וְיַחְרְגוּ מִמִּסְגְּרוֹתֵיהֶם&quot;</p><p>---------------</p><p>דברים לג29: &quot;אַשְׁרֶיךָ יִשְׂרָאֵל מִי כָמוֹךָ עַם נוֹשַׁע ביהוה מָגֵן עֶזְרֶךָ וַאֲשֶׁר חֶרֶב גַּאֲוָתֶךָ וְיִכָּחֲשׁוּ אֹיְבֶיךָ לָךְ וְאַתָּה עַל בָּמוֹתֵימוֹ תִדְרֹךְ&quot;</p><p>בְּנֵי נֵכָר יְכַחֲשׁוּ לִי --- וְיִכָּחֲשׁוּ אֹיְבֶיךָ לָךְ</p><p>כי בְּנֵי נֵכָר אויבי ישראל אלה הם המכחשים למשיח</p><p>כי כל המכחש לי אחשיבהו לבן-נכר אויב ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-10 14:11:44'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-10 14:12:21' 
+			WHERE messageid=8494;
+
