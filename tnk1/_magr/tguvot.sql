@@ -15081,3 +15081,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-10 14:12:21' 
 			WHERE messageid=8494;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_122.html',
+		'<p>מזווית עסקית אתה צודק בהחלט. אפשר עם קצת אירוניה להמציא עוד אלוהים להלהיב את עסקי האלוהות הסיטונאי.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-03-11 16:51:54'
+		)
+		;
+
