@@ -15093,3 +15093,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>לרבנים הגדולים וכל כהני הדת המכחשים לי</p><p>אל תלחמו עם יהוה אלהי ישראל כי לא תצליחו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-12 15:09:52'
+		)
+		;
+
