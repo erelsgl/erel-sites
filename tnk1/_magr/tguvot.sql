@@ -15105,3 +15105,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>לעם הארץ מבני ישראל</p><p>הלא הגידו לכם המשכילים את אשר אמת דיברתי</p><p>ועתה הכנעו ליהוה פן יכלה אותכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-15 06:28:15'
+		)
+		;
+
