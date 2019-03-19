@@ -15148,3 +15148,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-16 16:50:23' 
 			WHERE messageid=8500;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/lrek_kmok_snaa.html',
+		'<p>נפלא</p>',
+		'108777222731380267186',
+		'אביגיל עובדיה',
+		'2019-03-18 10:30:23'
+		)
+		;
+
