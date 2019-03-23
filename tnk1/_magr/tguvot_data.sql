@@ -3459,3 +3459,27 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/brejit/mgdl_bvl_wanxnu.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-03-22 09:09:07'
+			WHERE parent='tnk1/tora/brejit/mgdl_bvl_wanxnu.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-03-22 09:09:34'
+			WHERE parent='tnk1/sofrim/zuckm/19.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-03-22 09:10:17'
+			WHERE parent='tnk1/messages/dmut_dmut_1032_0_0.html'
+			;
+
