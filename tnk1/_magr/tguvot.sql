@@ -15279,3 +15279,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-22 09:10:17' 
 			WHERE messageid=8493;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>אשת כסילות היא המתקשרת הדורשת במתים</p><p>משלי ט13: &quot;אֵשֶׁת כְּסִילוּת הֹמִיָּה פְּתַיּוּת וּבַל יָדְעָה מָּה&quot; </p><p>משלי ט14: &quot;וְיָשְׁבָה לְפֶתַח בֵּיתָהּ עַל כִּסֵּא מְרֹמֵי קָרֶת&quot; </p><p>משלי ט15: &quot;לִקְרֹא לְעֹבְרֵי דָרֶךְ הַמְיַשְּׁרִים אֹרְחוֹתָם&quot; </p><p>משלי ט16: &quot; מִי פֶתִי יָסֻר הֵנָּה וַחֲסַר לֵב וְאָמְרָה לּוֹ&quot;</p><p>משלי ט17: &quot;מַיִם גְּנוּבִים יִמְתָּקוּ וְלֶחֶם סְתָרִים יִנְעָם&quot; </p><p>משלי ט18: &quot;וְלֹא יָדַע כִּי רְפָאִים שָׁם בְּעִמְקֵי שְׁאוֹל קְרֻאֶיהָ&quot; --- כי קוראת המתקשרת למתים הם הרְפָאִים בְּעִמְקֵי שְׁאוֹל</p><p>------------</p><p> </p><p>משלי ב18: &quot;כִּי שָׁחָה אֶל מָוֶת בֵּיתָהּ וְאֶל רְפָאִים מַעְגְּלֹתֶיהָ&quot; </p><p>תהלים פח11: &quot;הֲלַמֵּתִים תַּעֲשֶׂה פֶּלֶא אִם רְפָאִים יָקוּמוּ יוֹדוּךָ סֶּלָה&quot;</p><p>משלי כא16: &quot;אָדָם תּוֹעֶה מִדֶּרֶךְ הַשְׂכֵּל בִּקְהַל רְפָאִים יָנוּחַ&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-23 17:49:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>תהלים קה44: &quot;וַיִּתֵּן לָהֶם אַרְצוֹת גּוֹיִם וַעֲמַל לְאֻמִּים יִירָשׁוּ&quot;</p><p>תהלים קה45: &quot;בַּעֲבוּר יִשְׁמְרוּ חֻקָּיו וְתוֹרֹתָיו יִנְצֹרוּ הַלְלוּ יָהּ&quot; </p><p>------- </p><p>לשמור את התורה זאת הסיבה שאלהים נתן לנו את ארצות שבעת עמי הכנענים</p><p>ארצות שבעת עמי כנען נתן אלהים לבני ישראל ואם לא נשמור התורה ישלחנו לגלות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-23 18:51:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>רפואה שלמה לאחותי רחל אפרת בת רבקה </p><p>מבקש בבקשה להתפלל לרפואתה בתוך שאר חולי ישראל</p><p>תודה</p>',
+		'106936409918592347519',
+		'Kobi',
+		'2019-03-23 23:39:01'
+		)
+		;
+

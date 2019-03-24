@@ -3483,3 +3483,48 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/dmut_dmut_1032_0_0.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0518_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-23 17:49:51'
+		WHERE parent='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1402_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-23 18:51:43'
+		WHERE parent='tnk1/messages/prqim_t1402_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/mamr_tfilot-eitan_6.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-23 23:39:01'
+		WHERE parent='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+

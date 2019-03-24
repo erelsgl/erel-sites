@@ -17847,3 +17847,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-03-22 13:47:40'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-23 17:49:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-23 18:51:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1402_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-23 23:39:01'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_6.html'
+		;
+
