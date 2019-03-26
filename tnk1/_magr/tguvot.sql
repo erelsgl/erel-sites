@@ -15358,3 +15358,72 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-25 04:12:52' 
 			WHERE messageid=8513;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/bn_rja.html',
+		'<p>יפה</p><p></p>',
+		'117214822175287581692',
+		'אדיר דוד דישון',
+		'2019-03-25 17:40:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-25 17:40:10' 
+			WHERE messageid=8515;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>בעת קמים עלינו נזכור להזכיר לזכור </p><p>תהלים ס14: &quot;בֵּאלֹהִים נַעֲשֶׂה חָיִל וְהוּא יָבוּס צָרֵינוּ&quot;</p><p>תהלים קח14: &quot;בֵּאלֹהִים נַעֲשֶׂה חָיִל וְהוּא יָבוּס צָרֵינוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-25 19:59:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>אחי בני ישראל אני דיין אמנם לא איש שמאל </p><p>ואם אין צדקה ומשפט בארץ אז גם ימין שקר לא יעזור</p><p>אנשי ימין השקר כבְּנֵי נֵכָר נחשבו </p><p>תהלים קמד7: &quot;שְׁלַח יָדֶיךָ מִמָּרוֹם פְּצֵנִי וְהַצִּילֵנִי מִמַּיִם רַבִּים מִיַּד בְּנֵי נֵכָר&quot;</p><p>תהלים קמד8: &quot;אֲשֶׁר פִּיהֶם דִּבֶּר שָׁוְא וִימִינָם יְמִין שָׁקֶר&quot;</p><p>תהלים קמד11: &quot;פְּצֵנִי וְהַצִּילֵנִי מִיַּד בְּנֵי נֵכָר אֲשֶׁר פִּיהֶם דִּבֶּר שָׁוְא וִימִינָם יְמִין שָׁקֶר&quot;</p><p>ימין השקר הזה אומר רק להפציץ להפציץ אך לא שמעתי אותם מדברים לעשות צדקה ומשפט</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-26 05:26:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>אחי בני ישראל אני דיין אמנם לא איש שמאל</p><p>ואם אין צדקה ומשפט בארץ אז גם ימין שקר לא יעזור</p><p>החמס בתוככם --- אנשי ימין השקר כבְּנֵי נֵכָר נחשבו</p><p>תהלים קמד7: &quot;שְׁלַח יָדֶיךָ מִמָּרוֹם פְּצֵנִי וְהַצִּילֵנִי מִמַּיִם רַבִּים מִיַּד בְּנֵי נֵכָר&quot;</p><p>תהלים קמד8: &quot;אֲשֶׁר פִּיהֶם דִּבֶּר שָׁוְא וִימִינָם יְמִין שָׁקֶר&quot;</p><p>תהלים קמד11: &quot;פְּצֵנִי וְהַצִּילֵנִי מִיַּד בְּנֵי נֵכָר אֲשֶׁר פִּיהֶם דִּבֶּר שָׁוְא וִימִינָם יְמִין שָׁקֶר&quot;</p><p>ימין השקר הזה אומר רק להפציץ להפציץ אך לא שמעתי אותם מדברים לעשות צדקה ומשפט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-26 05:33:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-26 05:34:06' 
+			WHERE messageid=8517;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-26 06:03:47' 
+			WHERE messageid=8518;
+
