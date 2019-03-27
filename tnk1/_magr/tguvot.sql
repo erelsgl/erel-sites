@@ -15427,3 +15427,96 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-26 06:03:47' 
 			WHERE messageid=8518;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-43-09.html',
+		'<p>אפשר הסבר מדוע הוא אינו סמך על בינימין &quot;כי היה פחז כמים&quot;?</p>',
+		'108739706271167316658',
+		'APK Cheating',
+		'2019-03-26 15:08:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-23.html',
+		'<p>omg</p>',
+		'115177157163642139681',
+		'Leava Phitoussi',
+		'2019-03-26 16:22:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-26 16:22:39' 
+			WHERE messageid=8520;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-137-09.html',
+		'<p>תודה רבה</p><p></p>',
+		'106681310181054069426',
+		'ליאור לנקרי',
+		'2019-03-26 23:30:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-137-09.html',
+		'<p>תהלים קלז8: &quot;בַּת בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם לָךְ אֶת גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ&quot; --- את התלמוד הבבלי והגמרא</p><p>תהלים קלז9: &quot;אַשְׁרֵי שֶׁיֹּאחֵז וְנִפֵּץ אֶת עֹלָלַיִךְ אֶל הַסָּלַע&quot; --- מדובר על ניצני התלמוד הבבלי ולא על תינוקות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-27 05:13:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-137-09.html',
+		'<p>תהלים קלז8: &quot;בַּת בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם לָךְ אֶת גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ&quot; --- את התלמוד הבבלי והגמרא שסלפו את התורה</p><p>תהלים קלז9: &quot;אַשְׁרֵי שֶׁיֹּאחֵז וְנִפֵּץ אֶת עֹלָלַיִךְ אֶל הַסָּלַע&quot; --- מדובר על ניצני התלמוד הבבלי ולא על תינוקות רכים שלא חטאו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-27 05:14:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-27 05:14:16' 
+			WHERE messageid=8522;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-137-09.html',
+		'<p>תהלים קלז8: &quot;בַּת בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם לָךְ אֶת גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ&quot; --- את התלמוד הבבלי והגמרא שסלפו את התורה</p><p>תהלים קלז9: &quot;אַשְׁרֵי שֶׁיֹּאחֵז וְנִפֵּץ אֶת עֹלָלַיִךְ אֶל הַסָּלַע&quot; --- מדובר על ניצני הראשונים של התלמוד הבבלי שהדיחו את הכהנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-27 05:37:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-27 05:38:26' 
+			WHERE messageid=8524;
+
