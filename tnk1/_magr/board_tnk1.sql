@@ -18021,3 +18021,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-03-27 06:31:13'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-27 15:42:47'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-43-09.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-27 15:46:24'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-43-09.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/habn_whxwf.pdf',
+				NULL,
+				'2019-03-27 17:20:09',
+				'2019-03-27 17:20:09',
+				'מבחן האבן והחוט',
+				'רמי ניר',
+				''
+			)
+		;
+
