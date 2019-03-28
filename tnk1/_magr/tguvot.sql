@@ -15520,3 +15520,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-03-27 05:38:26' 
 			WHERE messageid=8524;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-43-09.html',
+		'<p>יעקב לא סמך על ראובן וגם העביר את בכורתו ליוסף</p><p>יעקב לא סמך על ראובן כאשר זה אמר </p><p>בראשית מב37: &quot;וַיֹּאמֶר רְאוּבֵן אֶל אָבִיו לֵאמֹר אֶת שְׁנֵי בָנַי תָּמִית אִם לֹא אֲבִיאֶנּוּ אֵלֶיךָ תְּנָה אֹתוֹ עַל יָדִי וַאֲנִי אֲשִׁיבֶנּוּ אֵלֶיךָ&quot; </p><p>יעקב נזכר שראובן חלל את זרעו עת שכב עם בלהה ולמעשה נקלה [קל] בעיני ראובן להמית את בניו לכן יעקב לא סמך על ראובן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-27 15:42:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-43-09.html',
+		'<p>יעקב לא סמך על ראובן וגם העביר את בכורתו ליוסף</p><p>יעקב לא סמך על ראובן כאשר זה אמר</p><p>בראשית מב37: &quot;וַיֹּאמֶר רְאוּבֵן אֶל אָבִיו לֵאמֹר אֶת שְׁנֵי בָנַי תָּמִית אִם לֹא אֲבִיאֶנּוּ אֵלֶיךָ תְּנָה אֹתוֹ עַל יָדִי וַאֲנִי אֲשִׁיבֶנּוּ אֵלֶיךָ&quot;</p><p>יעקב נזכר שראובן חלל את זרעו עת שכב עם בלהה ולמעשה נקלה [קל] בעיני ראובן להמית את בניו לכן יעקב לא סמך על ראובן</p><p>בראשית לה22: &quot;וַיְהִי בִּשְׁכֹּן יִשְׂרָאֵל בָּאָרֶץ הַהִוא וַיֵּלֶךְ רְאוּבֵן וַיִּשְׁכַּב אֶת בִּלְהָה פִּילֶגֶשׁ אָבִיו וַיִּשְׁמַע יִשְׂרָאֵל </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-27 15:46:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-03-27 15:46:26' 
+			WHERE messageid=8525;
+
