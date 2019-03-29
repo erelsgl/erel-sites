@@ -3817,3 +3817,33 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/brejit/br-43-09.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/sofrim/zuckm/55.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-28 11:16:46'
+		WHERE parent='tnk1/sofrim/zuckm/55.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0526_3.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-03-28 18:02:25'
+		WHERE parent='tnk1/messages/prqim_t0526_3.html'
+		;
+
