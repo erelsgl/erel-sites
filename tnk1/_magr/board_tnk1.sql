@@ -18069,3 +18069,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-29 12:37:48'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-29 13:28:35'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-11.html'
+		;
+

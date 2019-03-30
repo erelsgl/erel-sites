@@ -15575,3 +15575,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-11.html',
+		'<p>פירוש 2 מדהים! תודה רבה.</p>',
+		'100827408095798631860',
+		'I J',
+		'2019-03-29 12:37:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-11.html',
+		'<p>בראשית ג15: &quot;הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב&quot;</p><p>באור: הוא האדם יביט עליך מהראש מלמעלה ואתה הנחש תביט עקב מלמטה </p><p>ישופך = יביט עליך מלשון ערבית שוף שופלאק</p><p>תהלים קלט11: &quot;וָאֹמַר אַךְ חֹשֶׁךְ יְשׁוּפֵנִי וְלַיְלָה אוֹר בַּעֲדֵנִי\'&quot;</p><p>תהלים קלט11: &quot;וָאֹמַר \'אַךְ חֹשֶׁךְ יְשׁוּפני יביט עלי אך לילה אור בעדני לטובתי</p><p>לכן כתוב : &quot;כִּי אֵשֵׁב בַּחֹשֶׁךְ יהוה אוֹר לִי&quot; </p><p>מיכה ז8: &quot;אַל תִּשְׂמְחִי אֹיַבְתִּי לִי כִּי נָפַלְתִּי קָמְתִּי כִּי אֵשֵׁב בַּחֹשֶׁךְ יהוה אוֹר לִי&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-03-29 13:28:35'
+		)
+		;
+
