@@ -18085,3 +18085,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-11.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-30 17:13:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-03-30 17:26:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1402_2.html'
+		;
+
