@@ -15654,3 +15654,65 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-01 04:11:41' 
 			WHERE messageid=8533;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>שמות יח21: </p><p>&quot;וְאַתָּה תֶחֱזֶה מִכָּל הָעָם אַנְשֵׁי חַיִל יִרְאֵי אֱלֹהִים אַנְשֵׁי אֱמֶת שֹׂנְאֵי בָצַע וְשַׂמְתָּ עֲלֵהֶם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת&quot;</p><p>1. אַנְשֵׁי חַיִל [אנשי צבא -- מפלגת רמטכ&quot;לים]</p><p>2. יִרְאֵי אֱלֹהִים [אנשי מוסר -- מפלגת דתיים]</p><p>3.אַנְשֵׁי אֱמֶת </p><p>4.שֹׂנְאֵי בָצַע </p><p>שמות יח25: &quot;וַיִּבְחַר מֹשֶׁה אַנְשֵׁי חַיִל מִכָּל יִשְׂרָאֵל וַיִּתֵּן אֹתָם רָאשִׁים עַל הָעָם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת&quot;</p><p>שמות יח25: &quot;וַיִּבְחַר מֹשֶׁה אַנְשֵׁי חַיִל מִכָּל יִשְׂרָאֵל --- כי אנשי החיל ראשונים בעדיפות על פני יראי האלהים</p><p>והסיבה היא שלא כל מי שמציג את עצמו כירא אלהים הוא באמת ירא אלהים [לא חסר דתיים נוכלים]</p><p>אך אַנְשֵׁי חַיִל על פי מורכבות אישיותם הם גם יִרְאֵי אֱלֹהִים אַנְשֵׁי אֱמֶת שֹׂנְאֵי בָצַע</p><p>לכן על פי משה ותורתו יש לבחור באנשי חיל</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-01 13:13:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-01 15:50:56' 
+			WHERE messageid=8535;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-01 15:52:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-01 15:53:11' 
+			WHERE messageid=8536;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/dbr.html',
+		'<p>ה&quot;דוגמאות למשמעות זו בדברי חז&quot;ל&quot; אינם אלא &quot;דוגמאות למשמעות זו במקרא ע&quot;פ חז&quot;ל&quot;. </p><p>דוגמאות למשמעות זו בדברי חז&quot;ל: &quot;אונאת דברים&quot;</p><p></p>',
+		'115652751464166604999',
+		'אוריאל פרנק',
+		'2019-04-01 23:11:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/dbr.html',
+		'<p></p>',
+		'115652751464166604999',
+		'אוריאל פרנק',
+		'2019-04-01 23:11:25'
+		)
+		;
+
