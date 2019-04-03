@@ -4021,3 +4021,26 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/kma/qjrim1/dbr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-04-02 14:17:11'
+			WHERE parent='tnk1/kma/qjrim1/dbr.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-1821.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-04-03 01:06:41'
+		WHERE parent='tnk1/tora/jmot/jm-1821.html'
+		;
+
