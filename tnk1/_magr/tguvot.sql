@@ -15735,3 +15735,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אראל עם יד על הלב, מתוך 120 ח&quot;כים שעתידים להכנס לכנסת, כמה לדעתך עונים על האסכלה של אַנְשֵׁי חַיִל, יִרְאֵי אֱלֹהִים, אַנְשֵׁי אֱמֶת, שֹׂנְאֵי בָצַע</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-04-04 13:16:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>קשה למצוא מישהו שמקיים את כל הדרישות יחד (ואפילו משה רבנו לא מצא).</p><p>אבל אפשר למצוא מועמדים המקיימים כל דרישה בנפרד. גם זה משהו..</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-04-05 02:40:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>קשה למצוא מישהו שמקיים את כל הדרישות יחד (ואפילו משה רבנו לא מצא).</p><p>אבל אפשר למצוא מועמדים המקיימים כל דרישה בנפרד.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-04-05 02:41:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-05 02:41:10' 
+			WHERE messageid=8542;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אנשי הבית היהודי [איחוד הימין] לא טובים כאנשי חיל במפלגת הרמטכ&quot;לים</p><p>אך אני החלטתי לבחור בדרך בערכים של שבת קודש ולא באנשים אנשי החיל</p><p>כי חומות יריחו נפלו בזכות שופרות היובלים בידי הכהנים ולא בגלל אנשי חיל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-05 07:02:04'
+		)
+		;
+
