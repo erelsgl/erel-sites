@@ -15790,3 +15790,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>אראל מספיק שיהיו כנים עם עצמם.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-04-05 12:14:45'
+		)
+		;
+
