@@ -15802,3 +15802,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>שמות כב22: &quot;אִם עַנֵּה תְעַנֶּה אֹתוֹ כִּי אִם צָעֹק יִצְעַק אֵלַי שָׁמֹעַ אֶשְׁמַע צַעֲקָתוֹ&quot;</p><p>שמות כב26: &quot;כִּי הִוא כסותה[כְסוּתוֹ] לְבַדָּהּ הִוא שִׂמְלָתוֹ לְעֹרוֹ בַּמֶּה יִשְׁכָּב וְהָיָה כִּי יִצְעַק אֵלַי וְשָׁמַעְתִּי כִּי חַנּוּן אָנִי&quot;</p><p>מה מבטאת הצעקה הזאת למה צריך לצעוק לאלהים שישמע</p><p>האם אלהים לא רואה הלא הוא רואה הכל</p><p>ובכן צעקת האדם לאלהים מבטאת את אמונת האדם באלהים</p><p>וכאשר אתה צועק באמת לאלהים הוא יודע שאתה מאמין בו</p><p>ואם אתה מאמין בו באמונה הן בריתו איתך ויושע לך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-07 15:42:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-08 04:43:28' 
+			WHERE messageid=8400;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>הרבה דברים מתורת משה אינם קיימים היום</p><p>אין כהנים בני לוי מיוחסים לאהרן כהן הראש</p><p>לא שומרים את שנת היובל</p><p>ועוד מצוות שבדור שלנו אינן רלונטיות</p><p>לכן כל מה שנשאר הוא ללכת על פי ספר תהילות</p><p>ןלב הדברים הן לעשות צדקה ומשפט ליתומים ולאביונים</p><p>כפי שכתבתי לכם רבות כי העני הוא עמי --- ורוצה יהוה בעמו</p><p>תהלים קמט4: &quot;כִּי רוֹצֶה יהוה בְּעַמּוֹ יְפָאֵר עֲנָוִים בִּישׁוּעָה&quot;</p><p>לכן אם אתם מתלבטים ומאסתם בכל המפלגות כי הגיעו מים עד נפש</p><p>תחשבו על צדק חברתי</p><p>אם תרצו צדק חברתי</p><p> https://www.zedekhevrati.co.il/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-08 04:48:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>הרבה דברים מתורת משה אינם קיימים היום</p><p>אין כהנים בני לוי מיוחסים לאהרן כהן הראש</p><p>לא שומרים את שנת היובל</p><p>ועוד מצוות שבדור שלנו אינן רלונטיות</p><p>לכן כל מה שנשאר הוא ללכת על פי ספר תהילות</p><p>ולב הדברים הן לעשות צדקה ומשפט ליתומים ולאביונים</p><p>כפי שכתבתי לכם רבות כי העני הוא עמי --- ורוצה יהוה בעמו</p><p>תהלים קמט4: &quot;כִּי רוֹצֶה יהוה בְּעַמּוֹ יְפָאֵר עֲנָוִים בִּישׁוּעָה&quot;</p><p>לכן אם אתם מתלבטים ומאסתם בכל המפלגות כי הגיעו מים עד נפש</p><p>תחשבו על צדק חברתי</p><p>אם תרצו צדק חברתי</p><p>https://www.zedekhevrati.co.il/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-08 04:48:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-08 04:48:49' 
+			WHERE messageid=8546;
+
