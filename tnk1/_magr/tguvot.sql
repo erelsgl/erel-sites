@@ -15852,3 +15852,34 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-08 04:48:49' 
 			WHERE messageid=8546;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-08 10:32:46' 
+			WHERE messageid=8539;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>https://www.zedekhevrati.co.il/</p><p>תהלים עב12: &quot;כִּי יַצִּיל אֶבְיוֹן מְשַׁוֵּעַ וְעָנִי וְאֵין עֹזֵר לוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-08 11:23:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b24_3.html',
+		'<p>בלוח היובלים</p><p>מועד הקיץ מחג הפסח עד חג-הסכות</p><p>מועד החורף מחג-הסכות עד חג הפסח</p><p>חודש האביב הוא עונת מעבר</p><p>מחציתו הראשונה חורף</p><p>ומחציתו האחרונה קיץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-09 06:00:20'
+		)
+		;
+
