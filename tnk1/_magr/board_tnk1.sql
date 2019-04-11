@@ -18346,3 +18346,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-04-09 18:31:20'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-10 15:59:46'
+		WHERE ktovt_bn='tnk1/messages/forums_672.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/astrology.pdf',
+				NULL,
+				'2019-04-10 21:19:57',
+				'2019-04-10 21:19:57',
+				'Astrology',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-04-10 21:19:57'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

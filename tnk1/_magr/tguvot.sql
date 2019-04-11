@@ -15957,3 +15957,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-09 14:55:17' 
 			WHERE messageid=8550;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_672.html',
+		'<p>מאוד הרשים אותי . המסר שבשיר , קיים במוחי זמן רב, אך אין לי כשרון לכתוב אותו בלשון שירה. נזכר אני בדברי ה\' למשה שישים בפי עם ישראל את פרשת האזינו בצורת שיר למדה את בני ישראל שימה בפיהם   כך יזכרו את שירת האזינו שהיא תמצית כל התורה ובו גם יש בה עבר הווה ועתיד של תולדותינו יישר כוחך אהובה קליין</p><p>מיכאל אסולין</p>',
+		'111208016600528705753',
+		'michael assouline',
+		'2019-04-10 15:59:46'
+		)
+		;
+
