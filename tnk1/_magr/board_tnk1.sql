@@ -18377,3 +18377,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-04-10 21:19:57'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-11 15:56:29'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-1516.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/zehut-land.html',
+				NULL,
+				'2019-04-12 05:29:59',
+				'2019-04-12 05:29:59',
+				'על סדר היום - מצע הקרקעות של מפלגת \"זהות\"',
+				'אראל',
+				''
+			)
+		;
+

@@ -15969,3 +15969,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-1516.html',
+		'<p>עזר לי מאוד! תודה רבה</p>',
+		'104256029853737697817',
+		'גפן שמשוני',
+		'2019-04-11 15:56:29'
+		)
+		;
+
