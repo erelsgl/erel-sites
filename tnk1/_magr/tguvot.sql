@@ -16127,3 +16127,113 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-15 12:39:16' 
 			WHERE messageid=8566;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p> http://tora.us.fm/tnk1/daian</p><p>בספרי &quot;עדות לדרך המשיח&quot; במאמר מספר 245 &quot;דין משה ותורתו&quot;</p><p>כתבתי את שנת 2450 היא שנת צאת ישראל ממצרים לאחר ארבעה דורות</p><p>וכתבתי בספר כי פירוש רבני חזל הגדולים אינו נכון לחזון אברהם אשר בארתי בקודש</p><p>אך הרבנים מכחשים לי באמרם ביזית בספרך את רבני חזל הגדולים ועשית אותנו קטנים</p><p>ואומר להם דא עקא כי אתם בעיניכם רבנים גדולים ואלהים קטן ואני חשבתי להפוך זאת למען</p><p>הקטין את הרבנים למען אלהים גדול על כן ביזיתי אתכם בספר האמת אשר כתבתי</p><p>וזכרתי את אבותינו הקדושים אשר אלהים השיבם מן הגלות לארץ כנען</p><p>כי בימי הקמת המדינה בעת שיבת ציון היו הרבנים קטנים ואלהים גדול וככה נכון להיות</p><p>דברים לב3: &quot;כִּי שֵׁם יהוה אֶקְרָא הָבוּ גֹדֶל לֵאלֹהֵינוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-16 10:53:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-16 10:53:38' 
+			WHERE messageid=8567;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>איוב לו20: &quot;אַל תִּשְׁאַף הַלָּיְלָה לַעֲלוֹת עַמִּים תַּחְתָּם&quot;</p><p>אל תעשה מטה-עמים לאכול בלילה מלבד שבתות ומועדי יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-16 17:57:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>איוב לו20: &quot;אַל תִּשְׁאַף הַלָּיְלָה לַעֲלוֹת עַמִּים תַּחְתָּם&quot;</p><p>אל תעשה מטה-עמים לאכול בלילה מלבד שבתות ומועדי יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-16 18:04:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0212_3.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0516_7.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-16 19:34:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0212_3.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-16 19:34:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>שיר השירים ג1: &quot;עַל מִשְׁכָּבִי בַּלֵּילוֹת בִּקַּשְׁתִּי אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>שיר השירים ג2: &quot;אָקוּמָה נָּא וַאֲסוֹבְבָה בָעִיר בַּשְּׁוָקִים וּבָרְחֹבוֹת אֲבַקְשָׁה אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>ובספר תהילות פרק עז כתוב:(כ) בַּיָּם דַּרְכֶּךָ ושביליך {וּשְׁבִילְךָ} בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ: </p><p> ------- בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו = וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ -------</p><p>עלכן שמעו בני ישראל כי לא תוכלו למצוא חן בעיני אלהים בדרך הדעת [אשר אתם חולים בה] כי עקבותיו לא נודעו כי לא ליודעים חן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-17 04:42:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>שיר השירים ג1: &quot;עַל מִשְׁכָּבִי בַּלֵּילוֹת בִּקַּשְׁתִּי אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>שיר השירים ג2: &quot;אָקוּמָה נָּא וַאֲסוֹבְבָה בָעִיר בַּשְּׁוָקִים וּבָרְחֹבוֹת אֲבַקְשָׁה אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>ובספר תהילות פרק עז כתוב:(כ) בַּיָּם דַּרְכֶּךָ ושביליך {וּשְׁבִילְךָ} בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ:</p><p>------- בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו = וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ -------</p><p>לכן שמעו בני ישראל כי לא תוכלו למצוא חן בעיני אלהים בדרך הדעת [אשר אתם חולים בה] כי עקבותיו לא נודעו כי לא ליודעים חן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-17 04:43:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-17 04:43:45' 
+			WHERE messageid=8573;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>שיר השירים ג1: &quot;עַל מִשְׁכָּבִי בַּלֵּילוֹת בִּקַּשְׁתִּי אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>שיר השירים ג2: &quot;אָקוּמָה נָּא וַאֲסוֹבְבָה בָעִיר בַּשְּׁוָקִים וּבָרְחֹבוֹת אֲבַקְשָׁה אֵת שֶׁאָהֲבָה נַפְשִׁי בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו&quot;</p><p>ובספר תהילות פרק עז כתוב:(כ) בַּיָּם דַּרְכֶּךָ ושביליך {וּשְׁבִילְךָ} בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ:</p><p>------- בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו = וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ -------</p><p>לכן שמעו בני ישראל כי לא תוכלו למצוא חן בעיני אלהים בדרך הדעת [אשר אתם חולים בה] כי עקבותיו לא נודעו כי לא ליודעים חן</p><p>לכן הגוים בזמרתם מצאו חן בעיני ..............</p><p>https://www.youtube.com/watch?v=qj5zT4t7S6c</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-17 05:02:13'
+		)
+		;
+
