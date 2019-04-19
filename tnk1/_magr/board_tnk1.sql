@@ -18684,3 +18684,43 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-04-18 05:33:48'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-18 13:49:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-18 19:02:56'
+		WHERE ktovt_bn='tnk1/tora/tkunot_mnhigim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-18 19:03:27'
+		WHERE ktovt_bn='tnk1/tora/tkunot_mnhigim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-18 19:48:25'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-04-18 19:49:16'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
