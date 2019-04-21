@@ -16349,3 +16349,199 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-18 19:49:20' 
 			WHERE messageid=8581;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a3_1.html',
+		'<p></p><p>אם אביך או אבי אביך עשה צדקה עם אנשים שכבר נפטרו</p><p>האנשים הנפטרים האלה לכאורה לא יכולים להשיב לך צדקה</p><p>אך צדקת אבותיך תעמוד לך כי תירש את רוח צדקת אבותיך</p><p>משלי כ7: &quot;מִתְהַלֵּךְ בְּתֻמּוֹ צַדִּיק אַשְׁרֵי בָנָיו אַחֲרָיו&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-20 17:01:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xrfm_0.html',
+		'<p>לפי התנ&quot;ך המכשפים והקוסמים היו רמאים. בספר שמואל זה ממש רמז ברור מהכתוב שהמעלה באוב היא שרלטנית. וקוסמים, מכשפים, מעלים באוב, אסטרולוגים, רואי עתידות הם פשוט רמאים ושלרטנים. כבר בתקופת התנ\'\'ך ידעו מי הם ועל הרמאויות שלהם. עד עצם היום הזה.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:35:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xrfm_0.html',
+		'<p>אגב, לדעתי גם במכות מצרים זה נרמז. כי החרטומים \'\'הצליחו\'\' רק להביא דברים, וזה מאוד קל לרמות. הם \'הביאו\' צפרדעים - פשוט אספו אותם מהיאור. אבל כשפרעה ביקש מהם להסיר את הכינים - הם לא יכלו לעשות זאת. כי להסיר משהו זה הרבה יותר קשה - יש כינים בכל האדם והבהמה במצרים, אם אתה יכול להביא צפרדעים מהיאור הרי שזה קל, אבל להסיר כינים בכל האנשים ובעלי החיים בארץ שלמה - את זה הם כבר לא יכלו לעשות. בזה אי אפשר לרמות. וכשפרעה ביקש זאת מהם, אז הם כבר הודו שהם לא מסוגלים לעשות את זה.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:37:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_awb_0.html',
+		'<p>נכון מאוד. לפי התנ\'\'ך קוסמים מכשפים הם כולם רמאים, ואין דבר כזה במציאות. אבל עצם ההתעסקות בזה היא אסורה, כי זה נתפס כרצון למרוד באלוקים.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:43:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>זו טעות נפוצה, אבל כל המאגיה והכישוף זה הבל הבלים לפי היהדות. הם היו רמאים כולם. המעלה באוב אומרת שהיא מתקשרת עם מתים, אבל בפעם היחידה שזה הצליח (וגם כן כי זה היה נס מאלוקים, בלי קשר מיוחד אליה) היא צעקה ונפלה על הגב. הרי שזאת רמאות. </p><p>אגב, שימו לב שכל ה\'\'קוסמים\'\' ו\'\'המכשפים\'\' בעמי האזור לא ידעו איפה ישראל הולכים להילחם בהם ומה רצונם, והם חקרו בזה הרבה.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:47:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-21 04:48:37' 
+			WHERE messageid=8587;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>זו טעות נפוצה, אבל כל המאגיה והכישוף זה הבל הבלים לפי היהדות. הם היו רמאים כולם. המעלה באוב אומרת שהיא מתקשרת עם מתים, אבל בפעם היחידה שזה הצליח (וגם כן כי זה היה נס מאלוקים, בלי קשר מיוחד אליה) היא צעקה ונפלה על הגב. ולמה את צועקת ונופלת? את אומרת שאת עושה את זה כל יום. ואם הייתה אומרת את התירוץ - ראיתי אותו בצורה אחרת - הרי שזה היה אמור להפליא אותה ולגרום להסתכל על זה ולהבהות בזה בצורה מוזרה, אבל לא להביא אותה לידי פליאה כל כך גדולה שהיא צעקה באימה ונפלה על הגב. בקיצור נרמז מהכתוב שהיא שרלטנית. הרי שזאת רמאות.</p><p></p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:50:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>אגב, שימו לב שכל ה\'\'קוסמים\'\' ו\'\'המכשפים\'\' בעמי האזור לא ידעו איפה ישראל הולכים להילחם בהם ומה רצונם, והם חקרו בזה הרבה.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:50:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ov.html',
+		'<p>אגב, שימו לב שכל ה\'\'קוסמים\'\' ו\'\'המכשפים\'\' בעמי האזור לא ידעו איפה ישראל הולכים להילחם בהם ומה רצונם, והם חקרו בזה הרבה.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:50:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-21 04:50:34' 
+			WHERE messageid=8589;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/srft_yldim.html',
+		'<p>שטויות במיץ. ברור שאלוקים ציווה לא לשרוף ילדים באש- הם ימותו וזה נקרא רצח. &quot;אל תרצח&quot; ?????????????</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 04:54:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rcx_0_0.html',
+		'<p>קצת איבדת את זה בסוף. הקונספט של העם הנבחר זה נבחר לקיים את החוקים והמצוות של אלוקים. זה לא אפלייה וזה לא אומר ששאר האנשים שווים פחות, הרי כל גוי יכול להתגייר ולקבל עליו את עבודת ה\'. </p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 05:30:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rcx_0_0.html',
+		'<p>לגבי חטא פרי עץ הדעת, זו טעות נפוצה - אבל לאדם וחווה כן הייתה יכולת להבדיל בין טוב ורע. אחרת הם בכלל לא היו מצווים באיסורים. העניין הוא שמאכילת פרי עץ הדעת התחילו המחשבות הרעות. </p><p>(אמנם לחווה הייתה מחשבה רעה לעבור על חוק ה\' ולאכול את פרי עץ הדעת, אבל היא הוסתה לזה ולא חשבה על זה מלפני ההסתה).</p><p>והנחש המסית זה למעשה מלאך המוות בתחפושת של נחש (הוא לא בא כמלאך כדי שאדם וחווה לא יחשבו שזה מותר לאכול מפרי עץ הדעת, הרי הם ידעו שמלאכים הם שליחים של האל, ואולי האיסור על פרי עץ הדעת היה איסור זמני. אז בשביל הסר ספק וכדי להחטיא אותם, הוא התחפש לנחש, שכידוע חיות הן מתחת לבני האדם).</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 05:34:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-21 05:35:58' 
+			WHERE messageid=8593;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rcx_0_0.html',
+		'<p>לגבי חטא פרי עץ הדעת, זו טעות נפוצה - אבל לאדם וחווה כן הייתה יכולת להבדיל בין טוב ורע. אחרת הם בכלל לא היו מצווים באיסורים. העניין הוא שמאכילת פרי עץ הדעת התחילו המחשבות הרעות.</p><p>(אמנם לחווה הייתה מחשבה רעה לעבור על חוק ה\' ולאכול את פרי עץ הדעת, אבל היא הוסתה לזה ולא חשבה על זה מלפני ההסתה).</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 05:36:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rcx_0_0.html',
+		'<p>בנוגע לחטא פרי עץ הדעת יש דבר נוסף: הנחש המסית זה למעשה מלאך המוות בתחפושת של נחש. הוא לא בא כמלאך כדי שאדם וחווה לא יחשבו שזה מותר לאכול מפרי עץ הדעת, הרי הם ידעו שמלאכים הם שליחים של האל, ואז יכלו לחשוב שמא האיסור על פרי עץ הדעת הוא איסור זמני. אז בשביל הסר ספק וכדי להחטיא אותם, הוא התחפש לנחש, שכידוע חיות הן מתחת לבני האדם.</p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 05:37:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-21 05:39:34' 
+			WHERE messageid=8595;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rcx_0_0.html',
+		'<p>בנוגע לחטא פרי עץ הדעת יש דבר נוסף: הנחש המסית זה למעשה מלאך המוות בתחפושת של נחש. הוא לא בא כמלאך כדי שאדם וחווה לא יחשבו שזה מותר לאכול מפרי עץ הדעת. הרי הם ידעו שמלאכים הם שליחים של האל, ואז יכלו לחשוב שמא האיסור על פרי עץ הדעת הוא איסור זמני. אז בשביל הסר ספק וכדי להחטיא אותם, הוא התחפש לנחש, שכידוע חיות הן מתחת לבני האדם, וכמובן שאינן יכולות להודיע על שינוי או ביטול צו ה\'.</p><p></p>',
+		'118428921870139750787',
+		'1158supersiri',
+		'2019-04-21 05:41:06'
+		)
+		;
+
