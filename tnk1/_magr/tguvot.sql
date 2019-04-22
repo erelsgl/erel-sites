@@ -16545,3 +16545,82 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות לד21:</p><p>&quot;שֵׁשֶׁת יָמִים תַּעֲבֹד וּבַיּוֹם הַשְּׁבִיעִי תִּשְׁבֹּת בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת&quot; </p><p>אבל רבני חזל הארורים האלה אומרים מצוה לקצור בשבת</p><p>הירושלמי לומד שר\' ישמעאל סובר שקציר העומר הוא מצווה, ולכן הוא דוחה שבת, ומכיוון שהוא מצווה, אין להביא מסוריא או מהישן, אלא יש מצווה מיוחדת לקצור בשבת (אם פסח חל ביום ו\').</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-21 12:05:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות לד21:</p><p>&quot;שֵׁשֶׁת יָמִים תַּעֲבֹד וּבַיּוֹם הַשְּׁבִיעִי תִּשְׁבֹּת בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת&quot;</p><p>אבל רבני חזל הרשעים האלה אומרים מצוה לקצור בשבת</p><p>להלן ציטוט </p><p>הירושלמי לומד שר\' ישמעאל סובר שקציר העומר הוא מצווה, ולכן הוא דוחה שבת, ומכיוון שהוא מצווה, אין להביא מסוריא או מהישן, אלא יש מצווה מיוחדת לקצור בשבת (אם פסח חל ביום ו\').</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-21 12:20:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-21 12:20:04' 
+			WHERE messageid=8597;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2630_0.html',
+		'<p> </p><p>ספר בראשית פרק ח פסוק כב כתוב: </p><p>עֹד כָּל יְמֵי הָאָרֶץ זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלַיְלָה לֹא יִשְׁבֹּתוּ:</p><p>עת -------זרע= קר=חורף=לילה</p><p>עת -------קציר =חם =קיץ=יום</p><p>***********************************************</p><p>ולא עת לקצור בלילה</p><p>***********************************************</p><p>ישעיהו ה20: &quot;הוֹי הָאֹמְרִים לָרַע טוֹב וְלַטּוֹב רָע </p><p>שָׂמִים חֹשֶׁךְ לְאוֹר וְאוֹר לְחֹשֶׁךְ שָׂמִים מַר לְמָתוֹק וּמָתוֹק לְמָר&quot;</p><p>בני ישראל אל תקצרו בלילה זה לא העת אל תשימו אור לחושך</p><p>https://www.facebook.com/100000021607827/videos/pcb.2451568451520518/2451565718187458/?type=3&amp;theater</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-21 13:05:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/srft_yldim.html',
+		'<p>אז למה נאמר &quot;אשר לא ציויתי&quot;?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-04-21 14:42:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_125.html',
+		'<p>&quot;אני רואה מול עיני את משה כהן איש קשה יום חילוני שמבקש לבקר את משפחתו בשבת, ביום המנוחה היחיד שיש לו בשבוע&quot; -</p><p>יפה, אבל האם אתה רואה מול עיניך את נהג האוטובוס, שלא יוכל לבקר את משפחתו בשבת כי יצטרך להסיע את משה כהן?</p><p>והאם אתה רואה מול עיניך את כל ה&quot;משה כהן&quot; שאין להם בכלל יום מנוחה כי הם צריכים לעבוד בקניונים שבעה ימים בשבוע?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-04-21 14:49:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>כדי להיות חכם --- עליך להתקל בצרות קשות וסבוכות בחיים לפתור אותן ולהלך כאיש חכם </p><p>כדי להיות נביא --- עליך להתקל בסיטואציות של מות לגבור עליהן ולהלך כאיש אלהים חיים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-22 07:36:35'
+		)
+		;
+
