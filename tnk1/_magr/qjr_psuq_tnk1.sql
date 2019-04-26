@@ -268,3 +268,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מואב סיר רחצי' AND `sfr` = 'דבר' AND `prq0` = 'כה' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'התשובה לפי תפילות דוד' AND `sfr` = 'שמא' AND `prq0` = 'טו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'התשובה לפי תפילות דוד' AND `sfr` = 'דבר' AND `prq0` = 'ל' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-04-25 13:30:22' WHERE `bn` = 'ביאור:קהלת יב13' AND `sfr` = 'קהל' AND `prq0` = 'יב' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+

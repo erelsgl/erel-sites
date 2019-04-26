@@ -16691,3 +16691,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-10-16.html',
+		'<p>ערלה היא תוספת מיותרת שייש להסיר</p><p>אדם ערל לב = זה אדם שליבו הפיסי יותר מלבו הרוחני לאמור חסר לב רוחני</p><p>ואדם ערל שפתיים = זה אדם ששפתיו הפיסיים גדולים משפתיו הרוחניים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-25 13:42:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-10-16.html',
+		'<p>ערלה היא תוספת מיותרת שייש להסיר</p><p>אדם ערל לב = זה אדם שליבו הפיסי יותר מלבו הרוחני לאמור חסר לב רוחני</p><p>ואדם ערל שפתיים = זה אדם ששפתיו הפיסיים גדולים משפתיו הרוחניים</p><p>מי שלא ערל שפתים יחשב לאדם נאמן</p><p>איוב יב20: &quot;מֵסִיר שָׂפָה לְנֶאֱמָנִים וְטַעַם זְקֵנִים יִקָּח&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-04-25 13:45:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-04-25 13:45:09' 
+			WHERE messageid=8608;
+
