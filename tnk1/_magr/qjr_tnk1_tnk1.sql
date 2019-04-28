@@ -32,3 +32,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'חשבון נפש', `tarik_hosfa` = '2018-10-20 17:40:18' WHERE `av` = 'אלברט שבות' AND `bn` = 'חשבון נפש בעקבות פרשת דרעי' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('בין הורים לילדים', 'ביאור:קהלת יב13', 'כשההורים יראי ה\' - הילדים שומעים בקולם', '', 60, 60, '2019-04-25 13:46:14');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מתיחת ביקורת', 'ביאור:קהלת יב13', 'מי שיש בו יראת שמים - דבריו נשמעים', '', 60, 60, '2019-04-25 13:46:14');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('עקדת יצחק', 'ביאור:קהלת יב13', 'יצחק הלך אחרי אברהם בלי שאלות - כי אברהם היה ירא ה\'', '', 60, 60, '2019-04-25 13:46:14');
+
