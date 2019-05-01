@@ -20266,3 +20266,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1107.html',
+				NULL,
+				'2019-05-01 02:42:01',
+				'2019-05-01 02:42:01',
+				' פרשת קדושים-נטיעת עצי מאכל עם הכניסה לארץ?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-05-01 02:42:01'
+			WHERE ktovt_bn='tnk1/forums.html';
+
