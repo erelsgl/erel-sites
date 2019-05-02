@@ -20289,3 +20289,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-05-01 02:42:01'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-01 10:34:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-02 04:59:43'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_mavq.html'
+		;
+

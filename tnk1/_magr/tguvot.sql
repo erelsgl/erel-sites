@@ -16772,3 +16772,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-04-27 18:53:37' 
 			WHERE messageid=8611;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>תהלים כז4: &quot;אַחַת שָׁאַלְתִּי מֵאֵת יהוה אוֹתָהּ אֲבַקֵּשׁ שִׁבְתִּי בְּבֵית יהוה כָּל יְמֵי חַיַּי לַחֲזוֹת בְּנֹעַם יהוה וּלְבַקֵּר בְּהֵיכָלוֹ&quot; </p><p>שִׁבְתִּי בְּבֵית יהוה --- וביתו בשמים גם על ראש הקדושים לַחֲזוֹת בְּנֹעַם יהוה  וּלְבַקֵּר בְּהֵיכָלוֹ --- זה מקדשו בארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-05-01 10:34:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/mlkut_mavq.html',
+		'<p>מאמר יפה מאוד</p>',
+		'113383006165142861120',
+		'יעקב בן חמו',
+		'2019-05-02 04:59:43'
+		)
+		;
+
