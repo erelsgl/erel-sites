@@ -20305,3 +20305,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_mavq.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-02 16:18:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-02 17:23:54'
+		WHERE ktovt_bn='tnk1/tora/brejit/dat_tov_wra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-02 18:07:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-03 06:19:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
