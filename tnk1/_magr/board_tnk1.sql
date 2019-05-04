@@ -20337,3 +20337,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ajr2.html',
+				'tnk1/kma/qjrim1/ajry.html',
+				NULL,
+				'2019-05-03 11:00:36',
+				'2019-05-03 11:00:36',
+				'אשרי- = כמה מאושר הוא-',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳׳׳׳¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_1107.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳”׳’׳“׳¨׳”', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/kma/qjrim1/ajry.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_1107.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/kma/qjrim1/ajry.html';
+
