@@ -16858,3 +16858,91 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-05-03 06:19:21' 
 			WHERE messageid=8617;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>      חנה</p>',
+		'103500648616968761173',
+		'shira',
+		'2019-05-04 16:25:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>חנה מתוקנההה</p>',
+		'103500648616968761173',
+		'shira',
+		'2019-05-04 16:25:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>בן של זוית</p>',
+		'103500648616968761173',
+		'shira',
+		'2019-05-04 16:25:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/bny_eli.html',
+		'<p>בן של זונה</p>',
+		'103500648616968761173',
+		'shira',
+		'2019-05-04 16:26:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-05-04 16:26:05' 
+			WHERE messageid=8622;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-05-04 16:26:07' 
+			WHERE messageid=8621;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-05-04 16:26:09' 
+			WHERE messageid=8620;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-05-04 16:26:10' 
+			WHERE messageid=8619;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/siluf_erel.html',
+		'<p>רציתי להאיר הארה אחת, צרי יהודה ובנימין הם אלו שהובאו לשומרון ע&quot;י האשורים. </p><p>https://he.m.wikipedia.org/wiki/היתבין_בשמרין</p><p>שם מובא הפסוק במפורש.</p><p>יחד עם זאת, עדיין הדבר לא מוכיח את טענתו של מר הון, השומרונים הללו עוד לא התחילו לדמיין את המסורת שלהם על הר גריזים, הם עוד היו מוכוונים לירושלים ולא ערערו על קדושת ההר אשר בירושלים וכמקום יחיד הראוי להקמת מזבח ומקדש. לכן יש לעזרא &quot;אליבי&quot; מצויין.</p>',
+		'102912624944865449908',
+		'Epithumion',
+		'2019-05-05 06:34:59'
+		)
+		;
+
