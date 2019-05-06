@@ -20417,3 +20417,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim2/siluf_erel.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-05 12:09:28'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/nicvy_jlmo_mdd.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-05 15:53:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+

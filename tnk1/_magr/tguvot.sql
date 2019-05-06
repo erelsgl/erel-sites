@@ -16946,3 +16946,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/nicvy_jlmo_mdd.html',
+		'<p>ראשון!</p>',
+		'107616854635488463374',
+		'ORI daniel',
+		'2019-05-05 12:09:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>ירמיהו כב15: &quot;הֲתִמְלֹךְ כִּי אַתָּה מְתַחֲרֶה בָאָרֶז אָבִיךָ הֲלוֹא אָכַל וְשָׁתָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ&quot; </p><p>דברים ח3: </p><p>&quot;וַיְעַנְּךָ וַיַּרְעִבֶךָ וַיַּאֲכִלְךָ אֶת הַמָּן אֲשֶׁר לֹא יָדַעְתָּ וְלֹא יָדְעוּן אֲבֹתֶיךָ לְמַעַן הודיעך </p><p>כִּי לֹא עַל הַלֶּחֶם לְבַדּוֹ יִחְיֶה הָאָדָם כִּי עַל כָּל מוֹצָא פִי יהוה יִחְיֶה הָאָדָם&quot;</p><p>וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ = מוֹצָא פִי יהוה יִחְיֶה הָאָדָם =  : &quot;כִּי יהוה יִתֵּן חָכְמָה מִפִּיו דַּעַת וּתְבוּנָה&quot; [משלי ב6]</p><p>על כן חכמה בינה ודעת היא נחלת השופט הקדוש ויקרא לו חכם ונבון וידוע [מלשון דעת אלהים]</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-05-05 15:53:37'
+		)
+		;
+
