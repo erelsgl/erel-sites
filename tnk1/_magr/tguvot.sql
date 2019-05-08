@@ -17070,3 +17070,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-05-07 02:19:22' 
 			WHERE messageid=8630;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>מלך חכם שולח מלמעלה חבלים להעלות את אשר נפל למצולות</p><p>מלך חכם צדיק וגם רגיש יורד בעצמו עם החבלים למעמקים להעלות את אשר נפל למצולות</p><p>תהלים סח23: &quot;אָמַר אֲדֹנָי מִבָּשָׁן אָשִׁיב אָשִׁיב מִמְּצֻלוֹת יָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-05-08 04:50:44'
+		)
+		;
+
