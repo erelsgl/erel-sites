@@ -17082,3 +17082,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>שמות לב16: &quot;וְהַלֻּחֹת מַעֲשֵׂה אֱלֹהִים הֵמָּה וְהַמִּכְתָּב מִכְתַּב אֱלֹהִים הוּא חָרוּת עַל הַלֻּחֹת&quot; </p><p>גם בעלי החיים מַעֲשֵׂה אֱלֹהִים הֵמָּה ויש לכבדם בהתאם לאמור כמעשה הלוחות כספר תורה</p><p>ואל לנו להשחית את נפש החיה כי כמעשה הלוחות הם כספר התורה מלבד אשר ציוונו בתורה לאכול הבהמות הטהורות</p><p>ואין להשחית את חית השדה ואין לגזול ממנה את השדה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-05-09 05:57:32'
+		)
+		;
+
