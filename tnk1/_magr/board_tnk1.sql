@@ -20662,3 +20662,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/dat_tov_wra.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-13 08:03:50'
+		WHERE ktovt_bn='tnk1/tora/brejit/dat_tov_wra.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-05-14 03:22:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0315_1.html'
+		;
+
