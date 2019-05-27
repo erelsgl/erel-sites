@@ -17378,3 +17378,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-yldim.html',
+		'<p>עזרת מאוד!</p>',
+		'111637511622397559400',
+		'Shira hayut',
+		'2019-05-26 14:25:38'
+		)
+		;
+
