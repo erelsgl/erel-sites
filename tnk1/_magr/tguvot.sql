@@ -17390,3 +17390,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/01-07.html',
+		'<p>מאמר מקסים, מעניין ופותח מלא רעיונות חדשים עם קישורים למקורות רבים! יישר כח!</p>',
+		'106374736460387270352',
+		'לאה ונה',
+		'2019-05-28 08:40:44'
+		)
+		;
+
