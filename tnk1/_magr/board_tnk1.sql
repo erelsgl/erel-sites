@@ -20903,3 +20903,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_sikum.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_41.html',
+				NULL,
+				'2019-05-30 10:11:07',
+				'2019-05-30 10:11:07',
+				'מאמר חדש על: הוספת מאמר חדש',
+				'Ben Gavers',
+				'BenGavers1 @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_42.html',
+				NULL,
+				'2019-05-30 10:22:57',
+				'2019-05-30 10:22:57',
+				'נבואת ישעיהו על ימינו',
+				'Ben Gavers',
+				'BenGavers1 @ gmail.com'
+			)
+		;
+
