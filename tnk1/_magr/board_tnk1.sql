@@ -20935,3 +20935,26 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9history.html',
+				'tnk1/nvia/tryasr/zk-14-02.html',
+				NULL,
+				'2019-06-02 06:27:58',
+				'2019-06-02 06:27:58',
+				'חלוקת ירושלים בנבואת זכריה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-06-02 06:27:58'
+			WHERE ktovt_bn='tnk1/msr/9history.html';
+
