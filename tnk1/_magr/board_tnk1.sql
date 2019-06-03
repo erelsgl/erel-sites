@@ -20958,3 +20958,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-06-02 06:27:58'
 			WHERE ktovt_bn='tnk1/msr/9history.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-02 08:00:06'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-c2-03.html'
+		;
+
