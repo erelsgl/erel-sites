@@ -20966,3 +20966,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-c2-03.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-04 06:00:12'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/holot_bxgim.html'
+		;
+

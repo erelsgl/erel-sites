@@ -17433,3 +17433,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-06-02 08:00:07' 
 			WHERE messageid=8656;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/holot_bxgim.html',
+		'<p>ראיתי הסבר אצל הרב וייטמן - </p><p>סכום קרבנות הפרים כולל 14 פרים עבור הסוכות שבקבוצה א\' 56 והם המועדים שאנו חוגגים לה\'</p><p>לפי זה לחג הסוכות השני ישנם גם 56 קרבנות כי הוא חג ה\' - ה\' כביכול חוגג עבורנו.</p><p>את המשמעות של חג ה\' ניתן לראות בילקוט שמעוני על הפסוק &quot;ויהי בשלם סוכו?</p><p>  </p>',
+		'109181929889793511974',
+		'Asher Efrati',
+		'2019-06-04 06:00:12'
+		)
+		;
+
