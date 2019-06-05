@@ -20974,3 +20974,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/bmdbr/holot_bxgim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-04 11:59:19'
+		WHERE ktovt_bn='tnk1/messages/kma_qjrim1_khnim2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-04 11:59:25'
+		WHERE ktovt_bn='tnk1/messages/kma_qjrim1_khnim2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-04 21:00:25'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xeq.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/does_not_count.docx',
+				NULL,
+				'2019-06-05 00:28:47',
+				'2019-06-05 00:28:47',
+				'Does not count',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-06-05 00:28:47'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

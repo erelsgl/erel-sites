@@ -874,3 +874,64 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/bmdbr/holot_bxgim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/kma_qjrim1_khnim2_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-06-04 11:59:19'
+		WHERE parent='tnk1/messages/kma_qjrim1_khnim2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/kma_qjrim1_khnim2_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-06-04 11:59:25'
+		WHERE parent='tnk1/messages/kma_qjrim1_khnim2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-06-04 11:59:30'
+			WHERE parent='tnk1/messages/kma_qjrim1_khnim2_0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-06-04 11:59:48'
+			WHERE parent='tnk1/messages/kma_qjrim1_khnim2_0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/xeq.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-06-04 21:00:25'
+		WHERE parent='tnk1/kma/qjrim1/xeq.html'
+		;
+

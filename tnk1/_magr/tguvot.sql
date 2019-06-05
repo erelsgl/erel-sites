@@ -17445,3 +17445,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim1_khnim2_0.html',
+		'<p>מה שכתבתם: אלישיב ויהוחנן בנו נזכרים גם בנחמיה יב22-23 שם כתוב יוחנן והכוונה ליונתן כמו שפירשו הראשונים</p><p>יהוחנן בן אלישיב לא שימש בכהונה גדולה </p>',
+		'113266815956743741035',
+		'y farkas',
+		'2019-06-04 11:59:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim1_khnim2_0.html',
+		'<p></p>',
+		'113266815956743741035',
+		'y farkas',
+		'2019-06-04 11:59:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-04 11:59:30' 
+			WHERE messageid=8659;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-04 11:59:48' 
+			WHERE messageid=8659;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xeq.html',
+		'<p>חיק היא גם העצם הסוגרת על האגן מקדימה. Pubis בלטינית.</p>',
+		'115672154198693971358',
+		'Avi Freund',
+		'2019-06-04 21:00:25'
+		)
+		;
+
