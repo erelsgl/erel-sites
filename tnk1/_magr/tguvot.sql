@@ -17495,3 +17495,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/jvuot.html',
+		'<p>הזרתה לי מואוד בשיעורי בית</p>',
+		'117062615488973923942',
+		'אילון ברזילי',
+		'2019-06-06 16:40:25'
+		)
+		;
+
