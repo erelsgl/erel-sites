@@ -17507,3 +17507,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/xtuna/kisui_rosh.html',
+		'<p>טבעת נישואין גם בולט לעיין. מכיוון שהתורה לא אסרה בבירור על כיסוי ראש, אין סיבה לכפות על נשים נשואות לנהוג כך. שבת שלום וחג שמח!</p>',
+		'110254694535281310615',
+		'Isaac Simchon',
+		'2019-06-07 11:40:45'
+		)
+		;
+

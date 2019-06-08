@@ -950,3 +950,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/sofrim/zuckm/jvuot.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tokxot/xtuna/kisui_rosh.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-06-07 11:40:45'
+		WHERE parent='tokxot/xtuna/kisui_rosh.html'
+		;
+
