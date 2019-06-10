@@ -21083,3 +21083,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tokxot/xtuna/kisui_rosh.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1tjuva_geula.html',
+				'tnk1/nvia/tryasr/ho-02-1617.html',
+				NULL,
+				'2019-06-09 19:38:41',
+				'2019-06-09 19:38:41',
+				'ה\' יפתה את עם ישראל להגיד נעשה ונשמע',
+				'אראל',
+				''
+			)
+		;
+
