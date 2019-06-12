@@ -17543,3 +17543,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-02-25.html',
+		'<p>להבנת ׳[ופיללו] אלוהים׳ במשמעות של שופט בשר ודם, ראו אהליך, מקרא כפשוטו, שמואל, עמ׳ 106. וכמדומני שכך נמצא גם בפרשני ימהב. </p>',
+		'103017963396833573588',
+		'Adi Marili',
+		'2019-06-11 12:04:36'
+		)
+		;
+
