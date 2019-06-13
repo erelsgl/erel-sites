@@ -21146,3 +21146,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-06-12 07:39:17'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-12 23:02:19'
+		WHERE ktovt_bn='tnk1/messages/sofrim_rami_index_32.html'
+		;
+

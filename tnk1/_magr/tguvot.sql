@@ -17555,3 +17555,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_rami_index_32.html',
+		'<p>עם ישראל הקדוש היכונו לביאת המשיח </p><p></p>',
+		'112071479636489211017',
+		'יצחק שרעבי',
+		'2019-06-12 23:02:19'
+		)
+		;
+
