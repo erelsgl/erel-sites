@@ -17579,3 +17579,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/qvua.html',
+		'<p>אין אפשרות להמציא סברות כאילו מתורת הנפש מה שלא חשדו בו חז&quot;ל. </p>',
+		'118415482214486377268',
+		'המבין המבין',
+		'2019-06-16 04:08:43'
+		)
+		;
+

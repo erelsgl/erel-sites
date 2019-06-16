@@ -21224,3 +21224,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-06-14 10:50:50'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-16 04:08:43'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/qvua.html'
+		;
+
