@@ -17591,3 +17591,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>חלמתי חלום</p><p>שאני אומר כמנהיג לקהל עם ישראל :</p><p>אני המתקן הממשלתי זו היא ארץ אבותיכם [ומקבע את המפה של ארץ ישראל השלמה בדגל ישראל]</p><p>אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְתִמֹרִים אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ:</p><p>[אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ:]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-17 06:05:21'
+		)
+		;
+
