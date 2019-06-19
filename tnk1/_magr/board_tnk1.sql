@@ -21271,3 +21271,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-32-0508.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1121.html',
+				NULL,
+				'2019-06-19 05:53:27',
+				'2019-06-19 05:53:27',
+				' פרשת שלח- מדוע כשלו המרגלים במשימתם?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-06-19 05:53:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
