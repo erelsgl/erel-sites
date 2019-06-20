@@ -17615,3 +17615,161 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/lqxija.html',
+		'<p>1 עדיין לא הוסבר מהו &quot;יבמה יבא עליה ולקחה לו לאשה ויבמה&quot; 3 שלבים הראשון ביאה השני לקיחה השלישי יבום ואולי ולקחה זה פירוש שלא תאמר יבוא עליה בדרך זנות אלא ולרחה וזה יבום ואינו שלבים.</p><p>2 מהו ואיש אשר יקח את..(עריות).</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:20:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-22-05.html',
+		'<p>אין הוכחה מלשון שמלת ביחיד שכן בעבר הבגד העיקרי היה אחד על כל הגוף.</p><p>אבל מכלי גבר הוא הוכחה מוחלטת כי בלשון תורה בשונה מלשון חכמיןם אין &quot;כלי&quot; על בגד רק על נשק או תכשיט וכדו\'</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:30:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-22-05.html',
+		'<p></p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:30:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-19 09:30:44' 
+			WHERE messageid=8673;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ktuv_mgilot_jj-jvuot_0.html',
+		'<p>בספר אור שמח פירש ואשרו מלשון אישור (ובחז&quot;ל אשרתא) ולא מלשון מאושר אשרי ור&quot;ל שהגוים (האו&quot;ם וכו\') יאשרו כי (ש) אתם ארץ חפץ.</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:38:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-21-14.html',
+		'<p>יש לציין את ההקבלה &quot;לא יוכל למכרה בבגדו בה&quot; הבגידה בהקבלה לעינוי גם שם כנראה האדון בא עליה לפני שהחליט שאינו חפץ בה ורוצה למכרה וזה הבגידה שנהג בה עניין אישות (פילגשות)...</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:48:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sgirt_rxm.html',
+		'<p>לא ברור בשביל מה ההסתבכות המיותרת הלידה באבה על ידי פתיחה הרחם (פתיחה מלאה) ומיוחס לה\' כמו והאלקים אנה לידו ועוד הרבה דברים שלא ממש בידי אדם ובהשאלה וה\' סגר כלומר שלא פתח</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 09:54:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/ba_jkb_bal_yda.html',
+		'<p>בעל הוא כמובן גם כינוי לאדנות (ובארמית הוא בצירה הבית והעיין נבלעת ומכך האל הכנעני היה בעל שמשמעותו כמו אדנ\'י והאל הבבלי היה בל שזה אותה מילה כנ&quot;ל). ובמקור הוא בעל אשה שבדורות ההם היה האיש שולט באישה. ובעל הוא קיצור (הלחם) של בא-על ולפעמים יש בא אל במקום בא על. </p><p>ושכיבה כשבאה ביחס לאיש ואישה אינה לציון המיטה אלא שכיבה זה על זו כמו &quot;לא תשכב משכבי אשה&quot; ולפעמים בהשאלה אפילו לא בצורת שכיבה כמו &quot;שוכב עם בהמה&quot; </p><p>וידיעה היא מפני שמגלה בשרו ורואהו ו/או ממששו ובזה יודעו ומכירו וכמו &quot;וראה את ערותה וכו\'&quot; וכן כל לשון &quot;גילוי&quot; עריות. </p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 10:01:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_enh_0.html',
+		'<p>כרם חמד ענו לה הוא שונה שהוא דגוש ולפי זה הוא במשמעות עינוי ולא מלשון ענייה וכן תרגם יונתן.</p>',
+		'104496562376595399991',
+		'ישראל ב',
+		'2019-06-19 10:16:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>בראשית לח12: &quot;וַיִּרְבּוּ הַיָּמִים וַתָּמָת &quot;בַּת שׁוּעַ אֵשֶׁת יְהוּדָה&quot; וַיִּנָּחֶם יְהוּדָה וַיַּעַל עַל גֹּזֲזֵי צֹאנוֹ הוּא וְחִירָה רֵעֵהוּ הָעֲדֻלָּמִי תִּמְנָתָה&quot; </p><p>דברי הימים א ב3: &quot;בְּנֵי יְהוּדָה עֵר וְאוֹנָן וְשֵׁלָה שְׁלוֹשָׁה נוֹלַד לוֹ מִ&quot;בַּת שׁוּעַ הַכְּנַעֲנִית&quot; וַיְהִי עֵר בְּכוֹר יְהוּדָה רַע בְּעֵינֵי יהוה וַיְמִיתֵהוּ&quot;</p><p>דברי הימים א ג5: &quot;וְאֵלֶּה נוּלְּדוּ לוֹ בִּירוּשָׁלָיִם שִׁמְעָא וְשׁוֹבָב וְנָתָן וּשְׁלֹמֹה אַרְבָּעָה &quot;לְבַת שׁוּעַ בַּת עַמִּיאֵל&quot;&quot;</p><p>  </p><p>שמואל ב יא3: &quot;וַיִּשְׁלַח דָּוִד וַיִּדְרֹשׁ לָאִשָּׁה וַיֹּאמֶר הֲלוֹא זֹאת &quot;בַּת שֶׁבַע בַּת אֱלִיעָם&quot; אֵשֶׁת אוּרִיָּה הַחִתִּי&quot;</p><p>-------------------------------------------------------------------------------</p><p>בַּת שֶׁבַע בַּת אֱלִיעָם אֵשֶׁת אוּרִיָּה הַחִתִּי = בַּת שׁוּעַ הַכְּנַעֲנִית = בַת שׁוּעַ בַּת עַמִּיאֵל</p><p>אמנם בת שוע הכנענית אשת יהודה בספר בראשית הרבה שנים לפני בת שבע בת אליעם מספר שמואל</p><p>אך אוריה החתי כנעני הוא כי החיתים מוצאם מעמי כנען לאמור כי אשתו של אוריה החתי גם היא היתה כנענית בשם בת שוע ככתוב בספר דברי הימים א פרק ג פסוק 5</p><p>אך דוד קרא לה בת שבע מלשון שוע = שווע = לשווע לישועה</p><p>בת שבע = בת שווע [בכתיב מלא]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-19 11:26:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cinyut.html',
+		'<p>אכן, הערך הזה מדבר על סרקזם (עוקצנות) ולא ציניות :)</p>',
+		'117895985534787198083',
+		'ליאב סופר',
+		'2019-06-19 18:34:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sgirt_rxm.html',
+		'<p>בראשית כ18: &quot;כִּי עָצֹר עָצַר יהוה בְּעַד כָּל רֶחֶם לְבֵית אֲבִימֶלֶךְ עַל דְּבַר שָׂרָה אֵשֶׁת אַבְרָהָם&quot; </p><p>והמבין יבין</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-20 03:35:36'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-20 03:35:54' 
+			WHERE messageid=8681;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sgirt_rxm.html',
+		'<p>בראשית כ18: &quot;כִּי עָצֹר עָצַר יהוה בְּעַד כָּל רֶחֶם לְבֵית אֲבִימֶלֶךְ עַל דְּבַר שָׂרָה אֵשֶׁת אַבְרָהָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-20 03:35:58'
+		)
+		;
+
