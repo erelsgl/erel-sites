@@ -17773,3 +17773,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/tojba.html',
+		'<p>שלום לך</p><p>למה אתה לא מציין שדבריך על הרב בן אמוזג לקוחים מעבודותיו של הרב זייני שהוא עוסק ברב בן אמוזג כבבר עשרות שנים?</p>',
+		'117864293934880853719',
+		'Gadi Nabet',
+		'2019-06-20 14:04:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-20 14:05:41' 
+			WHERE messageid=8683;
+
