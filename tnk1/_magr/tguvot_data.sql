@@ -1304,3 +1304,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/nvir/yhojua/tojba.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/tora_bmdbr_bm-13-0811_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-06-21 16:07:19'
+		WHERE parent='tnk1/messages/tora_bmdbr_bm-13-0811_0.html'
+		;
+
