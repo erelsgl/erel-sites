@@ -17866,3 +17866,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>יחזקאל נזכר בטבלה לפני חבקוק</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-06-23 17:53:11'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>חלמתי חלום</p><p>שאני אומר כמנהיג לקהל עם ישראל :</p><p>אני המתקן הממשלתי זו היא ארץ אבותיכם [ומקבע את המפה של ארץ ישראל השלמה בדגל ישראל]</p><p>אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְתִמֹרִים אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ:</p><p>[אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ:]</p><p>----------------------------------------------------------------------</p><p>מיכה ד8: &quot;וְאַתָּה מִגְדַּל עֵדֶר עֹפֶל בַּת צִיּוֹן עָדֶיךָ תֵּאתֶה וּבָאָה הַמֶּמְשָׁלָה הָרִאשֹׁנָה מַמְלֶכֶת לְבַת יְרוּשָׁלָים&quot; </p><p>ואני מייעץ לראש הממשלה בדימוס הוא וחבריו לא להלחם ברצון אלהים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-24 04:35:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-24 04:35:36' 
+			WHERE messageid=8669;
+
