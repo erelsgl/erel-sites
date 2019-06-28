@@ -18197,3 +18197,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>מה עם נביאים כמו יהושע בן נון? אברהם אבינו? איוב? דניאל? נביאים שלא נזכר שמם במפורש לכל ארך התנ&quot;ך?</p>',
+		'107438069699550882020',
+		'חניאל קורן',
+		'2019-06-27 20:41:16'
+		)
+		;
+
