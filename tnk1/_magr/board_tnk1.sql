@@ -21652,3 +21652,74 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-28 09:23:58'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-28 09:29:54'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/lqx.html',
+				'tnk1/tora/bmdbr/bm-16-01.html',
+				NULL,
+				'2019-06-28 09:55:06',
+				'2019-06-28 09:55:06',
+				'מה לקח קורח?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-28 12:40:43'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/tora/bmdbr/qorx.html',
+				'tnk1/tora/bmdbr/bm-16-02.html',
+				NULL,
+				'2019-06-28 12:41:47',
+				'2019-06-28 12:41:47',
+				'מי היו 250 הנשיאים?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-06-28 12:41:47'
+			WHERE ktovt_bn='tnk1/tora/bmdbr/qorx.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-06-28 12:44:23'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
