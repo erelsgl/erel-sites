@@ -18293,3 +18293,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>ובכל מקרה, העובדה שאברהם, אשר ה\' בכבודו ובעצמו העיד עליו &quot;כי נביא הוא&quot; (בראשית כ), לא מוזכר ברשימתך - והאמת שגם באופן כללי יהודים לא מחשיבים אותו כנביא -</p><p>העובדה הזו מוסיפה ומחזקת את דעתי לפיה יש לנו, עם ישראל, בעיה בהבנת המושג &quot;נביא&quot;.</p>',
+		'107438069699550882020',
+		'חניאל קורן',
+		'2019-06-30 13:13:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2820_2.html',
+		'<p>משלי ו1: &quot;בְּנִי אִם עָרַבְתָּ לְרֵעֶךָ תָּקַעְתָּ לַזָּר כַּפֶּיךָ&quot; </p><p>משלי ו2: &quot;נוֹקַשְׁתָּ בְּאִמְרֵי פִיךָ נִלְכַּדְתָּ בְאִמְרֵי פִיךָ&quot;</p><p>משלי ו3: &quot;עֲשֵׂה זֹאת אֵפוֹא בְּנִי וְהִנָּצֵל כִּי בָאתָ בְכַף רֵעֶךָ לֵךְ הִתְרַפֵּס וּרְהַב רֵעֶיךָ&quot; </p><p>---------</p><p>עליך לדעת בני [במיוחד אם אתה איש עסקים] כי לחיצת יד זאת לחיצת יד</p><p>זאת תרבות הסחר בדרך הישר ---------- ******* הסכם הוא הסכם *******</p><p>תהלים סא9: &quot;כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְשַׁלְּמִי נְדָרַי יוֹם יוֹם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-30 16:18:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2820_2.html',
+		'<p>משלי ו1: &quot;בְּנִי אִם עָרַבְתָּ לְרֵעֶךָ תָּקַעְתָּ לַזָּר כַּפֶּיךָ&quot;</p><p>משלי ו2: &quot;נוֹקַשְׁתָּ בְּאִמְרֵי פִיךָ נִלְכַּדְתָּ בְאִמְרֵי פִיךָ&quot;</p><p>משלי ו3: &quot;עֲשֵׂה זֹאת אֵפוֹא בְּנִי וְהִנָּצֵל כִּי בָאתָ בְכַף רֵעֶךָ לֵךְ הִתְרַפֵּס וּרְהַב רֵעֶיךָ&quot;</p><p>---------</p><p>עליך לדעת בני [במיוחד אם אתה איש עסקים] כי לחיצת יד זאת לחיצת יד</p><p>זאת תרבות הסחר בדרך הישר ******* הסכם הוא הסכם *******</p><p>והסכם הוא כנדר להקימו מיום לדתך עד אחרית ימיך</p><p>תהלים סא9: &quot;כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְשַׁלְּמִי נְדָרַי יוֹם יוֹם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-30 16:32:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2820_2.html',
+		'<p>משלי ו1: &quot;בְּנִי אִם עָרַבְתָּ לְרֵעֶךָ תָּקַעְתָּ לַזָּר כַּפֶּיךָ&quot;</p><p>משלי ו2: &quot;נוֹקַשְׁתָּ בְּאִמְרֵי פִיךָ נִלְכַּדְתָּ בְאִמְרֵי פִיךָ&quot;</p><p>משלי ו3: &quot;עֲשֵׂה זֹאת אֵפוֹא בְּנִי וְהִנָּצֵל כִּי בָאתָ בְכַף רֵעֶךָ לֵךְ הִתְרַפֵּס וּרְהַב רֵעֶיךָ&quot;</p><p>---------</p><p>עליך לדעת בני [במיוחד אם אתה איש עסקים] כי לחיצת יד זאת לחיצת יד</p><p>זאת תרבות הסחר בדרך הישר -------******* הסכם הוא הסכם *******</p><p>והסכם הוא כנדר להקימו מיום לדתך עד אחרית ימיך</p><p>תהלים סא9: &quot;כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְשַׁלְּמִי נְדָרַי יוֹם יוֹם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-06-30 16:33:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-30 16:33:34' 
+			WHERE messageid=8719;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-06-30 16:33:36' 
+			WHERE messageid=8718;
+
