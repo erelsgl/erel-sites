@@ -18355,3 +18355,70 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-06-30 16:33:36' 
 			WHERE messageid=8718;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2803_1.html',
+		'<p>מי יודע מה ההבדל בין נחל לבין נהר</p><p>ובכן נהר הוא תרכובת של מספר נחלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-01 11:27:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>תהילים הוא ספר תהילות  פרק קי\' כתוב:</p><p>א  לְדָוִד מִזְמוֹר:</p><p>נְאֻם יְהוָה לַאדֹנִי שֵׁב לִימִינִי עַד-אָשִׁית אֹיְבֶיךָ הֲדֹם לְרַגְלֶיךָ.</p><p>ב  מַטֵּה-עֻזְּךָ יִשְׁלַח יְהוָה מִצִּיּוֹן רְדֵה בְּקֶרֶב אֹיְבֶיךָ.</p><p>ג  עַמְּךָ נְדָבֹת בְּיוֹם חֵילֶךָ:</p><p>בְּהַדְרֵי-קֹדֶשׁ מֵרֶחֶם מִשְׁחָר  לְךָ טַל יַלְדֻתֶיךָ.</p><p>ד  נִשְׁבַּע יְהוָה וְלֹא יִנָּחֵם  אַתָּה-כֹהֵן לְעוֹלָם</p><p>עַל-דִּבְרָתִי מַלְכִּי-צֶדֶק.</p><p>ה  אֲדֹנָי עַל-יְמִינְךָ מָחַץ בְּיוֹם-אַפּוֹ מְלָכִים.</p><p>ו  יָדִין בַּגּוֹיִם מָלֵא גְוִיּוֹת מָחַץ רֹאשׁ עַל-אֶרֶץ רַבָּה.</p><p>ז  מִנַּחַל, בַּדֶּרֶךְ יִשְׁתֶּה עַל-כֵּן יָרִים רֹאשׁ.</p><p>-----------------------------------------------------------</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-01 11:36:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p> ספר תהילות פרק קי\' כתוב:</p><p>א לְדָוִד מִזְמוֹר:</p><p>נְאֻם יְהוָה לַאדֹנִי שֵׁב לִימִינִי עַד-אָשִׁית אֹיְבֶיךָ הֲדֹם לְרַגְלֶיךָ.</p><p>ב מַטֵּה-עֻזְּךָ יִשְׁלַח יְהוָה מִצִּיּוֹן רְדֵה בְּקֶרֶב אֹיְבֶיךָ.</p><p>ג עַמְּךָ נְדָבֹת בְּיוֹם חֵילֶךָ:</p><p>בְּהַדְרֵי-קֹדֶשׁ מֵרֶחֶם מִשְׁחָר לְךָ טַל יַלְדֻתֶיךָ.</p><p>ד נִשְׁבַּע יְהוָה וְלֹא יִנָּחֵם אַתָּה-כֹהֵן לְעוֹלָם</p><p>עַל-דִּבְרָתִי מַלְכִּי-צֶדֶק.</p><p>ה אֲדֹנָי עַל-יְמִינְךָ מָחַץ בְּיוֹם-אַפּוֹ מְלָכִים.</p><p>ו יָדִין בַּגּוֹיִם מָלֵא גְוִיּוֹת מָחַץ רֹאשׁ עַל-אֶרֶץ רַבָּה.</p><p>ז מִנַּחַל, בַּדֶּרֶךְ יִשְׁתֶּה עַל-כֵּן יָרִים רֹאשׁ.</p><p>-----------------------------------------------------------</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-01 11:36:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-07-01 11:36:48' 
+			WHERE messageid=8722;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>תהלים קיא6: &quot;כֹּחַ מַעֲשָׂיו הִגִּיד לְעַמּוֹ לָתֵת לָהֶם נַחֲלַת גּוֹיִם&quot;</p><p>תהלים קה44: &quot;וַיִּתֵּן לָהֶם אַרְצוֹת גּוֹיִם וַעֲמַל לְאֻמִּים יִירָשׁוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-01 11:43:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>https://www.facebook.com/groups/941555535899193/?source=unknown</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-01 18:20:59'
+		)
+		;
+
