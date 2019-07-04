@@ -21866,3 +21866,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-07-03 00:44:26'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1124.html',
+				NULL,
+				'2019-07-03 18:35:05',
+				'2019-07-03 18:35:05',
+				'פרשת חוקת- מאין כי אין ה\' מקבל קטרוג על בניו?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-03 18:35:05'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1125.html',
+				NULL,
+				'2019-07-04 07:31:48',
+				'2019-07-04 07:31:48',
+				'מַיִם מִן הַסֶּלַע/שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-04 07:31:48'
+			WHERE ktovt_bn='tnk1/forums.html';
+
