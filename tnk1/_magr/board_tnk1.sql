@@ -21942,3 +21942,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/lqxija.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jyr.html',
+				'tnk1/kma/qjrim1/jirxdj.html',
+				NULL,
+				'2019-07-05 09:20:57',
+				'2019-07-05 09:20:57',
+				'שיר חדש = שיר הודיה על החידוש',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/gdl1.html',
+				'tnk1/ktuv/thlim/th-95-03.html',
+				NULL,
+				'2019-07-05 09:50:26',
+				'2019-07-05 09:50:26',
+				'גדול על כל אלהים',
+				'אראל',
+				''
+			)
+		;
+
