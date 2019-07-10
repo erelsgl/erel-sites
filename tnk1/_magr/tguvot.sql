@@ -18618,3 +18618,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-07-08 14:24:31' 
 			WHERE messageid=8738;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0222_2.html',
+		'<p>ספר שמות פרק כב (כא) כָּל אַלְמָנָה וְיָתוֹם לֹא תְעַנּוּן: </p><p>שמות כב22: &quot;אִם עַנֵּה תְעַנֶּה אֹתוֹ כִּי אִם צָעֹק יִצְעַק אֵלַי שָׁמֹעַ אֶשְׁמַע צַעֲקָתוֹ&quot;</p><p>שמות כב23: &quot;וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם בֶּחָרֶב וְהָיוּ נְשֵׁיכֶם אַלְמָנוֹת וּבְנֵיכֶם יְתֹמִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-07-10 04:49:53'
+		)
+		;
+
