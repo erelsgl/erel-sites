@@ -44,3 +44,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('עקדת יצחק', 'ביאור:קהלת יב13', 'יצחק הלך אחרי אברהם בלי שאלות - כי אברהם היה ירא ה\'', '', 60, 60, '2019-04-25 13:46:14');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('פרשת קורח', 'חטא נדב ואביהוא, ואנשים נוספים שנענשו על כך שחרגו מתפקידם', '', '', 60, 60, '2019-06-28 10:18:44');
+

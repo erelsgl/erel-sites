@@ -280,3 +280,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-04-25 13:30:22' WHERE `bn` = 'ביאור:קהלת יב13' AND `sfr` = 'קהל' AND `prq0` = 'יב' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 12, `tarik_hosfa` = '2019-06-28 10:14:25' WHERE `bn` = 'פרשת קורח - מי היו דתן ואבירם?' AND `sfr` = 'במד' AND `prq0` = 'טז' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חטא נדב ואביהוא, ואנשים נוספים שנענשו על כך שחרגו מתפקידם' AND `sfr` = 'במד' AND `prq0` = 'טז' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-06-28 13:16:36' WHERE `bn` = 'ביאור:במדבר טז15' AND `sfr` = 'במד' AND `prq0` = 'טז' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:במדבר טז15', 'ברא', 'ד', 5, 5, 'משה וקין', 'כלל', NULL, '2019-06-28 13:17:08');
+

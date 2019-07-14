@@ -57,3 +57,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות כד10' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2019-06-28 13:16:10' WHERE `qod` = 'ביאור:במדבר טז15' AND 1 LIMIT 1;
+
