@@ -22767,3 +22767,105 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/messages/anymore.pdf';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 11:34:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0530_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 11:35:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0530_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 12:19:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0530_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 12:41:48'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_1041_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 14:23:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-16 16:41:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/creeping__thing___abomination__and_a_produce.pdf',
+				NULL,
+				'2019-07-16 21:00:05',
+				'2019-07-16 21:00:05',
+				'Creeping (thing), Abomination, and a produce',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-16 21:00:05'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-17 05:02:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3101_9.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1128.html',
+				NULL,
+				'2019-07-17 06:14:52',
+				'2019-07-17 06:14:52',
+				'פרשת פינחס- מדוע לא נבחרו בני משה למנהיגים?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-17 06:14:52'
+			WHERE ktovt_bn='tnk1/forums.html';
+
