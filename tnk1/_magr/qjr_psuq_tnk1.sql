@@ -296,3 +296,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:במדבר טז15', 'ברא', 'ד', 5, 5, 'משה וקין', 'כלל', NULL, '2019-06-28 13:17:08');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חלונות 2000' AND `sfr` = 'במד' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת פינחס - שכר מצוה; גט לחיילים' AND `sfr` = 'במד' AND `prq0` = 'כה' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 8, `psuq1` = 8, `tarik_hosfa` = '2019-07-19 09:53:55' WHERE `bn` = 'התעלות האדם מעל עצמו בתורה' AND `sfr` = 'במד' AND `prq0` = 'כה' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
