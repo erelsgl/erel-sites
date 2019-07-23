@@ -308,3 +308,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `psuq0` = 8, `psuq1` = 8, `tarik_hosfa` = '2019-07-19 09:53:55' WHERE `bn` = 'התעלות האדם מעל עצמו בתורה' AND `sfr` = 'במד' AND `prq0` = 'כה' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'משה ואהרן, פרעה, משקוף, פסח' AND `sfr` = 'תהל' AND `prq0` = 'צט' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לעשות נקמה בגויים' AND `sfr` = 'תהל' AND `prq0` = 'צט' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+

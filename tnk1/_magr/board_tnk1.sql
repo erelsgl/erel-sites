@@ -23691,3 +23691,75 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-22 16:03:26'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-22 16:28:10'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-22 16:30:12'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-23 03:13:29'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-23 03:14:48'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/630.html',
+				'tnk1/ktuv/thlim/th-99-06.html',
+				NULL,
+				'2019-07-23 03:17:30',
+				'2019-07-23 03:17:30',
+				'מה משותף למשה אהרן ושמואל?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-23 04:12:17'
+		WHERE ktovt_bn='tnk1/msr/knesset/change.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-23 04:14:02'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-99-06.html'
+		;
+
