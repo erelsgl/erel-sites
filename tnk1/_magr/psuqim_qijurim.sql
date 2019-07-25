@@ -166,3 +166,31 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/ajry העם שככה לו ק/ajry העם שיהוה אלהיו' WHERE `book` = 'תהל' AND `chapter` = 'קמד' AND `verse_number` = 15 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'שירו ליהוה ק/jirxdj תהלתו מקצה הארץ יורדי הים ומלאו איים וישביהם' WHERE `book` = 'ישע' AND `chapter` = 'מב' AND `verse_number` = 10 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'שירו-לו ק/jirxdj היטיבו נגן בתרועה' WHERE `book` = 'תהל' AND `chapter` = 'לג' AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויתן בפי ק/jirxdj תהלה לאלהינו ל/rah רבים ק/yra ק/btx ביהוה' WHERE `book` = 'תהל' AND `chapter` = 'מ' AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'שירו ליהוה ק/jirxdj שירו ליהוה כל-הארץ' WHERE `book` = 'תהל' AND `chapter` = 'צו' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'מזמור שירו ליהוה ק/jirxdj כי-נפלאות עשה הושיעה-לו ימינו וזרוע קדשו' WHERE `book` = 'תהל' AND `chapter` = 'צח' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'אלהים ק/jirxdj אשירה לך בנבל עשור ל/zmr1' WHERE `book` = 'תהל' AND `chapter` = 'קמד' AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/hll יה שירו ליהוה ק/jirxdj ק/hll בקהל ק/xsid' WHERE `book` = 'תהל' AND `chapter` = 'קמט' AND `verse_number` = 1 AND 1 LIMIT 1;
+
