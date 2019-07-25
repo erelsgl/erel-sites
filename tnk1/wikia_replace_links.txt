@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-07-18 06:49:28
+# This file was automatically generated at 2019-07-25 05:27:35
 
 sub wikia_replace_links {
 $_=shift;
@@ -1905,6 +1905,9 @@ s|${OPENLINK}tnk1/tora/bmdbr/bm-26-5355|[[ביאור:ליוצאי מצרים נ�
 s|${OPENLINK}tnk1/tora/bmdbr/bm-26-5253|[[ביאור:לאלה תחלק הארץ בנחלה|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-26-49|[[ביאור:ליצר - משפחת היצרי, לשילם - משפחת השילמי|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-25-yldim|[[ביאור:במדבר כה לילדים|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-25-13|[[ביאור:כהונת פינחס בן אלעזר|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-25-12|[[ביאור:קנאות מביאה שלום עם ה'|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-25-09|[[ביאור:המגפה המואבית-מדיינית|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-25-06|[[ביאור:והמה בוכים פתח אוהל מועד|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-yldim|[[ביאור:במדבר כד לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-24-0104|[[ביאור:בלעם פוקח את עיניו|ig;
@@ -3537,6 +3540,7 @@ s|${OPENLINK}tnk1/msr/knesset/invaders|[[ביאור:על סדר היום - מס�
 s|${OPENLINK}tnk1/msr/knesset/index|[[ביאור:על סדר היום - נושאים מסדר היום של כנסת ישראל לאור התנ"ך|ig;
 s|${OPENLINK}tnk1/msr/knesset/hrs|[[ביאור:ההרס ביהודה ושומרון|ig;
 s|${OPENLINK}tnk1/msr/knesset/half|[[ביאור:מחצית השקל ביום הבחירות|ig;
+s|${OPENLINK}tnk1/msr/knesset/change|[[ביאור:על סדר היום - הזכות להשתנות|ig;
 s|${OPENLINK}tnk1/msr/knesset/bxirotmath|[[ביאור:על סדר היום - מתמטיקה של בחירות|ig;
 s|${OPENLINK}tnk1/msr/knesset/bxirot2|[[ביאור:על סדר היום - הלכות בחירות 2 - התפקדות לעומת הצבעה|ig;
 s|${OPENLINK}tnk1/msr/knesset/bxirot|[[ביאור:על סדר היום - הלכות בחירות|ig;
@@ -7066,6 +7070,7 @@ s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_2|[[ביאור:'אוריה' - 
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_1|[[ביאור:'שישמור על ישראל' - בביצוע עפרה חזה ז"ל|ig;
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_0|[[ביאור:'מת אב ומת אלול' - כתב נתן יונתן ז"ל, הלחין צביקה פיק|ig;
 s|${OPENLINK}tnk1/messages/job_s_crocodile.docx|[[ביאור:Job's crocodile|ig;
+s|${OPENLINK}tnk1/messages/jmewn_wrby_yjmeal.docx|[[ביאור:רבן שמעון ורבי ישמעאל|ig;
 s|${OPENLINK}tnk1/messages/jmewny___spr.doc|[[ביאור:מבחר שמעוני - ספר (.doc)|ig;
 s|${OPENLINK}tnk1/messages/jmewny.doc|[[ביאור:מבחר שמעוני (.doc)|ig;
 s|${OPENLINK}tnk1/messages/jlwm_mr_ybkywn_la_xjb_anwj.pdf|[[ביאור:מלאכי שלום מר יבכיון לא חשב אנוש|ig;
@@ -8095,6 +8100,7 @@ s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת 
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
 s|${OPENLINK}tnk1/messages/forums_114|[[ביאור:'חג האסיף' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_113|[[ביאור:פרשת אמור - מהות ספירת העומר|ig;
+s|${OPENLINK}tnk1/messages/forums_1129|[[ביאור:תפילה להשגת מנהיג (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1128|[[ביאור:פרשת פינחס - מדוע לא נבחרו בני משה למנהיגים?|ig;
 s|${OPENLINK}tnk1/messages/forums_1127|[[ביאור:פרשת בלק - מדוע נכשל בלק בקללת ישראל?|ig;
 s|${OPENLINK}tnk1/messages/forums_1126|[[ביאור:'בלק ואכזבתו' - שיר מאת אהובה קליין (c)|ig;
@@ -8793,7 +8799,9 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-c2-03|[[ביאור:איחוד ירושלים - �
 s|${OPENLINK}tnk1/ktuv/thlim/th-b5-16|[[ביאור:השמים שמים לה', והארץ נתן לבני אדם|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-a4-35|[[ביאור:יתמו חטאים מן הארץ, ורשעים עוד אינם|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-a3-0106|[[ביאור:לשמוח על הזכות לעשות תשובה|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-99-06|[[ביאור:מה משותף למשה אהרן ושמואל?|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-97|[[ביאור:הארץ נדהמה|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-96-01|[[ביאור:שירו לה' שיר חדש, שירו לה' כל הארץ|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-95-08|[[ביאור:אל תקשו לבבכם - אל תקטרו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-95-03|[[ביאור:גדול על כל אלהים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-95|[[ביאור:לכו נרננה לה'|ig;
