@@ -4022,3 +4022,26 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/hlwaa_mgmx.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/bm-3017.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-26 15:38:51'
+		WHERE parent='tnk1/tora/bmdbr/bm-3017.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-07-26 15:39:37'
+			WHERE parent='tnk1/tora/bmdbr/bm-3017.html'
+			;
+

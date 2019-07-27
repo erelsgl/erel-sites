@@ -20006,3 +20006,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-3017.html',
+		'<p>https://www.kipa.co.il/%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%A4%D7%A8%D7%A9%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2/%D7%A4%D7%A8%D7%A9%D7%AA-%D7%9E%D7%98%D7%95%D7%AA/%D7%90%D7%AA%D7%94-%D7%97%D7%99%D7%99%D7%91-%D7%9C%D7%94%D7%A7%D7%A9%D7%99%D7%91-%D7%9C%D7%94/</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-07-26 15:38:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-07-26 15:39:37' 
+			WHERE messageid=8830;
+

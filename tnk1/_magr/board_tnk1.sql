@@ -24062,3 +24062,86 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-07-25 06:06:10'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1131.html',
+				NULL,
+				'2019-07-26 13:42:16',
+				'2019-07-26 13:42:16',
+				'פקודי החיל ותרומתם/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-26 13:42:16'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/2xvra.html',
+				'tnk1/tora/bmdbr/bm-30-17.html',
+				NULL,
+				'2019-07-26 15:04:25',
+				'2019-07-26 15:04:25',
+				'הפרת נדרים - תיקון הקשר בין איש לאשתוח',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-26 15:04:25'
+			WHERE ktovt_bn='tnk1/msr/2xvra.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/2xvra.html',
+				'tnk1/tora/bmdbr/bm-3017.html',
+				NULL,
+				'2019-07-26 15:17:46',
+				'2019-07-26 15:17:46',
+				'הפרת נדרים - תיקון הקשר בין איש לאשתו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-07-26 15:17:46'
+			WHERE ktovt_bn='tnk1/msr/2xvra.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/tora/bmdbr/bm-30-17.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-07-26 15:38:51'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-3017.html'
+		;
+
