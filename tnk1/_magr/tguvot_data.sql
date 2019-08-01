@@ -4815,3 +4815,94 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t0406_2.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t3103_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-31 10:43:28'
+		WHERE parent='tnk1/messages/prqim_t3103_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yrmyhu/yr-13-23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-31 12:58:30'
+		WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yrmyhu/yr-13-23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-31 12:59:11'
+		WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-07-31 12:59:13'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yrmyhu/yr-13-23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-31 13:00:00'
+		WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-07-31 13:00:02'
+			WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yrmyhu/yr-09-12.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-07-31 16:31:11'
+		WHERE parent='tnk1/nvia/yrmyhu/yr-09-12.html'
+		;
+
