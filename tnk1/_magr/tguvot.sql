@@ -20730,3 +20730,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-09-12.html',
+		'<p>לשמה - הכוונה שאדם לומד תורה כדי לקיים את מה שכתוב בה.</p><p>שלא לשמה - הכוונה שאדם לומד תורה למטרה אחרת, למשל כדי לקבל תואר רב, או תואר ראשון בתלמוד, או סתם כדי &quot;להעביר את הזמן&quot;, אבל אינו מתכוון לקיים את מה שכתוב בתורה.</p><p>והמאור - הוא היופי והעומק שבתורה, הגורם לכך שגם מי שלומד &quot;שלא לשמה&quot;, בסופו של דבר מתחבר אליה ומחליט לקיים את הכתוב בה.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-08-02 05:30:37'
+		)
+		;
+
