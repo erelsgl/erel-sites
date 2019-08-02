@@ -24551,3 +24551,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-08-01 04:47:32'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-02 05:30:37'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-09-12.html'
+		;
+
