@@ -316,3 +316,43 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לעשות נקמה בגויים' AND `sfr` = 'תהל' AND `prq0` = 'צט' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:דברים כב7' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 6 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חמלה ושוויון בני אדם' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ל17' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 6 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום טעמי המצוה', `tarik_hosfa` = '2019-08-05 05:41:34' WHERE `bn` = 'ביאור:דברים כב7' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 7 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('@קטע', 'דבר', 'כב', 6, 6, 'מצוות שילוח הקן', 'פתיחה', 10, '2019-08-05 05:41:34');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - מצוות שילוח הקן - מהי?' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'האם המצוה היא רשות או חובה?', `sug` = 'תרגומים', `tarik_hosfa` = '2019-08-05 05:44:50' WHERE `bn` = 'ביאור:דברים כב6' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 6 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2019-08-05 05:44:50' WHERE `bn` = 'ביאור:דברים כב7' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 7 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-08-05 07:02:15' WHERE `bn` = 'ביאור:דברים כב19' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'דינה שמעון ולוי הסבר המעשה ודרכו של לוי' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
