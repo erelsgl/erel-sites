@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-07-25 05:27:35
+# This file was automatically generated at 2019-08-06 08:43:07
 
 sub wikia_replace_links {
 $_=shift;
@@ -1531,6 +1531,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-23-06|[[ביאור:הקללה שהפכה לבר�
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-29|[[ביאור:עונשם של אנסים בתורה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-2327-aq|[[ביאור:נערה מאורשה - פיתוי ואונס|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-2324|[[ביאור:מדוע בתולה שאינה צועקת בעיר, אינה נחשבת לאנוסה?|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-22-17|[[ביאור:ופרשו השמלה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-11|[[ביאור:טעמי איסור לבישת שעטנז|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-09|[[ביאור:פן תקדש המלאה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-0607|[[ביאור:מצוות שילוח הקן - טעמים שונים|ig;
@@ -1888,13 +1889,17 @@ s|${OPENLINK}tnk1/tora/bmdbr/hqtort|[[ביאור:הקטורת שעצרה את ה
 s|${OPENLINK}tnk1/tora/bmdbr/holot_bxgim|[[ביאור:העולות בחגים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/dvry_hmrglim|[[ביאור:דברי המרגלים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bnot_clfxd_h|[[ביאור:האם בנות צלפחד היו פמיניסטיות יהודיות?|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-36-06|[[ביאור:חוק נישואי בנות צלפחד|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-35-33|[[ביאור:כפרה על רצח - תנאי הכרחי ומספיק|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-35-25|[[ביאור:הרוצח בשגגה נשאר בעיר המקלט עד מות הכהן הגדול|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-35-24|[[ביאור:העברת השיפוט מיד הפרט ליד הציבור|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-32-yldim|[[ביאור:במדבר לב לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-32-22|[[ביאור:חלוקת נחלות מתחשבת בהעדפות אישיות|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-31-1924|[[ביאור:מתי למד אלעזר את דיני הטהרה?|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-31-04|[[ביאור:כל אזרח מאמץ חייל בתפילה|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-31-0203|[[ביאור:נקמת ישראל ונקמת ה'|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-3017|[[ביאור:הפרת נדרים - תיקון הקשר בין איש לאשתו|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-30|[[ביאור:מבנה במדבר ל|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-28-27|[[ביאור:קרבן מוסף של חג השבועות|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-27-yldim|[[ביאור:במדבר כז לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-27-17a|[[ביאור:המנהיג צריך לצאת לפני העם|ig;
@@ -3118,6 +3123,7 @@ s|${OPENLINK}tnk1/nvia/yrmyhu/yr-15|[[ביאור:מבנה ירמיהו טו|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-1415|[[ביאור:היה לנו דיון סוער 'על דברי הבצרות'|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-14-11|[[ביאור:מדוע ה' לא קיבל את תפילת ירמיהו למען שמו|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-14-10|[[ביאור:נדודי גוף כעונש על נדודי נפש|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-23|[[ביאור:היהפוך כושי עורו ונמר חברבורותיו?!|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-2227|[[ביאור:העוונות גרמו לגויים לזלזל בישראל|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-1822|[[ביאור:המנהיגים הביאו את האויבים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-12-1417|[[ביאור:שכני ישראל באחרית הימים|ig;
@@ -8099,6 +8105,10 @@ s|${OPENLINK}tnk1/messages/forums_117|[[ביאור:פרשת במדבר - משמ�
 s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
 s|${OPENLINK}tnk1/messages/forums_114|[[ביאור:'חג האסיף' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1133|[[ביאור:' מסעי בני ישראל' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1132|[[ביאור:פרשת מסעי - רמזים לעתיד עם ישראל - היכן?|ig;
+s|${OPENLINK}tnk1/messages/forums_1131|[[ביאור:'פקודי החיל ותרומתם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1130|[[ביאור:פרשת מטות - כיצד כיפרו פקודי החיל על מעשיהם?  |ig;
 s|${OPENLINK}tnk1/messages/forums_113|[[ביאור:פרשת אמור - מהות ספירת העומר|ig;
 s|${OPENLINK}tnk1/messages/forums_1129|[[ביאור:תפילה להשגת מנהיג (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1128|[[ביאור:פרשת פינחס - מדוע לא נבחרו בני משה למנהיגים?|ig;
