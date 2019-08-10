@@ -21638,3 +21638,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0531_1.html',
+		'<p>כאשר יוסף בֶן זְקֻנִים ליעקב ------- גם שם בן-נח בֶן זְקֻנִים ------- על כן חכמת אלהים בקרבם אשר נתן להם אביהם</p><p>משלי כג24: &quot;גִּיל יָגִיל אֲבִי צַדִּיק יולד[וְיוֹלֵד] חָכָם וישמח[יִשְׂמַח] בּוֹ&quot; ------- ובֶן זְקֻנִים משמח את אביו</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-09 13:38:50'
+		)
+		;
+
