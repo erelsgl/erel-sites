@@ -25558,3 +25558,229 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26e7_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 09:43:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/cmt.html',
+				'tnk1/ktuv/mgilot/ei-03-53.html',
+				NULL,
+				'2019-08-11 10:18:58',
+				'2019-08-11 10:18:58',
+				'צמתו בבור חיי, וידו אבן בי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `kotrt` = '׳—׳›׳׳™׳׳•׳× ׳¢׳™׳ ׳™׳™׳ ׳׳™׳™׳' WHERE `ktovt_av` = 'tnk1/prqim/t2823.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t2823_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t2823.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t2823_1.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/prqim/t2823.htm' AND `ktovt_bn` = 'tnk1/messages/prqim_t2823_2.html' AND 1 LIMIT 1;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/kllezor.html',
+				'tnk1/nvia/yrmyhu/yr-13-04.html',
+				NULL,
+				'2019-08-11 14:44:25',
+				'2019-08-11 14:44:25',
+				'נהר פרת ונחל פרת',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-08-11 14:44:25'
+			WHERE ktovt_bn='tnk1/sig/kllezor.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 14:53:07'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-53.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 14:55:48'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-53.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 14:59:20'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-53.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/azr.html',
+				'tnk1/nvia/yrmyhu/yr-13-0910.html',
+				NULL,
+				'2019-08-11 15:38:07',
+				'2019-08-11 15:38:07',
+				'הנמשל של משל האזור',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nbl3.html',
+				'tnk1/nvia/yrmyhu/yr-13-12.html',
+				NULL,
+				'2019-08-11 15:59:50',
+				'2019-08-11 15:59:50',
+				'כל נבל יימלא ין',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 16:04:06'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-13-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 16:06:21'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-13-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 16:07:40'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-13-0910.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-11 19:11:47'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-13-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 02:38:30'
+		WHERE ktovt_bn='tnk1/ktuv/mj/21-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 02:46:57'
+		WHERE ktovt_bn='tnk1/ktuv/mj/21-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 06:03:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 06:14:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 06:22:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4mdina.html',
+				'tnk1/tora/dvrim/dm-17-17b.html',
+				NULL,
+				'2019-08-12 06:33:28',
+				'2019-08-12 06:33:28',
+				'התקציב המלכותי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-08-12 06:33:28'
+			WHERE ktovt_bn='tnk1/msr/4mdina.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 06:37:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-12 06:40:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
