@@ -25950,3 +25950,154 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 15:55:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 15:57:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 16:02:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 18:13:47'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 18:18:47'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 18:27:44'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 18:29:12'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-15 18:32:36'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-23-16.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/suggested_new_understanding_of_psalms_64.pdf',
+				NULL,
+				'2019-08-15 18:44:15',
+				'2019-08-15 18:44:15',
+				'Suggested new understanding of Psalms 64',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-08-15 18:44:15'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 03:36:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 03:44:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 03:45:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 03:47:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/swr.html',
+				'tnk1/tora/dvrim/dm-17-17a.html',
+				NULL,
+				'2019-08-16 04:56:01',
+				'2019-08-16 04:56:01',
+				'המשפחה המלכותית',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 05:02:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0713_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-16 07:49:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+

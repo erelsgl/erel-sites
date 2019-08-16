@@ -356,3 +356,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'דינה שמעון ולוי הסבר המעשה ודרכו של לוי' AND `sfr` = 'דבר' AND `prq0` = 'כב' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-08-16 05:32:49' WHERE `bn` = 'ביאור:דברים יז16' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
