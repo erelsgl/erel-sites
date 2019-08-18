@@ -22396,3 +22396,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-17 19:55:26' 
+			WHERE messageid=8952;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-17-17b.html',
+		'<p>אִישׁ יָבִא בְּפִרְיוֹ אֶלֶף כָּסֶף !!!! 1000 אלף כסף זה מה יש</p><p>ואת האלף כסף הזה הנוטרים מביאים אל המלך משיח בן-דוד והוא ייתן בצדקתו ככתוב:  וּמָאתַיִם לְנֹטְרִים אֶת פִּרְיוֹ</p><p>לכן המאתיים מתוך האלף</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-18 01:58:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_6.html',
+		'<p>אם אדון אני יהוה אדוני ------- ואם אלהים אני יהוה אלהי</p><p>דברים י17: &quot;כִּי יהוה אֱלֹהֵיכֶם הוּא אֱלֹהֵי הָאֱלֹהִים וַאֲדֹנֵי הָאֲדֹנִים </p><p>תהלים קלו2: ******* &quot;הוֹדוּ לֵאלֹהֵי הָאֱלֹהִים כִּי לְעוֹלָם חַסְדּוֹ&quot; *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-18 02:57:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_6.html',
+		'<p>אם אדון אני יהוה אדוני ------- ואם אלהים אני יהוה אלהי</p><p>דברים י17: &quot;כִּי יהוה אֱלֹהֵיכֶם הוּא אֱלֹהֵי הָאֱלֹהִים וַאֲדֹנֵי הָאֲדֹנִים</p><p>תהלים קלו2: ******* &quot;הוֹדוּ לֵאלֹהֵי הָאֱלֹהִים כִּי לְעוֹלָם חַסְדּוֹ&quot; *******</p><p>מלאכי א6: &quot;בֵּן יְכַבֵּד אָב וְעֶבֶד אֲדֹנָיו וְאִם אָב אָנִי אַיֵּה כְבוֹדִי וְאִם אֲדוֹנִים אָנִי אַיֵּה מוֹרָאִי אָמַר יהוה צְבָאוֹת</p><p>מלאכי א6: &quot;בֵּן יְכַבֵּד אָב וְעֶבֶד אֲדֹנָיו = כִּי יהוה אֱלֹהֵיכֶם הוּא אֱלֹהֵי הָאֱלֹהִים וַאֲדֹנֵי הָאֲדֹנִים</p><p>--------------------------------- אביך = אלהים ---------------------------------</p><p>ובתורת משה איש האלהים כתוב:</p><p>  דברים לב6: &quot;הֲ-ליהוה תִּגְמְלוּ זֹאת עַם נָבָל וְלֹא חָכָם הֲלוֹא הוּא אָבִיךָ קָּנֶךָ הוּא עָשְׂךָ וַיְכֹנְנֶךָ&quot;</p><p>יהוה הוא אביך .....................................</p><p>ואתה כבד את אביך ויסמוך ידו עליך ויברכך</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-18 03:14:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-18 03:14:50' 
+			WHERE messageid=8980;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_1.html',
+		'<p>מי שלא מכה את בני ישראל בחטאתם</p><p>לא אוהב את בני ישראל בצדקתם</p><p>ואני אוהב את בני ישראל בצדקתם </p><p>על כן מכה את בני ישראל בחטאתם</p><p>-----------------------------------------------------------------------</p><p> משלי כג14: &quot;אַתָּה בַּשֵּׁבֶט תַּכֶּנּוּ וְנַפְשׁוֹ מִשְּׁאוֹל תַּצִּיל&quot; </p><p> משלי יג24: &quot;חוֹשֵׂךְ שִׁבְטוֹ שׂוֹנֵא בְנוֹ וְאֹהֲבוֹ שִׁחֲרוֹ מוּסָר&quot; </p><p>משלי כב15: &quot;אִוֶּלֶת קְשׁוּרָה בְלֶב נָעַר שֵׁבֶט מוּסָר יַרְחִיקֶנָּה מִמֶּנּוּ&quot; </p><p>******* ולא מכה משנאה כי אם מאהבת עם-יהוה *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-18 04:52:44'
+		)
+		;
+

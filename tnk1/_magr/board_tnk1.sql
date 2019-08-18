@@ -26117,3 +26117,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-18 01:58:52'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-17-17b.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-18 02:57:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-18 03:14:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-18 04:52:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_1.html'
+		;
+
