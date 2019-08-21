@@ -26261,3 +26261,58 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/gr.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-20 13:30:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/anfyjmywt_wtjeh_bab_prjt_watxnn.docx',
+				NULL,
+				'2019-08-20 18:23:52',
+				'2019-08-20 18:23:52',
+				'עמלק אנטישמיות ותשעה באב-פרשת ואתחנן',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-21 03:47:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1138.html',
+				NULL,
+				'2019-08-21 06:25:17',
+				'2019-08-21 06:25:17',
+				'פרשת עקב- מידה כנגד מידה בפרשה/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-08-21 06:25:17'
+			WHERE ktovt_bn='tnk1/forums.html';
+
