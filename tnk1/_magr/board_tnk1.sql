@@ -26316,3 +26316,43 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-08-21 06:25:17'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-21 18:26:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-22 05:17:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-08-22 05:47:35'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_qfb_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/lqf.html',
+				'tnk1/tora/wyqra/wy-23-22.html',
+				NULL,
+				'2019-08-22 07:04:21',
+				'2019-08-22 07:04:21',
+				'דיני לקט בשדה',
+				'אראל',
+				''
+			)
+		;
+
