@@ -22972,3 +22972,67 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>עברי אנכי ואהבתי השולחן הטהור בישראל אך יותר מכל אהבתי את זמרת הגוים כי שירתם לי כמנחה טהורה שֻׁלְחַן יהוה שֻׁלְחַן אֲדֹנָי</p><p>מלאכי א11: &quot;כִּי מִמִּזְרַח שֶׁמֶשׁ וְעַד מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם וּבְכָל מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יהוה צְבָאוֹת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-25 13:21:50'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-25 13:22:00' 
+			WHERE messageid=9020;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>עברי אנכי ואהבתי השולחן הטהור בישראל אך יותר מכל אהבתי את זמרת הגוים כי שירתם לי כמנחה טהורה שֻׁלְחַן יהוה שֻׁלְחַן אֲדֹנָי</p><p>מלאכי א11: </p><p>&quot;כִּי מִמִּזְרַח שֶׁמֶשׁ וְעַד מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם וּבְכָל מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יהוה צְבָאוֹת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-25 13:22:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>עברי אנכי ואהבתי השולחן הטהור בישראל </p><p>אך יותר מכל אהבתי את זמרת הגוים כי שירתם לי כמנחה טהורה שֻׁלְחַן יהוה שֻׁלְחַן אֲדֹנָי</p><p>מלאכי א11:</p><p> &quot;כִּי מִמִּזְרַח שֶׁמֶשׁ וְעַד מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם וּבְכָל מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יהוה צְבָאוֹת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-25 13:34:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-25 13:34:58' 
+			WHERE messageid=9021;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-25 15:56:48' 
+			WHERE messageid=8786;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-26 03:03:22' 
+			WHERE messageid=3644;
+

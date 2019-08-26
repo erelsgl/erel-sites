@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-08-06 08:43:07
+# This file was automatically generated at 2019-08-26 03:38:46
 
 sub wikia_replace_links {
 $_=shift;
@@ -1186,6 +1186,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-23-mvne|[[ביאור:מבנה ויקרא כג|ig
 s|${OPENLINK}tnk1/tora/wyqra/wy-23-40|[[ביאור:ארבעת המינים - להודות לה' על צמחי הארץ|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-23-3344|[[ביאור:למה חג הסוכות נזכר פעמיים?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-23-32|[[ביאור:מערב עד ערב תשבתו שבתכם|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-23-22|[[ביאור:דיני לקט בשדה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-23-11|[[ביאור:חג תחילת הקציר וחג סיום הקציר|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-23|[[ביאור:חג הסוכות או חג לה'?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-20-27|[[ביאור:הערת שוליים בתנ"ך|ig;
@@ -1199,6 +1200,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-19-17|[[ביאור:לא תשנא - הוכח תו
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-1516|[[ביאור:כל אחד הוא שופט|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-15|[[ביאור:בצדק תשפוט עמיתך - הפרטים|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-14|[[ביאור:אסור לסייע לאדם לעבור עבירה|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-19-09|[[ביאור:דיני פאה בשדה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-03|[[ביאור:איש אמו ואביו תיראו - הפוך בה והפוך בה דכולא בה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-18-25|[[ביאור:ותקיא הארץ את יושביה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-17-07|[[ביאור:חוקת עולם תהיה זאת להם לדורותם|ig;
@@ -1517,6 +1519,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-25-1316-ky|[[ביאור:ה' מתעב גם מעש
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-09|[[ביאור:ככה יעשה לאיש אשר לא יבנה את בית אחיו|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-06|[[ביאור:ולא ימחה שמו מישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-0103|[[ביאור:הלכות מכות בבית המשפט|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-24-19|[[ביאור:דיני שכחה בשדה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-09|[[ביאור:זכור את אשר עשה ה' אלהיך למרים בדרך בצאתכם ממצרים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-06|[[ביאור:רחיים ורכב = כלי הכנת אוכל וכלי תחבורה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-0506|[[ביאור:איסור על גיוס כלים של חתן|ig;
@@ -1551,6 +1554,8 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-18-13|[[ביאור:תמים תהיה עם ה' א
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-11|[[ביאור:דורש אל המתים - תורה שבכתב ותורה שבע"פ|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-0102|[[ביאור:נחלת הכהנים והלויים בתורה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-19|[[ביאור:הפרדת רשויות בין המחוקק למלך|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-17-17b|[[ביאור:התקציב המלכותי|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-17-17a|[[ביאור:המשפחה המלכותית|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-16|[[ביאור:לא ירבה לו סוסים - ולא ישיב את העם מצרימה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-15|[[ביאור:מלך אשר יבחר ה'|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-14|[[ביאור:סוג המשטר תלוי ברצון העם|ig;
@@ -3126,6 +3131,9 @@ s|${OPENLINK}tnk1/nvia/yrmyhu/yr-14-10|[[ביאור:נדודי גוף כעונש
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-23|[[ביאור:היהפוך כושי עורו ונמר חברבורותיו?!|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-2227|[[ביאור:העוונות גרמו לגויים לזלזל בישראל|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-1822|[[ביאור:המנהיגים הביאו את האויבים|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-12|[[ביאור:כל נבל יימלא ין|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-0910|[[ביאור:הנמשל של משל האזור|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-13-04|[[ביאור:נהר פרת ונחל פרת|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-12-1417|[[ביאור:שכני ישראל באחרית הימים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-12-05|[[ביאור:ה' מגלה לירמיהו את המציאות המרה|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-12-0103|[[ביאור:ירמיהו מתלונן על הצלחת הרשעים|ig;
@@ -3912,6 +3920,7 @@ s|${OPENLINK}tnk1/messages/they.pdf|[[ביאור:They|ig;
 s|${OPENLINK}tnk1/messages/templepalace.pdf|[[ביאור:היכל|ig;
 s|${OPENLINK}tnk1/messages/tabernacle__its_coverings.pdf|[[ביאור:Tabernacle and it coverings|ig;
 s|${OPENLINK}tnk1/messages/swears_to_his_fellow.docx|[[ביאור:Swears to his fellow|ig;
+s|${OPENLINK}tnk1/messages/suggested_new_understanding_of_psalms_64.pdf|[[ביאור:Suggested new understanding of Psalms 64|ig;
 s|${OPENLINK}tnk1/messages/SPR_MLKYM.doc|[[ביאור:מלכים א - סיכומי פרקים וחידות (.doc)|ig;
 s|${OPENLINK}tnk1/messages/spring_s_and_well_s_water.pdf|[[ביאור:Spring's and well's water|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shlomit_index_0|[[ביאור:'מדרש הלב הנאמן'|ig;
@@ -4650,6 +4659,7 @@ s|${OPENLINK}tnk1/messages/sig_9jir_1|[[ביאור:'שיר המעפילים' - �
 s|${OPENLINK}tnk1/messages/sig_9jir_0|[[ביאור:'פרשת דינה' - שאול טשרניחובסקי|ig;
 s|${OPENLINK}tnk1/messages/re_jl_gwg_njya_arc_hmgwg.pdf|[[ביאור:מעגל רע של גוג נשיא ארץ המגוג|ig;
 s|${OPENLINK}tnk1/messages/redemption_of_the_first_born.pdf|[[ביאור:Redemption of the first born|ig;
+s|${OPENLINK}tnk1/messages/rattling___an_expression_of_derision.pdf|[[ביאור:Rattling - an expression of derision|ig;
 s|${OPENLINK}tnk1/messages/ramp.pdf|[[ביאור:?A sheep or a ramp|ig;
 s|${OPENLINK}tnk1/messages/radyan_mwbnh_btrbwe_swgr_megl.pdf|[[ביאור:רק ראדיאן מובנה בתרבוע סוגר מעגל|ig;
 s|${OPENLINK}tnk1/messages/qyn_bcennym_ajr_at_qdj.pdf|[[ביאור:אות קין בצעננים אשר את קדש|ig;
@@ -6650,6 +6660,7 @@ s|${OPENLINK}tnk1/messages/mizbeh_ola.pdf|[[ביאור:מזבח העולה במ�
 s|${OPENLINK}tnk1/messages/megl_weygwl_dew_ky_yhwh_hwa_alhym.pdf|[[ביאור:בשיחזור מעגל ועיגול דעו כי יהוה הוא אלהים|ig;
 s|${OPENLINK}tnk1/messages/mdrjym_wxydwjym_btrgwm_ywntn_el_spr_yrmyhw.doc|[[ביאור:מדרשים וחידושים בתרגום יונתן על ספר ירמיהו (.doc)|ig;
 s|${OPENLINK}tnk1/messages/ma_01.png|[[ביאור:ציור דמויות במלכים א א|ig;
+s|${OPENLINK}tnk1/messages/lyhwh_qraw_bjmw.pdf|[[ביאור:הודו ליהוה קראו בשמו|ig;
 s|${OPENLINK}tnk1/messages/lxyym_whtnk2_ay5_em_herwt_sywm.doc|[[ביאור:הדרכה לחיים והתנך - אי5 עם הערות סיום (.doc)|ig;
 s|${OPENLINK}tnk1/messages/lw_ky_meglwtyw_mwknym_lywm_hhwa.pdf|[[ביאור:חכו לו כי מעגלותיו מוכנים ליום ההוא|ig;
 s|${OPENLINK}tnk1/messages/lrek_kmwk_beygwl_wbmlbn.pdf|[[ביאור:ואהבת לרעך כמוך בעיגול ובמלבן|ig;
@@ -8105,6 +8116,12 @@ s|${OPENLINK}tnk1/messages/forums_117|[[ביאור:פרשת במדבר - משמ�
 s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
 s|${OPENLINK}tnk1/messages/forums_114|[[ביאור:'חג האסיף' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1139|[[ביאור:'מידה כנגד מידה בפרשת עקב' - אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1138|[[ביאור:פרשת עקב - מידה כנגד מידה בפרשה|ig;
+s|${OPENLINK}tnk1/messages/forums_1137|[[ביאור:'תורת חיים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1136|[[ביאור:פרשת ואתחנן - מה גנוז בתורה הקדושה למען חיי האדם?|ig;
+s|${OPENLINK}tnk1/messages/forums_1135|[[ביאור:' מהומה במדבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1134|[[ביאור:פרשת דברים - באיזה אופן ביקש העם לרגל את הארץ?|ig;
 s|${OPENLINK}tnk1/messages/forums_1133|[[ביאור:' מסעי בני ישראל' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1132|[[ביאור:פרשת מסעי - רמזים לעתיד עם ישראל - היכן?|ig;
 s|${OPENLINK}tnk1/messages/forums_1131|[[ביאור:'פקודי החיל ותרומתם' - שיר מאת אהובה קליין (c)|ig;
@@ -8255,6 +8272,7 @@ s|${OPENLINK}tnk1/messages/forums_10|[[ביאור:'שמיעה ושמועה' - א
 s|${OPENLINK}tnk1/messages/flashing_sword.pdf|[[ביאור:Flashing sword|ig;
 s|${OPENLINK}tnk1/messages/fierce_anger.docx|[[ביאור:Fierce anger|ig;
 s|${OPENLINK}tnk1/messages/fear_of_god.pdf|[[ביאור:Fear of God|ig;
+s|${OPENLINK}tnk1/messages/e_r_j_w__e_r_j__b__r_z_l__h_l_h_h_wa_b__r_b__t_b__n_y_e_m_w_n_prjt_dbrym.docx|[[ביאור:הנה ערשו ערש ברזל הלה הוא ברבת בני עמון - פרשת דברים|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_2_0|[[ביאור:אבן השתייה בירושלים|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0|[[ביאור:מדוע הפיסחים והעיוורים היו שנואי נפש דוד|ig;
 s|${OPENLINK}tnk1/messages/ezor_ToknLfiEzorYrujlym_1|[[ביאור:הפסחים והעורים|ig;
@@ -8507,6 +8525,7 @@ s|${OPENLINK}tnk1/messages/aram_naharaim.pdf|[[ביאור:Aram - Naharaim|ig;
 s|${OPENLINK}tnk1/messages/aps_mqwm.pdf|[[ביאור:עד אפס מקום|ig;
 s|${OPENLINK}tnk1/messages/anymore.pdf|[[ביאור:Anymore|ig;
 s|${OPENLINK}tnk1/messages/anky_jwlx_lkm_at_alyh_hnbya.pdf|[[ביאור:הנה אנכי שולח לכם את אליה הנביא|ig;
+s|${OPENLINK}tnk1/messages/anfyjmywt_wtjeh_bab_prjt_watxnn.docx|[[ביאור:עמלק אנטישמיות ותשעה באב - פרשת ואתחנן|ig;
 s|${OPENLINK}tnk1/messages/amwntw.pdf|[[ביאור:מעגל אמונתו|ig;
 s|${OPENLINK}tnk1/messages/all_the_king_s_men.pdf|[[ביאור:All the king's men|ig;
 s|${OPENLINK}tnk1/messages/alhy_yeqb_nrdm_wrkb_wsws.pdf|[[ביאור:מגערתך אלהי יעקב נרדם ורכב וסוס|ig;
@@ -10352,6 +10371,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/es-01-14|[[ביאור:שבעת שרי פרס ומ�
 s|${OPENLINK}tnk1/ktuv/mgilot/es-01-10|[[ביאור:שבעת הסריסים המשרתים את פני המלך אחשורוש|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/es-01-08|[[ביאור:והשתיה כדת|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-mtnya|[[ביאור:ספר איכה - סדר וצורה|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-53|[[ביאור:צמתו בבור חיי, וידו אבן בי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-40|[[ביאור:חשבון נפש אישי ע"פ מגילת איכה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-06|[[ביאור:גדולי ישראל יצאו לגלות כי העלימו עין מעבירות|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01|[[ביאור:איכה א בצבעים|ig;

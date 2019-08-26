@@ -69,3 +69,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'פרשת פינחס - שכר מצוה; גט לחיילים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'הנה ערשו ערש ברזל הלה הוא ברבת בני עמון - פרשת דברים', `tarik_hosfa` = '2019-08-26 03:09:07' WHERE `qod` = 'דברים ג11' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'מידה כנגד מידה בפרשת עקב\' - אהובה קליין', `tarik_hosfa` = '2019-08-26 03:38:35' WHERE `qod` = '\'מידה כנגד מידה בפרשת עקב\' - אהובה קליין' AND 1 LIMIT 1;
+
