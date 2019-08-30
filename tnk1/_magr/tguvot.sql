@@ -23258,3 +23258,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יט11: &quot;וַיֹּאמֶר צֵא וְעָמַדְתָּ בָהָר לִפְנֵי יהוה</p><p>וְהִנֵּה יהוה עֹבֵר וְרוּחַ גְּדוֹלָה וְחָזָק מְפָרֵק הָרִים וּמְשַׁבֵּר סְלָעִים לִפְנֵי יהוה לֹא בָרוּחַ יהוה וְאַחַר הָרוּחַ רַעַשׁ לֹא בָרַעַשׁ יהוה&quot;</p><p>מלכים א יט12: &quot;וְאַחַר הָרַעַשׁ אֵשׁ לֹא בָאֵשׁ יהוה וְאַחַר הָאֵשׁ קוֹל דְּמָמָה דַקָּה&quot;</p><p>************** קוֹל דְּמָמָה דַקָּה **************</p><p>https://www.youtube.com/watch?v=oTLJjoW867g</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-29 14:18:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>אני יודע את מקומי ------ אני לא מלך המדינה ------ אני מלך התורה</p><p>כאשר יש את מלך השווארמה ומלך הפלאפל ככה כל אחד מלך בתחומו</p><p>***** ואני מלך התורה על כן טוען לכתר תורה כי זאת מלכותי *****</p><p>------- ברוכים הבאים לממלכת התורה של דיין שם משה -------</p><p> http://tora.us.fm/tnk1/daian</p><p>       דַיָּן שֵׁם משה       </p><p>       דרך הקודש         </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-29 15:14:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>כאשר יש את מלך השווארמה ומלך הפלאפל ככה כל אחד מלך בתחומו</p><p>***** ואני מלך התורה על כן טוען לכתר תורה כי זאת מלכותי *****</p><p>------- ברוכים הבאים לממלכת התורה של דיין שם משה -------</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם משה</p><p>דרך הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-08-29 15:50:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-08-29 15:50:24' 
+			WHERE messageid=9039;
+
