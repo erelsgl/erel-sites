@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-08-26 03:38:46
+# This file was automatically generated at 2019-09-01 05:32:19
 
 sub wikia_replace_links {
 $_=shift;
@@ -1519,6 +1519,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-25-1316-ky|[[ביאור:ה' מתעב גם מעש
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-09|[[ביאור:ככה יעשה לאיש אשר לא יבנה את בית אחיו|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-06|[[ביאור:ולא ימחה שמו מישראל|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-0103|[[ביאור:הלכות מכות בבית המשפט|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-24-21|[[ביאור:דיני עוללות בכרם|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-19|[[ביאור:דיני שכחה בשדה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-09|[[ביאור:זכור את אשר עשה ה' אלהיך למרים בדרך בצאתכם ממצרים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-24-06|[[ביאור:רחיים ורכב = כלי הכנת אוכל וכלי תחבורה|ig;
@@ -1577,6 +1578,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-12-0405|[[ביאור:אל תבנו לה' בית 
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-03|[[ביאור:לאבד עבודה זרה מהשטח ומהתודעה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-02|[[ביאור:לאבד עבודה זרה בלי להרוס את הטבע|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12|[[ביאור:המקום אשר יבחר ה' - מבנה הפרשה|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-11-26|[[ביאור:מצוות התורה - ברכה וקללה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-15|[[ביאור:ונתתי עשב בשדך לבהמתך, ואכלת ושבעת|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-1315|[[ביאור:לשתף את ה' באהבה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-11-12|[[ביאור:להסתכל רק על ארץ ישראל|ig;
@@ -6957,6 +6959,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_arb2_1|[[ביאור:מכת הרקולס|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_arb2_0|[[ביאור:מכת ארבה - שמות הארבה במקרא|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_aps_2|[[ביאור:אפס = כף רגל, עקב|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_aps_0|[[ביאור:אפס = מילה שבאה לבטל את התועלת או את הנזק של מה שנכתב קודם|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_anx_0|[[ביאור:אנח - נדה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_amn_0|[[ביאור:מבחן אמונה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_amn3_0|[[ביאור:אמן = בעל מלאכה מוכשר|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_amn1_0|[[ביאור:ונקראה ירושלים עיר האמת|ig;
@@ -8115,6 +8118,8 @@ s|${OPENLINK}tnk1/messages/forums_118|[[ביאור:'ירושלים כתר זהב
 s|${OPENLINK}tnk1/messages/forums_117|[[ביאור:פרשת במדבר - משמעות סדר חניית עם ישראל|ig;
 s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
+s|${OPENLINK}tnk1/messages/forums_1141|[[ביאור:'מקום המקדש מזה עידן ועדנים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1140|[[ביאור:פרשת ראה - מדוע לא הוזכר מקום המקדש באופן ברור?|ig;
 s|${OPENLINK}tnk1/messages/forums_114|[[ביאור:'חג האסיף' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1139|[[ביאור:'מידה כנגד מידה בפרשת עקב' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_1138|[[ביאור:פרשת עקב - מידה כנגד מידה בפרשה|ig;
