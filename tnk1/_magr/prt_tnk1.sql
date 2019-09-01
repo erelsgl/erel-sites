@@ -77,3 +77,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = '\'מידה כנגד מידה בפרשת עקב\' - אהובה קליין', `tarik_hosfa` = '2019-08-26 03:38:35' WHERE `qod` = '\'מידה כנגד מידה בפרשת עקב\' - אהובה קליין' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = '\'מקום המקדש מזה עידן ועדנים\' - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2019-09-01 05:32:11' WHERE `qod` = '\'מקום המקדש מזה עידן ועדנים\' - אהובה קליין' AND 1 LIMIT 1;
+
