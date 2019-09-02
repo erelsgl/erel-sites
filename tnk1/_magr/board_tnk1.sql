@@ -27393,3 +27393,51 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-01 10:19:48'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/mlaka.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-01 17:44:31'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-25-30.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-02 03:03:58'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-25-30.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/sjbe.html',
+				'tnk1/tora/dvrim/dm-14-29.html',
+				NULL,
+				'2019-09-02 05:08:05',
+				'2019-09-02 05:08:05',
+				'מעשר עני - לתת כדי להשביע',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-02 06:42:32'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/stn.html'
+		;
+
