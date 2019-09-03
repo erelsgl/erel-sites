@@ -27441,3 +27441,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/stn.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nwx.html',
+				'tnk1/messages/ljon_jorj_nwx_0.html',
+				NULL,
+				'2019-09-02 14:52:50',
+				'2019-09-02 14:52:50',
+				'תגובה על: נוח',
+				'Yacov Damary',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-02 16:36:31'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-02 16:55:10'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-14-29.html'
+		;
+
