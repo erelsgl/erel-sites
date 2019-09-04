@@ -23385,3 +23385,46 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/stn.html',
+		'<p>אני שטן לרבנים הגדולים כי דרכם בגזל</p><p>לא רק שלא הביאו לי מעשר גם גזלו תרומתי </p><p>הִנֵּה אָנֹכִי יָצָאתִי לְשָׂטָן כִּי יָרַט הַדֶּרֶךְ לְנֶגְדִּי</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-03 11:23:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/stn.html',
+		'<p>אני שטן לרבנים הגדולים כי דרכם בגזל</p><p>הם מתחזים לחכמים וגוזלים את תרומתי</p><p>לא הביאו לי מעשר ולא שומעים בקולי</p><p>הִנֵּה אָנֹכִי יָצָאתִי לְשָׂטָן כִּי יָרַט הַדֶּרֶךְ לְנֶגְדִּי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-03 11:34:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-03 11:34:14' 
+			WHERE messageid=9048;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-12-23.html',
+		'<p>מאמרים נוספים על &quot;הדם הוא הנפש&quot;:</p><p>א. ד&quot;ר יצחק קניגסברג, אתר כיפה </p><p>https://www.kipa.co.il/%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%A4%D7%A8%D7%A9%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2/%D7%A4%D7%A8%D7%A9%D7%AA-%D7%95%D7%99%D7%A7%D7%A8%D7%90/%D7%90%D7%99%D7%A1%D7%95%D7%A8-%D7%90%D7%9B%D7%99%D7%9C%D7%AA-%D7%94%D7%93%D7%9D-%D7%9B%D7%99-%D7%94%D7%93%D7%9D-%D7%94%D7%95%D7%90-%D7%94%D7%A0%D7%A4%D7%A9/</p><p>ב. ד&quot;ר יאיר ברקאי, אוניברסיטת בר-אילן</p><p>https://www.biu.ac.il/JH/Parasha/acharey/bar.html</p><p>ג. איסור אכילת דם, ויקיפדיה:</p><p>https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%AA_%D7%93%D7%9D#cite_note-10</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-04 06:09:38'
+		)
+		;
+
