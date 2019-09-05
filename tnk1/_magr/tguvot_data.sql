@@ -2857,3 +2857,34 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/tora/dvrim/dm-12-23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-09-04 13:37:50'
+			WHERE parent='tnk1/messages/daian2_0.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/daian2_0.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2019-09-04 13:39:49'
+		WHERE parent='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2019-09-04 14:56:28'
+			WHERE parent='tnk1/kma/qjrim1/stn.html'
+			;
+

@@ -23428,3 +23428,29 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-04 13:37:50' 
+			WHERE messageid=9046;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>דיין שֵׁם -מורה לתורת אלהים </p><p>אני אקימך להיות איש אלהים</p><p>******* פנה אלי *******</p><p>DAIAN1@013.NET</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-04 13:39:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-04 14:56:28' 
+			WHERE messageid=9049;
+
