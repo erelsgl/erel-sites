@@ -360,3 +360,75 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-08-16 05:32:49' WHERE `bn` = 'ביאור:דברים יז16' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'ישעיהו מנבא שבעתיד כל רשויות השלטון יחזרו לה\'', `tarik_hosfa` = '2019-09-05 11:37:00' WHERE `bn` = 'ישעיהו ב לעומת דברים יז' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'סמכות אנושית לעומת סמכות א-להית במערכת המשפט' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: החוקים' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ד27' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 11 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'וציוונו להדליק נר של חנוכה' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ציור מלך נבחר ה\'' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'מלך\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת יב13' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 20, `tarik_hosfa` = '2019-09-05 11:59:52' WHERE `bn` = 'שאול המלך - עלייתו ונפילתו' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ז25' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות יג17' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על סוסים ואנשים' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי לא3' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 17 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כמה נשים היו לדוד?' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'המרכבה המלכותית', `tarik_hosfa` = '2019-09-05 12:04:57' WHERE `bn` = 'ביאור:דברים יז16' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 16 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הקבלה בין אחאב לשאול, דוד ושלמה' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לימוד תורה לעומת מצוות אחרות' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תורה משורש הנשמה' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+

@@ -23454,3 +23454,101 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-09-04 14:56:28' 
 			WHERE messageid=9049;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nwx_0.html',
+		'<p>אם משמעות המילה &quot;ניחוח&quot; היא כמו בימינו מילה נרדפת ל&quot;ריח&quot;,</p><p>אז מה משמעות הביטוי &quot;ריח ניחוח&quot; - &quot;ריח ריח&quot;? זו כפילות.</p><p>מכאן שהמילה &quot;ניחות&quot; אינה זהה ל&quot;ריח&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-05 10:50:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-05 10:52:16' 
+			WHERE messageid=9052;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nwx_0.html',
+		'<p>אם משמעות המילה &quot;ניחוח&quot; היא כמו בימינו מילה נרדפת ל&quot;ריח&quot;,</p><p>אז מה משמעות הביטוי &quot;ריח ניחוח&quot; - &quot;ריח ריח&quot;? זו כפילות.</p><p>מכאן שהמילה &quot;ניחות&quot; אינה זהה ל&quot;ריח&quot;.</p><p>כיוון ששורש המילה הוא &quot;נוח&quot;, הגיוני שמשמעותה דומה למילים אחרות מאותו שורש, כגון &quot;מנוחה&quot;, &quot;נחת&quot; וכו\'.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-05 10:52:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nwx_0.html',
+		'<p>המילה &quot;נִיחוֹחִין&quot; בארמית גם בהיפוך אותיות יוצא &quot;ניחוחין&quot; --------- כמילה &quot;שמש&quot; וכשם שמו של &quot;דוד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-05 12:41:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-05 16:32:00' 
+			WHERE messageid=9051;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xnf2_0.html',
+		'<p>לקש=430 נפש. שנאמר שבת וינפש.. וגם שנאמר וייצר ה אלהים את האדם עפר מן הארץ ויפח באפיו נשמת חיים ויהי לנפש חיה.. השלביות שאתה מציין במאמר יש לה רמז גם בספור הבריאה וגם בסיפור יציאת מצרים ועוד. וזה לדעתי גם פתרון החידה של שמשון. מה מתוק מדבש ומה עז מארי..  אלו הם הזרע המר והפרי המתוק.</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-09-05 17:40:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xnt.html',
+		'<p>ניתן לראות גם את קבורת עצמות יוסף בשכם כאקט מטאפורי של זריעה מחדש. הפרי הבשל נופל מן העץ אל הארץ, וזרעו נקבר באדמה ונובט מחדש. אותו עקרון גם בענן העולה מן הים ויורד חזרה כגשם אל הארץ. וכך גם בפרשת נח שנאמר כָּל יְמֵי הָאָרֶץ זֶרַע וְקָצִיר, וְקֹר וָחֹם, וְקַיִץ וָחֹרֶף, וְיוֹם וָלַיְלָה, לֹא יִשְׁבֹּתוּ</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-09-05 18:15:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0131_1.html',
+		'<p>תהלים צט6: &quot;מֹשֶׁה וְאַהֲרֹן בְּכֹהֲנָיו וּשְׁמוּאֵל בְּקֹרְאֵי שְׁמוֹ קֹרִאים אֶל יהוה וְהוּא יַעֲנֵם&quot; </p><p>בְּעַמּוּד עָנָן יְדַבֵּר אֲלֵיהֶם שָׁמְרוּ עֵדֹתָיו וְחֹק נָתַן לָמוֹ</p><p>כי יהוה יענה לך כאשר שומרים את עדות-יהוה וספר תורת-אלהים הוא העדות</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-06 05:49:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/mluka.html',
+		'<p>תגובה מאת משה כהן:   יכול להיות, שזה שלא כותבים למלך שום תפקידים, זה בגלל שבאמת אין לו תפקידים מוגדרים, אלא תפקידו לפקח על המערכת מלמעלה ולדאוג שהיא תפעל בהרמוניה, ולדאוג שאין שחיתויות ברשויות השלטוניות (דבר שהרשויות עצמן לא יכולות לעשות כמובן...).</p><p>בגלל שאין למלך תפקיד מוגדר, המעמד של המלך והכוח שלו יכולים מהר מאד להפוך אותו למושחת, ולכן התורה מאד מזהירה מפני זה. אולי בגלל זה גם החשש הגדול של שמואל מהמלך.</p><p>בגלל זה גם מינוי המלך תלוי ברצון העם. מלך לא יכול לדאוג לתפעול היעיל של המערכת השלטונית, אם המערכת השלטונית והעם לא רוצים אותו. זה שמינוי המלך מותנה בבקשת העם, זה לא אומר שמלך זה לא דבר אידיאלי, אלא שהוא אידיאלי רק אם העם רוצה אותו.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-06 07:32:14'
+		)
+		;
+
