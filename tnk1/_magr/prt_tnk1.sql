@@ -81,3 +81,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = '\'מקום המקדש מזה עידן ועדנים\' - שיר מאת אהובה קליין (c)', `tarik_hosfa` = '2019-09-01 05:32:11' WHERE `qod` = '\'מקום המקדש מזה עידן ועדנים\' - אהובה קליין' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2019-09-06 08:03:44' WHERE `qod` = 'ביאור:דברים יז18' AND 1 LIMIT 1;
+

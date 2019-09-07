@@ -432,3 +432,15 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תורה משורש הנשמה' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 18, `psuq1` = 18, `kotrt` = '- ברגע שהמלך עולה לשלטון ויושב על כסא המלכות , הוא חייב לכתוב לו משנה (עותק שני) של התורה הזאת על ספר , שאותו יעתיק מספר התורה הנמצא במקדש אצל הכהנים הלויים -', `sug` = 'תרגום', `tarik_hosfa` = '2019-09-06 08:05:10' WHERE `bn` = 'ביאור:דברים יז18' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: המדינה, שאלת הצדק' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת י5' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = 'כלל' AND 1 LIMIT 1;
+

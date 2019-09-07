@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-09-01 05:32:19
+# This file was automatically generated at 2019-09-06 12:39:58
 
 sub wikia_replace_links {
 $_=shift;
@@ -1200,6 +1200,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-19-17|[[ביאור:לא תשנא - הוכח תו
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-1516|[[ביאור:כל אחד הוא שופט|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-15|[[ביאור:בצדק תשפוט עמיתך - הפרטים|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-14|[[ביאור:אסור לסייע לאדם לעבור עבירה|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-19-10|[[ביאור:דיני פרט בכרם|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-09|[[ביאור:דיני פאה בשדה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-19-03|[[ביאור:איש אמו ואביו תיראו - הפוך בה והפוך בה דכולא בה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-18-25|[[ביאור:ותקיא הארץ את יושביה|ig;
@@ -1571,7 +1572,9 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-15-0911|[[ביאור:איך משכנעים אנ�
 s|${OPENLINK}tnk1/tora/dvrim/dm-15-08|[[ביאור:הלוואה לצורך מילוי מחסור|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-15-0102|[[ביאור:שמיטת חובות - הגדרה ומשמעות|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-15-01|[[ביאור:מה הקשר בין שמיטת קרקעות לשמיטת חובות?|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-14-29|[[ביאור:מעשר עני - לתת כדי להשביע|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-14-23|[[ביאור:מעשר שני - כדי שכל אחד ירגיש כמו לוי|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-12-23|[[ביאור:הדם הוא הנפש|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-0811|[[ביאור:משכן ה' הוא לא בית מטבחיים!|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-05|[[ביאור:לשכנו תדרשו|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-12-0405|[[ביאור:אל תבנו לה' בית כמו שעושים הגויים!|ig;
@@ -6798,6 +6801,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_nxj3_2|[[ביאור:מטות שהופכים
 s|${OPENLINK}tnk1/messages/ljon_jorj_nxj3_1_1|[[ביאור:ישי = נחש|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nxj3_1|[[ביאור:שמות הנחש במקרא|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nxj3_0|[[ביאור:בשן = ארגוב = חות יאיר = נחש|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_nwx_0|[[ביאור:תגובה על: נוח|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nwd1_0|[[ביאור:אין נחמה בשכול|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nsk_0|[[ביאור:נסיך = יועץ|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nsja_0_0|[[ביאור:ערף = מקום אחורי וגבוה|ig;
@@ -8118,6 +8122,8 @@ s|${OPENLINK}tnk1/messages/forums_118|[[ביאור:'ירושלים כתר זהב
 s|${OPENLINK}tnk1/messages/forums_117|[[ביאור:פרשת במדבר - משמעות סדר חניית עם ישראל|ig;
 s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
+s|${OPENLINK}tnk1/messages/forums_1143|[[ביאור:'המלך והתורה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1142|[[ביאור:פרשת שופטים - מדוע הצטווה המלך לשני ספרי תורה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1141|[[ביאור:'מקום המקדש מזה עידן ועדנים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1140|[[ביאור:פרשת ראה - מדוע לא הוזכר מקום המקדש באופן ברור?|ig;
 s|${OPENLINK}tnk1/messages/forums_114|[[ביאור:'חג האסיף' - שיר מאת אהובה קליין (c)|ig;
