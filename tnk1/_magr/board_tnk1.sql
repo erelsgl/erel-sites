@@ -27805,3 +27805,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-07 16:48:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-07 17:40:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-07 17:59:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-07 19:15:09'
+		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-08 04:06:37'
+		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/eqr.html',
+				'tnk1/nvir/yhojua/ya-11-06.html',
+				NULL,
+				'2019-09-08 05:52:31',
+				'2019-09-08 05:52:31',
+				'לעקור את הפרסות מסוסי המלחמה',
+				'אראל',
+				''
+			)
+		;
+
