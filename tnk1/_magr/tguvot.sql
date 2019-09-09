@@ -23638,3 +23638,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-11-06.html',
+		'<p>אֶת סוּסֵיהֶם תְּעַקֵּר --- ככתוב בספר [פשוטו כמשמעו]</p><p>ואמנם נכון שאסור לעקר בעלי חיים</p><p>אך אם יש נפש חיה אשר צילו של בעליה הרשע נופל עליה אז החיה הזאת פגומה ולא רצויה לאל</p><p>אמנם בעלי חיים ברא אותם אלהים אבל אם הבהמה נשלטת על ידי בעליה</p><p>כמו למשל שאם יש בהמה לאדם פלמוני והאדם הזה צדיק אז צילו נופל על בהמתו ובהמתו הטהורה מותרת לשחיטה</p><p>זאת הסיבה שהפרה האדומה היא פרה אדמה בטבע חופשית מאת אלהים ולא נשלטת על ידי בעלים כלשהו</p><p>אם הפרה נשלטת על ידי בעלים כלשהו אז הפרה לא ראויה לעשות ממנה מי חטאת</p><p>ואם הבהמה נשלטת על ידי בעלים גוים אז הבהמה לא מותרת לשחיטה כי משחתם בהם</p><p>או אם יש כלב לבחורה נחמדה אז צילה של הבחורה נופל על הכלב וזה יהיה כלב נחמד</p><p>ואם חלילה יש כלב לעבריין אז הכלב יהיה מסוכן וצריך לעקר אותו </p><p>והוא הדבר שצריך כן לעקר את הסוסים שלקחו חלק במלחמה נגד ישראל</p><p>כי צל אויבי ישראל על נפש הסוסים האלה על כן יש לעקר אותם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-08 11:06:18'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>כִּשְׁמֹעַ בְּקוֹל יְהוָה = עֲשֹׂה צְדָקָה וּמִשְׁפָּט = וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ = דָּן דִּין עָנִי וְאֶבְיוֹן אָז טוֹב... הֲלוֹא הִיא הַדַּעַת אֹתִי נְאֻם יהוה</p><p>דָּן דִּין עָנִי וְאֶבְיוֹן אָז טוֹב... הֲלוֹא הִיא הַדַּעַת אֹתִי נְאֻם יהוה = יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת</p><p>לכן בני אם ברצונך להבין דעת אלהים הייה כצדיק דָּן דִּין עָנִי וְאֶבְיוֹן כי  יֹדֵעַ צַדִּיק דִּין דַּלִּים </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-08 14:26:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>כִּשְׁמֹעַ בְּקוֹל יְהוָה = עֲשֹׂה צְדָקָה וּמִשְׁפָּט = וְעָשָׂה מִשְׁפָּט וּצְדָקָה אָז טוֹב לוֹ = דָּן דִּין עָנִי וְאֶבְיוֹן אָז טוֹב... הֲלוֹא הִיא הַדַּעַת אֹתִי נְאֻם יהוה</p><p>דָּן דִּין עָנִי וְאֶבְיוֹן אָז טוֹב... הֲלוֹא הִיא הַדַּעַת אֹתִי נְאֻם יהוה = יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת [משלי כט7:]</p><p>לכן בני אם ברצונך להבין דעת אלהים הייה כצדיק דָּן דִּין עָנִי וְאֶבְיוֹן כי יֹדֵעַ צַדִּיק דִּין דַּלִּים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-08 14:29:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-08 14:29:05' 
+			WHERE messageid=9066;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0131_1.html',
+		'<p>https://www.youtube.com/watch?v=oTLJjoW867g&amp;list=LLePtcSBFNqsZJz-J5_WNX3w&amp;index=4&amp;t=0s</p><p>Silence</p><p>דלריום</p><p>-------------------</p><p>תן לי</p><p>Give me</p><p>שחרור</p><p>Release</p><p>------- העד אותי ------- [כי זה מה שהאדם מחפש כי כדי לשוב לגן-עדן הוא זקוק לעדות יהוה - שמבטא בין היתר גם השיר הזה]</p><p>Witness me</p><p>אני</p><p>I am</p><p>בחוץ</p><p>Outside</p><p>תן לי שקט</p><p>Give me peace</p><p>בשמיים יש תחושה של פליאה</p><p>Heaven holds a sense of wonder</p><p>ורציתי להאמין</p><p>And I wanted to believe</p><p>שאדבקתי</p><p>That I\'d get caught up</p><p>כשהזעם בי שוכך</p><p>When the rage in me subsides</p><p>אני לא יכול</p><p>I can\'t</p><p>עזור לגעגוע הזה</p><p>Help this longing</p><p>נחם אותי</p><p>Comfort me</p><p>אני לא יכול</p><p>I can\'t</p><p>החזק את הכל</p><p>Hold it all in</p><p>אם לא תיתן לי</p><p>If you won\'t let me</p><p>בשמיים יש תחושה של פליאה</p><p>Heaven holds a sense of wonder</p><p>ורציתי להאמין</p><p>And I wanted to believe</p><p>שאדבקתי</p><p>That I\'d get caught up</p><p>כשהזעם בי שוכך</p><p>When the rage in me subsides</p><p>בגל הלבן הזה</p><p>In this white wave</p><p>אני שוקע</p><p>I am sinking</p><p>בשקט הזה</p><p>In this silence</p><p>בגל הלבן הזה</p><p>In this white wave</p><p>בשקט הזה</p><p>In this silence</p><p>אני</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-08 15:41:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0228_1.html',
+		'<p>זאת האבן שבחרתי</p><p>https://stoneage.co.il/Catalog.asp?Page=NewShowProd.asp&amp;PRodID=1543440</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-08 17:09:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p></p><p>משלי יב10: &quot;יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ וְרַחֲמֵי רְשָׁעִים אַכְזָרִי&quot; </p><p>משלי כט7: &quot;יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת&quot;  </p><p>יֹדֵעַ צַדִּיק דִּין דַּלִּים = יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ  </p><p>רָשָׁע לֹא יָבִין דָּעַת =  וְרַחֲמֵי רְשָׁעִים אַכְזָרִי</p><p>---</p><p>לכן אחי רחמו את נפש החיה ואל תהיו אכזרים</p><p>לכן אחי היו צדיקים להבין דעת ואל רשעים כי לא יבינו דעת</p><p>ואתם דעו כי נפש בהמתך = דִּין דַּלִּים</p><p>על כן אבקשך לעשות עמם חסד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-09 04:25:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>יתכן ולא תבינו את ההקשר למה כתבתי זאת פה</p><p>אבל אהבת נפש החיה זה חלק בלתי נפרד מהמשיח</p><p>משלי יב10: &quot;יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ וְרַחֲמֵי רְשָׁעִים אַכְזָרִי&quot;</p><p>משלי כט7: &quot;יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת&quot;</p><p>יֹדֵעַ צַדִּיק דִּין דַּלִּים = יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ</p><p>רָשָׁע לֹא יָבִין דָּעַת = וְרַחֲמֵי רְשָׁעִים אַכְזָרִי</p><p>---</p><p>לכן אחי רחמו את נפש החיה ואל תהיו אכזרים</p><p>לכן אחי היו צדיקים להבין דעת ואל רשעים כי לא יבינו דעת</p><p>ואתם דעו כי נפש בהמתך = דִּין דַּלִּים</p><p>על כן אבקשך לעשות עמם חסד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-09 05:21:51'
+		)
+		;
+
