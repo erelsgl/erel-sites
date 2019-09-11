@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-09-06 12:39:58
+# This file was automatically generated at 2019-09-11 05:46:45
 
 sub wikia_replace_links {
 $_=shift;
@@ -2620,6 +2620,7 @@ s|${OPENLINK}tnk1/nvir/yhojua/ya-18-0203|[[ביאור:השבטים אשר לא �
 s|${OPENLINK}tnk1/nvir/yhojua/ya-17-15|[[ביאור:אץ לך הר אפרים|ig;
 s|${OPENLINK}tnk1/nvir/yhojua/ya-17|[[ביאור:נחלת בני יוסף|ig;
 s|${OPENLINK}tnk1/nvir/yhojua/ya-11-17|[[ביאור:ההר החלק העולה שעיר|ig;
+s|${OPENLINK}tnk1/nvir/yhojua/ya-11-06|[[ביאור:לעקור את הפרסות מסוסי המלחמה|ig;
 s|${OPENLINK}tnk1/nvir/yhojua/ya-10-21|[[ביאור:לא חרץ לבני ישראל לאיש את לשונו|ig;
 s|${OPENLINK}tnk1/nvir/yhojua/ya-10-14|[[ביאור:מדוע שמע ה' בקול יהושע|ig;
 s|${OPENLINK}tnk1/nvir/yhojua/ya-10-12.jpg|[[ביאור:יע י 12|ig;
@@ -2965,6 +2966,7 @@ s|${OPENLINK}tnk1/nvir/jmuela/jaul_dwd_mlxmot|[[ביאור:שאול מתיש ו�
 s|${OPENLINK}tnk1/nvir/jmuela/jaul_bzq|[[ביאור:שאול המלך - עלייתו ונפילתו|ig;
 s|${OPENLINK}tnk1/nvir/jmuela/jaul_bnnun|[[ביאור:שאול לא היה הומניסט|ig;
 s|${OPENLINK}tnk1/nvir/jmuela/ja=-22-0608|[[ביאור:גם לכולכם ייתן בן ישי שדות וכרמים|ig;
+s|${OPENLINK}tnk1/nvir/jmuela/ja-30-25|[[ביאור:חוק חלוקת השלל של דוד המלך|ig;
 s|${OPENLINK}tnk1/nvir/jmuela/ja-25-26|[[ביאור:אביגיל משכנעת את דוד שיהיה עקבי|ig;
 s|${OPENLINK}tnk1/nvir/jmuela/ja-24-13|[[ביאור:משל הקדמוני|ig;
 s|${OPENLINK}tnk1/nvir/jmuela/ja-24-10|[[ביאור:הצניעות של שאול הצילה אותו|ig;
@@ -3479,6 +3481,7 @@ s|${OPENLINK}tnk1/nvia/tryasr/ho-10-10|[[ביאור:כשאחדות ישראל מ
 s|${OPENLINK}tnk1/nvia/tryasr/ho-10-09|[[ביאור:נגד אחדות עם בני עוולה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ho-10-07|[[ביאור:מלך על פני המים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ho-10-0207|[[ביאור:הקרב על עגל הזהב ב|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/ho-08-04|[[ביאור:הם המליכו ולא ממני|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ho-08-0306|[[ביאור:הקרב על עגל הזהב א|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ho-07-0102|[[ביאור:כרפאי - ונגלה עוון|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ho-07|[[ביאור:משל התנור והעוגה|ig;

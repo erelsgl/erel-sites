@@ -23772,3 +23772,94 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ho-08-04.html',
+		'<p>אמת כתבת</p><p>כעת הגד לכל אנשי הימין ההזוים אלה מעם-הארץ שמבקשים מלך</p><p>כי לא יוכלו להמליך מלך בטרם קם הנביא כי הוא אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ</p><p>ונכון הדבר גם בעניין כהן גדול כי הוא המלך לממלכת כהנים וגוי קדוש</p><p>וכי אהרן הלוי לא נמשח לכהן עד אשר משה איש האלהים קם ומשח אותו בשמן הקודש</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-10 11:39:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-17.html',
+		'<p>אחלה</p>',
+		'113497362787579047315',
+		'THE BAHBAH',
+		'2019-09-10 19:41:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-17.html',
+		'<p></p>',
+		'113497362787579047315',
+		'THE BAHBAH',
+		'2019-09-10 19:41:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-17.html',
+		'<p>ענקקקק</p><p></p>',
+		'113497362787579047315',
+		'THE BAHBAH',
+		'2019-09-10 19:41:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-30-25.html',
+		'<p>http://tora.us.fm/tnk1/messages/prqim_t0431_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-11 04:52:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0431_0.html',
+		'<p>יפה. אבל אם כך, מדוע נאמר &quot; ויהי מהיום ההוא ומעלה וישמה לחק ולמשפט לישראל עד היום הזה&quot; - </p><p>לכאורה נראה מהפסוק שזה חוק חדש, שלא היה קיים קודם לכן!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-11 05:45:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/bxirot.html',
+		'<p>הצעה חדשה - לבחור בהגרלה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-11 06:37:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-11 06:37:20' 
+			WHERE messageid=9081;
+
