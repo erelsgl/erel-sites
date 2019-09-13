@@ -28310,3 +28310,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-09-12 06:00:36'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-12 13:34:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1145.html',
+				NULL,
+				'2019-09-12 21:01:37',
+				'2019-09-12 21:01:37',
+				' מסירות נפש/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-09-12 21:01:37'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-13 06:59:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2614_0.html'
+		;
+
