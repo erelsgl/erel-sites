@@ -378,7 +378,9 @@ qjr_psuq_hgdra	prq0	InputType	short_text
 qjr_psuq_hgdra	psuq1	InputType	short_text
 qjr_psuq_hgdra	sfr	InputType	short_text
 qjr_psuq_tnk1		Setup Done	1
+qjr_psuq_tnk1	bn	Attributes	size='30' dir='rtl'
 qjr_psuq_tnk1	bn	InputType	short_text
+qjr_psuq_tnk1	kotrt	Attributes	size='30' dir='rtl'
 qjr_psuq_tnk1	kotrt	InputType	short_text
 qjr_psuq_tnk1	prq0	Attributes	size='2'
 qjr_psuq_tnk1	prq0	InputType	short_text

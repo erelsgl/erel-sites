@@ -444,3 +444,79 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת י5' AND `sfr` = 'דבר' AND `prq0` = 'יז' AND `psuq0` = 18 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:דברים כא14', 'דבר', 'כא', 14, 14, 'זכויות השבויה', 'תרגומים', 10, '2019-09-13 10:14:46');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 18, `psuq1` = 18, `tarik_hosfa` = '2019-09-13 10:17:49' WHERE `bn` = 'בן סורר ומורה - גישות שונות בדברי חז\"ל' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 18, `psuq1` = 18, `tarik_hosfa` = '2019-09-13 10:17:49' WHERE `bn` = 'בן סורר ומורה - ניתוח המקורות והיבטים פסיכולוגיים' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 10, `psuq1` = 10, `tarik_hosfa` = '2019-09-13 10:17:49' WHERE `bn` = 'כי תצא - מלחמה משולבת כנגד יצר הרע' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 10, `psuq1` = 10, `tarik_hosfa` = '2019-09-13 10:17:49' WHERE `bn` = 'פרשת כי תצא: חמלה ושוויון בני אדם ' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'גם על פרה אדומה נאמר שהיא צריכה להיות פרה שלא עלה עליה עול', `tarik_hosfa` = '2019-09-13 10:20:31' WHERE `bn` = 'ביאור:במדבר יט2' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:דברים יז18' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בחירת המצוות בפרשת כי תצא וסידורן' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חמלה ושוויון בני אדם' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'כי תצא\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'יציאה למלחמה\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ציור יציאה למלחמה' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא: חמלה ושוויון בני אדם ' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'יש ויצא אדם\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כי תצא - מלחמה משולבת כנגד יצר הרע' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - האם הניצחון מובטח בכל מצב?' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - מלחמה באויבים וביצר הרע' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - מסרים נפלאים בפרשה - כיצד' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - ממלחמה לגאולה, הכיצד?' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
