@@ -28422,3 +28422,82 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-14 17:32:38'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/aviv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-14 17:42:02'
+		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-14 18:21:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-14 18:40:27'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/zug/yeqb_lah_rxl.html',
+				'tnk1/tora/dvrim/dm-21-15.html',
+				NULL,
+				'2019-09-15 06:04:46',
+				'2019-09-15 06:04:46',
+				'האם יעקב עבר על המצוה שלא להעביר את הבכורה?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-09-15 06:04:46'
+			WHERE ktovt_bn='tnk1/dmut/zug/yeqb_lah_rxl.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-15 06:56:09'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-21-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-15 07:09:56'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-21-15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-15 07:16:31'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-24-0304.html'
+		;
+
