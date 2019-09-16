@@ -24183,3 +24183,118 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-24-0304.html',
+		'<p>מִי יַעֲלֶה בְהַר יְהֹוָה וּמִי יָקוּם בִּמְקוֹם קָדְשׁוֹ</p><p>תהלים טו1: &quot;מִזְמוֹר לְדָוִד יהוה מִי יָגוּר בְּאָהֳלֶךָ מִי יִשְׁכֹּן ***בְּהַר קָדְשֶׁךָ***&quot;</p><p>תהלים טו2: &quot;הוֹלֵךְ תָּמִים וּפֹעֵל צֶדֶק וְדֹבֵר אֱמֶת בִּלְבָבוֹ&quot;</p><p>תהלים טו3: &quot;לֹא רָגַל עַל לְשֹׁנוֹ לֹא עָשָׂה לְרֵעֵהוּ רָעָה וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ&quot;</p><p>תהלים טו4: &quot;נִבְזֶה בְּעֵינָיו נִמְאָס וְאֶת יִרְאֵי יהוה יְכַבֵּד נִשְׁבַּע לְהָרַע וְלֹא יָמִר&quot;</p><p>תהלים טו5: &quot;כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ וְשֹׁחַד עַל נָקִי לֹא לָקָח עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 10:18:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.hidabroot.org/article/1128942</p><p>זו היא מורשת מרן לבניו אשר קראתם לו גדול הדור</p><p>לא פלא הוא שכאשר פסיכים כאלה מכהנים כרבנים ראשים</p><p>אז חילול השבת גדול במאד מאד והקודש למרמס בכל המדינה</p><p>ולא רק זאת כי הרשעים האלה אשר מורשת שוא להם</p><p>שמו את כל ישראל ללעג בעיני כל הגוים</p><p>ותחת אשר יאמרו רַק עַם חָכָם וְנָבוֹן הַגּוֹי הַגָּדוֹל הַזֶּה</p><p>הנה כל הגוים בצדק  יאמרו רק עם טיפש כסיל וחסר-דעת הגוי האהבל הזה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 10:59:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-21-15.html',
+		'<p>רחל לקחה מאחותה לאה את דודאי בנה ראובן הבכור </p><p>והעבירה את ריח דודאי הבכור ליוסף ומאז הבכורה ליוסף</p><p>כי ...................ראשית הברכה על פי ריח בגדיך [ריח גופך]</p><p>http://tora.us.fm/tnk1/messages/prqim_t0127_3.html</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 11:56:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>רחל לקחה מאחותה לאה את דודאי בנה ראובן הבכור</p><p>והעבירה את ריח דודאי הבכור ליוסף ומאז הבכורה ליוסף</p><p>כי ...................ראשית הברכה על פי ריח בגדיך [ריח גופך]</p><p>https://www.youtube.com/watch?v=rFfI4JxzJIg</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 12:14:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p>https://www.inn.co.il/News/News.aspx/349599?fbclid=IwAR3KjPV8J385yOAGvH8_30Vm9oSp6vA2IgLpoSuxCFEATf42f3wxtNJVIYk</p><p>---</p><p>זאת כתבה של ערוץ שבע בן-בכרי הוא השופר של הימין הפוליטי והציונות הדתית </p><p>&quot;בעניין הפגנת הנכים&quot; כותב הכתב בכתבה &quot;העלאת קצבאות הנכות מנוגדת להלכה&quot;</p><p>---</p><p>לכן...</p><p>לכן יש להשמיד את רבני סדום וכל הלכותיהם </p><p>כי ההלכה של רבני סדום מנוגדת למשפט חסד ורחמים</p><p>ואסור ללכת לבחירות האלה להצביע כי כולם רשעים</p><p>גם ימינה וגם שמאלה כולם כבהמות נדמו</p><p>אָדָם אֲשֶׁר לֹא יָדַע בֵּין יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה</p><p>מדינת ישראל חרבה רוחנית ועתה מחכה לחורבן הגדול </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 13:35:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p>https://www.inn.co.il/News/News.aspx/349599?fbclid=IwAR3KjPV8J385yOAGvH8_30Vm9oSp6vA2IgLpoSuxCFEATf42f3wxtNJVIYk</p><p>---</p><p>זאת כתבה של ערוץ שבע בן-בכרי הוא השופר של הימין הפוליטי והציונות הדתית</p><p>&quot;בעניין הפגנת הנכים&quot; כותב הכתב בכתבה &quot;העלאת קצבאות הנכות מנוגדת להלכה&quot; </p><p>כי ההלכה של רבני סדום מנוגדת למשפט חסד ורחמים</p><p>ואסור ללכת לבחירות האלה להצביע כי כולם רשעים</p><p>גם ימינה וגם שמאלה כולם כבהמות נדמו</p><p>אָדָם אֲשֶׁר לֹא יָדַע בֵּין יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 16:01:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-15 16:01:03' 
+			WHERE messageid=9108;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>ספר זכריה פרק ז כתוב:</p><p>(ג) לֵאמֹר אֶל הַכֹּהֲנִים אֲשֶׁר לְבֵית יְהוָה צְבָאוֹת וְאֶל הַנְּבִיאִים לֵאמֹר הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי זֶה כַּמֶּה שָׁנִים</p><p>הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי = לאמור כי הנזיר בוכה</p><p>---------------------------------------------------------------------------------------------------------</p><p>הסיבה שהנזיר בוכה כי הוא נותן את זרעו=הונו=דעתו לאלהים וככה הנזיר שופך נפשו לאלהים</p><p> </p><p>שמות כב28: &quot;מְלֵאָתְךָ וְדִמְעֲךָ לֹא תְאַחֵר בְּכוֹר בָּנֶיךָ תִּתֶּן לִּי&quot;</p><p>והנזיר נותן בדמעתו את בכורו לאלהים כי הנזיר מתנזר מתענוגות בשרים</p><p>ולא בא על אשה לתת בה את זרעו ולא מושך בשרו ביין לשמח לבבו</p><p>כי שמחת הנזיר הקדוש מאת יהוה לבדו ומתירוש -אלהים אשר לא יחדל</p><p>זאת היא: &quot;שִׂמְחָה לַצַּדִּיק עֲשׂוֹת מִשְׁפָּט וּמְחִתָּה לְפֹעֲלֵי אָוֶן&quot; ככתוב בספר משלי כא15</p><p>כשהנזיר בוכה מאהבה לאלהים הוא זורע בדמעה וקוצר ברינה</p><p>תהלים קכו5: &quot;הַזֹּרְעִים בְּדִמְעָה בְּרִנָּה יִקְצֹרוּ&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-15 18:35:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p>הוא התכוון לומר, שצריך לעזור לעניים ולא דווקא לנכים. לדוגמה, אם יש שני אנשים, אחד נכה עשיר ואחד עני שאינו נכה, אז (לפי דעתו) צריך לעזור לעני שאינו נכה, ולא לתת קיצבה לנכה העשיר.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-16 06:15:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>מתחננת כל מי שיכול שיזכיר בתפילות את אימי היקרה</p><p>מנוחה בת רינה מרים</p><p>שתבריא ותאריך ימים!</p>',
+		'113545838101366139611',
+		'1991limor',
+		'2019-09-16 06:54:34'
+		)
+		;
+
