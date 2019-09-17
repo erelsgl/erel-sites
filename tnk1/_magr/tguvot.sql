@@ -24298,3 +24298,246 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p>ציטוט של כותב הכתבה</p><p>אשר על כן, ברור כי קצבאות הנכים, נכון להיום, עומדות בדרישת ההלכה ואף יותר מכך ולפיכך אין להגדילן,[סוף ציטוט]</p><p> לדבריו קצבאות הנכים עומדות בדרישת ההלכה ואף יותר מכך --- לאמור כי מבחינתו צריך להקטין את קצבאות הנכים</p><p>מה זה אם לא רשע</p><p> בעת תאריך הכתבה קצבת הנכות עמדה על 2300 ש&quot;ח וכיום בערך 3000 ש&quot;ח [זה רחוק מאד משכר מינימום ולא ניתן לחיות מזה]</p><p>רק שכר דירה לנכה לפחות 5000 ש&quot;ח ובעוד בטרם דיברנו על הוצאות וחשבונות שייש לשלם </p><p>לאמור כי מרבית הנכים הצעירים לא יכולים לצאת מהבית גרים בבית ההורים והכל נופל עליהם</p><p>והנכים היתומים זרקה המדינה בהוסטלים סוג ז\' עם ריח צחנה חריף של שתן וסירחון בכל ההוסטל</p><p> </p><p>https://www.ynet.co.il/articles/0,7340,L-5428510,00.html</p><p>https://www.mako.co.il/news-military/politics-q4_2018/Article-8a1fa95e686c761004.htm</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 11:07:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p>ציטוט של כותב הכתבה</p><p>אשר על כן, ברור כי קצבאות הנכים, נכון להיום, עומדות בדרישת ההלכה ואף יותר מכך ולפיכך אין להגדילן,[סוף ציטוט]</p><p>לדבריו קצבאות הנכים עומדות בדרישת ההלכה ואף יותר מכך --- לאמור כי מבחינתו צריך להקטין את קצבאות הנכים</p><p>מה זה אם לא רשע</p><p>בעת תאריך הכתבה קצבת הנכות עמדה על 2300 ש&quot;ח וכיום בערך 3000 ש&quot;ח [זה רחוק מאד משכר מינימום ולא ניתן לחיות מזה]</p><p>רק שכר דירה לנכה לפחות 5000 ש&quot;ח ובעוד בטרם דיברנו על הוצאות וחשבונות שייש לשלם</p><p>לאמור כי מרבית הנכים הצעירים לא יכולים לצאת מהבית גרים בבית ההורים והכל נופל עליהם</p><p>והנכים היתומים זרקה המדינה בהוסטלים סוג ז\' עם ריח צחנה חריף של שתן וסירחון בכל ההוסטל</p><p>https://www.ynet.co.il/articles/0,7340,L-5428510,00.html</p><p>https://www.mako.co.il/news-military/politics-q4_2018/Article-8a1fa95e686c761004.htm</p><p>עד לפני כמה שנים ההוסטלים היו בחסות משרדי הממשלה כמו משרד הבריאות ומשרד הרווחה</p><p>אך בגלל שחיתות הייתה הפרטה והמדינה מכרה והעבירה את ההוסטלים לניהול אנשים מפוקפקים</p><p>כמו אנשי מרכז המפלגה המקורבים אלה אשר נקראו &quot;אנשי שלומנו&quot; ומחשבתם רק על רווח כספי</p><p>וללא חמלה רחמים והתחשבות באנשים נכים ופגועים והתוצאה היא סבל רב והפרת זכויות אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 11:32:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-16 11:33:18' 
+			WHERE messageid=9113;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_6.html',
+		'<p>ספר שמות פרק ל כתוב:</p><p>יא וַיְדַבֵּר יְהוָה אֶל-מֹשֶׁה לֵּאמֹר.  </p><p>יב כִּי תִשָּׂא אֶת-רֹאשׁ בְּנֵי-יִשְׂרָאֵל לִפְקֻדֵיהֶם וְנָתְנוּ אִישׁ כֹּפֶר נַפְשׁוֹ לַיהוָה בִּפְקֹד אֹתָם וְלֹא-יִהְיֶה בָהֶם נֶגֶף בִּפְקֹד אֹתָם. </p><p>יג זֶה יִתְּנוּ כָּל-הָעֹבֵר עַל-הַפְּקֻדִים מַחֲצִית הַשֶּׁקֶל בְּשֶׁקֶל הַקֹּדֶשׁ  עֶשְׂרִים גֵּרָה הַשֶּׁקֶל מַחֲצִית הַשֶּׁקֶל תְּרוּמָה לַיהוָה.  </p><p>יד כֹּל, הָעֹבֵר עַל-הַפְּקֻדִים מִבֶּן עֶשְׂרִים שָׁנָה וָמָעְלָה יִתֵּן תְּרוּמַת יְהוָה  </p><p>טו הֶעָשִׁיר לֹא-יַרְבֶּה וְהַדַּל לֹא יַמְעִיט מִמַּחֲצִית הַשָּׁקֶל לָתֵת אֶת-תְּרוּמַת יְהוָה לְכַפֵּר עַל-נַפְשֹׁתֵיכֶם.  </p><p>טז וְלָקַחְתָּ אֶת-כֶּסֶף הַכִּפֻּרִים מֵאֵת בְּנֵי יִשְׂרָאֵל וְנָתַתָּ אֹתוֹ עַל-עֲבֹדַת אֹהֶל מוֹעֵד וְהָיָה לִבְנֵי יִשְׂרָאֵל לְזִכָּרוֹן לִפְנֵי יְהוָה לְכַפֵּר עַל-נַפְשֹׁתֵיכֶם.</p><p>-----------------------------------------------------------------------------------------------------------------------------------------------------</p><p>אחי  בני ישראל</p><p>אנכי דיין שֵׁם איש תורת יהוה אלהים</p><p>ואתם אם בקשתם להנצל ממגפה </p><p>מי שרוצה לכפר על נפשו יתן כֹּפֶר נַפְשׁוֹ לַיהוָה</p><p>מַחֲצִית הַשֶּׁקֶל בְּשֶׁקֶל הַקֹּדֶשׁ= שווה ערך 600 ש&quot;ח </p><p>[ולמען האמינות שלחו הכסף למנהל אתר הניווט בתנך </p><p>הלא הוא אראל סגל הלוי והוא יעביר לי הכסף] </p><p>ובעזרת השם יהיה לכם חלק ממעשי כי אנכי עבד-יהוה</p><p>ויהיה לכם חֵלֶק וּצְדָקָה וְזִכָּרוֹן בִּירוּשָׁלָים ולא תנגפו לפני יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 14:14:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>364 ימים בשנה ומהם 70 ימים לאכול בשר מן הבהמות הטהורות</p><p>בשר צאן ובקר לאמור מִן הַבְּהֵמָה אֲשֶׁר יַקְרִיב מִמֶּנָּה אִשֶּׁה ליהוה</p><p>ואלה 70 הימים</p><p> 7 מועדים בשנה</p><p>52 שבתות בשנה</p><p>12 חודשים בשנה</p><p>---------------------</p><p>71-1=70 כי יום זכרון תרועה נופל בראש החודש השביעי</p><p>**הכל 70 ימים בשנה ** </p><p>לאכול  מִן הַבְּהֵמָה אֲשֶׁר יַקְרִיב מִמֶּנָּה אִשֶּׁה ליהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 16:50:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>364 ימים בשנה ומהם 70 ימים להקריב בשר מן הבהמות הטהורות</p><p>בשר צאן ובקר לאמור מִן הַבְּהֵמָה אֲשֶׁר יַקְרִיב מִמֶּנָּה אִשֶּׁה ליהוה</p><p>ואלה 70 הימים</p><p>7 מועדים בשנה</p><p>52 שבתות בשנה</p><p>12 חודשים בשנה</p><p>---------------------</p><p>71-1=70 כי יום זכרון תרועה נופל בראש החודש השביעי</p><p>**הכל 70 ימים בשנה **</p><p>להקריב מִן הַבְּהֵמָה אֲשֶׁר יַקְרִיב מִמֶּנָּה אִשֶּׁה ליהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 16:56:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-16 16:56:20' 
+			WHERE messageid=9116;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>אחי בני ישראל</p><p>אם שומעים אתם בקולי ועשיתי לכם מִשְׁכַּן הָעֵדוּת</p><p>אך לא אוכל להקים לכם משכן בטרם הקמתי לכם</p><p>בית ספר לִנְבִיאִים ולִנְזִרִים למַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ</p><p>שמות יט6: &quot;וְאַתֶּם תִּהְיוּ לִי מַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ אֵלֶּה הַדְּבָרִים אֲשֶׁר תְּדַבֵּר אֶל בְּנֵי יִשְׂרָאֵל&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-16 17:35:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-23-19.html',
+		'<p>http://www.daat.ac.il/daat/tanach/samet/d7-2.htm</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-16 23:25:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-16 23:25:34' 
+			WHERE messageid=9119;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/seor_wdvj-qormn.html',
+		'<p>פירוש יפה, אמנם בפסוק הבא נאמר שדווקא בקרבן ביכורים מותר להקריב שאור ודבש, ויקרא ב12: &quot;קָרְבַּן רֵאשִׁית תַּקְרִיבוּ אֹתָם לה\', וְאֶל הַמִּזְבֵּחַ לֹא יַעֲלוּ לְרֵיחַ נִיחֹחַ&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-17 00:57:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הממזר הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 05:27:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 05:28:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 05:28:50' 
+			WHERE messageid=9121;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>הרבנים הערמומים האלה נוכלים ברמה גבוהה ומשדרים לכם מסרים תת-הכרתיים</p><p>ואני מסגיר את הרב נים הנוכלים האלה כדי כשידעו כי מעשיהם לא בתם-לב</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 06:39:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 06:39:13' 
+			WHERE messageid=9122;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>	</p><p>2019-09-17 16:39:10</p><p>DAIAN SHEM	</p><p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>הרבנים הערמומים האלה נוכלים ברמה גבוהה ומשדרים לכם מסרים תת-הכרתיים</p><p>ואני מסגיר את הרבנים הנוכלים האלה כדי כשידעו כי מעשיהם לא בתם-לב</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 06:40:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 06:40:51' 
+			WHERE messageid=9123;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p><p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>הרבנים הערמומים האלה נוכלים ברמה גבוהה ומשדרים לכם מסרים תת-הכרתיים</p><p>ואני מסגיר את הרבנים הנוכלים האלה כדי כשידעו כי מעשיהם לא בתם-לב</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p><p>ואתם בני ישראל אם אתם בלי-דעת לא תוכלו להבין זאת עד אשר תשובו ליהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 07:19:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 07:19:07' 
+			WHERE messageid=9124;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>	</p><p>2019-09-17 17:19:03</p><p>DAIAN SHEM	</p><p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>הרבנים הערמומים האלה נוכלים ברמה גבוהה ומשדרים לכם מסרים תת-הכרתיים</p><p>ואני מסגיר את הרבנים הנוכלים האלה כדי כשידעו כי מעשיהם לא בתם-לב</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p><p>ואתם בני ישראל אם אתם בלי-דעת לא תוכלו להבין זאת עד אשר תשובו באמת ליהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 07:21:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 07:21:47' 
+			WHERE messageid=9126;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 07:21:49' 
+			WHERE messageid=9125;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p><p>https://www.facebook.com/HaRavZamirCohen/videos/372870527000450/</p><p>הרבנים הערמומים האלה נוכלים ברמה גבוהה ומשדרים לכם מסרים תת-הכרתיים</p><p>ואני מסגיר את הרבנים הנוכלים האלה כדי כשידעו כי מעשיהם לא בתם-לב</p><p>בני ישראל אל תתרשמו לשוא מדבריו הבינו לעומק מה מסתתר מאחורי הדברים של הרב זמרי</p><p>כי כל המטרה של הרב הערמומי הזה להציג את עצמו כגדול הדור כדי שאתם תחשבוהו לצדיק</p><p>ואם אמר לכם מצווה ללכת לבחירות ואני דיין אומר לכם ההיפך החרימו את הבחירות כי כולם רשעים</p><p>ואתם בני ישראל אם אתם בלי-דעת לא תוכלו להבין זאת עד אשר תשובו באמת ליהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 07:21:54'
+		)
+		;
+

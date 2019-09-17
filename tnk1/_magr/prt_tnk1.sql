@@ -85,3 +85,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2019-09-06 08:03:44' WHERE `qod` = 'ביאור:דברים יז18' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `m` = 'אראל', `l` = '', `tarik_hosfa` = '2019-09-17 01:01:59' WHERE `qod` = 'ביאור:שמות  לד26' AND 1 LIMIT 1;
+

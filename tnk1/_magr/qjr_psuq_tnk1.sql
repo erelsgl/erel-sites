@@ -520,3 +520,39 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תצא - ממלחמה לגאולה, הכיצד?' AND `sfr` = 'דבר' AND `prq0` = 'כא' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג9' AND `sfr` = 'שמת' AND `prq0` = 'כג' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חטאו של קין' AND `sfr` = 'שמת' AND `prq0` = 'כג' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות  לד26' AND `sfr` = 'שמת' AND `prq0` = 'כג' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - הבאת ביכורים - מה המטרה?' AND `sfr` = 'שמת' AND `prq0` = 'כג' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית ד5' AND `sfr` = 'שמת' AND `prq0` = 'כג' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ג9' AND `sfr` = 'שמת' AND `prq0` = 'לד' AND `psuq0` = 26 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'גדי בחלב אמו - סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-09-17 01:01:30' WHERE `bn` = 'ביאור:שמות  לד26' AND `sfr` = 'שמת' AND `prq0` = 'לד' AND `psuq0` = 26 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - הבאת ביכורים - מה המטרה?' AND `sfr` = 'שמת' AND `prq0` = 'לד' AND `psuq0` = 26 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ויקרא ב11' AND `sfr` = 'שמת' AND `prq0` = 'לד' AND `psuq0` = 26 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
