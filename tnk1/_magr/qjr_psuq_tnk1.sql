@@ -556,3 +556,59 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ויקרא ב11' AND `sfr` = 'שמת' AND `prq0` = 'לד' AND `psuq0` = 26 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 18, `psuq1` = 19, `tarik_hosfa` = '2019-09-17 11:31:44' WHERE `bn` = 'האמנם כל בני עם סגולה הם בעלי סגולה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 1, `psuq1` = 1, `tarik_hosfa` = '2019-09-17 11:31:44' WHERE `bn` = 'לבוא זה לא כמו ללכת' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'להניח ברכה אל ביתך' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - הבאת ביכורים - מה המטרה?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 3, `kotrt` = 'הכהן הוא חוליה מקשרת בין הפרט לה\'', `tarik_hosfa` = '2019-09-17 11:41:36' WHERE `bn` = 'סמכות אנושית לעומת סמכות א-להית במערכת המשפט' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'הגדה לעומת אמירה, שאלה לעומת קושיה', `tarik_hosfa` = '2019-09-17 11:41:36' WHERE `bn` = 'רעיון לליל הסדר מהגדת נחמה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'ארמי אובד אבי - לבן רצה לגרום להתבוללות', `tarik_hosfa` = '2019-09-17 11:41:36' WHERE `bn` = 'ביאור:דברים כו5' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 5 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 13, `tarik_hosfa` = '2019-09-17 11:49:47' WHERE `bn` = 'זכרון וזכירות בספר דברים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 111, `tarik_hosfa` = '2019-09-17 11:49:47' WHERE `bn` = 'מעשרות בספרי ויקרא, במדבר ודברים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 12 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 1, `psuq1` = 1, `tarik_hosfa` = '2019-09-17 11:49:47' WHERE `bn` = 'פרשת כי תבוא - מהו הסוד בהבאת ביכורים?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'חשיבות ההקשבה בשיעורי תורה', `tarik_hosfa` = '2019-09-17 11:49:47' WHERE `bn` = 'חשיבות ההקשבה בשיעורים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq1` = 18, `tarik_hosfa` = '2019-09-17 11:49:47' WHERE `bn` = 'האמנם כל בני עם סגולה הם בעלי סגולה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+

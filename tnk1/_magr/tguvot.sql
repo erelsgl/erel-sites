@@ -24541,3 +24541,89 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>גם אם אתה לא מסכים איתו, בטח תסכים איתה: https://www.hidabroot.org/article/1129307</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-17 11:18:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p> לא מסכים בכלל ! מדובר בדמגוגיה והפחדת שוא כי הם דואגים אך ורק ליוקרתם בעיני הציבור שיתבטא בתקציב לאחר הבחירות</p><p>ראה כי אני לא מהרבנים ולא אורתודוכסי ולא הולך לבית כנסת ולא טובל מקוה [יש מקלחת] ומסתדר יפה מאד בלי שרותי הדת האלה</p><p>והנה אלהים נתן בידי לכתוב את כל התורה הזאת ואתה עד כמנהל אתר הניווט בתנ&quot;ך </p><p>http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם ---------  דרך הקודש       </p><p>  DAIAN SHEM --- יוֹעֵץ דֶרֶךְ הַקֹּדֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 12:05:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p> לא מסכים בכלל ! מדובר בדמגוגיה והפחדת שוא כי הם דואגים אך ורק ליוקרתם בעיני הציבור שיתבטא בתקציב לאחר הבחירות</p><p> אני דיין אני השופט על פי התורה והרבנים לא שומעים בקולי ורק גוזלים את תרומותי ומעשרותי לכן כרתי גט כריתות למדינה ולרבנים</p><p>ראה כי אני לא מהרבנים ולא אורתודוכסי ולא הולך לבית כנסת ולא טובל מקוה [יש מקלחת] ומסתדר יפה מאד בלי שרותי הדת האלה</p><p>והנה אלהים נתן בידי לכתוב את כל התורה הזאת ואתה עד כמנהל אתר הניווט בתנ&quot;ך</p><p>http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם ---------  דרך הקודש       </p><p>  DAIAN SHEM --- יוֹעֵץ דֶרֶךְ הַקֹּדֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 12:42:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 12:43:12' 
+			WHERE messageid=9129;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>לא מסכים בכלל ! מדובר בדמגוגיה והפחדת שוא כי הם דואגים אך ורק ליוקרתם בעיני הציבור שיתבטא בתקציב לאחר הבחירות</p><p>אני דיין אני השופט על פי התורה והרבנים לא שומעים בקולי ורק גוזלים את תרומותי ומעשרותי לכן כרתי גט כריתות למדינה ולרבנים</p><p>אני דיין אני השופט על פי התורה ואם הרבנים לא בוחרים בי גם אני לא אבחר בהם וילך כל איש לדרכו ואני אלך לדרכי מאת יהוה</p><p>ראה כי אני לא מהרבנים ולא אורתודוכסי ולא הולך לבית כנסת ולא טובל מקוה [יש מקלחת] ומסתדר יפה מאד בלי שרותי הדת האלה</p><p>והנה אלהים נתן בידי לכתוב את כל התורה הזאת ואתה עד כמנהל אתר הניווט בתנ&quot;ך</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם --------- דרך הקודש</p><p>DAIAN SHEM --- יוֹעֵץ דֶרֶךְ הַקֹּדֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 13:14:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-17 13:14:44' 
+			WHERE messageid=9130;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>תהלים קמז19-20: </p><p>מַגִּיד דברו[דְּבָרָיו] לְיַעֲקֹב חֻקָּיו וּמִשְׁפָּטָיו לְיִשְׂרָאֵל </p><p>לֹא עָשָׂה כֵן לְכָל גּוֹי וּמִשְׁפָּטִים בַּל יְדָעוּם הַלְלוּ יָהּ</p><p>--</p><p>הפסוק השני האחרון לא נכון לדור הזה</p><p>כי  זְמִרוֹת הָיוּ לִי חֻקֶּיךָ בְּבֵית מְגוּרָי: </p><p> חֻקֶּיךָ = מתבטאים בזמרת הגוים בדור הזה לא בזמרת ישראל </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 15:36:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/ra_tov.html',
+		'<p> </p><p>ירמיהו כב16: &quot;דָּן דִּין עָנִי וְאֶבְיוֹן אָז טוֹב הֲלוֹא הִיא הַדַּעַת אֹתִי נְאֻם יהוה\'&quot;</p><p>משלי כט7: &quot;יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת&quot; </p><p>דניאל יב10: וְלֹא יָבִינוּ כָּל רְשָׁעִים </p><p>&quot;יֹדֵעַ צַדִּיק דִּין דַּלִּים רָשָׁע לֹא יָבִין דָּעַת&quot;   &quot;וְלֹא יָבִינוּ כָּל רְשָׁעִים&quot; -</p><p> לכן לא בחרתי ברשעים האלה כי לא יבינו דעת כי אינם יודעים דִּין דַּלִּים - דִּין עָנִי וְאֶבְיוֹן</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-17 16:57:08'
+		)
+		;
+
