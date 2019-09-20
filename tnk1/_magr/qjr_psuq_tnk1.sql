@@ -612,3 +612,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'רעיון לליל הסדר מהגדת נחמה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'סמכות אנושית לעומת סמכות א-להית במערכת המשפט' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
