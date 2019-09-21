@@ -24670,3 +24670,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-26-02.html',
+		'<p>טנא באתר ועד הלשון:  https://hebrew-academy.org.il/2013/05/19/%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%97%D7%92-%D7%94%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA/</p><p>טנא באתר מכון המקדש: https://www.temple.org.il/post/2017/11/15/-d7-98-d7-a0-d7-90</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-09-20 08:43:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-26-01.html',
+		'<p>התודה [ההודיה] היא כפולה</p><p>1. הודיה על זה שאלהים הוא יהוה אלהי הכהן הלוי הוציא את בני ישראל מארץ מצרים</p><p>2. תודה והודיה ליהוה אלהי הכהן הלוי על אשר הביא את בני ישראל לרשת את ארץ כנען</p><p>---</p><p>זאת הסיבה שמביאים את הביכורים אשר הוא הפרי הנבחר לכבוד יהוה הוא האלהים השכן במשכן הכהן הלוי  </p><p>במשכן הכהן הלוי [תרתי משמע]</p><p>א. במשכן אהל-מועד</p><p>ב. במשכן נפשו של הכהן הלוי --- על כן הכהן הלוי נקרא יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-20 12:12:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>לכבוד המזכירה של אלהים</p><p>בטופס שנתת לי בראש השנה</p><p>ביקשתי מאלהים &quot;תענה לי&quot;</p><p>ואת בטעות כתבת &quot;תענה אותי&quot; ........</p><p>על כן אבקש ממך בכל לשון של בקשה</p><p>תני לי טופס חדש ונפתח דף חדש</p><p>בו כתוב אנא אלהים &quot;תענה לי&quot;</p><p>חחחחחחחחחחחחחחחחחחח</p><p>בשורות טובות לכולםםםםם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-20 13:42:02'
+		)
+		;
+

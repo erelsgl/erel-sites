@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2019-09-11 05:46:45
+# This file was automatically generated at 2019-09-20 14:13:39
 
 sub wikia_replace_links {
 $_=shift;
@@ -1339,6 +1339,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-24-01|[[ביאור:משה עולה לתורה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-2334|[[ביאור:מדוע השתנה סדר המצוות בין פרשת משפטים לבין פרשת כי-תשא?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-2319-3426|[[ביאור:מה הקשר בין ביכורים לבין גדי בחלב אמו?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-23-23|[[ביאור:כי ילך מלאכי לפניך, והביאך... והכחדתיו|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-23-19|[[ביאור:דיני הבאת ביכורים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-23-1011|[[ביאור:שמיטת קרקעות - לא לאביונים בלבד|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-23-07c|[[ביאור:כי לא אצדיק רשע|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-23-07b|[[ביאור:נקי וצדיק - אל תהרוג!|ig;
@@ -1514,7 +1515,11 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-28-21|[[ביאור:ידבק ה' בך את הדב
 s|${OPENLINK}tnk1/tora/dvrim/dm-28-1545|[[ביאור:הברכות והקללות הבינלאומיות|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-28-12|[[ביאור:להוריד את החוב הלאומי לאפס|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-28-0114|[[ביאור:הברכות בפרשת כי תבוא|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-2602|[[ביאור:המצוה להביא את ראשית הפרי לבית הבחירה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-26-06|[[ביאור:המצרים עשו אותנו רעים|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-26-03|[[ביאור:הגדת הביכורים|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-26-02|[[ביאור:להביא ביכורים בסל מענפים|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-26-01|[[ביאור:מצוות הביכורים - הודיה על הביאה לארץ|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-15b|[[ביאור:הקשר בין שלמות המידות במסחר לבין אריכות ימים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-1316-ky|[[ביאור:ה' מתעב גם מעשים ישרים שהרמאי עושה כדי שלא יחשדו בו|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-25-09|[[ביאור:ככה יעשה לאיש אשר לא יבנה את בית אחיו|ig;
@@ -1542,7 +1547,9 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-22-09|[[ביאור:פן תקדש המלאה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-0607|[[ביאור:מצוות שילוח הקן - טעמים שונים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-05-normot|[[ביאור:האם נורמות הלבוש משפיעות על המצוה?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-22-05|[[ביאור:אסור ללבוש כל פריט-לבוש שמאפיין את המין השני|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-21-15|[[ביאור:האם יעקב עבר על המצוה שלא להעביר את הבכורה?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-21-14|[[ביאור:זכויות השבויה|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-21|[[ביאור:מבנה דברים כא|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-20-1920|[[ביאור:לא תשחית את עצה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-20-1018|[[ביאור:שלום ומלחמה - ניתוח הפרשה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-20-09|[[ביאור:למנות שרי צבא ברגע האחרון|ig;
@@ -8125,6 +8132,10 @@ s|${OPENLINK}tnk1/messages/forums_118|[[ביאור:'ירושלים כתר זהב
 s|${OPENLINK}tnk1/messages/forums_117|[[ביאור:פרשת במדבר - משמעות סדר חניית עם ישראל|ig;
 s|${OPENLINK}tnk1/messages/forums_116|[[ביאור:'שמיטה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_115|[[ביאור:פרשת בהר בחוקותי - הנושא המשותף|ig;
+s|${OPENLINK}tnk1/messages/forums_1147|[[ביאור:'עם ישראל ותורתו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1146|[[ביאור:פרשת כי תבוא - יתרון עם ישראל על אומות העולם|ig;
+s|${OPENLINK}tnk1/messages/forums_1145|[[ביאור:' מסירות נפש' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1144|[[ביאור:פרשת כי תצא - מצוות השבת אבדה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_1143|[[ביאור:'המלך והתורה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1142|[[ביאור:פרשת שופטים - מדוע הצטווה המלך לשני ספרי תורה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1141|[[ביאור:'מקום המקדש מזה עידן ועדנים' - שיר מאת אהובה קליין (c)|ig;
@@ -11821,7 +11832,6 @@ s|${OPENLINK}tnk1/jm-34-20|[[ביאור:ביאור:שמות לד20|ig;
 s|${OPENLINK}tnk1/jm-33-12|[[ביאור:ביאור:שמות לג12|ig;
 s|${OPENLINK}tnk1/jm-24-9|[[ביאור:ביאור:שמות כד9|ig;
 s|${OPENLINK}tnk1/jm-23-20|[[ביאור:ביאור:שמות כג20|ig;
-s|${OPENLINK}tnk1/jm-23-19|[[ביאור:ביאור:שמות כג19|ig;
 s|${OPENLINK}tnk1/jm-22-16|[[ביאור:ביאור:שמות כב16|ig;
 s|${OPENLINK}tnk1/jm-21-9|[[ביאור:ביאור:שמות כא9|ig;
 s|${OPENLINK}tnk1/jm-21-7|[[ביאור:ביאור:שמות כא7|ig;

@@ -620,3 +620,79 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'סמכות אנושית לעומת סמכות א-להית במערכת המשפט' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ציור הבאת הביכורים לכהן' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'מלוא הטנא\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 10 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לבוא זה לא כמו ללכת' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `tarik_hosfa` = '2019-09-20 11:53:52' WHERE `bn` = '\'ביכורי הודיה\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - מה הסוד לשיפור איכות החיים?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 11, `psuq1` = 11, `tarik_hosfa` = '2019-09-20 11:53:52' WHERE `bn` = 'פרשת כי תבוא - מהו הסוד בהבאת ביכורים?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `tarik_hosfa` = '2019-09-20 11:53:52' WHERE `bn` = 'פרשת כי תבוא - ביכורים - \"מראשית כל פרי\" - מדוע?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 11, `psuq1` = 11, `tarik_hosfa` = '2019-09-20 11:56:56' WHERE `bn` = 'פרשת כי תבוא - ביכורים רק בחג שבועות?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `tarik_hosfa` = '2019-09-20 11:56:56' WHERE `bn` = 'פרשת כי תבוא - הסוד הטמון בפרשה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `tarik_hosfa` = '2019-09-20 11:56:56' WHERE `bn` = 'פרשת כי תבוא - הבאת ביכורים - מה המטרה?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'מבנה הפרשה', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-09-20 14:06:33' WHERE `bn` = 'הבאת הביכורים ומקרא ביכורים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - כיצד לבוא למקור הברכה והשמחה?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - הסוד הטמון בפרשה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - הבאת ביכורים - מה המטרה?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'ביכורי הודיה\' - אהובה קליין' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - ביכורים - \"מראשית כל פרי\" - מדוע?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כי תבוא - הברירה בין עבדות מצרים לבין העבדות לה\' במצוות' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - ביכורים רק בחג שבועות?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - מהו הסוד בהבאת ביכורים?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
