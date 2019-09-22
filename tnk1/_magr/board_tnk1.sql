@@ -29426,3 +29426,19 @@ UPDATE board_tnk1
 			SET sdr_bn=111
 			WHERE ktovt_bn='tnk1/tora/dvrim/dm-2602.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-21 16:46:10'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/aviv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-21 18:19:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
