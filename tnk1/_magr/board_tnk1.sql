@@ -29442,3 +29442,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 14:39:02'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-26-03.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 15:05:32'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-2602.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 15:05:55'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-2602.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 16:45:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 16:45:51'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-2602.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-22 17:35:04'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-2602.html'
+		;
+
