@@ -29561,3 +29561,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-26 08:13:13'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_etd_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-26 11:42:26'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-30-12.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-26 14:44:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-26 16:38:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+

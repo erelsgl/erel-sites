@@ -24895,3 +24895,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_etd_0.html',
+		'<p>נצב=142 בלעם. וזה די מסתדר עם המאמר המעניין שרשמת. גם שמבשרים לאברהם על הולדת יצחק נאמר שלשה אנשים נצבים עליו..</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-09-26 08:13:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-30-12.html',
+		'<p>פירוש מדהים. ריגשת .</p><p>תודה.</p>',
+		'114443335381949673708',
+		'נתן עמר',
+		'2019-09-26 11:42:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>ספר תהילות פרק לז כתוב:</p><p>(ג) בְּטַח בַּיהוָה וַעֲשֵׂה טוֹב שְׁכָן אֶרֶץ וּרְעֵה אֱמוּנָה.</p><p>(ד) וְהִתְעַנַּג עַל יְהוָה וְיִתֶּן לְךָ מִשְׁאֲלֹת לִבֶּךָ.</p><p>ספר תהילות פרק כ כתוב:</p><p>(ו) נְרַנְּנָה בִּישׁוּעָתֶךָ וּבְשֵׁם אֱלֹהֵינוּ נִדְגֹּל יְמַלֵּא יְהוָה כָּל מִשְׁאֲלוֹתֶיךָ.</p><p> *** וכל משאלותי מאוגדות מאוחדות ומסתכמות בשאלה אחת ***</p><p>תהלים כז4: &quot;אַחַת שָׁאַלְתִּי מֵאֵת יהוה אוֹתָהּ אֲבַקֵּשׁ שִׁבְתִּי בְּבֵית יהוה כָּל יְמֵי חַיַּי לַחֲזוֹת בְּנֹעַם יהוה וּלְבַקֵּר בְּהֵיכָלוֹ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-26 14:44:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>העץ גדול מן העשב ובכיר ממנו </p><p>כי ערכו התזונתי של פרי העץ גבוה מערכו התזונתי של הירק בגינה</p><p>אבל אם עץ הפרי עשה באושים אז העשב טוב ממנו</p><p>לאמור כי עגבניה או פטרוזיליה טריה טובה מתפוח רקוב</p><p>והוא הדבר אשר איש שר בכיר אמנם גבוה מפועל עם הארץ</p><p>אך אם השר הבכיר מושחת אז הפועל עם הארץ טוב ממנו </p><p>ככתוב:..........וְטוֹב רָשׁ מֵאִישׁ כָּזָב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-09-26 16:38:29'
+		)
+		;
+
