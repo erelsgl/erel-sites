@@ -29593,3 +29593,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-27 12:18:16'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-30-12.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1149.html',
+				NULL,
+				'2019-09-27 13:49:21',
+				'2019-09-27 13:49:21',
+				' עם הנצח/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-09-27 13:49:21'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/aqda.html',
+				'tnk1/messages/sofrim_shabot_aqda_8.html',
+				NULL,
+				'2019-09-27 14:03:50',
+				'2019-09-27 14:03:50',
+				'עקדת יצחק והמשמעות של קיום אלהים - חלק יז',
+				'אלברט שבות',
+				'ashabot @ walla.co.il'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-27 15:36:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1044_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-27 15:49:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1044_3.html'
+		;
+
