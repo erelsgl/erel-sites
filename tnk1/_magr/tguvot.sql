@@ -24986,3 +24986,45 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-09-27 15:49:33' 
 			WHERE messageid=9159;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:11:35' 
+			WHERE messageid=8929;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:13:47' 
+			WHERE messageid=8930;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:19:55' 
+			WHERE messageid=8962;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:20:09' 
+			WHERE messageid=8978;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:21:51' 
+			WHERE messageid=8987;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-28 16:28:12' 
+			WHERE messageid=8961;
+
