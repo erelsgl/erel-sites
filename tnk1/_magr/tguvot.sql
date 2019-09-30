@@ -25028,3 +25028,10 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-09-28 16:28:12' 
 			WHERE messageid=8961;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-09-29 11:26:47' 
+			WHERE messageid=9115;
+
