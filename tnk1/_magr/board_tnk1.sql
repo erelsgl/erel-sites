@@ -29672,3 +29672,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-30 08:28:20'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-30 08:29:44'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-30 08:34:52'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-30 09:41:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-09-30 09:42:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
+		;
+
