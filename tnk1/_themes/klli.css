@@ -895,9 +895,10 @@ body.find q {
 }
 
 
-/* make quotations look the same in IE and other browsers */
-q:before {content: no-open-quote}
-q:after {content: no-close-quote}
+/* This should make quotations look the same in IE and other browsers. */
+/* However, it causes problems in Chrome. */
+/*q:before {content: no-open-quote}*/
+/*q:after {content: no-close-quote}*/
 
 
 q { 
