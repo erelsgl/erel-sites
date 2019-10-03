@@ -29728,3 +29728,42 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-02 11:19:15'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/roj_hjna.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-02 15:03:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0210_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1150.html',
+				NULL,
+				'2019-10-02 20:45:43',
+				'2019-10-02 20:45:43',
+				'פרשת וילך- כתיבת השירה- לשם מה?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-10-02 20:45:43'
+			WHERE ktovt_bn='tnk1/forums.html';
+
