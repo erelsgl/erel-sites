@@ -29999,3 +29999,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/tora_wyqra_wy-15_1_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-08 05:28:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-08 05:42:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_1.html'
+		;
+
