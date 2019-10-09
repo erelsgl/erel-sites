@@ -25568,3 +25568,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-08 09:32:15' 
+			WHERE messageid=9181;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>בית הדין של הסנהדרין המתחדשת ספר שנה חמישית לשמיטין ויובלות בג\' בתשרי בהר ציון.</p><p>https://www.breakingisraelnews.com/138093/jubilee-countdown-to-messiah-sanhedrin-blesses-new-year-in-jubilee-cycle-with-shofar-watch</p><p>https://m.facebook.com/story.php?story_fbid=2755347767809250&amp;amp;id=100000021607827</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-10-08 09:33:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-08 09:40:36' 
+			WHERE messageid=9173;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> קהלת א13: &quot;וְנָתַתִּי אֶת לִבִּי לִדְרוֹשׁ וְלָתוּר בַּחָכְמָה עַל כָּל אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמָיִם הוּא עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ</p><p>כי בדרך זאת אנחנו בני האדם עובדים את האלהים כאשר מתמודדים עם הרעה ובשוב נפשך לאלהים הכל יהיה לטובה ... ככתוב:</p><p>קהלת ז1: &quot;טוֹב שֵׁם מִשֶּׁמֶן טוֹב וְיוֹם הַמָּוֶת מִיּוֹם הִוָּלְדוֹ&quot; --- זה הטוב באחרית הימים </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-08 11:11:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-15.html',
+		'<p>אם חי=חטא, מדוע אדם חי לא נחשב לטמא, אם עצם קיומו סותר את ייחוד ה\'?</p><p>ואם הרביה היא חטא, מדוע נצטוו האדם &quot;פרו ורבו&quot;? </p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-10-08 13:20:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p> נביא = שמח = חכם-לב = נבון</p><p>---------------------------------------------------------------</p><p>תהלים צ15: &quot;שַׂמְּחֵנוּ כִּימוֹת עִנִּיתָנוּ שְׁנוֹת רָאִינוּ רָעָה&quot;</p><p> רָאִינוּ רָעָה = עצבון לב </p><p>עתה לִשְׂמוֹחַ בשִּׂמְחָה כירא-אלהים לחיות באהבה לִרְאוֹת טוֹב  </p><p>תהלים לד13: &quot;מִי הָאִישׁ הֶחָפֵץ חַיִּים אֹהֵב יָמִים לִרְאוֹת טוֹב&quot;  </p><p>תהלים לד14: &quot;נְצֹר לְשׁוֹנְךָ מֵרָע וּשְׂפָתֶיךָ מִדַּבֵּר מִרְמָה&quot;</p><p>תהלים לד15: &quot;סוּר מֵרָע וַעֲשֵׂה טוֹב בַּקֵּשׁ שָׁלוֹם וְרָדְפֵהוּ&quot;</p><p>תהלים לז27: &quot;סוּר מֵרָע וַעֲשֵׂה טוֹב וּשְׁכֹן לְעוֹלָם&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-08 16:54:58'
+		)
+		;
+
