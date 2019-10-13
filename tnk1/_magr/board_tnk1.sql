@@ -30186,3 +30186,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-10-10 06:40:24'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-13 03:21:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0131_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-13 06:40:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+

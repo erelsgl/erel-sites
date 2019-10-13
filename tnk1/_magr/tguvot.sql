@@ -25690,3 +25690,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0131_1.html',
+		'<p>במאמר זה לעדות השמים והארץ משווה אראל סגל הלוי</p><p>בין שירת משה בפרשת האזינו לבין תוכחתו של ישעיהו</p><p>http://tora.us.fm/tnk1/nvia/yjayhu/yj-01-02.html?fb_action_ids=398283120241606&amp;fb_action_types=og.likes&amp;fbclid=IwAR2Vu3CrKUU6Fax4OHsB3J_Pr5oQGkaAEncJQkhxnMjK2HMBoCY1iz4h1K4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-13 03:21:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p> </p><p>בראשית מט28: &quot;כָּל אֵלֶּה שִׁבְטֵי יִשְׂרָאֵל שְׁנֵים עָשָׂר וְזֹאת אֲשֶׁר דִּבֶּר לָהֶם אֲבִיהֶם וַיְבָרֶךְ אוֹתָם אִישׁ אֲשֶׁר כְּבִרְכָתוֹ בֵּרַךְ אֹתָם&quot;</p><p> </p><p>וַיְבָרֶךְ אוֹתָם אִישׁ אֲשֶׁר כְּבִרְכָתוֹ בֵּרַךְ אֹתָם = לאמור כי כל איש והברכה שלו</p><p>ואתה אל תאמר לעולם אין לי ברכה אלא ברר מה היא ברכתך כי כל איש וברכתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-13 06:40:36'
+		)
+		;
+
