@@ -25714,3 +25714,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_126.html',
+		'<p>אם נקבל מכתב כזה, נתפלל לה\' שיבטל אותו... &quot;קרע רוע גזר דיננו&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-10-13 12:20:43'
+		)
+		;
+
