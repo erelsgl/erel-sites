@@ -25726,3 +25726,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_kkb_0.html',
+		'<p>מאמר ב YNET על הקשר בין חג סוכות לקבוצת פליאדות / כימה / סוכות שמבוסס על רעיונות שלי</p><p>אמנם הוא דחף את עניין עבודת אלילים אך זה לא קשור אלי//</p><p>באופן כללי החגים הם חגים חקלאים וקדומים ליציאת מצרים</p><p>כולל השמות שלהם , כגון השם של חג סוכות (הם הרי יצאו ממצרים בניסן..)</p><p>ואפילו בקשר לאכילת מצות בפסח זה הרי מוזכר כבר אצל לוט.. ורשי כותב שזה היה בפסח..</p><p> https://www.ynet.co.il/articles/0,7340,L-5601941,00.html?fbclid=IwAR2nfhY7Vb54tjGO4Kqo4NkXGmvRxidSOuxdBWgYrxit1Ni4pBPxXYQROJ4</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2019-10-15 14:26:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_kkb_0.html',
+		'<p>ראו גם את מאמרי שבעת המינים והלוח החקלאי מגזר</p><p>https://he.wikisource.org/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%A9%D7%91%D7%A2%D7%AA_%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D_%D7%95%D7%94%D7%9C%D7%95%D7%97_%D7%94%D7%97%D7%A7%D7%9C%D7%90%D7%99_%D7%9E%D7%92%D7%96%D7%A8</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2019-10-15 14:33:53'
+		)
+		;
+
