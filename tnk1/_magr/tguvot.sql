@@ -25750,3 +25750,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מועדי הדגן התירוש והיצהר כסדרן ככתוב בתורה</p><p>ואמנם כתוב ב&quot;מגילת המקדש&quot;</p><p>אך לא מדובר על סדרה של 49 יום כי מדובר על חודשיים</p><p>לאמור שני ירחים בלבד כי......</p><p>מפסח בחמישה עשר לחודש הראשון</p><p>עד חג השבועות בחמישה עשר לחודש השלשי</p><p>עד מועד התירוש בחמישה עשר לחודש החמישי [טו-באב הוא מועד התירוש --- זאת הסיבה האמיתית לשמחה ביום זה]</p><p>עד מועד היצהר בחמישה עשר לחודש השביעי</p><p>כי החמישה עשר לחודש השביעי זה חג הסכות הוא מועד השביעי</p><p>אשר בו למשוח את המשיח בשמן הקודש בשמן זית רענן ראשית המסיק</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-16 11:22:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-16 11:22:45' 
+			WHERE messageid=9197;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מועדי הדגן התירוש והיצהר כסדרן ככתוב בתורה</p><p>ואמנם כתוב ב&quot;מגילת המקדש&quot;</p><p>אך לא מדובר על סדרה של 49 יום כי מדובר על חודשיים</p><p>לאמור שני ירחים בלבד כי......</p><p>מפסח בחמישה עשר לחודש הראשון --- זה מועד השעורה לקציר</p><p>עד חג השבועות בחמישה עשר לחודש השלשי --- זה מועד הדגן בכורי קציר חטים</p><p>עד מועד התירוש בחמישה עשר לחודש החמישי [טו-באב הוא מועד התירוש --- זאת הסיבה האמיתית לשמחה ביום זה]</p><p>עד מועד היצהר בחמישה עשר לחודש השביעי</p><p>כי החמישה עשר לחודש השביעי זה חג הסכות הוא מועד השביעי</p><p>אשר בו למשוח את המשיח בשמן הקודש בשמן זית רענן ראשית המסיק</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-16 11:24:48'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-16 11:24:53' 
+			WHERE messageid=9213;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_126.html',
+		'<p>למה אראל? למה מכתב כזה הוא רע לאנושות. אני כאן לדיון מעמיק בנושא.</p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-10-16 14:20:28'
+		)
+		;
+

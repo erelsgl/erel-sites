@@ -30226,3 +30226,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_kkb_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-16 11:22:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-16 11:24:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-16 14:20:28'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_126.html'
+		;
+
