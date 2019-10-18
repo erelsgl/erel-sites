@@ -25800,3 +25800,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-17 08:09:36' 
+			WHERE messageid=8165;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>תהלים לד20: &quot;רַבּוֹת רָעוֹת צַדִּיק וּמִכֻּלָּם יַצִּילֶנּוּ יהוה&quot;</p><p>תהלים לד21: &quot;שֹׁמֵר כָּל עַצְמוֹתָיו אַחַת מֵהֵנָּה לֹא נִשְׁבָּרָה&quot;</p><p>---------------</p><p>ואתה אם נשברה אחת מעצמותיך דע כי לא צדיק אתה</p><p>[גם השיניים בפה הם חלק בלתי נפרד משלד העצמות]</p><p>*******לאמור כי איש מאיתנו לא צדיק לפני אלהים*******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-18 05:00:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t35b08_1.html',
+		'<p>לפי המחקר מוצאו של האתרוג לא מישראל</p><p>וכי הרבנים שוגים בהבנה מה הוא פרי הדר</p><p>https://www.makorrishon.co.il/magazine/dyukan/177235/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-18 06:47:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מועדי הדגן התירוש והיצהר כסדרן ככתוב בתורה</p><p>ואמנם כתוב ב&quot;מגילת המקדש&quot;</p><p>אך לא מדובר על סדרה של 49 יום כי מדובר על חודשיים</p><p>ויתכן שהיה שיבוש בספרות כי במקום 49 ימים צריך להיות 59 ימים</p><p>כאשר ירח אחד בן 30 יום וירח שני בן 29 ימים = סה&quot;כ 59 ימים</p><p>לאמור שני ירחים בלבד כי......</p><p>מפסח בחמישה עשר לחודש הראשון --- זה מועד השעורה לקציר</p><p>עד חג השבועות בחמישה עשר לחודש השלשי --- זה מועד הדגן בכורי קציר חטים </p><p>עד מועד התירוש בחמישה עשר לחודש החמישי [טו-באב הוא מועד התירוש --- זאת הסיבה האמיתית לשמחה ביום זה]</p><p>עד מועד היצהר בחמישה עשר לחודש השביעי</p><p>כי החמישה עשר לחודש השביעי זה חג הסכות הוא מועד השביעי</p><p>אשר בו למשוח את המשיח בשמן הקודש בשמן זית רענן ראשית המסיק</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-10-18 07:53:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-18 07:53:59' 
+			WHERE messageid=9214;
+
