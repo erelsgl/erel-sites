@@ -25850,3 +25850,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-10-18 07:53:59' 
 			WHERE messageid=9214;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-15-08.html',
+		'<p>https://www.bhol.co.il/forums/topic.asp?cat_id=24&amp;topic_id=1081413&amp;forum_id=1364</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-10-19 17:50:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-10-19 19:01:08' 
+			WHERE messageid=9219;
+

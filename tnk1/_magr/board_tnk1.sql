@@ -30290,3 +30290,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-19 17:50:59'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-15-08.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/__hhkwwnh_halhyt.pdf',
+				NULL,
+				'2019-10-19 18:05:45',
+				'2019-10-19 18:05:45',
+				'מישרים = ההכוונה האלהית',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1154.html',
+				NULL,
+				'2019-10-20 04:38:31',
+				'2019-10-20 04:38:31',
+				'פרשת וזאת הברכה/ \"ויהי בישורון מלך\"',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-10-20 04:38:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
