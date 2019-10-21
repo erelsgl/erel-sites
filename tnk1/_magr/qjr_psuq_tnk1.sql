@@ -696,3 +696,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תבוא - מהו הסוד בהבאת ביכורים?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 15, `kotrt` = 'פרשת עבד עברי בשמות, ויקרא ודברים', `tarik_hosfa` = '2019-10-19 17:25:58' WHERE `bn` = 'לימוד פשוטו של מקרא - סכנות וסיכויים' AND `sfr` = 'דבר' AND `prq0` = 'טו' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-10-19 17:28:22' WHERE `bn` = 'ביאור:דברים טו8' AND `sfr` = 'דבר' AND `prq0` = 'טו' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+
