@@ -25893,3 +25893,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_126.html',
+		'<p>כי המכונה כל-כך מורכבת, שאם נהיה חייבים להפעיל אותה בעצמנו ובלי עזרה מהיוצר, אנחנו עלולים לקלקל ולהרוס - וכפי שכבר קרה כמה פעמים בעבר.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-10-21 17:44:47'
+		)
+		;
+
