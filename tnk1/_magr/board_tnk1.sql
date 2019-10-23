@@ -30384,3 +30384,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_126.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-22 12:20:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-22 12:21:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
