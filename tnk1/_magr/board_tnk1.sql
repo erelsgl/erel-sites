@@ -30423,3 +30423,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-10-23 19:23:19'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-24 13:35:09'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-16-4950.html'
+		;
+
