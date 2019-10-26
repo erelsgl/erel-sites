@@ -30431,3 +30431,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-16-4950.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-25 11:54:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2704_0.html'
+		;
+
