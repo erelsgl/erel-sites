@@ -30439,3 +30439,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2704_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-26 16:46:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3108_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1157.html',
+				NULL,
+				'2019-10-27 06:55:19',
+				'2019-10-27 06:55:19',
+				'הנחש וחוה בגן עדן/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-10-27 06:55:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
