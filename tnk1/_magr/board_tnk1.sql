@@ -30470,3 +30470,58 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-10-27 06:55:19'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-28 04:29:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4klkla.html',
+				'tnk1/nvir/jmuelb/jb-21-04.html',
+				NULL,
+				'2019-10-28 04:39:55',
+				'2019-10-28 04:39:55',
+				'פיצוי על עוולות עבר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-10-28 04:39:55'
+			WHERE ktovt_bn='tnk1/msr/4klkla.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-28 04:49:44'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jb-21-04.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-28 05:09:16'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_nvl_xgit_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-28 05:56:07'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_nvl_xgit_0.html'
+		;
+
