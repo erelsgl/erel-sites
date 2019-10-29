@@ -30525,3 +30525,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_nvl_xgit_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-28 16:08:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0117_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-29 05:37:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0225_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-29 07:03:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
