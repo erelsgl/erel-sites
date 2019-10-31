@@ -30589,3 +30589,98 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/jm_xdj.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 18:05:19'
+		WHERE ktovt_bn='tnk1/tora/jm_xdj.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 18:06:05'
+		WHERE ktovt_bn='tnk1/tora/jm_xdj.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 18:37:56'
+		WHERE ktovt_bn='tnk1/tora/jm_xdj.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 18:37:59'
+		WHERE ktovt_bn='tnk1/tora/jm_xdj.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1158.html',
+				NULL,
+				'2019-10-30 19:53:18',
+				'2019-10-30 19:53:18',
+				'פרשת נח- כיצד הגיע נח באחריתו לקללת זרעו?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-10-30 19:53:18'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 20:26:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 20:43:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 20:56:44'
+		WHERE ktovt_bn='tnk1/nvir/joftim/yjr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-30 20:57:06'
+		WHERE ktovt_bn='tnk1/nvir/joftim/yjr.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-10-31 05:40:39'
+		WHERE ktovt_bn='tnk1/nvir/joftim/yjr.html'
+		;
+
