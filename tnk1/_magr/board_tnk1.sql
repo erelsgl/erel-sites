@@ -30708,3 +30708,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-01 10:55:31'
+		WHERE ktovt_bn='tnk1/klli/jirim/wyhi_hxodj_hze.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-01 14:50:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-01 14:54:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
