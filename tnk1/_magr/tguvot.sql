@@ -26443,3 +26443,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>בראשית כה32: &quot;וַיֹּאמֶר עֵשָׂו הִנֵּה אָנֹכִי הוֹלֵךְ לָמוּת וְלָמָּה זֶּה לִי בְּכֹרָה&quot; ---------- בְּכֹרָה = ברכה [בחילופי אותיות]</p><p>ואתה מבני ישראל הוא יעקב אביך לך בדרכיו כי גם אם אתה לפני המות אל תמנע בכורתך הייה חפץ בברכה עד יום מותך ואל תהי כעֵשָׂו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-04 16:29:54'
+		)
+		;
+
