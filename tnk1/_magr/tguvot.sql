@@ -26455,3 +26455,172 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוקה להלוואה דחופה תודה0502210585</p><p></p>',
+		'111968891842875749877',
+		'עדה מוטהדה',
+		'2019-11-05 12:21:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>בראשית א24: &quot;וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ אֶרֶץ לְמִינָהּ וַיְהִי כֵן&quot;</p><p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא&quot;</p><p>תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה --- [וכתוב] אֶרֶץ נִתְּנָה בְיַד רָשָׁע </p><p>לכן נפש החיה סובלת לעינויים נִתְּנָה בְיַד רָשָׁע </p><p>ויש להבין כי נפש החיה זה הצדיק ובְיַד רָשָׁע זה האדם</p><p>https://news.walla.co.il/item/363337</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 16:26:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>בראשית א24: &quot;וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ אֶרֶץ לְמִינָהּ וַיְהִי כֵן&quot;</p><p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא&quot;</p><p>תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה --- [וכתוב] אֶרֶץ נִתְּנָה בְיַד רָשָׁע</p><p>לכן נֶפֶשׁ חַיָּה היא הָאָרֶץ הסובלת לעינויים נִתְּנָה בְיַד רָשָׁע</p><p>ויש להבין כי נפש החיה זה הצדיק ובְיַד רָשָׁע זה האדם</p><p>https://news.walla.co.il/item/363337</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 16:28:51'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 16:28:53' 
+			WHERE messageid=9264;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>בראשית א24: &quot;וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ אֶרֶץ לְמִינָהּ וַיְהִי כֵן&quot;</p><p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא&quot;</p><p>תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה --- [וכתוב] אֶרֶץ נִתְּנָה בְיַד רָשָׁע</p><p>לכן נֶפֶשׁ חַיָּה היא הָאָרֶץ הסובלת לעינויים נִתְּנָה בְיַד רָשָׁע</p><p>ויש להבין כי נפש החיה זה הצדיק ובְיַד רָשָׁע זה האדם</p><p>https://www.ynet.co.il/articles/0,7340,L-3681969,00.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 16:39:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>בראשית א24: &quot;וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ אֶרֶץ לְמִינָהּ וַיְהִי כֵן&quot;</p><p>איוב ט24: &quot;אֶרֶץ נִתְּנָה בְיַד רָשָׁע פְּנֵי שֹׁפְטֶיהָ יְכַסֶּה אִם לֹא אֵפוֹא מִי הוּא&quot;</p><p>תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה --- [וכתוב] אֶרֶץ נִתְּנָה בְיַד רָשָׁע</p><p>לכן נֶפֶשׁ חַיָּה היא הָאָרֶץ הסובלת לעינויים נִתְּנָה בְיַד רָשָׁע</p><p>ויש להבין כי נפש החיה זה הצדיק ובְיַד רָשָׁע זה האדם</p><p>https://news.walla.co.il/item/363337</p><p>https://www.ynet.co.il/articles/0,7340,L-3681969,00.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 16:39:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 16:40:07' 
+			WHERE messageid=9265;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 16:40:11' 
+			WHERE messageid=9266;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>האדם הראשון נברא בצדק והכל היה גן-עדן</p><p>אך חילול הצדק בגן-עדן זה כל הרשע</p><p>וכל הרשע הזה חלול מעשה אלהים זה התהו-ובהו</p><p>ואשר יצליח להשרד בתהו-ובהו זה רוח אלהים המרחפת על פני המים</p><p>זה הצדיק באחרית הימים עליו נאמר בספר הנביא ישעיהו ד3: </p><p>&quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 17:05:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>האדם הראשון נברא בצדק והכל היה גן-עדן</p><p>אך חילול הצדק בגן-עדן זה כל הרשע</p><p>וכל הרשע הזה חלול מעשה אלהים זה התהו-ובהו</p><p>ואשר יצליח להשרד בתהו-ובהו זה רוח אלהים המרחפת על פני המים</p><p>זה הצדיק באחרית הימים עליו נאמר בספר הנביא ישעיהו ד3: </p><p>&quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 17:05:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 17:05:35' 
+			WHERE messageid=9268;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 17:05:43' 
+			WHERE messageid=9269;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>--------------------------------------------------------</p><p>האדם הראשון נברא בצדק והכל היה גן-עדן</p><p>אך חילול הצדק בגן-עדן זה כל הרשע</p><p>וכל הרשע הזה חלול מעשה אלהים זה התהו-ובהו</p><p>ואשר יצליח להשרד בתהו-ובהו זה רוח אלהים המרחפת על פני המים</p><p>זה הצדיק באחרית הימים עליו נאמר בספר הנביא ישעיהו ד3: </p><p>&quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 17:06:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>האדם הראשון נברא בצדק והכל היה גן-עדן</p><p>אך חילול הצדק בגן-עדן זה כל הרשע</p><p>וכל הרשע הזה חלול מעשה אלהים זה התהו-ובהו</p><p>ואשר יצליח להשרד בתהו-ובהו זה רוח אלהים המרחפת על פני המים</p><p>זה הצדיק באחרית הימים עליו נאמר בספר הנביא ישעיהו ד3: </p><p>&quot;וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-05 17:06:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2019-11-05 17:14:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 17:14:05' 
+			WHERE messageid=9272;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-05 17:20:49' 
+			WHERE messageid=9270;
+
