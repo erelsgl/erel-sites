@@ -26753,3 +26753,89 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-26-11.html',
+		'<p>אין מצוה מפורשת לשמוח שמחה זה מצב נפשי או ישך אותו או אין לך אותו</p><p>אם תלך בדרך אלהים אז במקרא הכתוב אומר שתהיה לך שמחה : &quot;ושמחת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-10 11:29:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_dn.html',
+		'<p>מה הקשקוש הזה למה לדבר דברי הבל הלא אין קשר בין נחלת דן לטורקיה</p><p>נחלת דן נמצאת בדרום לבנון מול דמשק והחרמון </p><p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot; </p><p>בראשית יד15: &quot;וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה הוּא וַעֲבָדָיו וַיַּכֵּם וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק&quot; </p><p> וַיִּרְדֹּף עַד דָּן =  וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק [מצפון לדמשק]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-10 18:38:30'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-10 19:18:55' 
+			WHERE messageid=9283;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0434_0.html',
+		'<p>נחלת דן נמצאת בדרום לבנון מול דמשק והחרמון</p><p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;</p><p>בראשית יד15: &quot;וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה הוּא וַעֲבָדָיו וַיַּכֵּם וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק&quot;</p><p>וַיִּרְדֹּף עַד דָּן = וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק [מצפון לדמשק]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-10 19:19:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0434_0.html',
+		'<p>נחלת דן נמצאת בדרום לבנון מול דמשק והחרמון</p><p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;</p><p>בראשית יד15: &quot;וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה הוּא וַעֲבָדָיו וַיַּכֵּם וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק&quot;</p><p>וַיִּרְדֹּף עַד דָּן = וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק [מצפון לדמשק]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-10 19:19:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-10 19:19:58' 
+			WHERE messageid=9285;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/hfok_bh/avnet.html',
+		'<p>BONJOUR</p><p>je n\'écris pas l\'hébreu je le lis peu je suis intéressée par les racine et surtout par la torah</p><p>pouvez vous s\'il vous plait me dire la racine qui correspond à ce verbe</p><p>לְהִתְעַנֵּוו </p><p>merci</p><p></p>',
+		'113168204570345901841',
+		'marcelle penya',
+		'2019-11-10 20:09:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/hfok_bh/avnet.html',
+		'<p>לפי אבן שושן א-בנט (חגורה) - ממצרית bnd עטף</p><p>ואם נרצה לדרוש את המילה, א-בנט , היום בנט נבחר לשר הביטחון</p><p>בנט = ברכה , ברך -&gt; בריח , הא-בנט הוא הבריח (האבזם) של החגורה..</p><p>בנט שר הביטחון - במקרא כסל במקביל לביטחון , והכסל הוא הבטן - מקום החגורה</p><p>איוב לח3: &quot;אזור {חגור} נא כגבר חלציך ואשאלך והודיעני&quot;</p><p>&quot;יריחו היתה נגרה (בריח , חגורה) של ארץ ישראל, אמרו אם יריחו נכבשת כל הארץ נכבשת&quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2019-11-10 20:37:12'
+		)
+		;
+

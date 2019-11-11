@@ -31275,3 +31275,67 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/messages/forums_1161.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0smxa.html',
+				'tnk1/tora/dvrim/dm-26-11.html',
+				NULL,
+				'2019-11-10 09:17:19',
+				'2019-11-10 09:17:19',
+				'להביא ביכורים בשמחה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 11:29:57'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-26-11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 18:38:30'
+		WHERE ktovt_bn='tnk1/sofrim/mali/nxlot_dn.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 19:19:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0434_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 19:19:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0434_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 20:09:22'
+		WHERE ktovt_bn='tnk1/ljon/hfok_bh/avnet.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-10 20:37:12'
+		WHERE ktovt_bn='tnk1/ljon/hfok_bh/avnet.html'
+		;
+

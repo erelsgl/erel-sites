@@ -704,3 +704,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'סיכום הפירושים', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2019-10-19 17:28:22' WHERE `bn` = 'ביאור:דברים טו8' AND `sfr` = 'דבר' AND `prq0` = 'טו' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מצוה לשמוח?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
