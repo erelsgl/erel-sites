@@ -31339,3 +31339,57 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ljon/hfok_bh/avnet.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-12 19:13:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a11_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1162.html',
+				NULL,
+				'2019-11-12 21:29:15',
+				'2019-11-12 21:29:15',
+				'פרשת וירא- הכנסת אורחים והשלכותיה לדורות/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-11-12 21:29:15'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1163.html',
+				NULL,
+				'2019-11-13 06:11:38',
+				'2019-11-13 06:11:38',
+				'הכנסת אורחים/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-11-13 06:11:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+

@@ -26839,3 +26839,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a11_0.html',
+		'<p>כדאי לראות</p><p>https://beisvaad.blogspot.com/2019/11/the-mothers-of-kings-that-are-named-in.html</p>',
+		'105858823147148979769',
+		'Eliezer Eisenberg',
+		'2019-11-12 19:13:02'
+		)
+		;
+
