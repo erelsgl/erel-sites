@@ -26851,3 +26851,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>תהלים כז13: &quot;לולא הֶאֱמַנְתִּי לִרְאוֹת בְּטוּב יהוה בְּאֶרֶץ חַיִּים&quot; </p><p>אלהים בטח שאני מאמין בך  לִרְאוֹת בְּטוּב יהוה בְּאֶרֶץ חַיִּים</p><p>אך עד שנחכה לעולם הבא תן לי משהו על החשבון חחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-14 06:08:42'
+		)
+		;
+
