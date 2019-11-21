@@ -27314,3 +27314,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>דיין שם משה ---ספרא מחקק חק לישראל--- לתשומת בטוח לאומי</p><p>אם אני מרגיש שלם [ןבעממית מושלם] אני 100%</p><p>אבל כל עוד לא מצאתי אשה אז חסר לי חצי</p><p>לכן על אף שאני 100% אני בסך הכל 50%</p><p>לכן יש להכיר בי כנכה כי אני  חצי בן-אדם</p><p>על המוסד לבטוח לאומי להשכיל להבין זאת</p><p>כי באמת אין לי עזר כנגדי על כל המשתמע מכך</p><p>ועל הבטוח הלאומי לפצותני בעזרה כלכלית</p><p>מי שעד גיל 30 לא התחתן יוכר כנכה ויזכה לגמלה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-21 05:59:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>דיין שם משה ---ספרא מחקק חק לישראל</p><p>אם אני מרגיש שלם [ןבעממית מושלם] אני 100%</p><p>אבל כל עוד לא מצאתי אשה אז חסר לי חצי</p><p>לכן על אף שאני 100% אני בסך הכל 50%</p><p>לכן יש להכיר בי כנכה כי אני חצי בן-אדם</p><p>על המוסד לבטוח לאומי להשכיל להבין זאת</p><p>כי באמת אין לי עזר כנגדי על כל המשתמע מכך</p><p>ועל הבטוח הלאומי לפצותני בעזרה כלכלית</p><p>מי שעד גיל 30 לא התחתן יוכר כנכה ויזכה לגמלה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-21 05:59:52'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-21 05:59:54' 
+			WHERE messageid=9320;
+
