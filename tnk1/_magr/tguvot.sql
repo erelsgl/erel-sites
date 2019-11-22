@@ -27345,3 +27345,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-11-21 05:59:54' 
 			WHERE messageid=9320;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_126.html',
+		'<p>אראל בדיוק להפך. השם אומר לך אל תדאג להפעלת המכונה כי באמת היא מורכבת ולכן אני מבטיח לך כי אם תלך שמאלה המכונה בשלמותה תלך איתך שמאלה ואם ימינה היא על כל המורכבות שלה תתאים את עצמה לשביל הימני שבחרת. בחירה חופשית.</p><p>סליחה על האיחור בתשובה ויום טוב ידידי אראל. </p>',
+		'102459814614545858885',
+		'אלברט שבות',
+		'2019-11-21 14:33:22'
+		)
+		;
+
