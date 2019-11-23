@@ -31711,3 +31711,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_126.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-22 19:46:17'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-01-26.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-22 19:46:24'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-01-26.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-22 19:46:26'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/ja-01-26.html'
+		;
+

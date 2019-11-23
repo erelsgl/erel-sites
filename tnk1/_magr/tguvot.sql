@@ -27357,3 +27357,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-01-26.html',
+		'<p>היי</p>',
+		'110155675547609044266',
+		'Mai Koren',
+		'2019-11-22 19:46:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-01-26.html',
+		'<p></p>',
+		'110155675547609044266',
+		'Mai Koren',
+		'2019-11-22 19:46:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuela/ja-01-26.html',
+		'<p></p>',
+		'110155675547609044266',
+		'Mai Koren',
+		'2019-11-22 19:46:26'
+		)
+		;
+
