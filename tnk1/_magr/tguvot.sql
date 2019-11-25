@@ -27517,3 +27517,110 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-11-24 00:42:04' 
 			WHERE messageid=9332;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-24 08:38:22' 
+			WHERE messageid=9325;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-24 08:38:24' 
+			WHERE messageid=9324;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-24 08:38:26' 
+			WHERE messageid=9323;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-02-1219.html',
+		'<p>רעע+טוב=357 אנוש. שנאמר ולשת גם הוא ילד בן ויקרא את שמו אנוש אז הוחל לקרא בשם יוי..</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-11-24 11:20:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-02-1219.html',
+		'<p>רעע-טוב=323 ארבעים. מרגלים. שנאמר ויזכר יוסף את החלמות אשר חלם להם ויאמר אלהם מרגלים אתם לראות את ערות הארץ באתם..</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-11-24 11:22:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>בדעת אלהים לשפוט לגשר ולהבדיל בין הטוב והרע</p><p>בראשית א4: &quot;וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ&quot;</p><p>******* יהוה הוא אהבה הוא = אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ *******</p><p>---------------------------------------------------------------------------------------</p><p>יש בי אהבה</p><p>אריק איינשטיין, שם טוב לוי</p><p>בין האפל לנסתר</p><p>בעולמנו המר</p><p>אומרים שיש עוד תקווה</p><p>קוראים לזה אהבה</p><p>ומחכים לבואה</p><p>בין האתמול לעתיד</p><p>בין האוצר לתחתית</p><p>אומרים שיש עוד תקווה</p><p>קוראים לזה אהבה</p><p>ומחכים לבואה</p><p>בין הבלבול לאסון</p><p>תדעו שיש פתרון</p><p>קוראים לזה אהבה</p><p>בין הזיוף לאמת</p><p>בין כל מה שחי למת</p><p>ישנה אהבה</p><p>יש בי אהבה</p><p>והיא תתעורר ותיגע</p><p>יש בי אהבה</p><p>והיא תנצח</p><p>יש בי אהבה</p><p>והיא תנצח</p><p>בין השפיות לשינה</p><p>בין הילדות לזקנה</p><p>אומרים שיש עוד תקווה</p><p>קוראים לזה אהבה</p><p>ומחכים לבואה</p><p>בין האתמול לעתיד</p><p>בין האוצר לתחתית</p><p>אומרים שיש עוד תקווה</p><p>קוראים לזה האהבה</p><p>ומחכים לבואה</p><p>בין הבלבול לאסון</p><p>תדעו שיש פתרון</p><p>קוראים לזה אהבה</p><p>בין הזיוף לאמת</p><p>בין כל מה שחי למת</p><p>ישנה אהבה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-24 11:33:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>בדעת אלהים לשפוט לגשר ולהבדיל בין הטוב והרע</p><p>בראשית א4: &quot;וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ&quot;</p><p>בראשית א7: &quot;וַיַּעַשׂ אֱלֹהִים אֶת הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי כֵן&quot;</p><p>וזה תפקיד הכהן הגדול</p><p>ויקרא י10: &quot;וּלֲהַבְדִּיל בֵּין הַקֹּדֶשׁ וּבֵין הַחֹל וּבֵין הַטָּמֵא וּבֵין הַטָּהוֹר&quot;</p><p>על כן על אהרן הכהן כתוב:</p><p>במדבר יז13: &quot;וַיַּעֲמֹד בֵּין הַמֵּתִים וּבֵין הַחַיִּים וַתֵּעָצַר הַמַּגֵּפָה&quot;</p><p>בדעת אלהים לשפוט לגשר ולהבדיל בין הטוב והרע</p><p>בראשית א4: &quot;וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ&quot;</p><p>******* יהוה הוא אהבה הוא = אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-24 11:56:54'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-24 11:57:53' 
+			WHERE messageid=9336;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-24 11:58:00' 
+			WHERE messageid=9326;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>בדעת אלהים לשפוט לגשר ולהבדיל בין הטוב והרע</p><p>בראשית א4: &quot;וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ&quot;</p><p>בראשית א7: &quot;וַיַּעַשׂ אֱלֹהִים אֶת הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי כֵן&quot;</p><p>וזה תפקיד הכהן הגדול</p><p>ויקרא י10: &quot;וּלֲהַבְדִּיל בֵּין הַקֹּדֶשׁ וּבֵין הַחֹל וּבֵין הַטָּמֵא וּבֵין הַטָּהוֹר&quot;</p><p>על כן על אהרן הכהן כתוב:</p><p>במדבר יז13: &quot;וַיַּעֲמֹד בֵּין הַמֵּתִים וּבֵין הַחַיִּים וַתֵּעָצַר הַמַּגֵּפָה&quot;</p><p>בדעת אלהים לשפוט לגשר ולהבדיל בין הטוב והרע</p><p>בראשית א4: &quot;וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ&quot;</p><p>******* יהוה הוא אהבה הוא = אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-24 13:03:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>תהלים נב3: &quot;מַה תִּתְהַלֵּל בְּרָעָה הַגִּבּוֹר חֶסֶד אֵל כָּל הַיּוֹם&quot; </p><p>חֶסֶד אֵל כָּל הַיּוֹם = כל היום חסד זה מה שאלהים עושה</p><p>ואלהים שם אותך בארץ למען תלמד לדעת עשות חסד</p><p>תהלים סז3: &quot;לָדַעַת בָּאָרֶץ דַּרְכֶּךָ בְּכָל גּוֹיִם יְשׁוּעָתֶךָ&quot;</p><p>וכאשר תדע בארץ דרך הקודש אז יקחך לשמים</p><p>כי אם צדיק אתה יקחך אליו יהוה אלהי השמים</p><p>להיות יחד בשמים עשות חסד לכל החיים בארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-25 05:34:58'
+		)
+		;
+
