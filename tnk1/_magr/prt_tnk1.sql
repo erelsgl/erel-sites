@@ -97,3 +97,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות כג19' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'דיין שם - יועץ על-פי התורה', `kotrt` = 'יועץ על-פי התורה', `tarik_hosfa` = '2019-11-26 05:53:01' WHERE `qod` = 'ייעוץ על-פי התורה - מאת דיין שם' AND 1 LIMIT 1;
+
