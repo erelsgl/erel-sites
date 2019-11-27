@@ -31903,3 +31903,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-2022.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/red_land__black_land.pdf',
+				NULL,
+				'2019-11-26 17:30:09',
+				'2019-11-26 17:30:09',
+				'Red land, Black land',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2019-11-26 17:30:09'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-26 18:03:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26e7_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-27 04:41:47'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-27 05:09:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-27 05:48:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0225_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-11-27 07:22:44'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_1292_1.html'
+		;
+
