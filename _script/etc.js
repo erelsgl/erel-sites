@@ -772,7 +772,7 @@ function copyTextareasToHtml(html) {
 
 function showEdit(theForm) {
 	if (theAddForm) {
-		theAddForm.qijur.disabled = true;
+		theAddForm.qijur.disabled = false;
 		theAddForm.jm_qovc_al_hlqox.disabled = true;
 		hide(theAddForm);
 	}

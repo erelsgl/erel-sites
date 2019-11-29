@@ -756,11 +756,6 @@ titleInputVisible = '<input type="text" disabled="disabled" name="title" size="5
 
 authorInputVisible = '<p>' + authorLabel + ': <input type="text" name="author" size="50" value="" />' + '</p>';
 
-languageInputVisible = '<select size=1 name="lang">' + 
-	(lang=='en'? 
-		'<option value="en" selected="selected">English' + '<option value="he">עברית' : 
-		'<option value="he" selected="selected">עברית' + '<option value="en">English'  ) + 
-	'</select>&nbsp;';
 
 	
 function bodyclass_title(the_bodyclass_text, the_bodyclass) {
