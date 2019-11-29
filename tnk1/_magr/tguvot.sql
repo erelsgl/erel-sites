@@ -27851,3 +27851,94 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-11-28 06:14:37' 
 			WHERE messageid=9354;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p></p><p>בראשית א12: &quot;וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה פְּרִי אֲשֶׁר זַרְעוֹ בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי טוֹב&quot;</p><p>בראשית א13: &quot;וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שְׁלִישִׁי&quot;---  ובכן אלהים ברא מן האדמה את כל הצומח מן הארץ ביום השלישי לפני היום הרביעי</p><p>לאמור כי כל התזונה הצמחית צמחה בחושך ללא אור בטרם נבראו המאורות ביום הרביעי</p><p>לאמור כי התזונה הצמחית יודעת היטב להתמודד עם חושך ועל כן אם חושך לך אכול מן הצומח וחדל לאכול מן החי </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-28 11:59:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>בראשית א12: &quot;וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה פְּרִי אֲשֶׁר זַרְעוֹ בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי טוֹב&quot;</p><p>בראשית א13: &quot;וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שְׁלִישִׁי&quot;--- ובכן אלהים ברא מן האדמה את כל הצומח מן הארץ ביום השלישי לפני היום הרביעי</p><p>לאמור כי כל התזונה הצמחית צמחה בחושך ללא אור בטרם נבראו המאורות ביום הרביעי</p><p>לאמור כי התזונה הצמחית יודעת היטב להתמודד עם חושך ואפלה ועל כן אם אפל לך בחיים האלה אכול מן הצומח וחדל לאכול מן החי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-28 12:09:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-11-28 12:09:40' 
+			WHERE messageid=9356;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>בראשית א12: &quot;וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה פְּרִי אֲשֶׁר זַרְעוֹ בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי טוֹב&quot;</p><p>בראשית א13: &quot;וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שְׁלִישִׁי&quot;--- ובכן אלהים ברא מן האדמה את כל הצומח מן הארץ ביום השלישי לפני היום הרביעי</p><p>לאמור כי כל התזונה הצמחית צמחה בחושך ללא אור בטרם נבראו המאורות ביום הרביעי</p><p>לאמור כי התזונה הצמחית יודעת היטב להתמודד עם חושך ואפלה ועל כן אם אפל לך בחיים האלה אכול מן הצומח וחדל לאכול מן החי</p><p>כי בשר מן החיות [הטהורות כמובן] זה לחיים אשר אור להם והתזונה מן הצומח זה לאלה אשר חושך ואפל להם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-28 12:37:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p> בנומרולוגיה כל המספרים טובים כל הגימטריה טובה</p><p>רק זכור ללכת בדרכי יהוה אֵל אֱלֹהֵי הָרוּחֹת לְכָל בָּשָׂר</p><p>כי אם בדרך יהוה לא תלך תִּוָּדֵעַ כי כל המספרים רעים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-11-28 14:58:46'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mbul.html',
+		'<p>באיזה יום הופיע קשת בענן? כ&quot;ז בחשון?</p>',
+		'101941076883059234610',
+		'Geula Gilami',
+		'2019-11-28 18:36:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mzlot.html',
+		'<p>השור הוא רמז לבכור ולראשית. שנאמר שגר אלפיך.. ולפיכך מכת הבכורות. וזה כנגד האחרון והאחרית הוא יום השבת שנרמז עם הכבש והצאן. שנאמר ועשתרות צאנך.. יתרה מכך השור והפרה נרמזים עם מצרים והשמש, ואלו הצאן נרמז עם חרן והירח. ואלו כנען היא חרן למצרים. ולראיה לבן-לבנה כנגד פרעה-אל השמש. </p><p>האריה נרמז עם הניצב הזקוף כנגד הדך. שנאמר משגב לדך.. רדיית הדבש היא לעקרון  ימי בארץ הוא זרע-קציר.</p><p>חרן+כנען+מצרים=828 צפנת פענח.</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-11-29 03:05:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mzlot.html',
+		'<p>ואלו כנען היא נמצאת בין חרן למצרים. ואולי נרמזת עם כוכב השחר.</p><p>שחר=508 יצחק בן אברהם. </p><p></p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2019-11-29 03:09:28'
+		)
+		;
+
