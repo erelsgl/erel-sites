@@ -17,7 +17,7 @@ var nameLabel = (lang=='en'? 'user name': 'שם משתמש');
 var passwordLabel = (lang=='en'? 'password': 'סיסמה');
 var subjectLabel = (lang=='en'? 'subject': 'נושא');
 var youForgotLabel = (lang=='en'? 'You forgot to fill in the ': 'שכחת למלא '); // for ValidateNotEmpty
-var authorLabel = (lang=='en'? 'Author - if different than username': 'מחבר המאמר - אם זה לא את/ה');
+var authorLabel = (lang=='en'? 'Author - if different than username': 'מחבר/ת המאמר');
 
 
 // INPUT: 4 form fields.
@@ -43,7 +43,7 @@ languageInputHidden = '<input type="hidden" name="lang" value="' + lang + '">';
 
 
 // used in the add form
-titleInputVisible = '<input type="text" disabled="disabled" name="title" size="50" value="" />';
+titleInputVisible = '<input type="text" name="title" size="50" value="" />';
 
 authorInputVisible = '<p>' + authorLabel + ': <input type="text" name="author" size="50" value="" />' + '</p>';
 
@@ -55,9 +55,6 @@ authorInputVisible = '<p>' + authorLabel + ': <input type="text" name="author" s
 
 	
 function bodyclass_title(the_bodyclass_text, the_bodyclass) {
-	if (the_bodyclass_text == 'הודעה חשובה')
-		alert('אזהרה: אין אפשרות להפוך הודעה חשובה להודעה רגילה, ולכן אם הנהלת האתר תחליט שההודעה לא מספיק חשובה, היא תימחק לגמרי!');
-	
 	if (the_bodyclass == 'new')
 		return '';
 	else
