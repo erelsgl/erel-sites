@@ -1005,7 +1005,7 @@ function tguva () {
 			'<p>'+
 			bodyclassInput+
 			titleInputVisible+
-			languageInputVisible+
+//			languageInputVisible+
 			authorInputVisible+
 			origSubjectInput);
 
