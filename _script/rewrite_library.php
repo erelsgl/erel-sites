@@ -816,7 +816,7 @@ function getMirroredFileProperties($url) {
         $file_name = "$matches[1]";
         $source = "שות מורשת";
     }
-    elseif (preg_match("!http://(.+)!",$url,$matches)) {
+    elseif (preg_match("!https?://(.+)!",$url,$matches)) {
         $directory_for_link = "klli";
         $file_name = preg_replace("{[^a-zA-Z0-9.]}",".",$matches[1]);
         $file_name = str_replace("www.","",$file_name);
