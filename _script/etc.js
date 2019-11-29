@@ -684,17 +684,12 @@ function showAdd(theForm) {
 	theAddForm.bodyclass.length = 0;
 	
 	i = 0;
-	theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? '* add what? *': '* מה להוסיף? *'), '');
 	if (theForm == 'addtext') {
+    	theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? '* add what? *': '* מה להוסיף? *'), '');
 		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'reply': 'תגובה'), 'tguva');
 		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'new article': 'מאמר חדש'), 'newarticle');
 		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'new subject': 'נושא חדש'), 'newsubject');
 		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'question': 'שאלה'), 'la_gmwr');
-		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'sticky message': 'הודעה חשובה'), 'hodaa');
-		theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'executable function': 'פונקציה ניתנת להרצה'), 'jsfunction');
-		if (/^js/.test(path_from_root_to_document)) {
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'Javascript algorithm': 'אלגוריתם בשפת javascript'), 'jsalgorithm');
-		}
 		if (/tnk1.ljon.jorj/.test(path_from_root_to_document)) {
 			theAddForm.bodyclass.options[i++] = new Option('הגדרה', 'hgdrh');
 			theAddForm.bodyclass.options[i++] = new Option('הבדל', 'hbdl');
@@ -710,26 +705,15 @@ function showAdd(theForm) {
 
 	}
 	else if (theForm == 'addfile') {
-		if (documentHasExecutableParts) {
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'input file - requires password': 'קובץ קלט - דורש סיסמה'), 'inputfile');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'other file': 'קובץ אחר'), 'file');
-		}
-		else {
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'image': 'ציור או צילום'), 'image');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'tab-seperated text': 'טבלה בקובץ טקסט'), 'magr');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'other file': 'קובץ מסוג אחר'), 'file');
-		}
+    	theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? '* add what? *': '* מה להוסיף? *'), '');
+        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'image': 'ציור או צילום'), 'image');
+        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'tab-seperated text': 'טבלה בקובץ טקסט'), 'magr');
+        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'other file': 'קובץ מסוג אחר'), 'file');
 	}
 	else {
-		if (documentHasExecutableParts) {
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to an input file - requires password': 'קישור לקובץ קלט  - דורש סיסמה'), 'inputlink');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to another code file to use - requires password': 'קישור לקובץ קוד אחר כדי להשתמש בפונקציות שלו'), 'uselink');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'other link': 'קישור אחר'), 'link');
-		}
-		else {
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to a file in this site': 'קישור למאמר באתר זה'), 'internallink');
-			theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to a file in another site': 'קישור למאמר באתר אחר'), 'externallink');
-		}
+//        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to a file in this site': 'קישור למאמר באתר זה'), 'internallink');
+//        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'link to a file in another site': 'קישור למאמר באתר אחר'), 'externallink');
+        theAddForm.bodyclass.options[i++] = new Option( (lang=='en'? 'Title of article in link': 'כותרת המאמר בקישור'), 'externallink');
 	}
 }
 
@@ -1033,8 +1017,7 @@ function tguva () {
 			"</div>\n"+
 
 			"<div id='addlink'>\n"+
-				(lang=='en'? "<h3>A hyperlink</h3>\n": "<h3>קישור חיצוני לאתר ברחבי הרשת</h3>\n")+
-				"<p><input type='text' name='qijur' dir='ltr' value='http://' size='45' /></p>\n"+
+				"<p><b>הקישור:</b> <input type='text' name='qijur' dir='ltr' value='http://' size='90' style='font-size:10px'/></p>\n"+
 			"</div>\n"+
 
 			(theTvnit=='0'?
