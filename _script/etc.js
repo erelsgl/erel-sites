@@ -7,8 +7,6 @@ is_local = 	/localhost/.test(location.href);
 var urlToLike = "http://tora.us.fm/"+path_from_root_to_document;
 var facebookLikeButton = "<iframe src='http://www.facebook.com/plugins/like.php?href=" +
 		urlToLike+"' scrolling='no' frameborder='0' style='border:none; width:450px; height:80px'></iframe>\n";
-var googlePlusButton = "<g:plusone></g:plusone>";
-
 
 select_other_versions = 
 	!/\/t0/.test(path_from_root_to_document) && 
@@ -83,9 +81,6 @@ function setLanguage(theNewLanguage) {
 				replace(/^תת-נושאים ?$/,newTguvotHeading2);
 		}
 	}
-	//addVersionsByStyle(lang);
-	//addVersionsByLanguage(lang);
-	//addVersionsByContent(lang);
 }
 
 
@@ -206,18 +201,6 @@ function linkToOtherVersion(params, pdf) {
 	return path_from_document_to_scripts + script + '?' + current_params + "&" + params;
 }
 
-
-function linkToOtherLanguages() {
-	var theText = '';
-	theText += "<div class='versionlink'>";
-	if (theLang2) {
-		theText += "<a lang='en' class='lang' dir='ltr' href='javascript:setLanguage(\"^he\")'>עברית</a>&nbsp;";
-		theText += "<a lang='he' class='lang' dir='rtl' href='javascript:setLanguage(\"^en\")'>English</a>&nbsp;";
-		theText += "<a class='lang' dir='rtl' href='javascript:setLanguage(\"^(he|en)\")'>English+עברית</a>&nbsp;";
-	}
-	theText += "</div>";
-	return theText;
-}
 
 
 function emptyVersionSelector(id) {
@@ -345,7 +328,6 @@ function kotrt() {
 			//"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
 			//"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
 			"<td>" + facebookLikeButton + "</td>\n"+
-			"<td>" + googlePlusButton + "</td>\n"+
 		"</tr>\n</table>\n";
 	}
 
@@ -402,97 +384,6 @@ function linksToOtherVersions() {
 	} // end of "if http..."
 }
 
-function addVersionsByLanguage(lang) {
-	var theVersionSelector = document.getElementById('versionsByLanguage');
-	if (!theVersionSelector) return;
-	if (theLang2) {
-		var i = theVersionSelector.options.length = 0;
-		theVersionSelector.options[i++] = new Option('* ... שפה language ... *'  , '');
-		if (lang=='en')
-			theVersionSelector.options[i++] = new Option('עברית',
-				'javascript:setLanguage("^he")');
-		else
-			theVersionSelector.options[i++] = new Option('English',
-				'javascript:setLanguage("^en")');
-		theVersionSelector.options[i++] = new Option('עברית + English',
-			'javascript:setLanguage("^(he|en)")');
-		theVersionSelector.style.display = "";
-	}
-	else
-		theVersionSelector.style.display = "none";
-}
-
-
-function addVersionsByStyle(lang) {
-	var theVersionSelector = document.getElementById('versionsByStyle');
-	if (!theVersionSelector) return;
-	var i = theVersionSelector.options.length = 0;
-	theVersionSelector.options[i++] = new Option( (lang=='en'? '* select style... *': '* בחר סגנון... *'), '');
-
-	theVersionSelector.options[i++] = new Option( (lang=='en'? "book print": "הדפסה לספר"), linkToOtherVersion("style=print&toclevel=1&pagebreaklevel=1"));
-
-	theVersionSelector.options[i++] = new Option( (lang=='en'? "compact print": "הדפסה חסכונית"), linkToOtherVersion("style=print+compact"));
-
-	if (document.body.dir=='ltr') { // ... because princexml can't handle rtl docs
-		theVersionSelector.options[i++] = new Option( (lang=='en'? "book pdf": "pdf לספר"), linkToOtherVersion("style=print&toclevel=1&pagebreaklevel=1","pdf"));
-		theVersionSelector.options[i++] = new Option( (lang=='en'? "compact pdf": "pdf צפוף"), linkToOtherVersion("style=print+compact","pdf"));
-	}
-
-	theVersionSelector.style.display = (theVersionSelector.options.length<2? "none": "");
-}
-
-
-function addVersionsByContent(lang) {
-	var theVersionSelector = document.getElementById('versionsByContent');
-	if (!theVersionSelector) return;
-	var i = theVersionSelector.options.length = 0;
-	theVersionSelector.options[i++] = new Option( (lang=='en'? '* select content... *': '* בחר תוכן... *'), '');
-	if (site=='za') {
-			theVersionSelector.options[i++] = new Option(
-				"Zooogi formal document - HTML",
-				linkToOtherVersion("followuplevel=99&toclevel=99&pagebreaklevel=0&style=print+compact"));
-			theVersionSelector.options[i++] = new Option(
-				"Zooogi formal document - Word",
-				linkToOtherVersion("followuplevel=99&toclevel=99&pagebreaklevel=0&style=print+compact&editor=Word&output=" + path_from_root_to_document + "_word&lang=en&lang2="));
-			theVersionSelector.options[i++] = new Option(
-				"Zooogi formal document - PDF",
-				linkToOtherVersion("followuplevel=99&toclevel=99&pagebreaklevel=1&style=print&lang=en&lang2=","pdf"));
-	}
-	if (/ktuv\/mjly\//.test(path_from_root_to_document) || /msr/.test(path_from_root_to_document) || /0smx/.test(path_from_root_to_document)) {
-			var followuplevel = (/mdrik$/.test(path_from_root_to_document)? "2": "1");
-			var filebreaklevel = followuplevel-1;
-			var timelimit =  (/mdrik$/.test(path_from_root_to_document)? "0": "30");
-			//alert(followuplevel);
-			theVersionSelector.options[i++] = new Option(
-				"מדריך משלי לחיים - גרסת רשת מלאה",
-				linkToOtherVersion("followuplevel="+followuplevel+"&toclevel="+followuplevel+"&pagebreaklevel=1&databaselevel=50&style=print+compact&internallinks=1&author=אראל&book=משלי&timelimit="+timelimit));
-			/*theVersionSelector.options[i++] = new Option(
-				"מדריך משלי לחיים - גרסת התמל",
-				linkToOtherVersion("followuplevel="+followuplevel+"&toclevel="+followuplevel+"&pagebreaklevel=1&databaselevel=50&style=print+compact&internallinks=1&author=אראל&timelimit=30&output=html"));*/
-			theVersionSelector.options[i++] = new Option(
-				"מדריך משלי לחיים - גרסת וורד",
-				linkToOtherVersion("followuplevel="+followuplevel+"&toclevel="+followuplevel+"&pagebreaklevel=1&filebreaklevel="+filebreaklevel+"&databaselevel=50&style=print+compact&internallinks=1&author=אראל&book=משלי&timelimit="+timelimit+"&output=word&editor=Word"));
-			/*theVersionSelector.options[i++] = new Option(
-				"מדריך משלי לחיים - גרסת הדפסה מלאה משמאל לימין",
-				linkToOtherVersion("followuplevel=99&toclevel=99&pagebreaklevel=1&databaselevel=50&style=print","pdf"));*/
-	}
-	// add "show all replies" option if relevant:
-	followups = theTguvot? theTguvot.innerHTML: theBnim? theBnim.innerHTML: "";
-	if (followups.length>15) {
-		theVersionSelector.options[i++] = new Option( (lang == 'en'? "all sub-articles, numbered": "כל תת-המאמרים, ממוספרים"), linkToOtherVersion("followuplevel=99&numbering=(%d)%20"));
-		
-		if (theAuthor && theAuthor.length>0 && followups.indexOf(theAuthor)>0) {
-			var theLabel = (lang == 'en'? "all sub-articles of ": "כל תת-המאמרים של ") + theAuthor;
-
-			theVersionSelector.options[i++] = new Option( 
-				theLabel,
-				linkToOtherVersion("followuplevel=99&author="+encodeURI(theAuthor)));
-		}
-		
-		theVersionSelector.options[i++] = new Option( (lang == 'en'? "2 levels sub-articles": "שתי רמות של תת-מאמרים"), linkToOtherVersion("followuplevel=2"));
-	}
-	theVersionSelector.style.display = (theVersionSelector.options.length<2? "none": "");
-}
 
 function uriOfOurSearchResults(query) {
 	return "http://tora.us.fm/tnk1/find.php?q=" + 
@@ -530,11 +421,6 @@ function txtit() {
 	document.write("<hr />");
 
 	linksToOtherVersions();
-	if (select_other_versions) {
-		addVersionsByStyle(lang);
-		addVersionsByLanguage(lang);
-		addVersionsByContent(lang);
-	}
 
 	theText = ("<div class='txtit'>");
 
@@ -1083,7 +969,6 @@ function tguva () {
 
 	document.write("<table class='versionselectors'><tr>\n"+
 			"<td>" + facebookLikeButton + "</td>\n"+
-			"<td>" + googlePlusButton + "</td>\n"+
 			"</tr></table>");
 
 	if (theTvnit == "0") {
