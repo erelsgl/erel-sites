@@ -28188,3 +28188,41 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/qdjjdl.html',
+		'<p>קדוש = נקי טהור כמלאך --- טְהוֹר עֵינַיִם מֵרְאוֹת רָע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-02 17:03:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/qdjjdl.html',
+		'<p>קדוש = נקי טהור כמלאך --- טְהוֹר עֵינַיִם מֵרְאוֹת רָע</p><p>קדוש = כמלאך - וְעֵינָיו כְּלַפִּידֵי אֵשׁ --- טְהוֹר עֵינַיִם מֵרְאוֹת רָע</p><p>דניאל י5: &quot;וָאֶשָּׂא אֶת עֵינַי וָאֵרֶא וְהִנֵּה אִישׁ אֶחָד לָבוּשׁ בַּדִּים וּמָתְנָיו חֲגֻרִים בְּכֶתֶם אוּפָז&quot;</p><p>דניאל י6: &quot;וּגְוִיָּתוֹ כְתַרְשִׁישׁ וּפָנָיו כְּמַרְאֵה בָרָק וְעֵינָיו כְּלַפִּידֵי אֵשׁ וּזְרֹעֹתָיו וּמַרְגְּלֹתָיו כְּעֵין נְחֹשֶׁת קָלָל וְקוֹל דְּבָרָיו כְּקוֹל הָמוֹן&quot;</p><p>חבקוק א13: &quot;טְהוֹר עֵינַיִם מֵרְאוֹת רָע וְהַבִּיט אֶל עָמָל לֹא תוּכָל לָמָּה תַבִּיט בּוֹגְדִים תַּחֲרִישׁ בְּבַלַּע רָשָׁע צַדִּיק מִמֶּנּוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-02 17:05:08'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-12-02 17:05:15' 
+			WHERE messageid=9380;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-12-02 17:05:21' 
+			WHERE messageid=9378;
+
