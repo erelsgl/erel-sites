@@ -32442,3 +32442,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2019-12-04 07:49:36'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-12-04 15:13:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1066_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-12-04 17:25:42'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuelb_rkv_wbana_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-12-04 18:05:53'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuelb_rkv_wbana_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2019-12-05 05:23:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+

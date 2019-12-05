@@ -28288,3 +28288,58 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-12-04 13:28:02' 
+			WHERE messageid=9381;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>1.חכמת עָנִי הכסף לעני חכמת אלהים  = לעני מגיע יין=כסף=חכמה=קשט אמרי אמת</p><p>2.דעת וּנְכֵה רוּחַ הַנְּחֹשֶׁת לנכה-הרוח דעת אלהים = מִזִּמְרַת הָאָרֶץ [פיצוחים] מְעַט צֳרִי וּמְעַט דְּבַשׁ נְכֹאת וָלֹט בָּטְנִים וּשְׁקֵדִים</p><p>מלכים ב כ13:כָּל בֵּית נְכֹתֹה אֶת הַכֶּסֶף וְאֶת הַזָּהָב וְאֶת הַבְּשָׂמִים וְאֵת שֶׁמֶן הַטּוֹב וְאֵת בֵּית כֵּלָיו וְאֵת כָּל אֲשֶׁר נִמְצָא בְּאוֹצְרֹתָיו </p><p>3.תבונת וְחָרֵד עַל דְּבָרִי הזהב ולחרד על דברי בינת אלהים = במדבר יא7: &quot;וְהַמָּן כִּזְרַע גַּד הוּא וְעֵינוֹ כְּעֵין הַבְּדֹלַח&quot;</p><p>במדבר יא8: &quot;שָׁטוּ הָעָם וְלָקְטוּ וְטָחֲנוּ בָרֵחַיִם אוֹ דָכוּ בַּמְּדֹכָה וּבִשְּׁלוּ בַּפָּרוּר וְעָשׂוּ אֹתוֹ עֻגוֹת וְהָיָה טַעְמוֹ כְּטַעַם לְשַׁד הַשָּׁמֶן&quot;</p><p>שמות טז31: &quot;וַיִּקְרְאוּ בֵית יִשְׂרָאֵל אֶת שְׁמוֹ מָן וְהוּא כְּזֶרַע גַּד לָבָן וְטַעְמוֹ כְּצַפִּיחִת בִּדְבָשׁ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-04 15:13:32'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuelb_rkv_wbana_0.html',
+		'<p>היי, אשמח אם תענו על השאלה מי היו רכב ובענה</p>',
+		'103051667439046948911',
+		'LiamYT',
+		'2019-12-04 17:25:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/nvir_jmuelb_rkv_wbana_0.html',
+		'<p> LiamYT</p><p>רכב ובענה היו שני אחים בְּנֵי רִמּוֹן הַבְּאֵרֹתִי </p><p>שרצחו את אִישׁ בֹּשֶׁת  בנו של שאול המלך</p><p>כי חשבו שככה הם עושים טובה לדוד המלך</p><p>כי הרשעים האלה אמרו לעצמם נרצח את בן שאול אויב דוד</p><p>וככה נמצא חן בעיני דוד והוא ישיב לנו טובה</p><p>אבל דוד המלך צדיק ולא ריחם על הרשעים האלה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-04 18:05:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0114_3.html',
+		'<p>בראשית יז17: &quot;וַיִּפֹּל אַבְרָהָם עַל פָּנָיו וַיִּצְחָק וַיֹּאמֶר בְּלִבּוֹ הַלְּבֶן מֵאָה שָׁנָה יִוָּלֵד וְאִם שָׂרָה הֲבַת תִּשְׁעִים שָׁנָה תֵּלֵד&quot;</p><p>בראשית יז17: &quot;ויפל אברהם על פניו ויצחק ויאמר בלבו הלבן מאה שנה יולד ואם שרה הבת תשעים שנה תלד&quot;</p><p>בראשית יז17: &quot;ויפל אברהם על פניו ויצחק ויאמר בלבו הלבן ........... כי לאברהם אבינו היה לב לבן נקי טהור</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-05 05:23:25'
+		)
+		;
+
