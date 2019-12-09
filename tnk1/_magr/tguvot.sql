@@ -28713,3 +28713,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2673_1.html',
+		'<p>בראשית ו3: &quot;וַיֹּאמֶר יהוה לֹא יָדוֹן רוּחִי בָאָדָם לְעֹלָם בְּשַׁגַּם הוּא בָשָׂר וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה&quot;</p><p>ובכל זאת רואים בתורה כי עדיין בימים הם נח חי 950 שנה</p><p>לכן זה היה תהליך שארך שנים רבות מימי קדם אשר חיו אנשים מאות שנים עד ימי משה 120 שנה</p><p>וככה גם יש להבין כי דבר אלהים דבר חזון ונבואה לימים רבים וקללתו על הנחש עד שאיבד רגליו</p><p>לכן אני מקבל את תאוריית המדענים באשר לאבולוציה של הנחש</p><p>ויש להבין כי זמן האלהים אינו כזמן האדם</p><p>תהלים צ4: &quot;כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה&quot;</p><p>https://news.walla.co.il/item/2911456?fbclid=IwAR0Qi0tDKTQl3a68raf8HQGDkWdnDyFK-KaLzWmjtlOPnrogzHn1vbma6zw</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-08 13:32:38'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2673_1.html',
+		'<p>בראשית ו3: &quot;וַיֹּאמֶר יהוה לֹא יָדוֹן רוּחִי בָאָדָם לְעֹלָם בְּשַׁגַּם הוּא בָשָׂר וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה&quot;</p><p>ובכל זאת רואים בתורה כי עדיין בימים ההם נח חי 950 שנה</p><p>לכן זה היה תהליך שארך שנים רבות מימי קדם אשר חיו אנשים מאות שנים עד ימי משה 120 שנה</p><p>וככה גם יש להבין כי דבר אלהים דבר חזון ונבואה לימים רבים וקללתו על הנחש עד שאיבד רגליו</p><p>לכן אני מקבל את תאוריית המדענים באשר לאבולוציה של הנחש</p><p>ויש להבין כי זמן האלהים אינו כזמן האדם</p><p>תהלים צ4: &quot;כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה&quot;</p><p>https://news.walla.co.il/item/2911456?fbclid=IwAR0Qi0tDKTQl3a68raf8HQGDkWdnDyFK-KaLzWmjtlOPnrogzHn1vbma6zw</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-08 13:33:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2019-12-08 13:33:26' 
+			WHERE messageid=9415;
+
