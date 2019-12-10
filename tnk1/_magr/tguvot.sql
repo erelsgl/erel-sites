@@ -28744,3 +28744,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2019-12-08 13:33:26' 
 			WHERE messageid=9415;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>העבדים עובדים את המלך והמלך עובד את השדה</p><p>עבדים נושאים מנחה למלך והמלך נושא מנחה לחית השדה</p><p>כי לחית השדה אין כסף לשלם כעבדים למלך</p><p>על כן המלך יקח הכסף מעבדיו ולא מחית השדה</p><p>חית השדה מביאה את ברכתה בדרך אחרת בדרך של אהבה</p><p>על כן מֶלֶךְ לְשָׂדֶה נֶעֱבָד וכן גם לחית השדה </p><p>קהלת ה8: &quot;וְיִתְרוֹן אֶרֶץ בַּכֹּל היא[הוּא] מֶלֶךְ לְשָׂדֶה נֶעֱבָד&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2019-12-09 14:32:37'
+		)
+		;
+
