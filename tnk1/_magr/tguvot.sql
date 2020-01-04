@@ -30458,3 +30458,17 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-01-01 16:16:43' 
 			WHERE messageid=9524;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-03 13:15:58' 
+			WHERE messageid=2651;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-03 13:15:59' 
+			WHERE messageid=2653;
+
