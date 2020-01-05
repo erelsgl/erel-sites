@@ -33762,3 +33762,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-01-03 13:42:36'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-04 17:04:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26e7_1.html'
+		;
+
