@@ -33856,3 +33856,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-01-07 07:01:26'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/jmwt_37_hgybwrym.pdf',
+				NULL,
+				'2020-01-07 15:54:22',
+				'2020-01-07 15:54:22',
+				'אלה שמות 37 הגיבורים',
+				'רמי ניר',
+				''
+			)
+		;
+
