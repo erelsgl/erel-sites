@@ -33872,3 +33872,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4qrqa.html',
+				'tnk1/ktuv/ewn/ez-02-01.html',
+				NULL,
+				'2020-01-09 06:45:06',
+				'2020-01-09 06:45:06',
+				'בני ישראל העולים מבבל חזרו לנחלותיהם הישנות',
+				'אראל',
+				''
+			)
+		;
+
