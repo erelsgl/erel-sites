@@ -975,3 +975,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/mgilot/jj-02-eitn.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-01-13 22:32:01'
+			WHERE parent='tnk1/ktuv/mgilot/jj-02-eitn.html'
+			;
+
