@@ -34064,3 +34064,26 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1180.html',
+				NULL,
+				'2020-01-15 16:00:28',
+				'2020-01-15 16:00:28',
+				' פרשת שמות- מהו הנס הפלאי בלידת משה?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-01-15 16:00:28'
+			WHERE ktovt_bn='tnk1/forums.html';
+
