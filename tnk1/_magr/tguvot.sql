@@ -30837,3 +30837,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-01-13 22:32:01' 
 			WHERE messageid=9549;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>******* זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ:*******</p><p>שָׁמוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ כַּאֲשֶׁר צִוְּךָ יְהֹוָה אֱלֹהֶיךָ:</p><p>מי שכל חייו יזכור לשמור את יום השבת לקדשו</p><p>אז לעולם לא יהיה לו אלצהיימר [מחלת שכחה]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-17 05:56:44'
+		)
+		;
+
