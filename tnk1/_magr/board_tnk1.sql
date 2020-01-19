@@ -34686,3 +34686,67 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-01-17 12:56:09'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-18 16:21:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2824_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-18 16:39:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_11.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-18 16:49:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-19 05:32:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-19 05:34:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0319_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-19 06:40:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-19 06:47:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-01-19 06:49:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
