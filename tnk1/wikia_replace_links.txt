@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-01-17 07:05:56
+# This file was automatically generated at 2020-01-28 06:20:16
 
 sub wikia_replace_links {
 $_=shift;
@@ -3830,6 +3830,7 @@ s|${OPENLINK}tnk1/messages/_hegl.jpg|[[ביאור:ציור מעשה העגל|ig;
 s|${OPENLINK}tnk1/messages/_hbykwrym_lkhn_.jpg|[[ביאור:ציור הבאת הביכורים לכהן|ig;
 s|${OPENLINK}tnk1/messages/_hbnyyn.doc|[[ביאור:יסודות הבניין - הספר המלא (.doc)|ig;
 s|${OPENLINK}tnk1/messages/_fwwt_xwfym_lmjkn_.jpg|[[ביאור:הנשים טוות חוטים למשכן|ig;
+s|${OPENLINK}tnk1/messages/_frawmh_mabdn_hedwt_bthylym_qlb___132.pdf|[[ביאור:פוסט טראומה מאבדן העדות בתהילים קלב|ig;
 s|${OPENLINK}tnk1/messages/_eybryh_003.jpg|[[ביאור:ציור אמה עבריה|ig;
 s|${OPENLINK}tnk1/messages/_ewwn_abwt_el_bnym.doc|[[ביאור:פוקד עוון אבות על בנים = ממיר מוות לחוטא בעוני לחוטא ולצאצאיו (.doc)|ig;
 s|${OPENLINK}tnk1/messages/_emwd_haj_.jpg|[[ביאור:ציור נס עמוד האש|ig;
@@ -8138,6 +8139,9 @@ s|${OPENLINK}tnk1/messages/forums_122|[[ביאור:שבועות - מהות הח�
 s|${OPENLINK}tnk1/messages/forums_121|[[ביאור:'ירושלים והבשורה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_120|[[ביאור:'סדר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_12|[[ביאור:פרשת ניצבים - מי הם הנענשים בעוון אי קיום התורה|ig;
+s|${OPENLINK}tnk1/messages/forums_1183|[[ביאור:' מכת הדם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1182|[[ביאור:פרשת וארא - אימתי החלו המצרים לשעבד את ישראל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1181|[[ביאור:'הולדת משה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1180|[[ביאור:פרשת שמות - מהו הנס הפלאי בלידת משה?|ig;
 s|${OPENLINK}tnk1/messages/forums_118|[[ביאור:'ירושלים כתר זהב' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1179|[[ביאור:'אחי יוסף ובקשתם' - שיר מאת אהובה קליין (c)|ig;
