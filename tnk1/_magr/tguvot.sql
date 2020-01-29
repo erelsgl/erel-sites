@@ -31429,3 +31429,240 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>זכריה יא7: &quot;וָאֶרְעֶה אֶת צֹאן הַהֲרֵגָה לָכֵן ***עֲנִיֵּי הַצֹּאן*** וָאֶקַּח לִי שְׁנֵי מַקְלוֹת לְאַחַד קָרָאתִי נֹעַם וּלְאַחַד קָרָאתִי חֹבְלִים וָאֶרְעֶה אֶת הַצֹּאן&quot;</p><p>זכריה יא11: &quot;וַתֻּפַר בַּיּוֹם הַהוּא וַיֵּדְעוּ כֵן ***עֲנִיֵּי הַצֹּאן*** הַשֹּׁמְרִים אֹתִי כִּי דְבַר יהוה הוּא&quot;</p><p>אנא יהוה ברכני מעֲנִיֵּי הַצֹּאן הַשֹּׁמְרִים אֹתך כִּי דְבַר יהוה הוּא </p><p>ובדברך חַיֵּנִי כי ידעתי בקודש כי יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>תהלים קיט25: &quot;דָּבְקָה לֶעָפָר נַפְשִׁי חַיֵּנִי כִּדְבָרֶךָ&quot; </p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>ברכני מעֲנִיֵּי הַצֹּאן ובלבד שאשמור משמרתך יהוה</p><p>-</p><p>תהלים כח6: &quot;בָּרוּךְ יהוה כִּי שָׁמַע קוֹל תַּחֲנוּנָי&quot;</p><p>תהלים לא22: &quot;בָּרוּךְ יהוה כִּי הִפְלִיא חַסְדּוֹ לִי בְּעִיר מָצוֹר&quot;</p><p>תהלים מא14: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מֵהָעוֹלָם וְעַד הָעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים עב18: &quot;בָּרוּךְ יהוה אֱלֹהִים אֱלֹהֵי יִשְׂרָאֵל עֹשֵׂה נִפְלָאוֹת לְבַדּוֹ&quot;</p><p>תהלים פט53: &quot;בָּרוּךְ יהוה לְעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים קו48: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מִן הָעוֹלָם וְעַד הָעוֹלָם וְאָמַר כָּל הָעָם אָמֵן הַלְלוּ יָהּ&quot;</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית ה\'&quot;</p><p>תהלים קכד6: &quot;בָּרוּךְ יהוה שֶׁלֹּא נְתָנָנוּ טֶרֶף לְשִׁנֵּיהֶם&quot;</p><p>תהלים קלה21: &quot;בָּרוּךְ יהוה מִצִּיּוֹן שֹׁכֵן יְרוּשָׁלָים הַלְלוּ יָהּ&quot;</p><p>תהלים קמד1: &quot;לְדָוִד בָּרוּךְ יהוה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה&quot;</p><p>  </p><p>איוב ה22: &quot;לְשֹׁד וּלְכָפָן תִּשְׂחָק וּמֵחַיַּת הָאָרֶץ אַל תִּירָא&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-29 06:08:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>זכריה יא7: &quot;וָאֶרְעֶה אֶת צֹאן הַהֲרֵגָה לָכֵן ***עֲנִיֵּי הַצֹּאן*** וָאֶקַּח לִי שְׁנֵי מַקְלוֹת לְאַחַד קָרָאתִי נֹעַם וּלְאַחַד קָרָאתִי חֹבְלִים וָאֶרְעֶה אֶת הַצֹּאן&quot;</p><p>זכריה יא11: &quot;וַתֻּפַר בַּיּוֹם הַהוּא וַיֵּדְעוּ כֵן ***עֲנִיֵּי הַצֹּאן*** הַשֹּׁמְרִים אֹתִי כִּי דְבַר יהוה הוּא&quot;</p><p>אנא יהוה ברכני מעֲנִיֵּי הַצֹּאן הַשֹּׁמְרִים אֹתך כִּי דְבַר יהוה הוּא</p><p>ובדברך חַיֵּנִי כי ידעתי בקודש כי יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>תהלים קיט25: &quot;דָּבְקָה לֶעָפָר נַפְשִׁי חַיֵּנִי כִּדְבָרֶךָ&quot;</p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>ברכני מעֲנִיֵּי הַצֹּאן ובלבד שאשמור משמרתך יהוה</p><p>-</p><p>תהלים כח6: &quot;בָּרוּךְ יהוה כִּי שָׁמַע קוֹל תַּחֲנוּנָי&quot;</p><p>תהלים לא22: &quot;בָּרוּךְ יהוה כִּי הִפְלִיא חַסְדּוֹ לִי בְּעִיר מָצוֹר&quot;</p><p>תהלים מא14: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מֵהָעוֹלָם וְעַד הָעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים עב18: &quot;בָּרוּךְ יהוה אֱלֹהִים אֱלֹהֵי יִשְׂרָאֵל עֹשֵׂה נִפְלָאוֹת לְבַדּוֹ&quot;</p><p>תהלים פט53: &quot;בָּרוּךְ יהוה לְעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים קו48: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מִן הָעוֹלָם וְעַד הָעוֹלָם וְאָמַר כָּל הָעָם אָמֵן הַלְלוּ יָהּ&quot;</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית יהוה&quot;</p><p>תהלים קכד6: &quot;בָּרוּךְ יהוה שֶׁלֹּא נְתָנָנוּ טֶרֶף לְשִׁנֵּיהֶם&quot;</p><p>תהלים קלה21: &quot;בָּרוּךְ יהוה מִצִּיּוֹן שֹׁכֵן יְרוּשָׁלָים הַלְלוּ יָהּ&quot;</p><p>תהלים קמד1: &quot;לְדָוִד בָּרוּךְ יהוה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה&quot;</p><p>איוב ה22: &quot;לְשֹׁד וּלְכָפָן תִּשְׂחָק וּמֵחַיַּת הָאָרֶץ אַל תִּירָא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-29 06:09:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>זכריה יא7: &quot;וָאֶרְעֶה אֶת צֹאן הַהֲרֵגָה לָכֵן ***עֲנִיֵּי הַצֹּאן*** וָאֶקַּח לִי שְׁנֵי מַקְלוֹת לְאַחַד קָרָאתִי נֹעַם וּלְאַחַד קָרָאתִי חֹבְלִים וָאֶרְעֶה אֶת הַצֹּאן&quot;</p><p>זכריה יא11: &quot;וַתֻּפַר בַּיּוֹם הַהוּא וַיֵּדְעוּ כֵן ***עֲנִיֵּי הַצֹּאן*** הַשֹּׁמְרִים אֹתִי כִּי דְבַר יהוה הוּא&quot;</p><p>אנא יהוה ברכני מעֲנִיֵּי הַצֹּאן הַשֹּׁמְרִים אֹתך כִּי דְבַר יהוה הוּא</p><p>ובדברך חַיֵּנִי כי ידעתי בקודש כי יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>תהלים קיט25: &quot;דָּבְקָה לֶעָפָר נַפְשִׁי חַיֵּנִי כִּדְבָרֶךָ&quot;</p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>ברכני מעֲנִיֵּי הַצֹּאן ובלבד שאשמור משמרתך יהוה</p><p>*************************************************</p><p>תהלים כח6: &quot;בָּרוּךְ יהוה כִּי שָׁמַע קוֹל תַּחֲנוּנָי&quot;</p><p>תהלים לא22: &quot;בָּרוּךְ יהוה כִּי הִפְלִיא חַסְדּוֹ לִי בְּעִיר מָצוֹר&quot;</p><p>תהלים מא14: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מֵהָעוֹלָם וְעַד הָעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים עב18: &quot;בָּרוּךְ יהוה אֱלֹהִים אֱלֹהֵי יִשְׂרָאֵל עֹשֵׂה נִפְלָאוֹת לְבַדּוֹ&quot;</p><p>תהלים פט53: &quot;בָּרוּךְ יהוה לְעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים קו48: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מִן הָעוֹלָם וְעַד הָעוֹלָם וְאָמַר כָּל הָעָם אָמֵן הַלְלוּ יָהּ&quot;</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית יהוה&quot;</p><p>תהלים קכד6: &quot;בָּרוּךְ יהוה שֶׁלֹּא נְתָנָנוּ טֶרֶף לְשִׁנֵּיהֶם&quot;</p><p>תהלים קלה21: &quot;בָּרוּךְ יהוה מִצִּיּוֹן שֹׁכֵן יְרוּשָׁלָים הַלְלוּ יָהּ&quot;</p><p>תהלים קמד1: &quot;לְדָוִד בָּרוּךְ יהוה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה&quot;</p><p>איוב ה22: &quot;לְשֹׁד וּלְכָפָן תִּשְׂחָק וּמֵחַיַּת הָאָרֶץ אַל תִּירָא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-29 06:10:10'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:10:23' 
+			WHERE messageid=9591;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:10:28' 
+			WHERE messageid=9590;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:35' 
+			WHERE messageid=4783;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:37' 
+			WHERE messageid=4799;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:41' 
+			WHERE messageid=4839;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:48' 
+			WHERE messageid=5247;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:49' 
+			WHERE messageid=5268;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:53' 
+			WHERE messageid=5269;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:11:56' 
+			WHERE messageid=5300;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>זכריה יא7: &quot;וָאֶרְעֶה אֶת צֹאן הַהֲרֵגָה לָכֵן ***עֲנִיֵּי הַצֹּאן*** וָאֶקַּח לִי שְׁנֵי מַקְלוֹת לְאַחַד קָרָאתִי נֹעַם וּלְאַחַד קָרָאתִי חֹבְלִים וָאֶרְעֶה אֶת הַצֹּאן&quot;</p><p>זכריה יא11: &quot;וַתֻּפַר בַּיּוֹם הַהוּא וַיֵּדְעוּ כֵן ***עֲנִיֵּי הַצֹּאן*** הַשֹּׁמְרִים אֹתִי כִּי דְבַר יהוה הוּא&quot;</p><p>אנא יהוה ברכני מעֲנִיֵּי הַצֹּאן הַשֹּׁמְרִים אֹתך כִּי דְבַר יהוה הוּא</p><p>ובדברך חַיֵּנִי כי ידעתי בקודש כי יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>איוב ה22: &quot;לְשֹׁד וּלְכָפָן תִּשְׂחָק וּמֵחַיַּת הָאָרֶץ אַל תִּירָא&quot;</p><p>תהלים קיט25: &quot;דָּבְקָה לֶעָפָר נַפְשִׁי חַיֵּנִי כִּדְבָרֶךָ&quot;</p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>ברכני מעֲנִיֵּי הַצֹּאן ובלבד שאשמור משמרתך יהוה</p><p>*************************************************</p><p>תהלים כח6: &quot;בָּרוּךְ יהוה כִּי שָׁמַע קוֹל תַּחֲנוּנָי&quot;</p><p>תהלים לא22: &quot;בָּרוּךְ יהוה כִּי הִפְלִיא חַסְדּוֹ לִי בְּעִיר מָצוֹר&quot;</p><p>תהלים מא14: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מֵהָעוֹלָם וְעַד הָעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים עב18: &quot;בָּרוּךְ יהוה אֱלֹהִים אֱלֹהֵי יִשְׂרָאֵל עֹשֵׂה נִפְלָאוֹת לְבַדּוֹ&quot;</p><p>תהלים פט53: &quot;בָּרוּךְ יהוה לְעוֹלָם אָמֵן וְאָמֵן&quot;</p><p>תהלים קו48: &quot;בָּרוּךְ יהוה אֱלֹהֵי יִשְׂרָאֵל מִן הָעוֹלָם וְעַד הָעוֹלָם וְאָמַר כָּל הָעָם אָמֵן הַלְלוּ יָהּ&quot;</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית יהוה&quot;</p><p>תהלים קכד6: &quot;בָּרוּךְ יהוה שֶׁלֹּא נְתָנָנוּ טֶרֶף לְשִׁנֵּיהֶם&quot;</p><p>תהלים קלה21: &quot;בָּרוּךְ יהוה מִצִּיּוֹן שֹׁכֵן יְרוּשָׁלָים הַלְלוּ יָהּ&quot;</p><p>תהלים קמד1: &quot;לְדָוִד בָּרוּךְ יהוה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-29 06:12:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:09' 
+			WHERE messageid=9592;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:13' 
+			WHERE messageid=5414;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:13' 
+			WHERE messageid=5415;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:14' 
+			WHERE messageid=5416;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:21' 
+			WHERE messageid=5848;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:30' 
+			WHERE messageid=5873;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:33' 
+			WHERE messageid=6059;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:35' 
+			WHERE messageid=6060;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:36' 
+			WHERE messageid=6061;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:37' 
+			WHERE messageid=6062;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:37' 
+			WHERE messageid=6063;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:41' 
+			WHERE messageid=6279;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:12:54' 
+			WHERE messageid=6787;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:13:00' 
+			WHERE messageid=6877;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:13:06' 
+			WHERE messageid=7019;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:13:11' 
+			WHERE messageid=7036;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:13:14' 
+			WHERE messageid=7520;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-01-29 06:13:33' 
+			WHERE messageid=8086;
+
