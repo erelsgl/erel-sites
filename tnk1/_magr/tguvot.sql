@@ -31666,3 +31666,27 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-01-29 06:13:33' 
 			WHERE messageid=8086;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-08-1112.html',
+		'<p>המאמר לא התפרסם בכתב-עת אקדמי.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-01-30 03:14:55'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b23_1.html',
+		'<p>מאת משיח-יהוה</p><p>אלהים המשלתני על האדם כי צדיק אתה</p><p>כי מוֹשֵׁל בָּאָדָם צַדִּיק מוֹשֵׁל יִרְאַת אֱלֹהִים</p><p>אך זָכֹר  אֶזְכֹּר כי בניך כולם ישובו אליך</p><p>ואם לא בחייהם הלא במותם ישובו אליך</p><p>אֲבַדּוֹן וָמָוֶת אָמְרוּ בְּאָזְנֵינוּ שָׁמַעְנוּ שִׁמְעָהּ</p><p> וְשָׁמְעוּ אֶת דְּבָרֶיךָ וְשָׁמְעוּ לְקֹלֶךָ אלהים</p><p>על כן אבקשך לבל ירום לבבי על אחיי</p><p> וְנָתַתָּה בי רוח עֲנָוִים ליראה את שמך</p><p>ברוך יהוה אלהים צדיק אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-01-30 05:02:38'
+		)
+		;
+
