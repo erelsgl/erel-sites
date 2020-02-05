@@ -31924,3 +31924,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>יהוה אלהים חסיד אתה</p><p>ובחסדך מלאתני רוח דעת אלהים</p><p>וכדעת האדם הראשון ביום הבראו</p><p>והנה נפשי כגן-רוה הנני אבי הנני</p><p>ועתה אבי קחני אליך לשמים</p><p>פן חללתי שמך הקדוש והנורא הזה</p><p>זה שמך אשר נקרא עלי</p><p>&quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ </p><p>אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot;</p><p>על כן אבי מקדם התפללתי אליך את הַתְּפִלָּה הַזֹּאת מימים ימימה</p><p>כמפלל לאמור: ברכני צדיק בשמים וקדוש בארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-02-04 11:43:16'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>******* שם המשיח *******</p><p>לפי הנומרולוגיה בתכנת-מחשב</p><p>[לטוב ולרע --לא נגעתי]</p><p>שם: דיין שם משה</p><p>אדם סופר משפחתי. סופר דאגן לבית. הורה מאוד אימהי. רגיש מאוד. בעל נפש עשירה. יופי פנימי. חש ואוהב צבעים. מוכן לעזור ולטפל. נמרץ. עקשן. מלחמתי (לא רוצה להיות פראייר). אכפתי. פרפקציוניסט. דאגן והססן. נטייה לפינוק ולעצלות. אוהב מתנות. אהבה ורומנטיקה חשובים לו עד כדי בעייתיות. פועל מתוך רגש. סדר וניקיון חשובים לו, לפעמים בצורה כפייתית. מוגן ממצבים קשים (מגן דוד כפול).</p><p>---</p><p>מתוך הקישור הזה</p><p>https://www.mystics.co.il/extra/g/%D7%A0%D7%95%D7%9E%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-02-04 12:40:45'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-02-04 12:43:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-02-04 12:43:33' 
+			WHERE messageid=9614;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-02-04 16:23:53' 
+			WHERE messageid=9611;
+
