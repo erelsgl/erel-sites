@@ -35377,3 +35377,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/pay___3___bamt.pdf',
+				NULL,
+				'2020-02-05 19:30:48',
+				'2020-02-05 19:30:48',
+				'מתי פאי = 3 = באמת',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-02-06 06:08:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
