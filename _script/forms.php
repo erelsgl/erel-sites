@@ -82,7 +82,8 @@ function html_for_rich_text($name, $default_value="", $attributes="rows='10' col
 function html_for_rich_text($name, $default_value="", $attributes="width='40em'") {
     // NOTE: requires JQuery and the CKEditor 4 library.
 	$GLOBALS['element_id']++;
-	return "<div class='ckeditor' contenteditable='true' id='element$GLOBALS[element_id]' $attributes name='$name'>$default_value</div>\n";
+	$element = "textarea";  //  $element = "div"; //
+	return "<$element class='ckeditor' contenteditable='true' id='element$GLOBALS[element_id]' $attributes name='$name'>$default_value</$element>\n";
 }
 
 
