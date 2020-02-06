@@ -53,7 +53,14 @@ h6 { font-weight:normal; font-size:1em }
 
 
 
-/* WYMeditor */
+/* WYMeditor, CKEditor */
+
+.ckeditor {
+    background: white;
+    width: 30em;
+    height: 15em;
+    overflow:scroll;
+}
 
 /* advanced */
 p.advanced, span.advanced, .advanced {
@@ -69,11 +76,7 @@ p.future, span.future, .future {
 
 q { 
 	font-size:1.2em;  color: #800; 
-	/* font-size:1.2em; color: #800; */
-}
-
-q { 
-	font-family: 'Liberation Serif', serif; 
+	font-family: 'Liberation Serif', serif;
 }
 
 /* psuq */
@@ -90,7 +93,7 @@ q.mfrj {
 
 
 /* small */
-small.small { 
+small.small {
 	
 }
 

@@ -45,42 +45,28 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
 				require_once(dirname(__FILE__).'/../forms_date_calendar.php');
 				echo html_header_for_calendar_functions();?>
 
-    <script type='text/javascript' src='<?=$base_url?>/../wymeditor/jquery/jquery.js' ></script>
-    <script type='text/javascript' src='<?=$base_url?>/../wymeditor/wymeditor/jquery.wymeditor.js' ></script>
+    <script type='text/javascript' src='<?=$base_url?>/../jquery-1.3.2.min.js' ></script>
+    <script type='text/javascript' src='<?=$base_url?>/../ckeditor/ckeditor.js' ></script>
+    <!--script type='text/javascript' src='<?=$base_url?>/../ckeditor/adapters/jquery.js' ></script-->
     <script type='text/javascript'>
+
       $(document).ready(function() {
-         $('.wymeditor').wymeditor({
-            lang: 'he',
-            stylesheet: '<?=$base_url?>/.././klli.css',  /* for classes in the classes menu or in the shortcuts */
-            logoHtml: 'WYMEditor',
-            updateEvent: "click",    
-            updateSelector: "[type=submit]",
-            postInit: function(wym) {
-            	$(wym._iframe).attr('dir','rtl').css('height', '300px').css('width', '600px').css('direction', 'rtl');
-            },
-            skin: 'default',
+        CKEDITOR.stylesSet.add( 'my_styles', [
+            { name: 'h3',  element: 'h3'  },
+            { name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } },
+            { name: 'Future',  element: 'div', attributes: { class: 'future' } },
 
-      boxHtml:   "<div class='wym_box'>"
-              + "<div class='wym_area_top'>"
-              + "<div class='wym_area_left'></div>"
-              + "<div class='wym_area_right'>"
-              + "</div>"
-              + "<div class='wym_area_main'>"
-              + WYMeditor.HTML
-              + WYMeditor.IFRAME
-              + "</div>"
-              + "<div class='wym_area_bottom'>"
-              + "</div>"
-              + "</div>",
+            { name: 'psuq',  element: 'q', attributes: {class: 'psuq' } },
+            { name: 'mfrj',  element: 'q', attributes: {class: 'mfrj' } },
+        ]);
 
-            containersHtml: "",
-            toolsHtml: "",
-            statusHtml: "",
-
-            toolsItems: [
-                {'name': 'Bold', 'title': 'Strong', 'css': 'wym_tools_strong'}, 
-              ],
-          });
+         // NOTE: The element itself is generated in file _script/forms.php, function html_for_rich_text
+        $('.ckeditor').each(function() {
+            $(this).attr("dir", "rtl");
+            $(this).attr("lang", "he");
+            config = {language: 'he', stylesSet: 'my_styles'};
+            CKEDITOR.inline($(this).attr('id'), config);
+        });
       });
     </script>
     <!--script type="text/javascript" src="<?php echo $base_url; ?>/setup_order_by.js" ></script-->
