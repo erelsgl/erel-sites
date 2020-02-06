@@ -22,7 +22,7 @@ along with table_editor; if not, write to the Free Software Foundation, Inc.,
  * both forms are submitted to index.php  
  * ****************************************************************************/  
 require_once dirname(__FILE__).'/lib/table_editor_lib.php';
-require_once dirname(__FILE__).'/lib/input.php'; // Used to echo input fields for table
+require_once dirname(__FILE__).'/lib/input.php'; // Contains get_input_html. Used to echo input fields for table
 require_once dirname(__FILE__).'/lib/get_query.php'; // Get the regular select statement, according to get variables etc.
 require_once dirname(__FILE__).'/records_navigation.php'; // Echo records navigation for multipage browsing
 require_once dirname(__FILE__).'/search.php'; // Echo records navigation for multipage browsing

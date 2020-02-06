@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--
+Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+-->
+<html lang="he" dir="rtl">
+<head>
+	<meta charset="utf-8">
+	<title>דוגמה</title>
+	<script src="../ckeditor.js"></script>
+	<link rel="stylesheet" href="css/samples.css">
+	<link rel="stylesheet" href="toolbarconfigurator/lib/codemirror/neo.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="description" content="Try the latest sample of CKEditor 4 and learn more about customizing your WYSIWYG editor with endless possibilities.">
+</head>
+
+<style>
+.cke_inner .cke_top .cke_toolbox {
+    display: block;
+}
+
+p.future, span.future, .future {
+	font-size:smaller; background-color:#ccc;
+	/* font-size:smaller; background-color:#ccc; */
+}
+
+strong {
+	font-weight: 900;
+}
+</style>
+
+<body id="main">
+
+<main>
+	<div class="adjoined-bottom">
+		<div class="grid-container">
+			<div class="grid-width-100">
+				<div id="editor1" contenteditable="true" style="background:white; margin:50px">
+					<h1>בוקר טוב!</h1>
+					<p>האם אפשר לערוך?.</p>
+				</div>
+
+				<div id="editor2">
+					<h1>זה העורך השני</h1>
+					<p>האם גם זה עובד?.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+
+<script>
+
+	CKEDITOR.stylesSet.add( 'my_styles', [
+		//{ name: 'Blue Title', element: 'h2', styles: { color: 'Blue' } },
+		//{ name: 'Red Title',  element: 'h3', styles: { color: 'Red' } },
+		{ name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } },
+		{ name: 'Future',  element: 'div', attributes: { class: 'future' } },
+
+		//{ name: 'CSS Style', element: 'span', attributes: { 'class': 'my_style' } },
+		//{ name: 'Marker: Yellow', element: 'span', styles: { 'background-color': 'Yellow' } },
+	]);
+
+
+
+    CKEDITOR.disableAutoInline = true;
+    editor1 = CKEDITOR.inline("editor1", {language: 'he', stylesSet: 'my_styles'})
+	editor1.setKeystroke( CKEDITOR.CTRL + 97, 'bold' );   // A
+	editor1.setKeystroke( CKEDITOR.CTRL + 98, 'italic' );   // B
+
+
+	editor2 = CKEDITOR.replace("editor2", {language:'he'})
+</script>
+
+</body>
+</html>

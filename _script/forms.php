@@ -70,12 +70,21 @@ function html_for_long_text($name, $default_value="", $attributes="rows='10' col
 	return "<textarea id='element$GLOBALS[element_id]' $attributes name='$name'>$default_value_html</textarea>\n";
 }
 
+/*
 function html_for_rich_text($name, $default_value="", $attributes="rows='10' cols='40'") {
-// NOTE: requires JQuery and the WYMEditor library: http://files.wymeditor.org/wymeditor/trunk/src/examples/
+    // NOTE: OLD VERSION - requires JQuery and the WYMEditor library.
 	$GLOBALS['element_id']++;
 	$default_value_html = htmlspecialchars($default_value, ENT_QUOTES);
 	return "<textarea class='wymeditor' id='element$GLOBALS[element_id]' $attributes name='$name'>$default_value_html</textarea>\n";
 }
+*/
+
+function html_for_rich_text($name, $default_value="", $attributes="width='40em'") {
+    // NOTE: requires JQuery and the CKEditor 4 library.
+	$GLOBALS['element_id']++;
+	return "<div class='ckeditor' contenteditable='true' id='element$GLOBALS[element_id]' $attributes name='$name'>$default_value</div>\n";
+}
+
 
 function html_for_hidden_text($name, $value, $attributes="") {
 	return html_for_short_text($name, $value, "type='hidden' $attributes");
