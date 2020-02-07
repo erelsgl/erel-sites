@@ -56,6 +56,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
             { name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } },
             { name: 'Future',  element: 'div', attributes: { class: 'future' } },
 
+            { name: 'small', element: 'small', attributes: {class: 'small' } },
             { name: 'psuq',  element: 'q', attributes: {class: 'psuq' } },
             { name: 'mfrj',  element: 'q', attributes: {class: 'mfrj' } },
         ]);
