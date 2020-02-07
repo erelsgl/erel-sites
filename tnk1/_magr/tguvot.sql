@@ -31986,3 +31986,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim2_hroee_0.html',
+		'<p>האם רבי עקיבה היה רועה?</p>',
+		'105568013240654942355',
+		'שמואל פוקס',
+		'2020-02-06 20:07:41'
+		)
+		;
+
