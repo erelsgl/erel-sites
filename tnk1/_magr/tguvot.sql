@@ -31998,3 +31998,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0617_0.html',
+		'<p>בעניין יוסף</p><p>בראשית מב23: &quot;וְהֵם לֹא יָדְעוּ כִּי שֹׁמֵעַ יוֹסֵף כִּי הַמֵּלִיץ בֵּינֹתָם&quot;</p><p>https://www.maariv.co.il/culture/Article-745120</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-02-07 14:09:56'
+		)
+		;
+
