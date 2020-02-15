@@ -32010,3 +32010,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום, אני צריכה הלוואה מיידית של בערך סכום של 6,000 ש&quot;ח</p><p>חד הורית לשני ילדים ביניהם ילד אוטיסט נכות 100%. נקלעתי לחובות כבדים עקב אשפוזים חוזרים ונשנים בבתי חולים. אם לא אשיג את הסכום בעל הדירה יזרוק אותי ואת ילדיי מהבית. צריכה גם לשלם חשמל ומים וארנונה וכל מה שיש וגם מעט כלכלה לילדים. אחזיר תוך שנה</p><p>0505434488</p>',
+		'103096407462038092108',
+		'Ronit N',
+		'2020-02-14 15:14:39'
+		)
+		;
+
