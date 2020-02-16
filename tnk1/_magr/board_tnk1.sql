@@ -35510,3 +35510,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/khn.html',
+				'tnk1/tora/dvrim/dm-18-03.html',
+				NULL,
+				'2020-02-15 20:37:20',
+				'2020-02-15 20:37:20',
+				'הזרוע והלחיים והקיבה - אמת או חובה',
+				'אראל',
+				''
+			)
+		;
+
