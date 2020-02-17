@@ -35526,3 +35526,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jwq3.html',
+				'tnk1/tora/wyqra/wy-07-33.html',
+				NULL,
+				'2020-02-16 12:51:06',
+				'2020-02-16 12:51:06',
+				'השוק - לכהן המקריב; החזה - לכל הכהנים',
+				'אראל',
+				''
+			)
+		;
+
