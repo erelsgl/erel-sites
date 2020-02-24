@@ -32022,3 +32022,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-03.html',
+		'<p>תודה רבה אראל, עושה סדר!</p><p>(ונראה למרבה הצער שזו אחת המצוות שלא זכו... כמדומני שכיום אף אחד לא מקיים נתינת זרוע לחיים וקיבה כהלכתה)</p>',
+		'112593956537053274947',
+		'Tomer Greenberg',
+		'2020-02-23 16:14:55'
+		)
+		;
+

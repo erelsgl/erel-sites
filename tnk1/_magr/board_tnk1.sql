@@ -35588,3 +35588,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-02-23 07:48:13'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-02-23 16:14:55'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-18-03.html'
+		;
+
