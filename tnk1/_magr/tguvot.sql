@@ -32034,3 +32034,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>שלום אני מחפשת פסוק להזמנה לבת מצווה</p><p>לשם נועה</p>',
+		'109354743803250751429',
+		'מורן אלי',
+		'2020-02-24 09:40:17'
+		)
+		;
+
