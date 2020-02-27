@@ -35604,3 +35604,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/tora/brejit/br-32-27.html',
+				NULL,
+				'2020-02-26 16:42:22',
+				'2020-02-26 16:42:22',
+				'שלום תמורת ברכה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-02-26 16:58:13'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-32-27.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1192.html',
+				NULL,
+				'2020-02-26 22:04:19',
+				'2020-02-26 22:04:19',
+				' פרשת תרומה- תכלית המשכן והעוסקים בהקמתה/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-02-26 22:04:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+

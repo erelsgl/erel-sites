@@ -32046,3 +32046,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-32-27.html',
+		'<p>https://siach.org.il/%D7%9B%D7%99-%D7%A2%D7%9C%D7%94-%D7%94%D7%A9%D7%97%D7%A8/</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-02-26 16:58:13'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-02-26 17:23:08' 
+			WHERE messageid=9621;
+
