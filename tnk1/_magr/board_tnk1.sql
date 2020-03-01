@@ -35674,3 +35674,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-02-28 08:47:51'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-01 00:12:52'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-23-02-oh.html'
+		;
+
