@@ -109,3 +109,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `l` = '[[ביאור:נחמיה יג12|פסוק 12]]', `tarik_hosfa` = '2020-01-17 06:58:11' WHERE `qod` = 'ביאור:נחמיה יג11' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לב27' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'איש אמונה אחד יכול להציל את כל ירושלים', `tarik_hosfa` = '2020-03-02 10:52:06' WHERE `qod` = 'ביאור:ירמיהו ה1' AND 1 LIMIT 1;
+

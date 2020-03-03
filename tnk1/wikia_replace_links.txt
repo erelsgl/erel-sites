@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-01-28 06:20:16
+# This file was automatically generated at 2020-03-02 10:52:23
 
 sub wikia_replace_links {
 $_=shift;
@@ -1214,6 +1214,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-13-0117|[[ביאור:מוות מתחת לעור|
 s|${OPENLINK}tnk1/tora/wyqra/wy-10-19|[[ביאור:מדוע לא אכל אהרן משעיר החטאת?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-10-03|[[ביאור:מתי אמר ה' "בקרוביי איקדש"?|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-0816|[[ביאור:"קדש עצמך במותר לך" - מקומן של פרשיות הקדושה האישית בין פרשיות הקדשת המשכן|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-07-33|[[ביאור:השוק - לכהן המקריב; החזה - לכל הכהנים|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-05-2324|[[ביאור:השבת הרכוש הגזול - שלב ראשון בתיקון|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-05-2123|[[ביאור:מעילה בעזרת השם|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-05-12|[[ביאור:וקמץ הכהן ממנה|ig;
@@ -1562,6 +1563,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-19-05|[[ביאור:יער לעומת נגריה|
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-15|[[ביאור:זיהוי נביא לפי תכונות|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-13|[[ביאור:תמים תהיה עם ה' אלהיך|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-11|[[ביאור:דורש אל המתים - תורה שבכתב ותורה שבע"פ|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-18-03|[[ביאור:הזרוע והלחיים והקיבה - אמת או חובה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-18-0102|[[ביאור:נחלת הכהנים והלויים בתורה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-19|[[ביאור:הפרדת רשויות בין המחוקק למלך|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-17b|[[ביאור:התקציב המלכותי|ig;
@@ -1745,6 +1747,7 @@ s|${OPENLINK}tnk1/tora/brejit/br-35-08|[[ביאור:דבורה מינקת רבק
 s|${OPENLINK}tnk1/tora/brejit/br-34-30|[[ביאור:עכרתם אותי|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-34|[[ביאור:מאמרים על מלחמתם של שמעון ולוי באנשי שכם כנקמה על אונס דינה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-29|[[ביאור:בן ישראל יכול להתגבר על כל נטיה|ig;
+s|${OPENLINK}tnk1/tora/brejit/br-32-27|[[ביאור:שלום תמורת ברכה|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-25.jpg|[[ביאור:בר לב 25|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-22|[[ביאור:ותעבור המנחה על פניו|ig;
 s|${OPENLINK}tnk1/tora/brejit/br-32-08|[[ביאור:פחדיו של יעקב|ig;
@@ -1944,6 +1947,7 @@ s|${OPENLINK}tnk1/tora/bmdbr/bm-21-08|[[ביאור:שרף, נס, חי|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-20-yldim|[[ביאור:במדבר כ לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-19-02|[[ביאור:פרת משה רבנו|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-18-yldim|[[ביאור:במדבר יח לילדים|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-18-26|[[ביאור:מעשר מן המעשר|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-18-2124|[[ביאור:מעשר הלויים - שכר על עבודה ופיצוי על נחלה|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-17-yldim|[[ביאור:במדבר יז לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-17-27|[[ביאור:הן גווענו אבדנו כולנו אבדנו|ig;
@@ -3173,7 +3177,7 @@ s|${OPENLINK}tnk1/nvia/yrmyhu/yr-07-1618|[[ביאור:אין טעם להתפלל
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-07-11|[[ביאור:מערת פריצים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-0608|[[ביאור:חורבן המואסים בדבר ה'|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-06-1617|[[ביאור:השאיפה לטוב והפחד מהרע - תכונות יסוד חיוניות|ig;
-s|${OPENLINK}tnk1/nvia/yrmyhu/yr-05-01|[[ביאור:חשיבות היציאה להפגנות|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-05-01|[[ביאור:איש אמונה אחד יכול להציל את כל ירושלים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-04-2329|[[ביאור:וכלה לא אעשה|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-04-14|[[ביאור:לב - הוראות כביסה|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-04-11|[[ביאור:רוח חסרת תועלת|ig;
@@ -6465,6 +6469,7 @@ s|${OPENLINK}tnk1/messages/prqim_kotrot_1|[[ביאור:כי האדם עץ השד
 s|${OPENLINK}tnk1/messages/prqim_kotrot_0|[[ביאור:שבעת המינים בראי הרחובות|ig;
 s|${OPENLINK}tnk1/messages/PRJH_MCYWN__BA0.pdf|[[ביאור:כמה שנים ישבו בני ישראל במצרים|ig;
 s|${OPENLINK}tnk1/messages/pay___jlwm_wamt___fwb_dbr_yhwh.pdf|[[ביאור:יום פאי = שלום ואמת = טוב דבר יהוה|ig;
+s|${OPENLINK}tnk1/messages/pay___3___bamt.pdf|[[ביאור:מתי פאי = 3 = באמת|ig;
 s|${OPENLINK}tnk1/messages/pakhaz.pdf|[[ביאור:Pakhaz|ig;
 s|${OPENLINK}tnk1/messages/openletter.doc|[[ביאור:OpenLetter (.doc)|ig;
 s|${OPENLINK}tnk1/messages/odot_8|[[ביאור:סטטיסטיקה חודשית לדוגמה|ig;
@@ -8139,6 +8144,16 @@ s|${OPENLINK}tnk1/messages/forums_122|[[ביאור:שבועות - מהות הח�
 s|${OPENLINK}tnk1/messages/forums_121|[[ביאור:'ירושלים והבשורה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_120|[[ביאור:'סדר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_12|[[ביאור:פרשת ניצבים - מי הם הנענשים בעוון אי קיום התורה|ig;
+s|${OPENLINK}tnk1/messages/forums_1193|[[ביאור:'הקמת  המשכן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1192|[[ביאור:פרשת תרומה - תכלית המשכן והעוסקים בהקמתה|ig;
+s|${OPENLINK}tnk1/messages/forums_1191|[[ביאור:'עבד עברי יוצא לחופשי' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1190|[[ביאור:פרשת משפטים - עבד עברי, מיהו? כיצד יצא לחופשי?|ig;
+s|${OPENLINK}tnk1/messages/forums_1189|[[ביאור:'הגבלת העם סביב הר סיני' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1188|[[ביאור:פרשת יתרו - מדוע הוגבל העם - לא להתקרב להר סיני?|ig;
+s|${OPENLINK}tnk1/messages/forums_1187|[[ביאור:'פרעה והבשורה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1186|[[ביאור:פרשת בשלח - מדוע פרעה ועבדיו מתחרטים על יציאת  ישראל ממצרים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1185|[[ביאור:' פרעה נשבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1184|[[ביאור:פרשת בא - מי היה פרעה ומדוע גירש את משה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1183|[[ביאור:' מכת הדם' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1182|[[ביאור:פרשת וארא - אימתי החלו המצרים לשעבד את ישראל?|ig;
 s|${OPENLINK}tnk1/messages/forums_1181|[[ביאור:'הולדת משה' - שיר מאת אהובה קליין (c)|ig;
