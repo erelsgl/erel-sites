@@ -32103,3 +32103,39 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-03-02 12:32:06' 
 			WHERE messageid=9623;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/ribit0_gmx_hsbr_1.html',
+		'<p>שלום שמי שלומי אני זקוק להלוואה על סך 10000 שקל בדחיפות תודה 0507891006</p>',
+		'115633231846908837072',
+		'שלומי ג\'אן',
+		'2020-03-03 09:50:03'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק בדחיפות להלוואה על סך 10 אלף שקל..</p>',
+		'115633231846908837072',
+		'שלומי ג\'אן',
+		'2020-03-03 09:51:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום וברכה זקוק להלוואה על סך 10 אלף שקלים לפריסה של 3חודשים בדחיפות אשמח שתחזרו אליי 0507891006</p>',
+		'115633231846908837072',
+		'שלומי ג\'אן',
+		'2020-03-03 11:11:39'
+		)
+		;
+
