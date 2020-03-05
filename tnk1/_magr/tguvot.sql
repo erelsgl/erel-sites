@@ -32139,3 +32139,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/estr_ori_1.html',
+		'<p></p>',
+		'116884216023217935128',
+		'כיתה ה',
+		'2020-03-04 13:08:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-03-04 13:08:59' 
+			WHERE messageid=9627;
+
