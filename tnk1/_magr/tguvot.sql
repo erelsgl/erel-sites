@@ -32158,3 +32158,22 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-03-04 13:08:59' 
 			WHERE messageid=9627;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/bxirot2.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-03-09 07:34:29'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-03-09 07:34:31' 
+			WHERE messageid=9628;
+

@@ -36020,3 +36020,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-03-06 08:43:05'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/sgr.html',
+				'tnk1/tora/wyqra/wy-13-05.html',
+				NULL,
+				'2020-03-09 06:53:41',
+				'2020-03-09 06:53:41',
+				'להיכנס לבידוד שבועיים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-09 07:34:29'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/bxirot2.html'
+		;
+
