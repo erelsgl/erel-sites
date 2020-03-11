@@ -36052,3 +36052,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/14.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-10 16:51:37'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_purim_wxnuka.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/hbyn_mjhw_la_nkwn.pdf',
+				NULL,
+				'2020-03-10 19:13:56',
+				'2020-03-10 19:13:56',
+				'מישהו הבין משהו לא נכון',
+				'רמי ניר',
+				''
+			)
+		;
+

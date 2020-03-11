@@ -2631,3 +2631,26 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/sofrim/zuckm/14.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/tklt_avrhm_purim_wxnuka.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-10 16:51:37'
+		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_purim_wxnuka.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-03-10 17:25:56'
+			WHERE parent='tnk1/tora/jmot/tarik1.html'
+			;
+

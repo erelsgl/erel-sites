@@ -32189,3 +32189,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/tklt_avrhm_purim_wxnuka.html',
+		'<p>וואו, כתבה יפהפיה, חילך לאורייתא!!!</p>',
+		'115953557670601378738',
+		'יוסף',
+		'2020-03-10 16:51:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-03-10 17:25:56' 
+			WHERE messageid=825;
+
