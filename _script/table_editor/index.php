@@ -51,22 +51,43 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
     <script type='text/javascript'>
 
       $(document).ready(function() {
-        CKEDITOR.stylesSet.add( 'my_styles', [
-            { name: 'h3',  element: 'h3'  },
-            { name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } },
-            { name: 'Future',  element: 'div', attributes: { class: 'future' } },
+        var h3Style = { name: 'h3',  element: 'h3'  };
+        var advancedStyle = { name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } };
+        var futureStyle = { name: 'Future',  element: 'div', attributes: { class: 'future' } };
+        var smallStyle = { name: 'small', element: 'small', attributes: {class: 'small' } };
+        var psuqStyle = { name: 'psuq',  element: 'q', attributes: {class: 'psuq' } };
+        var mfrjStyle = { name: 'mfrj',  element: 'q', attributes: {class: 'mfrj' } };
+        var psuqAnchorStyle = { name: 'psuqAnchor',  element: 'a', attributes: {class: 'psuq' } };
 
-            { name: 'small', element: 'small', attributes: {class: 'small' } },
-            { name: 'psuq',  element: 'q', attributes: {class: 'psuq' } },
-            { name: 'mfrj',  element: 'q', attributes: {class: 'mfrj' } },
-        ]);
+        CKEDITOR.stylesSet.add( 'my_styles', [h3Style, advancedStyle, futureStyle, smallStyle, psuqStyle, mfrjStyle, psuqAnchorStyle] );
 
-         // NOTE: The element itself is generated in file _script/forms.php, function html_for_rich_text
+        var config = {language: 'he', stylesSet: 'my_styles'};
+
+        // NOTE: The element itself is generated in file _script/forms.php, function html_for_rich_text
         $('.ckeditor').each(function() {
             $(this).attr("dir", "rtl");
             $(this).attr("lang", "he");
-            config = {language: 'he', stylesSet: 'my_styles'};
-            CKEDITOR.inline($(this).attr('id'), config);
+            var editor1 = CKEDITOR.inline($(this).attr('id'), config);
+
+            /* from https://stackoverflow.com/questions/60070542/how-to-create-a-keyboard-shortcut-to-a-custom-style */
+
+            editor1.addCommand('h3Style', new CKEDITOR.styleCommand(new CKEDITOR.style(h3Style)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 51, 'h3Style'); // Ctrl+3
+
+            editor1.addCommand('advancedStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(advancedStyle)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 65, 'advancedStyle'); // Ctrl+A
+
+            editor1.addCommand('futureStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(futureStyle)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 70, 'futureStyle'); // Ctrl+F
+
+            editor1.addCommand('smallStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(smallStyle)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 83, 'smallStyle'); // Ctrl+S
+
+            editor1.addCommand('psuqStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(psuqStyle)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 82, 'psuqStyle'); // Ctrl+R
+
+            editor1.addCommand('mfrjStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(mfrjStyle)));
+            editor1.setKeystroke(CKEDITOR.CTRL + 80, 'mfrjStyle'); // Ctrl+P
         });
       });
     </script>
