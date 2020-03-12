@@ -36076,3 +36076,42 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/kma/qjrim2/survival.html',
+				NULL,
+				'2020-03-12 04:38:39',
+				'2020-03-12 04:38:39',
+				'על סדר היום - הישרדות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1196.html',
+				NULL,
+				'2020-03-12 06:36:02',
+				'2020-03-12 06:36:02',
+				' פרשת כי תשא- מאין כי השבת מקור הברכה?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-03-12 06:36:02'
+			WHERE ktovt_bn='tnk1/forums.html';
+
