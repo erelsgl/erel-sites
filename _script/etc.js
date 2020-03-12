@@ -27,12 +27,12 @@ gfc_skin['CONTENT_SECONDARY_LINK_COLOR'] = '#990033';
 gfc_skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#666666';
 gfc_skin['CONTENT_HEADLINE_COLOR'] = '#333333';
 
-//Usage: initRTE(imagesPath, includesPath, cssFile, generateXHtml)
-initRTE(
-	path_from_document_to_scripts+"rteimages/", 
-	path_from_document_to_scripts,
-	'', //path_from_document_to_site+"_themes/klli.css",
-	false);
+////Usage: initRTE(imagesPath, includesPath, cssFile, generateXHtml)
+//initRTE(
+//	path_from_document_to_scripts+"rteimages/",
+//	path_from_document_to_scripts,
+//	'', //path_from_document_to_site+"_themes/klli.css",
+//	false);
 
 
 //////////////   CONSTANTS   //////////////
@@ -127,15 +127,15 @@ function getFormElements() { // called in "tguva"
 
 
 // disable hidden fields of RTEs, so that they won't be sent
-function disableHiddenRTEs() {
-	var vRTEs = allRTEs.split(";");
-	for(var i=vRTEs.length-1; i>=0; --i) {
-		$('hdn'+vRTEs[i]).attr("disabled", "disabled");
-		$('size'+vRTEs[i]).attr("disabled", "disabled");
-		//document.getElementById('hdn'+vRTEs[i]).disabled = true;
-		//document.getElementById('size'+vRTEs[i]).disabled = true;
-	}
-}
+//function disableHiddenRTEs() {
+//	var vRTEs = allRTEs.split(";");
+//	for(var i=vRTEs.length-1; i>=0; --i) {
+//		$('hdn'+vRTEs[i]).attr("disabled", "disabled");
+//		$('size'+vRTEs[i]).attr("disabled", "disabled");
+//		//document.getElementById('hdn'+vRTEs[i]).disabled = true;
+//		//document.getElementById('size'+vRTEs[i]).disabled = true;
+//	}
+//}
 
 
 
@@ -779,66 +779,16 @@ function showEdit(theForm) {
 
 	show('helpedit');     
 
-	if (theTokn)
+	if (theTokn) {
 		$('#ToknRTE').val(copyTextareasToHtml(fixTokn()));
-	if (theTguvot)
+		CKEDITOR.inline_with_keyboard_shortcuts("ToknRTE");  // inline_with_keyboard_shortcuts
+    }
+	if (theTguvot) {
 		$('#TguvotRTE').val(LI2P(theTguvot.innerHTML));
+		CKEDITOR.inline_with_keyboard_shortcuts("TguvotRTE");
+    }
 
 	var emptyTitle = "&nbsp;&nbsp;&nbsp;&nbsp;";
-	$(".wymeditor").wymeditor({
-            lang: 'he',
-            stylesheet: '/_script/klli.css',  /* for classes in the classes menu or in the shortcuts */
-            logoHtml: 'WYMEditor',
-            updateEvent: "click",    
-            updateSelector: "[type=submit]",
-            postInit: function(wym) {
-             	$(wym._iframe).attr('dir','rtl').css('height', wym._element.context.style.height).css('direction', 'rtl');
-            },
-						skinPath: '/_script/wymeditor/wymeditor/skins/default/',
-						basePath: '/_script/wymeditor/wymeditor/',
-				    toolsItems: [
-        				{'name': 'Bold', 'title': emptyTitle, 'css': 'wym_tools_strong'}, 
-								{'name': 'Italic', 'title': emptyTitle, 'css': 'wym_tools_emphasis'},
-								{'name': 'Superscript', 'title': emptyTitle,
-								    'css': 'wym_tools_superscript'},
-								{'name': 'Subscript', 'title': emptyTitle,
-								    'css': 'wym_tools_subscript'},
-								{'name': 'InsertOrderedList', 'title': emptyTitle,
-								    'css': 'wym_tools_ordered_list'},
-								{'name': 'InsertUnorderedList', 'title': emptyTitle,
-								    'css': 'wym_tools_unordered_list'},
-								{'name': 'Indent', 'title': emptyTitle, 'css': 'wym_tools_indent'},
-								{'name': 'Outdent', 'title': emptyTitle, 'css': 'wym_tools_outdent'},
-								{'name': 'Undo', 'title': emptyTitle, 'css': 'wym_tools_undo'},
-								{'name': 'Redo', 'title': emptyTitle, 'css': 'wym_tools_redo'},
-								{'name': 'CreateLink', 'title': emptyTitle, 'css': 'wym_tools_link'},
-								{'name': 'Unlink', 'title': emptyTitle, 'css': 'wym_tools_unlink'},
-								{'name': 'InsertImage', 'title': emptyTitle, 'css': 'wym_tools_image'},
-								{'name': 'InsertTable', 'title': emptyTitle, 'css': 'wym_tools_table'},
-								{'name': 'Paste', 'title': emptyTitle,       'css': 'wym_tools_paste'},
-								{'name': 'ToggleHtml', 'title': emptyTitle, 'css': 'wym_tools_html'},
-						],
-				    dialogHtml: "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN'"
-                      + " 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>"
-                      + "<html dir='"
-                      + WYMeditor.DIRECTION
-                      + "'><head>"
-                      + "<link rel='stylesheet' type='text/css'   media='screen'"
-                      + " href='"
-                      + WYMeditor.CSS_PATH
-                      + "' />"
-                      + "<title>"
-                      + WYMeditor.DIALOG_TITLE
-                      + "</title>"
-                      + "<script type='text/javascript' src='/_script/wymeditor/jquery/jquery.js'></script>"
-                      + "<script type='text/javascript' src='/_script/wymeditor/wymeditor/jquery.wymeditor.js'></script>"
-                      + "</head>"
-                      + WYMeditor.DIALOG_BODY
-                      + "</html>",
-						stringDelimiterLeft: "",
-						stringDelimiterRight: "",
-
-	});
 
 	theEditForm.style.visibility = 'visible';
 
@@ -919,20 +869,18 @@ function onSubmitAdd(theForm) {
 }
 
 function onSubmitEdit(theForm) {
-	for (var i=0; i<=2; ++i) {
-		var w = jQuery.wymeditors(i);
-		if (w)
-			w.update();
-	}
-	//setRewriteTitle(theEditForm); // for editing the H1 of the document; not supported anymore
+//	for (var i=0; i<=2; ++i) {
+//		var w = jQuery.wymeditors(i);
+//		if (w)
+//			w.update();
+//	}
+//	//setRewriteTitle(theEditForm); // for editing the H1 of the document; not supported anymore
 	theForm.content.value=standardizeHTMLRTE(); // this is the textarea that will be submitted
 	return submitOrDebug(theForm.content.value); 
 }
 
-// writeWymEditor('ToknRTE',   width, height1, (theTokn || theTosft)? true: false);
-// writeWymEditor('TguvotRTE', width, height2, (theTguvot || theBnim)? true: false);
-function writeWymEditor(id, width, height, buttons) {
-	document.write("<textarea class='wymeditor' style='width:"+width+"px; height:"+height+"px' id='"+id+"'></textarea>");
+function writeCkEditor(id, width, height, buttons) {
+	document.write("<textarea id='"+id+"' contenteditable='true' style='width:"+width+"px; height:"+height+"px'></textarea>");
 }
 
 /* from http://stackoverflow.com/a/9976309/827927 */
@@ -1041,17 +989,17 @@ function tguva () {
 			'"' + saveLabel + '"' + 
 			"");
 			// document.writeln("<p dir='ltr'><a target='_blank' href='http://www.kevinroth.com/rte/'>Rich Text Editor by Kevin Roth</a>, <a target='_blank' href='http://richtext.cabspace.com/'>Fork by Timothy S. Bell</a></p>");
-			//SYNTAX: writeWymEditor(rte,    width,     height,   buttons)
+			//SYNTAX: writeCkEditor(rte,    width,     height,   buttons)
 			var width = theTokn? theTokn.clientWidth: 0.9*document.body.clientWidth;
 			var height1 = theTokn? 360: theTosft? Math.max(theTosft.clientHeight,40): 0;
 			var height2 = theTguvot? Math.max(theTguvot.clientHeight,40): theBnim? 360: 0;
 
-			writeWymEditor('ToknRTE',   width, height1, (theTokn || theTosft)? true: false);
+			writeCkEditor('ToknRTE',   width, height1, (theTokn || theTosft)? true: false);
 			if (!(theTokn || theTosft)) showHideRTE('ToknRTE','hide');
 
 			if (theTokn&&theTguvot) document.write("<h2 id='TguvotRTE_heading'>" + theTguvotHeading.innerHTML + '</h2>');
 
-			writeWymEditor('TguvotRTE', width, height2, (theTguvot || theBnim)? true: false);
+			writeCkEditor('TguvotRTE', width, height2, (theTguvot || theBnim)? true: false);
 
 			if (!(theTguvot || theBnim)) showHideRTE('TguvotRTE','hide');
 		document.write(
@@ -1063,7 +1011,7 @@ function tguva () {
 			//'<input type=button onclick="document.getElementById(\'ToknRTE\').contentWindow.document.body.innerHTML=removeHTMLColor(document.getElementById(\'ToknRTE\').contentWindow.document.body.innerHTML);return false;" value="'+formatLabel+'">' + ' ' +
 			"<input type='button' onclick='$(\"#ToknRTE\").val(removeHTMLColor($(\"#ToknRTE\").val())); return false;' value='"+formatLabel+"'>" + " " +
 			"</p></div>\n");
-		disableHiddenRTEs();
+		//disableHiddenRTEs();
 	}
 
 	document.write(help);
