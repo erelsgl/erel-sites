@@ -875,8 +875,10 @@ function onSubmitEdit(theForm) {
 //			w.update();
 //	}
 //	//setRewriteTitle(theEditForm); // for editing the H1 of the document; not supported anymore
-	theForm.content.value=standardizeHTMLRTE(); // this is the textarea that will be submitted
-	return submitOrDebug(theForm.content.value); 
+    $('#ToknRTE').val($('#ToknRTE').next().html())
+    $('#TguvotRTE').val($('#TguvotRTE').next().html())
+	theForm.content.value = standardizeHTMLRTE(); // this is the textarea that will be submitted
+    return submitOrDebug(theForm.content.value);
 }
 
 function writeCkEditor(id, width, height, buttons) {
@@ -888,7 +890,7 @@ function resizeIframe(obj) {
     obj.style.height = (obj.contentWindow.document.body.scrollHeight+40) + 'px';  // add 40 because of Google Sign-In Button
 }
 
-function tguva () {
+function tguva() {
 	getContentElements();
 
 	if (/ברוריה/.test(theAuthor)) {

@@ -28,8 +28,8 @@ CKEDITOR.inline_with_keyboard_shortcuts = function(id) {
     editor1.addCommand('h3Style', new CKEDITOR.styleCommand(new CKEDITOR.style(h3Style)));
     editor1.setKeystroke(CKEDITOR.CTRL + 51, 'h3Style'); // Ctrl+3
 
-    editor1.addCommand('advancedStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(advancedStyle)));
-    editor1.setKeystroke(CKEDITOR.CTRL + 65, 'advancedStyle'); // Ctrl+A
+    //editor1.addCommand('advancedStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(advancedStyle)));
+    //editor1.setKeystroke(CKEDITOR.CTRL + 65, 'advancedStyle'); // Ctrl+A
 
     editor1.addCommand('futureStyle', new CKEDITOR.styleCommand(new CKEDITOR.style(futureStyle)));
     editor1.setKeystroke(CKEDITOR.CTRL + 70, 'futureStyle'); // Ctrl+F
