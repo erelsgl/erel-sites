@@ -40,7 +40,6 @@ if (document.body.lang != "en") {
 
 
 
-var zeroBorder = "#c0c0c0"; //guideline color - see showGuidelines()
 var btnText = "submit";			//Button value for non-designMode() & fullsceen rte
 var resize_fullsrcreen = true;
 // (resize_fullsrcreen) limited in that: 1)won't auto wrap icons. 2)won't
@@ -461,7 +460,6 @@ function enableDesignMode(rte, css, readOnly) {
 			}
 		}
 	}
-	setTimeout('showGuidelines("'+rte+'")',300);
 }
 
 
@@ -495,9 +493,6 @@ function returnRTE(rte) {
 function updateRTE(rte) {
 	if(isRichText) {
 		dlgCleanUp(); // 	Closes Pop-ups
-		stripGuidelines(rte); // Removes Table Guidelines 
-		// [Erel thinks the previous line is redundant because it is already done in parseRTE]
-		// [Timm Bell says: "I can't remember the reason why stripGuidelines(rte); was added to updateRTE(), but it was added to fix a bug."]
 	}
 	parseRTE(rte);
 }
@@ -525,7 +520,6 @@ function parseRTE(rte) {
 			else{
 				toggleHTMLSrc(rte, false);
 			}
-			stripGuidelines(rte);
 		}
 		setHiddenVal(rte);
 	}
@@ -595,7 +589,6 @@ function toggleHTMLSrc(rte, buttons){
 	if(tRTE.innerHTML == lblModeHTML){
 		//we are checking the box
 		tRTE.innerHTML = lblModeRichText;
-		stripGuidelines(rte);
 		if(buttons){
 			showHideElement("Buttons1_" + rte, "hide", true);
 			if(document.getElementById("Buttons2_"+rte)){
@@ -659,7 +652,6 @@ function toggleHTMLSrc(rte, buttons){
 			oRTE.body.innerHTML = htmlSrc.toString();
 		}
 		oRTE.body.innerHTML = replaceSpecialChars(oRTE.body.innerHTML);
-		showGuidelines(rte);
 		// (IE Only)This prevents an undo operation from displaying a pervious HTML mode
 		// This resets the undo/redo buffer.
 		if(document.all){
@@ -963,7 +955,6 @@ function replaceSpecialChars(html){
 function SearchAndReplace(searchFor, replaceWith, matchCase, wholeWord) {
 	 var cfrmMsg = lblSearchConfirm.replace("SF",searchFor).replace("RW",replaceWith);
 	 var rte = currentRTE;
-	 stripGuidelines(rte);
 	 var oRTE = returnRTE(rte);
 	 var tmpContent = oRTE.document.body.innerHTML.replace("'", "\'").replace('"', '\"');
 	 var strRegex;
@@ -995,10 +986,8 @@ function SearchAndReplace(searchFor, replaceWith, matchCase, wholeWord) {
 	    } else {
 	     alert(lblSearchAbort);
 	  }
-	    showGuidelines(rte);
 	 }
 	 else {
-	   showGuidelines(rte);
 	    alert("["+searchFor+"] "+lblSearchNotFound);
 	 }
 }
@@ -1079,50 +1068,8 @@ function trim(inputString) {
 	return retValue; // Return the trimmed string back to the user
 }
 
-function showGuidelines(rte) {
-	return; // TEMPORARY by Erel
-	if(rte.length == 0) rte = currentRTE;
-	var oRTE = returnRTE(rte);
-	var tables = oRTE.document.getElementsByTagName("table");
-	for(var i=0; i<tables.length; i++){
-	  if(tables[i].getAttribute("border") == "0"){
-	    var trs = tables[i].getElementsByTagName("tr");
-	    for(var j=0; j<trs.length; j++){
-	      var tds = trs[j].getElementsByTagName("td");
-	      for(var k=0; k<tds.length; k++){
-					if(j == 0 && k == 0){
-			   	  tds[k].style.border = "dashed 1px "+zeroBorder;
-					}else if(j == 0 && k != 0){
-	  		    tds[k].style.borderBottom = "dashed 1px "+zeroBorder;
-						tds[k].style.borderTop = "dashed 1px "+zeroBorder;
-						tds[k].style.borderRight = "dashed 1px "+zeroBorder;
-	        }else if(j != 0 && k == 0) {
-			      tds[k].style.borderBottom = "dashed 1px "+zeroBorder;
-					  tds[k].style.borderLeft = "dashed 1px "+zeroBorder;
-						tds[k].style.borderRight = "dashed 1px "+zeroBorder;
-	        }else if(j != 0 && k != 0) {
-	          tds[k].style.borderBottom = "dashed 1px "+zeroBorder;
-					  tds[k].style.borderRight = "dashed 1px "+zeroBorder;
-		      }
-	      }
-	    }
-	  }
-	}
-}
-
-function stripGuidelines(rte) {
-	return; // TEMPORARY by Erel
-	var oRTE = returnRTE(rte);
-	var tbls = oRTE.document.getElementsByTagName("table");
-	for(var j=0; j<tbls.length; j++) {
-	  if(tbls[j].getAttribute("border") == "0") {
-	    var tds = tbls[j].getElementsByTagName("td");
-	    for(var k=0; k<tds.length; k++) {
-	      tds[k].removeAttribute("style");
-	    }
-	  }
-	}
-}
+// function showGuidelines(rte) {	return; }
+// function stripGuidelines(rte) {	return;  }
 
 function findSize(obj) {
 	if(obj.length > 0 && document.all) {

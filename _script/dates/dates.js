@@ -23,5 +23,4 @@ function isShabbat() {
 	meanSunsetMinuteOfDayGMT = sunsetMinuteOfDayGMT[now.getMonth()];
 	return (currentWeekday==6 && currentMinuteOfDayGMT>meanSunsetMinuteOfDayGMT) ||
 	       (currentWeekday==7 && currentMinuteOfDayGMT<meanSunsetMinuteOfDayGMT);
-	return weekday;
 }
