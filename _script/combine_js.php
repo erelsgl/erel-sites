@@ -51,9 +51,6 @@ $js .= "var target_direction = '".coalesce($_GET['target_direction'],'')."';\n";
 if ($outfile) print "<p>combining</p>\n";
 foreach ($files as $file) {
 	if ($reverse_direction) {
-	//	$js = preg_replace("/Right/", "XXX_TEMPORARY_XXX", $js);
-	//	$js = preg_replace("/Left/", "Right", $js);
-	//	$js = preg_replace("/XXX_TEMPORARY_XXX/", "Left", $js);
 		$file = preg_replace("/right/", "XXX_TEMPORARY_XXX", $file);
 		$file = preg_replace("/left/", "right", $file);
 		$file = preg_replace("/XXX_TEMPORARY_XXX/", "left", $file);
