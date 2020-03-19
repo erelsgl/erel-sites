@@ -36138,3 +36138,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-03-13 13:57:47'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1198.html',
+				NULL,
+				'2020-03-18 08:15:31',
+				'2020-03-18 08:15:31',
+				'פרשת ויקהל- פקודי/אמני המשכן- מדוע נחשבו חכמי לב?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-03-18 08:15:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-18 11:41:46'
+		WHERE ktovt_bn='tnk1/sofrim/ilanhp/amit.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/hmgph.pdf',
+				NULL,
+				'2020-03-18 19:32:03',
+				'2020-03-18 19:32:03',
+				'ותעצר המגפה',
+				'רמי ניר',
+				''
+			)
+		;
+

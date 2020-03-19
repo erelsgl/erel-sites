@@ -32208,3 +32208,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-03-10 17:25:56' 
 			WHERE messageid=825;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/ilanhp/amit.html',
+		'<p>יפה ! יישר כוח ! </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2020-03-18 11:41:46'
+		)
+		;
+
