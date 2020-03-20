@@ -36185,3 +36185,83 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:10:33'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:10:41'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:11:04'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:11:56'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:12:12'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:12:28'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:12:58'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 08:13:07'
+		WHERE ktovt_bn='tnk1/ktuv/mj/17-00.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 13:17:25'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/jm-22-1314.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-19 21:01:18'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/dorot.html'
+		;
+

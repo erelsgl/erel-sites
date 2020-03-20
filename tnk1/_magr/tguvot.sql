@@ -32220,3 +32220,123 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>ווווווווווווואי איזה אתר טוב זה עוזר לך להבין </p>',
+		'114241824170890326228',
+		'אייל גוזלי',
+		'2020-03-19 08:10:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>הכללללל</p><p></p>',
+		'114241824170890326228',
+		'אייל גוזלי',
+		'2020-03-19 08:10:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>כיייייייייייייייייףףףףףףףףףףףףףףףףףףף חחחחחחחחחחחחחחחחחחחחיייייייייייייייייייייייייייייייייםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםםם</p>',
+		'114241824170890326228',
+		'אייל גוזלי',
+		'2020-03-19 08:11:04'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>ממש </p>',
+		'108182924640064380610',
+		'ישי גוזלי',
+		'2020-03-19 08:11:56'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>ממש טוב </p>',
+		'108182924640064380610',
+		'ישי גוזלי',
+		'2020-03-19 08:12:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>ההוא מלמעלה צודק</p>',
+		'108182924640064380610',
+		'ישי גוזלי',
+		'2020-03-19 08:12:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>תמשיך לבנות אתרים</p>',
+		'108182924640064380610',
+		'ישי גוזלי',
+		'2020-03-19 08:12:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-00.html',
+		'<p>כאלה</p>',
+		'108182924640064380610',
+		'ישי גוזלי',
+		'2020-03-19 08:13:07'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jm-22-1314.html',
+		'<p>מבקש לצייר מקרה [ מצוי] המתאים למה שכתבת בסעיף 2 \'יש שהסבירו\' : אדם מבקש משכנו במושב שיבוא עם הטרקטור והמתחחת שלו על מנת לבצע לו תחוח קטן בשטח שלו. </p><p>השכן מגיע בעצמו לעשות את העבודה עם הכלי שברשותו מהסיבה הפשוטה שהוא מכיר היטב את הכלי ויש בידו את המיומנות לבצע את העבודה. </p><p>הכל נעשה בהתנדבות וכביכול השואל השאיל את המתחחת [ =כלי חקלאי] יחד עם הנהג [=השכן, בעל הכלי] . המתחחת פוגעת באבן ונפגעת. על מי להטיל את הנזק הכספי? </p><p>הרי השואל סמך על בעל המתחחת שהוא היודע כיצד להזהר מפני מפגש עם סלע וכד\'.</p><p>מקרים כאלו מצויים בחיים החקלאים. [ גדלתי במושב...] </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2020-03-19 13:17:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/dorot.html',
+		'<p>כל הכבוד - עבודה מרשימה!</p>',
+		'113064092544078976046',
+		'Ido Yankelovich',
+		'2020-03-19 21:01:18'
+		)
+		;
+
