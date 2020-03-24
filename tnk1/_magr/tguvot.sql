@@ -32340,3 +32340,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/jm-22-1314.html',
+		'<p>מעניין מאד, תודה. הדוגמה שהבאת דווקא מתאימה למה שעולה מפשט המקרא, שהשואל פטור רק אם המשאיל נמצא עם החפץ בזמן שהנזק נגרם.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-03-24 05:10:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/hqtort.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-03-24 06:08:33'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-03-24 06:08:34' 
+			WHERE messageid=9643;
+

@@ -2819,3 +2819,41 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/sofrim/zuckm/dorot.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/klli/mdrjim/jm-22-1314.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-24 05:10:28'
+		WHERE parent='tnk1/klli/mdrjim/jm-22-1314.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/hqtort.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-24 06:08:33'
+		WHERE parent='tnk1/tora/bmdbr/hqtort.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-03-24 06:08:34'
+			WHERE parent='tnk1/tora/bmdbr/hqtort.html'
+			;
+

@@ -36265,3 +36265,41 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/sofrim/zuckm/dorot.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ngp.html',
+				'tnk1/tora/bmdbr/bm-17-11.html',
+				NULL,
+				'2020-03-24 05:03:08',
+				'2020-03-24 05:03:08',
+				'איך אהרן עצר את המגפה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/tora/bmdbr/bm-17-11.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-24 05:10:28'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/jm-22-1314.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-24 06:08:33'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/hqtort.html'
+		;
+
