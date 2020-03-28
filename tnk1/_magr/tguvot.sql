@@ -32371,3 +32371,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-03-24 06:08:34' 
 			WHERE messageid=9643;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/tfilot_jbt.html',
+		'<p>תודה רבה</p>',
+		'111004303473678677778',
+		'gady tal',
+		'2020-03-27 19:56:41'
+		)
+		;
+

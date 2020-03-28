@@ -2857,3 +2857,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/tora/bmdbr/hqtort.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/mamr/tfilot_jbt.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-27 19:56:41'
+		WHERE parent='tryg/mamr/tfilot_jbt.html'
+		;
+
