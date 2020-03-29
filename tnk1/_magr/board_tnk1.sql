@@ -36396,3 +36396,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/mamr/tfilot_jbt.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-28 19:30:42'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/zk-1214.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-03-28 21:58:42'
+		WHERE ktovt_bn='tnk1/tora/ribit_enyym.html'
+		;
+

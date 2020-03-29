@@ -2872,3 +2872,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/mamr/tfilot_jbt.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/zk-1214.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-28 19:30:42'
+		WHERE parent='tnk1/nvia/tryasr/zk-1214.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/ribit_enyym.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-03-28 21:58:42'
+		WHERE parent='tnk1/tora/ribit_enyym.html'
+		;
+

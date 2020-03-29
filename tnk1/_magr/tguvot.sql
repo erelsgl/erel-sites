@@ -32383,3 +32383,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/zk-1214.html',
+		'<p>באיזה פרק בזכריה הנביא מתוארת התקופה העכשווית על הרכבת הממשלה הנוכחית?</p><p></p>',
+		'104749490930933375091',
+		'זהבה בכר',
+		'2020-03-28 19:30:42'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/ribit_enyym.html',
+		'<p>לענ&quot;ד יש לקרוא את הפסוק במבנה כיאסטי הבא: </p><p>אִם כֶּסֶף תַּלְוֶה   1אֶת עַמִּי              </p><p>                                          2אֶת הֶעָנִי עִמָּךְ   -  1לֹא תִהְיֶה לוֹ  כְּנֹשֶׁה . </p><p>                                                                     2לֹא תְשִׂימוּן עָלָיו נֶשֶׁךְ.  </p><p>מצוירים כאן שני מקרים נפרדים של הלוואה. </p><p>האחד את עמי [= משפחתי] - לא תהיה לו כנושא.</p><p>השני - את העני עימך - לא תשימון עליו נשך. </p><p></p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2020-03-28 21:58:42'
+		)
+		;
+
