@@ -990,7 +990,7 @@ var psuqStyle = { name: 'psuq',  element: 'q', attributes: {class: 'psuq' } };
 var mfrjStyle = { name: 'mfrj',  element: 'q', attributes: {class: 'mfrj' } };
 var psuqAnchorStyle = { name: 'psuqAnchor',  element: 'a', attributes: {class: 'psuq' } };
 
-CKEDITOR.stylesSet.add( 'my_styles', [h3Style, advancedStyle, futureStyle, smallStyle, psuqStyle, mfrjStyle, psuqAnchorStyle] );
+CKEDITOR.stylesSet.add( 'my_styles', [h2style, h3Style, advancedStyle, futureStyle, smallStyle, psuqStyle, mfrjStyle, psuqAnchorStyle] );
 
 var config = {language: 'he', stylesSet: 'my_styles'};
 
