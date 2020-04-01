@@ -8,6 +8,7 @@ Must come after the following scripts:
 
 */
 
+var h2Style = { name: 'h2',  element: 'h2'  };
 var h3Style = { name: 'h3',  element: 'h3'  };
 var advancedStyle = { name: 'Advanced',  element: 'div', attributes: { class: 'advanced' } };
 var futureStyle = { name: 'Future',  element: 'div', attributes: { class: 'future' } };
@@ -24,6 +25,8 @@ CKEDITOR.inline_with_keyboard_shortcuts = function(id) {
     var editor1 = CKEDITOR.inline(id, config);
 
     /* from https://stackoverflow.com/questions/60070542/how-to-create-a-keyboard-shortcut-to-a-custom-style */
+    editor1.addCommand('h2Style', new CKEDITOR.styleCommand(new CKEDITOR.style(h2Style)));
+    editor1.setKeystroke(CKEDITOR.CTRL + 50, 'h2Style'); // Ctrl+2
 
     editor1.addCommand('h3Style', new CKEDITOR.styleCommand(new CKEDITOR.style(h3Style)));
     editor1.setKeystroke(CKEDITOR.CTRL + 51, 'h3Style'); // Ctrl+3
