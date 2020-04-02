@@ -36520,3 +36520,58 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-04-01 06:52:53'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-01 10:47:42'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/kmwh_k_7_jnwt_reb.pdf',
+				NULL,
+				'2020-04-01 17:34:37',
+				'2020-04-01 17:34:37',
+				'מגפה כמוה כ-7 שנות רעב',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-01 21:12:26'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-02-11.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/geographical_directions__addition_.pdf',
+				NULL,
+				'2020-04-02 02:24:42',
+				'2020-04-02 02:24:42',
+				'Geographical directions (addition)',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-04-02 02:24:42'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
