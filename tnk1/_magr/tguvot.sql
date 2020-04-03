@@ -32431,3 +32431,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-yldim.html',
+		'<p>ראשון</p>',
+		'107412035582282326712',
+		'Michael Banchik',
+		'2020-04-02 11:35:53'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-47-1819.html',
+		'<p>תודה אריאל.  מאמר מעניין ומרחיב. . </p>',
+		'111552006486426752230',
+		'יהונדב גילת',
+		'2020-04-03 05:00:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-47-1819.html',
+		'<p>תודה אריאל.  מאמר מעניין ומרחיב. . </p>',
+		'111552006486426752230',
+		'יהונדב גילת',
+		'2020-04-03 05:00:27'
+		)
+		;
+

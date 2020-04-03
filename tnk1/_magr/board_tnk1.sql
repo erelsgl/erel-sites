@@ -36575,3 +36575,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-04-02 02:24:42'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-02 11:35:53'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-16-yldim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-03 05:00:15'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-47-1819.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-03 05:00:27'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-47-1819.html'
+		;
+
