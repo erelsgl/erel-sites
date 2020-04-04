@@ -36599,3 +36599,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-47-1819.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-03 14:14:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-03 14:24:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
+		;
+
