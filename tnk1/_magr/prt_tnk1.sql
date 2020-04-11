@@ -117,3 +117,23 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'איש אמונה אחד יכול להציל את כל ירושלים', `tarik_hosfa` = '2020-03-02 10:52:06' WHERE `qod` = 'ביאור:ירמיהו ה1' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות יב22' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ואכלת את עשב השדה', `tarik_hosfa` = '2020-04-10 11:22:13' WHERE `qod` = 'ביאור:בראשית ג18' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'בזעת אפיך תאכל לחם', `tarik_hosfa` = '2020-04-10 11:22:13' WHERE `qod` = 'ביאור:בראשית ג19' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'בניך ובניך אוכלים', `tarik_hosfa` = '2020-04-10 11:22:13' WHERE `qod` = 'ביאור:איוב א18' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'בני האלהים', `tarik_hosfa` = '2020-04-10 11:22:13' WHERE `qod` = 'ביאור:בראשית ו2' AND 1 LIMIT 1;
+

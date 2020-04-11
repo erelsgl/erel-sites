@@ -33056,3 +33056,34 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-04-10 08:25:09' 
+			WHERE messageid=9688;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/zk-12-02.html',
+		'<p>יתכן שסף = סיף = חרב  (משוכה ברעל)</p><p>סף = פתח , פתח = חרב</p><p>תהלים נה22: &quot;חלקו מחמאת פיו וקרב לבו רכו דבריו משמן והמה פתחות&quot;</p><p>מיכה ה5: &quot;ורעו את ארץ אשור בחרב ואת ארץ נמרד בפתחיה..&quot;</p><p></p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2020-04-10 08:59:37'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>https://www.youtube.com/watch?v=hoHuxpa4h48</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-10 09:48:15'
+		)
+		;
+

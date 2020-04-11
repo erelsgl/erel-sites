@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-03-02 10:52:23
+# This file was automatically generated at 2020-04-10 11:22:19
 
 sub wikia_replace_links {
 $_=shift;
@@ -1209,6 +1209,7 @@ s|${OPENLINK}tnk1/tora/wyqra/wy-17|[[ביאור:דם בהמה לעומת דם ח
 s|${OPENLINK}tnk1/tora/wyqra/wy-16-0710|[[ביאור:שעיר לה' ושעיר לעזאזל|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-15|[[ביאור:מוות שיוצא מהגוף - זיבה, זרע ונידה|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-14-36|[[ביאור:טהרה קוונטית|ig;
+s|${OPENLINK}tnk1/tora/wyqra/wy-13-05|[[ביאור:להיכנס לבידוד שבועיים|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-13-03|[[ביאור:נגע צרעת|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-13-0117|[[ביאור:מוות מתחת לעור|ig;
 s|${OPENLINK}tnk1/tora/wyqra/wy-10-19|[[ביאור:מדוע לא אכל אהרן משעיר החטאת?|ig;
@@ -1394,6 +1395,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-13-08|[[ביאור:בעבור זה עשה ה' ל�
 s|${OPENLINK}tnk1/tora/jmot/jm-13-03|[[ביאור:ולא ייאכל חמץ = ביטוי למהירות היציאה ממצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13|[[ביאור:מבנה שמות יג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-39|[[ביאור:מדוע בני ישראל לא הכינו צדה לדרך?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-22|[[ביאור:עוצר עד בוקר|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-15|[[ביאור:למה אסור להחזיק שאור בפסח?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-1323|[[ביאור:האם ה' צריך לראות דם כדי להציל את בני ישראל מהמשחית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-12|[[ביאור:שפטים באלהי מצרים|ig;
@@ -3571,6 +3573,7 @@ s|${OPENLINK}tnk1/msr/knesset/qrqa2|[[ביאור:על נחלות וחתונות|
 s|${OPENLINK}tnk1/msr/knesset/psd|[[ביאור:פסק דין חלוט|ig;
 s|${OPENLINK}tnk1/msr/knesset/platform|[[ביאור:על סדר היום - האם מפלגה צריכה מצע?|ig;
 s|${OPENLINK}tnk1/msr/knesset/land|[[ביאור:על סדר היום - קרקע|ig;
+s|${OPENLINK}tnk1/msr/knesset/justice|[[ביאור:על סדר היום - רדיפת צדק וירושת הארץ|ig;
 s|${OPENLINK}tnk1/msr/knesset/invaders|[[ביאור:על סדר היום - מסתננים מאפריקה|ig;
 s|${OPENLINK}tnk1/msr/knesset/index|[[ביאור:על סדר היום - נושאים מסדר היום של כנסת ישראל לאור התנ"ך|ig;
 s|${OPENLINK}tnk1/msr/knesset/hrs|[[ביאור:ההרס ביהודה ושומרון|ig;
@@ -4692,7 +4695,9 @@ s|${OPENLINK}tnk1/messages/radyan_mwbnh_btrbwe_swgr_megl.pdf|[[ביאור:רק �
 s|${OPENLINK}tnk1/messages/qyn_bcennym_ajr_at_qdj.pdf|[[ביאור:אות קין בצעננים אשר את קדש|ig;
 s|${OPENLINK}tnk1/messages/queen_athalie.pdf|[[ביאור:Queen Athalie|ig;
 s|${OPENLINK}tnk1/messages/qere_kethiv.pdf|[[ביאור:הערות קרי - כתיב לספר ירמיהו|ig;
+s|${OPENLINK}tnk1/messages/qedem.pdf|[[ביאור:Qedem|ig;
 s|${OPENLINK}tnk1/messages/qedarites.pdf|[[ביאור:קדר|ig;
+s|${OPENLINK}tnk1/messages/punishment.pdf|[[ביאור:Punishment|ig;
 s|${OPENLINK}tnk1/messages/prq_yb___byt_dwd.doc|[[ביאור:משלי יב כמשל בית דוד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/prq_yb___ayjy_htwrh.doc|[[ביאור:משלי יב כמשל לחיי האבות (.doc)|ig;
 s|${OPENLINK}tnk1/messages/prqim_tora_1|[[ביאור:לא צריך להתלהב מכל דבר שהגויים עושים, גם אם הם נביאים|ig;
@@ -7042,6 +7047,7 @@ s|${OPENLINK}tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_0_0|[[ביאור:430 �
 s|${OPENLINK}tnk1/messages/ktuv_mgilot_mmukn_1_1|[[ביאור:מגילת אסתרונומיה|ig;
 s|${OPENLINK}tnk1/messages/ktuv_mgilot_ei-mtnya_5|[[ביאור:העברת מסר לרבים - דרשנים|ig;
 s|${OPENLINK}tnk1/messages/ktuv_mgilot_ei-mtnya_0|[[ביאור:המספר 7 - לא "מספר של הטבע"|ig;
+s|${OPENLINK}tnk1/messages/kmwh_k_7_jnwt_reb.pdf|[[ביאור:מגפה כמוה כ-7 שנות רעב|ig;
 s|${OPENLINK}tnk1/messages/kma_qjrim2_yciat_mcrym_3|[[ביאור:יציאת מצרים בראי הארכיאולוגיה|ig;
 s|${OPENLINK}tnk1/messages/kma_qjrim2_yciat_mcrym_2|[[ביאור:פי החירות = רינוקורורה|ig;
 s|${OPENLINK}tnk1/messages/kma_qjrim2_yciat_mcrym_1|[[ביאור:יציאת מצרים ממעיין למעיין 41 חנייות|ig;
@@ -7152,6 +7158,7 @@ s|${OPENLINK}tnk1/messages/horns_and_antlers.pdf|[[ביאור:Horns and Antlers|
 s|${OPENLINK}tnk1/messages/hnyswx.pdf|[[ביאור:חכמת הניסוח|ig;
 s|${OPENLINK}tnk1/messages/hmspr_18_btwrh_hqjr_byn_thylym_kf_18_amt_wjqr.pdf|[[ביאור:מהות המספר 18 בתורה - הקשר בין תהילים כט, 18, אמת ושקר|ig;
 s|${OPENLINK}tnk1/messages/hmjwlj___lrbe_megl.pdf|[[ביאור:והחוט המשולש = לרבע מעגל|ig;
+s|${OPENLINK}tnk1/messages/hmgph.pdf|[[ביאור:ותעצר המגפה|ig;
 s|${OPENLINK}tnk1/messages/hmegl_bmkplt_jdh_hmkplh.pdf|[[ביאור:מכפלות המעגל במכפלת שדה המכפלה|ig;
 s|${OPENLINK}tnk1/messages/hkl2_em_twspwt.doc|[[ביאור:שמעוני הכל עם תוספות (.doc)|ig;
 s|${OPENLINK}tnk1/messages/hjtyyh_bymy_drywwj.pdf|[[ביאור:אבן השתייה בימי דריווש|ig;
@@ -7159,6 +7166,7 @@ s|${OPENLINK}tnk1/messages/hhsdrh_hmqwry_jl_axab_wtwcawtyw.pdf|[[ביאור:חו
 s|${OPENLINK}tnk1/messages/heytym_mcwqh_gdwlh_beygwl_nwcqt.pdf|[[ביאור:ובצוק העיתים מצוקה גדולה בעיגול נוצקת|ig;
 s|${OPENLINK}tnk1/messages/hemwd___12_amwt___hyqp_mjwlj.pdf|[[ביאור:היקף העמוד = 12 אמות = היקף משולש|ig;
 s|${OPENLINK}tnk1/messages/heaven_s_bread.pdf|[[ביאור:Heaven's bread|ig;
+s|${OPENLINK}tnk1/messages/hbyn_mjhw_la_nkwn.pdf|[[ביאור:מישהו הבין משהו לא נכון|ig;
 s|${OPENLINK}tnk1/messages/hazynw_slxty_kdbrk.docx|[[ביאור:פרשת האזינו - סלחתי כדברך|ig;
 s|${OPENLINK}tnk1/messages/hawyqlydy_hwa_mh_jhyh_hwa_jyhyh.pdf|[[ביאור:הצדק האויקלידי הוא מה שהיה הוא שיהיה|ig;
 s|${OPENLINK}tnk1/messages/harwt_benyyny_ljwn___mjly_jlmh_prqym_y_kd.doc|[[ביאור:הארות בענייני לשון - משלי-שלמה פרקים י-כד (.doc)|ig;
@@ -7172,6 +7180,8 @@ s|${OPENLINK}tnk1/messages/goren.pdf|[[ביאור:Goren|ig;
 s|${OPENLINK}tnk1/messages/god_in_the_book_of_song_of_songs.pdf|[[ביאור:God in the Book of Song of Songs|ig;
 s|${OPENLINK}tnk1/messages/girdle.pdf|[[ביאור:מה"אזור" התנכי ל"סינר" התלמודי|ig;
 s|${OPENLINK}tnk1/messages/gilead_and_bashan.pdf|[[ביאור:Gilead and Bashan|ig;
+s|${OPENLINK}tnk1/messages/geographical_directions__addition_.pdf|[[ביאור:Geographical directions (addition)|ig;
+s|${OPENLINK}tnk1/messages/geographical_directions.pdf|[[ביאור:Geographical directions|ig;
 s|${OPENLINK}tnk1/messages/from_plesheth_to_palestina.pdf|[[ביאור:From Plesheth to Palestina|ig;
 s|${OPENLINK}tnk1/messages/from_before_you.pdf|[[ביאור:לפני, מפני, ומלפני|ig;
 s|${OPENLINK}tnk1/messages/forums_999|[[ביאור:'מולדתי חוגגת עצמאות' - שיר מאת אהובה קליין (c)|ig;
@@ -8142,8 +8152,18 @@ s|${OPENLINK}tnk1/messages/forums_124|[[ביאור:פרשת נשא - חנוכת 
 s|${OPENLINK}tnk1/messages/forums_123|[[ביאור:'רות' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_122|[[ביאור:שבועות - מהות החג|ig;
 s|${OPENLINK}tnk1/messages/forums_121|[[ביאור:'ירושלים והבשורה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1203|[[ביאור:'אהרון הכהן ומנחתו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1202|[[ביאור:פרשת צו - הבאת מנחה של הכהן הגדול - מהי מסמלת?|ig;
+s|${OPENLINK}tnk1/messages/forums_1201|[[ביאור:' קורבן ציבור' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1200|[[ביאור:'בצלאל ואהליאב' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_120|[[ביאור:'סדר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_12|[[ביאור:פרשת ניצבים - מי הם הנענשים בעוון אי קיום התורה|ig;
+s|${OPENLINK}tnk1/messages/forums_1199|[[ביאור:פרשת ויקרא - מהו פר העלם דבר של ציבור?|ig;
+s|${OPENLINK}tnk1/messages/forums_1198|[[ביאור:פרשת ויקהל-פקודי - אמני המשכן - מדוע נחשבו חכמי לב?|ig;
+s|${OPENLINK}tnk1/messages/forums_1197|[[ביאור:'השבת בשדה ובבית' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1196|[[ביאור: פרשת כי תשא - מאין כי השבת מקור הברכה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1195|[[ביאור:'תרומת שמן הזית' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1194|[[ביאור:פרשת תצווה - במה חשיבות תרומת שמן הזית לנר התמיד?|ig;
 s|${OPENLINK}tnk1/messages/forums_1193|[[ביאור:'הקמת  המשכן' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1192|[[ביאור:פרשת תרומה - תכלית המשכן והעוסקים בהקמתה|ig;
 s|${OPENLINK}tnk1/messages/forums_1191|[[ביאור:'עבד עברי יוצא לחופשי' - שיר מאת אהובה קליין (c)|ig;
@@ -8377,6 +8397,7 @@ s|${OPENLINK}tnk1/messages/ezor_index_1|[[ביאור:שמות שונים לאו�
 s|${OPENLINK}tnk1/messages/ezor_index_0|[[ביאור:מדוע עבר מסע הלוויה של יעקב ממצרים לחברון דרך עבר הירדן?|ig;
 s|${OPENLINK}tnk1/messages/eshbaal_king_of_israel.pdf|[[ביאור:Eshbaal King of Israel|ig;
 s|${OPENLINK}tnk1/messages/eqb_jwxd_rwxny_wprjt_jwpfym_jwxd_gjmy.pdf|[[ביאור:פרשת עקב שוחד רוחני ופרשת שופטים שוחד גשמי|ig;
+s|${OPENLINK}tnk1/messages/emy_ba_bxdryk_wsgwr_dltk_bedyk.pdf|[[ביאור:לך עמי בא בחדריך וסגור דלתך בעדיך|ig;
 s|${OPENLINK}tnk1/messages/emqw_mxjbwtyk_kxwf___megl.pdf|[[ביאור:מאוד עמקו מחשבותיך כחוט = מעגל|ig;
 s|${OPENLINK}tnk1/messages/dywqym_btrgwm_ywntn___yrmyhw_prq_a.doc|[[ביאור:דיוקים בתרגום יונתן - ירמיהו פרק א (.doc)|ig;
 s|${OPENLINK}tnk1/messages/dybwry_ecb_wrwgz_jl_dwd.doc|[[ביאור:דיבורי עצב ורוגז בפי דוד (.doc)|ig;
@@ -8578,6 +8599,7 @@ s|${OPENLINK}tnk1/messages/chuppah.pdf|[[ביאור:Chuppah|ig;
 s|${OPENLINK}tnk1/messages/child_or_a_lad.pdf|[[ביאור:Child or a lad|ig;
 s|${OPENLINK}tnk1/messages/chaldeans_and_beer.pdf|[[ביאור:כשדים ותירוש|ig;
 s|${OPENLINK}tnk1/messages/cdq_awqlydy___xjbwn_xwf___wlhjkyl_bamytk.pdf|[[ביאור:במעגל צדק אוקלידי = חשבון חוט = ולהשכיל באמיתך|ig;
+s|${OPENLINK}tnk1/messages/b_3539_jnh_lcat_bny_yjral_marc_mcrym.pdf|[[ביאור:ויהי ב-3539 שנה לצאת בני ישראל מארץ מצרים|ig;
 s|${OPENLINK}tnk1/messages/byqwrwt___spr.doc|[[ביאור:לקט ביקורות - ספר (.doc)|ig;
 s|${OPENLINK}tnk1/messages/byqwrwt_a5.doc|[[ביאור:לקט ביקורות A5 (.doc)|ig;
 s|${OPENLINK}tnk1/messages/byqwrwt_2.doc|[[ביאור:לקט ביקורות 2 (.doc)|ig;
@@ -8615,6 +8637,7 @@ s|${OPENLINK}tnk1/messages/anymore.pdf|[[ביאור:Anymore|ig;
 s|${OPENLINK}tnk1/messages/anky_jwlx_lkm_at_alyh_hnbya.pdf|[[ביאור:הנה אנכי שולח לכם את אליה הנביא|ig;
 s|${OPENLINK}tnk1/messages/anfyjmywt_wtjeh_bab_prjt_watxnn.docx|[[ביאור:עמלק אנטישמיות ותשעה באב - פרשת ואתחנן|ig;
 s|${OPENLINK}tnk1/messages/amwntw.pdf|[[ביאור:מעגל אמונתו|ig;
+s|${OPENLINK}tnk1/messages/alphabetic_acrostic_texts.pdf|[[ביאור:Alphabetic acrostic texts|ig;
 s|${OPENLINK}tnk1/messages/all_the_king_s_men.pdf|[[ביאור:All the king's men|ig;
 s|${OPENLINK}tnk1/messages/alhy_yeqb_nrdm_wrkb_wsws.pdf|[[ביאור:מגערתך אלהי יעקב נרדם ורכב וסוס|ig;
 s|${OPENLINK}tnk1/messages/alhym_lpnwt_bwqr.pdf|[[ביאור:יעזרה אלהים לפנות בוקר|ig;
@@ -10577,6 +10600,7 @@ s|${OPENLINK}tnk1/kma/qjrim2/tjuvt_dwd_svl|[[ביאור:דוד מקבל בהבנ
 s|${OPENLINK}tnk1/kma/qjrim2/tjuvt_dwd|[[ביאור:תשובתו של דוד|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/tjuva_frida|[[ביאור:דרך תשובה|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/tjuva|[[ביאור:שובי|ig;
+s|${OPENLINK}tnk1/kma/qjrim2/survival|[[ביאור:על סדר היום - הישרדות|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/sofim|[[ביאור:סיומים מוזרים|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/smkut_hmlk|[[ביאור:טבעת המלך וסמכות המלך|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/simnim|[[ביאור:סימנים בבחירת בן/בת זוג - רק כשבוחרים עבור מישהו/י אחר/ת!|ig;
@@ -11913,7 +11937,6 @@ s|${OPENLINK}tnk1/jm-16-16|[[ביאור:ביאור:שמות טז16|ig;
 s|${OPENLINK}tnk1/jm-16-12|[[ביאור:ביאור:שמות טז12|ig;
 s|${OPENLINK}tnk1/jm-12-28|[[ביאור:ביאור:שמות יב28|ig;
 s|${OPENLINK}tnk1/jm-12-23|[[ביאור:ביאור:שמות יב23|ig;
-s|${OPENLINK}tnk1/jm-12-22|[[ביאור:ביאור:שמות יב22|ig;
 s|${OPENLINK}tnk1/jm-07-8|[[ביאור:ביאור:שמות ז8|ig;
 s|${OPENLINK}tnk1/jm-07-12|[[ביאור:ביאור:שמות ז12|ig;
 s|${OPENLINK}tnk1/jm-03-9|[[ביאור:ביאור:שמות ג9|ig;
