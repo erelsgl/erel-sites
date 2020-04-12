@@ -37381,3 +37381,51 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/tora/jmot/jm-12-22.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/erb4.html',
+				'tnk1/kma/qjrim1/beinarbaim.html',
+				NULL,
+				'2020-04-11 17:30:17',
+				'2020-04-11 17:30:17',
+				'בין הערביים = בין השקיעה לחשכה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-11 19:16:15'
+		WHERE ktovt_bn='tnk1/tora/brejit/tarikim25.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/kss.html',
+				'tnk1/tora/jmot/jm-12-04.html',
+				NULL,
+				'2020-04-11 20:13:17',
+				'2020-04-11 20:13:17',
+				'הצבא צועד על קיבתו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-12 07:24:12'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-12-03.html'
+		;
+

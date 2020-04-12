@@ -194,3 +194,47 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/hll יה שירו ליהוה ק/jirxdj ק/hll בקהל ק/xsid' WHERE `book` = 'תהל' AND `chapter` = 'קמט' AND `verse_number` = 1 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ס/14 _ ק/xdj ק/ze ק/beinarbaim _ תעשו אתו ק/moed ק/xqq ק/mjpt תעשו אתו' WHERE `book` = 'במד' AND `chapter` = 'ט' AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויעשו את-הפסח בראשון בארבעה עשר ק/yom ק/xdj ק/beinarbaim _ במדבר סיני ככל אשר צוה יהוה את-משה כן עשו בני ישראל' WHERE `book` = 'במד' AND `chapter` = 'ט' AND `verse_number` = 5 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/xdj השני בארבעה עשר ק/yom ק/beinarbaim _ יעשו אתו על-מצות ומררים יאכלהו' WHERE `book` = 'במד' AND `chapter` = 'ט' AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'את-הכבש אחד תעשה בבקר ואת הכבש השני תעשה ק/beinarbaim _' WHERE `book` = 'במד' AND `chapter` = 'כח' AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואת הכבש השני תעשה ק/beinarbaim _ כמנחת הבקר וכנסכו תעשה אשה ריח ניחח ליהוה' WHERE `book` = 'במד' AND `chapter` = 'כח' AND `verse_number` = 8 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/xdj הראשון בארבעה עשר ק/xdj ק/beinarbaim _ פסח ליהוה' WHERE `book` = 'ויק' AND `chapter` = 'כג' AND `verse_number` = 5 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'שמעתי את-תלונת בני ישראל דבר אלהם לאמר ק/beinarbaim _ תאכלו בשר ובבקר תשבעו-לחם ק/dat1 כי אני יהוה אלהיכם' WHERE `book` = 'שמת' AND `chapter` = 'טז' AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'והיה לכם למשמרת עד ארבעה עשר ק/yom ק/xdj ק/ze ושחטו אתו כל קהל עדת-ישראל ק/beinarbaim _' WHERE `book` = 'שמת' AND `chapter` = 'יב' AND `verse_number` = 6 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'את-הכבש האחד תעשה בבקר ואת הכבש השני תעשה ק/beinarbaim _' WHERE `book` = 'שמת' AND `chapter` = 'כט' AND `verse_number` = 39 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואת הכבש השני תעשה ק/beinarbaim _ כמנחת הבקר וכנסכה תעשה-לה לריח ניחח אשה ליהוה' WHERE `book` = 'שמת' AND `chapter` = 'כט' AND `verse_number` = 41 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ובהעלת אהרן את-הנרת ק/beinarbaim _ יקטירנה קטרת תמיד לפני יהוה לדרתיכם' WHERE `book` = 'שמת' AND `chapter` = 'ל' AND `verse_number` = 8 AND 1 LIMIT 1;
+

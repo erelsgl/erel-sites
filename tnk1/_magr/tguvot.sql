@@ -33087,3 +33087,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>אני מחפשת מידע על שרח בת אשר, האם יש תאריך לידה שלה? האם ידוע מתי התגלה יוסף לאחיו? ומתי שרח בשרה ליעקב שיוסף חי? בת כמה היא היתה בירידה למצרים?</p><p>תןודה מראש</p><p></p>',
+		'100765217605423241348',
+		'יעל שושני',
+		'2020-04-11 19:16:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-12-03.html',
+		'<p>לא הבנתי</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-04-12 07:24:12'
+		)
+		;
+
