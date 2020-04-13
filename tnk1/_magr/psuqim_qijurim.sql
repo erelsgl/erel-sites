@@ -238,3 +238,63 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `psuqim_qijurim` SET `verse_text` = 'ובהעלת אהרן את-הנרת ק/beinarbaim _ יקטירנה קטרת תמיד לפני יהוה לדרתיכם' WHERE `book` = 'שמת' AND `chapter` = 'ל' AND `verse_number` = 8 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/asor ק/xdj ס/7 ק/ze ק/mqraqdj יהיה לכם ק/inanfj _ ק/mlaka לא תעשו' WHERE `book` = 'במד' AND `chapter` = 'כט' AND `verse_number` = 7 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויאמר אחיה ואמה תשב הנער אתנו ימים או ק/asor אחר תלך' WHERE `book` = 'ברא' AND `chapter` = 'כד' AND `verse_number` = 55 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'והיתה לכם ק/xqq ק/olm ק/xdj ס/7 ק/asor ק/xdj ק/inanfj _ ק/mlaka לא תעשו האזרח ק/gr _ _' WHERE `book` = 'ויק' AND `chapter` = 'טז' AND `verse_number` = 29 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'אך ק/asor ק/xdj ס/7 ק/ze ק/yom הכפרים הוא ק/mqraqdj יהיה לכם ק/inanfj _ והקרבתם אשה ליהוה' WHERE `book` = 'ויק' AND `chapter` = 'כג' AND `verse_number` = 27 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'והעם עלו מן-הירדן ק/asor ק/xdj הראשון ויחנו בגלגל בקצה מזרח יריחו' WHERE `book` = 'יהש' AND `chapter` = 'ד' AND `verse_number` = 19 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויהי בשנה ס/7 ס/5 ק/asor ק/xdj באו אנשים ק/zqnim _ ק/drj0 את-יהוה וישבו לפני' WHERE `book` = 'יחז' AND `chapter` = 'כ' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויהי דבר-יהוה אלי בשנה ס/9 ק/xdj ס/10 ק/asor ק/xdj לאמר' WHERE `book` = 'יחז' AND `chapter` = 'כד' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ס/25 _ שנה לגלותנו בראש השנה ק/asor ק/xdj ס/14 _ שנה אחר אשר הכתה העיר בעצם היום ק/ze היתה עלי יד-יהוה ויבא אתי שמה' WHERE `book` = 'יחז' AND `chapter` = 'מ' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויהי בשנה התשעית למלכו ק/xdj ס/10 ק/asor ק/xdj בא ד/1126 מלך-בבל הוא ק/xyl על-ירושלם ויחנו עליה ויבנו עליה דיק סביב' WHERE `book` = 'ירמ' AND `chapter` = 'נב' AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/xdj החמישי בעשור ק/xdj היא שנת ס/19 שנה ק/mlk0 ד/1126 מלך-בבל בא נבוזראדן רב-טבחים עמד לפני מלך-בבל בירושלם' WHERE `book` = 'ירמ' AND `chapter` = 'נב' AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ויהי בשנת ס/9 למלכו ק/xdj ס/10 ק/asor ק/xdj בא נבכדנאצר מלך-בבל הוא ק/xyl על-ירושלם ויחן עליה ויבנו עליה דיק סביב' WHERE `book` = 'מלב' AND `chapter` = 'כה' AND `verse_number` = 1 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'הודו ליהוה ק/knr בנבל ק/asor ל/zmr1' WHERE `book` = 'תהל' AND `chapter` = 'לג' AND `verse_number` = 2 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/asor ועלי-נבל עלי ק/hgh ק/knr' WHERE `book` = 'תהל' AND `chapter` = 'צב' AND `verse_number` = 4 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'אלהים ק/jirxdj אשירה לך בנבל ק/asor ל/zmr1' WHERE `book` = 'תהל' AND `chapter` = 'קמד' AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/xdj ס/5 ק/asor ק/xdj היא שנת ס/19 שנה ק/mlk0 ד/1126 מלך-בבל בא נבוזראדן רב-טבחים עמד לפני מלך-בבל בירושלם' WHERE `book` = 'ירמ' AND `chapter` = 'נב' AND `verse_number` = 12 AND 1 LIMIT 1;
+

@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-04-10 11:22:19
+# This file was automatically generated at 2020-04-12 18:25:12
 
 sub wikia_replace_links {
 $_=shift;
@@ -1395,14 +1395,17 @@ s|${OPENLINK}tnk1/tora/jmot/jm-13-08|[[ביאור:בעבור זה עשה ה' ל�
 s|${OPENLINK}tnk1/tora/jmot/jm-13-03|[[ביאור:ולא ייאכל חמץ = ביטוי למהירות היציאה ממצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-13|[[ביאור:מבנה שמות יג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-39|[[ביאור:מדוע בני ישראל לא הכינו צדה לדרך?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-38|[[ביאור:ערב רב - אז והיום|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-22|[[ביאור:עוצר עד בוקר|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-15|[[ביאור:למה אסור להחזיק שאור בפסח?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-1323|[[ביאור:האם ה' צריך לראות דם כדי להציל את בני ישראל מהמשחית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-12|[[ביאור:שפטים באלהי מצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-08|[[ביאור:מדוע צוו בני ישראל לאכול מצות שבועיים לפני שבצקם לא הספיק להחמיץ?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-04|[[ביאור:הצבא צועד על קיבתו|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-03|[[ביאור:שה לבית אבות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-02|[[ביאור:החודש הזה לכם ראש חודשים, ראשון הוא לכם לחדשי השנה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-0128|[[ביאור:כשהעם פוחד - הזקנים צריכים לתת דוגמה אישית|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-01|[[ביאור:המצוה הראשונה והאחרונה בארץ מצרים|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12|[[ביאור:פרשת יציאת מצרים - המבנה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-11|[[ביאור:מבנה שמות יא|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-10-17|[[ביאור:ויסר מעלי רק את המות הזה|ig;
@@ -3879,6 +3882,7 @@ s|${OPENLINK}tnk1/messages/weygwl_kmym_mwgrym_bmwrd.pdf|[[ביאור:עצמאו�
 s|${OPENLINK}tnk1/messages/was_samuel_a_prophet_or_a_judge.pdf|[[ביאור:Was Samuel a prophet or a judge |ig;
 s|${OPENLINK}tnk1/messages/urim_and_thummim.pdf|[[ביאור:Urim and Thummim|ig;
 s|${OPENLINK}tnk1/messages/tyre_s_ships.pdf|[[ביאור:Tyre's ships|ig;
+s|${OPENLINK}tnk1/messages/tyra_mqfb_kmw_qwrwnh.pdf|[[ביאור:לא תירא מקטב כמו קורונה|ig;
 s|${OPENLINK}tnk1/messages/tyrannos.pdf|[[ביאור:Tyrants|ig;
 s|${OPENLINK}tnk1/messages/twpewt_fbe_bspr_thlym.doc|[[ביאור:תופעות טבע בספר תהלים - קובץ וורד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/to_jerusalem.pdf|[[ביאור:To Jerusalem|ig;
@@ -11195,7 +11199,6 @@ s|${OPENLINK}tnk1/kma/qjrim1/ewil|[[ביאור:אויל = שטחי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/etq|[[ביאור:עתק = עולה ומנותק|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/etacmo|[[ביאור:כינוי שייכות שמתייחס לפועל עצמו|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/et|[[ביאור:עת רצון|ig;
-s|${OPENLINK}tnk1/kma/qjrim1/ervrv|[[ביאור:ערב רב = גויים שהתגיירו בזמן יציאת מצרים (?)|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/erkaf|[[ביאור:ארך אפיים = מחכה זמן ארוך עד שמגלה את כעסו; תכונה אלהית|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/erc_hqodj|[[ביאור:ארץ הקודש|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/eni|[[ביאור:עני = אדם שמעמדו החברתי נמוך|ig;
@@ -11293,6 +11296,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/bgd|[[ביאור:בוגד = צבוע, המכסה א
 s|${OPENLINK}tnk1/kma/qjrim1/beyn|[[ביאור:בעיני- = מנקודת מבט סובייקטיבית|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bet_el|[[ביאור:בית אל - במורד ההר|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/beir|[[ביאור:בעיר = בהמה|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/beinarbaim|[[ביאור:בין הערביים = בין השקיעה לחשכה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bca|[[ביאור:בצע = חלק בשלל, תועלת אישית אנוכית|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/ba_jkb_bal_yda|[[ביאור:בא - שכב - בעל - ידע|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/bavur|[[ביאור:בעבור- = כדי ש-, למען- או בגלל-|ig;
@@ -11314,6 +11318,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/aviv|[[ביאור:אביב = הבשלת התבוא�
 s|${OPENLINK}tnk1/kma/qjrim1/autonomy|[[ביאור:בחירה חופשית של האדם מול ה'|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/atr|[[ביאור:עטרה, עטרת = סמל לכבוד ולשלטון|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/atid_teva|[[ביאור:הטבע שמח בגאולת ישראל|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/asor|[[ביאור:עשור = עשרה פריטים|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/arvut|[[ביאור:ערבות לעומת הלוואה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/arubot|[[ביאור:ארובות השמיים = חלונות שהיו בשמים לפני המבול|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/ars|[[ביאור:ההבדל בין אירוסין לבין נישואין|ig;
