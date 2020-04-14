@@ -37741,3 +37741,179 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/tora/jmot/jm-12-01.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xpz.html',
+				'tnk1/kma/qjrim1/xpz.html',
+				NULL,
+				'2020-04-13 09:13:29',
+				'2020-04-13 09:13:29',
+				'חפזון = מהירות של בריחה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 09:30:28'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 10:24:03'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xpz.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/zwz.html',
+				'tnk1/tora/jmot/jm-12-07.html',
+				NULL,
+				'2020-04-13 10:26:15',
+				'2020-04-13 10:26:15',
+				'מצוות מזוזה - מהדם אל הקלף',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/zwz.html',
+				'tnk1/kma/qjrim1/mzz.html',
+				NULL,
+				'2020-04-13 10:30:32',
+				'2020-04-13 10:30:32',
+				'מזוזות = שני העמודים משני צדי הפתח',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 10:39:47'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/xpz.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xpz.html',
+				'tnk1/tora/jmot/jm-12-11.html',
+				NULL,
+				'2020-04-13 11:36:24',
+				'2020-04-13 11:36:24',
+				'פסח - חג החיפזון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 12:54:06'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/2smx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 16:53:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 17:16:29'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 17:38:32'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_pxz_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 17:48:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/na.html',
+				'tnk1/tora/jmot/jm-12-09.html',
+				NULL,
+				'2020-04-13 17:53:59',
+				'2020-04-13 17:53:59',
+				'לא נא ולא מבושל אלא צלוי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 17:57:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 18:04:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 18:08:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-13 18:16:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
+		;
+

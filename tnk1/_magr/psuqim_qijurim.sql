@@ -298,3 +298,111 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/xdj ס/5 ק/asor ק/xdj היא שנת ס/19 שנה ק/mlk0 ד/1126 מלך-בבל בא נבוזראדן רב-טבחים עמד לפני מלך-בבל בירושלם' WHERE `book` = 'ירמ' AND `chapter` = 'נב' AND `verse_number` = 12 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'לא-תאכל עליו חמץ ס/7 ימים תאכל-עליו מצות לחם ק/eni כי ק/xpz יצאת מארץ מצרים כ/tora/dvrim/lman תזכר את-יום צאתך מארץ מצרים כל ימי חייך' WHERE `book` = 'דבר' AND `chapter` = 'טז' AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואמר אלהם ל/jme ישראל אתם קרבים היום למלחמה על-איביכם ק/rklv _ ק/yra ק/xpz ואל-תערצו מפניהם' WHERE `book` = 'דבר' AND `chapter` = 'כ' AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'כי לא ק/xpz תצאו ובמנוסה לא תלכון כי-הלך לפניכם יהוה ל/asp אלהי ישראל' WHERE `book` = 'ישע' AND `chapter` = 'נב' AND `verse_number` = 12 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וילכו אחריהם עד-הירדן והנה ק/drk מלאה בגדים וכלים אשר-השליכו ארם ק/xpz וישבו המלאכים ויגדו למלך' WHERE `book` = 'מלב' AND `chapter` = 'ז' AND `verse_number` = 15 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וילך שאול מצד ההר מזה ודוד ואנשיו מצד ההר מזה ויהי דוד ק/xpz ללכת מפני שאול ושאול ואנשיו ק/atr אל-דוד ואל-אנשיו לתפשם' WHERE `book` = 'שמא' AND `chapter` = 'כג' AND `verse_number` = 26 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וככה תאכלו אתו מתניכם חגרים נעליכם ברגליכם ומקלכם בידכם ואכלתם אתו ק/xpz פסח הוא ליהוה' WHERE `book` = 'שמת' AND `chapter` = 'יב' AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואני אמרתי ק/xpz נגרזתי ק/mngd עיניך אכן ל/jme קול תחנוני בשועי אליך' WHERE `book` = 'תהל' AND `chapter` = 'לא' AND `verse_number` = 23 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'המה ראו כן תמהו ק/bhl ק/xpz' WHERE `book` = 'תהל' AND `chapter` = 'מח' AND `verse_number` = 6 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'מן-גערתך ינוסון מן-קול רעמך ק/xpz' WHERE `book` = 'תהל' AND `chapter` = 'קד' AND `verse_number` = 7 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'אני אמרתי ק/xpz כל-האדם ק/kzv' WHERE `book` = 'תהל' AND `chapter` = 'קטז' AND `verse_number` = 11 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וכתבתם ק/מזז ק/byt ק/jar' WHERE `book` = 'דבר' AND `chapter` = 'ו' AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וכתבתם ק/mzz ק/byt ק/jar' WHERE `book` = 'דבר' AND `chapter` = 'ו' AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וכתבתם ק/mzz ק/byt ק/jar' WHERE `book` = 'דבר' AND `chapter` = 'יא' AND `verse_number` = 20 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ל/הכל ק/mzz רבעה ופני הקדש המראה כמראה' WHERE `book` = 'יחז' AND `chapter` = 'מא' AND `verse_number` = 21 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'בתתם ספם את-ספי ק/mzz אצל ק/mzz והקיר ביני וביניהם וטמאו את-שם קדשי בתועבותם אשר עשו ואכל אתם באפי' WHERE `book` = 'יחז' AND `chapter` = 'מג' AND `verse_number` = 8 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ולקח הכהן מדם החטאת ונתן ק/mzz ק/byt ס/4 פנות העזרה למזבח ק/mzz שער החצר הפנימית' WHERE `book` = 'יחז' AND `chapter` = 'מה' AND `verse_number` = 19 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ובא הנשיא ק/drk אולם השער מחוץ ועמד ק/mzz השער ועשו הכהנים את-עולתו ואת-שלמיו והשתחוה על-מפתן השער ויצא והשער לא-יסגר עד-הערב' WHERE `book` = 'יחז' AND `chapter` = 'מו' AND `verse_number` = 2 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואחר הדלת ק/mzz שמת זכרונך כי מאתי גלית ותעלי הרחבת משכבך ותכרת-לך מהם ק/ahvot משכבם ק/yd חזית' WHERE `book` = 'ישע' AND `chapter` = 'נז' AND `verse_number` = 8 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ואת פתח הדביר עשה דלתות עצי-שמן האיל ק/mzz חמשית' WHERE `book` = 'מלא' AND `chapter` = 'ו' AND `verse_number` = 31 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וכן עשה לפתח ל/הכל ק/mzz עצי-שמן מאת רבעית' WHERE `book` = 'מלא' AND `chapter` = 'ו' AND `verse_number` = 33 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וכל-הפתחים ק/mzz רבעים ק/jqf ומול מחזה אל-מחזה ס/3 פעמים' WHERE `book` = 'מלא' AND `chapter` = 'ז' AND `verse_number` = 5 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ק/ajry אדם ל/jme לי ק/sqd על-דלתתי ק/yom _ לשמר ק/mzz פתחי' WHERE `book` = 'משל' AND `chapter` = 'ח' AND `verse_number` = 34 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'וישכב ד/600 עד-חצי הלילה ויקם בחצי הלילה ויאחז בדלתות שער-העיר ובשתי ק/mzz ויסעם עם-הבריח וישם על-כתפיו ויעלם אל-ראש ההר אשר על-פני חברון' WHERE `book` = 'שופ' AND `chapter` = 'טז' AND `verse_number` = 3 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ותקם חנה אחרי אכלה בשלה ואחרי שתה ועלי הכהן ישב ק/kise ק/mzz ל/הכל יהוה' WHERE `book` = 'שמא' AND `chapter` = 'א' AND `verse_number` = 9 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ולקחו מן-הדם ונתנו על-שתי ק/mzz ועל-המשקוף על ק/byt אשר-יאכלו אתו בהם' WHERE `book` = 'שמת' AND `chapter` = 'יב' AND `verse_number` = 7 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ולקחתם אגדת אזוב וטבלתם בדם אשר-בסף והגעתם אל-המשקוף ואל-שתי ק/mzz מן-הדם אשר בסף ואתם לא תצאו איש מפתח-ביתו עד-בקר' WHERE `book` = 'שמת' AND `chapter` = 'יב' AND `verse_number` = 22 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `psuqim_qijurim` SET `verse_text` = 'ועבר יהוה לנגף את-מצרים וראה את-הדם על-המשקוף ועל שתי ק/mzz ק/psx יהוה על-הפתח ולא יתן המשחית לבא אל-בתיכם לנגף' WHERE `book` = 'שמת' AND `chapter` = 'יב' AND `verse_number` = 23 AND 1 LIMIT 1;
+
