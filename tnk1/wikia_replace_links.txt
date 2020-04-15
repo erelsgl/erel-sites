@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-04-12 18:25:12
+# This file was automatically generated at 2020-04-14 14:50:21
 
 sub wikia_replace_links {
 $_=shift;
@@ -1397,10 +1397,15 @@ s|${OPENLINK}tnk1/tora/jmot/jm-13|[[ביאור:מבנה שמות יג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-39|[[ביאור:מדוע בני ישראל לא הכינו צדה לדרך?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-38|[[ביאור:ערב רב - אז והיום|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-22|[[ביאור:עוצר עד בוקר|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-17|[[ביאור:לא להחמיץ את המצות|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-16|[[ביאור:מלאכת אוכל נפש בחג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-15|[[ביאור:למה אסור להחזיק שאור בפסח?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-1323|[[ביאור:האם ה' צריך לראות דם כדי להציל את בני ישראל מהמשחית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-12|[[ביאור:שפטים באלהי מצרים|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-11|[[ביאור:פסח - חג החיפזון|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-09|[[ביאור:לא נא ולא מבושל אלא צלוי|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-08|[[ביאור:מדוע צוו בני ישראל לאכול מצות שבועיים לפני שבצקם לא הספיק להחמיץ?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-07|[[ביאור:מצוות מזוזה - מהדם אל הקלף|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-04|[[ביאור:הצבא צועד על קיבתו|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-03|[[ביאור:שה לבית אבות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-02|[[ביאור:החודש הזה לכם ראש חודשים, ראשון הוא לכם לחדשי השנה|ig;
@@ -10753,6 +10758,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/xrd|[[ביאור:חרדה = תנועה מהירה �
 s|${OPENLINK}tnk1/kma/qjrim1/xqr|[[ביאור:חקר = גבול וקצה ובדיקה מקצה לקצה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xqq|[[ביאור:חקק = חרת, חצב בסלע, קבע כלל לטווח ארוך|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xqlaut_kmjl|[[ביאור:פעולות חקלאיות כמשל לפעולות רוחניות|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/xpz|[[ביאור:חפזון = מהירות של בריחה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xps_bnr|[[ביאור:לחפש בנרות|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xotm|[[ביאור:קללת החותם|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xnupa0|[[ביאור:האם מותר להגיד דברים טובים על אנשים רעים? - סיכום הדעות|ig;
@@ -10973,6 +10979,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/ndiv|[[ביאור:נדיב = א. אדם נעלה ו
 s|${OPENLINK}tnk1/kma/qjrim1/ncr1|[[ביאור:נצירה = שמירה פעילה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/naturelaws|[[ביאור:האם חוקי הטבע משתנים?|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/na|[[ביאור:נא = בלשון ימינו מילת בקשה; בלשון המקרא גם "עכשיו!", ויש אומרים גם - "אכן" (מילת הדגשה)|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/mzz|[[ביאור:מזוזות = שני העמודים משני צדי הפתח|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/mzima|[[ביאור:מזימה = תוכנית שמטרתה לפגוע בזולת|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/mytv|[[ביאור:מיטב ה- = החלק הטוב ביותר של-|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/mymadnfj|[[ביאור:מים עד נפש = הצרות גברו עד שכמעט גרמו למותנו|ig;
