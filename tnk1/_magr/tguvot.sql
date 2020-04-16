@@ -33435,3 +33435,65 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>בלוח השמש [בעת המבול]</p><p>הספירה מיום ראש החודש הראשון באביב היא שבוע ימים לתחילת קציר השעורים</p><p>וממחרת השבת הראשונה לשנה החדשה סופרים 50 יום עד חג השבועות עד 27 לחודש השני</p><p>וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ = הכל יחדיו 7+50 =57 יום מראש השנה באביב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-15 09:31:15'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>בלוח השמש [ספירת העומר בעת המבול]</p><p>הספירה מיום ראש החודש הראשון באביב היא שבוע ימים לתחילת קציר השעורים</p><p>וממחרת השבת הראשונה לשנה החדשה סופרים 50 יום עד חג השבועות עד 27 לחודש השני</p><p>וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ = הכל יחדיו 7+50 =57 יום מראש השנה באביב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-15 10:37:14'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-04-15 10:37:17' 
+			WHERE messageid=9714;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>בלוח השמש [ספירת העומר בתם המבול]</p><p>הספירה מיום ראש החודש הראשון באביב היא שבוע ימים לתחילת קציר השעורים</p><p>וממחרת השבת הראשונה לשנה החדשה סופרים 50 יום עד חג השבועות עד 27 לחודש השני</p><p>וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ = הכל יחדיו 7+50 =57 יום מראש השנה באביב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-15 11:35:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-04-15 11:35:23' 
+			WHERE messageid=9715;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>תהלים קד19: &quot;עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ&quot;</p><p>הירח למועדים אך בעניין חג השבועות הלא הוא בכורי קציר חטים וכן גם בעניין קציר שעורים</p><p>מדובר על תבואת שמש ועל כן על פי לוח השמש ולא כחג הפסח וחג-הסכות על פי לוח הירח</p><p>דברים לג14: &quot;וּמִמֶּגֶד תְּבוּאֹת שָׁמֶשׁ וּמִמֶּגֶד גֶּרֶשׁ יְרָחִים&quot;</p><p>********** השעורה והחיטה = תְּבוּאֹת שָׁמֶשׁ **********</p><p>לכן יום הנפת העומר וחג השבועות על פי לוח השמש ולא על פי לוח הירח </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-15 13:45:39'
+		)
+		;
+
