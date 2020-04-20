@@ -33876,3 +33876,58 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-04-19 03:09:19' 
 			WHERE messageid=9741;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>אבקש סליחתכם</p><p>כתבתי בשגגה [בתגובות פה למעלה] שמועד הדגן הוא חג השבועות בכורי קציר חטים</p><p>אך לא כן הוא ואף כי בכורי קציר החטים מן הדגן זה נכון אבל מועדי הדגן והתירוש והיצהר = כל שלושת אלה מועדי מעשר למעשרות</p><p>וכי חג השבועות הוא בכורי קציר חטים אך אינו מועד המעשר לדגן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-19 14:22:19'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0319_4.html',
+		'<p>ויקרא כא5: &quot;לֹא יקרחה[יִקְרְחוּ] קָרְחָה בְּרֹאשָׁם וּפְאַת זְקָנָם לֹא יְגַלֵּחוּ וּבִבְשָׂרָם לֹא יִשְׂרְטוּ שָׂרָטֶת&quot;</p><p>הסיבה שבני ישראל אל להם להתגלח זאת למען לא ישרטו בבשרם שרט [שריטה] ככתוב: &quot;וּבִבְשָׂרָם לֹא יִשְׂרְטוּ שָׂרָטֶת&quot;</p><p>ההזהרה הזאת בפסוק הזה לאסור הגלוח לבני ישראל היא כפולה ומכופלת לכהנים בני אהרן הלוי אף כי היום יש מכונות גלוח חשמליות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-20 05:40:02'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0319_4.html',
+		'<p>ויקרא כא5: &quot;לֹא יקרחה[יִקְרְחוּ] קָרְחָה בְּרֹאשָׁם וּפְאַת זְקָנָם לֹא יְגַלֵּחוּ וּבִבְשָׂרָם לֹא יִשְׂרְטוּ שָׂרָטֶת&quot;</p><p>הסיבה שבני ישראל אל להם להתגלח זאת למען לא ישרטו בבשרם שרט [שריטה] ככתוב: &quot;וּבִבְשָׂרָם לֹא יִשְׂרְטוּ שָׂרָטֶת&quot;</p><p>ההזהרה בפסוק הזה לאסור הגלוח לבני ישראל היא כפולה ומכופלת לכהנים בני אהרן הלוי אף כי היום יש מכונות גלוח שאינן שורטות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-20 05:44:59'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-04-20 05:45:01' 
+			WHERE messageid=9743;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>אמר הנביא בספר ירמיהו יב3: ככתוב:</p><p>&quot;וְאַתָּה יהוה יְדַעְתָּנִי תִּרְאֵנִי וּבָחַנְתָּ לִבִּי אִתָּךְ הַתִּקֵם כְּצֹאן לְטִבְחָה וְהַקְדִּשֵׁם לְיוֹם הֲרֵגָה&quot;</p><p>בְּיוֹם הֶרֶג רָב בִּנְפֹל מִגְדָּלִים... ביום רביעי לשבוע הזה</p><p>כי את יום השואה קידשו ויום הקודש לשואה בעיניהם</p><p>********** כי חללו את יום הקודש לְשׁוֹאָה **********</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-04-20 06:41:29'
+		)
+		;
+
