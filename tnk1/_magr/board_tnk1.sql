@@ -38859,3 +38859,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-04-24 20:28:51'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/998.html',
+				'tnk1/ktuv/dhb/db-30-02.html',
+				NULL,
+				'2020-04-26 08:57:07',
+				'2020-04-26 08:57:07',
+				'פסח חזקיהו בחודש השני',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/ypqd_alhym_atkm_wgm_yhwdh_tlxm_byrwjlym.pdf',
+				NULL,
+				'2020-04-26 16:35:09',
+				'2020-04-26 16:35:09',
+				'פקד יפקד אלהים אתכם וגם יהודה תלחם בירושלים',
+				'רמי ניר',
+				''
+			)
+		;
+
