@@ -38891,3 +38891,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/discrimination.html',
+				NULL,
+				'2020-04-27 17:32:45',
+				'2020-04-27 17:32:45',
+				'על סדר היום - האם יש לבטל את חוק איסור הפליה במוצרים ושירותים?',
+				'אראל',
+				''
+			)
+		;
+
