@@ -34449,3 +34449,22 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-04-29 03:57:33' 
+			WHERE messageid=9045;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim1_stn_0.html',
+		'<p>אחד-שבע=359 שטן. נטש. יעקב-ישראל.</p><p>אחד+שבע=383 פגש. שנאמר ויהי בדרך במלון ויפגשהו ה\' ויבקש המיתו.</p><p>Yshabat.blogspot.com</p><p></p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2020-04-29 06:21:25'
+		)
+		;
+

@@ -38907,3 +38907,50 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-04-29 06:21:25'
+		WHERE ktovt_bn='tnk1/messages/kma_qjrim1_stn_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xqq.html',
+				'tnk1/nvia/yxzqel/yx-20-25.html',
+				NULL,
+				'2020-04-29 06:51:47',
+				'2020-04-29 06:51:47',
+				'חוקים לא טובים, ומשפטים לא יחיו בהם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1208.html',
+				NULL,
+				'2020-04-29 06:57:47',
+				'2020-04-29 06:57:47',
+				'פרשת אחרי מות- קדושים- כיצד נהיה קדושים?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-04-29 06:57:47'
+			WHERE ktovt_bn='tnk1/forums.html';
+
