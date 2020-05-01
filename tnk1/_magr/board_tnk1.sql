@@ -38977,3 +38977,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-04-30 03:44:11'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/lk_jrp_wjym_awtw_el_ns.pdf',
+				NULL,
+				'2020-04-30 09:06:43',
+				'2020-04-30 09:06:43',
+				'עשה לך שרף ושים אותו על נס',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1209.html',
+				NULL,
+				'2020-05-01 04:34:34',
+				'2020-05-01 04:34:34',
+				' קדושים תהיו/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-01 04:34:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+
