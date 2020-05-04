@@ -34468,3 +34468,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jlixut_aximac_1.html',
+		'<p>מדוע ניסה יואב למנוע מאחימעץ לרוץ ולבשר לדוד?</p><p></p>',
+		'116449649904277320340',
+		'אליה אלחרר',
+		'2020-05-04 07:42:05'
+		)
+		;
+

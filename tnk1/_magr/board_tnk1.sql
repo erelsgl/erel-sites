@@ -39016,3 +39016,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-05-01 04:34:34'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-04 07:42:05'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jlixut_aximac_1.html'
+		;
+
