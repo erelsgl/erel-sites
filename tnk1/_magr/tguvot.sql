@@ -34480,3 +34480,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/am-05-07.html',
+		'<p>למידע בנושא ייפוי כוח מתמשך  באתר אטיאס ושות\' עורכי דין ונוטריון  https://alaw.co.il/%d7%99%d7%99%d7%a4%d7%95%d7%99-%d7%9b%d7%97-%d7%9e%d7%aa%d7%9e%d7%a9%d7%9a/</p>',
+		'112820903626076259368',
+		'Jack Clubs',
+		'2020-05-06 17:48:57'
+		)
+		;
+

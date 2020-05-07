@@ -5446,3 +5446,18 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvir/jmuelb/jlixut_aximac_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/am-05-07.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-05-06 17:48:57'
+		WHERE parent='tnk1/nvia/tryasr/am-05-07.html'
+		;
+
