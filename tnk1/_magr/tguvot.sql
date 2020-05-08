@@ -34492,3 +34492,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nkt_0.html',
+		'<p>יישר כוח !</p><p>פרופ. זהר עמר מציע שבטנים הינם שמן רפואי שהופק מפירות האלה האנטלנטית הנפוצה בארץ כנען כאז כן היום. </p><p>הוא מביא מסורות לייצור שמן כזה עד לתחילת המאה ה20. </p><p>האלה האמתית הגיעה [ כנראה] ארצנו מאחור יותר. ובכל אופן, כיום לא מצליחים לגדל אותה באופן שיש כדאיות מסחרית. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2020-05-08 07:41:27'
+		)
+		;
+

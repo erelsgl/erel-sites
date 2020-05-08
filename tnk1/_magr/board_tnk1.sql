@@ -39055,3 +39055,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/am-05-07.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-08 07:41:27'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nkt_0.html'
+		;
+
