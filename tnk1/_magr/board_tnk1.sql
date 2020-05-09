@@ -39063,3 +39063,49 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nkt_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1211.html',
+				NULL,
+				'2020-05-08 13:01:57',
+				'2020-05-08 13:01:57',
+				' הנפת העומר/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-08 13:01:57'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/a_gift_of_your_hand.pdf',
+				NULL,
+				'2020-05-08 19:27:51',
+				'2020-05-08 19:27:51',
+				'A gift of your hand',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-08 19:27:51'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

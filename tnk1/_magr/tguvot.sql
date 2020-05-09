@@ -34504,3 +34504,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-05-08 12:15:52' 
+			WHERE messageid=9783;
+
