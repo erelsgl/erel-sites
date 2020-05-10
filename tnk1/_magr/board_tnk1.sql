@@ -39109,3 +39109,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-05-08 19:27:51'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/king_of_assyria_or_king_of_persia.pdf',
+				NULL,
+				'2020-05-09 22:27:47',
+				'2020-05-09 22:27:47',
+				'King of Assyria or King of Persia',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-09 22:27:47'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
