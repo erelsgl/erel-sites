@@ -39132,3 +39132,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-05-09 22:27:47'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/17_prq_17___whykyt_bcwr_wycaw_mmnw_mym.pdf',
+				NULL,
+				'2020-05-11 11:11:19',
+				'2020-05-11 11:11:19',
+				'יום 17 פרק 17 = והיכית בצור ויצאו ממנו מים',
+				'רמי ניר',
+				''
+			)
+		;
+
