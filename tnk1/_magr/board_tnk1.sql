@@ -39148,3 +39148,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-13 04:50:31'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-11.html'
+		;
+

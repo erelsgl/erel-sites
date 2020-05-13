@@ -34511,3 +34511,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-05-08 12:15:52' 
 			WHERE messageid=9783;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-11.html',
+		'<p>נשף=430 נפש. תהו ובהו. שנאמר תהו ובהו וחשך על פני תהום..</p><p>נפש-דם=386 שופ. פוש. לשון. </p><p>נפש+דם=474 דעת. שנאמר והוא גלתה את מקור דמיה..</p><p>דם=44 ילד. שנאמר הדם הוא הנפש.. שנאמר ולא חשכת את בנך.. </p><p>חשכ=328 חשך. </p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2020-05-13 04:50:31'
+		)
+		;
+
