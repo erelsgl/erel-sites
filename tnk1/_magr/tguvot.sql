@@ -34523,3 +34523,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>מה עם חולדה הנביאה?</p>',
+		'114791546453480447741',
+		'אברהם יצחק גרוסמן',
+		'2020-05-13 08:39:19'
+		)
+		;
+

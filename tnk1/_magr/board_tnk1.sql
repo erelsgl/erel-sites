@@ -39156,3 +39156,57 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-139-11.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-13 08:39:19'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1212.html',
+				NULL,
+				'2020-05-13 14:36:02',
+				'2020-05-13 14:36:02',
+				'פרשת  בהר- בחוקותיי- \"ואכלתם לשובע\"- המשמעות ?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-13 14:36:02'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1213.html',
+				NULL,
+				'2020-05-13 14:55:59',
+				'2020-05-13 14:55:59',
+				'לחם לשובע/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-13 14:55:59'
+			WHERE ktovt_bn='tnk1/forums.html';
+
