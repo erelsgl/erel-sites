@@ -34757,3 +34757,60 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17.html',
+		'<p>מנה חששו בני יוסף למרות נדובב של יהושוע</p>',
+		'113169409095774074935',
+		'דורין בן נעים',
+		'2020-05-26 12:43:57'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17.html',
+		'<p>התשובה </p>',
+		'113169409095774074935',
+		'דורין בן נעים',
+		'2020-05-26 12:44:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-05-26 12:44:36' 
+			WHERE messageid=9803;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-05-26 12:44:37' 
+			WHERE messageid=9803;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-05-26 12:44:39' 
+			WHERE messageid=9802;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-17.html',
+		'<p>ממה חששו בני יוסף למרות התשובה של יהושוע</p>',
+		'113169409095774074935',
+		'דורין בן נעים',
+		'2020-05-26 12:45:30'
+		)
+		;
+

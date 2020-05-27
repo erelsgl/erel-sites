@@ -39438,3 +39438,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-26 12:43:57'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-26 12:44:25'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-05-26 12:45:30'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-17.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/bbyt_alhym_wacbewt_megl.pdf',
+				NULL,
+				'2020-05-26 15:29:11',
+				'2020-05-26 15:29:11',
+				'סוד בבית אלהים ואצבעות מעגל',
+				'רמי ניר',
+				''
+			)
+		;
+
