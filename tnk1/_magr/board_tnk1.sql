@@ -39501,3 +39501,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-05-27 09:59:35'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1217.html',
+				NULL,
+				'2020-05-28 14:27:17',
+				'2020-05-28 14:27:17',
+				' שמחת הקציר/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-05-28 14:27:17'
+			WHERE ktovt_bn='tnk1/forums.html';
+
