@@ -34814,3 +34814,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/messages/mamr_tfilot-eitan_5.html',
+		'<p>למיכל כלתי האהובה לידה קלה ומהירה .שתהה לך ולדורון בני חוויה מדהימה. אוהבת ננה</p>',
+		'111900957044714796711',
+		'אירית יזכירוביץ',
+		'2020-05-30 20:19:45'
+		)
+		;
+
