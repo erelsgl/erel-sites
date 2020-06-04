@@ -39578,3 +39578,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-06-02 14:16:19'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1218.html',
+				NULL,
+				'2020-06-03 11:39:01',
+				'2020-06-03 11:39:01',
+				'פרשת בהעלותך- מידה כנגד מידה-כיצד?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-03 11:39:01'
+			WHERE ktovt_bn='tnk1/forums.html';
+
