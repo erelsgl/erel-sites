@@ -39624,3 +39624,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-06-05 05:30:51'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4mdina.html',
+				'tnk1/kma/qjrim2/jiwyon.html',
+				NULL,
+				'2020-06-06 18:06:00',
+				'2020-06-06 18:06:00',
+				'האם שיוויון כלכלי הוא ערך חשוב בתנ\"ך?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-06 18:06:00'
+			WHERE ktovt_bn='tnk1/msr/4mdina.html';
+
