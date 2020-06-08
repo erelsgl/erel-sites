@@ -39647,3 +39647,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-06-06 18:06:00'
 			WHERE ktovt_bn='tnk1/msr/4mdina.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/30_bamh___30_bamh_egwl_sbyb.pdf',
+				NULL,
+				'2020-06-07 09:39:44',
+				'2020-06-07 09:39:44',
+				'קומתו 30 באמה = 30 באמה עגול סביב',
+				'רמי ניר',
+				''
+			)
+		;
+
