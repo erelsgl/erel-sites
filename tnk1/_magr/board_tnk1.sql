@@ -39686,3 +39686,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-06-10 05:40:24'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/a_new_interpretation_of_a_famous_biblical_saying.pdf',
+				NULL,
+				'2020-06-11 02:26:28',
+				'2020-06-11 02:26:28',
+				'A new interpretation of a famous biblical saying',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-11 02:26:28'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
