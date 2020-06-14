@@ -39740,3 +39740,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0510_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-13 21:54:04'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-31-30.html'
+		;
+

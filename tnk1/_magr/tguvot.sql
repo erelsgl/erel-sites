@@ -34838,3 +34838,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-31-30.html',
+		'<p></p>',
+		'108787800885614805953',
+		'hilla saka',
+		'2020-06-13 21:54:04'
+		)
+		;
+
