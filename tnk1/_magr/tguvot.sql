@@ -34850,3 +34850,39 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-04-35.html',
+		'<p>לעניות דעתי הדלה , המילה לזור או לזורר היא כמו שאדם מפזר מלח על המאכל , לומדים זאת ממשה רבינו : וַיִּקַּח אֶת הָעֵגֶל אֲשֶׁר עָשׂוּ וַיִּשְׂרֹף בָּאֵשׁ וַיִּטְחַן עַד אֲשֶׁר דָּק וַיִּזֶר עַל פְּנֵי הַמַּיִם וַיַּשְׁקְ אֶת בְּנֵי יִשְׂרָאֵל. </p><p>אז מה הקשר ?! אלא שאלישע הנביא נתן לילד משהו משלו . פִּזַּר נָתַן לָאֶבְיוֹנִים צִדְקָתוֹ עֹמֶדֶת לָעַד קַרְנוֹ תָּרוּם בְּכָבוֹד. ויזר , פזר ויזורר וכו\' נראה לי אותו שורש . </p><p>גם נזיר נותן משהו מעצמו הוא מתנזר , הוא מפזר את רצונו לפני ה\' . משה יכל להשתמש בזהב , היה שם המון זהב , הוא טחן אותו ופיזר / ויתר על הזהב ואיבד אותו בתוך הנחל. אני מקווה שאני מובן . תודה.</p><p></p>',
+		'108896061860401196659',
+		'נתי נתניתי',
+		'2020-06-15 00:55:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני זקוק להלוואה ולעזרה מיידית אני אבא לשלושה ילדים שני ילדים מנישואים קודמים ואחד מנישואים בפעם השנייה תינוק בן שבועיים נקלעתי לחובות כבדים עקב משבר הקורונה (שכר דירה מזונות אישה וכו..) כל המציל נפש אחת בישראל כאילו הציל עולם ומלואו תהיו מבורכים🙏0504583386 איציק אשמח אם תחזרו בדחיפות המצב קשה מאוד תודה רבה</p>',
+		'100289443071773794235',
+		'איציק תמר',
+		'2020-06-15 04:33:47'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>0504583386 איציק </p>',
+		'100289443071773794235',
+		'איציק תמר',
+		'2020-06-15 04:54:57'
+		)
+		;
+
