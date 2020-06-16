@@ -34886,3 +34886,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-04-35.html',
+		'<p>נראה לי שהמילים הן משורשים דקדוקיים שונים:  ויזר - מהשורש זרה;   ויזורר - מהשורש זור;   נזיר - מהשורש נזר.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-06-16 05:24:10'
+		)
+		;
+
