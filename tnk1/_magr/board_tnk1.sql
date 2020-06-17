@@ -39780,3 +39780,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-04-35.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-16 09:41:26'
+		WHERE ktovt_bn='tryg/ribit0/bclel.html'
+		;
+

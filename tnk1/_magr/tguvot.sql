@@ -34898,3 +34898,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/bclel.html',
+		'<p>שוםע אני חייבת עזרה אלווה של 10000 עבור שכר דירה וחוב  </p><p>אני חד הורית עם שני ילדים קטנים זה דחוף עם לא ישלם את שכרות עד יום ה יזרק מי דירה</p><p>מס טלפון 0509434135</p>',
+		'109367674743561201034',
+		'אהובה שפירא',
+		'2020-06-16 09:41:26'
+		)
+		;
+
