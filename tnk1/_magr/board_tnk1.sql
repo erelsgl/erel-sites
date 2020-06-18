@@ -39788,3 +39788,72 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/bclel.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1222.html',
+				NULL,
+				'2020-06-17 10:45:45',
+				'2020-06-17 10:45:45',
+				'פרשת  קורח- כיצד נעצרת המגפה?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-17 10:45:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-17 11:04:21'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_index_15.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-17 11:04:44'
+		WHERE ktovt_bn='tnk1/messages/sofrim_hagay_index_15.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_128.html',
+				NULL,
+				'2020-06-17 16:06:34',
+				'2020-06-17 16:06:34',
+				'ואלה המשפטים - פרק א\'',
+				'אלברט שבות',
+				'albertshabot @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-17 16:06:34'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-17 16:06:34'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+

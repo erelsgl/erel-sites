@@ -34910,3 +34910,27 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_15.html',
+		'<p>כל הכבוד לך על זה שאתה מרבה תורה ומחדש חידושים וכותב ספרים </p><p>יישר כח ותזכה לשנים רבות ולבריאות ,ה&quot; ישלח לך רפואה שלמה,  יאיר</p>',
+		'114685489525574963567',
+		'יאיר חגבי',
+		'2020-06-17 11:04:21'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_15.html',
+		'<p></p>',
+		'114685489525574963567',
+		'יאיר חגבי',
+		'2020-06-17 11:04:44'
+		)
+		;
+
