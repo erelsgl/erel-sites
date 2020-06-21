@@ -34958,3 +34958,51 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_0.html',
+		'<p>אלו לאלו דברי א&quot;להים חיים, למה לא לקבל את הפירוש שלו, יש בזה הבדלים בתפיסה בין עצים, אחד מפרש לפי הסוד יוצר בעץ החיים והשני בפירוש קרוב לפשט בעץ הדעת טוב ורע, שבעים פנים לתורה, אחד בפנים יותר מהשני, ואין שום מחלוקת אלא מבט שונה לפי צבע הנפש עומק ההבנה.</p>',
+		'107105193977595795776',
+		'בריש גלי',
+		'2020-06-21 05:54:24'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_0.html',
+		'<p>אלו לאלו דברי א&quot;להים חיים, למה לא לקבל את הפירוש שלו, יש בזה הבדלים בתפיסה בין עצים, אחד מפרש לפי הסוד יוצר בעץ החיים והשני בפירוש קרוב לפשט בעץ הדעת טוב ורע, שבעים פנים לתורה, אחד בפנים יותר מהשני, ואין שום מחלוקת אלא מבט שונה לפי צבע הנפש עומק ההבנה.</p>',
+		'107105193977595795776',
+		'בריש גלי',
+		'2020-06-21 05:54:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_0.html',
+		'<p>אלו לאלו דברי א&quot;להים חיים, למה לא לקבל את הפירוש שלו, יש בזה הבדלים בתפיסה בין עצים, אחד מפרש לפי הסוד יוצר בעץ החיים והשני בפירוש קרוב לפשט בעץ הדעת טוב ורע, שבעים פנים לתורה, אחד בפנים יותר מהשני, ואין שום מחלוקת אלא מבט שונה לפי צבע הנפש עומק ההבנה.</p>',
+		'107105193977595795776',
+		'בריש גלי',
+		'2020-06-21 05:54:58'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_0.html',
+		'<p></p>',
+		'107105193977595795776',
+		'בריש גלי',
+		'2020-06-21 05:55:08'
+		)
+		;
+
