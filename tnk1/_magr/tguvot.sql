@@ -35006,3 +35006,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/bmot.html',
+		'<p>מי ממלכי ישראל היה כשר? שלא עסק בעבודה זרה? </p><p></p>',
+		'118316487057753672411',
+		'Yaacov Ashkenazi',
+		'2020-06-22 10:39:54'
+		)
+		;
+
