@@ -39998,3 +39998,66 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/bmot.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-23 13:16:14'
+		WHERE ktovt_bn='tokxot/messages/txbura_teunot_10_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-23 17:03:35'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-23 17:12:01'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-23 23:31:19'
+		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-04-35.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-06-24 00:24:07'
+		WHERE ktovt_bn='tokxot/gyus_xrdim/mtbx_jut.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1224.html',
+				NULL,
+				'2020-06-24 05:30:36',
+				'2020-06-24 05:30:36',
+				' פרשת חוקת, הר ההר- המקום בו- אהרון נקבר/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-06-24 05:30:36'
+			WHERE ktovt_bn='tnk1/forums.html';
+
