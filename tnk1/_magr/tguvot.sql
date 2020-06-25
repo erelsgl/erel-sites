@@ -35078,3 +35078,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/hlwaa_mgmx.html',
+		'<p>שלום וברכה, זקוק להלוואה של 10000 ש&quot;ח בבקשה בהחזר של 500 ₪ בחודש.</p><p>0545347647 </p><p>ותודה ויום טוב.</p><p></p>',
+		'111511847040142863534',
+		'Sean Mayo',
+		'2020-06-24 10:01:29'
+		)
+		;
+
