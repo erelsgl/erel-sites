@@ -35157,3 +35157,15 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1302_0.html',
+		'<p>תהלים קמה9: &quot;טוֹב יהוה לַכֹּל וְרַחֲמָיו עַל כָּל מַעֲשָׂיו&quot;</p><p>אכן טוב יהוה לכל והשמש אמנם מאירה לכל אך רק יראי האלהים יתענגו עליה</p><p>מלאכי ג20: &quot;וְזָרְחָה לָכֶם יִרְאֵי שְׁמִי שֶׁמֶשׁ צְדָקָה וּמַרְפֵּא בִּכְנָפֶיהָ וִיצָאתֶם וּפִשְׁתֶּם כְּעֶגְלֵי מַרְבֵּק&quot;</p><p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים חֵן וְכָבוֹד יִתֵּן יהוה לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-06-26 09:15:11'
+		)
+		;
+
