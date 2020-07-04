@@ -35236,3 +35236,53 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p> </p><p>זמרי ישראל בדור הזה כולם רשעים </p><p>משלי יא18: &quot;רָשָׁע עֹשֶׂה פְעֻלַּת שָׁקֶר וְזֹרֵעַ צְדָקָה שֶׂכֶר אֱמֶת&quot; --- לכן להקת &quot;ABBA&quot; למשל שירתם לנצח </p><p>וזמרי-ישראל יושלכו לפח הזבל אבל מוזיקת הגוים האהובים ככתוב ---: &quot;עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד לְבֵיתְךָ נַאֲוָה קֹדֶשׁ יהוה לְאֹרֶךְ יָמִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-03 08:51:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>זמרי ישראל בדור הזה כולם רשעים</p><p>משלי יא18: &quot;רָשָׁע עֹשֶׂה פְעֻלַּת שָׁקֶר וְזֹרֵעַ צְדָקָה שֶׂכֶר אֱמֶת&quot; --- לכן להקת &quot;ABBA&quot; למשל שירתם לנצח</p><p>וזמרי-ישראל יושלכו לפח הזבל אך מוזיקת הגוים האהובים ככתוב ---: &quot;עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד לְבֵיתְךָ נַאֲוָה קֹדֶשׁ יהוה לְאֹרֶךְ יָמִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-03 08:52:20'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-03 08:52:22' 
+			WHERE messageid=9839;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>זמרי ישראל בדור הזה כולם רשעים</p><p>משלי יא18: &quot;רָשָׁע עֹשֶׂה פְעֻלַּת שָׁקֶר וְזֹרֵעַ צְדָקָה שֶׂכֶר אֱמֶת&quot; --- לכן להקת &quot;ABBA&quot; למשל שירתם לנצח כי עדי אמת המה</p><p>וזמרי-ישראל יושלכו לפח הזבל אך מוזיקת הגוים האהובים ככתוב ---: &quot;עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד לְבֵיתְךָ נַאֲוָה קֹדֶשׁ יהוה לְאֹרֶךְ יָמִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-03 09:13:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-03 09:13:30' 
+			WHERE messageid=9840;
+
