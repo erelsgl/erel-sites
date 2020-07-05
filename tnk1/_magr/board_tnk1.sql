@@ -40266,3 +40266,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-04 19:33:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+

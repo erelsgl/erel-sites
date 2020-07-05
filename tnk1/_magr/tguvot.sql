@@ -35286,3 +35286,15 @@ SET character_set_connection=utf8;
 			SET deleted_at='2020-07-03 09:13:30' 
 			WHERE messageid=9840;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>משלי יב8: &quot;לְפִי שִׂכְלוֹ יְהֻלַּל אִישׁ וְנַעֲוֵה לֵב יִהְיֶה לָבוּז&quot;</p><p>משלי יד6: &quot;בִּקֶּשׁ לֵץ חָכְמָה וָאָיִן וְדַעַת לְנָבוֹן נָקָל&quot; </p><p>לכן אין החכמה כי אם חכמת הלב וְדַעַת קְדֹשִׁים בִּינָה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-04 19:33:28'
+		)
+		;
+
