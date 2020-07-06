@@ -35298,3 +35298,125 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-19.html',
+		'<p>תגובת נחמה פרקר:</p><p>מקור המילה &quot;כלאיים&quot; הוא המספר 2 בשפות שמיות עתיקות, כפי שהשתמר בשפות אתיופיות.</p><p>כלאתו - שלושת העיצורים הראשונים בשווא = 2 בגעז, אתיופית עתיקה. משם התגלגל לאמהרית &quot;הולת&quot; = 2. </p><p>(על פי לימודיי געז ואמהרית באוניברסיטה העברית). </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-07-05 11:47:00'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/bmot.html',
+		'<p>התכוונתי לשלמה מלך ישראל. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-07-05 11:49:41'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>וְאֶת מִי יָבִין שְׁמוּעָה ?</p><p>ישעיהו כח9: &quot;אֶת מִי יוֹרֶה דֵעָה וְאֶת מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם&quot; </p><p>משלי כח5: &quot;אַנְשֵׁי רָע לֹא יָבִינוּ מִשְׁפָּט וּמְבַקְשֵׁי יהוה יָבִינוּ כֹל&quot; </p><p>************ וּמְבַקְשֵׁי יהוה יָבִינוּ כֹל = וּמְבַקְשֵׁי יהוה יָבִינוּ קֹל [קול] ************ </p><p>-------------------- על כן המבקש יהוה יָבִין שְׁמוּעָה יבין לשמוע -------------------- </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-05 15:06:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-19-19.html',
+		'<p>  ישעיהו מב22: &quot;וּבְבָתֵּי כְלָאִים הָחְבָּאוּ&quot;.</p><p>איוב יד13: &quot;מִי יִתֵּן בִּשְׁאוֹל תַּצְפִּנֵנִי תַּסְתִּירֵנִי עַד שׁוּב אַפֶּךָ תָּשִׁית לִי חֹק וְתִזְכְּרֵנִי&quot;</p><p>וּבְבָתֵּי כְלָאִים הָחְבָּאוּ --- בִּשְׁאוֹל תַּצְפִּנֵנִי תַּסְתִּירֵנִי </p><p>לאמור כי מעשה ההכלאה בִּשְׁאוֹל [מלשון שאול ויגון שאול ואבדון]</p><p>על כן האלהים בתורת משה ביקש למנוע מאיתנו את הרעה הזאת של השאול</p><p>כאשר ציוה אותנו להמנע ממעשה הכלאיים בדומם בצומח ובחי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-05 15:43:01'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>הַחֹדֶשׁ הָרִאשׁוֹן אב-יב חודשים הוא חודש השעורה-אביב לאמור השעורה בפריחתה</p><p>לאמור כי חודש האביב הוא חודש הפריחה ובשפה האתיופית המילה אבבה = פרח</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-05 15:51:28'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>הַחֹדֶשׁ הָרִאשׁוֹן אב-יב חודשים הוא חודש השעורה-אביב לאמור השעורה בפריחתה</p><p>לאמור כי חודש האביב הוא חודש הפריחה ובשפה האתיופית המילה אבבה = פרח</p><p>ויש לשמור היטב על הקודש על החודש אשר מעיד לנו את ראשית הימים בגן-העדן </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-05 15:55:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-05 15:55:17' 
+			WHERE messageid=9847;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>הַחֹדֶשׁ הָרִאשׁוֹן אב-יב חודשים הוא חודש השעורה-אביב לאמור השעורה בפריחתה</p><p>לאמור כי חודש האביב הוא חודש הפריחה ובשפה האתיופית המילה אבבה = פרח</p><p>ויש לשמור היטב על הקודש על החודש אשר מעיד לנו את ראשית הימים בגן-העדן</p><p>כי עדים כל אשר בשמים ובארץ --- כעדי אלהים אמת צדיקים</p><p>http://tora.us.fm/tnk1/messages/prqim_t0131_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-05 15:59:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-05 15:59:34' 
+			WHERE messageid=9848;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tokxot/gyus_xrdim/mtbx_jut.html',
+		'<p></p>',
+		'108896061860401196659',
+		'נתי נתניתי',
+		'2020-07-06 00:22:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/16-03.html',
+		'<p> </p><p>משלי טז3: &quot;גֹּל אֶל יהוה מַעֲשֶׂיךָ וְיִכֹּנוּ מַחְשְׁבֹתֶיךָ&quot;</p><p>תהלים כב9: &quot;גֹּל אֶל יהוה יְפַלְּטֵהוּ יַצִּילֵהוּ כִּי חָפֵץ בּוֹ&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-06 06:36:35'
+		)
+		;
+

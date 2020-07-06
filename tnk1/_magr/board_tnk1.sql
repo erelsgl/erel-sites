@@ -40274,3 +40274,75 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 11:47:00'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 11:49:41'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/bmot.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 15:06:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 15:43:01'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-19-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 15:51:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 15:55:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-05 15:59:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-06 00:22:49'
+		WHERE ktovt_bn='tokxot/gyus_xrdim/mtbx_jut.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-06 06:36:35'
+		WHERE ktovt_bn='tnk1/ktuv/mj/16-03.html'
+		;
+
