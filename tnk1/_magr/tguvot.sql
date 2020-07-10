@@ -35785,3 +35785,89 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>דברים טו4: &quot;אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן....... כִּי בָרֵךְ יְבָרֶכְךָ יהוה בָּאָרֶץ אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ נַחֲלָה לְרִשְׁתָּהּ&quot;</p><p>דברים טו11: &quot;כִּי לֹא יֶחְדַּל אֶבְיוֹן מִקֶּרֶב הָאָרֶץ....... עַל כֵּן אָנֹכִי מְצַוְּךָ לֵאמֹר פָּתֹחַ תִּפְתַּח אֶת יָדְךָ לְאָחִיךָ לַעֲנִיֶּךָ וּלְאֶבְיֹנְךָ בְּאַרְצֶךָ&quot;</p><p>נא חהבין כי אין סתירה בין שני הפסוקים האלה</p><p>כִּי לֹא יֶחְדַּל אֶבְיוֹן מִקֶּרֶב הָאָרֶץ --- זה כי תמיד יהיו אביונים בארץ [באופן כללי]</p><p> אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן --- זה בגלל שאתה [באופן אישי] צדיק מושיע עניים ואביונים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-09 08:13:22'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>דברים טו4: &quot;אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן....... כִּי בָרֵךְ יְבָרֶכְךָ יהוה בָּאָרֶץ אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ נַחֲלָה לְרִשְׁתָּהּ&quot;</p><p>דברים טו11: &quot;כִּי לֹא יֶחְדַּל אֶבְיוֹן מִקֶּרֶב הָאָרֶץ....... עַל כֵּן אָנֹכִי מְצַוְּךָ לֵאמֹר פָּתֹחַ תִּפְתַּח אֶת יָדְךָ לְאָחִיךָ לַעֲנִיֶּךָ וּלְאֶבְיֹנְךָ בְּאַרְצֶךָ&quot;</p><p>נא להבין כי אין סתירה בין שני הפסוקים האלה</p><p>כִּי לֹא יֶחְדַּל אֶבְיוֹן מִקֶּרֶב הָאָרֶץ --- זה כי תמיד יהיו אביונים בארץ [באופן כללי]</p><p>אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן --- זה בגלל שאתה [באופן אישי] צדיק מושיע עניים ואביונים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-09 08:13:49'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-09 08:14:19' 
+			WHERE messageid=9876;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mdua_nenj_adm.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2020-07-09 17:25:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-09 17:25:07' 
+			WHERE messageid=9878;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/mdua_nenj_adm.html',
+		'<p>בראשית ב17: &quot; בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת &quot; ------- זה התקיים במלואו כי  דבר אלהים הוא</p><p>רק עליך להבין שיום אחד בעיני אלהים = אלף שנה </p><p>ואכן האדם מת בגיל 930 לאמור במסגרת האלף שנים שהם יום אחד</p><p>תהלים צ4: &quot;כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-09 19:27:12'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>0507703426 אביעד</p>',
+		'100833434072436296938',
+		'aviad Kalfa',
+		'2020-07-09 19:27:40'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/magrim.html',
+		'<p>שלום לכם יש לי רכב יחסית חדש אני מעונין לקבל הלוואה תמורת שיעבוד הרכב אני במצב נואש ויש לי הרבה בעיות כספיות אם יש באפשרותכם לעזור לי אני מוכן לשים את הרכב ערבות תמורת ההלוואה</p><p>0503270710 אשמח אם תחזרו אלי בקרוב</p>',
+		'115424068254900466162',
+		'maxim ben-shabat',
+		'2020-07-09 20:01:45'
+		)
+		;
+
