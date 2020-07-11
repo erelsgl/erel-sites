@@ -40609,3 +40609,72 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/ribit0/magrim.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1228.html',
+				NULL,
+				'2020-07-10 11:02:54',
+				'2020-07-10 11:02:54',
+				' פרשת פינחס- מי היו הנותרים במדבר?',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-07-10 11:02:54'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1229.html',
+				NULL,
+				'2020-07-10 11:04:45',
+				'2020-07-10 11:04:45',
+				' פרשת פינחס- מי היו הנותרים  מדור המדבר?/ אהובה קליין ',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-07-10 11:04:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1230.html',
+				NULL,
+				'2020-07-10 11:35:44',
+				'2020-07-10 11:35:44',
+				' יהושע וכלב בן יפונה/  שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-07-10 11:35:44'
+			WHERE ktovt_bn='tnk1/forums.html';
+

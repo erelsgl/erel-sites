@@ -35871,3 +35871,10 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-10 14:05:29' 
+			WHERE messageid=651;
+

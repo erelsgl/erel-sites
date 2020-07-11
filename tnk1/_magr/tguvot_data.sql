@@ -1575,3 +1575,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/ribit0/magrim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-07-10 14:05:29'
+			WHERE parent='tnk1/tora/brejit/br-03-14.html'
+			;
+
