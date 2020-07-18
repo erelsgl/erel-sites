@@ -36955,3 +36955,229 @@ SET character_set_connection=utf8;
 		)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בראשית א2: &quot;וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם&quot; </p><p>ויאמר אלהים לבני האדם בטרם נולדו בארץ בטחו בי כי תֹהוּ וָבֹהוּ לא יהיה לכם אם תשמרו השבת</p><p>כי אני אברא אותכם ביום הששי וממחרת כבר שבת קודש יהיה לכם מנוחה לכל נפש מאדם עד בהמה</p><p>ויאמר כל הרשעים לאלהים לא יראים מן התֹהוּ וָבֹהוּ לא חפצנו במנוחתך לשבות שביתה ביום השביעי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:11:26'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בראשית א1: &quot;בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ&quot;</p><p>בראשית א2: &quot;וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם&quot;</p><p>ויאמר אלהים לבני האדם בטרם נולדו בארץ בטחו בי כי תֹהוּ וָבֹהוּ לא יהיה לכם אם תשמרו השבת</p><p>כי אני אברא אותכם ביום הששי וממחרת כבר שבת קודש יהיה לכם מנוחה לכל נפש מאדם עד בהמה</p><p>ויאמר כל הרשעים לאלהים לא יראים מן התֹהוּ וָבֹהוּ לא חפצנו במנוחתך לשבות שביתה ביום השביעי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:15:43'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:16:26' 
+			WHERE messageid=9949;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p> </p><p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot; </p><p>ויאמר כל הרשעים לאלהים לא יראים חפצנו לֶחֶם יוֹמָיִם כל השבוע גם ביום שבת לא חפצנו במנוחתך לשבות שביתה ביום השביעי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:31:17'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמר כל הרשעים לאלהים לא יראים כי נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי כי לא חפצנו במנוחתך לשבות שביתה ביום השביעי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:34:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:34:08' 
+			WHERE messageid=9951;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמרו כל הרשעים לאלהים לא יראים ובשביל מה קנינו אוטו מצטערים לא חפצנו במנוחתך ביום שבת לשבות שביתה ביום השביעי</p><p>כי נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי</p><p>ויאמר אלהים : </p><p>אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:39:27'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמר כל הרשעים לאלהים לא יראים כי לא חפצנו במנוחתך ביום שבת לשבות שביתה ביום השביעי לכן נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי </p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:41:34'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:41:40' 
+			WHERE messageid=9953;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:41:45' 
+			WHERE messageid=9952;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:43:05' 
+			WHERE messageid=9950;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמר כל הרשעים לאלהים לא יראים כי לא חפצנו במנוחתך ביום שבת לשבות שביתה ביום השביעי לכן כן נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 09:44:23'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 09:44:35' 
+			WHERE messageid=9954;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p> שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמר כל הרשעים לאלהים לא יראים כי לא חפצנו במנוחתך ביום שבת לשבות שביתה ביום השביעי לכן כן נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר !!! כי חוקי אלהים יתקיימו לעד אם בטוב לכם או ברע לכם זה לבחירתכם...</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 10:16:31'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 10:17:12' 
+			WHERE messageid=9956;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת </p><p>עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם [כלכלה מבורכת] </p><p>שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי</p><p>&quot;ויאמרו כל הרשעים לאלהים לא יראים כי לא חפצים במנוחתך ביום שבת </p><p>לשבות שביתה ביום השביעי לכן כן נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי </p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר !!!!!!!</p><p>----------------------------------------------------------------------------------</p><p>כי חוקי אלהים יתקיימו לעד אם בטוב לכם או ברע לכם זה נתון לבחירתכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 10:27:05'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 10:27:39' 
+			WHERE messageid=9957;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 10:27:45' 
+			WHERE messageid=9955;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>שמות טז29: &quot;רְאוּ כִּי יהוה נָתַן לָכֶם הַשַּׁבָּת</p><p>עַל כֵּן הוּא נֹתֵן לָכֶם בַּיּוֹם הַשִּׁשִּׁי לֶחֶם יוֹמָיִם [כלכלה מבורכת]</p><p>שְׁבוּ אִישׁ תַּחְתָּיו אַל יֵצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי&quot;</p><p>ויאמרו כל הרשעים לאלהים לא יראים כי לא חפצים במנוחתך ביום שבת</p><p>לשבות שביתה ביום השביעי לכן כן נצֵא אִישׁ מִמְּקֹמוֹ בַּיּוֹם הַשְּׁבִיעִי</p><p>ויאמר אלהים : אין בעיה נעשה לכם ביום הזה סגר !!!!!!!</p><p>----------------------------------------------------------------------------------</p><p>כי חוקי אלהים יתקיימו לעד אם בטוב לכם או ברע לכם זה נתון לבחירתכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 10:28:06'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>שמות כב19: &quot;זֹבֵחַ לָאֱלֹהִים יָחֳרָם בִּלְתִּי ליהוה לְבַדּוֹ&quot;</p><p>בראשית מו1: &quot;וַיִּסַּע יִשְׂרָאֵל וְכָל אֲשֶׁר לוֹ וַיָּבֹא בְּאֵרָה שָּׁבַע וַיִּזְבַּח זְבָחִים לֵאלֹהֵי אָבִיו יִצְחָק&quot;</p><p>ישראל זבח ליהוה לְבַדּוֹ = וַיִּזְבַּח זְבָחִים לֵאלֹהֵי אָבִיו יִצְחָק</p><p>אם אתה ישראל ואלהי אביך צדיק כיצחק אבינו אז כן זבח לֵאלֹהֵיו</p><p>אך אם חלילה אלהי אביך לא יהוה אז אל תזבח לו זְבָחִים לֵאלֹהֵיו</p><p>******* זבח רק ליהוה לבדו או אל תזבח *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 13:17:25'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3304_0.html',
+		'<p>ישעיהו א12: &quot;כִּי תָבֹאוּ לֵרָאוֹת פָּנָי מִי בִקֵּשׁ זֹאת מִיֶּדְכֶם רְמֹס חֲצֵרָי&quot;</p><p>אל תבואו לראות פני אלהים בדור של הסתר פנים בדור של טמאים</p><p>אל תבואו לחצרות אלהים בזבח בשר הקרבן כי לא יהיה לכם לרצון</p><p>[ובשפתי עממית אל תאכלו בשר על רעתכם כי יסתיר פניו מאתכם]</p><p>דברים לא18: &quot;וְאָנֹכִי הַסְתֵּר אַסְתִּיר פָּנַי בַּיּוֹם הַהוּא עַל כָּל הָרָעָה אֲשֶׁר עָשָׂה כִּי פָנָה אֶל אֱלֹהִים אֲחֵרִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 13:33:09'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>https://scontent.fsdv1-2.fna.fbcdn.net/v/t1.0-9/13179002_1035428566527055_9119237891616104912_n.jpg?_nc_cat=102&amp;_nc_sid=19026a&amp;_nc_ohc=5Dkfszg013IAX-ciNJy&amp;_nc_ht=scontent.fsdv1-2.fna&amp;oh=aa7241a70e87fc6cde278aac8d9b5927&amp;oe=5F371938</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2020-07-17 16:07:39'
+		)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot 
+			SET deleted_at='2020-07-17 16:08:02' 
+			WHERE messageid=9961;
+
