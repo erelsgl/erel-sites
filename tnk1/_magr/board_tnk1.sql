@@ -41675,3 +41675,105 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-22 15:14:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3304_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-22 18:34:04'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_46.html',
+				NULL,
+				'2020-07-22 18:35:30',
+				'2020-07-22 18:35:30',
+				'מאמר חדש על: אלה תולדות נח והקשר לחודש אב',
+				'אביאל מעודד',
+				'avielmdd @ gmail.com'
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-22 18:39:06'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-22 19:26:02'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1232.html',
+				NULL,
+				'2020-07-22 20:41:35',
+				'2020-07-22 20:41:35',
+				' רפידים/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-07-22 20:41:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1233.html',
+				NULL,
+				'2020-07-22 20:47:29',
+				'2020-07-22 20:47:29',
+				'פרשת דברים- מהו המסר של משה  לשופטים?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-07-22 20:47:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-07-23 06:21:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
+		;
+
