@@ -42477,3 +42477,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0310_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-03 10:39:25'
+		WHERE ktovt_bn='tnk1/dmut/magrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-03 19:03:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
