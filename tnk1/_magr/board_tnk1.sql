@@ -42525,3 +42525,82 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-05 11:34:49'
+		WHERE ktovt_bn='tnk1/dmut/magrim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-05 14:24:07'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/epidemiological_knowledge_of_the_greek_translators.pdf',
+				NULL,
+				'2020-08-05 21:32:24',
+				'2020-08-05 21:32:24',
+				'Epidemiological knowledge of the Greek translators',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-05 21:32:24'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 01:50:17'
+		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 03:35:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 03:36:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 04:58:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 05:43:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
