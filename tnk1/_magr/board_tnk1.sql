@@ -42604,3 +42604,105 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 10:13:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 10:47:57'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 10:48:07'
+		WHERE ktovt_bn='tnk1/ktuv/mj/02-18.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 11:25:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 11:29:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 14:52:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0131_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-06 14:57:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0131_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1237.html',
+				NULL,
+				'2020-08-06 19:42:27',
+				'2020-08-06 19:42:27',
+				'פרשת עקב- האם יש שכר על קיום מצוות?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-06 19:42:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1238.html',
+				NULL,
+				'2020-08-06 19:55:59',
+				'2020-08-06 19:55:59',
+				' שמחת חיים/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-06 19:55:59'
+			WHERE ktovt_bn='tnk1/forums.html';
+
