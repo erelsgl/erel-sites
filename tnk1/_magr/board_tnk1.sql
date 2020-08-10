@@ -42746,3 +42746,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26a3_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-09 10:06:23'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/tvla.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/far_parts_of_the_land_and_a_land_of_broad_measures.pdf',
+				NULL,
+				'2020-08-10 01:21:36',
+				'2020-08-10 01:21:36',
+				'Far parts of the Land and a land of broad measures',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-10 01:21:36'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-10 05:26:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-10 05:28:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
