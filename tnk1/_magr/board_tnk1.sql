@@ -43104,3 +43104,106 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 09:11:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 09:22:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1240.html',
+				NULL,
+				'2020-08-14 10:25:50',
+				'2020-08-14 10:25:50',
+				' משל ונמשל/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-14 10:25:50'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 12:31:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 12:32:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/mabrm_hebry_jwwh_ed_hnjya_framp.pdf',
+				NULL,
+				'2020-08-14 13:58:20',
+				'2020-08-14 13:58:20',
+				'הסכמים מאברם העברי שווה עד הנשיא טראמפ',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 15:43:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 15:44:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 16:09:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-14 16:15:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2602_1.html'
+		;
+
