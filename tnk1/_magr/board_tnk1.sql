@@ -43319,3 +43319,65 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1241.html',
+				NULL,
+				'2020-08-18 13:44:19',
+				'2020-08-18 13:44:19',
+				' פרשת  שופטים- במה הוזהרו עם ישראל בבואם לארץ?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-18 13:44:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/everlasting_covenant.pdf',
+				NULL,
+				'2020-08-18 21:10:49',
+				'2020-08-18 21:10:49',
+				'Everlasting covenant',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-18 21:10:49'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/brajyt_hqjr_byn_prjt_brajyt_wjyrt_whazynw.docx',
+				NULL,
+				'2020-08-19 06:46:38',
+				'2020-08-19 06:46:38',
+				'פרשת בראשית-הקשר בין פרשת בראשית ושירת והאזינו',
+				'ראובן זילברמן',
+				'reuven49 @ gmail.com'
+			)
+		;
+
