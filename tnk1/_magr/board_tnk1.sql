@@ -43491,3 +43491,57 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/dvrim/dm-22-29.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-27 13:13:05'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/hfiq_rcon_m1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1243.html',
+				NULL,
+				'2020-08-27 18:56:06',
+				'2020-08-27 18:56:06',
+				'פרשת כי תצא-סוגי מלחמות בפרשה- וכיצד לנצח?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-27 18:56:06'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1244.html',
+				NULL,
+				'2020-08-28 04:59:34',
+				'2020-08-28 04:59:34',
+				'מלחמה וניצחון/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-08-28 04:59:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+
