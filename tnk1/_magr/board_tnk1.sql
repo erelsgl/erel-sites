@@ -43640,3 +43640,67 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0505_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-30 12:21:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_10.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-30 16:06:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0115_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-30 16:18:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0115_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-30 16:20:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0115_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-30 16:28:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-08-31 07:03:04'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/hfiq_rcon_m1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ezb1.html',
+				'tnk1/tora/jmot/jm-23-05.html',
+				NULL,
+				'2020-08-31 07:06:42',
+				'2020-08-31 07:06:42',
+				'עזוב תעזוב עמו',
+				'אראל',
+				''
+			)
+		;
+
