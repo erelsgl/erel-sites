@@ -43791,3 +43791,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1117_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-09-02 10:44:12'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-31-29.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1245.html',
+				NULL,
+				'2020-09-02 12:09:57',
+				'2020-09-02 12:09:57',
+				'פרשת כי תבוא- ברוך אתה בבואך- אימתי?',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-09-02 12:09:57'
+			WHERE ktovt_bn='tnk1/forums.html';
+
