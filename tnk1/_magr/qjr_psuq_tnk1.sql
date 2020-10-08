@@ -716,3 +716,139 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:דברים כב29', 'דבר', 'כב', 29, 29, 'האנס צריך לפרנס את הנאנסת כל ימי חייה', 'תרגומים', 10, '2020-08-26 04:04:18');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 32, `psuq1` = 32, `kotrt` = 'בני ישראל מתחייבים לשמור על קדושת השבת ועל שבת הארץ', `sug` = 'תרגומים', `sdr_bn` = 10, `tarik_hosfa` = '2020-10-06 09:08:03' WHERE `bn` = 'ביאור:נחמיה י32' AND `sfr` = 'נחמ' AND `prq0` = 'י' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:נחמיה י32' AND `sfr` = 'נחמ' AND `prq0` = 'י' AND `psuq0` = 33 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שם ה\' בראשי תיבות' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג19' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מתוקן עדיף משלם' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לייבניץ והתנ\"ך: הטוב שבעולמות האפשריים' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ובורא רע' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 30, `tarik_hosfa` = '2020-10-06 16:05:38' WHERE `bn` = 'ביאור:בראשית א30' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 29 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'ואלהים ראה במבט כולל את כל הדברים אשר עשה, והנה טוב מאד. ובתחילת היום היתה הארץ ערבוביה של יצורים חיים, ובסוף היום היה אפשר לבקר ולזהות יצור אחד מיוחד העולה על כולם - האדם; זה היה היום השישי של הבריאה.', `tarik_hosfa` = '2020-10-06 16:05:38' WHERE `bn` = 'ביאור:בראשית א31' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 31 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `kotrt` = 'הכל הבל - ארס מדולל', `tarik_hosfa` = '2020-10-07 12:56:08' WHERE `bn` = 'ארס מדולל' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הצדק האויקלידי הוא מה שהיה הוא שיהיה' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביטול האגו' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת יב13' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קהלת א בסלנג' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מילא שהכל הבל - שיר אופטימי' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בין תהלים וקהלת - אב ובנו' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ז27' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שיר השירים א1' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הובל את ההבלים' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הכל הבל' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'תשובה למאמר \'הכל הבל\'' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ארס מדולל' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שלושים הבלי קהלת' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למה לחיות? כמה גישות' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למעלה מן השמש' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'האם העולם עומד להתמוטט ולהסתיים בשלב כלשהו?' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ה8' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'האם חוקי הטבע משתנים' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'החוקיות בטבע כרעיון דתי (קטעים)' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ציורים מגילות ב' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שמירת העיניים' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'קאמי, סארטר והתנ\"ך: עול החיים הסיזיפי' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 8 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'אין כל חדש\' - רמי ניר' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'המן הרשע והאנטישמים בכל הדורות' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
