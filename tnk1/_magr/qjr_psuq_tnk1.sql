@@ -712,3 +712,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:דברים כב29', 'דבר', 'כב', 29, 29, 'האנס צריך לפרנס את הנאנסת כל ימי חייה', 'תרגומים', 10, '2020-08-26 04:04:18');
+

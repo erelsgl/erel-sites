@@ -4054,7 +4054,7 @@ function kotrt() {
 	var theText="";
 	if (theReceiver=='סגלות משלי') {
 		theText += ("<p class='sgulot_logo'>" + 
-			"<a href='http://stores.lulu.com/erel'>" +
+			"<a href='https://www.lulu.com/spotlight/erel'>" +
 			"<img src='/tnk1/_themes/sgulot.png' alt='סגולות משלי' title='מתוך הספר סגולות משלי'/>" +
 			"</a>" +
 			"</p>");
@@ -4126,7 +4126,7 @@ function kotrt() {
 	if (theReceiver.length>0) {
 		if (theReceiver=='סגלות משלי') {
 			theText += ("<br />" + "מתוך הספר " + 
-				"<a href='http://stores.lulu.com/erel'>סְגֻלּוֹת מִשְׁלֵי</a>");
+				"<a href='https://www.lulu.com/spotlight/erel'>סְגֻלּוֹת מִשְׁלֵי</a>");
 		} else {
 			theReceiver = theReceiver.replace(/כפית( של נח.?ת)?/, "כפית של <a href='nachat.ipaper.co.il'>נח\"ת</a>");
 			if (!/פו\'\'ס/.test(theReceiver) && !/ננ\'\'נ/.test(theReceiver) )

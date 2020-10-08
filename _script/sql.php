@@ -34,7 +34,7 @@ $GLOBALS['current_time_quoted'] = "'$GLOBALS[current_time]'";  // for inserting 
 function sql_connect_and_select($host, $database, $username, $password, $newlink=false, $flags=0) {
 	global $DEBUG_QUERY_TIMES;
 	if ($DEBUG_QUERY_TIMES) {
-		print "<p>Connecting as $username to $database</p>";
+		print "<p>Connecting as user '$username' to database '$database'</p>";
 	}
 	$link = sql_connect($host, $username, $password, $newlink, $flags);
 	if (!$link)

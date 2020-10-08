@@ -380,3 +380,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `sgulot` SET `hqblot` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 23 AND `verse_number` = 31 AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mqorot` = '<p>-</p><ul></ul>', `ecot` = NULL, `dquyot` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 6 AND `verse_number` = 34 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `ecot` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 6 AND `verse_number` = 35 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `mqorot` = '<ul></ul>', `ecot` = NULL, `dquyot` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 6 AND `verse_number` = 34 AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `sgulot` SET `ecot` = NULL, `tosfot` = NULL WHERE `book` = 'משל' AND `chapter_number` = 6 AND `verse_number` = 35 AND 1 LIMIT 1;
+
