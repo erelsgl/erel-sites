@@ -48,3 +48,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('פרשת קורח', 'חטא נדב ואביהוא, ואנשים נוספים שנענשו על כך שחרגו מתפקידם', '', '', 60, 60, '2019-06-28 10:18:44');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מידת הענוה', 'ביאור:קהלת א2', '', '', 60, 60, '2020-10-09 10:16:52');
+

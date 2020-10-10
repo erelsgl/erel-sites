@@ -48086,3 +48086,214 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/tora/brejit/br-04.html',
+				'http://https://youtu.be/b86Bzxxo-c8',
+				NULL,
+				'2020-10-09 10:35:10',
+				'2020-10-09 10:35:10',
+				'מאה בתנך - פרק 1 - קין והבל',
+				'אראל',
+				'יוטיוב'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-09 10:35:10'
+			WHERE ktovt_bn='tnk1/tora/brejit/br-04.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/nvir/dwd_wbt7.html',
+				'http://https://youtu.be/4xzvR50J3NE',
+				NULL,
+				'2020-10-09 10:36:07',
+				'2020-10-09 10:36:07',
+				'מאה בתנך - עונה 1 פרק 2 - דוד ובת-שבע',
+				'אראל',
+				'יוטיוב'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-09 10:36:07'
+			WHERE ktovt_bn='tnk1/nvir/dwd_wbt7.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳׳׳׳¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_1254.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳¡׳¨׳˜', sdr_bn=NULL
+			WHERE ktovt_bn='http://https://youtu.be/b86Bzxxo-c8';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳¡׳¨׳˜', sdr_bn=NULL
+			WHERE ktovt_bn='http://https://youtu.be/4xzvR50J3NE';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='http://https://youtu.be/b86Bzxxo-c8';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='http://https://youtu.be/4xzvR50J3NE';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_1254.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/9srt_alilti.html',
+				'https://youtu.be/b86Bzxxo-c8',
+				NULL,
+				'2020-10-09 10:38:10',
+				'2020-10-09 10:38:10',
+				'מאה בתנך',
+				'ערוץ לוגי',
+				'יוטיוב'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-09 10:38:10'
+			WHERE ktovt_bn='tnk1/sig/9srt_alilti.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳׳•׳¡׳£', sdr_bn=NULL
+			WHERE ktovt_bn='https://youtu.be/b86Bzxxo-c8';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='https://youtu.be/b86Bzxxo-c8';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/prqim/t31.htm',
+				'https://benyehuda.org/read/4955',
+				NULL,
+				'2020-10-09 12:08:03',
+				'2020-10-09 12:08:03',
+				'ספר קהלת לפי פשוטו',
+				'זלמן אפשטין',
+				'אתר בן יהודה'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-09 12:08:03'
+			WHERE ktovt_bn='tnk1/prqim/t31.htm';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1255.html',
+				NULL,
+				'2020-10-09 13:17:28',
+				'2020-10-09 13:17:28',
+				' דוד המלך והתורה/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-09 13:17:28'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:28:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:30:54'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:32:40'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-16.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:35:11'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-14.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:39:27'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-09 13:42:20'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-15.html'
+		;
+
