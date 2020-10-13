@@ -852,3 +852,87 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'המן הרשע והאנטישמים בכל הדורות' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ניטשה והתנ\"ך: החזרה הנצחית' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ד13' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:קהלת א11', `tarik_hosfa` = '2020-10-08 17:44:30' WHERE `bn` = 'ביאור:קהלת א10' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 11 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ענין רע' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שופנהאואר והתנ\"ך: פסימיות' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שלושים הבלי קהלת' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת י3' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 17 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מעשה עץ הדעת ומחירו יוסיף דעת יוסיף מכאוב עד תמלא הארץ לדעת את כבוד יהוה כמים יכסו על ים' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כעס - לחכם או לכסיל?' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: הכסילות' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'החוויה הדתית, חוויית ההמרה' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית לב27' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 27 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'שלום תמורת ברכה', `tarik_hosfa` = '2020-10-09 00:07:17' WHERE `bn` = 'ביאור:בראשית לב27' AND `sfr` = 'ברא' AND `prq0` = 'לב' AND `psuq0` = 27 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:קהלת ט15', 'קהל', 'ט', 15, 15, 'סיכום הפירושים', 'תרגומים', 10, '2020-10-09 01:59:26');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:קהלת ט15', 'קהל', 'ט', 13, 13, 'עיר קטנה, מלך גדול, מסכן חכם, מושל בכסילים', 'פתיחה', 10, '2020-10-09 01:59:26');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:קהלת א2', 'קהל', 'א', 2, 2, 'חולף וזמני וחסר-תועלת כמו הבל של הבלים , אמר קהלת ; הבל (אדים היוצאים מהפה) של הבלים (יצורים חולפים וזמניים)! הכל חולף וזמני וחסר-תועלת כמו הבל. ', 'תרגום', 10, '2020-10-09 08:56:55');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:קהלת א2', 'תהל', 'קמד', 4, 4, 'הבל הבלים בספר קהלת', 'כלל', 60, '2020-10-09 08:56:55');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:קהלת א2', 'תהל', 'עח', 33, 33, 'הבל הבלים בספר קהלת', 'כלל', 60, '2020-10-09 08:56:55');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'האמונה מתחדשת בכל יום' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = '@קטע', `kotrt` = 'כל מעשי האדם לא משנים את העולם', `sdr_bn` = 30, `tarik_hosfa` = '2020-10-09 09:01:05' WHERE `bn` = 'שעמום בספר קהלת' AND `sfr` = 'קהל' AND `prq0` = 'א' AND `psuq0` = 3 AND `sug` = 'פתיחה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('@קטע', 'קהל', 'א', 12, 12, 'אני קהלת ניסיתי לשנות בחכמה ונכשלתי', 'פתיחה', 30, '2020-10-09 09:01:05');
+

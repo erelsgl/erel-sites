@@ -149,3 +149,35 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2020-08-26 04:02:56' WHERE `qod` = 'ביאור:דברים כב29' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:קהלת א11' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'הדורות עוברים והארץ נשארת כמו שהיא', `tarik_hosfa` = '2020-10-08 23:04:26' WHERE `qod` = 'ביאור:קהלת א4' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'הדורות עוברים והשמש זורחת ושוקעת באותו מקום', `tarik_hosfa` = '2020-10-08 23:04:26' WHERE `qod` = 'ביאור:קהלת א5' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'הדורות עוברים והרוחות נושבות', `tarik_hosfa` = '2020-10-08 23:04:26' WHERE `qod` = 'ביאור:קהלת א6' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('אביאל מעודד', 'אוסף', 'tnk_ul', 'אביאל מעודד', 'tnk1/sofrim/meoded.html', '', '', '2020-10-08 23:15:46');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('ילד שעשועים', 'אוסף', 'tnk_ul', 'ילד שעשועים', 'tnk1/sofrim/meoded_yld.html', 'אביאל מעודד', '', '2020-10-08 23:16:21');
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'המים אשר מעל לרקיע במעגל', `tarik_hosfa` = '2020-10-09 00:04:56' WHERE `qod` = 'המים אשר מעל לרקיע' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'הפקר בית דין - רק הפקר או גם הקניה?', `tarik_hosfa` = '2020-10-09 00:05:53' WHERE `qod` = 'הפקר בית דין הפקר' AND 1 LIMIT 1;
+
