@@ -48337,3 +48337,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/nvir/joftim/jf-05-1318.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-12 10:56:56'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-12 10:57:26'
+		WHERE ktovt_bn='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/ajr_ygwp_yhwh_at_kl_hemym.pdf',
+				NULL,
+				'2020-10-12 17:53:17',
+				'2020-10-12 17:53:17',
+				'המגפה אשר יגוף יהוה את-כל-העמים',
+				'רמי ניר',
+				''
+			)
+		;
+

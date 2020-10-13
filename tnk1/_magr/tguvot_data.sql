@@ -5260,3 +5260,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvir/joftim/jf-05-1318.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/ribit0_gmx_hsbr_3.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-10-12 10:56:56'
+		WHERE parent='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/messages/ribit0_gmx_hsbr_3.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-10-12 10:57:26'
+		WHERE parent='tryg/messages/ribit0_gmx_hsbr_3.html'
+		;
+
