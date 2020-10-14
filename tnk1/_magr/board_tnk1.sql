@@ -48369,3 +48369,34 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-13 16:21:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0106_9.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1256.html',
+				NULL,
+				'2020-10-14 05:48:20',
+				'2020-10-14 05:48:20',
+				'ראשית הבריאה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-14 05:48:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
