@@ -48369,3 +48369,167 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-13 16:21:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0106_9.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1256.html',
+				NULL,
+				'2020-10-14 05:48:20',
+				'2020-10-14 05:48:20',
+				'ראשית הבריאה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-14 05:48:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-14 08:21:16'
+		WHERE ktovt_bn='tnk1/sofrim/mali/mlkut_anwa.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1257.html',
+				NULL,
+				'2020-10-14 20:34:10',
+				'2020-10-14 20:34:10',
+				'פרשת בראשית- ראשית בריאת העולם- כיצד?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-14 20:34:10'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-16 06:34:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-17 17:09:01'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/orma.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-19 12:18:01'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-19 12:18:19'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 08:05:57'
+		WHERE ktovt_bn='tnk1/kma/hvdlim2/axoti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 17:32:36'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 23:58:08'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-30-10.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1258.html',
+				NULL,
+				'2020-10-21 05:54:29',
+				'2020-10-21 05:54:29',
+				'פרשת נח- מה זכה נח לשמוע בתום המבול?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-21 05:54:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1259.html',
+				NULL,
+				'2020-10-21 05:57:20',
+				'2020-10-21 05:57:20',
+				' פרשת נח- מה זכה נח לשמוע בתום המבול?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-21 05:57:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
