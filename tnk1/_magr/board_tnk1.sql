@@ -48463,3 +48463,73 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 08:05:57'
+		WHERE ktovt_bn='tnk1/kma/hvdlim2/axoti.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 17:32:36'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-13.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-20 23:58:08'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-30-10.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1258.html',
+				NULL,
+				'2020-10-21 05:54:29',
+				'2020-10-21 05:54:29',
+				'פרשת נח- מה זכה נח לשמוע בתום המבול?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-21 05:54:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1259.html',
+				NULL,
+				'2020-10-21 05:57:20',
+				'2020-10-21 05:57:20',
+				' פרשת נח- מה זכה נח לשמוע בתום המבול?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-10-21 05:57:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
