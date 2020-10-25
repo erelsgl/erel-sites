@@ -48564,3 +48564,43 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-24 15:59:54'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-24 20:01:19'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-24 22:17:53'
+		WHERE ktovt_bn='tnk1/sofrim/mali/kiwun_cfon.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-24 22:18:12'
+		WHERE ktovt_bn='tnk1/sofrim/mali/kiwun_cfon.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-25 06:12:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
+		;
+
