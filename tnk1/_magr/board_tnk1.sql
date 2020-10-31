@@ -48887,3 +48887,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-10-29 23:12:44'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-30 09:55:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-10-30 09:56:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
