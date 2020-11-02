@@ -48919,3 +48919,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/kma/yovl.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-01 20:28:33'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-02 07:08:50'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/harc_al_hmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-02 07:13:52'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/harc_al_hmym.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-02 07:18:24'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/harc_al_hmym.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/lk_lk_wyra_bjybh_fwbh_warykwt_ymym_mamr.pdf',
+				NULL,
+				'2020-11-02 07:46:02',
+				'2020-11-02 07:46:02',
+				'פרשת לך לך וירא בשיבה טובה ואריכות ימים מאמר',
+				'ראובן זילברמן',
+				''
+			)
+		;
+
