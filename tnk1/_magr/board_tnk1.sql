@@ -48967,3 +48967,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/bmyjwr_lenwwy_arc.pdf',
+				NULL,
+				'2020-11-02 19:15:02',
+				'2020-11-02 19:15:02',
+				'והוכיח במישור לענווי-ארץ',
+				'רמי ניר',
+				''
+			)
+		;
+
