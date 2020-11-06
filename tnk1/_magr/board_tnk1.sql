@@ -49037,3 +49037,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-11-04 06:36:40'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-05 13:57:30'
+		WHERE ktovt_bn='tnk1/tora/brejit/aqda2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-05 19:58:44'
+		WHERE ktovt_bn='tnk1/klli/limud/msxq_emt.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-05 19:58:45'
+		WHERE ktovt_bn='tnk1/klli/limud/msxq_emt.html'
+		;
+
