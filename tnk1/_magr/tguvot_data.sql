@@ -480,3 +480,19 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/klli/limud/msxq_emt.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-11-06 11:11:22'
+			WHERE parent='tnk1/klli/limud/msxq_emt.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-11-06 11:11:28'
+			WHERE parent='tnk1/klli/limud/msxq_emt.html'
+			;
+

@@ -49061,3 +49061,26 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/msxq_emt.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1264.html',
+				NULL,
+				'2020-11-06 09:17:49',
+				'2020-11-06 09:17:49',
+				'שיר על: פורומים, דיונים',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-11-06 09:17:49'
+			WHERE ktovt_bn='tnk1/forums.html';
+
