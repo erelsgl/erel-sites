@@ -496,3 +496,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/klli/limud/msxq_emt.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/joftim/jmjon_btmna.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-11-08 17:26:32'
+		WHERE parent='tnk1/nvir/joftim/jmjon_btmna.html'
+		;
+
