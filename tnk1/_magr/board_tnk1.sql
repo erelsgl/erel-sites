@@ -49194,3 +49194,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/ktuv/mj/30-15.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-17 08:05:03'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jb-15-0709.html'
+		;
+
