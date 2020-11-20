@@ -579,3 +579,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvir/jmuelb/jb-15-0709.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/klv.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-11-19 19:58:57'
+		WHERE parent='tnk1/tora/bmdbr/klv.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/7054.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-11-20 06:23:28'
+		WHERE parent='tnk1/messages/7054.html'
+		;
+
