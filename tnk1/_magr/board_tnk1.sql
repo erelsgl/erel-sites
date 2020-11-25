@@ -49335,3 +49335,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/__npj_xyh.pdf',
+				NULL,
+				'2020-11-24 11:08:44',
+				'2020-11-24 11:08:44',
+				'כמוך = נפש חיה',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-11-24 23:51:23'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/cmx_mbyt_dwd.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1269.html',
+				NULL,
+				'2020-11-25 07:30:15',
+				'2020-11-25 07:30:15',
+				' פרשת ויצא- כיצד הצטדק לבן ברמאותו ליעקב?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-11-25 07:30:15'
+			WHERE ktovt_bn='tnk1/forums.html';
+
