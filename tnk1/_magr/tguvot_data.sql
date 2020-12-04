@@ -715,3 +715,33 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/ktuv/mjly/mj-31-29.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/dvrim/dm-01-17.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-12-03 09:29:25'
+		WHERE parent='tnk1/tora/dvrim/dm-01-17.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0215_4.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-12-04 04:19:34'
+		WHERE parent='tnk1/messages/prqim_t0215_4.html'
+		;
+
