@@ -49713,3 +49713,26 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2020-12-10 06:41:44'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ezor/prs.html',
+				'tnk1/kma/qjrim2/prs.html',
+				NULL,
+				'2020-12-11 10:35:26',
+				'2020-12-11 10:35:26',
+				'מלכי פרס בתנ\"ך',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2020-12-11 10:35:26'
+			WHERE ktovt_bn='tnk1/ezor/prs.html';
+
