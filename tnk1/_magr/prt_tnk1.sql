@@ -181,3 +181,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `kotrt` = 'הפקר בית דין - רק הפקר או גם הקניה?', `tarik_hosfa` = '2020-10-09 00:05:53' WHERE `qod` = 'הפקר בית דין הפקר' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:דניאל ט1' AND 1 LIMIT 1;
+
