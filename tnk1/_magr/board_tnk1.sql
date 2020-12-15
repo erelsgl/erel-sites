@@ -50636,3 +50636,27 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_fwb_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-14 14:32:57'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-14 14:35:10'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-14 14:37:03'
+		WHERE ktovt_bn='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+

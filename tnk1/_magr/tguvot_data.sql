@@ -1255,3 +1255,64 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/ljon_jorj_fwb_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/dniel/dn-09-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-12-14 14:32:57'
+		WHERE parent='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/dniel/dn-09-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-12-14 14:35:10'
+		WHERE parent='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/dniel/dn-09-01.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2020-12-14 14:37:03'
+		WHERE parent='tnk1/ktuv/dniel/dn-09-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-12-14 14:37:18'
+			WHERE parent='tnk1/ktuv/dniel/dn-09-01.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2020-12-14 14:37:28'
+			WHERE parent='tnk1/ktuv/dniel/dn-09-01.html'
+			;
+
