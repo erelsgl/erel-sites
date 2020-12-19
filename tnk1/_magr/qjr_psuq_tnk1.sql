@@ -936,3 +936,35 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('@קטע', 'קהל', 'א', 12, 12, 'אני קהלת ניסיתי לשנות בחכמה ונכשלתי', 'פתיחה', 30, '2020-10-09 09:01:05');
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'חידוש בניית המקדש על-ידי דריווש' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מדוע נעזב בית האלהים' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ששבצר = זרבבל' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מלכי פרס בתנ\"ך' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:חגי א4' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:חגי א4', `tarik_hosfa` = '2020-12-18 12:37:15' WHERE `bn` = 'ביאור:חגי א2' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים קלב3' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
