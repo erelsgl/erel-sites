@@ -51458,3 +51458,99 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0617_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-26 17:20:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-26 17:27:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-26 17:40:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/njp2.html',
+				'tnk1/messages/ljon_jorj_njp2_0.html',
+				NULL,
+				'2020-12-26 17:46:40',
+				'2020-12-26 17:46:40',
+				'ינשוף - איביס - מגלן',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 03:45:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 03:47:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3204_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 04:01:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 04:03:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 04:14:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0325_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 07:35:24'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-27-06.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2020-12-27 07:36:42'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-27-06.html'
+		;
+
