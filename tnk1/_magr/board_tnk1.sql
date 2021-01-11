@@ -52302,3 +52302,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-10 16:28:20'
+		WHERE ktovt_bn='tryg/mamr/musr044.html'
+		;
+

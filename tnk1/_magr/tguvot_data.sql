@@ -4206,3 +4206,26 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/mamr/musr044.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-01-10 16:28:20'
+		WHERE parent='tryg/mamr/musr044.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-01-11 04:13:27'
+			WHERE parent='tnk1/msr/yovl.html'
+			;
+
