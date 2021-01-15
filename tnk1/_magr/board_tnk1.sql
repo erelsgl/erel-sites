@@ -52557,3 +52557,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-14 13:11:38'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
