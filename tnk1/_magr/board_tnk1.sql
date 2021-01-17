@@ -52589,3 +52589,51 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-16 17:01:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-16 17:16:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-16 17:43:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2701_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-16 17:55:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2701_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-17 06:00:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-17 07:32:34'
+		WHERE ktovt_bn='tnk1/messages/mlbim_wy_wy-14-14-mlbim_0.html'
+		;
+
