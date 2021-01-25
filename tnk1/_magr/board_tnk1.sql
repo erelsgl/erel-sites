@@ -52946,3 +52946,49 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/1309.html',
+				'tnk1/messages/rwt_ldygyfl.pdf',
+				NULL,
+				'2021-01-24 11:00:25',
+				'2021-01-24 11:00:25',
+				'רות - אמה של מלכות',
+				'ברוריה בן-דוד (וייס)',
+				'../tnk1/ktuv/mgilot/rut-ima'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_1309_5.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-25 05:00:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0406_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-25 05:08:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0406_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-25 05:14:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
