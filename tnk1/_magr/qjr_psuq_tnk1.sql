@@ -968,3 +968,19 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים קלב3' AND `sfr` = 'חגי' AND `prq0` = 'א' AND `psuq0` = 4 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq1` = 26, `tarik_hosfa` = '2021-01-26 10:34:59' WHERE `bn` = 'ביאור:בראשית א28' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 26 AND `sug` = 'מבנה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית א30' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 30 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2021-01-26 10:36:55' WHERE `bn` = 'ביאור:אסתר ד1' AND `sfr` = 'סתר' AND `prq0` = 'ד' AND `psuq0` = 1 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:אסתר ד1' AND `sfr` = 'סתר' AND `prq0` = 'ד' AND `psuq0` = 1 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+

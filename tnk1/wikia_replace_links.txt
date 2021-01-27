@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2020-12-12 20:16:28
+# This file was automatically generated at 2021-01-26 10:37:05
 
 sub wikia_replace_links {
 $_=shift;
@@ -1126,7 +1126,6 @@ s|${OPENLINK}tnk1/xg-2-11|[[ביאור:ביאור:חגי ב11|ig;
 s|${OPENLINK}tnk1/xg-2-10|[[ביאור:ביאור:חגי ב10|ig;
 s|${OPENLINK}tnk1/xg-02-23|[[ביאור:ביאור:חגי ב23|ig;
 s|${OPENLINK}tnk1/xg-01-5|[[ביאור:ביאור:חגי א5|ig;
-s|${OPENLINK}tnk1/xg-01-4|[[ביאור:ביאור:חגי א4|ig;
 s|${OPENLINK}tnk1/wy-27-28|[[ביאור:ביאור:ויקרא כז28|ig;
 s|${OPENLINK}tnk1/wy-26-9|[[ביאור:ביאור:ויקרא כו9|ig;
 s|${OPENLINK}tnk1/wy-26-35|[[ביאור:ביאור:ויקרא כו35|ig;
@@ -3456,7 +3455,9 @@ s|${OPENLINK}tnk1/nvia/tryasr/xg-02-18|[[ביאור:חנוכה בספר חגי|i
 s|${OPENLINK}tnk1/nvia/tryasr/xg-02-1019|[[ביאור:דיני טהרה, וכוונת הלב|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xg-02-09|[[ביאור:גדול יהיה כבוד הבית הזה האחרון מן הראשון|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xg-01-06|[[ביאור:זרעתם הרבה והבא מעט|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xg-01-04|[[ביאור:אם יש לכם בתים - עליכם לבנות את בית המקדש|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xg-01-02|[[ביאור:עוד לא הגיע הזמן למקדש|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xg-01-01|[[ביאור:חגי בשנת שתים לדריוש|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xg-01|[[ביאור:מבצע ההסברה לבניין המקדש|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/tov|[[ביאור:לא לחשוב רע על הזולת - וכך להפוך את הצום הבא ליום שמחה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/tarikim|[[ביאור:תאריכים בתרי-עשר|ig;
@@ -6604,6 +6605,7 @@ s|${OPENLINK}tnk1/messages/new_10|[[ביאור:דו משמעותה הניגוד�
 s|${OPENLINK}tnk1/messages/new_1|[[ביאור:זוג ההיפוכים שר רש|ig;
 s|${OPENLINK}tnk1/messages/ncx_yjral_la_yjqr___megl.pdf|[[ביאור:וגם נצח ישראל לא ישקר = מעגל|ig;
 s|${OPENLINK}tnk1/messages/nawm_pje_lrje.pdf|[[ביאור:מעגל נאום פשע לרשע|ig;
+s|${OPENLINK}tnk1/messages/my_ybyn.pdf|[[ביאור:שגיאות מי יבין|ig;
 s|${OPENLINK}tnk1/messages/my_precious_son.pdf|[[ביאור:My precious son|ig;
 s|${OPENLINK}tnk1/messages/mydwt_jl_rxmym___hmjk.docx|[[ביאור:יג מידות של רחמים - המשך|ig;
 s|${OPENLINK}tnk1/messages/mxwqq___wyjkx_xwqw_jl_megl.pdf|[[ביאור:וישכח מחוקק = וישכח חוקו של מעגל|ig;
@@ -6707,6 +6709,7 @@ s|${OPENLINK}tnk1/messages/mlxmh_wet_jlwm.pdf|[[ביאור:עת מלחמה וע�
 s|${OPENLINK}tnk1/messages/mlbim_wy_wy-14-14-mlbim_0|[[ביאור:תנוך האוזן|ig;
 s|${OPENLINK}tnk1/messages/mlbim_th_th-11-04-mlbim_0|[[ביאור:ה' בשמים כסאו|ig;
 s|${OPENLINK}tnk1/messages/mj_03_15.jpg|[[ביאור:ציור מש ג 15|ig;
+s|${OPENLINK}tnk1/messages/mjwjh_xswm_xwtk_megl_xwsm.pdf|[[ביאור:כאשר משושה חסום חותך מעגל חוסם|ig;
 s|${OPENLINK}tnk1/messages/mjte.jpg|[[ביאור:ציור משתה|ig;
 s|${OPENLINK}tnk1/messages/mjly__prq_yx___mjh_ahrn_walycpn_nbxrw__qwrx_ndxh.doc|[[ביאור:משלי יח - משה אהרן ואליצפן נבחרו, קורח נדחה (.doc)|ig;
 s|${OPENLINK}tnk1/messages/mjly__prq_ka___hmlk_ndxh_aw_nbxr_lpy_yxsw_lnbya.doc|[[ביאור:משלי פרק כא - המלך נדחה או נבחר לפי יחסו לנביא (.doc)|ig;
@@ -6883,6 +6886,8 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_nsh_1|[[ביאור:לא לחכות לניס
 s|${OPENLINK}tnk1/messages/ljon_jorj_nml2_0|[[ביאור:הקשר בין נמל לבין נמלה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nkt_0|[[ביאור:זמרת הארץ (נכאת)|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_njr_0|[[ביאור:קלו מנשרים סוסיו|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_njp_0|[[ביאור:כוכב הנשף|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_njp2_0|[[ביאור:ינשוף - איביס - מגלן|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_njl_0|[[ביאור:של / שלח / שלך / שלף = הוציא / חלץ / הסיר|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nfh_1|[[ביאור:נוטה שמים כיריעה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_nfh_0|[[ביאור:ה' נטה שמים|ig;
@@ -7198,6 +7203,7 @@ s|${OPENLINK}tnk1/messages/h_11_brybwe_wbmegl.pdf|[[ביאור:החלק ה - 11 
 s|${OPENLINK}tnk1/messages/hzmn___440_jnh___megl_dwd.pdf|[[ביאור:חוט הזמן = 440 שנה = מעגל דוד|ig;
 s|${OPENLINK}tnk1/messages/hwmnysfyt___spr.doc|[[ביאור:יהדות הומניסטית - ספר (.doc)|ig;
 s|${OPENLINK}tnk1/messages/hwmnysfyt_a5.doc|[[ביאור:יהדות הומניסטית a5 (.doc)|ig;
+s|${OPENLINK}tnk1/messages/htqwh_amrh_jyrh.pdf|[[ביאור:כי התקוה אמרה שירה|ig;
 s|${OPENLINK}tnk1/messages/htmyd.pdf|[[ביאור:אמונת התמיד|ig;
 s|${OPENLINK}tnk1/messages/hrry_cywn_megl_brkh___xyym_ed_hewlm.pdf|[[ביאור:על הררי ציון מעגל ברכה = חיים עד העולם|ig;
 s|${OPENLINK}tnk1/messages/hre___la_mh_jxjbtm.docx|[[ביאור:היצר הרע - לא מה שחשבתם|ig;
@@ -8197,7 +8203,20 @@ s|${OPENLINK}tnk1/messages/forums_131|[[ביאור:'המרגלים' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_130|[[ביאור:פרשת שלח - במה חטאו המרגלים?|ig;
 s|${OPENLINK}tnk1/messages/forums_13|[[ביאור:'לא תרצח' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_129|[[ביאור:מן - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1286|[[ביאור:' קערת מצות עתיקה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1285|[[ביאור:פרשת בא - אכילת מצה בחג הפסח, לשם מה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1284|[[ביאור:'מכת הצפרדעים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1283|[[ביאור:פרשת וארא - מה הייתה שליחות מכת הצפרדעים במצרים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1282|[[ביאור:'משה נבחר אלוקים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1281|[[ביאור:פרשת שמות - מדוע נועד משה - למושיעם של ישראל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1280|[[ביאור:' יעקב  קורא ליוסף במצרים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_128|[[ביאור:'שלו- במדבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1279|[[ביאור:פרשת ויחי - מאין כי לעולם חולקים כבוד למלכות?|ig;
+s|${OPENLINK}tnk1/messages/forums_1278|[[ביאור:'יוסף ובקשתו מפרעה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1277|[[ביאור:פרשת ויגש - ממה חשש יעקב - טרם הירידה למצרים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1276|[[ביאור:'שר המשקים ופרעה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1275|[[ביאור:פרשת מקץ - כל עכבה לטובה סופה ברכה - האמנם?|ig;
+s|${OPENLINK}tnk1/messages/forums_1274|[[ביאור:'אחי יוסף סועדים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1273|[[ביאור:פרשת וישב - יוסף מושלך לבור - האחים סועדים - הכיצד? (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1272|[[ביאור:'יעקב חושש מעשיו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1271|[[ביאור:פרשת וישלח - מדוע חשש יעקב מפני פגישתו עם עשיו?|ig;
@@ -8651,7 +8670,6 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_1331_2|[[ביאור:חזון דניאל ע�
 s|${OPENLINK}tnk1/messages/dmut_dmut_1331_1|[[ביאור:חזון הדחיה והקץ בספר דניאל|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1320_0|[[ביאור:ממוכן - מהומן - המן - חמן - שבתאי|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1310_0|[[ביאור:היומן ג|ig;
-s|${OPENLINK}tnk1/messages/dmut_dmut_1309_5|[[ביאור:רות - אמה של מלכות|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1309_4|[[ביאור:מגילת רות - מאפיינים סיפרותיים - חלק ג: המספר ונקודת התצפית שלו|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1309_3|[[ביאור:מגילת רות - מאפיינים סיפרותיים - חלק ד: המבנה|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1309_1|[[ביאור:מגילת רות - מאפיינים סיפרותיים - חלק ב: מערך הדמויות|ig;

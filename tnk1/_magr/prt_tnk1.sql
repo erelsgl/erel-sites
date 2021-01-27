@@ -189,3 +189,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:חגי א4' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `ktovt` = 'http://tora.us.fm/tnk1/messages/rwt_ldygyfl.pdf', `tarik_hosfa` = '2021-01-26 10:16:58' WHERE `qod` = 'רות - אמה של מלכות' AND 1 LIMIT 1;
+
