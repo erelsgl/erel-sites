@@ -53648,3 +53648,91 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 10:02:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 10:03:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/kmwt_ky_megl_jlm_hwa_ank_nycb.pdf',
+				NULL,
+				'2021-01-31 10:56:16',
+				'2021-01-31 10:56:16',
+				'שימור כמות כי מעגל שלם הוא אנך ניצב',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 11:26:37'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/htxps.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 11:42:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0608_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 13:45:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 16:52:35'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/tl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 17:28:16'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/tl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-01-31 17:29:29'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/tl.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-01 05:08:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
