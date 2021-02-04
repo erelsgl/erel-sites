@@ -387,3 +387,26 @@ SET character_set_connection=utf8;
 		WHERE parent='tryg/magrim.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-02-04 03:16:41'
+			WHERE parent='tnk1/tora/brejit/tarikim30.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_24.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-02-04 03:50:07'
+		WHERE parent='tnk1/messages/prqim_t0101_24.html'
+		;
+

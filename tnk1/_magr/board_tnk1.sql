@@ -53854,3 +53854,34 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/magrim.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1289.html',
+				NULL,
+				'2021-02-03 12:02:03',
+				'2021-02-03 12:02:03',
+				'פרשת יתרו-מדוע מדמה יתרו את משה -לעץ השדה?/ אהובה  קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-02-03 12:02:03'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-04 03:50:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_24.html'
+		;
+
