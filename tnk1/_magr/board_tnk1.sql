@@ -54331,3 +54331,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-02-10 17:04:42'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-11 16:26:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1402_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_53.html',
+				NULL,
+				'2021-02-11 18:52:16',
+				'2021-02-11 18:52:16',
+				'חודש אדר שמח!!! מה הקשר לשבט נפתלי ולאדר?',
+				'אביאל מעודד',
+				'avielmdd @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1292.html',
+				NULL,
+				'2021-02-11 19:56:03',
+				'2021-02-11 19:56:03',
+				'לוחות סם החיים/ שיר  מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-02-11 19:56:03'
+			WHERE ktovt_bn='tnk1/forums.html';
+
