@@ -54378,3 +54378,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-02-11 19:56:03'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-12 08:41:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-12 08:51:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-12 09:28:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-12 12:56:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_1.html'
+		;
+
