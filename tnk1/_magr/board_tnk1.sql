@@ -54522,3 +54522,59 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-14 11:10:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-14 11:14:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1117_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-14 12:23:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-14 12:25:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_24.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-14 15:58:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a03_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_54.html',
+				NULL,
+				'2021-02-14 18:32:16',
+				'2021-02-14 18:32:16',
+				'https://youtube/UnDX-SsXvWU',
+				'אביאל מעודד',
+				'avielmdd @ gmail.com'
+			)
+		;
+
