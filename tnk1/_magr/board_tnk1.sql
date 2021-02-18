@@ -54673,3 +54673,50 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-02-17 07:53:36'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1294.html',
+				NULL,
+				'2021-02-17 08:30:59',
+				'2021-02-17 08:30:59',
+				'חצר המשכן/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-02-17 08:30:59'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-17 08:42:42'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tarikim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-18 03:48:02'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tarikim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-18 03:54:53'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tarikim.html'
+		;
+
