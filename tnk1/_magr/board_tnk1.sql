@@ -54878,3 +54878,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t25b35_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-02-26 15:21:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+

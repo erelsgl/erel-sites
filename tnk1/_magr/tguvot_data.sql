@@ -2204,3 +2204,18 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t25b35_0.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t2690_2.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-02-26 15:21:24'
+		WHERE parent='tnk1/messages/prqim_t2690_2.html'
+		;
+
