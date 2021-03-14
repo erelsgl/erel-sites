@@ -2872,3 +2872,33 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t1506_1.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0225_3.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-03-13 21:55:43'
+		WHERE parent='tnk1/messages/prqim_t0225_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0225_3.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-03-13 22:22:51'
+		WHERE parent='tnk1/messages/prqim_t0225_3.html'
+		;
+
