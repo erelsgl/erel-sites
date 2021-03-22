@@ -55368,3 +55368,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-03-17 06:10:47'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-03-22 04:18:37'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
