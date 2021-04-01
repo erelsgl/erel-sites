@@ -55614,3 +55614,35 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tryg/messages/mamr_tfilot-eitan_5.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/555.html',
+				'tnk1/messages/dmut_dmut_555_0.html',
+				NULL,
+				'2021-03-31 11:10:01',
+				'2021-03-31 11:10:01',
+				'תגובה על: עתניאל',
+				'הראל',
+				'harelros @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/alyk_gwg_njya_raj___mmjlh_bly_raj.pdf',
+				NULL,
+				'2021-03-31 18:05:57',
+				'2021-03-31 18:05:57',
+				'הנני אליך גוג נשיא ראש = ממשלה בלי ראש',
+				'רמי ניר',
+				''
+			)
+		;
+
