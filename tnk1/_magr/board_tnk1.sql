@@ -55740,3 +55740,19 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-04 11:35:54'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-05 06:49:52'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
