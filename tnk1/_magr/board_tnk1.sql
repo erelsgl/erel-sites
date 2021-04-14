@@ -56184,3 +56184,83 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-13 11:36:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_7.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-13 11:44:27'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 01:40:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 01:49:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 02:33:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 02:36:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 03:15:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 03:21:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 03:56:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-14 06:47:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
