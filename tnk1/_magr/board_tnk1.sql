@@ -56971,3 +56971,106 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0232_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-27 14:59:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-27 15:52:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-27 15:53:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-27 15:56:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 02:54:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2810_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 02:58:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2810_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 03:00:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 04:03:20'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 04:04:01'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2810_6.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-04-28 05:08:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1315.html',
+				NULL,
+				'2021-04-28 07:38:26',
+				'2021-04-28 07:38:26',
+				'פרשת אמור- מדוע השבת בראש מועדי ישראל?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-04-28 07:38:26'
+			WHERE ktovt_bn='tnk1/forums.html';
+
