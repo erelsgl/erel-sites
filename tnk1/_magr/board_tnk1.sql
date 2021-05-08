@@ -57413,3 +57413,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-05-07 04:43:47'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-07 08:00:03'
+		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-07 08:17:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/poverty.pdf',
+				NULL,
+				'2021-05-07 20:10:12',
+				'2021-05-07 20:10:12',
+				'Poverty',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-05-07 20:10:12'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
