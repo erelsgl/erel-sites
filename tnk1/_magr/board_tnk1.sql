@@ -57792,3 +57792,58 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-10 13:21:46'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_tpx_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-10 13:49:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2303_2.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-10 15:33:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1302_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1mlxma.html',
+				'tnk1/nvir/yhojua/ya-23-10.html',
+				NULL,
+				'2021-05-10 18:12:58',
+				'2021-05-10 18:12:58',
+				'איש אחד מכם ירדוף אלף - כי ה\' נלחם לכם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-05-10 18:12:58'
+			WHERE ktovt_bn='tnk1/msr/1mlxma.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-11 04:34:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1001_4.html'
+		;
+
