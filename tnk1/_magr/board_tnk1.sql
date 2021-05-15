@@ -58020,3 +58020,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-05-14 07:03:08'
 			WHERE ktovt_bn='tnk1/msr/1mlxma.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-14 14:18:05'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-144-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-14 14:20:05'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-144-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-14 14:26:35'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-144-01.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-05-14 14:31:46'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-144-01.html'
+		;
+
