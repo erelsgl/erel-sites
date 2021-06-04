@@ -58837,3 +58837,82 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 08:01:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1326.html',
+				NULL,
+				'2021-06-03 08:11:28',
+				'2021-06-03 08:11:28',
+				'המעפילים לראש ההר/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-06-03 08:11:28'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 10:43:09'
+		WHERE ktovt_bn='tnk1/messages/forums_1326.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 10:44:13'
+		WHERE ktovt_bn='tnk1/messages/forums_1326.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 12:42:26'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/srx.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 15:52:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 16:02:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-03 16:23:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
