@@ -59114,3 +59114,74 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/tora/dvrim/mluka.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-09 10:58:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-09 11:15:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-09 11:17:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1329.html',
+				NULL,
+				'2021-06-09 14:43:34',
+				'2021-06-09 14:43:34',
+				'פרשת קורח- במה זכו הכוהנים והלוויים במשכן?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-06-09 14:43:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-10 04:44:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-10 04:49:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-06-10 05:04:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
