@@ -59973,3 +59973,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-07-01 09:48:40'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-02 13:45:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
