@@ -60013,3 +60013,11 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-04 09:56:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
