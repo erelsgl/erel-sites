@@ -60243,3 +60243,147 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_55.html',
+				NULL,
+				'2021-07-11 09:40:09',
+				'2021-07-11 09:40:09',
+				'על העם העברי להתנתק לחלוטין משמות החודשים הבבליים ומהכתב של האשורים',
+				'יצחק אטיאס',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 09:46:35'
+		WHERE ktovt_bn='tnk1/messages/new_55.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_56.html',
+				NULL,
+				'2021-07-11 09:51:44',
+				'2021-07-11 09:51:44',
+				'על העם העברי לעקור מהיסוד את סמל העבודה הזרה של המגן דוד',
+				'יצחק אטיאס',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 09:52:47'
+		WHERE ktovt_bn='tnk1/messages/new_56.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 11:49:39'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_57.html',
+				NULL,
+				'2021-07-11 11:57:37',
+				'2021-07-11 11:57:37',
+				'סדרת סרטוני יוטיוב שחושפת את מקורו האמיתי של סםר הזוהר ואת דעותיו המשובשות והעיוותים שבתוכו',
+				'יצחק אטיאס',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 11:58:58'
+		WHERE ktovt_bn='tnk1/messages/new_57.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_58.html',
+				NULL,
+				'2021-07-11 12:02:17',
+				'2021-07-11 12:02:17',
+				'ביאור המשמעות האמיתית של האמרה ועשית ככל אשר יורוך',
+				'יצחק אטיאס',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 12:02:55'
+		WHERE ktovt_bn='tnk1/messages/new_58.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 12:45:59'
+		WHERE ktovt_bn='tnk1/messages/new_58.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 15:05:53'
+		WHERE ktovt_bn='tnk1/messages/new_58.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/new_59.html',
+				NULL,
+				'2021-07-11 15:07:04',
+				'2021-07-11 15:07:04',
+				'טכנולוגיה של בלבול מוח, כיצד הרבנים מחרטטים את עדר מאמיניהם',
+				'יצחק אטיאס',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-11 15:07:28'
+		WHERE ktovt_bn='tnk1/messages/new_59.html'
+		;
+
