@@ -984,3 +984,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:אסתר ד1' AND `sfr` = 'סתר' AND `prq0` = 'ד' AND `psuq0` = 1 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית א30' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 30 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:דניאל ב21' AND `sfr` = 'דני' AND `prq0` = 'ב' AND `psuq0` = 21 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
