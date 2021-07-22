@@ -62662,3 +62662,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-07-21 05:49:30'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-21 08:03:39'
+		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-05-0209.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-07-21 11:25:12'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
