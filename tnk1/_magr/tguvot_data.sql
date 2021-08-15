@@ -1329,3 +1329,34 @@ SET character_set_connection=utf8;
 			WHERE parent='tnk1/messages/prqim_t0406_2.html'
 			;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/dvrim/dm-16-19.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-08-15 00:15:08'
+		WHERE parent='tnk1/tora/dvrim/dm-16-19.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-08-15 00:15:10'
+			WHERE parent='tnk1/tora/dvrim/dm-16-19.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-08-15 00:28:27'
+			WHERE parent='tnk1/tora/dvrim/dm-01-17.html'
+			;
+

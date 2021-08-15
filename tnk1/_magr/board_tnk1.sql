@@ -63343,3 +63343,50 @@ SET character_set_connection=utf8;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0406_2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/my_blessing_or_my_provision.pdf',
+				NULL,
+				'2021-08-14 16:05:48',
+				'2021-08-14 16:05:48',
+				'My blessing or my provision',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-08-14 16:05:48'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/3elections.html',
+				'tnk1/tora/dvrim/dm-16-18.html',
+				NULL,
+				'2021-08-14 22:56:56',
+				'2021-08-14 22:56:56',
+				'מצוה למנות שופטים שישפטו בצדק',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-08-15 00:15:08'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-16-19.html'
+		;
+

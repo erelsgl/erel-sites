@@ -992,3 +992,39 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:דניאל ב21' AND `sfr` = 'דני' AND `prq0` = 'ב' AND `psuq0` = 21 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על סדר היום - הלכות בחירות 1 - בחירות מקדימות' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מותר האדם במשפט ובמשטר' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: החוקים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מבנה דברים כא' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת שופטים - מה הקשר בין המשפט לשלום?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על סדר היום - האם מפלגה צריכה מצע?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:הושע ח4' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כד23' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת עקב שוחד רוחני ופרשת שופטים שוחד גשמי' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
