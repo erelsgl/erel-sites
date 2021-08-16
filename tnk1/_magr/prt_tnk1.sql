@@ -193,3 +193,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `ktovt` = 'http://tora.us.fm/tnk1/messages/rwt_ldygyfl.pdf', `tarik_hosfa` = '2021-01-26 10:16:58' WHERE `qod` = 'רות - אמה של מלכות' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'ביאור:דברים טז18', `tarik_hosfa` = '2021-08-15 20:59:15' WHERE `qod` = 'ביאור:שופטים טז18' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `qod` = 'ביאור:דברים טז21', `tarik_hosfa` = '2021-08-15 20:59:15' WHERE `qod` = 'ביאור:שופטים טז21' AND 1 LIMIT 1;
+

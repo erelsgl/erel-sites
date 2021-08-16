@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2021-07-18 19:23:15
+# This file was automatically generated at 2021-08-15 20:59:29
 
 sub wikia_replace_links {
 $_=shift;
@@ -1586,8 +1586,10 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-17-0810|[[ביאור:ממי צריך לבקש ה
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-07|[[ביאור:יד העדים תהיה בו בראשונה|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-17-06|[[ביאור:אם שני עדים מספיקים, למה צריך שלושה?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-16-22|[[ביאור:ה' שונא מצבות|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-16-21|[[ביאור:עץ - לא ליד המזבח|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-16-20|[[ביאור:איך רודפים אחרי הצדק|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-16-19|[[ביאור:שוחד בחירות|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-16-18|[[ביאור:מצוה למנות שופטים שישפטו בצדק|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-16-03|[[ביאור:חמץ ומצה בספר דברים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-15-0911|[[ביאור:איך משכנעים אנשים שאינם רוצים להלוות לעניים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-15-08|[[ביאור:הלוואה לצורך מילוי מחסור|ig;
@@ -6573,6 +6575,7 @@ s|${OPENLINK}tnk1/messages/njkx_ezk_yrwjlym_2500_jnh.pdf|[[ביאור:איכה �
 s|${OPENLINK}tnk1/messages/new_9|[[ביאור:פרשת מסעי - תחנות בחיים|ig;
 s|${OPENLINK}tnk1/messages/new_8|[[ביאור:זכות הדיבור חשובה מזכות הדיבור|ig;
 s|${OPENLINK}tnk1/messages/new_7|[[ביאור:זוג ההיפוכים קם - מק|ig;
+s|${OPENLINK}tnk1/messages/new_60|[[ביאור:מדוע חודש תמוז נקרא על שם של אליל בבלי ומדוע הוא מזוהה כחודש של בכיה אצלינו?|ig;
 s|${OPENLINK}tnk1/messages/new_6|[[ביאור:מצוות אנשים מלומדה לעומת רוח החסד|ig;
 s|${OPENLINK}tnk1/messages/new_52|[[ביאור:מה קרה במעמד הר סיני???|ig;
 s|${OPENLINK}tnk1/messages/new_5|[[ביאור:ארבע מידות באדם - הצד הכלכלי|ig;
@@ -6618,6 +6621,7 @@ s|${OPENLINK}tnk1/messages/ncx_yjral_la_yjqr___megl.pdf|[[ביאור:וגם נצ
 s|${OPENLINK}tnk1/messages/nawm_pje_lrje.pdf|[[ביאור:מעגל נאום פשע לרשע|ig;
 s|${OPENLINK}tnk1/messages/my_ybyn.pdf|[[ביאור:שגיאות מי יבין|ig;
 s|${OPENLINK}tnk1/messages/my_precious_son.pdf|[[ביאור:My precious son|ig;
+s|${OPENLINK}tnk1/messages/my_blessing_or_my_provision.pdf|[[ביאור:My blessing or my provision|ig;
 s|${OPENLINK}tnk1/messages/mydwt_jl_rxmym___hmjk.docx|[[ביאור:יג מידות של רחמים - המשך|ig;
 s|${OPENLINK}tnk1/messages/mxwqq___wyjkx_xwqw_jl_megl.pdf|[[ביאור:וישכח מחוקק = וישכח חוקו של מעגל|ig;
 s|${OPENLINK}tnk1/messages/mxjbwtykm___megl_yjeyh_nh.pdf|[[ביאור:מחשבותי מחשבותיכם = מעגל ישעיה נה|ig;
@@ -8213,6 +8217,14 @@ s|${OPENLINK}tnk1/messages/forums_138|[[ביאור:פרשת בלק - סוד קי
 s|${OPENLINK}tnk1/messages/forums_137|[[ביאור:'פרה אדומה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_136|[[ביאור:'משה והסלע' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_135|[[ביאור:פרשת חוקת - פרה אדומה - הדרך אל האושר  כיצד?/ אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1348|[[ביאור:פרשת שופטים - חשיבות התורה לעתיד עם ישראל|ig;
+s|${OPENLINK}tnk1/messages/forums_1347|[[ביאור:'ציון בשיא תפארתה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1346|[[ביאור:'ציון וברית  עולם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1345|[[ביאור:פרשת ראה - הדרך לחיים טובים ופירותיה - בעתיד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1344|[[ביאור:'ציון ונחמתה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1343|[[ביאור:פרשת עקב - הקשר לנבואת הנחמה של הנביא ישעיהו|ig;
+s|${OPENLINK}tnk1/messages/forums_1342|[[ביאור:'נחמו נחמו עמי' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1341|[[ביאור:פרשת ואתחנן - החוט המקשר לשבת נחמו|ig;
 s|${OPENLINK}tnk1/messages/forums_1340|[[ביאור:פרשת דברים - בכיים של ישראל ושבת חזון|ig;
 s|${OPENLINK}tnk1/messages/forums_134|[[ביאור:'מחלוקת' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1339|[[ביאור:'בכי החוטאים' - שיר מאת אהובה קליין (c)|ig;
@@ -8611,6 +8623,7 @@ s|${OPENLINK}tnk1/messages/eqb_jwxd_rwxny_wprjt_jwpfym_jwxd_gjmy.pdf|[[ביאו�
 s|${OPENLINK}tnk1/messages/epidemiological_knowledge_of_the_greek_translators.pdf|[[ביאור:Epidemiological knowledge of the Greek translators|ig;
 s|${OPENLINK}tnk1/messages/emy_ba_bxdryk_wsgwr_dltk_bedyk.pdf|[[ביאור:לך עמי בא בחדריך וסגור דלתך בעדיך|ig;
 s|${OPENLINK}tnk1/messages/emqw_mxjbwtyk_kxwf___megl.pdf|[[ביאור:מאוד עמקו מחשבותיך כחוט = מעגל|ig;
+s|${OPENLINK}tnk1/messages/el_mqdj_wmegl.pdf|[[ביאור:תאוריה על מקדש ומעגל|ig;
 s|${OPENLINK}tnk1/messages/dywqym_btrgwm_ywntn___yrmyhw_prq_a.doc|[[ביאור:דיוקים בתרגום יונתן - ירמיהו פרק א (.doc)|ig;
 s|${OPENLINK}tnk1/messages/dybwry_ecb_wrwgz_jl_dwd.doc|[[ביאור:דיבורי עצב ורוגז בפי דוד (.doc)|ig;
 s|${OPENLINK}tnk1/messages/dwd_ajr_nsgr_bjnt_18_lyajyhw.pdf|[[ביאור:מעגל דוד אשר נסגר בשנת 18 ליאשיהו|ig;

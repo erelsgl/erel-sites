@@ -1028,3 +1028,47 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת עקב שוחד רוחני ופרשת שופטים שוחד גשמי' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'צדק צדק' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'צדק צדק תרדוף\' - מאיר אריאל' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אפלטון והתנ\"ך: המדינה, שאלת הצדק' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:קהלת ז16' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת שופטים - הקשר בין משפט צדק לירושת הארץ!' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת שופטים - משפט  צדק - כיצד?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על סדר היום - רדיפת צדק וירושת הארץ' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'עצים מקודשים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת שופטים - מה הקשר לירושת הארץ?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'תרדוף ותחפש שופטים מומחים שיעשו צדק , וכן תחפש עדים וראיות כדי לעשות צדק , ותעשה זאת שוב ושוב עד שתצליח; כי רק כך תוכל לחיות לאורך זמן ולרשת את הארץ אשר ה\' אלהיך נותן לך . ', `sug` = 'תרגום', `tarik_hosfa` = '2021-08-15 18:50:24' WHERE `bn` = 'ביאור:דברים טז20' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ויקרא ב11' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 22 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
