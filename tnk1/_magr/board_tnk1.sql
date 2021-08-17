@@ -63604,3 +63604,19 @@ UPDATE board_tnk1
 			SET sdr_bn=10
 			WHERE ktovt_bn='tnk1/tora/dvrim/dm-16-21.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/afghan.html',
+				NULL,
+				'2021-08-16 09:46:13',
+				'2021-08-16 09:46:13',
+				'על סדר היום - נפילת אפגניסטן',
+				'אראל',
+				''
+			)
+		;
+
