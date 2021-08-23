@@ -63818,3 +63818,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-08-22 10:13:44'
+		WHERE ktovt_bn='tnk1/tora/dvrim/bq.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-08-23 03:59:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
