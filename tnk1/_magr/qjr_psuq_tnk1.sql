@@ -1072,3 +1072,87 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:ויקרא ב11' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 22 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 10, `psuq1` = 10, `tarik_hosfa` = '2021-09-21 17:34:04' WHERE `bn` = '\'יובל - השיבה לשדות\'' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בהר - החיבור המשולש' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'החיבור בין פרשיות בהר בחוקותי מלמד שהכל שייך לבורא עולם' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הלכה, כלכלה וחברה - בין אידיאל למציאות' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לאהבה וליראה את שמך - שכר ועונש לכלל ולפרט בפרשות בהר-בחוקותיי' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לימוד פשוטו של מקרא - סכנות וסיכויים' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר: משמיטה ויובל להרמוניה של מספרים' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 12, `tarik_hosfa` = '2021-09-21 17:52:23' WHERE `bn` = 'פרשת בהר - מהי שנת היובל?מה גנוז בה?' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שמיטה בהר סיני - דת שהיא לאום' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר - שמיטה ויובל - מה התכלית?' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר-בחוקותי, מה המכנה המשותף לשמיטה, שבת ומקדש?' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר בחוקותי - הנושא המשותף' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 2, `psuq1` = 2, `tarik_hosfa` = '2021-09-21 18:04:01' WHERE `bn` = '\'ושבתה הארץ\' - אהובה קליין' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הפסוק הראשון בפרשת בהר' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מצוות שניתנו בהר סיני ונכתבו רק בספר ויקרא' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות יב1' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 1 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר - מאין לנו כי התורה כולה ניתנה על הר סיני' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת בהר - מה גנוז בהר סיני?' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = '\'ושבתה הארץ\' - אהובה קליין' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'החוקיות בטבע כרעיון דתי (קטעים)' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שבעת המינים והלוח החקלאי מגזר' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+

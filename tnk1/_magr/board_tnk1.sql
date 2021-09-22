@@ -64624,3 +64624,141 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-09-20 08:00:37'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-21 17:27:38'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/mlakim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-21 17:27:51'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/mlakim.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-21 17:28:11'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/mlakim.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/hjlma1.html',
+				'tnk1/tora/wyqra/wy-25-01.html',
+				NULL,
+				'2021-09-21 18:19:13',
+				'2021-09-21 18:19:13',
+				'מה עניין שמיטה אצל הר סיני?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-09-21 18:19:13'
+			WHERE ktovt_bn='tnk1/sig/hjlma1.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jbt.html',
+				'tnk1/tora/wyqra/wy-25-02.html',
+				NULL,
+				'2021-09-21 21:26:44',
+				'2021-09-21 21:26:44',
+				'ושבתה הארץ שבת לה\'',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9xqlaut.html',
+				'tnk1/tora/wyqra/wy-25-03.html',
+				NULL,
+				'2021-09-22 00:41:08',
+				'2021-09-22 00:41:08',
+				'מצווה לעבד את האדמה שש שנים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-09-22 00:41:08'
+			WHERE ktovt_bn='tnk1/msr/9xqlaut.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/tlmud.html',
+				'tnk1/klli/mdrjim/mideorayta.html',
+				NULL,
+				'2021-09-22 02:35:50',
+				'2021-09-22 02:35:50',
+				'שמיטה בימינו - חובה מן התורה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-09-22 02:35:50'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/tlmud.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			DELETE FROM board_tnk1
+			WHERE ktovt_bn='tnk1/klli/mdrjim/mideorayta.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/tlmud.html',
+				'tnk1/klli/mdrjim/7mideorayta.html',
+				NULL,
+				'2021-09-22 02:40:59',
+				'2021-09-22 02:40:59',
+				'שביעית בימינו - מצווה מהתורה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-09-22 02:40:59'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/tlmud.html';
+
