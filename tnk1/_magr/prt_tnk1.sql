@@ -201,3 +201,271 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `qod` = 'ביאור:דברים טז21', `tarik_hosfa` = '2021-08-15 20:59:15' WHERE `qod` = 'ביאור:שופטים טז21' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור אלקנה פנינה וחנה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור אמה עבריה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור אשת לוט ומהפכת סדום ועמורה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור בכיו של יוסף במצרים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור בני ישראל אינם שומעים למשה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור ברכת יעקב' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור דור הפלגה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור האדם בגן עדן' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור האזינו השמים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור חושך מצרים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור חושן המשפט' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור חנה ושמואל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור יונה ועלה זית בפיה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור יעקב נפגש עם עשיו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור כי בסוכות הושבתי אתכם' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור כי תצא למלחמה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור מעל הכפורת - הכרובים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:26' WHERE `qod` = 'ציור מעשה העגל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:27' WHERE `qod` = 'ציור משה בתיבה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:27' WHERE `qod` = 'ציור משיח בן דוד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור מתן תורה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור נס עמוד האש' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור סמיכה על האיל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור עליה לרגל בשלושת הרגלים ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור עקדת יצחק' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור פגישת יעקב ועשו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור פרשת נצבים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור קחו מזמרת הארץ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור רבקה אוחזת בבניה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור רבקה מגיעה ומתכסה בצעיף' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור שלמה המלך החכם מכל אדם' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור תורה ציווה לנו משה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור משה באוהל מועד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור אהרון הכהן ובניו בפתח אוהל מועד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור איסור אכילת בעלי חיים טמאים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור היולדת מביאה קורבן' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור הכהן והשעירים שנועדו לגורלות' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור איסוף תבואה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:54:46' WHERE `qod` = 'ציור מנוחה בשנת השמיטה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור איש על דגלו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור בועז ונערו מביטים על רות בשדה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור קורבנות הנשיאים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור המנורה בעלת שבעת הקנים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור שובם של המרגלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור מחלוקת קרח' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור זאת חוקת התורה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור בלעם והאתון בדרך' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור משה מעמיד את יהושע לפני אלעזר הכהן' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור שבט ראובן בונה ' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור נחלתם של ראובן וגד' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור משה משקיף על ארץ ישראל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור בנות שילו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור לוחות שניים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור עונשה של עיר נידחת' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור מלך נבחר ה\'' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור יציאה למלחמה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור הבאת הביכורים לכהן' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור תקיעת שופר מעוררת הנרדמים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:08' WHERE `qod` = 'ציור שליחות יונה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור קהלת בערוב ימיו' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור מלכי-צדק מלך שלם ואברהם' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור משתה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור יעקב וכל משפחתו במעבר יבוק' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור יהודה לפני יוסף' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור יורדי הים במצולות' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור וכל העם רואים את הקולות' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור עבד עברי יוצא לחופשי' AND 1 LIMIT 1;
+

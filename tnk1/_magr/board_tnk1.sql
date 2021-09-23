@@ -64762,3 +64762,58 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-09-22 02:40:59'
 			WHERE ktovt_bn='tnk1/klli/mdrjim/tlmud.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/tlmud.html',
+				'tnk1/tora/wyqra/wy-25-04.html',
+				NULL,
+				'2021-09-22 13:03:31',
+				'2021-09-22 13:03:31',
+				'המלאכות האסורות בשבת הארץ',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-09-22 13:03:31'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/tlmud.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/spx2.html',
+				'tnk1/tora/wyqra/wy-25-05.html',
+				NULL,
+				'2021-09-23 07:07:20',
+				'2021-09-23 07:07:20',
+				'ספיחי קציר וענבי נזיר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/spx.html',
+				'tnk1/kma/qjrim1/sfx.html',
+				NULL,
+				'2021-09-23 07:21:43',
+				'2021-09-23 07:21:43',
+				'ספח = עודף, תוספת וליווי',
+				'אראל',
+				''
+			)
+		;
+
