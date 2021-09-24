@@ -469,3 +469,31 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2021-09-22 12:55:18' WHERE `qod` = 'ציור עבד עברי יוצא לחופשי' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה1' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה2' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה3' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה4' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה5' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה6' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה7' AND 1 LIMIT 1;
+

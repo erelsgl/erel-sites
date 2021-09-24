@@ -1156,3 +1156,39 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שבעת המינים והלוח החקלאי מגזר' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'השבתת הקרקע נועדה למנוע תביעות של בעלות מצד העובדים' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות כג11' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי ה17' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית טו13' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על סדר היום - הישרדות' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'האם שיוויון כלכלי הוא ערך חשוב בתנ\"ך?' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'בשנה השביעית אנחנו אורחים-לשבת של הארץ', `tarik_hosfa` = '2021-09-23 15:02:00' WHERE `bn` = 'ביאור:ויקרא כה6' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בשנה השביעית אנחנו סועדים על שולחן השבת של גברת ארץ ישראלי' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
