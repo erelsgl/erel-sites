@@ -1192,3 +1192,11 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בשנה השביעית אנחנו סועדים על שולחן השבת של גברת ארץ ישראלי' AND `sfr` = 'ויק' AND `prq0` = 'כה' AND `psuq0` = 6 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:בראשית א30' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'העלים נועדו למאכל החיות ולא למאכל האדם', `tarik_hosfa` = '2021-09-24 12:07:16' WHERE `bn` = 'ביאור:בראשית א30' AND `sfr` = 'ברא' AND `prq0` = 'א' AND `psuq0` = 30 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+

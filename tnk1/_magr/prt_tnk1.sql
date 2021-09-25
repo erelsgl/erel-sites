@@ -497,3 +497,7 @@ SET character_set_client=utf8;
 SET character_set_connection=utf8;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה7' AND 1 LIMIT 1;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE `prt_tnk1` SET `kotrt` = 'ומי שלא יפול וישתחווה יושלך לכבשן האש', `tarik_hosfa` = '2021-09-24 12:04:50' WHERE `qod` = 'ביאור:דניאל ג11' AND 1 LIMIT 1;
+
