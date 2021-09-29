@@ -65456,3 +65456,113 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-09-27 08:36:45'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/743.html',
+				'tnk1/nvir/mlkima/ma-09-11.html.html',
+				NULL,
+				'2021-09-28 20:23:40',
+				'2021-09-28 20:23:40',
+				'מדוע נתן שלמה לחירם עשרים עיר בגליל?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/743.html',
+				'tnk1/nvir/mlkima/ma-0911.html',
+				NULL,
+				'2021-09-28 20:37:58',
+				'2021-09-28 20:37:58',
+				'מדוע נתן שלמה לחירם עשרים עיר בגליל?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳׳׳׳¨', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/forums_1361.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳×׳’׳•׳‘׳”', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-09-11.html.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sug='׳“׳™׳•׳1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/forums_1361.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+UPDATE board_tnk1
+			SET sdr_bn=111
+			WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html';
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-29 03:22:51'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-29 03:28:11'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-09-29 03:29:12'
+		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-0911.html'
+		;
+
