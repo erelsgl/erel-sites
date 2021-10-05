@@ -3324,3 +3324,11 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/messages/prqim_t0231_0.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-10-05 05:40:20'
+			WHERE parent='tnk1/messages/prqim_t26e7_1.html'
+			;
+
