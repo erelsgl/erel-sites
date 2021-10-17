@@ -3513,3 +3513,110 @@ SET character_set_connection=utf8;
 		WHERE parent='tnk1/nvia/yrmyhu/yr-13-23.html'
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-10-16 15:58:08'
+		WHERE parent='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-10-16 16:00:10'
+		WHERE parent='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-10-16 16:00:22'
+			WHERE parent='tnk1/messages/prqim_t0101_23.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-10-16 16:03:57'
+		WHERE parent='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-10-16 16:04:01'
+			WHERE parent='tnk1/messages/prqim_t0101_23.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-10-16 16:05:54'
+		WHERE parent='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-10-16 16:05:58'
+			WHERE parent='tnk1/messages/prqim_t0101_23.html'
+			;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_23.html',0)
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2021-10-16 19:02:22'
+		WHERE parent='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2021-10-16 19:02:52'
+			WHERE parent='tnk1/messages/prqim_t0101_23.html'
+			;
+
