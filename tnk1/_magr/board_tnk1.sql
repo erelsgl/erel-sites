@@ -66563,3 +66563,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-10-30 19:05:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-10-30 19:10:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-10-30 19:46:20'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/rek.html'
+		;
+
