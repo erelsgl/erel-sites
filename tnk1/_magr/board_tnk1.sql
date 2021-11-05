@@ -66713,3 +66713,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-11-02 17:25:05'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-11-04 15:55:09'
+		WHERE ktovt_bn='tnk1/msr/knesset/57700307.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-11-05 04:49:06'
+		WHERE ktovt_bn='tnk1/msr/knesset/57700307.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-11-05 04:50:03'
+		WHERE ktovt_bn='tnk1/msr/knesset/57700307.html'
+		;
+
+SET character_set_client=utf8;
+SET character_set_connection=utf8;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-11-05 05:12:24'
+		WHERE ktovt_bn='tnk1/msr/knesset/57700307.html'
+		;
+
