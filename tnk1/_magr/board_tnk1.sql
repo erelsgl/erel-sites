@@ -66887,3 +66887,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-11-11 07:08:00'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/tusks.pdf',
+				NULL,
+				'2021-11-15 17:38:31',
+				'2021-11-15 17:38:31',
+				'tusks',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-15 17:38:31'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_priests__trumpets.pdf',
+				NULL,
+				'2021-11-15 19:15:28',
+				'2021-11-15 19:15:28',
+				'The Priests\' trumpets',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-15 19:15:28'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
