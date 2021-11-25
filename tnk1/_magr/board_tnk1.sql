@@ -66979,3 +66979,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-11-18 21:24:59'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1378.html',
+				NULL,
+				'2021-11-24 21:26:00',
+				'2021-11-24 21:26:00',
+				'פרשת וישב- כותונת הפסים- מה טמון בה?/אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-24 21:26:00'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1379.html',
+				NULL,
+				'2021-11-25 05:44:39',
+				'2021-11-25 05:44:39',
+				' כותונת פסים/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-25 05:44:39'
+			WHERE ktovt_bn='tnk1/forums.html';
+
