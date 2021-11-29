@@ -1,5 +1,6 @@
 *.tmp.*
 /whatsnew
+/*dec.tar.gz
 /a*n
 /au*rs.txt
 /wikia_replace_links.txt
