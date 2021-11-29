@@ -75,7 +75,7 @@ SELECT
 		IF(ktovt like "%.doc" Or ktovt like "%.mp3" Or ktovt like "%.m3u" Or ktovt like "%.m4a" Or ktovt like "%.wma" Or ktovt like "%.wmv" Or ktovt like "%.rtf" Or ktovt like "%.zip" Or ktovt like "%.ged",
 			CONCAT(" (" , right(ktovt,4) , ")"),
 			"")) USING utf8) AS kotrt,
-	IF(ktovt like "%hydepark%" Or ktovt like "%moreshet%","לא_גמור", sug) AS sug,
+	IF(ktovt like "%hydepark%" Or ktovt like "%moreshet%","not_finished", sug) AS sug,
 	tvnit,
 	IF(ktovt like '?%', NULL, ktovt) AS ktovt,
 	m,
