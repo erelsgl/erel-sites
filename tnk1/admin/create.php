@@ -122,6 +122,7 @@ function create_database_and_user() {
 	sql_query_or_die("CREATE USER IF NOT EXISTS $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass']).";");
 	sql_query_or_die("GRANT ALL PRIVILEGES ON $_POST[db_name].* TO $db_user_quoted WITH GRANT OPTION");
 	sql_query_or_die("GRANT ALL PRIVILEGES ON tnk.* TO $db_user_quoted WITH GRANT OPTION");
+	sql_query_or_die("GRANT SESSION_VARIABLES_ADMIN ON *.* TO $db_user_quoted");
 	sql_query_or_die("GRANT RELOAD ON *.* TO $db_user_quoted");
 
 	sql_close($link); // root logs out
