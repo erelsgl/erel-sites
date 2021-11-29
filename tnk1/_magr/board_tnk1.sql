@@ -67025,3 +67025,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-11-25 05:44:39'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_133.html',
+				NULL,
+				'2021-11-25 16:57:59',
+				'2021-11-25 16:57:59',
+				'הסוד הכמוס של חולשת ישראל',
+				'אלברט שבות',
+				'albertshabot @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-25 16:57:59'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-11-25 16:57:59'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/a_point_in_time_joseph_is_37_years_old.pdf',
+				NULL,
+				'2021-11-28 19:00:30',
+				'2021-11-28 19:00:30',
+				'A point in time Joseph is 37 years old',
+				'רמי ניר',
+				''
+			)
+		;
+
