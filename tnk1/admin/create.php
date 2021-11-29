@@ -38,8 +38,8 @@ function show_create_page() {
 	set_coalesce($GLOBALS['root_password'], coalesce($GLOBALS['root_password'],''));
 	set_coalesce($GLOBALS['db_host'], coalesce($GLOBALS['db_host'],'localhost'));
 	set_coalesce($GLOBALS['db_name'], coalesce($GLOBALS['db_name'],'tnk1'));
-	set_coalesce($GLOBALS['db_user'], coalesce($GLOBALS['db_user'],''));
-	set_coalesce($GLOBALS['db_pass'], coalesce($GLOBALS['db_pass'],''));
+	set_coalesce($GLOBALS['db_user'], coalesce($GLOBALS['db_user'],'tnk1'));
+	set_coalesce($GLOBALS['db_pass'], coalesce($GLOBALS['db_pass'],'tnk1'));
 	set_coalesce($GLOBALS['is_local'], coalesce($GLOBALS['is_local'],'false'));
 	
 	print "
@@ -113,17 +113,16 @@ function create_database_and_user() {
 		sql_query_or_die("
 			CREATE DATABASE $_POST[db_name] 
 			CHARACTER SET utf8");
-		sql_query_or_die("SET storage_engine=MYISAM");
+		sql_query_or_die("SET default_storage_engine=MYISAM");
 		$GLOBALS['db_created'] = true;
 	}
 
 	$db_user_quoted = quote_smart($_POST['db_user'])."@".quote_smart($_POST['db_host']);
-	sql_query_or_die("GRANT ALL PRIVILEGES ON $_POST[db_name].* 
-		TO $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass'])." WITH GRANT OPTION");
-	sql_query_or_die("GRANT RELOAD ON *.* 
-		TO $db_user_quoted");
-	sql_query_or_die("GRANT ALL PRIVILEGES ON tnk.*
-		TO $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass'])." WITH GRANT OPTION");
+
+	sql_query_or_die("CREATE USER IF NOT EXISTS $db_user_quoted IDENTIFIED BY ".quote_all($_POST['db_pass']).";");
+	sql_query_or_die("GRANT ALL PRIVILEGES ON $_POST[db_name].* TO $db_user_quoted WITH GRANT OPTION");
+	sql_query_or_die("GRANT ALL PRIVILEGES ON tnk.* TO $db_user_quoted WITH GRANT OPTION");
+	sql_query_or_die("GRANT RELOAD ON *.* TO $db_user_quoted");
 
 	sql_close($link); // root logs out
 }
