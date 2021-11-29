@@ -94,7 +94,7 @@ DROP TABLE IF EXISTS QLT_prtim_wikia;
 CREATE TABLE QLT_prtim_wikia(
 	qod varchar(160) NOT NULL DEFAULT '',
 	kotrt varchar(160) NOT NULL DEFAULT '',
-	tokn text NOT NULL DEFAULT '',      /* used only in collections */
+	tokn text NOT NULL,      /* used only in collections */
 	sug varchar(15) NOT NULL DEFAULT '',
 	tvnit varchar(15) NOT NULL DEFAULT '',
 	ktovt varchar(300) NOT NULL DEFAULT '',
