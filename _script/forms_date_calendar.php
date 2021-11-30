@@ -2,7 +2,7 @@
 /**
  * @file forms_date_calendar.php
  * Create a date component that uses a fancy calendar.
- * @author Erel Segal http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-06
  *
  * @see forms.php

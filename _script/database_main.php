@@ -6,7 +6,7 @@
  * This is the main file, that can be included from other applications.
  * @see database.php, that can be used as a stand-alone application.
  *
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-06-23
  */
 

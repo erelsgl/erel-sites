@@ -3,7 +3,7 @@
 /**
  * @file html_torausfm.php - קידוד חלונות
  * HTML header and footer for the tora.us.fm sites
- * @author Erel Segal
+ * @author Erel Segal-Halevi
  * @date 2006-12-09
  */
 

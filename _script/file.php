@@ -3,7 +3,7 @@
 /**
  * @file file.php
  * Utilities for handling files.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006
  */
 

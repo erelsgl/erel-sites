@@ -2,7 +2,7 @@
 /**
  * @file forms.php
  * functions for automating the generation of HTML forms.
- * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
+ * @author Erel Segal-Halevi
  * @date 2006-06
  *
  * @note 1 To use most of the routines here, you must define a function internal_name; see

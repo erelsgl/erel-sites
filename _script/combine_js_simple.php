@@ -12,7 +12,7 @@
  * and other optional parameters:
  * 		out=path from root to output file (default is to print to standard output, with text/javascript header)
  *
- * @author Erel Segal, Rent a Brain, http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2007-03-05
  * 
  */

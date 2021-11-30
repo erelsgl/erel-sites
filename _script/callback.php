@@ -2,7 +2,7 @@
 /**
  * @file callback.php
  * Utilities for generating links that go back to the current script, with different parameters.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-09
  */
 

@@ -1,7 +1,7 @@
 <?php
 
 /*
-	÷éãåã çìåðåú!
+	ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!
 */
 
 require_once('callback.php');
@@ -80,7 +80,7 @@ function add_page() {
 	$addFile = '';
 	
 	$replaceFile = isset($_POST['hxlf_qovc']) && $_POST['hxlf_qovc'];
-	if ($replaceFile && ($current_role!=='editor' && $author!=='øîé ðéø')) {
+	if ($replaceFile && ($current_role!=='editor' && $author!=='ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½')) {
 		user_error("Sorry, as a $current_role you are not allowed to replace files!");
 		$replaceFile=false;
 	}
@@ -94,13 +94,6 @@ function add_page() {
 
 		if (preg_match("/print.php?.*ktovt=([^&]*)/",$addHyperlink,$matches))
 			$addHyperlink="http://tora.us.fm/$matches[1]";
-
-		# mirror the URL, if needed
-		list ($directory, $file_name, $source) = getMirroredFileProperties($addHyperlink);
-		if ($directory !== "klli") {
-			mirrorUrl($addHyperlink, $directory . "files", $file_name, $title);
-			$addHyperlink = "http://tora.us.fm/axrimpl/$directory/$file_name.html";
-		}
 	}
 	else {
 		$addHyperlink = '';
@@ -321,7 +314,7 @@ function add_to_ancestor() {
 			$new_output_line .= ($addLine? ". ": "</a> ");
 			$new_output_line .= $input_buttons;
 
-			if (!(preg_match("|[à-ú][à-ú]|", $email) || ($site === 'fuelcell') || isCywr())) {
+			if (!(preg_match("|[ï¿½-ï¿½][ï¿½-ï¿½]|", $email) || ($site === 'fuelcell') || isCywr())) {
 				$new_output_line .= "&nbsp;&nbsp;<span class='date'>[" .
 					static_text('written at') .
 					"$date_for_html]</span>";
@@ -428,7 +421,7 @@ function rewrite_page() {
 		substr($body, $indices[2]);
 
 	$body = fix_html($body);
-	$bodyIsDeleted = (preg_match("/ìîçé÷ä/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
+	$bodyIsDeleted = (preg_match("/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
 	if ($bodyIsDeleted) {
 		$to_by_language .= " " . static_text("to delete");
 		$gerund_by_language .= " " . static_text("to delete");
@@ -786,49 +779,6 @@ function block($message) {
 
 	//sleep(600);
 	die;
-}
-
-/**
- * @return ($directory, $file_name, $source)
- * The input $url will be mirrored into $directory/$file_name.html
- */
-function getMirroredFileProperties($url) {
-    $url = preg_replace("{^\s+}","", $url);
-    $url = preg_replace("{\s+$}","", $url);
-
-    if (preg_match("!.*hydepark.*topic_id=(\d+).*whichpage=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[1]_$matches[2]";
-        $source = "äééã ôàø÷";
-    }
-    elseif (preg_match("!.*hydepark.*whichpage=(\d+).*topic_id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[2]_$matches[1]";
-        $source = "äééã ôàø÷";
-    }
-    elseif (preg_match("!.*hydepark.*topic_id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[1]_1";
-        $source = "äééã ôàø÷";
-    }
-    elseif (preg_match("!.*moreshet.*shut.*id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "moreshet";
-        $file_name = "$matches[1]";
-        $source = "ùåú îåøùú";
-    }
-    elseif (preg_match("!https?://(.+)!",$url,$matches)) {
-        $directory_for_link = "klli";
-        $file_name = preg_replace("{[^a-zA-Z0-9.]}",".",$matches[1]);
-        $file_name = str_replace("www.","",$file_name);
-        $file_name = preg_replace("{.html?$}","",$file_name);
-        $file_name = preg_replace("{.doc?$}","",$file_name);
-        $file_name_parts = preg_split("/\./",$file_name);
-        $source = $file_name_parts[0];
-    }
-    else {
-        die ("unknown url format '$url'");
-    }
-    return array($directory_for_link, $file_name, $source);
 }
 
 

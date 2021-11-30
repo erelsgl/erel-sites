@@ -352,24 +352,6 @@ function linksToOtherVersions() {
 	server_version="c";
 	if (/http:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
 		document.write("</div>\n");
-
-		/*
-		google.friendconnect.container.renderOpenSocialGadget(
-		{ id: 'formerversions',
-		url: 'http://tora.us.fm/quest/gfc/serve.xml?'+server_version+'&mslul='+encodeURIComponent('_script/versionlist.php?versionlist=short&lang='+lang+'&followup='+path_from_root_to_document),
-		site: '11268733983612202568'},
-		gfc_skin);
-		*/
-
-		/*
-		theText += (
-			'<iframe width="100%" height="42" src="' +
-			path_from_document_to_root +
-			'_script/versionlist.php?versionlist=short&lang='+
-			lang +
-			'&followup='+path_from_root_to_document+
-			'"></iframe>');
-		*/
 	} else if (!/compact|csv_ezor[.]p/.test(document.URL)) {
 		if (currentVersionIsFormal()) {
 			document.write(lang=='en'? 'This is the <b>formal version</b> of the document, last updated at ': 'זוהי <b>הגרסה הרשמית</b> של הדף, שעודכנה לאחרונה ב-');
@@ -386,7 +368,7 @@ function linksToOtherVersions() {
 
 
 function uriOfOurSearchResults(query) {
-	return "http://tora.us.fm/tnk1/find.php?q=" + 
+	return "/tnk/find.php?q=" + 
 		query.replace(/ /g,"+");
 }
 

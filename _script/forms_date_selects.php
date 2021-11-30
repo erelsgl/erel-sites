@@ -2,7 +2,7 @@
 /**
  * @file forms_date_selects.php
  * Create a date component that uses 3-4 select fields.
- * @author Erel Segal http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-06
  *
  * @see forms.php

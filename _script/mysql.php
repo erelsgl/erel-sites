@@ -7,7 +7,7 @@
  * @see sql.php
  *
  * @date 2006-06-24 
- * @author Rent a Brain - http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  */
 
 function sql_connect($server, $database, $password, $newlink=false, $flags=0) { return @mysql_connect($server, $database, $password, $newlink, $flags|128); } // 128 is needed to allow "load data local infile".
