@@ -12,7 +12,7 @@ print "
 
 ## Requirements
 
-* MySQL 5+
+* MySQL 8
 * PHP 5-6 (but not 7)
 * PHP-MySQL extension
 ";
