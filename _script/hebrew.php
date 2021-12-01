@@ -156,7 +156,7 @@ function utf8_to_windows1255($utf8) {
 		return "[".utf8_to_windows1255($matches[1])."]";
 	}*/
 
-	//@see http://stackoverflow.com/a/6723593/827927
+	//@see https://stackoverflow.com/a/6723593/827927
 	$isUTF8 = mb_check_encoding($utf8, 'utf-8'); //preg_match('//u', $utf8);
 	//$isWindows1255 = mb_check_encoding($utf8, 'windows-1255'); 
 	//$isWindows1255 = ! (false === mb_detect_encoding($utf8, 'windows-1255', true));
@@ -255,8 +255,8 @@ function to_txiliot($string) {
 
 
 /**
- * http://stackoverflow.com/questions/434250/how-to-reverse-a-unicode-string
- * http://stackoverflow.com/a/3749543/827927
+ * https://stackoverflow.com/questions/434250/how-to-reverse-a-unicode-string
+ * https://stackoverflow.com/a/3749543/827927
  */
 function mb_strrev($str) {
 	preg_match_all('/./us', $str, $ar);

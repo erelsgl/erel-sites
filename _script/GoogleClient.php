@@ -16,21 +16,21 @@ class GoogleClient {
 			'strictredirects' => true,
 			'maxredirects' => 5,
 			'useragent' => "PHP GoogleClient class"));
-		$this->client->setHeaders("referer", "http://$_SERVER[SERVER_NAME]$_SERVER[REQUEST_URI]"); // Google requires to set the referrer
+		$this->client->setHeaders("referer", "$_SERVER[REQUEST_SCHEME]://$_SERVER[SERVER_NAME]$_SERVER[REQUEST_URI]"); // Google requires to set the referrer
 
 		$this->max_result_count=$max_result_count;
 	}
 
 	/**
-	 * @link http://code.google.com/intl/iw-IL/apis/ajaxsearch/documentation/#fonje_snippets
-	 * @link http://code.google.com/intl/iw-IL/apis/ajaxsearch/documentation/reference.html#_intro_fonje
+	 * @link https://code.google.com/intl/iw-IL/apis/ajaxsearch/documentation/#fonje_snippets
+	 * @link https://code.google.com/intl/iw-IL/apis/ajaxsearch/documentation/reference.html#_intro_fonje
 	 * @param mixed $queries string or array of strings.
 	 * @note input must be in UTF-8 encoding!
 	 * @return array of arrays
 	 */
 	function search_results($queries, $google_api_key, $language_of_results=NULL /* iw for Hebrew */, $google_cse_id=NULL) {
 		$encoding='utf-8';
-		$url_prefix = "http://ajax.googleapis.com/ajax/services/search/web?v=1.0&oe=$encoding&ie=$encoding&key=$google_api_key&rsz=large";
+		$url_prefix = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&oe=$encoding&ie=$encoding&key=$google_api_key&rsz=large";
 
 		if ($google_cse_id)
 			$url_prefix .= "&cx=$google_cse_id";
@@ -60,7 +60,7 @@ class GoogleClient {
 				if (!isset($results_object["responseData"],$results_object["responseData"]["results"])) {
 					if (isset($results_object["responseDetails"]) && preg_match("/Quota Exceeded/i",$results_object["responseDetails"])) {
 						$url = preg_replace("/key=.*?[&]/i","",$url);
-						$url = preg_replace("/^.*?[?]/i","http://google.com/search?",$url);
+						$url = preg_replace("/^.*?[?]/i","https://google.com/search?",$url);
 						$results[] = array(
 							"url" => $url,
 							"unescapedUrl" => $url,
@@ -103,22 +103,8 @@ class GoogleClient {
 	}		
 
 	function search_results_object($url) {
-
-		// sendRequest
-		// note how referer is set manually
-		/*
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, $url);
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-		$referer = "http://$_SERVER[SERVER_NAME]$_SERVER[REQUEST_URI]";
-		curl_setopt($ch, CURLOPT_REFERER, $referer);
-		$body = curl_exec($ch);
-		curl_close($ch);
-		*/
 		$this->client->setUri($url);
 		$body = $this->client->request('GET')->getBody();
-
-		// now, process the JSON string
 		return json_decode($body, /*$assoc=*/true);
 	}
 }

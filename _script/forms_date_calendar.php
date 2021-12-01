@@ -14,7 +14,7 @@ $GLOBALS['CALENDAR_STYLESHEET'] = "$GLOBALS[CALENDAR_LINKROOT]/calendar-win2k-co
 
 $GLOBALS['PATH_TO_IMAGE_FOR_JS_CALENDAR'] = "$GLOBALS[CALENDAR_LINKROOT]/img.gif";
 
-$GLOBALS['DATE_FORMAT_FOR_JS_CALENDAR'] = "%b %d, %Y"; // for more options, see http://www.tora.us.fm/_script/jscalendar-1.0/doc/html/reference.html#node_sec_5.3.5
+$GLOBALS['DATE_FORMAT_FOR_JS_CALENDAR'] = "%b %d, %Y"; // for more options, see https://www.tora.us.fm/_script/jscalendar-1.0/doc/html/reference.html#node_sec_5.3.5
 
 $GLOBALS['JS_CALENDAR_TYPE'] = "Gregorian";
 

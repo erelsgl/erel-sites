@@ -8,7 +8,7 @@
 $GLOBALS['DEBUG_FIX_LINKS']=false;
 
 /**
- * @return true iff the given link is an absolute path - i.e. doesn't need to add the base path (e.g. http://, mailto:, /a/b/c.html, ...)
+ * @return true iff the given link is an absolute path - i.e. doesn't need to add the base path (e.g. https://, mailto:, /a/b/c.html, ...)
  */
 function link_is_absolute($link) {
 	return (strpos($link,":")!==false) || substr($link,0,1)==='/';
@@ -139,7 +139,7 @@ function fix_link_absolute($attribute_name, $old_link, $base_path) {
 	global $fileroot;
 
 	$old_link = preg_replace("/[?]no_cache=\\d+/", "", $old_link);
-	$old_link = preg_replace("#^(//he.wikisource.org)#", "http:$1", $old_link);
+	$old_link = preg_replace("#^(//he.wikisource.org)#", "https:$1", $old_link);
 
 	$old_link = str_replace("../../../_script/wymeditor/wymeditor/iframe/default/","",$old_link);
 	$old_link = str_replace("../../../_script/wymeditor/wymeditor/iframe/","../",$old_link);
@@ -150,6 +150,10 @@ function fix_link_absolute($attribute_name, $old_link, $base_path) {
 	remove_unneeded_prefix("http://www.tora.us.fm",$old_link);
 	remove_unneeded_prefix("http://localhost",$old_link);
 	remove_unneeded_prefix("http://127.0.0.1",$old_link);
+	remove_unneeded_prefix("https://tora.us.fm",$old_link);
+	remove_unneeded_prefix("https://www.tora.us.fm",$old_link);
+	remove_unneeded_prefix("https://localhost",$old_link);
+	remove_unneeded_prefix("https://127.0.0.1",$old_link);
 
 	//if ($fileroot)
 	//	$old_link = str_replace("/$fileroot/","/",$old_link);
@@ -197,14 +201,14 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 	print "<pre>".htmlspecialchars(fix_links('
 		<a class="psuq" href="../../prqim/t2809.htm#1">abc</a>
 		<a class="psuq" href="mj-02-02.html">abc</a>
-		<a href="http://tora.us.fm/abc.html">abc</a>
+		<a href="https://tora.us.fm/abc.html">abc</a>
 		<a href="mailto:xyz">abc</a>
 		', 'tnk1/ktuv/mjly/mj-01-01.html', 
 		'fix_link'))."</pre>";
 	print "<pre>".htmlspecialchars(fix_links('
 		<a class="psuq" href="../../prqim/t2809.htm#1">abc</a>
 		<a class="psuq" href="mj-02-02.html">abc</a>
-		<a href="http://tora.us.fm/abc.html">abc</a>
+		<a href="https://tora.us.fm/abc.html">abc</a>
 		<a href="mailto:xyz">abc</a>
 		', 'tnk1/ktuv/mjly/mj-01-01.html', 
 		'fix_link_absolute'))."</pre>";

@@ -36,7 +36,7 @@ formTextStyle = ' style="font-size:15pt" ';
 // OUTPUT: the text converted to HTML, to put in a new document
 function text2HTML(theText) {
 	return theText.
-		replace(/(http:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
+		replace(/(https?:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
 		replace(/\cM/g, "").
 		replace(/\n\n/g, "<p>").
 		replace(/\n/g, "<br />").
@@ -396,7 +396,7 @@ function linkToFormalVersion() {
 function linksToOtherVersions() {
 	var theText = ("<div class='formerversions'>");
 
-	if (/http:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
+	if (/https?:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
 		theText += (
 			'<iframe width="100%" height="42" src="' +
 			path_from_document_to_root +
@@ -428,7 +428,7 @@ linksToOtherVersions();
 
 var theText = "";
 theText += ("<div class=txtit>");
-	theText += ("<br />הטקסט התנכי בעמוד, בכתיב המסורה, מבוסס על <a class='qijur_lgrsa' href='http://shamash.org/tanach/tanach/text/transliterated.tanach/'>הטרנסליטרציה של סטיב גרוס</a>");
+	theText += ("<br />הטקסט התנכי בעמוד, בכתיב המסורה, מבוסס על <a class='qijur_lgrsa' href='https://shamash.org/tanach/tanach/text/transliterated.tanach/'>הטרנסליטרציה של סטיב גרוס</a>");
 	theText += (" <br /> דף זה נמצא ברשת בכתובת: <A dir='ltr' href='" + absolute_document_url  + "'>" + absolute_document_url   + "</A>")
 	theText += ("  <br /> עודכן לאחרונה בתאריך: <SPAN dir='ltr'>" + document.lastModified + "</SPAN>")
 	theText += ("  <br />" + site_name + ": <A dir='ltr' href='" + absolute_site_url + "'>" + absolute_site_url + "</A>")
@@ -550,42 +550,6 @@ function hideEdit() {
 
 
 
-/*
-function showEdit(theForm) {
-	theAddForm.qijur.value='http://';
-	if (ContentEditableSupported()) theAddForm.jm_qovc_al_hlqox.value=''; // TODO TEMPVER
-	hide(theAddForm);
-	show(theEditForm);
-	makeDocumentEditable(theForm=='editinplace');
-	hide('editinplace');
-	show(theForm);
-}
-
-
-
-function hideEdit() {
-	hide(theEditForm);
-	makeDocumentEditable(false);
-}
-
-
-function makeDocumentEditable(isEditable) {
-	if (theBnim) {
-		makeEditable (theTosft, isEditable);
-		makeEditable (theBnim, isEditable);
-		// theBnim.style.display = (isEditable? '': 'none');
-	}
-	else {
-		makeEditable (theTokn, isEditable);
-		makeEditable (theTguvot, isEditable);
-	}
-	makeEditable (theTitle, isEditable);
-}
-
-
-
-*/
-
 ////////////////////// catch subsequent clicks //////////////////
 
 // The following code could be used to perform an action after
@@ -671,7 +635,7 @@ function tguva () {
 // end calculate values
 
 document.write(buttonGroup(
-	"markOnly(\'button1\');showAdd(\'addtext\');theAddForm.qijur.value=\'http://\';theAddForm.jm_qovc_al_hlqox.disabled=true",
+	"markOnly(\'button1\');showAdd(\'addtext\');theAddForm.qijur.value=\'https://\';theAddForm.jm_qovc_al_hlqox.disabled=true",
 	kftor1,
 	teur1,
 
@@ -679,11 +643,11 @@ document.write(buttonGroup(
 	"הוסף קישור",
 	'אם מצאתם באינטרנט מאמר או אתר שקשור ל'+document.title+', אתם מוזמנים לשים כאן קישור',
 	
-	"markOnly(\'button3\');showAdd(\'addfile\');theAddForm.jm_qovc_al_hlqox.disabled=false;theAddForm.qijur.value=\'http://\'",
+	"markOnly(\'button3\');showAdd(\'addfile\');theAddForm.jm_qovc_al_hlqox.disabled=false;theAddForm.qijur.value=\'https://\'",
 	"הוסף קובץ",
 	'אם יש לכם קובץ שקשור ל'+document.title+' (ציור, מצגת, שיר...) אתם מוזמנים לשים אותו כאן',
 
-	"markOnly(\'button4\');showEdit(\'editinplace\');theAddForm.qijur.value=\'http://\';theAddForm.jm_qovc_al_hlqox.value=\'\'",
+	"markOnly(\'button4\');showEdit(\'editinplace\');theAddForm.qijur.value=\'https://\';theAddForm.jm_qovc_al_hlqox.value=\'\'",
 	kftor4,
 	teur4
 ) + 
@@ -714,7 +678,7 @@ document.write(
 
 	"<div id='addlink'>\n"+
 		(lang=='en'? "<h3>A hyperlink</h3>\n": "<h3>קישור חיצוני לאתר ברחבי הרשת</h3>\n")+
-		"<p><input type='text' name='qijur' dir='ltr' value='http://' size='45' /></p>\n"+
+		"<p><input type='text' name='qijur' dir='ltr' value='https://' size='45' /></p>\n"+
 	"</div>\n"+
 
 	(theTvnit=='0'?

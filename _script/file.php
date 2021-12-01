@@ -10,12 +10,12 @@
 
 
 //$host = $_SERVER['SERVER_NAME'];
-//$server = "http://$host";
+//$server = "$_SERVER[REQUEST_SCHEME]//$host";
 //$client_ip_address = $_SERVER['REMOTE_ADDR'];
 
  
 /**
- *  from http://www.php.net/manual/en/reserved.variables.php#63831
+ *  from https://www.php.net/manual/en/reserved.variables.php#63831
  */
 if ( ! isset($_SERVER['DOCUMENT_ROOT'] ) )
   $_SERVER['DOCUMENT_ROOT'] = str_replace( '\\', '/', substr(
@@ -23,7 +23,7 @@ if ( ! isset($_SERVER['DOCUMENT_ROOT'] ) )
 
 
 /**
- * from http://www.php.net/manual/en/function.urldecode.php#29272
+ * from https://www.php.net/manual/en/function.urldecode.php#29272
  * For compatibility of new and old brousers:
  * %xx -> char
  * %u0xxxx -> char
@@ -36,8 +36,8 @@ function unicode_decode($txt) {
 
 
 /**
- * from http://www.php.net/manual/en/function.urldecode.php#62707
- * The function below can be used to convert a query parameter resulting from applying the JavaScript escape function to a Unicode string back to Unicode.  The function was modified from a previously published function to handle escaped ASCII values in the range 128-255 which are converted to standard (and not Unicode) escapes by the escape function.  The option parameter allows an altenative encoding to UTF-8 to be apploed.  (More and related info can be found at http://www.kanolife.com/escape/). 
+ * from https://www.php.net/manual/en/function.urldecode.php#62707
+ * The function below can be used to convert a query parameter resulting from applying the JavaScript escape function to a Unicode string back to Unicode.  The function was modified from a previously published function to handle escaped ASCII values in the range 128-255 which are converted to standard (and not Unicode) escapes by the escape function.  The option parameter allows an altenative encoding to UTF-8 to be apploed.  (More and related info can be found at https://www.kanolife.com/escape/). 
  */
 function code2utf($num){
   if($num<128)
@@ -98,10 +98,10 @@ function unescape($strIn, $iconv_to = 'UTF-8') {
 
 
 /**
- * @return true iff the given link (probably) leads to another site (starts with http://...)
+ * @return true iff the given link (probably) leads to another site.
  */
 function link_is_external($link) {
-	return strstr($link,"http://");
+	return strstr($link,"http://") or strstr($link,"https://");
 }
 
 /**
@@ -205,7 +205,7 @@ function html_contents($path) {
 
 
 
-// from http://www.php.net/manual/en/function.glob.php#68939
+// from https://www.php.net/manual/en/function.glob.php#68939
 function sort_by_mtime($file1,$file2) {
 	$time1 = filemtime($file1);
 	$time2 = filemtime($file2);

@@ -1,4 +1,4 @@
-// cookies.js - cookies functions, from: http://www.webreference.com/js/column8/functions.html
+// cookies.js - cookies functions, from: https://www.webreference.com/js/column8/functions.html
 
 /* arguments:
    name - name of the cookie
