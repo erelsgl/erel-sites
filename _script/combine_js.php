@@ -4,7 +4,7 @@
  * combine several Javascript source files to a single file, for quicker loading.
  *
  * @example 1 
-	http://server.name/combine_js.php?PARAMS
+	https://server.name/combine_js.php?PARAMS
  * 
  *	Where PARAMS should contain one parameter:
  *		files=[list_of_paths_to_js_files]: list of paths from the file-root to the seperate Javascript files, without the 'js' extension.
@@ -90,6 +90,6 @@ if ($outfile) {
 	echo $js;
 }
 
-//http://localhost/_script/combine_js.php?files=_script/jquery-1.3.1.min+_script/jquery.hoverIntent.min+_script/vars0+_script/cookies+_script/rtelang/en+_script/rte+_script/elements+_script/form_validation+_script/fields+_script/arguments+_script/sites+_script/dates/dates+_script/templates+_script/magrim+http://www.google.com/friendconnect/script/friendconnect.js+_script/search+_script/etc+_script/jquery.taconite&out=_script/vars&minify=1
+//https://localhost/_script/combine_js.php?files=_script/jquery-1.3.1.min+_script/jquery.hoverIntent.min+_script/vars0+_script/cookies+_script/rtelang/en+_script/rte+_script/elements+_script/form_validation+_script/fields+_script/arguments+_script/sites+_script/dates/dates+_script/templates+_script/magrim+https://www.google.com/friendconnect/script/friendconnect.js+_script/search+_script/etc+_script/jquery.taconite&out=_script/vars&minify=1
 
 ?>
