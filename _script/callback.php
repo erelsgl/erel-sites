@@ -31,7 +31,7 @@ class RedirectSystem {
 	var $previous_redirect=NULL; 
 
 	function base_link () {
-		return preg_replace("|/zp/.*$|","","http://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]");
+		return preg_replace("|/zp/.*$|","","$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]");
 	}
 
 	function callback_link($params, $convert_special_chars=TRUE, $to_http = true) {
