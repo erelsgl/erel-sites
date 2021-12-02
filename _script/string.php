@@ -3,7 +3,7 @@
 /**
  * @file string.php
  * Utilities for handling strings.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-11
  */
 

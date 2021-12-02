@@ -1,7 +1,7 @@
 // elements.js - subroutines related to HTML elements and form fields
 
 
-// BEGIN copied from http://www.crockford.com/javascript/remedial.html
+// BEGIN copied from https://www.crockford.com/javascript/remedial.html
 
 function isAlien(a) {
    return isObject(a) && typeof a.constructor != 'function';
@@ -52,7 +52,7 @@ function isUndefined(a) {
     return typeof a == 'undefined';
 } 
 
-// END copied from http://www.crockford.com/javascript/remedial.html
+// END copied from https://www.crockford.com/javascript/remedial.html
 
 
 function getFirstElementNamed(theName) {

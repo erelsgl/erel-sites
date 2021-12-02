@@ -4,7 +4,7 @@
  * @file language.php
  * routines for translating constant text labels to the user's language, using a database table
  * 
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-11-01
  */
 

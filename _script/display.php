@@ -270,7 +270,7 @@ function full_topic($topic_data) {
 
 	$topic_id = $topic_data['ktovt_bn'];
 
-	if (strpos($topic_id,"http://")!==false)
+	if (strpos($topic_id,"http://")!==false or strpos($topic_id,"https://")!==false)
 		return "";
 
 	$children_html = '';
@@ -311,12 +311,7 @@ function full_topic($topic_data) {
 }
 
 function img_by_topic ($topic_data) {
-	if (preg_match("/nachat/", $topic_data['ktovt_bn'])) {
-		 return "<img src=http://ipaper.co.il/nachat/files/PageFiles/WedFeb220022232006_Semel_nachat_high_quality.jpg width=23pt height=23pt>";
-	}
-	else {
-		return "";
-	}
+	return "";
 }
 
 
@@ -340,7 +335,7 @@ function short_topic($topic_data) {
 	global $show_start_of_file, $select_from_clause, $show_topics_newer_than, $target;
 	$topic_id = $topic_data['ktovt_bn'];
 
-	if (strpos($topic_id,"http://")!==false || strpos($topic_id,"axrimpl")!==false)
+	if (strpos($topic_id,"http://")!==false || strpos($topic_id,"https://")!==false || strpos($topic_id,"axrimpl")!==false)
 		return "";
 
 	if (preg_match("/אוסף/",$topic_data['sug']) or preg_match("/^ספר/",$topic_data['sug']) or preg_match("/דמות/",$topic_data['sug'])) {   // don't print collections as short topics

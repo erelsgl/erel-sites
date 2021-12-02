@@ -2,7 +2,7 @@
 /**
  * @file forms.php
  * functions for automating the generation of HTML forms.
- * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
+ * @author Erel Segal-Halevi
  * @date 2006-06
  *
  * @note 1 To use most of the routines here, you must define a function internal_name; see
@@ -363,7 +363,6 @@ function html_for_select_immediate($name, $default_value, $values) {
  * @param $range (string) - Matlab style range, e.g.:
  *              "5:10" (=5,6,7,8,9,10) or
  *              "5:2:10" (=5,7,9).
- * @note the "step" parameter is supported only for PHP>=5 - see http://il.php.net/range.
  */
 function html_for_numeric_range($name, $default_value, $range) {
 	$range_parts = explode(":", $range);
@@ -401,7 +400,7 @@ function html_for_numeric_range($name, $default_value, $range) {
 				$selected = ("$value_for_submit"==="$default_value"? " selected='selected'": "");
 				//print "<p>$value_for_submit-$default_value-$selected</p>";
 				//print "$default_value"==="rich_text"? true: false;
-				$disabled = ("$value_for_submit"==='SEPARATOR'? " disabled='disabled'": "");  // separator - see http://www.webdeveloper.com/forum/showthread.php?t=169211
+				$disabled = ("$value_for_submit"==='SEPARATOR'? " disabled='disabled'": "");  // separator - see https://www.webdeveloper.com/forum/showthread.php?t=169211
 
 				if ($bold && $bold == $key)
 				  $html .= '<optgroup label="'.static_html('other').'">';

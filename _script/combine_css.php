@@ -4,7 +4,7 @@
  * combine several CSS source files to a single minified file for quicker loading.
  *  
  * @example 1 
- *	http://server.name/combine_css.php?PARAMS
+ *	https://server.name/combine_css.php?PARAMS
  *	 
  * GET params:
  *		files = [list_of_paths_to_css_files]: list of paths from the file-root to the seperate Javascript files, without the 'css' extension.

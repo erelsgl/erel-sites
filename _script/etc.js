@@ -4,8 +4,8 @@
 path_from_document_to_scripts = path_from_document_to_site + '../_script/';
 is_local = 	/localhost/.test(location.href);
 
-var urlToLike = "http://tora.us.fm/"+path_from_root_to_document;
-var facebookLikeButton = "<iframe src='http://www.facebook.com/plugins/like.php?href=" +
+var urlToLike = "https://tora.us.fm/"+path_from_root_to_document;
+var facebookLikeButton = "<iframe src='https://www.facebook.com/plugins/like.php?href=" +
 		urlToLike+"' scrolling='no' frameborder='0' style='border:none; width:450px; height:80px'></iframe>\n";
 
 select_other_versions = 
@@ -89,7 +89,7 @@ function setLanguage(theNewLanguage) {
 // OUTPUT: the text converted to HTML, to put in a new document
 function text2HTML(theText) {
 	theText = theText.
-		replace(/(http:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
+		replace(/(https?:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
 		replace(/\cM/g, "").
 		replace(/\n\n/g, "</p><p>").
 		replace(/\n/g, "<br />").
@@ -224,7 +224,7 @@ function kotrt() {
 			google_ad_slot = "5267744417";
 			google_ad_width = 728;
 			google_ad_height = 90;
-			document.write('<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
+			document.write('<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
 		} 
 	}
 
@@ -281,7 +281,6 @@ function kotrt() {
 			authorForTitle = authorLink("רפאל בר אשר חגבי - חגי רפי", "Hagay_r","tahal.com");
 		else if ("אביתר"==theAuthor || "אביתר כהן"==theAuthor )
 			authorForTitle = authorLink("<a href='/tnk1/find.php?q=אביתר כהן'>אביתר כהן</a>", "evycohen","walla.com");
-			//authorForTitle = authorLink("<a href='http://www.facebook.com/evycohen'>אביתר כהן</a>", "evycohen","walla.com");
 		else if (/אליהו מאלי/.test(theAuthor))
 			authorForTitle = ("הרב אליהו מאלי <p style='font-weight:bold; color:#080'>מותר להעתיק שלא למטרות מסחריות</p>");
 		else if (/יוסף פריאל/.test(theAuthor))
@@ -350,26 +349,8 @@ function linksToOtherVersions() {
 	document.write("<div id='formerversions' class='formerversions'>\n");
 
 	server_version="c";
-	if (/http:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
+	if (/https?:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
 		document.write("</div>\n");
-
-		/*
-		google.friendconnect.container.renderOpenSocialGadget(
-		{ id: 'formerversions',
-		url: 'http://tora.us.fm/quest/gfc/serve.xml?'+server_version+'&mslul='+encodeURIComponent('_script/versionlist.php?versionlist=short&lang='+lang+'&followup='+path_from_root_to_document),
-		site: '11268733983612202568'},
-		gfc_skin);
-		*/
-
-		/*
-		theText += (
-			'<iframe width="100%" height="42" src="' +
-			path_from_document_to_root +
-			'_script/versionlist.php?versionlist=short&lang='+
-			lang +
-			'&followup='+path_from_root_to_document+
-			'"></iframe>');
-		*/
 	} else if (!/compact|csv_ezor[.]p/.test(document.URL)) {
 		if (currentVersionIsFormal()) {
 			document.write(lang=='en'? 'This is the <b>formal version</b> of the document, last updated at ': 'זוהי <b>הגרסה הרשמית</b> של הדף, שעודכנה לאחרונה ב-');
@@ -386,7 +367,7 @@ function linksToOtherVersions() {
 
 
 function uriOfOurSearchResults(query) {
-	return "http://tora.us.fm/tnk1/find.php?q=" + 
+	return "/tnk/find.php?q=" + 
 		query.replace(/ /g,"+");
 }
 
@@ -399,7 +380,7 @@ function linkToOurSearchResults(query) {
 }
 
 function uriOfGoogleSearchResults(query) {
-	return "http://www.google.co.il/search?hl=iw&q=" + 
+	return "https://www.google.co.il/search?hl=iw&q=" + 
 		query.replace(/ /g,"+") + 
 		"+site:www.tora.us.fm" + 
 		"&meta=&ie=windows-1255&oe=windows-1255&num=100";
@@ -451,18 +432,12 @@ function txtit() {
 		}
 
 		if (site=='tnk1' || site=='tryg') {
-			theText += " <br />" + "<a href='http://he.wikisource.org/wiki/" + 
+			theText += " <br />" + "<a href='https://he.wikisource.org/wiki/" + 
 				path_from_root_to_document.replace(/.html?/,"") +
 				"'>" +
 				"ויקי טקסט" +
 			"</a>";
 		}
-		/*	
-		theText += " <br />" + (lang=='en'? "Document validity check: ": "בדיקת תקינות המסמך: ") + 
-		"<a href='http://validator.w3.org/check/referrer?outline=1'>" + "html" + "</a> " + 
-		"<a href='http://validator.w3.org/checklink/checklink?uri=" + encodeURI(document.URL) + "'>" + "link" + "</a> " + 
-		"<a href='http://jigsaw.w3.org/css-validator/validator?uri=" + encodeURI(document.URL) + "'>" + "css" + "</a>"; 
-		*/
 	}
 	
 	if (/findpsuq[.]/.test(location.href)) {
@@ -885,7 +860,7 @@ function writeCkEditor(id, width, height, buttons) {
 	document.write("<textarea id='"+id+"' contenteditable='true' style='width:"+width+"px; height:"+height+"px'></textarea>");
 }
 
-/* from http://stackoverflow.com/a/9976309/827927 */
+/* from https://stackoverflow.com/a/9976309/827927 */
 function resizeIframe(obj) {
     obj.style.height = (obj.contentWindow.document.body.scrollHeight+40) + 'px';  // add 40 because of Google Sign-In Button
 }
@@ -894,7 +869,7 @@ function tguva() {
 	getContentElements();
 
 	if (/ברוריה/.test(theAuthor)) {
-		document.write('<div style="font-style:italic">ניתן ליצור קשר עם הכותבת דרך <a href="http://www.mycreation.co.il" target="_blank">האתר שלה</a>.</div>');
+		document.write('<div style="font-style:italic">ניתן ליצור קשר עם הכותבת דרך <a href="https://www.mycreation.co.il" target="_blank">האתר שלה</a>.</div>');
 	} else {
 		if (!theTvnit.length)
 			document.write("<iframe class='tguvot' width='100%' src='/tnk1/tguva.php?followup="+path_from_root_to_document+"' onload='javascript:resizeIframe(this);'></iframe>");
@@ -967,7 +942,7 @@ function tguva() {
 			"</div>\n"+
 
 			"<div id='addlink'>\n"+
-				"<p><b>הקישור:</b> <input type='text' name='qijur' dir='ltr' value='http://' size='90' style='font-size:10px'/></p>\n"+
+				"<p><b>הקישור:</b> <input type='text' name='qijur' dir='ltr' value='https://' size='90' style='font-size:10px'/></p>\n"+
 			"</div>\n"+
 
 			(theTvnit=='0'?
@@ -990,7 +965,6 @@ function tguva() {
 			(lang=='en'? '<p>edit the text below, fill in your details, and push ': '<p>ערכו את המסמך למטה, מלאו את פרטיכם ולחצו על ') + 
 			'"' + saveLabel + '"' + 
 			"");
-			// document.writeln("<p dir='ltr'><a target='_blank' href='http://www.kevinroth.com/rte/'>Rich Text Editor by Kevin Roth</a>, <a target='_blank' href='http://richtext.cabspace.com/'>Fork by Timothy S. Bell</a></p>");
 			//SYNTAX: writeCkEditor(rte,    width,     height,   buttons)
 			var width = theTokn? theTokn.clientWidth: 0.9*document.body.clientWidth;
 			var height1 = theTokn? 360: theTosft? Math.max(theTosft.clientHeight,40): 0;
@@ -1041,7 +1015,7 @@ function tguva() {
 function ktov_whatsnew() {
 
 	theText = '';
-	if (/http:/.test(document.URL)) {
+	if (/https?:/.test(document.URL)) {
 		if (site=='tnk1') {
 			theText = 
 				"<div style='text-align:center'><div style='margin:0 auto 0 auto'> " + 

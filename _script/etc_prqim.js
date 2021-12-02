@@ -36,7 +36,7 @@ formTextStyle = ' style="font-size:15pt" ';
 // OUTPUT: the text converted to HTML, to put in a new document
 function text2HTML(theText) {
 	return theText.
-		replace(/(http:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
+		replace(/(https?:\/\/[^ \r\n\t()<>{}]+)/gi, "<a href='$1'>$1</a>").
 		replace(/\cM/g, "").
 		replace(/\n\n/g, "<p>").
 		replace(/\n/g, "<br />").
@@ -395,7 +395,7 @@ function linkToFormalVersion() {
 function linksToOtherVersions() {
 	var theText = ("<div class='formerversions'>");
 
-	if (/http:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
+	if (/https?:/.test(document.URL) && currentVersionIsFormal() && !/compact|csv_ezor[.]p/.test(document.URL)) {
 		theText += (
 			'<iframe width="100%" height="42" src="' +
 			path_from_document_to_root +
@@ -427,7 +427,7 @@ linksToOtherVersions();
 
 var theText = "";
 theText += ("<div class=txtit>");
-	theText += ("<br />הטקסט התנכי בעמוד, בכתיב המסורה, מבוסס על <a class='qijur_lgrsa' href='http://shamash.org/tanach/tanach/text/transliterated.tanach/'>הטרנסליטרציה של סטיב גרוס</a>");
+	theText += ("<br />הטקסט התנכי בעמוד, בכתיב המסורה, מבוסס על <a class='qijur_lgrsa' href='https://shamash.org/tanach/tanach/text/transliterated.tanach/'>הטרנסליטרציה של סטיב גרוס</a>");
 	theText += (" <br /> דף זה נמצא ברשת בכתובת: <A dir='ltr' href='" + absolute_document_url  + "'>" + absolute_document_url   + "</A>")
 	theText += ("  <br /> עודכן לאחרונה בתאריך: <SPAN dir='ltr'>" + document.lastModified + "</SPAN>")
 	theText += ("  <br />" + site_name + ": <A dir='ltr' href='" + absolute_site_url + "'>" + absolute_site_url + "</A>")
@@ -549,41 +549,6 @@ function hideEdit() {
 
 
 
-/*
-function showEdit(theForm) {
-	theAddForm.qijur.value='http://';
-	if (ContentEditableSupported()) theAddForm.jm_qovc_al_hlqox.value=''; // TODO TEMPVER
-	hide(theAddForm);
-	show(theEditForm);
-	makeDocumentEditable(theForm=='editinplace');
-	hide('editinplace');
-	show(theForm);
-}
-
-
-
-function hideEdit() {
-	hide(theEditForm);
-	makeDocumentEditable(false);
-}
-
-
-function makeDocumentEditable(isEditable) {
-	if (theBnim) {
-		makeEditable (theTosft, isEditable);
-		makeEditable (theBnim, isEditable);
-		// theBnim.style.display = (isEditable? '': 'none');
-	}
-	else {
-		makeEditable (theTokn, isEditable);
-		makeEditable (theTguvot, isEditable);
-	}
-	makeEditable (theTitle, isEditable);
-}
-
-
-
-*/
 
 ////////////////////// catch subsequent clicks //////////////////
 
@@ -645,103 +610,4 @@ function onSubmitAdd(theForm) {
 
 function tguva () {
   return;
-	if (!theBnim) theBnim = document.getElementById('ulbnim');
-	theTokn = document.getElementById('tokn');
-	theTguvot = document.getElementById('ultguvot');
-
-	kftor1 = "הוסף מאמר חדש";
-	teur1 = "אם כתבתם מאמר שקשור ל"+document.title+", אתם מוזמנים לשים אותו כאן; אם יש לכם שאלה שקשורה ל"+document.title+", אתם מוזמנים לשאול אותה כאן";
-
-	if ((theBnim||theTokn||theTguvot) && ContentEditableSupported()) {
-		kftor4 = 'ערוך מסמך';
-		teur4 = '';
-		teur4a = '<h3>עריכת המסמך</h3>'+
-			'<p'+formTextStyle+'>ערכו את הקישורים למעלה, מלאו את פרטיכם ולחצו על "שמור שינויים"';
-		kftor4a = '<input type="submit" name="rewrite" value="שמור שינויים" onclick="if (this.form.name.value && this.form.title.value && (!passwordIsRequired || this.form.password.value))  this.form.content.value=standardizeHTML()">';
-	}
-	else {
-		kftor4 = ''; //'הצג מהדורות קודמות';
-		teur4 = '';
-		teur4a = '<h3>הצגת מהדורות קודמות</h3>';
-		kftor4a = '';
-	}
-
-
-// end calculate values
-
-document.write(buttonGroup(
-	"markOnly(\'button1\');showAdd(\'addtext\');theAddForm.qijur.value=\'http://\';theAddForm.jm_qovc_al_hlqox.disabled=true",
-	kftor1,
-	teur1,
-
-	"markOnly(\'button2\');showAdd(\'addlink\');theAddForm.jm_qovc_al_hlqox.disabled=true",
-	"הוסף קישור",
-	'אם מצאתם באינטרנט מאמר או אתר שקשור ל'+document.title+', אתם מוזמנים לשים כאן קישור',
-	
-	"markOnly(\'button3\');showAdd(\'addfile\');theAddForm.jm_qovc_al_hlqox.disabled=false;theAddForm.qijur.value=\'http://\'",
-	"הוסף קובץ",
-	'אם יש לכם קובץ שקשור ל'+document.title+' (ציור, מצגת, שיר...) אתם מוזמנים לשים אותו כאן',
-
-	"markOnly(\'button4\');showEdit(\'editinplace\');theAddForm.qijur.value=\'http://\';theAddForm.jm_qovc_al_hlqox.value=\'\'",
-	kftor4,
-	teur4
-) + 
-
-formHeader('addform')+idFields(path_from_root_to_document,usernameHint,passwordHint,emailHint)+
-	origsubjectInput+
-	orignameInput+
-	origemailInput+
-	'<p'+formTextStyle+'>'+
-	bodyclassInput + 
-	subjectInput);
-
-document.write(
-	"<div id='addtext'>\n" + 
-		(lang=='en'? '': '<p><B>תנאי שימוש</B>: הטופס מיועד לתגובות ענייניות בלבד. ביטויי לעג וזלזול יימחקו ללא אזהרה. לחיצה על כפתור "שליחה" מהווה הסכמה לתנאי זה.') + 
-		(lang=='en'? '<h3>Content (text and hyperlinks)</h3>': '<h3>תוכן (טקסט וקישורים):</h3>') + 
-		"<p><textarea name='body' cols='50' rows='10'></textarea></p>\n" + 
-	"</div>\n");
-
-
-document.write(
-	"<div id='addfile'>\n"+
-		(lang=='en'? "<h3>A file from your computer</h3>": "<h3>קובץ מהמחשב שלכם</h3>")+
-		"<p><input type='file' name='jm_qovc_al_hlqox' size='40' onmouseout='if(jm_qovc_al_hlqox.value) theAddForm.title.value=fileparse(jm_qovc_al_hlqox.value)[2];'>"+
-		"<p><input type='checkbox' name='hxlf_qovc'>" + 
-		(lang=='en'? 'replace file if it exists': 'החלף קובץ קיים בשם זה')+
-	"</div>\n"+
-
-	"<div id='addlink'>\n"+
-		(lang=='en'? "<h3>A hyperlink</h3>\n": "<h3>קישור חיצוני לאתר ברחבי הרשת</h3>\n")+
-		"<p><input type='text' name='qijur' dir='ltr' value='http://' size='45' /></p>\n"+
-	"</div>\n"+
-
-	(theTvnit=='0'?
-		"<input name='add' type='submit' value='"+submitLabel+"'  onclick=''>":
-		"<input name='add' type='submit' value='"+submitLabel+"' onclick='onSubmitAdd(this.form)'>") +
-	(lang=='en'? "Please be patient, your reply will be posted in a few minutes": 
-	"התגובה תופיע באתר תוך מספר דקות. אנא התאזרו בסבלנות! אם התגובה לא נשלחת - אנא כתבו דואל למנהל האתר")+
-
-"</form>\n");
-
-
-document.write(
-formHeader('editform')+idFields(path_from_root_to_document,usernameHint,passwordHint,emailHint)+
-	titleInput+
-	'<textarea style="display:none" name="content"></textarea>'+
- 	'<div id="editinplace" style="display:none">'+
-		teur4a +
-		kftor4a+
-	'</div>'+
-	'<input type="submit" name="versionlist" value="הצג מהדורות קודמות">'+
-'</form>');
-
-theAddForm = document.getElementById('addform');
-theEditForm = document.getElementById('editform');
-hide(theAddForm );
-hide(theEditForm);
-
-document.onclick = toggleEdit;
-document.onmousedown = toggleEdit;
-
 }  // end of function "tguva"

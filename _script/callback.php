@@ -2,7 +2,7 @@
 /**
  * @file callback.php
  * Utilities for generating links that go back to the current script, with different parameters.
- * @author Rent a Brain http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-09
  */
 
@@ -31,7 +31,7 @@ class RedirectSystem {
 	var $previous_redirect=NULL; 
 
 	function base_link () {
-		return preg_replace("|/zp/.*$|","","http://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]");
+		return preg_replace("|/zp/.*$|","","$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]");
 	}
 
 	function callback_link($params, $convert_special_chars=TRUE, $to_http = true) {
