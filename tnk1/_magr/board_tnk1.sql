@@ -133,3 +133,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-12-01 20:17:46'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-02 09:36:27'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-42-21.html'
+		;
+
