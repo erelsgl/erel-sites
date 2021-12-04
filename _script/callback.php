@@ -31,10 +31,10 @@ class RedirectSystem {
 	var $previous_redirect=NULL; 
 
 	function base_link () {
-		return preg_replace("|/zp/.*$|","","$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]");
+		return "$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]";
 	}
 
-	function callback_link($params, $convert_special_chars=TRUE, $to_http = true) {
+	function callback_link($params, $convert_special_chars=TRUE, $to_http = false) {
 		$result = "";
 		if ($params===NULL)
 			//return "";
@@ -42,9 +42,10 @@ class RedirectSystem {
 		if (!$result) {
 			if ($convert_special_chars)
 				$params = htmlspecialchars($params, ENT_QUOTES);
-			$protocol = (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT']==443 ? 'https' : 'http');
-			if ($to_http)
-				$protocol = 'http';
+			// $protocol = (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT']==443 ? 'https' : 'http');
+			// if ($to_http)
+			// 	$protocol = 'http';
+			$protocol = $_SERVER['REQUEST_SCHEME'];
 			$result = "$protocol://$_SERVER[HTTP_HOST]$_SERVER[PHP_SELF]?$params";
 		}
 		return $result;

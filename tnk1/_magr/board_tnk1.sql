@@ -103,3 +103,41 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-22.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-12-01 17:51:36'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1381.html',
+				NULL,
+				'2021-12-01 20:17:46',
+				'2021-12-01 20:17:46',
+				'פרשת מקץ-יציאה מן המצר- כיצד?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2021-12-01 20:17:46'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-02 09:36:27'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-42-21.html'
+		;
+
