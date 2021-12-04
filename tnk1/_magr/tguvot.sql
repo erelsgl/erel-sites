@@ -130,3 +130,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2021-12-03 06:54:41' 
 			WHERE messageid=11564;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2021-12-03 10:32:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2021-12-03 10:32:39' 
+			WHERE messageid=11565;
+
