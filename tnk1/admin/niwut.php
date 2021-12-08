@@ -10,7 +10,7 @@ error_reporting(E_ALL);
 /**
  * @file niwut.php
  * add navigation bars to articles the tnk1 site, and also creates collection files.
- * @author Erel Segal אראל סגל
+ * @author Erel Segal-Halevi אראל סגל
  * @date 2006-11-16
  */
 
@@ -30,7 +30,8 @@ require_once("$SCRIPT/coalesce.php");
 require_once("$SCRIPT/html_torausfm.php"); // for html_header_torausfm
 $GLOBALS['HTML_DIRECTION']='rtl';
 $GLOBALS['HTML_LANGUAGE']='he';
-$GLOBALS['HTML_ENCODING']='windows-1255';
+// $GLOBALS['HTML_ENCODING']='windows-1255';
+$GLOBALS['HTML_ENCODING']='utf-8';
 
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);

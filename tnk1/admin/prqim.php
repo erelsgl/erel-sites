@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 /**
  * @file prqim.php
  * create files with Tanakh chapters.
- * @author Erel Segal  אראל סגל
+ * @author Erel Segal-Halevi  אראל סגל
  * @date 2006-11-29
  */
 ?>
