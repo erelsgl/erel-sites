@@ -36,7 +36,7 @@ $GLOBALS['HTML_ENCODING']='utf-8';
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
-require("admin/db_connect.php");
+require("./db_connect.php");
 sql_set_charset('hebrew');
 
 	set_time_limit(0);
