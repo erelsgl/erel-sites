@@ -1,7 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html dir='ltr' lang='en'>
 <head>
-
 <?php
 /* קידוד אחיד ! */
 
@@ -204,7 +203,8 @@ for ($i=0; $i<count($bnim); ++$i) {
 		continue;
 	}
 
-	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn</a>";
+	$bn_utf8 = windows1255_to_utf8($bn);
+	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn_utf8</a>";
 	
 
 	$maqor = "$fileroot/$path_from_root_to_document";
