@@ -177,6 +177,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		$qod .= utf8_to_windows1255(' בתנ"ך');
 	}
 	$qod_utf8 = windows1255_to_utf8($qod);
+	print "<p>qod='$qod_utf8'</p>\n";
 
 	$lo_gmur = utf8_to_windows1255("לא גמור");
 	if (strpos($nman,"בלבד")!==false  or strpos($nman,$lo_gmur)!==false)
@@ -204,7 +205,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		continue;
 	}
 
-	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn_utf8</a>";
+	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn_utf8</a>\n";
 	
 
 	$maqor = "$fileroot/$path_from_root_to_document";
