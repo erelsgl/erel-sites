@@ -30,8 +30,8 @@ require_once("$SCRIPT/coalesce.php");
 require_once("$SCRIPT/html_torausfm.php"); // for html_header_torausfm
 $GLOBALS['HTML_DIRECTION']='rtl';
 $GLOBALS['HTML_LANGUAGE']='he';
-// $GLOBALS['HTML_ENCODING']='windows-1255';
-$GLOBALS['HTML_ENCODING']='utf-8';
+$GLOBALS['HTML_ENCODING']='windows-1255';
+// $GLOBALS['HTML_ENCODING']='utf-8';
 
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
@@ -57,9 +57,9 @@ if (isset($_GET['make'])) {
 <?php 
 	sql_set_charset('utf8');
 	if (isset($_GET['ljon'])) {
-		sql_queries_or_die(file_get_contents("admin/make_temporary_tables_ljon.sql"));
+		sql_queries_or_die(file_get_contents("./make_temporary_tables_ljon.sql"));
 	} else {
-		sql_queries_or_die(file_get_contents("admin/make_temporary_tables.sql"));
+		sql_queries_or_die(file_get_contents("./make_temporary_tables.sql"));
 
 		require_once("$SCRIPT/sql_backup.php");
 		print "<h2>backup_table('wikia_replace_links')</h2>";
@@ -69,7 +69,7 @@ if (isset($_GET['make'])) {
 
 		$rows = sql_query_or_die("SELECT * FROM wikia_replace_links");
 		$contents = sql_text_table($rows);
-		$file = dirname(__FILE__)."/wikia_replace_links.txt";
+		$file = dirname(__FILE__)."/../wikia_replace_links.txt";
 		file_put_contents($file, "$contents");
 
 	}
@@ -78,7 +78,7 @@ if (isset($_GET['make'])) {
 } 
 
 ?>
-<meta http-equiv='Content-Type' content='text/html; charset=windows-1255' />
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>niwut</title>
 </head>
 <body>
