@@ -29,8 +29,8 @@ require_once("$SCRIPT/coalesce.php");
 require_once("$SCRIPT/html_torausfm.php"); // for html_header_torausfm
 $GLOBALS['HTML_DIRECTION']='rtl';
 $GLOBALS['HTML_LANGUAGE']='he';
-// $GLOBALS['HTML_ENCODING']='windows-1255';
-$GLOBALS['HTML_ENCODING']='utf-8';
+$GLOBALS['HTML_ENCODING']='windows-1255';  // This is the encoding of the GENERATED FILES. It must be windows-1255!
+// $GLOBALS['HTML_ENCODING']='utf-8';
 
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
