@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2021-09-28 20:43:25
+# This file was automatically generated at 2021-12-08 06:17:08
 
 sub wikia_replace_links {
 $_=shift;
@@ -3918,6 +3918,7 @@ s|${OPENLINK}tnk1/messages/tyre_s_ships.pdf|[[ביאור:Tyre's ships|ig;
 s|${OPENLINK}tnk1/messages/tyra_mqfb_kmw_qwrwnh.pdf|[[ביאור:לא תירא מקטב כמו קורונה|ig;
 s|${OPENLINK}tnk1/messages/tyrannos.pdf|[[ביאור:Tyrants|ig;
 s|${OPENLINK}tnk1/messages/twpewt_fbe_bspr_thlym.doc|[[ביאור:תופעות טבע בספר תהלים - קובץ וורד (.doc)|ig;
+s|${OPENLINK}tnk1/messages/tusks.pdf|[[ביאור:tusks|ig;
 s|${OPENLINK}tnk1/messages/to_jerusalem.pdf|[[ביאור:To Jerusalem|ig;
 s|${OPENLINK}tnk1/messages/to_inherit_or_to_be_condemned.pdf|[[ביאור:To inherit or to be condemned|ig;
 s|${OPENLINK}tnk1/messages/to_gather.pdf|[[ביאור:To gather|ig;
@@ -3975,9 +3976,12 @@ s|${OPENLINK}tnk1/messages/the_shifting_promised_land.pdf|[[ביאור:The Promi
 s|${OPENLINK}tnk1/messages/the_royal_palace.pdf|[[ביאור:The Royal Palace|ig;
 s|${OPENLINK}tnk1/messages/the_royal_dungeon.pdf|[[ביאור:The Royal Dungeon|ig;
 s|${OPENLINK}tnk1/messages/the_rods_of_moses_and_aaron.pdf|[[ביאור:The rods of Moses and Aaron|ig;
+s|${OPENLINK}tnk1/messages/the_priests__trumpets.pdf|[[ביאור:The Priests' trumpets|ig;
 s|${OPENLINK}tnk1/messages/the_power_of_comparison.pdf|[[ביאור:The power of comparison|ig;
+s|${OPENLINK}tnk1/messages/the_passover_s_sacrifice_to_yhwh_and_the_celebration_of_the_unleavened_bread.pdf|[[ביאור:The Passover's sacrifice to YHWH and the celebration of the unleavened bread|ig;
 s|${OPENLINK}tnk1/messages/the_one_that_called_the_generations.pdf|[[ביאור:The One that called the generations|ig;
 s|${OPENLINK}tnk1/messages/the_molten_sea.pdf|[[ביאור:The Molten Sea|ig;
+s|${OPENLINK}tnk1/messages/the_molech_s_altars.pdf|[[ביאור:The Molech's altars|ig;
 s|${OPENLINK}tnk1/messages/the_letter_e.docx|[[ביאור:The letter ע|ig;
 s|${OPENLINK}tnk1/messages/the_diviner_of_en_dor.pdf|[[ביאור:The Diviner of En-dor|ig;
 s|${OPENLINK}tnk1/messages/the_cherethites_and_the_pelethites.pdf|[[ביאור:The Cherethites and the Pelethites|ig;
@@ -4141,6 +4145,7 @@ s|${OPENLINK}tnk1/messages/sofrim_shabot_index_17|[[ביאור:גוף ונשמה
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_16|[[ביאור:גוף ונשמה 10|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_15|[[ביאור:גוף ונשמה 9|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_14|[[ביאור:גוף ונשמה 8|ig;
+s|${OPENLINK}tnk1/messages/sofrim_shabot_index_133|[[ביאור:הסוד הכמוס של חולשת ישראל|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_132|[[ביאור:חוק ההתאמה הסימטרית|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_131|[[ביאור:וראית את אחרי ופני לא ייראו|ig;
 s|${OPENLINK}tnk1/messages/sofrim_shabot_index_130|[[ביאור:עשרת הדברות בערבית - בחלב 1965|ig;
@@ -8223,8 +8228,29 @@ s|${OPENLINK}tnk1/messages/forums_141|[[ביאור:פרשת פינחס - מי ר
 s|${OPENLINK}tnk1/messages/forums_140|[[ביאור:'זקני מואב ומדיין' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_14|[[ביאור:'הליכה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_139|[[ביאור:'בלעם ואתונו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1383|[[ביאור:פרשת ויגש - מה ראה יוסף שאחיו לא ראו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1382|[[ביאור:'יוסף יוצא מבית האסורים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1381|[[ביאור:פרשת מקץ - יציאה מן המצר - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_138|[[ביאור:פרשת בלק - סוד קיום עם ישראל - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1379|[[ביאור:'כותונת פסים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1378|[[ביאור:פרשת וישב - כותונת הפסים - מה טמון בה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1377|[[ביאור:'יעקב נפרד מעשיו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1376|[[ביאור:פרשת וישלח - פגישת יעקב ועשיו - לימוד לדורות - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1375|[[ביאור:'יעקב והבאר בשדה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1374|[[ביאור:פרשת ויצא - מדוע חשש יעקב לאחר הבטחת ה'?|ig;
+s|${OPENLINK}tnk1/messages/forums_1373|[[ביאור:'יצחק ורבקה- בגרר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1372|[[ביאור:פרשת תולדות - במה היה שונה יצחק לעומת שאר האבות?|ig;
+s|${OPENLINK}tnk1/messages/forums_1371|[[ביאור:'יצחק מקבל פני רבקה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1370|[[ביאור:פרשת חיי שרה - מאין כי רבקה הייתה מיועדת ליצחק? |ig;
 s|${OPENLINK}tnk1/messages/forums_137|[[ביאור:'פרה אדומה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1369|[[ביאור:'אברהם ורצון שרה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1368|[[ביאור:פרשת וירא - אברהם מבצע את רצון שרה - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1367|[[ביאור:'הבטחת ה' לאברהם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1366|[[ביאור:פרשת לך לך - הקו המקשר בין אברהם לארץ ישראל|ig;
+s|${OPENLINK}tnk1/messages/forums_1365|[[ביאור:'העורב בשליחות נח' - שיר מאת אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1364|[[ביאור:פרשת נח - שליחותו של העורב - והמסר|ig;
+s|${OPENLINK}tnk1/messages/forums_1363|[[ביאור:'הבריאה ביום החמישי' -  שיר מאת אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1362|[[ביאור:פרשת בראשית - מה הם האוצרות הגנוזים בתורה הקדושה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1361|[[ביאור:פרשת וזאת הברכה - מהו הכלי באדם לקבלת הברכה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1360|[[ביאור:חג הסוכות ומגילת קהלת - מה הקשר?|ig;
 s|${OPENLINK}tnk1/messages/forums_136|[[ביאור:'משה והסלע' - שיר מאת אהובה קליין (c)|ig;
@@ -8622,6 +8648,7 @@ s|${OPENLINK}tnk1/messages/forums_100|[[ביאור:פרשת ויקהל פקוד�
 s|${OPENLINK}tnk1/messages/forums_10|[[ביאור:'שמיעה ושמועה' - אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/flashing_sword.pdf|[[ביאור:Flashing sword|ig;
 s|${OPENLINK}tnk1/messages/fierce_anger.docx|[[ביאור:Fierce anger|ig;
+s|${OPENLINK}tnk1/messages/fields__vineards_and_gardens.pdf|[[ביאור:Fields, vineards and gardens|ig;
 s|${OPENLINK}tnk1/messages/fear_of_god.pdf|[[ביאור:Fear of God|ig;
 s|${OPENLINK}tnk1/messages/far_parts_of_the_land_and_a_land_of_broad_measures.pdf|[[ביאור:Far parts of the Land and a land of broad measures|ig;
 s|${OPENLINK}tnk1/messages/e_r_j_w__e_r_j__b__r_z_l__h_l_h_h_wa_b__r_b__t_b__n_y_e_m_w_n_prjt_dbrym.docx|[[ביאור:הנה ערשו ערש ברזל הלה הוא ברבת בני עמון - פרשת דברים|ig;
@@ -8880,6 +8907,7 @@ s|${OPENLINK}tnk1/messages/balaam_and_the_snakes.docx|[[ביאור:Balaam and th
 s|${OPENLINK}tnk1/messages/bah_hcpyrh_____rwsyh___arc_hmgwg_myrkty_cpwn.pdf|[[ביאור:הנה באה הצפירה - רוסיה = ארץ המגוג מירכתי צפון|ig;
 s|${OPENLINK}tnk1/messages/baa_l__beaa_lim.pdf|[[ביאור:Baa'l; Beaa'lim|ig;
 s|${OPENLINK}tnk1/messages/a_thorn_in_your_side.pdf|[[ביאור:A thorn in your side|ig;
+s|${OPENLINK}tnk1/messages/a_point_in_time_joseph_is_37_years_old.pdf|[[ביאור:A point in time Joseph is 37 years old|ig;
 s|${OPENLINK}tnk1/messages/a_place_named_beer_sheba.pdf|[[ביאור:A place named Beer - Sheba|ig;
 s|${OPENLINK}tnk1/messages/a_new_interpretation_of_a_famous_biblical_saying.pdf|[[ביאור:A new interpretation of a famous biblical saying|ig;
 s|${OPENLINK}tnk1/messages/a_lion_on_the_watch_tower.pdf|[[ביאור:A lion on the watch tower|ig;
@@ -8969,6 +8997,7 @@ s|${OPENLINK}tnk1/messages/5130_0|[[ביאור:מהו מקור השם ירושל
 s|${OPENLINK}tnk1/messages/5127|[[ביאור:"הנבחר" - המלצה לקריאה|ig;
 s|${OPENLINK}tnk1/messages/5105|[[ביאור:שמותיה של ירושלים|ig;
 s|${OPENLINK}tnk1/messages/4084|[[ביאור:המיילדות העבריות - חסידות אומות העולם|ig;
+s|${OPENLINK}tnk1/messages/37_lxyy_ywsp.pdf|[[ביאור:בשנת 37 לחיי יוסף|ig;
 s|${OPENLINK}tnk1/messages/3601|[[ביאור:מאמר על אביגיל (עדיין לא באתר)|ig;
 s|${OPENLINK}tnk1/messages/3397|[[ביאור:עוד 10 שירים תנכיים|ig;
 s|${OPENLINK}tnk1/messages/3382|[[ביאור:עוד 2 שירים תנכיים|ig;
