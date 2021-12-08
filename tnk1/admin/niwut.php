@@ -14,8 +14,8 @@ error_reporting(E_ALL);
  * @date 2006-11-16
  */
 
-$linkroot = $GLOBALS['linkroot'] = "..";
-$fileroot = $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/..");
+$linkroot = $GLOBALS['linkroot'] = "../..";
+$fileroot = $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../..");
 $SCRIPT = $GLOBALS['SCRIPT'] = "$fileroot/_script"; 
 require_once("$SCRIPT/file.php");
 require_once("$SCRIPT/mkpath.php");
