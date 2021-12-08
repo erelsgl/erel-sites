@@ -401,6 +401,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		$godl_nokxi = filesize($maqor);
 		$teur = ($godl_qodm > 1.1*$godl_nokxi? "WARNING!!! too smaller": ( $godl_qodm>$godl_nokxi? "smaller": ($godl_qodm==$godl_nokxi? "equal": "greater")));
 		print toc(1000,"godel qodem: $godl_qodm;  godel nokxi: $godl_nokxi $teur;  zmn: %d ms")."\n";
+		flush():
 	}
 }
 
