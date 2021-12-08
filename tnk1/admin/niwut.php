@@ -171,11 +171,12 @@ for ($i=0; $i<count($bnim); ++$i) {
 	$path_from_document_to_root = reverse_path($path_from_root_to_document);
 	$path_from_document_to_site = "$path_from_document_to_root$path_from_root_to_site/";
 
+	$bn_utf8 = windows1255_to_utf8($bn);
 	$qod = $bn;
 	if ($path_from_root_to_site === 'tnk1') {
 		$qod .= utf8_to_windows1255(' בתנ"ך');
-		print "<p>qod='$qod'</p>\n";
 	}
+	$qod_utf8 = windows1255_to_utf8($qod);
 
 	$lo_gmur = utf8_to_windows1255("לא גמור");
 	if (strpos($nman,"בלבד")!==false  or strpos($nman,$lo_gmur)!==false)
@@ -203,7 +204,6 @@ for ($i=0; $i<count($bnim); ++$i) {
 		continue;
 	}
 
-	$bn_utf8 = windows1255_to_utf8($bn);
 	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn_utf8</a>";
 	
 
