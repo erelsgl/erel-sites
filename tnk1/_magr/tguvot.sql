@@ -197,3 +197,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_439.html',
+		'<p>ראשון בתגווווובות!!!!!</p>',
+		'114633081833839205317',
+		'תום מרקוביץ',
+		'2021-12-06 17:26:31'
+		)
+		;
+

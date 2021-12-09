@@ -674,7 +674,7 @@ function navigation() {
 		" . $GLOBALS['RedirectSystem']->callback_anchor("site=$site&to=prt", "prt") . "
 		" . $GLOBALS['RedirectSystem']->callback_anchor("site=$site&to=qjr", "qjr") . "
 		" . $GLOBALS['RedirectSystem']->callback_anchor("site=$site&to=prtqjr", "prtqjr") . "
-		<a href='../tnk1/niwut.php?make=1'>make</a>
+		<a href='../tnk1/admin/niwut.php?make=1'>make</a>
 		</p>
 		";
 }

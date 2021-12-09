@@ -259,3 +259,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-06 17:26:31'
+		WHERE ktovt_bn='tnk1/messages/forums_439.html'
+		;
+

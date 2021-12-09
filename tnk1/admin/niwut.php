@@ -1,7 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html dir='ltr' lang='en'>
 <head>
-
 <?php
 /* קידוד אחיד ! */
 
@@ -10,12 +9,12 @@ error_reporting(E_ALL);
 /**
  * @file niwut.php
  * add navigation bars to articles the tnk1 site, and also creates collection files.
- * @author Erel Segal אראל סגל
+ * @author Erel Segal-Halevi אראל סגל
  * @date 2006-11-16
  */
 
-$linkroot = $GLOBALS['linkroot'] = "..";
-$fileroot = $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/..");
+$linkroot = $GLOBALS['linkroot'] = "../..";
+$fileroot = $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../..");
 $SCRIPT = $GLOBALS['SCRIPT'] = "$fileroot/_script"; 
 require_once("$SCRIPT/file.php");
 require_once("$SCRIPT/mkpath.php");
@@ -30,12 +29,13 @@ require_once("$SCRIPT/coalesce.php");
 require_once("$SCRIPT/html_torausfm.php"); // for html_header_torausfm
 $GLOBALS['HTML_DIRECTION']='rtl';
 $GLOBALS['HTML_LANGUAGE']='he';
-$GLOBALS['HTML_ENCODING']='windows-1255';
+$GLOBALS['HTML_ENCODING']='windows-1255';  // This is the encoding of the GENERATED FILES. It must be windows-1255!
+// $GLOBALS['HTML_ENCODING']='utf-8';
 
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
-require("admin/db_connect.php");
+require("./db_connect.php");
 sql_set_charset('hebrew');
 
 	set_time_limit(0);
@@ -56,9 +56,9 @@ if (isset($_GET['make'])) {
 <?php 
 	sql_set_charset('utf8');
 	if (isset($_GET['ljon'])) {
-		sql_queries_or_die(file_get_contents("admin/make_temporary_tables_ljon.sql"));
+		sql_queries_or_die(file_get_contents("./make_temporary_tables_ljon.sql"));
 	} else {
-		sql_queries_or_die(file_get_contents("admin/make_temporary_tables.sql"));
+		sql_queries_or_die(file_get_contents("./make_temporary_tables.sql"));
 
 		require_once("$SCRIPT/sql_backup.php");
 		print "<h2>backup_table('wikia_replace_links')</h2>";
@@ -68,7 +68,7 @@ if (isset($_GET['make'])) {
 
 		$rows = sql_query_or_die("SELECT * FROM wikia_replace_links");
 		$contents = sql_text_table($rows);
-		$file = dirname(__FILE__)."/wikia_replace_links.txt";
+		$file = dirname(__FILE__)."/../wikia_replace_links.txt";
 		file_put_contents($file, "$contents");
 
 	}
@@ -77,7 +77,7 @@ if (isset($_GET['make'])) {
 } 
 
 ?>
-<meta http-equiv='Content-Type' content='text/html; charset=windows-1255' />
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>niwut</title>
 </head>
 <body>
@@ -171,11 +171,13 @@ for ($i=0; $i<count($bnim); ++$i) {
 	$path_from_document_to_root = reverse_path($path_from_root_to_document);
 	$path_from_document_to_site = "$path_from_document_to_root$path_from_root_to_site/";
 
+	$bn_utf8 = windows1255_to_utf8($bn);
 	$qod = $bn;
 	if ($path_from_root_to_site === 'tnk1') {
 		$qod .= utf8_to_windows1255(' בתנ"ך');
-		print "<p>qod='$qod'</p>\n";
 	}
+	$qod_utf8 = windows1255_to_utf8($qod);
+	print "<p>qod='$qod_utf8'</p>\n";
 
 	$lo_gmur = utf8_to_windows1255("לא גמור");
 	if (strpos($nman,"בלבד")!==false  or strpos($nman,$lo_gmur)!==false)
@@ -203,7 +205,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		continue;
 	}
 
-	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn</a>";
+	print "<p>$i_bn. <a target='_blank' href='$linkroot/$ktovt_bn'>$bn_utf8</a>\n";
 	
 
 	$maqor = "$fileroot/$path_from_root_to_document";
@@ -399,6 +401,7 @@ for ($i=0; $i<count($bnim); ++$i) {
 		$godl_nokxi = filesize($maqor);
 		$teur = ($godl_qodm > 1.1*$godl_nokxi? "WARNING!!! too smaller": ( $godl_qodm>$godl_nokxi? "smaller": ($godl_qodm==$godl_nokxi? "equal": "greater")));
 		print toc(1000,"godel qodem: $godl_qodm;  godel nokxi: $godl_nokxi $teur;  zmn: %d ms")."\n";
+		flush();
 	}
 }
 
