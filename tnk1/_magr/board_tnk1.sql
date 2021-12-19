@@ -809,3 +809,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-12-17 04:56:16'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-18 15:38:18'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
