@@ -569,3 +569,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2021-12-23 18:38:55' 
 			WHERE messageid=11592;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-03-1112.html',
+		'<p>תודה רבה מאד מחזק.</p>',
+		'100560541173092414392',
+		'Daniel Ohana',
+		'2021-12-25 20:43:24'
+		)
+		;
+
