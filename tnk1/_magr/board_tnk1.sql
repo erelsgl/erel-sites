@@ -991,3 +991,67 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-03-1112.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-26 12:28:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-26 12:42:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2709_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/ahdut.html',
+				NULL,
+				'2021-12-26 16:34:56',
+				'2021-12-26 16:34:56',
+				'ממשלת אחדות יהודית',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-26 22:55:33'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-27 05:31:57'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-27 05:32:27'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-27 05:33:37'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-03-40.html'
+		;
+
