@@ -1063,3 +1063,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_3.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-28 09:15:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_24.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/ajr_nymwl_hwa_amnxwtp__hrajwn.pdf',
+				NULL,
+				'2021-12-28 10:21:33',
+				'2021-12-28 10:21:33',
+				'פרעה אשר נימול הוא אמנחותפ\' הראשון',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-28 10:35:22'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-28 13:59:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_2.html'
+		;
+
