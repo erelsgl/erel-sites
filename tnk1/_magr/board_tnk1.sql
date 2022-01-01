@@ -1173,3 +1173,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2021-12-30 17:24:31'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2021-12-31 13:11:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/awry_zwhr_ykwl_lhcyl_at_hewlm.pdf',
+				NULL,
+				'2021-12-31 14:45:33',
+				'2021-12-31 14:45:33',
+				'איך אורי זוהר יכול להציל את העולם',
+				'רמי ניר',
+				''
+			)
+		;
+
