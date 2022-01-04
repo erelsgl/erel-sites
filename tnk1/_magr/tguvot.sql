@@ -820,3 +820,146 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-01-04 05:58:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-04 05:58:02' 
+			WHERE messageid=11612;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11593 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11594 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11596 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11597 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11600 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11601 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11602 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `body` = 'נראה שלאלהים יש תוכניות אחרות. והתוכניות שלו עד היום מוליכות את ישראל לאבדון. כי אין הגאולה תבוא אלא מתוך החורבן והגלות והעבודה הזרה. מה שהיה הוא שיהיה. אברהם אבינו הצדיק יצא מעבודת אלילים. בני ישראל התנתקו מעבודת מצרים בשיא העבודה הזרה. גם יצירת העולם ובריאת גן העדן החלה בעת הארץ הייתה תהו ובהו.\r\n\r\nהמצב כעת הוא שאנחנו צועדים יום יום לקראת תהו ובהו. לעמך ישראל קשה להבחין מי עבד-השם ומי לא עבדו. רבני השקר רודפי בצע כסף מתעתעים בציבור ובגאוותם אומרים קדושים וצדיקים אנחנו תרמו לנו. האג\'נדה ותפישת העולם של הפוליטיקאים זה לקדם זכויות אנשי סדום. לכן יהיה חורבן פיסי טוטאלי בגלל החורבן הרוחני. \r\n\r\nוכל החכמה זה להחזיק מעמד באמונה בימים הקשים האלה. מי שלא נסחף אחרי רשעים הלא צדיק יאמר לו, ככלב בן-יפנה אשר הייתה עמו רוח אחרת, ולא כמרגלים. מי שיחזיק מעמד כלוט בארץ סדום ועמורה הלא אלהים ישלח מלאכיו להציל את עבדיו. על כן הנותר ביום ההוא קדוש יאמר לו, ככתוב בחזון לאחרית הימים, ישעיהו ד3: \"וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים\". \"כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים\" - כי הצליחו להתמודד עם כל המוות שבא על הארץ. אף כי הרעה תגדל בארץ, והמוות בא יבוא, \"וְחֹסֶה בְמוֹתוֹ צַדִּיק\" יאמר לו.', `deleted_at` = NULL WHERE `messageid` = 11603 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11604 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11606 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11607 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11609 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11610 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11611 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11593 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11594 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11596 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11597 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11600 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11601 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11602 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `body` = '<p>\r\nנראה שלאלהים יש תוכניות אחרות. והתוכניות שלו עד היום מוליכות את ישראל לאבדון. כי אין הגאולה תבוא אלא מתוך החורבן והגלות והעבודה הזרה. מה שהיה הוא שיהיה. אברהם אבינו הצדיק יצא מעבודת אלילים. בני ישראל התנתקו מעבודת מצרים בשיא העבודה הזרה. גם יצירת העולם ובריאת גן העדן החלה בעת הארץ הייתה תהו ובהו.\r\n</p>\r\n<p>\r\nהמצב כעת הוא שאנחנו צועדים יום יום לקראת תהו ובהו. לעמך ישראל קשה להבחין מי עבד-השם ומי לא עבדו. רבני השקר רודפי בצע כסף מתעתעים בציבור ובגאוותם אומרים קדושים וצדיקים אנחנו תרמו לנו. האג\'נדה ותפישת העולם של הפוליטיקאים זה לקדם זכויות אנשי סדום. לכן יהיה חורבן פיסי טוטאלי בגלל החורבן הרוחני. \r\n</p>\r\n<p>\r\nוכל החכמה זה להחזיק מעמד באמונה בימים הקשים האלה. מי שלא נסחף אחרי רשעים הלא צדיק יאמר לו, ככלב בן-יפנה אשר הייתה עמו רוח אחרת, ולא כמרגלים. מי שיחזיק מעמד כלוט בארץ סדום ועמורה הלא אלהים ישלח מלאכיו להציל את עבדיו. על כן הנותר ביום ההוא קדוש יאמר לו, ככתוב בחזון לאחרית הימים, ישעיהו ד3: \"וְהָיָה הַנִּשְׁאָר בְּצִיּוֹן וְהַנּוֹתָר בִּירוּשָׁלַים קָדוֹשׁ יֵאָמֶר לוֹ כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים\". \"כָּל הַכָּתוּב לַחַיִּים בִּירוּשָׁלַים\" - כי הצליחו להתמודד עם כל המוות שבא על הארץ. אף כי הרעה תגדל בארץ, והמוות בא יבוא, \"וְחֹסֶה בְמוֹתוֹ צַדִּיק\" יאמר לו.\r\n</p>\r\n', `deleted_at` = NULL WHERE `messageid` = 11603 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11604 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11606 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11607 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11609 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11610 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11611 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/direct.html',
+		'<p>גם כאשר העדה שופטת זה סוג של משאל עם</p><p>לאמור מה שהעם מחליט מה שהעדה שופטת</p><p>במדבר לה24: </p><p>&quot;וְשָׁפְטוּ הָעֵדָה בֵּין הַמַּכֶּה וּבֵין גֹּאֵל הַדָּם עַל הַמִּשְׁפָּטִים הָאֵלֶּה&quot; </p><p>וְשָׁפְטוּ הָעֵדָה .......= ככה כתוב בתורה כתוב לכם למאור עיניים</p><p>התורה בעד משפט על פי הדמוקרטיה כן כן מה ששמעתם</p><p>אך הרבנים נגד התורה ולא מעוניינים במשפט הָעֵדָה</p><p>הנה הרב הזה מרבני ההלכה מתלונן למה הָעֵדָה שופטת</p><p>בקישור הנ&quot;ל</p><p>https://www.makorrishon.co.il/opinion/351153/?fbclid=IwAR1jPzfUdPReVlPxkmbdE-7e_YXVFaM4ZsuC5Oj3R1z32H8Lz7Q7x4PX228</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-01-04 07:49:38'
+		)
+		;
+
