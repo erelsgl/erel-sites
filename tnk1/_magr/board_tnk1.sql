@@ -1417,3 +1417,136 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0516_7.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/whhtywwnwt.pdf',
+				NULL,
+				'2022-01-11 09:23:58',
+				'2022-01-11 09:23:58',
+				'המתיוונים וההתיוונות',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 11:38:30'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 11:38:36'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 13:14:51'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 13:19:43'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 13:42:24'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-11 17:01:27'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/klv.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1394.html',
+				NULL,
+				'2022-01-11 20:52:31',
+				'2022-01-11 20:52:31',
+				'פרשת  בשלח- מה טמון בנס יציאת מצרים- גם לעתיד גאולתנו?/ אהובה קליין',
+				'אהובה קליין  ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-01-11 20:52:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/shame__guilt__or_despaire.pdf',
+				NULL,
+				'2022-01-11 22:05:11',
+				'2022-01-11 22:05:11',
+				'Shame, guilt, or Despaire',
+				'אבנר רמו',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-01-11 22:05:11'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1395.html',
+				NULL,
+				'2022-01-12 06:49:29',
+				'2022-01-12 06:49:29',
+				'משל היונה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-01-12 06:49:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
