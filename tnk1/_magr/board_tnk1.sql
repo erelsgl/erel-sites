@@ -1550,3 +1550,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-01-12 06:49:29'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-13 10:39:49'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/gvrim_yfim.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-14 06:42:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+

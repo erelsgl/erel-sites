@@ -1130,3 +1130,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-13 08:19:09' 
+			WHERE messageid=11620;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/gvrim_yfim.html',
+		'<p>אדם הראשון היה יציר השם בכבודו ובעצמו הוא היה היפה בעולם יעקוב אבינו אבשלום יוסף </p>',
+		'101989811535831692521',
+		'איריס לוי',
+		'2022-01-13 10:39:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-01-14 06:42:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-14 06:42:04' 
+			WHERE messageid=11626;
+
