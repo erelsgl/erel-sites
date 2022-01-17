@@ -1168,3 +1168,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-01-14 06:42:04' 
 			WHERE messageid=11626;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-01-16 16:58:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-16 16:58:21' 
+			WHERE messageid=11627;
+

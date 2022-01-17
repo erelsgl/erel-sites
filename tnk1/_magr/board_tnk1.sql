@@ -1566,3 +1566,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/byjwet_alhynw_wapjr_lrbe_eygwl.pdf',
+				NULL,
+				'2022-01-16 12:16:28',
+				'2022-01-16 12:16:28',
+				'נאמין בישועת אלהינו ואפשר לרבע עיגול',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-16 16:58:20'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
