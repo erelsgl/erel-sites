@@ -1613,3 +1613,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-01-17 21:11:03'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-18 10:19:34'
+		WHERE ktovt_bn='tryg/jmita/xul.html'
+		;
+

@@ -1187,3 +1187,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-01-16 16:58:21' 
 			WHERE messageid=11627;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/jmita/xul.html',
+		'<p>גבר גבר</p><p></p>',
+		'112814362545325252820',
+		'Noam Ghodsi',
+		'2022-01-18 10:19:34'
+		)
+		;
+
