@@ -1199,3 +1199,43 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-06-0910.html',
+		'<p>הבעיה עם הטקס הזה היא לעמוד על הקריאה או על הניקוד של המסורה ולהמשיך לקרוא ולחשוב בדרך זה. בעיני הדבר פשוט: אל תקראו את הפעלים בצווי (ראו, שמעו, תבינו, תדעו) אלא בזמן או בכיוון לעבר... ושאר הפעלים גם בזמן עבר: \'\'השמן\'\' \'\'הכבד\'\' או \'\'השע  וכפועל עובר: הוא (השטן, החטא או משהו אחר) השמין... הכביד... השיע אז באה  המילה \'\'פן\'\' וזה העניין: רק אם הם יכולים לראות, לשמוע, להבין, הם יוכלו לשוב ואני ארפא להם..</p>',
+		'107777802081231736022',
+		'Eric de Jesús Rodríguez Mendoza',
+		'2022-01-19 11:38:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-19 13:17:18' 
+			WHERE messageid=11241;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-19 13:17:44' 
+			WHERE messageid=11399;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-19 13:22:13' 
+			WHERE messageid=10886;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-01-19 13:22:25' 
+			WHERE messageid=10880;
+
