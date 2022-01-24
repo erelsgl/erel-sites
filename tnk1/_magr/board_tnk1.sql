@@ -1675,3 +1675,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-01-21 06:21:51'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-23 11:18:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-23 15:00:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/hyh_bjnt_27_jnh_lyrbem_mlk_yjral.pdf',
+				NULL,
+				'2022-01-23 19:51:48',
+				'2022-01-23 19:51:48',
+				'מה היה בשנת 27 שנה לירבעם מלך ישראל',
+				'רמי ניר',
+				''
+			)
+		;
+
