@@ -35,7 +35,7 @@ $GLOBALS['HTML_ENCODING']='windows-1255';  // This is the encoding of the GENERA
 require_once("$SCRIPT/sql.php");
 $DEBUG_SELECT_QUERIES = isset($_GET['debug_select']);
 $DEBUG_QUERY_TIMES = isset($_GET['debug_times']);
-require("$fileroot/admin/db_connect.php");
+require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('hebrew');
 
 	set_time_limit(0);
