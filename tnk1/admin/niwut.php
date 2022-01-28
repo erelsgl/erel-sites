@@ -394,7 +394,8 @@ for ($i=0; $i<count($bnim); ++$i) {
 
 		# write the new file
 		file_put_contents($maqor, $target_contents) 
-			or die ("cant write into $maqor");
+			// or die ("cant write into $maqor")
+			;
 		print " closed.";
 		
 		$godl_qodm = filesize($gibuy);
