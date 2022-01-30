@@ -44,3 +44,15 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('הסטוריה וארכיאולוגיה של יוון', 'ביאור:שמואל א ד12', 'המרתון הראשון', '', 60, 60, '2022-01-28 11:43:21');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('רקע לתנך', 'הסטוריה וארכיאולוגיה של יוון', '', '', 60, 60, '2022-01-29 16:38:59');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('הסטוריה', 'הסטוריה וארכיאולוגיה של יוון', '', '', 60, 60, '2022-01-29 16:38:59');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('ארכיאולוגיה', 'הסטוריה וארכיאולוגיה של יוון', '', '', 60, 60, '2022-01-29 16:38:59');
+

@@ -2452,3 +2452,34 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-49-06.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/klli/mdrjim/agda.html',
+				'tnk1/klli/mdrjim/nqudot.html',
+				NULL,
+				'2022-01-29 17:25:43',
+				'2022-01-29 17:25:43',
+				'נקודות מעל מילים ואותיות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-01-29 17:25:43'
+			WHERE ktovt_bn='tnk1/klli/mdrjim/agda.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-01-29 20:14:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
