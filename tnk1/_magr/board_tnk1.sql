@@ -2531,3 +2531,90 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2701_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1399.html',
+				NULL,
+				'2022-02-02 09:50:28',
+				'2022-02-02 09:50:28',
+				'פרשת תרומה- מה הקשר בין בריאת העולם למשכן?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-02-02 09:50:28'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/nwem_adwny_alhynw_elynw.pdf',
+				NULL,
+				'2022-02-02 10:42:15',
+				'2022-02-02 10:42:15',
+				'ויהי נועם אדוני אלהינו עלינו',
+				'רמי ניר',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-02 10:46:30'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_nvl_adina_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-02 10:58:34'
+		WHERE ktovt_bn='tnk1/messages/nvir_jmuela_nvl_adina_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-02 16:05:02'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/th-03.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-02 19:45:57'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/th-03.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-03 00:12:48'
+		WHERE ktovt_bn='tnk1/nvir/jmuela/th-03.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-03 00:14:15'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
