@@ -1845,3 +1845,18 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/msr/knesset/ahdut.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/thlim/th-30-dby.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-02-03 20:54:53'
+		WHERE parent='tnk1/ktuv/thlim/th-30-dby.html'
+		;
+
