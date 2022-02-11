@@ -2808,3 +2808,57 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-02-09 22:25:24'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1402.html',
+				NULL,
+				'2022-02-10 10:14:11',
+				'2022-02-10 10:14:11',
+				'שיר על: פורומים, דיונים',
+				'מצנפת וציץ הכהן/ שיר מאת: אהובה קליין (c)',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-02-10 10:14:11'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1403.html',
+				NULL,
+				'2022-02-10 10:18:27',
+				'2022-02-10 10:18:27',
+				'מצנפת וציץ הכהן/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-02-10 10:18:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-10 17:04:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3302_1.html'
+		;
+
