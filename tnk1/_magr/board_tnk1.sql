@@ -3010,3 +3010,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-02-16 22:05:37'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-19 16:45:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0119_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-19 16:46:18'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0119_1.html'
+		;
+

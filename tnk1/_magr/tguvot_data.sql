@@ -2347,3 +2347,41 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/msr/knesset/ahdut.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0119_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-02-19 16:45:21'
+		WHERE parent='tnk1/messages/prqim_t0119_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0119_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-02-19 16:46:18'
+		WHERE parent='tnk1/messages/prqim_t0119_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-02-19 16:46:20'
+			WHERE parent='tnk1/messages/prqim_t0119_1.html'
+			;
+
