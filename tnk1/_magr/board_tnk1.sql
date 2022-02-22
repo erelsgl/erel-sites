@@ -3073,3 +3073,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-02-21 03:13:22'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-21 13:21:55'
+		WHERE ktovt_bn='tnk1/messages/forums_384.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-21 16:45:44'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/khnim2.html'
+		;
+
