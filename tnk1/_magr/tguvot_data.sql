@@ -2506,3 +2506,49 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/ktuv_mjly_mj-31-03_0.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-02-23 14:54:20'
+			WHERE parent='tnk1/messages/prqim_t0101_23.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/msr/knesset/land.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-02-23 15:26:52'
+		WHERE parent='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/msr/knesset/land.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-02-23 15:27:42'
+		WHERE parent='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-02-23 15:27:44'
+			WHERE parent='tnk1/msr/knesset/land.html'
+			;
+
