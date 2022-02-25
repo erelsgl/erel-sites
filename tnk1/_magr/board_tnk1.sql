@@ -3190,3 +3190,42 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-02-24 07:31:17'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/not_yet_and_before.pdf',
+				NULL,
+				'2022-02-24 20:03:40',
+				'2022-02-24 20:03:40',
+				'Not yet and before',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-02-24 20:03:40'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-25 02:01:58'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-02-25 07:23:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
