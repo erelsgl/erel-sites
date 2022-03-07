@@ -3858,3 +3858,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-03-04 06:20:54'
 			WHERE ktovt_bn='tnk1/sig/9jir.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-06 11:16:15'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_mskt.html'
+		;
+
