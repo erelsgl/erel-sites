@@ -3874,3 +3874,41 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-04.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-09 13:31:47'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-04.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-03-09 21:09:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1415.html',
+				NULL,
+				'2022-03-09 21:16:49',
+				'2022-03-09 21:16:49',
+				'פרשת ויקרא  – הקשר למגילת אסתר ושבת זכור/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-03-09 21:16:49'
+			WHERE ktovt_bn='tnk1/forums.html';
+
