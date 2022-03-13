@@ -2864,3 +2864,11 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_jujn.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-13 06:20:51'
+			WHERE parent='tnk1/ktuv/mgilot/tklt_avrhm_jujn.html'
+			;
+

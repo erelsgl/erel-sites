@@ -3920,3 +3920,26 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/tklt_avrhm_jujn.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/cdqamim.html',
+				'tnk1/nvir/joftim/jf-11-27.html',
+				NULL,
+				'2022-03-13 06:22:13',
+				'2022-03-13 06:22:13',
+				'ה\' ישפוט את העם הפותח במלחמה לא צודקת',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-03-13 06:22:13'
+			WHERE ktovt_bn='tnk1/msr/cdqamim.html';
+
