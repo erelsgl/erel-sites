@@ -1375,3 +1375,60 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-01-27 15:12:33' 
 			WHERE messageid=11637;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-13 12:40:50' 
+			WHERE messageid=11709;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jf-11-27.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-03-13 12:40:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-13 12:40:53' 
+			WHERE messageid=11710;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jf-11-27.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-03-13 12:40:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-13 12:40:56' 
+			WHERE messageid=11711;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>תהלים קיט92: &quot;לוּלֵי תוֹרָתְךָ שַׁעֲשֻׁעָי אָז אָבַדְתִּי בְעָנְיִי&quot;</p><p>תשתעשע בתורה אשר היא עץ חיים ולא תאבד בעוני</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-14 05:45:09'
+		)
+		;
+

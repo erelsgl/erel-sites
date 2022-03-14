@@ -3943,3 +3943,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-03-13 06:22:13'
 			WHERE ktovt_bn='tnk1/msr/cdqamim.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-13 12:40:17'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-11-27.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-13 12:40:52'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-11-27.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-13 12:40:55'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-11-27.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-14 05:45:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
