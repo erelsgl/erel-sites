@@ -1432,3 +1432,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/jf-11-27.html',
+		'<p>תודה אראל. יהי רצון שתחזינה עינינו במשפט צדק לרשעים שופכי הדמים.</p>',
+		'112593956537053274947',
+		'Tomer Greenberg',
+		'2022-03-14 11:10:52'
+		)
+		;
+

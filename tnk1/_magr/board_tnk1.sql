@@ -3975,3 +3975,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-14 11:10:52'
+		WHERE ktovt_bn='tnk1/nvir/joftim/jf-11-27.html'
+		;
+
