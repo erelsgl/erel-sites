@@ -3983,3 +3983,90 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/joftim/jf-11-27.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/cdqamim.html',
+				'tnk1/nvia/tryasr/xv-01-13.html',
+				NULL,
+				'2022-03-16 14:59:25',
+				'2022-03-16 14:59:25',
+				'לא להחריש כשרשע בולע צדיק ממנו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-03-16 14:59:25'
+			WHERE ktovt_bn='tnk1/msr/cdqamim.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/dgh.html',
+				'tnk1/nvia/tryasr/xv-01-14.html',
+				NULL,
+				'2022-03-16 17:31:27',
+				'2022-03-16 17:31:27',
+				'עד מתי נהיה כמו דגים?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-16 18:56:38'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xk.html',
+				'tnk1/nvia/tryasr/xv-01-15.html',
+				NULL,
+				'2022-03-16 19:02:29',
+				'2022-03-16 19:02:29',
+				'חכה - חרם - מכמורת',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/kmr3.html',
+				'tnk1/nvia/tryasr/xv-01-16.html',
+				NULL,
+				'2022-03-16 21:34:40',
+				'2022-03-16 21:34:40',
+				'הרשעים סוגדים לכלי-הנשק שלהם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-17 06:14:30'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-16.html'
+		;
+

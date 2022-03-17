@@ -44,3 +44,23 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי כב1' AND `sfr` = 'קהל' AND `prq0` = 'ז' AND `psuq0` = 1 AND `sug` = 'כלל' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לפארג והתנ\"ך: האם כדאי להתאמץ?' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'נחש הנחושת = מעשה פסל ' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:משלי טו3' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'על עבד ה\' בישעיה נג' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:תהלים לו3' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = 'כלל' AND 1 LIMIT 1;
+

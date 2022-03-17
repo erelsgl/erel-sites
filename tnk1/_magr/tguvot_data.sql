@@ -2971,3 +2971,41 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/nvir/joftim/jf-11-27.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-16 18:13:08'
+			WHERE parent='tnk1/tora/brejit/mtrt_briat_hadm_2.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/xv-01-14.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-16 18:56:38'
+		WHERE parent='tnk1/nvia/tryasr/xv-01-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/xv-01-16.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-17 06:14:30'
+		WHERE parent='tnk1/nvia/tryasr/xv-01-16.html'
+		;
+
