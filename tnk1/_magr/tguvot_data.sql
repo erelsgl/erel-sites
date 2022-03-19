@@ -3070,3 +3070,132 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/ktuv/mgilot/es-09-22.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1117_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 08:26:41'
+		WHERE parent='tnk1/messages/prqim_t1117_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1117_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 08:29:13'
+		WHERE parent='tnk1/messages/prqim_t1117_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-18 08:29:16'
+			WHERE parent='tnk1/messages/prqim_t1117_1.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/xv-01-04.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 10:29:55'
+		WHERE parent='tnk1/nvia/tryasr/xv-01-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/xv-01-07.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 13:28:11'
+		WHERE parent='tnk1/nvia/tryasr/xv-01-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/xv-01-04.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 13:53:26'
+		WHERE parent='tnk1/nvia/tryasr/xv-01-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-18 13:53:46'
+			WHERE parent='tnk1/nvia/tryasr/xv-01-04.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t26b2_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 14:05:34'
+		WHERE parent='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t26b2_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-18 15:02:51'
+		WHERE parent='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-18 15:03:18'
+			WHERE parent='tnk1/messages/prqim_t26b2_1.html'
+			;
+

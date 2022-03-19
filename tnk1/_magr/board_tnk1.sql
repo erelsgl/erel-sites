@@ -5012,3 +5012,140 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-04.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 08:26:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1117_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 08:29:13'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1117_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 10:29:55'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-04.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jpf.html',
+				'tnk1/nvia/tryasr/xv-01-07.html',
+				NULL,
+				'2022-03-18 11:49:54',
+				'2022-03-18 11:49:54',
+				'הרשע המסוכן ביותר הוא זה הקובע משפט לעצמו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sug='׳“׳™׳•׳1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=111
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 13:28:11'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 13:53:26'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 14:05:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1418.html',
+				NULL,
+				'2022-03-18 14:22:05',
+				'2022-03-18 14:22:05',
+				' הבאים בשערי המקדש /שיר מאת: אהובה  קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-03-18 14:22:05'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-18 15:02:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+

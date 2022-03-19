@@ -56,3 +56,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('ארכיאולוגיה', 'הסטוריה וארכיאולוגיה של יוון', '', '', 60, 60, '2022-01-29 16:38:59');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_tnk1_tnk1` WHERE `av` = 'חבקוק' AND `bn` = 'עת אחרית הימים כאשר \"הגוי לא נכסף\"' AND 1 LIMIT 1;
+

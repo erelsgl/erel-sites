@@ -130,3 +130,51 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-17 20:10:43' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'למה תביט בוגדים תחריש בבלע רשע צדיק ממנו' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 11:45:04' WHERE `bn` = 'מבנה חבקוק א' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = 'מבנה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 11:45:04' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'מבנה הפרק', `tarik_hosfa` = '2022-03-18 11:48:08' WHERE `bn` = 'מבנה חבקוק א' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = 'מבנה' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 11:48:08' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'כי הנני מקים את הכשדים הגוי המר והנמהר' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 13:03:26' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 13:04:37' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:חבקוק א12' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-03-18 13:07:14' WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'העם הכשדי מטיל אימה ויראה כה גדולים, כי אינו כפוף לשום משפט (חוק) המקובל בין העמים; המשפט שהוא נוהג לפיו מגיע רק ממנו , וגם השאת (הכבוד) שלו יוצא רק ממנו - לא אכפת לו מה חושבים עמים אחרים. ', `tarik_hosfa` = '2022-03-18 13:07:14' WHERE `bn` = 'ביאור:חבקוק א7' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 7 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = ' \"- על כך (על הכיבושים האכזריים של מלך בבל) הוא מקריב זבחי תודה לחרמו , ומקטיר קטורת למכמרתו (כלומר, סוגד לכלי-הנשק שבעזרתם הוא כובש עמים אחרים); כי בעזרתם הוא זוכה בשלל רב - חלק שמן מרכושם של עמים אחרים, ומאכל בריא (שופע);\" ', `tarik_hosfa` = '2022-03-18 13:07:14' WHERE `bn` = 'ביאור:חבקוק א16' AND `sfr` = 'חבק' AND `prq0` = 'א' AND `psuq0` = 16 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+

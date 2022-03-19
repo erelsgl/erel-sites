@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2022-03-17 21:03:45
+# This file was automatically generated at 2022-03-18 13:08:04
 
 sub wikia_replace_links {
 $_=shift;
@@ -3466,6 +3466,7 @@ s|${OPENLINK}tnk1/nvia/tryasr/xv-01-15|[[ביאור:חכה - חרם - מכמור
 s|${OPENLINK}tnk1/nvia/tryasr/xv-01-14|[[ביאור:עד מתי נהיה כמו דגים?|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-01-13|[[ביאור:לא להחריש כשרשע בולע צדיק ממנו|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-01-12|[[ביאור:מדינה חזקה צריכה להשתמש בכוחה כדי לעשות משפט - צדק ולא כדי להרוג|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xv-01-07|[[ביאור:הרשע המסוכן ביותר הוא זה הקובע משפט לעצמו|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-01-04|[[ביאור:רשע מכתיר את הצדיק - על כן יצא משפט מעוקל|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-01|[[ביאור:הזעקה של חבקוק|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xg-mxsor|[[ביאור:מחסור - שלושה תיאורים בספר חגי|ig;
