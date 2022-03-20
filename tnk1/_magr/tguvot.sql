@@ -1630,3 +1630,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-03-18 15:03:18' 
 			WHERE messageid=11724;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>פרשת צו-שמיני עוסקת בימי המילואים</p><p>וכדי לזכור זאת  זכרו ---  מילואים צו 8</p><p>בנוסף חשוב להזכיר......</p><p>כי המועדים סביב הקמת המשכן יתכנו</p><p>אך ורק בלוח השמש שכתבתי ולא בלוח הירח </p><p>שימו לב בתגובה שכתבתי שמעל תגובה זאת </p><p>פסח יוצא במוצ&quot;ש וחג המצות ביום ראשון</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-19 19:18:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p>פרשת צו-שמיני עוסקת בימי המילואים</p><p>וכדי לזכור זאת זכרו --- מילואים צו 8</p><p>[מעניין שגם התגובה היא מספר 8]</p><p>בנוסף חשוב להזכיר......</p><p>כי המועדים סביב הקמת המשכן יתכנו</p><p>אך ורק בלוח השמש שכתבתי ולא בלוח הירח</p><p>שימו לב בתגובה שכתבתי שמעל תגובה זאת</p><p>פסח יוצא במוצ&quot;ש וחג המצות ביום ראשון</p><p>ככה מתחיל לוח השנה הקדום משנת היובל </p><p>כי בלוח היובלים פתיחת השנה באביב</p><p>ובלוח הירח פתיחת היובל בחג-הסכות            </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-20 05:21:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-20 05:21:15' 
+			WHERE messageid=11726;
+
