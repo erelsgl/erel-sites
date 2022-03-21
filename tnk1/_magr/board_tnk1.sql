@@ -5165,3 +5165,155 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/wyqra/yom8_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-20 16:52:08'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-20 20:23:59'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-01-12.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4.html',
+				'tnk1/nvia/tryasr/xv-02-06.html',
+				NULL,
+				'2022-03-20 22:07:39',
+				'2022-03-20 22:07:39',
+				'כעם שעריץ שודד עמים אחרים, שאר העמים צריכים להתאחד ולפעול נגדו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4.html',
+				'tnk1/messages/msr_4_0.html',
+				NULL,
+				'2022-03-20 22:15:46',
+				'2022-03-20 22:15:46',
+				'כשאם עריץ שודד עמים אחרים, שאר העמים צריכים להתאחד ולפעול נגדו',
+				'אראל',
+				'..tnk1/nvia/tryasr/xv-02-08'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4.html',
+				'tnk1/nvia/tryasr/xv-02-08.html',
+				NULL,
+				'2022-03-20 22:17:16',
+				'2022-03-20 22:17:16',
+				'כשעם שודד עמים אחרים, שאר העמים צריכים להתאחד ולפעול נגדו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/sofrim/index.html' AND `ktovt_bn` = 'tnk1/messages/wisdom_and_understaning.pdf' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1410.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1413.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1415.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/sig/9jir.html' AND `ktovt_bn` = 'tnk1/ktuv/thlim/th-20-bruria.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/msr/cdqamim.html' AND `ktovt_bn` = 'tnk1/nvir/joftim/jf-11-27.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/msr/cdqamim.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-13.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/dgh.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-14.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/xk.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-15.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/kmr3.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-16.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ktuv/mgilot/tklt_avrhm_mnhgim.html' AND `ktovt_bn` = 'tnk1/ktuv/mgilot/es-09-22.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1416.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/xml.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-17.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/msr/cdqamim.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-12.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/ktr.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-04.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/jpf.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-01-07.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1418.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `board_tnk1` WHERE `ktovt_av` = 'tnk1/msr/4.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-02-06.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `board_tnk1` WHERE `ktovt_av` = 'tnk1/msr/4.html' AND `ktovt_bn` = 'tnk1/messages/msr_4_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/msr/4.html' AND `ktovt_bn` = 'tnk1/nvia/tryasr/xv-02-08.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-21 05:34:08'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-02-08.html'
+		;
+

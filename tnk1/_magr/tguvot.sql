@@ -1661,3 +1661,39 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-03-20 05:21:15' 
 			WHERE messageid=11726;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>דיין שם</p><p>מורה רוחני ופסיכותרפיסט ללא תשלום</p><p>DAIAN1ENATOR@GMAIL.COM</p><p>0548039838</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-20 16:52:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/xv-01-12.html',
+		'<p>חבקוק א12: &quot;הֲלוֹא אַתָּה מִקֶּדֶם יהוה אֱלֹהַי קְדֹשִׁי לֹא נָמוּת =  נְפָשׁוֹת אֲשֶׁר לֹא תְמוּתֶנָה = אלה הקדושים אשר יחיו גם בעולם הבא</p><p>יחזקאל יג19: &quot;וַתְּחַלֶּלְנָה אֹתִי אֶל עַמִּי בְּשַׁעֲלֵי שְׂעֹרִים וּבִפְתוֹתֵי לֶחֶם לְהָמִית נְפָשׁוֹת אֲשֶׁר לֹא תְמוּתֶנָה.......... וּלְחַיּוֹת נְפָשׁוֹת אֲשֶׁר לֹא תִחְיֶינָה בְּכַזֶּבְכֶם לְעַמִּי שֹׁמְעֵי כָזָב&quot;</p><p>חבקוק א12: &quot;הֲלוֹא אַתָּה מִקֶּדֶם יהוה אֱלֹהַי קְדֹשִׁי לֹא נָמוּת =  נְפָשׁוֹת אֲשֶׁר לֹא תְמוּתֶנָה = אלה הקדושים אשר יחיו גם בעולם הבא</p><p>כי הקדושים אנשי נזר וְאִם נֵזֶר לְדוֹר דור לאמור לנצח ככתוב בספר משלי כז24: &quot;כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור[וָדוֹר] &quot;  </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-20 20:23:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/xv-02-08.html',
+		'<p>מהשורש שלל ומלשון נשל = זה למעשה כמעט אותו דבר</p><p>1.נשל מלשון להשיל להפשיט למשל נחש משיל את עורו ------- והעם הכובש משיל מפשיט את הנכסים של העם הנכבש</p><p>2. שלל כאשר כאשר אתה לוקח שלל מהעם הנכבש לבזוז אותו אתה למעשה מנשל אותו מפשיט אותו מנכסיו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-21 05:34:08'
+		)
+		;
+
