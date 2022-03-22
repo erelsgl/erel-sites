@@ -5317,3 +5317,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-02-08.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ebf.html',
+				'tnk1/nvia/tryasr/xv-0206.html',
+				NULL,
+				'2022-03-21 08:42:05',
+				'2022-03-21 08:42:05',
+				'השודד אחרים, מכביד את החוב על עצמו',
+				'אראל',
+				''
+			)
+		;
+
