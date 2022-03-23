@@ -5333,3 +5333,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-22 10:14:24'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/cf-03-0607.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-22 17:57:19'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/cf-03-0607.html'
+		;
+

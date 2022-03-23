@@ -1697,3 +1697,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/cf-03-0607.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-03-22 10:14:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-22 10:14:26' 
+			WHERE messageid=11731;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/cf-03-0607.html',
+		'<p>כשבאות צרות כה גדולות על עמים אחרים, ראוי שנעשה כנסים של תפילה והתעוררות לתשובה, ונחשוב מה אנחנו צריכים לשפר ולתקן על-מנת שלא יבואו עלינו אסונות דומים.[סוף ציטוט] אראל אתה צודק לחלוטין ---- איכה ג40: &quot;נַחְפְּשָׂה דְרָכֵינוּ וְנַחְקֹרָה וְנָשׁוּבָה עַד יהוה\'&quot;</p><p>רק בעניין הכנסים והתפילות זה צריך לבוא בהנהגת וביוזמת הממשלה כדי שיהיה לזה ערך לאומי לכל העם</p><p>ולא גופי רבנים ומקובלים המנצלים את המצב לערוך &quot;תיקונים&quot; להתרים התרמות ולעשות קופה בדרך לבנק</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-22 17:57:19'
+		)
+		;
+
