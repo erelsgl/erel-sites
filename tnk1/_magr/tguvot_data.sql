@@ -3350,3 +3350,41 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t25b35_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-11-09.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-25 14:35:00'
+		WHERE parent='tnk1/nvia/yjayhu/yj-11-09.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-11-09.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-03-25 14:35:45'
+		WHERE parent='tnk1/nvia/yjayhu/yj-11-09.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-03-25 14:36:16'
+			WHERE parent='tnk1/nvia/yjayhu/yj-11-09.html'
+			;
+
