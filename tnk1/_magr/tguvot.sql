@@ -1814,3 +1814,146 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-03-27 18:26:01' 
 			WHERE messageid=11737;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/acl.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ... בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot; עם פיגועים רצחניים שלוש פעמים בשבוע אולי העָצֵל צודק בדור הזה השרים אשמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 03:41:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/acl.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot; עם פיגועים רצחניים שלוש פעמים בשבוע אולי העָצֵל צודק בדור הזה השרים אשמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 03:41:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/acl.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot; עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 03:42:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-30 03:42:19' 
+			WHERE messageid=11740;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-30 03:42:21' 
+			WHERE messageid=11739;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/21-26.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot; עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 04:12:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_6.html',
+		'<p></p><p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot; </p><p>עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 04:17:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut.html',
+		'<p>אחרי שלושה ימים של פיגועים רצחניים, ציפיתי שעם ישראל יתאחד ויילחם נגד האויבים. במקום זה, עם ישראל &quot;מאוחד&quot; במלחמות אחד נגד השני... &quot;אתה אשם&quot;, &quot;לך הביתה&quot;, &quot;כן ביבי&quot;, &quot;לא ביבי&quot;, &quot;אמרנו לכם&quot;, &quot;הכל בגללכם&quot;... די!!! אנחנו במלחמה, חייבים להתאחד!!!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-03-30 04:59:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_6.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot;</p><p>עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p><p>איך יתכן שהעצל צודק בדור של סדום ועמורה</p><p>פשוט מאד העצל מעצל לעשות העבודה הרעה</p><p>אם הייתה עבודת אלהים אז בוודאי שהעצל פושע וחוטא</p><p>אבל העצל בדור של סדום ועמורה</p><p>לכן מינוס מינוס = פלוס</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 05:27:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-30 05:27:24' 
+			WHERE messageid=11743;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_6.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot;</p><p>עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p><p>איך יתכן שהעצל צודק בדור של סדום ועמורה</p><p>פשוט מאד העצל מתעצל לעשות העבודה הרעה</p><p>אם הייתה עבודת אלהים אז בוודאי שהעצל פושע וחוטא</p><p>אבל העצל בדור של סדום ועמורה</p><p>לכן מינוס מינוס = פלוס</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 05:31:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-30 05:31:57' 
+			WHERE messageid=11745;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_6.html',
+		'<p>צפניה ג3: &quot;שָׂרֶיהָ בְקִרְבָּהּ אֲרָיוֹת שֹׁאֲגִים....... שֹׁפְטֶיהָ זְאֵבֵי עֶרֶב לֹא גָרְמוּ לַבֹּקֶר&quot;</p><p>משלי כב13: &quot;אָמַר עָצֵל אֲרִי בַחוּץ.......  בְּתוֹךְ רְחֹבוֹת אֵרָצֵחַ&quot;</p><p>עם פיגועים רצחניים שלוש פעמים בשבוע העָצֵל צודק בדור הזה השרים אשמים</p><p>איך יתכן שהעצל צודק בדור של סדום ועמורה</p><p>פשוט מאד העצל מתעצל לעשות העבודה הרעה</p><p>אם הייתה עבודת אלהים אז בוודאי שהעצל פושע וחוטא</p><p>אבל העצל בדור של סדום ועמורה</p><p>לכן מינוס מינוס = פלוס</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-03-30 05:32:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-03-30 05:33:05' 
+			WHERE messageid=11746;
+
