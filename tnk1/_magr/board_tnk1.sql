@@ -5627,3 +5627,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2810_6.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-30 14:13:57'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-30 14:55:02'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-30 15:57:13'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-30 16:01:16'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-03-30 16:43:19'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
