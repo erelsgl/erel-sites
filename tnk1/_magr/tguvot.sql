@@ -2105,3 +2105,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-04-08 04:31:27' 
 			WHERE messageid=11756;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/reuven/lvn_mcrym.html',
+		'<p>שלום ראובן ישר כח</p><p>גם אני בדיוקהשבת חשבתי על זה. </p><p>במיוחד לאור 2 חיבורים ברורים של לבן עם מצרים. </p><p>א. האזכור של לבן האגדה ארמי עובד אבי המיוחס ללבן </p><p>ב. ההשוואה הפשוטה אחר כך- מה ביקש לבן הארמי לעשות?!</p><p>שפרעה גזר רק על הזכרים ולבן ביקש להשמיד את הכל. </p><p>בטוח שיש פה צקום להשוואה והעמקה</p><p>שתזכה להגדיל תורה ולהאדיר ולשמוח במחשבותיך לפתחם לבררם ולהפיץ תורה</p><p>חג שמח</p>',
+		'104346761184413764674',
+		'יהונתן גור',
+		'2022-04-10 06:07:48'
+		)
+		;
+
