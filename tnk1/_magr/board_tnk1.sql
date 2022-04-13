@@ -5853,3 +5853,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/sofrim/reuven/lvn_mcrym.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-04-12 11:35:25'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-12-22.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-04-13 05:08:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_21.html'
+		;
+
