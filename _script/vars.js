@@ -992,7 +992,13 @@ var psuqAnchorStyle = { name: 'psuqAnchor',  element: 'a', attributes: {class: '
 
 CKEDITOR.stylesSet.add( 'my_styles', [h2Style, h3Style, advancedStyle, futureStyle, smallStyle, psuqStyle, mfrjStyle, psuqAnchorStyle] );
 
-var config = {language: 'he', stylesSet: 'my_styles'};
+var config = {
+    language: 'he', 
+    stylesSet: 'my_styles',
+
+    // Do not filter HTML tags: https://stackoverflow.com/a/15659962/827927
+	allowedContent: true,
+};
 
 CKEDITOR.inline_with_keyboard_shortcuts = function(id) {
     var editor1 = CKEDITOR.inline(id, config);
