@@ -1,88 +1,53 @@
 <?php
 error_reporting(E_ALL);
 
-
 /**
- * @file sgulot_print_website.php - write Sgulot Mishley to files, for the website.
+ * @file sgulot_print_website.php - write a file for each verse.
  * @author Erel Segal Halevi אראל סגל הלוי
  * קידוד אחיד
- * @date 2012-07-16
+ * @date 2012-07-16 -- 2022-04-17
  */
 
 require_once('sgulot_library.php');
 $GLOBALS['AUTOWIDTH'] = false;
 $GLOBALS['AUTOORDER'] = false;
 
-$GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
-$GLOBALS['linkroot'] = "../../..";
-
 $path_from_site_to_mj = "ktuv/mj"; 
+$book_number = 28;
+
 $GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
 $GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
 
 $GLOBALS['SCRIPT'] = "$fileroot/_script";
 require_once("$SCRIPT/hebrew.php");
-require_once("$SCRIPT/file.php");  // fixed_template
-
-require_once("$SCRIPT/sql.php");
-$GLOBALS['DEBUG_SELECT_QUERIES'] = isset($_GET['debug_select']);
-$GLOBALS['DEBUG_QUERY_TIMES'] = isset($_GET['debug_times']);
-$return_html = coalesce($_GET['return_html'],null);  // if true, show the HTML of the first verse, and exit.
-
-if ($return_html) {
-	$GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot');
-}
-
-if (!$return_html) {
-?>
-	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-	<html dir='rtl' lang='he'>
-	<head>
-	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-	<title>Sgulot Mishley</title>
-	<link type='text/css' rel='stylesheet' href='sgulot.css' />
-	<script type='text/javascript' src='/_script/jquery-1.8.1.min.js'></script>
-	<script type='text/javascript' src='/_script/jquery.masonry.min.js'></script>
-	<script>
-	
-	</script>
-	</head>
-	<body>
-<?php 
-}
 
 require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
-
-
-$book_number = 28;
 list($book_code, $book_name) = sql_evaluate_assoc(
 	"SELECT qod AS `0`, kotrt AS `1` FROM sfrim WHERE qod_mamre=$book_number");
 
-if ($return_html) {
-	$query = "
-		SELECT * FROM sgulot
-		WHERE main_qod=".quote_all($return_html);
-} else {
-	if (!isset($_GET['chapter'])) {
-		print("<p dir='ltr'>SYNTAX: sgulot_print_website.php?chapter={number}...[&limit=...]</p>");
-		die;
-	}
+print("book_code=$book_code, book_name=$book_name\n");
+
 	
-	$chapter_number = (int)$_GET['chapter'];
-	
-	$offset = coalesce($_GET["offset"],0);
-	$limit = coalesce($_GET["limit"],1);
-	
-	
-	$query = "
-		SELECT * FROM sgulot
-		WHERE book=".quote_all($book_code)."
-		".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
-		ORDER BY book, chapter_number, verse_number
-		LIMIT $offset,$limit";
+if (!isset($_GET['chapter'])) {
+	print("<p dir='ltr'>SYNTAX: sgulot_print_website.php?chapter={number}...[&limit=...]</p>");
+	die;
 }
+
+$chapter_number = (int)$_GET['chapter'];
+
+$offset = coalesce($_GET["offset"],0);
+$limit = coalesce($_GET["limit"],1);
+
+
+$query = "
+	SELECT * FROM sgulot
+	WHERE book=".quote_all($book_code)."
+	".($chapter_number>0? " AND chapter_number=$chapter_number": " AND chapter_number BETWEEN 1 AND 98")."
+	ORDER BY book, chapter_number, verse_number
+	LIMIT $offset,$limit";
+
 $rows = sql_query_or_die($query);
 while ($row = sql_fetch_assoc($rows)) {
 
@@ -132,13 +97,9 @@ while ($row = sql_fetch_assoc($rows)) {
 	$path_from_reply_to_root = "../$path_from_reply_to_site";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
 	
-	if ($return_html) {
-		$title_utf8 = $row['kotrt'] = '';
-	} else {
-		$title_utf8 = $row['kotrt'];
-		if (!$title_utf8)
-			$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
-	}
+	$title_utf8 = $row['kotrt'];
+	if (!$title_utf8)
+		$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
 	$title_with_html = $title_without_html = utf8_to_windows1255($title_utf8);
 	$titleType = "";
 	$author = $username = utf8_to_windows1255("אראל");
@@ -180,11 +141,6 @@ while ($row = sql_fetch_assoc($rows)) {
 	$templatebody = fixed_template($templatename);
 	$body = eval($templatebody);
 	
-	if ($return_html) {
-		print windows1255_to_utf8($body);
-		return;
-	}
-
 	file_put_contents("$fileroot/$path_from_root_to_reply", $body, LOCK_EX)
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
 	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
