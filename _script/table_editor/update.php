@@ -85,10 +85,14 @@ function update_table_data ($table, $db_link, $cfg_db_link, $cfg_table, &$messag
             } 
             $where .= '1';            
             $update_query = substr ($update_query,0,-2).$where.' LIMIT 1;';
+            // print("UPDATE query: $update_query");
+            // die;
             run_query ($update_query, $db_link);
-            if (get_error()) 
+            if (get_error()) {
                 $message .= $update_query.'<br />'.get_error().'<br />';
-            else {       // Erel: backup the query
+                print("UPDATE ERROR: $message");
+                die;
+            } else {       // Erel: backup the query
                include_once(dirname(__FILE__) . '/../sql_backup.php');
                backup_table_query($table, $update_query);
                if ($delete_row)
