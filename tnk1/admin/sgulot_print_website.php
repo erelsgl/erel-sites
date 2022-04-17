@@ -55,7 +55,7 @@ while ($row = sql_fetch_assoc($rows)) {
 	$chapter_number = (int)$row['chapter_number'];
 	list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
-	
+
 	$verse_number = (int)$row['verse_number'];
 	list($verse_code, $verse_letter) = sql_evaluate_assoc(
 		"SELECT qod_mlbim `0`, kotrt `1`  FROM tnk.prqim WHERE mspr=$verse_number");
