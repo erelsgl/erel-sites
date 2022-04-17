@@ -31,4 +31,7 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Dialog windows are also simplified.
 	config.removeDialogTabs = 'link:advanced';
+
+	// Do not filter HTML tags: https://stackoverflow.com/a/15659962/827927
+	config.allowedContent = true;
 };
