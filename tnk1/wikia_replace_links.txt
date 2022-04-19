@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2022-03-18 13:08:04
+# This file was automatically generated at 2022-04-19 18:19:47
 
 sub wikia_replace_links {
 $_=shift;
@@ -3360,6 +3360,7 @@ s|${OPENLINK}tnk1/nvia/yjayhu/yj-18-0406|[[ביאור:ישעיהו יח - הקב
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-16-0107|[[ביאור:מקלט מדיני לפליטים המואבים|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-13-12|[[ביאור:ערך האדם בעתיד|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-12-01|[[ביאור:באחרית הימים נגיד תודה על כל הצרות|ig;
+s|${OPENLINK}tnk1/nvia/yjayhu/yj-11-09|[[ביאור:לא ירעו ולא ישחיתו בכל הר קודשי|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-1029|[[ביאור:ישעיהו מוכיח את האשורים|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-09-0709|[[ביאור:לבנים נפלו וגזית נבנה?!|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/yj-09-0305|[[ביאור:המנהיג האידיאלי רואה במשרה עול|ig;
@@ -3456,6 +3457,9 @@ s|${OPENLINK}tnk1/nvia/tryasr/yn-03-07|[[ביאור:למה צמו הבהמות?|
 s|${OPENLINK}tnk1/nvia/tryasr/yl-02-16|[[ביאור:פיקוח נפש דוחה משפחה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-03-06|[[ביאור:עמד וימודד ארץ, ראה ויתר גוים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-03|[[ביאור:התפילה של חבקוק|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xv-0206|[[ביאור:השודד אחרים, מכביד את החוב על עצמו|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xv-02-14|[[ביאור:דעת ה' תכסה את העולם כמו שמים מכסים את הים|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/xv-02-08|[[ביאור:כשעם שודד עמים אחרים, שאר העמים צריכים להתאחד ולפעול נגדו|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-02-04|[[ביאור:צדיק באמונתו יחיה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-02-01|[[ביאור:חבקוק הנביא וחוני המעגל|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-02|[[ביאור:התוכחה של חבקוק|ig;
@@ -7222,6 +7226,7 @@ s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_2|[[ביאור:'אוריה' - 
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_1|[[ביאור:'שישמור על ישראל' - בביצוע עפרה חזה ז"ל|ig;
 s|${OPENLINK}tnk1/messages/klli_jirim_jirim_xdjim_0|[[ביאור:'מת אב ומת אלול' - כתב נתן יונתן ז"ל, הלחין צביקה פיק|ig;
 s|${OPENLINK}tnk1/messages/king_of_assyria_or_king_of_persia.pdf|[[ביאור:King of Assyria or King of Persia|ig;
+s|${OPENLINK}tnk1/messages/keeping_the_sabbath_day.pdf|[[ביאור:Keeping the Sabbath day|ig;
 s|${OPENLINK}tnk1/messages/jt_anwj___tyewd_txylt_hanwjwt.pdf|[[ביאור:אדם שת אנוש = תיעוד תחילת האנושות|ig;
 s|${OPENLINK}tnk1/messages/job_s_crocodile.docx|[[ביאור:Job's crocodile|ig;
 s|${OPENLINK}tnk1/messages/jmwt_37_hgybwrym.pdf|[[ביאור:אלה שמות 37 הגיבורים|ig;
@@ -8245,7 +8250,16 @@ s|${OPENLINK}tnk1/messages/forums_146|[[ביאור:'משאלת גד וראובן
 s|${OPENLINK}tnk1/messages/forums_145|[[ביאור:'מסע העם' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_144|[[ביאור:פרשת מטות מסעי - מסר למנהיגים - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_143|[[ביאור:'נחישותן של בנות  צלופחד' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1427|[[ביאור:חג הפסח - מה הקשר לגאולה העתידית?|ig;
+s|${OPENLINK}tnk1/messages/forums_1426|[[ביאור:'הגאולה העתידית' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1425|[[ביאור:'נבואת מלאכי - יום הדין' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1423|[[ביאור:פרשת מצורע ושבת הגדול - מה הקשר?|ig;
+s|${OPENLINK}tnk1/messages/forums_1422|[[ביאור:'היולדת  בדרכה אל הכהן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1421|[[ביאור:פרשת תזריע ושבת החודש - מה הקשר?|ig;
+s|${OPENLINK}tnk1/messages/forums_1420|[[ביאור:'מטומאה לטהרה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_142|[[ביאור:'סמיכת יהושע למנהיג' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1419|[[ביאור:פרשת שמיני - מטרת הטהרה - ומהי "שבת פרה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1418|[[ביאור:'הבאים בשערי המקדש' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1416|[[ביאור:פרשת צו - הקשר להפטרה - לדברי ירמיהו|ig;
 s|${OPENLINK}tnk1/messages/forums_1415|[[ביאור:פרשת ויקרא - הקשר למגילת אסתר ושבת זכור|ig;
 s|${OPENLINK}tnk1/messages/forums_1413|[[ביאור:ברכת שלמה ביום חג (c)|ig;
@@ -8960,6 +8974,7 @@ s|${OPENLINK}tnk1/messages/a_point_in_time_joseph_is_37_years_old.pdf|[[ביאו
 s|${OPENLINK}tnk1/messages/a_place_named_beer_sheba.pdf|[[ביאור:A place named Beer - Sheba|ig;
 s|${OPENLINK}tnk1/messages/a_new_interpretation_of_a_famous_biblical_saying.pdf|[[ביאור:A new interpretation of a famous biblical saying|ig;
 s|${OPENLINK}tnk1/messages/a_lion_on_the_watch_tower.pdf|[[ביאור:A lion on the watch tower|ig;
+s|${OPENLINK}tnk1/messages/a_just_balance.pdf|[[ביאור:A just balance|ig;
 s|${OPENLINK}tnk1/messages/a_gift_of_your_hand.pdf|[[ביאור:A gift of your hand|ig;
 s|${OPENLINK}tnk1/messages/a_case_of_prototokos_antipathy.pdf|[[ביאור:A case of prototokos antipathy|ig;
 s|${OPENLINK}tnk1/messages/axd_wayn_jny_lw.pdf|[[ביאור:הוא אחד ואין שני לו|ig;
