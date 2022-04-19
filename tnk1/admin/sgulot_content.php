@@ -9,54 +9,78 @@
 
 require_once("sikum_library.php");
 
+
 function html_for_page($row) {
 	global $fileroot;
 
+	$book_name = $row['book_name'];
 	$chapter_letter = $row['chapter_letter'];
 	$chapter_code = $row['chapter_code'];
 	$verse_number = $row['verse_number'];
-	$book_name = $row['book_name'];
 	$is_prq = ($verse_number<=0);
 
 	/*** Create the page class and the opening div: ***/
 	$page_class = "single_height";
-	$html = "
-		<div class='page $page_class'>
-		";
-	
-	/*** Add the verse number and text: ***/
+	$html = "";
+	$html .= html_for_existing_contents($row);
+
+    return clean_urls($html);
+}
+
+
+
+/**
+ * Create the HTML for the verse number and text.
+ */
+function html_for_verse($row) {
+	$book_name = $row['book_name'];
+	$chapter_letter = $row['chapter_letter'];
+	$verse_number = $row['verse_number'];
 	$span_verse_number = (
 		$row['verse_number']==0||$row['verse_number']==99||$row['chapter_letter']==''? "": 
 		"<span class='verse_number'>$book_name $chapter_letter$verse_number: </span>");
 	$span_verse_text = "<span class='verse_text'>".'"'."$row[text_niqud_pisuq]".'"'."</span>";
-	$html .= "
+	return "
 		<div class='verse'>
 			$span_verse_number
 			$span_verse_text
 		</div><!--verse-->
 		";
-
-	/*** Add the existing contents, if any: ***/
-	$qod_in_prt_tnk1 = "ביאור:$book_name $chapter_letter$verse_number";
-	$ktovt = sql_evaluate("SELECT ktovt FROM prt_tnk1 WHERE qod=".quote_all($qod_in_prt_tnk1));
-	if ($ktovt!="undefined" && preg_match('/^tnk1/', $ktovt)) {
-			// $html .= "
-			// 	<div class='long'>";
-			$html .= div_contents(file_get_contents("$fileroot/$ktovt"), "tokn");
-			// $html .= "
-			// 	</div><!--long-->";
-	} else {
-		$html .= sikum($book_name, $chapter_letter, $verse_number, true, true, true);
-	}
-	
-	/*** Add the footer: ***/
-	$html .= "
-	</div><!--page-->
-";
-
-    return clean_urls($html);
 }
 
+/**
+ * Check if there is data in the prt_tnk1 table corresponding to the verse in the given row.
+ * If yes, returns the relevant row.
+ * If not, returns false.
+ */
+function data_in_prt_tnk1($row) {
+	$book_name = $row['book_name'];
+	$chapter_letter = $row['chapter_letter'];
+	$verse_number = $row['verse_number'];
+
+	$qod_in_prt_tnk1 = "ביאור:$book_name $chapter_letter$verse_number";
+	$rows = sql_query_or_die("SELECT * FROM prt_tnk1 WHERE qod=".quote_all($qod_in_prt_tnk1));
+	if (mysql_num_rows($rows)>=1) {
+		return sql_fetch_assoc($rows);
+	} else {
+		return false;
+	}
+}
+
+function html_for_existing_contents($row) {
+	$book_name = $row['book_name'];
+	$chapter_letter = $row['chapter_letter'];
+	$verse_number = $row['verse_number'];
+	$verse_text = $row['text_niqud_pisuq'];
+
+	if ($data_in_prt_tnk1 = data_in_prt_tnk1($row)) {
+		$ktovt = $data_in_prt_tnk1["ktovt"];
+		if (preg_match("/^tnk1/",$ktovt)) {
+			return div_contents(file_get_contents("$fileroot/$data_in_prt_tnk1[ktovt]"), "tokn");
+		}
+	} 
+	return sikum($book_name, $chapter_letter, $verse_number, $verse_text, true, true, true);
+}
 
 
 
@@ -107,6 +131,8 @@ if (!debug_backtrace()) {  # MAIN PROGRAM FOR TESTING
 	";
 	$rows = sql_query_or_die($query);
 	$row = sql_fetch_assoc($rows);
+	// print(html_for_verse($row));
+	// print_r(data_in_prt_tnk1($row));
 	print(html_for_page($row));
 
 	// $html = '

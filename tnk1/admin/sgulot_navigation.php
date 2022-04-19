@@ -60,7 +60,7 @@ function tnk_navigation($book_name) {
 	}
 	return "
 		<tr class='tnk_navigation'><td>
-			&nbsp;&nbsp;&nbsp;ספר&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;ספר:&nbsp;&nbsp;
 			$books
 		</td></tr>
 		";
@@ -92,8 +92,7 @@ function book_navigation($book_name, $chapter_letter) {
 	}
 	return "
 		<tr class='book_navigation'><td>
-			<a href='00-00.html'><b>ספר $book_name</b></a>
-			&nbsp;&nbsp;&nbsp;פרק&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;פרק:&nbsp;&nbsp;
 			$chapters
 		</td></tr>
 
@@ -127,12 +126,11 @@ function chapter_navigation($book_name, $chapter_letter, $chapter_code, $verse_n
 			"<a href='$href'>$link_title</a>");
 		$verses .= "
 			&nbsp;$link&nbsp;";
-		if ($other_verse_number==0) 
-			$verses .= "&nbsp;&nbsp;&nbsp;פסוק&nbsp;&nbsp;";
 	}
 	return "
 		<tr class='chapter_navigation'><td>
-			$verses
+		פסוק:&nbsp;&nbsp;
+		$verses
 		</td></tr>
 		";
 }

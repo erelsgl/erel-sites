@@ -8,16 +8,27 @@ error_reporting(E_ALL);
  * @date 2012-07-16 -- 2022-04-17
  */
 
-require_once('sgulot_library.php');
-$GLOBALS['AUTOWIDTH'] = false;
-$GLOBALS['AUTOORDER'] = false;
+// require_once('sgulot_library.php');
+// $GLOBALS['AUTOWIDTH'] = false;
+// $GLOBALS['AUTOORDER'] = false;
+// $GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
+// $GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
 
-$GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
-$GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
+$GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../..");
+$GLOBALS['linkroot'] = "../..";
+require_once("$fileroot/_script/hebrew.php");
 
-$GLOBALS['SCRIPT'] = "$fileroot/_script";
-require_once("$SCRIPT/hebrew.php");
+// require_once("$fileroot/_script/file.php");
+require_once("$fileroot/_script/mkpath.php");
+// require_once("$fileroot/_script/string.php");
+require_once("$fileroot/_script/string_torausfm.php");        // fixed_template
+// require_once("$fileroot/_script/hebrew_internal_name.php");
+// require_once("$fileroot/_script/benchmark.php");
+// require_once("$fileroot/_script/fix_links.php");
+// require_once("$fileroot/_script/coalesce.php");
+// require_once("$fileroot/_script/html_torausfm.php");
 
+require_once("$fileroot/_script/sql.php");
 require("$fileroot/tnk1/admin/db_connect.php");
 sql_set_charset('utf8');
 
@@ -49,13 +60,6 @@ $map_book_name_to_folder = sql_evaluate_array_key_value(
 require_once('sgulot_navigation.php');
 require_once('sgulot_content.php');
 
-
-if (!isset($_GET['chapter'])) {
-	print("<p dir='ltr'>SYNTAX: sgulot_print_website.php?chapter={number}...[&limit=...]</p>");
-	die;
-}
-
-$chapter_number = (int)$_GET['chapter'];
 
 $book_name = "בראשית";
 $chapter_letter="ה";
@@ -100,10 +104,6 @@ while ($row = sql_fetch_assoc($rows)) {
 			"$book_name $chapter_letter $verse_number"
 	);
 
-	// $verse_link = $verse_number==0? 
-	// 	"": 
-	// 	utf8_to_windows1255("<a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>$current_title</a>");
-
 	global $fileroot, $newline, $lang, $direction, $bodyclass, $fullbody,
 		$site, $path_from_reply_to_root, $path_from_root_to_reply, $path_from_reply_to_site, $path_from_site_to_document,
 		$title_without_html, $title_with_html, $titleType,
@@ -124,18 +124,29 @@ while ($row = sql_fetch_assoc($rows)) {
 	$path_from_reply_to_root = "../$path_from_reply_to_site";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
 	
-	$title_utf8 = $row['kotrt'];
-	if (!$title_utf8)
+
+	if ($data_in_prt_tnk1 = data_in_prt_tnk1($row) && preg_match("/^tnk1/",$data_in_prt_tnk1["ktovt"])) {
+		$fullbody = div_contents(file_get_contents("$fileroot/$data_in_prt_tnk1[ktovt]"), "tokn");
+		$title_utf8 = $data_in_prt_tnk1['kotrt'];
+		$author = $username = $data_in_prt_tnk1['m'];
+		$email = $data_in_prt_tnk1['l'];
+	} else {
+		$title_utf8 = '';
+		$verse_text = $row['text_niqud_pisuq'];
+		$fullbody = sikum($book_name, $chapter_letter, $verse_number, $verse_text, true, true, true);		
+		$author = $username = "";
+	}
+
+	/*** compute title: ***/
+	if (!$title_utf8) {
 		$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
+	}
 	$title_with_html = $title_without_html = utf8_to_windows1255($title_utf8);
 	$titleType = "";
-	$author = $username = utf8_to_windows1255("אראל");
-	$email = "";
 	$anipruj = false;
 
 	$row['tosfot'] = ""; // "send to next page" is meaningless in the website
 	$link_to_verse = false; //$chapter_number>0 && $verse_number>0 && $verse_number<99;
-	$fullbody = html_for_page($row);
 	
 	$navigation_bars = navigation_bars($book_name, $chapter_letter, $chapter_code, $verse_number);
 	# The div with id='tokn' contains the content that can be edited through the website.
@@ -161,10 +172,11 @@ while ($row = sql_fetch_assoc($rows)) {
 	
 	$charset = "windows-1255";
 
-	$templatename = "$SCRIPT/newfiletemplate.pm";
+	$templatename = "$fileroot/_script/newfiletemplate.pm";
 	$templatebody = fixed_template($templatename);
 	$body = eval($templatebody);
 
+	mkpath("$fileroot/$site/$path_from_site_to_book");
 	file_put_contents("$fileroot/$path_from_root_to_reply", $body, LOCK_EX)
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
 	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
@@ -173,9 +185,4 @@ while ($row = sql_fetch_assoc($rows)) {
 }
 
 
-
-
 ?>
-</body>
-</html>
-
