@@ -167,7 +167,7 @@ function clean_wiki_code($wikicode) {
     return $wikicode;
 }
 
-function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
+function wiki_for_page($row, $book_number, $book_name) {
 	global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
 	global $MSPR_TO_QOD_MLBIM;
 
@@ -244,7 +244,7 @@ function wiki_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 }
 
 
-function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $icons=true) {
+function html_for_page($row, $book_number, $book_name) {
 	global $BIG_FIELDS, $BIG_FIELDS_ORDER, $SMALL_FIELDS, $SMALL_FIELDS_ORDER;
 	global $MSPR_TO_QOD_MLBIM, $MSPR_TO_KOTRT_PRQ;
 	$chapter_number = $row['chapter_number'];
@@ -255,9 +255,6 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	$verse_number = $row['verse_number'];
 	$is_prq = ($verse_number<=0);
 
-	$send_to_next_page = False;
-
-
 	/*** Create the page class and the opening div: ***/
 	$page_class = "single_height";
 	if ($row["pages"]>1)
@@ -265,26 +262,18 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	if ($chapter_number==99)	 // דף שער
 		$page_class = "gate";
 	$html = "
-		<div class='page $page_class'".($send_to_next_page? " style='border-bottom:none'": "").">
+		<div class='page $page_class'>
 		";
 	
 	/*** Add the verse text: ***/
-	$html .= ($link_to_verse? 
-		"
-		<div class='verse_and_tirgumim'>
-		<p><a class='psuq' href='/tnk1/prqim/t$book_number$chapter_code.htm#$verse_number'>
-			".(0<$verse_number && $verse_number<99? "$book_name $chapter_letter$verse_number": "$book_name $chapter_letter")."
-		</a>".(0<$verse_number && $verse_number<99? ": \"<q class='psuq'>$row[verse_text]</q>\"": ":")."</p>
-		": 
-		"
+	$html .= "
 		<div class='verse_and_tirgumim'>
 		<div class='verse'>
 			".($row['verse_number']==0||$row['verse_number']==99||$row['chapter_number']==0? "": "<span class='verse_number'> $chapter_letter$verse_number</span>")."
 			<span class='verse_text'>$row[verse_text]</span>
 		</div>
-		"
-		);
-
+		";
+	
 	/*** Add the small (short) cells: ***/
 	$html .= "
 		<div class='short'>";
@@ -292,7 +281,7 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	foreach ($SMALL_FIELDS_ORDER as $field) {
 		$values = $SMALL_FIELDS[$field];
 		if (!$values["include"]) continue;	// ignore this field altogether
-		array_push($small_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]));
+		array_push($small_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>"", "content"=>$row[$field]));
 	}
 	$small_cells = contents_with_classes($small_cells);
 	foreach ($small_cells as $column)
@@ -310,13 +299,11 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 	foreach ($BIG_FIELDS_ORDER as $field) {
 		$values = $BIG_FIELDS[$field];
 		if (!$values["include"]) continue;	// ignore this field altogether
-		if ($field==$send_to_next_page) continue; // print this field in next page
-		array_push($big_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]));
+		array_push($big_cells, array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>"", "content"=>$row[$field]));
 	}
 	$big_cells = contents_with_classes($big_cells);
 	foreach ($big_cells as $column)
-		if ($column['mainclass'] != $send_to_next_page)
-			$html .= html_for_long_cell($column);
+		$html .= html_for_long_cell($column);
 	$html .= "
 	</div><!--long-->
 	";
@@ -332,25 +319,8 @@ function html_for_page($row, $book_number, $book_name, $link_to_verse=false, $ic
 		<td style='text-align:right'>http://creativecommons.org/licenses/by-sa/3.0/deed.he</td>
 	</tr>
 	</table>": "")."
-		</div><!--page-->
+	</div><!--page-->
 ";
-	if ($send_to_next_page) {
-		$html .= "
-		 <div class='page $page_class' style='border-top:none'>
-	<div class='long'>";
-		foreach ($BIG_FIELDS_ORDER as $field) {
-			$values = $BIG_FIELDS[$field];
-			if (!$values["include"]) continue;	// ignore this field altogether
-			if ($field!=$send_to_next_page) continue; // this field printed in previous page
-				$column = array("subtitle"=>$values["subtitle"], "mainclass"=>$field, "size"=>$values["size"],	"icon"=>$icons? $values["icon"]: "", "content"=>$row[$field]);
-				$column["class"] = "";
-				$html .= html_for_long_cell($column);
-		}
-		$html .= "
-	</div><!--long-->
-		 </div><!--page-->
-		";
-	}
     return clean_urls($html);
 }
 
