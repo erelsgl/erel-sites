@@ -2325,3 +2325,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>סביב ראשו של משה דיין כתוב הפסוק המעיד על המשיח הראשון לישראל</p><p>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxb2JhV0JSR0lxcG1RZUtWOW9TZ0FQAQ?hl=he&amp;gl=IL&amp;ceid=IL%3Ahe</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-04-20 12:12:19'
+		)
+		;
+
