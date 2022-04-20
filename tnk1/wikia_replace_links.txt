@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2022-04-19 18:19:47
+# This file was automatically generated at 2022-04-20 12:25:18
 
 sub wikia_replace_links {
 $_=shift;
@@ -3414,6 +3414,7 @@ s|${OPENLINK}tnk1/nvia/yjayhu/marriage1|[[ביאור:זוגיות עם הארץ 
 s|${OPENLINK}tnk1/nvia/yjayhu/ljon|[[ביאור:לשון וסגנון בספר ישעיהו|ig;
 s|${OPENLINK}tnk1/nvia/yjayhu/D-yj-57-10|[[ביאור:התועלת בחיות מחמד|ig;
 s|${OPENLINK}tnk1/nvia/yj-30-14|[[ביאור:מה אפשר לעשות בחרס שבור?|ig;
+s|${OPENLINK}tnk1/nvia/xv/03-02|[[ביאור:תפילה שה' יתגלה בקרוב|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-mlakim|[[ביאור:המלאכים של זכריה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-14-02|[[ביאור:חלוקת ירושלים בנבואת זכריה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/zk-1214|[[ביאור:מלחמות סוף העולם|ig;
