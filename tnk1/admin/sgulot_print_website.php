@@ -160,7 +160,7 @@ function print_page($row) {
 
 
 
-$book_name = "שמות";
+$book_name = "ויקרא";
 $chapter_letter="";
 $verse_number=0;
 $offset = 0;

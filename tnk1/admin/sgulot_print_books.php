@@ -53,11 +53,12 @@ function print_book_page($row) {
 	$qod_mamre = $row['qod_mamre'];
 	$path_from_site_to_book = $map_book_name_to_folder[$book_name];
 	$site = "tnk1";
+	$ext = ".html";
 	$path_from_site_to_document = "$path_from_site_to_book/index";
 	$path_from_root_to_file_without_ext = "$site/$path_from_site_to_document";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
 
-	$fullbody = "
+	$body = "
 		<html>
 			<head>
 				<meta http-equiv='refresh' content='0; url=/tnk1/prqim/t$qod_mamre.htm'/>
@@ -68,13 +69,13 @@ function print_book_page($row) {
 	file_put_contents("$fileroot/$path_from_root_to_reply", $body, LOCK_EX)
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
 	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
-	print "$title_utf8: $path_from_root_to_reply\n";
+	print "$book_name: $path_from_root_to_reply\n";
 }
 
 
 
 $offset = 0;
-$limit = 1;
+$limit = 40;
 
 $rows = sql_query_or_die("
 	SELECT * FROM sfrim
