@@ -51,7 +51,7 @@ function tnk_navigation($book_name) {
 		$other_book_folder = $map_xtiva_to_folder[$other_book_xtiva];
 
 		$link_title = $other_book_name;
-		$href = "../../$other_book_folder/$other_book_code/00-00.html";
+		$href = "../../$other_book_folder/$other_book_code/index.html";
 		$link = ($book_name==$other_book_name? 
 			"<b><a href='$href'>$link_title</a></b>":
 			"<a href='$href'>$link_title</a>");
@@ -60,7 +60,7 @@ function tnk_navigation($book_name) {
 	}
 	return "
 		<tr class='tnk_navigation'><td>
-			&nbsp;&nbsp;&nbsp;ספר:&nbsp;&nbsp;
+			ספר:&nbsp;&nbsp;
 			$books
 		</td></tr>
 		";
@@ -92,7 +92,7 @@ function book_navigation($book_name, $chapter_letter) {
 	}
 	return "
 		<tr class='book_navigation'><td>
-			&nbsp;&nbsp;&nbsp;פרק:&nbsp;&nbsp;
+			פרק:&nbsp;&nbsp;
 			$chapters
 		</td></tr>
 
@@ -110,7 +110,8 @@ function chapter_navigation($book_name, $chapter_letter, $chapter_code, $verse_n
 		LEFT JOIN tnk.prqim ON(tnk.prqim.mspr = tnk.psuqim.verse_number)
 		WHERE tnk.psuqim.book_name=".quote_all($book_name)."
 		AND   tnk.psuqim.chapter_letter=".quote_all($chapter_letter)."
-		AND verse_number BETWEEN 0 AND 99
+		AND verse_number BETWEEN 1 AND 99
+		ORDER BY verse_number ASC
 		";
 	$rows = sql_query_or_die($query);
 	$verses = "";
@@ -126,6 +127,8 @@ function chapter_navigation($book_name, $chapter_letter, $chapter_code, $verse_n
 			"<a href='$href'>$link_title</a>");
 		$verses .= "
 			&nbsp;$link&nbsp;";
+		// if ($other_verse_number==0) 
+		// 	$verses .= "&nbsp;&nbsp;&nbsp;פסוק&nbsp;&nbsp;";
 	}
 	return "
 		<tr class='chapter_navigation'><td>

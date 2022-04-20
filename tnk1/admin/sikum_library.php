@@ -20,7 +20,11 @@ function sikum_heading() {
 
 function sikum($sfr, $prq, $psuq, $verse_text,
 	$include_miqraotgdolot, $include_navigation, $include_wikisource) {
-	global $TNKUrl, $is_local;
+	global $linkroot, $is_local;
+
+	if ($psuq==0) {
+		return "<p>... כתבו כאן את הפירוש שלכם למבנה הפרק ...</p>"; 
+	}
 
 	$BEUR = "ביאור";
 	$QTA = "קטע";
@@ -72,13 +76,13 @@ function sikum($sfr, $prq, $psuq, $verse_text,
 
 	$wikisource_titles_to_ignore = array();
 
-	$link = "<a class='psuq' href='/tnk1/prqim/t$qod_sfr$qod_prq.htm#$mspr_psuq'>$kotrt_sfr $ot_prq$mspr_psuq</a>";
+	$link = "<a class='psuq' href='$linkroot/prqim/t$qod_sfr$qod_prq.htm#$mspr_psuq'>$kotrt_sfr $ot_prq$mspr_psuq</a>";
 	$sikum .= "<p>$link: \"<q class='psuq'>$verse_text</q>\"</p>\n";
 
 	if ($include_navigation) {
 		/* קרא את כל המאמרים מאתר הניווט בתנך */
 		sql_query_or_die("
-			CREATE TEMPORARY TABLE mamrim
+			CREATE TEMPORARY TABLE IF NOT EXISTS mamrim
 			SELECT psuq1, bn, kotrt
 			FROM qjr_psuq_tnk1
 			WHERE sfr = $qod3_sfr_quoted

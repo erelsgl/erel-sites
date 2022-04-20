@@ -48,18 +48,20 @@ function html_for_verse($row) {
 		";
 }
 
+function qod_in_prt_tnk1($book_name, $chapter_letter, $verse_number) {
+	return $verse_number==0?
+		"מבנה $book_name $chapter_letter":
+		"ביאור:$book_name $chapter_letter$verse_number";
+}
+
 /**
  * Check if there is data in the prt_tnk1 table corresponding to the verse in the given row.
  * If yes, returns the relevant row.
  * If not, returns false.
  */
-function data_in_prt_tnk1($row) {
-	$book_name = $row['book_name'];
-	$chapter_letter = $row['chapter_letter'];
-	$verse_number = $row['verse_number'];
-
-	$qod_in_prt_tnk1 = "ביאור:$book_name $chapter_letter$verse_number";
-	$rows = sql_query_or_die("SELECT * FROM prt_tnk1 WHERE qod=".quote_all($qod_in_prt_tnk1));
+function data_in_prt_tnk1($book_name, $chapter_letter, $verse_number) {
+	$qod = qod_in_prt_tnk1($book_name, $chapter_letter, $verse_number);
+	$rows = sql_query_or_die("SELECT * FROM prt_tnk1 WHERE qod=".quote_all($qod));
 	if (mysql_num_rows($rows)>=1) {
 		return sql_fetch_assoc($rows);
 	} else {
@@ -73,7 +75,7 @@ function html_for_existing_contents($row) {
 	$verse_number = $row['verse_number'];
 	$verse_text = $row['text_niqud_pisuq'];
 
-	if ($data_in_prt_tnk1 = data_in_prt_tnk1($row)) {
+	if ($data_in_prt_tnk1 = data_in_prt_tnk1($book_name, $chapter_letter, $verse_number)) {
 		$ktovt = $data_in_prt_tnk1["ktovt"];
 		if (preg_match("/^tnk1/",$ktovt)) {
 			return div_contents(file_get_contents("$fileroot/$data_in_prt_tnk1[ktovt]"), "tokn");

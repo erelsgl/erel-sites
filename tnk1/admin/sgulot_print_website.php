@@ -8,25 +8,11 @@ error_reporting(E_ALL);
  * @date 2012-07-16 -- 2022-04-17
  */
 
-// require_once('sgulot_library.php');
-// $GLOBALS['AUTOWIDTH'] = false;
-// $GLOBALS['AUTOORDER'] = false;
-// $GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
-// $GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
-
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../..");
 $GLOBALS['linkroot'] = "../..";
 require_once("$fileroot/_script/hebrew.php");
-
-// require_once("$fileroot/_script/file.php");
 require_once("$fileroot/_script/mkpath.php");
-// require_once("$fileroot/_script/string.php");
 require_once("$fileroot/_script/string_torausfm.php");        // fixed_template
-// require_once("$fileroot/_script/hebrew_internal_name.php");
-// require_once("$fileroot/_script/benchmark.php");
-// require_once("$fileroot/_script/fix_links.php");
-// require_once("$fileroot/_script/coalesce.php");
-// require_once("$fileroot/_script/html_torausfm.php");
 
 require_once("$fileroot/_script/sql.php");
 require("$fileroot/tnk1/admin/db_connect.php");
@@ -56,31 +42,13 @@ $map_book_name_to_folder = sql_evaluate_array_key_value(
 	FROM tnk.sfrim
 	');
 
-			
 require_once('sgulot_navigation.php');
 require_once('sgulot_content.php');
 
+function print_page($row) {
+	global $map_book_name_to_code, $map_book_name_to_folder, $map_letter_to_code, $map_letter_to_number, $map_number_to_code;
+	global $fileroot, $linkroot;
 
-$book_name = "בראשית";
-$chapter_letter="ה";
-$verse_number=10;
-$offset = 0;
-$limit = 1;
-
-$query = "
-	SELECT psuqim.*, prqim.qod_mlbim AS chapter_code
-	FROM psuqim
-	LEFT JOIN prqim ON(psuqim.chapter_letter = prqim.kotrt)
-	WHERE book_name='$book_name'
-	AND   chapter_letter='$chapter_letter'
-	AND   verse_number=$verse_number
-
-	ORDER BY book_name, chapter_letter, verse_number
-	LIMIT $offset,$limit
-";
-
-$rows = sql_query_or_die($query);
-while ($row = sql_fetch_assoc($rows)) {
 	$book_name = $row['book_name'];
 	$path_from_site_to_book = $map_book_name_to_folder[$book_name];
 
@@ -88,14 +56,11 @@ while ($row = sql_fetch_assoc($rows)) {
 	$chapter_letter = $row['chapter_letter'];
 	$row["chapter_code"] = $chapter_code = $map_letter_to_code[$chapter_letter];
 	$chapter_number = $map_letter_to_number[$chapter_letter];
-	// $chapter_number = (int)$row['chapter_number'];
-	// list($chapter_code, $chapter_letter) = sql_evaluate_assoc(
-	// 	"SELECT qod_mlbim AS `0`, kotrt AS `1` FROM tnk.prqim WHERE mspr=$chapter_number");
 
 	$verse_number = (int)$row['verse_number'];
 	$verse_code = $map_number_to_code[$verse_number];
-	// list($verse_code, $verse_letter) = sql_evaluate_assoc(
-	// 	"SELECT qod_mlbim `0`, kotrt `1`  FROM tnk.prqim WHERE mspr=$verse_number");
+
+	print("$book_name $chapter_letter$verse_number: ");
 
 	/* 2. Calculate title for current page: */	
 	$current_title = (
@@ -123,23 +88,26 @@ while ($row = sql_fetch_assoc($rows)) {
 	$ext = $optional_ext = ".html";
 	$path_from_reply_to_root = "../$path_from_reply_to_site";
 	$path_from_root_to_reply = "$path_from_root_to_file_without_ext$ext";
-	
 
-	if ($data_in_prt_tnk1 = data_in_prt_tnk1($row) && preg_match("/^tnk1/",$data_in_prt_tnk1["ktovt"])) {
+	$data_in_prt_tnk1 = data_in_prt_tnk1($book_name, $chapter_letter, $verse_number);
+	if ($data_in_prt_tnk1 && preg_match("/^tnk1.*html$/",$data_in_prt_tnk1["ktovt"])) {
+		print("data_in_prt_tnk1 exists in $data_in_prt_tnk1[ktovt]. ");
 		$fullbody = div_contents(file_get_contents("$fileroot/$data_in_prt_tnk1[ktovt]"), "tokn");
 		$title_utf8 = $data_in_prt_tnk1['kotrt'];
-		$author = $username = $data_in_prt_tnk1['m'];
-		$email = $data_in_prt_tnk1['l'];
+		$author = $username = utf8_to_windows1255($data_in_prt_tnk1['m']);
+		$email = utf8_to_windows1255($data_in_prt_tnk1['l']);
 	} else {
+		print("data_in_prt_tnk1 does not exist. ");
 		$title_utf8 = '';
 		$verse_text = $row['text_niqud_pisuq'];
 		$fullbody = sikum($book_name, $chapter_letter, $verse_number, $verse_text, true, true, true);		
 		$author = $username = "";
+		$email = "";
 	}
 
 	/*** compute title: ***/
 	if (!$title_utf8) {
-		$title_utf8 = "ביאור:$book_name $chapter_letter$verse_number";
+		$title_utf8 = qod_in_prt_tnk1($book_name, $chapter_letter, $verse_number);
 	}
 	$title_with_html = $title_without_html = utf8_to_windows1255($title_utf8);
 	$titleType = "";
@@ -151,20 +119,25 @@ while ($row = sql_fetch_assoc($rows)) {
 	$navigation_bars = navigation_bars($book_name, $chapter_letter, $chapter_code, $verse_number);
 	# The div with id='tokn' contains the content that can be edited through the website.
 	$fullbody = "
+		$navigation_bars
 		<div id='tokn'>
-		$navigation_bars
 		$fullbody
-		$navigation_bars
 		</div><!--tokn-->
+		$navigation_bars
 		<h2 id='tguvot'>תגובות</h2>
 		<ul id='ultguvot'>
 		<li></li>
 		</ul><!--end-->
 		";
 
-	$fullbody = iconv("UTF-8", "Windows-1255", $fullbody);
-	if (!$fullbody) 
+	/* remove chars that cannot be converted to windows-1255 encoding: */
+	$fullbody = str_replace("—","-",$fullbody);
+	$fullbody_hebrew = iconv("UTF-8", "Windows-1255//TRANSLIT//IGNORE", $fullbody);
+	if (!$fullbody_hebrew) {
+		// print($fullbody);
 		user_error("iconv failed to translate fullbody!",E_USER_ERROR);
+	}
+	$fullbody = $fullbody_hebrew;
 	$origsubject = "";
 
 	$tvnit = "";
@@ -181,7 +154,30 @@ while ($row = sql_fetch_assoc($rows)) {
 		or die("Can't write $fileroot/$path_from_root_to_reply!");
 	@chmod ("$fileroot/$path_from_root_to_reply", 0666);
 
-	print "<p><a href='$linkroot/$path_from_root_to_reply'>$title_utf8</a></p>\n";
+	// print "<p><a href='$linkroot/$path_from_root_to_reply'>$title_utf8</a></p>\n";
+	print "$title_utf8: $path_from_root_to_reply\n";
+}
+
+
+
+$book_name = "שמות";
+$chapter_letter="";
+$verse_number=0;
+$offset = 0;
+$limit = 2000;
+
+$rows = sql_query_or_die("
+	SELECT psuqim.*, prqim.qod_mlbim AS chapter_code
+	FROM psuqim
+	LEFT JOIN prqim ON(psuqim.chapter_letter = prqim.kotrt)
+	WHERE book_name='$book_name'
+	-- AND   chapter_letter='מט' --
+	-- AND   verse_number='1' --
+	ORDER BY book_name, chapter_letter, verse_number
+	LIMIT $offset,$limit
+	");
+while ($row = sql_fetch_assoc($rows)) {
+	print_page($row);
 }
 
 
