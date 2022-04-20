@@ -158,7 +158,7 @@ function print_page($row) {
 
 
 
-$book_name = "בראשית";
+$book_name = "דברים";
 $chapter_letter="";
 $verse_number=0;
 $offset = 0;
