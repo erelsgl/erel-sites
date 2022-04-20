@@ -924,8 +924,8 @@ q.mfrj {
 
 textarea, input { font-family: 'Courier', monospace; font-size: 12pt } /* for easier text entry */
 
-table.inner_navigation { width:100%; background-color:#cfc; border:#080 solid;}
-	table.inner_navigation td { border:none; }
+table.inner_navigation { width:100%; background-color:#eee; border-color:#080; border-style: solid; border-width: 1px 0; font-size:smaller; margin:5px 0;}
+	table.inner_navigation td { border-top: solid 1px; border-left: none; border-right: none; }
 	table.inner_navigation a { text-decoration: none; }
 		table.inner_navigation td.previous {text-align: right; width:33%;}
 		table.inner_navigation td.current {text-align: center; width:33%;}
@@ -934,11 +934,11 @@ table.inner_navigation { width:100%; background-color:#cfc; border:#080 solid;}
 
 /* SGULOT */
 
-body.sgulot table.inner_navigation { width:100%; background-color:#ddf; border:#008 2px solid;}
+/* body.sgulot table.inner_navigation { width:100%; background-color:#ddf; border:#008 2px solid;}
 	body.sgulot table.inner_navigation td { border-top: solid 1px #44c;}
 	body.sgulot div.verse_and_tirgumim q.psuq {font-size: 40px}
 	body.sgulot div.verse { background: none}
-	body.sgulot .future { display: none }
+	body.sgulot .future { display: none } */
 
 .gate .verse .verse_text { font-size: 96px; }
 body.tirgum .page {height:auto}
