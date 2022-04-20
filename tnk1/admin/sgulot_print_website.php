@@ -162,7 +162,7 @@ $book_name = "שופטים";
 $chapter_letter="";
 $verse_number=0;
 $offset = 0;
-$limit = 2000;
+$limit = 99999;
 
 $rows = sql_query_or_die("
 	SELECT psuqim.*, prqim.qod_mlbim AS chapter_code
