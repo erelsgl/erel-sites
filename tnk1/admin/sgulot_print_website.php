@@ -157,8 +157,8 @@ function print_page($row) {
 }
 
 
-$xtiva="נביאים אחרונים";
-$book_name = "שופטים";
+$xtiva="כתובים";
+$book_name = "משלי";
 $chapter_letter="";
 $verse_number=0;
 $offset = 0;
@@ -169,7 +169,7 @@ $rows = sql_query_or_die("
 	FROM psuqim LEFT JOIN sfrim ON(psuqim.book_name=sfrim.kotrt)
 	LEFT JOIN prqim ON(psuqim.chapter_letter = prqim.kotrt)
 	WHERE xtiva='$xtiva'
-	-- book_name='$book_name'  -- 
+	AND book_name<>'$book_name'
 	-- AND   chapter_letter='מט' --
 	-- AND   verse_number='1' --
 	ORDER BY book_name, chapter_letter, verse_number
