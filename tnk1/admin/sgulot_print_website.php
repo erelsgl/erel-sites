@@ -168,8 +168,9 @@ $rows = sql_query_or_die("
 	SELECT psuqim.*, prqim.qod_mlbim AS chapter_code
 	FROM psuqim LEFT JOIN sfrim ON(psuqim.book_name=sfrim.kotrt)
 	LEFT JOIN prqim ON(psuqim.chapter_letter = prqim.kotrt)
-	WHERE xtiva='$xtiva'
-	AND book_name<>'$book_name'
+	WHERE 
+	-- xtiva='$xtiva' AND -- 
+	book_name<>'$book_name'
 	-- AND   chapter_letter='מט' --
 	-- AND   verse_number='1' --
 	ORDER BY book_name, chapter_letter, verse_number
