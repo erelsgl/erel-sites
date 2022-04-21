@@ -6792,3 +6792,57 @@ UPDATE board_tnk1
 			SET sdr_bn=111
 			WHERE ktovt_bn='tnk1/nvia/xv/03-02.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1428.html',
+				NULL,
+				'2022-04-21 06:13:47',
+				'2022-04-21 06:13:47',
+				'שביעי של פסח, מה הקשר בין שירת הים לשירת דוד המלך?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-04-21 06:13:47'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1429.html',
+				NULL,
+				'2022-04-21 06:16:19',
+				'2022-04-21 06:16:19',
+				'שירת דוד המלך/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-04-21 06:16:19'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-04-21 07:22:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
