@@ -2361,3 +2361,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-30-31.html',
+		'<p>סלוקי</p>',
+		'115442155301446467059',
+		'Gil Kenny',
+		'2022-04-22 08:36:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-04-22 08:37:03' 
+			WHERE messageid=11777;
+
