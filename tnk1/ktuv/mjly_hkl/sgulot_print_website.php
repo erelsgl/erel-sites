@@ -16,8 +16,6 @@ $GLOBALS['AUTOORDER'] = false;
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
 $GLOBALS['linkroot'] = "../../..";
 
-//$path_from_site_to_mj = "ktuv/mja"; $GLOBALS['BIG_FIELDS_ORDER'] = array('dquyot', 'hqblot', 'ecot', 'full');
-
 $path_from_site_to_mj = "ktuv/mj"; 
 $GLOBALS['BIG_FIELDS_ORDER'] = array('ecot', 'hqblot', 'mqorot');  // removed 'full'
 $GLOBALS['SMALL_FIELDS_ORDER'] = array('tirgum', 'mcudot');
