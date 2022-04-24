@@ -10,7 +10,7 @@
  *
  * @bug The URL of the script is different than the URL of the source CSS, so if your CSS file has relative URLs (for example, for background images), they might not work. Absolute URLs work fine.
  * 
- * @author Rent a Brain, http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2006-09-17
  * 
  */

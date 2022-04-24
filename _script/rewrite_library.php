@@ -1,7 +1,7 @@
 <?php
 
 /*
-	קידוד חלונות!
+ קידוד חלונות!
 */
 
 require_once('callback.php');
@@ -80,7 +80,7 @@ function add_page() {
 	$addFile = '';
 	
 	$replaceFile = isset($_POST['hxlf_qovc']) && $_POST['hxlf_qovc'];
-	if ($replaceFile && ($current_role!=='editor' && $author!=='רמי ניר')) {
+	if ($replaceFile && ($current_role!=='editor' && $author!=='ן¿½ן¿½ן¿½ ן¿½ן¿½ן¿½')) {
 		user_error("Sorry, as a $current_role you are not allowed to replace files!");
 		$replaceFile=false;
 	}
@@ -93,14 +93,7 @@ function add_page() {
 			die(static_text('hyperlink has spaces'));
 
 		if (preg_match("/print.php?.*ktovt=([^&]*)/",$addHyperlink,$matches))
-			$addHyperlink="http://tora.us.fm/$matches[1]";
-
-		# mirror the URL, if needed
-		list ($directory, $file_name, $source) = getMirroredFileProperties($addHyperlink);
-		if ($directory !== "klli") {
-			mirrorUrl($addHyperlink, $directory . "files", $file_name, $title);
-			$addHyperlink = "http://tora.us.fm/axrimpl/$directory/$file_name.html";
-		}
+			$addHyperlink="https://tora.us.fm/$matches[1]";
 	}
 	else {
 		$addHyperlink = '';
@@ -147,11 +140,11 @@ function add_page() {
 		$addHyperlink = htmlspecialchars($addHyperlink);
 		$addHyperlink = str_replace("#tguvot","",$addHyperlink);
 
-		$path_from_root_to_reply = preg_replace("{http://(www.)?tora.us.fm/}","", $addHyperlink);
-		$path_from_site_to_reply = preg_replace("{http://(www.)?tora.us.fm/}", "../", $addHyperlink);
-		$path_from_document_to_reply = preg_replace("{http://(www.)?tora.us.fm/}", "$path_from_document_to_root", $addHyperlink);
+		$path_from_root_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}","", $addHyperlink);
+		$path_from_site_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}", "../", $addHyperlink);
+		$path_from_document_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}", "$path_from_document_to_root", $addHyperlink);
 
-		if (preg_match("/^http:/", $path_from_site_to_reply)) 
+		if (preg_match("/^https?:/", $path_from_site_to_reply)) 
 			$titleType = ' [' . static_text('external') . ']';
 	} elseif ($addFile) {
 		$path_from_site_to_reply = "messages/$addFile";
@@ -208,7 +201,7 @@ function add_page() {
 			$omq = count($path_parts) - 2;
 			$path_from_reply_to_site = str_repeat('../', $omq);
 			$path_from_reply_to_root = str_repeat('../', ($omq+1));
-			$body =  preg_replace("{<a href=([\"']?)http://(www.)?tora.us.fm/}", "<a href=$1$path_from_reply_to_root", $body);
+			$body =  preg_replace("{<a href=([\"']?)https?://(www.)?tora.us.fm/}", "<a href=$1$path_from_reply_to_root", $body);
 
 			if (!preg_match("/<.*>/",$body)) { // not html - convert spaces to html
 				$body = preg_replace("/[\r\n]+/","<p>",$body);
@@ -321,7 +314,7 @@ function add_to_ancestor() {
 			$new_output_line .= ($addLine? ". ": "</a> ");
 			$new_output_line .= $input_buttons;
 
-			if (!(preg_match("|[א-ת][א-ת]|", $email) || ($site === 'fuelcell') || isCywr())) {
+			if (!(preg_match("|[ן¿½-ן¿½][ן¿½-ן¿½]|", $email) || ($site === 'fuelcell') || isCywr())) {
 				$new_output_line .= "&nbsp;&nbsp;<span class='date'>[" .
 					static_text('written at') .
 					"$date_for_html]</span>";
@@ -428,7 +421,7 @@ function rewrite_page() {
 		substr($body, $indices[2]);
 
 	$body = fix_html($body);
-	$bodyIsDeleted = (preg_match("/למחיקה/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
+	$bodyIsDeleted = (preg_match("/ן¿½ן¿½ן¿½ן¿½ן¿½ן¿½/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
 	if ($bodyIsDeleted) {
 		$to_by_language .= " " . static_text("to delete");
 		$gerund_by_language .= " " . static_text("to delete");
@@ -764,7 +757,7 @@ function fix_html($body) {
 	global $ext;
 	if ($body) {
 		if (preg_match("/htm/",$ext)) $body = sanitize_tags($body);
-		$body = preg_replace("{href=([\"']?)http://(www.)?tora.us.fm/}", "href=$1/", $body); #links are fixed here, for convenience.
+		$body = preg_replace("{href=([\"']?)https?://(www.)?tora.us.fm/}", "href=$1/", $body); #links are fixed here, for convenience.
 		$body = preg_replace("{href=([\"']?)[^<>\"']*(_script|cgi-bin)/print[.](php|pl)[?][^<>\"']*ktovt=([^<>&='\"]*)}", "href=$1/$4.html", $body);
 		$body = preg_replace("@<h(\d)>\s*(<p>|<br>|<br/>|<br />)+@", "<h$1>", $body);
 		$body = preg_replace("@(</p>|<br>|<br/>|<br />)+\s*</h(\d)>@", "</h$2>", $body);
@@ -788,49 +781,6 @@ function block($message) {
 	die;
 }
 
-/**
- * @return ($directory, $file_name, $source)
- * The input $url will be mirrored into $directory/$file_name.html
- */
-function getMirroredFileProperties($url) {
-    $url = preg_replace("{^\s+}","", $url);
-    $url = preg_replace("{\s+$}","", $url);
-
-    if (preg_match("!.*hydepark.*topic_id=(\d+).*whichpage=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[1]_$matches[2]";
-        $source = "הייד פארק";
-    }
-    elseif (preg_match("!.*hydepark.*whichpage=(\d+).*topic_id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[2]_$matches[1]";
-        $source = "הייד פארק";
-    }
-    elseif (preg_match("!.*hydepark.*topic_id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "hydepark";
-        $file_name = "$matches[1]_1";
-        $source = "הייד פארק";
-    }
-    elseif (preg_match("!.*moreshet.*shut.*id=(\d+)!",$url,$matches)) {
-        $directory_for_link = "moreshet";
-        $file_name = "$matches[1]";
-        $source = "שות מורשת";
-    }
-    elseif (preg_match("!https?://(.+)!",$url,$matches)) {
-        $directory_for_link = "klli";
-        $file_name = preg_replace("{[^a-zA-Z0-9.]}",".",$matches[1]);
-        $file_name = str_replace("www.","",$file_name);
-        $file_name = preg_replace("{.html?$}","",$file_name);
-        $file_name = preg_replace("{.doc?$}","",$file_name);
-        $file_name_parts = preg_split("/\./",$file_name);
-        $source = $file_name_parts[0];
-    }
-    else {
-        die ("unknown url format '$url'");
-    }
-    return array($directory_for_link, $file_name, $source);
-}
-
 
 /**
  * @param ($url, $directory_for_link, $file_name)
@@ -841,10 +791,10 @@ function mirrorUrl($url, $directory_for_file, $file_name, $title) {
 	global $fileroot;
 	print "<p>getting $url</p>\n";
 	$content = file_get_contents($url);
-	$content = preg_replace("{http://(www)?.tora.us.fm/}i","../../",$content);
-	$content = preg_replace("{http://[^ ]*hydepark[^ ]*topic_id=(\d+)}i","../../axrimpl/hydepark/$1_1.html",$content);
-	$content = preg_replace("{http://[^ ]*hydepark[^ ]*topic_id=(\d+)[^ ]*whichpage=(\d+)}i","../hydepark/$1_$2.html",$content);
-	$content = preg_replace("{http://[^ ]*hydepark[^ ]*whichpage=(\d+)[^ ]*topic_id=(\d+)}i","../hydepark/$2_$1.html",$content);
+	$content = preg_replace("{https?://(www)?.tora.us.fm/}i","../../",$content);
+	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*topic_id=(\d+)}i","../../axrimpl/hydepark/$1_1.html",$content);
+	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*topic_id=(\d+)[^ ]*whichpage=(\d+)}i","../hydepark/$1_$2.html",$content);
+	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*whichpage=(\d+)[^ ]*topic_id=(\d+)}i","../hydepark/$2_$1.html",$content);
 
 
 

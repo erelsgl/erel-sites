@@ -1,6 +1,8 @@
 /**
  * @license Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see https://ckeditor.com/legal/ckeditor-oss-license
+ * 
+ * @note  THIS FILE IS NOT USED. SEE ckeditor_local.js FOR THE ACTUAL CONFIGURATION.
  */
 
 CKEDITOR.editorConfig = function( config ) {
@@ -31,4 +33,7 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Dialog windows are also simplified.
 	config.removeDialogTabs = 'link:advanced';
+
+	// Do not filter HTML tags: https://stackoverflow.com/a/15659962/827927
+	config.allowedContent = true;
 };

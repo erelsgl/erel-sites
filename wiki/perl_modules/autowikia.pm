@@ -8,7 +8,7 @@ use LWP::Simple;
 
 # INPUT: api_url, username, password.
 # OUTPUT: edit token, OR 0 if failed.
-# For explanation about the login protocol see http://www.mediawiki.org/wiki/API:Login
+# For explanation about the login protocol see https://www.mediawiki.org/wiki/API:Login
 sub login {
 	my ($api_url, $username, $password) = @_;
 

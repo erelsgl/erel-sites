@@ -5,14 +5,14 @@
  * A simplified version of combine_js.php, without the "minify" and "reverse direction" options.
  *
  * @example 1 
-	http://server.name/combine_js.php?PARAMS
+	https://server.name/combine_js.php?PARAMS
  * 
  *	Where PARAMS should contain one parameter:
  *		files=[list_of_paths_to_js_files]: list of paths from the file-root to the seperate Javascript files, without the 'js' extension.
  * and other optional parameters:
  * 		out=path from root to output file (default is to print to standard output, with text/javascript header)
  *
- * @author Erel Segal, Rent a Brain, http://tora.us.fm/rentabrain
+ * @author Erel Segal-Halevi
  * @date 2007-03-05
  * 
  */

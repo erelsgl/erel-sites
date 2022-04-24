@@ -7,7 +7,7 @@
 
 Author:
 -------
-Vyacheslav Smolin (http://www.richarea.com, http://html2xhtml.richarea.com,
+Vyacheslav Smolin (https://www.richarea.com, https://html2xhtml.richarea.com,
 re@richarea.com)
 
 About the script:
@@ -26,7 +26,7 @@ Please see description of function get_xhtml below.
 
 Demo:
 -----
-http://html2xhtml.richarea.com/, http://www.richarea.com/demo/
+https://html2xhtml.richarea.com/, https://www.richarea.com/demo/
 
 License:
 --------

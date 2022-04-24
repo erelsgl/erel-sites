@@ -3,7 +3,7 @@
 /**
  * @file html_torausfm.php - קידוד חלונות
  * HTML header and footer for the tora.us.fm sites
- * @author Erel Segal
+ * @author Erel Segal-Halevi
  * @date 2006-12-09
  */
 
@@ -34,12 +34,12 @@ function html_header_torausfm($qod_quoted, $qod, $kotrt, $sug, $tvnit, $path_fro
 		htmlspecialchars_hebrew($kotrt), 
 		"id = '" . internal_name(str_replace(".html","",$path_from_root_to_document)) . "' class='" . internal_name($sug) . " $tvnit'" ,
 		array("{$path_from_document_to_root}_script/klli.css", "{$path_from_document_to_site}_themes/klli.css"),"
-<meta property='og:url' content='http://tora.us.fm/$ktovt_meta'/>
+<meta property='og:url' content='https://tora.us.fm/$ktovt_meta'/>
 <meta name='author' content=\"$mxbr_meta\" />
 <meta name='receiver' content=\"$nman_meta\" />
 <meta name='jmQovc' content=\"$ktovt_meta\" />
 <meta name='tvnit' content=\"$tvnit\" />
-<link rel='canonical' href='http://tora.us.fm/$ktovt_meta' />
+<link rel='canonical' href='https://tora.us.fm/$ktovt_meta' />
 ");
 
 $result .= "

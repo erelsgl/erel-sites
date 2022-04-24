@@ -120,7 +120,7 @@ $STRANGE_CHAR = "";
 
 
 
-# http://www.somacon.com/p114.php
+# https://www.somacon.com/p114.php
 # Perl trim function to remove whitespace from the start and end of the string
 sub trim {
 	$_ = shift;

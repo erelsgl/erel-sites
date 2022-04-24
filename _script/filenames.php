@@ -9,7 +9,7 @@
 
 /**
 * @return the given path, without the extension.
-* @author giovanni at giacobbi dot net: http://il.php.net/manual/en/function.basename.php#37276
+* @author giovanni at giacobbi dot net: https://il.php.net/manual/en/function.basename.php#37276
 */
 function remove_extension($path) {
 	return preg_replace('/(.+)\..*$/', '$1', $path);

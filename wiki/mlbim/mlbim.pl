@@ -503,7 +503,6 @@ $HEARA_AL_HEARA_2 = "[$ALT_CHAR_REPLACEMENT]\\s*[+][+]+\\s*לפרק$NORMAL_CHAR*[$AL
 #Pro Perl, page #126
 %psuq_to_heara = reverse %heara_to_psuq;
 
-# http://www.somacon.com/p114.php
 # Perl trim function to remove whitespace from the start and end of the string
 sub trim {
 	$_ = shift;

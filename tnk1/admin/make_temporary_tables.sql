@@ -1,4 +1,4 @@
-SET storage_engine=MyISAM;
+SET default_storage_engine=MyISAM;
 
 /*
   OSFIM
@@ -64,9 +64,6 @@ SELECT
 FROM qjr_tnk1_tryg;
 
 
-
-
-
 DROP TABLE IF EXISTS QLT_prtim;
 CREATE TABLE QLT_prtim
 SELECT 
@@ -85,6 +82,8 @@ SELECT
 	tarik_hosfa
 FROM prt_tnk1_tryg;
 
+
+
 ALTER TABLE QLT_prtim
 	ADD PRIMARY KEY(qod),
 	ADD UNIQUE KEY(ktovt);
@@ -94,7 +93,7 @@ DROP TABLE IF EXISTS QLT_prtim_wikia;
 CREATE TABLE QLT_prtim_wikia(
 	qod varchar(160) NOT NULL DEFAULT '',
 	kotrt varchar(160) NOT NULL DEFAULT '',
-	tokn text NOT NULL DEFAULT '',      /* used only in collections */
+	tokn text NOT NULL,      /* used only in collections */
 	sug varchar(15) NOT NULL DEFAULT '',
 	tvnit varchar(15) NOT NULL DEFAULT '',
 	ktovt varchar(300) NOT NULL DEFAULT '',
