@@ -253,6 +253,62 @@ prt_tryg	qod	InputType	short_text
 prt_tryg	sug	InputType	short_text
 prt_tryg	tarik_hosfa	InputType	date
 prt_tryg	tvnit	InputType	short_text
+psuqim		Setup Done	1
+psuqim	after_text	Attributes	size='5'
+psuqim	after_text	InputType	hidden
+psuqim	book_code	Attributes	size='5'
+psuqim	book_code	InputType	hidden
+psuqim	book_name	Attributes	size='10'
+psuqim	book_name	InputType	hidden
+psuqim	chapter_letter	Attributes	size='5'
+psuqim	chapter_letter	InputType	hidden
+psuqim	id	InputType	short_text
+psuqim	ktovt_prq	Attributes	size='5'
+psuqim	ktovt_prq	InputType	hidden
+psuqim	ktovt_sikum	Attributes	size='5'
+psuqim	ktovt_sikum	InputType	hidden
+psuqim	text_maqafim	Attributes	size='60' dir='rtl'
+psuqim	text_maqafim	InputType	short_text
+psuqim	text_niqud	Attributes	size='60' dir='rtl'
+psuqim	text_niqud	InputType	hidden
+psuqim	text_niqud_pisuq	Attributes	size='80' dir='rtl'
+psuqim	text_niqud_pisuq	InputType	short_text
+psuqim	text_otiot	Attributes	size='60' dir='rtl'
+psuqim	text_otiot	InputType	hidden
+psuqim	text_teamim	Attributes	size='60' dir='rtl'
+psuqim	text_teamim	InputType	hidden
+psuqim	verse_letter	Attributes	size='5'
+psuqim	verse_letter	InputType	hidden
+psuqim	verse_number	Attributes	size='5'
+psuqim	verse_number	Default	0
+psuqim	verse_number	InputType	hidden
+psuqim2		Setup Done	1
+psuqim2	after_text	Attributes	size='5'
+psuqim2	after_text	InputType	hidden
+psuqim2	book_code	Attributes	size='5'
+psuqim2	book_code	InputType	hidden
+psuqim2	book_name	Attributes	size='10'
+psuqim2	book_name	InputType	hidden
+psuqim2	chapter_letter	Attributes	size='5'
+psuqim2	chapter_letter	InputType	hidden
+psuqim2	id	InputType	short_text
+psuqim2	ktovt_prq	Attributes	size='5'
+psuqim2	ktovt_prq	InputType	hidden
+psuqim2	ktovt_sikum	Attributes	size='5'
+psuqim2	ktovt_sikum	InputType	hidden
+psuqim2	text_maqafim	Attributes	size='60' dir='rtl'
+psuqim2	text_maqafim	InputType	hidden
+psuqim2	text_niqud	Attributes	size='60' dir='rtl'
+psuqim2	text_niqud	InputType	short_text
+psuqim2	text_otiot	Attributes	size='60' dir='rtl'
+psuqim2	text_otiot	InputType	hidden
+psuqim2	text_teamim	Attributes	size='60' dir='rtl'
+psuqim2	text_teamim	InputType	hidden
+psuqim2	verse_letter	Attributes	size='5'
+psuqim2	verse_letter	InputType	hidden
+psuqim2	verse_number	Attributes	size='5'
+psuqim2	verse_number	Default	0
+psuqim2	verse_number	InputType	hidden
 psuqim_niqud_milim		Setup Done	1
 psuqim_niqud_milim	book	InputType	short_text
 psuqim_niqud_milim	book_code	InputType	short_text
