@@ -2554,3 +2554,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-04-28 07:24:28' 
 			WHERE messageid=11787;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>חכמת &quot;המתמטיקאי שסירב להישלח למחנות&quot;</p><p>https://www.ynet.co.il/environment-science/article/bj7ejgwhq</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-04-28 09:38:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0147_3.html',
+		'<p> </p><p>חכמת &quot;המתמטיקאי שסירב להישלח למחנות&quot;</p><p>https://www.ynet.co.il/environment-science/article/bj7ejgwhq</p><p>https://www.youtube.com/watch?v=KrCJD82bNyQ</p><p>קהלת יב11: &quot;דִּבְרֵי חֲכָמִים כַּדָּרְבֹנוֹת וּכְמַשְׂמְרוֹת נְטוּעִים בַּעֲלֵי אֲסֻפּוֹת נִתְּנוּ מֵרֹעֶה אֶחָד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-04-28 10:19:43'
+		)
+		;
+
