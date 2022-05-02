@@ -2578,3 +2578,39 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_1.html',
+		'<p>שמות יד25: &quot;וַיָּסַר אֵת אֹפַן מַרְכְּבֹתָיו וַיְנַהֲגֵהוּ בכבדת וַיֹּאמֶר מִצְרַיִם אָנוּסָה מִפְּנֵי יִשְׂרָאֵל כִּי יהוה נִלְחָם לָהֶם בְּמִצְרָיִם&quot;</p><p>עמוס ב16: &quot;וְאַמִּיץ לִבּוֹ בַּגִּבּוֹרִים עָרוֹם יָנוּס בַּיּוֹם הַהוּא נְאֻם יהוה\'&quot;..................................................................</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-05-01 11:29:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב</p><p>שמי נדאר דרוזי מהצפון נמצא בשירות מילואים מחפש עזרה להלוואה דחופה...אודה לכבודכם אם מישהו יכול לעזור חזרו אלי</p><p>0552774377</p>',
+		'101373356398835129924',
+		'Nadr Ajami',
+		'2022-05-02 07:22:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>שלום רב</p><p>שמי נדאר דרוזי מהצפון נמצא בשירות מילואים מחפש עזרה להלוואה דחופה...אודה לכבודכם אם מישהו יכול לעזור חזרו אלי</p><p>0552774377</p>',
+		'101373356398835129924',
+		'Nadr Ajami',
+		'2022-05-02 07:22:27'
+		)
+		;
+
