@@ -2626,3 +2626,39 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-14-14.html',
+		'<p>מעניין מאד, תודה רבה</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-05-05 17:14:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/cira.html',
+		'<p>מייד אחרי דברים ז20, המדבר על הצרעה, נאמר בדברים ז21: &quot;לֹא *תַעֲרֹץ* מִפְּנֵיהֶם, כִּי ה\' אֱלֹהֶיךָ בְּקִרְבֶּךָ, אֵל גָּדוֹל וְנוֹרָא&quot;. לפי זה ניתן לפרש *צרעה* כמו *עריצה*, פחד. וכן נאמר בשמות כג27: &quot;אֶת *אֵימָתִי* אֲשַׁלַּח לְפָנֶיךָ, וְהַמֹּתִי אֶת כָּל הָעָם אֲשֶׁר תָּבֹא בָּהֶם, וְנָתַתִּי אֶת כָּל אֹיְבֶיךָ אֵלֶיךָ עֹרֶף&quot;. ה\' מבטיח לישראל, שישלח פחד ואימה בלב הגויים, וכולם יערצו מפנינו, יפנו עורף ויברחו. וכך אכן קרה ב&quot;ה בימינו, במלחמת העצמאות, כאשר ה\' נתן אימה בלב רבים מגויי-הארץ, והם ברחו מארץ ישראל למרות שמנהיגים יהודיים ביקשו מהם להישאר. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-05-05 17:43:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אנו מציעים כל סוגי הלוואות בריבית נמוכה של 3%. אתה יכול ללוות על פני כל תקופה מ-1 עד 25 שנים וללוות כל סכום מ-2,000 ליש&quot;ט עד 50,000,000.00 ליש&quot;ט לכל מטרה. ניתן להגיש בקשה באמצעות WhatsApp: +14092051142 או דוא&quot;ל: larryfox2017@hotmail.com</p>',
+		'113270457086739040349',
+		'Thomas Greg',
+		'2022-05-06 00:22:33'
+		)
+		;
+
