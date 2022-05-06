@@ -268,10 +268,10 @@ psuqim	ktovt_prq	InputType	hidden
 psuqim	ktovt_sikum	Attributes	size='5'
 psuqim	ktovt_sikum	InputType	hidden
 psuqim	text_maqafim	Attributes	size='60' dir='rtl'
-psuqim	text_maqafim	InputType	short_text
+psuqim	text_maqafim	InputType	hidden
 psuqim	text_niqud	Attributes	size='60' dir='rtl'
 psuqim	text_niqud	InputType	hidden
-psuqim	text_niqud_pisuq	Attributes	size='80' dir='rtl'
+psuqim	text_niqud_pisuq	Attributes	size='120' dir='rtl'
 psuqim	text_niqud_pisuq	InputType	short_text
 psuqim	text_otiot	Attributes	size='60' dir='rtl'
 psuqim	text_otiot	InputType	hidden
