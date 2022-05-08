@@ -2662,3 +2662,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-12-0103.html',
+		'<p>מה אלוקים ענה לירמיהו? </p>',
+		'107672905050537456930',
+		'Elazar Kotkes',
+		'2022-05-07 19:09:50'
+		)
+		;
+

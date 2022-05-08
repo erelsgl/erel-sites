@@ -7167,3 +7167,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-05-07 19:09:50'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-12-0103.html'
+		;
+
