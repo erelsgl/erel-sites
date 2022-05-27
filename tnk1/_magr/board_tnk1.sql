@@ -7290,3 +7290,57 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-05-18 09:44:34'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-05-26 15:02:05'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/jb-24-08.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1442.html',
+				NULL,
+				'2022-05-26 20:16:51',
+				'2022-05-26 20:16:51',
+				'פרשת במדבר- הקשר בין עם  ישראל לאותיות  התורה/ מאת: אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-05-26 20:16:51'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1443.html',
+				NULL,
+				'2022-05-27 04:06:08',
+				'2022-05-27 04:06:08',
+				'מפקד ישראל במדבר/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-05-27 04:06:08'
+			WHERE ktovt_bn='tnk1/forums.html';
+

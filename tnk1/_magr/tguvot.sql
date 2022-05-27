@@ -2674,3 +2674,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/jb-24-08.html',
+		'<p>ואכן המקום האחר בו מוזכר הצירוף &quot;יום ירושלים&quot; הוא בתהילים מזמור קל&quot;ז בו נאמר: &quot;זכור ה\' לבני אדום את  יום ירושלים, האומרים ערו ערו עד היסוד בה&quot;. והרי לפנינו &quot;יום (חורבן) ירושלים&quot; וכנגדו יום ירושלים &quot;מקצה תשעה חודשים ועשרים   יום ירושלים&quot;, הוא יום איחודה ובניינה. ואולי יש לקרוא גם את הפסוק בתהילים קל&quot;ז בפיסוק שונה: &quot;את יום ירושלים האומרים ערו ערו   ,    עד היסוד בה&quot; כלומר יזכור ה\' את חורבנה עד ליום שבו יחל מחדש בבניינה יום &quot;היסוד בה&quot; (ולדברנו - כ&quot;ח באייר)</p>',
+		'114220624631398577598',
+		'adiel levy',
+		'2022-05-26 15:02:05'
+		)
+		;
+
