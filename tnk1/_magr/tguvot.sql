@@ -2686,3 +2686,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-06.html',
+		'<p>לא הבנתי מי אומר למי את פסוק זה אשמח אם תענו במהרה</p>',
+		'101384974709234494528',
+		'נועה להב',
+		'2022-06-06 12:04:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-06.html',
+		'<p>את זה - &quot;וַיְדַבֵּר יהוה אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם&quot;</p><p></p>',
+		'101384974709234494528',
+		'נועה להב',
+		'2022-06-06 12:04:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-06.html',
+		'<p></p>',
+		'101384974709234494528',
+		'נועה להב',
+		'2022-06-06 12:05:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-01-06.html',
+		'<p></p>',
+		'101384974709234494528',
+		'נועה להב',
+		'2022-06-06 12:05:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-06-06 12:05:14' 
+			WHERE messageid=11803;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-06-06 12:05:20' 
+			WHERE messageid=11802;
+
