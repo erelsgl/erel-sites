@@ -2748,3 +2748,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-06-06 12:05:20' 
 			WHERE messageid=11802;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>האם אתה צריך הלוואה דחופה כדי לשלם את החובות שלך או הלוואת הון כדי לשפר את העסק שלך? האם נדחתה על ידי בנקים וסוכנויות פיננסיות אחרות? האם אתה צריך איחוד הלוואות או משכנתא? אל תחפש רחוק יותר, כי אנחנו כאן כדי לשים את כל הבעיות הפיננסיות שלך מאחורינו. צור איתנו קשר בדוא&quot;ל: jurgenstefanfinancialservice@gmail.com jurgenstefanfinancialservice@outlook.com או וואטסאפ: +919654763221 אלו הם שירות פיננסי של יורגן סטפן. אנו מציעים הלוואות למעוניינים בריבית סבירה של 3%. הטווח הוא בין 5,000.00 יורו ל-350,000,000.00 יורו.</p>',
+		'115512468465656627273',
+		'Jurgen Stefan Financial service',
+		'2022-06-08 13:04:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-14-yldim.html',
+		'<p>אחלה </p><p></p>',
+		'113767011719224052750',
+		'Shaked Kegen',
+		'2022-06-09 05:45:13'
+		)
+		;
+

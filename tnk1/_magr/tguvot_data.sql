@@ -4577,3 +4577,33 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/tora/dvrim/dm-01-06.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/gmx_hsbr.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-06-08 13:04:27'
+		WHERE parent='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/bmdbr/bm-14-yldim.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-06-09 05:45:13'
+		WHERE parent='tnk1/tora/bmdbr/bm-14-yldim.html'
+		;
+
