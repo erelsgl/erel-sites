@@ -2772,3 +2772,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_50.html',
+		'<p>שלום וברכה, בקישור הזה </p><p>https://iw.us.lg.ua/how-much-3333</p><p>[מאמר לחובבי סוסים]</p><p>כתוב המשפט הבא: &quot;שני סוסים העובדים יחד יכולים למשוך פי 3 ממשקלו של סוס יחיד.&quot;</p>',
+		'118067597512540547648',
+		'אלקיים חמיאל',
+		'2022-06-22 21:51:38'
+		)
+		;
+
