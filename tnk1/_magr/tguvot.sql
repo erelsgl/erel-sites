@@ -2784,3 +2784,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/prjt_qorx.html',
+		'<p>ממש נהנתי מהפשטות והעמקות של המאמר, יש לך מאמר כזה על פרשיית חטא העגל, ומה שמשה הולך לאוהל מועד בעקבות החטא?</p>',
+		'111053017685301776300',
+		'Reuven Gurevitz',
+		'2022-06-24 10:11:10'
+		)
+		;
+
