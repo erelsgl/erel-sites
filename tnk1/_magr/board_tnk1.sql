@@ -7661,3 +7661,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-06-30 18:50:22'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1454.html',
+				NULL,
+				'2022-07-06 18:48:04',
+				'2022-07-06 18:48:04',
+				'פרשת בלק- הנבואה לישראל בפי בלעם והנביא מיכה/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-07-06 18:48:04'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1455.html',
+				NULL,
+				'2022-07-06 18:51:58',
+				'2022-07-06 18:51:58',
+				'משל האריה/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-07-06 18:51:58'
+			WHERE ktovt_bn='tnk1/forums.html';
+
