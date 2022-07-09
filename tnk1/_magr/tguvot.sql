@@ -2796,3 +2796,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p> שימו לב על הפסוקים האלה שמאותו פרק תהילים</p><p>תהלים לד20: &quot;רַבּוֹת רָעוֹת צַדִּיק וּמִכֻּלָּם יַצִּילֶנּוּ יהוה\'&quot;</p><p>תהלים לד7: &quot;זֶה עָנִי קָרָא ויהוה שָׁמֵעַ וּמִכָּל צָרוֹתָיו הוֹשִׁיעוֹ&quot;</p><p> ************** עָנִי =  צַדִּיק  **************</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-07-08 09:48:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>שימו לב על הפסוקים האלה שמאותו פרק תהילים</p><p>תהלים לד20: &quot;רַבּוֹת רָעוֹת צַדִּיק וּמִכֻּלָּם יַצִּילֶנּוּ יהוה\'&quot;</p><p>תהלים לד7: &quot;זֶה עָנִי קָרָא ויהוה שָׁמֵעַ וּמִכָּל צָרוֹתָיו הוֹשִׁיעוֹ&quot;</p><p>************** עָנִי = צַדִּיק **************</p><p>תהלים פב3: &quot;שִׁפְטוּ דַל וְיָתוֹם עָנִי וָרָשׁ הַצְדִּיקוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-07-08 09:49:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-07-08 09:49:39' 
+			WHERE messageid=11808;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_4.html',
+		'<p>דברים לב42: &quot;אַשְׁכִּיר חִצַּי מִדָּם וְחַרְבִּי תֹּאכַל בָּשָׂר מִדַּם חָלָל וְשִׁבְיָה מֵרֹאשׁ פַּרְעוֹת אוֹיֵב&quot;</p><p>דברים לב43: &quot;הַרְנִינוּ גוֹיִם עַמּוֹ כִּי דַם עֲבָדָיו יִקּוֹם וְנָקָם יָשִׁיב לְצָרָיו וְכִפֶּר אַדְמָתוֹ עַמּוֹ&quot;</p><p>-</p><p>תהלים ח3: &quot;מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-07-08 10:17:47'
+		)
+		;
+
