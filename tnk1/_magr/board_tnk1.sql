@@ -7731,3 +7731,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0127_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-07-11 19:21:10'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
