@@ -2851,3 +2851,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום</p><p>האם אתה צריך הלוואה דחופה כדי לענות על הצרכים הפיננסיים שלך? אנו מציעים הלוואות בטווח של 2,000 יורו עד 50,000,000.00 יורו, אנו אמינים, יעילים, מהירים ודינמיים, ללא בדיקות אשראי ואנו מציעים ערבות של 100% להלוואות זרות במהלך תקופת ההעברה.</p><p>למעוניינים נא לפנות אלינו בכתובת.</p><p>שלח לנו דוא&quot;ל לכתובת: accessloanfirm2030@gmail.com</p><p>Whatsapp: +79258159150</p><p>לְהִתְיַחֵס</p><p>מר סקוט</p><p>accessloanfirm2030@gmail.com</p>',
+		'115263746137239450219',
+		'Mr Oscar Bernard',
+		'2022-07-12 13:13:28'
+		)
+		;
+
