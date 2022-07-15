@@ -2863,3 +2863,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_30.html',
+		'<p>והאדם ידע את חווה אשתו. </p><p>תודה לך בורא עולם</p><p>סליחה אם הייתי כפויית טובה .</p><p>מקווה להשתפר .</p><p></p>',
+		'117767790328486541980',
+		'אתי אסתר',
+		'2022-07-14 14:02:54'
+		)
+		;
+

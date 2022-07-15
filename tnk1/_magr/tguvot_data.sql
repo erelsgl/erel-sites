@@ -4720,3 +4720,18 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tryg/ribit0/get.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0101_30.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-07-14 14:02:54'
+		WHERE parent='tnk1/messages/prqim_t0101_30.html'
+		;
+
