@@ -2942,3 +2942,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-07-17 06:46:35' 
 			WHERE messageid=11817;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2701_0.html',
+		'<p>קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot;</p><p>שימו לב כי אם תהיה צדיק אז תתחכם ולא תוכל להתחכם בטרם היותך צדיק</p><p>כי קודם כל צדיק ואחרי כן חכם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-07-20 12:37:11'
+		)
+		;
+
