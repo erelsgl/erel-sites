@@ -2978,3 +2978,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>מעל תגובתי זאת יש תגובה שמציעה הלוואה בריבית</p><p>נא לא להתייחס אליהם הלוואה בריבית לבני ישראל זה פשע</p><p>ואני קורא למנהל אתר הניווט בתנך להסיר את הצעתם להלוואה בריבית</p><p>זה נוגד את ערכי אתר הניווט בתנ&quot;ך המיוסד על פי התורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-07-22 08:26:49'
+		)
+		;
+

@@ -4863,3 +4863,18 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tryg/ribit0/get.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/ribit0/get.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2022-07-22 08:26:49'
+		WHERE parent='tryg/ribit0/get.html'
+		;
+
