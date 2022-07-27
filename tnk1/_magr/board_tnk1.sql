@@ -7919,3 +7919,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tryg/ribit0/get.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-07-26 14:27:32'
+		WHERE ktovt_bn='tryg/ribit0/bclel.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-07-26 14:28:27'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-07-26 15:40:32'
+		WHERE ktovt_bn='tryg/ribit0/get.html'
+		;
+
