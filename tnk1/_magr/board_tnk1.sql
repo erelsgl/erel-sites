@@ -7989,3 +7989,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-07-27 14:23:34'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1462.html',
+				NULL,
+				'2022-08-03 21:45:16',
+				'2022-08-03 21:45:16',
+				'פרשת דברים-\"שבת חזון\"-מה החשיבות?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-08-03 21:45:16'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1463.html',
+				NULL,
+				'2022-08-03 21:48:29',
+				'2022-08-03 21:48:29',
+				'חזון ישעיהו/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-08-03 21:48:29'
+			WHERE ktovt_bn='tnk1/forums.html';
+
