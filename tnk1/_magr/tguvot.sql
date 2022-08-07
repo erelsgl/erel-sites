@@ -3059,3 +3059,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/onj_acmi.html',
+		'<p>ה\' המחיש לנו עכשיו את הפסוק &quot;חרבם תבוא בליבם וקשתותם תישברנה&quot;: הערבים ירו טיל לכיוון ישראל, הטיל הסתובב לאחור ופגע בהם!</p><p>https://www.facebook.com/erelvgalya/posts/pfbid0AkNeVquQs7ztiw4YDobM4hcgYQfxvKENmsmDJrCJBGPcDVyiCs5T9VSHExMhsoXnl</p><p>כן יאבדו כל אויבי ה\'.</p>',
+		'107775083122645534303',
+		'erelvgalya',
+		'2022-08-06 20:16:38'
+		)
+		;
+

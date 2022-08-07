@@ -8043,3 +8043,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-01-0506.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-06 20:16:38'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/onj_acmi.html'
+		;
+
