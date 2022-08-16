@@ -3083,3 +3083,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שאפו למתלונן למעלה ולמנהל האתר. כל הכבוד!</p>',
+		'102459814614545858885',
+		'Albert Shabot',
+		'2022-08-15 22:36:05'
+		)
+		;
+
