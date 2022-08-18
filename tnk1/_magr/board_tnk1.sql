@@ -8169,3 +8169,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-17 12:47:17'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-17 12:48:26'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut.html'
+		;
+

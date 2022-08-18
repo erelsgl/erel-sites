@@ -3162,3 +3162,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut.html',
+		'<p>https://www.makorrishon.co.il/news/516329/</p><p>איתמר בן גביר ובצלאל סמוטריץ שניהם חכי&quot;ם מאותה סיעה עם אותה אג\'נדה ואין אחדות ביניהם</p><p>אסור לתת להם את ההחלטה ללכת מפוצל וכי דרוש בורר מגשר חיצוני המוסכם על שני הצדדים</p><p>אם יש פיצול כזה מרגיז במפלגה הדתית לאומית אז אין סיכוי לאחדות בעם ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-08-17 12:47:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut.html',
+		'<p>https://www.makorrishon.co.il/news/516329/</p><p>איתמר בן גביר ובצלאל סמוטריץ שניהם חכי&quot;ם מאותה סיעה עם אותה אג\'נדה ואין אחדות ביניהם</p><p>אסור לתת להם את ההחלטה ללכת מפוצל וכי דרוש בורר מגשר חיצוני המוסכם על שני הצדדים</p><p>למען ילכו יחדיו כי אם יש פיצול כזה מרגיז במפלגה הדתית לאומית אז אין סיכוי לאחדות בעם ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-08-17 12:48:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-08-17 12:48:28' 
+			WHERE messageid=11835;
+
