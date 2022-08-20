@@ -3193,3 +3193,10 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-08-17 12:48:28' 
 			WHERE messageid=11835;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-08-19 16:48:52' 
+			WHERE messageid=11783;
+
