@@ -8231,3 +8231,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-08-18 14:29:30'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-20 12:26:29'
+		WHERE ktovt_bn='tryg/ribit0/gmx_hsbr.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/657.html',
+				'tnk1/messages/dmut_dmut_657_0.html',
+				NULL,
+				'2022-08-20 17:25:25',
+				'2022-08-20 17:25:25',
+				'איש בשת - איש בעל - מות בעל',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-20 17:30:13'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_657_0.html'
+		;
+

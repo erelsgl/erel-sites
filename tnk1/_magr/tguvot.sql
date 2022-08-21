@@ -3200,3 +3200,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-08-19 16:48:52' 
 			WHERE messageid=11783;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>זקוקים להלוואה בדחיפות לפתיחת עסק או לסילוק חובות או למטרות אחרות? אנו נותנים הלוואות בריבית של 2% ויש לנו את האמצעים המהירים ביותר להעברת כספים ללקוחותינו בכל רחבי העולם. ניתן ליצור איתנו קשר בכתובת: fredmorefinance@gmail.com</p>',
+		'107173757888313906391',
+		'FRED MORE FINANCE FIRM',
+		'2022-08-20 12:26:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_657_0.html',
+		'<p>ראו גם קרית בעל = קרית יערים :</p><p> https://tora.us.fm/tnk1/messages/ljon_jorj_bel_0.html</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2022-08-20 17:30:13'
+		)
+		;
+
