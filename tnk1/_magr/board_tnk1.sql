@@ -8279,3 +8279,58 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-22 12:48:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0532_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/659.html',
+				'tnk1/messages/dmut_dmut_659_0.html',
+				NULL,
+				'2022-08-22 17:05:06',
+				'2022-08-22 17:05:06',
+				'מפיבשת = מריב בעל',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-22 18:51:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/prtmspr.html',
+				'tnk1/kma/tarikim.html',
+				NULL,
+				'2022-08-23 06:03:14',
+				'2022-08-23 06:03:14',
+				'תאריכים בתנ\"ך לפי הסדר',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-08-23 06:03:14'
+			WHERE ktovt_bn='tnk1/sig/prtmspr.html';
+
