@@ -8334,3 +8334,33 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-08-23 06:03:14'
 			WHERE ktovt_bn='tnk1/sig/prtmspr.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_134.html',
+				NULL,
+				'2022-08-23 18:54:58',
+				'2022-08-23 18:54:58',
+				'פרדוקס הרצון החופשי',
+				'אלברט שבות',
+				'albertshabot @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-08-23 18:54:58'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-08-23 18:54:58'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
