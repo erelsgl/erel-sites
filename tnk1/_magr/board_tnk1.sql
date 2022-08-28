@@ -8458,3 +8458,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0310_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-28 04:28:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0216_6.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-28 04:30:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0216_6.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-08-28 06:33:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2679_0.html'
+		;
+
