@@ -3473,3 +3473,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/48.html',
+		'<p>בסוף דנת את כל האחים לכפית זכות, יפה</p>',
+		'116594454186575816914',
+		'Yogev Izhak',
+		'2022-09-03 21:00:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>תהלים קב5: &quot;הוּכָּה כָעֵשֶׂב וַיִּבַשׁ לִבִּי כִּי שָׁכַחְתִּי מֵאֲכֹל לַחְמִי&quot; </p><p>דויד המלך נטה לצמחונות כי לדבריו שכח מאכול לחמו [לחם=בשר]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-04 03:22:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>דברים כא18: &quot;כִּי יִהְיֶה לְאִישׁ בֵּן סוֹרֵר וּמוֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקוֹל אָבִיו וּבְקוֹל אִמּוֹ וְיִסְּרוּ אֹתוֹ וְלֹא יִשְׁמַע אֲלֵיהֶם&quot;  </p><p>דברים כא19: &quot;וְתָפְשׂוּ בוֹ אָבִיו וְאִמּוֹ וְהוֹצִיאוּ אֹתוֹ אֶל זִקְנֵי עִירוֹ וְאֶל שַׁעַר מְקֹמוֹ&quot;</p><p>דברים כא20: &quot;וְאָמְרוּ אֶל זִקְנֵי עִירוֹ בְּנֵנוּ זֶה סוֹרֵר וּמֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקֹלֵנוּ זוֹלֵל וְסֹבֵא&quot;</p><p>דברים כא21: &quot;וּרְגָמֻהוּ כָּל אַנְשֵׁי עִירוֹ בָאֲבָנִים וָמֵת וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ וְכָל יִשְׂרָאֵל יִשְׁמְעוּ וְיִרָאוּ&quot;</p><p>בְּנֵנוּ זֶה סוֹרֵר וּמֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקֹלֵנוּ = זוֹלֵל וְסֹבֵא = זוֹלֵל בשר וְסֹבֵא יין ושכר </p><p>ועתה שמע בקולי אנכי דיין איש קדוש ואל תהיה זוֹלֵל וְסֹבֵא </p><p>משלי כג22: &quot;שְׁמַע לְאָבִיךָ זֶה יְלָדֶךָ וְאַל תָּבוּז כִּי זָקְנָה אִמֶּךָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-04 07:18:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>דברים כא18: &quot;כִּי יִהְיֶה לְאִישׁ בֵּן סוֹרֵר וּמוֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקוֹל אָבִיו וּבְקוֹל אִמּוֹ וְיִסְּרוּ אֹתוֹ וְלֹא יִשְׁמַע אֲלֵיהֶם&quot;</p><p>דברים כא19: &quot;וְתָפְשׂוּ בוֹ אָבִיו וְאִמּוֹ וְהוֹצִיאוּ אֹתוֹ אֶל זִקְנֵי עִירוֹ וְאֶל שַׁעַר מְקֹמוֹ&quot;</p><p>דברים כא20: &quot;וְאָמְרוּ אֶל זִקְנֵי עִירוֹ בְּנֵנוּ זֶה סוֹרֵר וּמֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקֹלֵנוּ זוֹלֵל וְסֹבֵא&quot;</p><p>דברים כא21: &quot;וּרְגָמֻהוּ כָּל אַנְשֵׁי עִירוֹ בָאֲבָנִים וָמֵת וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ וְכָל יִשְׂרָאֵל יִשְׁמְעוּ וְיִרָאוּ&quot;</p><p>בְּנֵנוּ זֶה סוֹרֵר וּמֹרֶה אֵינֶנּוּ שֹׁמֵעַ בְּקֹלֵנוּ = זוֹלֵל וְסֹבֵא = זוֹלֵל בשר וְסֹבֵא יין ושכר</p><p>ועתה שמע בקולי אנכי דיין איש קדוש ואל תהיה זוֹלֵל וְסֹבֵא</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-04 07:20:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-04 07:20:36' 
+			WHERE messageid=11860;
+
