@@ -5543,3 +5543,11 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t0505_0.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-09-09 14:23:08'
+			WHERE parent='tnk1/messages/daian2_0.html'
+			;
+
