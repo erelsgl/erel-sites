@@ -3535,3 +3535,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-09-09 14:23:08' 
 			WHERE messageid=11728;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p><p>איוב יב17: &quot;מוֹלִיךְ יוֹעֲצִים שׁוֹלָל וְשֹׁפְטִים יְהוֹלֵל&quot;</p><p>איוב יב19: &quot;מוֹלִיךְ כֹּהֲנִים שׁוֹלָל וְאֵתָנִים יְסַלֵּף&quot;</p><p>-</p><p> כֹּהֲנִים = יוֹעֲצִים</p><p>וְשֹׁפְטִים = וְאֵתָנִים = [וְאֵתָנִים הוּא הַחֹדֶשׁ הַשְּׁבִיעִי]</p><p>מלכים א ח2: &quot;וַיִּקָּהֲלוּ אֶל הַמֶּלֶךְ שְׁלֹמֹה כָּל אִישׁ יִשְׂרָאֵל בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי&quot;</p><p>על כן אומרים נכון כי ראש השנה הוא יום המשפט יום הדין</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-10 18:12:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>איוב יב17: &quot;מוֹלִיךְ יוֹעֲצִים שׁוֹלָל וְשֹׁפְטִים יְהוֹלֵל&quot;</p><p>איוב יב19: &quot;מוֹלִיךְ כֹּהֲנִים שׁוֹלָל וְאֵתָנִים יְסַלֵּף&quot;</p><p>-</p><p>כֹּהֲנִים = יוֹעֲצִים</p><p>וְשֹׁפְטִים = וְאֵתָנִים = [וְאֵתָנִים הוּא הַחֹדֶשׁ הַשְּׁבִיעִי]</p><p>מלכים א ח2: &quot;וַיִּקָּהֲלוּ אֶל הַמֶּלֶךְ שְׁלֹמֹה כָּל אִישׁ יִשְׂרָאֵל בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי&quot;</p><p>על כן חודש המשפט בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי </p><p>ואומרים נכון כי חַג הַסֻּכּוֹת ראש השנה הוא יום המשפט יום הדין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-10 18:16:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-10 18:16:10' 
+			WHERE messageid=11862;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>איוב יב17: &quot;מוֹלִיךְ יוֹעֲצִים שׁוֹלָל וְשֹׁפְטִים יְהוֹלֵל&quot;</p><p>איוב יב19: &quot;מוֹלִיךְ כֹּהֲנִים שׁוֹלָל וְאֵתָנִים יְסַלֵּף&quot;</p><p>-</p><p>כֹּהֲנִים = יוֹעֲצִים</p><p>וְשֹׁפְטִים = וְאֵתָנִים = [וְאֵתָנִים הוּא הַחֹדֶשׁ הַשְּׁבִיעִי]</p><p>מלכים א ח2: &quot;וַיִּקָּהֲלוּ אֶל הַמֶּלֶךְ שְׁלֹמֹה כָּל אִישׁ יִשְׂרָאֵל בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי&quot;</p><p>על כן חודש המשפט בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי</p><p>ואכן נכון כי חַג הַסֻּכּוֹת ראש השנה הוא יום המשפט יום הדין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-10 18:17:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-10 18:17:49' 
+			WHERE messageid=11863;
+
