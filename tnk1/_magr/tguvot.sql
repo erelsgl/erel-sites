@@ -3585,3 +3585,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-09-10 18:17:49' 
 			WHERE messageid=11863;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-139-11.html',
+		'<p>תודה רבה! </p>',
+		'108117726959159489131',
+		'Ohad Moisi',
+		'2022-09-13 23:22:33'
+		)
+		;
+
