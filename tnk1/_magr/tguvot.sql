@@ -3597,3 +3597,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>לוח המאור הגדול לוח נח ובניו יחל מיום בריאת המאורות ביום רביעי</p><p>אך לוח הכהנים יחל מיום אלהים מיום שבת כארבעה ימים לפני לוח המאור הגדול</p><p>כי הכהנים כמלאכים אשר עם האלהים עוד בטרם נבראו שמים וארץ לאמור בטרם נבראו המאורות</p><p>בכל זאת בשני הלוחות מועד 7.7.7.7.7 יהיה באותו יום שבת בחג-הסכות ראש השנה לשמיטת היובל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-14 08:57:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>לוח המאור הגדול לוח נח ובניו יחל מיום בריאת המאורות ביום רביעי</p><p>אך לוח הכהנים יחל מיום אלהים מיום שבת כארבעה ימים לפני לוח המאור הגדול</p><p>כי הכהנים כמלאכים אשר עם האלהים עוד בטרם נבראו שמים וארץ לאמור בטרם נבראו המאורות</p><p>בכל זאת בשני הלוחות מועד 7.7.7.7.7 יהיה באותו יום שבת בחג-הסכות ראש השנה לשמיטת היובל</p><p>-</p><p>לוח דיין שם = לוח הכהן = לוח מלאך יהוה</p><p>מלאכי ב7: &quot;כִּי שִׂפְתֵי כֹהֵן יִשְׁמְרוּ דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יהוה צְבָאוֹת הוּא&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-14 10:52:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-14 10:52:54' 
+			WHERE messageid=11866;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-05-0205.html',
+		'<p></p>',
+		'101664684636031623662',
+		'מלכי דייטש',
+		'2022-09-14 12:42:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-05-0205.html',
+		'<p>עע</p>',
+		'101664684636031623662',
+		'מלכי דייטש',
+		'2022-09-14 12:42:56'
+		)
+		;
+
