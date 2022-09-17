@@ -3652,3 +3652,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מה ההבדל בין השוגים לפרש את לוח מגילות קומראן מדבר יהודה לבין הלוח של דיין שם משה</p><p>-</p><p> השוגים לפרש את לוח מגילות קומראן מעברים שבעה ימים כל שבע שנים כדי שהמועד יהיה תמיד ביום רביעי</p><p>אך בלוח של דיין שם משה העיבור יהיה כשמונה ימים כל שבע שנים כי כל שבע שנים יתחלף המועד ביום אחד</p><p>לאמור כי בלוח של דיין המועד יהיה תמיד באותו יום רק במחזור של שבע שנים ולאחר שבע שנים המועד יתחלף ביום אחד</p><p>המועד אינו יכול להיות קבוע באותו יום לכל מחזור 49 שנות היובל כי אם רק למחזור של שבע שנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-16 13:13:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/jj-01-06.html',
+		'<p>תודה על הפרשנות היפה, מעניין מאד ! השיר עצמו מקסים, בעקבותיו תהיתי על מילותיו. </p>',
+		'111963489808869175707',
+		'BA',
+		'2022-09-17 07:17:45'
+		)
+		;
+

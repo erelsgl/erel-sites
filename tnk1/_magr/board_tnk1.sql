@@ -8803,3 +8803,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-09-15 05:25:34'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-16 13:13:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-17 07:17:45'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/jj-01-06.html'
+		;
+
