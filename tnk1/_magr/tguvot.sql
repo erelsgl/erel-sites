@@ -3676,3 +3676,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_2.html',
+		'<p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/298805257_3901650740060753_4202388311257226489_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=O0f8_RRMAYYAX_9fhHY&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT8JISU7GRBpMW1EQitwHys5tPNrfWigRF-j30f2D0yDLQ&amp;oe=632AFD2E</p><p>-</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/306078933_2404170986399914_5255736333707991237_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=KzdtFSkj07gAX8VdJKK&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT--8v7FMm28XMtI071hWwNfMVTUDm8gMYkh9stnOt9fpg&amp;oe=632BA75B</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-17 17:24:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_2.html',
+		'<p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t31.18172-8/330909_10150435103683327_1157195244_o.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=9267fe&amp;_nc_ohc=6UFMzPCvvAMAX97_GDC&amp;_nc_oc=AQkgeVQ7iuYpB8LlRoaKllbNhHj17IGYfIgn3Z_kfqqlj_3dOYrXV8k2Ps96n8-1TyH7rOzJwkVdLciI9mQ7rWXa&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT_ZSaeGmcV1GAwiQCYRLfPRltH3ByH5MMu4v4zvMytyyw&amp;oe=634D780B</p><p>-</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/298805257_3901650740060753_4202388311257226489_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=O0f8_RRMAYYAX_9fhHY&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT8JISU7GRBpMW1EQitwHys5tPNrfWigRF-j30f2D0yDLQ&amp;oe=632AFD2E</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-17 17:30:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_2.html',
+		'<p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t31.18172-8/330909_10150435103683327_1157195244_o.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=9267fe&amp;_nc_ohc=6UFMzPCvvAMAX97_GDC&amp;_nc_oc=AQkgeVQ7iuYpB8LlRoaKllbNhHj17IGYfIgn3Z_kfqqlj_3dOYrXV8k2Ps96n8-1TyH7rOzJwkVdLciI9mQ7rWXa&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT_ZSaeGmcV1GAwiQCYRLfPRltH3ByH5MMu4v4zvMytyyw&amp;oe=634D780B</p><p>-</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/298805257_3901650740060753_4202388311257226489_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=O0f8_RRMAYYAX_9fhHY&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT8JISU7GRBpMW1EQitwHys5tPNrfWigRF-j30f2D0yDLQ&amp;oe=632AFD2E</p><p>-</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/306078933_2404170986399914_5255736333707991237_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=KzdtFSkj07gAX8VdJKK&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT--8v7FMm28XMtI071hWwNfMVTUDm8gMYkh9stnOt9fpg&amp;oe=632BA75B</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-17 17:31:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-17 17:32:15' 
+			WHERE messageid=11873;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-17 17:32:25' 
+			WHERE messageid=11872;
+
