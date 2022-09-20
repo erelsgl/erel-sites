@@ -3726,3 +3726,29 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-09-17 17:32:25' 
 			WHERE messageid=11872;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/01-27.html',
+		'<p>עת צרה וצוקה נכונה לנו. אנחנו כלל לא מוכנים להתמודד. אולי בדרך לקלפי ביום הבחירות, נשקול במי לבחור, אולי נמצא מנהיג שיוביל אותנו אל ישועת יהוה אלוהינו, למרות שלא נתגלה לנו. אולי מבלי שנודע לנו כי מחשבותיו נכונו כי ידע ספר ולכן דרכנו תיכון. שנה טובה לכם ידידיי...</p>',
+		'102082904524089608340',
+		'Rami Nir',
+		'2022-09-19 15:34:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-20 02:55:46' 
+			WHERE messageid=11868;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-20 02:55:48' 
+			WHERE messageid=11869;
+
