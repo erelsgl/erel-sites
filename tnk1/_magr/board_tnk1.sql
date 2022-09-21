@@ -8851,3 +8851,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mj/01-27.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/eyn1.html',
+				'tnk1/nvia/yjayhu/yj-40-26.html',
+				NULL,
+				'2022-09-21 02:51:27',
+				'2022-09-21 02:51:27',
+				'להסתכל לשמיים',
+				'אראל',
+				''
+			)
+		;
+
