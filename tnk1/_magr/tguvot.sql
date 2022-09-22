@@ -3752,3 +3752,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-09-20 02:55:48' 
 			WHERE messageid=11869;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-40-26.html',
+		'<p>כאשר ארים ראשי מול השמים, אראה את פלא הבריאה ואשאל מי ברא בריאה אין סופית שכזו?</p>',
+		'102082904524089608340',
+		'Rami Nir',
+		'2022-09-21 15:12:09'
+		)
+		;
+
