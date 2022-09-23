@@ -8967,3 +8967,66 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-09-21 20:42:19'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-22 17:57:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2810_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-22 18:21:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0529_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-22 18:51:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2810_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/ktuv/thlim/th-127.html',
+				NULL,
+				'2022-09-23 02:39:27',
+				'2022-09-23 02:39:27',
+				'מבנה תהלים קכז',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-09-23 02:39:27'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xcc.html',
+				'tnk1/ktuv/thlim/th-127-04.html',
+				NULL,
+				'2022-09-23 03:25:51',
+				'2022-09-23 03:25:51',
+				'להוליד ילדים בימי הנעורים',
+				'אראל',
+				''
+			)
+		;
+

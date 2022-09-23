@@ -3764,3 +3764,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_4.html',
+		'<p>תהלים צב13: &quot;צַדִּיק כַּתָּמָר יִפְרָח............ כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה&quot;</p><p>---</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/307032869_1169884266942111_3666716985578225168_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=MfcNk9ktcs0AX8aiNs0&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT-fMXUxeXcQlUTmPh27LKVom6qeeQe4e2Meiy8W7Zh18w&amp;oe=6332805D</p><p>-----</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/307018602_1169884340275437_6502409169169890092_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=0nmuIXWvG-UAX8aYONY&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT8zv30EH330dCn83ZjhDJf2mMUObHw6jpYwwtNHmOR6rQ&amp;oe=6331DB81</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-22 17:57:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_3.html',
+		'<p>בראשית יב1: &quot;וַיֹּאמֶר יהוה אֶל אַבְרָם לֶךְ לְךָ מֵאַרְצְךָ וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ&quot;  </p><p>ואלהים הראה לאברם את ארץ הנגב</p><p>בראשית יב9: &quot;וַיִּסַּע אַבְרָם הָלוֹךְ וְנָסוֹעַ הַנֶּגְבָּה&quot; </p><p>וגם בתם הרעב כעבור עשר שנים לאחר הירידה למצרים אברם עולה אל הנגב</p><p>בראשית יג1: &quot;וַיַּעַל אַבְרָם מִמִּצְרַיִם הוּא וְאִשְׁתּוֹ וְכָל אֲשֶׁר לוֹ וְלוֹט עִמּוֹ הַנֶּגְבָּה&quot;  </p><p>פעמיים בחר אברם לגור בארץ הנגב כי זה המקום שהראה לו האלהים</p><p>גם משה איש האלהים ידע זאת כי חברון הוא המקום הקדוש בנגב</p><p>הוא אשר כתבתי לכם בגוף המאמר כדברים הבאים....................</p><p>נראה שבני ישראל המרגלים שרצו לדעת נסתרות את סוד קדושת הארץ שאלו את משה ...</p><p>איפה זה המקום הקדוש הזה וַיֹּאמֶר אֲלֵהֶם עֲלוּ זֶה בַּנֶּגֶב וַעֲלִיתֶם אֶת הָהָר וַיַּעֲלוּ בַנֶּגֶב וַיָּבֹא עַד חֶבְרוֹן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-22 18:21:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2810_4.html',
+		'<p>תהלים צב13: &quot;צַדִּיק כַּתָּמָר יִפְרָח............ כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה&quot;</p><p>---</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/307032869_1169884266942111_3666716985578225168_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=MfcNk9ktcs0AX8aiNs0&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT-fMXUxeXcQlUTmPh27LKVom6qeeQe4e2Meiy8W7Zh18w&amp;oe=6332805D</p><p>-----</p><p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/307018602_1169884340275437_6502409169169890092_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=0nmuIXWvG-UAX8aYONY&amp;tn=g-uQw9D2lckZCosD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AT8zv30EH330dCn83ZjhDJf2mMUObHw6jpYwwtNHmOR6rQ&amp;oe=6331DB81</p><p>---</p><p>https://scontent.ftlv16-1.fna.fbcdn.net/v/t39.30808-6/307036107_1169884426942095_3150385655937420351_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=37oKh6-VwTMAX9zsLWe&amp;_nc_ht=scontent.ftlv16-1.fna&amp;oh=00_AT8EJOEiJbgQcipSsPxcgGtrDFkE3zuC-OaMz40IQ6vDfQ&amp;oe=6330DB1C</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-09-22 18:51:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-22 18:52:32' 
+			WHERE messageid=11877;
+
