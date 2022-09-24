@@ -9030,3 +9030,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-23 08:18:04'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-127-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-23 08:19:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-23 15:33:16'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-127-04.html'
+		;
+
