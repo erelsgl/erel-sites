@@ -15,3 +15,19 @@ SET character_set_database=utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_tnk1.txt'  INTO TABLE prt_tnk1 (qod,sug,tvnit,kotrt,ktovt,m,l,tarik_hosfa);
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'שְׁלוֹמְכֶם יִרְבֶּה - נבוכדנצר', `tarik_hosfa` = '2022-09-29 05:02:05' WHERE `qod` = 'ביאור:דניאל ג31' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'שְׁלוֹמְכֶם יִרְבֶּה - דריוש', `tarik_hosfa` = '2022-09-29 05:02:05' WHERE `qod` = 'ביאור:דניאל ו26' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'הַמֶּלֶךְ לְעוֹלָמִים חֱיֵה - נבוכדנצר', `tarik_hosfa` = '2022-09-29 05:03:12' WHERE `qod` = 'ביאור:דניאל ג9' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'הַמֶּלֶךְ לְעוֹלָמִים חֱיֵה - דריוש', `tarik_hosfa` = '2022-09-29 05:03:12' WHERE `qod` = 'ביאור:דניאל ו22' AND 1 LIMIT 1;
+

@@ -3912,3 +3912,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_657_0.html',
+		'<p>מה הקשר בין לבאיה לבין שאול המלך?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-09-29 03:21:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_657_0.html',
+		'<p>עוד מידע על לבאיה ניתן למצוא כאן: https://en.wikipedia.org/wiki/Labaya</p><p>אבל לא הבנתי מה הקשר בין השם &quot;לבאיה&quot; לבין השם &quot;שאול&quot;? הם בכלל לא דומים.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-09-29 03:28:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-29 03:28:29' 
+			WHERE messageid=11887;
+
