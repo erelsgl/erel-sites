@@ -10161,3 +10161,11 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/messages/forums_1481.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-09-29 14:04:01'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_657_0.html'
+		;
+
