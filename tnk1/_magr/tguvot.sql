@@ -3955,3 +3955,10 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-09-30 13:35:20' 
+			WHERE messageid=11443;
+
