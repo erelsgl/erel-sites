@@ -10169,3 +10169,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/dmut_dmut_657_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-02 12:36:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-02 14:31:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2803_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-02 14:33:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2803_1.html'
+		;
+

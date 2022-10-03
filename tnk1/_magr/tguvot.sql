@@ -3962,3 +3962,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-09-30 13:35:20' 
 			WHERE messageid=11443;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>https://www.facebook.com/TheAnimalClub.net/photos/a.718677041568233/4967723179996910/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-02 12:36:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2803_1.html',
+		'<p>תהלים כד1: &quot;לְדָוִד מִזְמוֹר לה\' הָאָרֶץ וּמְלוֹאָהּ תֵּבֵל וְיֹשְׁבֵי בָהּ&quot;</p><p>תהלים כד2: &quot;כִּי הוּא עַל יַמִּים יְסָדָהּ וְעַל נְהָרוֹת יְכוֹנְנֶהָ&quot; </p><p>https://www.ynet.co.il/environment-science/article/s1f8jz8ms</p><p>בראשית ז11: &quot;בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה לְחַיֵּי נֹחַ בַּחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ בַּיּוֹם הַזֶּה נִבְקְעוּ כָּל מעינות תְּהוֹם רַבָּה וַאֲרֻבֹּת הַשָּׁמַיִם נִפְתָּחוּ&quot;</p><p> כִּי הוּא עַל יַמִּים יְסָדָהּ אלה מעינות תְּהוֹם רַבָּה</p><p>זה האוקיאנוס שנמצא מתחת לאדמה מאות ק&quot;מ מתחת לכדור הארץ כפי שמצוין בקישור</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-02 14:31:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2803_1.html',
+		'<p>בראשית ז11: </p><p>&quot;בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה לְחַיֵּי נֹחַ בַּחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ בַּיּוֹם הַזֶּה נִבְקְעוּ כָּל מעינות תְּהוֹם רַבָּה וַאֲרֻבֹּת הַשָּׁמַיִם נִפְתָּחוּ&quot;</p><p>תהלים כד1: &quot;לְדָוִד מִזְמוֹר ליהוה הָאָרֶץ וּמְלוֹאָהּ תֵּבֵל וְיֹשְׁבֵי בָהּ&quot;</p><p>תהלים כד2: &quot;כִּי הוּא עַל יַמִּים יְסָדָהּ וְעַל נְהָרוֹת יְכוֹנְנֶהָ&quot;</p><p>כִּי הוּא עַל יַמִּים יְסָדָהּ אלה מעינות תְּהוֹם רַבָּה</p><p>זה האוקיאנוס שנמצא מתחת לאדמה מאות ק&quot;מ מתחת לכדור הארץ כפי שמצוין בקישור</p><p>https://www.ynet.co.il/environment-science/article/s1f8jz8ms</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-02 14:33:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-02 14:33:47' 
+			WHERE messageid=11891;
+
