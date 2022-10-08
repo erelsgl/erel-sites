@@ -4055,3 +4055,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-10-06 14:43:23' 
 			WHERE messageid=11894;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2902_2.html',
+		'<p>המספר שבע [7] מלשון שבע [שובע] לחם</p><p>צדיק אוכל לשובע נפשו לאמור עד המספר שבע</p><p>ומי שעובר את השבע ומגיע לשמונה נהיה שמן</p><p>7 שבע</p><p>8 שמנ [שמן]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-07 13:20:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>קראו נא התגובה האחרונה שלי</p><p>כי לא שיניתי את דעתי</p><p>וכי אני קורא גם הפעם הזאת לאוהבי אלהי ישראל</p><p>בחרו בעורך-דין איתמר בן גביר עם הציונות הדתית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-07 13:38:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-07 15:50:25' 
+			WHERE messageid=11530;
+
