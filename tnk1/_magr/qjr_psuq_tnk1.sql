@@ -110,3 +110,19 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יהושע ב10' AND `sfr` = 'יהש' AND `prq0` = 'ב' AND `psuq0` = 10 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-12 20:35:20' WHERE `bn` = 'שחור שהוא כחול (שיחור = נילוס)' AND `sfr` = 'יהש' AND `prq0` = 'טו' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-12 20:35:20' WHERE `bn` = 'מצוות \"כי לי הארץ\" לאורך הדורות' AND `sfr` = 'יהש' AND `prq0` = 'ו' AND `psuq0` = 4 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יהושע ו4' AND `sfr` = 'יהש' AND `prq0` = 'ו' AND `psuq0` = 4 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-12 20:35:21' WHERE `bn` = 'שחור שהוא כחול (שיחור = נילוס)' AND `sfr` = 'יהש' AND `prq0` = 'טו' AND `psuq0` = 47 AND `sug` = '' AND 1 LIMIT 1;
+

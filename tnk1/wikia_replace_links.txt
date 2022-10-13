@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2022-09-29 05:36:38
+# This file was automatically generated at 2022-10-12 20:35:27
 
 sub wikia_replace_links {
 $_=shift;
@@ -1331,6 +1331,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-33-19|[[ביאור:אני אעביר כל טוב�
 s|${OPENLINK}tnk1/tora/jmot/jm-33-13-axel|[[ביאור:ללמוד כדי למצוא חן בעיני ה', לא כדי לדעת יותר|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-1217|[[ביאור:הויכוח על הליכת פני ה' עם ישראל|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-07|[[ביאור:מתי היה אוהל מועד מחוץ למחנה?|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-03|[[ביאור:אל ארץ זבת חלב ודבש|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-axelrod|[[ביאור:אלוהי כיס|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-axel|[[ביאור:ה"אופי" של ה' בשמות לב-לג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-05|[[ביאור:חג מתן לוחות הברית|ig;
@@ -7269,6 +7270,7 @@ s|${OPENLINK}tnk1/messages/hzmn___440_jnh___megl_dwd.pdf|[[ביאור:חוט ה�
 s|${OPENLINK}tnk1/messages/hyh_bjnt_27_jnh_lyrbem_mlk_yjral.pdf|[[ביאור:מה היה בשנת 27 שנה לירבעם מלך ישראל|ig;
 s|${OPENLINK}tnk1/messages/hwmnysfyt___spr.doc|[[ביאור:יהדות הומניסטית - ספר (.doc)|ig;
 s|${OPENLINK}tnk1/messages/hwmnysfyt_a5.doc|[[ביאור:יהדות הומניסטית a5 (.doc)|ig;
+s|${OPENLINK}tnk1/messages/humankind.pdf|[[ביאור:Humankind|ig;
 s|${OPENLINK}tnk1/messages/htqwh_amrh_jyrh.pdf|[[ביאור:כי התקוה אמרה שירה|ig;
 s|${OPENLINK}tnk1/messages/htmyd.pdf|[[ביאור:אמונת התמיד|ig;
 s|${OPENLINK}tnk1/messages/hrry_cywn_megl_brkh___xyym_ed_hewlm.pdf|[[ביאור:על הררי ציון מעגל ברכה = חיים עד העולם|ig;
@@ -8252,6 +8254,8 @@ s|${OPENLINK}tnk1/messages/forums_151|[[ביאור:'תחנונים' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_150|[[ביאור:פרשת ואתחנן - האם תחנוני משה הועילו?|ig;
 s|${OPENLINK}tnk1/messages/forums_15|[[ביאור:קריאת עקדת יצחק בראש השנה - מדוע?|ig;
 s|${OPENLINK}tnk1/messages/forums_149|[[ביאור:'גלות בבל' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1483|[[ביאור:שירת דויד המלך - מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1482|[[ביאור:פרשת האזינו - שירת האזינו ,שירת דויד וחג הסוכות|ig;
 s|${OPENLINK}tnk1/messages/forums_1481|[[ביאור:'שופר עתיק יומין בציון' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1480|[[ביאור:פרשת וילך - גילוי עתידות מפי ה' - ושבת שובה|ig;
 s|${OPENLINK}tnk1/messages/forums_148|[[ביאור:'משה המנהיג' - שיר מאת אהובה קליין (c)|ig;

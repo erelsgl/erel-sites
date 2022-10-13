@@ -31,3 +31,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `kotrt` = 'הַמֶּלֶךְ לְעוֹלָמִים חֱיֵה - דריוש', `tarik_hosfa` = '2022-09-29 05:03:12' WHERE `qod` = 'ביאור:דניאל ו22' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `m` = 'אראל', `tarik_hosfa` = '2022-10-12 20:03:37' WHERE `qod` = 'לגרש או להחרים' AND 1 LIMIT 1;
+
