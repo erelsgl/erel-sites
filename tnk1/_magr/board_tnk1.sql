@@ -10478,3 +10478,201 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 09:34:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 10:54:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nxh.html',
+				'tnk1/tora/jmot/jm-33-14.html',
+				NULL,
+				'2022-10-13 14:22:54',
+				'2022-10-13 14:22:54',
+				'פניי ילכו, והניחותי לך',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 14:51:41'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 14:52:19'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 14:53:07'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 14:54:47'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 15:03:37'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/pnh1.html',
+				'tnk1/tora/jmot/jm-33-15.html',
+				NULL,
+				'2022-10-13 16:21:53',
+				'2022-10-13 16:21:53',
+				'האולטימטום של משה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 17:10:12'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-15.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/erp1.html',
+				'tnk1/tora/jmot/jm-32-09.html',
+				NULL,
+				'2022-10-13 17:10:51',
+				'2022-10-13 17:10:51',
+				'עם קשה עורף',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 17:11:06'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-33-15.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 18:22:14'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-32-09.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1484.html',
+				NULL,
+				'2022-10-13 20:52:24',
+				'2022-10-13 20:52:24',
+				'חג סוכות, מגילת קהלת ושמחת תורה/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-10-13 20:52:24'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-13 20:52:26'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-32-09.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1485.html',
+				NULL,
+				'2022-10-13 20:55:27',
+				'2022-10-13 20:55:27',
+				'חיים שמחים/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-10-13 20:55:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/kbd2.html',
+				'tnk1/tora/jmot/jm-33-18.html',
+				NULL,
+				'2022-10-13 21:05:12',
+				'2022-10-13 21:05:12',
+				'הראני נא את כבודך',
+				'אראל',
+				''
+			)
+		;
+
