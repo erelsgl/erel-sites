@@ -4441,3 +4441,39 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0210_2.html',
+		'<p>אם חפצת יהוה ילך לפניך לך אתה אחריו</p><p>אם אתה רוצה שאלהים ישמע בקולך שמע אתה בקול אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 04:32:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>אם חפצת יהוה ילך לפניך לך אתה אחריו</p><p>אם אתה רוצה שאלהים ישמע בקולך שמע אתה בקול אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 04:33:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/hfrka.html',
+		'<p>ירמיהו כח9: &quot;הַנָּבִיא אֲשֶׁר יִנָּבֵא לְשָׁלוֹם בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת&quot;</p><p>מדינת ישראל תחרב ------------------- בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 05:07:17'
+		)
+		;
+

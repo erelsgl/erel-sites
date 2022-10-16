@@ -126,3 +126,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-12 20:35:21' WHERE `bn` = 'שחור שהוא כחול (שיחור = נילוס)' AND `sfr` = 'יהש' AND `prq0` = 'טו' AND `psuq0` = 47 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2022-10-16 03:14:05' WHERE `bn` = 'ביאור:קהלת ז1' AND `sfr` = 'קהל' AND `prq0` = 'ז' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
