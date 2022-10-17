@@ -4477,3 +4477,127 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p> ירמיהו ב26: &quot;כְּבֹשֶׁת גַּנָּב כִּי יִמָּצֵא כֵּן הֹבִישׁוּ בֵּית יִשְׂרָאֵל הֵמָּה מַלְכֵיהֶם שָׂרֵיהֶם וְכֹהֲנֵיהֶם וּנְבִיאֵיהֶם&quot;</p><p>צפניה ג4: &quot;נְבִיאֶיהָ פֹּחֲזִים אַנְשֵׁי בֹּגְדוֹת כֹּהֲנֶיהָ חִלְּלוּ קֹדֶשׁ חָמְסוּ תּוֹרָה&quot;</p><p>איכה ד13: &quot;מֵחַטֹּאת נְבִיאֶיהָ עונות כֹּהֲנֶיהָ הַשֹּׁפְכִים בְּקִרְבָּהּ דַּם צַדִּיקִים&quot;</p><p>ירמיהו יז1: &quot;חַטַּאת יְהוּדָה כְּתוּבָה בְּעֵט בַּרְזֶל בְּצִפֹּרֶן שָׁמִיר חֲרוּשָׁה עַל לוּחַ לִבָּם וּלְקַרְנוֹת מִזְבְּחוֹתֵיכֶם&quot;</p><p>ויקרא כו25:</p><p>&quot;וְהֵבֵאתִי עֲלֵיכֶם חֶרֶב נֹקֶמֶת נְקַם בְּרִית</p><p>וְנֶאֱסַפְתֶּם אֶל עָרֵיכֶם וְשִׁלַּחְתִּי דֶבֶר בְּתוֹכְכֶם וְנִתַּתֶּם בְּיַד אוֹיֵב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 08:08:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-16 08:08:09' 
+			WHERE messageid=11910;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/hfrka.html',
+		'<p></p><p> https://tora.us.fm/tnk1/messages/prqim_t1502_2.html?no_cache=1665398916</p><p>ירמיהו כח9: &quot;הַנָּבִיא אֲשֶׁר יִנָּבֵא לְשָׁלוֹם בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת&quot;</p><p>מדינת ישראל תחרב ------------------- בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת</p><p>אנכי דיין שם משה אשא תְפִלָּה בְּעַד הַשְּׁאֵרִית הַנִּמְצָאָה כי אמת הדבר ומדינת ישראל תחרב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 08:16:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-16 08:16:22' 
+			WHERE messageid=11922;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/hfrka.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html?no_cache=1665398916</p><p>ירמיהו כח9: &quot;הַנָּבִיא אֲשֶׁר יִנָּבֵא לְשָׁלוֹם בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת&quot;</p><p>מדינת ישראל תחרב ------------------- בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר שְׁלָחוֹ יהוה בֶּאֱמֶת</p><p>אנכי דיין שם משה אשא תְפִלָּה בְּעַד הַשְּׁאֵרִית הַנִּמְצָאָה כי אמת הדבר ומדינת ישראל תחרב</p><p>צפניה ג13: &quot;שְׁאֵרִית יִשְׂרָאֵל לֹא יַעֲשׂוּ עַוְלָה וְלֹא יְדַבְּרוּ כָזָב וְלֹא יִמָּצֵא בְּפִיהֶם לְשׁוֹן תַּרְמִית כִּי הֵמָּה יִרְעוּ וְרָבְצוּ וְאֵין מַחֲרִיד&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 08:22:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-16 08:22:07' 
+			WHERE messageid=11924;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-33-22.html',
+		'<p>הצור לא רק סלע אבן כי הצור משמעות רוחנית לו ואני דיין הייתי בצור הזה</p><p>תהלים כז5: &quot;כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי&quot;</p><p>תהלים סא3: &quot;מִקְצֵה הָאָרֶץ אֵלֶיךָ אֶקְרָא בַּעֲטֹף לִבִּי בְּצוּר יָרוּם מִמֶּנִּי תַנְחֵנִי&quot;</p><p>שמואל ב כב2: &quot;וַיֹּאמַר יהוה סַלְעִי וּמְצֻדָתִי וּמְפַלְטִי לִי&quot;</p><p>תהלים יח3: &quot;יהוה סַלְעִי וּמְצוּדָתִי וּמְפַלְטִי אֵלִי צוּרִי אֶחֱסֶה בּוֹ מָגִנִּי וְקֶרֶן יִשְׁעִי מִשְׂגַּבִּי&quot;</p><p>תהלים לא4: &quot;כִּי סַלְעִי וּמְצוּדָתִי אָתָּה וּלְמַעַן שִׁמְךָ תַּנְחֵנִי וּתְנַהֲלֵנִי&quot;</p><p>תהלים עא3: &quot;הֱיֵה לִי לְצוּר מָעוֹן לָבוֹא תָּמִיד צִוִּיתָ לְהוֹשִׁיעֵנִי כִּי סַלְעִי וּמְצוּדָתִי אָתָּה&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 12:08:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rks_0.html',
+		'<p>צודק = פרופסור טור סיני כבר כתב שרכס = רכל = רגל = קשר</p><p>תהלים לא21: &quot;תַּסְתִּירֵם בְּסֵתֶר פָּנֶיךָ מֵרֻכְסֵי אִישׁ תִּצְפְּנֵם בְּסֻכָּה מֵרִיב לְשֹׁנוֹת&quot;</p><p> מֵרֻכְסֵי אִישׁ תִּצְפְּנֵם בְּסֻכָּה מֵרִיב לְשֹׁנוֹת = מרגל לשון</p><p>תהלים טו3: &quot;לֹא רָגַל עַל לְשֹׁנוֹ לֹא עָשָׂה לְרֵעֵהוּ רָעָה וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 12:14:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-33-22.html',
+		'<p>הצור לא רק סלע אבן כי הצור משמעות רוחנית לו ואני דיין הייתי בצור הזה</p><p>תהלים כז5: &quot;כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי&quot;</p><p>תהלים סא3: &quot;מִקְצֵה הָאָרֶץ אֵלֶיךָ אֶקְרָא בַּעֲטֹף לִבִּי בְּצוּר יָרוּם מִמֶּנִּי תַנְחֵנִי&quot;</p><p>שמואל ב כב2: &quot;וַיֹּאמַר יהוה סַלְעִי וּמְצֻדָתִי וּמְפַלְטִי לִי&quot;</p><p>תהלים יח3: &quot;יהוה סַלְעִי וּמְצוּדָתִי וּמְפַלְטִי אֵלִי צוּרִי אֶחֱסֶה בּוֹ מָגִנִּי וְקֶרֶן יִשְׁעִי מִשְׂגַּבִּי&quot;</p><p>תהלים לא4: &quot;כִּי סַלְעִי וּמְצוּדָתִי אָתָּה וּלְמַעַן שִׁמְךָ תַּנְחֵנִי וּתְנַהֲלֵנִי&quot;</p><p>תהלים עא3: &quot;הֱיֵה לִי לְצוּר מָעוֹן לָבוֹא תָּמִיד צִוִּיתָ לְהוֹשִׁיעֵנִי כִּי סַלְעִי וּמְצוּדָתִי אָתָּה&quot;</p><p>אם חלמת בחלום שאתה מרחף גבוה בתעופה זה מעיד כי האלהים בְּצוּר רוממך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-16 12:23:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-10-16 12:23:16' 
+			WHERE messageid=11926;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>מיכה ג5: &quot;כֹּה אָמַר יהוה עַל הַנְּבִיאִים הַמַּתְעִים אֶת עַמִּי הַנֹּשְׁכִים בְּשִׁנֵּיהֶם וְקָרְאוּ שָׁלוֹם וַאֲשֶׁר לֹא יִתֵּן עַל פִּיהֶם וְקִדְּשׁוּ עָלָיו מִלְחָמָה&quot;...</p><p>מיכה ג6: &quot;לָכֵן לַיְלָה לָכֶם מֵחָזוֹן וְחָשְׁכָה לָכֶם מִקְּסֹם וּבָאָה הַשֶּׁמֶשׁ עַל הַנְּבִיאִים וְקָדַר עֲלֵיהֶם הַיּוֹם&quot;</p><p>מיכה ג7: &quot;וּבֹשׁוּ הַחֹזִים וְחָפְרוּ הַקֹּסְמִים וְעָטוּ עַל שָׂפָם כֻּלָּם כִּי אֵין מַעֲנֵה אֱלֹהִים&quot;</p><p>מיכה ג8: &quot;וְאוּלָם אָנֹכִי מָלֵאתִי כֹחַ אֶת רוּחַ יהוה וּמִשְׁפָּט וּגְבוּרָה לְהַגִּיד לְיַעֲקֹב פִּשְׁעוֹ וּלְיִשְׂרָאֵל חַטָּאתוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-17 03:22:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_24.html',
+		'<p>משלי יט21: &quot;רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ וַעֲצַת יהוה הִיא תָקוּם&quot;</p><p>------------- צ\'אקרת הלב = עצה = צבע ירוק -------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-17 04:07:56'
+		)
+		;
+

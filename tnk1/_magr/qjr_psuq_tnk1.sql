@@ -130,3 +130,215 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2022-10-16 03:14:05' WHERE `bn` = 'ביאור:קהלת ז1' AND `sfr` = 'קהל' AND `prq0` = 'ז' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'שד\"ל שמות לג' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'מלאך הדרך - מערכה ב' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ה\"אופי\" של ה\' בשמות לב-לג' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג7' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לב9' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 3 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:הושע יב10' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 7 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'לימוד תורה - בעל-פה או בכתב' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'פרשת כי תישא - מה מטרת אוהל מועד?' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 11, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'דמותו של יהושע' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'איך משה הצליח לשכנע את ה\'' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג14' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'בצל אל ובצלם אלהים, חכם לב, קריאה בשם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ה\"אופי\" של ה\' בשמות לב-לג' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq1` = 12, `kotrt` = 'הויכוח על הליכת פני ה\' עם ישראל - סיכום הפירושים', `sug` = 'תרגומים', `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'ביאור:שמות לג12' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'ללמוד כדי למצוא חן בעיני ה\', לא כדי לדעת יותר' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'דרכי ה\' שהתגלו למשה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'הודיעני נא את דרכיך - הראני נא את כבודך - דעת הרמב\"ם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'ידיעה כפולה - קשר הדדי' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'טלפתיה בין ה\' לבין משה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'הפרדוקסליות של מושג האלוהים' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'מי עומד על הצור?' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 13:59:51' WHERE `bn` = 'מקום=' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'שד\"ל שמות לג' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'מלאך הדרך - מערכה ב' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'בצל אל ובצלם אלהים, חכם לב, קריאה בשם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'ללמוד כדי למצוא חן בעיני ה\', לא כדי לדעת יותר' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'ידיעה כפולה - קשר הדדי' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'דרכי ה\' שהתגלו למשה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'הודיעני נא את דרכיך - הראני נא את כבודך - דעת הרמב\"ם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'טלפתיה בין ה\' לבין משה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות כד11' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = 'הבדלים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'לא תוכל לראות את פניי - סיכום הפירושים', `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'ביאור:שמות לג20' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = 'תרגומים' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג14' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הפרדוקסליות של מושג האלוהים' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'איך ראו בני ישראל את הא-להים' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'מקום=' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:02:14' WHERE `bn` = 'מי עומד על הצור?' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'שד\"ל שמות לג' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'מלאך הדרך - מערכה ב' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'בצל אל ובצלם אלהים, חכם לב, קריאה בשם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 12 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'ידיעה כפולה - קשר הדדי' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'בשש משה, ויזר על פני המים, ויתנצלו בני ישראל, עמך הגוי הזה, ויתן על פניו מסוה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'דרכי ה\' שהתגלו למשה' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'הודיעני נא את דרכיך - הראני נא את כבודך - דעת הרמב\"ם' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'ללמוד כדי למצוא חן בעיני ה\', לא כדי לדעת יותר' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'מי עומד על הצור?' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2022-10-16 14:03:14' WHERE `bn` = 'מקום=' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 21 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג14' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 23 AND `sug` = '' AND 1 LIMIT 1;
+
