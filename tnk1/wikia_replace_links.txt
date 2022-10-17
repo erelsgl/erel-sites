@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2022-10-12 20:35:27
+# This file was automatically generated at 2022-10-16 14:03:28
 
 sub wikia_replace_links {
 $_=shift;
@@ -1327,13 +1327,19 @@ s|${OPENLINK}tnk1/tora/jmot/jm-35-03|[[ביאור:לא תבערו אש בכל מ
 s|${OPENLINK}tnk1/tora/jmot/jm-34-21|[[ביאור:בחריש ובקציר תשבות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-34-09|[[ביאור:הנימוק האחרון של משה|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-23|[[ביאור:וראית את אחוריי, ופניי לא ייראו|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-22|[[ביאור:משה בנקרת הצור|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-20|[[ביאור:לא תוכל לראות את פני|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-19|[[ביאור:אני אעביר כל טובי על פניך|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-18|[[ביאור:הראני נא את כבודך|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-15|[[ביאור:האולטימטום של משה|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-33-14|[[ביאור:פניי ילכו, והניחותי לך|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-13-axel|[[ביאור:ללמוד כדי למצוא חן בעיני ה', לא כדי לדעת יותר|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-1217|[[ביאור:הויכוח על הליכת פני ה' עם ישראל|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-07|[[ביאור:מתי היה אוהל מועד מחוץ למחנה?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-33-03|[[ביאור:אל ארץ זבת חלב ודבש|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-axelrod|[[ביאור:אלוהי כיס|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-axel|[[ביאור:ה"אופי" של ה' בשמות לב-לג|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-32-09|[[ביאור:עם קשה עורף|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-32-05|[[ביאור:חג מתן לוחות הברית|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-30-13|[[ביאור:מחצית השקל|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-30-12|[[ביאור:לקראת המפקד - לתת כופר-נפש לה', תרומה לבניין המקדש|ig;
@@ -6887,6 +6893,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_rwx_0|[[ביאור:רוח עזה או רו�
 s|${OPENLINK}tnk1/messages/ljon_jorj_rwm1_0_0|[[ביאור:שדי תרומות = שדי תהומות|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_rqq1_0|[[ביאור:רקה = לחי|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_rmn_0|[[ביאור:רימון = פרי הדר|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_rks_0|[[ביאור:מה הקשר?! אודות רכס / רכש ועוד|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_rkb_0|[[ביאור:רכב ישראל = המכבס ומטהר את עם ישראל|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_rhh_0|[[ביאור:רהה = ירא, פחד|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_rhb_1|[[ביאור:רהב = גאוה = מצרים|ig;
@@ -8254,6 +8261,8 @@ s|${OPENLINK}tnk1/messages/forums_151|[[ביאור:'תחנונים' - שיר מ�
 s|${OPENLINK}tnk1/messages/forums_150|[[ביאור:פרשת ואתחנן - האם תחנוני משה הועילו?|ig;
 s|${OPENLINK}tnk1/messages/forums_15|[[ביאור:קריאת עקדת יצחק בראש השנה - מדוע?|ig;
 s|${OPENLINK}tnk1/messages/forums_149|[[ביאור:'גלות בבל' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1485|[[ביאור:'חיים שמחים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1484|[[ביאור:חג סוכות, מגילת קהלת ושמחת תורה|ig;
 s|${OPENLINK}tnk1/messages/forums_1483|[[ביאור:שירת דויד המלך - מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1482|[[ביאור:פרשת האזינו - שירת האזינו ,שירת דויד וחג הסוכות|ig;
 s|${OPENLINK}tnk1/messages/forums_1481|[[ביאור:'שופר עתיק יומין בציון' - שיר מאת אהובה קליין (c)|ig;
@@ -9469,6 +9478,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-139-08|[[ביאור:אם אסק שמיים - ש�
 s|${OPENLINK}tnk1/ktuv/thlim/th-139-02|[[ביאור:אתה ידעת שבתי וקומי, בנת לרעי מרחוק|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-137-09|[[ביאור:אשרי שיאחז וניפץ את עולליך אל הסלע|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-133|[[ביאור:הנה מה טוב ומה נעים שבת אחים גם יחד|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-131-02|[[ביאור:כגמול עלי אמו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-128-02|[[ביאור:יגיע כפיך כי תאכל, אשריך וטוב לך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-127-04|[[ביאור:להוליד ילדים בימי הנעורים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-126-04|[[ביאור:שיטפון של שיבת ציון|ig;
@@ -12407,7 +12417,6 @@ s|${OPENLINK}tnk1/klli/ecot.zip|[[ביאור:עצות ארוזות (.zip)|ig;
 s|${OPENLINK}tnk1/jm-38-26|[[ביאור:ביאור:שמות לח26|ig;
 s|${OPENLINK}tnk1/jm-34-26|[[ביאור:ביאור:שמות לד26|ig;
 s|${OPENLINK}tnk1/jm-34-20|[[ביאור:ביאור:שמות לד20|ig;
-s|${OPENLINK}tnk1/jm-33-12|[[ביאור:ביאור:שמות לג12|ig;
 s|${OPENLINK}tnk1/jm-24-9|[[ביאור:ביאור:שמות כד9|ig;
 s|${OPENLINK}tnk1/jm-23-20|[[ביאור:ביאור:שמות כג20|ig;
 s|${OPENLINK}tnk1/jm-22-16|[[ביאור:ביאור:שמות כב16|ig;
