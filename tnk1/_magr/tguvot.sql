@@ -4601,3 +4601,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t04_0.html',
+		'<p></p>',
+		'109793708745755512800',
+		'Yeny Candia',
+		'2022-10-19 03:08:43'
+		)
+		;
+
