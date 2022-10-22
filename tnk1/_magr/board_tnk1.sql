@@ -11728,3 +11728,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2022-10-19 19:08:05'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-10-21 11:42:24'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1312_3.html'
+		;
+
