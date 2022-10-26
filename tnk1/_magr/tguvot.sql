@@ -4852,3 +4852,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/gmx_hsbr.html',
+		'<p>אני נכנסתי לבעיה כלכלית רצינית אני אבא ל-3 ילדים אני צריך הלוואה גדולה ואין לי בעיה גם לקחת מהשוק האפור כי אני צריך את זה מידית רשמח אם יהיה אפשר ליצור איתי קשר בווצאפ 0559720560. </p>',
+		'106277822436002164515',
+		'ערן ראובנוב',
+		'2022-10-25 09:42:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אחים יקרים מי בכם הזקוק לעצת יהוה </p><p>מוזמן לפנות אלי בדואר אלקטרוני במייל DAIAN1ENATOR@GMAIL.COM</p><p>ללא מחיר וללא בקשת תרומה</p><p>בכבוד רב דיין שם משה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-10-25 09:52:51'
+		)
+		;
+
