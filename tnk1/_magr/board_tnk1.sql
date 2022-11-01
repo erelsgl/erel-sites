@@ -12054,3 +12054,67 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/3elections.html',
+				'tnk1/klli/election-prayer.html',
+				NULL,
+				'2022-11-01 05:54:55',
+				'2022-11-01 05:54:55',
+				'תפילה ליום הבחירות',
+				'נתחברה בבית-הדין השבועי של הסנהדרין החדשה',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/3elections.html',
+				'tnk1/messages/election_prayer.jpg',
+				NULL,
+				'2022-11-01 05:55:56',
+				'2022-11-01 05:55:56',
+				'election-prayer',
+				'אראל',
+				'../tnk1/klli/election-prayer'
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 06:55:43'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 06:57:08'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 07:03:38'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 07:13:06'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
