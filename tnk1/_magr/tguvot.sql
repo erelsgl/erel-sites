@@ -5242,3 +5242,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-11-01 07:13:08' 
 			WHERE messageid=11969;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/election-prayer.html',
+		'<p>https://www.ynet.co.il/articles/0,7340,L-4439266,00.html</p><p>המרן של ש&quot;ס בפסיקתו &quot;שטחים תמורת שלום&quot;</p><p>בגד בעם-ישראל בארץ ישראל ובתורת ישראל</p><p>המרן הזה והיו&quot;ר שלו המכהן עד היום ישבו כבר עם מרצ מפלגת ההומואים והערבים</p><p>והביאו עלינו את הסכם אוסלו עם אלפי הרוגים הכל בגלל תאוות בצע כסף של החרדים</p><p>ואני מזכיר זאת ביום הבחירות כי אסור לבחור בבוגדים האלה</p><p>ואל תעלה בלבנו שום שנאה ופלגנות ?????????? למה לעשות פוזות של יפי נפש</p><p>בעניין שנאה ---</p><p>תהלים קלט21: &quot;הֲלוֹא מְשַׂנְאֶיךָ יהוה אֶשְׂנָא וּבִתְקוֹמְמֶיךָ אֶתְקוֹטָט&quot;</p><p>ובעניין פלגנות --- לעתים יש להבדל מהעדה הרעה</p><p>במדבר טז21: &quot;הִבָּדְלוּ מִתּוֹךְ הָעֵדָה הַזֹּאת וַאַכַלֶּה אֹתָם כְּרָגַע&quot;</p><p>מי שעושה פוזות של ממלכתיות כמו הסנהדרין האלה בסך הכל נושא עיניו למלוכה</p><p>משלי יח2: &quot;לֹא יַחְפֹּץ כְּסִיל בִּתְבוּנָה כִּי אִם בְּהִתְגַּלּוֹת לִבּוֹ&quot;</p><p>ואני ידעתי את זדון לבכם סנהדרין כי למלוך חפצתם ולא יראת אלהים</p><p>אני לא מתרשם ממכתבכם שהשקעתם בו בעורמה רבה</p><p>משלי יד15: &quot;פֶּתִי יַאֲמִין לְכָל דָּבָר וְעָרוּם יָבִין לַאֲשֻׁרוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-01 08:45:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-01 08:45:28' 
+			WHERE messageid=11970;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/election-prayer.html',
+		'<p>היום הפלגנות הוא הסכנה העיקרית לעם ישראל. ראה מה כותב קצין חיזבלה כאן: https://www.memri.org/reports/hizbullah-official-next-war-israel-we-will-turn-israelis-lives-hell-they-will-be-pulling  </p><p>&quot;Israel... has heretofore drawn its strength from the schisms in its surroundings and from its ability to separate the fronts...   Today, the picture is the polar opposite... resistance forces and peoples have united with the Palestinian people in order to fight Israel. Today, Israel fears the resistance, and is experiencing domestic schism it never had before...&quot;</p><p>תרגום: &quot;עד עכשיו, ישראל קיבלה כוח מהפילוג בין השכנות שלה, והיכולת שלה להפריד בין החזיתות. אבל עכשיו התמונה התהפכה: כמה כוחות ועמים התאחדו עם הפלסטינים כדי להילחם בישראל, ובישראל יש פילוג פנימי כמו שלא היה מעולם&quot;.</p><p>הפילוג שלנו נותן כוח לאויבינו! לכן כיום חייבים לשמור על אחדות עם ישראל.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-01 10:18:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/election-prayer.html',
+		'<p>בספר שופטים גִּדְעוֹן השופט </p><p>שופטים ז4: &quot;וַיֹּאמֶר ה\' אֶל גִּדְעוֹן עוֹד הָעָם רָב הוֹרֵד אוֹתָם אֶל הַמַּיִם וְאֶצְרְפֶנּוּ לְךָ שָׁם </p><p>וְהָיָה אֲשֶׁר אֹמַר אֵלֶיךָ זֶה יֵלֵךְ אִתָּךְ הוּא יֵלֵךְ אִתָּךְ וְכֹל אֲשֶׁר אֹמַר אֵלֶיךָ זֶה לֹא יֵלֵךְ עִמָּךְ הוּא לֹא יֵלֵךְ&quot;</p><p>אחדות עם ישראל רק עם מי שהולך עם השופט דיין על פי דבר יהוה אלהים ------- מִי ליהוה אֵלָי</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-01 11:15:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/election-prayer.html',
+		'<p>בספר שופטים גִּדְעוֹן השופט</p><p>שופטים ז4: &quot;וַיֹּאמֶר יהוה אֶל גִּדְעוֹן עוֹד הָעָם רָב הוֹרֵד אוֹתָם אֶל הַמַּיִם וְאֶצְרְפֶנּוּ לְךָ שָׁם</p><p>וְהָיָה אֲשֶׁר אֹמַר אֵלֶיךָ זֶה יֵלֵךְ אִתָּךְ הוּא יֵלֵךְ אִתָּךְ וְכֹל אֲשֶׁר אֹמַר אֵלֶיךָ זֶה לֹא יֵלֵךְ עִמָּךְ הוּא לֹא יֵלֵךְ&quot;</p><p>אחדות עם ישראל רק עם מי שהולך עם השופט דיין על פי דבר יהוה אלהים ------- מִי ליהוה אֵלָי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-01 11:15:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-01 11:15:58' 
+			WHERE messageid=11973;
+

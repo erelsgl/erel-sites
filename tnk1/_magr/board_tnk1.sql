@@ -12118,3 +12118,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 08:45:26'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 10:18:19'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 11:15:37'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-11-01 11:15:56'
+		WHERE ktovt_bn='tnk1/klli/election-prayer.html'
+		;
+
