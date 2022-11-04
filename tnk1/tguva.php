@@ -119,7 +119,16 @@ function google_new($followup) {
 		function onLoad() {
 			console.log('On load not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
-		
+
+		function decodeJwtResponse(token) {  // From here: https://stackoverflow.com/a/38552302/827927
+			var base64Url = token.split('.')[1];
+			var base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+			var jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
+				return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+			}).join(''));
+			return JSON.parse(jsonPayload);
+		}
+
 		function onSignIn(response) {
 				const responsePayload = decodeJwtResponse(response.credential);
 				alert (responsePayload.name);
