@@ -134,13 +134,14 @@ function google_new($followup) {
 				const responsePayload = decodeJwtResponse(response.credential);
 				// alert (responsePayload.name);
 				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(responsePayload.sub)+'&name='+encodeURIComponent(responsePayload.name)+'&email='+encodeURIComponent(responsePayload.email)+'&image='+encodeURIComponent(responsePayload.picture);
-				console.log(redirectUrl);
+				// console.log(redirectUrl);
 				window.location = redirectUrl;
 		}
 		
 		function onSignOut() {
-			console.log('Sign out not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
-		}
+			var redirectUrl = '?followup=$followup';
+			window.location = redirectUrl;
+	}
 	</script>
 	";
 }
