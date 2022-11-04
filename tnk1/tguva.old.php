@@ -61,47 +61,40 @@ echo xhtml_header(
 		array("_themes/klli_script.css"),
 		"
 		<script type='text/javascript' src='$jquery'></script>
-		");
-
-function google_old() {
-	return <<<EOF
-	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
-	<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
-	<style>
-		iframe#ssIFrame_google {display:none}
-	</style>
-	<script type='text/javascript'>
-		<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
-		function onLoad() {
-				if (!gapi.auth2) {
-					gapi.load('auth2', function() {
-						gapi.auth2.init();
+		<script type='text/javascript' src='https://apis.google.com/js/platform.js?onload=onLoad' async defer></script>
+		<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
+		<style>
+			iframe#ssIFrame_google {display:none}
+		</style>
+		<script type='text/javascript'>
+			<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
+			function onLoad() {
+					if (!gapi.auth2) {
+						gapi.load('auth2', function() {
+							gapi.auth2.init();
+						});
+					}
+			}
+			
+			function onSignIn(googleUser) {
+					var profile = googleUser.getBasicProfile();
+					//alert (profile.getName());
+					var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
+					//console.log(redirectUrl);
+					window.location = redirectUrl;
+			}
+			
+			function onSignOut() {
+					var auth2 = gapi.auth2.getAuthInstance();
+					console.log('User signing out.');
+					auth2.signOut().then(function () {
+							console.log('User signed out.');
+							var redirectUrl = '?followup=$followup';
+							window.location = redirectUrl;
 					});
-				}
-		}
-		
-		function onSignIn(googleUser) {
-				var profile = googleUser.getBasicProfile();
-				//alert (profile.getName());
-				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
-				//console.log(redirectUrl);
-				window.location = redirectUrl;
-		}
-		
-		function onSignOut() {
-				var auth2 = gapi.auth2.getAuthInstance();
-				console.log('User signing out.');
-				auth2.signOut().then(function () {
-						console.log('User signed out.');
-						var redirectUrl = '?followup=$followup';
-						window.location = redirectUrl;
-				});
-		}
-	</script>
-	EOF;
-}
-
-echo google_old();
+			}
+		</script>
+		");
 
 
 function add_comment($followup_quoted, $body) {
