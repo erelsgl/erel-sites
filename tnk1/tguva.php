@@ -103,14 +103,15 @@ function google_old($followup) {
 	";
 }
 
+function google_old_button() {
+	return "<div class='g-signin2' data-onsuccess='onSignIn'></div>"
+}
+
 
 function google_new($followup) {
+	global $current_userid;
 	return "
 	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
-    <div id='g_id_onload'
-         data-client_id='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'
-         data-callback='onSignIn'>
-    </div>
 	<style>
 		iframe#ssIFrame_google {display:none}
 	</style>
@@ -131,7 +132,7 @@ function google_new($followup) {
 
 		function onSignIn(response) {
 				const responsePayload = decodeJwtResponse(response.credential);
-				alert (responsePayload.name);
+				// alert (responsePayload.name);
 				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(responsePayload.sub)+'&name='+encodeURIComponent(responsePayload.name)+'&email='+encodeURIComponent(responsePayload.email)+'&image='+encodeURIComponent(responsePayload.picture);
 				console.log(redirectUrl);
 				window.location = redirectUrl;
@@ -141,6 +142,15 @@ function google_new($followup) {
 			console.log('Sign out not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
 	</script>
+	";
+}
+
+function google_new_button() {
+	return "<div id='g_id_onload'
+		data-client_id='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'
+		data-callback='onSignIn'>
+	</div>
+    <div class='g_id_signin' data-type='standard'></div>
 	";
 }
 
@@ -286,7 +296,7 @@ function show_new_comment_form($followup_quoted, &$parity) {
 				כדי לכתוב תגובה יש להתחבר: 
 			</td>
 			<td style='border:none'>
-				<div class='g-signin2' data-onsuccess='onSignIn'></div>
+				".google_new_button()."
 			</td>
 		</tr>
 		";
