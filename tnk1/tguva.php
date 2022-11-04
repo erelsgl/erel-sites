@@ -120,10 +120,10 @@ function google_new($followup) {
 			console.log('On load not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
 		
-		function onSignIn(googleUser) {
-				var profile = googleUser.getBasicProfile();
-				alert (profile.getName());
-				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
+		function onSignIn(response) {
+				const responsePayload = decodeJwtResponse(response.credential);
+				alert (responsePayload.name);
+				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(responsePayload.sub)+'&name='+encodeURIComponent(responsePayload.name)+'&email='+encodeURIComponent(responsePayload.email)+'&image='+encodeURIComponent(responsePayload.picture);
 				console.log(redirectUrl);
 				window.location = redirectUrl;
 		}
