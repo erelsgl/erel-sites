@@ -104,7 +104,7 @@ function google_old($followup) {
 }
 
 function google_old_button() {
-	return "<div class='g-signin2' data-onsuccess='onSignIn'></div>"
+	return "<div class='g-signin2' data-onsuccess='onSignIn'></div>";
 }
 
 
