@@ -67,7 +67,7 @@ echo xhtml_header(
 
 function google_old($followup) {
 	return "
-	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
+	<script type='text/javascript' src='https://apis.google.com/js/platform.js' async defer></script>
 	<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
 	<style>
 		iframe#ssIFrame_google {display:none}
@@ -143,8 +143,8 @@ function google_new($followup) {
 }
 
 
-// echo google_old($followup);
-echo google_new($followup);
+echo google_old($followup);
+// echo google_new($followup);
 
 
 function add_comment($followup_quoted, $body) {
