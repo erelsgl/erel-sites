@@ -64,7 +64,7 @@ echo xhtml_header(
 		");
 
 function google_old() {
-	return <<<EOF
+	return "
 	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
 	<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
 	<style>
@@ -98,7 +98,7 @@ function google_old() {
 				});
 		}
 	</script>
-	EOF;
+	";
 }
 
 echo google_old();
