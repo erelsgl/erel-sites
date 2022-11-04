@@ -89,17 +89,17 @@ function google_old($followup) {
 				//console.log(redirectUrl);
 				window.location = redirectUrl;
 		}
-		
+	
 		function onSignOut() {
-				var auth2 = gapi.auth2.getAuthInstance();
-				console.log('User signing out.');
-				auth2.signOut().then(function () {
-						console.log('User signed out.');
-						var redirectUrl = '?followup=$followup';
-						window.location = redirectUrl;
-				});
+			var auth2 = gapi.auth2.getAuthInstance();
+			console.log('User signing out.');
+			auth2.signOut().then(function () {
+					console.log('User signed out.');
+					var redirectUrl = '?followup=$followup';
+					window.location = redirectUrl;
+			});
 		}
-	</script>
+</script>
 	";
 }
 
@@ -107,44 +107,37 @@ function google_old($followup) {
 function google_new($followup) {
 	return "
 	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
-	<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
+    <div id='g_id_onload'
+         data-client_id='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'
+         data-callback='onSignIn'>
+    </div>
 	<style>
 		iframe#ssIFrame_google {display:none}
 	</style>
 	<script type='text/javascript'>
 		<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
 		function onLoad() {
-				if (!gapi.auth2) {
-					gapi.load('auth2', function() {
-						gapi.auth2.init();
-					});
-				}
+			console.log('On load not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
 		
 		function onSignIn(googleUser) {
 				var profile = googleUser.getBasicProfile();
-				//alert (profile.getName());
+				alert (profile.getName());
 				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
-				//console.log(redirectUrl);
+				console.log(redirectUrl);
 				window.location = redirectUrl;
 		}
 		
 		function onSignOut() {
-				var auth2 = gapi.auth2.getAuthInstance();
-				console.log('User signing out.');
-				auth2.signOut().then(function () {
-						console.log('User signed out.');
-						var redirectUrl = '?followup=$followup';
-						window.location = redirectUrl;
-				});
+			console.log('Sign out not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
 	</script>
 	";
 }
 
 
-echo google_old($followup);
-// echo google_new($followup);
+// echo google_old($followup);
+echo google_new($followup);
 
 
 function add_comment($followup_quoted, $body) {
