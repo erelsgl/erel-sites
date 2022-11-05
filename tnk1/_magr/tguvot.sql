@@ -5316,3 +5316,136 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:12:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:12:54' 
+			WHERE messageid=11976;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:13:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:13:05' 
+			WHERE messageid=11977;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>bhxhui</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:14:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:14:41' 
+			WHERE messageid=11978;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:15:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:15:34' 
+			WHERE messageid=11979;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>ttt</p>',
+		'111511438787944440124',
+		'אראל דוד סגל-הלוי',
+		'2022-11-04 13:39:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:39:53' 
+			WHERE messageid=11980;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2630_0.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:44:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:44:27' 
+			WHERE messageid=11981;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2630_0.html',
+		'<p>ניסיון</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2022-11-04 13:44:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-04 13:44:47' 
+			WHERE messageid=11982;
+
