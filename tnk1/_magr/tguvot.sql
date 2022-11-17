@@ -5771,3 +5771,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-11-15 19:11:53' 
 			WHERE messageid=12002;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p> דברי הימים ב לא7: &quot;בַּחֹדֶשׁ הַשְּׁלִשִׁי הֵחֵלּוּ הָעֲרֵמוֹת לְיִסּוֹד וּבַחֹדֶשׁ הַשְּׁבִיעִי כִּלּוּ&quot;</p><p>בַּחֹדֶשׁ הַשְּׁלִשִׁי =דגן </p><p>וּבַחֹדֶשׁ החמשי = תירוש = וְהַיָּמִים יְמֵי בִּכּוּרֵי עֲנָבִים</p><p>וּבַחֹדֶשׁ הַשְּׁבִיעִי = יצהר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-16 12:56:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ויקרא כג1: &quot;וַיְדַבֵּר יהוה אֶל מֹשֶׁה לֵּאמֹר&quot;</p><p>ויקרא כג2: &quot;דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם מוֹעֲדֵי יהוה אֲשֶׁר תִּקְרְאוּ אֹתָם מִקְרָאֵי קֹדֶשׁ אֵלֶּה הֵם מוֹעֲדָי&quot;</p><p>אֵלֶּה הֵם מוֹעֲדָי מוֹעֲדֵי יהוה = על פי לוח השמש</p><p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים....... חֵן וְכָבוֹד יִתֵּן ה\' לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-16 13:51:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>******* דָּגָן תִּירוֹשׁ וְיִצְהָר *******</p><p>דָּגָן = מועדו חג הקציר חג השבועות 70 יום לפני מועד התירוש</p><p>תִּירוֹשׁ = מועדו 70 יום לאחר מועד הדָּגָן חג הקציר ביום ראשון לשבוע וממחרת השבת לראש החודש החמישי וְהַיָּמִים יְמֵי בִּכּוּרֵי עֲנָבִים</p><p>וְיִצְהָר = מועדו 70 יום לאחר מועד התִּירוֹשׁ --- מועד היִצְהָר בחג-הסכות</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-17 05:17:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>******* דָּגָן תִּירוֹשׁ וְיִצְהָר *******</p><p>דָּגָן = מועדו חג הקציר חג השבועות יום 50 לעומר כשבעה שבועות ממחרת השבת לראש השנה [70 יום לפני מועד התירוש]</p><p>תִּירוֹשׁ = מועדו 70 יום לאחר מועד הדָּגָן חג הקציר ביום ראשון לשבוע וממחרת השבת לראש החודש החמישי וְהַיָּמִים יְמֵי בִּכּוּרֵי עֲנָבִים</p><p>וְיִצְהָר = מועדו 70 יום לאחר מועד התִּירוֹשׁ --- מועד היִצְהָר בחג-הסכות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-17 05:41:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-17 05:41:09' 
+			WHERE messageid=12006;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>******* דָּגָן תִּירוֹשׁ וְיִצְהָר *******</p><p>דָּגָן = מועדו חג הקציר חג השבועות יום 50 לעומר כשבעה שבועות ממחרת השבת לראש השנה [70 יום לפני מועד התירוש]</p><p>תִּירוֹשׁ = מועדו 70 יום לאחר מועד הדָּגָן חג הקציר ביום ראשון לשבוע וממחרת השבת לראש החודש החמישי וְהַיָּמִים יְמֵי בִּכּוּרֵי עֲנָבִים</p><p>וְיִצְהָר = מועדו 70 יום לאחר מועד התִּירוֹשׁ --- מועד היִצְהָר בחג-הסכות</p><p>---------------------------------------------------------------------------------</p><p>דברי הימים ב לא7: &quot;בַּחֹדֶשׁ הַשְּׁלִשִׁי הֵחֵלּוּ הָעֲרֵמוֹת לְיִסּוֹד וּבַחֹדֶשׁ הַשְּׁבִיעִי כִּלּוּ&quot;</p><p>בַּחֹדֶשׁ הַשְּׁלִשִׁי =דגן</p><p>וּבַחֹדֶשׁ החמשי = תירוש = וְהַיָּמִים יְמֵי בִּכּוּרֵי עֲנָבִים</p><p>וּבַחֹדֶשׁ הַשְּׁבִיעִי = יצהר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-17 05:43:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-17 05:43:27' 
+			WHERE messageid=12007;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-17 05:43:32' 
+			WHERE messageid=12004;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>ויקרא כג1: &quot;וַיְדַבֵּר יהוה אֶל מֹשֶׁה לֵּאמֹר&quot;</p><p>ויקרא כג2: &quot;דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם מוֹעֲדֵי יהוה אֲשֶׁר תִּקְרְאוּ אֹתָם מִקְרָאֵי קֹדֶשׁ אֵלֶּה הֵם מוֹעֲדָי&quot;</p><p>אֵלֶּה הֵם מוֹעֲדָי מוֹעֲדֵי יהוה = על פי לוח השמש</p><p>תהלים פד12: &quot;כִּי שֶׁמֶשׁ וּמָגֵן יהוה אֱלֹהִים....... חֵן וְכָבוֹד יִתֵּן יהוה לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-17 05:44:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-17 05:44:28' 
+			WHERE messageid=12005;
+
