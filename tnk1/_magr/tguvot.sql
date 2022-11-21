@@ -6035,3 +6035,96 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-11-19 16:58:25' 
 			WHERE messageid=12003;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>בהמשך לתגובתי האחרונה</p><p>ראו נא כי שני מועדים למתן תורה ברדת משה מהר סיני</p><p>מועד א\' בשביעי לחג השבועות לאמור ביום שבת 4.4.2450</p><p>ומועד ב\' הוא יום זכרון תרועה גם כן ביום שבת 1.7.2450 הוא ראש החודש השבעי</p><p>-</p><p>מועד ב\' כפי שאמרתי בראש החודש השבעי ולא ביום כיפורים זה לא יכול להיות</p><p>הלא משה התענה בצום ארבעים יום וארבעים לילה </p><p>ואם לדברי חז&quot;ל מועד ב\' למתן תורה משה היה יורד מן ההר ביום כיפורים היה נאלץ לצום יום נוסף 40+1=41 יום וזה לא יתכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 12:49:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>בהמשך לתגובתי האחרונה</p><p>ראו נא כי שני מועדים למתן תורה ברדת משה מהר סיני</p><p>מועד א\' בשביעי לחג השבועות לאמור ביום שבת 4.4.2450</p><p>ומועד ב\' הוא יום זכרון תרועה גם כן ביום שבת 1.7.2450 הוא ראש החודש השבעי</p><p>-</p><p>מועד ב\' כפי שאמרתי בראש החודש השבעי ולא ביום כיפורים זה לא יכול להיות</p><p>הלא משה התענה בצום ארבעים יום וארבעים לילה </p><p>ואם לדברי חז&quot;ל מועד ב\' למתן תורה משה היה יורד מן ההר ביום כיפורים היה נאלץ לצום יום נוסף 40+1=41 יום וזה לא יתכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 12:50:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>בהמשך לתגובתי האחרונה</p><p>ראו נא כי שני מועדים למתן תורה ברדת משה מהר סיני</p><p>מועד א\' בשביעי לחג השבועות לאמור ביום שבת 4.4.2450</p><p>ומועד ב\' הוא יום זכרון תרועה גם כן ביום שבת 1.7.2450 הוא ראש החודש השבעי</p><p>-</p><p>מועד ב\' כפי שאמרתי בראש החודש השבעי ולא ביום כיפורים זה לא יכול להיות</p><p>הלא משה התענה בצום ארבעים יום וארבעים לילה</p><p>ואם לדברי חז&quot;ל מועד ב\' למתן תורה היה ביום כפורים אז משה היה נאלץ להתענות בצום יום נוסף 40+1=41 יום וזה לא יתכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 12:51:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-20 12:51:32' 
+			WHERE messageid=12020;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p> בהמשך לתגובתי האחרונה</p><p>ראו נא כי שני מועדים למתן תורה ברדת משה מהר סיני</p><p>מועד א\' בשביעי לחג השבועות לאמור ביום שבת 4.3.2450</p><p>ומועד ב\' הוא יום זכרון תרועה גם כן ביום שבת 1.7.2450 הוא ראש החודש השבעי</p><p>-</p><p>מועד ב\' כפי שאמרתי בראש החודש השבעי ולא ביום כיפורים זה לא יכול להיות</p><p>הלא משה התענה בצום ארבעים יום וארבעים לילה</p><p>ואם לדברי חז&quot;ל מועד ב\' למתן תורה היה ביום כפורים אז משה היה נאלץ להתענות בצום יום נוסף 40+1=41 יום וזה לא יתכן</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 13:01:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-20 13:01:20' 
+			WHERE messageid=12021;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>בהמשך לתגובתי האחרונה</p><p>ראו נא כי שני מועדים למתן תורה ברדת משה מהר סיני</p><p>מועד א\' בשביעי לחג השבועות לאמור ביום שבת 4.3.2450 מעמד הר סיני</p><p>ומועד ב\' הוא יום זכרון תרועה גם כן ביום שבת 1.7.2450 הוא ראש החודש השבעי</p><p>-</p><p>מועד ב\' כפי שאמרתי בראש החודש השבעי ולא ביום כיפורים זה לא יכול להיות</p><p>הלא משה התענה בצום ארבעים יום וארבעים לילה</p><p>ואם לדברי חז&quot;ל מועד ב\' למתן תורה היה ביום כפורים אז משה היה נאלץ להתענות בצום יום נוסף 40+1=41 יום וזה לא יתכן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 13:04:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-20 13:04:24' 
+			WHERE messageid=12022;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p> </p><p>שופטים ה20: &quot;מִן שָׁמַיִם נִלְחָמוּ הַכּוֹכָבִים מִמְּסִלּוֹתָם נִלְחֲמוּ עִם סִיסְרָא&quot;</p><p>דבורה הנביאה ראתה בקודש בשמים את כל האסטרולוגיה של הַכּוֹכָבִים </p><p>תהלים ח4: &quot;כִּי אֶרְאֶה שָׁמֶיךָ מַעֲשֵׂי אֶצְבְּעֹתֶיךָ יָרֵחַ וְכוֹכָבִים אֲשֶׁר כּוֹנָנְתָּה&quot;</p><p>יחד עם זאת דבורה הנביאה לא עבדה כוכבים ומזלות כי אם את אלהי ישראל לבדו</p><p>ככתוב בתורת משה איש האלהים</p><p>דברים ד19: &quot;וּפֶן תִּשָּׂא עֵינֶיךָ הַשָּׁמַיְמָה וְרָאִיתָ אֶת הַשֶּׁמֶשׁ וְאֶת הַיָּרֵחַ וְאֶת הַכּוֹכָבִים כֹּל צְבָא הַשָּׁמַיִם </p><p>וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לָהֶם וַעֲבַדְתָּם אֲשֶׁר חָלַק יהוה אֱלֹהֶיךָ אֹתָם לְכֹל הָעַמִּים תַּחַת כָּל הַשָּׁמַיִם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-20 16:15:13'
+		)
+		;
+
