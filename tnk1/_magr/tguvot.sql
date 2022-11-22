@@ -6128,3 +6128,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/08-35.html',
+		'<p>יפה מאוד!</p>',
+		'112593956537053274947',
+		'Tomer Greenberg',
+		'2022-11-21 12:47:39'
+		)
+		;
+
