@@ -6231,3 +6231,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_1.html',
+		'<p>ומחג-הסכות יחלו &quot;ירחו אסיף&quot; שהם שני ירחים לאסיף זית שמן יצהר בראשית עונת המסיק</p><p>ירחו אספ- שני חודשי אסיף (תשרי-חשוון) </p><p>ויותר מדוייק....... בלוח דיין</p><p> ירחו אספ- שני חודשי אסיף</p><p>מחג-הסכות במחצית החודש השבעי 15.7 עד 15.9 מחצית החודש התשעי</p><p>כאשר 15.7 הוא ראשית המסיק בכורי היצהר מועד היצהר</p><p>והחודש השמני הוא חודש השמן כאשר אחוז השמן גבוה מבחינה מסחרית</p><p>וסוף המסיק עד המחצית הראשונה של החודש התשעי עד 15.9</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-24 14:19:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_1.html',
+		'<p>ומחג-הסכות יחלו &quot;ירחו אסיף&quot; שהם שני ירחים לאסיף זית שמן יצהר בראשית עונת המסיק</p><p>ירחו אספ- שני חודשי אסיף (תשרי-חשוון)</p><p>ויותר מדוייק....... בלוח דיין</p><p>ירחו אספ- שני חודשי אסיף</p><p>מחג-הסכות במחצית החודש השבעי 15.7 עד 15.9 מחצית החודש התשעי</p><p>כאשר 15.7 הוא ראשית המסיק בכורי היצהר מועד היצהר</p><p>והחודש השמני הוא חודש השמן כאשר אחוז השמן גבוה מבחינה מסחרית</p><p>וסוף המסיק עד המחצית הראשונה של החודש התשעי עד 15.9 בלוח דיין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-11-24 14:30:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-24 14:30:58' 
+			WHERE messageid=12033;
+
