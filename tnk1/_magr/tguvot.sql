@@ -6262,3 +6262,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-11-24 14:30:58' 
 			WHERE messageid=12033;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2703_0.html',
+		'<p>ובאִיּוֹב ג\': &quot;יֶחְשְׁכוּ כּוֹכְבֵי נִשְׁפּוֹ יְקַו לְאוֹר וָאַיִן וְאַל יִרְאֶה בְּעַפְעַפֵּי שָׁחַר&quot;</p><p>&quot;אַל יִרְאֶה בְּעַפְעַפֵּי שָׁחַר&quot;: לא תיראה הזריחה עוד.</p>',
+		'108140819621140039297',
+		'Amir Nisinzweig',
+		'2022-11-26 05:58:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-26 05:58:54' 
+			WHERE messageid=12035;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2703_0.html',
+		'<p>ובאִיּוֹב ג\': ז\': &quot;אַל יִרְאֶה בְּעַפְעַפֵּי שָׁחַר&quot;, משמעו לא תיראה הזריחה עוד.</p>',
+		'108140819621140039297',
+		'Amir Nisinzweig',
+		'2022-11-26 05:59:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-26 06:00:12' 
+			WHERE messageid=12036;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2703_0.html',
+		'<p>ובאִיּוֹב ג\': ט\': &quot;אַל יִרְאֶה בְּעַפְעַפֵּי שָׁחַר&quot;, משמעו לא תיראה הזריחה עוד.</p>',
+		'108140819621140039297',
+		'Amir Nisinzweig',
+		'2022-11-26 06:00:20'
+		)
+		;
+
