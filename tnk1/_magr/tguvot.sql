@@ -6574,3 +6574,17 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-11-27 14:17:05' 
 			WHERE messageid=12052;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-29 12:39:14' 
+			WHERE messageid=12053;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-11-29 12:52:56' 
+			WHERE messageid=12046;
+

@@ -3525,3 +3525,19 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t0232_5.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-11-29 12:39:14'
+			WHERE parent='tnk1/messages/prqim_t0232_5.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2022-11-29 12:52:56'
+			WHERE parent='tnk1/messages/prqim_t3302_1.html'
+			;
+
