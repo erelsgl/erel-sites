@@ -7003,3 +7003,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-12-07 16:45:01' 
 			WHERE messageid=12079;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://www.youtube.com/watch?v=WHC6RekPHCc</p><p>And all the light, will be, will be</p><p>*******And all the future prophecy*******</p><p>----------------------------------------------------</p><p>And all the waves, the sea, the sea</p><p>And on the road, are you and me</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>And all the wings are like a kiss</p><p>And all the years are nemesis</p><p>And all the moments fall in mist</p><p>And all is dust, remember this</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>And all the lights, will be, will be</p><p>And all the waves, the sea</p><p>And all the waves, the sea, the sea</p><p>And all the light, will be</p><p>And all the dust will drift away (ooh)</p><p>And all the nights and all the days</p><p>And all the heavens go their way</p><p>And only change is here to stay</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p><p>And all the light, will be, will be</p><p>And all the waves, the sea</p><p>And all the waves, the sea, the sea</p><p>And all the light, will be</p><p>And all the stars, without a name</p><p>And all the skies, that look the same</p><p>And all the clouds, that fade, and then</p><p>Then all of this, begins again</p><p>Hmmmmmmmm</p><p>Hmmmmmmmm</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-08 13:28:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>https://www.youtube.com/watch?v=Ec92Wa8zJs8</p><p>Lyrics</p><p>We said goodbye, that\'s what you told me once</p><p>So many times we\'ve made our peace</p><p>But this is love, I\'ll never give you up</p><p>I know you\'ll always come home to me</p><p>Like a river, always running</p><p>I keep losing you</p><p>Like a fire, always burning</p><p>I\'ll be here for you</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>If you\'re searching for forever</p><p>I\'ll be waiting, come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>Come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>We\'ve lost our way, that\'s what you told me last</p><p>The tears, they come and go</p><p>This is us, I\'ll never get enough</p><p>It\'s taken losing you to know</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>If you\'re searching for forever</p><p>I\'ll be waiting, come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready (if you\'re ready)</p><p>Heart is open (heart is open)</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>Come find me</p><p>Ah</p><p>Run to me and never leave now</p><p>Ah</p><p>Run to me and never leave now</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>If you\'re ready (if you\'re ready)</p><p>Heart is open (heart is open)</p><p>I\'ll be waiting, come find me</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-09 05:29:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>‏אם אתה ‏‏מוכן, הלב פתוח‏</p><p>‏ אני אחכה, בוא תמצא אותי ‏‏אם אתה מחפש לנצח‏</p><p>‏אני אחכה, בוא תמצא אותי‏</p><p>https://www.youtube.com/watch?v=Ec92Wa8zJs8</p><p>Lyrics</p><p>We said goodbye, that\'s what you told me once</p><p>So many times we\'ve made our peace</p><p>But this is love, I\'ll never give you up</p><p>I know you\'ll always come home to me</p><p>Like a river, always running</p><p>I keep losing you</p><p>Like a fire, always burning</p><p>I\'ll be here for you</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>If you\'re searching for forever</p><p>I\'ll be waiting, come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>Come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>We\'ve lost our way, that\'s what you told me last</p><p>The tears, they come and go</p><p>This is us, I\'ll never get enough</p><p>It\'s taken losing you to know</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>If you\'re searching for forever</p><p>I\'ll be waiting, come find me</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready (if you\'re ready)</p><p>Heart is open (heart is open)</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>Come find me</p><p>Ah</p><p>Run to me and never leave now</p><p>Ah</p><p>Run to me and never leave now</p><p>I see you here in the darkness</p><p>Blinding light right where your heart is</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p><p>Come find me</p><p>If you\'re ready (if you\'re ready)</p><p>Heart is open (heart is open)</p><p>I\'ll be waiting, come find me</p><p>If you\'re ready, heart is open</p><p>I\'ll be waiting, come find me</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-09 05:38:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-12-09 05:39:15' 
+			WHERE messageid=12082;
+
