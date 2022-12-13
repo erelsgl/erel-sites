@@ -7244,3 +7244,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-12-12 06:30:06' 
 			WHERE messageid=12095;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0143_0.html',
+		'<p></p><p>שיר תפילה של Tina Cousins - Pray </p><p> וּתְפִלַּת יְשָׁרִים רְצוֹנוֹ וּתְפִלַּת צַדִּיקִים יִשְׁמָע</p><p>https://www.youtube.com/watch?v=Xd-F9hRiOkE</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-12 10:12:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_1.html',
+		'<p>שמות לב22: &quot;וַיֹּאמֶר אַהֲרֹן אַל יִחַר אַף אֲדֹנִי אַתָּה יָדַעְתָּ אֶת הָעָם כִּי בְרָע הוּא&quot;</p><p>תהלים נא11: &quot;הַסְתֵּר פָּנֶיךָ מֵחֲטָאָי וְכָל עונתי מְחֵה&quot;</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-13 05:55:32'
+		)
+		;
+
