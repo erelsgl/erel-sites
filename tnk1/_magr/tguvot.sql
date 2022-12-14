@@ -7268,3 +7268,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יט11: &quot;וַיֹּאמֶר צֵא וְעָמַדְתָּ בָהָר לִפְנֵי יהוה</p><p>וְהִנֵּה יהוה עֹבֵר וְרוּחַ גְּדוֹלָה וְחָזָק מְפָרֵק הָרִים וּמְשַׁבֵּר סְלָעִים לִפְנֵי יהוה לֹא בָרוּחַ יהוה וְאַחַר הָרוּחַ רַעַשׁ לֹא בָרַעַשׁ יהוה&quot;</p><p>מלכים א יט12: &quot;וְאַחַר הָרַעַשׁ אֵשׁ לֹא בָאֵשׁ יהוה וְאַחַר הָאֵשׁ קוֹל דְּמָמָה דַקָּה&quot;</p><p>************** קוֹל דְּמָמָה דַקָּה **************</p><p>https://www.youtube.com/watch?v=IENh284n6Cg</p><p>******* Your silence can crush the unseen *******</p><p>-</p><p>adA fragile night hides upon a lonely truth</p><p>Something ain\'t right and it\'s breaking at the cracks</p><p>The world spins faster outside our door</p><p>As hope is slowly fading</p><p>Behind the cold wall</p><p>Your silence can crush the unseen</p><p>I tremble to my core</p><p>But I invite you in</p><p>[3x]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-13 15:52:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>שמות כט21: </p><p>&quot;וְלָקַחְתָּ מִן הַדָּם אֲשֶׁר עַל הַמִּזְבֵּחַ וּמִשֶּׁמֶן הַמִּשְׁחָה וְהִזֵּיתָ עַל אַהֲרֹן וְעַל בְּגָדָיו וְעַל בָּנָיו וְעַל בִּגְדֵי בָנָיו אִתּוֹ וְקָדַשׁ הוּא וּבְגָדָיו וּבָנָיו וּבִגְדֵי בָנָיו אִתּוֹ&quot;</p><p>שמעו זאת הכהנים כי עליכם להיות קדושים גם בבגדיכם</p><p>קהלת ט8: &quot;בְּכָל עֵת יִהְיוּ בְגָדֶיךָ לְבָנִים וְשֶׁמֶן עַל רֹאשְׁךָ אַל יֶחְסָר&quot;</p><p>כי אם בגדיך יהיו לבנים טהורים גם שמן הקודש עַל רֹאשְׁךָ אַל יֶחְסָר</p><p>ולכהן הראש כתוב: כִּי נֵזֶר שֶׁמֶן מִשְׁחַת אֱלֹהָיו עָלָיו אֲנִי יהוה = כִּי נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ</p><p>ויקרא כא12: &quot;וּמִן הַמִּקְדָּשׁ לֹא יֵצֵא וְלֹא יְחַלֵּל אֵת מִקְדַּשׁ אֱלֹהָיו כִּי נֵזֶר שֶׁמֶן מִשְׁחַת אֱלֹהָיו עָלָיו אֲנִי יהוה\'&quot;</p><p>-</p><p> בְגָדֶיךָ לְבָנִים יהיו לא בהכרח בצבע לבן אך טהורים נקיים צחים זכים</p><p>ובכל יום חדש להחליף בגדים שיהיו מכובסים ונקיים במיוחד לבנים להחלפה</p><p>אין ללבוש לבנים של היום עם הצרות והחטאים של אתמול</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-14 06:42:06'
+		)
+		;
+

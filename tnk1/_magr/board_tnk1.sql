@@ -13434,3 +13434,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-12-13 15:52:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a18_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2022-12-14 06:42:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
+		;
+
