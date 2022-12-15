@@ -7292,3 +7292,151 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2602_1.html',
+		'<p>בספר תהילות פרק ב (ז) אֲסַפְּרָה אֶל חֹק יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ :</p><p>קהלת ד13: &quot;טוֹב יֶלֶד מִסְכֵּן וְחָכָם מִמֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד&quot; </p><p>יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ --- טוֹב יֶלֶד מִסְכֵּן וְחָכָם = זה בן האלהים</p><p>טוֹב יֶלֶד מִסְכֵּן וְחָכָם הוא אֲשֶׁר יָדַע לְהִזָּהֵר עוֹד ולא חטא לאלהים לאכול מפרי עץ הדעת</p><p>כי  יֶלֶד מִסְכֵּן וְחָכָם בן לאלהים במקדש תמיד כטרם הבגרות המינית כי לא חטא בדעת</p><p>כי האוכל מפרי עץ הדעת נפרד מילדותו ומגיע לגיל הבגרות המינית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-14 11:30:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2602_1.html',
+		'<p>בספר תהילות פרק ב (ז) אֲסַפְּרָה אֶל חֹק יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ :</p><p>קהלת ד13: &quot;טוֹב יֶלֶד מִסְכֵּן וְחָכָם מִמֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד&quot;</p><p>יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ --- טוֹב יֶלֶד מִסְכֵּן וְחָכָם = זה בן האלהים</p><p>טוֹב יֶלֶד מִסְכֵּן וְחָכָם הוא אֲשֶׁר יָדַע לְהִזָּהֵר עוֹד ולא חטא לאלהים לאכול מפרי עץ הדעת</p><p>כי יֶלֶד מִסְכֵּן וְחָכָם בן לאלהים במקדש תמיד כטרם הבגרות המינית כי לא חטא בדעת</p><p>כי החוטא לאכול מפרי עץ הדעת נפרד מילדותו ומגיע לגיל הבגרות המינית לחטא הדעת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-14 11:41:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-12-14 11:41:43' 
+			WHERE messageid=12101;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2602_1.html',
+		'<p>בספר תהילות פרק ב (ז) אֲסַפְּרָה אֶל חֹק יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ :</p><p>קהלת ד13: &quot;טוֹב יֶלֶד מִסְכֵּן וְחָכָם מִמֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד&quot;</p><p>יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ --- טוֹב יֶלֶד מִסְכֵּן וְחָכָם = זה בן האלהים</p><p>טוֹב יֶלֶד מִסְכֵּן וְחָכָם הוא אֲשֶׁר יָדַע לְהִזָּהֵר עוֹד ולא חטא לאלהים לאכול מפרי עץ הדעת</p><p>כי יֶלֶד מִסְכֵּן וְחָכָם בן לאלהים במקדש תמיד כטרם הבגרות המינית כי לא חטא בדעת</p><p>כי החוטא לאכול מפרי עץ הדעת נפרד מילדותו ומגיע לגיל הבגרות המינית לחטא הדעת</p><p>לכן כעס אלהים על בניו בני האלהים אשר נטשו מקדשם=ילדותם-לאל ולקחו את בנות האדם</p><p>בראשית ו3: &quot;וַיֹּאמֶר יהוה לֹא יָדוֹן רוּחִי בָאָדָם לְעֹלָם בְּשַׁגַּם הוּא בָשָׂר וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-14 11:47:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-12-14 11:47:48' 
+			WHERE messageid=12102;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-24-0506.html',
+		'<p>מדהים! המקום היחיד במרשתת בו מצאתי פירוש למצווה! אהבתי ממש את הפירוש והתחברתי למצווה, ישר כח!</p>',
+		'117089456413009334612',
+		'אוראל אברמוב',
+		'2022-12-14 16:37:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-24-0506.html',
+		'<p>מדהים! המקום היחיד במרשתת בו מצאתי פירוש למצווה! אהבתי ממש את הפירוש והתחברתי למצווה, ישר כח!</p>',
+		'117089456413009334612',
+		'אוראל אברמוב',
+		'2022-12-14 16:37:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-12-14 16:37:54' 
+			WHERE messageid=12105;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-24-06.html',
+		'<p>מדהים! המקום היחיד במרשתת בו מצאתי פירוש למצווה! תודה!</p>',
+		'117089456413009334612',
+		'אוראל אברמוב',
+		'2022-12-14 16:38:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p>איזה דמות בתנך הצטיינה\\סמלה את מידת הסבלנות?</p><p></p>',
+		'112680553398270690375',
+		'Racheli Finkelshteyn',
+		'2022-12-14 20:43:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/magrim.html',
+		'<p>Racheli Finkelshteyn</p><p>אשר חכה בסבלנות רבה זה הנביא</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-15 05:44:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; : &quot;טוֹב יהוה לְקֹוָו לְנֶפֶשׁ תִּדְרְשֶׁנּוּ&quot; [איכה ג25]</p><p>תהלים יד2: &quot;יהוה מִשָּׁמַיִם הִשְׁקִיף עַל בְּנֵי אָדָם לִרְאוֹת הֲיֵשׁ מַשְׂכִּיל דֹּרֵשׁ אֶת אֱלֹהִים&quot;</p><p>תהלים נג3: &quot;אֱלֹהִים מִשָּׁמַיִם הִשְׁקִיף עַל בְּנֵי אָדָם לִרְאוֹת הֲיֵשׁ מַשְׂכִּיל דֹּרֵשׁ אֶת אֱלֹהִים&quot;</p><p>תהלים קב20: &quot;כִּי הִשְׁקִיף מִמְּרוֹם קָדְשׁוֹ יהוה מִשָּׁמַיִם אֶל אֶרֶץ הִבִּיט&quot;</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; : &quot;עַד יַשְׁקִיף וְיֵרֶא יהוה מִשָּׁמָיִם&quot; [איכה ג50]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-15 06:55:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>צוואת לוי הבן השלישי ליעקב וללאה </p><p>פרק טז כתוב:</p><p>א) ועתה ידעתי כי שבעים שבעות תתעו ואת הכהונה תחללו ואת הקורבנות תטמאו.</p><p>ב) ואת התורה תסירו ואת דברי הנביאים לאין תשימו בתהפוכות רשע ואנשים צדיקים תרדפו ותמימים תשנאו ודברי אנשי אמת תשקצו.</p><p>ג) קודשיכם לשמה יהיו עד היסוד.</p><p>ד) ומקום טהור לא יהיה לכם והייתם לאלה ולזרא בין הגויים *******עד אשר ישקיף יהוה עליכם וירחמכם ויקבל אתכם.*******</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; : &quot;עַד יַשְׁקִיף וְיֵרֶא יהוה מִשָּׁמָיִם&quot; [איכה ג50]</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; : &quot;טוֹב יהוה לְקֹוָו לְנֶפֶשׁ תִּדְרְשֶׁנּוּ&quot; [איכה ג25]</p><p>תהלים יד2: &quot;יהוה מִשָּׁמַיִם הִשְׁקִיף עַל בְּנֵי אָדָם לִרְאוֹת הֲיֵשׁ מַשְׂכִּיל דֹּרֵשׁ אֶת אֱלֹהִים&quot;</p><p>תהלים נג3: &quot;אֱלֹהִים מִשָּׁמַיִם הִשְׁקִיף עַל בְּנֵי אָדָם לִרְאוֹת הֲיֵשׁ מַשְׂכִּיל דֹּרֵשׁ אֶת אֱלֹהִים&quot;</p><p>תהלים קב20: &quot;כִּי הִשְׁקִיף מִמְּרוֹם קָדְשׁוֹ יהוה מִשָּׁמַיִם אֶל אֶרֶץ הִבִּיט&quot;</p><p>ישעיהו ח17: &quot;וְחִכִּיתִי ליהוה הַמַּסְתִּיר פָּנָיו מִבֵּית יַעֲקֹב וְקִוֵּיתִי לוֹ&quot; : &quot;עַד יַשְׁקִיף וְיֵרֶא יהוה מִשָּׁמָיִם&quot; [איכה ג50]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-15 07:13:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2022-12-15 07:13:25' 
+			WHERE messageid=12109;
+
