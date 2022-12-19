@@ -7526,3 +7526,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t0219_3.html</p><p>כהני-דת שאינם מבני אהרן הכהן לרשעים יחשבו כקרח ועדתו אשר בלעה אותם האדמה</p><p>דברי הימים ב כד19: &quot;וַיִּשְׁלַח בָּהֶם נְבִאִים לַהֲשִׁיבָם אֶל יהוה וַיָּעִידוּ בָם וְלֹא הֶאֱזִינוּ&quot;</p><p>דברי הימים ב לו16: &quot;וַיִּהְיוּ מַלְעִבִים בְּמַלְאֲכֵי הָאֱלֹהִים וּבוֹזִים דְּבָרָיו וּמִתַּעְתְּעִים בִּנְבִאָיו עַד עֲלוֹת חֲמַת יהוה בְּעַמּוֹ עַד לְאֵין מַרְפֵּא&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2022-12-18 12:06:40'
+		)
+		;
+
