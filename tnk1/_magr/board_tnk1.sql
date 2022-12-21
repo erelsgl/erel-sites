@@ -13632,3 +13632,33 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/shabot/index.html',
+				'tnk1/messages/sofrim_shabot_index_135.html',
+				NULL,
+				'2022-12-20 17:03:38',
+				'2022-12-20 17:03:38',
+				'שני אישים שתי אסכולות  חכם ינטוב ידיד זצ\"ל והרב דוד פרץ יבדל\"א',
+				'אלברט שבות',
+				'albertshabot @ gmail.com'
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-12-20 17:03:38'
+			WHERE ktovt_bn='tnk1/sofrim/shabot/index.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2022-12-20 17:03:38'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
