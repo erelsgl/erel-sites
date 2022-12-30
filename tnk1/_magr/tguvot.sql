@@ -7569,3 +7569,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2022-12-23 07:27:28' 
 			WHERE messageid=12118;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/caution.html',
+		'<p>עד היום כלום לא השתנה. לצערי גם אנחנו נפגענו מהם לאחר שלא שילמו שכר דירה לדירה שהשכרנו להם בראשון לציון.</p>',
+		'107615684251021545042',
+		'עדן בש',
+		'2022-12-29 11:29:09'
+		)
+		;
+
