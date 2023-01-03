@@ -7581,3 +7581,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-30-12.html',
+		'<p>המילה מדהים שורה &quot;נידה&quot; איני יודע מדוע ברץ משתמשים בה כ&quot;כ, בתנך &quot;ספר ירמיה פרק יד </p><p>(ט) למה תהיה כאיש נדהם כגבור לא יוכל להושיע ואתה בקרבנו יהוה ושמך עלינו נקרא אל תנחנו:</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2023-01-02 08:17:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-01-02 08:17:57' 
+			WHERE messageid=12121;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-30-12.html',
+		'<p>ספר ירמיה פרק יד </p><p>(ט) למה תהיה כאיש נדהם כגבור לא יוכל להושיע ואתה בקרבנו יהוה ושמך עלינו נקרא אל תנחנו:</p><p>שורש המילה &quot;מדהים&quot;, הוא &quot;נידה&quot;</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2023-01-02 08:18:56'
+		)
+		;
+
