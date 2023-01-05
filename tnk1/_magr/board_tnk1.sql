@@ -13840,3 +13840,49 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-30-12.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1509.html',
+				NULL,
+				'2023-01-04 22:23:17',
+				'2023-01-04 22:23:17',
+				'פרשת ויחי- מעשה אבות סימן לבנים- כיצד?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-01-04 22:23:17'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1510.html',
+				NULL,
+				'2023-01-04 22:26:11',
+				'2023-01-04 22:26:11',
+				'יעקב אבינו במותו/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-01-04 22:26:11'
+			WHERE ktovt_bn='tnk1/forums.html';
+
