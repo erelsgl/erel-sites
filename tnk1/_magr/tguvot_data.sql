@@ -4890,3 +4890,51 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:41'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:43'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:44'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:45'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:46'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-01-12 01:08:52'
+			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
+			;
+
