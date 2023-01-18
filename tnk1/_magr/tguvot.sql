@@ -7726,3 +7726,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-01-12 01:08:52' 
 			WHERE messageid=12123;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/rja.html',
+		'<p>תודה על ההשקעה! הדברים שלך מאוד יפים ומסודרים</p>',
+		'103514738464677616979',
+		'שניר שפיגל',
+		'2023-01-17 19:59:08'
+		)
+		;
+

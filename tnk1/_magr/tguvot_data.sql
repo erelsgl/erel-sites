@@ -4938,3 +4938,18 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/rja.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-01-17 19:59:08'
+		WHERE parent='tnk1/kma/qjrim1/rja.html'
+		;
+
