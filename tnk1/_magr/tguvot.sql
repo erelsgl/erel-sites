@@ -7738,3 +7738,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-13-25.html',
+		'<p>קרוקודיל</p>',
+		'100374380072826715674',
+		'Harel Hassid',
+		'2023-01-23 18:50:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-13-25.html',
+		'<p></p>',
+		'100374380072826715674',
+		'Harel Hassid',
+		'2023-01-23 18:50:41'
+		)
+		;
+
