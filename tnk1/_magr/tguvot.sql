@@ -7762,3 +7762,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-03-14.html',
+		'<p>האם ניתן לתרגם  אֶהְיֶה אֲשֶׁר אֶהְיֶה‎‎ לI may be או I can be? יש מדרש שעובר בפירוט על הפירושים האפשריים?</p>',
+		'100709455612532491459',
+		'Romain DENET',
+		'2023-01-31 19:36:03'
+		)
+		;
+

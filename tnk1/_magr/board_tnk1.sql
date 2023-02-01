@@ -14096,3 +14096,34 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-01-25 22:29:51'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/joshua_chapter_8.pdf',
+				NULL,
+				'2023-01-31 19:12:05',
+				'2023-01-31 19:12:05',
+				'Joshua chapter 8',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-01-31 19:12:05'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-01-31 19:36:03'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-03-14.html'
+		;
+
