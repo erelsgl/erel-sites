@@ -7774,3 +7774,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>למה הרבה שורשים מופיעים כאן כבעלי שתי אותיות? הלא כלם נגזרים משרש של שלש אותיות, למשל עַל מן עלה, או אֵת מן אות?</p>',
+		'107152421810101433533',
+		'Betsalel Guinard',
+		'2023-02-04 21:03:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>אין שורש ותר מצוי במקרא. (אין שורש המתחיל בו״ו בכל התנ׳׳ך, חוץ מ: ״ווי העמודים״)</p><p></p>',
+		'107152421810101433533',
+		'Betsalel Guinard',
+		'2023-02-04 21:09:16'
+		)
+		;
+
