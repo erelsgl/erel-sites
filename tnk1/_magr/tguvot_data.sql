@@ -5028,3 +5028,19 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/ljon/jorj/index.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-02-05 14:28:56'
+			WHERE parent='tnk1/ktuv/mjly/mj-13-25.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-02-05 14:28:59'
+			WHERE parent='tnk1/ktuv/mjly/mj-13-25.html'
+			;
+
