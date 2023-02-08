@@ -7812,3 +7812,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-05 14:28:59' 
 			WHERE messageid=12130;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_1.html',
+		'<p>חכמת עת זמני הזריעה של עצי-פרי-השדה</p><p>כאשר העץ נותן את הפרי [כמובן לאחר שלוש שנים ערלים]</p><p>כאשר הפרי בשל ומוכן לאכילה זה הזמן לקחת מתוך פרי העץ שזה עתה נקטף או נבצר לזרוע זרעים מחדש מתוך פרי העץ שזה עתה נקטף או נבצר</p><p>באשר לצמחים אחרים שאינם עצים זה כבר סיפור אחר כי למשל את דגן החיטה אנחנו זורעים בחורף וקוצרים בקיץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-08 07:13:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_1.html',
+		'<p>חכמת עת זמני הזריעה של עצי-פרי-השדה</p><p>כאשר העץ נותן את הפרי [כמובן לאחר שלוש שנים ערלים]</p><p>כאשר הפרי בשל ומוכן לאכילה זה הזמן לקחת מתוך פרי העץ שזה עתה נקטף או נבצר לזרוע זרעים מחדש מתוך פרי העץ שזה עתה נקטף או נבצר</p><p>באשר לצמחים אחרים שאינם עצים זה כבר סיפור אחר כי למשל את דגן החיטה אנחנו זורעים בחורף וקוצרים בקיץ ולא זורעים חיטה בעת קציר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-08 07:14:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-08 07:14:43' 
+			WHERE messageid=12135;
+

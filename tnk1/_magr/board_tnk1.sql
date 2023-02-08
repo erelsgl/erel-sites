@@ -14205,3 +14205,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ljon/jorj/index.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-08 07:13:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-08 07:14:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0234_1.html'
+		;
+
