@@ -7843,3 +7843,51 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-08 07:14:43' 
 			WHERE messageid=12135;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-11.html',
+		'<p>מסעודה. סבתה למה אני סובל ככה?</p>',
+		'100700947792443938508',
+		'Natankohen kohen',
+		'2023-02-09 21:55:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-11.html',
+		'<p></p>',
+		'100700947792443938508',
+		'Natankohen kohen',
+		'2023-02-09 21:55:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-11.html',
+		'<p></p>',
+		'100700947792443938508',
+		'Natankohen kohen',
+		'2023-02-09 21:56:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-11.html',
+		'<p></p>',
+		'100700947792443938508',
+		'Natankohen kohen',
+		'2023-02-09 22:00:13'
+		)
+		;
+
