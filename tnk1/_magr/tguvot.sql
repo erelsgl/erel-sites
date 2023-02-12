@@ -8086,3 +8086,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-10 14:38:53' 
 			WHERE messageid=12150;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>שבוע טוב ומבורך</p><p>עשינו הבדלה להבדיל בין קודש לבין חול</p><p>תם יום השבת והחל יום ראשון שבוע חדש</p><p>אם עוד שבוע ימים לא תהיה רעידת אדמה</p><p>בתאריך 19.2.2023 יום ראשון לשבוע</p><p>אז לא הבנתי נכון דברי אבי [בעניין זה]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-11 16:26:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>שבוע טוב ומבורך</p><p>עשינו הבדלה להבדיל בין קודש לבין חול</p><p>תם יום השבת והחל יום ראשון שבוע חדש</p><p>אם עוד שבוע ימים לא תהיה רעידת אדמה</p><p>בתאריך 19.2.2023 יום ראשון לשבוע</p><p>אז לא הבנתי  נְכוֹנָה דברי אבי [בעניין זה]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-11 17:20:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-11 17:21:44' 
+			WHERE messageid=12152;
+
