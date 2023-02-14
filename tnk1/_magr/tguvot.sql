@@ -8117,3 +8117,39 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-11 17:21:44' 
 			WHERE messageid=12152;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a5_0.html',
+		'<p>תהלים קמה18: </p><p>&quot;קָרוֹב יהוה לְכָל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת&quot;</p><p>יואל ג5: &quot;וְהָיָה כֹּל אֲשֶׁר יִקְרָא בְּשֵׁם יהוה יִמָּלֵט </p><p>כִּי בְּהַר צִיּוֹן וּבִירוּשָׁלַים תִּהְיֶה פְלֵיטָה כַּאֲשֶׁר אָמַר יהוה וּבַשְּׂרִידִים אֲשֶׁר יהוה קֹרֵא&quot;</p><p>עתה שמעו שיר יפה מהגוים המכבדים אותי ואשר אהבתי</p><p>מלאכי א11: &quot;כִּי מִמִּזְרַח שֶׁמֶשׁ וְעַד מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם </p><p>וּבְכָל מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יהוה צְבָאוֹת&quot;</p><p>https://www.youtube.com/watch?v=PI9l2c6a0f0&amp;list=LL&amp;index=102</p><p>https://www.youtube.com/watch?v=PI9l2c6a0f0</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-13 12:32:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b24_0.html',
+		'<p>האם אלהים סלח לחוטאים בעגל? בוודאי שסלח אבל רק לאחר שבני ישראל שלמו על מעשיהם</p><p>כאשר משה קרא בספר  שמות לב26: &quot;וַיַּעֲמֹד מֹשֶׁה בְּשַׁעַר הַמַּחֲנֶה וַיֹּאמֶר מִי ליהוה אֵלָי וַיֵּאָסְפוּ אֵלָיו כָּל בְּנֵי לֵוִי&quot; </p><p>ובני לוי הרגו את כל החוטאים מבני ישראל אשר חטאו במעשה העגל אז אל תחשבו שאלהים פראייר</p><p>אמנם יש סליחה אבל אין סליחה חינם מלבד הכתוב לאיש וּמוֹדֶה וְעֹזֵב יְרֻחָם</p><p> https://www.youtube.com/watch?v=r6kN20lmheY&amp;list=LL&amp;index=101</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-13 12:54:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>והאהבה שלי אליך עדיין לא ידועה</p><p>And my love for you is still unknown</p><p>-</p><p>ALONE (HEART) cover by HSCC</p><p>https://www.youtube.com/watch?v=KTv3S4KMrxs</p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-14 06:43:37'
+		)
+		;
+
