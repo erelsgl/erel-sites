@@ -8318,3 +8318,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>שמע בני</p><p>אני דיין שם משה</p><p>אני מורה לתורה משה דיין </p><p> http://tora.us.fm/tnk1/daian</p><p>אני בן-אדם כמוך וגם עליי לא פסחו מהמורות בדרך</p><p>אבל התורה עמי אתי בלבי בנפשי</p><p>התורה נקראת ספר העדות כדי להעיד בנו ולהזכיר לנו את הקדוש ברוך הוא</p><p>הוא יהוה אלהי ישראל שהיה עם אבותינו מימי קדם עוד מימי האדם הראשון</p><p>עתה אם אינך זוכר את הדרך הבייתה לשןב אל יהוה</p><p>הנה אנכי פה למענך להזכירך את העדות להעיד בך את התורה</p><p>ולא יהיה לך כל רע כי תשמח בתורה אשר אנכי מעיד בך</p><p>כי רק ספר העדות ישיבך הבייתה ותזכור את כל משפטי-יהוה</p><p>עתה הצטרף לשיר הנפלא הזה של הזמר היקר פיל קולינס</p><p>https://www.youtube.com/watch?v=egJR3K6UIJY</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-17 14:21:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>שמע בני</p><p>אני דיין שם משה</p><p>אני מורה לתורה משה דיין</p><p>http://tora.us.fm/tnk1/daian</p><p>אני בן-אדם כמוך וגם עליי לא פסחו מהמורות בדרך</p><p>אבל התורה עמי אתי בלבי בנפשי</p><p>התורה נקראת ספר העדות כדי להעיד בנו ולהזכיר לנו את הקדוש ברוך הוא</p><p>הוא יהוה אלהי ישראל שהיה עם אבותינו מימי קדם עוד מימי האדם הראשון</p><p>עתה אם אינך זוכר את הדרך הבייתה לשוב אל יהוה</p><p>הנה אנכי פה למענך להזכירך את העדות להעיד בך את התורה</p><p>ולא יהיה לך כל רע כי תשמח בתורה אשר אנכי מעיד בך</p><p>כי רק ספר העדות ישיבך הבייתה ותזכור את כל משפטי-יהוה</p><p>עתה הצטרף לשיר הנפלא הזה של הזמר היקר פיל קולינס</p><p>https://www.youtube.com/watch?v=egJR3K6UIJY</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-17 14:22:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-17 14:22:05' 
+			WHERE messageid=12169;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-17 17:53:47' 
+			WHERE messageid=12019;
+
