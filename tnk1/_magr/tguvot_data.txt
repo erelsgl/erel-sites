@@ -4,7 +4,7 @@ tnk1/klli/mdrjim/plit.html	2	2017-05-14 18:06:28
 tnk1/kma/hvdlim1/pljt_mlxmot.html	4	2018-12-10 16:43:12
 tnk1/kma/qjrim1/10ymim.html	1	2009-11-02 11:25:50
 tnk1/kma/qjrim1/b.html	1	2009-10-31 07:02:25
-tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html	4	2015-06-17 03:04:20
+tnk1/kma/qjrim1/yaqv_ajr_sm_jmo_ysrel.html	4	2023-01-12 01:08:52
 tnk1/ktuv/mjly/dvj.html	1	2009-11-02 11:52:49
 tnk1/ktuv/mjly/mj-17-01.html	1	2009-10-30 10:02:29
 tnk1/messages/forums_38.html	1	2009-10-31 10:36:34
@@ -135,7 +135,7 @@ tnk1/kma/qjrim1/geha.html	1	2010-06-09 23:28:00
 tnk1/messages/prqim_t1133_0.html	3	2021-01-13 04:23:02
 tnk1/messages/prqim_t2812_0.html	8	2010-06-18 04:31:10
 tnk1/ktuv/mjly/rux_nkea.html	2	2010-06-13 09:00:33
-tnk1/messages/prqim_t0234_3.html	4	2021-12-27 18:31:06
+tnk1/messages/prqim_t0234_3.html	5	2022-12-04 17:13:12
 tnk1/ktuv/mjly/mj-16-32.html	2	2017-03-22 16:31:08
 tnk1/ktuv/eyov/yv-08-1112.html	1	2010-06-19 23:49:41
 tnk1/ktuv/mjly/mj-31-30.html	10	2020-06-13 21:54:04
@@ -171,7 +171,7 @@ tnk1/messages/prqim_t2301_0.html	1	2010-07-16 05:43:58
 tnk1/messages/prqim_t0325_2.html	5	2021-01-12 04:26:58
 tnk1/messages/prqim_t2823_0.html	43	2020-07-27 08:02:48
 tnk1/messages/prqim_t0516_6.html	7	2020-07-05 15:59:34
-tnk1/messages/prqim_t0218_5.html	16	2021-08-31 09:43:36
+tnk1/messages/prqim_t0218_5.html	17	2022-12-11 11:25:32
 tnk1/ktuv/eyov-yv-36-13.html	1	2010-07-19 21:10:00
 tnk1/kma/qjrim2/jannut.html	0	2010-07-20 07:55:02
 tnk1/kma/hvdlim2/mjkn_mdqj.html	2	2013-02-14 13:53:31
@@ -213,7 +213,7 @@ tnk1/kma/hvdlim1/hjiv_hgid.html	2	2010-08-27 01:21:55
 tnk1/messages/sofrim_hagay_mxjva_34.html	2	2013-09-15 22:10:57
 tnk1/tora/dvrim/dm-28-21.html	1	2010-08-29 20:57:23
 tnk1/ktuv/mjly/mj-09-12.html	1	2010-08-30 07:22:40
-tnk1/messages/prqim_t0234_1.html	7	2021-01-01 12:17:39
+tnk1/messages/prqim_t0234_1.html	9	2023-02-08 07:14:43
 tnk1/messages/sofrim_index_2_2.html	2	2012-06-01 05:17:54
 tnk1/klli/limud/skadish/tanakh-index.html	1	2010-09-04 12:27:46
 tnk1/klli/jirim/hyomhrtolm.html	1	2010-09-04 21:04:55
@@ -222,7 +222,7 @@ tnk1/kma/qjrim1/biqr.html	5	2010-09-14 08:18:35
 tnk1/ktuv/mjly/yd_lyd.html	0	2012-10-26 02:46:41
 tnk1/tora/dvrim/dm-32-21.html	1	2010-09-13 03:42:25
 tnk1/ktuv/thlim/th-34-1214.html	1	2010-09-13 07:15:04
-tnk1/messages/prqim_t0101_23.html	60	2022-09-16 13:13:46
+tnk1/messages/prqim_t0101_23.html	69	2022-11-19 15:58:23
 tnk1/ktuv/mgilot/jj-02-04.html	3	2010-09-15 09:47:29
 tnk1/messages/prqim_t2816_1.html	3	2010-09-17 02:01:07
 tnk1/messages/prqim_t2820_1.html	2	2010-09-17 01:53:12
@@ -263,7 +263,7 @@ tnk1/tora/brejit/nox.html	2	2010-10-11 03:56:17
 tnk1/klli/mdrjim/niqud.html	4	2011-11-30 08:29:54
 tnk1/tora/brejit/br-03-14.html	0	2020-07-10 14:05:29
 tnk1/messages/prqim_t1065_3.html	4	2011-04-28 23:57:47
-tnk1/tora/brejit/br-09-2027.html	8	2018-06-26 18:06:08
+tnk1/tora/brejit/br-09-2027.html	9	2022-11-23 20:28:39
 tokxot/emt/mlm_jut.html	1	2010-10-17 07:51:22
 tnk1/nvir/mlkimb/elija.html	1	2010-10-19 09:37:44
 fuelcell/index.html	1	2010-10-19 11:17:12
@@ -276,7 +276,7 @@ tnk1/nvir/mlkimb/mb-04-35.html	5	2020-06-23 23:31:19
 tnk1/ktuv/mjly/mj-15-02.html	4	2010-11-04 13:44:15
 tnk1/messages/tora_brejit_adqa_0.html	2	2010-11-04 12:33:54
 tokxot/xyim/piqux_nfj.html	1	2010-11-04 13:36:19
-tnk1/messages/prqim_t0101_24.html	17	2021-12-28 09:15:22
+tnk1/messages/prqim_t0101_24.html	18	2022-10-17 04:07:56
 tnk1/messages/dmut_index_0_0_0_0_0.html	0	2010-11-05 01:08:35
 tnk1/messages/dmut_dmut_642_0.html	5	2017-05-02 12:08:17
 tnk1/messages/prqim_t0127_3.html	24	2022-04-08 04:31:27
@@ -285,19 +285,19 @@ tnk1/messages/prqim_t2805_1.html	5	2021-01-08 12:10:18
 tnk1/ktuv/mjly/mj-30-1820.html	2	2013-05-16 01:48:55
 tnk1/messages/prqim_t3109_0.html	6	2021-04-14 02:36:27
 tnk1/messages/prqim_t0115_2.html	3	2017-10-29 16:36:46
-tnk1/messages/prqim_t0127_2.html	13	2022-09-17 17:30:19
+tnk1/messages/prqim_t0127_2.html	12	2022-09-17 17:32:25
 tnk1/kma/qjrim1/kmh.html	1	2010-11-10 18:42:49
 tnk1/messages/prqim_t1130_1.html	0	2010-11-16 05:53:12
-tnk1/messages/prqim_t1502_2.html	63	2022-04-14 06:30:50
+tnk1/messages/prqim_t1502_2.html	67	2022-10-17 03:22:05
 tnk1/tora/brejit/br-28-12.html	2	2014-11-28 03:19:22
 tnk1/messages/prqim_t0128_3.html	2	2021-01-21 05:28:51
 tnk1/nvia/zmnim.html	21	2022-08-16 14:47:17
 tnk1/messages/prqim_t08b24_3.html	9	2021-07-25 16:13:29
 tnk1/messages/prqim_t3304_0.html	11	2021-08-06 12:28:11
 tnk1/messages/prqim_t2617_1.html	4	2010-11-16 06:05:26
-tnk1/messages/prqim_t1502_1.html	19	2022-05-01 11:29:01
+tnk1/messages/prqim_t1502_1.html	21	2022-12-13 05:55:32
 tnk1/messages/prqim_t0128_4.html	6	2019-08-21 03:47:52
-tnk1/messages/prqim_t0526_2.html	5	2022-02-06 17:30:20
+tnk1/messages/prqim_t0526_2.html	6	2023-02-14 11:32:32
 tnk1/messages/prqim_t0122_6.html	1	2019-08-18 03:14:50
 tnk1/messages/prqim_t0144_2.html	1	2013-06-10 08:56:26
 tnk1/ktuv/mjly/mj-08-16.html	0	2011-06-06 09:27:55
@@ -315,7 +315,7 @@ tnk1/tora/brejit/br-37-14.html	0	2010-11-27 09:11:57
 tnk1/messages/ljon_jorj_ps_0.html	2	2010-11-29 08:25:40
 tnk1/messages/prqim_t3301_4.html	0	2010-11-29 08:26:58
 tnk1/ktuv/mjly/mj-19-14.html	0	2010-12-01 19:54:01
-tnk1/messages/prqim_t09a18_5.html	9	2019-08-29 14:18:41
+tnk1/messages/prqim_t09a18_5.html	10	2022-12-13 15:52:35
 tnk1/messages/prqim_t2311_1.html	1	2010-12-04 12:42:25
 tnk1/nvia/yrmyhu/yr-08-06.html	3	2010-12-08 09:00:44
 tnk1/messages/prqim_t1001_4.html	1	2021-05-11 04:34:40
@@ -337,7 +337,7 @@ tnk1/messages/forums_65.html	0	2010-12-16 19:22:26
 tnk1/nvia/tryasr/tov.html	1	2014-07-15 12:43:21
 tnk1/tora/brejit/br-34-30.html	4	2010-12-19 14:21:33
 tnk1/tora/dvrim/smx.html	2	2010-12-19 10:59:29
-tnk1/tora/jmot/jm-03-14.html	6	2020-10-04 12:48:05
+tnk1/tora/jmot/jm-03-14.html	7	2023-01-31 19:36:03
 tnk1/tora/jmot/tarik1.html	0	2020-04-12 14:53:30
 tnk1/kma/qjrim2/hmlkot.html	3	2018-11-10 17:39:39
 tnk1/ktuv/mjly/mj-17-04b.html	1	2010-12-21 04:17:41
@@ -381,7 +381,7 @@ tnk1/messages/prqim_t0101_25.html	3	2016-01-11 14:21:49
 tnk1/ktuv/mjly/mj-02-19.html	1	2011-01-29 13:28:38
 tnk1/sofrim/aviel/xoma.html	0	2011-01-29 12:08:17
 tnk1/messages/prqim_t0224_0.html	7	2011-05-06 00:40:55
-tnk1/messages/prqim_t25b35_0.html	14	2022-03-24 11:16:11
+tnk1/messages/prqim_t25b35_0.html	17	2023-02-11 17:21:44
 tnk1/kma/qjrim2/mnhigut_mje.html	2	2020-09-27 13:36:27
 tnk1/nvir/mlkimb/mb-06-32.html	2	2011-02-07 21:31:45
 tnk1/nvia/tryasr/ho-01-04.html	2	2011-02-07 21:32:09
@@ -390,7 +390,7 @@ tnk1/nvir/joftim/jf-05-14.html	4	2021-01-28 04:34:49
 tnk1/sofrim/aviel/truma.html	1	2011-02-03 10:28:28
 tnk1/ktuv/mjly/mj-26-17.html	0	2011-02-03 10:54:28
 tnk1/ktuv/mjly/mj-02-20.html	0	2011-02-03 12:10:00
-tnk1/messages/prqim_t0234_5.html	29	2021-03-26 04:59:01
+tnk1/messages/prqim_t0234_5.html	30	2023-02-14 12:52:55
 tnk1/messages/prqim_t0234_6.html	1	2011-02-05 10:24:47
 tnk1/ktuv/mjly/mj-03-0102.html	1	2011-02-06 00:46:37
 tnk1/messages/prqim_t3101_7.html	2	2011-02-06 22:17:03
@@ -398,7 +398,7 @@ tnk1/messages/forums_242.html	0	2011-02-06 04:31:43
 tnk1/messages/prqim_t26a4_2.html	7	2020-10-09 13:28:47
 tnk1/messages/prqim_t08b22_1.html	2	2021-08-01 02:05:17
 tnk1/messages/prqim_t0618_0.html	3	2018-07-17 05:03:37
-tnk1/ljon/jorj/index.html	20	2019-04-13 16:54:03
+tnk1/ljon/jorj/index.html	22	2023-02-04 21:09:16
 tnk1/messages/ljon_jorj_nel2_0.html	1	2011-02-16 22:41:42
 tnk1/messages/prqim_t08b06_1.html	2	2011-02-09 09:05:56
 tnk1/messages/prqim_t0121_4.html	3	2011-02-14 02:07:37
@@ -425,10 +425,10 @@ tnk1/messages/prqim_t0507_0.html	2	2018-01-13 15:58:08
 tnk1/messages/prqim_t2312_1.html	5	2012-09-15 17:00:56
 tnk1/messages/prqim_t0522_2.html	0	2011-02-16 22:43:59
 tnk1/messages/prqim_t0319_4.html	5	2020-04-20 05:45:01
-tnk1/messages/prqim_t2630_0.html	3	2021-05-03 03:17:38
+tnk1/messages/prqim_t2630_0.html	4	2022-11-04 13:44:47
 tnk1/messages/prqim_t2815_2.html	10	2022-04-28 07:24:28
 tnk1/ktuv/mjly/mj-15-07.html	0	2011-02-18 02:49:32
-tnk1/messages/prqim_t26a5_0.html	1	2018-03-04 04:30:22
+tnk1/messages/prqim_t26a5_0.html	2	2023-02-13 12:32:02
 tnk1/ktuv/mjly/mj-03-1926.html	0	2011-02-20 19:38:11
 tnk1/ktuv/mjly/mj-03-1920.html	2	2013-05-06 11:18:20
 tnk1/messages/prqim_t0138_1.html	11	2014-12-14 10:32:53
@@ -458,7 +458,7 @@ tnk1/tora/bmdbr/bm-27-03.html	1	2011-03-16 08:02:49
 tnk1/messages/prqim_t25b35_1.html	2	2011-03-16 10:55:42
 tnk1/messages/prqim_t0214_1.html	1	2011-03-16 15:07:48
 tnk1/messages/sofrim_shabot_index_85.html	5	2011-04-01 12:24:43
-tnk1/messages/prqim_t3302_1.html	3	2022-02-10 17:04:18
+tnk1/messages/prqim_t3302_1.html	3	2022-11-29 12:52:56
 tnk1/messages/prqim_t3409_2.html	2	2021-03-03 04:55:58
 tryg/messages/sug_rcon-ecm_bxirt_bt_zwg-ajh_0.html	2	2011-03-20 02:02:55
 tnk1/ktuv/mgilot/mg07.html	1	2011-03-20 02:34:38
@@ -477,11 +477,11 @@ tnk1/nvia/yjayhu/yj-43-23.html	4	2011-03-29 07:08:52
 tnk1/messages/sofrim_hoffer_0.html	2	2012-07-08 23:19:09
 tnk1/messages/prqim_t1001_5.html	1	2011-03-30 05:40:31
 erelsgl/horaa/mh05.html	1	2011-03-30 22:23:00
-tnk1/messages/prqim_t1002_4.html	48	2021-12-21 09:27:55
+tnk1/messages/prqim_t1002_4.html	49	2022-12-10 18:49:34
 tnk1/klli/mdrjim/kos_elyhu.html	1	2011-04-01 06:52:25
 tnk1/ktuv/mjly/mj-04-12.html	0	2011-04-04 04:11:51
 tnk1/messages/prqim_t3108_4.html	1	2011-04-04 11:51:48
-tnk1/messages/prqim_t0228_1.html	5	2019-09-08 17:09:40
+tnk1/messages/prqim_t0228_1.html	5	2022-09-25 16:20:39
 tnk1/messages/prqim_t0610_1.html	1	2011-04-06 07:16:35
 tnk1/sofrim/amozeg/mqorot/ahavat_ger.html	4	2017-12-31 06:30:53
 tnk1/messages/prqim_t0713_5.html	10	2021-04-12 17:01:48
@@ -495,7 +495,7 @@ tryg/ribit0/msa.html	1	2011-04-13 13:17:03
 tnk1/nvia/yrmyhu/yr-23-22.html	1	2011-04-17 01:05:33
 tnk1/messages/prqim_t0222_1.html	9	2011-04-21 02:15:13
 tnk1/kma/qjrim1/nfil.html	4	2018-05-23 09:03:24
-tnk1/messages/prqim_t0108_1.html	16	2021-12-04 15:40:51
+tnk1/messages/prqim_t0108_1.html	14	2022-11-19 16:58:25
 tryg/mamr/tora_sfrim.html	4	2014-08-24 21:32:53
 tnk1/sofrim/abramm/mluka.html	1	2011-04-18 02:59:36
 tnk1/jdl/MefarsheyTanach001-01.html	1	2011-04-18 09:32:20
@@ -513,7 +513,7 @@ tnk1/kma/qjrim1/pga.html	3	2011-04-28 23:52:21
 tnk1/messages/prqim_t0141_1.html	1	2011-04-28 11:29:42
 horaa/xinuk/xojv.html	1	2011-04-29 04:14:07
 tnk1/ktuv/mjly/mj-05-06.html	0	2011-04-29 06:46:08
-tnk1/messages/prqim_t1312_3.html	14	2021-04-11 17:05:29
+tnk1/messages/prqim_t1312_3.html	15	2022-10-21 11:42:24
 tnk1/messages/prqim_t08a13_3.html	2	2011-05-01 00:03:58
 tnk1/messages/prqim_t35b10_0.html	1	2011-05-01 02:56:48
 tnk1/klli/mdrjim/mcwot.html	4	2021-06-28 04:59:19
@@ -523,7 +523,7 @@ tnk1/ktuv/mjly/mj-05-0910.html	0	2011-05-02 04:31:58
 tnk1/messages/prqim_t08a09_3.html	1	2011-05-02 13:57:04
 tnk1/messages/forums_280.html	2	2017-05-29 14:03:44
 tnk1/ktuv/mjly/mj-05-11.html	0	2011-05-04 01:10:35
-tnk1/ktuv/mgilot/jj-05-0205.html	3	2022-09-14 12:42:56
+tnk1/ktuv/mgilot/jj-05-0205.html	1	2022-09-20 02:55:48
 tnk1/sofrim/zuckm/55.html	4	2019-03-28 11:16:46
 tnk1/messages/prqim_t0120_1.html	2	2011-05-19 12:02:13
 tnk1/kma/qjrim1/geulot3_erel.html	2	2011-05-07 09:44:24
@@ -568,7 +568,7 @@ tnk1/klli/mdrjim/mtntora.html	1	2011-06-05 22:33:58
 tnk1/kma/qjrim1/sna.html	2	2011-06-09 04:49:44
 tnk1/nvia/yrmyhu/yr-02-24.html	2	2011-06-11 02:51:42
 tnk1/ktuv/mjly/mj-08-36.html	1	2011-06-15 03:08:00
-tnk1/tora/jmot/jm-1821.html	22	2021-03-23 05:13:03
+tnk1/tora/jmot/jm-1821.html	23	2022-11-04 13:39:53
 tnk1/messages/prqim_t08a01_3.html	1	2011-06-15 05:25:35
 tnk1/messages/nvir_jmuelb_amnon_wtmr_2_1.html	2	2011-06-16 01:44:13
 tnk1/nvia/yjayhu/yj-21-1415.html	1	2011-06-18 02:42:49
@@ -664,7 +664,7 @@ tnk1/messages/prqim_t0713_4.html	1	2011-08-28 09:32:43
 tryg/messages/sug_hlwah_brybyt_3.html	1	2011-08-28 21:46:30
 tnk1/messages/prqim_t3309_4.html	4	2011-08-30 02:44:44
 tnk1/messages/prqim_t08b17_0.html	1	2011-08-31 08:40:29
-tryg/ribit0/caution.html	5	2017-07-07 06:55:45
+tryg/ribit0/caution.html	6	2022-12-29 11:29:09
 tnk1/messages/prqim_t2637_0.html	3	2019-12-13 10:30:26
 tnk1/nvir/mlkima/ma-12-16.html	2	2017-07-09 22:55:44
 tnk1/ktuv/mjly/mj-16-1415.html	1	2011-09-07 04:55:16
@@ -738,7 +738,7 @@ tryg/sug/index.html	1	2011-11-10 04:15:48
 tnk1/kma/hvdlim2/minuyim.html	1	2011-11-10 22:17:22
 tnk1/kma/qjrim1/ksf.html	2	2013-05-03 03:53:02
 tnk1/nvia/yjayhu/yj-01-22.html	14	2011-11-16 22:35:33
-tnk1/messages/prqim_t0215_4.html	53	2022-01-01 16:02:53
+tnk1/messages/prqim_t0215_4.html	55	2022-12-05 03:54:43
 tnk1/messages/prqim_t2901_1.html	3	2021-04-06 14:54:19
 tnk1/nvir/evytr_hds.html	3	2015-11-21 16:44:58
 tnk1/tora/brejit/br-19-31.html	3	2011-11-17 13:14:33
@@ -781,7 +781,7 @@ tnk1/klli/mdrjim/prjnim_ljon_hqodj_1.html	1	2011-12-24 10:20:32
 tnk1/ktuv/mgilot/qh-05-08.html	2	2012-01-01 10:10:29
 tnk1/nvir/jmuela/ja-15-24.html	0	2011-12-26 17:15:55
 tnk1/nvir/yhojua/ya-06-0405.html	1	2011-12-27 22:26:49
-tryg/ribit0/gmx_hsbr.html	98	2022-08-20 12:26:29
+tryg/ribit0/gmx_hsbr.html	99	2022-10-25 09:42:31
 tnk1/sofrim/mali/nxlot_zvulun.html	2	2015-06-28 11:38:43
 tnk1/messages/prqim_t0118_5.html	11	2016-01-14 21:44:02
 tnk1/kma/qjrim1/xjbon.html	3	2012-11-14 08:55:39
@@ -792,7 +792,7 @@ tnk1/tora/brejit/br-47-2324.html	1	2011-12-31 09:48:18
 tnk1/tora/bmdbr/bm-26-5356.html	1	2012-01-01 00:42:47
 tnk1/ktuv/mgilot/tklt_avrhm_qblt_htora.html	1	2012-01-04 19:21:03
 tnk1/ktuv/mgilot/mi-mordkay.html	3	2012-04-29 07:02:21
-tnk1/messages/prqim_t2902_2.html	2	2018-01-30 02:42:15
+tnk1/messages/prqim_t2902_2.html	3	2022-10-07 13:20:16
 tnk1/tora/bmdbr/bm-26-5355.html	1	2012-01-02 22:57:54
 tnk1/messages/ljon_jorj_pwr_0.html	1	2012-01-04 08:56:11
 tnk1/dmut/msxq_jy.html	3	2014-06-29 06:37:43
@@ -827,7 +827,7 @@ tnk1/tora/jmot/mkot_xrtumim.html	2	2012-11-04 10:04:47
 tnk1/kma/qjrim1/mjix.html	5	2012-01-27 05:41:30
 tnk1/tora/brejit/az.html	4	2017-03-13 16:19:52
 tnk1/messages/nvir_jmuelb_jb-13-39_0.html	2	2012-01-30 21:46:20
-tnk1/messages/prqim_t0526_3.html	64	2022-04-20 12:12:19
+tnk1/messages/prqim_t0526_3.html	66	2023-02-16 07:14:33
 tnk1/messages/prqim_t2801_0.html	3	2013-07-28 07:34:17
 tnk1/jdl/MefarsheyTanach004-14.html	2	2012-02-01 06:12:17
 tnk1/messages/prqim_t0213_2.html	1	2012-02-01 08:25:13
@@ -838,11 +838,11 @@ tnk1/messages/prqim_t0217_4.html	2	2012-02-04 10:12:27
 tnk1/messages/forums_236.html	1	2012-02-04 02:45:39
 tnk1/jdl/MefarsheyTanach004-24.html	5	2012-02-06 05:13:36
 tnk1/ktuv/mjly/mj-29-19.html	1	2012-02-08 21:34:51
-tnk1/messages/prqim_t0416_3.html	20	2021-08-13 07:17:58
+tnk1/messages/prqim_t0416_3.html	22	2022-12-23 07:27:28
 tnk1/tora/bmdbr/bm-16-21.html	3	2014-03-19 13:17:00
 tokxot/ezrxut/rica_lknst.html	1	2012-02-10 12:06:17
 tnk1/messages/dmut_dmut_264_3.html	1	2012-02-13 09:50:52
-tnk1/messages/prqim_t2303_2.html	4	2021-05-12 16:10:52
+tnk1/messages/prqim_t2303_2.html	5	2022-12-05 17:55:29
 tnk1/messages/prqim_t0114_3.html	5	2021-04-26 06:08:01
 horaa/index.html	0	2012-02-15 07:19:35
 tnk1/mlbim/index_tora.html	2	2012-02-26 05:03:11
@@ -858,7 +858,7 @@ tnk1/kma/hvdlim1/nisuin2.html	3	2017-10-20 14:11:45
 tnk1/kma/hvdlim1/xrut.html	2	2012-04-08 13:56:04
 tnk1/messages/prqim_t0516_7.html	10	2022-01-10 07:36:45
 tnk1/ktuv/mjly/mj-2207.html	1	2012-04-08 12:55:13
-tnk1/messages/prqim_t0310_2.html	36	2022-08-26 13:59:55
+tnk1/messages/prqim_t0310_2.html	37	2023-02-16 13:33:31
 tnk1/ktuv/mjly/mj-02-06.html	2	2012-04-09 07:56:36
 tnk1/kma/qjrim1/pnn.html	4	2015-04-06 17:51:47
 tnk1/messages/prqim_t2820_2.html	5	2021-04-27 04:48:23
@@ -869,7 +869,7 @@ tnk1/ktuv/thlim/sdryom.html	1	2012-04-15 13:52:07
 tnk1/nvir/wmlxma_hyta.html	1	2012-04-16 05:23:30
 tnk1/messages/tora_jmot_byom_o_blyla_0_0.html	1	2012-04-16 09:53:05
 tnk1/ktuv/mgilot/jj-08-01.html	1	2012-04-17 23:53:39
-tnk1/messages/prqim_t1302_0.html	28	2022-07-15 11:01:19
+tnk1/messages/prqim_t1302_0.html	29	2022-10-25 05:54:17
 tnk1/messages/prqim_t0227_11.html	0	2012-04-20 02:05:40
 tnk1/messages/prqim_t0301_7.html	1	2012-04-20 06:08:04
 tnk1/nvir/jmuelb/jb-08-18.html	4	2012-04-24 04:51:32
@@ -917,7 +917,7 @@ tnk1/messages/prqim_t3111_2.html	0	2012-05-30 21:25:22
 tnk1/messages/prqim_t0215_2.html	1	2012-06-01 09:31:13
 tnk1/kma/qjrim1/lan.html	1	2012-06-02 02:23:23
 tnk1/kma/qjrim1/cfon_yhuda.html	2	2012-06-05 22:19:32
-tnk1/messages/prqim_t0518_2.html	31	2021-12-28 13:59:52
+tnk1/messages/prqim_t0518_2.html	34	2023-02-10 09:10:51
 tnk1/tora/dvrim/dm-17-19.html	2	2012-06-06 01:30:53
 tnk1/ktuv/thlim/th-110-04.html	1	2012-06-09 12:15:43
 tnk1/messages/prqim_t1039_0.html	1	2012-06-10 00:10:50
@@ -936,7 +936,7 @@ tnk1/messages/ktuv_mjly_xkma_bina_wdat_0.html	1	2012-06-23 23:00:39
 tnk1/nvia/yxzqel/yx-16-4950.html	2	2019-10-24 13:35:09
 tnk1/messages/sofrim_hagay_mxjva_19.html	1	2012-06-24 07:18:25
 tnk1/tora/brejit/br-29-17.html	3	2012-06-28 20:05:29
-tnk1/messages/prqim_t2801_1.html	6	2021-11-09 09:37:38
+tnk1/messages/prqim_t2801_1.html	8	2023-02-18 17:06:44
 tnk1/nvir/jmuela/ncx_ysrel.html	2	2012-07-01 11:26:06
 tnk1/nvir/jmuelb/3bnim_wbt1.html	3	2012-07-25 07:06:14
 tnk1/nvir/jmuelb/mrd_avjlom.html	1	2012-06-29 03:51:13
@@ -968,7 +968,7 @@ tnk1/nvir/jmuela/ja-16-profil.html	0	2012-08-05 21:02:08
 tnk1/sofrim/ilanhp/ofl.html	1	2012-08-04 12:52:43
 tnk1/messages/tora_jmot_jm-35-03_0.html	1	2012-08-05 14:51:45
 tnk1/messages/sofrim_shabot_briaa_46.html	3	2012-08-10 13:37:50
-tnk1/kma/qjrim1/drk.html	3	2015-11-08 18:47:00
+tnk1/kma/qjrim1/drk.html	4	2022-10-12 09:51:11
 tnk1/sofrim/zuckm/ncrut.html	2	2016-12-01 17:26:24
 tnk1/kma/qjrim1/nkrya.html	1	2012-08-13 22:23:09
 tnk1/messages/sofrim_hagay_mxjva_29.html	1	2012-08-15 12:30:44
@@ -997,7 +997,7 @@ tnk1/messages/prqim_t1130_0.html	1	2012-10-03 11:40:39
 tnk1/nvir/jmuela/ja-16-12.html	2	2012-10-04 07:39:23
 tnk1/messages/sofrim_shabot_index_72.html	1	2012-10-06 10:04:16
 tnk1/messages/sofrim_shabot_index_76.html	2	2012-10-07 13:01:26
-tnk1/messages/prqim_t35b08_1.html	8	2021-10-30 19:10:42
+tnk1/messages/prqim_t35b08_1.html	9	2022-10-08 18:14:36
 tryg/ribit0/lenyym.html	5	2016-06-08 13:41:57
 tnk1/sofrim/hagay/mjkn_sikum.html	1	2012-10-10 22:07:13
 tnk1/nvia/yjayhu/yj-01-02.html	1	2012-10-13 14:20:40
@@ -1009,7 +1009,7 @@ tnk1/nvir/jmuela/bny_eli.html	12	2020-11-21 15:40:51
 tnk1/messages/prqim_t09a19_2.html	2	2012-10-18 02:20:29
 tnk1/ktuv/mjly/mj-15-28.html	1	2012-10-18 02:43:01
 tnk1/nvia/yjayhu/yj-01-23.html	7	2012-10-21 17:52:57
-tnk1/messages/prqim_t1003_4.html	6	2021-04-13 03:42:51
+tnk1/messages/prqim_t1003_4.html	7	2022-11-12 16:32:57
 tnk1/sofrim/zuckm/marbu4.html	1	2012-10-26 12:30:32
 tnk1/messages/sig_kllhqjr_1.html	1	2012-10-27 13:27:50
 tnk1/messages/forums_422.html	1	2012-10-29 13:00:41
@@ -1025,7 +1025,7 @@ tnk1/tora/brejit/mgdl_bvl.html	5	2018-09-30 16:05:01
 tnk1/ktuv/mjly/mj-31-22.html	4	2014-04-09 10:22:26
 tnk1/tora/brejit/mtrt_briat_hadm_2.html	5	2022-03-16 18:13:08
 tnk1/kma/qjrim1/plgj.html	3	2017-08-15 14:37:47
-tnk1/messages/prqim_t0529_3.html	5	2019-12-30 06:03:41
+tnk1/messages/prqim_t0529_3.html	6	2022-09-22 18:21:08
 tnk1/messages/prqim_t0505_2.html	6	2021-01-17 06:00:22
 tnk1/nvia/yjayhu/yj-09-0709.html	1	2012-11-10 09:52:56
 tnk1/messages/prqim_t1218_0.html	1	2012-11-10 15:11:56
@@ -1137,7 +1137,7 @@ tnk1/kma/qjrim1/xnt.html	3	2019-09-05 18:15:26
 tnk1/messages/prqim_t0101_38.html	3	2013-01-27 08:00:19
 tnk1/messages/msr_index_5.html	2	2013-01-27 07:55:30
 tnk1/ktuv/thlim/th-119-113.html	1	2013-01-26 10:23:26
-tnk1/messages/prqim_t0231_0.html	43	2022-02-11 15:00:15
+tnk1/messages/prqim_t0231_0.html	44	2022-11-13 03:08:57
 tnk1/messages/sig_kll1_0_1_0.html	0	2013-01-27 19:49:45
 tnk1/messages/sofrim_hoffer_aplaton_1.html	1	2013-01-31 12:59:16
 tnk1/ktuv/mgilot/tklt_avrhm_mamrim.html	2	2013-02-01 04:28:15
@@ -1145,9 +1145,9 @@ tnk1/messages/sofrim_shabot_briaa_47.html	2	2013-02-02 18:03:52
 tnk1/nvir/joftim/mlxmt_gvaa_2.html	1	2013-02-02 22:12:01
 tnk1/ktuv/mjly/mj-12-25.html	7	2013-02-03 10:30:36
 tnk1/sofrim/zuckm/jofr.html	1	2013-02-06 20:58:59
-tnk1/messages/prqim_t2821_2.html	20	2022-04-14 19:38:02
+tnk1/messages/prqim_t2821_2.html	22	2023-02-14 17:44:26
 tnk1/nvir/joftim/imo.html	1	2013-02-05 02:42:01
-tnk1/messages/prqim_t0210_2.html	22	2021-07-25 11:18:33
+tnk1/messages/prqim_t0210_2.html	24	2022-12-04 15:37:32
 tnk1/ktuv/mjly/mj-26-11.html	2	2013-02-07 08:01:10
 tnk1/kma/hvdlim1/xsd_emt.html	3	2020-12-30 10:28:12
 tnk1/tora/jmot/jm-24-01.html	3	2013-02-08 02:32:50
@@ -1155,11 +1155,11 @@ tnk1/messages/nvia_yjayhu_yj-56-0107_0.html	1	2013-02-08 08:33:17
 tnk1/nvia/yrmyhu/yr-22-15.html	0	2013-02-09 11:05:34
 tnk1/messages/prqim_t08a15_1.html	1	2013-02-09 21:58:03
 tnk1/tora/brejit/br-02-21.html	3	2019-10-29 13:46:30
-tnk1/messages/prqim_t0102_11.html	24	2022-02-13 12:32:15
+tnk1/messages/prqim_t0102_11.html	25	2022-12-06 14:07:17
 tnk1/ktuv/mjly/mj-15-20.html	1	2013-02-10 23:21:35
 tokxot/txbura/ntc.html	0	2015-06-10 15:59:28
 tnk1/messages/prqim_t0311_0.html	1	2013-02-13 03:03:43
-tnk1/messages/prqim_t0505_0.html	44	2022-09-04 07:20:36
+tnk1/messages/prqim_t0505_0.html	46	2022-12-09 05:39:15
 tnk1/messages/prqim_t1059_3.html	4	2015-06-24 11:20:40
 tnk1/messages/prqim_t1063_2.html	1	2013-02-18 06:45:54
 tnk1/ktuv/thlim/jft.html	2	2013-02-22 02:31:43
@@ -1203,7 +1203,7 @@ tnk1/kma/qjrim1/1xy.html	3	2016-05-23 22:58:46
 tnk1/tora/dvrim/dm-06-16.html	2	2013-03-19 22:32:34
 tnk1/kma/qjrim1/mnhgy_evl.html	3	2015-10-31 14:54:15
 tnk1/tora/brejit/wyhi_erv_wyhi_boqr.html	3	2013-03-20 01:37:46
-tnk1/messages/prqim_t0518_3.html	32	2022-08-30 07:41:27
+tnk1/messages/prqim_t0518_3.html	34	2022-12-14 06:42:06
 tnk1/kma/qjrim1/cdqa.html	2	2014-08-09 19:39:43
 tnk1/klli/mdrjim/ltllxl.html	3	2020-07-28 18:08:45
 tnk1/ktuv/mjly/mj-21-24.html	2	2013-03-22 00:55:16
@@ -1215,7 +1215,7 @@ tnk1/messages/kma_qjrim1_xdj_0.html	4	2013-03-24 00:49:25
 tryg/yovl/hgda.html	2	2013-03-24 06:01:47
 tnk1/messages/msr_10_1.html	1	2013-03-24 14:23:04
 tnk1/messages/prqim_t26c5_0.html	2	2013-07-16 07:38:49
-tnk1/messages/prqim_t0129_1.html	28	2022-09-04 03:22:55
+tnk1/messages/prqim_t0129_1.html	30	2022-12-05 15:23:25
 tnk1/messages/sofrim_zuckm_14_0.html	1	2013-03-27 07:57:21
 tnk1/messages/dmut_ToknLfiDmutAm_0_0.html	1	2013-03-27 13:41:21
 tnk1/ktuv/mjly/mj-18-21.html	1	2013-03-28 13:38:05
@@ -1241,7 +1241,7 @@ tnk1/klli/limud/msxq_msimot.html	1	2013-04-21 08:52:56
 tnk1/messages/forums_495.html	1	2013-04-21 23:30:22
 tnk1/messages/sofrim_hoffer_index_0.html	4	2013-04-27 11:54:15
 tnk1/ktuv/dniel/dn-02-21.html	1	2013-04-22 11:36:58
-tnk1/messages/prqim_t0122_10.html	18	2021-08-19 09:45:51
+tnk1/messages/prqim_t0122_10.html	19	2022-11-26 20:37:19
 tnk1/messages/prqim_t2637_1.html	3	2014-01-04 13:55:59
 tnk1/kma/qjrim1/smdr.html	1	2013-04-26 01:07:52
 tryg/messages/ribit0_gmx_hsbr_1.html	15	2020-08-16 16:27:08
@@ -1274,7 +1274,7 @@ tnk1/messages/prqim_t0101_3.html	1	2013-05-31 15:06:19
 tnk1/messages/prqim_t0101_27.html	3	2013-06-01 10:44:44
 tnk1/jdl/MefarsheyTanach001-34.html	3	2013-06-05 10:01:42
 tnk1/messages/sig_9_12.html	2	2013-09-07 05:46:34
-tnk1/messages/prqim_t2655_5.html	16	2022-08-24 16:54:47
+tnk1/messages/prqim_t2655_5.html	17	2022-10-02 12:36:27
 tnk1/kma/hvdlim1/hromu_hibdlu.html	1	2013-06-08 22:15:37
 tnk1/ktuv/mjly/mj-22-04.html	2	2013-06-09 13:49:00
 tnk1/messages/forums_512.html	1	2013-06-12 13:19:13
@@ -1301,7 +1301,7 @@ tnk1/messages/sig_kll_2.html	2	2014-05-27 02:05:30
 tnk1/messages/prqim_t2803_0.html	16	2013-11-13 04:00:57
 tnk1/ktuv/mgilot/qh-01-18.html	1	2013-06-29 15:21:08
 tnk1/kma/qjrim1/ojr.html	1	2013-06-30 04:14:56
-tnk1/messages/prqim_t26e7_1.html	20	2021-12-08 16:36:41
+tnk1/messages/prqim_t26e7_1.html	21	2022-11-20 16:15:13
 tnk1/ktuv/thlim/th-95.html	2	2013-07-01 23:31:15
 tnk1/ktuv/mgilot/qh-10-01.html	2	2013-07-02 10:15:46
 tnk1/tora/dvrim/dm-10-17.html	1	2013-07-03 01:01:23
@@ -1337,7 +1337,7 @@ tnk1/nvia/yjayhu/yj-05.html	1	2013-08-06 19:03:14
 tnk1/messages/prqim_t0208_2.html	1	2013-08-02 10:57:20
 tnk1/nvir/jmuela/ja-03-03.html	5	2019-11-18 03:56:20
 tnk1/ktuv/thlim/th-97.html	1	2013-08-08 06:07:30
-tnk1/messages/prqim_t1404_0.html	93	2022-09-10 18:17:49
+tnk1/messages/prqim_t1404_0.html	96	2022-12-11 06:49:59
 tnk1/messages/prqim_t0234_7.html	1	2013-08-11 09:48:23
 tnk1/messages/sofrim_brurya_index_2.html	1	2013-08-12 03:00:08
 tnk1/messages/forums_437.html	1	2013-08-12 06:52:59
@@ -1348,7 +1348,7 @@ tnk1/klli/mdrjim/mantis.html	2	2013-08-20 22:04:09
 erelsgl/messages/will_1.html	1	2013-08-20 05:03:06
 tnk1/ktuv/dniel/dn-06-11.html	1	2013-08-21 07:12:23
 tnk1/ktuv/mjly/mj-24-23.html	1	2013-08-21 09:27:23
-tnk1/messages/prqim_t08b01_2.html	11	2021-03-08 04:43:07
+tnk1/messages/prqim_t08b01_2.html	17	2023-02-14 06:43:37
 tnk1/messages/prqim_t3104_5.html	2	2013-08-26 02:57:25
 tnk1/messages/prqim_t0201_6.html	4	2013-08-28 05:34:01
 tnk1/sofrim/reuven/th-29.html	2	2013-10-09 21:34:06
@@ -1377,7 +1377,7 @@ tnk1/nvia/yjayhu/yj-24-23.html	1	2013-09-24 11:38:02
 tnk1/nvia/yjayhu/yj-30-26.html	3	2013-09-25 21:04:56
 tnk1/messages/sofrim_shabot_mda_44.html	1	2013-09-27 07:06:38
 tryg/ribit0/pqdon_zkuyot.html	2	2017-10-17 08:02:59
-tnk1/messages/prqim_t2690_2.html	62	2022-04-28 09:38:59
+tnk1/messages/prqim_t2690_2.html	65	2022-12-05 06:36:40
 tnk1/messages/kma_qjrim1_arubot_1.html	1	2013-10-02 00:33:58
 tnk1/tora/wyqra/wy-19-17.html	2	2016-01-01 06:00:49
 tnk1/messages/sofrim_index_1.html	1	2013-10-04 10:04:21
@@ -1407,8 +1407,8 @@ tnk1/ktuv/mjly/mj-26-28.html	2	2013-10-18 05:39:13
 tnk1/tora/jmot/jm-03-04.html	1	2013-10-18 07:33:34
 tnk1/messages/sofrim_hagay_xgim_4.html	1	2013-10-21 11:46:02
 tnk1/messages/prqim_t0406_2.html	20	2022-03-31 19:51:20
-tnk1/messages/prqim_t0517_1.html	27	2022-01-25 14:58:45
-tnk1/messages/prqim_t2803_1.html	4	2019-07-01 11:27:23
+tnk1/messages/prqim_t0517_1.html	28	2022-12-15 18:00:37
+tnk1/messages/prqim_t2803_1.html	5	2022-10-02 14:33:47
 tnk1/klli/mdrjim/127.html	2	2013-10-26 09:09:51
 tnk1/messages/ljon_jorj_jj_0.html	1	2013-10-23 13:19:09
 tnk1/messages/tora_jmot_jm-03-14_1.html	2	2015-01-02 15:13:18
@@ -1459,7 +1459,7 @@ tnk1/messages/prqim_t0_3.html	4	2013-11-27 11:17:48
 tnk1/messages/5730.html	1	2013-11-26 09:43:40
 tnk1/messages/ljon_jorj_rhb_1.html	4	2013-11-27 12:45:22
 tnk1/messages/sig_9_16.html	3	2013-11-28 07:39:08
-tnk1/messages/prqim_t2602_1.html	6	2021-05-03 11:41:19
+tnk1/messages/prqim_t2602_1.html	8	2022-12-14 11:47:48
 tnk1/messages/forums_77.html	0	2013-12-01 03:20:36
 tnk1/messages/sofrim_shabot_mda_49.html	1	2013-12-01 07:11:54
 tnk1/ktuv/mjly/mj-19-06.html	1	2013-12-01 08:43:29
@@ -1608,7 +1608,7 @@ tnk1/messages/dmut_jm_jawl_8.html	4	2014-04-25 07:49:22
 tnk1/messages/sig_9sfr_18.html	3	2014-04-27 06:12:47
 tnk1/messages/prqim_t3107_0.html	4	2015-11-22 04:55:38
 tnk1/messages/prqim_t1503_1.html	2	2014-04-27 21:17:56
-tnk1/messages/tora_jmot_byom_o_blyla_1.html	2	2022-01-07 14:56:39
+tnk1/messages/tora_jmot_byom_o_blyla_1.html	5	2023-02-17 17:53:47
 tnk1/messages/prqim_t0204_1.html	0	2014-04-30 07:42:49
 tnk1/messages/prqim_t26d1_0.html	5	2014-05-02 17:16:36
 tnk1/messages/prqim_t1103_3.html	1	2014-05-03 11:17:14
@@ -1779,7 +1779,7 @@ tnk1/nvia/yjayhu/yj-61-10.html	1	2015-02-11 07:59:00
 tnk1/messages/prqim_t1056_1.html	1	2015-02-11 10:17:18
 tnk1/ktuv/mjly/mj-17-17.html	1	2015-02-12 07:56:19
 tnk1/ktuv/mjly/mj-30-28.html	2	2015-02-13 12:51:15
-tnk1/messages/prqim_t0219_3.html	16	2021-06-09 04:34:50
+tnk1/messages/prqim_t0219_3.html	17	2022-12-16 11:06:34
 tokxot/onj_mwt/jut.html	1	2015-02-18 23:49:42
 tnk1/ktuv/mjly/mj-28-11.html	2	2015-02-19 10:13:05
 tnk1/kma/qjrim2/ojr_msima.html	1	2015-02-19 01:25:29
@@ -1821,7 +1821,7 @@ tnk1/messages/prqim_t0207_2.html	0	2015-04-08 18:36:16
 tnk1/klli/mdrjim/em_dwd.html	1	2015-12-05 19:21:36
 tnk1/messages/sofrim_orna_index_3.html	1	2015-04-10 08:43:53
 tnk1/kma/qjrim1/mzima.html	0	2015-04-12 06:05:58
-tryg/ribit0/bclel.html	7	2022-07-26 14:27:32
+tryg/ribit0/bclel.html	8	2022-10-29 15:03:35
 tnk1/tora/jmot/psx_mcrym_xmc.html	7	2018-04-03 09:12:42
 tnk1/tora/bmdbr/bm-14-yldim.html	1	2022-06-09 05:45:13
 tnk1/messages/forums_394.html	1	2015-04-18 11:19:52
@@ -1834,7 +1834,7 @@ tnk1/nvia/tryasr/mi-04-05.html	1	2015-05-03 08:42:56
 tnk1/messages/forums_421.html	1	2015-05-08 12:54:56
 tnk1/messages/dmut_dmut_1309_1.html	1	2015-05-09 17:48:30
 tnk1/messages/sofrim_hagay_index_90.html	1	2015-05-11 15:15:17
-tnk1/messages/prqim_t2690_3.html	35	2022-02-25 07:23:46
+tnk1/messages/prqim_t2690_3.html	36	2022-12-11 04:26:36
 tnk1/sofrim/ilanhp/mcuda.html	1	2015-05-13 17:00:57
 tnk1/messages/5499.html	1	2015-05-13 20:41:12
 tnk1/messages/5567.html	1	2015-05-13 21:00:29
@@ -1852,7 +1852,7 @@ tnk1/tora/brejit/tarikim25.html	17	2021-07-06 10:37:01
 tnk1/tora/jmot/tarikim_40.html	6	2019-02-20 21:06:53
 tnk1/ktuv/mj/02-14.html	0	2015-05-25 16:13:47
 tnk1/ktuv/thlim/th-10-03.html	1	2015-05-25 16:14:43
-tnk1/messages/prqim_t0232_5.html	39	2022-02-13 18:51:20
+tnk1/messages/prqim_t0232_5.html	41	2023-02-15 14:36:13
 tnk1/nvir/joftim/jf-02-0105.html	3	2015-05-27 18:00:38
 tnk1/messages/forums_404.html	1	2015-05-27 20:30:50
 tnk1/klli/limud/emu.html	1	2015-05-29 14:42:33
@@ -1922,7 +1922,7 @@ tnk1/messages/ezor_ToknLfiEzorYrujlym_1.html	1	2015-10-11 08:39:59
 tnk1/messages/ezor_ToknLfiEzorYrujlym_1_0.html	1	2015-10-09 11:08:45
 tnk1/messages/sofrim_orna_index_4.html	2	2015-10-11 09:41:34
 tnk1/nvia/yjayhu/yj-40-27.html	-1	2016-10-02 06:13:54
-tnk1/msr/yovl.html	13	2021-01-11 04:13:27
+tnk1/msr/yovl.html	14	2022-09-24 18:20:40
 tnk1/messages/prqim_t0214_5.html	4	2015-10-15 13:23:57
 tnk1/messages/ljon_jorj_gml3_0.html	1	2015-10-17 22:27:07
 tnk1/tora/dvrim/dm-33-01.html	2	2015-10-18 15:47:21
@@ -2100,12 +2100,12 @@ tnk1/messages/dmut_dmut_654_0.html	1	2016-11-02 12:15:02
 tnk1/tora/brejit/br-02-0817.html	2	2016-11-08 14:41:24
 tnk1/tora/brejit/lot.html	1	2016-11-14 20:52:58
 tnk1/tora/brejit/tarikim11.html	2	2016-11-19 20:33:54
-tnk1/messages/prqim_t0115_3.html	8	2022-03-27 18:26:01
+tnk1/messages/prqim_t0115_3.html	9	2022-11-17 13:28:16
 tnk1/messages/prqim_t1060_2.html	2	2016-11-22 02:23:27
 tnk1/nvir/mlkimb/mb-09-24.html	1	2016-12-10 16:22:45
 tnk1/ktuv/mgilot/qh-07-20.html	3	2016-12-11 05:15:02
 tnk1/sofrim/zuckm/48.html	3	2022-09-03 21:00:12
-tnk1/messages/prqim_t0146_2.html	23	2022-04-21 07:22:48
+tnk1/messages/prqim_t0146_2.html	24	2022-12-06 13:35:37
 tnk1/jdl/MefarsheyTanach001-10.html	1	2016-12-14 17:15:41
 tnk1/klli/mdrjim/qynhvlbyt.html	2	2016-12-20 18:38:21
 tnk1/tora/brejit/br-18-21.html	1	2016-12-28 16:10:57
@@ -2117,7 +2117,7 @@ tnk1/nvir/joftim/jf-03-19.html	1	2017-01-08 16:48:22
 tnk1/messages/nvir_joftim_jnim_0_0.html	1	2017-01-14 20:43:26
 tnk1/sofrim/mali/nxlot_ajr_nftli.html	1	2017-01-17 12:03:24
 tnk1/sofrim/zuckm/paro.html	1	2017-01-29 08:13:37
-tryg/messages/ribit0_get_0.html	1	2017-02-01 15:24:25
+tryg/messages/ribit0_get_0.html	2	2023-02-16 18:42:50
 tnk1/messages/prqim_t0220_0.html	3	2017-02-12 18:47:25
 tnk1/tora/dvrim/dm-17-16.html	1	2017-02-09 16:30:52
 tnk1/kma/qjrim1/mpny.html	1	2017-02-13 15:20:42
@@ -2192,7 +2192,7 @@ tnk1/kma/qjrim1/gorl.html	1	2017-09-03 10:10:03
 tnk1/messages/prqim_t0525_0.html	1	2017-09-04 11:12:57
 tnk1/tora/bsr_xlv.html	1	2017-09-06 06:53:46
 tnk1/ktuv/mjly/mj-22-07.html	1	2017-09-11 14:41:57
-tnk1/kma/qjrim1/rja.html	2	2017-09-12 11:11:50
+tnk1/kma/qjrim1/rja.html	3	2023-01-17 19:59:08
 tnk1/nvia/yjayhu/yj-29-2223.html	1	2017-09-16 17:49:16
 tnk1/messages/forums_935.html	1	2017-09-17 23:56:14
 tnk1/nvia/tryasr/mi-03-0507.html	1	2017-09-20 15:53:50
@@ -2204,8 +2204,8 @@ tnk1/ktuv/mgilot/jj-01-0506.html	5	2022-08-05 15:59:47
 tnk1/kma/qjrim1/bgd.html	3	2017-10-08 09:44:08
 tnk1/tora/brejit/br-48-22.html	1	2017-10-09 12:11:34
 tnk1/tora/brejit/br-01-07.html	4	2021-02-21 21:00:14
-tnk1/messages/prqim_t1117_1.html	15	2022-03-18 08:29:16
-tnk1/messages/prqim_t2810_4.html	2	2022-09-01 07:46:23
+tnk1/messages/prqim_t1117_1.html	17	2022-12-17 16:02:45
+tnk1/messages/prqim_t2810_4.html	3	2022-09-22 18:52:32
 tnk1/tora/brejit/ndr.html	3	2018-06-19 01:54:03
 tnk1/sofrim/zuckm/05.html	1	2017-10-15 10:14:42
 tnk1/ktuv/thlim/th-112-05.html	3	2017-10-18 03:37:42
@@ -2279,10 +2279,10 @@ tnk1/kma/qjrim1/cfn.html	1	2018-03-17 22:02:21
 tnk1/tora/brejit/br-16-16.html	1	2018-03-24 17:43:54
 tnk1/messages/prqim_t26c3_0.html	4	2021-01-22 07:52:31
 tnk1/kma/hvdlim1/ezra.html	1	2018-03-28 21:29:05
-tnk1/messages/prqim_t09b24_0.html	2	2020-07-17 04:23:24
+tnk1/messages/prqim_t09b24_0.html	3	2023-02-13 12:54:43
 tnk1/messages/new_32.html	2	2018-03-30 06:19:31
 tnk1/ktuv/mj/07-09.html	1	2018-03-29 17:53:06
-tnk1/messages/prqim_t2703_0.html	2	2018-03-30 06:18:26
+tnk1/messages/prqim_t2703_0.html	4	2022-11-26 17:45:07
 tnk1/messages/sofrim_shabot_index_114.html	2	2018-04-02 13:08:12
 tnk1/messages/new_31.html	1	2018-04-02 10:14:40
 tnk1/kma/qjrim2/mzlot.html	3	2019-11-29 03:09:28
@@ -2314,10 +2314,10 @@ tnk1/nvir/yhojua/ya-17-15.html	6	2018-06-05 17:50:42
 tnk1/sofrim/zuckm/qraim.html	1	2018-06-09 18:06:59
 tnk1/nvia/tryasr/zk-09-17.html	2	2018-06-12 12:57:07
 tnk1/messages/prqim_t2740_0.html	2	2018-06-13 11:43:17
-tnk1/tora/dvrim/hfrka.html	2	2018-06-13 08:08:22
+tnk1/tora/dvrim/hfrka.html	3	2022-10-16 08:22:07
 tnk1/tora/wyqra/arkim.html	2	2018-06-14 11:43:25
 tryg/messages/sug_mjkb_zkr_0.html	3	2018-06-17 11:30:27
-tnk1/dmut/magrim.html	5	2020-08-05 11:34:49
+tnk1/dmut/magrim.html	7	2022-12-15 05:44:00
 tnk1/dmut/ToknLfiDmutHkl.html	1	2018-06-18 16:16:41
 tnk1/tora/wyqra/wy-19-19.html	3	2020-07-05 15:43:01
 tnk1/tora/dvrim/tm01_klaym_bsr_bxlv.html	1	2018-06-24 00:58:36
@@ -2422,7 +2422,7 @@ tnk1/ktuv/mj/18-05.html	1	2019-04-09 11:58:57
 tnk1/messages/forums_672.html	1	2019-04-10 15:59:46
 tnk1/tora/wyqra/wy-19-1516.html	1	2019-04-11 15:56:29
 tnk1/sofrim/zuckm/49.html	1	2019-04-12 10:23:25
-tnk1/messages/daian2_0.html	20	2022-09-09 14:23:08
+tnk1/messages/daian2_0.html	26	2023-02-17 14:22:05
 tnk1/messages/prqim_t0212_3.html	3	2021-03-26 12:05:40
 tnk1/tora/sdr_mnhigim.html	1	2019-04-27 17:47:56
 tnk1/kma/qjrim1/srft_yldim.html	2	2019-04-21 14:42:29
@@ -2466,7 +2466,7 @@ tnk1/tora/bmdbr/bm-3017.html	0	2019-07-26 15:39:37
 tnk1/messages/prqim_t2690_0.html	1	2019-07-30 15:19:25
 tnk1/nvia/yrmyhu/yr-13-23.html	6	2021-10-29 04:40:11
 tnk1/nvia/yrmyhu/yr-09-12.html	2	2019-08-02 05:30:37
-tnk1/messages/prqim_t0143_0.html	1	2019-08-02 14:16:28
+tnk1/messages/prqim_t0143_0.html	3	2022-12-12 10:12:43
 tnk1/ktuv/mjly/mj-26-02.html	1	2019-08-04 08:42:31
 tnk1/tora/dvrim/dm-22-17.html	1	2019-08-05 13:56:08
 tnk1/tora/bmdbr/bm-35-24.html	1	2019-08-06 10:50:37
@@ -2500,7 +2500,7 @@ tnk1/messages/prqim_t26b9_1.html	4	2021-10-28 16:52:26
 tnk1/tora/dvrim/dm-26-03.html	1	2019-09-22 14:39:02
 tnk1/tora/dvrim/dm-2602.html	3	2019-09-22 17:35:04
 tnk1/messages/ljon_jorj_etd_0.html	2	2019-10-05 16:14:06
-tnk1/ktuv/thlim/th-30-12.html	2	2019-09-27 12:18:16
+tnk1/ktuv/thlim/th-30-12.html	3	2023-01-02 08:18:56
 tnk1/messages/prqim_t1044_3.html	1	2019-09-27 15:49:33
 tnk1/ktuv/mjly/mj-27-14.html	2	2019-10-08 09:40:36
 tnk1/nvia/yjayhu/yj-05-01.html	1	2019-10-04 08:28:23
@@ -2616,7 +2616,7 @@ tnk1/nvia/tryasr/xg-01-04.html	1	2020-12-18 13:33:31
 tnk1/messages/forums_456.html	1	2020-12-20 16:20:24
 tnk1/sofrim/ilanhp/njp.html	2	2020-12-21 15:43:47
 tnk1/messages/ljon_jorj_njp_0.html	1	2020-12-21 15:47:23
-tnk1/messages/prqim_t3204_0.html	1	2020-12-27 03:47:58
+tnk1/messages/prqim_t3204_0.html	3	2022-11-23 05:21:37
 tnk1/ktuv/mjly/mj-27-06.html	2	2020-12-27 08:31:19
 tnk1/nvir/ki_yoav.html	1	2020-12-27 19:19:00
 tnk1/kma/qjrim1/axry1.html	2	2020-12-29 11:00:14
@@ -2667,7 +2667,7 @@ tnk1/tora/brejit/br-25-34.html	1	2021-07-29 23:10:32
 tnk1/kma/qjrim2/gvrim_yfim.html	2	2022-01-13 10:39:49
 tnk1/tora/dvrim/dm-16-19.html	0	2021-08-15 00:15:10
 tryg/jmita/wy-25-2022.html	2	2021-08-20 04:34:11
-tnk1/messages/prqim_t26b9_3.html	1	2021-08-27 07:11:46
+tnk1/messages/prqim_t26b9_3.html	2	2022-09-23 08:19:57
 tnk1/kma/qjrim2/mlakim.html	2	2021-09-21 17:28:11
 tnk1/messages/forums_1355.html	1	2021-09-10 03:05:37
 tnk1/tora/dvrim/geula_tokatly.html	1	2021-09-21 17:27:23
@@ -2699,7 +2699,7 @@ tnk1/tora/wyqra/tm01_ofot.html	1	2022-02-20 16:35:19
 tnk1/messages/forums_384.html	1	2022-02-21 13:21:55
 tnk1/kma/qjrim1/khnim2.html	1	2022-02-21 16:45:44
 tnk1/messages/ktuv_mjly_mj-31-03_0.html	1	2022-02-22 16:35:50
-tnk1/tora/dvrim/dm-18-11.html	1	2022-03-03 18:52:43
+tnk1/tora/dvrim/dm-18-11.html	5	2023-02-09 22:00:13
 tnk1/ktuv/mgilot/tklt_avrhm_mskt.html	1	2022-03-06 11:16:15
 tnk1/ktuv/mgilot/tklt_avrhm_jujn.html	0	2022-03-13 06:20:51
 tnk1/nvir/joftim/jf-11-27.html	1	2022-03-14 11:10:52
@@ -2723,6 +2723,22 @@ tnk1/messages/prqim_t0101_30.html	2	2022-07-15 15:02:46
 tnk1/kma/qjrim1/onj_acmi.html	1	2022-08-06 20:16:38
 tnk1/nvia/yjayhu/yj-11-06.html	1	2022-08-12 16:16:59
 tnk1/nvir/jnot_hmlkim.html	1	2022-08-16 13:47:04
-tnk1/messages/dmut_dmut_657_0.html	1	2022-08-20 17:30:13
+tnk1/messages/dmut_dmut_657_0.html	3	2022-09-29 14:04:01
 tnk1/messages/prqim_t2679_0.html	1	2022-08-28 06:33:49
 tnk1/ktuv/mgilot/jj-01-06.html	1	2022-09-17 07:17:45
+tnk1/ktuv/mj/01-27.html	1	2022-09-19 15:34:46
+tnk1/nvia/yjayhu/yj-40-26.html	1	2022-09-21 15:12:09
+tnk1/ktuv/thlim/th-127-04.html	2	2022-09-23 15:33:16
+tnk1/tora/jmot/jm-33-14.html	1	2022-10-13 15:03:40
+tnk1/tora/jmot/jm-33-15.html	1	2022-10-13 17:11:12
+tnk1/tora/jmot/jm-32-09.html	2	2022-10-13 20:52:26
+tnk1/tora/jmot/jm-33-22.html	1	2022-10-16 12:23:16
+tnk1/messages/ljon_jorj_rks_0.html	1	2022-10-16 12:14:43
+tnk1/messages/prqim_t04_0.html	1	2022-10-19 03:08:43
+tnk1/kma/qjrim1/kyom.html	1	2022-10-23 06:35:56
+tnk1/ktuv/mj/23-23.html	2	2022-10-23 14:11:39
+tnk1/klli/election-prayer.html	3	2022-11-01 11:15:58
+tnk1/ktuv/mj/08-35.html	1	2022-11-21 12:47:39
+tnk1/tora/dvrim/dm-24-0506.html	1	2022-12-14 16:37:54
+tnk1/tora/dvrim/dm-24-06.html	1	2022-12-14 16:38:10
+tnk1/ktuv/mjly/mj-13-25.html	0	2023-02-05 14:28:59

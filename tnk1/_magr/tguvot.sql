@@ -8356,3 +8356,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-17 17:53:47' 
 			WHERE messageid=12019;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>בספר דברים בשירת האזינו נפלה שגגה בכתיבת הפסןק הזה</p><p>ספר דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>האם אלהים שִׁחֵת לוֹ ? חלילה !!! </p><p>צריך לתקן את השגגה הזאת כדברים הבאים</p><p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ !!!!!! בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>בניו הם המושחתים ולא יהוה אלהינו</p><p>וכעת אני קורא לכל הוצאות הספרים של התורה כהוצאת &quot;קורן&quot;  ספרי התורה ותנך לתקן את טעות הסופרים הזאת</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-18 16:49:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>בספר דברים בשירת האזינו נפלה שגגה בכתיבת הפסוק הזה</p><p>ספר דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>האם אלהים שִׁחֵת לוֹ ? חלילה !!!</p><p>צריך לתקן את השגגה הזאת כדברים הבאים</p><p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ !!!!!! בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>בניו הם המושחתים ולא יהוה אלהינו</p><p>וכעת אני קורא לכל הוצאות הספרים של התורה כהוצאת &quot;קורן&quot; ספרי התורה ותנך לתקן את טעות הסופרים הזאת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-18 16:50:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-18 16:50:14' 
+			WHERE messageid=12171;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>בספר דברים בשירת האזינו נפלה שגגה בכתיבת הפסוק הזה</p><p>ספר דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>האם אלהים שִׁחֵת לוֹ ? האם אלהים מושחת ?? חלילה !!!</p><p>צריך לתקן את השגגה הזאת כדברים הבאים</p><p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ !!!!!! בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>בניו הם המושחתים ולא יהוה אלהינו</p><p>וכעת אני קורא לכל הוצאות הספרים של התורה כהוצאת &quot;קורן&quot; ספרי התורה ותנך לתקן את טעות הסופרים הזאת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-18 16:51:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-18 16:51:44' 
+			WHERE messageid=12172;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>בספר דברים בשירת האזינו נפלה שגגה בכתיבת הפסוק הזה</p><p>ספר דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>האם אלהים שִׁחֵת לוֹ ? האם אלהים מושחת ?? חלילה !!!</p><p>צריך לתקן את השגגה הזאת כדברים הבאים</p><p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ !!!!!! בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>בניו הם המושחתים ולא יהוה אלהינו</p><p>וכעת אני קורא לכל הוצאות הספרים של התורה כהוצאת &quot;קורן&quot; ספרי התורה ותנך לתקן את טעות הסופרים הזאת</p><p>אני קורא גם לכל ההוצאות הדיגיטליות וכן ברשת האינטרנט כאתר הזה של ידידי אראל סגל מנהל אתר הניווט בתנ&quot;ך </p><p>לתקן את טעות הסופרים הזאת</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-18 17:06:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-18 17:06:44' 
+			WHERE messageid=12173;
+
