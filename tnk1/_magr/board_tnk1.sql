@@ -14917,3 +14917,58 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/yovl.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-24 10:50:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-24 10:59:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-24 11:31:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-02-24 11:36:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0411_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/the_house_of_micah_s_god.pdf',
+				NULL,
+				'2023-02-25 03:43:38',
+				'2023-02-25 03:43:38',
+				'The house of Micah\'s god',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-02-25 03:43:38'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
