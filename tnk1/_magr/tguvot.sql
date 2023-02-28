@@ -9158,3 +9158,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-02-26 19:45:23' 
 			WHERE messageid=12216;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>אחי בני ישראל </p><p>בהמשך לדברים שכתבתי מעל תגובה זאת</p><p>אם אתם מאמינים לי כי מספר ימי השנה הוא 365.14 [ולא 365.25] אז יש לנהוג בלוח שמשי הוא לוח היובלים למקדש </p><p>ואם אינכם מאמינים שמספר ימי השנה הוא 365.14 כי אמרתם זה לא תואם את הנתונים של האסטרונומים אז לכו לפי לוח הירח שכתבתי </p><p>כאשר הכסה הרשון לאחר ראש השנה ביום שיוויון האביב בכסות הירח בכסה ליום חגנו הוא פסח חג המצות --- כי  חייבים לעשות לוח שנה חדש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-28 05:35:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>אחי בני ישראל</p><p>בהמשך לדברים שכתבתי מעל תגובה זאת</p><p>אם אתם מאמינים לי כי מספר ימי השנה הוא 365.14 [ולא 365.25] אז יש לנהוג בלוח שמשי הוא לוח היובלים למקדש</p><p>ואם אינכם מאמינים שמספר ימי השנה הוא 365.14 כי אמרתם זה לא תואם את הנתונים של האסטרונומים אז לכו לפי לוח הירח שכתבתי</p><p>כאשר הכסה הראשון לאחר ראש השנה ביום שיוויון האביב בכסות הירח בכסה ליום חגנו הוא פסח חג המצות --- כי חייבים לעשות לוח שנה חדש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-28 05:36:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-02-28 05:36:47' 
+			WHERE messageid=12218;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>בקשר לסיגריות</p><p>ובכן הסיגריה היא סוג של קטורת אף כי זו אינה הקטורת הטהורה שמימי המקדש</p><p>אם אתה מעשן אז הסיגריה המומלצת היא הסיגריה של הבוקר ולא של הלילה</p><p>כי בלילה לפני השינה הגוף קשה לו להתמודד עם נזקי העישון כי הגוף ישן-מת</p><p>אך כשהגוף חי הוא יכול להתמודד עם נזקי העישון טוב יותר ובהצלחה ניכרת </p><p>וכמובן כל דבר במידה ובמינון נכון לאמור אל תעשן הרבה כמו שאל תאכל הרבה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-28 06:39:38'
+		)
+		;
+
