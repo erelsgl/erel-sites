@@ -9201,3 +9201,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p></p><p>דברים טז1: &quot;שָׁמוֹר אֶת חֹדֶשׁ הָאָבִיב... וְעָשִׂיתָ פֶּסַח ליהוה אֱלֹהֶיךָ כִּי בְּחֹדֶשׁ הָאָבִיב... הוֹצִיאֲךָ יהוה אֱלֹהֶיךָ מִמִּצְרַיִם לָיְלָה&quot;</p><p>כעת שימו לב לשנת 2024 </p><p>על פי לוח השנה ליובלים שכתבתי בקודש למקדש</p><p>ראש השנה ביום שיוויון האביב יהיה בתאריך 17.3.2024</p><p>ואם לדעת האסטרונומים יום שיוויון האביב בתאריך 21.3.2024</p><p>והאביב הוא רק חודש ימים...........</p><p>לאמור כי הפסח של הרבנים לא יהיה בתוך חודש האביב</p><p>כי הוא מעבר לתאריך 21.4.2024</p><p>https://www.uzit.co.il/newcalendar/CalendarWithTimes.aspx?month=4&amp;year=2024&amp;place=%u05EA%u05DC%20%u05D0%u05D1%u05D9%u05D1&amp;method=%u05D7%u05D6%u05D5%u05DF%20%u05E9%u05DE%u05D9%u05DD</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-02-28 09:17:57'
+		)
+		;
+
