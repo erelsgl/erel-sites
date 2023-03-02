@@ -9213,3 +9213,134 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>דברים ו4: &quot;שְׁמַע יִשְׂרָאֵל יהוה אֱלֹהֵינוּ יהוה אֶחָד&quot;</p><p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם&quot;</p><p>על כן...</p><p>קהלת ט2: &quot;הַכֹּל כַּאֲשֶׁר לַכֹּל מִקְרֶה אֶחָד לַצַּדִּיק וְלָרָשָׁע לַטּוֹב וְלַטָּהוֹר וְלַטָּמֵא וְלַזֹּבֵחַ וְלַאֲשֶׁר אֵינֶנּוּ זֹבֵחַ כַּטּוֹב כַּחֹטֶא הַנִּשְׁבָּע כַּאֲשֶׁר שְׁבוּעָה יָרֵא&quot;</p><p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם.......</p><p>לאמור כי פלמוני עשה צדקה הלא הוא נוצר  יַחַד עם לבנו משפחת האדם כולנו שותפים</p><p>ואם פלמוני עשה חטא רע הלא גם הוא נוצר יַחַד עם לבנו משפחת האדם כולנו שותפים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 08:58:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>דברים ו4: &quot;שְׁמַע יִשְׂרָאֵל יהוה אֱלֹהֵינוּ יהוה אֶחָד&quot;</p><p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם&quot;</p><p>על כן...</p><p>קהלת ט2: &quot;הַכֹּל כַּאֲשֶׁר לַכֹּל מִקְרֶה אֶחָד לַצַּדִּיק וְלָרָשָׁע לַטּוֹב וְלַטָּהוֹר וְלַטָּמֵא וְלַזֹּבֵחַ וְלַאֲשֶׁר אֵינֶנּוּ זֹבֵחַ כַּטּוֹב כַּחֹטֶא הַנִּשְׁבָּע כַּאֲשֶׁר שְׁבוּעָה יָרֵא&quot;</p><p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם.......</p><p>כי אם פלמוני עשה חטא רע הלא גם הוא נוצר יַחַד עם לבנו משפחת האדם כולנו שותפים </p><p>ואם פלמוני עשה צדקה ומשפט הלא הוא נוצר יַחַד עם לבנו משפחת האדם כולנו שותפים</p><p>כאשר אברהם שמע בקול אלהים בעת עקדת יצחק וְנִבְרְכוּ בוֹ כֹּל גּוֹיֵי הָאָרֶץ [בראשית יח18]</p><p>בראשית יח18: &quot;וְאַבְרָהָם הָיוֹ יִהְיֶה לְגוֹי גָּדוֹל וְעָצוּם וְנִבְרְכוּ בוֹ כֹּל גּוֹיֵי הָאָרֶץ&quot; ...................</p><p>בראשית יב3: &quot;וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה&quot; ...............</p><p>בראשית כח14: &quot;וְהָיָה זַרְעֲךָ כַּעֲפַר הָאָרֶץ וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה וְנִבְרֲכוּ בְךָ כָּל מִשְׁפְּחֹת הָאֲדָמָה וּבְזַרְעֶךָ&quot; </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 09:05:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-01 09:06:51' 
+			WHERE messageid=12222;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כאשר אני דיין שם משה אומר לך לשמוע בקולי </p><p>אני יועץ לך גם לשמוע שירים כאלה ואתה שמע</p><p>שמע יותר את המוזיקה והמסרים שלה מאשר המילים</p><p>https://www.youtube.com/watch?v=rBJvQ0BuTH4</p><p>Let me dream a little longer</p><p>Believe in the innocence of the light</p><p>You promised the sun on ice but left me in darkness</p><p>Where falling stars shine so bright</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 15:25:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כאשר אני דיין שם משה יועץ לך לשמוע בקולי</p><p>אני יועץ לך גם לשמוע שירים כאלה ואתה שמע</p><p>שמע יותר את המוזיקה והמסרים שלה בשיר</p><p>https://www.youtube.com/watch?v=rBJvQ0BuTH4</p><p>Let me dream a little longer</p><p>Believe in the innocence of the light</p><p>You promised the sun on ice but left me in darkness</p><p>Where falling stars shine so bright</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 15:28:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-01 15:28:46' 
+			WHERE messageid=12224;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כאשר אני דיין שם משה יועץ לך לשמוע בקולי</p><p>אני יועץ לך גם לשמוע שירים כאלה ואתה שמע</p><p>שמע יותר את המוזיקה והמסרים שלה בשיר</p><p>זאת המוזיקה מזמרתו של דיין שם משה </p><p>הוא מורה לתורה משה דיין בסגנון שלא הכרת</p><p>https://www.youtube.com/watch?v=rBJvQ0BuTH4</p><p>Let me dream a little longer</p><p>Believe in the innocence of the light</p><p>You promised the sun on ice but left me in darkness</p><p>Where falling stars shine so bright</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 15:36:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-01 15:36:09' 
+			WHERE messageid=12225;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כאשר אני דיין שם משה יועץ לך לשמוע בקולי</p><p>אני יועץ לך גם לשמוע שירים כאלה ואתה שמע</p><p>שמע יותר את המוזיקה והמסרים שלה בשיר</p><p>זאת המוזיקה מזמרתו של דיין שם משה</p><p>הוא מורה לתורה משה דיין בסגנון הזה</p><p>Moonnight &amp; Elles de Graaf - Sunset Kindness</p><p>https://www.youtube.com/watch?v=rBJvQ0BuTH4</p><p>Let me dream a little longer</p><p>Believe in the innocence of the light</p><p>You promised the sun on ice but left me in darkness</p><p>Where falling stars shine so bright</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p><p>Meet me where the sky poors into ocean</p><p>In the golden colors of a fading day</p><p>You\'ve always known just what to say</p><p>When you leave me in sunset kindness</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-01 15:42:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-01 15:42:22' 
+			WHERE messageid=12226;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>במדבר כז3: &quot;אָבִינוּ מֵת בַּמִּדְבָּר וְהוּא לֹא הָיָה בְּתוֹךְ הָעֵדָה הַנּוֹעָדִים עַל יהוה בַּעֲדַת קֹרַח כִּי בְחֶטְאוֹ מֵת....... וּבָנִים לֹא הָיוּ לוֹ&quot;</p><p>מלכים ב יד6: &quot;וְאֶת בְּנֵי הַמַּכִּים לֹא הֵמִית כַּכָּתוּב בְּסֵפֶר תּוֹרַת מֹשֶׁה אֲשֶׁר צִוָּה יהוה לֵאמֹר לֹא יוּמְתוּ אָבוֹת עַל בָּנִים וּבָנִים לֹא יוּמְתוּ עַל אָבוֹת </p><p>כִּי אִם אִישׁ בְּחֶטְאוֹ ימות[יוּמָת] &quot;.......</p><p>--- כל אִישׁ בְּחֶטְאוֹ ימות[יוּמָת] וגם דוד המלך בְחֶטְאוֹ מֵת בחֶטְא המפורסם בבת-שבע אבל מה המית את דוד פיסית גופנית ---</p><p>ובכן על פי עדות דוד המלך זה הכליות ככתוב: &quot;לֵילוֹת יִסְּרוּנִי כִלְיוֹתָי&quot;</p><p>-- תהילות טז7: &quot;אֲבָרֵךְ אֶת יהוה אֲשֶׁר יְעָצָנִי אַף לֵילוֹת יִסְּרוּנִי כִלְיוֹתָי&quot;</p><p>גדולתו של דוד לברך את אלהיו אַף למרות מחלת הכליות ממנה סבל</p><p>המשיח הצדיק הוא זה האיש אשר לֹא הפר משפט וְלֹא נָתַן תִּפְלָה לֵאלֹהִים להרשיעו בעת רעה</p><p>איוב כד12: &quot;מֵעִיר מְתִים יִנְאָקוּ וְנֶפֶשׁ חֲלָלִים תְּשַׁוֵּעַ וֶאֱלוֹהַּ לֹא יָשִׂים תִּפְלָה&quot;</p><p>ואגיד לך בעממית .........</p><p>כי אם בעת הרעה העוברת עליך נתת תִּפְלָה לֵאלֹהִים ללכלך עליו טומאת פיך להרשיעו אז סתום ת\'פה אתה לא המשיח</p><p>כי משיח-אלהים ישים תְּפִלָּה [בכתיב מלא תפילה] וֶאֱלוֹהַּ לֹא יָשִׂים תִּפְלָה שהיא ההיפך מתפילה=תְּפִלָּה</p><p>איוב א22: &quot;בְּכָל זֹאת לֹא חָטָא אִיּוֹב וְלֹא נָתַן תִּפְלָה לֵאלֹהִים&quot;</p><p>זה הצדיק כמשיח</p><p>ואתה?</p><p>איוב מ8: &quot;הַאַף תָּפֵר מִשְׁפָּטִי תַּרְשִׁיעֵנִי לְמַעַן תִּצְדָּק&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-02 03:38:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>במדבר כז3: &quot;אָבִינוּ מֵת בַּמִּדְבָּר וְהוּא לֹא הָיָה בְּתוֹךְ הָעֵדָה הַנּוֹעָדִים עַל יהוה בַּעֲדַת קֹרַח כִּי בְחֶטְאוֹ מֵת....... וּבָנִים לֹא הָיוּ לוֹ&quot;</p><p>מלכים ב יד6: &quot;וְאֶת בְּנֵי הַמַּכִּים לֹא הֵמִית כַּכָּתוּב בְּסֵפֶר תּוֹרַת מֹשֶׁה אֲשֶׁר צִוָּה יהוה לֵאמֹר לֹא יוּמְתוּ אָבוֹת עַל בָּנִים וּבָנִים לֹא יוּמְתוּ עַל אָבוֹת</p><p>כִּי אִם אִישׁ בְּחֶטְאוֹ ימות[יוּמָת] &quot;.......</p><p>--- כל אִישׁ בְּחֶטְאוֹ ימות[יוּמָת] וגם דוד המלך בְחֶטְאוֹ מֵת .......בחֶטְא המפורסם בבת-שבע אבל מה המית את דוד פיסית גופנית ---</p><p>ובכן על פי עדות דוד המלך זה הכליות ככתוב: &quot;לֵילוֹת יִסְּרוּנִי כִלְיוֹתָי&quot;</p><p>-- תהילות טז7: &quot;אֲבָרֵךְ אֶת יהוה אֲשֶׁר יְעָצָנִי אַף לֵילוֹת יִסְּרוּנִי כִלְיוֹתָי&quot;</p><p>גדולתו של דוד לברך את אלהיו אַף למרות מחלת הכליות ממנה סבל</p><p>המשיח הצדיק הוא זה האיש אשר לֹא הפר משפט וְלֹא נָתַן תִּפְלָה לֵאלֹהִים להרשיעו בעת רעה</p><p>איוב כד12: &quot;מֵעִיר מְתִים יִנְאָקוּ וְנֶפֶשׁ חֲלָלִים תְּשַׁוֵּעַ וֶאֱלוֹהַּ לֹא יָשִׂים תִּפְלָה&quot;</p><p>ואגיד לך בעממית .........</p><p>כי אם בעת הרעה העוברת עליך נתת תִּפְלָה לֵאלֹהִים ללכלך עליו טומאת פיך להרשיעו אז סתום ת\'פה אתה לא המשיח</p><p>כי משיח-אלהים ישים תְּפִלָּה [בכתיב מלא תפילה] וֶאֱלוֹהַּ לֹא יָשִׂים תִּפְלָה שהיא ההיפך מתפילה=תְּפִלָּה</p><p>איוב א22: &quot;בְּכָל זֹאת לֹא חָטָא אִיּוֹב וְלֹא נָתַן תִּפְלָה לֵאלֹהִים&quot;</p><p>זה הצדיק כמשיח</p><p>ואתה?</p><p>איוב מ8: &quot;הַאַף תָּפֵר מִשְׁפָּטִי תַּרְשִׁיעֵנִי לְמַעַן תִּצְדָּק&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-02 03:40:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-02 03:40:59' 
+			WHERE messageid=12228;
+
