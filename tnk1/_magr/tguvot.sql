@@ -9344,3 +9344,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-03-02 03:40:59' 
 			WHERE messageid=12228;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>&quot;ממחרת השבת&quot; שתי משמעויות לשני הלוחות</p><p>בלוח היובלים למקדש זה ממחרת השבת הראשונה ללוח השנה לאמור ממחרת השבת של ראש החודש הראשון של ראש השנה באביב</p><p>בלוח הירח [ראש חודש בירח מלא] ממחרת השבת השבת שה ממחרת השבת שלאחר 21 לניסן לאחר שביעי של פסח בלוח הירח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-02 13:54:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>&quot;ממחרת השבת&quot; שתי משמעויות לשני הלוחות</p><p>בלוח היובלים למקדש זה ממחרת השבת הראשונה ללוח השנה לאמור ממחרת השבת של ראש החודש הראשון של ראש השנה באביב</p><p>בלוח הירח [ראש חודש בירח מלא] ממחרת השבת השבת זה ממחרת השבת שלאחר 21 לניסן לאחר שביעי של פסח בלוח הירח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-02 13:55:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-02 13:55:29' 
+			WHERE messageid=12230;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3302_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-03 06:50:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-03 06:50:30' 
+			WHERE messageid=12232;
+

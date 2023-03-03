@@ -15172,3 +15172,50 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-03-02 13:54:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-03-02 13:55:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1525.html',
+				NULL,
+				'2023-03-02 22:32:15',
+				'2023-03-02 22:32:15',
+				'אסתר המלכה ומרדכי היהודי- הקשר לפרשת תצווה/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-03-02 22:32:15'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-03-03 06:50:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3302_1.html'
+		;
+
