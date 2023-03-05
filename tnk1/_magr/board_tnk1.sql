@@ -15266,3 +15266,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/byjwrwn_mlk.pdf',
+				NULL,
+				'2023-03-04 17:56:47',
+				'2023-03-04 17:56:47',
+				'ויהי בישורון מלך',
+				'רמי ניר',
+				''
+			)
+		;
+
