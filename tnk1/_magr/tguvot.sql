@@ -9430,3 +9430,108 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>בירח ניסן ניסה אלהים את האדם כאשר יצא הנחש ביום השמיני למילואים הוא [ג\' בניסן] השלישי לירחא ניסן  </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 14:37:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>בירח ניסן ניסה אלהים את האדם כאשר יצא הנחש ביום השמיני למילואים הוא [ג\' בניסן] השלישי לירחא ניסן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 14:37:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-05 14:38:02' 
+			WHERE messageid=12237;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>בירח ניסן ניסה אלהים את האדם כאשר יצא הנחש ביום השמיני למילואים הוא [ג\' בניסן] השלישי לירחא ניסן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 14:38:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>******* למה זה רומנטי להפגש עם האשה לאור נרות וכוס יין *******</p><p>כי עם האשה יש לשכב בלילה לאור נרות ככה שכב יעקב עם נשותיו בלילה</p><p> בראשית כט23: &quot;וַיְהִי בָעֶרֶב וַיִּקַּח אֶת לֵאָה בִתּוֹ וַיָּבֵא אֹתָהּ אֵלָיו וַיָּבֹא אֵלֶיהָ&quot; </p><p>בראשית כט24: &quot;וַיִּתֵּן לָבָן לָהּ אֶת זִלְפָּה שִׁפְחָתוֹ לְלֵאָה בִתּוֹ שִׁפְחָה&quot; </p><p>בראשית כט25: &quot;וַיְהִי בַבֹּקֶר וְהִנֵּה הִוא לֵאָה וַיֹּאמֶר אֶל לָבָן מַה זֹּאת עָשִׂיתָ לִּי הֲלֹא בְרָחֵל עָבַדְתִּי עִמָּךְ וְלָמָּה רִמִּיתָנִי&quot; </p><p>וכדי להחיות זרע להוציא מהגבר בלילה יש לשתות היין</p><p>בראשית יט34: &quot;וַיְהִי מִמָּחֳרָת וַתֹּאמֶר הַבְּכִירָה אֶל הַצְּעִירָה הֵן שָׁכַבְתִּי אֶמֶשׁ אֶת אָבִי נַשְׁקֶנּוּ יַיִן גַּם הַלַּיְלָה וּבֹאִי שִׁכְבִי עִמּוֹ וּנְחַיֶּה מֵאָבִינוּ זָרַע&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 15:24:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>******* למה זה רומנטי להפגש עם האשה לאור נרות וכוס יין *******</p><p>כי עם האשה יש לשכב בלילה לאור נרות ככה שכב יעקב עם נשותיו בלילה</p><p>בראשית כט23: &quot;וַיְהִי בָעֶרֶב... וַיִּקַּח אֶת לֵאָה בִתּוֹ וַיָּבֵא אֹתָהּ אֵלָיו וַיָּבֹא אֵלֶיהָ&quot;</p><p>בראשית כט24: &quot;וַיִּתֵּן לָבָן לָהּ אֶת זִלְפָּה שִׁפְחָתוֹ לְלֵאָה בִתּוֹ שִׁפְחָה&quot;</p><p>בראשית כט25: &quot;וַיְהִי בַבֹּקֶר... וְהִנֵּה הִוא לֵאָה וַיֹּאמֶר אֶל לָבָן מַה זֹּאת עָשִׂיתָ לִּי הֲלֹא בְרָחֵל עָבַדְתִּי עִמָּךְ וְלָמָּה רִמִּיתָנִי&quot;</p><p>וכדי להחיות זרע להוציא מהגבר בלילה יש לשתות היין [סגולה לחיי אישות]</p><p>בראשית יט34: &quot;וַיְהִי מִמָּחֳרָת וַתֹּאמֶר הַבְּכִירָה אֶל הַצְּעִירָה הֵן שָׁכַבְתִּי אֶמֶשׁ אֶת אָבִי נַשְׁקֶנּוּ יַיִן גַּם הַלַּיְלָה וּבֹאִי שִׁכְבִי עִמּוֹ וּנְחַיֶּה מֵאָבִינוּ זָרַע&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 15:33:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-05 15:33:56' 
+			WHERE messageid=12239;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>******* למה זה רומנטי להפגש עם האשה לאור נרות וכוס יין *******</p><p>כי עם האשה יש לשכב בלילה לאור נרות ככה שכב יעקב עם נשותיו בלילה</p><p>בראשית כט23: &quot;וַיְהִי בָעֶרֶב... וַיִּקַּח אֶת לֵאָה בִתּוֹ וַיָּבֵא אֹתָהּ אֵלָיו וַיָּבֹא אֵלֶיהָ&quot;</p><p>בראשית כט24: &quot;וַיִּתֵּן לָבָן לָהּ אֶת זִלְפָּה שִׁפְחָתוֹ לְלֵאָה בִתּוֹ שִׁפְחָה&quot;</p><p>בראשית כט25: &quot;וַיְהִי בַבֹּקֶר... וְהִנֵּה הִוא לֵאָה וַיֹּאמֶר אֶל לָבָן מַה זֹּאת עָשִׂיתָ לִּי הֲלֹא בְרָחֵל עָבַדְתִּי עִמָּךְ וְלָמָּה רִמִּיתָנִי&quot;</p><p>וכדי להחיות זרע להוציא מהגבר בלילה יש לשתות היין [סגולה למִצְוָת פרו ורבו]</p><p>בראשית יט34: &quot;וַיְהִי מִמָּחֳרָת וַתֹּאמֶר הַבְּכִירָה אֶל הַצְּעִירָה הֵן שָׁכַבְתִּי אֶמֶשׁ אֶת אָבִי נַשְׁקֶנּוּ יַיִן גַּם הַלַּיְלָה וּבֹאִי שִׁכְבִי עִמּוֹ וּנְחַיֶּה מֵאָבִינוּ זָרַע&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 15:36:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-05 15:36:19' 
+			WHERE messageid=12240;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3302_1.html',
+		'<p></p><p>------------ עדות נוספת למגילת אסתר נמצאת בספר עֶזְרָא הַכֹּהֵן הַסֹּפֵר ------------</p><p>עזרא ד6: &quot;וּבְמַלְכוּת אֲחַשְׁוֵרוֹשׁ בִּתְחִלַּת מַלְכוּתוֹ כָּתְבוּ שִׂטְנָה עַל יֹשְׁבֵי יְהוּדָה וִירוּשָׁלָים&quot;</p><p>כי גם היהודים יֹשְׁבֵי יְהוּדָה וִירוּשָׁלָים בעת ההיא נשלטו תחת האימפריה של מַלְכוּת אֲחַשְׁוֵרוֹשׁ</p><p> אסתר א1: &quot;וַיְהִי בִּימֵי אֲחַשְׁוֵרוֹשׁ הוּא אֲחַשְׁוֵרוֹשׁ הַמֹּלֵךְ מֵהֹדּוּ וְעַד כּוּשׁ שֶׁבַע וְעֶשְׂרִים וּמֵאָה מְדִינָה&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-05 17:31:33'
+		)
+		;
+
