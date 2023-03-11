@@ -9652,3 +9652,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-03-08 16:53:45' 
 			WHERE messageid=12249;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם&quot;</p><p>על כן... וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יהוה = כי  לִבּנו יחדיו</p><p>ויקרא יט18: &quot;לֹא תִקֹּם וְלֹא תִטֹּר אֶת בְּנֵי עַמֶּךָ וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יהוה\'&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-10 11:09:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>תהלים לג15: &quot;הַיֹּצֵר יַחַד לִבָּם הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם&quot;</p><p>על כן... וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יהוה = כי לִבּינו יחדיו</p><p>ויקרא יט18: &quot;לֹא תִקֹּם וְלֹא תִטֹּר אֶת בְּנֵי עַמֶּךָ וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יהוה\'&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-10 11:09:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-10 11:09:42' 
+			WHERE messageid=12251;
+
