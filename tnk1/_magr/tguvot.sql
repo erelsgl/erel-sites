@@ -9683,3 +9683,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-03-10 11:09:42' 
 			WHERE messageid=12251;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-11 16:29:23' 
+			WHERE messageid=12244;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>תחילת חודש האביב בלוח השמש מציין את מזל טלה החל מיום שיוויון האביב 19 למרס וסופו בתאריך 19 לאפריל</p><p>---- 19 למרס תחילת חודש האביב</p><p>---ש</p><p>---ב</p><p>---ע</p><p>---ת</p><p>---</p><p>--- י     = חג המצות כי חג הפסח צריך להיות בתוך חודש השעורה האביב</p><p>---מ</p><p>---י</p><p>---ם</p><p>------------ 19 לאפריל סוף חודש האביב</p><p>-------------------------------------------------------------------------------------------------------------</p><p>על פי התורה כל שבעת ימי חג המצות עליהן להיות בתוך חודש האביב בלוח השמש --- וזה אפשרי רק בלוח השמש </p><p>שמות לד18: &quot;אֶת חַג הַמַּצּוֹת תִּשְׁמֹר שִׁבְעַת יָמִים תֹּאכַל מַצּוֹת אֲשֶׁר צִוִּיתִךָ לְמוֹעֵד חֹדֶשׁ הָאָבִיב כִּי בְּחֹדֶשׁ הָאָבִיב יָצָאתָ מִמִּצְרָיִם&quot;</p><p>שמות כג15: &quot;אֶת חַג הַמַּצּוֹת תִּשְׁמֹר שִׁבְעַת יָמִים תֹּאכַל מַצּוֹת כַּאֲשֶׁר צִוִּיתִךָ לְמוֹעֵד חֹדֶשׁ הָאָבִיב כִּי בוֹ יָצָאתָ מִמִּצְרָיִם וְלֹא יֵרָאוּ פָנַי רֵיקָם&quot;</p><p>          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-11 16:32:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>בירח ניסן ניסה אלהים את האדם כאשר יצא הנחש ביום השמיני למילואים הוא [ג\' בניסן] השלישי לירחא ניסן - ביום שלפני ראש השנה בלוח היובלים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-11 17:22:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-11 17:22:41' 
+			WHERE messageid=12238;
+
