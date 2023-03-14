@@ -9776,3 +9776,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-11-06.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-03-13 11:34:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-13 11:34:57' 
+			WHERE messageid=12259;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ספר במדבר פרק יח כתוב:</p><p>(כז) וְנֶחְשַׁב לָכֶם תְּרוּמַתְכֶם כַּדָּגָן מִן הַגֹּרֶן וְכַמְלֵאָה מִן הַיָּקֶב:</p><p>ספר משלי פרק כא כתוב:</p><p>(יז) אִישׁ מַחְסוֹר אֹהֵב שִׂמְחָה אֹהֵב יַיִן וָשֶׁמֶן לֹא יַעֲשִׁיר:</p><p>וְכַמְלֵאָה מִן הַיָּקֶב = לאמור כי אִישׁ מַחְסוֹר אֹהֵב שִׂמְחָה וממלא נפשו מן היקב אשר ישמח לבב אנוש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-14 06:46:53'
+		)
+		;
+
