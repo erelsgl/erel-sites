@@ -10043,3 +10043,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>https://scontent.ftlv15-1.fna.fbcdn.net/v/t1.18169-9/22852092_102134847222609_6367558826499864816_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=09cbfe&amp;_nc_ohc=oLcwhAR73HwAX-cFnfD&amp;_nc_ht=scontent.ftlv15-1.fna&amp;oh=00_AfC8xeZt228FcGtrFj8PN8kZDHfNehyu4Qi1_jihpucy7Q&amp;oe=64400678</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-20 17:39:54'
+		)
+		;
+
