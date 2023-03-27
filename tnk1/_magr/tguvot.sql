@@ -10153,3 +10153,72 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a03_2.html',
+		'<p>דברי הימים ב לה4: &quot;והכונו[וְהָכִינוּ] לְבֵית אֲבוֹתֵיכֶם כְּמַחְלְקוֹתֵיכֶם בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ&quot;</p><p> זאת תמצית כל התורה בספר משלי שלמה וספר תהילות דויד = בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-26 16:17:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a03_2.html',
+		'<p>דברי הימים ב לה4: &quot;והכונו[וְהָכִינוּ] לְבֵית אֲבוֹתֵיכֶם כְּמַחְלְקוֹתֵיכֶם בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ&quot;</p><p>זאת תמצית כל התורה בספר משלי שְׁלֹמֹה וספר תהילות  דָּוִיד = בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-26 16:18:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-26 16:18:53' 
+			WHERE messageid=12284;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a03_2.html',
+		'<p>דברי הימים ב לה4: &quot;והכונו[וְהָכִינוּ] לְבֵית אֲבוֹתֵיכֶם כְּמַחְלְקוֹתֵיכֶם בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ&quot;</p><p>זאת תמצית כל התורה בסֵפֶר מִשְׁלֵי שְׁלֹמֹה וסֵפֶר תהילות דָּוִיד = בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-26 16:22:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-26 16:22:53' 
+			WHERE messageid=12285;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a03_2.html',
+		'<p>דברי הימים ב לה4: &quot;והכונו[וְהָכִינוּ] לְבֵית אֲבוֹתֵיכֶם כְּמַחְלְקוֹתֵיכֶם בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ&quot;</p><p>זאת תמצית כל התורה בסֵפֶר מִשְׁלֵי שְׁלֹמֹה וסֵפֶר תהילות דָּוִיד = בִּכְתָב דָּוִיד מֶלֶךְ יִשְׂרָאֵל וּבְמִכְתַּב שְׁלֹמֹה בְנוֹ</p><p>וככה היו מפללים בבית המקדש הראשון והאחרון ימי בית שני בטרם היה בית-כנסת שנקרא בית מקדש מעט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-26 16:35:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-03-26 16:36:00' 
+			WHERE messageid=12286;
+
