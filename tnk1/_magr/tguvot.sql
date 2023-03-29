@@ -10222,3 +10222,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-03-26 16:36:00' 
 			WHERE messageid=12286;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/hmrd.html',
+		'<p></p>',
+		'109651743625234615340',
+		'Asher Shafrir',
+		'2023-03-28 14:43:42'
+		)
+		;
+
