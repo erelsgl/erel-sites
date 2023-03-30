@@ -10234,3 +10234,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>תהלים קלד1: &quot;שִׁיר הַמַּעֲלוֹת הִנֵּה בָּרֲכוּ אֶת יהוה כָּל עַבְדֵי יהוה הָעֹמְדִים בְּבֵית יהוה בַּלֵּילוֹת&quot;</p><p>ואתה עבד-יהוה אם לא עמדת בלילה לברך את יהוה דע כי החטאת את המטרה ופיספסת  </p><p>כי על עבד-יהוה לעמוד בלילה לפרוש כפיים ולברך אֶת יהוה ולא די בקריאת שמע על המיטה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-03-30 05:56:10'
+		)
+		;
+

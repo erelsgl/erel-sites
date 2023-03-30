@@ -15860,3 +15860,57 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/mlkimb/hmrd.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1533.html',
+				NULL,
+				'2023-03-29 08:03:11',
+				'2023-03-29 08:03:11',
+				'פרשת צו ושבת הגדול- מה המסר?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-03-29 08:03:11'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1534.html',
+				NULL,
+				'2023-03-29 08:08:47',
+				'2023-03-29 08:08:47',
+				'מלאכי ונבואתו/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-03-29 08:08:47'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-03-30 05:56:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0533_4.html'
+		;
+
