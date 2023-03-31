@@ -10246,3 +10246,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-yldim.html',
+		'<p></p>',
+		'107373388365959476629',
+		'רחל חג׳ג׳',
+		'2023-03-30 13:48:44'
+		)
+		;
+
