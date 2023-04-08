@@ -10356,3 +10356,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-04-01 18:33:37' 
 			WHERE messageid=12296;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-04-07 09:32:03' 
+			WHERE messageid=12292;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-29-1112.html',
+		'<p>מאמר מדהים. </p><p>רלוונטי אלי אישית ורלוונטי למציאות בימים אלו ממש</p>',
+		'107367172308355311505',
+		'אדריכל יואל מזרחי',
+		'2023-04-07 22:37:21'
+		)
+		;
+
