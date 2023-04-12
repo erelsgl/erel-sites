@@ -2549,3 +2549,102 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/msr/knesset/joftim.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-02-02.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-04-11 10:56:41'
+		WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-02-02.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-04-11 10:56:47'
+		WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-04-11 10:56:57'
+			WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-04-11 10:56:58'
+			WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-02-02.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-04-11 13:31:02'
+		WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-02-02.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-04-11 13:34:31'
+		WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-04-11 13:34:33'
+			WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/yjayhu/yj-02-02.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-04-12 06:33:20'
+		WHERE parent='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+

@@ -16144,3 +16144,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-11 10:56:41'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-11 10:56:47'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-11 13:31:02'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-11 13:34:31'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-12 06:33:20'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-02-02.html'
+		;
+
