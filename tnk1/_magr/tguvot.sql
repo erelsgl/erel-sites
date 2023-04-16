@@ -10580,3 +10580,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-01-12.html',
+		'<p>שלמה בן דוד בהיותו מלך כותב ספר לעתיד הדורות הבאים על כן כתב קהלת</p><p>קהלת א12: &quot;אֲנִי קֹהֶלֶת הָיִיתִי מֶלֶךְ עַל יִשְׂרָאֵל בִּירוּשָׁלָים&quot; כי גם את המלכות עַל יִשְׂרָאֵל בִּירוּשָׁלָים גם את זאת ידעתי והנה אודיעכם</p><p>שהכל הבל הבלים מלבד יראת אלהים : &quot;סוֹף דָּבָר הַכֹּל נִשְׁמָע אֶת הָאֱלֹהִים יְרָא וְאֶת מצותיו שְׁמוֹר כִּי זֶה כָּל הָאָדָם&quot; [קהלת יב13]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-04-15 16:36:41'
+		)
+		;
+

@@ -16230,3 +16230,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-04-14 09:25:12'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-15 16:36:41'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/qh-01-12.html'
+		;
+
