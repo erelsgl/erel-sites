@@ -10599,3 +10599,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-04-17 07:30:51' 
 			WHERE messageid=10983;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mi_ele.html',
+		'<p>מעניין, וההשוואה ליעקב מעניינת עוד יותר</p>',
+		'106049215735202043202',
+		'פנחס כהן',
+		'2023-04-17 15:41:18'
+		)
+		;
+
