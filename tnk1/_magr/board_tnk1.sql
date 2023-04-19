@@ -16262,3 +16262,26 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qjrim2/mi_ele.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/swod_s_blade_and_flaming_fire.docx',
+				NULL,
+				'2023-04-19 01:14:13',
+				'2023-04-19 01:14:13',
+				'Swod\'s blade and Flaming fire',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-04-19 01:14:13'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
