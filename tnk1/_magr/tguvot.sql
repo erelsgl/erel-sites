@@ -10685,3 +10685,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim11.html',
+		'<p>הבעיה עם התאריכי הארכיולוגיה נפתרת בדרך פשוטה כשאתה מגלה שהמדעים משתמשים בעריכת מספרים מבוססת על \'\'עתיקות הקרקע\'\' וזה כמעט דבר ילדים, כי עתיקות הקרקע יכולה להיות מלוחלת לידי מטאואיטים וכוכבי שביט שמזמן נפלו על הארץ... זה הכל</p>',
+		'107777802081231736022',
+		'Eric de Jesús Rodríguez Mendoza',
+		'2023-04-22 13:38:52'
+		)
+		;
+
