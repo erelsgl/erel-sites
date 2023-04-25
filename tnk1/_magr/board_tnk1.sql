@@ -16379,3 +16379,26 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/brejit/tarikim11.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/mont_ebal_altar.pdf',
+				NULL,
+				'2023-04-24 16:56:21',
+				'2023-04-24 16:56:21',
+				'Mont Ebal altar',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-04-24 16:56:21'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
