@@ -10697,3 +10697,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>על חוק הגמחים, ונפילת הגמח שלי:</p><p>https://www.calcalist.co.il/local/articles/0,7340,L-3394432,00.html</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-04-26 15:31:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-04-27 05:57:30' 
+			WHERE messageid=12288;
+

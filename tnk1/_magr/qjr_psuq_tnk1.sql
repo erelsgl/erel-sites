@@ -342,3 +342,51 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לג14' AND `sfr` = 'שמת' AND `prq0` = 'לג' AND `psuq0` = 23 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:36:43' WHERE `bn` = 'שד\"ל דברים טז' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('ביאור:דברים טז18', 'דבר', 'טז', 18, 18, 'עם ישראל! תן (מנה) לך שופטים ושוטרים בכל שערי עיר ועיר אשר ה\' אלהיך נותן לך , ובכל אחד משבטיך ; ובחר בשופטים אשר ישפטו את העם משפט צדק . ', 'תרגום', 10, '2023-04-26 15:36:44');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:48' WHERE `bn` = 'חג השבועות - ייחודו ובמה קשור לפרשת נשא?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:48' WHERE `bn` = 'שמחה כאינדיקציה למתת אלהים היא יראת אלהים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:48' WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שופטים טז18' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 18 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:48' WHERE `bn` = 'על סדר היום - נפילת אפגניסטן' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'חג השבועות - ייחודו ובמה קשור לפרשת נשא?' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'שמחה כאינדיקציה למתת אלהים היא יראת אלהים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'על סדר היום - נפילת אפגניסטן' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 20 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:דברים טז21', `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'ביאור:שופטים טז21' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 21 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
