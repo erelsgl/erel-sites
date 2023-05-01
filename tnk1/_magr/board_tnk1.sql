@@ -16479,3 +16479,66 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-04-26 20:38:30'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-30 14:37:51'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-16-18.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-30 17:21:03'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-16-18.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-30 17:33:12'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-16-18.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-04-30 18:29:13'
+		WHERE ktovt_bn='tnk1/jdl/hqdma.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/leech_or_distress.pdf',
+				NULL,
+				'2023-04-30 20:44:56',
+				'2023-04-30 20:44:56',
+				'Leech or Distress',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-04-30 20:44:56'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-05-01 05:34:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
+		;
+
