@@ -16542,3 +16542,34 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t25b06_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/cdqprti.html',
+				'tnk1/tora/dvrim/dm-08-05.html',
+				NULL,
+				'2023-05-03 03:27:13',
+				'2023-05-03 03:27:13',
+				'המצוה לדעת שכל מה שה\' עושה הוא עושה מתוך אהבה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-05-03 03:27:13'
+			WHERE ktovt_bn='tnk1/msr/cdqprti.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-05-03 03:59:23'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-08-05.html'
+		;
+

@@ -10790,3 +10790,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-08-05.html',
+		'<p>תהלים קיח18: &quot;יַסֹּר יִסְּרַנִּי יָּהּ וְלַמָּוֶת לֹא נְתָנָנִי&quot;</p><p>ירמיהו י24: &quot;יַסְּרֵנִי יהוה אַךְ בְּמִשְׁפָּט אַל בְּאַפְּךָ פֶּן תַּמְעִטֵנִי&quot;</p><p>תהלים צד12: &quot;אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ&quot;</p><p>-</p><p>דברים ח5: &quot;וְיָדַעְתָּ עִם לְבָבֶךָ כִּי כַּאֲשֶׁר יְיַסֵּר אִישׁ אֶת בְּנוֹ יהוה אֱלֹהֶיךָ מְיַסְּרֶךָּ&quot;</p><p>משלי ג12: &quot;כִּי אֶת אֲשֶׁר יֶאֱהַב יהוה יוֹכִיחַ וּכְאָב אֶת בֵּן יִרְצֶה&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-03 03:41:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-08-05.html',
+		'<p>תהלים קיח18: &quot;יַסֹּר יִסְּרַנִּי יָּהּ וְלַמָּוֶת לֹא נְתָנָנִי&quot;</p><p>ירמיהו י24: &quot;יַסְּרֵנִי יהוה אַךְ בְּמִשְׁפָּט אַל בְּאַפְּךָ פֶּן תַּמְעִטֵנִי&quot;</p><p>תהלים צד12: &quot;אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ&quot;</p><p>-</p><p>דברים ח5: &quot;וְיָדַעְתָּ עִם לְבָבֶךָ כִּי כַּאֲשֶׁר יְיַסֵּר אִישׁ אֶת בְּנוֹ יהוה אֱלֹהֶיךָ מְיַסְּרֶךָּ&quot;</p><p>משלי ג12: &quot;כִּי אֶת אֲשֶׁר יֶאֱהַב יהוה יוֹכִיחַ וּכְאָב אֶת בֵּן יִרְצֶה&quot;</p><p>ירמיהו כט11: &quot;כִּי אָנֹכִי יָדַעְתִּי אֶת הַמַּחֲשָׁבֹת אֲשֶׁר אָנֹכִי חֹשֵׁב עֲלֵיכֶם נְאֻם יהוה מַחְשְׁבוֹת שָׁלוֹם וְלֹא לְרָעָה לָתֵת לָכֶם אַחֲרִית וְתִקְוָה&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-03 03:59:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-05-03 03:59:25' 
+			WHERE messageid=12326;
+
