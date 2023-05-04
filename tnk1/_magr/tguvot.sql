@@ -10821,3 +10821,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-05-03 03:59:25' 
 			WHERE messageid=12326;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-29.html',
+		'<p>אין כמו משפטי חזל, אני לומד הרבה וזה מחזק אותי ב &lt;a href = &quot;https://bet365-il.net/&quot;&gt;בט 365&lt;/a&gt; ימים בשנה, ממש חיזוק אמיתי</p>',
+		'104944118834673030908',
+		'roy bendavid',
+		'2023-05-03 18:34:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-05-03 18:34:56' 
+			WHERE messageid=12328;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-29.html',
+		'<p>אין כמו משפטי חזל, אני לומד הרבה וזה מחזק אותי ב [בט 365](https://bet365-il.net/) ימים בשנה, ממש חיזוק אמיתי</p><p>	</p><p></p>',
+		'104944118834673030908',
+		'roy bendavid',
+		'2023-05-03 18:35:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-05-03 18:35:41' 
+			WHERE messageid=12329;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-29.html',
+		'<p>אין כמו משפטי חזל, אני לומד הרבה וזה מחזק אותי ב [https://bet365-il.net/](בט 365) ימים בשנה, ממש חיזוק אמיתי</p>',
+		'104944118834673030908',
+		'roy bendavid',
+		'2023-05-03 18:36:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-05-03 18:36:16' 
+			WHERE messageid=12330;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-29.html',
+		'<p>אין כמו משפטי חזל, אני לומד הרבה וזה מחזק אותי כל ימי השנה, ממש חיזוק אמיתי</p><p>אני אוהב לקרוא ב https://bet365-il.net/ גם זה נותן לי כח , ישר כח</p>',
+		'104944118834673030908',
+		'roy bendavid',
+		'2023-05-03 18:36:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-05-04 01:18:00' 
+			WHERE messageid=12331;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-21-29.html',
+		'<p></p><p>ציטוט של אראל: האם כדאי להגיד לזולת את כל מה שאנחנו חושבים עליו &quot;בפרצוף&quot;? על-פי ספר משלי, כנראה שלא [סוף ציטוט]</p><p>ויקרא יט17: &quot;לֹא תִשְׂנָא אֶת אָחִיךָ בִּלְבָבֶךָ הוֹכֵחַ תּוֹכִיחַ אֶת עֲמִיתֶךָ וְלֹא תִשָּׂא עָלָיו חֵטְא&quot; לאמור כי כן צריך להגיד לזולת את שאנחנו חושבים</p><p>אבל צריך לעשות זאת בשום שכל ולא בתעוזה של רשע בפנים ככסיל יוציא כל רוחו אלא לחכות וְחָכָם בְּאָחוֹר יְשַׁבְּחֶנָּה </p><p>משלי כט11: &quot;כָּל רוּחוֹ יוֹצִיא כְסִיל וְחָכָם בְּאָחוֹר יְשַׁבְּחֶנָּה&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-04 05:16:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_4.html',
+		'<p>אסור לתרום לרבנים כי אינם כהני-יהוה</p><p>הרבנים והמקובלים מציגים את עצמם כמו אלהים כדי לגזול תרומות</p><p>וזה עובד במיוחד על הנשים המזרחיות הקלאסיות המאמינות בקמעות ומקובלים בבא-בובה</p><p>הרבנים עזי הפנים לא מתביישים להחתים אותך על הוראת קבע ובתמורה שולחים לך &quot;תמונה של רבי&quot; שזה ממש פסל ומסכה</p><p>הנשים המזרחיות [בעיקר] חושבות שהרבנים זה יהוה אך מתרומה לרבנים לא יוצא דבר טוב</p><p>שופטים יז3: </p><p>&quot;וַיָּשֶׁב אֶת אֶלֶף וּמֵאָה הַכֶּסֶף לְאִמּוֹ וַתֹּאמֶר אִמּוֹ הַקְדֵּשׁ הִקְדַּשְׁתִּי אֶת הַכֶּסֶף ליהוה מִיָּדִי לִבְנִי לַעֲשׂוֹת פֶּסֶל וּמַסֵּכָה וְעַתָּה אֲשִׁיבֶנּוּ לָךְ&quot;</p><p>שופטים יז4: &quot;וַיָּשֶׁב אֶת הַכֶּסֶף לְאִמּוֹ וַתִּקַּח אִמּוֹ מָאתַיִם כֶּסֶף וַתִּתְּנֵהוּ לַצּוֹרֵף וַיַּעֲשֵׂהוּ פֶּסֶל וּמַסֵּכָה וַיְהִי בְּבֵית מִיכָיְהוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-04 05:56:16'
+		)
+		;
+
