@@ -10993,3 +10993,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/tora_toknot.html',
+		'<p></p>',
+		'102534669761169530481',
+		'מנחם מנדל סנדרוי',
+		'2023-05-17 20:03:00'
+		)
+		;
+
