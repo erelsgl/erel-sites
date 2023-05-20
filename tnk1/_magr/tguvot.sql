@@ -11005,3 +11005,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>תהלים קו13: &quot;מִהֲרוּ שָׁכְחוּ מַעֲשָׂיו לֹא חִכּוּ לַעֲצָתוֹ&quot;</p><p>תהלים קטז11: &quot;אֲנִי אָמַרְתִּי בְחָפְזִי כָּל הָאָדָם כֹּזֵב&quot;</p><p>תהלים לא23: &quot;וַאֲנִי אָמַרְתִּי בְחָפְזִי נִגְרַזְתִּי מִנֶּגֶד עֵינֶיךָ אָכֵן שָׁמַעְתָּ קוֹל תַּחֲנוּנַי בְּשַׁוְּעִי אֵלֶיךָ&quot;</p><p>לעתים נדמה לך שאלהים שכח אותך ולכן אתה שוכח אותו ולא מחכה לעצתו</p><p>לא צריך להחפז עליך להאמין שאלהים אָכֵן שומע בקול תחנוניך בשוועך אליו</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-19 13:11:33'
+		)
+		;
+
