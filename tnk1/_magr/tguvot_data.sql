@@ -3186,3 +3186,79 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t0225_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-05-21 11:16:43'
+			WHERE parent='tnk1/messages/prqim_t26a4_2.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t09a03_2.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-05-21 11:37:08'
+		WHERE parent='tnk1/messages/prqim_t09a03_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/daian2_0.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-05-21 11:40:07'
+		WHERE parent='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-05-21 14:47:12'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0533_4.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-05-21 15:16:22'
+		WHERE parent='tnk1/messages/prqim_t0533_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-05-21 15:16:24'
+			WHERE parent='tnk1/messages/prqim_t0533_4.html'
+			;
+
