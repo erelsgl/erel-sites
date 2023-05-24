@@ -11091,3 +11091,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-05-21 15:16:24' 
 			WHERE messageid=12345;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/mfqd1.html',
+		'<p>משהו מוזר קורה בספירות.</p><p>   רזולוציה הספירה של כל &quot;משפחה&quot; הוא מאה 100 מלבד גד שבו הרזולוציה חמישים 50.</p><p>באופן סטטיסטי קשה לקבל את פריסת הרזולוציה על פני כל כך הרבה משפחות, וזה אינו קשור לגודל כל משפחה.</p><p>---&gt;איך מסבירים את זה?</p>',
+		'101778769606711259415',
+		'Dov Nardi',
+		'2023-05-23 11:42:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>סוד עבדי-אלהים לחיי נצח לשאת ידיהם קודש ולברך את יהוה בלילה בחושך</p><p>כל החכמה זה לברך את יהוה בלילה גם כשחושך לך כִּי אֵשֵׁב בַּחֹשֶׁךְ יהוה אוֹר לִי </p><p>ומן המוות בחירתך לחיים על כן אלהים חי לעולם גם כאשר המוות נגדו</p><p>תהלים קלד1: &quot;שִׁיר הַמַּעֲלוֹת הִנֵּה בָּרֲכוּ אֶת יהוה כָּל עַבְדֵי יהוה הָעֹמְדִים בְּבֵית יהוה בַּלֵּילוֹת&quot;</p><p>תהלים קלד2: &quot;שְׂאוּ יְדֵכֶם קֹדֶשׁ וּבָרֲכוּ אֶת יהוה\'&quot;</p><p>דברים לב40: &quot;כִּי אֶשָּׂא אֶל שָׁמַיִם יָדִי וְאָמַרְתִּי חַי אָנֹכִי לְעֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-05-23 11:51:59'
+		)
+		;
+
