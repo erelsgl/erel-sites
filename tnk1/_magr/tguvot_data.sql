@@ -3300,3 +3300,18 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tryg/mamr/tora_toknot.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvir/jmuelb/mrd_avjlom.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-05-28 15:03:16'
+		WHERE parent='tnk1/nvir/jmuelb/mrd_avjlom.html'
+		;
+

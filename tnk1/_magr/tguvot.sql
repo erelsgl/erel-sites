@@ -11122,3 +11122,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-05-27 21:20:16' 
 			WHERE messageid=12340;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/mrd_avjlom.html',
+		'<p>יש לי קשיים בהבנה אפשר לכתוב תשובות יותר מובנות קצרות וקולעות?</p><p>בתודה, ברכה.</p>',
+		'113350957561009144739',
+		'תפארת גויטיין',
+		'2023-05-28 15:03:16'
+		)
+		;
+
