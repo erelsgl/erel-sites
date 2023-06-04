@@ -94,3 +94,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/loxmim.html',
+		'<p>חגי לב</p><p>נא הבן כי רוח יהוה היא הנבואה</p><p>שים לב לפסוק הזה</p><p>במדבר יא29: &quot;וַיֹּאמֶר לוֹ מֹשֶׁה הַמְקַנֵּא אַתָּה לִי וּמִי יִתֵּן כָּל עַם יהוה נְבִיאִים כִּי יִתֵּן יהוה אֶת רוּחוֹ עֲלֵיהֶם&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-06-03 18:20:50'
+		)
+		;
+

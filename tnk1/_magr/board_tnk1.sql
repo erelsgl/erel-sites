@@ -110,3 +110,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-06-02 14:28:04'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-06-03 18:20:50'
+		WHERE ktovt_bn='tnk1/nvir/joftim/loxmim.html'
+		;
+
