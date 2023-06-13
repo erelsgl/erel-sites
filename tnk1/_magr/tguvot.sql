@@ -154,3 +154,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_mda_50.html',
+		'<p></p><p>יצחק פרוינד טיפוס גלותי נטע זר בישראל ונטע זר במחלקה לפיזיקה הוא מעולם לא למד פיזיקה.</p><p>יצחק פרוינד קשיש שעבר את גיל 80 וסתם תופס משרד באוניברסיטה כי זה יותר זול מבית אבות.</p><p></p>',
+		'116400515721190397250',
+		'שלום לך',
+		'2023-06-12 08:24:47'
+		)
+		;
+
