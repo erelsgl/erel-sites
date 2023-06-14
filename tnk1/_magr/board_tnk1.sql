@@ -204,3 +204,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_mda_50.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-06-13 16:06:01'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-18-13.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-06-14 07:01:27'
+		WHERE ktovt_bn='tnk1/nvir/joftim/loxmim.html'
+		;
+

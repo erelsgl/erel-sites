@@ -166,3 +166,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-18-13.html',
+		'<p>מעולה!</p>',
+		'104348981061199061662',
+		'el net',
+		'2023-06-13 16:06:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/loxmim.html',
+		'<p>בדמויות שמקורם בבית דמות זה נקבה. צריך לזכור שספר שופטים הוא אוסף אגדות יווניות  שתורגמו  לעברית והותאמו בערך לארץ ישראל</p>',
+		'104436550479067279859',
+		'heinrich roth',
+		'2023-06-14 07:01:27'
+		)
+		;
+
