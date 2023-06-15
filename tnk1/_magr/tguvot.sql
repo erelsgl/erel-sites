@@ -190,3 +190,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_840.html',
+		'<p>יצירת אומנות</p>',
+		'118031350179147786786',
+		'Israel myzlik',
+		'2023-06-14 23:17:20'
+		)
+		;
+
