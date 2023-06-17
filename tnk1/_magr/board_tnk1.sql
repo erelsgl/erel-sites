@@ -274,3 +274,34 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/forums_840.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-06-16 09:03:10'
+		WHERE ktovt_bn='tnk1/ktuv/mj/31-25.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/once_and_again.pdf',
+				NULL,
+				'2023-06-16 22:27:10',
+				'2023-06-16 22:27:10',
+				'Once and again',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-06-16 22:27:10'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
