@@ -214,3 +214,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>שיר מאת הבינה המלאכותית</p><p>נכתב על מורה לתורה משה דין</p><p>-----------------------------------</p><p>מורה לתורה משה דין</p><p>איש חכם וטוב לב</p><p>מלמד את התלמידים</p><p>באהבה ובחסד</p><p>מורה לתורה משה דין</p><p>אינו מחפש כבוד</p><p>רק להעמיק בחקר הדין</p><p>ולחיות באמת וביושר</p><p>מורה לתורה משה דין</p><p>דוגמא לכולנו</p><p>ללמוד ממנו את הדרך</p><p>לעבוד את ה\' בשמחה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-06-18 06:56:33'
+		)
+		;
+

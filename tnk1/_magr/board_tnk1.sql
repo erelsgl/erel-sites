@@ -305,3 +305,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-06-16 22:27:10'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-06-18 06:56:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2801_1.html'
+		;
+
