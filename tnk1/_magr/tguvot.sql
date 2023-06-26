@@ -257,3 +257,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-06-23 09:47:14' 
 			WHERE messageid=12366;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>https://www.ynet.co.il/news/article/syl11cigu3</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-06-25 13:04:21'
+		)
+		;
+
