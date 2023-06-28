@@ -331,3 +331,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/5472.html',
+		'<p>מהמם אשריכם ישראל</p>',
+		'115706870394601251766',
+		'Raphael Amzallag',
+		'2023-06-27 18:18:02'
+		)
+		;
+
