@@ -469,3 +469,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-06-28 20:18:39'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-03 10:27:48'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-27-18.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-03 10:28:23'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-27-18.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-03 13:39:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
