@@ -379,3 +379,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p> </p><p>חטא העגל היה ביום ששי בארבעה עשר לחודש הרבעי בלוח היובלים</p><p>משה שבר את לוחות הברית בליל ירח מלא ולא י&quot;ז בתמוז של הרבנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-07 15:09:56'
+		)
+		;
+
