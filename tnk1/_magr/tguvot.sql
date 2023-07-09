@@ -391,3 +391,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p> לאחר שהאדם אכל מעץ הדעת טוב ורע</p><p>כל משאת לבו של המשיח לא לדעת רע</p><p>תהלים קא4: &quot;לֵבָב עִקֵּשׁ יָסוּר מִמֶּנִּי רָע לֹא אֵדָע&quot;</p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-08 18:41:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>מאז שהאדם אכל מעץ הדעת טוב ורע</p><p>המלחמה של המשיח זה לא לדעת רע</p><p>תהלים קא4: &quot;לֵבָב עִקֵּשׁ יָסוּר מִמֶּנִּי רָע לֹא אֵדָע&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-09 04:35:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-09 04:35:06' 
+			WHERE messageid=12378;
+
