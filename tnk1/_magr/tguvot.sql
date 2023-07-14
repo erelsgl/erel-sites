@@ -422,3 +422,39 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-07-09 04:35:06' 
 			WHERE messageid=12378;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>דברים ו4: &quot;שְׁמַע יִשְׂרָאֵל יהוה אֱלֹהֵינוּ יהוה אֶחָד&quot;</p><p>בראשית א9: &quot;וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל מָקוֹם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי כֵן&quot;</p><p>מקום אלהים מקום הקודש מקום הים --- מָקוֹם אֶחָד ---  יהוה אֱלֹהֵינוּ יהוה אֶחָד</p><p>על כן .......</p><p>תהלים כט10: &quot;יהוה לַמַּבּוּל יָשָׁב וַיֵּשֶׁב יהוה מֶלֶךְ לְעוֹלָם&quot;</p><p>----------------------------------------</p><p>שָׁמָיִם = שָׁמָ-יִם = שָׁם-יִם [שם-מים]</p><p>כי............שם-אהבה = שָׁם-יִם [בַּיָּם דַּרְכֶּךָ] = שם בַּקֹּדֶשׁ [דַּרְכֶּךָ]</p><p>******* בַּשָּׁמַיִם = שם בַּקֹּדֶשׁ = שם-ים = שם-אהבה *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-13 11:26:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0406_2.html',
+		'<p>בהמשך לתגובתי מתאריך 2023-02-27 בעניין בחירת שמות בהתאם למצב הדור</p><p>דברי הימים א ז23: &quot;וַיָּבֹא אֶל אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד בֵּן וַיִּקְרָא אֶת שְׁמוֹ בְּרִיעָה כִּי בְרָעָה הָיְתָה בְּבֵיתוֹ&quot;</p><p>כעת רעה בישראל ויש לקרוא שמות בהתאם אלא אם יחול מפנה שינוי לטובה כאשר בימי נח </p><p>בראשית ה29: &quot;וַיִּקְרָא אֶת שְׁמוֹ נֹחַ לֵאמֹר זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ מִן הָאֲדָמָה אֲשֶׁר אֵרְרָהּ יהוה\'&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-14 04:39:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/msr_index_4.html',
+		'<p>תודה.</p><p></p>',
+		'109906866884352746954',
+		'yael hayon',
+		'2023-07-14 05:40:01'
+		)
+		;
+
