@@ -656,3 +656,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/msr_index_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-14 13:20:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+

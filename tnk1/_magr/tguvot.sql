@@ -458,3 +458,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>דברים ו4: &quot;שְׁמַע יִשְׂרָאֵל יהוה אֱלֹהֵינוּ יהוה אֶחָד&quot;</p><p>בראשית א9: &quot;וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל מָקוֹם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי כֵן&quot;</p><p> יהוה אֱלֹהֵינוּ יהוה אֶחָד --- מָקוֹם אֶחָד ---מקום אלהים מקום הקודש מקום הים ומקום שם-ים = שמים   </p><p>על כן .......</p><p>תהלים כט10: &quot;יהוה לַמַּבּוּל יָשָׁב וַיֵּשֶׁב יהוה מֶלֶךְ לְעוֹלָם&quot;</p><p>----------------------------------------</p><p>שָׁמָיִם = שָׁמָ-יִם = שָׁם-יִם [שם-מים]</p><p>כי............שם-אהבה = שָׁם-יִם [בַּיָּם דַּרְכֶּךָ] = שם בַּקֹּדֶשׁ [דַּרְכֶּךָ]</p><p>******* בַּשָּׁמַיִם = שם בַּקֹּדֶשׁ = שם-ים = שם-אהבה *******</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-14 13:20:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-14 13:20:39' 
+			WHERE messageid=12380;
+
