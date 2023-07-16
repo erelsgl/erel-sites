@@ -477,3 +477,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-07-14 13:20:39' 
 			WHERE messageid=12380;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/elija.html',
+		'<p>אולי זה לא כזה מיותר, כמו בסיפור הקקיון של יונה. ה חס עליהם גם אם זה לאותה שעה בלבד</p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2023-07-15 21:56:46'
+		)
+		;
+
