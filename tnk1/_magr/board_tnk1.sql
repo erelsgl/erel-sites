@@ -672,3 +672,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/mlkimb/elija.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-18 12:02:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09a09_0.html'
+		;
+
