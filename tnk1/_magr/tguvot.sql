@@ -520,3 +520,31 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-07-20 02:37:53' 
 			WHERE messageid=12386;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-21 09:34:43' 
+			WHERE messageid=10302;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-21 09:34:55' 
+			WHERE messageid=10305;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-21 09:35:04' 
+			WHERE messageid=10311;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-21 09:35:14' 
+			WHERE messageid=10312;
+
