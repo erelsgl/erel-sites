@@ -579,3 +579,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-07-23 17:21:08' 
 			WHERE messageid=12387;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>אחי מה המצב מה אתך בימים האלה של תשעה באב</p><p>וואלה כימניים אנחנו שמחים על חוק צמצום עילת הסבירות</p><p>אבל מה עם אחינו השמאלנים מתי הם יחזרו בתשובה</p><p>אה דווקא שמעתי שהשנה הם יתאבלו על חורבן הבית</p><p>חחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-24 15:09:15'
+		)
+		;
+
