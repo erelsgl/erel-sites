@@ -774,3 +774,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-25 12:53:22'
+		WHERE ktovt_bn='tnk1/messages/ljon_sikumim_index_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-25 19:34:59'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-02-02.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-07-25 20:12:15'
+		WHERE ktovt_bn='tnk1/nvia/yrmyhu/yr-02-02.html'
+		;
+
