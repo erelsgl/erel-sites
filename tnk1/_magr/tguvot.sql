@@ -751,3 +751,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-07-27 08:40:02' 
 			WHERE messageid=12399;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>שמות יב9: &quot;אַל תֹּאכְלוּ מִמֶּנּוּ נָא וּבָשֵׁל מְבֻשָּׁל בַּמָּיִם כִּי אִם צְלִי אֵשׁ רֹאשׁוֹ עַל כְּרָעָיו וְעַל קִרְבּוֹ&quot;</p><p>דברי הימים ב לה13: &quot;וַיְבַשְּׁלוּ הַפֶּסַח בָּאֵשׁ כַּמִּשְׁפָּט וְהַקֳּדָשִׁים בִּשְּׁלוּ בַּסִּירוֹת וּבַדְּוָדִים וּבַצֵּלָחוֹת וַיָּרִיצוּ לְכָל בְּנֵי הָעָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-30 03:38:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>שמות יב9: &quot;אַל תֹּאכְלוּ מִמֶּנּוּ נָא וּבָשֵׁל מְבֻשָּׁל בַּמָּיִם כִּי אִם צְלִי אֵשׁ....... רֹאשׁוֹ עַל כְּרָעָיו וְעַל קִרְבּוֹ&quot;</p><p>דברי הימים ב לה13: &quot;וַיְבַשְּׁלוּ הַפֶּסַח בָּאֵשׁ כַּמִּשְׁפָּט....... וְהַקֳּדָשִׁים בִּשְּׁלוּ בַּסִּירוֹת וּבַדְּוָדִים וּבַצֵּלָחוֹת וַיָּרִיצוּ לְכָל בְּנֵי הָעָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-07-30 04:46:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-07-30 04:46:46' 
+			WHERE messageid=12401;
+
