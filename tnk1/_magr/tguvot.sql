@@ -794,3 +794,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>איוב יב17: &quot;מוֹלִיךְ יוֹעֲצִים שׁוֹלָל וְשֹׁפְטִים יְהוֹלֵל&quot;</p><p>איוב יב19: &quot;מוֹלִיךְ כֹּהֲנִים שׁוֹלָל וְאֵתָנִים יְסַלֵּף&quot;</p><p>-</p><p>כֹּהֲנִים = יוֹעֲצִים</p><p>וְשֹׁפְטִים = וְאֵתָנִים = [וְאֵתָנִים הוּא הַחֹדֶשׁ הַשְּׁבִיעִי]</p><p>מלכים א ח2: &quot;וַיִּקָּהֲלוּ אֶל הַמֶּלֶךְ שְׁלֹמֹה כָּל אִישׁ יִשְׂרָאֵל בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי&quot;</p><p>על כן חודש המשפט בְּיֶרַח הָאֵתָנִים בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי</p><p>ואכן נכון כי חַג הַסֻּכּוֹת ראש השנה הוא יום המשפט יום הדין</p><p>-------</p><p>וכנראה שהתנאים [בחילופי אותיות אתנים] היו שופטים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-08-01 11:54:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-08-01 11:54:34' 
+			WHERE messageid=12403;
+
