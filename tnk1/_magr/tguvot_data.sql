@@ -994,3 +994,11 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t0101_23.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-08-04 13:42:47'
+			WHERE parent='tnk1/messages/prqim_t1402_2.html'
+			;
+
