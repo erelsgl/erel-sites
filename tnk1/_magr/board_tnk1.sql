@@ -1040,3 +1040,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-08-10 16:51:28'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-13 07:44:27'
+		WHERE ktovt_bn='tnk1/tora/dvrim/bq.html'
+		;
+

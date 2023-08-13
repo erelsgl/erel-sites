@@ -832,3 +832,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/bq.html',
+		'<p>מה לגבי הקללות בפרשת בחקותי ?</p>',
+		'112477419255024890669',
+		'Yankev Wieselthier',
+		'2023-08-13 07:44:27'
+		)
+		;
+
