@@ -1048,3 +1048,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/dvrim/bq.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-14 04:12:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-14 06:11:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2701_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-14 06:15:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2701_0.html'
+		;
+
