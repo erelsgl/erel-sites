@@ -887,3 +887,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-08-14 06:15:54' 
 			WHERE messageid=12408;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_3.html',
+		'<p> </p><p>תהלים קיד2: &quot;הָיְתָה יְהוּדָה לְקָדְשׁוֹ יִשְׂרָאֵל מַמְשְׁלוֹתָיו&quot;</p><p>זכריה ב16: &quot;וְנָחַל יהוה אֶת יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָים&quot;</p><p>יהושע יח5: &quot;וְהִתְחַלְּקוּ אֹתָהּ לְשִׁבְעָה חֲלָקִים יְהוּדָה יַעֲמֹד עַל גְּבוּלוֹ מִנֶּגֶב....... וּבֵית יוֹסֵף יַעַמְדוּ עַל גְּבוּלָם מִצָּפוֹן&quot;</p><p>יהודה = קודש = בנגב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-08-16 07:58:53'
+		)
+		;
+
