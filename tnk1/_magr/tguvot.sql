@@ -968,3 +968,39 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/byt.html',
+		'<p>בטרם הכרתיך מערוצי הטלביזיה , קראתי דבריך ! התפעלתי , למדתי , ואני ממשיכה עד היום ...נעזרת בחכמתך , בידיעותיך ובתבונתך . </p><p>המשך להיות איכפתניק ותורם ..בכל תחום ! </p><p></p>',
+		'105235564966743942051',
+		'yael keinan',
+		'2023-08-17 10:50:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/byt.html',
+		'<p></p>',
+		'105235564966743942051',
+		'yael keinan',
+		'2023-08-17 10:51:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/mcwot.html',
+		'<p>קשה מאד לקיים את תורת משה בדור הזה ואפילו קצת מתסכל</p><p>לא שומרים את שנת השמיטה ובכלל לא סופרים את שנת היובל</p><p>כהני הדת אינם כהנים לויים בני אהרן הכהן הלוי לשרת בקודש</p><p>אין בית מקדש לתת תרומות ומעשרות ולהקריב קורבן</p><p>והרבה מצוות בתורה נמנעות מעשותינו אותם בני ישראל</p><p>לכן הפתרון היחידי הוא צמצום מספר המצוות ככתוב במאמר זה</p><p>וכל מה שנותר לנו לעשות זה צדקה ומשפט חסד ואמת</p><p>צדקה = חסד</p><p>משפט = אמת</p><p>שנאמר.......</p><p>זכריה ז9: &quot;כֹּה אָמַר יהוה צְבָאוֹת לֵאמֹר מִשְׁפַּט אֱמֶת שְׁפֹטוּ וְחֶסֶד וְרַחֲמִים עֲשׂוּ אִישׁ אֶת אָחִיו&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-08-17 15:44:43'
+		)
+		;
+

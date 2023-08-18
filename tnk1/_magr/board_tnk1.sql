@@ -1158,3 +1158,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-17 10:50:51'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/byt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-17 10:51:29'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/byt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-08-17 15:44:43'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/mcwot.html'
+		;
+
