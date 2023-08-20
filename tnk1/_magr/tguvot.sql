@@ -1004,3 +1004,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-08-19 20:23:29' 
+			WHERE messageid=12416;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/byt.html',
+		'<p>תודה רבה, אבל אני לא אראל סג&quot;ל מהטלביזיה :-)</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-08-19 20:23:49'
+		)
+		;
+
