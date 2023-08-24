@@ -1213,3 +1213,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-08-21 02:07:30'
 			WHERE ktovt_bn='tnk1/msr/1israel.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1577.html',
+				NULL,
+				'2023-08-23 21:09:38',
+				'2023-08-23 21:09:38',
+				'פרשת כי תצא- אישה יפת תואר הנלקחת בשבי-כיצד?/אהובה  קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-08-23 21:09:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1578.html',
+				NULL,
+				'2023-08-23 21:32:38',
+				'2023-08-23 21:32:38',
+				'הלוחם ואשת יפת התואר/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-08-23 21:32:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
