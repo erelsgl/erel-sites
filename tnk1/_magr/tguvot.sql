@@ -1035,3 +1035,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sgl.html',
+		'<p>לאראל &quot;סגל&quot; הלוי</p><p>סגולה = זה הנבחר ביותר לאמור המובחר</p><p>עם סגולה =זה עם נבחר.......  תהלים קלה4: &quot; כִּי יַעֲקֹב בָּחַר לוֹ יָהּ, יִשְׂרָאֵל לִסְגֻלָּתוֹ &quot;.</p><p>דברים ז6: &quot; כִּי עַם קָדוֹשׁ אַתָּה לה\' אֱלֹהֶיךָ, בְּךָ בָּחַר ה\' אֱלֹהֶיךָ לִהְיוֹת לוֹ לְעַם סְגֻלָּה מִכֹּל הָעַמִּים [המובחר מכל העמים] אֲשֶׁר עַל פְּנֵי הָאֲדָמָה &quot;:</p><p>סגולה זה המובחר הטוב ביותר</p><p>סגולת מלכים זה הנבחר של המלכים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-08-30 16:54:22'
+		)
+		;
+
