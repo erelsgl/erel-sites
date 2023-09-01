@@ -1383,3 +1383,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-08-30 22:14:54'
 			WHERE ktovt_bn='tnk1/sofrim/index.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/gnb.html',
+				'tnk1/tora/jmot/jm-22-02.html',
+				NULL,
+				'2023-09-01 01:51:51',
+				'2023-09-01 01:51:51',
+				'עבדות במקום כלא',
+				'אראל',
+				''
+			)
+		;
+
