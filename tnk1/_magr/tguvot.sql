@@ -1047,3 +1047,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-22-02.html',
+		'<p>תהלים קז10: &quot;יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל&quot;</p><p>אם אתם בכלא  אֲסִירֵי עֳנִי וּבַרְזֶל תוכלו להמיר זאת</p><p>לעבוד את השם וזאת תהיה עבדות במקום כלא</p><p>ככה תינצלו בחיים האלה מהכלא של העוני</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-03 04:19:14'
+		)
+		;
+
