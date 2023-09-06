@@ -1430,3 +1430,34 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-22-02.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/index.html',
+				'tnk1/messages/abduction.pdf',
+				NULL,
+				'2023-09-05 23:08:58',
+				'2023-09-05 23:08:58',
+				'Abduction',
+				'абрш шое',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-09-05 23:08:58'
+			WHERE ktovt_bn='tnk1/sofrim/index.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-06 03:35:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0102_11.html'
+		;
+

@@ -1059,3 +1059,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>מדוע יש בדור הזה כל כך הרבה הומואים להטב&quot;ים </p><p>כי האמא או האבא או שניהם לא נזהרו בשמירת הקודש בעת שעשו את בנם לכן נפשו יוצאת טמאה</p><p>ואם ההורים היו שומרים את הקודש אז בנם הנולד גם יהיה קדוש כאשר נולד שמשון הנזיר הקדוש</p><p>ואתה בן ישראל בחן את עצמך את נפשך כי אם קורה לך מקרה לילה דע כי טמא ולא טהור אתה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-06 03:35:47'
+		)
+		;
+
