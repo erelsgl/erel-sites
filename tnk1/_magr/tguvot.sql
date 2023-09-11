@@ -1071,3 +1071,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-29.html',
+		'<p>או שאפשר לפרש שמדובר באכילה רוחנית - ללמוד מפיהם של בנינו</p><p>ומתלמידיי יותר מכולם...</p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2023-09-10 10:50:08'
+		)
+		;
+
