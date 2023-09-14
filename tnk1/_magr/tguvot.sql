@@ -1083,3 +1083,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/byt.html',
+		'<p>בית זו תיבה הפוכה, באותיות ובפועל, </p><p>בית כמו תיבה, בא לבטא סגירות מפני החוץ, פנימיות ואינטימיות</p>',
+		'104379256302550476035',
+		'סימה שרייבר',
+		'2023-09-13 15:21:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/byt.html',
+		'<p>בראשית ז17: &quot;וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל הָאָרֶץ וַיִּרְבּוּ הַמַּיִם וַיִּשְׂאוּ אֶת הַתֵּבָה וַתָּרָם מֵעַל הָאָרֶץ&quot;</p><p> וַיִּשְׂאוּ אֶת הַתֵּבָה --- תֵּבָה כותבים בלי האות י\' לא כותבים תיבה לכן זה לא בית הפוך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-14 07:20:53'
+		)
+		;
+
