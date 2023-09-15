@@ -1107,3 +1107,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b23_1.html',
+		'<p>משלי יד16: &quot;חָכָם יָרֵא וְסָר מֵרָע וּכְסִיל מִתְעַבֵּר וּבוֹטֵחַ&quot; </p><p>משלי כט25: &quot;חֶרְדַּת אָדָם יִתֵּן מוֹקֵשׁ וּבוֹטֵחַ ביהוה יְשֻׂגָּב&quot;</p><p>יש להבין משפט ולהבדיל בין חרדת אדם לבין יראת אלהים</p><p>ולהבדיל בין כְסִיל מִתְעַבֵּר וּבוֹטֵחַ לבין  וּבוֹטֵחַ ביהוה יְשֻׂגָּב</p><p>אל לאדם להיות חרד מלבד יראת אלהים</p><p>ואל לאדם לבטוח מלבד בטחון ביהוה אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-15 04:46:54'
+		)
+		;
+

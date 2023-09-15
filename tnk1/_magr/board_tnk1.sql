@@ -1593,3 +1593,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/byt.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-15 04:46:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
+		;
+
