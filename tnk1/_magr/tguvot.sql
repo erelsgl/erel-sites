@@ -1119,3 +1119,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-17 13:17:16' 
+			WHERE messageid=11879;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/eyn_hqore.html',
+		'<p>יפה ומעניין אך חסר מקורות .אשר לאמו אין מידע אם התפללה או לא אין מידע על ילדותו של שמשון וכן אחות שהייתה לו נשיאן עיין גמרא בסוטה ועיין פלק הלפרין.שמשון היה ראוי להיות משיח לפני שמש ינון שמו ורב הנעלם בחייו מהגלוי לפי שהספור המקראי מגלה טפח ומכסה טפחיים..</p>',
+		'101256651130959009763',
+		'אלון בן דוד',
+		'2023-09-17 19:53:25'
+		)
+		;
+

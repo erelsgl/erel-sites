@@ -1601,3 +1601,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t08b23_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-17 19:53:25'
+		WHERE ktovt_bn='tnk1/nvir/joftim/eyn_hqore.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/1147.html',
+				'tnk1/nvia/yrmyhu/yr-40-01.html',
+				NULL,
+				'2023-09-18 02:36:41',
+				'2023-09-18 02:36:41',
+				'ירמיהו אוסר את עצמו באזיקים יחד עם בני יהודה הגולים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/798.html',
+				'tnk1/nvia/yrmyhu/yr-41-17.html',
+				NULL,
+				'2023-09-18 05:44:39',
+				'2023-09-18 05:44:39',
+				'גרות כמהם',
+				'אראל',
+				''
+			)
+		;
+
