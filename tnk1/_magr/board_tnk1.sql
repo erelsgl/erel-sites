@@ -1641,3 +1641,65 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-18 13:11:52'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_mda_50.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-18 15:07:32'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-17-22.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/kllezor.html',
+				'tnk1/nvia/yrmyhu/yr-41-12.html',
+				NULL,
+				'2023-09-18 18:46:25',
+				'2023-09-18 18:46:25',
+				'מים רבים אשר בגבעון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-09-18 18:46:25'
+			WHERE ktovt_bn='tnk1/sig/kllezor.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0idud.html',
+				'tnk1/nvia/yrmyhu/yr-42-10.html',
+				NULL,
+				'2023-09-18 19:10:00',
+				'2023-09-18 19:10:00',
+				'להישאר בארץ גם אחרי שלושה אסונות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-09-18 19:10:00'
+			WHERE ktovt_bn='tnk1/msr/0idud.html';
+

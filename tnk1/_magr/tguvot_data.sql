@@ -1395,3 +1395,49 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/nvir/joftim/eyn_hqore.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/sofrim_shabot_mda_50.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-09-18 13:11:52'
+		WHERE parent='tnk1/messages/sofrim_shabot_mda_50.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mjly/mj-17-22.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-09-18 15:07:32'
+		WHERE parent='tnk1/ktuv/mjly/mj-17-22.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-09-18 18:25:02'
+			WHERE parent='tnk1/messages/sofrim_shabot_mda_50.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-09-18 18:25:04'
+			WHERE parent='tnk1/messages/sofrim_shabot_mda_50.html'
+			;
+

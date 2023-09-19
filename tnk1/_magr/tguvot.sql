@@ -1138,3 +1138,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_mda_50.html',
+		'<p>יצחק  פרוינד הוא גמד אידיוט ומכוער.</p><p> הגיע הזמן שיחפש בית אבות אחר מחוץ לאוניברסיטה.</p>',
+		'116400515721190397250',
+		'שלום לך',
+		'2023-09-18 13:11:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-22.html',
+		'<p>... וכדי להישאר באין סוף הכול מתעדכן לפי יכולתינו האנושית , </p><p>תודה רבה לאלוקים שבאופן תמידי נותן לנו חסדים אין סופיים למען הבורא יתברך לעד לפי יכולתינו האנושית </p>',
+		'112374915779628632400',
+		'ABBAS',
+		'2023-09-18 15:07:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-18 18:25:02' 
+			WHERE messageid=12428;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-18 18:25:04' 
+			WHERE messageid=12360;
+
