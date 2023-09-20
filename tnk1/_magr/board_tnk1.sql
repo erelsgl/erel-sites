@@ -1703,3 +1703,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-09-18 19:10:00'
 			WHERE ktovt_bn='tnk1/msr/0idud.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-19 16:11:13'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-30-13.html'
+		;
+

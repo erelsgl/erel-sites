@@ -1176,3 +1176,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-09-18 18:25:04' 
 			WHERE messageid=12360;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-30-13.html',
+		'<p>הנה עדכון לשקל הקודש</p><p>*** היום 19 לספטמבר 2023 ***</p><p>מחיר 1 אונקיית כסף = 88 ש&quot;ח = [23 דולר כפול מחיר הדולר]</p><p>מחיר 5 אונקיות כסף = 440 ש&quot;ח = רבע שקל כסף אשר יש לתת לנביא לדרוש אלהים</p><p>מחיר 10 אונקיות כסף = 880 ש&quot;ח = מחצית השקל = זה כסף הכפורים אשר יש לתת ביום הכפורים לכפר על נפשותיכם</p><p>מחיר 20 אונקיות כסף = 1760 ש&quot;ח זה שוויו של 1 שקל הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-19 16:11:13'
+		)
+		;
+
