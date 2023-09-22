@@ -1188,3 +1188,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-17-22.html',
+		'<p>גֵּהָה = רפואה</p><p>הושע ה13: &quot;וַיַּרְא אֶפְרַיִם אֶת חָלְיוֹ וִיהוּדָה אֶת מְזֹרוֹ וַיֵּלֶךְ אֶפְרַיִם אֶל אַשּׁוּר וַיִּשְׁלַח אֶל מֶלֶךְ יָרֵב וְהוּא לֹא יוּכַל לִרְפֹּא לָכֶם וְלֹא יִגְהֶה מִכֶּם מָזוֹר&quot;</p><p>לֹא יוּכַל לִרְפֹּא לָכֶם וְלֹא יִגְהֶה מִכֶּם מָזוֹר -------- כי גֵּהָה זה רפואה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-21 17:04:02'
+		)
+		;
+
