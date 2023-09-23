@@ -1200,3 +1200,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אני מחפשת פסוק עם השם חנה, אבל האותיות חנה לא חייבות להיות ברצף, אלא עם רווחים ביניהם (ואדגיש את האותיות בהזמנה). איך מבצעים חיפוש כזה? (כשאני כותבת \'חנה\' בחיפוש, הוא מביא רק פסוקים שהאותיות חנה מופיעות</p><p> ברצף)</p>',
+		'100203427657410564317',
+		'תרצה ל',
+		'2023-09-22 09:37:46'
+		)
+		;
+
