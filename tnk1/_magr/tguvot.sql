@@ -1212,3 +1212,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_1.html',
+		'<p>יש פר בן-בקר וזה הבקר אבי-הפר</p><p>https://www.facebook.com/furrytailsofficial/videos/836735834747320</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-23 17:00:22'
+		)
+		;
+

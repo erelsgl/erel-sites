@@ -1789,3 +1789,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-23 17:00:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2740_1.html'
+		;
+
