@@ -1248,3 +1248,127 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>צמחונות מביאה את האדם לשמוע בקול אלהים</p><p>אך כשאדם כבר שומע בקול אלהים יש סכנה שימות</p><p>דברים ה21: &quot;וְעַתָּה לָמָּה נָמוּת כִּי תֹאכְלֵנוּ הָאֵשׁ הַגְּדֹלָה הַזֹּאת אִם יֹסְפִים אֲנַחְנוּ לִשְׁמֹעַ אֶת קוֹל יהוה אֱלֹהֵינוּ עוֹד וָמָתְנוּ&quot;</p><p>לכן כדי שלא תמות בעת יהוה נראה אליך עליך לזבוח בשר</p><p>ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי ה\' וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-27 09:24:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>צמחונות מביאה את האדם לשמוע בקול אלהים</p><p>אך כשאדם כבר שומע בקול אלהים יש סכנה שימות</p><p>דברים ה21: &quot;וְעַתָּה לָמָּה נָמוּת כִּי תֹאכְלֵנוּ הָאֵשׁ הַגְּדֹלָה הַזֹּאת אִם יֹסְפִים אֲנַחְנוּ לִשְׁמֹעַ אֶת קוֹל יהוה אֱלֹהֵינוּ עוֹד וָמָתְנוּ&quot;</p><p>לכן כדי שלא תמות בעת יהוה נראה אליך עליך לזבוח בשר</p><p>ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי יהוה וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p><p>-----------</p><p>האמונה מעבר לחכמה ולא לחכמים לחם על כן בעת האמונה אכול לחם אלהים וקרא בשם יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-27 09:31:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-27 09:31:47' 
+			WHERE messageid=12436;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>צמחונות מביאה את האדם לשמוע בקול אלהים</p><p>אך כשאדם כבר שומע בקול אלהים יש סכנה שימות</p><p>דברים ה21: &quot;וְעַתָּה לָמָּה נָמוּת כִּי תֹאכְלֵנוּ הָאֵשׁ הַגְּדֹלָה הַזֹּאת אִם יֹסְפִים אֲנַחְנוּ לִשְׁמֹעַ אֶת קוֹל יהוה אֱלֹהֵינוּ עוֹד וָמָתְנוּ&quot;</p><p>לכן כדי שלא תמות בעת יהוה נראה אליך עליך לזבוח בשר</p><p>ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי יהוה וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p><p>-----------</p><p>האמונה מעבר לחכמה ולא לחכמים לחם על כן בעת האמונה אכול לחם אלהים וקרא בשם יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-27 09:35:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>הושע ה6: &quot;בְּצֹאנָם וּבִבְקָרָם יֵלְכוּ לְבַקֵּשׁ אֶת ה\' וְלֹא יִמְצָאוּ חָלַץ מֵהֶם&quot;</p><p>כי עבודת יהוה קודם כל זה צדקה ומשפט ורק אחרי כן הזבח</p><p>אם תזבח ללא צדקה ומשפט אז לא תמצא את יהוה</p><p>משלי כא3: &quot;עֲשֹׂה צְדָקָה וּמִשְׁפָּט נִבְחָר ליהוה מִזָּבַח&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-27 09:52:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>הושע ה6: &quot;בְּצֹאנָם וּבִבְקָרָם יֵלְכוּ לְבַקֵּשׁ אֶת יהוה וְלֹא יִמְצָאוּ חָלַץ מֵהֶם&quot;</p><p>כי עבודת יהוה קודם כל זה צדקה ומשפט ורק אחרי כן הזבח</p><p>אם תזבח ללא צדקה ומשפט אז לא תמצא את יהוה</p><p>משלי כא3: &quot;עֲשֹׂה צְדָקָה וּמִשְׁפָּט נִבְחָר ליהוה מִזָּבַח&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-27 09:53:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-27 09:53:11' 
+			WHERE messageid=12439;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qormn2.html',
+		'<p></p>',
+		'111777034447320900074',
+		'VOLVIE FULOP',
+		'2023-09-28 02:17:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qormn2.html',
+		'<p></p>',
+		'111777034447320900074',
+		'VOLVIE FULOP',
+		'2023-09-28 02:17:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-28 02:17:24' 
+			WHERE messageid=12441;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-09-28 02:17:26' 
+			WHERE messageid=12442;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>https://www.facebook.com/photo/?fbid=275053515414031&amp;set=a.266075056311877</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-28 06:27:00'
+		)
+		;
+
