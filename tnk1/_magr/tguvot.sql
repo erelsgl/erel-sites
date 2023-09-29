@@ -1372,3 +1372,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%93%D7%90%D7%99%D7%9D</p><p>תורת המנדאים הייתה נוכחת ושלטת בימי האבות הראשונים מאדם עד נח עד דור ימי אברהם אבינו</p><p>אבל רוב בני האדם שכחו את תורת המנדאים וגם בני ישראל מרוב &quot;טלפון שבור&quot; התרחקו מתורת משה</p><p>על בני האדם לשוב לתורת המנדאים ועל בני ישראל לשוב לאלהי אברהם אלהי יצחק ואלהי יעקב</p><p>מיכה ד5: &quot;כִּי כָּל הָעַמִּים יֵלְכוּ אִישׁ בְּשֵׁם אֱלֹהָיו וַאֲנַחְנוּ נֵלֵךְ בְּשֵׁם יהוה אֱלֹהֵינוּ לְעוֹלָם וָעֶד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-28 13:27:39'
+		)
+		;
+
