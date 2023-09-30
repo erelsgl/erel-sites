@@ -1931,3 +1931,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-09-28 20:37:48'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-09-29 11:24:28'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+

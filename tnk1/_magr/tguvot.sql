@@ -1384,3 +1384,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t35b08_1.html',
+		'<p>שמות לד22: &quot;וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה&quot;</p><p>שמות כג16: &quot;וְחַג הַקָּצִיר בִּכּוּרֵי מַעֲשֶׂיךָ אֲשֶׁר תִּזְרַע בַּשָּׂדֶה וְחַג הָאָסִף בְּצֵאת הַשָּׁנָה בְּאָסְפְּךָ אֶת מַעֲשֶׂיךָ מִן הַשָּׂדֶה&quot;</p><p> וְחַג הָאָסִף בְּצֵאת הַשָּׁנָה = וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה</p><p>השנה יוצאת ומקיפה בחַג הָאָסִיף הוא חג-הסכות הוא ראש השנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-09-29 11:24:28'
+		)
+		;
+
