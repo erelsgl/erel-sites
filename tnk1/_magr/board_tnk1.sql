@@ -1939,3 +1939,59 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-01 12:31:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3304_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-01 12:38:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3304_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-01 12:41:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3304_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/bxr.html',
+				'tnk1/ktuv/mgilot/qh-12-01.html',
+				NULL,
+				'2023-10-01 23:27:29',
+				'2023-10-01 23:27:29',
+				'לחזור בתשובה כשעוד יש כוח לתקן',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/jwb1.html',
+				'tnk1/nvia/yxzqel/yx-33-12.html',
+				NULL,
+				'2023-10-02 00:47:41',
+				'2023-10-02 00:47:41',
+				'התשובה מכפרת גם ביום האחרון',
+				'אראל',
+				''
+			)
+		;
+
