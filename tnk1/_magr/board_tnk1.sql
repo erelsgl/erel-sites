@@ -1995,3 +1995,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-02 16:05:40'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-13-33.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ebr3.html',
+				'tnk1/nvia/tryasr/am-01-11.html',
+				NULL,
+				'2023-10-03 02:15:01',
+				'2023-10-03 02:15:01',
+				'לא לשמור את הכעס לנצח',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-03 07:33:48'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/am-01-11.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-03 07:34:54'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/am-01-11.html'
+		;
+
