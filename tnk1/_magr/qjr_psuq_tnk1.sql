@@ -390,3 +390,95 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `bn` = 'ביאור:דברים טז21', `tarik_hosfa` = '2023-04-26 15:39:58' WHERE `bn` = 'ביאור:שופטים טז21' AND `sfr` = 'דבר' AND `prq0` = 'טז' AND `psuq0` = 21 AND `sug` = 'תרגום' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'על שלושה ועל ארבעה שמונה פעמים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'שנתיים לפני הרעש = לרבע מעגל = באמונתך' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'בשנת עשרים ושבע שנה לירבעם מלך ישראל = \"אמת היסטורית\"' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הנביאים - טבלת זמנים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'הרעש בימי עוזיהו בספר עמוס' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ונסתם (בימינו) כאשר נסתם מפני הרעש בימי עזיה מלך-יהודה ' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מבוא לעמוס - שנתיים לפני הרעש' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'עמוס - התעלומה' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'הרעש בימי עוזיהו בספר עמוס' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'קבוצת כוכבים ושמה פגר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'צור וירושלים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:07:45' WHERE `bn` = 'ישראל ואדום - בעבר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:27' WHERE `bn` = 'על שלושה ועל ארבעה שמונה פעמים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שנתיים לפני הרעש = לרבע מעגל = באמונתך' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:27' WHERE `bn` = 'הרעש בימי עוזיהו בספר עמוס' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:27' WHERE `bn` = 'קבוצת כוכבים ושמה פגר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:27' WHERE `bn` = 'צור וירושלים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:27' WHERE `bn` = 'ישראל ואדום - בעבר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:40' WHERE `bn` = 'על שלושה ועל ארבעה שמונה פעמים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:40' WHERE `bn` = 'הרעש בימי עוזיהו בספר עמוס' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 2 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:40' WHERE `bn` = 'קבוצת כוכבים ושמה פגר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 5 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-10-08 00:08:40' WHERE `bn` = 'צור וירושלים' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ישראל ואדום - בעבר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
