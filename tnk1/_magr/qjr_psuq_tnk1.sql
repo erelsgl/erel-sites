@@ -482,3 +482,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ישראל ואדום - בעבר' AND `sfr` = 'עמס' AND `prq0` = 'א' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יהושע ח30' AND `sfr` = 'יהש' AND `prq0` = 'ח' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
+

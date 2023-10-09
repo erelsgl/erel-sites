@@ -43,3 +43,31 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות לב9' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'יָאֵר ה\' פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ', `tarik_hosfa` = '2023-10-08 08:55:52' WHERE `qod` = 'ביאור:במדבר ו25' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'וְאִישׁ אֲשֶׁר יִגַּע בְּמִשְׁכָּבוֹ', `tarik_hosfa` = '2023-10-08 08:57:04' WHERE `qod` = 'ביאור:ויקרא טו5' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'וַיַּחֲנוּ מִצְּפוֹן לָעַי', `tarik_hosfa` = '2023-10-08 08:58:03' WHERE `qod` = 'ביאור:יהושע ח11' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'וַיִּקַּח יְהוֹשֻׁעַ אֶת כָּל הָאָרֶץ', `tarik_hosfa` = '2023-10-08 08:58:55' WHERE `qod` = 'ביאור:יהושע יא23' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'חֶבְרוֹן לְפָנִים קִרְיַת אַרְבַּע', `tarik_hosfa` = '2023-10-08 08:58:56' WHERE `qod` = 'ביאור:יהושע יד15' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'שלטון הדמוקרטיה בחכמת יוון יסודו', `tarik_hosfa` = '2023-10-08 09:01:27' WHERE `qod` = 'ויהי בישורון מלך' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'ירמיהו מא: מים רבים אשר בגבעון', `tarik_hosfa` = '2023-10-08 09:03:01' WHERE `qod` = 'מים רבים אשר בגבעון' AND 1 LIMIT 1;
+
