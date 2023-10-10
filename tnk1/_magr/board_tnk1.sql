@@ -4251,3 +4251,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-09 19:18:03'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-09 19:18:37'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-09 19:48:26'
+		WHERE ktovt_bn='tnk1/ktuv/mj/25-21.html'
+		;
+

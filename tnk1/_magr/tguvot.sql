@@ -1539,3 +1539,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>שלום טוביה! </p><p>מדינת ישראל היא מדינה יהודית, לשם כך היא נוסדה, וכך היא מוגדרת במגילת העצמאות. </p><p>היא נועדה להיות בית לאומי לעם היהודי, בית לכל יהודי באשר הוא, גם אם אני מסכים עם תפיסותיו וגם אם לא. </p><p>עמים שכורתים ברית עם העם היהודי, כמו הדרוזים למשל, ואינם מזדהים עם אויבי העם היהודי, מוזמנים להצטרף ולקבל ייצוג שווה.</p><p>גם אני לא &quot;מתחבר&quot; לכל נציגי הציבור, אבל צריך לזכור שהם רק נציגים; מאחריהם עומד ציבור גדול שהם מייצגים. אם אנחנו משאירים את הנציג מחוץ לממשלה, אנחנו למעשה משאירים בחוץ את כל הציבור שהוא מייצג - ואת זה אסור לנו לעשות. </p><p>אנחנו משפחה אחת - ובמשפחה לא משאירים אף אחד בחוץ.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-09 19:18:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-09 19:18:19' 
+			WHERE messageid=12455;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>שלום טוביה!</p><p>מדינת ישראל היא מדינה יהודית, לשם כך היא נוסדה, וכך היא מוגדרת במגילת העצמאות.</p><p>היא נועדה להיות בית לאומי לעם היהודי, בית לכל יהודי באשר הוא, גם אם אני מסכים עם תפיסותיו וגם אם לא.</p><p>עמים שכורתים ברית עם העם היהודי, כמו הדרוזים למשל, ואינם מזדהים עם אויבי העם היהודי, מוזמנים להצטרף ולקבל ייצוג שווה.</p><p>גם אני לא &quot;מתחבר&quot; לכל נציגי הציבור, אבל צריך לזכור שהם רק נציגים; מאחריהם עומד ציבור גדול שהם מייצגים. אם אנחנו משאירים את הנציג מחוץ לממשלה, אנחנו למעשה משאירים בחוץ את כל הציבור שהוא מייצג - ואת זה אסור לנו לעשות.</p><p>אנחנו משפחה אחת - ובמשפחה לא משאירים אף אחד בחוץ.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-09 19:18:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/25-21.html',
+		'<p>חמישה מחבלי חמאס חמושים חדרו לדירה של רחל ודוד מאופקים. </p><p>רחל הציעה למחבלים קפה ועוגיות - וכך הצילה את עצמה ואת בעלה.</p><p>https://www.ynet.co.il/news/article/h1xbguezp</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-09 19:48:26'
+		)
+		;
+
