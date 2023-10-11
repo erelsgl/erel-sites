@@ -4275,3 +4275,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mj/25-21.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-10 10:18:36'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-10 18:12:54'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+

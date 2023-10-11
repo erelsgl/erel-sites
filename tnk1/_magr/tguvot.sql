@@ -1582,3 +1582,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>בשווייץ יש הסכם לא-כתוב, שלפיו הם מקימים תמיד ממשלת אחדות לאומית. בממשלה יושבים שבעה שרים, שלכולם יש מעמד שווה (אפשר להגיד שיש שבעה &quot;ראשי ממשלה&quot;). השרים מייצגים את 4 המפלגות הגדולות, לפי נוסחה שנקראת &quot;נוסחת הקסם&quot;: https://en.wikipedia.org/wiki/Magic_formula_(Swiss_politics) . השיטה עובדת מצויין החל משנת 1959.</p><p>יש לנו מה ללמוד מהם... גם בקהילות ישראל היה מקובל המוסד של &quot;שבעה טובי העיר&quot; - שבעה אנשים שמנהיגים את העיר ביחד.</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-10 10:18:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>&quot;ויהי בישורון מלך בהתאסף ראשי עם יחד שבטי ישראל&quot;.</p><p>כשיחד שבטי ישראל, יש בישורון מלך. אך כשראשי העם לא מתאספים יחד, איפה ה\'ישר\' ואיפה ה\'ישורון\'? מאות הרוגים ביום אחד, שבויים ופצועים. לא היה כזאת מאז קום המדינה. דרגת הישורון שמעל דרגת ישראל, המתאחדת עם אלוהיה, מושפלת עד שאול תחתיה, והפכה לעג וקלס בעיני אומות העולם...</p><p>https://www.inn.co.il/news/615958</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-10 18:12:54'
+		)
+		;
+
