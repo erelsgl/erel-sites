@@ -1971,3 +1971,11 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/msr/knesset/ahdut2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-10-11 08:54:02'
+			WHERE parent='tnk1/msr/knesset/ahdut2.html'
+			;
+
