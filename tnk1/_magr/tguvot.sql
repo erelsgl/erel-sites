@@ -1613,3 +1613,82 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-11 08:54:02' 
 			WHERE messageid=12458;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>https://www.facebook.com/maya.lapian/videos/1374515796769885</p><p>לחרדים הבזויים הממאנים להתגייס למלחמת מצוה</p><p>במדבר לב22: &quot;וְנִכְבְּשָׁה הָאָרֶץ לִפְנֵי יהוה וְאַחַר תָּשֻׁבוּ וִהְיִיתֶם נקים מיהוה וּמִיִּשְׂרָאֵל וְהָיְתָה הָאָרֶץ הַזֹּאת לָכֶם לַאֲחֻזָּה לִפְנֵי יהוה\'&quot;</p><p>במדבר לב23: &quot;וְאִם לֹא תַעֲשׂוּן כֵּן הִנֵּה חֲטָאתֶם ליהוה וּדְעוּ חַטַּאתְכֶם אֲשֶׁר תִּמְצָא אֶתְכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-12 08:59:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-31-04.html',
+		'<p>אתה יכול לעזור לי למצא איפה דוד המלך אכן נהג כך?</p>',
+		'113243912741487816860',
+		'בתיה לוי',
+		'2023-10-12 09:20:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-31-04.html',
+		'<p>במדבר לא4: &quot;אֶלֶף לַמַּטֶּה אֶלֶף לַמַּטֶּה לְכֹל מַטּוֹת יִשְׂרָאֵל תִּשְׁלְחוּ לַצָּבָא&quot; </p><p>במדבר לא5: &quot;וַיִּמָּסְרוּ מֵאַלְפֵי יִשְׂרָאֵל אֶלֶף לַמַּטֶּה שְׁנֵים עָשָׂר אֶלֶף חֲלוּצֵי צָבָא&quot;</p><p>במדבר לא6: &quot;וַיִּשְׁלַח אֹתָם מֹשֶׁה אֶלֶף לַמַּטֶּה לַצָּבָא אֹתָם וְאֶת פִּינְחָס בֶּן אֶלְעָזָר הַכֹּהֵן לַצָּבָא וּכְלֵי הַקֹּדֶשׁ וַחֲצֹצְרוֹת הַתְּרוּעָה בְּיָדוֹ&quot;</p><p>אֶלֶף לַמַּטֶּה שְׁנֵים עָשָׂר אֶלֶף חֲלוּצֵי צָבָא = מכל מטה מכל 12 שבטי ישראל כולל שבט לוי והכהן הגדול יצאו למלחמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-12 10:37:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-31-04.html',
+		'<p>במדבר לא4: &quot;אֶלֶף לַמַּטֶּה אֶלֶף לַמַּטֶּה לְכֹל מַטּוֹת יִשְׂרָאֵל תִּשְׁלְחוּ לַצָּבָא&quot;</p><p>במדבר לא5: &quot;וַיִּמָּסְרוּ מֵאַלְפֵי יִשְׂרָאֵל אֶלֶף לַמַּטֶּה שְׁנֵים עָשָׂר אֶלֶף חֲלוּצֵי צָבָא&quot;</p><p>במדבר לא6: &quot;וַיִּשְׁלַח אֹתָם מֹשֶׁה אֶלֶף לַמַּטֶּה לַצָּבָא אֹתָם וְאֶת פִּינְחָס בֶּן אֶלְעָזָר הַכֹּהֵן לַצָּבָא וּכְלֵי הַקֹּדֶשׁ וַחֲצֹצְרוֹת הַתְּרוּעָה בְּיָדוֹ&quot;</p><p>אֶלֶף לַמַּטֶּה שְׁנֵים עָשָׂר אֶלֶף חֲלוּצֵי צָבָא = מכל מטה מכל 12 שבטי ישראל כולל שבט לוי והכהן הגדול יצאו למלחמה</p><p>רבני חזל סלפו את התורה ולא מדובר בזוגות לא מדובר באלפיים למטה אלא באלף למטה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-12 10:48:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-12 10:48:05' 
+			WHERE messageid=12462;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_mda_50.html',
+		'<p>במדבר יג29: &quot;עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב .......וְהַחִתִּי וְהַיְבוּסִי וְהָאֱמֹרִי יוֹשֵׁב בָּהָר וְהַכְּנַעֲנִי יושב עַל הַיָּם וְעַל יַד הַיַּרְדֵּן&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-13 07:07:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0618_0.html',
+		'<p>במדבר יג29: &quot;עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב .......וְהַחִתִּי וְהַיְבוּסִי וְהָאֱמֹרִי יוֹשֵׁב בָּהָר וְהַכְּנַעֲנִי יושב עַל הַיָּם וְעַל יַד הַיַּרְדֵּן&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-13 07:23:52'
+		)
+		;
+
