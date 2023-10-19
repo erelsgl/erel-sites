@@ -1773,3 +1773,115 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-16 05:08:18' 
 			WHERE messageid=12469;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>לעילוי נשמת הרב עובדיה יוסף זצ&quot;ל,???????</p><p>הלא הוא ויו&quot;ר המפלגה שלו תמכו בהסכם אוסלו וישבו בגלל בצע כסף בממשלת הדמים עם מפלגת מרצ של ההומואים והמחבלים  </p><p>יש להוקיע את כל תומכי אוסלו למיניהם גם אם היה להם גלימה ותרבוש על הראש ובוודאי שלא צריך לכבדם כי דם הנרצחים על ראשם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 12:27:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>לעילוי נשמת הרב עובדיה יוסף זצ&quot;ל,???????</p><p>הלא הוא ויו&quot;ר המפלגה שלו תמכו בהסכם אוסלו וישבו בגלל בצע כסף בממשלת הדמים עם מפלגת מרצ של ההומואים והמחבלים</p><p>יש להוקיע את כל תומכי אוסלו למיניהם גם אם היה להם גלימה ותרבוש על הראש ובוודאי שלא צריך לכבדם </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 12:35:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-18 12:35:05' 
+			WHERE messageid=12471;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>האח העומד מנגד גרוע מהאויב</p><p>זה החרדי שטרם התגייס לצבא בשעת מלחמה לישראל</p><p>החרדים שממאנים עד היום להתגייס לצבא הם האח העומד מנגד</p><p>האחים האלה נמשלים לאדום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 15:16:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>האח העומד מנגד גרוע מהאויב</p><p>זה החרדי שטרם התגייס לצבא בשעת מלחמה לישראל</p><p>החרדים שממאנים עד היום להתגייס לצבא הם האח העומד מנגד</p><p>האחים האלה הם ומנהיגיהם נמשלים לאדום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 15:21:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-18 15:21:57' 
+			WHERE messageid=12473;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 20:53:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-18 20:53:25' 
+			WHERE messageid=12475;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>2022-03-31  בתאריך הזה</p><p>בתגובה השביעית לפני תגובה זאת</p><p>בחודש מרס 2022 כתבתי כבר אז...................................</p><p>&quot;מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 21:02:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p> 2022-03-31 בתאריך הזה מרס 2022</p><p>כשנה וחצי לפני אסון 7 אוקטובר 2023</p><p>ראה בתגובה השביעית לפני תגובה זאת</p><p> קרא את אשר כתבתי כבר אז.............</p><p>&quot;מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-18 21:20:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-18 21:20:28' 
+			WHERE messageid=12476;
+
