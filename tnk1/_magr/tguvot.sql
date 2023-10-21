@@ -1885,3 +1885,43 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-18 21:20:28' 
 			WHERE messageid=12476;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-20 08:15:11' 
+			WHERE messageid=10293;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-20 08:20:06' 
+			WHERE messageid=11111;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-20 08:23:16' 
+			WHERE messageid=11382;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>2022-03-31 בתאריך הזה מרס 2022</p><p>כשנה וחצי לפני אסון 7 אוקטובר 2023</p><p>ראה בתגובה השביעית לפני תגובה זאת</p><p>קרא את אשר כתבתי כבר אז.............</p><p>&quot;מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין&quot;</p><p>------------------------------------------------------------------------</p><p>קראו גם את תגובתי זאת מתאריך 2020-07-28  </p><p>על המכתב שכתבתי לראש הממשלה דרך שרת המשפטים דאז</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-20 12:06:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-20 12:07:05' 
+			WHERE messageid=12477;
+
