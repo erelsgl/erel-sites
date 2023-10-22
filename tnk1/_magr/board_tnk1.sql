@@ -4576,3 +4576,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-22 03:00:35'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-31-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-22 03:01:30'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-31-04.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/nvia/tryasr/ov-01-07.html',
+				NULL,
+				'2023-10-22 03:17:24',
+				'2023-10-22 03:17:24',
+				'זהירות מבעלי-ברית שנותנים אשליות',
+				'אראל',
+				''
+			)
+		;
+

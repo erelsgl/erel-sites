@@ -1925,3 +1925,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-20 12:07:05' 
 			WHERE messageid=12477;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-22 02:58:59' 
+			WHERE messageid=12467;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-31-04.html',
+		'<p>וגם במבצע &quot;חרבות ברזל&quot;: https://www.hidabroot.org/article/1186889</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-22 03:00:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-22 03:01:17' 
+			WHERE messageid=12479;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-31-04.html',
+		'<p>וגם במלחמת &quot;חרבות ברזל&quot;: https://prayforidf.co.il</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-10-22 03:01:30'
+		)
+		;
+
