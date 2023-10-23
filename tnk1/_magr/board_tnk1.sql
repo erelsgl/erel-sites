@@ -4608,3 +4608,19 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-22 08:42:37'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-22 11:34:16'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+

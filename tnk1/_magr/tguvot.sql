@@ -1963,3 +1963,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-22 08:42:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-22 08:42:39' 
+			WHERE messageid=12481;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>את החרדים שלא עובדים ולא רוצים להתגייס לצבא בעת מלחמה לישראל</p><p>לשלוח את החרדים האלה לסייע בחקלאות במקום הפועלים הפלשתינים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-22 11:34:16'
+		)
+		;
+
