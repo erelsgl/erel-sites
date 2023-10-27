@@ -2056,3 +2056,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-26 04:23:21' 
 			WHERE messageid=12486;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-26 13:43:18' 
+			WHERE messageid=12220;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p> </p><p>תהלים נג5: &quot;הֲלֹא יָדְעוּ פֹּעֲלֵי אָוֶן אֹכְלֵי עַמִּי אָכְלוּ לֶחֶם אֱלֹהִים לֹא קָרָאוּ&quot;</p><p>תהלים נג6: &quot;שָׁם פָּחֲדוּ פַחַד לֹא הָיָה פָחַד כִּי אֱלֹהִים פִּזַּר עַצְמוֹת חֹנָךְ הֱבִשֹׁתָה כִּי אֱלֹהִים מְאָסָם&quot;</p><p>-------------</p><p>בני ישראל אם אתם מפחדים ורוצים להסיר את הפחד</p><p>קראו לאלהים בלחם אשר אתם אוכלים ולא יהיה פחד</p><p>ברכו את יהוה אלהים לפני האוכל וכן גם אחרי האוכל</p><p>[לא חייב את נוסח ברכת המזון רק ברכו את האלהים]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-27 04:40:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>תהלים נג5: &quot;הֲלֹא יָדְעוּ פֹּעֲלֵי אָוֶן אֹכְלֵי עַמִּי אָכְלוּ לֶחֶם אֱלֹהִים לֹא קָרָאוּ&quot;</p><p>תהלים נג6: &quot;שָׁם פָּחֲדוּ פַחַד לֹא הָיָה פָחַד כִּי אֱלֹהִים פִּזַּר עַצְמוֹת חֹנָךְ הֱבִשֹׁתָה כִּי אֱלֹהִים מְאָסָם&quot;</p><p>-------------</p><p>בני ישראל אם אתם מפחדים ורוצים להסיר את הפחד</p><p>קראו לאלהים בלחם אשר אתם אוכלים ולא יהיה פחד</p><p>ברכו את יהוה אלהים לפני האוכל וכן גם אחרי האוכל</p><p>[לא חייב את נוסח ברכת המזון רק ברכו את האלהים]</p><p>-</p><p>וגם ממליץ לכם לאכול מן השורשים והפקעות שבעפר</p><p>כי זה מקרקע אתכם ויסיר את הפחד שאתם פוחדים</p><p>ישעיהו ב10: &quot;בּוֹא בַצּוּר וְהִטָּמֵן בֶּעָפָר מִפְּנֵי פַּחַד יהוה וּמֵהֲדַר גְּאֹנוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-27 04:47:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-27 04:47:19' 
+			WHERE messageid=12487;
+
