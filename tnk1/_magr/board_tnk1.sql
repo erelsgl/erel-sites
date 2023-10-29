@@ -4765,3 +4765,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-28 15:49:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0406_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/siege.html',
+				NULL,
+				'2023-10-29 04:04:47',
+				'2023-10-29 04:04:47',
+				'על סדר היום - האם לתת אוכל ומים לאויבים?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-29 04:58:46'
+		WHERE ktovt_bn='tnk1/msr/knesset/siege.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-10-29 05:14:59'
+		WHERE ktovt_bn='tnk1/msr/knesset/siege.html'
+		;
+
