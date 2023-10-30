@@ -2156,3 +2156,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-29 05:15:02' 
 			WHERE messageid=12491;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/siege.html',
+		'<p>אפשר לשים לב שיש כאן מקרה בינים, כאשר אין לישראל ארבעה כיווני שליטה על רצועת עזה, ויש מצור חלקי בלבד מהצד המצרי, ללא התערבות ישראלית ישירה. כמו כן אפשר להתלבט האם דלק וחשמל אינם דבר חיוני יותר מאוכל, במציאות של בית חולים מודרני בו חולים מחוברים למכשירים.</p>',
+		'114848809263719102079',
+		'Tomer Shalish',
+		'2023-10-29 08:49:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-10-29 11:50:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-10-29 11:50:15' 
+			WHERE messageid=12494;
+
