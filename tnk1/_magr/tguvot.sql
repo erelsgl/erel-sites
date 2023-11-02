@@ -2187,3 +2187,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-10-29 11:50:15' 
 			WHERE messageid=12494;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xsk.html',
+		'<p>שלום</p><p>האם במכוון לא הבאת את הפסוק ה\'ידוע בפרשת העקדה - &quot;..ולא חשכת את בנך ...&quot; ?</p><p>ואם כן, מה דעתך על פרוש המלה חשכת במקרה זה</p><p>אברהם </p>',
+		'117425563449559779841',
+		'אברהם רייכרט',
+		'2023-11-02 07:18:35'
+		)
+		;
+
