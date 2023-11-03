@@ -2199,3 +2199,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xsk.html',
+		'<p>חשך מלשון חושך המסתיר בסתר</p><p>ולא חשכת את בנך ...=ולא הסתרת את בנך ממני</p><p>-</p><p>בראשית לט9: &quot;אֵינֶנּוּ גָדוֹל בַּבַּיִת הַזֶּה מִמֶּנִּי &quot;&quot;וְלֹא חָשַׂךְ&quot;&quot; מִמֶּנִּי מְאוּמָה כִּי אִם אוֹתָךְ בַּאֲשֶׁר אַתְּ אִשְׁתּוֹ.</p><p>בראשית לט9: &quot;אֵינֶנּוּ גָדוֹל בַּבַּיִת הַזֶּה מִמֶּנִּי &quot;&quot;וְלֹא הסתיר&quot;&quot; מִמֶּנִּי מְאוּמָה כִּי אִם אוֹתָךְ בַּאֲשֶׁר אַתְּ אִשְׁתּוֹ.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-02 08:16:52'
+		)
+		;
+
