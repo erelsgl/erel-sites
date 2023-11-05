@@ -2261,3 +2261,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-11-03 13:13:33' 
 			WHERE messageid=12498;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-20-16.html',
+		'<p>ראה תמונה, שלדעתי לכך התכוונת. ישר כח </p><p>https://www.youtube.com/watch?app=desktop&amp;v=YCmNbUo_RGw</p><p>אברהם רייכרט</p>',
+		'117425563449559779841',
+		'אברהם רייכרט',
+		'2023-11-04 19:07:32'
+		)
+		;
+
