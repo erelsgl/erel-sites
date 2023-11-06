@@ -2273,3 +2273,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-52-08.html',
+		'<p>ישעיהו כו1: &quot;בַּיּוֹם הַהוּא יוּשַׁר הַשִּׁיר הַזֶּה בְּאֶרֶץ יְהוּדָה עִיר עָז לָנוּ יְשׁוּעָה יָשִׁית חוֹמוֹת וָחֵל&quot;</p><p>-----------------------------------------------------------------------------------------------------</p><p>אך לעת עתה לדור הזה בימינו ------- https://tora.us.fm/tnk1/messages/prqim_t1506_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-06 04:52:04'
+		)
+		;
+

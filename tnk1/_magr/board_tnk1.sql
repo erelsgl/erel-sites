@@ -4915,3 +4915,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-20-16.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/cph1.html',
+				'tnk1/nvia/yjayhu/yj-52-08.html',
+				NULL,
+				'2023-11-06 04:03:16',
+				'2023-11-06 04:03:16',
+				'שירם של הרואים את שיבת ה\' לציון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-11-06 04:52:04'
+		WHERE ktovt_bn='tnk1/nvia/yjayhu/yj-52-08.html'
+		;
+
