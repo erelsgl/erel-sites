@@ -2285,3 +2285,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-06 12:21:59' 
+			WHERE messageid=12194;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_1.html',
+		'<p>אֶשְׁפָּר = פָּר על האֶש</p><p>אֶשְׁכָּר = כבש על האש</p><p>תהלים עב10: &quot;מַלְכֵי תַרְשִׁישׁ וְאִיִּים מִנְחָה יָשִׁיבוּ מַלְכֵי שְׁבָא וּסְבָא אֶשְׁכָּר יַקְרִיבוּ&quot; ....... כקורבן כבש על האש</p><p>דברי הימים א טז3: &quot;וַיְחַלֵּק לְכָל אִישׁ יִשְׂרָאֵל מֵאִישׁ וְעַד אִשָּׁה לְאִישׁ כִּכַּר לֶחֶם וְאֶשְׁפָּר וַאֲשִׁישָׁה&quot;</p><p>וְאֶשְׁפָּר וַאֲשִׁישָׁה = סטיק בקר על האש + אשישי ענבים או מיץ ענבים טבעי תירוש</p><p>בשר + מיץ אשישי ענבים תירוש או יין כמנחת יעקב ליצחק ובמנחה זאת אנחנו מתענגים לכבוד שבת קודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-06 12:22:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-06 12:22:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-06 12:22:36' 
+			WHERE messageid=12503;
+
