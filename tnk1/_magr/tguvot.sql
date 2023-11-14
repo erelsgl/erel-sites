@@ -2423,3 +2423,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/17-12.html',
+		'<p>מתאים לפירוש הרד\'\'ק על אתר שאינו פוחד מכלום ולא חושב על משמעות מעשיו</p>',
+		'113362248403609570306',
+		'פינחס נויהויזר',
+		'2023-11-14 04:52:50'
+		)
+		;
+
