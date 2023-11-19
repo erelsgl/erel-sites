@@ -2435,3 +2435,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-11-18 22:50:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-18 22:50:19' 
+			WHERE messageid=12511;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>היחס הפרופורציונלי בין &quot;זָהָב וָכֶסֶף וּנְחֹשֶׁת&quot; כתוב בתורה למשכן אהל מועד הוא גם היחס במשכן גוף האדם </p><p>ומהווה מפתח להבנת נפשו של האדם גם ככלי אבחוני וגם טיפולי שיכול לעזור לבני אדם ומצוקותיהם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-19 06:34:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p>היחס הפרופורציונלי בין &quot;זָהָב וָכֶסֶף וּנְחֹשֶׁת&quot; כתוב בתורה למשכן אהל מועד הוא גם היחס במשכן גוף האדם</p><p>ומהווה מפתח להבנת מצב נפשו של האדם גם ככלי אבחוני וגם טיפולי שיכול לעזור לבני אדם ומצוקותיהם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-19 06:55:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-19 06:55:16' 
+			WHERE messageid=12512;
+
