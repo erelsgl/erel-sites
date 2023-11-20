@@ -2485,3 +2485,146 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-11-19 06:55:16' 
 			WHERE messageid=12512;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12495 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12496 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12499 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12500 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12501 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12502 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12503 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12504 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12505 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12506 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12507 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12508 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12509 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12510 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 12512 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12513 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1178 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 9869 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 9870 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 11109 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 11110 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `tguvot` WHERE `messageid` = 11111 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 11165 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 12460 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `deleted_at` = NULL WHERE `messageid` = 1178 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `body` = '<p>אני דיין מודיעכם כי על הרבנים המושחתים שהחשיבו עצמם לאלהים וגזלו מחצית השקל תמורת הבטחת שוא להנצל ממגפה</p><p>עליהם לשלם החזר+ריבית 20% [+חמישית מהכסף] לכל מי שנתן להם תרומת כסף מחצית השקל ובמיוחד למי שניגף במגפה</p><p>ואם הרבנים האלה יתעלמו מפסק הדין שעל פי התורה אז אני מכריז על הרבנים האלה ארורים העושים מְלֶאכֶת יהוה רְמִיָּה</p><p>ירמיהו מח10: &quot;אָרוּר עֹשֶׂה מְלֶאכֶת יהוה רְמִיָּה... וְאָרוּר מֹנֵעַ חַרְבּוֹ מִדָּם&quot;</p><p>ספר ויקרא פרק ה כתוב:</p><p>כ וַיְדַבֵּר יְהוָה אֶל-מֹשֶׁה לֵּאמֹר.</p><p>כא נֶפֶשׁ כִּי תֶחֱטָא וּמָעֲלָה מַעַל בַּיהוָה וְכִחֵשׁ בַּעֲמִיתוֹ בְּפִקָּדוֹן אוֹ-בִתְשׂוּמֶת יָד אוֹ בְגָזֵל אוֹ עָשַׁק אֶת-עֲמִיתוֹ.</p><p>כב אוֹ-מָצָא אֲבֵדָה וְכִחֶשׁ בָּהּ וְנִשְׁבַּע עַל-שָׁקֶר עַל-אַחַת מִכֹּל אֲשֶׁר-יַעֲשֶׂה הָאָדָם לַחֲטֹא בָהֵנָּה.</p><p>כג וְהָיָה כִּי-יֶחֱטָא וְאָשֵׁם וְהֵשִׁיב אֶת-הַגְּזֵלָה אֲשֶׁר גָּזָל אוֹ אֶת-הָעֹשֶׁק אֲשֶׁר עָשָׁק אוֹ אֶת-הַפִּקָּדוֹן אֲשֶׁר הָפְקַד אִתּוֹ אוֹ אֶת-הָאֲבֵדָה אֲשֶׁר מָצָא.</p><p>כד אוֹ מִכֹּל אֲשֶׁר-יִשָּׁבַע עָלָיו לַשֶּׁקֶר וְשִׁלַּם אֹתוֹ בְּרֹאשׁוֹ וַחֲמִשִׁתָיו יֹסֵף עָלָיו לַאֲשֶׁר הוּא לוֹ יִתְּנֶנּוּ בְּיוֹם אַשְׁמָתוֹ.</p><p>-------</p><p>ספר שמות פרק ל כתוב:</p><p>(יא) וַיְדַבֵּר יְהוָה אֶל-מֹשֶׁה לֵּאמֹר.</p><p>(יב) כִּי תִשָּׂא אֶת-רֹאשׁ בְּנֵי-יִשְׂרָאֵל לִפְקֻדֵיהֶם וְנָתְנוּ אִישׁ כֹּפֶר נַפְשׁוֹ לַיהוָה בִּפְקֹד אֹתָם וְלֹא-יִהְיֶה בָהֶם נֶגֶף בִּפְקֹד אֹתָם.</p><p>(יג) זֶה יִתְּנוּ כָּל-הָעֹבֵר עַל-הַפְּקֻדִים מַחֲצִית הַשֶּׁקֶל בְּשֶׁקֶל הַקֹּדֶשׁ עֶשְׂרִים גֵּרָה הַשֶּׁקֶל מַחֲצִית הַשֶּׁקֶל תְּרוּמָה לַיהוָה</p><p>אני כתבתי לכם את הציטוט הזה כדי להזכיר לכם שאת תרומת מחצית השקל גזלו הרבנים בכזב מעם-הארץ אשר הבטיחו להם הבטחות-שוא לרפואה ומגפת הקורונה מעידה כי הרבנים האלה לא אנשי אלהים ולא מגיע להם לקחת מחצית השקל אשר לא להם וכי את המעשר התרומה ומחצית השקל נותנים ליהוה כי הוא יהוה לבדו רופא עמו ישראל</p>', `deleted_at` = NULL WHERE `messageid` = 9870 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `body` = '<p>אני דיין שם משה</p><p>אני עם סכיזופרניה ולא ביקשתי תרומות מאיש</p><p>ואל תאמינו לוועד-הרבנים אשר מדברים כבייכול למען הסכיזופרניה </p><p>ומבקשים לגזול עני ואביון וגם בדרך לרצוח אותו וזאת כאשר יש להם כיסוי לאמור רצינו לעזור</p><p>מדובר ברשעים ארורים ומקוללים </p><p>https://www.vaadharabanim.co.il/fund/5552/?utm_source=A7-5552-10&amp;utm_medium=5552-10</p>', `deleted_at` = NULL WHERE `messageid` = 11165 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `tguvot` SET `body` = '<p>https://www.facebook.com/maya.lapian/videos/1374515796769885</p><p>לחרדים הממאנים להתגייס למלחמת מצוה</p><p>במדבר לב22: &quot;וְנִכְבְּשָׁה הָאָרֶץ לִפְנֵי יהוה וְאַחַר תָּשֻׁבוּ וִהְיִיתֶם נקים מיהוה וּמִיִּשְׂרָאֵל וְהָיְתָה הָאָרֶץ הַזֹּאת לָכֶם לַאֲחֻזָּה לִפְנֵי יהוה\'&quot;</p><p>במדבר לב23: &quot;וְאִם לֹא תַעֲשׂוּן כֵּן הִנֵּה חֲטָאתֶם ליהוה וּדְעוּ חַטַּאתְכֶם אֲשֶׁר תִּמְצָא אֶתְכֶם&quot;</p>', `deleted_at` = NULL WHERE `messageid` = 12460 AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3204_0.html',
+		'<p> </p><p>בראשית לו12: &quot;וְתִמְנַע הָיְתָה פִילֶגֶשׁ לֶאֱלִיפַז בֶּן עֵשָׂו וַתֵּלֶד לֶאֱלִיפַז אֶת עֲמָלֵק אֵלֶּה בְּנֵי עָדָה אֵשֶׁת עֵשָׂו&quot;</p><p>במדבר יג29: &quot;עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב....... וְהַחִתִּי וְהַיְבוּסִי וְהָאֱמֹרִי יוֹשֵׁב בָּהָר וְהַכְּנַעֲנִי יושב עַל הַיָּם וְעַל יַד הַיַּרְדֵּן&quot;</p><p>עשיו הוא אדום ישב במדבר סיני בהר שעיר ואֱלִיפַז בֶּן עֵשָׂו לו נולד עמלק אשר ישב בארץ הנגב </p><p>בארץ הנגב משם החמאס בעזה תקף את ישראל בנגב המערבי ישובי עוטף עזה</p><p>כתבתי לכם זאת למען תבינו כי עשיו הוא שעיר הוא אדום ישב דרומית לישראל ואף בדרום ישראל בעזה הנחשבת לארץ כנען -- לישראל</p><p>ועשיו שעיר אדום זה לא רומא שבאירופה אין לכך קשר ורבני חזל לא הבינו נכון את התורה</p><p>יון ורומא וכל האירופאים [כולל רוסיה הלבנה] וצאצאיהם שהתישבו גם באמריקה הצפונית הם בני יפת </p><p>בראשית י2: &quot;בְּנֵי יֶפֶת גֹּמֶר וּמָגוֹג וּמָדַי וְיָוָן וְתֻבָל וּמֶשֶׁךְ וְתִירָס&quot;</p><p>דברי הימים א א5: &quot;בְּנֵי יֶפֶת גֹּמֶר וּמָגוֹג וּמָדַי וְיָוָן וְתֻבָל וּמֶשֶׁךְ וְתִירָס&quot;</p><p>עשיו לא מבני יפת ולא התיישב באירופה וכי רבני חזל לא נבינו נכון את התורה</p><p>עשיו התחבר עם ישמעאל....... ככתוב בספר בראשית</p><p>בראשית כח9: &quot;וַיֵּלֶךְ עֵשָׂו אֶל יִשְׁמָעֵאל וַיִּקַּח אֶת מָחֲלַת בַּת יִשְׁמָעֵאל בֶּן אַבְרָהָם אֲחוֹת נְבָיוֹת עַל נָשָׁיו לוֹ לְאִשָּׁה&quot;</p><p>לכן העמלקים שישבו בעזה בארץ הנגב מקושרים לישמעאל אבי המדינות הערביות ומצרים שהם בני חם אבי כנען אבי הפלשתינים</p><p> </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-19 12:28:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3204_0.html',
+		'<p>בראשית לו12: &quot;וְתִמְנַע הָיְתָה פִילֶגֶשׁ לֶאֱלִיפַז בֶּן עֵשָׂו וַתֵּלֶד לֶאֱלִיפַז אֶת עֲמָלֵק אֵלֶּה בְּנֵי עָדָה אֵשֶׁת עֵשָׂו&quot;</p><p>במדבר יג29: &quot;עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב....... וְהַחִתִּי וְהַיְבוּסִי וְהָאֱמֹרִי יוֹשֵׁב בָּהָר וְהַכְּנַעֲנִי יושב עַל הַיָּם וְעַל יַד הַיַּרְדֵּן&quot;</p><p>עשיו הוא אדום ישב במדבר סיני בהר שעיר ואֱלִיפַז בֶּן עֵשָׂו לו נולד עמלק אשר ישב בארץ הנגב</p><p>בארץ הנגב משם החמאס בעזה תקף את ישראל בנגב המערבי ישובי עוטף עזה</p><p>כתבתי לכם זאת למען תבינו כי עשיו הוא שעיר הוא אדום ישב דרומית לישראל ואף בדרום ישראל בעזה הנחשבת לארץ כנען -- לישראל</p><p>ועשיו שעיר אדום זה לא רומא שבאירופה אין לכך קשר ורבני חזל לא הבינו נכון את התורה</p><p>יון ורומא וכל האירופאים [כולל רוסיה הלבנה] וצאצאיהם שהתישבו גם באמריקה הצפונית הם בני יפת</p><p>בראשית י2: &quot;בְּנֵי יֶפֶת גֹּמֶר וּמָגוֹג וּמָדַי וְיָוָן וְתֻבָל וּמֶשֶׁךְ וְתִירָס&quot;</p><p>דברי הימים א א5: &quot;בְּנֵי יֶפֶת גֹּמֶר וּמָגוֹג וּמָדַי וְיָוָן וְתֻבָל וּמֶשֶׁךְ וְתִירָס&quot;</p><p>עשיו לא מבני יפת ולא התיישב באירופה וכי רבני חזל לא הבינו נכון את התורה</p><p>עשיו התחבר עם ישמעאל....... ככתוב בספר בראשית</p><p>בראשית כח9: &quot;וַיֵּלֶךְ עֵשָׂו אֶל יִשְׁמָעֵאל וַיִּקַּח אֶת מָחֲלַת בַּת יִשְׁמָעֵאל בֶּן אַבְרָהָם אֲחוֹת נְבָיוֹת עַל נָשָׁיו לוֹ לְאִשָּׁה&quot;</p><p>לכן העמלקים שישבו בעזה בארץ הנגב מקושרים לישמעאל אבי המדינות הערביות ומצרים שהם בני חם אבי כנען אבי הפלשתינים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-19 16:54:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-19 16:54:31' 
+			WHERE messageid=12514;
+
