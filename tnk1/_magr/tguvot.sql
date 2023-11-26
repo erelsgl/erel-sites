@@ -2666,3 +2666,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-11-23 11:29:16' 
 			WHERE messageid=12517;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/17.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-11-26 06:50:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-26 06:50:42' 
+			WHERE messageid=12518;
+
