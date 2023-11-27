@@ -6174,3 +6174,19 @@ UPDATE board_tnk1
 			SET sdr_bn=60
 			WHERE ktovt_bn='tnk1/ktuv/thlim/th-92-10.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-11-27 03:44:01'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-11-27 03:50:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
