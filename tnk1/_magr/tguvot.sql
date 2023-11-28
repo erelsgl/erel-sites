@@ -2716,3 +2716,82 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-11-27 03:50:56' 
 			WHERE messageid=12519;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>לרבנים הכסילים אשר אמרו: רשע החרבת את בית אלהינו [סוף ציטוט]</p><p>אם באמת בית אלהים לכם הן לא יחרב כי בית אלהים לנצח</p><p>שמואל א טו29: &quot;וְגַם נֵצַח יִשְׂרָאֵל לֹא יְשַׁקֵּר וְלֹא יִנָּחֵם כִּי לֹא אָדָם הוּא לְהִנָּחֵם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-11-27 15:38:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xsid.html',
+		'<p>אשמח לדעת מהו המקור לפרש את החסיד או את מעשה החסד כמשהו מעבר, כפי שנהוג לפרש היום. </p><p>לא מצאתי הכרח בשום פסוק לפרש כך.</p><p>לענ&quot;ד חסד הוא כמו צדק, כלומר לנהוג נכון, ובזה הצדיק והחסיד דומים; ובמקומות אחרים הוא משמש כמושג הקרוב ל&quot;ברית&quot; ואהבה, כמו חסד נעורייך, חסדי אבות, אהבת חסד, ועשית עמדי חסד ואמת; ובמקומות מועטים הוא משמש ליופי וחן, כמו ותשא חסד לפניו, או ותורת חסד על לשונה.</p><p>ובאמת הכל חד הוא, כי החסיד ישמור אמונים, וישא חן בעיני רואיו (ואולי הוא מלשון חס, המעורר רחמים וחיבה).</p><p></p>',
+		'111093238806841583242',
+		'אבי ולאה קרדש',
+		'2023-11-27 16:23:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/magl.html',
+		'<p>לכאורה מעגל הוא דרך, נתיב, שביל. בוודאי באזכרות תהלים ומשלי וישעיה.</p><p>ישנו גם פירוש למעוקל ומעגלי, אך אין הכרח לחבר בין השניים.</p>',
+		'111093238806841583242',
+		'אבי ולאה קרדש',
+		'2023-11-27 16:31:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xsid.html',
+		'<p>הקשר לאהבה מחזק את הפירוש שחסד הוא מעבר לחובה. עשיית החובה בלבד לא מראה על אהבה; עשייה מעבר לחובה מראה על אהבה. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-11-27 17:19:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/magl.html',
+		'<p>הים של שלמה היה &quot;עָגוֹל סָבִיב&quot;. נראה לי שזו ראיה שפירוש השורש &quot;עגל&quot; דומה ללשון ימינו, ומציין מסלול סיבובי.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-11-27 17:20:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/sr_uma.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-11-28 07:53:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-11-28 07:53:27' 
+			WHERE messageid=12526;
+
