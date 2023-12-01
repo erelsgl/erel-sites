@@ -486,3 +486,67 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יהושע ח30' AND `sfr` = 'יהש' AND `prq0` = 'ח' AND `psuq0` = 30 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 30, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'מלחמת אהוד במואב' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 30, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'מרד אהוד בן גרא במואב - ההכנות, הארגון ופרטי הביצוע' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 30, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'מרד אהוד בן גרא במואב - ספונטאני ולא מתוכנן' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 19, `psuq1` = 21, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'סיפור יעקב ועשיו מהפן החינוכי' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 30, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'פרשת אהוד בן גרא' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 1, `psuq1` = 4, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'שתי סיבות להשארת עממי כנען בארץ' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 29, `psuq1` = 29, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'תמרים והשמנה' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `psuq0` = 12, `psuq1` = 30, `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'אהוד בן גרא - אייזנברג' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'שידוך' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 6 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'קשר בין שיפוט לבין מלחמה בספר שופטים' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'ותשקוט הארץ ארבעים שנה' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'נחלת בנימין' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'קשר בין שיפוט לבין מלחמה בספר שופטים' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'גרא = איטר' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'מפיבשת = מריב בעל' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-11-30 20:26:17' WHERE `bn` = 'סתירה וסתר' AND `sfr` = 'שופ' AND `prq0` = 'ג' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
