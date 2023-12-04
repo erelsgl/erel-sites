@@ -6315,3 +6315,35 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-11-30 20:14:24'
 			WHERE ktovt_bn='tnk1/msr/4jlom.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/plf.html',
+				'tnk1/tora/brejit/br-32-09.html',
+				NULL,
+				'2023-12-03 16:42:40',
+				'2023-12-03 16:42:40',
+				'יעקב מתכונן למלחמה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0pxd.html',
+				'tnk1/tora/brejit/br-32-12.html',
+				NULL,
+				'2023-12-03 17:01:22',
+				'2023-12-03 17:01:22',
+				'תפילת יעקב בעת סכנה קיומית',
+				'אראל',
+				''
+			)
+		;
+

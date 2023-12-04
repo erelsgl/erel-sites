@@ -71,3 +71,11 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `kotrt` = 'ירמיהו מא: מים רבים אשר בגבעון', `tarik_hosfa` = '2023-10-08 09:03:01' WHERE `qod` = 'מים רבים אשר בגבעון' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לב9' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לב12' AND 1 LIMIT 1;
+
