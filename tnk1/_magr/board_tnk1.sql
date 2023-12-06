@@ -6347,3 +6347,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/7-10.html',
+				NULL,
+				'2023-12-06 00:35:41',
+				'2023-12-06 00:35:41',
+				'על סדר היום - על מה עשה ה\' ככה לנו?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/displaced.html',
+				NULL,
+				'2023-12-06 00:37:16',
+				'2023-12-06 00:37:16',
+				'על סדר היום - מדוע כל-כך הרבה איזורים התרוקנו מתושבים?',
+				'אראל',
+				''
+			)
+		;
+
