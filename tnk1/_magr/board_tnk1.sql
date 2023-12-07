@@ -6379,3 +6379,63 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/messages/msr_1yraa_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `m` = NULL, `l` = NULL WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/msr/1nvuaa.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'TGUVA' AND `ktovt_bn` = 'tnk1/tora/jmot/jm-02-23.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_700.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_735.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_836.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ktuv/mjly/cdqa_tcil_mmwt.html' AND `ktovt_bn` = 'tnk1/messages/ktuv_mjly_cdqa_tcil_mmwt_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ktuv/mjly/svlnut.html' AND `ktovt_bn` = 'tnk1/ktuv/mjly/mj-13-12.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/msr/cdqysrel.html' AND `ktovt_bn` = 'tnk1/nvia/yrmyhu/yr-09-1112.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `board_tnk1` WHERE `ktovt_av` = 'tnk1/msr/knesset/index.html' AND `ktovt_bn` = 'tnk1/msr/knesset/7-10.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/sofrim/zuckm/jiurim_klli.html' AND `ktovt_bn` = 'tnk1/sofrim/zuckm/7qjr.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/sofrim/zuckm/jiurim_klli.html' AND `ktovt_bn` = 'tnk1/sofrim/zuckm/7riqud.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/wikia/index_73.html' AND `ktovt_bn` = 'tnk1/wikia/index_73_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tryg/messages/mcwa_209_0.html' AND `ktovt_bn` = 'tryg/messages/mcwa_209_0_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sdr_bn` = NULL WHERE `ktovt_av` = 'tryg/sug/cycyt.html' AND `ktovt_bn` = 'axrimpl/hydepark/2229966_7.html' AND 1 LIMIT 1;
+
