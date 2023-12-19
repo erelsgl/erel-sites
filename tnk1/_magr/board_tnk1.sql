@@ -6539,3 +6539,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-12-14 08:25:59'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/bemlq_aw_ky_mxh_amxh.pdf',
+				NULL,
+				'2023-12-18 13:35:22',
+				'2023-12-18 13:35:22',
+				'המלחמות בעמלק או כי מחה אמחה',
+				'רמי ניר',
+				''
+			)
+		;
+
