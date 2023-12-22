@@ -2819,3 +2819,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-81-11.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-12-21 10:52:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-12-21 10:52:56' 
+			WHERE messageid=12529;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_1235.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-12-21 19:48:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-12-21 19:48:05' 
+			WHERE messageid=12530;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/displaced.html',
+		'<p>הצפון מקיא אותנו</p><p>https://www.israelhayom.co.il/opinions/article/14972081</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-12-21 22:33:37'
+		)
+		;
+

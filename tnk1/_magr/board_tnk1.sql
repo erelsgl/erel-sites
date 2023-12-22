@@ -6601,3 +6601,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2023-12-21 06:17:23'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-21 10:52:49'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-81-11.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-21 19:48:04'
+		WHERE ktovt_bn='tnk1/messages/forums_1235.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-21 22:33:37'
+		WHERE ktovt_bn='tnk1/msr/knesset/displaced.html'
+		;
+

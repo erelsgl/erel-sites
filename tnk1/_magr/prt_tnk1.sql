@@ -79,3 +79,11 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:בראשית לב12' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:דברים ד41' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2023-12-21 19:40:10' WHERE `qod` = 'ביאור:דברים ד41' AND 1 LIMIT 1;
+
