@@ -6625,3 +6625,73 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/displaced.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-22 08:56:08'
+		WHERE ktovt_bn='tnk1/messages/forums_823.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4jlom.html',
+				'tnk1/tora/dvrim/dm-11-32.html',
+				NULL,
+				'2023-12-22 08:57:50',
+				'2023-12-22 08:57:50',
+				'לרשת את הארץ - כדי לשמור את המצוות',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-12-22 08:57:50'
+			WHERE ktovt_bn='tnk1/msr/4jlom.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1mlxma.html',
+				'tnk1/tora/dvrim/dm-07-17.html',
+				NULL,
+				'2023-12-22 09:22:43',
+				'2023-12-22 09:22:43',
+				'רבים הגויים האלה ממני, איכה אוכל להורישם?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2023-12-22 09:22:43'
+			WHERE ktovt_bn='tnk1/msr/1mlxma.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/0pxd.html',
+				'tnk1/tora/dvrim/dm-07-18.html',
+				NULL,
+				'2023-12-22 10:29:42',
+				'2023-12-22 10:29:42',
+				'להתגבר על הפחד ע\"י זכירת מעשי ה\'',
+				'אראל',
+				''
+			)
+		;
+

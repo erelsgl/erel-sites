@@ -3379,3 +3379,26 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/msr/knesset/displaced.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/forums_823.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-12-22 08:56:08'
+		WHERE parent='tnk1/messages/forums_823.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-12-22 08:56:09'
+			WHERE parent='tnk1/messages/forums_823.html'
+			;
+
