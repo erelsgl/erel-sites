@@ -2888,3 +2888,39 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-12-22 08:56:09' 
 			WHERE messageid=12532;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>בראשית מו3: &quot;וַיֹּאמֶר אָנֹכִי הָאֵל אֱלֹהֵי אָבִיךָ אַל תִּירָא מֵרְדָה מִצְרַיְמָה כִּי לְגוֹי גָּדוֹל....... אֲשִׂימְךָ שָׁם&quot;</p><p>שמות יא3: &quot;וַיִּתֵּן יהוה אֶת חֵן הָעָם בְּעֵינֵי מִצְרָיִם ------- גַּם הָאִישׁ מֹשֶׁה גָּדוֹל מְאֹד....... בְּאֶרֶץ מִצְרַיִם בְּעֵינֵי עַבְדֵי פַרְעֹה וּבְעֵינֵי הָעָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-12-23 18:43:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>שני אנשים, שקרוביהם נרצחו ע&quot;י חמאס, מסבירים את חשיבות האחדות.</p><p>* איציק ברוך: https://emek.mynet.co.il/local_news/article/ryb87xgvp?utm_source=taboola&amp;utm_medium=referral&amp;utm_content=internal  &quot;הרבה זמן אמרתי ששנאת חינם תביא אותנו למלחמה מבית או מבחוץ. לצערי מה שחשבתי הוא אכן מה שקרה. מספיק עם שנאת חינם. ברור לי שדקה אחרי שהמלחמה תסתיים עוד פעם יהיה פה פיצול ושנאה. אני חושש מאוד לעתידה של המדינה בגלל הקרע החברתי, בגלל העדר מנהיגות ובגלל כעס על הדרג הצבאי&quot;.</p><p>* שמעון דהן: https://emek.mynet.co.il/local_news/article/r1zyst1lp?utm_source=taboola&amp;utm_medium=referral&amp;utm_content=internal   &quot;אנחנו חייבים להיות כמקשה אחת, אחרת הפערים ייפתחו באופן תהומי וכנראה הנזקים יהיו בלתי הפיכים.&quot; מאיזו בחינה? &quot;של כל הקרעים והשסעים שנוצרו במדינה. כולנו חטאנו, לכולנו יש נגיעה של חטא בכל מה שקרה פה. אני לא נוהג להשתמש במושגים של מגזרים ומפלגות ודעות. חשבון הנפש יגיע.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-12-23 19:04:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>יהושע ט2: &quot;וַיִּתְקַבְּצוּ יַחְדָּו לְהִלָּחֵם עִם יְהוֹשֻׁעַ וְעִם יִשְׂרָאֵל פֶּה אֶחָד&quot; </p><p>מלכים א כב13: &quot;וְהַמַּלְאָךְ אֲשֶׁר הָלַךְ לִקְרֹא מִיכָיְהוּ דִּבֶּר אֵלָיו לֵאמֹר הִנֵּה נָא דִּבְרֵי הַנְּבִיאִים פֶּה אֶחָד טּוֹב אֶל הַמֶּלֶךְ יְהִי נָא דבריך[דְבָרְךָ] כִּדְבַר אַחַד מֵהֶם וְדִבַּרְתָּ טּוֹב&quot;</p><p>דברי הימים ב יח12: &quot;וְהַמַּלְאָךְ אֲשֶׁר הָלַךְ לִקְרֹא לְמִיכָיְהוּ דִּבֶּר אֵלָיו לֵאמֹר הִנֵּה דִּבְרֵי הַנְּבִאִים פֶּה אֶחָד טּוֹב אֶל הַמֶּלֶךְ וִיהִי נָא דְבָרְךָ כְּאַחַד מֵהֶם וְדִבַּרְתָּ טּוֹב&quot;</p><p>-------</p><p>האחדות &quot;היהודית&quot; שלכם היא  פֶּה אֶחָד ולא לב אחד חחחחחחחחחחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-12-24 04:48:15'
+		)
+		;
+
