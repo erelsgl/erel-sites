@@ -6719,3 +6719,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/pla.html',
+				'tnk1/nvia/yjayhu/yj-29-14.html',
+				NULL,
+				'2023-12-24 08:02:15',
+				'2023-12-24 08:02:15',
+				'העונש על אבדן יראת ה\' הוא אבדן החכמה והבינה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-24 09:21:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-24 11:57:10'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_mda_50.html'
+		;
+
