@@ -2955,3 +2955,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2023-12-24 22:00:46' 
 			WHERE messageid=12537;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_mda_50.html',
+		'<p>חחחחחחח</p><p>את עמלק שישב בארץ הנגב פינו לאילת כעת יצחק יושב בארץ הנגב</p><p>בראשית כד62: &quot;וְיִצְחָק בָּא מִבּוֹא בְּאֵר לַחַי רֹאִי וְהוּא יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-12-26 03:32:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-12-26 03:36:36' 
+			WHERE messageid=12538;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0618_0.html',
+		'<p>חחחחחחח</p><p>את עמלק שישב בארץ הנגב פינו לאילת ולמקומות שונים בארץ</p><p>כעת יצחק יושב בארץ הנגב</p><p>בראשית כד62: &quot;וְיִצְחָק בָּא מִבּוֹא בְּאֵר לַחַי רֹאִי וְהוּא יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-12-26 03:43:16'
+		)
+		;
+
