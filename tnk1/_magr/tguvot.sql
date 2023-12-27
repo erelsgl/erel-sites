@@ -2986,3 +2986,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/hwt.html',
+		'<p>כתבת שעל פי האבן עזרא אומר ש&quot;הוות&quot; הוא אסון המתהווה פתאומי. לא ציינת מקור, ונראה לי שהמקור בתהלים צא, ג, שם אומר האבן עזרא &quot;שהוא הוה פתאומי&quot;. על דרך זה מסביר האבן עזרא בקיצור &quot;כמו מקרה&quot; בתהלים יז, ב. בתהלים נב, ד על הפסוק &quot;הוות תחשוב לשונך&quot; אומר &quot;דברים המהווים כפי מחשבותיך&quot;.</p>',
+		'101129948271181488155',
+		'Dovid de Bresser',
+		'2023-12-26 15:43:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2023-12-26 15:44:12' 
+			WHERE messageid=12540;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/hwt.html',
+		'<p>כתבת על פי האבן עזרא ש&quot;הוות&quot; הוא אסון המתהווה פתאומי. לא ציינת מקור, ונראה לי שהמקור בתהלים צא, ג, שם אומר האבן עזרא: &quot;שהוא הוה פתאומי&quot;. על דרך זה מסביר האבן עזרא את המילה &quot;הוות&quot; בקיצור בתהלים יז, ב: &quot;כמו מקרה&quot; . בתהלים נב, ד על הפסוק &quot;הוות תחשוב לשונך&quot; אומר האבן עזרא &quot;דברים המהווים כפי מחשבותיך&quot;, וגם הוא מלשון &quot;הוה/היה&quot;.</p>',
+		'101129948271181488155',
+		'Dovid de Bresser',
+		'2023-12-26 15:46:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/hwt.html',
+		'<p>אילון: כתבת &quot;השימוש בשורש הוה בציווי במובן של היה הוא משנאי&quot;, אבל כתוב בבראשית כז29: &quot;הֱוֵה גְבִיר לְאַחֶיךָ&quot;.</p><p>דוד: תודה על העדכון!</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2023-12-26 17:44:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/hwt.html',
+		'<p> הֹוָה = רעה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2023-12-26 18:48:44'
+		)
+		;
+

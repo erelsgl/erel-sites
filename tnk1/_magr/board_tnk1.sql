@@ -6767,3 +6767,51 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0618_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/modiin.html',
+				NULL,
+				'2023-12-26 13:45:58',
+				'2023-12-26 13:45:58',
+				'על סדר היום - כשלון המודיעין',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-26 15:43:47'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-26 15:46:03'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-26 17:44:52'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2023-12-26 18:48:44'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/hwt.html'
+		;
+

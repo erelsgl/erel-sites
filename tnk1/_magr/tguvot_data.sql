@@ -3523,3 +3523,71 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t0618_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/hwt.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-12-26 15:43:47'
+		WHERE parent='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2023-12-26 15:44:12'
+			WHERE parent='tnk1/kma/qjrim1/hwt.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/hwt.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-12-26 15:46:03'
+		WHERE parent='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/hwt.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-12-26 17:44:52'
+		WHERE parent='tnk1/kma/qjrim1/hwt.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/kma/qjrim1/hwt.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2023-12-26 18:48:44'
+		WHERE parent='tnk1/kma/qjrim1/hwt.html'
+		;
+
