@@ -3041,3 +3041,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qormn2.html',
+		'<p>איך אני יכול להשיג הספר מתן תורה ויציאת מצרים </p>',
+		'115828715928341497035',
+		'mendel leib moskovits',
+		'2023-12-31 20:48:10'
+		)
+		;
+
