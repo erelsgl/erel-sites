@@ -6885,3 +6885,51 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qormn2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/rjj.html',
+				'tnk1/ktuv/thlim/th-48-08.html',
+				NULL,
+				'2024-01-03 03:29:44',
+				'2024-01-03 03:29:44',
+				'ברוח קדים תשבר אוניות תרשיש',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-03 06:10:15'
+		WHERE ktovt_bn='tnk1/messages/izru_9.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-03 06:10:23'
+		WHERE ktovt_bn='tnk1/messages/izru_9.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-03 07:41:41'
+		WHERE ktovt_bn='tnk1/messages/izru_9.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-03 07:41:53'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-48-08.html'
+		;
+

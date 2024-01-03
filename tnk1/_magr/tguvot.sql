@@ -3053,3 +3053,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/izru_9.html',
+		'<p>בוקר טוב, איך אני מגדילה את האותיות? </p>',
+		'107385284761214093681',
+		'ברכה מועלם',
+		'2024-01-03 06:10:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/izru_9.html',
+		'<p>בוקר טוב, איך אני מגדילה את האותיות? </p>',
+		'107385284761214093681',
+		'ברכה מועלם',
+		'2024-01-03 06:10:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-03 07:41:14' 
+			WHERE messageid=12546;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/izru_9.html',
+		'<p>בדפדפן פיירפוקס, אפשר ללחוץ על Ctrl+ - זה אמור להגדיל את האותיות בדף.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-03 07:41:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-48-08.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-03 07:41:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-03 07:41:54' 
+			WHERE messageid=12548;
+
