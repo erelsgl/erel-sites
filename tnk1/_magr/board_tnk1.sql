@@ -6933,3 +6933,81 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-48-08.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/apr2.html',
+				'tnk1/kma/qjrim1/ofir.html',
+				NULL,
+				'2024-01-03 12:33:42',
+				'2024-01-03 12:33:42',
+				'אופיר = ארץ בדרום ים-סוף',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1613.html',
+				NULL,
+				'2024-01-03 21:24:25',
+				'2024-01-03 21:24:25',
+				'פרשת שמות: \"כאשר יענו אותו כן ירבה וכן יפרוץ\"/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-01-03 21:24:25'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1614.html',
+				NULL,
+				'2024-01-03 21:28:23',
+				'2024-01-03 21:28:23',
+				'פרעה והמיילדות/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-01-03 21:28:23'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/knesset/index.html',
+				'tnk1/msr/knesset/refugees.html',
+				NULL,
+				'2024-01-04 07:00:16',
+				'2024-01-04 07:00:16',
+				'על סדר היום - פליטים',
+				'אראל',
+				''
+			)
+		;
+
