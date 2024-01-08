@@ -7011,3 +7011,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-07 17:38:03'
+		WHERE ktovt_bn='tnk1/tora/brejit/wyhi_erv_wyhi_boqr.html'
+		;
+

@@ -3115,3 +3115,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-03 07:41:54' 
 			WHERE messageid=12548;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/wyhi_erv_wyhi_boqr.html',
+		'<p>תודה ששיתפתם אראל ומשה. מאמר מעמיק אראל. מקבל את נושא הרוחניות משה, אבל לא יכול עדיין להתכחש לפשט של הפסוק כשכתוב ויהי אור. עליי לקבל שהיה אור גם אם לא נבראו המאורות המשמשים אותנו כיום. לא הייתי שם בבריאה אבל אור וחושך נבדלו בסיפור הבריאה ואף פעם לא שונו אופיים במקרא. מכאן אני מסיק שאור היום הראשון איפשר ראות ברורה והבחנה כמו שאור מאפשר גם בימינו. יש לך להוסיף משה ? אשמח להמשיך בחקר.</p><p>תודה וכל טוב לכם. ישראל.</p>',
+		'108652925865424034219',
+		'Israel Fisher',
+		'2024-01-07 17:38:03'
+		)
+		;
+

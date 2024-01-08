@@ -3682,3 +3682,18 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/ktuv/thlim/th-48-08.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/brejit/wyhi_erv_wyhi_boqr.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-01-07 17:38:03'
+		WHERE parent='tnk1/tora/brejit/wyhi_erv_wyhi_boqr.html'
+		;
+
