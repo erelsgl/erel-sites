@@ -3127,3 +3127,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_24.html',
+		'<p>https://www.youtube.com/watch?v=BypYghusriM</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-09 17:05:52'
+		)
+		;
+
