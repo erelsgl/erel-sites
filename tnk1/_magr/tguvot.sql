@@ -3139,3 +3139,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/24-17.html',
+		'<p>יש לפרש: &quot;בנפול אויבך אל תשמח&quot; - אל תלעג ותלגלג על אויבך כשהוא נופל. זה מעיד על גאווה, כביכול אתה חכם וחזק יותר ממנו. </p><p>&quot;באבוד רשעים רינה&quot; - יש לשיר ולשבח את ה\' שהציל אותך מהרשעים. זה מעיד על ענווה, אתה מכיר בכך שהישועה הגיעה מה\' ולא ממך.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-12 11:13:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/smxa_woyvim.html',
+		'<p>יש לפרש: &quot;בנפול אויבך אל תשמח&quot; - אל תלעג ותלגלג על אויבך כשהוא נופל. זה מעיד על גאווה, כביכול אתה חכם וחזק יותר ממנו.</p><p>&quot;באבוד רשעים רינה&quot; - יש לשיר ולשבח את ה\' שהציל אותך מהרשעים. זה מעיד על ענווה, אתה מכיר בכך שהישועה הגיעה מה\' ולא ממך.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-12 11:14:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/24-17.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-12 11:14:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-12 11:14:38' 
+			WHERE messageid=12553;
+
