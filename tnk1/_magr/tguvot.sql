@@ -3232,3 +3232,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-16 05:36:52' 
 			WHERE messageid=12555;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/tora_toknot.html',
+		'<p></p>',
+		'105962557755009708126',
+		'יהושע עטיה',
+		'2024-01-16 15:09:10'
+		)
+		;
+
