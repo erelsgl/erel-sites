@@ -7223,3 +7223,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mjly/smxa_woyvim.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-01-19 04:55:12'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-14-15.html'
+		;
+

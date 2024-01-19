@@ -3275,3 +3275,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-18 06:57:25' 
 			WHERE messageid=12558;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-15.html',
+		'<p>יש מקומות כמו במדע בו להגיון והשכל יש חשיבות, אבל ברוחניות בחסידות ובקבלה השכל יכול להיות מכשול שעוצר אותך מלקבל ולהבין, שם צריך להיות כפתי המאמין לכל דבר ולא לבחון את הדברים בעיני השכל וההגיון. כי בקדושה לא תמיד ההגיון צודק אלא הציווי האלוקי שצריך לקבלו כפתי מבחינת נעשה ונשמע.</p>',
+		'108541777027320102027',
+		'אריאל עדן',
+		'2024-01-19 04:55:12'
+		)
+		;
+
