@@ -87,3 +87,11 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2023-12-21 19:40:10' WHERE `qod` = 'ביאור:דברים ד41' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `l` = '', `tarik_hosfa` = '2024-01-20 22:25:43' WHERE `qod` = 'ביאור:תהלים ח3' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `sug` = 'הגדרה', `tarik_hosfa` = '2024-01-20 23:48:45' WHERE `qod` = 'אופיר=' AND 1 LIMIT 1;
+

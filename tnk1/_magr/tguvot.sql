@@ -3311,3 +3311,103 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3303_0.html',
+		'<p>כמו בימים ההם, גם בזמן הזה - העובדה שאנחנו עם &quot;מפוזר ומפורד&quot; מעודדת את אויבינו לתקוף אותנו:</p><p>https://www.israelhayom.co.il/magazine/hashavua/article/15117999</p><p>&quot;הריב הפנימי, מופעי הסרבנות והקרע בתוכנו היו עבור חמאס וחיזבאללה, בשנה שקדמה לטבח, כמפת דרכים. שני ארגוני הפרוקסי של איראן זיהו את &quot;שביל החולשה&quot; והגיעו למסקנה שבשלה השעה לנסות להפתיע את ישראל. הכל עדיין נמצא שם. בצד של האויב. רשום. מתועד. פומבי. ד&quot;ר מיכאל מילשטיין מספר כיצד פנטז חמאס על &quot;האלטלנה שתגיח שוב מול חופי ת&quot;א&quot;, ופרופ\' עוזי רבי מתאר כיצד שוכנעו ארגוני הטרור, שישראל הפכה להיות מדינה אוטואימונית שמאבדת שליטה על עצמה.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-20 20:16:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-20 20:17:14' 
+			WHERE messageid=12557;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/17.html',
+		'<p>כמו בימים ההם, גם בזמן הזה - העובדה שאנחנו עם &quot;מפוזר ומפורד&quot; מעודדת את אויבינו לתקוף אותנו:</p><p>https://www.israelhayom.co.il/magazine/hashavua/article/15117999</p><p>&quot;הריב הפנימי, מופעי הסרבנות והקרע בתוכנו היו עבור חמאס וחיזבאללה, בשנה שקדמה לטבח, כמפת דרכים. שני ארגוני הפרוקסי של איראן זיהו את &quot;שביל החולשה&quot; והגיעו למסקנה שבשלה השעה לנסות להפתיע את ישראל. הכל עדיין נמצא שם. בצד של האויב. רשום. מתועד. פומבי. ד&quot;ר מיכאל מילשטיין מספר כיצד פנטז חמאס על &quot;האלטלנה שתגיח שוב מול חופי ת&quot;א&quot;, ופרופ\' עוזי רבי מתאר כיצד שוכנעו ארגוני הטרור, שישראל הפכה להיות מדינה אוטואימונית שמאבדת שליטה על עצמה.&quot;</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-20 20:18:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-08-03.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-20 22:22:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-20 22:22:35' 
+			WHERE messageid=12565;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-08-03.html',
+		'<p>תהלים ח3: &quot;מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם&quot;</p><p>מִפִּי עוֹלְלִים וְיֹנְקִים אשר פיהם טהור בטרם נהיו לנערים אשרחטאו מפרי עץ הדעת כי יצר לב האדם רע מנעוריו</p><p>לכן עוֹלְלִים וְיֹנְקִים משביתים אויב ותנקם לכן ההורים שמחים כשנולד בן לאחר שציפו לו בתקוה גדולה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-21 05:59:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-08-03.html',
+		'<p>תהלים ח3: &quot;מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם&quot;</p><p>מִפִּי עוֹלְלִים וְיֹנְקִים אשר פיהם טהור בטרם נהיו לנערים אשר חטאו מפרי עץ הדעת כי יצר לב האדם רע מנעוריו</p><p>לכן עוֹלְלִים וְיֹנְקִים משביתים אויב ותנקם לכן ההורים שמחים כשנולד בן לאחר שציפו לו בתקוה גדולה כי הוא מביא עמו ברכה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-21 06:00:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-21 06:00:24' 
+			WHERE messageid=12566;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-08-03.html',
+		'<p>תהלים ח3: &quot;מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם&quot;</p><p>מִפִּי עוֹלְלִים וְיֹנְקִים אשר פיהם טהור בטרם נהיו לנערים אשר חטאו מפרי עץ הדעת כי יצר לב האדם רע מנעוריו</p><p>לכן עוֹלְלִים וְיֹנְקִים משביתים אויב ומתנקם לכן ההורים שמחים כשנולד בן לאחר שציפו לו בתקוה גדולה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-21 06:22:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-21 06:22:32' 
+			WHERE messageid=12567;
+
