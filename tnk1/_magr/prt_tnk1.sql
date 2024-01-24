@@ -95,3 +95,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `sug` = 'הגדרה', `tarik_hosfa` = '2024-01-20 23:48:45' WHERE `qod` = 'אופיר=' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'תפילה שה\' לא יפנה לתפילת האויבים', `tarik_hosfa` = '2024-01-24 06:22:06' WHERE `qod` = 'ביאור:במדבר טז15' AND 1 LIMIT 1;
+

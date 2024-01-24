@@ -3454,3 +3454,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mje_wqyn.html',
+		'<p>גם בימינו, לנוכח דברי השנאה של אויבינו המוסלמים, אפשר לפנות אל ה\' ולבקש ממנו: &quot; אל תפן אל תפילתם! &quot;. אולם לשם כך דרושים לנו מנהיגים נקיי-כפיים - מנהיגים שיוכלו להגיד &quot; לא חמור אחד מהם נשאתי, ולא הרעותי את אחד מהם &quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-24 07:10:47'
+		)
+		;
+
