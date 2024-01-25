@@ -3466,3 +3466,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mje_wqyn.html',
+		'<p>תגובה</p><p>יהוה כבר יודע מי הצדיק לשמוע תפילתו</p><p>משלי טו29: &quot;רָחוֹק יהוה מֵרְשָׁעִים וּתְפִלַּת צַדִּיקִים יִשְׁמָע&quot;</p><p> </p><p>----------------</p><p>תיקון למאמר</p><p>משה טוען שמעולם ***לא*** השתמש בזכות זו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-24 11:58:07'
+		)
+		;
+
