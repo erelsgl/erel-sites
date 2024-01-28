@@ -3509,3 +3509,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-26 14:16:34' 
 			WHERE messageid=12575;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>דברים יב20: &quot;כִּי יַרְחִיב יהוה אֱלֹהֶיךָ אֶת גבלך כַּאֲשֶׁר דִּבֶּר לָךְ וְאָמַרְתָּ אֹכְלָה בָּשָׂר כִּי תְאַוֶּה נַפְשְׁךָ לֶאֱכֹל בָּשָׂר בְּכָל אַוַּת נַפְשְׁךָ תֹּאכַל בָּשָׂר&quot;  </p><p>כִּי יַרְחִיב יהוה אֱלֹהֶיךָ אֶת גבלך לנפשך ורחב לך ואכלת בשר כי את הבשר אוכלים ברחבה ברוחב-לב</p><p> ואם יצר יהוה אֱלֹהֶיךָ אֶת גבלך לנפשך וצר לך והיית צמחוני כי הצומח יעזור לך להתמודד בצרה בחושך</p><p>                          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-27 16:16:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>דברים יב20: &quot;כִּי יַרְחִיב יהוה אֱלֹהֶיךָ אֶת גבלך כַּאֲשֶׁר דִּבֶּר לָךְ וְאָמַרְתָּ אֹכְלָה בָּשָׂר כִּי תְאַוֶּה נַפְשְׁךָ לֶאֱכֹל בָּשָׂר בְּכָל אַוַּת נַפְשְׁךָ תֹּאכַל בָּשָׂר&quot;</p><p>כִּי יַרְחִיב יהוה אֱלֹהֶיךָ אֶת גבלך לנפשך ורחב לך ואכלת בשר כי את הבשר אוכלים ברחבה ברוחב-לב</p><p>ואם יצר יהוה אֱלֹהֶיךָ אֶת גבלך לנפשך וצר לך והיית צמחוני כי הצומח יעזור לך להתמודד בצרה בחושך</p><p>לכן שמע טוב בני כי אם יהוה הצר לך בכל שעריך המנע מן הבשר עד תדע את האלהים ורחב לך בלבך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-27 16:18:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-27 16:19:05' 
+			WHERE messageid=12576;
+
