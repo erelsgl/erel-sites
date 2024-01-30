@@ -3578,3 +3578,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-29 07:33:42' 
 			WHERE messageid=12578;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>המשיח הוא יֶלֶד</p><p>ישעיהו ט5: &quot;כִּי יֻלַּד יֶלֶד לָנוּ....... בֵּן נִתַּן לָנוּ וַתְּהִי הַמִּשְׂרָה עַל שִׁכְמוֹ וַיִּקְרָא שְׁמוֹ פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד שַׂר שָׁלוֹם&quot;</p><p>ישעיהו ט6: &quot;לםרבה הַמִּשְׂרָה וּלְשָׁלוֹם אֵין קֵץ עַל כִּסֵּא דָוִד וְעַל מַמְלַכְתּוֹ לְהָכִין אֹתָהּ וּלְסַעֲדָהּ בְּמִשְׁפָּט וּבִצְדָקָה מֵעַתָּה וְעַד עוֹלָם קִנְאַת יהוה צְבָאוֹת תַּעֲשֶׂה זֹּאת&quot;</p><p>תהלים ב7: &quot;אֲסַפְּרָה אֶל חֹק יהוה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ&quot;.......</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-29 08:04:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-29 08:04:46' 
+			WHERE messageid=12579;
+
