@@ -3597,3 +3597,58 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-01-29 08:04:46' 
 			WHERE messageid=12579;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2824_1.html',
+		'<p> </p><p>20 קרשים עצי שטים עומדים צפונה ונגבה</p><p>עשרים קרשים לאורך ושמונה קרשים לרוחב</p><p>-</p><p>משכן העדות היה מרובע אך לא ריבוע כי אם מלבן</p><p>וככה עלינו לבנות בית שיהיה מלבני על פי יחס המשכן</p><p>20 קרשים עצי שטים עומדים צפונה והשולחן על צלע צפון</p><p>זה אומר שפינת האוכל על צלע צפון זה מקום מרווח בבית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-30 16:19:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-18.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-30 20:05:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-01-30 20:05:20' 
+			WHERE messageid=12582;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-18.html',
+		'<p>בדרך הדרש, הפסוק פונה בלשון יחיד לכל אדם ואדם, וקורא לו לשפוט את עצמו: &quot;ר\' אליעזר אומר: במקום שיש דין אין דין, ובמקום שאין דין יש דין. ומהו כן?! אלא, אמר ר\' אליעזר: אם נעשה הדין למטה, אין הדין נעשה למעלה. ואם לא נעשה הדין למטה, הדין נעשה למעלה.&quot; (דברים רבה ה ה). </p><p>ופירש ר\' נחמן מברסלב: &quot;כִּי כְּשֶׁאֵין אָדָם דָּן וְשׁוֹפֵט אֶת עַצְמוֹ, אֲזַי דָּנִין וְשׁוֹפְטִין אוֹתוֹ לְמַעְלָה... אֲזַי הַדִּין נִתְלַבֵּשׁ בְּכָל הַדְּבָרִים, וְכָל הַדְּבָרִים נַעֲשִׂים שְׁלוּחִים לַמָּקוֹם לַעֲשׂוֹת בְּזֶה הָאִישׁ מִשְׁפָּט כָּתוּב... אֲבָל כְּשֶׁשּׁוֹפֵט אֶת עַצְמוֹ, וּכְשֶׁיֵּשׁ דִּין לְמַטָּה, אֵין דִּין לְמַעְלָה, וְאֵין הַיִּרְאָה מִתְלַבֵּשׁ בְּשׁוּם דָּבָר לְעוֹרֵר אֶת הָאָדָם, כִּי הוּא בְּעַצְמוֹ נִתְעוֹרֵר...&quot; (ליקוטי מוהר&quot;ן טו ב). </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-01-30 20:06:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>ספר בראשית פרק כב כתוב:</p><p>(יד) וַיִּקְרָא אַבְרָהָם שֵׁם הַמָּקוֹם הַהוּא יְהֹוָה יִרְאֶה אֲשֶׁר יֵאָמֵר הַיּוֹם בְּהַר יְהֹוָה יֵרָאֶה :</p><p>יְהֹוָה יִרְאֶה = זה סמוך על האלהים שהוא כבר יראה וזה הבטחון ביהוה אלהים</p><p>ואם כתוב בספר...</p><p>קהלת ז20: &quot;כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טּוֹב וְלֹא יֶחֱטָא&quot; </p><p>לבטוח באלהים שבכל יום יש אור וחושך ובכל רע יש בצדו טוב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-01-31 06:19:18'
+		)
+		;
+
