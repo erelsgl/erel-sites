@@ -8259,3 +8259,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nqm.html',
+				'tnk1/ktuv/thlim/th-94.html',
+				NULL,
+				'2024-02-02 06:40:30',
+				'2024-02-02 06:40:30',
+				'מבנה תהלים צד',
+				'אראל',
+				''
+			)
+		;
+
