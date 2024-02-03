@@ -8275,3 +8275,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nxl1.html',
+				'tnk1/kma/qjrim1/nxlt1.html',
+				NULL,
+				'2024-02-02 08:10:31',
+				'2024-02-02 08:10:31',
+				'נחלת ה\' = עם ישראל או ארץ ישראל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-02 09:25:52'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/nxlt1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-02 09:30:51'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/nxlt1.html'
+		;
+

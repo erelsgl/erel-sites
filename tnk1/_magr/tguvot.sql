@@ -3709,3 +3709,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-01 06:45:23' 
 			WHERE messageid=12586;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/nxlt1.html',
+		'<p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>יואל ב18: &quot;וַיְקַנֵּא יהוה לְאַרְצוֹ וַיַּחְמֹל עַל עַמּוֹ&quot;</p><p>כי עמו נחלתו היא ארצו ארץ אחוזת יהוה</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>תהלים צד14: &quot;כִּי לֹא יִטֹּשׁ יהוה עַמּוֹ וְנַחֲלָתוֹ לֹא יַעֲזֹב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-02 09:25:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/nxlt1.html',
+		'<p></p><p>יואל ב18: &quot;וַיְקַנֵּא יהוה לְאַרְצוֹ וַיַּחְמֹל עַל עַמּוֹ&quot;</p><p>כי עמו נחלתו היא ארצו ארץ אחוזת יהוה</p><p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>תהלים צד14: &quot;כִּי לֹא יִטֹּשׁ יהוה עַמּוֹ וְנַחֲלָתוֹ לֹא יַעֲזֹב&quot;</p><p>-</p><p>תהלים כד1: &quot;לְדָוִד מִזְמוֹר ליהוה הָאָרֶץ וּמְלוֹאָהּ תֵּבֵל וְיֹשְׁבֵי בָהּ&quot;</p><p>לכן נחלת יהוה אֵל אֱלֹהֵי הָרוּחֹת זה ברוח בנפש עמו ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-02 09:30:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-02 09:30:53' 
+			WHERE messageid=12588;
+
