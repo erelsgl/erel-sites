@@ -3740,3 +3740,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-02 09:30:53' 
 			WHERE messageid=12588;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/qh-01-18.html',
+		'<p>חכמה מביעה לשלווה, ןלנחמה. הרי הדעת  מבינה, שהכול צפוי, והכול חסדי השם יתברך. תמיד. ותודה על כך.</p>',
+		'106415253625328467792',
+		'ירון שראל',
+		'2024-02-03 13:01:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-02-03 20:12:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-02-03 20:12:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-03 20:12:13' 
+			WHERE messageid=12592;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-03 20:12:14' 
+			WHERE messageid=12591;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-19-05.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-02-03 23:53:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-03 23:53:09' 
+			WHERE messageid=12593;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-19-05.html',
+		'<p>לאראל סגל - סגולה = זה המובחר ביותר</p><p>עם סגולה = זה העם הנבחר יעני שופרא דשופרא</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-04 06:06:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-19-05.html',
+		'<p>לאראל סגל - סגולה = זה המובחר ביותר</p><p>עם סגולה = זה העם הנבחר יעני שופרא דשופרא</p><p>-</p><p>עם ישראל כיום בדור הזה לא עם סגולה כי לא שומעים בקולו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-04 06:24:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-04 06:24:48' 
+			WHERE messageid=12594;
+
