@@ -3840,3 +3840,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-04 06:24:48' 
 			WHERE messageid=12594;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0226_0.html',
+		'<p>דברי הימים א כג32: &quot;וְשָׁמְרוּ אֶת מִשְׁמֶרֶת אֹהֶל מוֹעֵד וְאֵת מִשְׁמֶרֶת הַקֹּדֶשׁ וּמִשְׁמֶרֶת בְּנֵי אַהֲרֹן אֲחֵיהֶם לַעֲבֹדַת בֵּית יהוה\'&quot;</p><p> מִשְׁמֶרֶת אֹהֶל מוֹעֵד = כל הלוים</p><p> וְאֵת מִשְׁמֶרֶת הַקֹּדֶשׁ = רק בני קהת</p><p> וּמִשְׁמֶרֶת בְּנֵי אַהֲרֹן = הכהנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-04 08:42:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>קהלת ד13: &quot;טוֹב יֶלֶד מִסְכֵּן וְחָכָם מִמֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד&quot;</p><p>קהלת ד14: &quot;כִּי מִבֵּית הָסוּרִים יָצָא לִמְלֹךְ כִּי גַּם בְּמַלְכוּתוֹ נוֹלַד רָשׁ&quot;</p><p>קהלת ד15: &quot;רָאִיתִי אֶת כָּל הַחַיִּים הַמְהַלְּכִים תַּחַת הַשָּׁמֶשׁ עִם הַיֶּלֶד הַשֵּׁנִי אֲשֶׁר יַעֲמֹד תַּחְתָּיו&quot;</p><p>-</p><p>נוֹלַד רָשׁ = טוֹב יֶלֶד מִסְכֵּן וְחָכָם = הוא הַיֶּלֶד הַשֵּׁנִי אֲשֶׁר יַעֲמֹד תַּחְתָּיו תַּחַת הַשָּׁמֶשׁ</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-04 09:11:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>קהלת ד13: &quot;טוֹב יֶלֶד מִסְכֵּן וְחָכָם מִמֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד&quot;</p><p>קהלת ד14: &quot;כִּי מִבֵּית הָסוּרִים יָצָא לִמְלֹךְ כִּי גַּם בְּמַלְכוּתוֹ נוֹלַד רָשׁ&quot;</p><p>קהלת ד15: &quot;רָאִיתִי אֶת כָּל הַחַיִּים הַמְהַלְּכִים תַּחַת הַשָּׁמֶשׁ עִם הַיֶּלֶד הַשֵּׁנִי אֲשֶׁר יַעֲמֹד תַּחְתָּיו&quot;</p><p>-</p><p>נוֹלַד רָשׁ = טוֹב יֶלֶד מִסְכֵּן וְחָכָם = הוא הַיֶּלֶד הַשֵּׁנִי אֲשֶׁר יַעֲמֹד תַּחְתָּיו תַּחַת הַשָּׁמֶשׁ </p><p>שלמה המלך החכם הוא קהלת בן דויד אשר ראה את כָּל הַחַיִּים הַמְהַלְּכִים תַּחַת הַשָּׁמֶשׁ ממבט של טוֹב יֶלֶד מִסְכֵּן וְחָכָם הוא הַיֶּלֶד הַשֵּׁנִי</p><p>והילד הראשון שהתנהגותו ילדותית הוא מֶּלֶךְ זָקֵן וּכְסִיל אֲשֶׁר לֹא יָדַע לְהִזָּהֵר עוֹד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-04 09:38:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-04 09:38:41' 
+			WHERE messageid=12597;
+
