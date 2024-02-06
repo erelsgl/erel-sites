@@ -3883,3 +3883,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-04 09:38:41' 
 			WHERE messageid=12597;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-05 11:31:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-05 11:31:13' 
+			WHERE messageid=12599;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אתה המתלונן לאמור לא טוב לי רע לי אין לי חיים</p><p>בוא נכניס אותך לפרופורציות כי הכל יחסי</p><p>ראה כי יש חטופים במנהרות כאסורים בכלא שאינם רואים אור יום ויש חללים במלחמה</p><p>עתה שמח שאתה בחיים ורואה אור שמש עתה הבן שהכל מתגמד והכל פרופורציונאלי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-05 13:59:11'
+		)
+		;
+
