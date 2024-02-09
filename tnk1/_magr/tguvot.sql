@@ -4012,3 +4012,75 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-07 12:48:51' 
 			WHERE messageid=12607;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_kkr_0.html',
+		'<p>ראה הסתעפות אשכול זה</p><p>https://tora-forum.co.il/threads/%D7%A4%D7%99%D7%A8%D7%95%D7%A7-%D7%94%D7%9E%D7%99%D7%9C%D7%94-%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94-%D7%9C%D7%92%D7%A8%D7%9E%D7%99%D7%9D.10431/</p><p></p>',
+		'108408605563732823108',
+		'מאיר פרידמן',
+		'2024-02-08 11:14:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b18_0.html',
+		'<p>Now זה עכשיו</p><p>ו&quot;נא&quot; פירושו זהה (לעיתים) וכמו הפסוק &quot;אל נא רפא נא לה&quot; (במדבר יב יג)  ותרגומו &quot;וְצַלִּי מֹשֶׁה קֳדָם יְיָ לְמֵימַר אֱלָהָא בְּבָעוּ אַסִּי כְעַן יָתַהּ&quot; ו&quot;כען&quot; זה &quot;עכשיו&quot;.</p>',
+		'108408605563732823108',
+		'מאיר פרידמן',
+		'2024-02-08 11:19:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b18_0.html',
+		'<p>LOVE = לאהוב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-08 11:26:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b18_0.html',
+		'<p>מקור האנגלית נובע מארמית</p><p>בארמית CAND זה סוכר מהמילה CANDY ממתקים</p><p>בארמית CATU זה חתול מהמילה CAT חתול באנגלית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-08 11:30:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>בספר ישעיהו נאמר: &quot;הינה יתן (בעתיד) אדני לכם אות, הנה העלמה הרה ויולדת בן...&quot;. במקרא, &quot;אות&quot; הוא דבר פלא - דבר החורג מהטבע, כך נובע במפורש במדברי ספר שמות (פרק ד) וגם ממקורות רבים אחרים. אם &quot;עלמה&quot; האמורה בישעיהו אינה בתולה, אז אין שום פלא, &quot;אות&quot;, בכך שהיא ילדה. לכן, במקרה זה לפחות &quot;עלמה&quot; היא בהכרח בתולה. </p>',
+		'110171075547351568304',
+		'נ. י.',
+		'2024-02-08 22:49:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>בנוסף לכך, על הפסוק &quot;לריח שמנך טובים, שמן תורק שמך, על כן עלמות אהבוך&quot; (שיר השירים, ב, 3) דרש רש&quot;י - &quot;עלמות&quot; = בתולות. </p>',
+		'110171075547351568304',
+		'נ. י.',
+		'2024-02-08 22:52:30'
+		)
+		;
+
