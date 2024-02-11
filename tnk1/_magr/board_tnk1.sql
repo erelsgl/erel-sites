@@ -8625,3 +8625,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/mzmwr.pdf',
+				NULL,
+				'2024-02-10 17:12:48',
+				'2024-02-10 17:12:48',
+				'למנצח מזמור',
+				'רמי ניר',
+				''
+			)
+		;
+
