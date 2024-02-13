@@ -4084,3 +4084,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/prqim/t28.html',
+		'<p>רק נכנסתי, אעיר אחכ</p>',
+		'110535917410401186794',
+		'Charley Ergazi',
+		'2024-02-12 10:32:21'
+		)
+		;
+
