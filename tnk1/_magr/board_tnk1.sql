@@ -8681,3 +8681,72 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1625.html',
+				NULL,
+				'2024-02-15 20:01:07',
+				'2024-02-15 20:01:07',
+				'פרשת תרומה-מקדש, שכינה ושלמה המלך/ מאת: אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-15 20:01:07'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1626.html',
+				NULL,
+				'2024-02-15 20:19:54',
+				'2024-02-15 20:19:54',
+				'שלמה המלך ועבדי חירם/ אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-15 20:19:54'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/ktuv/thlim/th-44.html',
+				NULL,
+				'2024-02-16 07:17:32',
+				'2024-02-16 07:17:32',
+				'מבנה תהלים מד',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-16 07:17:32'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
