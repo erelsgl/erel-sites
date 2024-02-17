@@ -4158,3 +4158,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.facebook.com/shmuel.nissan/videos/375905378390515</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-16 09:25:17'
+		)
+		;
+
