@@ -4170,3 +4170,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1302_0.html',
+		'<p>נפלאות התפילה מבחינת מחקר אקדמי</p><p>https://www.eol.co.il/articles/%D7%A9%D7%99%D7%97%D7%95%D7%AA-%D7%A2%D7%9D-%D7%90%D7%9C%D7%95%D7%94%D7%99%D7%9D-%D7%9B%D7%9A-%D7%AA%D7%A4%D7%99%D7%9C%D7%94-%D7%9E%D7%A9%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%95%D7%97/?fbclid=IwAR1teWZqiOcZqSWV6MCBD2XLogYvlevW83HzjLgQP9sLqIV5OqHVTnAM-Vs</p><p>כאשר אדם מפלל לאלהים הוא משביח את התורשה הגנטית שלו DNA וכל המוח שלו משתנה לטובה ומשתדרג</p><p>ואם האדם צדיק וישר תפילתו גם נשמעת לאמור הסיטואציה הקשה שהיה שרוי בה משתנה לטובה</p><p>ואם האדם לא צדיק אז תפילתו לא תישמע לאמור הסיטואציה הרעה שהיה שרוי בה לא תשתנה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-18 12:36:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>מלכים ב ו27: &quot;וַיֹּאמֶר אַל יוֹשִׁעֵךְ יהוה מֵאַיִן אוֹשִׁיעֵךְ הֲמִן הַגֹּרֶן אוֹ מִן הַיָּקֶב&quot; --- הלא הישועה זה לאכול ולשתות</p><p>כי אם אתה צדיק בני אז כל עת שאתה אוכל ושותה זו ישועה</p><p>ולרשעים : &quot;כָּל אֹכֶל תְּתַעֵב נַפְשָׁם וַיַּגִּיעוּ עַד שַׁעֲרֵי מָוֶת&quot;  [תהלים קז18]</p><p>הושע ט1: &quot;אַל תִּשְׂמַח יִשְׂרָאֵל אַל גִּיל כָּעַמִּים כִּי זָנִיתָ מֵעַל אֱלֹהֶיךָ אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן&quot;</p><p>ואם אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן איך תשמח בני</p><p>שאל את עצמך מה אתה אוהב יותר זנות אֶתְנָן או כָּל גָּרְנוֹת דָּגָן </p><p>וכאשר תשנא זנות-אֶתְנָן ותאהב גָּרְנוֹת דָּגָן אז תדע ישועה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-19 07:22:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>מלכים ב ו27: &quot;וַיֹּאמֶר אַל יוֹשִׁעֵךְ יהוה מֵאַיִן אוֹשִׁיעֵךְ הֲמִן הַגֹּרֶן אוֹ מִן הַיָּקֶב&quot; --- הלא הישועה זה לאכול ולשתות</p><p>כי אם אתה צדיק בני אז כל עת שאתה אוכל ושותה זו ישועה !!!!!!!!!!!!!!!!!!! כן בני כל ארוחה זו חגיגת ישועה</p><p>ולרשעים : &quot;כָּל אֹכֶל תְּתַעֵב נַפְשָׁם וַיַּגִּיעוּ עַד שַׁעֲרֵי מָוֶת&quot; [תהלים קז18]</p><p>הושע ט1: &quot;אַל תִּשְׂמַח יִשְׂרָאֵל אַל גִּיל כָּעַמִּים כִּי זָנִיתָ מֵעַל אֱלֹהֶיךָ אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן&quot;</p><p>ואם אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן איך תשמח בני</p><p>שאל את עצמך מה אתה אוהב יותר זנות אֶתְנָן או כָּל גָּרְנוֹת דָּגָן</p><p>וכאשר תשנא זנות-אֶתְנָן ותאהב גָּרְנוֹת דָּגָן אז תדע ישועה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-19 07:38:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-19 07:38:42' 
+			WHERE messageid=12621;
+
