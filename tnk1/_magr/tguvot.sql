@@ -4213,3 +4213,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-19 07:38:42' 
 			WHERE messageid=12621;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>נביט אל העבר אחורה רק כדי ללמוד לא להכשל בעתיד</p><p>אך לא נביט אל העבר אחורנית כעיני אשת לוט המתגעגעת לימי סדום ועמורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-19 09:05:36'
+		)
+		;
+
