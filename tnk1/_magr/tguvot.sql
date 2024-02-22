@@ -4225,3 +4225,51 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>הזכרה למת מיום המיתה ולא בהכרח מיום הקבורה</p><p>ואמנם רצוי שהקבורה תהיה בסמוך ליום המות שלא תָלִין המת ככתוב:</p><p>דברים כא23: &quot;לֹא תָלִין נִבְלָתוֹ עַל הָעֵץ כִּי קָבוֹר תִּקְבְּרֶנּוּ בַּיּוֹם הַהוּא כִּי קִלְלַת אֱלֹהִים תָּלוּי וְלֹא תְטַמֵּא אֶת אַדְמָתְךָ אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ נַחֲלָה&quot;</p><p>רק במקרה שלא נודע יום מותו של החלל אז תהיה ההזכרה מיום הקבורה ואם גם קבורה לא היתה לו וגם זה כתוב בתורה בספר קהלת</p><p>קהלת ו3: &quot;אִם יוֹלִיד אִישׁ מֵאָה וְשָׁנִים רַבּוֹת יִחְיֶה וְרַב שֶׁיִּהְיוּ יְמֵי שָׁנָיו וְנַפְשׁוֹ לֹא תִשְׂבַּע מִן הַטּוֹבָה וְגַם קְבוּרָה לֹא הָיְתָה לּוֹ אָמַרְתִּי טוֹב מִמֶּנּוּ הַנָּפֶל&quot;</p><p> במקרה שאדם טבע בים ולא נודע מועד טביעתו ולא נמצאה גופתו וְגַם קְבוּרָה לֹא הָיְתָה לּוֹ אז במקרה כזה ההזכרה תהיה ביום הולדתו של החלל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-21 16:58:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0115_3.html',
+		'<p>בכותרת מאמרי כתבתי: &quot;אלהים מה תתן לי&quot;</p><p>השאלה הנשאלת מה תבקש באמת מאלהים</p><p>תהלים כז4: &quot;אַחַת שָׁאַלְתִּי מֵאֵת יהוה אוֹתָהּ אֲבַקֵּשׁ שִׁבְתִּי בְּבֵית יהוה כָּל יְמֵי חַיַּי לַחֲזוֹת בְּנֹעַם יהוה וּלְבַקֵּר בְּהֵיכָלוֹ&quot;  = זה מה שתתן לי</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-21 19:03:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-04.html',
+		'<p>נכון רק השם יכול לנקום באמת, ורק השם הוא מנתצח בקרבות או מלחמות, צבא צריכים כי יש צורך בהשתדלות אבל ישנם בעיות אחרות שאינכם משזכירים כמו מרידה באומות, וכמו החילול שבת והפריצות ב&quot;נובה&quot;!</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2024-02-22 04:42:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-04.html',
+		'<p></p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2024-02-22 04:42:35'
+		)
+		;
+

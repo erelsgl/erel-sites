@@ -8790,3 +8790,97 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-21 16:58:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t25b35_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-21 19:03:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0115_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1627.html',
+				NULL,
+				'2024-02-21 20:35:39',
+				'2024-02-21 20:35:39',
+				'פרשת  תצווה-במה הודלקה המנורה במקדש?/ אהובה קליין ',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-21 20:35:39'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1628.html',
+				NULL,
+				'2024-02-21 20:38:31',
+				'2024-02-21 20:38:31',
+				'ציווי אלוקים/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-21 20:38:31'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/thl.html',
+				'tnk1/messages/ljon_jorj_thl_0.html',
+				NULL,
+				'2024-02-22 04:32:10',
+				'2024-02-22 04:32:10',
+				'תהלה מלשון להלל',
+				'יהודה',
+				'VIEW3213 @ GMAIL.COM'
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-22 04:42:17'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-94-04.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-22 04:42:35'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-94-04.html'
+		;
+
