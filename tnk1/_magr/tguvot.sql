@@ -4273,3 +4273,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>ספר שמות פרק לג (כ) וַיֹּאמֶר לֹא תוּכַל לִרְאֹת אֶת פָּנָי כִּי לֹא יִרְאַנִי הָאָדָם וָחָי: ------- ומת אז יראני וגם את משיחי</p><p>וכל אדם בסוף חייו במותו יראה את האלהים וכן את משיחו ולא כרבני חזל המחכים אלפי שנים למשיח ולא בא</p><p>רבני חזל באין מבין סלפו את התורה ואתם אל תאמינו להם ....................................................................</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-02-23 08:11:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_thl_0.html',
+		'<p>יש &quot;תָּהֳלָה&quot; (איוב ד18) - שהיא מהשורש תהל, כמו התל;</p><p>ויש &quot;תְּהִלָּה&quot; - שהיא מהשורש הלל, כמו שכתבת.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-02-23 08:49:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-23 08:49:50' 
+			WHERE messageid=12627;
+
