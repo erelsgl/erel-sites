@@ -8923,3 +8923,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-02-23 08:51:21'
 			WHERE ktovt_bn='tnk1/sig/mvne2.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/kma/qjrim1/kvod_israel.html',
+				NULL,
+				'2024-02-24 23:11:16',
+				'2024-02-24 23:11:16',
+				'כבוד ישראל',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-25 05:37:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_0.html'
+		;
+
