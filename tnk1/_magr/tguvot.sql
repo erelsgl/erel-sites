@@ -4316,3 +4316,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-80.html',
+		'<p></p>',
+		'107775083122645534303',
+		'erelvgalya',
+		'2024-02-25 09:04:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-25 09:04:40' 
+			WHERE messageid=12631;
+
