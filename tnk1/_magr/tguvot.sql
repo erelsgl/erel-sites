@@ -4335,3 +4335,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-25 09:04:40' 
 			WHERE messageid=12631;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-02-27 06:53:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-02-27 06:53:03' 
+			WHERE messageid=12632;
+

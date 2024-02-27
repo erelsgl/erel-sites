@@ -8955,3 +8955,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-80.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-02-27 06:53:02'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
