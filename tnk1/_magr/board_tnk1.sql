@@ -8963,3 +8963,26 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1xsd.html',
+				'tnk1/ktuv/thlim/th-44-27.html',
+				NULL,
+				'2024-02-27 19:10:18',
+				'2024-02-27 19:10:18',
+				'שלא יהיו חסדיך לשווא',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-02-27 19:10:18'
+			WHERE ktovt_bn='tnk1/msr/1xsd.html';
+
