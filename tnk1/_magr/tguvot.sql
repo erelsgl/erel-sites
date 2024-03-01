@@ -4354,3 +4354,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-02-27 06:53:03' 
 			WHERE messageid=12632;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2637_0.html',
+		'<p> </p><p>תהלים ל5: &quot;זַמְּרוּ ליהוה חֲסִידָיו וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ&quot; =</p><p>תהלים צז12: &quot;שִׂמְחוּ צַדִּיקִים ביהוה וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ&quot; </p><p>שִׂמְחוּ = זַמְּרוּ</p><p>צַדִּיקִים = חֲסִידָיו</p><p>-</p><p>אם אתה רוצה להיות מבורך כצדיק הייה חסיד לעשות חסדים </p><p>לתת אוכל לבעלי חיים ולאביונים וכן עשות צדקה ומשפט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-01 05:26:50'
+		)
+		;
+
