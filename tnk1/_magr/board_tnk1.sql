@@ -9040,3 +9040,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-03-01 11:26:39'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-02 23:59:32'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-32-27.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-03 07:11:14'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-32-27.html'
+		;
+

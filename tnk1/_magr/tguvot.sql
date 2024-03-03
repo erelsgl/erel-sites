@@ -4366,3 +4366,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-02 18:18:33' 
+			WHERE messageid=12570;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-32-27.html',
+		'<p>אנחנו נאלצים לפעמים לשלח ולשחרר מהכלא אסירים תמורת חטופים. גם במצב זה, חשוב לדרוש שהאסירים המשולחים יברכו אותנו: יש לחוקק חוק, שאסור לשחרר אף אסיר לפני שהוא מברך את מדינת ישראל. &quot;לא אשלחך כי אם ברכתני&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-03-02 23:59:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-32-27.html',
+		'<p>הושע יב5: &quot;וָיָּשַׂר אֶל מַלְאָךְ וַיֻּכָל בָּכָה וַיִּתְחַנֶּן לוֹ בֵּית אֵל יִמְצָאֶנּוּ וְשָׁם יְדַבֵּר עִמָּנוּ&quot;</p><p>יעקב אבינו בכה והתחנן למלאך אלהים שיברך אותו ויגאל אותו מכל רע</p><p>בראשית מח16: &quot;הַמַּלְאָךְ הַגֹּאֵל אֹתִי מִכָּל רָע יְבָרֵךְ אֶת הַנְּעָרִים וְיִקָּרֵא בָהֶם שְׁמִי וְשֵׁם אֲבֹתַי אַבְרָהָם וְיִצְחָק וְיִדְגּוּ לָרֹב בְּקֶרֶב הָאָרֶץ&quot; </p><p>זה אותו המלאך של יעקב אשר העניק לו את שמו ישראל זה לא שרו של עשיו רבני חזל לא הבינו נכון את התורה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-03 07:11:14'
+		)
+		;
+
