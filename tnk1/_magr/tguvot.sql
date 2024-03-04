@@ -4397,3 +4397,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אחי בני ישראל</p><p>ככל שעוברים הדורות מגיעים לדור חדש המקרב אותנו לאלהים המוכיח לנו כי אלהים ברא את השמים והארץ ואת כל היקום במאמרו כי בדבר יהוה שמים נעשו וברוח פיו כל צבאם </p><p>אז שמרו על מוצא פיכם והדברים אשר אתם כותבים במעשה ידיכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-03 12:33:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אחי בני ישראל</p><p>ככל שעוברים הדורות מגיעים לדור חדש המקרב אותנו לאלהים </p><p>המוכיח לנו כי אלהים ברא את השמים והארץ ואת כל היקום במאמרו כי בדבר יהוה שמים נעשו וברוח פיו כל צבאם </p><p>אז שמרו על מוצא פיכם והדברים אשר אתם כותבים במעשה ידיכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-03 12:34:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-03 12:34:20' 
+			WHERE messageid=12636;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>קהלת א13: &quot;וְנָתַתִּי אֶת לִבִּי לִדְרוֹשׁ וְלָתוּר בַּחָכְמָה עַל כָּל אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמָיִם הוּא עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ&quot; </p><p>עִנְיַן רָע נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת בּוֹ -  בַּחָכְמָה</p><p>להנצל מהרע -- בַּחָכְמָה = בצניעות בענוה בתבונה וביראת אלהים</p><p>משלי ד7: &quot;רֵאשִׁית חָכְמָה = קְנֵה חָכְמָה וּבְכָל קִנְיָנְךָ קְנֵה בִינָה&quot; </p><p>תהלים קיא10: &quot;רֵאשִׁית חָכְמָה = יִרְאַת יהוה....... שֵׂכֶל טוֹב לְכָל עֹשֵׂיהֶם תְּהִלָּתוֹ עֹמֶדֶת לָעַד&quot;</p><p>איוב כח28: &quot;וַיֹּאמֶר לָאָדָם הֵן יִרְאַת אֲדֹנָי הִיא חָכְמָה....... וְסוּר מֵרָע בִּינָה&quot;</p><p>תהלים כה14: &quot;סוֹד יהוה לִירֵאָיו וּבְרִיתוֹ לְהוֹדִיעָם&quot;</p><p>תהלים נא8: &quot;הֵן אֱמֶת חָפַצְתָּ בַטֻּחוֹת וּבְסָתֻם חָכְמָה תוֹדִיעֵנִי&quot;</p><p>משלי יד33: &quot;בְּלֵב נָבוֹן תָּנוּחַ חָכְמָה וּבְקֶרֶב כְּסִילִים תִּוָּדֵעַ&quot;</p><p>משלי יא2: &quot;בָּא זָדוֹן וַיָּבֹא קָלוֹן וְאֶת צְנוּעִים חָכְמָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-04 07:27:30'
+		)
+		;
+

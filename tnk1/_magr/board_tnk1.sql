@@ -9056,3 +9056,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/brejit/br-32-27.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-03 12:33:28'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-03 12:34:14'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-04 07:27:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
