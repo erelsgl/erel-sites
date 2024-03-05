@@ -9080,3 +9080,58 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-04 10:03:13'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_khn_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-04 11:35:49'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_khn_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-04 11:38:10'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_khn_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-05 04:29:29'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-32-27.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4axryut1.html',
+				'tnk1/tora/jmot/jm-32-31.html',
+				NULL,
+				'2024-03-05 04:31:44',
+				'2024-03-05 04:31:44',
+				'המנהיג מתוודה על חטאי העם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-05 04:31:44'
+			WHERE ktovt_bn='tnk1/msr/4axryut1.html';
+
