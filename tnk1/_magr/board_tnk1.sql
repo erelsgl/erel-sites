@@ -9135,3 +9135,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-03-05 04:31:44'
 			WHERE ktovt_bn='tnk1/msr/4axryut1.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-06 09:02:33'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-32-31.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-06 09:21:23'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_khn_1.html'
+		;
+
