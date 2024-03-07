@@ -4540,3 +4540,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-03-06 09:21:24' 
 			WHERE messageid=12644;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-32-31.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-03-06 09:30:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-06 09:30:31' 
+			WHERE messageid=12645;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>המחשבות נעות מן הרגש על כן נקראים מחשבות-לב לטוב או לרע</p><p>בראשית ו5: &quot;וַיַּרְא יהוה כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ וְכָל יֵצֶר מַחְשְׁבֹת לִבּוֹ....... רַק רַע כָּל הַיּוֹם&quot; </p><p>דברי הימים א כט18: &quot;יהוה אֱלֹהֵי אַבְרָהָם יִצְחָק וְיִשְׂרָאֵל אֲבֹתֵינוּ שֳׁמְרָה זֹּאת לְעוֹלָם לְיֵצֶר מַחְשְׁבוֹת לְבַב....... עַמֶּךָ וְהָכֵן לְבָבָם אֵלֶיךָ&quot;</p><p>תהלים לג11: &quot;עֲצַת יהוה לְעוֹלָם תַּעֲמֹד מַחְשְׁבוֹת לִבּוֹ....... לְדֹר וָדֹר&quot;</p><p>משלי יט21: &quot;רַבּוֹת מַחֲשָׁבוֹת בְּלֶב-אִישׁ....... וַעֲצַת יהוה הִיא תָקוּם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-06 12:17:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>המחשבות נעות מן הרגש על כן נקראים &quot;מחשבות-לב&quot; לטוב או לרע</p><p>בראשית ו5: &quot;וַיַּרְא יהוה כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ וְכָל יֵצֶר מַחְשְׁבֹת לִבּוֹ....... רַק רַע כָּל הַיּוֹם&quot;</p><p>דברי הימים א כט18: &quot;יהוה אֱלֹהֵי אַבְרָהָם יִצְחָק וְיִשְׂרָאֵל אֲבֹתֵינוּ שֳׁמְרָה זֹּאת לְעוֹלָם לְיֵצֶר מַחְשְׁבוֹת לְבַב....... עַמֶּךָ וְהָכֵן לְבָבָם אֵלֶיךָ&quot;</p><p>תהלים לג11: &quot;עֲצַת יהוה לְעוֹלָם תַּעֲמֹד מַחְשְׁבוֹת לִבּוֹ....... לְדֹר וָדֹר&quot;</p><p>משלי יט21: &quot;רַבּוֹת מַחֲשָׁבוֹת בְּלֶב-אִישׁ....... וַעֲצַת יהוה הִיא תָקוּם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-06 12:18:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-06 12:18:19' 
+			WHERE messageid=12646;
+

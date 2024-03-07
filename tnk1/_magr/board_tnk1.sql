@@ -9151,3 +9151,50 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/ljon_jorj_khn_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-06 09:30:29'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-32-31.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-06 12:17:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-06 12:18:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1631.html',
+				NULL,
+				'2024-03-06 17:50:12',
+				'2024-03-06 17:50:12',
+				'פרשת ויקהל- מסר חשוב לעם ישראל-בימינו- כיצד?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-06 17:50:12'
+			WHERE ktovt_bn='tnk1/forums.html';
+
