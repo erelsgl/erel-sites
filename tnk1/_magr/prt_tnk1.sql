@@ -99,3 +99,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `kotrt` = 'תפילה שה\' לא יפנה לתפילת האויבים', `tarik_hosfa` = '2024-01-24 06:22:06' WHERE `qod` = 'ביאור:במדבר טז15' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות לב31' AND 1 LIMIT 1;
+
