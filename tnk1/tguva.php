@@ -64,50 +64,6 @@ echo xhtml_header(
 		");
 
 
-
-function google_old($followup) {
-	return "
-	<script type='text/javascript' src='https://apis.google.com/js/platform.js?onload=onLoad' async defer></script>
-	<meta name='google-signin-client_id' content='$GLOBALS[google_signin_client_id].apps.googleusercontent.com'>
-	<style>
-		iframe#ssIFrame_google {display:none}
-	</style>
-	<script type='text/javascript'>
-		<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
-		function onLoad() {
-				if (!gapi.auth2) {
-					gapi.load('auth2', function() {
-						gapi.auth2.init();
-					});
-				}
-		}
-		
-		function onSignIn(googleUser) {
-				var profile = googleUser.getBasicProfile();
-				//alert (profile.getName());
-				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(profile.getId())+'&name='+encodeURIComponent(profile.getName())+'&email='+encodeURIComponent(profile.getEmail())+'&image='+encodeURIComponent(profile.getImageUrl());
-				//console.log(redirectUrl);
-				window.location = redirectUrl;
-		}
-	
-		function onSignOut() {
-			var auth2 = gapi.auth2.getAuthInstance();
-			console.log('User signing out.');
-			auth2.signOut().then(function () {
-					console.log('User signed out.');
-					var redirectUrl = '?followup=$followup';
-					window.location = redirectUrl;
-			});
-		}
-</script>
-	";
-}
-
-function google_old_button() {
-	return "<div class='g-signin2' data-onsuccess='onSignIn'></div>";
-}
-
-
 function google_new($followup) {
 	global $current_userid;
 	return "
@@ -116,12 +72,12 @@ function google_new($followup) {
 		iframe#ssIFrame_google {display:none}
 	</style>
 	<script type='text/javascript'>
-		<!-- Credit: http://stackoverflow.com/a/29833065/827927-->
+		<!-- Credit: http://stackoverflow.com/a/29833065 -->
 		function onLoad() {
 			console.log('On load not supported in the new Google API: https://developers.google.com/identity/gsi/web/guides/migration#user_consent_and_revoking_permission');
 		}
 
-		function decodeJwtResponse(token) {  // From here: https://stackoverflow.com/a/38552302/827927
+		function decodeJwtResponse(token) {  // From here: https://stackoverflow.com/a/38552302
 			var base64Url = token.split('.')[1];
 			var base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
 			var jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
@@ -141,7 +97,7 @@ function google_new($followup) {
 		function onSignOut() {
 			var redirectUrl = '?followup=$followup';
 			window.location = redirectUrl;
-	}
+		}
 	</script>
 	";
 }
@@ -156,7 +112,6 @@ function google_new_button() {
 }
 
 
-// echo google_old($followup);
 echo google_new($followup);
 
 
