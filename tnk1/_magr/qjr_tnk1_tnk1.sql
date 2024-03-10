@@ -18,3 +18,35 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('תאריכים', 'תאריכים בתנ\"ך לפי הסדר', '', '', 60, 60, '2022-10-12 08:55:07');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'יעקב מתכונן למלחמה', `tarik_hosfa` = '2024-03-09 23:18:59' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:בראשית לב9' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'כגמול על ראיית פני ה\', הגויים לא יחמדו את ארצנו', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:שמות לד24' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'תהלים ח - שירה על כבוד האדם משביתה את טענות אויבינו', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:תהלים ח3' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'העונש הגדול ביותר: ה\' נותן לנו ללכת לפי המועצות שלנו', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:תהלים פא13' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'לימוד התורה משקיט את ליבו של האדם מהצער על ימי שלטון הרע בעולם', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:תהלים צד13' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'תהלים צד - תלונה על שלטון רשע הטוען שהוא מחובר לה\'', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'ביאור:תהלים צד20' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'חשיבות השמירה על כבוד ישראל', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'כבוד ישראל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'תהלים צב - הפסקת אש בשבת', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'על סדר היום - הפסקת אש בשבת' AND 1 LIMIT 1;
+

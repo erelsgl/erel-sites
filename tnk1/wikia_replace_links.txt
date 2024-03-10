@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-03-08 09:50:37
+# This file was automatically generated at 2024-03-10 00:48:42
 
 sub wikia_replace_links {
 $_=shift;
@@ -3712,6 +3712,7 @@ s|${OPENLINK}tnk1/msr/9chemistry|[[ביאור:כימיה|ig;
 s|${OPENLINK}tnk1/msr/9bxira|[[ביאור:סוגיית הבחירה החופשית של האדם|ig;
 s|${OPENLINK}tnk1/msr/9biology|[[ביאור:ביולוגיה|ig;
 s|${OPENLINK}tnk1/msr/9archeology|[[ביאור:ארכיאולוגיה|ig;
+s|${OPENLINK}tnk1/msr/7oct|[[ביאור:מאמרים על מלחמת חרבות ברזל - משיב הרוח - שמחת תורה - בראשית|ig;
 s|${OPENLINK}tnk1/msr/4trbut0|[[ביאור:ויכוחים עם דתות ותרבויות אחרות|ig;
 s|${OPENLINK}tnk1/msr/4trbut|[[ביאור:תרבות של ימינו: מנהגים, מסורת, שירים ועוד|ig;
 s|${OPENLINK}tnk1/msr/4thlikjlom|[[ביאור:תהליך השלום|ig;
@@ -9615,6 +9616,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-89-03|[[ביאור:עולם חסד יבנה|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-84-04|[[ביאור:ציפור ודרור בבית ה'|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-81-13|[[ביאור:העונש הגדול ביותר הוא, שה' נותן לנו ללכת לפי המועצות שלנו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-81-11|[[ביאור:הרחב פיך - ואמלאהו!|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-80-13|[[ביאור:למה פרצת גדריה?|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-80|[[ביאור:מבנה תהלים פ|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-78|[[ביאור:תהלים עח וספר במדבר|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-75-09|[[ביאור:כוס ביד ה'|ig;

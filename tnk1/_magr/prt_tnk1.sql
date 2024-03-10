@@ -103,3 +103,11 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:שמות לב31' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('מלחמת חרבות ברזל', 'אוסף_תוספת', 'tnk_ol', 'מאמרים על מלחמת חרבות ברזל - משיב הרוח - שמחת תורה - בראשית', 'tnk1/msr/7oct', '', '', '2024-03-09 20:19:44');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `ktovt` = 'tnk1/msr/7oct.html', `tarik_hosfa` = '2024-03-09 21:46:29' WHERE `qod` = 'מלחמת חרבות ברזל' AND 1 LIMIT 1;
+

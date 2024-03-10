@@ -10019,3 +10019,92 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1002_4.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mjl.html',
+				'tnk1/ktuv/thlim/th-80-13.html',
+				NULL,
+				'2024-03-09 18:45:22',
+				'2024-03-09 18:45:22',
+				'למה פרצת גדריה?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-09 18:45:22'
+			WHERE ktovt_bn='tnk1/sig/mjl.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sug='׳“׳™׳•׳1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=111
+			WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-10 05:01:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0122_10.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-10 05:24:25'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-10 06:13:46'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html'
+		;
+
