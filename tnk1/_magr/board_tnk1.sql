@@ -10108,3 +10108,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/thlim/th-80-13.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-10 10:28:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-10 10:28:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0223_0.html'
+		;
+

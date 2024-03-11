@@ -4683,3 +4683,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-03-10 06:13:50' 
 			WHERE messageid=12652;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>בראשית ב15: &quot;וַיִּקַּח ה\' אֱלֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ&quot;</p><p>בגן עדן נמצאים בעלי החיים החי והצומח זה אשר בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ</p><p>לאמור כי עלינו לעבוד את השדה הצומח בו וכן את חיית השדה לשמור</p><p>לשמור על כל החיות בטבע בשדה בסביבתם הטבעית ולא לגזול את ביתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-10 10:28:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>בראשית ב15: &quot;וַיִּקַּח יהוה אֱלֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ&quot;</p><p>בגן עדן נמצאים בעלי החיים החי והצומח זה אשר בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ</p><p>לאמור כי עלינו לעבוד את השדה הצומח בו וכן את חיית השדה לשמור</p><p>לשמור על כל החיות בטבע בשדה בסביבתם הטבעית ולא לגזול את ביתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-10 10:28:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-10 10:28:40' 
+			WHERE messageid=12654;
+
