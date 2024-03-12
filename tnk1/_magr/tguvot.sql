@@ -4714,3 +4714,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-03-10 10:28:40' 
 			WHERE messageid=12654;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0406_2.html',
+		'<p>השם שלך הוא הקמיע הרוחני שלך </p><p>ואתה בבואך להחליף או להוסיף שם לשנות שמך בחר לך שם [שם פרטי או שם משפחה] לעדות שיזכיר לך מי אתה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-11 14:14:24'
+		)
+		;
+
