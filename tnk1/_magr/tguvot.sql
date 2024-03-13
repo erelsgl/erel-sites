@@ -4726,3 +4726,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_1.html',
+		'<p>https://scontent.ftlv16-1.fna.fbcdn.net/v/t39.30808-6/431170167_455224500163145_2504483867504802919_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=hIus-X9fJ1MAX_P8bbP&amp;_nc_ht=scontent.ftlv16-1.fna&amp;oh=00_AfDtr4CmIc2oml-HdNn0vg1NbHSJ9ty78rP9H1EWL2L7fg&amp;oe=65F4CAE9</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-12 10:09:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>המנהג למלא את כוס גביע הקידוש עד שפתי הכוס לברכה כדי שיהיה משפת=משפט מלא</p><p>******************************* סברי מרנן --- לחיים *******************************</p><p>https://scontent.ftlv16-1.fna.fbcdn.net/v/t39.30808-6/431170167_455224500163145_2504483867504802919_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=hIus-X9fJ1MAX_P8bbP&amp;_nc_ht=scontent.ftlv16-1.fna&amp;oh=00_AfDtr4CmIc2oml-HdNn0vg1NbHSJ9ty78rP9H1EWL2L7fg&amp;oe=65F4CAE9</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-12 13:45:15'
+		)
+		;
+
