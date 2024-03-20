@@ -4988,3 +4988,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-03-19 04:59:21' 
 			WHERE messageid=12671;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/kma_qjrim1_krml_0.html',
+		'<p>ברש&quot;י מוסבר המלה כרמל</p><p>כר מלא</p>',
+		'104891994452387545447',
+		'שמריהו בוטמן',
+		'2024-03-19 14:38:53'
+		)
+		;
+
