@@ -5000,3 +5000,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/displaced.html',
+		'<p>איך לא תקיא הארץ את יושביה כהני הדת בישראל הרבנים בדיוק כמו הכהנים של הוודו באפריקה</p><p>https://breslev.co.il/3067714/</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-20 13:57:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3302_1.html',
+		'<p>על פי לוח השנה של התורה יש רק שבעה מועדים</p><p>פסח</p><p>חג המצות [נפרד מפסח אך צמוד לו]</p><p>יום הנפת העומר</p><p>חג השבועות סיום ספירת העומר</p><p>יום זכרון תרועה</p><p>יום הכפורים</p><p>חג-הסכות</p><p>----------------</p><p>אין דבר כזה פורים זה חג אשורי נשכח</p><p>את המגילה כתבו קומץ יהודים כפי שד&quot;ר אמיתי ברוכי מעיד</p><p>אני דיין כתבתי לוח שנה ואכן ראש השנה ליובלים באביב ראש החודש הראשון</p><p>הוא בתקופת פורים הוא הפור של לוח השנה האשורי</p><p>https://thetorah.co.il/article/on-the-origins-of-purim-and-its-assyrian-name?fbclid=IwAR1tzrpqNKbklu6WCk_G8GRxDJHSMkFEFx018QrgnkPBBbsHrVq-jOH6E2E_aem_ASoKzovzzymUXTwEl82Og-VLaZJyslVG7EIsz0SZ6HovsEjy_bu8ZgkRj1Lq2DsQ3B2ghxkSokIYBGkfcz6uFTL7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-21 07:33:24'
+		)
+		;
+
