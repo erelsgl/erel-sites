@@ -5024,3 +5024,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>יש אפשרות לחיפוש עם טעמים?</p>',
+		'113859496768557621797',
+		'אבי אוחיון',
+		'2024-03-21 19:27:37'
+		)
+		;
+
