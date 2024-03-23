@@ -123,3 +123,11 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/klli/limud/xipus.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-03-22 08:03:36'
+			WHERE parent='tnk1/messages/prqim_t3302_1.html'
+			;
+

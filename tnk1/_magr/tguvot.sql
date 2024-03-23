@@ -5036,3 +5036,10 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-03-22 08:03:36' 
+			WHERE messageid=12675;
+
