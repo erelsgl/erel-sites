@@ -10453,3 +10453,119 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-03-22 11:26:04'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-27 12:31:12'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-27 12:32:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0129_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/kllezor.html',
+				'tnk1/ezor/mqomot/rafah.html',
+				NULL,
+				'2024-03-27 20:31:26',
+				'2024-03-27 20:31:26',
+				'רפיח - החצר של עזה',
+				'הרב ברוך תאנה',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-27 20:31:26'
+			WHERE ktovt_bn='tnk1/sig/kllezor.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-28 05:57:11'
+		WHERE ktovt_bn='tnk1/ezor/mqomot/rafah.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1640.html',
+				NULL,
+				'2024-03-28 07:28:43',
+				'2024-03-28 07:28:43',
+				'פרשת  צו- תכלית הקורבן והקשר לנבואת יחזקאל/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-28 07:28:43'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1641.html',
+				NULL,
+				'2024-03-28 07:30:00',
+				'2024-03-28 07:30:00',
+				'שיר על: פורומים, דיונים',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-28 07:30:00'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1642.html',
+				NULL,
+				'2024-03-28 07:32:41',
+				'2024-03-28 07:32:41',
+				'בשורת יחזקאל הנביא/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-03-28 07:32:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+
