@@ -10569,3 +10569,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-03-28 07:32:41'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-29 05:56:32'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mdrik_lasot.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-29 05:56:34'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mdrik_lasot.html'
+		;
+

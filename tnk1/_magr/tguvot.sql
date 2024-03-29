@@ -5086,3 +5086,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mdrik_lasot.html',
+		'<p>אהבתי</p>',
+		'104772282333352348778',
+		'אייל מלפיה דסטה',
+		'2024-03-29 05:56:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mdrik_lasot.html',
+		'<p></p>',
+		'104772282333352348778',
+		'אייל מלפיה דסטה',
+		'2024-03-29 05:56:34'
+		)
+		;
+
