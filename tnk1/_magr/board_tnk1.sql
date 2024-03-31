@@ -10593,3 +10593,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-30 11:07:26'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_72_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-30 13:03:38'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/alma.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-30 18:10:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0212_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-03-30 20:04:08'
+		WHERE ktovt_bn='tnk1/ezor/mqomot/rafah.html'
+		;
+

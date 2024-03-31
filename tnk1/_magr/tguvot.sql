@@ -5122,3 +5122,51 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_72_0.html',
+		'<p>אין שום הוכחה על העברית כשפה, כל מה שהבאתם הוא על עם עברי או אלוהי העברים, או עבד עברי וכל זה מורה עם עם לא על שפה</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2024-03-30 11:07:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/alma.html',
+		'<p>ספר שמואל א פרק יז </p><p>(נה) וְכִרְאוֹת שָׁאוּל אֶת דָּוִד יֹצֵא לִקְרַאת הַפְּלִשְׁתִּי אָמַר אֶל אַבְנֵר שַׂר הַצָּבָא בֶּן מִי זֶה הַנַּעַר אַבְנֵר וַיֹּאמֶר אַבְנֵר חֵי נַפְשְׁךָ הַמֶּלֶךְ אִם יָדָעְתִּי:</p><p> (נו) וַיֹּאמֶר הַמֶּלֶךְ שְׁאַל אַתָּה בֶּן מִי זֶה הָעָלֶם:</p><p>עלם הוא כינוי יותר מכובד מנער וכן בנקבה.</p><p>האות בספר ישעיהו הוא על דבר אחר (אות שהנה מתקיים ההריון, לא יותר) ודש&quot;י מסביר היטב את &quot;האות פה&quot;-_ו&quot;המקןר&quot; ששלך הוא לא מקור, איה מקומו?</p><p>כיון שלא שייך בתולים אצל זכר וקראהו שאול עלם ראיה שעלמה לא בא להורות על בתולים, וזה ראיה מוכחת נגד הנוצרים</p><p>בקיצור פשוט ברור ופשוט שעלמה לא מורה על בתולים----וכרגיל הנוצרים מתרגמים כרצונם ומי שמשתתף בשקר גם הוא טועה</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2024-03-30 13:03:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0212_3.html',
+		'<p>שבוע טוב</p><p>היום היה יום שבת 30.3.2024 הוא הארבעה-עשר לחודש האביב הוא החודש הראשון בלוח היובלים [וגם השביעי לעומר קציר שעורים]</p><p>לאמור כי כעת עתה בלילה הזה אמור להיות אכילת זבח הפסח ומחר יום ראשון חג המצות החמישה עשר לחודש האביב [וגם השמיני לעומר]</p><p>למעשה כולנו אוכלים חמץ בפסח לוח השנה העברי המקובל הוא לא באמת הלוח העברי וכל המועדים אינם במקומם מלבד יום השבת</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-03-30 18:10:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ezor/mqomot/rafah.html',
+		'<p>מאמר מצוין, אמנם אינו נוגע לנו כי היום אנו בגלות</p>',
+		'101086161654092722350',
+		'Yehuda Toledano',
+		'2024-03-30 20:04:08'
+		)
+		;
+
