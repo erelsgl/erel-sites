@@ -10625,3 +10625,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ezor/mqomot/rafah.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-02 13:30:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
