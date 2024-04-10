@@ -5406,3 +5406,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/jorj/index.html',
+		'<p>חסר השורש שׂפח. (מופיע פעמיים במקרא: &quot;וְשִׂפַּח ה\' קדקד בנות ציון&quot; &quot;ויקו למשפט והנה מִשְׂפָּח&quot;.)</p>',
+		'106427297542700820520',
+		'דוד מונק',
+		'2024-04-10 00:10:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-10 07:11:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-10 07:11:10' 
+			WHERE messageid=12703;
+
