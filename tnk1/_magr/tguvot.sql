@@ -5437,3 +5437,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-10 07:11:10' 
 			WHERE messageid=12703;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>כתוב בספר איוב פרק כט (יג) בִּרְכַּת אֹבֵד עָלַי תָּבֹא וְלֵב אַלְמָנָה אַרְנִן.</p><p>בִּרְכַּת אֹבֵד = להנצל מאבדון</p><p>בִּרְכַּת עני = להנצל מעוני</p><p>בִּרְכַּת עיוור = לפקוח עינים</p><p>בִּרְכַּת אסיר = לצאת מהכלא בחיים לחופשי</p><p>בִּרְכַּת שדי = מחיית השדה</p><p>וברכת אלהים מאיש אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-11 07:27:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-11 07:38:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-11 07:38:29' 
+			WHERE messageid=12705;
+
