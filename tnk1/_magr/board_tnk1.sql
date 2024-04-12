@@ -10823,3 +10823,57 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1645.html',
+				NULL,
+				'2024-04-11 19:40:14',
+				'2024-04-11 19:40:14',
+				'פרשת תזריע- ההפטרה והקשר האקטואלי/ אהובה ליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-04-11 19:40:14'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1646.html',
+				NULL,
+				'2024-04-11 19:42:27',
+				'2024-04-11 19:42:27',
+				'השבויה הישראלית ונעמן/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-04-11 19:42:27'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-12 04:39:13'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+
