@@ -5499,3 +5499,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2602_1.html',
+		'<p>בספר תהילות פרק ב (ז) אֲסַפְּרָה אֶל חֹק יְהֹוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ :</p><p>את הפסוק הזה אני אומר בכל שנה ביום-הלדתי וממליץ לכל בני-ישראל לאמור כן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-16 11:53:22'
+		)
+		;
+
