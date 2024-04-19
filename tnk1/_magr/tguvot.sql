@@ -5511,3 +5511,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2674_0.html',
+		'<p>https://www.facebook.com/watch?v=1693340191197954  - ללמוד מהגוים את אשר ציוה הנביא</p><p>ישעיהו נח7: &quot;הֲלוֹא פָרֹס לָרָעֵב לַחְמֶךָ וַעֲנִיִּים מְרוּדִים תָּבִיא בָיִת כִּי תִרְאֶה עָרֹם וְכִסִּיתוֹ וּמִבְּשָׂרְךָ לֹא תִתְעַלָּם&quot;</p><p>ישעיהו נח8: &quot;אָז יִבָּקַע כַּשַּׁחַר אוֹרֶךָ וַאֲרֻכָתְךָ מְהֵרָה תִצְמָח וְהָלַךְ לְפָנֶיךָ צִדְקֶךָ כְּבוֹד יהוה יַאַסְפֶךָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-19 04:43:41'
+		)
+		;
+
