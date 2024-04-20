@@ -10947,3 +10947,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-04-19 07:14:33'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-19 08:26:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-19 13:00:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_7.html'
+		;
+
