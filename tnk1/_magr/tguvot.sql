@@ -5547,3 +5547,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-20 17:24:22' 
+			WHERE messageid=10394;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>הורי מעדת כורדיסטאן ואוהבים מוזיקה כורדית</p><p>אני בנם ואוהב מוזיקה לועזית ולכאורה אין קשר</p><p>אני לא ירשתי מהורי את המוזיקה הכורדית</p><p>אני ירשתי את אהבת שמיעת המוזיקה</p><p>------</p><p>אם אביך או אבי אביך עשה צדקה עם אנשים שכבר נפטרו</p><p>האנשים האלה לכאורה לא יכולים להשיב לך צדקה</p><p>אך צדקת אבותיך תעמוד לך כי תירש את רוח צדקת אבותיך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-20 17:24:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0212_3.html',
+		'<p>שבוע טוב</p><p>שבוע שעבר הייתי בשדה שעורה היא התייבשה ונבלה </p><p>וכבר לא אביב! חודש האביב תם השבוע והחל חודש שני</p><p>כעת מוצ&quot;ש אנחנו כבר בחודש השני 6 לחודש השני</p><p>והפסח הרבני יהיה 7 לחודש השני אין כל קשר לאביב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-20 18:11:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-20 18:21:34' 
+			WHERE messageid=12713;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>שבוע טוב</p><p>שבוע שעבר הייתי בשדה שעורה היא התייבשה ונבלה</p><p>וכבר לא אביב! חודש האביב תם השבוע והחל חודש שני</p><p>השבת הייתה 5 לחודש האביב 28 לעומר לקציר שעורים</p><p>-------------------------------------------------------------------</p><p>והפסח הרבני יהיה 7 לחודש השני אין כל קשר לאביב</p><p>וכבר חלף שבוע ימים מעת תם חודש האביב לשעורים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-20 18:27:04'
+		)
+		;
+
