@@ -5597,3 +5597,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>דברים טז1: &quot;שָׁמוֹר אֶת חֹדֶשׁ הָאָבִיב וְעָשִׂיתָ פֶּסַח ליהוה אֱלֹהֶיךָ כִּי בְּחֹדֶשׁ הָאָבִיב הוֹצִיאֲךָ יהוה אֱלֹהֶיךָ מִמִּצְרַיִם לָיְלָה&quot;</p><p>ישנם חוקרי מקרא שפרשו בשגגה את הפסוק הזה וחושבים שהפסח היה בראש חודש האביב לכן כתבתי באור מפורש</p><p>שימו לב</p><p>שמות ט31: &quot;וְהַפִּשְׁתָּה וְהַשְּׂעֹרָה נֻכָּתָה כִּי הַשְּׂעֹרָה אָבִיב....... וְהַפִּשְׁתָּה גִּבְעֹל&quot;</p><p>הַשְּׂעֹרָה אָבִיב....... זה נכתב במכת הברד והיו עוד שלוש מכות לפני הפסח במצרים</p><p>לאמור לך כי ראש חודש האביב הוא כשבועיים לפני צאת ישראל ממצרים</p><p>לאמור לך כי קודם כל היה ראש חודש האביב ורק במחצית החודש יצאו ממצרים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-21 10:35:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-21 14:25:42' 
+			WHERE messageid=12714;
+

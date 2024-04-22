@@ -813,3 +813,26 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t0516_6.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0516_6.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-04-21 10:35:55'
+		WHERE parent='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-04-21 14:25:42'
+			WHERE parent='tnk1/messages/prqim_t0516_6.html'
+			;
+
