@@ -836,3 +836,56 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t0516_6.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1031_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-04-22 08:31:27'
+		WHERE parent='tnk1/messages/prqim_t1031_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/tora_jmot_byom_o_blyla_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-04-23 07:17:54'
+		WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-04-23 07:18:24'
+			WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/tora_jmot_byom_o_blyla_1.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-04-23 07:18:49'
+		WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
