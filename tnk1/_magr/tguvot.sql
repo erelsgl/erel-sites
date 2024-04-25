@@ -5659,3 +5659,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>דברים טז1: &quot;שָׁמוֹר אֶת חֹדֶשׁ הָאָבִיב... וְעָשִׂיתָ פֶּסַח ליהוה אֱלֹהֶיךָ כִּי בְּחֹדֶשׁ הָאָבִיב... הוֹצִיאֲךָ יהוה אֱלֹהֶיךָ מִמִּצְרַיִם לָיְלָה&quot;</p><p> חֹדֶשׁ הָשעורה אָבִיב חודש אחד = חודש ימים</p><p>בתם חודש האביב השעורה מתייבשת ונובלת</p><p>חֹדֶשׁ הָאָבִיב הוא בלוח השמש</p><p>דברים לג14: &quot;וּמִמֶּגֶד תְּבוּאֹת שָׁמֶשׁ וּמִמֶּגֶד גֶּרֶשׁ יְרָחִים&quot;</p><p>********** השעורה והחיטה = תְּבוּאֹת שָׁמֶשׁ **********</p><p>לכן אף על פי שחודש האביב הוא החודש הראשון וירחא ניסן הוא הירח הראשון</p><p>אך ירחא ניסן אינו חודש האביב אך חופף לו באופן חלקי</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-24 15:56:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p> .</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-24 15:56:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-24 15:56:54' 
+			WHERE messageid=12720;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>בהגדה של פסח כתוב:</p><p>בָּרוּך שׁוֹמֵר הַבְטָחָתוֹ לישראל - שהקדוש ברוך הוא חישב את הקץ</p><p>לעשות כמו שאמר לאברהם אבינו בברית בין הבתרים, שנאמר (בראשית טו יג’-יד’): “וַיֹּאמֶר לְאַבְרָם יָדֹעַ תֵּדַע. כִּי גֵר יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא לָהֶם. וַעֲבָדוּם וְעִנּוּ אֹתָם אַרְבַּע מֵאוֹת שָׁנָה. וְגַם אֶת הַגּוֹי אֲשֶׁר יַעֲבֹדוּ דָּן אָנֹכִי. וְאַחֲרֵי כֵן יֵצְאוּ בִּרְכֻשׁ גָּדוֹל”.</p><p>-</p><p>אני דיין-שם-משה עבד-יהוה הקדוש ברוך הוא חישבתי את הקץ</p><p>בתגובתי למאמר זה מתאריך 2021-05-13 14:20:41</p><p>תהלים עז6: &quot;חִשַּׁבְתִּי יָמִים מִקֶּדֶם שְׁנוֹת עוֹלָמִים&quot;</p><p>עתה שמעו בקולי !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-24 16:13:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-24 16:13:40' 
+			WHERE messageid=12718;
+
