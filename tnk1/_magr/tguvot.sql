@@ -5709,3 +5709,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-24 16:13:40' 
 			WHERE messageid=12718;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/48.html',
+		'<p>עזרת לי מאוד, תודה רבה יישר כח</p>',
+		'105134197597222659205',
+		'מתנאל יוסף',
+		'2024-04-25 08:58:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-25 10:35:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-25 10:35:53' 
+			WHERE messageid=12723;
+
