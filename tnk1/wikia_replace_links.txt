@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-03-10 08:27:28
+# This file was automatically generated at 2024-04-26 11:59:12
 
 sub wikia_replace_links {
 $_=shift;
@@ -1413,6 +1413,7 @@ s|${OPENLINK}tnk1/tora/jmot/jm-13-03|[[ביאור:ולא ייאכל חמץ = ב�
 s|${OPENLINK}tnk1/tora/jmot/jm-13|[[ביאור:מבנה שמות יג|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-39|[[ביאור:מדוע בני ישראל לא הכינו צדה לדרך?|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-38|[[ביאור:ערב רב - אז והיום|ig;
+s|${OPENLINK}tnk1/tora/jmot/jm-12-24|[[ביאור:פסח דורות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-22|[[ביאור:עוצר עד בוקר|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-17|[[ביאור:לא להחמיץ את המצות|ig;
 s|${OPENLINK}tnk1/tora/jmot/jm-12-16|[[ביאור:מלאכת אוכל נפש בחג|ig;
@@ -1481,7 +1482,7 @@ s|${OPENLINK}tnk1/tora/jmot/byom_o_blyla|[[ביאור:יום ולילה ביצי
 s|${OPENLINK}tnk1/tora/jmot/bq49|[[ביאור:של מי הבור הזה?|ig;
 s|${OPENLINK}tnk1/tora/jmot/bq22|[[ביאור:אשו משום חציו או אשו משום ממונו|ig;
 s|${OPENLINK}tnk1/tora/jmot/bor_ej|[[ביאור:נזקי בור לעומת נזקי אש|ig;
-s|${OPENLINK}tnk1/tora/jmot/bn_rja|[[ביאור:תשובה לבן הרשע|ig;
+s|${OPENLINK}tnk1/tora/jmot/bn_rja|[[ביאור:זבח פסח הוא לה'|ig;
 s|${OPENLINK}tnk1/tora/jmot/ayn_txt_ayn|[[ביאור:עין תחת עין - השתלת איברים|ig;
 s|${OPENLINK}tnk1/tora/jmot/6ymim|[[ביאור:שבת - למה דווקא כל שבעה ימים?|ig;
 s|${OPENLINK}tnk1/tora/jmita|[[ביאור:טעמי מצוות השמיטה|ig;
@@ -8304,8 +8305,23 @@ s|${OPENLINK}tnk1/messages/forums_169|[[ביאור:'מלוא הטנא' - שיר 
 s|${OPENLINK}tnk1/messages/forums_168|[[ביאור:'ביכורי הודיה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_167|[[ביאור:פרשת כי תבוא - הבאת ביכורים - מה המטרה?|ig;
 s|${OPENLINK}tnk1/messages/forums_166|[[ביאור:'יציאה למלחמה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1650|[[ביאור:'הרעיה ובנות ציון' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_165|[[ביאור:'תפילת הרחמים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1649|[[ביאור:חג הפסח בימינו - שיר השירים וניצני גאולה - האמנם?|ig;
+s|${OPENLINK}tnk1/messages/forums_1648|[[ביאור:הנביא מלאכי - מסר לישראל|ig;
+s|${OPENLINK}tnk1/messages/forums_1647|[[ביאור:פרשת מצורע - שבת הגדול - מסר אקטואלי לישראל!!|ig;
+s|${OPENLINK}tnk1/messages/forums_1646|[[ביאור:'השבויה הישראלית ונעמן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1645|[[ביאור:פרשת תזריע - ההפטרה והקשר האקטואלי|ig;
+s|${OPENLINK}tnk1/messages/forums_1644|[[ביאור:'שה קורבן הפסח' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1643|[[ביאור:פרשת שמיני ופרשת החודש - הקשר ביניהם?|ig;
+s|${OPENLINK}tnk1/messages/forums_1642|[[ביאור:'בשורת יחזקאל הנביא' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1640|[[ביאור:פרשת  צו - תכלית הקורבן והקשר לנבואת יחזקאל|ig;
 s|${OPENLINK}tnk1/messages/forums_164|[[ביאור:פרשת כי תצא - רמז לחודש אלול - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1639|[[ביאור:'המן ותוכניותיו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1637|[[ביאור:'קריאת עליונים וקריאת מעמקים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1636|[[ביאור:פרשת ויקרא - קריאה וזכירה - המשמעות|ig;
+s|${OPENLINK}tnk1/messages/forums_1635|[[ביאור:'המשכן תם ולא נשלם' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1634|[[ביאור:פרשת פקודי - מהו הסוד הנצחי של המשכן?|ig;
 s|${OPENLINK}tnk1/messages/forums_1632|[[ביאור:'משה ואומני המשכן' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1631|[[ביאור:פרשת ויקהל - מסר חשוב לעם ישראל - בימינו - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_1630|[[ביאור:'אליהו הנביא ואחאב המלך' - שיר מאת אהובה קליין (c)|ig;
@@ -12969,6 +12985,7 @@ s|${OPENLINK}tnk1/ezor/pljt|[[ביאור:הסטוריה וארכיאולוגיה
 s|${OPENLINK}tnk1/ezor/nxl_arnon|[[ביאור:נחל ארנון - הגבול בין מואב לבין נחלת ראובן|ig;
 s|${OPENLINK}tnk1/ezor/mqomot/yrujlym_jli|[[ביאור:ירושלים שלי - סיפור|ig;
 s|${OPENLINK}tnk1/ezor/mqomot/temple|[[ביאור:תרשימים של ירושלים ובית-המקדש|ig;
+s|${OPENLINK}tnk1/ezor/mqomot/rafah|[[ביאור:רפיח - החצר של עזה|ig;
 s|${OPENLINK}tnk1/ezor/mqomot/mg05|[[ביאור:זיהוי מקומות בגליל|ig;
 s|${OPENLINK}tnk1/ezor/mqomot/mg04|[[ביאור:ערים שנבנו כמה פעמים|ig;
 s|${OPENLINK}tnk1/ezor/mqomot/gvulot|[[ביאור:גבולות ארץ ישראל|ig;

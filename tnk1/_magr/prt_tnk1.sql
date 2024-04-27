@@ -119,3 +119,11 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 INSERT INTO `prt_tnk1` (`qod`, `sug`, `tvnit`, `kotrt`, `ktovt`, `m`, `l`, `tarik_hosfa`) VALUES ('ביאור:בראשית לב8', 'דיון1', '', 'פחדיו של יעקב', 'tnk1/tora/brejit/br-32-08.html', 'אראל', '', '2024-03-10 08:26:54');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `kotrt` = 'זבח פסח הוא לה\'', `m` = 'אראל', `l` = '', `tarik_hosfa` = '2024-04-26 11:58:47' WHERE `qod` = 'ביאור:שמות יב27' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `kotrt` = 'פסח = צעד כדי להציל', `tarik_hosfa` = '2024-04-26 12:03:24' WHERE `qod` = 'פסח=' AND 1 LIMIT 1;
+

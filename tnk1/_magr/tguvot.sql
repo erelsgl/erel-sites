@@ -5740,3 +5740,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-25 10:35:53' 
 			WHERE messageid=12723;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/bn_rja.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-04-26 11:46:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-26 11:46:51' 
+			WHERE messageid=12724;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/psx.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-04-26 11:53:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-26 11:53:17' 
+			WHERE messageid=6790;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-26 11:53:20' 
+			WHERE messageid=12725;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/psx.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-04-26 11:53:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-14-14.html',
+		'<p></p>',
+		'104555514573490838238',
+		'‫מ ש‬‎',
+		'2024-04-26 11:55:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/psx.html',
+		'<p>מלכים א יח26: &quot;וַיִּקְחוּ אֶת הַפָּר אֲשֶׁר נָתַן לָהֶם וַיַּעֲשׂוּ וַיִּקְרְאוּ בְשֵׁם הַבַּעַל מֵהַבֹּקֶר וְעַד הַצָּהֳרַיִם לֵאמֹר הַבַּעַל עֲנֵנוּ וְאֵין קוֹל וְאֵין עֹנֶה וַיְפַסְּחוּ עַל הַמִּזְבֵּחַ אֲשֶׁר עָשָׂה&quot;</p><p>וַיְפַסְּחוּ עַל הַמִּזְבֵּחַ אֲשֶׁר עָשָׂה&quot; = לאמור דלגו על המזבח</p><p>פסיחה= דלוג וזו היא המשמעות הנכונה והיחידה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-26 12:32:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-26 12:34:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-26 12:34:07' 
+			WHERE messageid=12729;
+
