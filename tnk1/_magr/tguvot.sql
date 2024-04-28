@@ -5840,3 +5840,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-26 12:34:07' 
 			WHERE messageid=12729;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-27 20:10:30' 
+			WHERE messageid=12726;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qormn2.html',
+		'<p>אבולוציה ויהדות יש ב&quot;אוצר החכמה&quot;. גם אני מחפש ראת ספר &quot;יציאת מצרים ומתן תודה&quot;</p>',
+		'100279922629777082168',
+		'Yechiel Weisz',
+		'2024-04-28 04:45:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-28 06:46:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-28 06:46:04' 
+			WHERE messageid=12731;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>שמע את דברי הרב הצדיק ששכל את בנו במלחמה</p><p>https://youtu.be/-4boCkW-r30</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-04-28 07:15:21'
+		)
+		;
+
