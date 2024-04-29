@@ -11535,3 +11535,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-28 14:25:49'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-04-28 14:26:49'
+		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
