@@ -1217,3 +1217,27 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-04-29 19:40:27'
+			WHERE parent='tnk1/tora/jmot/jm-14-14.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-04-29 19:40:29'
+			WHERE parent='tnk1/tora/jmot/jm-14-14.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-04-29 19:40:30'
+			WHERE parent='tnk1/tora/jmot/jm-14-14.html'
+			;
+

@@ -5928,3 +5928,24 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-28 14:26:53' 
 			WHERE messageid=12734;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-29 19:40:27' 
+			WHERE messageid=7529;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-29 19:40:29' 
+			WHERE messageid=11023;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-04-29 19:40:30' 
+			WHERE messageid=12727;
+
