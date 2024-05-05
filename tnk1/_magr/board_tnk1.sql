@@ -11597,3 +11597,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-05-03 08:51:57'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-04 20:25:15'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/ncrut.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-05 03:44:08'
+		WHERE ktovt_bn='tnk1/sofrim/zuckm/ncrut.html'
+		;
+

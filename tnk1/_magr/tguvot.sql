@@ -5949,3 +5949,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-04-29 19:40:30' 
 			WHERE messageid=12727;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/ncrut.html',
+		'<p>ךף</p>',
+		'110999854648974056271',
+		'Techilo Abie',
+		'2024-05-04 20:25:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-04 20:25:21' 
+			WHERE messageid=12735;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/ncrut.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-05 03:44:08'
+		)
+		;
+
