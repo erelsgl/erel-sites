@@ -6011,3 +6011,77 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-08 04:18:06' 
 			WHERE messageid=12737;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>תהלים כה12: &quot;מִי זֶה הָאִישׁ יְרֵא יהוה יוֹרֶנּוּ בְּדֶרֶךְ יִבְחָר&quot; </p><p>תהלים כה13: &quot;נַפְשׁוֹ בְּטוֹב תָּלִין וְזַרְעוֹ יִירַשׁ אָרֶץ&quot;</p><p>ישעיהו סה14: &quot;הִנֵּה עֲבָדַי יָרֹנּוּ מִטּוּב לֵב </p><p>וְאַתֶּם תִּצְעֲקוּ מִכְּאֵב לֵב וּמִשֵּׁבֶר רוּחַ תְּיֵלִילוּ&quot;</p><p>עתה בחן את עצמך אם טוב לב אתה או מהמייללים מִשֵּׁבֶר רוּחַ</p><p>משלי טו4: &quot;מַרְפֵּא לָשׁוֹן עֵץ חַיִּים וְסֶלֶף בָּהּ שֶׁבֶר בְּרוּחַ&quot; </p><p> שֶׁבֶר בְּרוּחַ לָשׁוֹן שקר ומַרְפֵּא לָשׁוֹן עֵץ חַיִּים</p><p>משלי יב18: &quot;יֵשׁ בּוֹטֶה כְּמַדְקְרוֹת חָרֶב וּלְשׁוֹן חֲכָמִים מַרְפֵּא&quot;</p><p>-------------</p><p> יְרֵא יהוה יוֹרֶנּוּ בְּדֶרֶךְ יִבְחָר נַפְשׁוֹ בְּטוֹב תָּלִין = הִנֵּה עֲבָדַי יָרֹנּוּ מִטּוּב לֵב</p><p>אם אתם מחפשים ירא-יהוה להורותכם הדרך רק האיש אשר נַפְשׁוֹ בְּטוֹב תָּלִין</p><p>ואם נַפְשׁוֹ לא בְּטוֹב תָּלִין אז פסחו מעליו הלאה וסרתם ממנו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-08 12:27:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>https://www.youtube.com/watch?v=qyi8CPiQXPE</p><p>שימו לב כי קציר חטים החל כבר בחודש מרס 2024</p><p>-------------------------------------------------------------------</p><p>היום 47 לספירת העומר</p><p>היום 24 לחודש השני</p><p>ובעוד שלושה ימים</p><p>ממחרת השבת</p><p>חג בכורי קציר חטים</p><p>---------------------------</p><p>יש פער של חודש ימים בין החג המקורי לבין חג השבועות של הרבנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-09 03:25:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>https://www.youtube.com/watch?v=qyi8CPiQXPE</p><p>שימו לב כי קציר חטים החל כבר בחודש מרס 2024</p><p>-------------------------------------------------------------------</p><p>היום 47 לספירת העומר</p><p>היום 24 לחודש השני</p><p>ובעוד שלושה ימים</p><p>ממחרת השבת</p><p>חג בכורי קציר חטים</p><p>---------------------------</p><p>יש פער של חודש ימים בין החג המקורי לבין חג השבועות של הרבנים</p><p>חג השבועות של הרבנים בתאריך 12 ליוני 2024 ביום רביעי</p><p>וחג השבועות המקורי בתאריך 12 למאי 2024 ביום ראשון הוא 27 לחודש השני בלוח היובלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-09 03:44:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-09 03:44:58' 
+			WHERE messageid=12740;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>תהלים עו7: &quot;מִגַּעֲרָתְךָ אֱלֹהֵי יַעֲקֹב נִרְדָּם וְרֶכֶב וָסוּס&quot;</p><p>זאת הסיבה שצה&quot;ל נִרְדָּם בשמירה</p><p>ואני דיין מבקש להעירכם מתנומה</p><p>תהלים קכא4: &quot;הִנֵּה לֹא יָנוּם וְלֹא יִישָׁן שׁוֹמֵר יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-09 04:11:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-09 04:11:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-09 04:11:47' 
+			WHERE messageid=12743;
+
