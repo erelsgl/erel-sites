@@ -6104,3 +6104,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-10 07:16:34' 
 			WHERE messageid=12744;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>https://www.youtube.com/watch?v=qyi8CPiQXPE</p><p>שימו לב כי קציר חטים החל כבר בחודש מרס 2024</p><p>-------------------------------------------------------------------</p><p>היום 50 לספירת העומר</p><p>היום 27 לחודש השני</p><p>היום חג השבועות</p><p>ממחרת השבת</p><p>חג בכורי קציר חטים</p><p>---------------------------</p><p>יש פער של חודש ימים בין החג המקורי לבין חג השבועות של הרבנים</p><p>חג השבועות של הרבנים בתאריך 12 ליוני 2024 ביום רביעי</p><p>וחג השבועות המקורי בתאריך 12 למאי 2024 ביום ראשון הוא 27 לחודש השני בלוח היובלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-12 04:31:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-12 04:31:22' 
+			WHERE messageid=12741;
+
