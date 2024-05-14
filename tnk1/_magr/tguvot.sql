@@ -6173,3 +6173,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-13 06:13:19' 
 			WHERE messageid=12747;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>https://www.youtube.com/watch?v=eYGAu2FW2p4</p><p>קציר חיטה בתאריך 5 למאי 2024 ..................................</p><p>מןעד חג בכורי קציר חטים המקראי תנ&quot;כי ממחרת השבת ביום ראשון 12 למאי 2024</p><p>יש פער של חודש ימים בין החג המקורי לבין חג השבועות של הרבנים </p><p>חג השבועות של הרבנים בתאריך 12 ליוני 2024 ביום רביעי</p><p>וחג השבועות המקורי בתאריך 12 למאי 2024 ביום ראשון הוא 27 לחודש השני בלוח היובלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-13 16:34:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-13 16:34:57' 
+			WHERE messageid=12745;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/yl-04-02.html',
+		'<p>דברים לב9: &quot;כִּי חֵלֶק יהוה עַמּוֹ יַעֲקֹב חֶבֶל נַחֲלָתוֹ&quot;</p><p>עמי ונחלתי = ישראל ויעקב ....... אֲשֶׁר פִּזְּרוּ בַגּוֹיִם </p><p>נחלת -יהוה זה בני ישראל</p><p>לכן מוסיף הכתוב ואומר וְאֶת אַרְצִי חִלֵּקוּ</p><p>כי הארץ זה האדמה ויעקב הוא נחלת אלהי ישראל</p><p>-</p><p>ובאשר לעמק יהושפט ראה דברי מאמרי בקישור</p><p>https://tora.us.fm/tnk1/messages/prqim_t1404_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 04:35:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>פעם היו עגלות כירכרה בסביבה טהורה</p><p>היום יש מכוניות פאר בסביבה מזוהמת</p><p>המכוניות התקדמו טכנולוגית על חשבון הסביבה החי והצומח והנוף</p><p>זו לא חכמה לפתח טכנולוגיה על חשבון הסביבה החי והצומח והנוף</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 07:21:16'
+		)
+		;
+

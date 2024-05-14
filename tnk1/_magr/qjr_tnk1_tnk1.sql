@@ -50,3 +50,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_tnk1_tnk1` SET `kotrt` = 'תהלים צב - הפסקת אש בשבת', `tarik_hosfa` = '2024-03-09 23:19:00' WHERE `av` = 'מלחמת חרבות ברזל' AND `bn` = 'על סדר היום - הפסקת אש בשבת' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מלחמת חרבות ברזל', 'על סדר היום - פליטים', '', '', 60, 60, '2024-05-13 22:13:24');
+
