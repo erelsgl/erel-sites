@@ -11795,3 +11795,114 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 12:23:38'
+		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 12:48:07'
+		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/3axdut.html',
+				'tnk1/nvia/yrmyhu/yr-31-23.html',
+				NULL,
+				'2024-05-14 14:34:02',
+				'2024-05-14 14:34:02',
+				'נבואה לאחדות בין איכרים לרועים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/4hnhga.html',
+				'tnk1/ktuv/mgilot/ei-02-14.html',
+				NULL,
+				'2024-05-14 14:58:47',
+				'2024-05-14 14:58:47',
+				'נביאים שאינם מגלים את העוון, לא ישיבו אותנו לטוב',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-05-14 14:58:47'
+			WHERE ktovt_bn='tnk1/msr/4hnhga.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 17:16:42'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 17:28:49'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xlm1.html',
+				'tnk1/ktuv/thlim/th-126-01.html',
+				NULL,
+				'2024-05-14 17:39:47',
+				'2024-05-14 17:39:47',
+				'חלום שיבת ציון',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 17:54:11'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-126-01.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-14 17:58:31'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-126-01.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-15 07:37:06'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
