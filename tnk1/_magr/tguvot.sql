@@ -6497,3 +6497,60 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-17 06:41:31' 
 			WHERE messageid=12767;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/anwa.html',
+		'<p>יש דרך נוספת למצבים כאלה. המסורת והקבלה מדור לדור היא מאבני היסוד של התורה שבעל פה. רבי טרפון הוא חכם לעומת זאת יהודה בן נחמיה הוא תלמיד. לכן הוא צריך לפנות אליו בדרך שאלה האם האבחנה שאמר נכונה ? והרב החכם הוא המאשר או דוחה. או בלשון של &quot;ילמדנו רבינו&quot; . כאשר מדברים בענווה ומתנהגים בענווה יכולים למנוע מצב של שמחה לאיד ומבינים שהעברת התורה היא מרב לתלמיד וניתן לדייק את הדברים.</p>',
+		'111458966861672376659',
+		'אשר חדד',
+		'2024-05-17 13:43:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-01.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 14:27:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 14:27:48' 
+			WHERE messageid=12770;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 14:28:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 14:28:21' 
+			WHERE messageid=12771;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 15:32:50' 
+			WHERE messageid=12658;
+
