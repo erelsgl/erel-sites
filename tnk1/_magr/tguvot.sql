@@ -6554,3 +6554,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-17 15:32:50' 
 			WHERE messageid=12658;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0133_1.html',
+		'<p>ספר דברים פרק יד כתוב:</p><p>(כה) וְנָתַתָּה בַּכָּסֶף וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ וְהָלַכְתָּ אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ.</p><p>והפרוש לבאר לכם:</p><p>כאשר זה למען אלהים הייה נדיב-לב ועשה מצור על הכסף</p><p> וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ ולא הכסף יעשה מצור עליך</p><p>ספר יחזקאל פרק ה כתוב:</p><p>(א) וְאַתָּה בֶן אָדָם קַח לְךָ חֶרֶב חַדָּה תַּעַר הַגַּלָּבִים תִּקָּחֶנָּה לָּךְ וְהַעֲבַרְתָּ עַל רֹאשְׁךָ וְעַל זְקָנֶךָ וְלָקַחְתָּ לְךָ מֹאזְנֵי מִשְׁקָל וְחִלַּקְתָּם.</p><p>(ב) שְׁלִשִׁית בָּאוּר תַּבְעִיר בְּתוֹךְ הָעִיר כִּמְלֹאת יְמֵי *** הַמָּצוֹר *** וְלָקַחְתָּ אֶת הַשְּׁלִשִׁית תַּכֶּה בַחֶרֶב סְבִיבוֹתֶיהָ וְהַשְּׁלִשִׁית תִּזְרֶה לָרוּחַ וְחֶרֶב אָרִיק אַחֲרֵיהֶם.</p><p>(ג) וְלָקַחְתָּ מִשָּׁם מְעַט בְּמִסְפָּר וְצַרְתָּ אוֹתָם בִּכְנָפֶיךָ.</p><p>וְצַרְתָּ אוֹתָם בִּכְנָפֶיךָ = גם מלשון צרור = וגם מלשון מצור</p><p>וראה בתורת משה</p><p>ספר דברים פרק כ כתוב:</p><p>(י) כִּי תִקְרַב אֶל עִיר לְהִלָּחֵם עָלֶיהָ וְקָרָאתָ אֵלֶיהָ לְשָׁלוֹם.</p><p>(יא) וְהָיָה אִם שָׁלוֹם תַּעַנְךָ וּפָתְחָה לָךְ וְהָיָה כָּל הָעָם הַנִּמְצָא בָהּ יִהְיוּ לְךָ לָמַס וַעֲבָדוּךָ.</p><p>(יב) וְאִם לֹא תַשְׁלִים עִמָּךְ וְעָשְׂתָה עִמְּךָ מִלְחָמָה וְצַרְתָּ עָלֶיהָ.</p><p>וְצַרְתָּ עָלֶיהָ = מלשון מצור</p><p>ספר ישעיהו פרק כט כתוב:</p><p>(ג) וְחָנִיתִי כַדּוּר עָלָיִךְ וְצַרְתִּי עָלַיִךְ מֻצָּב וַהֲקִימֹתִי עָלַיִךְ מְצֻרֹת.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:23:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:38:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-19 10:38:05' 
+			WHERE messageid=12773;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:38:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-19 10:38:27' 
+			WHERE messageid=12774;
+
