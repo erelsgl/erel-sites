@@ -6604,3 +6604,84 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-19 10:38:27' 
 			WHERE messageid=12774;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>https://www.ynet.co.il/economy/article/hkvm3twg0</p><p>ביהמ&quot;ש נגד שופטת בדימוס: &quot;ביקשה לבצע מחטף של נחלות&quot;.</p><p>מלכה אביב, ממייסדי מושב גיתית ושופטת בעברה, הייתה מעורבת בסכסוך משפטי הנוגע להקצאת חלקות. בדרך לפשרה מתח עליה השופט ביקורת קשה.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-05-20 08:03:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t1404_0.html</p><p>https://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p><p>ואתם ישראל וכל כהניו שמעו בקולי האמינו בי</p><p>אל תשנאו אותי ואל תכחשו לי פן יהיה עתכם לעולם</p><p>תהלים פא14: &quot;לוּ עַמִּי שֹׁמֵעַ לִי יִשְׂרָאֵל בִּדְרָכַי יְהַלֵּכוּ&quot;</p><p>תהלים פא15: &quot;כִּמְעַט אוֹיְבֵיהֶם אַכְנִיעַ וְעַל צָרֵיהֶם אָשִׁיב יָדִי&quot;</p><p>תהלים פא16: &quot;מְשַׂנְאֵי יהוה יְכַחֲשׁוּ לוֹ וִיהִי עִתָּם לְעוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-20 10:22:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t1404_0.html</p><p>https://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p><p>חי יהוה כי אנכי עבדו משיחו ולמען ישראל כתבתי התורה הזאת</p><p> http://tora.us.fm/tnk1/daian</p><p>ואתם ישראל וכל כהניו שמעו בקולי האמינו בי</p><p>אל תשנאו אותי ואל תכחשו לי פן יהיה עתכם לעולם</p><p>תהלים פא14: &quot;לוּ עַמִּי שֹׁמֵעַ לִי יִשְׂרָאֵל בִּדְרָכַי יְהַלֵּכוּ&quot;</p><p>תהלים פא15: &quot;כִּמְעַט אוֹיְבֵיהֶם אַכְנִיעַ וְעַל צָרֵיהֶם אָשִׁיב יָדִי&quot;</p><p>תהלים פא16: &quot;מְשַׂנְאֵי יהוה יְכַחֲשׁוּ לוֹ וִיהִי עִתָּם לְעוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-20 10:42:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-20 10:43:02' 
+			WHERE messageid=12776;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-07.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-05-20 19:20:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-20 19:20:34' 
+			WHERE messageid=12778;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-21 01:37:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-21 01:37:31' 
+			WHERE messageid=12779;
+

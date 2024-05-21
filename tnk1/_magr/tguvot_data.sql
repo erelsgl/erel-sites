@@ -2041,3 +2041,102 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/msr/knesset/land.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-20 08:03:14'
+		WHERE parent='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/ei-02-14.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-20 10:22:00'
+		WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/ei-02-14.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-20 10:42:59'
+		WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-05-20 10:43:02'
+			WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/wyqra/wy-25-07.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-20 19:20:33'
+		WHERE parent='tnk1/tora/wyqra/wy-25-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-05-20 19:20:34'
+			WHERE parent='tnk1/tora/wyqra/wy-25-07.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mgilot/ei-02-14.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-21 01:37:28'
+		WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-05-21 01:37:31'
+			WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
+			;
+

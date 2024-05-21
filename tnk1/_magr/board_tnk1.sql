@@ -12096,3 +12096,43 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-20 08:03:14'
+		WHERE ktovt_bn='tnk1/msr/knesset/land.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-20 10:22:00'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-20 10:42:59'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-20 19:20:33'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-25-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-21 01:37:28'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
