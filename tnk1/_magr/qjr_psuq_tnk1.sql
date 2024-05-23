@@ -658,3 +658,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-12-22 08:41:52' WHERE `bn` = 'בנין אב בתלמוד' AND `sfr` = 'דבר' AND `prq0` = 'יט' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-05-22 08:55:40' WHERE `bn` = 'ביאור:איכה א7' AND `sfr` = 'אכה' AND `prq0` = 'א' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+

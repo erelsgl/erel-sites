@@ -2140,3 +2140,26 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/ktuv/mgilot/ei-02-14.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-05-22 08:59:42'
+			WHERE parent='tnk1/messages/prqim_t1402_2.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0103_4.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-05-23 02:02:10'
+		WHERE parent='tnk1/messages/prqim_t0103_4.html'
+		;
+
