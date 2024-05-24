@@ -12190,3 +12190,58 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-23 08:36:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/51.html',
+				'tnk1/messages/dmut_dmut_51_0.html',
+				NULL,
+				'2024-05-23 12:29:43',
+				'2024-05-23 12:29:43',
+				'זבולון וצידון',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-23 14:40:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0517_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9xqlaut.html',
+				'tnk1/ktuv/thlim/th-126-05.html',
+				NULL,
+				'2024-05-24 07:24:26',
+				'2024-05-24 07:24:26',
+				'הזורעים בדמעה - ברינה יקצורו',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-05-24 07:24:26'
+			WHERE ktovt_bn='tnk1/msr/9xqlaut.html';
+
