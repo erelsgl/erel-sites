@@ -12245,3 +12245,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-05-24 07:24:26'
 			WHERE ktovt_bn='tnk1/msr/9xqlaut.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-24 09:26:55'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-126-05.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-24 14:36:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+

@@ -6728,3 +6728,48 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-05.html',
+		'<p>מתוך קישור לדברי מאמרי &quot;בית ספר לנזירים&quot;</p><p>https://tora.us.fm/tnk1/messages/ljon_jorj_nzr1_0.html</p><p>בתגובה מתאריך זה</p><p>2019-09-16 04:35:23</p><p>DAIAN SHEM	</p><p>ספר זכריה פרק ז כתוב:</p><p>(ג) לֵאמֹר אֶל הַכֹּהֲנִים אֲשֶׁר לְבֵית יְהוָה צְבָאוֹת וְאֶל הַנְּבִיאִים לֵאמֹר הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי זֶה כַּמֶּה שָׁנִים</p><p>הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי = לאמור כי הנזיר בוכה</p><p>---------------------------------------------------------------------------------------------------------</p><p>הסיבה שהנזיר בוכה כי הוא נותן את זרעו=הונו=דעתו לאלהים וככה הנזיר שופך נפשו לאלהים</p><p>שמות כב28: &quot;מְלֵאָתְךָ וְדִמְעֲךָ לֹא תְאַחֵר בְּכוֹר בָּנֶיךָ תִּתֶּן לִּי&quot;</p><p>והנזיר נותן בדמעתו את בכורו לאלהים כי הנזיר מתנזר מתענוגות בשרים</p><p>ולא בא על אשה לתת בה את זרעו ולא מושך בשרו ביין לשמח לבבו</p><p>כי שמחת הנזיר הקדוש מאת יהוה לבדו ומתירוש -אלהים אשר לא יחדל</p><p>זאת היא: &quot;שִׂמְחָה לַצַּדִּיק עֲשׂוֹת מִשְׁפָּט וּמְחִתָּה לְפֹעֲלֵי אָוֶן&quot; ככתוב בספר משלי כא15</p><p>כשהנזיר בוכה מאהבה לאלהים הוא זורע בדמעה וקוצר ברינה</p><p>תהלים קכו5: &quot;הַזֹּרְעִים בְּדִמְעָה בְּרִנָּה יִקְצֹרוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-24 09:26:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:34:28' 
+			WHERE messageid=11058;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:34:50' 
+			WHERE messageid=11056;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-24 14:36:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:36:33' 
+			WHERE messageid=12784;
+
