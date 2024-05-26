@@ -6773,3 +6773,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-24 14:36:33' 
 			WHERE messageid=12784;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-26 06:03:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-26 06:04:01' 
+			WHERE messageid=12785;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-26 07:34:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-26 07:34:22' 
+			WHERE messageid=12786;
+
