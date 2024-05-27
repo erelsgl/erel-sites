@@ -6811,3 +6811,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-05-26 07:34:22' 
 			WHERE messageid=12786;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-06.html',
+		'<p>תהלים קכו6: &quot; הָלוֹךְ יֵלֵךְ וּבָכֹה נֹשֵׂא מֶשֶׁךְ הַזָּרַע בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו. &quot;</p><p> הָלוֹךְ יֵלֵךְ וּבָכֹה נֹשֵׂא מֶשֶׁךְ הַזָּרַע [השומר את הברית] ולא השחית זרעו ארצה</p><p>לכן זרעו הזרע בר קיימא בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 04:56:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 06:39:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-27 06:39:46' 
+			WHERE messageid=12788;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>כתבתי את שנת 2450 היא שנת צאת ישראל ממצרים לאחר ארבעה דורות</p><p>וכתבתי בספר כי פירוש רבני חזל הגדולים אינו נכון לחזון אברהם אשר בארתי בקודש</p><p>אך הרבנים מכחשים לי באמרם ביזית בספרך את רבני חזל הגדולים ועשית אותנו קטנים</p><p>ואומר להם דא עקא כי אתם בעיניכם רבנים גדולים ואלהים קטן ואני חשבתי להפוך זאת למען</p><p>הקטין את הרבנים למען אלהים גדול על כן ביזיתי אתכם בספר האמת אשר כתבתי</p><p>וזכרתי את אבותינו הקדושים אשר אלהים השיבם מן הגלות לארץ כנען</p><p>כי בימי הקמת המדינה בעת שיבת ציון היו הרבנים קטנים ואלהים גדול וככה נכון להיות</p><p>דברים לב3: &quot;כִּי שֵׁם יהוה אֶקְרָא הָבוּ גֹדֶל לֵאלֹהֵינוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 06:48:51'
+		)
+		;
+

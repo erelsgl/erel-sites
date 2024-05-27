@@ -12300,3 +12300,50 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/9xqlaut.html',
+				'tnk1/ktuv/thlim/th-126-06.html',
+				NULL,
+				'2024-05-27 03:12:36',
+				'2024-05-27 03:12:36',
+				'הזורע בבכי - ברינה יקצור',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-05-27 03:12:36'
+			WHERE ktovt_bn='tnk1/msr/9xqlaut.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-27 04:56:27'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-126-06.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-27 06:39:44'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-05-27 06:48:51'
+		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
+		;
+
