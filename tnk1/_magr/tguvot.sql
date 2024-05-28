@@ -6854,3 +6854,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>https://www.facebook.com/reel/420089184200123</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-28 05:09:14'
+		)
+		;
+
