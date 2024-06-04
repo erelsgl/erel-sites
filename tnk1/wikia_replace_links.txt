@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-04-26 11:59:12
+# This file was automatically generated at 2024-06-04 05:40:36
 
 sub wikia_replace_links {
 $_=shift;
@@ -3168,11 +3168,13 @@ s|${OPENLINK}tnk1/nvia/yrmyhu/yr-38|[[ביאור:צדקיהו אלוף השחמ�
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-36|[[ביאור:ירמיהו - בכתב ובעל-פה|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-34-13|[[ביאור:עשירי ישראל חוטאים בחטאם של המצרים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-34|[[ביאור:היתר השחרור|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-32-27|[[ביאור:ה' יכול לשנות גם את לבות בני האדם|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-32-09|[[ביאור:כמה עלה השדה של חנמאל?|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-32-07|[[ביאור:מאיפה היה לחנמאל שדה?|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-32|[[ביאור:האם ירמיהו לא האמין שתבוא הגאולה?|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-37.jpg|[[ביאור:יר לא 37|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-2829|[[ביאור:בימים ההם לא יאמרו עוד אבות אכלו בסר ושני בנים תקהינה|ig;
+s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-23|[[ביאור:נבואה לאחדות בין איכרים לרועים|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-22|[[ביאור:נוה צדק|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-1719|[[ביאור:אפרים מתנודד|ig;
 s|${OPENLINK}tnk1/nvia/yrmyhu/yr-31-03.jpg|[[ביאור:יר לא 03 (מצאו את השגיאה)|ig;
@@ -3485,6 +3487,7 @@ s|${OPENLINK}tnk1/nvia/tryasr/yn-morya|[[ביאור:שיעור על יונה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/yn-amos|[[ביאור:מוזר, יונה על-פי ה"פשט" (יונה כמשל לנפש)|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/yn-04-1011|[[ביאור:משל הקיקיון|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/yn-03-07|[[ביאור:למה צמו הבהמות?|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/yl-04-02|[[ביאור:תוכחה על חלוקת הארץ|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/yl-02-16|[[ביאור:פיקוח נפש דוחה משפחה|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-03-06|[[ביאור:עמד וימודד ארץ, ראה ויתר גוים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/xv-03|[[ביאור:התפילה של חבקוק|ig;
@@ -8304,7 +8307,17 @@ s|${OPENLINK}tnk1/messages/forums_17|[[ביאור:'עקדת יצחק' - שיר �
 s|${OPENLINK}tnk1/messages/forums_169|[[ביאור:'מלוא הטנא' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_168|[[ביאור:'ביכורי הודיה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_167|[[ביאור:פרשת כי תבוא - הבאת ביכורים - מה המטרה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1660|[[ביאור:'סוד הצלחת ישראל' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_166|[[ביאור:'יציאה למלחמה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1659|[[ביאור:פרשת בחוקותיי - ה' ילחם לכם ואתם, תחרישון" - גם בימינו? |ig;
+s|${OPENLINK}tnk1/messages/forums_1658|[[ביאור:פרשת בהר - האומנם מסר אלוקי מהר סיני לישראל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1657|[[ביאור:'ירמיהו הנביא רוכש שדה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1656|[[ביאור:'האיכר והתבואה החדשה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1655|[[ביאור:פרשת אמור: "לא בחיל ולא בכוח כי אם ברוחי אמר ה'"|ig;
+s|${OPENLINK}tnk1/messages/forums_1654|[[ביאור:'הנביא עמוס ובשורתו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1653|[[ביאור:פרשת  קדושים - רמזים מדהימים לימים אלו ממש|ig;
+s|${OPENLINK}tnk1/messages/forums_1652|[[ביאור:'יחזקאל שופט את ירושלים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1651|[[ביאור:פרשת אחרי מות, איתותים לתקופתנו - הבה נתעורר|ig;
 s|${OPENLINK}tnk1/messages/forums_1650|[[ביאור:'הרעיה ובנות ציון' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_165|[[ביאור:'תפילת הרחמים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1649|[[ביאור:חג הפסח בימינו - שיר השירים וניצני גאולה - האמנם?|ig;
@@ -9098,6 +9111,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_555_0|[[ביאור:מי היה עתניאל
 s|${OPENLINK}tnk1/messages/dmut_dmut_549_0|[[ביאור:ארבע אבי הענק עפרון וחברון|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_542_0|[[ביאור:כלב והוא היה בן 85 שנה|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_528_0|[[ביאור:מהי מטרת הסיפור על רחב מיריחו|ig;
+s|${OPENLINK}tnk1/messages/dmut_dmut_51_0|[[ביאור:זבולון וצידון|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_514_0|[[ביאור:וקרקר כל בני שת|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_511_0|[[ביאור:חסידי השם בארם נהרים?|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_42_0|[[ביאור:נמרוד = אנטיוכוס מלך קומגנה|ig;
@@ -9720,7 +9734,11 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-133|[[ביאור:הנה מה טוב ומה נע�
 s|${OPENLINK}tnk1/ktuv/thlim/th-131-02|[[ביאור:כגמול עלי אמו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-128-02|[[ביאור:יגיע כפיך כי תאכל, אשריך וטוב לך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-127-04|[[ביאור:להוליד ילדים בימי הנעורים|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-126-06|[[ביאור:הזורע בבכי - ברינה יקצור|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-126-05|[[ביאור:הזורעים בדמעה - ברינה יקצורו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-126-04|[[ביאור:שיטפון של שיבת ציון|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-126-02|[[ביאור:אז ימלא שחוק פינו|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-126-01|[[ביאור:חלום שיבת ציון|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-124-05|[[ביאור:המים הזידונים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-121-06|[[ביאור:מכת ירח|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-119t|[[ביאור:ת = תפילה לעתיד טוב יותר|ig;
@@ -11192,6 +11210,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/es-01-08|[[ביאור:והשתיה כדת|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-mtnya|[[ביאור:ספר איכה - סדר וצורה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-53|[[ביאור:צמתו בבור חיי, וידו אבן בי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-40|[[ביאור:חשבון נפש אישי ע"פ מגילת איכה|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-02-14|[[ביאור:נביאים שאינם מגלים את העוון, לא ישיבו אותנו לטוב|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-09|[[ביאור:טומאתה בשוליה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-08|[[ביאור:ירושלים היתה לנידה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-07|[[ביאור:בימי החורבן, ירושלים זוכרת את הבניין|ig;
@@ -11622,7 +11641,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/ptr_rxm|[[ביאור:פטר רחם = בכור לא�
 s|${OPENLINK}tnk1/kma/qjrim1/ptom|[[ביאור:פתאום = באופן מפתיע, או כתוצאה מפיתוי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/ptl|[[ביאור:פתיל = עיקול או חיבור|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pti|[[ביאור:פתי = משתכנע בקלות|ig;
-s|${OPENLINK}tnk1/kma/qjrim1/psx|[[ביאור:פסח = דילג וקפץ או הגן ונתן חסות|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/psx|[[ביאור:פסח = צעד כדי להציל|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/prizi|[[ביאור:הפריזי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pri|[[ביאור:פרי כמשל לתוצאה או גמול|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pre|[[ביאור:פרא = חמור בר, משל לחופש|ig;

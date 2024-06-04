@@ -6946,3 +6946,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>אז איפה נמצאת צידון לפי שיטתך?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-06-04 05:26:49'
+		)
+		;
+
