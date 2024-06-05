@@ -6958,3 +6958,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>צידון נמצאת בלבנון באותו מקום שהיא היום בדרום לבנון</p><p>https://tora.us.fm/tnk1/messages/prqim_t0619_0.html</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-04 12:13:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-04 14:29:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-04 14:29:22' 
+			WHERE messageid=12795;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>אני עדיין עובד על הספר / מחקר מהפכני שלי על גבולות הארץ, נחלות השבטים, ומסלול יציאת מצרים</p><p> ואני לא יכול לפרסם את המיקום כעת, בין השאר כי אי אפשר להבין את זה בלי ההקשר</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-06-04 16:12:29'
+		)
+		;
+
