@@ -7001,3 +7001,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-08-1823.html',
+		'<p>מתאים למצב הצפון במלחמת חרבות ברזל 2023-24, הלא כן?</p><p></p>',
+		'114394621640579230209',
+		'אהוד קידר',
+		'2024-06-05 08:17:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-08-1823.html',
+		'<p>יהוה בששון תמיד</p><p>דברים כח63: &quot;וְהָיָה כַּאֲשֶׁר שָׂשׂ יהוה עֲלֵיכֶם לְהֵיטִיב אֶתְכֶם וּלְהַרְבּוֹת אֶתְכֶם</p><p>כֵּן יָשִׂישׂ יהוה עֲלֵיכֶם לְהַאֲבִיד אֶתְכֶם וּלְהַשְׁמִיד אֶתְכֶם וְנִסַּחְתֶּם מֵעַל הָאֲדָמָה אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ&quot;</p><p>יהוה בששון תמיד גם בעת לְהַאֲבִיד אֶתְכֶם וּלְהַשְׁמִיד אֶתְכֶם </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 09:38:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 10:29:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-05 10:29:30' 
+			WHERE messageid=12799;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 10:50:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-05 10:50:48' 
+			WHERE messageid=12800;
+
