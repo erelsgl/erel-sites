@@ -7063,3 +7063,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-06-05 10:50:48' 
 			WHERE messageid=12800;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-02-01.html',
+		'<p>מדוע יהושוע  שלח מרגלים לארץ כנען </p>',
+		'103722390768844199204',
+		'Mia Cohen',
+		'2024-06-07 05:27:31'
+		)
+		;
+
