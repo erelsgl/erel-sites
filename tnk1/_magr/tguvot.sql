@@ -7075,3 +7075,72 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>הגנטיקה של הגוים טובה יותר מזו של היהודים ורואים זאת בהבדל בין כדורגלני אירופה החזקים לבין כדורגלני ישראל</p><p>כי אלהים יודע אשר הגוים אוכלים טמא והם נאלצים להתמודד עם כיליון הגוף על כן ברא אותם חזקים עם DNA משופר </p><p>וליהודים יש ברית עם האלהים ועל כל הפרת ברית האלהים מכה אותם למען ישובו מדרכיהם הרעים וישמרו על הקודש  </p><p>----------------------------------</p><p>בהזדמנות זאת הנני מזמין את כל חוקרי הרפואה לבחון את הדברים אשר כתבתי במאמרי זה וכן את כל כתבי אלה...</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 10:06:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 11:50:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 11:50:41' 
+			WHERE messageid=12803;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 15:35:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 15:35:33' 
+			WHERE messageid=12804;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 15:36:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 15:36:36' 
+			WHERE messageid=12805;
+

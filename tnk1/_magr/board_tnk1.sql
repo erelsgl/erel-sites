@@ -12939,3 +12939,81 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/yhojua/ya-02-01.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-07 10:06:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1661.html',
+				NULL,
+				'2024-06-07 11:11:38',
+				'2024-06-07 11:11:38',
+				'פרשת במדבר- ברית מחודשת עם ישראל במדבר!/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-06-07 11:11:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1662.html',
+				NULL,
+				'2024-06-07 11:24:56',
+				'2024-06-07 11:24:56',
+				'אירוסין נצחיים/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-06-07 11:24:56'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-07 11:50:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-07 15:35:29'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/ei-02-14.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-07 15:36:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0108_1.html'
+		;
+
