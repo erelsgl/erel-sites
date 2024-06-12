@@ -7144,3 +7144,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-06-07 15:36:36' 
 			WHERE messageid=12805;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 15:37:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-11 15:37:11' 
+			WHERE messageid=12806;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 15:37:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-11 15:37:30' 
+			WHERE messageid=12807;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בראשית ח13:</p><p>(יג) וַיְהִי בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ [ביום ראשון לשבוע]</p><p>חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ וַיָּסַר נֹחַ אֶת מִכְסֵה הַתֵּבָה וַיַּרְא וְהִנֵּה חָרְבוּ פְּנֵי הָאֲדָמָה:</p><p>(יד) וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ יָבְשָׁה הָאָרֶץ: [גם כן ביום ראשון]</p><p>מראש השנה ראש חודש האביב ביום ראשון עד מחרת השבת יש שבוע ימים</p><p>ואז מתחילה ספירת העומר מיום 8.1 עד 27.2 יש בדיוק שבעה שבועות 49 יום</p><p>ביום החמישים לעומר הוא 27.2 הוא חג-השבועות הראשון בהיסטוריה</p><p>----------------------------------------------------------------------------------------</p><p>27.2 כבר היה לפני 31 יום כחודש ימים</p><p>והיום 28.3 בלוח השמש התנ&quot;כי</p><p>חג השבועות המקורי התנ&quot;כי היה לפני 31 יום</p><p>זה הפרש הימים בין חג השבועות המקורי תנכ&quot;י לבין חג השבועות של הרבנים</p><p>לרבנים יש פיגור של 31 יום איחור מהמועד המקורי תנ&quot;כי של חג השבועות</p><p>ישעיהו א14: &quot;חָדְשֵׁיכֶם וּמוֹעֲדֵיכֶם שָׂנְאָה נַפְשִׁי הָיוּ עָלַי לָטֹרַח נִלְאֵיתִי נְשֹׂא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 19:05:44'
+		)
+		;
+
