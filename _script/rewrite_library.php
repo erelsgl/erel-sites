@@ -678,7 +678,7 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
 		" . quote_smart("$title") . ",
 		" . quote_smart($action) . ",
-		" . quote_smart($idfordisplay), . "
+		" . quote_smart($idfordisplay) . ",
 		NOW()
 	)";
 /*
