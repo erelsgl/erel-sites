@@ -666,20 +666,22 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		print "<p><a href='$nonformal_version_link'>" . static_text("nonformal version") . "</a></p>\n";
 	}
 
-	/*
 	$query = "
 	INSERT INTO whatsnew(
 		path_from_root_to_file,
 		title,
 		action,
-		actor)
+		actor,
+		updated_at
+		)
 	VALUES(
 		" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
 		" . quote_smart("$title") . ",
 		" . quote_smart($action) . ",
-		" . quote_smart($idfordisplay) . "
+		" . quote_smart($idfordisplay), . "
+		NOW()
 	)";
-	*/
+/*
 	$query = "
 	INSERT INTO whatsnew(
 		path_from_root_to_file,
@@ -689,8 +691,8 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
 		" . quote_smart($action) . ",
 		NOW()
-	)";
-	print($query);
+	)";*/
+	// print($query);
 	sql_query($query)
 		or user_error("Can't write into whatsnew table", E_USER_WARNING);
 
