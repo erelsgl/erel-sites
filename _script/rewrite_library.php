@@ -680,7 +680,7 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 	)";
 	print($query);
 	sql_query($query)
-		or user_error("Can't write into whatsnew table", E_USER_WARNING);s
+		or user_error("Can't write into whatsnew table", E_USER_WARNING);
 
 // 	file_put_contents(
 // 		"$fileroot/whatsnew/logall.html", 
