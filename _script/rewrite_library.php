@@ -683,10 +683,12 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 	$query = "
 	INSERT INTO whatsnew(
 		path_from_root_to_file,
-		action)
+		action,
+		updated_at)
 	VALUES(
 		" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
-		" . quote_smart($action) . "
+		" . quote_smart($action) . ",
+		NOW()
 	)";
 	print($query);
 	sql_query($query)
