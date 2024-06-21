@@ -13166,3 +13166,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-06-19 21:20:10'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-20 14:50:32'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-21 02:51:59'
+		WHERE ktovt_bn='tnk1/messages/sofrim_shabot_index_133.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-06-21 02:52:21'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-23.html'
+		;
+
