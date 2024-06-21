@@ -666,6 +666,7 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		print "<p><a href='$nonformal_version_link'>" . static_text("nonformal version") . "</a></p>\n";
 	}
 
+	/*
 	$query = "
 	INSERT INTO whatsnew(
 		path_from_root_to_file,
@@ -677,6 +678,15 @@ function write_versions($path_from_root_to_file_without_ext, $ext, $output_lines
 		" . quote_smart("$title") . ",
 		" . quote_smart($action) . ",
 		" . quote_smart($idfordisplay) . "
+	)";
+	*/
+	$query = "
+	INSERT INTO whatsnew(
+		path_from_root_to_file,
+		action)
+	VALUES(
+		" . quote_smart("$path_from_root_to_file_without_ext$ext") . ",
+		" . quote_smart($action) . "
 	)";
 	print($query);
 	sql_query($query)
