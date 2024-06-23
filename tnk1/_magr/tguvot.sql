@@ -7332,3 +7332,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-06-21 02:52:22' 
 			WHERE messageid=12816;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>תהלים לו6: &quot;יהוה בְּהַשָּׁמַיִם חַסְדֶּךָ אֱמוּנָתְךָ עַד שְׁחָקִים&quot;</p><p>תהלים סג4: &quot;כִּי טוֹב חַסְדְּךָ מֵחַיִּים שְׂפָתַי יְשַׁבְּחוּנְךָ&quot;</p><p>לכן בסוף החיים נשאר רק החסד הוא אשר בשמים</p><p>וכל עוד אנחנו בחיים על הארץ עלינו להתאמן על החסד</p><p>כי בבוא היום ביום המות עת פקודת האדם רק החסד נשאר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-22 20:10:35'
+		)
+		;
+
