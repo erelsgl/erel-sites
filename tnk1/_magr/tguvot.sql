@@ -7425,3 +7425,39 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-06-26 06:04:21' 
 			WHERE messageid=12822;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>איוב כח12: &quot;וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה&quot;</p><p>איוב כח13: &quot;לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים&quot;</p><p>ואם פגע בך המוות תפס אותך השכול וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים</p><p>דע כי בעקבות המות תבוא חכמה כאור גדול</p><p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 11:46:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>איוב כח12: &quot;וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה&quot;</p><p>איוב כח13: &quot;לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים&quot;</p><p>ואם פגע בך המוות תפס אותך השכול וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים</p><p>דע כי בעקבות המות תבוא חכמה כאור גדול</p><p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 13:28:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>מה תבקשו חיים או חכמה?</p><p>שאלה קשה לאדם </p><p>כי אם יש חיים אין חכמה ואם יש חכמה אין חיים</p><p>אך יש פתרון לגם וגם</p><p>כי אני אבקש את יהוה חיים וחכמה יחדיו גם וגם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 17:18:13'
+		)
+		;
+
