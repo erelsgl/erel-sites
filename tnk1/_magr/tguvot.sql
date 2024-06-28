@@ -7461,3 +7461,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>קהלת י19: &quot;לִשְׂחוֹק עֹשִׂים לֶחֶם....... וְיַיִן יְשַׂמַּח חַיִּים וְהַכֶּסֶף יַעֲנֶה אֶת הַכֹּל&quot;</p><p>שופטים יג16: &quot;וַיֹּאמֶר מַלְאַךְ יהוה אֶל מָנוֹחַ אִם תַּעְצְרֵנִי לֹא אֹכַל בְּלַחְמֶךָ....... וְאִם תַּעֲשֶׂה עֹלָה ליהוה תַּעֲלֶנָּה כִּי לֹא יָדַע מָנוֹחַ כִּי מַלְאַךְ יהוה הוּא&quot;</p><p> מַלְאַךְ יהוה אוכל את הבשר אשר הוא לחם אלהים ולא אוכל פת לחם אשר הוא לחם אנשים מבני אדם ומיועד לשחוק לצחק במשכב </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-27 12:29:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;</p><p>כל הכבוד למגזר הציונות הדתית וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ מתלמידי ישיבות ההסדר יצאו להלחם להשיב את אחיהם השבויים</p><p>זה נקרא ללכת בדרך אלהי אברהם אבינו </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-28 07:47:04'
+		)
+		;
+
