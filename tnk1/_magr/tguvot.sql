@@ -7485,3 +7485,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/hqdma.html',
+		'<p>אשמח שתצרו עמי קשר</p>',
+		'107504254796219972435',
+		'לוי והדר ציון',
+		'2024-06-28 13:13:23'
+		)
+		;
+
