@@ -3131,3 +3131,34 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/jdl/hqdma.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-06-29 11:37:24'
+			WHERE parent='tnk1/messages/prqim_t1302_0.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-06-29 11:38:02'
+			WHERE parent='tnk1/messages/prqim_t1302_0.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/daian2_0.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-06-29 17:44:40'
+		WHERE parent='tnk1/messages/daian2_0.html'
+		;
+

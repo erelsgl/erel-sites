@@ -7497,3 +7497,29 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-29 11:37:24' 
+			WHERE messageid=11449;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-29 11:38:02' 
+			WHERE messageid=11457;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אודות מורה הצדק –דיין שם</p><p>תהלים קיח18: &quot;יַסֹּר יִסְּרַנִּי יָּהּ וְלַמָּוֶת לֹא נְתָנָנִי&quot;  </p><p>תהלים צד12: &quot;אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ&quot;</p><p>יַסֹּר יִסְּרַנִּי יָּהּ אלהים למדני מתורתו והנה אני בדֶרֶךְ הַקֹּדֶשׁ   </p><p>מי שעבר יסורים רבים כעץ שגדל במים מרים יכול להמתיק לך את המים.......</p><p>---------------------------------------------------------------------------------------</p><p>על כל אדם בסופו של דבר נגזר מות</p><p>וכשאתה קדוש לאלהים אתה יכול לעבור את גיא-צלמות לחיים בשלום</p><p>זֶה———- דֶרֶךְ הַקֹּדֶשׁ</p><p>ויקרא יט2:</p><p>&quot;דַּבֵּר אֶל כָּל עֲדַת בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם קְדֹשִׁים תִּהְיוּ כִּי קָדוֹשׁ אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-29 17:44:40'
+		)
+		;
+
