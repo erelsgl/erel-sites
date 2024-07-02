@@ -7523,3 +7523,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_102.html',
+		'<p>ישר כח.</p>',
+		'102122023385117069833',
+		'אורלי ויצמן',
+		'2024-07-01 20:57:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-02 03:11:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-02 03:11:23' 
+			WHERE messageid=12831;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0105_2.html',
+		'<p>אם נקרא את שמו מהסוף להתחלה ,נקבל-חלש ותם.</p><p></p>',
+		'115293390349631483700',
+		'אלה גרבר',
+		'2024-07-02 04:36:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0105_2.html',
+		'<p></p>',
+		'115293390349631483700',
+		'אלה גרבר',
+		'2024-07-02 04:36:37'
+		)
+		;
+
