@@ -7778,3 +7778,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-05 14:46:07' 
 			WHERE messageid=12837;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים מב3: &quot;צָמְאָה נַפְשִׁי לֵאלֹהִים לְאֵל חָי מָתַי אָבוֹא וְאֵרָאֶה פְּנֵי אֱלֹהִים&quot;</p><p>תהלים סג2: &quot;אֱלֹהִים אֵלִי אַתָּה אֲשַׁחֲרֶךָּ צָמְאָה לְךָ נַפְשִׁי כָּמַהּ לְךָ בְשָׂרִי בְּאֶרֶץ צִיָּה וְעָיֵף בְּלִי מָיִם&quot; </p><p> וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם וכשאתה בְּאֶרֶץ צִיָּה וְעָיֵף בְּלִי מָיִם אז אתה משתוקק לרוח אלהים</p><p>אֱלֹהִים אֵלִי אַתָּה אֲשַׁחֲרֶךָּ צָמְאָה לְךָ נַפְשִׁי = צָמְאָה נַפְשִׁי לֵאלֹהִים לְאֵל חָי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-06 17:49:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:36:41' 
+			WHERE messageid=12528;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:37:03' 
+			WHERE messageid=12536;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 04:51:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:51:55' 
+			WHERE messageid=12847;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הודעה חשובה</p><p>כל הדברים שכתבתי במאמרי זה לא משנאת ישראל חלילה כי אם מאהבת ישראל הלא הוא עם-יהוה</p><p>וכי כל רצוני שיקראו היטב את דברי מאמרי יחד עם התגובות שכתבתי וישובו בתשובה לאלהי ישראל</p><p>אני מצהיר בזאת כי אני אוהב את עם ישראל הצדיקים באשר הם ובמיוחד את אנשי עמך מסורת ישראל</p><p>המילה דת מתוך המילה דעת והדתיים הם האוכלוסיה המובחרת בישראל אלה התורמים בבית הכנסת</p><p>אני מכבד את כל יראי האלהים בכל הזרמים בישראל אם זה רבנים או קראים ככתוב: אֶת יִרְאֵי יהוה יְכַבֵּד</p><p>תהלים קטו13: &quot;יְבָרֵךְ יִרְאֵי יהוה הַקְּטַנִּים עִם הַגְּדֹלִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 06:36:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>אשריך אראל</p><p>ועדת חקירה רוחנית על פי הדברים שכתבתי במאמרי זה יחד עם כל התגובות בקישור זה</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html?no_cache=1720334577</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 06:46:03'
+		)
+		;
+
