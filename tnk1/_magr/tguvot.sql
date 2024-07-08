@@ -7847,3 +7847,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/msxq_emt.html',
+		'<p>האם עשית משהוו מביך אצל חברה?</p>',
+		'109583188981457224163',
+		'איילה זבלונוב',
+		'2024-07-07 14:46:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/msxq_emt.html',
+		'<p>האם פעם אחת נפלת ברצפה אצל חברה?</p>',
+		'109583188981457224163',
+		'איילה זבלונוב',
+		'2024-07-07 14:48:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 05:45:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 05:45:53' 
+			WHERE messageid=12852;
+
