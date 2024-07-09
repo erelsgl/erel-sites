@@ -7890,3 +7890,172 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-08 05:45:53' 
 			WHERE messageid=12852;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p>סוד הכנת אפר פרה אדומה</p><p>שילוב [תרכובת] של דרגה חומרית גבוהה עם דרגה חומרית נמוכה</p><p>מעולם החי...</p><p>פרה אדומה שהיא הדרגה החומרית הגבוהה ביותר </p><p>+ תולעת שני שהיא הדרגה החומרית הנמוכה ביותר</p><p>תהלים כב7: &quot;וְאָנֹכִי תוֹלַעַת וְלֹא אִישׁ חֶרְפַּת אָדָם וּבְזוּי עָם&quot;</p><p>ומעולם הצומח...</p><p>עץ הארז אשר הוא הרם והנישא מכל הצומח</p><p>+ צמח האזוב אשר הוא השפל מכל הצומח</p><p>תהלים נא9: &quot;תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר תְּכַבְּסֵנִי וּמִשֶּׁלֶג אַלְבִּין&quot;</p><p>מלכים א ה13: &quot;וַיְדַבֵּר עַל הָעֵצִים מִן הָאֶרֶז אֲשֶׁר בַּלְּבָנוֹן וְעַד הָאֵזוֹב אֲשֶׁר יֹצֵא בַּקִּיר וַיְדַבֵּר עַל הַבְּהֵמָה וְעַל הָעוֹף וְעַל הָרֶמֶשׂ וְעַל הַדָּגִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 09:28:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-07-08 10:28:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 10:28:13' 
+			WHERE messageid=12854;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p>סוד הכנת אפר פרה אדומה</p><p>שילוב [תרכובת] של דרגה חומרית גבוהה עם דרגה חומרית נמוכה</p><p>מעולם החי...</p><p>פרה אדומה שהיא הדרגה החומרית הגבוהה ביותר</p><p>+ תולעת שני שהיא הדרגה החומרית הנמוכה ביותר</p><p>תהלים כב7: &quot;וְאָנֹכִי תוֹלַעַת וְלֹא אִישׁ חֶרְפַּת אָדָם וּבְזוּי עָם&quot;</p><p>ומעולם הצומח...</p><p>עץ הארז אשר הוא הרם והנישא מכל הצומח</p><p>+ צמח האזוב אשר הוא השפל מכל הצומח</p><p>תהלים נא9: &quot;תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר תְּכַבְּסֵנִי וּמִשֶּׁלֶג אַלְבִּין&quot;</p><p>מלכים א ה13: &quot;וַיְדַבֵּר עַל הָעֵצִים מִן הָאֶרֶז אֲשֶׁר בַּלְּבָנוֹן וְעַד הָאֵזוֹב אֲשֶׁר יֹצֵא בַּקִּיר וַיְדַבֵּר עַל הַבְּהֵמָה וְעַל הָעוֹף וְעַל הָרֶמֶשׂ וְעַל הַדָּגִים&quot;</p><p>סוף דבר</p><p>זה סוד הכנת אפר פרה אדומה</p><p>הדרגה החומרית הגדולה ביותר</p><p>+הדרגה החומרית הקטנה ביותר</p><p>לאמור שילוב תרכובת החומרים הַקְּטַנִּים עִם הַגְּדֹלִים</p><p>תהלים קטו13: &quot;יְבָרֵךְ יִרְאֵי יהוה הַקְּטַנִּים עִם הַגְּדֹלִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 11:09:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 11:09:36' 
+			WHERE messageid=12853;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p>שמואל א י24: &quot;וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל הָעָם הַרְּאִיתֶם אֲשֶׁר בָּחַר בּוֹ יהוה כִּי אֵין כָּמֹהוּ בְּכָל הָעָם וַיָּרִעוּ כָל הָעָם וַיֹּאמְרוּ יְחִי הַמֶּלֶךְ&quot;</p><p>דברים יז15: &quot;שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ נָכְרִי אֲשֶׁר לֹא אָחִיךָ הוּא&quot;</p><p>הנביא בוחר את המלך</p><p>שמואל א ט9: &quot;לְפָנִים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים לְכוּ וְנֵלְכָה עַד הָרֹאֶה כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה&quot;</p><p>כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה !!! והָרֹאֶה הוא המתקשר עתה קחו עשרה מתקשרים והם יגידו לכם מי הוא בחיר-יהוה</p><p>הציטוט מתוך הקישור הזה .......     https://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 11:13:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p> שמואל א י24: &quot;וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל הָעָם הַרְּאִיתֶם אֲשֶׁר בָּחַר בּוֹ יהוה כִּי אֵין כָּמֹהוּ בְּכָל הָעָם וַיָּרִעוּ כָל הָעָם וַיֹּאמְרוּ יְחִי הַמֶּלֶךְ&quot;</p><p>דברים יז15: &quot;שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ נָכְרִי אֲשֶׁר לֹא אָחִיךָ הוּא&quot;</p><p>הנביא בוחר את המלך</p><p>שמואל א ט9: &quot;לְפָנִים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים לְכוּ וְנֵלְכָה עַד הָרֹאֶה כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה&quot;</p><p>כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה !!! והָרֹאֶה הוא המתקשר עתה קחו עשרה מתקשרים והם יגידו לכם מי הוא בחיר-יהוה</p><p>הציטוט מתוך הקישור הזה ....... https://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p><p>דברי הימים ב ל27:</p><p>&quot;וַיָּקֻמוּ הַכֹּהֲנִים הַלְוִיִּם וַיְבָרֲכוּ אֶת הָעָם וַיִּשָּׁמַע בְּקוֹלָם וַתָּבוֹא תְפִלָּתָם לִמְעוֹן קָדְשׁוֹ לַשָּׁמָיִם&quot;</p><p>השמים הם מְעוֹן קָדְשׁוֹ של יהוה האלהים הקדושים ועתה השכילו בקשר בין קדוש=שמים=עשן</p><p>יש קשר בין העשן לשמים ***כִּי שָׁמַיִם כֶּעָשָׁן*** וטבעו-דרכו של העשן לעלות השמימה</p><p>ישעיהו נא6:</p><p>&quot;שְׂאוּ לַשָּׁמַיִם עֵינֵיכֶם וְהַבִּיטוּ אֶל הָאָרֶץ מִתַּחַת ****כִּי שָׁמַיִם כֶּעָשָׁן**** נִמְלָחוּ וְהָאָרֶץ כַּבֶּגֶד תִּבְלֶה</p><p>שופטים כ40:</p><p>&quot;וְהַמַּשְׂאֵת הֵחֵלָּה לַעֲלוֹת מִן הָעִיר עַמּוּד עָשָׁן וַיִּפֶן בִּנְיָמִן אַחֲרָיו וְהִנֵּה עָלָה כְלִיל הָעִיר הַשָּׁמָיְמָה&quot;</p><p>יהושע ח20: &quot;וַיִּפְנוּ אַנְשֵׁי הָעַי אַחֲרֵיהֶם וַיִּרְאוּ וְהִנֵּה עָלָה עֲשַׁן הָעִיר הַשָּׁמַיְמָה .............</p><p>וְלֹא הָיָה בָהֶם יָדַיִם לָנוּס הֵנָּה וָהֵנָּה וְהָעָם הַנָּס הַמִּדְבָּר נֶהְפַּךְ אֶל הָרוֹדֵף&quot;</p><p>-</p><p>עתה אם ברצונכם לבחור את הבחיר הבכיר עשו כדבר הבא</p><p>הקטירו קטורת מור ולבונה ושימו במקום סגור עם המתמודדים לתפקיד הבכיר</p><p>והיה המתמודד אשר העשן פנה אליו הוא האיש המתאים ביותר מכל המועמדים</p><p>כי אם עשן הקטורת עלה אליו הלא עלה השמימה לאיש ירא שמים הוא בחיר-אלהים</p><p>2022-01-26 00:58:45</p><p>DAIAN SHEM	</p><p>רבותי בהמשך לתגובתי האחרונה</p><p>אם שניים אוחזין</p><p>למשל אם יש שני מועמדים לראשות ממשלה</p><p>או שני מועמדים לתפקיד ראש המטה הכללי</p><p>כאשר כל מועמד הגיע עם המלצות טובות</p><p>ורוצים לדעת מי יושיע את עם בני ישראל</p><p>לכן מבחן העשן יעשה להם כאשר כתבתי</p><p>אם העשן יפנה אל אחד המועמדים הוא האיש הנבחר לתפקיד ובא לציון גואל</p><p>כי העשן עלה השמימה אל איש ירא-השמים וביראת אלהים להושיע את עמו על כן הוא המועמד המתאים ביותר לתפקיד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 12:34:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 12:35:00' 
+			WHERE messageid=12856;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>תהלים פט30: &quot;וְשַׂמְתִּי לָעַד זַרְעוֹ וְכִסְאוֹ כִּימֵי שָׁמָיִם&quot;</p><p>תהלים פט37: &quot;זַרְעוֹ לְעוֹלָם יִהְיֶה וְכִסְאוֹ כַשֶּׁמֶשׁ נֶגְדִּי&quot;</p><p>זה כתוב על המשיח כסאו בשמים תמיד.......</p><p>וכדי שכסאו יהיה גם בארץ השליטים צריכים לזוז ממקומם לפנות את הכסא אשר לא להם</p><p>כל עוד מנהיגי הדת אלה המחללים את השלטון בישבם על הכסא בארץ = לא יבוא המשיח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 16:55:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>תהלים פט30: &quot;וְשַׂמְתִּי לָעַד זַרְעוֹ וְכִסְאוֹ כִּימֵי שָׁמָיִם&quot;</p><p>תהלים פט37: &quot;זַרְעוֹ לְעוֹלָם יִהְיֶה וְכִסְאוֹ כַשֶּׁמֶשׁ נֶגְדִּי&quot;</p><p>זה כתוב על המשיח כסאו בשמים תמיד.......</p><p>וכדי שכסאו יהיה גם בארץ השליטים צריכים לזוז ממקומם לפנות את הכסא אשר לא להם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 16:56:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 16:56:28' 
+			WHERE messageid=12858;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 19:13:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 19:13:15' 
+			WHERE messageid=12860;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-09 03:58:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-09 03:58:25' 
+			WHERE messageid=12861;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-09 03:58:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-09 03:58:47' 
+			WHERE messageid=12862;
+
