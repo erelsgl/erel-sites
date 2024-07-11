@@ -13874,3 +13874,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-16-05.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-07-10 13:32:56'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-07-10 14:00:28'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_nzr1_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-07-11 04:13:57'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-14-01.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-07-11 05:44:39'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-16-05.html'
+		;
+

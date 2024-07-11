@@ -8059,3 +8059,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-09 03:58:47' 
 			WHERE messageid=12862;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>נער על פי התורה זה עד גיל 20 [לא 18]</p><p>כאשר יש חוק האוסר שתיית משקה משכר לנערים</p><p>כן יש לחוקק חוק האוסר לנערים לאכול בשר אשר הוא לחם אלהים</p><p>וזאת למען ידעו הנערים את אלהים</p><p>דברים כט5: &quot;לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-10 13:32:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>חטא אכילת פרי עץ הדעת לאדם זה בגיל הנעורים</p><p>חטאת הנעורים זה החטאים המיניים</p><p>כי בגיל זה הנערים טרם יודעים את אלהים</p><p>נער על פי התורה זה עד גיל 20 [לא 18]</p><p>כאשר יש חוק האוסר שתיית משקה משכר לנערים</p><p>כן יש לחוקק חוק האוסר לנערים לאכול בשר אשר הוא לחם אלהים</p><p>וזאת למען ידעו הנערים את יהוה אלהים</p><p>דברים כט5: &quot;לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-10 14:00:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-10 14:00:32' 
+			WHERE messageid=12863;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-01.html',
+		'<p></p>',
+		'111129233954765642366',
+		'רונית יחזקאל',
+		'2024-07-11 04:13:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-11 05:44:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-11 05:44:41' 
+			WHERE messageid=12866;
+
