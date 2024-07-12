@@ -3893,3 +3893,26 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/tora/bmdbr/bm-16-05.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0420_4.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-07-11 09:47:47'
+		WHERE parent='tnk1/messages/prqim_t0420_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-07-11 09:47:51'
+			WHERE parent='tnk1/messages/prqim_t0420_4.html'
+			;
+

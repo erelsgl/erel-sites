@@ -13906,3 +13906,57 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-16-05.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-07-11 09:47:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0420_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1671.html',
+				NULL,
+				'2024-07-11 20:47:03',
+				'2024-07-11 20:47:03',
+				'פרשת חוקת-החטא ונחש הקדמון- אז והיום?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-07-11 20:47:03'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1672.html',
+				NULL,
+				'2024-07-12 07:26:18',
+				'2024-07-12 07:26:18',
+				' הנחש הקדמון/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-07-12 07:26:18'
+			WHERE ktovt_bn='tnk1/forums.html';
+
