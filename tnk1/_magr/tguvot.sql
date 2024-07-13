@@ -8140,3 +8140,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-11 09:47:51' 
 			WHERE messageid=12867;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 09:04:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 09:04:23' 
+			WHERE messageid=12868;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 09:04:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 09:04:41' 
+			WHERE messageid=12869;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-19.html',
+		'<p>פירושים מגוונים ומביאים כיוונים שונים שכל אדם יכול &quot;לטעום&quot; מהמזון הרוחני הזה.</p>',
+		'100375664695643760843',
+		'ציון והב זהבי',
+		'2024-07-12 11:17:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 12:44:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 12:44:40' 
+			WHERE messageid=12871;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>יש הרבה מוזיקה טובה לשמוע אם זה באינטרנט או בהופעות חיות</p><p>ויש גם הרבה אוכל טוב לטעום במסעדות או בבית של אמא וכולי</p><p>יש הרבה מה לראות בעיניים והרבה מה לחוות</p><p>אך כדי להתענג על הדברים הטובים צריך מערכת חושים מפותחת</p><p>כשמערכת חושים נפתחת זה בלשון המקרא פתיחת השמים</p><p>דברים כח12:</p><p>&quot;יִפְתַּח יהוה לְךָ אֶת אוֹצָרוֹ הַטּוֹב אֶת הַשָּׁמַיִם.</p><p>רק אם תהיה ביראת-יהוה כי זה אוצרו אז יפתחו לך השמים</p><p>ישעיהו לג6: &quot;וְהָיָה אֱמוּנַת עִתֶּיךָ חֹסֶן יְשׁוּעֹת חָכְמַת וָדָעַת יִרְאַת יהוה הִיא אוֹצָרוֹ&quot;</p><p>משלי י2: &quot;לֹא יוֹעִילוּ אוֹצְרוֹת רֶשַׁע וּצְדָקָה תַּצִּיל מִמָּוֶת&quot; .......... כי עשות צדקה ומשפט זה אוצר צדיקים</p><p>ביראת אלהים לעשות צדקה אז יהוה יפתח לך את אוצרו את השמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 16:01:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 16:04:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 16:04:38' 
+			WHERE messageid=12873;
+
