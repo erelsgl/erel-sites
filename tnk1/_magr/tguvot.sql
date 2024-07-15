@@ -8240,3 +8240,48 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-12 16:04:38' 
 			WHERE messageid=12873;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>מה יותר חשוב</p><p>שהיין הוא קברנה סוביניון או שהיין מרמת הגולן</p><p>ובכן הזרע הוא החשוב</p><p>כפי שיהדותך על פי התורה נקבעת מאיזה זרע אב אתה ולא מהאימא</p><p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ....... זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>ערך היבול נקבע לפי הזרע כאשר ערך האדם נקבע לפי הזרע</p><p>סוף דבר</p><p>בבואך לבחור יין בחר אותו בחשיבות ראשונה לפי סוג הענבים לפי הזרע ורק בחשיבות שנייה לפי האדמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-14 14:33:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:36:59' 
+			WHERE messageid=2387;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:37:03' 
+			WHERE messageid=12850;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:37:04' 
+			WHERE messageid=12851;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>מדוע אליהו הנביא אכל בשר גם בבוקר</p><p>הלא בספר שמות פרק טז כתוב</p><p>(יב) שָׁמַעְתִּי אֶת תְּלוּנֹּת בְּנֵי יִשְׂרָאֵל דַּבֵּר אֲלֵהֶם לֵאמֹר בֵּין הָעַרְבַּיִם תֹּאכְלוּ בָשָׂר וּבַבֹּקֶר תִּשְׂבְּעוּ לָחֶם וִידַעְתֶּם כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם</p><p> ובכן הפסוק האחרון נכון לבני ישראל עמך ישראל אך אליהו הנביא איש אלהים הוא על כן אוכל בשר גם בבוקר וגם בערב</p><p>שמות כט39: &quot;אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם&quot;</p><p>שמות כט41: &quot;וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכָּהּ תַּעֲשֶׂה לָּהּ לְרֵיחַ נִיחֹחַ אִשֶּׁה ליהוה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-15 07:31:51'
+		)
+		;
+
