@@ -8304,3 +8304,122 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-15 08:04:43' 
 			WHERE messageid=12875;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 09:16:52' 
+			WHERE messageid=10795;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>כָּל נֵתַח טוֹב = יָרֵךְ וְכָתֵף</p><p>יש שוק ויש ירך כאשר הירך הוא החלק העליון של כנף הבהמה [רגליים]</p><p>יש זרוע ויש כתף כאשר הכתף זה החלק העליון של כנף הבהמה [ידיים]</p><p>יחזקאל כד4: &quot;אֱסֹף נְתָחֶיהָ אֵלֶיהָ כָּל נֵתַח טוֹב יָרֵךְ וְכָתֵף מִבְחַר עֲצָמִים מַלֵּא&quot; </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 10:29:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>כָּל נֵתַח טוֹב = יָרֵךְ וְכָתֵף</p><p>יש שוק ויש ירך כאשר הירך הוא החלק העליון של כנף האחורית של הבהמה [רגליים]</p><p>יש זרוע ויש כתף כאשר הכתף זה החלק העליון של כנף הקדמית של הבהמה [ידיים]</p><p>יחזקאל כד4: &quot;אֱסֹף נְתָחֶיהָ אֵלֶיהָ כָּל נֵתַח טוֹב יָרֵךְ וְכָתֵף מִבְחַר עֲצָמִים מַלֵּא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 10:31:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 10:31:57' 
+			WHERE messageid=12877;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>ספר עמוס ב11 כתוב:</p><p>&quot;וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם יְהֹוָה&quot;</p><p>למה מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים כי הבחורים צעירים וחזקים</p><p>הנער הוא חזק בגופו לכן צריך למנוע ממנו בשר ויין </p><p>הזקן הוא חלש בגופו לכן יש לחזקו בבשר ויין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 11:53:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>להיות צמחוני = לצאת מתוך גן-עדן על לא פשע ורק למלא את שליחות יהוה זה גודל הקדושה,</p><p>לאכול בשר = ולבוא לתוך גן-עדן מבלי צדקה ורק לחלל ולטמא את גן-עדן זה גודל הרשעות.</p><p>-</p><p>אך הדבר הנכון הוא לעשות צדקה ואז לזבוח ליהוה </p><p>תהלים צו8: &quot;הָבוּ ליהוה כְּבוֹד שְׁמוֹ שְׂאוּ מִנְחָה וּבֹאוּ לְחַצְרוֹתָיו&quot;</p><p>תהלים ק4: &quot;בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרֲכוּ שְׁמוֹ&quot;</p><p>אם אתה צדיק אז אין מניעה שתבוא לחצרותיו לגן-עדן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:10:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>להיות צמחוני --- לצאת מתוך גן-עדן על לא פשע ורק למלא את שליחות יהוה זה גודל הקדושה,</p><p>לאכול בשר --- ולבוא לתוך גן-עדן מבלי צדקה ורק לחלל ולטמא את גן-עדן זה גודל הרשעות.</p><p>-</p><p>אך הדבר הנכון הוא לעשות צדקה ואז לזבוח ליהוה</p><p>תהלים צו8: &quot;הָבוּ ליהוה כְּבוֹד שְׁמוֹ שְׂאוּ מִנְחָה וּבֹאוּ לְחַצְרוֹתָיו&quot;</p><p>תהלים ק4: &quot;בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרֲכוּ שְׁמוֹ&quot;</p><p>אם אתה צדיק אז אין מניעה שתבוא לחצרותיו לגן-עדן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:12:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 12:12:07' 
+			WHERE messageid=12880;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>ספר עמוס ב11 כתוב:</p><p>&quot;וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם יְהֹוָה&quot;</p><p>למה מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים כי הבחורים צעירים וחזקים</p><p>הנער הוא חזק בגופו לכן צריך למנוע ממנו בשר ויין</p><p>הזקן הוא חלש בגופו לכן יש לחזקו בבשר ויין</p><p>הזקן הוא דל על כן לתת לו הלחם הבשר והיין</p><p>משלי כב9: &quot;טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִלַּחְמוֹ לַדָּל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:26:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 12:26:34' 
+			WHERE messageid=12879;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>מדוע אליהו הנביא אכל בשר גם בבוקר</p><p>הלא בספר שמות פרק טז כתוב</p><p>(יב) שָׁמַעְתִּי אֶת תְּלוּנֹּת בְּנֵי יִשְׂרָאֵל דַּבֵּר אֲלֵהֶם לֵאמֹר בֵּין הָעַרְבַּיִם תֹּאכְלוּ בָשָׂר וּבַבֹּקֶר תִּשְׂבְּעוּ לָחֶם וִידַעְתֶּם כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם</p><p>ובכן הפסוק האחרון נכון לבני ישראל עמך ישראל אך אליהו הנביא איש אלהים הוא על כן אוכל בשר גם בבוקר וגם בערב</p><p>שמות כט39: &quot;אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם&quot;</p><p>שמות כט41: &quot;וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכָּהּ תַּעֲשֶׂה לָּהּ לְרֵיחַ נִיחֹחַ אִשֶּׁה ליהוה&quot;</p><p>הסיבה שאיש אלהים אוכל בשר גם בבקר וגם בערב זה כי רוח האלהים שבו אש גדולה היא מאת יהוה והיא האוכלת את הבשר</p><p>וכן אליהו הנביא אוכל את בשר הזבח פעמיים ביום לכפר עליו גם בבקר וגם בערב כי יהוה נראה לנביא אליהו </p><p>ככתוב בספר ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי יהוה וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-17 03:30:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-17 03:30:12' 
+			WHERE messageid=12876;
+
