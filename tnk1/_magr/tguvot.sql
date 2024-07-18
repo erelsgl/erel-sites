@@ -8423,3 +8423,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-17 03:30:12' 
 			WHERE messageid=12876;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>רועה הצאן העברי מהשומרון הלך לעולמו יהי זכרו ברוך</p><p>https://youtu.be/_XcKHJVACnc</p><p>--------------------------------------------------------------------------------------------------------------------------------------</p><p>https://www.srugim.co.il/1017532-%d7%90%d7%91%d7%9c-%d7%91%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%9f-%d7%a8%d7%95%d7%a2%d7%94-%d7%94%d7%a6%d7%90%d7%9f-%d7%94%d7%90%d7%92%d7%93%d7%99-%d7%94%d7%9c%d7%9a-%d7%9c%d7%a2%d7%95%d7%9c%d7%9e%d7%95?fbclid=IwZXh0bgNhZW0CMTAAAR2vZ8zYnWH2a0bKgsUD8_PmG1nhpMC1GbMKkknPycO9a_IPFIwwyYmItHI_aem_XB5lsizM1aPjwI3rhwERCQ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-17 11:19:55'
+		)
+		;
+
