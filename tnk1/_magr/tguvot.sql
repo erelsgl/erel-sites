@@ -8478,3 +8478,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אתה שחולם להיות עשיר גדול עליך להבין את הכתוב על ירא-יהוה</p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>וכשבאמת תבין זאת באמונה שלמה אז תחלום להיות ירא-יהוה</p><p>אני מזמין אותך לחלום על יראת אלהים = חלומות נעימים</p><p>https://www.youtube.com/watch?v=iQ_rBBdyei0</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-19 08:07:44'
+		)
+		;
+
