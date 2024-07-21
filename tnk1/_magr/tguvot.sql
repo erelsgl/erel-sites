@@ -8490,3 +8490,10 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 06:51:06' 
+			WHERE messageid=10179;
+
