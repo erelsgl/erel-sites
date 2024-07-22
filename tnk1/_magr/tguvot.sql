@@ -8497,3 +8497,108 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-21 06:51:06' 
 			WHERE messageid=10179;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p> מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot; מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון </p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:33:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot; </p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:43:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 16:43:44' 
+			WHERE messageid=12889;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:47:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:35:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:37:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 17:38:13' 
+			WHERE messageid=12892;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:38:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 17:38:43' 
+			WHERE messageid=12890;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:38:47'
+		)
+		;
+
