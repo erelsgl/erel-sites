@@ -127,3 +127,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `kotrt` = 'פסח = צעד כדי להציל', `tarik_hosfa` = '2024-04-26 12:03:24' WHERE `qod` = 'פסח=' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:תהלים קיח19' AND 1 LIMIT 1;
+
