@@ -8738,3 +8738,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>וכן בתהילים ח פסוקים ח- ט</p><p>.</p>',
+		'117596550342431065120',
+		'דני ארגמן',
+		'2024-07-24 09:12:10'
+		)
+		;
+
