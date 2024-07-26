@@ -8750,3 +8750,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>חיה = כל מה שחי ביבשה באוויר ובים</p><p>בעיר = בהמה שהיא רכוש האדם = חיות משק</p><p>בהמה = החיות על הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-25 13:16:38'
+		)
+		;
+
