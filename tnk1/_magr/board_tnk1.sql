@@ -14748,3 +14748,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/263.html',
+				'tnk1/tora/bmdbr/bm-33-38.html',
+				NULL,
+				'2024-08-01 02:14:15',
+				'2024-08-01 02:14:15',
+				'א באב - יום פטירת אהרן',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/1302.html',
+				'tnk1/ktuv/ewn/ez-07-09.html',
+				NULL,
+				'2024-08-01 02:48:39',
+				'2024-08-01 02:48:39',
+				'א באב - יום הגעת עזרא לירושלים',
+				'אראל',
+				''
+			)
+		;
+
