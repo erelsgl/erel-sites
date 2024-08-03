@@ -8781,3 +8781,10 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-07-26 14:54:38' 
 			WHERE messageid=12907;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-02 15:41:15' 
+			WHERE messageid=9198;
+
