@@ -14826,3 +14826,43 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-08-01 20:34:53'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-08-04 10:28:35'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2805_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-08-04 14:57:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/sbb.html',
+				'tnk1/ktuv/thlim/th-118-10.html',
+				NULL,
+				'2024-08-05 05:58:20',
+				'2024-08-05 05:58:20',
+				'מלחמה רב זירתית',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-08-05 06:57:04'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-118-10.html'
+		;
+

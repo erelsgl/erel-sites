@@ -8788,3 +8788,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-08-02 15:41:15' 
 			WHERE messageid=9198;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>מלכים ב ה12: &quot;הֲלֹא טוֹב אבנה[אֲמָנָה] וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה&quot;</p><p>מיי הגוים טהורים וטובים מִכֹּל מֵימֵי יִשְׂרָאֵל אך על אף זאת מֵימֵי יִשְׂרָאֵל הם המים של ארץ הקודש וסגולה נפלאה לטבול בם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-04 10:28:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-04 14:57:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-04 14:57:47' 
+			WHERE messageid=12909;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-118-10.html',
+		'<p> </p><p>הורי דוברי ארמית בני קהילת נאשדידן [עדת כורדיסטאן]</p><p>בשפה הארמית &quot;מיל&quot; = זה מת</p><p>כשאדם מת אומרים עליו &quot;מיל&quot;  </p><p>תהלים קיח10: &quot; כָּל גּוֹיִם סְבָבוּנִי בְּשֵׁם יהוה כִּי אֲמִילַם. &quot;</p><p> אֲמִילַם = אמית אותם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-05 06:57:04'
+		)
+		;
+
