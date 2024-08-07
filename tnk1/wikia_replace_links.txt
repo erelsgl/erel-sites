@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-07-23 19:30:15
+# This file was automatically generated at 2024-08-06 19:17:12
 
 sub wikia_replace_links {
 $_=shift;
@@ -1951,6 +1951,7 @@ s|${OPENLINK}tnk1/tora/bmdbr/bm-36-06|[[ביאור:חוק נישואי בנות 
 s|${OPENLINK}tnk1/tora/bmdbr/bm-35-33|[[ביאור:כפרה על רצח - תנאי הכרחי ומספיק|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-35-25|[[ביאור:הרוצח בשגגה נשאר בעיר המקלט עד מות הכהן הגדול|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-35-24|[[ביאור:העברת השיפוט מיד הפרט ליד הציבור|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-33-38|[[ביאור:א באב - יום פטירת אהרן|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-32-yldim|[[ביאור:במדבר לב לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-32-22|[[ביאור:חלוקת נחלות מתחשבת בהעדפות אישיות|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-31-1924|[[ביאור:מתי למד אלעזר את דיני הטהרה?|ig;
@@ -8310,6 +8311,10 @@ s|${OPENLINK}tnk1/messages/forums_170|[[ביאור:פרשת ניצבים ויל�
 s|${OPENLINK}tnk1/messages/forums_17|[[ביאור:'עקדת יצחק' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_169|[[ביאור:'מלוא הטנא' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_168|[[ביאור:'ביכורי הודיה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1678|[[ביאור:'מקנה רב לראובן וגד' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1677|[[ביאור:פרשת מטות - מסעי - במה  טעו שבטי גד וראובן?|ig;
+s|${OPENLINK}tnk1/messages/forums_1676|[[ביאור:'השבת גמול למדיינים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1675|[[ביאור:פרשת פינחס - מדוע חשוב לצרור את המדיינים?|ig;
 s|${OPENLINK}tnk1/messages/forums_1674|[[ביאור:'בלעם וכישלונו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1673|[[ביאור:פרשת בלק - מדוע נכשל בלעם בקללת עם ישראל?|ig;
 s|${OPENLINK}tnk1/messages/forums_1672|[[ביאור:' הנחש הקדמון' - שיר מאת אהובה קליין (c)|ig;
@@ -9798,6 +9803,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-119-1|[[ביאור:תהלים קיט - מבוא|
 s|${OPENLINK}tnk1/ktuv/thlim/th-119-0|[[ביאור:תהלים קיט (תמניא אפי) - להתקרב לתורה במסלול אלפביתי|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-119-|[[ביאור:הפוחד מהאחד - לא פוחד מאף אחד|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-118-24|[[ביאור:תן לי את היום הזה|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-118-10|[[ביאור:מלחמה רב זירתית|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-117|[[ביאור:הללו את ה' כל גויים - כי גבר עלינו חסדו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-114-0304|[[ביאור:רמזי מלחמת ששת הימים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-113-0406|[[ביאור:גדולת ה' מתבטאת בפרטים הקטנים|ig;
@@ -11305,6 +11311,7 @@ s|${OPENLINK}tnk1/ktuv/ewn/nh-08-14|[[ביאור:העולים מגלים את ח
 s|${OPENLINK}tnk1/ktuv/ewn/nh-08|[[ביאור:קריאת התורה בימי עזרא ונחמיה|ig;
 s|${OPENLINK}tnk1/ktuv/ewn/ezra_wnxmya|[[ביאור:ההבדלים בין עזרא לנחמיה|ig;
 s|${OPENLINK}tnk1/ktuv/ewn/ez-10-08|[[ביאור:הפקר בית דין - הפקר|ig;
+s|${OPENLINK}tnk1/ktuv/ewn/ez-07-09|[[ביאור:א באב - יום הגעת עזרא לירושלים|ig;
 s|${OPENLINK}tnk1/ktuv/ewn/ez-07-0708|[[ביאור:בשנת שבע לארתחשסתא|ig;
 s|${OPENLINK}tnk1/ktuv/ewn/ez-04|[[ביאור:המכתב של בשלם וחבריו|ig;
 s|${OPENLINK}tnk1/ktuv/ewn/ez-03-10|[[ביאור:מלובשים בחצוצרות|ig;
