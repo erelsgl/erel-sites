@@ -8917,3 +8917,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ראו גם: ועדת חקירה רוחנית / הרב עזריאל אריאל https://www.inn.co.il/news/627224 </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-08-11 15:40:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ועדת חקירה אזרחית: https://havaada.co.il</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-08-11 16:09:22'
+		)
+		;
+
