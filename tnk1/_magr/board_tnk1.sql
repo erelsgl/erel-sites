@@ -15166,3 +15166,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/kma/qjrim2/temple-lebanon-iran.html',
+				NULL,
+				'2024-08-13 07:43:16',
+				'2024-08-13 07:43:16',
+				'לבנון ואיראן סייעו לבניית בתי המקדש',
+				'אראל',
+				''
+			)
+		;
+
