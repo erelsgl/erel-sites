@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-08-06 19:17:12
+# This file was automatically generated at 2024-08-13 14:52:55
 
 sub wikia_replace_links {
 $_=shift;
@@ -8310,7 +8310,9 @@ s|${OPENLINK}tnk1/messages/forums_171|[[ביאור:'העם והברית' - שי�
 s|${OPENLINK}tnk1/messages/forums_170|[[ביאור:פרשת ניצבים וילך - הכנות לראש השנה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_17|[[ביאור:'עקדת יצחק' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_169|[[ביאור:'מלוא הטנא' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1680|[[ביאור:'עליה וירושת הארץ' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_168|[[ביאור:'ביכורי הודיה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1679|[[ביאור:פרשת דברים - רמזים ומסרים לעם ישראל, גם בימינו!/ מאת: אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_1678|[[ביאור:'מקנה רב לראובן וגד' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1677|[[ביאור:פרשת מטות - מסעי - במה  טעו שבטי גד וראובן?|ig;
 s|${OPENLINK}tnk1/messages/forums_1676|[[ביאור:'השבת גמול למדיינים' - שיר מאת אהובה קליין (c)|ig;
@@ -9804,6 +9806,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-119-0|[[ביאור:תהלים קיט (תמניא
 s|${OPENLINK}tnk1/ktuv/thlim/th-119-|[[ביאור:הפוחד מהאחד - לא פוחד מאף אחד|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-118-24|[[ביאור:תן לי את היום הזה|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-118-10|[[ביאור:מלחמה רב זירתית|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-118-05|[[ביאור:מן המצר אל המרחב|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-117|[[ביאור:הללו את ה' כל גויים - כי גבר עלינו חסדו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-114-0304|[[ביאור:רמזי מלחמת ששת הימים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-113-0406|[[ביאור:גדולת ה' מתבטאת בפרטים הקטנים|ig;
@@ -11236,6 +11239,13 @@ s|${OPENLINK}tnk1/ktuv/mgilot/ei-mtnya|[[ביאור:ספר איכה - סדר ו�
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-53|[[ביאור:צמתו בבור חיי, וידו אבן בי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-40|[[ביאור:חשבון נפש אישי ע"פ מגילת איכה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-02-14|[[ביאור:נביאים שאינם מגלים את העוון, לא ישיבו אותנו לטוב|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-16|[[ביאור:ירושלים בוכה ואין מנחם|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-15|[[ביאור:קינה על הרג הבחורים|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-14|[[ביאור:הפשעים מכשילים את כוחנו|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-13|[[ביאור:אש מלמעלה ורשת מלמטה|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-12|[[ביאור:לוא אליכם כל עוברי דרך|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-11|[[ביאור:מזלילה לרעב|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-10|[[ביאור:ידו פרש צר על כל מחמדיה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-09|[[ביאור:טומאתה בשוליה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-08|[[ביאור:ירושלים היתה לנידה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-07|[[ביאור:בימי החורבן, ירושלים זוכרת את הבניין|ig;
@@ -11368,6 +11378,7 @@ s|${OPENLINK}tnk1/kma/qjrim2/tjuvt_dwd_svl|[[ביאור:דוד מקבל בהבנ
 s|${OPENLINK}tnk1/kma/qjrim2/tjuvt_dwd|[[ביאור:תשובתו של דוד|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/tjuva_frida|[[ביאור:דרך תשובה|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/tjuva|[[ביאור:שובי|ig;
+s|${OPENLINK}tnk1/kma/qjrim2/temple-lebanon-iran|[[ביאור:לבנון ואיראן סייעו לבניית בתי המקדש|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/survival|[[ביאור:על סדר היום - הישרדות|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/sofim|[[ביאור:סיומים מוזרים|ig;
 s|${OPENLINK}tnk1/kma/qjrim2/smkut_hmlk|[[ביאור:טבעת המלך וסמכות המלך|ig;
