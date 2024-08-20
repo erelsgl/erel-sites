@@ -9046,3 +9046,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-08-14 08:41:41' 
 			WHERE messageid=12924;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p></p><p>משלי כז11: &quot;חֲכַם בְּנִי וְשַׂמַּח לִבִּי וְאָשִׁיבָה חֹרְפִי דָבָר&quot;</p><p>תהלים קיט42: &quot;וְאֶעֱנֶה חֹרְפִי דָבָר כִּי בָטַחְתִּי בִּדְבָרֶךָ&quot;</p><p>וְאֶעֱנֶה חֹרְפִי דָבָר =  וְאָשִׁיבָה חֹרְפִי דָבָר</p><p>חֲכַם בְּנִי וְשַׂמַּח לִבִּי = כִּי בָטַחְתִּי בִּדְבָרֶךָ -------------- בטח בדברי אלהים והייה חכם לשמח אלהי אביך</p><p>בספר תהילים --- המשיח בן-האלהים עונה לחורפו דבר</p><p>ובספר משלי --- אלהי-אביו של הבן משיב חורפו דבר</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-19 11:28:53'
+		)
+		;
+
