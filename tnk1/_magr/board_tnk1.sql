@@ -15932,3 +15932,34 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-08-20 17:08:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1hjgxa.html',
+				'tnk1/ktuv/thlim/th-94-07.html',
+				NULL,
+				'2024-08-21 02:52:21',
+				'2024-08-21 02:52:21',
+				'התפארות הרשעים משפילה את כבוד ה\'',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-08-21 02:52:21'
+			WHERE ktovt_bn='tnk1/msr/1hjgxa.html';
+

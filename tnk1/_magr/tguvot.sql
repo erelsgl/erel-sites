@@ -9058,3 +9058,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>https://www.facebook.com/reel/580408177169793</p><p>השכמה בבקר נוסח אמריקה [משעשע ראיתי פעמים רבות]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-20 17:08:14'
+		)
+		;
+
