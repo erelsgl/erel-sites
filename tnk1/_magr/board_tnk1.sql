@@ -15963,3 +15963,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-08-21 02:52:21'
 			WHERE ktovt_bn='tnk1/msr/1hjgxa.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-08-21 13:07:27'
+		WHERE ktovt_bn='tnk1/ktuv/mj/16-09.html'
+		;
+

@@ -9070,3 +9070,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/16-09.html',
+		'<p> </p><p>משלי טז9: &quot;לֵב אָדָם יְחַשֵּׁב דַּרְכּוֹ ויהוה יָכִין צַעֲדוֹ&quot; = [על משקל] =  &quot;רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ וַעֲצַת יהוה הִיא תָקוּם&quot; [משלי יט21]</p><p>רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ = &quot;לֵב אָדָם יְחַשֵּׁב דַּרְכּוֹ</p><p>ויהוה יָכִין צַעֲדוֹ =  וַעֲצַת יהוה הִיא תָקוּם</p><p>-</p><p>ירמיהו י23: &quot;יָדַעְתִּי יהוה כִּי לֹא לָאָדָם דַּרְכּוֹ לֹא לְאִישׁ הֹלֵךְ וְהָכִין אֶת צַעֲדוֹ&quot; ------- כי אם יהוה לבדו יָכִין צַעֲדוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-21 13:07:27'
+		)
+		;
+
