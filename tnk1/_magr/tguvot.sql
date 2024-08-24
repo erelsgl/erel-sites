@@ -9082,3 +9082,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-16-04.html',
+		'<p> את הפסוק &quot;כל פעל ה\' למענהו&quot; מפרש הרמב&quot;ם: למענהו – לא למען האדם.</p><p>מקור מליבוביץ: http://www.leibowitz.co.il/ebook.asp?id=3#_ftnref1</p>',
+		'104139591522855258912',
+		'NINE',
+		'2024-08-23 14:50:04'
+		)
+		;
+
