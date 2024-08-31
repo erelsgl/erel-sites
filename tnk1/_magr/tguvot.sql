@@ -9137,3 +9137,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-08-26 18:56:18' 
 			WHERE messageid=12931;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p> </p><p> </p><p>https://www.youtube.com/watch?v=KbmOV_wl0-0&amp;t=212s</p><p>מקדיש שיר זה לכל שבורי הלב ..................................................</p><p>תהלים נא19: &quot;זִבְחֵי אֱלֹהִים רוּחַ נִשְׁבָּרָה לֵב נִשְׁבָּר וְנִדְכֶּה אֱלֹהִים לֹא תִבְזֶה&quot;</p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-30 14:34:56'
+		)
+		;
+
