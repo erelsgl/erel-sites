@@ -9161,3 +9161,103 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:18:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p><p>הוא הזמן בו חוזרים מבית הכנסת בבוקר של יום שבת סעודה שנייה</p><p>רק לא לשתות היין בתחילת הבוקר עת קמים מהמיטה בשחר השכם</p><p>ישעיהו ה11: &quot;הוֹי מַשְׁכִּימֵי בַבֹּקֶר שֵׁכָר יִרְדֹּפוּ מְאַחֲרֵי בַנֶּשֶׁף יַיִן יַדְלִיקֵם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:21:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:21:46' 
+			WHERE messageid=12935;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p><p>הוא הזמן בו חוזרים מבית הכנסת בבוקר של יום שבת סעודה שנייה</p><p>כי בסעודה הראשונה ביום ששי בליל שבת אוכלים בשר באמונה בלילה ללא יין</p><p>אך בסעודה שנייה של שבת בבוקר היא ארוחה חלבית + יין</p><p>שיר השירים ה1: </p><p>&quot;בָּאתִי לְגַנִּי אֲחֹתִי כַלָּה אָרִיתִי מוֹרִי עִם בְּשָׂמִי אָכַלְתִּי יַעְרִי עִם דִּבְשִׁי </p><p>שָׁתִיתִי יֵינִי עִם חֲלָבִי....... אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דּוֹדִים&quot;</p><p>רק לא לשתות היין בתחילת הבוקר עת קמים מהמיטה בשחר השכם</p><p>ישעיהו ה11: &quot;הוֹי מַשְׁכִּימֵי בַבֹּקֶר שֵׁכָר יִרְדֹּפוּ מְאַחֲרֵי בַנֶּשֶׁף יַיִן יַדְלִיקֵם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:27:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:27:45' 
+			WHERE messageid=12874;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:28:03' 
+			WHERE messageid=12936;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>עֶרְכְּךָ לְפִי זַרְעוֹ = לאמור יותר חשוב לי שהיין יהיה מזרע משובח מזן מובחר בחשיבות יתרה על פני מקום גידול היין למרות שגם בית הגידול חשוב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:37:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>עֶרְכְּךָ לְפִי זַרְעוֹ = לאמור יותר חשוב לי שהיין יהיה מזרע משובח מזן מובחר בחשיבות יתרה על פני מקום גידול היין למרות שגם בית הגידול חשוב</p><p>כאשר על פי התורה זרע האב קובע את דתו של הנולד בחשיבות יתרה על פני אמו של הילד למרות שבהלכה של הרבנים זה הפוך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:47:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:47:57' 
+			WHERE messageid=12938;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>הודעה לצדיק בשיר זה</p><p>אני אהיה שם בשבילך שוב</p><p>אני אחכה, מחכה עד הסוף</p><p>https://www.youtube.com/watch?v=XPCCg0Wscw8&amp;list=LL&amp;index=56</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 17:36:34'
+		)
+		;
+
