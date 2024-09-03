@@ -9261,3 +9261,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p><p>משלי יח22: &quot;מָצָא אִשָּׁה מָצָא טוֹב וַיָּפֶק רָצוֹן מיהוה\'&quot;</p><p>משלי ח35: &quot;כִּי מצאי[מָצָא] מֹצְאִי חַיִּים וַיָּפֶק רָצוֹן מיהוה\'&quot; </p><p>VOCAL TRANCE: Nikolauss &amp; Elara - Found A Way To You</p><p>https://www.youtube.com/watch?v=ovzD3h8XpdE&amp;list=RDovzD3h8XpdE&amp;start_radio=1</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-02 13:46:48'
+		)
+		;
+
