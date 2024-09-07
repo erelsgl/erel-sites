@@ -9395,3 +9395,79 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-05 07:18:56' 
 			WHERE messageid=12949;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>סליחה את דיילת תגידי בבקשה</p><p>מה ההבדל בין דיילת אויר לדיילת קרקע</p><p>הדיילת: אוהו זה הבדל שמים וארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 08:02:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 08:49:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 08:49:09' 
+			WHERE messageid=12952;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 10:46:49' 
+			WHERE messageid=11149;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 10:46:57' 
+			WHERE messageid=11156;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>ההבדלים לשם המחשה בלבד</p><p>כשאתה שומע בקול אלהים שירת החיים נשמעת לך כמערכת סטריאו</p><p>וכשאתה לא שומע בקול אלהים שירת החיים נשמעת לך כטרנזיסטור</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 12:14:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 12:15:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 12:16:46' 
+			WHERE messageid=12954;
+
