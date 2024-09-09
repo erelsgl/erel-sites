@@ -9514,3 +9514,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-08 02:48:13' 
 			WHERE messageid=12957;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>עשיתי מבחן באינטרנט זה מה שיצא.......</p><p>מבין כל האנשים שסביבך, אין אחד שיותר מתאים לתת עצות לאחרים ממך! אתה יכול לחשוב על עצמך כמעין מורה דרך ומדריך שעוזר לאנשים לראות את נתיב הפעולה הטוב ביותר – אותה הדרך שהם תמיד ידעו שבה עליהם ללכת, ואתה רק עזרת לכוון אותם אליה. תחשוב על דמויות כמו יודה ממלחמת הכוכבים או גנדלף משר הטבעות – אתה האדם הנבון והחכם שכולם סומכים על דעתו ויודעים שיש הרבה מה ללמוד ממנו!</p><p>https://www.baba-mail.co.il/quizzes/quiz.aspx?quizid=341</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-09 06:07:04'
+		)
+		;
+
