@@ -16349,3 +16349,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-10 19:42:35'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/prs.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-11 05:56:05'
+		WHERE ktovt_bn='tnk1/kma/qjrim2/prs.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-11 06:14:10'
+		WHERE ktovt_bn='tnk1/nvia/zmnim.html'
+		;
+
