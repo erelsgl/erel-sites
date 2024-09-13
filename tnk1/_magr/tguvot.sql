@@ -9769,3 +9769,134 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>אני דיין שם משה</p><p>אנכי הכהן המשיח</p><p>כל עולם המיסטיקה תומך בזאת</p><p>מבחינת תוכנת מחשב נומרולוגית --- זה מה שיצא</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה,</p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>------- אסטרולגית עולמית בכירה בניתוח המפה האסטרולוגית של מלך המשיח כותבת:</p><p> &quot;מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 09:20:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים ב ב11: &quot;וַיְהִי הֵמָּה הֹלְכִים הָלוֹךְ וְדַבֵּר</p><p>וְהִנֵּה רֶכֶב אֵשׁ וְסוּסֵי אֵשׁ וַיַּפְרִדוּ בֵּין שְׁנֵיהֶם וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם&quot;</p><p>נחום א3: &quot;ה\' אֶרֶךְ אַפַּיִם וגדול[וּגְדָל] כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יהוה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו&quot;</p><p> וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם = בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ</p><p>https://www.youtube.com/watch?v=1j1NBVSjzPc&amp;list=RDovzD3h8XpdE&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 10:50:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים ב ב11: &quot;וַיְהִי הֵמָּה הֹלְכִים הָלוֹךְ וְדַבֵּר</p><p>וְהִנֵּה רֶכֶב אֵשׁ וְסוּסֵי אֵשׁ וַיַּפְרִדוּ בֵּין שְׁנֵיהֶם וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם&quot;</p><p>נחום א3: &quot;יהוה אֶרֶךְ אַפַּיִם וגדול[וּגְדָל] כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יהוה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו&quot;</p><p>וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם = בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ</p><p>https://www.youtube.com/watch?v=1j1NBVSjzPc&amp;list=RDovzD3h8XpdE&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 10:51:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-12 10:51:02' 
+			WHERE messageid=12975;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 14:36:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-12 14:36:59' 
+			WHERE messageid=12977;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:12:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:12:14' 
+			WHERE messageid=12978;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:12:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:12:34' 
+			WHERE messageid=12979;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_1.html',
+		'<p>יש פר בן-בקר וזה הבקר אבי-הפר</p><p>https://www.facebook.com/watch?v=1191858505377863</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:43:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:44:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:44:19' 
+			WHERE messageid=12981;
+
