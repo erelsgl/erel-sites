@@ -9900,3 +9900,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-13 03:44:19' 
 			WHERE messageid=12981;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p></p><p>קהלת ד3: &quot;וְטוֹב מִשְּׁנֵיהֶם אֵת אֲשֶׁר עֲדֶן לֹא הָיָה אֲשֶׁר לֹא רָאָה אֶת הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ&quot;</p><p> פרק ג</p><p>א) ועתה שמע על אודות השמים אשר הראית, ועל כן אלה אשר מתחת כהים הם, כי ראו את כל מעשי רשע בני האדם.</p><p>ואתה אם חפצת בשמים בהירים זוהרים ומאירים אל תבט אל רשעת האדם אל חצי הכוס הריקה כי אם לחצי הכוס המלאה לצדיקים</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 03:57:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 03:57:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 03:57:57' 
+			WHERE messageid=12983;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>קהלת ד3: &quot;וְטוֹב מִשְּׁנֵיהֶם אֵת אֲשֶׁר עֲדֶן לֹא הָיָה אֲשֶׁר לֹא רָאָה אֶת הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ&quot;</p><p>פרק ג</p><p>א) ועתה שמע על אודות השמים אשר הראית, ועל כן אלה אשר מתחת כהים הם, כי ראו את כל מעשי רשע בני האדם.</p><p>ואתה אם חפצת בשמים בהירים זוהרים ומאירים אל תבט אל הרעה אל מעשי רשעת האדם כי אם למעשי צדקת האדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 05:43:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 05:43:26' 
+			WHERE messageid=12982;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 05:43:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 05:43:45' 
+			WHERE messageid=12985;
+
