@@ -16611,3 +16611,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-15 10:20:56'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-15 10:42:11'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-15 16:19:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-15 16:21:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0232_5.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-15 16:23:02'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
