@@ -16651,3 +16651,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nqm.html',
+				'tnk1/kma/qjrim1/nqm.html',
+				NULL,
+				'2024-09-17 03:14:47',
+				'2024-09-17 03:14:47',
+				'נקם = עונש פומבי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-17 06:07:18'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-17 07:39:21'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
