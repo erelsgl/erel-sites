@@ -10095,3 +10095,91 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-17 07:39:32' 
 			WHERE messageid=12991;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 15:01:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 15:01:43' 
+			WHERE messageid=12993;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 17:30:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 17:30:47' 
+			WHERE messageid=12994;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>אילו היו לנו מנהיגים שיודעים תורה, הם היו יוצאים כבר עכשיו לכבוש את לבנון. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-18 05:33:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 05:33:24' 
+			WHERE messageid=12995;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>כיום הולך ומתברר, שאין שום אפשרות להשיג ביטחון בגליל, פרט לכיבוש לבנון. אבל כדי לכבוש את לבנון, צריך קודם-כל להבין שלבנון היא חלק מארץ ישראל, שניתנה לנו מה\'. וכדי להבין את זה, צריך לדעת תורה. רק מנהיגים שיודעים תורה יוכלו לכבוש את לבנון ולהציל את הגליל.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-18 05:34:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 07:32:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 07:32:07' 
+			WHERE messageid=12997;
+

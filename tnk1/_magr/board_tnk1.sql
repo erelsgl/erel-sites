@@ -16683,3 +16683,59 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-17 15:01:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-17 17:30:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0619_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-18 05:33:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0619_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-18 05:34:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0619_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/nqm.html',
+				'tnk1/ktuv/thlim/th-94-01.html',
+				NULL,
+				'2024-09-18 05:35:02',
+				'2024-09-18 05:35:02',
+				'קריאה לה\' שיופיע וינקום',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-09-18 07:32:05'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
