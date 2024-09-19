@@ -10183,3 +10183,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-18 07:32:07' 
 			WHERE messageid=12997;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-98.html',
+		'<p>אשריכם</p>',
+		'114794060750916535902',
+		'יצחק כהן',
+		'2024-09-18 15:25:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 16:00:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 16:00:28' 
+			WHERE messageid=12999;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 16:35:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 16:35:29' 
+			WHERE messageid=13000;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p></p><p>מלכים ב ו18: &quot;וַיֵּרְדוּ אֵלָיו וַיִּתְפַּלֵּל אֱלִישָׁע אֶל יהוה וַיֹּאמַר הַךְ נָא אֶת הַגּוֹי הַזֶּה בַּסַּנְוֵרִים וַיַּכֵּם בַּסַּנְוֵרִים כִּדְבַר אֱלִישָׁע&quot;</p><p>בראשית יט11: &quot;וְאֶת הָאֲנָשִׁים אֲשֶׁר פֶּתַח הַבַּיִת הִכּוּ בַּסַּנְוֵרִים מִקָּטֹן וְעַד גָּדוֹל וַיִּלְאוּ לִמְצֹא הַפָּתַח&quot;</p><p>זכריה ב12: &quot;כִּי כֹה אָמַר יהוה צְבָאוֹת אַחַר כָּבוֹד שְׁלָחַנִי אֶל הַגּוֹיִם הַשֹּׁלְלִים אֶתְכֶם כִּי הַנֹּגֵעַ בָּכֶם נֹגֵעַ בְּבָבַת עֵינוֹ&quot;</p><p>זכריה יד12: &quot;וְזֹאת תִּהְיֶה הַמַּגֵּפָה אֲשֶׁר יִגֹּף יהוה אֶת כָּל הָעַמִּים אֲשֶׁר צָבְאוּ עַל יְרוּשָׁלָים הָמֵק בְּשָׂרוֹ וְהוּא עֹמֵד עַל רַגְלָיו וְעֵינָיו תִּמַּקְנָה בְחֹרֵיהֶן וּלְשׁוֹנוֹ תִּמַּק בְּפִיהֶם&quot;</p><p>תהלים קלז6: &quot;תִּדְבַּק לְשׁוֹנִי לְחִכִּי אִם לֹא אֶזְכְּרֵכִי אִם לֹא אַעֲלֶה אֶת יְרוּשָׁלַים עַל רֹאשׁ שִׂמְחָתִי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-19 06:20:44'
+		)
+		;
+
