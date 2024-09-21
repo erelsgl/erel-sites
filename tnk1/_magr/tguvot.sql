@@ -10314,3 +10314,79 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-20 04:40:40' 
 			WHERE messageid=13005;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 12:32:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 12:32:22' 
+			WHERE messageid=13006;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 13:36:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 13:36:37' 
+			WHERE messageid=13007;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>מלכים ב ה12: &quot;הֲלֹא טוֹב אבנה[אֲמָנָה] וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה&quot;</p><p>מיי הגוים טהורים וטובים מִכֹּל מֵימֵי יִשְׂרָאֵל אך על אף זאת מֵימֵי יִשְׂרָאֵל הם המים של ארץ הקודש וסגולה נפלאה לטבול בם</p><p>הוא הדבר באשר לשתיית המים לאמור כי המים המינרלים הטבעים מישראל ארץ הקודש ברוכים מן המים המינרלים הטבעיים של חו&quot;ל</p><p>על אף כי במים מינרלים מחו&quot;ל רמת החנקות נמוכה יותר מה שמעיד על רמת טוהר גבוהה יותר במים ובכל זאת מי ארץ הקודש ברוכים יותר</p><p>כי המים של ישראל ירדו מן השמים לארץ הקודש אשר שכן שם משכן אהל-מועד על כן כתוב:</p><p>במדבר ה17: &quot;וְלָקַח הַכֹּהֵן מַיִם קְדֹשִׁים בִּכְלִי חָרֶשׂ וּמִן הֶעָפָר אֲשֶׁר יִהְיֶה בְּקַרְקַע הַמִּשְׁכָּן יִקַּח הַכֹּהֵן וְנָתַן אֶל הַמָּיִם&quot;</p><p>לאמור כי מלבד המים הקדושים יש חשיבות גם לקרקע אשר המים עליהם ואם הקרקע קדושה הלא זה מבורך</p><p>הוא הדבר אשר מים טהורים מן השמים כולם טהורים אבל יש חשיבות לאדמת הקודש אשר המים ירדו אליה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 14:58:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 14:58:50' 
+			WHERE messageid=12908;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 15:12:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 15:12:41' 
+			WHERE messageid=13009;
+
