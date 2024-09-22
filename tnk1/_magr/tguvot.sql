@@ -10390,3 +10390,17 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-20 15:12:41' 
 			WHERE messageid=13009;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-21 17:16:57' 
+			WHERE messageid=11113;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-21 17:17:48' 
+			WHERE messageid=10316;
+
