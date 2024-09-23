@@ -10404,3 +10404,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-21 17:17:48' 
 			WHERE messageid=10316;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_15.html',
+		'<p>NH ARUMV T, ZV AHVHV KU TJKV JHHO ,RDNU KGCRH,</p>',
+		'114199613018129894304',
+		'אפיק וקנין',
+		'2024-09-22 08:48:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-22 09:41:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-22 09:41:50' 
+			WHERE messageid=13011;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>אראל</p><p>יש לכבוש את דרום לבנון הערים צור וצידון וכן את דרום סוריה כולל העיר דמשק </p><p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;  </p><p>בראשית יד15: &quot;וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה הוּא וַעֲבָדָיו וַיַּכֵּם וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק&quot; </p><p>אברהם אבינו רדף אחרי אויביו הכה אותם וגרש וסילק אותם מעבר לארץ כנען לאמור</p><p> וַיִּרְדֹּף עַד דָּן --- בדרום לבנון זה נחשב לנחלת ישראל</p><p> וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק --- גם חלק זה בסוריה נחשב לנחלת ישראל</p><p>ראש הממשלה ומנהיגי ישראל צריכים להבין זאת ולפעול בהתאם לתורה</p><p>https://tora.us.fm/tnk1/messages/prqim_t0434_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-23 06:24:09'
+		)
+		;
+
