@@ -10447,3 +10447,89 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/hyomn1.html',
+		'<p>נח&quot;ת זה מרנין :)</p>',
+		'112175768288394926668',
+		'אריאל יונייב',
+		'2024-09-23 11:16:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-23 19:33:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-23 19:33:28' 
+			WHERE messageid=13014;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום.</p><p>האם אתה צריך הלוואה דחופה כדי להיפטר מהבעיה הכלכלית שלך, האם היית</p><p>נדחה על ידי בנקים במדינה שלך ואתה זקוק להלוואה דחופה, צור איתנו קשר</p><p>היום ב-Info Trust Firm Company Ltd, אנחנו עוזרים כשאחרים לא יכולים!</p><p>* לשאול כל דבר עד $5,000.00 עד $50,000,000.00.</p><p>* בחר בין שנה ל-10 שנים להחזר.</p><p>דוא&quot;ל ליצירת קשר: (info.trustfirm2012@gmail.com)</p><p>תודה על הזמן שלך,</p><p>בברכה,</p><p>קתרין קול</p><p>info.trustfirm2012@gmail.com</p><p></p>',
+		'110883568977859566790',
+		'Catherine Cole',
+		'2024-09-23 21:43:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום.</p><p>האם אתה צריך הלוואה דחופה כדי להיפטר מהבעיה הכלכלית שלך, האם היית</p><p>נדחה על ידי בנקים במדינה שלך ואתה זקוק להלוואה דחופה, צור איתנו קשר</p><p>היום ב-Info Trust Firm Company Ltd, אנחנו עוזרים כשאחרים לא יכולים!</p><p>* לשאול כל דבר עד $5,000.00 עד $50,000,000.00.</p><p>* בחר בין שנה ל-10 שנים להחזר.</p><p>דוא&quot;ל ליצירת קשר: (info.trustfirm2012@gmail.com)</p><p>תודה על הזמן שלך,</p><p>בברכה,</p><p>קתרין קול</p><p>info.trustfirm2012@gmail.com</p><p></p>',
+		'110883568977859566790',
+		'Catherine Cole',
+		'2024-09-23 21:43:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>בקר-טוב</p><p>זה עתה חלמתי חלום שעל בני ישראל להיות מאוחדים כאשר הים אחד במקום אחד</p><p>תהלים עז20: &quot;בַּיָּם דַּרְכֶּךָ....... ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>תהלים עז14: &quot;אֱלֹהִים בַּקֹּדֶשׁ....... דַּרְכֶּךָ מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>בני ישראל לא מאוחדים כאשר הים אחד כי הים הוא קודש ועל בני ישראל להתקדש</p><p>כי בהיותנו קדושים כולם נהיה כולנו בני ישראל לעם אחד מאוחד אחדות תהיה בתוכנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 04:20:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>בקר-טוב</p><p>זה עתה חלמתי חלום שעל בני ישראל להיות מאוחדים כאשר הים אחד במקום אחד</p><p>תהלים עז20: &quot;בַּיָּם דַּרְכֶּךָ....... ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>תהלים עז14: &quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ....... מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>בני ישראל לא מאוחדים כאשר הים אחד כי הים הוא קודש ועל בני ישראל להתקדש</p><p>כי בהיותנו קדושים כולם נהיה כולנו בני ישראל לעם אחד מאוחד אחדות תהיה בתוכנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 04:21:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 04:21:31' 
+			WHERE messageid=13017;
+

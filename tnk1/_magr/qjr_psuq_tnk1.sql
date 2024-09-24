@@ -886,3 +886,35 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'שעשוע הוא דבר חיובי' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'זכרון וזכירות בספר דברים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'מנהגי אנינות' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'היום אתה, עם ישראל, האמרת (הגבהת ופיארת) את ה\', בכך שקיבלת אותו להיות לך לאלהים, והסכמת ללכת בדרכיו, ולשמור חוקיו ומצוותיו ומשפטיו, ולשמוע בקולו; ', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'ביאור:דברים כו17' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'האמנם כל בני עם סגולה הם בעלי סגולה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'על הספר \"הצלחתם של מספרי הסיפורים\" מאת מרדכי שטנר' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+

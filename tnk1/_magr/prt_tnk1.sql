@@ -135,3 +135,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `prt_tnk1` SET `qod` = 'פרשת דברים-רמזים ומסרים לעם ישראל, גם בימינו!', `tarik_hosfa` = '2024-08-13 14:38:38' WHERE `qod` = 'דברים א11' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `prt_tnk1` SET `sug` = 'דיון1', `tarik_hosfa` = '2024-09-24 03:33:27' WHERE `qod` = 'ביאור:דברים כו17' AND 1 LIMIT 1;
+
