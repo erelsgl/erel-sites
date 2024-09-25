@@ -10533,3 +10533,62 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-24 04:21:31' 
 			WHERE messageid=13017;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 14:00:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 14:00:36' 
+			WHERE messageid=13019;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:23:58' 
+			WHERE messageid=13016;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:02' 
+			WHERE messageid=13015;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:13' 
+			WHERE messageid=12762;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:15' 
+			WHERE messageid=12761;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_15.html',
+		'<p>bhdv</p>',
+		'114199613018129894304',
+		'אפיק וקנין',
+		'2024-09-25 07:01:47'
+		)
+		;
+

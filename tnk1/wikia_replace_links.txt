@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-08-13 14:52:55
+# This file was automatically generated at 2024-09-24 18:44:38
 
 sub wikia_replace_links {
 $_=shift;
@@ -8309,7 +8309,19 @@ s|${OPENLINK}tnk1/messages/forums_172|[[ביאור:'צלילי שופר' - שי�
 s|${OPENLINK}tnk1/messages/forums_171|[[ביאור:'העם והברית' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_170|[[ביאור:פרשת ניצבים וילך - הכנות לראש השנה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_17|[[ביאור:'עקדת יצחק' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1692|[[ביאור:'לבוא לארץ להאיר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1691|[[ביאור:פרשת כי תבוא - התורה, ארץ ישראל ותקופתנו|ig;
+s|${OPENLINK}tnk1/messages/forums_1690|[[ביאור:'מלחמת עמלק-אז והיום!' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_169|[[ביאור:'מלוא הטנא' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1689|[[ביאור:פרשת כי תצא - ממלחמה  בעבר ובהווה - לגאולה|ig;
+s|${OPENLINK}tnk1/messages/forums_1688|[[ביאור:'יש מלך וישנו מלך' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1687|[[ביאור:פרשת שופטים - מלך בשר ודם, לאור רצון ה'|ig;
+s|${OPENLINK}tnk1/messages/forums_1686|[[ביאור:'ענייה  סוערה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1685|[[ביאור:פרשת ראה - ראייה ויראה - מה הקשר?/ מאת: אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1684|[[ביאור:'ארץ ישראל נדרשת' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1683|[[ביאור:פרשת עקב - התורה, עם ישראל,ארץ ישראל - הקשר?/ מאת: אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1682|[[ביאור:'כתר תורה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1681|[[ביאור:פרשת ואתחנן - המפתח לחיים טובים בארץ ישראל/ מאת: אהובה קליין|ig;
 s|${OPENLINK}tnk1/messages/forums_1680|[[ביאור:'עליה וירושת הארץ' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_168|[[ביאור:'ביכורי הודיה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1679|[[ביאור:פרשת דברים - רמזים ומסרים לעם ישראל, גם בימינו!/ מאת: אהובה קליין|ig;
@@ -9660,7 +9672,9 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-94-20|[[ביאור:היחברך כיסא הוו�
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-13|[[ביאור:להשקיט לו מימי רע, עד ייכרה לרשע שחת|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-12|[[ביאור:אשרי הגבר אשר תייסרנו, יה|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-09|[[ביאור:הנוטע אוזן הלא ישמע?! אם יוצר עין הלא יביט?!|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-94-07|[[ביאור:התפארות הרשעים משפילה את כבוד ה'|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-04|[[ביאור:תפילה שהגויים יובסו עד שלא יוכלו להגיד שניצחו|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-94-01|[[ביאור:קריאה לה' שיופיע וינקום|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94|[[ביאור:מבנה תהלים צד|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-93-05|[[ביאור:מראש הנקרה לבית המקדש|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-92-10|[[ביאור:פירוד מביא לאובדן|ig;
@@ -11735,6 +11749,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/nsapnim|[[ביאור:נשיאת פנים|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nsa|[[ביאור:נשא = הגביה והרים|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nqma_jll|[[ביאור:במלחמת נקמה לא לוקחים שלל|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nqma|[[ביאור:נקמה - מה אסור ומה מותר?|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/nqm|[[ביאור:נקם = עונש פומבי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nqi|[[ביאור:נקי = א. ללא חטא גלוי, ב. פטור מעונש או התחייבות|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nkx|[[ביאור:נוכח = בטווח ראיה, נכוח = ראוי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/nkrya|[[ביאור:אשה זרה ונכריה בספר משלי|ig;
