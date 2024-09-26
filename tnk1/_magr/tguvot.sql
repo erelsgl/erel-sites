@@ -10592,3 +10592,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-25 13:52:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-25 13:52:36' 
+			WHERE messageid=13021;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>ישראל איך תדע אם אלהים אתך להאמין בעצמך באמת</p><p>אם אדם הולך בדרך אלהים אז רוח אלהים עליו</p><p>על כן על האדם עליו להאמין בעצמו לאמור יש אלהים בקרבי</p><p>בספר שמות היה אלהים בקרבנו ישראל וישראל לא האמינו בעצמם</p><p>שמות יז7: &quot;וַיִּקְרָא שֵׁם הַמָּקוֹם מַסָּה וּמְרִיבָה עַל רִיב בְּנֵי יִשְׂרָאֵל וְעַל נַסֹּתָם אֶת יהוה לֵאמֹר הֲיֵשׁ יהוה בְּקִרְבֵּנוּ אִם אָיִן&quot;</p><p>בספר מיכה אלהים לא היה בתוך הרשעים האלה והם האמינו לשוא לאמור אלהים בקרבנו</p><p>מיכה ג11: &quot;רָאשֶׁיהָ בְּשֹׁחַד יִשְׁפֹּטוּ וְכֹהֲנֶיהָ בִּמְחִיר יוֹרוּ וּנְבִיאֶיהָ בְּכֶסֶף יִקְסֹמוּ וְעַל יהוה יִשָּׁעֵנוּ לֵאמֹר הֲלוֹא יהוה בְּקִרְבֵּנוּ לֹא תָבוֹא עָלֵינוּ רָעָה&quot;</p><p>-</p><p>לסיכום</p><p>בשני המקרים בני ישראל תעו</p><p>בספר שמות כשאלהים היה עמם הם לא האמינו בו</p><p>בספר מיכה כשאלהים לא היה עמם חשבו את עצמם לצדיקים לאמור בקרבנו הוא</p><p>--</p><p>סוף דבר</p><p>אם אלהים אתך האמן בעצמך</p><p>אם אלהים לא אתך אל תאמן בעצמך לשוא</p><p>-</p><p>עתה אם ברצונך לדעת אם אלהים אתך זה המבחן</p><p>משלי כח27: &quot;נוֹתֵן לָרָשׁ אֵין מַחְסוֹר....... וּמַעְלִים עֵינָיו רַב מְאֵרוֹת&quot;</p><p>דברים ב7: &quot;כִּי יהוה אֱלֹהֶיךָ בֵּרַכְךָ בְּכֹל מַעֲשֵׂה יָדֶךָ יָדַע לֶכְתְּךָ אֶת הַמִּדְבָּר הַגָּדֹל הַזֶּה זֶה אַרְבָּעִים שָׁנָה יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר&quot;.......</p><p>נוֹתֵן לָרָשׁ אֵין מַחְסוֹר = יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>----------- נוֹתֵן לָרָשׁ = יהוה אֱלֹהֶיךָ עִמָּךְ -----------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-26 00:32:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-26 07:46:28' 
+			WHERE messageid=12634;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-32-27.html',
+		'<p>גם בלבנון: אסור להסכים להפסקת אש, עד שהאויבים יברכו אותנו. לבנון, חיזבלה, וגם איראן - כולם צריכים להגיד &quot;אלהים יברך את מדינת ישראל&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-26 07:47:10'
+		)
+		;
+
