@@ -10642,3 +10642,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-26 16:54:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-26 16:54:02' 
+			WHERE messageid=13024;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_hdm_0.html',
+		'<p>לפי הרבה מסורות הר הזיתים (הר המשחה) הוא הדום לרגלי ה\'</p><p>\'הדום לרגלי אלוהינו\'</p><p>הר הזיתים נקרא בימי הביניים \'הדום (כסא) רגלי אלוהינו\' וכן \'מקום שכינת עוזו והדום לרגליו\' ואף הצביעו על מקומו המדויק בהר הזיתים: &quot;תעלה אל הר הזיתים, אל אבן אורכה 10 אמות, רוחבה ועוביה 2 אמות… היא כורסת הראש (לראש הישיבה) והיא מוצבת במקום בו עמד כבוד ה\' שלוש וחצי שנים בהר הזיתים כמו שנאמר: ויעל כבוד ה\' מעל תוך העיר ויעמוד על ההר אשר מקדם לעיר&quot;.</p><p>(מדריך ארץ ישראל מהגניזה הקהירית המאה ה 11)</p><p>דברים לג3: &quot;אף חבב עמים כל קדשיו בידך והם תכו לרגלך ישא מדברתיך&quot;</p><p>זכריה יד4: ועמדו רגליו ביום-ההוא על-הר הזתים אשר על-פני ירושלם מקדם </p><p>ונבקע הר הזיתים מחציו מזרחה וימה גיא גדולה מאד ומש חצי ההר צפונה וחציו-נגבה.</p><p>ונסתם גיא הרי כי יגיע גי הרים אל אצל ונסתם כאשר נסתם מפני הרעש בימי עזיה מלך יהודה </p><p>ובא ה\' אלהי כל קדשים עמך&quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-09-27 06:37:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_hdm_0.html',
+		'<p>בתגובה אי אפשר להדגיש, ההדגשה צריכה להיות על &quot;ועמדו רגליו&quot; - הר הזיתים הדום רגליו</p><p>ו &quot;כל קדשיו בידך&quot; בהקבלה ל &quot;כל קדשים עמך&quot; רמז ברור שמדובר באותו עניין</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-09-27 06:40:51'
+		)
+		;
+
