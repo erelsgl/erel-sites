@@ -10754,3 +10754,58 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-09-30 17:10:02' 
 			WHERE messageid=13030;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_432.html',
+		'<p>האם חיברת לזה מנגינה?</p>',
+		'106258673019999926839',
+		'דב הרשקוביץ',
+		'2024-10-01 10:16:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ספר עמוס פרק ג כתוב:</p><p>(א) שִׁמְעוּ אֶת הַדָּבָר הַזֶּה אֲשֶׁר דִּבֶּר יְהֹוָה עֲלֵיכֶם בְּנֵי יִשְׂרָאֵל עַל כָּל הַמִּשְׁפָּחָה אֲשֶׁר הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם לֵאמֹר:</p><p>(ב) רַק אֶתְכֶם יָדַעְתִּי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה עַל כֵּן אֶפְקֹד עֲלֵיכֶם אֵת כָּל עֲוֹנֹתֵיכֶם:</p><p>כי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה רק לעם-ישראל יש ברית עם האלהים</p><p>אם עמי הגוים אינם הולכים בדרך האלהים אז אלהים לא כל כך יכעס עליהם כמו על בני ישראל שלא ילכו בדרך האלהים כי לעם ישראל יש ברית עם האלהים ואם עם ישראל יפר את הברית אז הוא יענש על הפרת חוזה לכן כשאנחנו שומעים בחדשות בתקשורת על חרדי שגנב או עבר עבירה אז אנחנו כועסים יותר מאשר אם היה חילוני עבריין כי מהאיש הדתי אנחנו מצפים ליותר</p><p>כך גם הקדוש ברוך הוא מצפה יותר מעם ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 11:00:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_111_0.html',
+		'<p>כן זה כתוב בתורה</p><p>בראשית כב20: &quot;וַיְהִי אַחֲרֵי הַדְּבָרִים הָאֵלֶּה וַיֻּגַּד לְאַבְרָהָם לֵאמֹר הִנֵּה יָלְדָה מִלְכָּה גַם הִוא בָּנִים לְנָחוֹר אָחִיךָ&quot; </p><p>בראשית כב21: &quot;אֶת עוּץ בְּכֹרוֹ וְאֶת בּוּז אָחִיו וְאֶת קְמוּאֵל אֲבִי אֲרָם&quot; ......</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 13:55:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 14:16:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-01 14:16:34' 
+			WHERE messageid=13034;
+
