@@ -10828,3 +10828,10 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-02 08:07:53' 
 			WHERE messageid=13035;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-05 20:03:40' 
+			WHERE messageid=11772;
+
