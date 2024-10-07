@@ -17461,3 +17461,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/epl.html',
+				'tnk1/messages/ljon_jorj_epl_0.html',
+				NULL,
+				'2024-10-06 14:40:43',
+				'2024-10-06 14:40:43',
+				'על עפולים עכברים חומת העופל ושער חולדה',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-06 16:35:59'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-13-33.html'
+		;
+

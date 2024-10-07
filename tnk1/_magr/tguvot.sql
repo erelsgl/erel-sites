@@ -10835,3 +10835,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-05 20:03:40' 
 			WHERE messageid=11772;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>https://www.facebook.com/photo/?fbid=1546470789287932&amp;set=gm.1167225347687069&amp;idorvanity=617390392670570</p><p>https://www.facebook.com/photo/?fbid=122185263380192586&amp;set=a.122104465916192586</p><p>https://www.facebook.com/photo/?fbid=873955011467027&amp;set=gm.943905081115488&amp;idorvanity=850949627077701</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-06 16:35:59'
+		)
+		;
+
