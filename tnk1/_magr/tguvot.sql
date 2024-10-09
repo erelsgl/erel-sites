@@ -10909,3 +10909,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-08 07:25:07' 
 			WHERE messageid=13039;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-32-21.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-10-09 03:02:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-09 03:02:18' 
+			WHERE messageid=13041;
+
