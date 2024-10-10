@@ -10928,3 +10928,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-09 03:02:18' 
 			WHERE messageid=13041;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_epl_0.html',
+		'<p>בקשר לעפולים אפולו תחות</p><p>יש עוד לציין שבמצרים החודש הראשון תחות מקביל לאלול </p><p>אלול - מזל בתולה נשלט על ידי כוכב חמה - תחות</p><p>מתחיל ב11.9 , מזל בתולה מתחיל היום ב17.9 , אך בעבר היה חופך</p><p>הוכחה פשוטה לכך היא העובדה שיוספוס בספר קדמוניות היהודים </p><p>מקביל את יציאת מצרים בחודש העברי ניסן לחודש המצרי פרמותי</p><p>ניסן הוא השמיני מאלול, וכן פרמותי השמיני מתחות</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-10-09 16:56:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 07:45:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 07:45:52' 
+			WHERE messageid=13043;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 07:46:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 07:46:07' 
+			WHERE messageid=13044;
+

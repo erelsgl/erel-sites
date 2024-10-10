@@ -17548,3 +17548,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-10-09 03:25:15'
 			WHERE ktovt_bn='tnk1/msr/cdqamim.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-09 16:56:38'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_epl_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-10 07:45:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-10 07:46:05'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-94-02.html'
+		;
+
