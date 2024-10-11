@@ -54,3 +54,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מלחמת חרבות ברזל', 'על סדר היום - פליטים', '', '', 60, 60, '2024-05-13 22:13:24');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_tnk1_tnk1` (`av`, `bn`, `kotrt`, `sug`, `sdr_bn`, `sdr_av`, `tarik_hosfa`) VALUES ('מנהגי פורים', 'ביאור:שמואל א יח7', 'הנשים המשחקות', '', 60, 60, '2024-05-20 02:55:35');
+

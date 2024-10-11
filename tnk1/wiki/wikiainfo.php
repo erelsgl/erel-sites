@@ -29,7 +29,7 @@ if (isset($_GET['details'])) {  // view item details
 	$from = quote_smart(sql_evaluate("select date_add(" . quote_smart($_GET['from']) . ", interval -$LOCAL_TIME_MINUS_SERVER_TIME_IN_HOURS-1 hour)"));
 	$to = quote_smart(isset($_GET['to']) && $_GET['to']? 
 		sql_evaluate("select date_add(" . quote_smart($_GET['to']) . ", interval -$LOCAL_TIME_MINUS_SERVER_TIME_IN_HOURS+1 hour)"):
-		'2025-01-01');
+		'2065-01-01');
 	$limit = (isset($_GET['limit'])? "LIMIT $_GET[limit]": "");
 	$ktovt_condition = "((p.ktovt LIKE '%.htm%' OR p.ktovt NOT LIKE '%.%') AND p.ktovt NOT LIKE '%wikia%' AND p.ktovt NOT LIKE '%shirhadash%' AND p.ktovt NOT LIKE '%odot%' AND p.ktovt NOT LIKE '%prqim/help%' AND (p.m LIKE '%אראל%'))";
 	$query = "

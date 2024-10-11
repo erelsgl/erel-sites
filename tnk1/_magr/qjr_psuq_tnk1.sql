@@ -658,3 +658,263 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2023-12-22 08:41:52' WHERE `bn` = 'בנין אב בתלמוד' AND `sfr` = 'דבר' AND `prq0` = 'יט' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-05-22 08:55:40' WHERE `bn` = 'ביאור:איכה א7' AND `sfr` = 'אכה' AND `prq0` = 'א' AND `psuq0` = 7 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'מבנה זכריה ז' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'והייתם ברכה אל-תיראו תחזקנה ידיכם' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'פסוקים על ה\"שכינה\" (הזמנה לדיון)' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'זרע שלום יניב משפט שלום' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'תנאי העליה למקדש' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:11:57' WHERE `bn` = 'ביאור:זכריה ח17' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אחדות לא מחייבת להקים מפלגה אחת' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'אמת ושלום' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'נקודה לתענית אסתר (ויום ניקנור)' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:אסתר ט31' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:יחזקאל כד3' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'ביאור:שמות לב5' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 19 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'מבנה זכריה ז' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'והייתם ברכה אל-תיראו תחזקנה ידיכם' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'פסוקים על ה\"שכינה\" (הזמנה לדיון)' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 3 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'זרע שלום יניב משפט שלום' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 9 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'תנאי העליה למקדש' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 16 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = '- ואל תחשבו בלבבכם על התכונות הרעות של הזולת, ואל תקוו בלבבכם שיקרו דברים רעים לזולת;  ואל תאהבו שבועת שקר ; כי אני ה\' שונא את כל אלה (את המחשבות הרעות ואת השקר). ', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2024-07-23 19:12:39' WHERE `bn` = 'ביאור:זכריה ח17' AND `sfr` = 'זכר' AND `prq0` = 'ח' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'חידוש הברית (רעיון ליום העצמאות)' AND `sfr` = 'מלא' AND `prq0` = 'יח' AND `psuq0` = 39 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'תפילת הגר ותפילת שמשון' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 39 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'דרכו של אליהו הנביא לתת גשם' AND `sfr` = 'מלא' AND `prq0` = 'יח' AND `psuq0` = 40 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'שם ה\' בראשי תיבות' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 42 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'מדוע כיבד אליהו את אחאב ולא את בניו' AND `sfr` = 'מלא' AND `prq0` = 'יח' AND `psuq0` = 45 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'חלציים = משל לגבורה, משל לאמונה' AND `sfr` = 'מלא' AND `prq0` = 'יח' AND `psuq0` = 46 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'המשך להפרכת הנצרות' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 46 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'הרשעים ברשות ליבם, הצדיקים ליבם ברשותם' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 47 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'יחיד ורבים' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 56 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'למען דעת' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 60 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'חנוכת המקדש בימי משה שלמה וחזקיהו' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 64 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'סגירת מעגל - ברכת משה לשבט שמעון' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 65 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'שחור שהוא כחול (שיחור = נילוס)' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 65 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-07-23 19:14:16' WHERE `bn` = 'גניזת כלי המקדש' AND `sfr` = 'מלא' AND `prq0` = 'ח' AND `psuq0` = 66 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+INSERT INTO `qjr_psuq_tnk1` (`bn`, `sfr`, `prq0`, `psuq0`, `psuq1`, `kotrt`, `sug`, `sdr_bn`, `tarik_hosfa`) VALUES ('מבנה תהלים צד', 'תהל', 'צד', 0, 0, 'מבנה הפרק', 'תרגום', NULL, '2024-08-10 22:15:23');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2024-08-10 22:16:20' WHERE `bn` = 'מבנה תהלים קיג' AND `sfr` = 'תהל' AND `prq0` = 'קיג' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:16:20' WHERE `bn` = 'מבנה תהלים צה' AND `sfr` = 'תהל' AND `prq0` = 'צה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sdr_bn` = 10, `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים צד' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 0 AND `sug` = 'תרגום' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים סב' AND `sfr` = 'תהל' AND `prq0` = 'סב' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים קט' AND `sfr` = 'תהל' AND `prq0` = 'קט' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים צז' AND `sfr` = 'תהל' AND `prq0` = 'צז' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים קז' AND `sfr` = 'תהל' AND `prq0` = 'קז' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים י' AND `sfr` = 'תהל' AND `prq0` = 'י' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:16:21' WHERE `bn` = 'מבנה תהלים נ' AND `sfr` = 'תהל' AND `prq0` = 'נ' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:17:36' WHERE `bn` = 'מבנה תהלים צה' AND `sfr` = 'תהל' AND `prq0` = 'צה' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:17:36' WHERE `bn` = 'מבנה תהלים סב' AND `sfr` = 'תהל' AND `prq0` = 'סב' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `sug` = 'תרגום', `tarik_hosfa` = '2024-08-10 22:17:36' WHERE `bn` = 'מבנה תהלים קיט' AND `sfr` = 'תהל' AND `prq0` = 'קיט' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מבנה תהלים צד' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 10 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'מבנה תהלים צד' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 14 AND `sug` = 'כלל' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `qjr_psuq_tnk1` WHERE `bn` = 'א-ל נקמות הופיע' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 0 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'רגשי נקם במערכת הענישה' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 1 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'מחשבות הלב העמוקות מעצבות את המציאות' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'שלושים הבלי קהלת' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'עניין מחשבות אדם ועניין מחשבות אלהים' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 11 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'מחשבות הלב העמוקות מעצבות את המציאות' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'עניין מחשבות אדם ועניין מחשבות אלהים' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 12 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'צדק - דין ומשפט - מישור' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 15 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-08-10 22:23:50' WHERE `bn` = 'שעשוע הוא דבר חיובי' AND `sfr` = 'תהל' AND `prq0` = 'צד' AND `psuq0` = 19 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'אהבת הגרים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'זכרון וזכירות בספר דברים' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 13 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'מנהגי אנינות' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 14 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = 'היום אתה, עם ישראל, האמרת (הגבהת ופיארת) את ה\', בכך שקיבלת אותו להיות לך לאלהים, והסכמת ללכת בדרכיו, ולשמור חוקיו ומצוותיו ומשפטיו, ולשמוע בקולו; ', `sug` = 'תרגום', `sdr_bn` = 10, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'ביאור:דברים כו17' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 17 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'האמנם כל בני עם סגולה הם בעלי סגולה' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'למה ה\' בחר בישראל?' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'על הספר \"הצלחתם של מספרי הסיפורים\" מאת מרדכי שטנר' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
+

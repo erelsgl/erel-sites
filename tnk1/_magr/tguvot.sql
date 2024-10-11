@@ -6216,3 +6216,4872 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>צאת בני ישראל מארץ מצרים -------------------- בשנת 2450</p><p>שמות א6: &quot;וַיָּמָת יוֹסֵף וְכָל אֶחָיו וְכֹל הַדּוֹר הַהוּא&quot; בשנת 2332</p><p>כל שנות עבדות בני ישראל בארץ מצרים ---------סה&quot;כ 118 שנים</p><p>ושנות התיישבות בני ישראל בארץ מצרים ------- סה&quot;כ 195 שנים [משנת 2255 מות יעקב עד שנת 2450]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 12:23:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>צאת בני ישראל מארץ מצרים -------------------- בשנת 2450</p><p>שמות א6: &quot;וַיָּמָת יוֹסֵף וְכָל אֶחָיו וְכֹל הַדּוֹר הַהוּא&quot; בשנת 2332</p><p>כל שנות עבדות בני ישראל בארץ מצרים ---------סה&quot;כ 118 שנים</p><p>ושנות התיישבות בני ישראל בארץ מצרים ------- סה&quot;כ 195 שנים [משנת 2255 מות יעקב עד שנת 2450]</p><p>שמות יב40: &quot;וּמוֹשַׁב בְּנֵי יִשְׂרָאֵל אֲשֶׁר יָשְׁבוּ בְּמִצְרָיִם שְׁלֹשִׁים שָׁנָה וְאַרְבַּע מֵאוֹת שָׁנָה&quot;</p><p>יש לחשב רק את התיישבות בני ישראל בְּמִצְרָיִם מבלי זמן התיישבות אביהם יעקב</p><p>וגם אם פרשני חזל מחשבים בנוסף גם את 17 השנים שיעקב חי במצרים משנת 2238</p><p>2450-2238= 212 שנים !!!!! ולא 210 גימטריה של המילה רדו אשר פרשו רבני חזל</p><p>וכי אני דיין כתבתי לכם באור מפורש למען תדעו כי תורת דיין אמת והיא הנכונה לחזון אברהם אבינו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 12:48:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-14 12:48:10' 
+			WHERE messageid=12752;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>גם היום, כשמדינת ישראל נמצאת בצרה גדולה, ישנם &quot;נביאים&quot; האומרים שהכל יהיה טוב, וכן &quot;נביאים&quot; המציעים תיקונים שטחיים. אבל מי יידע לגלות לנו את עיקר העוון שבגללו אנחנו סובלים? מי יעזור לנו לתקן ולהשיב את שביתנו? </p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>מתוך קישור זה לדברי מאמרי הנה זאת הייתה תגובתי מיום 2022-03-31 23:59:36 DAIAN SHEM </p><p>[ציטוט] המצב בישראל כבר רבות בשנים קשה מאד מאד עוד יותר ממה שאתה חושב</p><p>מצעדי גאווה של הומואים בישראל</p><p>שרים וחברי כנסת הומואים</p><p>בכירים הומואים אונסים גברים</p><p>מערכת המשפט רקובה</p><p>צהל מממן ניתוחים לשינוי מין</p><p>הבנקים וחברות האשראי עושקות את העם בהלואות בריבית</p><p>רבני ישראל מתעתעים בעם הדלים ומנצלים את מצוקתם לעשקם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>יוקר המחייה בלתי אפשרי לקיום והילדים גרים אצל ההורים הזקנים</p><p>לא ניתן לקנות בית בישראל כי המחירים בשמים</p><p>חסרי הישע בישראל מוכים לעיני המצלמות קשישים בבתי אבות וילדים בגן</p><p>משפחות הפשע יורים חופשי ברחוב ולמשטרה אין מענה</p><p>שר הבט&quot;פ לא מתפקד ובעזות פנים מאשים את המתנחלים באלימות</p><p>הטרור צְוָחָה בִּרְחֹבֹתֵינוּ בישראל במיוחד ביש&quot;ע אשר נסקלים יום יום</p><p>ערבים בדרום גובים דמי חסות ומי שלא משלם ...משלם</p><p>חקלאות ישראל נהרסה וכמעט נעלמה הכל הופשר לנדל&quot;ן בצע כסף</p><p>החברות הגדולות במשק נוהגות כקרטל ומתאמות מחירים גבוהים</p><p>אין נחלים טהורים בישראל כל הנחלים בישראל מזוהמים זיהום קשה</p><p>מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין....... [סוף ציטוט]</p><p>דברי אלה נכתבו כשנתיים לפני מחדל 7 באוקטובר </p><p>אבל איש לא הקשיב </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 17:16:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>גם היום, כשמדינת ישראל נמצאת בצרה גדולה, ישנם &quot;נביאים&quot; האומרים שהכל יהיה טוב, וכן &quot;נביאים&quot; המציעים תיקונים שטחיים. אבל מי יידע לגלות לנו את עיקר העוון שבגללו אנחנו סובלים? מי יעזור לנו לתקן ולהשיב את שביתנו?</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>מתוך קישור זה לדברי מאמרי הנה זאת הייתה תגובתי מיום 2022-03-31 23:59:36 DAIAN SHEM</p><p>[ציטוט] המצב בישראל כבר רבות בשנים קשה מאד מאד עוד יותר ממה שאתה חושב</p><p>מצעדי גאווה של הומואים בישראל</p><p>שרים וחברי כנסת הומואים</p><p>בכירים הומואים אונסים גברים</p><p>מערכת המשפט רקובה</p><p>צהל מממן ניתוחים לשינוי מין</p><p>הבנקים וחברות האשראי עושקות את העם בהלואות בריבית</p><p>רבני ישראל מתעתעים בעם הדלים ומנצלים את מצוקתם לעשקם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>יוקר המחייה בלתי אפשרי לקיום והילדים גרים אצל ההורים הזקנים</p><p>לא ניתן לקנות בית בישראל כי המחירים בשמים</p><p>חסרי הישע בישראל מוכים לעיני המצלמות קשישים בבתי אבות וילדים בגן</p><p>משפחות הפשע יורים חופשי ברחוב ולמשטרה אין מענה</p><p>שר הבט&quot;פ לא מתפקד ובעזות פנים מאשים את המתנחלים באלימות</p><p>הטרור צְוָחָה בִּרְחֹבֹתֵינוּ בישראל במיוחד ביש&quot;ע אשר נסקלים יום יום</p><p>ערבים בדרום גובים דמי חסות ומי שלא משלם ...משלם</p><p>חקלאות ישראל נהרסה וכמעט נעלמה הכל הופשר לנדל&quot;ן בצע כסף</p><p>החברות הגדולות במשק נוהגות כקרטל ומתאמות מחירים גבוהים</p><p>אין נחלים טהורים בישראל כל הנחלים בישראל מזוהמים זיהום קשה</p><p>מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין....... [סוף ציטוט]</p><p>דברי אלה נכתבו כשנה וחצי לפני מחדל 7 באוקטובר 2023</p><p>אבל איש לא הקשיב לדיין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 17:28:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-14 17:28:57' 
+			WHERE messageid=12754;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-01.html',
+		'<p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת שִׁיבַת צִיּוֹן הָיִינוּ כְּחֹלְמִים&quot;</p><p>ישעיהו נב8: &quot;קוֹל צֹפַיִךְ נָשְׂאוּ קוֹל יַחְדָּו יְרַנֵּנוּ כִּי עַיִן בְּעַיִן....... יִרְאוּ בְּשׁוּב יהוה צִיּוֹן&quot;</p><p>במדבר יד14: &quot;וְאָמְרוּ אֶל יוֹשֵׁב הָאָרֶץ הַזֹּאת שָׁמְעוּ כִּי אַתָּה יהוה בְּקֶרֶב הָעָם הַזֶּה אֲשֶׁר עַיִן בְּעַיִן....... נִרְאָה אַתָּה יהוה וַעֲנָנְךָ עֹמֵד עֲלֵהֶם וּבְעַמֻּד עָנָן אַתָּה הֹלֵךְ לִפְנֵיהֶם יוֹמָם וּבְעַמּוּד אֵשׁ לָיְלָה&quot;</p><p> אֲשֶׁר עַיִן בְּעַיִן....... נִרְאָה אַתָּה יהוה = זה דור הנביא דור הנבואה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 17:54:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-01.html',
+		'<p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת שִׁיבַת צִיּוֹן הָיִינוּ כְּחֹלְמִים&quot;</p><p>ישעיהו נב8: &quot;קוֹל צֹפַיִךְ נָשְׂאוּ קוֹל יַחְדָּו יְרַנֵּנוּ כִּי עַיִן בְּעַיִן....... יִרְאוּ בְּשׁוּב יהוה צִיּוֹן&quot;</p><p>במדבר יד14: &quot;וְאָמְרוּ אֶל יוֹשֵׁב הָאָרֶץ הַזֹּאת שָׁמְעוּ כִּי אַתָּה יהוה בְּקֶרֶב הָעָם הַזֶּה אֲשֶׁר עַיִן בְּעַיִן....... נִרְאָה אַתָּה יהוה וַעֲנָנְךָ עֹמֵד עֲלֵהֶם וּבְעַמֻּד עָנָן אַתָּה הֹלֵךְ לִפְנֵיהֶם יוֹמָם וּבְעַמּוּד אֵשׁ לָיְלָה&quot;</p><p> </p><p>אֲשֶׁר עַיִן בְּעַיִן....... נִרְאָה אַתָּה יהוה = זה דור הנביא דור הנבואה בְּשׁוּב יהוה צִיּוֹן הָיִינוּ כְּחֹלְמִים בַּמַּרְאָה אֵלָיו אֶתְוַדָּע בַּחֲלוֹם אֲדַבֶּר בּוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-14 17:58:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-14 17:58:33' 
+			WHERE messageid=12756;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-15 07:37:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-15 07:37:09' 
+			WHERE messageid=12758;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>עוֹן ישראל של כל כהני הדת יכופר אם יאמינו בתורת משה דיין לשמוע בקול דיין</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש        </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-15 16:27:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>ציטוט אראל סגל הלוי</p><p>גם היום, כשמדינת ישראל נמצאת בצרה גדולה, ישנם &quot;נביאים&quot; האומרים שהכל יהיה טוב, וכן &quot;נביאים&quot; המציעים תיקונים שטחיים. אבל מי יידע לגלות לנו את עיקר העוון שבגללו אנחנו סובלים? מי יעזור לנו לתקן ולהשיב את שביתנו?</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>מתוך קישור זה לדברי מאמרי הנה זאת הייתה תגובתי מיום 2022-03-31 23:59:36 DAIAN SHEM</p><p>[ציטוט] המצב בישראל כבר רבות בשנים קשה מאד מאד עוד יותר ממה שאתה חושב</p><p>מצעדי גאווה של הומואים בישראל</p><p>שרים וחברי כנסת הומואים</p><p>בכירים הומואים אונסים גברים</p><p>מערכת המשפט רקובה</p><p>צהל מממן ניתוחים לשינוי מין</p><p>הבנקים וחברות האשראי עושקות את העם בהלואות בריבית</p><p>רבני ישראל מתעתעים בעם הדלים ומנצלים את מצוקתם לעשקם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>יוקר המחייה בלתי אפשרי לקיום והילדים גרים אצל ההורים הזקנים</p><p>לא ניתן לקנות בית בישראל כי המחירים בשמים</p><p>חסרי הישע בישראל מוכים לעיני המצלמות קשישים בבתי אבות וילדים בגן</p><p>משפחות הפשע יורים חופשי ברחוב ולמשטרה אין מענה</p><p>שר הבט&quot;פ לא מתפקד ובעזות פנים מאשים את המתנחלים באלימות</p><p>הטרור צְוָחָה בִּרְחֹבֹתֵינוּ בישראל במיוחד ביש&quot;ע אשר נסקלים יום יום</p><p>ערבים בדרום גובים דמי חסות ומי שלא משלם ...משלם</p><p>חקלאות ישראל נהרסה וכמעט נעלמה הכל הופשר לנדל&quot;ן בצע כסף</p><p>החברות הגדולות במשק נוהגות כקרטל ומתאמות מחירים גבוהים</p><p>אין נחלים טהורים בישראל כל הנחלים בישראל מזוהמים זיהום קשה</p><p>מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין....... [סוף ציטוט]</p><p>דברי אלה נכתבו כשנה וחצי לפני מחדל 7 באוקטובר 2023</p><p>אבל איש לא הקשיב </p><p>עוֹן ישראל של כל כהני הדת יכופר אם יאמינו בתורת משה דיין לשמוע בקול דיין</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>דרך הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-15 16:54:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-15 16:55:33' 
+			WHERE messageid=12759;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-15 16:55:41' 
+			WHERE messageid=12755;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>האם אתה צריך הלוואה דחופה כדי לפתור את הצרכים הפיננסיים שלך? אנו מציעים הלוואות בטווח של $5,000.00 עד $50,000,000.00. אנחנו אמינים, חזקים, מהירים ודינמיים. אנו מציעים הלוואה של 3%, הגש עכשיו אם אתה צריך הלוואה: mutolacalo@gmail.com</p><p>הצעת הלוואה של 3% תחול כעת</p>',
+		'113389670839550916178',
+		'Clark Barry',
+		'2024-05-16 17:48:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>האם אתה צריך הלוואה דחופה כדי לפתור את הצרכים הפיננסיים שלך? אנו מציעים הלוואות בטווח של $5,000.00 עד $50,000,000.00. אנחנו אמינים, חזקים, מהירים ודינמיים. אנו מציעים הלוואה של 3%, הגש עכשיו אם אתה צריך הלוואה: mutolacalo@gmail.com</p><p>הצעת הלוואה של 3% תחול כעת</p>',
+		'113389670839550916178',
+		'Clark Barry',
+		'2024-05-16 17:52:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>אנחנו אתר הניווט בתנ&quot;ך = זה אתר על פי התורה הלוואות ללא ריבית</p><p>נא להתעלם ולא להתייחס להצעות העוסקות בגזל של הלוואה בריבית</p><p>אבקש להסיר הודעות של מגיבים העוסקים בגזל של הלוואה בריבית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-16 19:09:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-16 19:13:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-16 19:13:50' 
+			WHERE messageid=12764;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 03:35:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 03:35:43' 
+			WHERE messageid=12765;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 03:36:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 03:36:31' 
+			WHERE messageid=12766;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>ציטוט אראל סגל הלוי</p><p>גם היום, כשמדינת ישראל נמצאת בצרה גדולה, ישנם &quot;נביאים&quot; האומרים שהכל יהיה טוב, וכן &quot;נביאים&quot; המציעים תיקונים שטחיים. אבל מי יידע לגלות לנו את עיקר העוון שבגללו אנחנו סובלים? מי יעזור לנו לתקן ולהשיב את שביתנו?</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>מתוך קישור זה לדברי מאמרי הנה זאת הייתה תגובתי מיום 2022-03-31 23:59:36 DAIAN SHEM</p><p>[ציטוט] המצב בישראל כבר רבות בשנים קשה מאד מאד עוד יותר ממה שאתה חושב</p><p>מצעדי גאווה של הומואים בישראל</p><p>שרים וחברי כנסת הומואים</p><p>בכירים הומואים אונסים גברים</p><p>מערכת המשפט רקובה</p><p>צהל מממן ניתוחים לשינוי מין</p><p>הבנקים וחברות האשראי עושקות את העם בהלואות בריבית</p><p>רבני ישראל מתעתעים בעם הדלים ומנצלים את מצוקתם לעשקם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>יוקר המחייה בלתי אפשרי לקיום והילדים גרים אצל ההורים הזקנים</p><p>לא ניתן לקנות בית בישראל כי המחירים בשמים</p><p>חסרי הישע בישראל מוכים לעיני המצלמות קשישים בבתי אבות וילדים בגן</p><p>משפחות הפשע יורים חופשי ברחוב ולמשטרה אין מענה</p><p>שר הבט&quot;פ לא מתפקד ובעזות פנים מאשים את המתנחלים באלימות</p><p>הטרור צְוָחָה בִּרְחֹבֹתֵינוּ בישראל במיוחד ביש&quot;ע אשר נסקלים יום יום</p><p>ערבים בדרום גובים דמי חסות ומי שלא משלם ...משלם</p><p>חקלאות ישראל נהרסה וכמעט נעלמה הכל הופשר לנדל&quot;ן בצע כסף</p><p>החברות הגדולות במשק נוהגות כקרטל ומתאמות מחירים גבוהים</p><p>אין נחלים טהורים בישראל כל הנחלים בישראל מזוהמים זיהום קשה</p><p>מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין....... [סוף ציטוט]</p><p>דברי אלה נכתבו כשנה וחצי לפני מחדל 7 באוקטובר 2023</p><p>אבל איש לא הקשיב</p><p>ואם לא ישמעו בקול דיין אם לא יאמינו בתורת משה דיין לא יסלח לישראל וכהניו</p><p>עוֹן ישראל של כל כהני הדת יכופר רַק אם יאמינו בתורת משה דיין לשמוע בקול דיין</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>דרך הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 04:10:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 04:10:35' 
+			WHERE messageid=12760;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>ציטוט אראל סגל הלוי</p><p>גם היום, כשמדינת ישראל נמצאת בצרה גדולה, ישנם &quot;נביאים&quot; האומרים שהכל יהיה טוב, וכן &quot;נביאים&quot; המציעים תיקונים שטחיים. אבל מי יידע לגלות לנו את עיקר העוון שבגללו אנחנו סובלים? מי יעזור לנו לתקן ולהשיב את שביתנו?</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>מתוך קישור זה לדברי מאמרי הנה זאת הייתה תגובתי מיום 2022-03-31 23:59:36 DAIAN SHEM</p><p>[ציטוט דיין] המצב בישראל כבר רבות בשנים קשה מאד מאד עוד יותר ממה שאתה חושב</p><p>מצעדי גאווה של הומואים בישראל</p><p>שרים וחברי כנסת הומואים</p><p>בכירים הומואים אונסים גברים</p><p>מערכת המשפט רקובה</p><p>צהל מממן ניתוחים לשינוי מין</p><p>הבנקים וחברות האשראי עושקות את העם בהלואות בריבית</p><p>רבני ישראל מתעתעים בעם הדלים ומנצלים את מצוקתם לעשקם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p><p>יוקר המחייה בלתי אפשרי לקיום והילדים גרים אצל ההורים הזקנים</p><p>לא ניתן לקנות בית בישראל כי המחירים בשמים</p><p>חסרי הישע בישראל מוכים לעיני המצלמות קשישים בבתי אבות וילדים בגן</p><p>משפחות הפשע יורים חופשי ברחוב ולמשטרה אין מענה</p><p>שר הבט&quot;פ לא מתפקד ובעזות פנים מאשים את המתנחלים באלימות</p><p>הטרור צְוָחָה בִּרְחֹבֹתֵינוּ בישראל במיוחד ביש&quot;ע אשר נסקלים יום יום</p><p>ערבים בדרום גובים דמי חסות ומי שלא משלם ...משלם</p><p>חקלאות ישראל נהרסה וכמעט נעלמה הכל הופשר לנדל&quot;ן בצע כסף</p><p>החברות הגדולות במשק נוהגות כקרטל ומתאמות מחירים גבוהים</p><p>אין נחלים טהורים בישראל כל הנחלים בישראל מזוהמים זיהום קשה</p><p>מדינת ישראל חולה מאד באין-דעת-אלהים לכן גם אין מודיעין....... [סוף ציטוט]</p><p>דברי אלה נכתבו כשנה וחצי לפני מחדל 7 באוקטובר 2023</p><p>אבל איש לא הקשיב</p><p>ואם לא ישמעו בקול דיין אם לא יאמינו בתורת משה דיין לא יסלח לישראל וכהניו</p><p>עוֹן ישראל של כל כהני הדת יכופר רַק אם יאמינו בתורת משה דיין לשמוע בקול דיין</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>דרך הקודש</p><p>------------------------------------------------------------------------------------------------------</p><p>אני דיין ולא נושא את שם אלהים לשוא</p><p>אני דיין ולא לשוא נושא את שם אלהים</p><p>אני דיין דורש את כסאי ואני לא צוחק</p><p>--------------------------------------------</p><p>וזה ציטוט מן המכתב שכתבתי [בינואר 2016] לרה&quot;מ דרך שרת המשפטים דאז הגברת איילת שקד</p><p>להלן ציטוט:</p><p>אני איש תורת אלהים איש אלהי שמייא ואיך תהיה לך סיעתא דשמייא אם אתה מבזה אותי</p><p>אנכי הכהן הגדול הכהן המשיח ובשם האל אני דורש את הארץ</p><p>אֶרֶץ אֲשֶׁר יהוה אֱלֹהֶיךָ דֹּרֵשׁ אֹתָהּ תָּמִיד עֵינֵי יהוה אֱלֹהֶיךָ בָּהּ</p><p>מֵרֵשִׁית הַשָּׁנָה וְעַד אַחֲרִית שָׁנָה</p><p>אני יודע את מקומי ולא ביקשתי להיות פריימיניסטר</p><p>אך אני הכהן הגדול דורש את משרת הרב הראשי עם סמכויות נרחבות כמנהיג רוחני לישראל</p><p>לא תוכלו לפצותני מלבד משרת הרב הראשי לישראל כי אני אדם מת-חי וזו המשמעות של איש אלהים</p><p>והיה ולא תתן בשלום כי תאמר לך עבוד אלהים אחרים ובאה עליך רעה כי אם ארצך תחרב וממשלתך תאבד</p><p>אל תהיה כסיל לשוב על שגגתך לשלוח עבדיך לאשפז אותי ולכלוא אותי כי הפעם הזאת עת צרה ליעקב עת חרום ואם הרבנים כל כהני הדת בישראל לא יתאחדו לסור למשמעתי הנני מודיעך כי רבים ימותו ודמם יהיה על ראשך ועל ראש חברי ממשלתך ועל ראש כל אלה אשר מיאנו לכבדני [סוף ציטוט]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 06:40:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 06:41:31' 
+			WHERE messageid=12767;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/anwa.html',
+		'<p>יש דרך נוספת למצבים כאלה. המסורת והקבלה מדור לדור היא מאבני היסוד של התורה שבעל פה. רבי טרפון הוא חכם לעומת זאת יהודה בן נחמיה הוא תלמיד. לכן הוא צריך לפנות אליו בדרך שאלה האם האבחנה שאמר נכונה ? והרב החכם הוא המאשר או דוחה. או בלשון של &quot;ילמדנו רבינו&quot; . כאשר מדברים בענווה ומתנהגים בענווה יכולים למנוע מצב של שמחה לאיד ומבינים שהעברת התורה היא מרב לתלמיד וניתן לדייק את הדברים.</p>',
+		'111458966861672376659',
+		'אשר חדד',
+		'2024-05-17 13:43:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-01.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 14:27:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 14:27:48' 
+			WHERE messageid=12770;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-17 14:28:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 14:28:21' 
+			WHERE messageid=12771;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-17 15:32:50' 
+			WHERE messageid=12658;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0133_1.html',
+		'<p>ספר דברים פרק יד כתוב:</p><p>(כה) וְנָתַתָּה בַּכָּסֶף וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ וְהָלַכְתָּ אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ.</p><p>והפרוש לבאר לכם:</p><p>כאשר זה למען אלהים הייה נדיב-לב ועשה מצור על הכסף</p><p> וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ ולא הכסף יעשה מצור עליך</p><p>ספר יחזקאל פרק ה כתוב:</p><p>(א) וְאַתָּה בֶן אָדָם קַח לְךָ חֶרֶב חַדָּה תַּעַר הַגַּלָּבִים תִּקָּחֶנָּה לָּךְ וְהַעֲבַרְתָּ עַל רֹאשְׁךָ וְעַל זְקָנֶךָ וְלָקַחְתָּ לְךָ מֹאזְנֵי מִשְׁקָל וְחִלַּקְתָּם.</p><p>(ב) שְׁלִשִׁית בָּאוּר תַּבְעִיר בְּתוֹךְ הָעִיר כִּמְלֹאת יְמֵי *** הַמָּצוֹר *** וְלָקַחְתָּ אֶת הַשְּׁלִשִׁית תַּכֶּה בַחֶרֶב סְבִיבוֹתֶיהָ וְהַשְּׁלִשִׁית תִּזְרֶה לָרוּחַ וְחֶרֶב אָרִיק אַחֲרֵיהֶם.</p><p>(ג) וְלָקַחְתָּ מִשָּׁם מְעַט בְּמִסְפָּר וְצַרְתָּ אוֹתָם בִּכְנָפֶיךָ.</p><p>וְצַרְתָּ אוֹתָם בִּכְנָפֶיךָ = גם מלשון צרור = וגם מלשון מצור</p><p>וראה בתורת משה</p><p>ספר דברים פרק כ כתוב:</p><p>(י) כִּי תִקְרַב אֶל עִיר לְהִלָּחֵם עָלֶיהָ וְקָרָאתָ אֵלֶיהָ לְשָׁלוֹם.</p><p>(יא) וְהָיָה אִם שָׁלוֹם תַּעַנְךָ וּפָתְחָה לָךְ וְהָיָה כָּל הָעָם הַנִּמְצָא בָהּ יִהְיוּ לְךָ לָמַס וַעֲבָדוּךָ.</p><p>(יב) וְאִם לֹא תַשְׁלִים עִמָּךְ וְעָשְׂתָה עִמְּךָ מִלְחָמָה וְצַרְתָּ עָלֶיהָ.</p><p>וְצַרְתָּ עָלֶיהָ = מלשון מצור</p><p>ספר ישעיהו פרק כט כתוב:</p><p>(ג) וְחָנִיתִי כַדּוּר עָלָיִךְ וְצַרְתִּי עָלַיִךְ מֻצָּב וַהֲקִימֹתִי עָלַיִךְ מְצֻרֹת.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:23:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:38:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-19 10:38:05' 
+			WHERE messageid=12773;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-19 10:38:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-19 10:38:27' 
+			WHERE messageid=12774;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/land.html',
+		'<p>https://www.ynet.co.il/economy/article/hkvm3twg0</p><p>ביהמ&quot;ש נגד שופטת בדימוס: &quot;ביקשה לבצע מחטף של נחלות&quot;.</p><p>מלכה אביב, ממייסדי מושב גיתית ושופטת בעברה, הייתה מעורבת בסכסוך משפטי הנוגע להקצאת חלקות. בדרך לפשרה מתח עליה השופט ביקורת קשה.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-05-20 08:03:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t1404_0.html</p><p>https://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p><p>ואתם ישראל וכל כהניו שמעו בקולי האמינו בי</p><p>אל תשנאו אותי ואל תכחשו לי פן יהיה עתכם לעולם</p><p>תהלים פא14: &quot;לוּ עַמִּי שֹׁמֵעַ לִי יִשְׂרָאֵל בִּדְרָכַי יְהַלֵּכוּ&quot;</p><p>תהלים פא15: &quot;כִּמְעַט אוֹיְבֵיהֶם אַכְנִיעַ וְעַל צָרֵיהֶם אָשִׁיב יָדִי&quot;</p><p>תהלים פא16: &quot;מְשַׂנְאֵי יהוה יְכַחֲשׁוּ לוֹ וִיהִי עִתָּם לְעוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-20 10:22:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t1404_0.html</p><p>https://tora.us.fm/tnk1/messages/prqim_t0526_3.html</p><p>חי יהוה כי אנכי עבדו משיחו ולמען ישראל כתבתי התורה הזאת</p><p> http://tora.us.fm/tnk1/daian</p><p>ואתם ישראל וכל כהניו שמעו בקולי האמינו בי</p><p>אל תשנאו אותי ואל תכחשו לי פן יהיה עתכם לעולם</p><p>תהלים פא14: &quot;לוּ עַמִּי שֹׁמֵעַ לִי יִשְׂרָאֵל בִּדְרָכַי יְהַלֵּכוּ&quot;</p><p>תהלים פא15: &quot;כִּמְעַט אוֹיְבֵיהֶם אַכְנִיעַ וְעַל צָרֵיהֶם אָשִׁיב יָדִי&quot;</p><p>תהלים פא16: &quot;מְשַׂנְאֵי יהוה יְכַחֲשׁוּ לוֹ וִיהִי עִתָּם לְעוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-20 10:42:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-20 10:43:02' 
+			WHERE messageid=12776;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-25-07.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-05-20 19:20:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-20 19:20:34' 
+			WHERE messageid=12778;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-21 01:37:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-21 01:37:31' 
+			WHERE messageid=12779;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-22 08:59:42' 
+			WHERE messageid=11116;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>בעת גורשו האדם ואשתו מגן עדן בגלל שחטאו לאלהים לבלתי שמוע בקולו</p><p>כתוב בבראשית ג8: &quot;וַיִּשְׁמְעוּ אֶת קוֹל יהוה אֱלֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי יהוה אֱלֹהִים בְּתוֹךְ עֵץ הַגָּן&quot;</p><p>כי זה מה שקורה לאחר שחוטאים בפרי עץ הדעת ובתי החולים הפסיכיאטרים מלאים באלה שחטאו בעץ הדעת ושומעים קולות</p><p>ולכן כדי לחדול מהבעתה הזאת נדרש תהליך הפוך לאמור לא לאכול מפרי עץ הדעת לחטוא לשוא</p><p>כי אם רק לשמור עבודת אלהים לאמור עשות צדקה ומשפט ומשפט צדק בעיני בעני אלהים לבדו</p><p>כי בעשות צדקה ומשפט אתה שומע בקול אלהים אך לא שומע את קול אלהים</p><p>וזה ההבדל הגדול בין לשמוע בקול אלהים [שזה דבר חיובי]</p><p>לבין לשמוע את קול אלהים [שזה דבר שלילי] כאשר שמע פרעה מלך מצרים קולות אלהים כי לא שמע ב-קול אלהים</p><p>ובספר שמות כתוב:</p><p>שמות ט23: &quot;וַיֵּט מֹשֶׁה אֶת מַטֵּהוּ עַל הַשָּׁמַיִם ויהוה נָתַן קֹלֹת וּבָרָד וַתִּהֲלַךְ אֵשׁ אָרְצָה וַיַּמְטֵר יהוה בָּרָד עַל אֶרֶץ מִצְרָיִם&quot;</p><p>שמות ט28: &quot;הַעְתִּירוּ אֶל יהוה וְרַב מִהְיֹת קֹלֹת אֱלֹהִים וּבָרָד וַאֲשַׁלְּחָה אֶתְכֶם וְלֹא תֹסִפוּן לַעֲמֹד&quot;</p><p>שמות ט34: &quot;וַיַּרְא פַּרְעֹה כִּי חָדַל הַמָּטָר וְהַבָּרָד וְהַקֹּלֹת וַיֹּסֶף לַחֲטֹא וַיַּכְבֵּד לִבּוֹ הוּא וַעֲבָדָיו&quot;</p><p>ועתה שימו לב בפסוקים האלה כי מדובר על קולות רוחנים שאלהים השמיע לפרעה</p><p>******* על כן כתוב קֹלֹת [ללא האות ו\'] לעדות כי קול אלהים קול הרוח לנפש *******</p><p>ולא כתוב קולות בתוספת האות ו\' כי האות ו\' מעידה על ביטוי ארצי חומרי פיסי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-23 02:02:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>אלהים שוכן בשמים </p><p>אך אותו אלהים שוכן גם בבני אדם אשר הם בצלם אלהים ובדמותו</p><p>לכן אם צעקת לאלהים בשמים שיעזור לך הלא את הצעקה הזו שמע גם האלהים אשר שכן בבני האדם שבצלם אלהים ובדמותו</p><p>על כן באופן מיסטי יחלו לעזור לך כל בני האדם אשר אלהים שכן בנפשם</p><p>אבל אם תצעק לאלהים בסדום ועמורה איש לא ישמע אותך </p><p>מלבד אלהים בשמים הוא אשר שלח מלאכים להציל את לוט אחי אברהם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-23 08:36:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>שמואל א י24: &quot;וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל הָעָם הַרְּאִיתֶם אֲשֶׁר בָּחַר בּוֹ יהוה כִּי אֵין כָּמֹהוּ בְּכָל הָעָם וַיָּרִעוּ כָל הָעָם וַיֹּאמְרוּ יְחִי הַמֶּלֶךְ&quot;</p><p>דברים יז15: &quot;שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ נָכְרִי אֲשֶׁר לֹא אָחִיךָ הוּא&quot; </p><p>הנביא בוחר את המלך</p><p>שמואל א ט9: &quot;לְפָנִים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים לְכוּ וְנֵלְכָה עַד הָרֹאֶה כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה&quot;</p><p> כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה !!! והָרֹאֶה הוא המתקשר עתה קחו עשרה מתקשרים והם יגידו לכם מי הוא בחיר-יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-23 14:40:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-05.html',
+		'<p>מתוך קישור לדברי מאמרי &quot;בית ספר לנזירים&quot;</p><p>https://tora.us.fm/tnk1/messages/ljon_jorj_nzr1_0.html</p><p>בתגובה מתאריך זה</p><p>2019-09-16 04:35:23</p><p>DAIAN SHEM	</p><p>ספר זכריה פרק ז כתוב:</p><p>(ג) לֵאמֹר אֶל הַכֹּהֲנִים אֲשֶׁר לְבֵית יְהוָה צְבָאוֹת וְאֶל הַנְּבִיאִים לֵאמֹר הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי זֶה כַּמֶּה שָׁנִים</p><p>הַאֶבְכֶּה בַּחֹדֶשׁ הַחֲמִשִׁי הִנָּזֵר כַּאֲשֶׁר עָשִׂיתִי = לאמור כי הנזיר בוכה</p><p>---------------------------------------------------------------------------------------------------------</p><p>הסיבה שהנזיר בוכה כי הוא נותן את זרעו=הונו=דעתו לאלהים וככה הנזיר שופך נפשו לאלהים</p><p>שמות כב28: &quot;מְלֵאָתְךָ וְדִמְעֲךָ לֹא תְאַחֵר בְּכוֹר בָּנֶיךָ תִּתֶּן לִּי&quot;</p><p>והנזיר נותן בדמעתו את בכורו לאלהים כי הנזיר מתנזר מתענוגות בשרים</p><p>ולא בא על אשה לתת בה את זרעו ולא מושך בשרו ביין לשמח לבבו</p><p>כי שמחת הנזיר הקדוש מאת יהוה לבדו ומתירוש -אלהים אשר לא יחדל</p><p>זאת היא: &quot;שִׂמְחָה לַצַּדִּיק עֲשׂוֹת מִשְׁפָּט וּמְחִתָּה לְפֹעֲלֵי אָוֶן&quot; ככתוב בספר משלי כא15</p><p>כשהנזיר בוכה מאהבה לאלהים הוא זורע בדמעה וקוצר ברינה</p><p>תהלים קכו5: &quot;הַזֹּרְעִים בְּדִמְעָה בְּרִנָּה יִקְצֹרוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-24 09:26:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:34:28' 
+			WHERE messageid=11058;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:34:50' 
+			WHERE messageid=11056;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-24 14:36:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-24 14:36:33' 
+			WHERE messageid=12784;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-26 06:03:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-26 06:04:01' 
+			WHERE messageid=12785;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-26 07:34:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-26 07:34:22' 
+			WHERE messageid=12786;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-126-06.html',
+		'<p>תהלים קכו6: &quot; הָלוֹךְ יֵלֵךְ וּבָכֹה נֹשֵׂא מֶשֶׁךְ הַזָּרַע בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו. &quot;</p><p> הָלוֹךְ יֵלֵךְ וּבָכֹה נֹשֵׂא מֶשֶׁךְ הַזָּרַע [השומר את הברית] ולא השחית זרעו ארצה</p><p>לכן זרעו הזרע בר קיימא בֹּא יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 04:56:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 06:39:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-27 06:39:46' 
+			WHERE messageid=12788;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>כתבתי את שנת 2450 היא שנת צאת ישראל ממצרים לאחר ארבעה דורות</p><p>וכתבתי בספר כי פירוש רבני חזל הגדולים אינו נכון לחזון אברהם אשר בארתי בקודש</p><p>אך הרבנים מכחשים לי באמרם ביזית בספרך את רבני חזל הגדולים ועשית אותנו קטנים</p><p>ואומר להם דא עקא כי אתם בעיניכם רבנים גדולים ואלהים קטן ואני חשבתי להפוך זאת למען</p><p>הקטין את הרבנים למען אלהים גדול על כן ביזיתי אתכם בספר האמת אשר כתבתי</p><p>וזכרתי את אבותינו הקדושים אשר אלהים השיבם מן הגלות לארץ כנען</p><p>כי בימי הקמת המדינה בעת שיבת ציון היו הרבנים קטנים ואלהים גדול וככה נכון להיות</p><p>דברים לב3: &quot;כִּי שֵׁם יהוה אֶקְרָא הָבוּ גֹדֶל לֵאלֹהֵינוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-27 06:48:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>https://www.facebook.com/reel/420089184200123</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-28 05:09:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 08:19:45' 
+			WHERE messageid=12790;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:16:14' 
+			WHERE messageid=10768;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:16:23' 
+			WHERE messageid=10794;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:17:37' 
+			WHERE messageid=11112;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:18:30' 
+			WHERE messageid=11197;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:18:52' 
+			WHERE messageid=11549;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-28 10:21:33' 
+			WHERE messageid=11593;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-05-31 09:28:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-05-31 09:28:29' 
+			WHERE messageid=12791;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בראשית האדם הראשון בצלם אלהים עת בריאת העולם נברא באביב הייתה זו שנת קודש היא שנה מספר 1 לספירה</p><p>וכעבור 49 שנה בתם מחזור שנות היובל קודשה שנת 50 שנת החמישים היא שנת היובל והיא גם שנה מספר 1 ליובל</p><p>שנת 5782 מתחלקת בדיוק במספר 49 לאמור כי שנת 5783 היא שנת יובל זה היה בשנה הלועזית 2022</p><p>בשנת היובל האות היא יום שבת לכל שבעת השנים הבאות וראש החודש הראשון ביום ראשון לשבוע</p><p>כעת אנחנו כבר בשנת 5785 אם הספירה מתחילה באביב ואם מחג-הסכות אנחנו עדיין בשנת התשפ&quot;ד 5784</p><p>בכל אופן לשנה הזאת האות היא יום שבת וראש החודש הראשון ביום ראשון לשבוע בסביבות יום שיוויון האביב 17.3.2024</p><p>אז החל ראש חודש האביב והשעורה אביב הייתה ראויה לקציר וממחרת השבת לקציר שעורים תחל ספירת העומר 24.3.2024</p><p>ויקרא כג11: &quot;וְהֵנִיף אֶת הָעֹמֶר לִפְנֵי יהוה לִרְצֹנְכֶם מִמָּחֳרַת הַשַּׁבָּת יְנִיפֶנּוּ הַכֹּהֵן&quot;</p><p>ויקרא כג15: &quot;וּסְפַרְתֶּם לָכֶם מִמָּחֳרַת הַשַּׁבָּת מִיּוֹם הֲבִיאֲכֶם אֶת עֹמֶר הַתְּנוּפָה שֶׁבַע שַׁבָּתוֹת תְּמִימֹת תִּהְיֶינָה&quot; </p><p>ויקרא כג16: &quot;עַד מִמָּחֳרַת הַשַּׁבָּת הַשְּׁבִיעִת תִּסְפְּרוּ חֲמִשִּׁים יוֹם וְהִקְרַבְתֶּם מִנְחָה חֲדָשָׁה ליהוה\'&quot;</p><p>-</p><p>תהלים פה12: &quot;אֱמֶת מֵאֶרֶץ תִּצְמָח וְצֶדֶק מִשָּׁמַיִם נִשְׁקָף&quot;</p><p>https://www.youtube.com/watch?v=eYGAu2FW2p4</p><p>קציר חיטה בתאריך 5 למאי 2024 ..................................</p><p>מןעד חג בכורי קציר חטים המקראי תנ&quot;כי ממחרת השבת ביום ראשון 12 למאי 2024</p><p>יש פער של חודש ימים בין החג המקורי לבין חג השבועות של הרבנים</p><p>חג השבועות של הרבנים בתאריך 12 ליוני 2024 ביום רביעי</p><p>וחג השבועות המקורי בתאריך 12 למאי 2024 ביום ראשון הוא 27 לחודש השני בלוח היובלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-03 02:45:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>אז איפה נמצאת צידון לפי שיטתך?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-06-04 05:26:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>צידון נמצאת בלבנון באותו מקום שהיא היום בדרום לבנון</p><p>https://tora.us.fm/tnk1/messages/prqim_t0619_0.html</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-04 12:13:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p>.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-04 14:29:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-04 14:29:22' 
+			WHERE messageid=12795;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_51_0.html',
+		'<p>אני עדיין עובד על הספר / מחקר מהפכני שלי על גבולות הארץ, נחלות השבטים, ומסלול יציאת מצרים</p><p> ואני לא יכול לפרסם את המיקום כעת, בין השאר כי אי אפשר להבין את זה בלי ההקשר</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-06-04 16:12:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-08-1823.html',
+		'<p>מתאים למצב הצפון במלחמת חרבות ברזל 2023-24, הלא כן?</p><p></p>',
+		'114394621640579230209',
+		'אהוד קידר',
+		'2024-06-05 08:17:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yrmyhu/yr-08-1823.html',
+		'<p>יהוה בששון תמיד</p><p>דברים כח63: &quot;וְהָיָה כַּאֲשֶׁר שָׂשׂ יהוה עֲלֵיכֶם לְהֵיטִיב אֶתְכֶם וּלְהַרְבּוֹת אֶתְכֶם</p><p>כֵּן יָשִׂישׂ יהוה עֲלֵיכֶם לְהַאֲבִיד אֶתְכֶם וּלְהַשְׁמִיד אֶתְכֶם וְנִסַּחְתֶּם מֵעַל הָאֲדָמָה אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ&quot;</p><p>יהוה בששון תמיד גם בעת לְהַאֲבִיד אֶתְכֶם וּלְהַשְׁמִיד אֶתְכֶם </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 09:38:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 10:29:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-05 10:29:30' 
+			WHERE messageid=12799;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-05 10:50:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-05 10:50:48' 
+			WHERE messageid=12800;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/yhojua/ya-02-01.html',
+		'<p>מדוע יהושוע  שלח מרגלים לארץ כנען </p>',
+		'103722390768844199204',
+		'Mia Cohen',
+		'2024-06-07 05:27:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>הגנטיקה של הגוים טובה יותר מזו של היהודים ורואים זאת בהבדל בין כדורגלני אירופה החזקים לבין כדורגלני ישראל</p><p>כי אלהים יודע אשר הגוים אוכלים טמא והם נאלצים להתמודד עם כיליון הגוף על כן ברא אותם חזקים עם DNA משופר </p><p>וליהודים יש ברית עם האלהים ועל כל הפרת ברית האלהים מכה אותם למען ישובו מדרכיהם הרעים וישמרו על הקודש  </p><p>----------------------------------</p><p>בהזדמנות זאת הנני מזמין את כל חוקרי הרפואה לבחון את הדברים אשר כתבתי במאמרי זה וכן את כל כתבי אלה...</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 10:06:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 11:50:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 11:50:41' 
+			WHERE messageid=12803;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 15:35:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 15:35:33' 
+			WHERE messageid=12804;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-07 15:36:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-07 15:36:36' 
+			WHERE messageid=12805;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 15:37:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-11 15:37:11' 
+			WHERE messageid=12806;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 15:37:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-11 15:37:30' 
+			WHERE messageid=12807;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בראשית ח13:</p><p>(יג) וַיְהִי בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ [ביום ראשון לשבוע]</p><p>חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ וַיָּסַר נֹחַ אֶת מִכְסֵה הַתֵּבָה וַיַּרְא וְהִנֵּה חָרְבוּ פְּנֵי הָאֲדָמָה:</p><p>(יד) וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ יָבְשָׁה הָאָרֶץ: [גם כן ביום ראשון]</p><p>מראש השנה ראש חודש האביב ביום ראשון עד מחרת השבת יש שבוע ימים</p><p>ואז מתחילה ספירת העומר מיום 8.1 עד 27.2 יש בדיוק שבעה שבועות 49 יום</p><p>ביום החמישים לעומר הוא 27.2 הוא חג-השבועות הראשון בהיסטוריה</p><p>----------------------------------------------------------------------------------------</p><p>27.2 כבר היה לפני 31 יום כחודש ימים</p><p>והיום 28.3 בלוח השמש התנ&quot;כי</p><p>חג השבועות המקורי התנ&quot;כי היה לפני 31 יום</p><p>זה הפרש הימים בין חג השבועות המקורי תנכ&quot;י לבין חג השבועות של הרבנים</p><p>לרבנים יש פיגור של 31 יום איחור מהמועד המקורי תנ&quot;כי של חג השבועות</p><p>ישעיהו א14: &quot;חָדְשֵׁיכֶם וּמוֹעֲדֵיכֶם שָׂנְאָה נַפְשִׁי הָיוּ עָלַי לָטֹרַח נִלְאֵיתִי נְשֹׂא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-11 19:05:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-14 11:54:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-14 11:54:05' 
+			WHERE messageid=12809;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-02-14.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-15 17:48:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-15 17:48:40' 
+			WHERE messageid=12810;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>תהלים קז4: &quot;תָּעוּ בַמִּדְבָּר בִּישִׁימוֹן דָּרֶךְ עִיר מוֹשָׁב לֹא מָצָאוּ&quot;</p><p>תהלים קז7: &quot;וַיַּדְרִיכֵם בְּדֶרֶךְ יְשָׁרָה לָלֶכֶת אֶל עִיר מוֹשָׁב&quot;</p><p>תהלים קז36: &quot;וַיּוֹשֶׁב שָׁם רְעֵבִים וַיְכוֹנְנוּ עִיר מוֹשָׁב&quot;</p><p>תהלים קז37-38: &quot;וַיִּזְרְעוּ שָׂדוֹת וַיִּטְּעוּ כְרָמִים וַיַּעֲשׂוּ פְּרִי תְבוּאָה וַיְבָרֲכֵם וַיִּרְבּוּ מְאֹד וּבְהֶמְתָּם לֹא יַמְעִיט&quot;</p><p> שָׂדוֹת כְרָמִים פְּרִי תְבוּאָה וּבְהֶמְתָּם צאן ובקר === לכל אלה מגיעים בְּדֶרֶךְ יְשָׁרָה</p><p>ואם הגעתם רק לאספלט ומפלצות בטון של רבי קומות צפופים זה לא בדרך ישרה כי אם מחשבות שוא של יזמים וקבלנים להתעשר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-19 04:11:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>תהלים קז4: &quot;תָּעוּ בַמִּדְבָּר בִּישִׁימוֹן דָּרֶךְ עִיר מוֹשָׁב לֹא מָצָאוּ&quot;</p><p>תהלים קז7: &quot;וַיַּדְרִיכֵם בְּדֶרֶךְ יְשָׁרָה לָלֶכֶת אֶל עִיר מוֹשָׁב&quot;</p><p>תהלים קז36: &quot;וַיּוֹשֶׁב שָׁם רְעֵבִים וַיְכוֹנְנוּ עִיר מוֹשָׁב&quot;</p><p>תהלים קז37-38: &quot;וַיִּזְרְעוּ שָׂדוֹת וַיִּטְּעוּ כְרָמִים וַיַּעֲשׂוּ פְּרִי תְבוּאָה וַיְבָרֲכֵם וַיִּרְבּוּ מְאֹד וּבְהֶמְתָּם לֹא יַמְעִיט&quot;</p><p>שָׂדוֹת כְרָמִים פְּרִי תְבוּאָה וּבְהֶמְתָּם צאן ובקר === לכל אלה מגיעים בְּדֶרֶךְ יְשָׁרָה</p><p>ואם הגעתם רק לאספלט ומפלצות בטון של רבי קומות צפופים זה לא בדרך ישרה כי אם מחשבות שוא של יזמים וקבלנים להתעשר וְלֹא בְמִשְׁפָּט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-19 05:46:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-19 05:46:29' 
+			WHERE messageid=12811;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-19 13:23:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-19 13:23:39' 
+			WHERE messageid=12813;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>יש אפשרות לחפש רצף מילים לפי מספר אותיות (למשל 3, 3, 4) בפרק מסויים או בפרשה מסויימת?</p>',
+		'100303850477467747649',
+		'איתן לוין',
+		'2024-06-20 14:50:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_shabot_index_133.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-06-21 02:51:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-21 02:52:00' 
+			WHERE messageid=12815;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-06-21 02:52:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-21 02:52:22' 
+			WHERE messageid=12816;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>תהלים לו6: &quot;יהוה בְּהַשָּׁמַיִם חַסְדֶּךָ אֱמוּנָתְךָ עַד שְׁחָקִים&quot;</p><p>תהלים סג4: &quot;כִּי טוֹב חַסְדְּךָ מֵחַיִּים שְׂפָתַי יְשַׁבְּחוּנְךָ&quot;</p><p>לכן בסוף החיים נשאר רק החסד הוא אשר בשמים</p><p>וכל עוד אנחנו בחיים על הארץ עלינו להתאמן על החסד</p><p>כי בבוא היום ביום המות עת פקודת האדם רק החסד נשאר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-22 20:10:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>דברים כ3: </p><p>&quot;וְאָמַר אֲלֵהֶם שְׁמַע יִשְׂרָאֵל אַתֶּם קְרֵבִים הַיּוֹם לַמִּלְחָמָה עַל אֹיְבֵיכֶם </p><p>אַל יֵרַךְ לְבַבְכֶם אַל תִּירְאוּ וְאַל תַּחְפְּזוּ וְאַל תַּעַרְצוּ מִפְּנֵיהֶם&quot;</p><p>דברים כ4: &quot;כִּי יהוה אֱלֹהֵיכֶם הַהֹלֵךְ עִמָּכֶם לְהִלָּחֵם לָכֶם עִם אֹיְבֵיכֶם לְהוֹשִׁיעַ אֶתְכֶם&quot;</p><p>תהלים כז3: &quot;אִם תַּחֲנֶה עָלַי מַחֲנֶה לֹא יִירָא לִבִּי אִם תָּקוּם עָלַי מִלְחָמָה בְּזֹאת אֲנִי בוֹטֵחַ&quot;.......</p><p>ובספר דברי הימים א פרק ה כתוב:</p><p>(כ) וַיֵּעָזְרוּ עֲלֵיהֶם וַיִּנָּתְנוּ בְיָדָם הַהַגְרִיאִים וְכֹל שֶׁעִמָּהֶם  כִּי לֵאלֹהִים זָעֲקוּ בַּמִּלְחָמָה וְנַעְתּוֹר לָהֶם כִּי בָטְחוּ בוֹ:.......</p><p>על כן במלחמה יש לזעוק לאלהים ולבטוח בו למען יעתר לנו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-24 12:31:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>דברים כ1: &quot;כִּי תֵצֵא לַמִּלְחָמָה עַל איבך וְרָאִיתָ סוּס וָרֶכֶב עַם רַב מִמְּךָ לֹא תִירָא מֵהֶם כִּי ה\' אֱלֹהֶיךָ עִמָּךְ הַמַּעַלְךָ מֵאֶרֶץ מִצְרָיִם&quot; </p><p>דברים כ2: &quot;וְהָיָה כְּקָרָבְכֶם אֶל הַמִּלְחָמָה וְנִגַּשׁ הַכֹּהֵן וְדִבֶּר אֶל הָעָם&quot;</p><p>דברים כ3:</p><p>&quot;וְאָמַר אֲלֵהֶם שְׁמַע יִשְׂרָאֵל אַתֶּם קְרֵבִים הַיּוֹם לַמִּלְחָמָה עַל אֹיְבֵיכֶם</p><p>אַל יֵרַךְ לְבַבְכֶם אַל תִּירְאוּ וְאַל תַּחְפְּזוּ וְאַל תַּעַרְצוּ מִפְּנֵיהֶם&quot;</p><p>דברים כ4: &quot;כִּי יהוה אֱלֹהֵיכֶם הַהֹלֵךְ עִמָּכֶם לְהִלָּחֵם לָכֶם עִם אֹיְבֵיכֶם לְהוֹשִׁיעַ אֶתְכֶם&quot;</p><p>תהלים כז3: &quot;אִם תַּחֲנֶה עָלַי מַחֲנֶה לֹא יִירָא לִבִּי אִם תָּקוּם עָלַי מִלְחָמָה בְּזֹאת אֲנִי בוֹטֵחַ&quot;.......</p><p>ובספר דברי הימים א פרק ה כתוב:</p><p>(כ) וַיֵּעָזְרוּ עֲלֵיהֶם וַיִּנָּתְנוּ בְיָדָם הַהַגְרִיאִים וְכֹל שֶׁעִמָּהֶם כִּי לֵאלֹהִים זָעֲקוּ בַּמִּלְחָמָה וְנַעְתּוֹר לָהֶם כִּי בָטְחוּ בוֹ:.......</p><p>על כן במלחמה יש לזעוק לאלהים ולבטוח בו למען יעתר לנו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-24 12:34:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-24 12:34:52' 
+			WHERE messageid=12818;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>דברים כ1: &quot;כִּי תֵצֵא לַמִּלְחָמָה עַל איבך וְרָאִיתָ סוּס וָרֶכֶב עַם רַב מִמְּךָ לֹא תִירָא מֵהֶם כִּי יהוה אֱלֹהֶיךָ עִמָּךְ הַמַּעַלְךָ מֵאֶרֶץ מִצְרָיִם&quot;</p><p>דברים כ2: &quot;וְהָיָה כְּקָרָבְכֶם אֶל הַמִּלְחָמָה וְנִגַּשׁ הַכֹּהֵן וְדִבֶּר אֶל הָעָם&quot;</p><p>דברים כ3:</p><p>&quot;וְאָמַר אֲלֵהֶם שְׁמַע יִשְׂרָאֵל אַתֶּם קְרֵבִים הַיּוֹם לַמִּלְחָמָה עַל אֹיְבֵיכֶם</p><p>אַל יֵרַךְ לְבַבְכֶם אַל תִּירְאוּ וְאַל תַּחְפְּזוּ וְאַל תַּעַרְצוּ מִפְּנֵיהֶם&quot;</p><p>דברים כ4: &quot;כִּי יהוה אֱלֹהֵיכֶם הַהֹלֵךְ עִמָּכֶם לְהִלָּחֵם לָכֶם עִם אֹיְבֵיכֶם לְהוֹשִׁיעַ אֶתְכֶם&quot;</p><p>תהלים כז3: &quot;אִם תַּחֲנֶה עָלַי מַחֲנֶה לֹא יִירָא לִבִּי אִם תָּקוּם עָלַי מִלְחָמָה בְּזֹאת אֲנִי בוֹטֵחַ&quot;.......</p><p>ובספר דברי הימים א פרק ה כתוב:</p><p>(כ) וַיֵּעָזְרוּ עֲלֵיהֶם וַיִּנָּתְנוּ בְיָדָם הַהַגְרִיאִים וְכֹל שֶׁעִמָּהֶם כִּי לֵאלֹהִים זָעֲקוּ בַּמִּלְחָמָה וְנַעְתּוֹר לָהֶם כִּי בָטְחוּ בוֹ:.......</p><p>על כן במלחמה יש לזעוק לאלהים ולבטוח בו למען יעתר לנו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-24 12:35:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-24 12:35:21' 
+			WHERE messageid=12819;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.facebook.com/photo/?fbid=780880024225278&amp;set=a.256650523314900</p><p>לא למדו דבר מאירועי 7 באוקטובר לא לקחו מוסר ודעת אלהים אין להם לכן גם אין מודיעין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-25 04:05:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 06:04:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-26 06:04:21' 
+			WHERE messageid=12822;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3109_0.html',
+		'<p>איוב כח12: &quot;וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה&quot;</p><p>איוב כח13: &quot;לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים&quot;</p><p>ואם פגע בך המוות תפס אותך השכול וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים</p><p>דע כי בעקבות המות תבוא חכמה כאור גדול</p><p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 11:46:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>איוב כח12: &quot;וְהַחָכְמָה מֵאַיִן תִּמָּצֵא וְאֵי זֶה מְקוֹם בִּינָה&quot;</p><p>איוב כח13: &quot;לֹא יָדַע אֱנוֹשׁ עֶרְכָּהּ וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים&quot;</p><p>ואם פגע בך המוות תפס אותך השכול וְלֹא תִמָּצֵא בְּאֶרֶץ הַחַיִּים</p><p>דע כי בעקבות המות תבוא חכמה כאור גדול</p><p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 13:28:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>מה תבקשו חיים או חכמה?</p><p>שאלה קשה לאדם </p><p>כי אם יש חיים אין חכמה ואם יש חכמה אין חיים</p><p>אך יש פתרון לגם וגם</p><p>כי אני אבקש את יהוה חיים וחכמה יחדיו גם וגם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-26 17:18:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>קהלת י19: &quot;לִשְׂחוֹק עֹשִׂים לֶחֶם....... וְיַיִן יְשַׂמַּח חַיִּים וְהַכֶּסֶף יַעֲנֶה אֶת הַכֹּל&quot;</p><p>שופטים יג16: &quot;וַיֹּאמֶר מַלְאַךְ יהוה אֶל מָנוֹחַ אִם תַּעְצְרֵנִי לֹא אֹכַל בְּלַחְמֶךָ....... וְאִם תַּעֲשֶׂה עֹלָה ליהוה תַּעֲלֶנָּה כִּי לֹא יָדַע מָנוֹחַ כִּי מַלְאַךְ יהוה הוּא&quot;</p><p> מַלְאַךְ יהוה אוכל את הבשר אשר הוא לחם אלהים ולא אוכל פת לחם אשר הוא לחם אנשים מבני אדם ומיועד לשחוק לצחק במשכב </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-27 12:29:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;</p><p>כל הכבוד למגזר הציונות הדתית וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ מתלמידי ישיבות ההסדר יצאו להלחם להשיב את אחיהם השבויים</p><p>זה נקרא ללכת בדרך אלהי אברהם אבינו </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-28 07:47:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/jdl/hqdma.html',
+		'<p>אשמח שתצרו עמי קשר</p>',
+		'107504254796219972435',
+		'לוי והדר ציון',
+		'2024-06-28 13:13:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-29 11:37:24' 
+			WHERE messageid=11449;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-06-29 11:38:02' 
+			WHERE messageid=11457;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אודות מורה הצדק –דיין שם</p><p>תהלים קיח18: &quot;יַסֹּר יִסְּרַנִּי יָּהּ וְלַמָּוֶת לֹא נְתָנָנִי&quot;  </p><p>תהלים צד12: &quot;אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ&quot;</p><p>יַסֹּר יִסְּרַנִּי יָּהּ אלהים למדני מתורתו והנה אני בדֶרֶךְ הַקֹּדֶשׁ   </p><p>מי שעבר יסורים רבים כעץ שגדל במים מרים יכול להמתיק לך את המים.......</p><p>---------------------------------------------------------------------------------------</p><p>על כל אדם בסופו של דבר נגזר מות</p><p>וכשאתה קדוש לאלהים אתה יכול לעבור את גיא-צלמות לחיים בשלום</p><p>זֶה———- דֶרֶךְ הַקֹּדֶשׁ</p><p>ויקרא יט2:</p><p>&quot;דַּבֵּר אֶל כָּל עֲדַת בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם קְדֹשִׁים תִּהְיוּ כִּי קָדוֹשׁ אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-06-29 17:44:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_102.html',
+		'<p>ישר כח.</p>',
+		'102122023385117069833',
+		'אורלי ויצמן',
+		'2024-07-01 20:57:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-02 03:11:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-02 03:11:23' 
+			WHERE messageid=12831;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0105_2.html',
+		'<p>אם נקרא את שמו מהסוף להתחלה ,נקבל-חלש ותם.</p><p></p>',
+		'115293390349631483700',
+		'אלה גרבר',
+		'2024-07-02 04:36:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0105_2.html',
+		'<p></p>',
+		'115293390349631483700',
+		'אלה גרבר',
+		'2024-07-02 04:36:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-03 19:35:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-03 19:35:55' 
+			WHERE messageid=12834;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>לרבני חזל</p><p>דברי הימים ב יג9: &quot;הֲלֹא הִדַּחְתֶּם אֶת כֹּהֲנֵי יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם וַתַּעֲשׂוּ לָכֶם כֹּהֲנִים כְּעַמֵּי הָאֲרָצוֹת כָּל הַבָּא לְמַלֵּא יָדוֹ בְּפַר בֶּן בָּקָר וְאֵילִם שִׁבְעָה וְהָיָה כֹהֵן לְלֹא אֱלֹהִים&quot;</p><p>אתם הרבנים רבני חזל אבותיכם הראשונים הדיחו את כהני-יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם ועתה עת פרשת קורח אתם כהני דת הרבנים מטיפים נגד מחלוקת בעם לא מאהבת ישראל אתם מטיפים זאת כי אם מחרדה לשלטונכם הוא הדבר להטפתכם נגד לשון הרע מחשש שידברו נגד שלטונכם </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-04 16:36:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>לרבני חזל</p><p>דברי הימים ב יג9: &quot;הֲלֹא הִדַּחְתֶּם אֶת כֹּהֲנֵי יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם וַתַּעֲשׂוּ לָכֶם כֹּהֲנִים כְּעַמֵּי הָאֲרָצוֹת כָּל הַבָּא לְמַלֵּא יָדוֹ בְּפַר בֶּן בָּקָר וְאֵילִם שִׁבְעָה וְהָיָה כֹהֵן לְלֹא אֱלֹהִים&quot;</p><p>אתם הרבנים רבני חזל אבותיכם הראשונים הדיחו את כהני-יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם ועתה עת פרשת קורח אתם כהני דת הרבנים מטיפים נגד מחלוקת בעם לא מאהבת ישראל אתם מטיפים זאת כי אם מחרדה לשלטונכם הוא הדבר להטפתכם נגד לשון הרע מחשש שידברו נגד שלטונכם</p><p>-</p><p>כעת מלחמה כבר קרוב לשנה וכל יום נופלים חללים במלחמה רק בגלל התעקשותכם לאחוז בכח בשלטון הדת להורות הלכות-כזב שבדיתם מלבכם</p><p>ה&quot;תיקונים&quot; של הרבנים המקובלים שלכם תמורת כסף לא מצילים את חיילינו מנפול במלחמה אדרבא יש יותר הרוגים בקרב ישראל במלחמה</p><p>כל הקונספציה שלכם קורסת בזמן מלחמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-04 17:05:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-04 17:05:46' 
+			WHERE messageid=12835;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>לרבני חזל</p><p>דברי הימים ב יג9: &quot;הֲלֹא הִדַּחְתֶּם אֶת כֹּהֲנֵי יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם וַתַּעֲשׂוּ לָכֶם כֹּהֲנִים כְּעַמֵּי הָאֲרָצוֹת כָּל הַבָּא לְמַלֵּא יָדוֹ בְּפַר בֶּן בָּקָר וְאֵילִם שִׁבְעָה וְהָיָה כֹהֵן לְלֹא אֱלֹהִים&quot;</p><p>אתם הרבנים רבני חזל אבותיכם הראשונים הדיחו את כהני-יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם ועתה עת פרשת קורח אתם כהני דת הרבנים מטיפים נגד מחלוקת בעם לא מאהבת ישראל אתם מטיפים זאת כי אם מחרדה לשלטונכם הוא הדבר להטפתכם נגד לשון הרע מחשש שידברו נגד שלטונכם</p><p>-</p><p>כעת מלחמה כבר קרוב לשנה וכל יום נופלים חללים במלחמה רק בגלל התעקשותכם לאחוז בכח בשלטון הדת להורות הלכות-כזב שבדיתם מלבכם</p><p>ה&quot;תיקונים&quot; של הרבנים המקובלים שלכם תמורת כסף לא מצילים את חיילינו מנפול במלחמה אדרבא יש יותר הרוגים בקרב ישראל במלחמה</p><p>כל הקונספציה שלכם קורסת בזמן מלחמה אינכם יכולים להגן על עם ישראל גם חלוקת &quot;ערכות רוחניות&quot; כמו הציצית המטופשת שלכם לא מועילה </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-04 18:24:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-04 18:24:52' 
+			WHERE messageid=12836;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בחן את עצמך</p><p>אם בקומך השכם בבקר [לאחר הרחצה] אתה יכול לשתות כוס מים מלאה אז זה אות כי יש בך רוח ככתוב  וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם</p><p>ואם  בקומך השכם בבקר [לאחר הרחצה] קשה לך לשתות כוס מים מלאה אז זה אות נסתר כי יש שבר ברוח ועליך לעשות חסד ואמת לכפר עוון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 02:28:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 04:29:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-05 04:29:14' 
+			WHERE messageid=12839;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 08:56:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-05 08:56:04' 
+			WHERE messageid=12840;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-14-14.html',
+		'<p>לא ברור-האם לדעתך החלוקה של הנחלות בארץ היתתה ידועה להם מדורי דורות ולכן יוסף ומנשה קראו לילדים בשמות הנחלות וכן דן?</p><p>א מדוע שבטים אחרים לא עשו כך</p><p>ב אין לזה שום רמז מקראי</p><p>ג למה היה צריך הגרלה בחלוקה אם הדברים היו ידועים תמיד -</p><p>ג קשה לי לקבל שדן אצל אברהם מתקשר למחלת שבט דן</p><p></p>',
+		'103157205442651557945',
+		'יהודה הולשטיין',
+		'2024-07-05 12:33:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 13:14:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-05 13:14:09' 
+			WHERE messageid=12842;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>הכפרה בצדקה ומשפט חסד ורחמים מכובדת יותר מכפרה בבהמה</p><p>ספר במדבר פרק טז במדבר טז5:</p><p>&quot;וַיְדַבֵּר אֶל קֹרַח וְאֶל כָּל עֲדָתוֹ לֵאמֹר בֹּקֶר וְיֹדַע יהוה אֶת אֲשֶׁר לוֹ</p><p>וְאֶת הַקָּדוֹשׁ וְהִקְרִיב אֵלָיו וְאֵת אֲשֶׁר יִבְחַר בּוֹ יַקְרִיב אֵלָיו&quot;</p><p>***וְאֶת הַקָּדוֹשׁ וְהִקְרִיב אֵלָיו *** וְאֵת אֲשֶׁר יִבְחַר בּוֹ יַקְרִיב אֵלָיו</p><p>******* וְאֶת הַקָּדוֹשׁ וְהִקְרִיב אֵלָיו = בִּקְרֹבַי אֶקָּדֵשׁ = אֲקַדֵּשׁ לְכַהֵן לִי *******</p><p>שמות כט44: &quot;וְקִדַּשְׁתִּי אֶת אֹהֶל מוֹעֵד וְאֶת הַמִּזְבֵּחַ וְאֶת אַהֲרֹן וְאֶת בָּנָיו אֲקַדֵּשׁ לְכַהֵן לִי&quot;</p><p>ואכן אלהים קידש את אהרן ובניו וציוה לכפר עליהם שבעת ימים</p><p>ויקרא ח34: &quot;כַּאֲשֶׁר עָשָׂה בַּיּוֹם הַזֶּה צִוָּה יהוה לַעֲשֹׂת לְכַפֵּר עֲלֵיכֶם&quot;</p><p>ויקרא ח35: &quot;וּפֶתַח אֹהֶל מוֹעֵד תֵּשְׁבוּ יוֹמָם וָלַיְלָה שִׁבְעַת יָמִים וּשְׁמַרְתֶּם אֶת מִשְׁמֶרֶת יהוה וְלֹא תָמוּתוּ כִּי כֵן צֻוֵּיתִי&quot;</p><p>******** אבל ביום השמיני שימו לב כי הכפרה בבהמת הקורבן רק על אהרן והעם ואין כפרת קורבן לבני אהרן ********</p><p>ויקרא ט7:</p><p>&quot;וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן קְרַב אֶל הַמִּזְבֵּחַ וַעֲשֵׂה אֶת חַטָּאתְךָ וְאֶת עֹלָתֶךָ</p><p>וְכַפֵּר בַּעַדְךָ וּבְעַד הָעָם וַעֲשֵׂה אֶת קָרְבַּן הָעָם וְכַפֵּר בַּעֲדָם כַּאֲשֶׁר צִוָּה יהוה\'&quot;</p><p>ביום השמיני לא כיפרו בבהמת קורבן על בני אהרן וזאת כדי לראות מי מדור ההמשך ישרוד את הקודש ללא כפרת קורבן</p><p>והיה אשר ישרוד את הקודש ללא כפרת קורבן בהמה הוא הצדיק כי כפרתו רק בחסד ואמת וביראת אלהים</p><p>משלי טז6: &quot;בְּחֶסֶד וֶאֱמֶת יְכֻפַּר עון וּבְיִרְאַת יהוה סוּר מֵרָע&quot;</p><p>הושע ו6: &quot;כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת&quot;</p><p>-----------------------------------------------------------------</p><p>כעת לבאור הפסוק</p><p>ויקרא י3: &quot;וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן הוּא אֲשֶׁר דִּבֶּר יהוה לֵאמֹר - -- בִּקְרֹבַי אֶקָּדֵשׁ וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד וַיִּדֹּם אַהֲרֹן&quot;</p><p>בִּקְרֹבַי אֶקָּדֵשׁ = בקרובים אלי אקדש אותם ככתוב: וְאֶת הַקָּדוֹשׁ וְהִקְרִיב אֵלָיו = בִּקְרֹבַי אֶקָּדֵשׁ = אֲקַדֵּשׁ לְכַהֵן לִי</p><p>וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד = ככתוב: וְאִכָּבְדָה בְּפַרְעֹה וּבְכָל חֵילוֹ בְּרִכְבּוֹ וּבְפָרָשָׁיו = או ככתוב: תִּכְבַּד עָלַי יָדֶךָ נֶהְפַּךְ לְשַׁדִּי בְּחַרְבֹנֵי קַיִץ סֶלָה</p><p>--------------------------</p><p>חשוב לדעת כי בתחילת היום השמיני כבר היה רמז למות שמתקרב וכי יש לדעת להתמודד עמו רק ביראת אלהים</p><p>ורק אלעזר ואיתמר בני אהרן הנותרים זכו לכפרה ולא בבהמה כי בְּחֶסֶד וֶאֱמֶת יְכֻפַּר עון וּבְיִרְאַת יהוה סוּר מֵרָע</p><p>ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי יהוה וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p><p>שמות לג20: &quot;וַיֹּאמֶר לֹא תוּכַל לִרְאֹת אֶת פָּנָי כִּי לֹא יִרְאַנִי הָאָדָם וָחָי&quot; =כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 14:18:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 14:19:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-05 14:19:38' 
+			WHERE messageid=12844;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>לרבני חזל</p><p>דברי הימים ב יג9: &quot;הֲלֹא הִדַּחְתֶּם אֶת כֹּהֲנֵי יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם וַתַּעֲשׂוּ לָכֶם כֹּהֲנִים כְּעַמֵּי הָאֲרָצוֹת כָּל הַבָּא לְמַלֵּא יָדוֹ בְּפַר בֶּן בָּקָר וְאֵילִם שִׁבְעָה וְהָיָה כֹהֵן לְלֹא אֱלֹהִים&quot;</p><p>אתם הרבנים רבני חזל אבותיכם הראשונים הדיחו את כהני-יהוה אֶת בְּנֵי אַהֲרֹן וְהַלְוִיִּם ועתה עת פרשת קורח אתם כהני דת הרבנים מטיפים נגד מחלוקת בעם לא מאהבת ישראל אתם מטיפים זאת כי אם מחרדה לשלטונכם הוא הדבר להטפתכם נגד לשון הרע מחשש שידברו נגד שלטונכם</p><p>-</p><p>כעת מלחמה כבר קרוב לשנה וכל יום נופלים חללים במלחמה רק בגלל התעקשותכם לאחוז בכח בשלטון הדת להורות הלכות-כזב שבדיתם מלבכם</p><p>ה&quot;תיקונים&quot; של הרבנים המקובלים שלכם תמורת כסף לא מצילים את חיילינו מנפול במלחמה אדרבא יש יותר הרוגים בקרב ישראל במלחמה</p><p>כל הקונספציה שלכם קורסת בזמן מלחמה אינכם יכולים להגן על עם ישראל גם חלוקת &quot;ערכות רוחניות&quot; כמו הציצית המטופשת שלכם לא מועילה</p><p>הציצית שלכם עם השרוכים האלה רק יכולה להפריע בקרב מלחמה כי זאת לא הציצית המקורית מימי התורה</p><p>אם חיילי צבא ישראל בימי קדם היו להם ציציות כמו היום זה רק היה מפריע להלחם לרוץ על גדרות וזה היה נתפס ולוכד את החייל לכן על הציציות המקוריות להיות תפורות צמוד לבגד</p><p>הציצית המקורית היא על ארבע כנפות הבגד לתפור בהם הציצית על ארבע הגדילים על השרוולים של הידיים והמכנסים ברגליים</p><p>בספר הנביא ישעיהו פרק ו כתוב:</p><p>(ב) שְׂרָפִים עֹמְדִים מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם יְכַסֶּה פָנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף.[סוף ציטוט]</p><p>בִּשְׁתַּיִם יְכַסֶּה פָנָיו = זה הידיים ועל השרוולים יש לתפור ציציות</p><p>וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו = זה הרגליים ועל המכנסיים יש לתפור ציציות</p><p>וּבִשְׁתַּיִם יְעוֹפֵף = זה רק למלאכים ולא לאדם</p><p>פתיל הציציות יהיו תפור צמוד על ארבע כנפות הבגד</p><p>שתי ציציות צמודות בתפירה על השרוולים כתפיים</p><p>ושתי ציציות צמודות בתפירה החלק העליון שבמכנסים מהמתניים ומטה</p><p>-</p><p>הציצית זה למעשה הקמיע היחידי אשר על פי התורה</p><p>הציצית כקמיע מטרתה להזכיר את מצוות יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-05 14:45:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-05 14:46:07' 
+			WHERE messageid=12837;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים מב3: &quot;צָמְאָה נַפְשִׁי לֵאלֹהִים לְאֵל חָי מָתַי אָבוֹא וְאֵרָאֶה פְּנֵי אֱלֹהִים&quot;</p><p>תהלים סג2: &quot;אֱלֹהִים אֵלִי אַתָּה אֲשַׁחֲרֶךָּ צָמְאָה לְךָ נַפְשִׁי כָּמַהּ לְךָ בְשָׂרִי בְּאֶרֶץ צִיָּה וְעָיֵף בְּלִי מָיִם&quot; </p><p> וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם וכשאתה בְּאֶרֶץ צִיָּה וְעָיֵף בְּלִי מָיִם אז אתה משתוקק לרוח אלהים</p><p>אֱלֹהִים אֵלִי אַתָּה אֲשַׁחֲרֶךָּ צָמְאָה לְךָ נַפְשִׁי = צָמְאָה נַפְשִׁי לֵאלֹהִים לְאֵל חָי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-06 17:49:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:36:41' 
+			WHERE messageid=12528;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:37:03' 
+			WHERE messageid=12536;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 04:51:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-07 04:51:55' 
+			WHERE messageid=12847;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הודעה חשובה</p><p>כל הדברים שכתבתי במאמרי זה לא משנאת ישראל חלילה כי אם מאהבת ישראל הלא הוא עם-יהוה</p><p>וכי כל רצוני שיקראו היטב את דברי מאמרי יחד עם התגובות שכתבתי וישובו בתשובה לאלהי ישראל</p><p>אני מצהיר בזאת כי אני אוהב את עם ישראל הצדיקים באשר הם ובמיוחד את אנשי עמך מסורת ישראל</p><p>המילה דת מתוך המילה דעת והדתיים הם האוכלוסיה המובחרת בישראל אלה התורמים בבית הכנסת</p><p>אני מכבד את כל יראי האלהים בכל הזרמים בישראל אם זה רבנים או קראים ככתוב: אֶת יִרְאֵי יהוה יְכַבֵּד</p><p>תהלים קטו13: &quot;יְבָרֵךְ יִרְאֵי יהוה הַקְּטַנִּים עִם הַגְּדֹלִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 06:36:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>אשריך אראל</p><p>ועדת חקירה רוחנית על פי הדברים שכתבתי במאמרי זה יחד עם כל התגובות בקישור זה</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html?no_cache=1720334577</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-07 06:46:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/msxq_emt.html',
+		'<p>האם עשית משהוו מביך אצל חברה?</p>',
+		'109583188981457224163',
+		'איילה זבלונוב',
+		'2024-07-07 14:46:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/msxq_emt.html',
+		'<p>האם פעם אחת נפלת ברצפה אצל חברה?</p>',
+		'109583188981457224163',
+		'איילה זבלונוב',
+		'2024-07-07 14:48:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 05:45:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 05:45:53' 
+			WHERE messageid=12852;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p>סוד הכנת אפר פרה אדומה</p><p>שילוב [תרכובת] של דרגה חומרית גבוהה עם דרגה חומרית נמוכה</p><p>מעולם החי...</p><p>פרה אדומה שהיא הדרגה החומרית הגבוהה ביותר </p><p>+ תולעת שני שהיא הדרגה החומרית הנמוכה ביותר</p><p>תהלים כב7: &quot;וְאָנֹכִי תוֹלַעַת וְלֹא אִישׁ חֶרְפַּת אָדָם וּבְזוּי עָם&quot;</p><p>ומעולם הצומח...</p><p>עץ הארז אשר הוא הרם והנישא מכל הצומח</p><p>+ צמח האזוב אשר הוא השפל מכל הצומח</p><p>תהלים נא9: &quot;תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר תְּכַבְּסֵנִי וּמִשֶּׁלֶג אַלְבִּין&quot;</p><p>מלכים א ה13: &quot;וַיְדַבֵּר עַל הָעֵצִים מִן הָאֶרֶז אֲשֶׁר בַּלְּבָנוֹן וְעַד הָאֵזוֹב אֲשֶׁר יֹצֵא בַּקִּיר וַיְדַבֵּר עַל הַבְּהֵמָה וְעַל הָעוֹף וְעַל הָרֶמֶשׂ וְעַל הַדָּגִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 09:28:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-07-08 10:28:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 10:28:13' 
+			WHERE messageid=12854;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p>סוד הכנת אפר פרה אדומה</p><p>שילוב [תרכובת] של דרגה חומרית גבוהה עם דרגה חומרית נמוכה</p><p>מעולם החי...</p><p>פרה אדומה שהיא הדרגה החומרית הגבוהה ביותר</p><p>+ תולעת שני שהיא הדרגה החומרית הנמוכה ביותר</p><p>תהלים כב7: &quot;וְאָנֹכִי תוֹלַעַת וְלֹא אִישׁ חֶרְפַּת אָדָם וּבְזוּי עָם&quot;</p><p>ומעולם הצומח...</p><p>עץ הארז אשר הוא הרם והנישא מכל הצומח</p><p>+ צמח האזוב אשר הוא השפל מכל הצומח</p><p>תהלים נא9: &quot;תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר תְּכַבְּסֵנִי וּמִשֶּׁלֶג אַלְבִּין&quot;</p><p>מלכים א ה13: &quot;וַיְדַבֵּר עַל הָעֵצִים מִן הָאֶרֶז אֲשֶׁר בַּלְּבָנוֹן וְעַד הָאֵזוֹב אֲשֶׁר יֹצֵא בַּקִּיר וַיְדַבֵּר עַל הַבְּהֵמָה וְעַל הָעוֹף וְעַל הָרֶמֶשׂ וְעַל הַדָּגִים&quot;</p><p>סוף דבר</p><p>זה סוד הכנת אפר פרה אדומה</p><p>הדרגה החומרית הגדולה ביותר</p><p>+הדרגה החומרית הקטנה ביותר</p><p>לאמור שילוב תרכובת החומרים הַקְּטַנִּים עִם הַגְּדֹלִים</p><p>תהלים קטו13: &quot;יְבָרֵךְ יִרְאֵי יהוה הַקְּטַנִּים עִם הַגְּדֹלִים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 11:09:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 11:09:36' 
+			WHERE messageid=12853;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p>שמואל א י24: &quot;וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל הָעָם הַרְּאִיתֶם אֲשֶׁר בָּחַר בּוֹ יהוה כִּי אֵין כָּמֹהוּ בְּכָל הָעָם וַיָּרִעוּ כָל הָעָם וַיֹּאמְרוּ יְחִי הַמֶּלֶךְ&quot;</p><p>דברים יז15: &quot;שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ נָכְרִי אֲשֶׁר לֹא אָחִיךָ הוּא&quot;</p><p>הנביא בוחר את המלך</p><p>שמואל א ט9: &quot;לְפָנִים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים לְכוּ וְנֵלְכָה עַד הָרֹאֶה כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה&quot;</p><p>כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה !!! והָרֹאֶה הוא המתקשר עתה קחו עשרה מתקשרים והם יגידו לכם מי הוא בחיר-יהוה</p><p>הציטוט מתוך הקישור הזה .......     https://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 11:13:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p> שמואל א י24: &quot;וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל הָעָם הַרְּאִיתֶם אֲשֶׁר בָּחַר בּוֹ יהוה כִּי אֵין כָּמֹהוּ בְּכָל הָעָם וַיָּרִעוּ כָל הָעָם וַיֹּאמְרוּ יְחִי הַמֶּלֶךְ&quot;</p><p>דברים יז15: &quot;שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יהוה אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ נָכְרִי אֲשֶׁר לֹא אָחִיךָ הוּא&quot;</p><p>הנביא בוחר את המלך</p><p>שמואל א ט9: &quot;לְפָנִים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים לְכוּ וְנֵלְכָה עַד הָרֹאֶה כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה&quot;</p><p>כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים הָרֹאֶה !!! והָרֹאֶה הוא המתקשר עתה קחו עשרה מתקשרים והם יגידו לכם מי הוא בחיר-יהוה</p><p>הציטוט מתוך הקישור הזה ....... https://tora.us.fm/tnk1/messages/prqim_t0517_1.html</p><p>דברי הימים ב ל27:</p><p>&quot;וַיָּקֻמוּ הַכֹּהֲנִים הַלְוִיִּם וַיְבָרֲכוּ אֶת הָעָם וַיִּשָּׁמַע בְּקוֹלָם וַתָּבוֹא תְפִלָּתָם לִמְעוֹן קָדְשׁוֹ לַשָּׁמָיִם&quot;</p><p>השמים הם מְעוֹן קָדְשׁוֹ של יהוה האלהים הקדושים ועתה השכילו בקשר בין קדוש=שמים=עשן</p><p>יש קשר בין העשן לשמים ***כִּי שָׁמַיִם כֶּעָשָׁן*** וטבעו-דרכו של העשן לעלות השמימה</p><p>ישעיהו נא6:</p><p>&quot;שְׂאוּ לַשָּׁמַיִם עֵינֵיכֶם וְהַבִּיטוּ אֶל הָאָרֶץ מִתַּחַת ****כִּי שָׁמַיִם כֶּעָשָׁן**** נִמְלָחוּ וְהָאָרֶץ כַּבֶּגֶד תִּבְלֶה</p><p>שופטים כ40:</p><p>&quot;וְהַמַּשְׂאֵת הֵחֵלָּה לַעֲלוֹת מִן הָעִיר עַמּוּד עָשָׁן וַיִּפֶן בִּנְיָמִן אַחֲרָיו וְהִנֵּה עָלָה כְלִיל הָעִיר הַשָּׁמָיְמָה&quot;</p><p>יהושע ח20: &quot;וַיִּפְנוּ אַנְשֵׁי הָעַי אַחֲרֵיהֶם וַיִּרְאוּ וְהִנֵּה עָלָה עֲשַׁן הָעִיר הַשָּׁמַיְמָה .............</p><p>וְלֹא הָיָה בָהֶם יָדַיִם לָנוּס הֵנָּה וָהֵנָּה וְהָעָם הַנָּס הַמִּדְבָּר נֶהְפַּךְ אֶל הָרוֹדֵף&quot;</p><p>-</p><p>עתה אם ברצונכם לבחור את הבחיר הבכיר עשו כדבר הבא</p><p>הקטירו קטורת מור ולבונה ושימו במקום סגור עם המתמודדים לתפקיד הבכיר</p><p>והיה המתמודד אשר העשן פנה אליו הוא האיש המתאים ביותר מכל המועמדים</p><p>כי אם עשן הקטורת עלה אליו הלא עלה השמימה לאיש ירא שמים הוא בחיר-אלהים</p><p>2022-01-26 00:58:45</p><p>DAIAN SHEM	</p><p>רבותי בהמשך לתגובתי האחרונה</p><p>אם שניים אוחזין</p><p>למשל אם יש שני מועמדים לראשות ממשלה</p><p>או שני מועמדים לתפקיד ראש המטה הכללי</p><p>כאשר כל מועמד הגיע עם המלצות טובות</p><p>ורוצים לדעת מי יושיע את עם בני ישראל</p><p>לכן מבחן העשן יעשה להם כאשר כתבתי</p><p>אם העשן יפנה אל אחד המועמדים הוא האיש הנבחר לתפקיד ובא לציון גואל</p><p>כי העשן עלה השמימה אל איש ירא-השמים וביראת אלהים להושיע את עמו על כן הוא המועמד המתאים ביותר לתפקיד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 12:34:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 12:35:00' 
+			WHERE messageid=12856;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>תהלים פט30: &quot;וְשַׂמְתִּי לָעַד זַרְעוֹ וְכִסְאוֹ כִּימֵי שָׁמָיִם&quot;</p><p>תהלים פט37: &quot;זַרְעוֹ לְעוֹלָם יִהְיֶה וְכִסְאוֹ כַשֶּׁמֶשׁ נֶגְדִּי&quot;</p><p>זה כתוב על המשיח כסאו בשמים תמיד.......</p><p>וכדי שכסאו יהיה גם בארץ השליטים צריכים לזוז ממקומם לפנות את הכסא אשר לא להם</p><p>כל עוד מנהיגי הדת אלה המחללים את השלטון בישבם על הכסא בארץ = לא יבוא המשיח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 16:55:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>תהלים פט30: &quot;וְשַׂמְתִּי לָעַד זַרְעוֹ וְכִסְאוֹ כִּימֵי שָׁמָיִם&quot;</p><p>תהלים פט37: &quot;זַרְעוֹ לְעוֹלָם יִהְיֶה וְכִסְאוֹ כַשֶּׁמֶשׁ נֶגְדִּי&quot;</p><p>זה כתוב על המשיח כסאו בשמים תמיד.......</p><p>וכדי שכסאו יהיה גם בארץ השליטים צריכים לזוז ממקומם לפנות את הכסא אשר לא להם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 16:56:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 16:56:28' 
+			WHERE messageid=12858;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-08 19:13:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-08 19:13:15' 
+			WHERE messageid=12860;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-09 03:58:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-09 03:58:25' 
+			WHERE messageid=12861;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-09 03:58:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-09 03:58:47' 
+			WHERE messageid=12862;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>נער על פי התורה זה עד גיל 20 [לא 18]</p><p>כאשר יש חוק האוסר שתיית משקה משכר לנערים</p><p>כן יש לחוקק חוק האוסר לנערים לאכול בשר אשר הוא לחם אלהים</p><p>וזאת למען ידעו הנערים את אלהים</p><p>דברים כט5: &quot;לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-10 13:32:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>חטא אכילת פרי עץ הדעת לאדם זה בגיל הנעורים</p><p>חטאת הנעורים זה החטאים המיניים</p><p>כי בגיל זה הנערים טרם יודעים את אלהים</p><p>נער על פי התורה זה עד גיל 20 [לא 18]</p><p>כאשר יש חוק האוסר שתיית משקה משכר לנערים</p><p>כן יש לחוקק חוק האוסר לנערים לאכול בשר אשר הוא לחם אלהים</p><p>וזאת למען ידעו הנערים את יהוה אלהים</p><p>דברים כט5: &quot;לֶחֶם לֹא אֲכַלְתֶּם וְיַיִן וְשֵׁכָר לֹא שְׁתִיתֶם לְמַעַן תֵּדְעוּ כִּי אֲנִי יהוה אֱלֹהֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-10 14:00:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-10 14:00:32' 
+			WHERE messageid=12863;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-14-01.html',
+		'<p></p>',
+		'111129233954765642366',
+		'רונית יחזקאל',
+		'2024-07-11 04:13:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-11 05:44:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-11 05:44:41' 
+			WHERE messageid=12866;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-11 09:47:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-11 09:47:51' 
+			WHERE messageid=12867;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 09:04:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 09:04:23' 
+			WHERE messageid=12868;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 09:04:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 09:04:41' 
+			WHERE messageid=12869;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-19.html',
+		'<p>פירושים מגוונים ומביאים כיוונים שונים שכל אדם יכול &quot;לטעום&quot; מהמזון הרוחני הזה.</p>',
+		'100375664695643760843',
+		'ציון והב זהבי',
+		'2024-07-12 11:17:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-16-05.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 12:44:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 12:44:40' 
+			WHERE messageid=12871;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>יש הרבה מוזיקה טובה לשמוע אם זה באינטרנט או בהופעות חיות</p><p>ויש גם הרבה אוכל טוב לטעום במסעדות או בבית של אמא וכולי</p><p>יש הרבה מה לראות בעיניים והרבה מה לחוות</p><p>אך כדי להתענג על הדברים הטובים צריך מערכת חושים מפותחת</p><p>כשמערכת חושים נפתחת זה בלשון המקרא פתיחת השמים</p><p>דברים כח12:</p><p>&quot;יִפְתַּח יהוה לְךָ אֶת אוֹצָרוֹ הַטּוֹב אֶת הַשָּׁמַיִם.</p><p>רק אם תהיה ביראת-יהוה כי זה אוצרו אז יפתחו לך השמים</p><p>ישעיהו לג6: &quot;וְהָיָה אֱמוּנַת עִתֶּיךָ חֹסֶן יְשׁוּעֹת חָכְמַת וָדָעַת יִרְאַת יהוה הִיא אוֹצָרוֹ&quot;</p><p>משלי י2: &quot;לֹא יוֹעִילוּ אוֹצְרוֹת רֶשַׁע וּצְדָקָה תַּצִּיל מִמָּוֶת&quot; .......... כי עשות צדקה ומשפט זה אוצר צדיקים</p><p>ביראת אלהים לעשות צדקה אז יהוה יפתח לך את אוצרו את השמים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 16:01:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0420_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-12 16:04:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-12 16:04:38' 
+			WHERE messageid=12873;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>מה יותר חשוב</p><p>שהיין הוא קברנה סוביניון או שהיין מרמת הגולן</p><p>ובכן הזרע הוא החשוב</p><p>כפי שיהדותך על פי התורה נקבעת מאיזה זרע אב אתה ולא מהאימא</p><p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ....... זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>ערך היבול נקבע לפי הזרע כאשר ערך האדם נקבע לפי הזרע</p><p>סוף דבר</p><p>בבואך לבחור יין בחר אותו בחשיבות ראשונה לפי סוג הענבים לפי הזרע ורק בחשיבות שנייה לפי האדמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-14 14:33:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:36:59' 
+			WHERE messageid=2387;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:37:03' 
+			WHERE messageid=12850;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-14 19:37:04' 
+			WHERE messageid=12851;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>מדוע אליהו הנביא אכל בשר גם בבוקר</p><p>הלא בספר שמות פרק טז כתוב</p><p>(יב) שָׁמַעְתִּי אֶת תְּלוּנֹּת בְּנֵי יִשְׂרָאֵל דַּבֵּר אֲלֵהֶם לֵאמֹר בֵּין הָעַרְבַּיִם תֹּאכְלוּ בָשָׂר וּבַבֹּקֶר תִּשְׂבְּעוּ לָחֶם וִידַעְתֶּם כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם</p><p> ובכן הפסוק האחרון נכון לבני ישראל עמך ישראל אך אליהו הנביא איש אלהים הוא על כן אוכל בשר גם בבוקר וגם בערב</p><p>שמות כט39: &quot;אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם&quot;</p><p>שמות כט41: &quot;וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכָּהּ תַּעֲשֶׂה לָּהּ לְרֵיחַ נִיחֹחַ אִשֶּׁה ליהוה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-15 07:31:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>מדוע אליהו הנביא אכל בשר גם בבוקר</p><p>הלא בספר שמות פרק טז כתוב</p><p>(יב) שָׁמַעְתִּי אֶת תְּלוּנֹּת בְּנֵי יִשְׂרָאֵל דַּבֵּר אֲלֵהֶם לֵאמֹר בֵּין הָעַרְבַּיִם תֹּאכְלוּ בָשָׂר וּבַבֹּקֶר תִּשְׂבְּעוּ לָחֶם וִידַעְתֶּם כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם</p><p>ובכן הפסוק האחרון נכון לבני ישראל עמך ישראל אך אליהו הנביא איש אלהים הוא על כן אוכל בשר גם בבוקר וגם בערב</p><p>שמות כט39: &quot;אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם&quot;</p><p>שמות כט41: &quot;וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכָּהּ תַּעֲשֶׂה לָּהּ לְרֵיחַ נִיחֹחַ אִשֶּׁה ליהוה&quot;</p><p>הסיבה שאיש אלהים אוכל בשר גם בבקר וגם בערב זה כי רוח האלהים שבו אש גדולה היא מאת יהוה והיא האוכלת את הבשר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-15 08:04:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-15 08:04:43' 
+			WHERE messageid=12875;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 09:16:52' 
+			WHERE messageid=10795;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>כָּל נֵתַח טוֹב = יָרֵךְ וְכָתֵף</p><p>יש שוק ויש ירך כאשר הירך הוא החלק העליון של כנף הבהמה [רגליים]</p><p>יש זרוע ויש כתף כאשר הכתף זה החלק העליון של כנף הבהמה [ידיים]</p><p>יחזקאל כד4: &quot;אֱסֹף נְתָחֶיהָ אֵלֶיהָ כָּל נֵתַח טוֹב יָרֵךְ וְכָתֵף מִבְחַר עֲצָמִים מַלֵּא&quot; </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 10:29:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>כָּל נֵתַח טוֹב = יָרֵךְ וְכָתֵף</p><p>יש שוק ויש ירך כאשר הירך הוא החלק העליון של כנף האחורית של הבהמה [רגליים]</p><p>יש זרוע ויש כתף כאשר הכתף זה החלק העליון של כנף הקדמית של הבהמה [ידיים]</p><p>יחזקאל כד4: &quot;אֱסֹף נְתָחֶיהָ אֵלֶיהָ כָּל נֵתַח טוֹב יָרֵךְ וְכָתֵף מִבְחַר עֲצָמִים מַלֵּא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 10:31:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 10:31:57' 
+			WHERE messageid=12877;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>ספר עמוס ב11 כתוב:</p><p>&quot;וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם יְהֹוָה&quot;</p><p>למה מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים כי הבחורים צעירים וחזקים</p><p>הנער הוא חזק בגופו לכן צריך למנוע ממנו בשר ויין </p><p>הזקן הוא חלש בגופו לכן יש לחזקו בבשר ויין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 11:53:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>להיות צמחוני = לצאת מתוך גן-עדן על לא פשע ורק למלא את שליחות יהוה זה גודל הקדושה,</p><p>לאכול בשר = ולבוא לתוך גן-עדן מבלי צדקה ורק לחלל ולטמא את גן-עדן זה גודל הרשעות.</p><p>-</p><p>אך הדבר הנכון הוא לעשות צדקה ואז לזבוח ליהוה </p><p>תהלים צו8: &quot;הָבוּ ליהוה כְּבוֹד שְׁמוֹ שְׂאוּ מִנְחָה וּבֹאוּ לְחַצְרוֹתָיו&quot;</p><p>תהלים ק4: &quot;בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרֲכוּ שְׁמוֹ&quot;</p><p>אם אתה צדיק אז אין מניעה שתבוא לחצרותיו לגן-עדן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:10:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>להיות צמחוני --- לצאת מתוך גן-עדן על לא פשע ורק למלא את שליחות יהוה זה גודל הקדושה,</p><p>לאכול בשר --- ולבוא לתוך גן-עדן מבלי צדקה ורק לחלל ולטמא את גן-עדן זה גודל הרשעות.</p><p>-</p><p>אך הדבר הנכון הוא לעשות צדקה ואז לזבוח ליהוה</p><p>תהלים צו8: &quot;הָבוּ ליהוה כְּבוֹד שְׁמוֹ שְׂאוּ מִנְחָה וּבֹאוּ לְחַצְרוֹתָיו&quot;</p><p>תהלים ק4: &quot;בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרֲכוּ שְׁמוֹ&quot;</p><p>אם אתה צדיק אז אין מניעה שתבוא לחצרותיו לגן-עדן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:12:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 12:12:07' 
+			WHERE messageid=12880;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>ספר עמוס ב11 כתוב:</p><p>&quot;וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם יְהֹוָה&quot;</p><p>למה מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים כי הבחורים צעירים וחזקים</p><p>הנער הוא חזק בגופו לכן צריך למנוע ממנו בשר ויין</p><p>הזקן הוא חלש בגופו לכן יש לחזקו בבשר ויין</p><p>הזקן הוא דל על כן לתת לו הלחם הבשר והיין</p><p>משלי כב9: &quot;טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִלַּחְמוֹ לַדָּל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-16 12:26:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-16 12:26:34' 
+			WHERE messageid=12879;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>מדוע אליהו הנביא אכל בשר גם בבוקר</p><p>הלא בספר שמות פרק טז כתוב</p><p>(יב) שָׁמַעְתִּי אֶת תְּלוּנֹּת בְּנֵי יִשְׂרָאֵל דַּבֵּר אֲלֵהֶם לֵאמֹר בֵּין הָעַרְבַּיִם תֹּאכְלוּ בָשָׂר וּבַבֹּקֶר תִּשְׂבְּעוּ לָחֶם וִידַעְתֶּם כִּי אֲנִי יְהֹוָה אֱלֹהֵיכֶם</p><p>ובכן הפסוק האחרון נכון לבני ישראל עמך ישראל אך אליהו הנביא איש אלהים הוא על כן אוכל בשר גם בבוקר וגם בערב</p><p>שמות כט39: &quot;אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם&quot;</p><p>שמות כט41: &quot;וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכָּהּ תַּעֲשֶׂה לָּהּ לְרֵיחַ נִיחֹחַ אִשֶּׁה ליהוה&quot;</p><p>הסיבה שאיש אלהים אוכל בשר גם בבקר וגם בערב זה כי רוח האלהים שבו אש גדולה היא מאת יהוה והיא האוכלת את הבשר</p><p>וכן אליהו הנביא אוכל את בשר הזבח פעמיים ביום לכפר עליו גם בבקר וגם בערב כי יהוה נראה לנביא אליהו </p><p>ככתוב בספר ויקרא ט4: &quot;וְשׁוֹר וָאַיִל לִשְׁלָמִים לִזְבֹּחַ לִפְנֵי יהוה וּמִנְחָה בְּלוּלָה בַשָּׁמֶן כִּי הַיּוֹם יהוה נִרְאָה אֲלֵיכֶם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-17 03:30:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-17 03:30:12' 
+			WHERE messageid=12876;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>רועה הצאן העברי מהשומרון הלך לעולמו יהי זכרו ברוך</p><p>https://youtu.be/_XcKHJVACnc</p><p>--------------------------------------------------------------------------------------------------------------------------------------</p><p>https://www.srugim.co.il/1017532-%d7%90%d7%91%d7%9c-%d7%91%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%9f-%d7%a8%d7%95%d7%a2%d7%94-%d7%94%d7%a6%d7%90%d7%9f-%d7%94%d7%90%d7%92%d7%93%d7%99-%d7%94%d7%9c%d7%9a-%d7%9c%d7%a2%d7%95%d7%9c%d7%9e%d7%95?fbclid=IwZXh0bgNhZW0CMTAAAR2vZ8zYnWH2a0bKgsUD8_PmG1nhpMC1GbMKkknPycO9a_IPFIwwyYmItHI_aem_XB5lsizM1aPjwI3rhwERCQ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-17 11:19:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-14-14.html',
+		'<p>צריך להוסיף את הכתוב בדברי הימים פרק ז</p><p> וּבְנֵי אֶפְרַיִם, שׁוּתָלַח; וּבֶרֶד בְּנוֹ וְתַחַת בְּנוֹ, וְאֶלְעָדָה בְנוֹ וְתַחַת בְּנוֹ.  כא וְזָבָד בְּנוֹ וְשׁוּתֶלַח בְּנוֹ, וְעֵזֶר וְאֶלְעָד; וַהֲרָגוּם, אַנְשֵׁי-גַת הַנּוֹלָדִים בָּאָרֶץ, כִּי יָרְדוּ, לָקַחַת אֶת-מִקְנֵיהֶם.  כב וַיִּתְאַבֵּל אֶפְרַיִם אֲבִיהֶם, יָמִים רַבִּים; וַיָּבֹאוּ אֶחָיו, לְנַחֲמוֹ.  כג וַיָּבֹא, אֶל-אִשְׁתּוֹ, וַתַּהַר, וַתֵּלֶד בֵּן; וַיִּקְרָא אֶת-שְׁמוֹ בְּרִיעָה, כִּי בְרָעָה הָיְתָה בְּבֵיתוֹ.  כד וּבִתּוֹ שֶׁאֱרָה, וַתִּבֶן אֶת-בֵּית-חוֹרוֹן הַתַּחְתּוֹן וְאֶת-הָעֶלְיוֹן, וְאֵת, אֻזֵּן שֶׁאֱרָה.  כה וְרֶפַח בְּנוֹ, וְרֶשֶׁף וְתֶלַח בְּנוֹ--וְתַחַן בְּנוֹ.  כו לַעְדָּן בְּנוֹ עַמִּיהוּד בְּנוֹ, אֱלִישָׁמָע בְּנוֹ.  כז נוֹן בְּנוֹ, יְהוֹשֻׁעַ בְּנוֹ.  כח וַאֲחֻזָּתָם, וּמֹשְׁבוֹתָם--בֵּית-אֵל, וּבְנֹתֶיהָ; וְלַמִּזְרָח נַעֲרָן--וְלַמַּעֲרָב גֶּזֶר וּבְנֹתֶיהָ וּשְׁכֶם וּבְנֹתֶיהָ, עַד-עַיָּה וּבְנֹתֶיהָ.  כט וְעַל-יְדֵי בְנֵי-מְנַשֶּׁה, בֵּית-שְׁאָן וּבְנֹתֶיהָ תַּעְנַךְ וּבְנֹתֶיהָ, מְגִדּוֹ וּבְנוֹתֶיהָ, דּוֹר וּבְנוֹתֶיהָ; בְּאֵלֶּה, יָשְׁבוּ, בְּנֵי יוֹסֵף, בֶּן-יִשְׂרָאֵל.  {פ}</p><p>בני יוסף החלו לכבוש את הארץ עוד לפני הירידה למצרים ואפילו תוך כדי השיעבוד</p>',
+		'103818145139570857311',
+		'me',
+		'2024-07-18 14:24:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b03_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-19 07:15:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-19 07:15:49' 
+			WHERE messageid=12886;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>משלי ט10: &quot;תְּחִלַּת חָכְמָה יִרְאַת יהוה וְדַעַת קְדֹשִׁים בִּינָה&quot;</p><p>משלי ב3: &quot;כִּי אִם לַבִּינָה תִקְרָא לַתְּבוּנָה תִּתֵּן קוֹלֶךָ&quot; </p><p>משלי ב4: &quot;אִם תְּבַקְשֶׁנָּה כַכָּסֶף וְכַמַּטְמוֹנִים תַּחְפְּשֶׂנָּה&quot;</p><p>משלי ב5: &quot;אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא&quot;</p><p>-----------</p><p>אם תחפש להבין בינת-אלהים כאשר אתה מחפש לזכות בפרס הכספי להתעשר </p><p>משלי ב5: &quot;אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא&quot; </p><p>משלי ב9: &quot;אָז תָּבִין צֶדֶק וּמִשְׁפָּט וּמֵישָׁרִים כָּל מַעְגַּל טוֹב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-19 07:50:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אתה שחולם להיות עשיר גדול עליך להבין את הכתוב על ירא-יהוה</p><p>תהלים קיב3: &quot;הוֹן וָעֹשֶׁר בְּבֵיתוֹ וְצִדְקָתוֹ עֹמֶדֶת לָעַד&quot;</p><p>וכשבאמת תבין זאת באמונה שלמה אז תחלום להיות ירא-יהוה</p><p>אני מזמין אותך לחלום על יראת אלהים = חלומות נעימים</p><p>https://www.youtube.com/watch?v=iQ_rBBdyei0</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-19 08:07:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 06:51:06' 
+			WHERE messageid=10179;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p> מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot; מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון </p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:33:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot; </p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:43:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 16:43:44' 
+			WHERE messageid=12889;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 16:47:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:35:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:37:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 17:38:13' 
+			WHERE messageid=12892;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:38:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-21 17:38:43' 
+			WHERE messageid=12890;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מלכים א יז6: &quot;וְהָעֹרְבִים מְבִיאִים לוֹ [לאליהו הנביא] לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב וּמִן הַנַּחַל יִשְׁתֶּה&quot;</p><p>תהלים קי7: &quot;מִנַּחַל בַּדֶּרֶךְ יִשְׁתֶּה עַל כֵּן יָרִים רֹאשׁ&quot;</p><p>תהלים ג4: &quot;וְאַתָּה יהוה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי&quot;</p><p>תהלים קיג7: &quot;מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן&quot;</p><p>מֵאַשְׁ-פֹּת = זה לֶחֶם וּבָשָׂר על האש אש-פר [לאפה עם שווארמה או קבב]</p><p>יהוה אלהים הֶרִים לשמים את ראשו של אליהו הנביא האביון</p><p>ברוך יהוה אלהי ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-21 17:38:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p></p><p>בחן את עצמך האם אתה רשע.......</p><p>------------------------------------------</p><p>על פי ספר תהילות פרק נ ככתוב:</p><p>(טז) וְלָרָשָׁע....... אָמַר אֱלֹהִים מַה לְּךָ לְסַפֵּר חֻקָּי וַתִּשָּׂא בְרִיתִי עֲלֵי פִיךָ.</p><p>[מדבר דברי תורה ופתגמים אבל שונא מוסר]</p><p>(יז) וְאַתָּה שָׂנֵאתָ מוּסָר וַתַּשְׁלֵךְ דְּבָרַי אַחֲרֶיךָ.</p><p>(יח) אִם רָאִיתָ גַנָּב וַתִּרֶץ עִמּוֹ וְעִם מְנָאֲפִים חֶלְקֶךָ.[גנב ונואף]</p><p>(יט) פִּיךָ שָׁלַחְתָּ בְרָעָה וּלְשׁוֹנְךָ תַּצְמִיד מִרְמָה. [מדבר דברי שקר]</p><p>(כ) תֵּשֵׁב בְּאָחִיךָ תְדַבֵּר בְּבֶן אִמְּךָ תִּתֶּן דֹּפִי. [לשון הרע על אחיך]</p><p>(כא) אֵלֶּה עָשִׂיתָ וְהֶחֱרַשְׁתִּי דִּמִּיתָ הֱיוֹת אֶהְיֶה כָמוֹךָ אוֹכִיחֲךָ וְאֶעֶרְכָה לְעֵינֶיךָ.[חשבת את עצמך לאלהים]</p><p>(כב) בִּינוּ נָא זֹאת שֹׁכְחֵי אֱלוֹהַּ פֶּן אֶטְרֹף וְאֵין מַצִּיל.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-22 13:21:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2709_1.html',
+		'<p>בחן את עצמך האם אתה רשע.......</p><p>------------------------------------------</p><p>על פי ספר תהילות פרק נ ככתוב:</p><p>(טז) וְלָרָשָׁע....... אָמַר אֱלֹהִים מַה לְּךָ לְסַפֵּר חֻקָּי וַתִּשָּׂא בְרִיתִי עֲלֵי פִיךָ.</p><p>[מדבר דברי תורה ופתגמים אבל שונא מוסר]</p><p>(יז) וְאַתָּה שָׂנֵאתָ מוּסָר וַתַּשְׁלֵךְ דְּבָרַי אַחֲרֶיךָ.</p><p>(יח) אִם רָאִיתָ גַנָּב וַתִּרֶץ עִמּוֹ וְעִם מְנָאֲפִים חֶלְקֶךָ.[גנב ונואף]</p><p>(יט) פִּיךָ שָׁלַחְתָּ בְרָעָה וּלְשׁוֹנְךָ תַּצְמִיד מִרְמָה. [מדבר דברי שקר]</p><p>(כ) תֵּשֵׁב בְּאָחִיךָ תְדַבֵּר בְּבֶן אִמְּךָ תִּתֶּן דֹּפִי. [לשון הרע על אחיך]</p><p>(כא) אֵלֶּה עָשִׂיתָ וְהֶחֱרַשְׁתִּי דִּמִּיתָ הֱיוֹת אֶהְיֶה כָמוֹךָ אוֹכִיחֲךָ וְאֶעֶרְכָה לְעֵינֶיךָ.[חשבת את עצמך לאלהים]</p><p>(כב) בִּינוּ נָא זֹאת שֹׁכְחֵי אֱלוֹהַּ פֶּן אֶטְרֹף וְאֵין מַצִּיל.[האם אתה זוכר את אלהים במחשבתך ובמעשיך]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-22 13:23:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-22 13:23:30' 
+			WHERE messageid=12896;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b24_3.html',
+		'<p>קהלת פרק ג כתוב:</p><p>א לַכֹּל זְמָן וְעֵת לְכָל-חֵפֶץ תַּחַת הַשָּׁמָיִם</p><p>ב        עֵת לָלֶדֶת        וְעֵת לָמוּת</p><p>          עֵת לָטַעַת        וְעֵת לַעֲקוֹר נָטוּעַ</p><p>ג        עֵת לַהֲרוֹג        וְעֵת לִרְפּוֹא</p><p>          עֵת לִפְרוֹץ        וְעֵת לִבְנוֹת</p><p>ד        עֵת לִבְכּוֹת          וְעֵת לִשְׂחוֹק</p><p>          עֵת סְפוֹד         וְעֵת רְקוֹד</p><p>ה        עֵת לְהַשְׁלִיךְ אֲבָנִים        וְעֵת כְּנוֹס אֲבָנִים</p><p>          עֵת לַחֲבוֹק         וְעֵת לִרְחֹק מֵחַבֵּק</p><p>ו        עֵת לְבַקֵּשׁ         וְעֵת לְאַבֵּד</p><p>          עֵת לִשְׁמוֹר        וְעֵת לְהַשְׁלִיךְ</p><p>ז        עֵת לִקְרוֹעַ        וְעֵת לִתְפּוֹר</p><p>          עֵת לַחֲשׁוֹת        וְעֵת לְדַבֵּר</p><p>ח        עֵת לֶאֱהֹב         וְעֵת לִשְׂנֹא</p><p>          עֵת מִלְחָמָה        וְעֵת שָׁלוֹם</p><p>תהלים לד2: </p><p>&quot;אֲבָרֲכָה אֶת יהוה בְּכָל עֵת....... תָּמִיד תְּהִלָּתוֹ בְּפִי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-23 09:50:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-32-05.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-07-23 10:49:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-23 10:49:10' 
+			WHERE messageid=12899;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/tov.html',
+		'<p>והנה עוד קבוצה שהוקמה כדי לעודד מחשבות טובות על פוליטיקאים מכל המגזרים: </p><p>https://www.facebook.com/ChooseToLoveIsraeliElections</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-07-23 12:06:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/tov.html',
+		'<p>כֹּה-אָמַר ה\' צְבָאוֹת: </p><p>צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי וְצוֹם הַשְּׁבִיעִי וְצוֹם הָעֲשִׂירִי יִהְיֶה לְבֵית-יְהוּדָה לְשָׂשׂוֹן וּלְשִׂמְחָה וּלְמֹעֲדִים טוֹבִים, וְהָאֱמֶת וְהַשָּׁלוֹם אֱהָבוּ</p><p>כל תעניות הצום בעשור לחודש</p><p>צוֹם הָרְבִיעִי = בעשור לחודש [ולא יז בתמוז]</p><p>וְצוֹם הַחֲמִישִׁי = בעשור לחודש [ולא תשעה באב]</p><p>וְצוֹם הַשְּׁבִיעִי = בעשור לחודש הוא יום הכפורים [ולא צום גדליה]</p><p>וְצוֹם הָעֲשִׂירִי = בעשור לחודש הוא תחילת המצור על ירושלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-23 13:49:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/tov.html',
+		'<p>כֹּה-אָמַר יהוה צְבָאוֹת:</p><p>צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי וְצוֹם הַשְּׁבִיעִי וְצוֹם הָעֲשִׂירִי יִהְיֶה לְבֵית-יְהוּדָה לְשָׂשׂוֹן וּלְשִׂמְחָה וּלְמֹעֲדִים טוֹבִים, וְהָאֱמֶת וְהַשָּׁלוֹם אֱהָבוּ</p><p>כל תעניות הצום בעשור לחודש</p><p>צוֹם הָרְבִיעִי = בעשור לחודש [ולא יז בתמוז]</p><p>וְצוֹם הַחֲמִישִׁי = בעשור לחודש [ולא תשעה באב]</p><p>וְצוֹם הַשְּׁבִיעִי = בעשור לחודש הוא יום הכפורים [ולא צום גדליה]</p><p>וְצוֹם הָעֲשִׂירִי = בעשור לחודש הוא תחילת המצור על ירושלים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-23 13:49:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-23 13:49:52' 
+			WHERE messageid=12901;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/tov.html',
+		'<p>כֹּה-אָמַר יהוה צְבָאוֹת:</p><p>צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי וְצוֹם הַשְּׁבִיעִי וְצוֹם הָעֲשִׂירִי יִהְיֶה לְבֵית-יְהוּדָה לְשָׂשׂוֹן וּלְשִׂמְחָה וּלְמֹעֲדִים טוֹבִים, וְהָאֱמֶת וְהַשָּׁלוֹם אֱהָבוּ</p><p>כל תעניות הצום בעשור לחודש</p><p>צוֹם הָרְבִיעִי = בעשור לחודש [ולא יז בתמוז]</p><p>וְצוֹם הַחֲמִישִׁי = בעשור לחודש [ולא תשעה באב]</p><p>וְצוֹם הַשְּׁבִיעִי = בעשור לחודש הוא יום הכפורים [ולא צום גדליה]</p><p>וְצוֹם הָעֲשִׂירִי = בעשור לחודש הוא תחילת המצור על ירושלים</p><p>----------------------------------------------------------------------------------</p><p>חטא העגל היה ביום ששי בארבעה עשר לחודש הרבעי בלוח היובלים</p><p>משה שבר את לוחות הברית בליל ירח מלא ולא י&quot;ז בתמוז של הרבנים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-23 14:01:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-23 14:01:34' 
+			WHERE messageid=12902;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-08-65.html',
+		'<p>מלכים א ח65-66: &quot;וַיַּעַשׂ שְׁלֹמֹה בָעֵת הַהִיא אֶת הֶחָג וְכָל יִשְׂרָאֵל עִמּוֹ קָהָל גָּדוֹל מִלְּבוֹא חֲמָת עַד נַחַל מִצְרַיִם לִפְנֵי ה\' אֱלֹהֵינוּ שִׁבְעַת יָמִים וְשִׁבְעַת יָמִים אַרְבָּעָה עָשָׂר יוֹם בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת הָעָם וַיְבָרֲכוּ אֶת הַמֶּלֶךְ וַיֵּלְכוּ לְאָהֳלֵיהֶם שְׂמֵחִים וְטוֹבֵי לֵב עַל כָּל הַטּוֹבָה אֲשֶׁר עָשָׂה ה\' לְדָוִד עַבְדּוֹ וּלְיִשְׂרָאֵל עִמּוֹ&quot;</p><p>ראה כי יש 14 יום</p><p>עתה חלק אותם לפעמיים שבעת ימים</p><p>&quot;בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת הָעָם&quot; = לא יתכן שמדובר בתם שבעת הימים הראשונים [כי שמיני עצרת זה חג] אלא בתם שבעת הימים האחרונים</p><p>לכן תחילה של שבעת הימים החלו בחג-הסכות ועשו גם את יום שמיני עצרת כמשפט</p><p>ואחרי כן באו שבעת הימים האחרונים ואז &quot;בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת הָעָם&quot; לאמור ביום השמיני שבתם שבעת הימים האחרונים</p><p>סוף דבר</p><p>יום הכפורים לא היה בתוך שבעת הימים כי אלה החלו בחג-הסכות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-23 17:06:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>וכן בתהילים ח פסוקים ח- ט</p><p>.</p>',
+		'117596550342431065120',
+		'דני ארגמן',
+		'2024-07-24 09:12:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/xya_bhma.html',
+		'<p>חיה = כל מה שחי ביבשה באוויר ובים</p><p>בעיר = בהמה שהיא רכוש האדם = חיות משק</p><p>בהמה = החיות על הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-25 13:16:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-07-26 14:54:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-07-26 14:54:38' 
+			WHERE messageid=12907;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-02 15:41:15' 
+			WHERE messageid=9198;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>מלכים ב ה12: &quot;הֲלֹא טוֹב אבנה[אֲמָנָה] וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה&quot;</p><p>מיי הגוים טהורים וטובים מִכֹּל מֵימֵי יִשְׂרָאֵל אך על אף זאת מֵימֵי יִשְׂרָאֵל הם המים של ארץ הקודש וסגולה נפלאה לטבול בם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-04 10:28:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-04 14:57:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-04 14:57:47' 
+			WHERE messageid=12909;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-118-10.html',
+		'<p> </p><p>הורי דוברי ארמית בני קהילת נאשדידן [עדת כורדיסטאן]</p><p>בשפה הארמית &quot;מיל&quot; = זה מת</p><p>כשאדם מת אומרים עליו &quot;מיל&quot;  </p><p>תהלים קיח10: &quot; כָּל גּוֹיִם סְבָבוּנִי בְּשֵׁם יהוה כִּי אֲמִילַם. &quot;</p><p> אֲמִילַם = אמית אותם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-05 06:57:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p><p>תהלים סו19: &quot;אָכֵן שָׁמַע אֱלֹהִים הִקְשִׁיב בְּקוֹל תְּפִלָּתִי&quot;</p><p>תהלים לא23: &quot;וַאֲנִי אָמַרְתִּי בְחָפְזִי נִגְרַזְתִּי מִנֶּגֶד עֵינֶיךָ אָכֵן שָׁמַעְתָּ קוֹל תַּחֲנוּנַי בְּשַׁוְּעִי אֵלֶיךָ&quot; </p><p>לכן אתה אל תחפז לאמור: אלהים נִגְרַזְתִּי מִנֶּגֶד עֵינֶיךָ אתה לא סופר אותי ולא מסתכל עלי </p><p>לכן האמן אתה כי אלהים תמיד שומע ורואה הכל</p><p>תהלים צד9: &quot;הֲנֹטַע אֹזֶן הֲלֹא יִשְׁמָע אִם יֹצֵר עַיִן הֲלֹא יַבִּיט&quot; </p><p>גם בזמני שעות ועתים קשות אל תחדל מהתפלל באמונה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-05 14:44:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>דברי הימים ב כו5: </p><p>&quot;וַיְהִי לִדְרֹשׁ אֱלֹהִים בִּימֵי זְכַרְיָהוּ הַמֵּבִין בִּרְאֹת הָאֱלֹהִים.......</p><p> וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים&quot;</p><p>סגולה נפלאה להיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>אך לא די בזאת כי גם בלעם בן בעור היה הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>לכן יותר חשוב מלהיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>זה קודם כל  לִדְרֹשׁ אֱלֹהִים ככתוב בתחילת הפסוק</p><p>ובסוף הפסוק גם כן כתוב:  וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-08 11:35:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>דברי הימים ב כו5:</p><p>&quot;וַיְהִי לִדְרֹשׁ אֱלֹהִים בִּימֵי זְכַרְיָהוּ הַמֵּבִין בִּרְאֹת הָאֱלֹהִים.......</p><p>וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים&quot;</p><p>סגולה נפלאה להיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים.......</p><p>אך לא די בזאת כי גם בלעם בן בעור היה הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>לכן יותר חשוב מלהיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>זה קודם כל לִדְרֹשׁ אֱלֹהִים ככתוב בתחילת הפסוק</p><p>ובסוף הפסוק גם כן כתוב: וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-08 11:36:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-08 11:36:32' 
+			WHERE messageid=12912;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>דברי הימים ב כו5:</p><p>&quot;וַיְהִי לִדְרֹשׁ אֱלֹהִים בִּימֵי זְכַרְיָהוּ הַמֵּבִין בִּרְאֹת הָאֱלֹהִים.......</p><p>וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים&quot;</p><p>סגולה נפלאה להיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים.......</p><p>אך לא די בזאת כי גם בלעם בן בעור היה הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>לכן יותר חשוב מלהיות הַמֵּבִין בִּרְאֹת הָאֱלֹהִים</p><p>זה קודם כל לִדְרֹשׁ אֱלֹהִים ככתוב בתחילת הפסוק</p><p>ובסוף הפסוק גם כן כתוב: וּבִימֵי דָּרְשׁוֹ אֶת יהוה הִצְלִיחוֹ הָאֱלֹהִים</p><p>ישעיהו נח2: &quot;וְאוֹתִי יוֹם יוֹם יִדְרֹשׁוּן וְדַעַת דְּרָכַי יֶחְפָּצוּן כְּגוֹי אֲשֶׁר צְדָקָה עָשָׂה וּמִשְׁפַּט אֱלֹהָיו לֹא עָזָב יִשְׁאָלוּנִי מִשְׁפְּטֵי צֶדֶק קִרְבַת אֱלֹהִים יֶחְפָּצוּן&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-08 11:38:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-08 11:38:48' 
+			WHERE messageid=12913;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>יש הבדל בין המילה &quot;מנחה&quot; לבין המילה &quot;מנוחה&quot; אשר כותבים עם האות ו\'</p><p>לכן בפסוק הבא יש טעות בניקוד</p><p>ישעיהו יא10: &quot;וְהָיָה בַּיּוֹם הַהוּא שֹׁרֶשׁ יִשַׁי אֲשֶׁר עֹמֵד לְנֵס עַמִּים אֵלָיו גּוֹיִם יִדְרֹשׁוּ וְהָיְתָה מְנֻחָתוֹ כָּבוֹד&quot;</p><p>במקום &quot;וְהָיְתָה מְנֻחָתוֹ כָּבוֹד&quot; צריך להיות  וְהָיְתָה ***מִנְחָתוֹ*** כָּבוֹד</p><p>כי המשיח יגיש מנחה בכבוד וכן יגישו לו מנחה בכבוד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-08 18:46:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>שבוע טוב</p><p>קודם כל נברך את הרבנים יחד עם כל ישראל אשר זה עתה שמרו שבת</p><p>היום קראנו את פרשת השבוע &quot;שבת חזון&quot; בספר דברים</p><p>דברים א45: &quot;וַתָּשֻׁבוּ וַתִּבְכּוּ לִפְנֵי יהוה וְלֹא שָׁמַע יהוה בְּקֹלְכֶם וְלֹא הֶאֱזִין אֲלֵיכֶם&quot;</p><p>עתה אוכיח אותכם הרבנים</p><p>ומדוע אתם הרבנים אימרתכם לשוא לאמור &quot;שערי דמעות לא ננעלו&quot;</p><p>לכן אין להתייחס ברצינות לאמרות רבני חזל כי לא נכתבו בקודש</p><p>וכי עליכם להבין את דבר תורת אלהים ככתוב:</p><p>משלי טו29: &quot;רָחוֹק יהוה מֵרְשָׁעִים וּתְפִלַּת צַדִּיקִים יִשְׁמָע&quot;</p><p>כי אם צדיק אתה ישמעך אלהים גם אם לא תזיל דמעה</p><p>ואם רשע אתה לא ישמעך אלהים גם אם תזיל דמעה</p><p>דברים א45: &quot;וַתָּשֻׁבוּ וַתִּבְכּוּ לִפְנֵי יהוה וְלֹא שָׁמַע יהוה בְּקֹלְכֶם וְלֹא הֶאֱזִין אֲלֵיכֶם&quot;</p><p>הנה בני ישראל בכו ולא נשמע קולם כי שערי הדמעות היו נעולים כי לא היו צדיקים</p><p>ואתם הרבנים אל תסלפו את התורה עם אמרותיכם לשוא</p><p>נא הבינו כי חכמת אלהים אשר בספרי המקרא קודש הם</p><p>ואתם רבני חזל לא כן כי אינכם בקודש לכן אדרוש לבל תתעו את העם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-10 17:35:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ראו גם: ועדת חקירה רוחנית / הרב עזריאל אריאל https://www.inn.co.il/news/627224 </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-08-11 15:40:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ועדת חקירה אזרחית: https://havaada.co.il</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-08-11 16:09:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-16.html',
+		'<p></p><p> קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot; --  הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>בני ישראל צדיקים הרבה על כן הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p> קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot;</p><p>ירמיהו ח23: &quot;מִי יִתֵּן רֹאשִׁי מַיִם וְעֵינִי מְקוֹר דִּמְעָה וְאֶבְכֶּה יוֹמָם וָלַיְלָה אֵת חַלְלֵי בַת עַמִּי&quot;</p><p> קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot; --  הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>חלאס די להתחכם יותר מדי עם כל פלפולי הגמרא המטופשים האלה די להיות צַדִּיק הַרְבֵּה עם מצוות השוא וההלכות שהרבנים בדו מלבם</p><p>תהיה איש פשוט ותמים ונא השכל כי כל התורה זה להיות הָאָדָם יָשָׁר</p><p>קהלת ז29: &quot;לְבַד רְאֵה זֶה מָצָאתִי אֲשֶׁר עָשָׂה הָאֱלֹהִים אֶת הָאָדָם יָשָׁר וְהֵמָּה בִקְשׁוּ חִשְּׁבֹנוֹת רַבִּים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-13 14:44:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-16.html',
+		'<p>ירמיהו ח23: &quot;מִי יִתֵּן רֹאשִׁי מַיִם וְעֵינִי מְקוֹר דִּמְעָה וְאֶבְכֶּה יוֹמָם וָלַיְלָה אֵת חַלְלֵי בַת עַמִּי&quot;</p><p>איכה א16: &quot; \'עַל אֵלֶּה אֲנִי בוֹכִיָּה עֵינִי עֵינִי יֹרְדָה מַּיִם כִּי רָחַק מִמֶּנִּי מְנַחֵם מֵשִׁיב נַפְשִׁי הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב.&quot;</p><p>קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot; -- הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>בני ישראל צדיקים הרבה על כן הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>חלאס די להתחכם יותר מדי עם כל פלפולי הגמרא המטופשים האלה די להיות צַדִּיק הַרְבֵּה עם מצוות השוא וההלכות שהרבנים בדו מלבם</p><p>תהיה איש פשוט ותמים ונא השכל כי כל התורה זה להיות הָאָדָם יָשָׁר</p><p>קהלת ז29: &quot;לְבַד רְאֵה זֶה מָצָאתִי אֲשֶׁר עָשָׂה הָאֱלֹהִים אֶת הָאָדָם יָשָׁר וְהֵמָּה בִקְשׁוּ חִשְּׁבֹנוֹת רַבִּים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-13 14:54:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-13 14:54:31' 
+			WHERE messageid=12919;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-11.html',
+		'<p>פרוש הפסוק</p><p>יש אוכל אבל אני זוללה ולא שבעה [כעת לא בעבר]</p><p>יש אוכל אבל אתה בורח למקרר לנסות להשיב את נפשך</p><p>והעשירים בורחים למסעדות גורמה היקרות לנסות להשיב את נפשם</p><p>חגי א6: &quot;זְרַעְתֶּם הַרְבֵּה וְהָבֵא מְעָט***אָכוֹל וְאֵין לְשָׂבְעָה*** שָׁתוֹ וְאֵין לְשָׁכְרָה לָבוֹשׁ וְאֵין לְחֹם לוֹ וְהַמִּשְׂתַּכֵּר מִשְׂתַּכֵּר אֶל צְרוֹר נָקוּב&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-13 15:16:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/ei-01-16.html',
+		'<p>ירמיהו ח23: &quot;מִי יִתֵּן רֹאשִׁי מַיִם וְעֵינִי מְקוֹר דִּמְעָה וְאֶבְכֶּה יוֹמָם וָלַיְלָה אֵת חַלְלֵי בַת עַמִּי&quot;</p><p>איכה א16: &quot; \'עַל אֵלֶּה אֲנִי בוֹכִיָּה עֵינִי עֵינִי יֹרְדָה מַּיִם כִּי רָחַק מִמֶּנִּי מְנַחֵם מֵשִׁיב נַפְשִׁי הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב.&quot;</p><p>קהלת ז16: &quot;אַל תְּהִי צַדִּיק הַרְבֵּה וְאַל תִּתְחַכַּם יוֹתֵר לָמָּה תִּשּׁוֹמֵם&quot; -- הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>בני ישראל צדיקים הרבה על כן הָיוּ בָנַי שׁוֹמֵמִים כִּי גָבַר אוֹיֵב</p><p>חלאס די להתחכם יותר מדי עם פלפולי הגמרא המטופשים האלה די להיות צַדִּיק הַרְבֵּה עם מצוות השוא וההלכות שהרבנים בדו מלבם</p><p>תהיה איש פשוט ותמים ונא השכל כי כל התורה זה להיות הָאָדָם יָשָׁר</p><p>קהלת ז29: &quot;לְבַד רְאֵה זֶה מָצָאתִי אֲשֶׁר עָשָׂה הָאֱלֹהִים אֶת הָאָדָם יָשָׁר וְהֵמָּה בִקְשׁוּ חִשְּׁבֹנוֹת רַבִּים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-13 15:38:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-13 15:38:43' 
+			WHERE messageid=12920;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>בספר מיכה א12כתוב: </p><p>&quot;כִּי חָלָה לְטוֹב יוֹשֶׁבֶת מָרוֹת כִּי יָרַד רָע מֵאֵת יהוה לְשַׁעַר יְרוּשָׁלָים&quot;</p><p>והאימרה “אין רע יורד מלמעלה” מיוחסת לרבי מנחם מנדל מקוצק</p><p>מספיק עם הבולשיט שלכם רבני חזל אינכם מבינים את התורה</p><p>פרשנות רבני חזל ההיפך מהנביא ואינה תואמת את ספרי הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-13 16:48:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p> ספר דברי הימים ב פרק כד כתוב:</p><p>כ וְרוּחַ אֱלֹהִים לָבְשָׁה אֶת-זְכַרְיָה בֶּן-יְהוֹיָדָע הַכֹּהֵן וַיַּעֲמֹד מֵעַל לָעָם וַיֹּאמֶר לָהֶם כֹּה אָמַר הָאֱלֹהִים לָמָה אַתֶּם עֹבְרִים אֶת-מִצְו‍ֹת יְהוָה וְלֹא תַצְלִיחוּ כִּי-עֲזַבְתֶּם אֶת-יְהוָה וַיַּעֲזֹב אֶתְכֶם.  </p><p>כא וַיִּקְשְׁרוּ עָלָיו וַיִּרְגְּמֻהוּ אֶבֶן בְּמִצְוַת הַמֶּלֶךְ בַּחֲצַר בֵּית יְהוָה.  </p><p>כב וְלֹא-זָכַר יוֹאָשׁ הַמֶּלֶךְ הַחֶסֶד אֲשֶׁר עָשָׂה יְהוֹיָדָע אָבִיו עִמּוֹ וַיַּהֲרֹג אֶת-בְּנוֹ וּכְמוֹתוֹ אָמַר יֵרֶא יְהוָה וְיִדְרֹשׁ.</p><p>דברים לב43: &quot;הַרְנִינוּ גוֹיִם עַמּוֹ כִּי דַם עֲבָדָיו יִקּוֹם וְנָקָם יָשִׁיב לְצָרָיו וְכִפֶּר אַדְמָתוֹ עַמּוֹ&quot;</p><p> כִּי דַם עֲבָדָיו יִקּוֹם --- לאמור כי שליחי מצוה כן ניזוקים אבל אלהים יקום נקמתם</p><p>הביטוי “שליח מצווה אינם ניזוקים” מופיע בתלמוד הבבלי, מסכת פסחים דף ח עמוד ב. הוא מיוחס לרבי אלעזר, שאמר כי שליחים המבצעים מצווה אינם ניזוקים במהלך ביצוע המצווה </p><p>******* די עם השטויות שלכם רבני חזל הנה הוכחתי לכם כי אינכם מבינים את התורה כי אינכם בקודש*******</p><p>-</p><p>ומדוע קורה ששליחי-מצוה כן ניזוקים כדי לראות בעתיד מי מוכן להקריב את נפשו למען מצוות אלהים בידיעה כי הוא עלול למות ולזאת תחשב גבורה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-14 08:40:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>ספר דברי הימים ב פרק כד כתוב:</p><p>כ וְרוּחַ אֱלֹהִים לָבְשָׁה אֶת-זְכַרְיָה בֶּן-יְהוֹיָדָע הַכֹּהֵן וַיַּעֲמֹד מֵעַל לָעָם וַיֹּאמֶר לָהֶם כֹּה אָמַר הָאֱלֹהִים לָמָה אַתֶּם עֹבְרִים אֶת-מִצְו‍ֹת יְהוָה וְלֹא תַצְלִיחוּ כִּי-עֲזַבְתֶּם אֶת-יְהוָה וַיַּעֲזֹב אֶתְכֶם.</p><p>כא וַיִּקְשְׁרוּ עָלָיו וַיִּרְגְּמֻהוּ אֶבֶן בְּמִצְוַת הַמֶּלֶךְ בַּחֲצַר בֵּית יְהוָה.</p><p>כב וְלֹא-זָכַר יוֹאָשׁ הַמֶּלֶךְ הַחֶסֶד אֲשֶׁר עָשָׂה יְהוֹיָדָע אָבִיו עִמּוֹ וַיַּהֲרֹג אֶת-בְּנוֹ וּכְמוֹתוֹ אָמַר יֵרֶא יְהוָה וְיִדְרֹשׁ.</p><p>דברים לב43: &quot;הַרְנִינוּ גוֹיִם עַמּוֹ כִּי דַם עֲבָדָיו יִקּוֹם וְנָקָם יָשִׁיב לְצָרָיו וְכִפֶּר אַדְמָתוֹ עַמּוֹ&quot;</p><p>כִּי דַם עֲבָדָיו יִקּוֹם --- לאמור כי שליחי מצוה כן ניזוקים אבל אלהים יקום נקמתם</p><p>הביטוי “שליחי מצווה אינם ניזוקים” מופיע בתלמוד הבבלי, מסכת פסחים דף ח עמוד ב. הוא מיוחס לרבי אלעזר, שאמר כי שליחים המבצעים מצווה אינם ניזוקים במהלך ביצוע המצווה</p><p>******* די עם השטויות שלכם רבני חזל הנה הוכחתי לכם כי אינכם מבינים את התורה כי אינכם בקודש*******</p><p>-</p><p>ומדוע קורה ששליחי-מצוה כן ניזוקים כדי לראות בעתיד מי מוכן להקריב את נפשו למען מצוות אלהים בידיעה כי הוא עלול למות ולזאת תחשב גבורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-14 08:41:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-14 08:41:41' 
+			WHERE messageid=12924;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p></p><p>משלי כז11: &quot;חֲכַם בְּנִי וְשַׂמַּח לִבִּי וְאָשִׁיבָה חֹרְפִי דָבָר&quot;</p><p>תהלים קיט42: &quot;וְאֶעֱנֶה חֹרְפִי דָבָר כִּי בָטַחְתִּי בִּדְבָרֶךָ&quot;</p><p>וְאֶעֱנֶה חֹרְפִי דָבָר =  וְאָשִׁיבָה חֹרְפִי דָבָר</p><p>חֲכַם בְּנִי וְשַׂמַּח לִבִּי = כִּי בָטַחְתִּי בִּדְבָרֶךָ -------------- בטח בדברי אלהים והייה חכם לשמח אלהי אביך</p><p>בספר תהילים --- המשיח בן-האלהים עונה לחורפו דבר</p><p>ובספר משלי --- אלהי-אביו של הבן משיב חורפו דבר</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-19 11:28:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>https://www.facebook.com/reel/580408177169793</p><p>השכמה בבקר נוסח אמריקה [משעשע ראיתי פעמים רבות]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-20 17:08:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/16-09.html',
+		'<p> </p><p>משלי טז9: &quot;לֵב אָדָם יְחַשֵּׁב דַּרְכּוֹ ויהוה יָכִין צַעֲדוֹ&quot; = [על משקל] =  &quot;רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ וַעֲצַת יהוה הִיא תָקוּם&quot; [משלי יט21]</p><p>רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ = &quot;לֵב אָדָם יְחַשֵּׁב דַּרְכּוֹ</p><p>ויהוה יָכִין צַעֲדוֹ =  וַעֲצַת יהוה הִיא תָקוּם</p><p>-</p><p>ירמיהו י23: &quot;יָדַעְתִּי יהוה כִּי לֹא לָאָדָם דַּרְכּוֹ לֹא לְאִישׁ הֹלֵךְ וְהָכִין אֶת צַעֲדוֹ&quot; ------- כי אם יהוה לבדו יָכִין צַעֲדוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-21 13:07:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-16-04.html',
+		'<p> את הפסוק &quot;כל פעל ה\' למענהו&quot; מפרש הרמב&quot;ם: למענהו – לא למען האדם.</p><p>מקור מליבוביץ: http://www.leibowitz.co.il/ebook.asp?id=3#_ftnref1</p>',
+		'104139591522855258912',
+		'NINE',
+		'2024-08-23 14:50:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>מלאכי ג10: &quot;הָבִיאוּ אֶת כָּל הַמַּעֲשֵׂר אֶל בֵּית הָאוֹצָר וִיהִי טֶרֶף בְּבֵיתִי וּבְחָנוּנִי נָא בָּזֹאת אָמַר יהוה צְבָאוֹת </p><p>אִם לֹא אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי&quot; </p><p>יחזקאל א1: &quot;וַיְהִי בִּשְׁלֹשִׁים שָׁנָה בָּרְבִיעִי בַּחֲמִשָּׁה לַחֹדֶשׁ וַאֲנִי בְתוֹךְ הַגּוֹלָה עַל נְהַר כְּבָר נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים&quot;</p><p>אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי =  נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים</p><p>---------------------------------- אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם =  נִפְתְּחוּ הַשָּׁמַיִם ----------------------------------</p><p>----------------------------------  וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי =  וָאֶרְאֶה מַרְאוֹת אֱלֹהִים --------------------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-24 17:07:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2824_1.html',
+		'<p>דברים טז21: &quot;לֹא תִטַּע לָּךְ אֲשֵׁרָה כָּל עֵץ אֵצֶל מִזְבַּח יהוה אֱלֹהֶיךָ אֲשֶׁר תַּעֲשֶׂה לָּךְ&quot;</p><p>יהושע כד26: &quot;וַיִּכְתֹּב יְהוֹשֻׁעַ אֶת הַדְּבָרִים הָאֵלֶּה בְּסֵפֶר תּוֹרַת אֱלֹהִים וַיִּקַּח אֶבֶן גְּדוֹלָה וַיְקִימֶהָ שָּׁם תַּחַת הָאַלָּה אֲשֶׁר בְּמִקְדַּשׁ יהוה\'&quot;</p><p>הפסוקים נראים סותרים</p><p>פרוש 1: לפי פרשנות דיין מותר עֵץ הָאַלָּה אֲשֶׁר בְּמִקְדַּשׁ יהוה כל עוד הוא לא אֵצֶל מִזְבַּח יהוה אֱלֹהֶיךָ </p><p>פרוש 2: לפי פרשנות חזל אין הכוונה למשכן-יהוה בכתוב [בספר יהושע כד26] אֲשֶׁר בְּמִקְדַּשׁ יהוה</p><p>אני דיין חושב שפרשני חזל תועים ושהכתוב אֲשֶׁר בְּמִקְדַּשׁ יהוה הוא אכן משכן-יהוה</p><p>על פי הפסוק בספר שמות כה8: &quot;וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם&quot; לאמור משכן = מִקְדָּשׁ</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-26 18:50:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2824_1.html',
+		'<p>דברים טז21: &quot;לֹא תִטַּע לָּךְ אֲשֵׁרָה כָּל עֵץ אֵצֶל מִזְבַּח יהוה אֱלֹהֶיךָ אֲשֶׁר תַּעֲשֶׂה לָּךְ&quot;</p><p>יהושע כד26: &quot;וַיִּכְתֹּב יְהוֹשֻׁעַ אֶת הַדְּבָרִים הָאֵלֶּה בְּסֵפֶר תּוֹרַת אֱלֹהִים וַיִּקַּח אֶבֶן גְּדוֹלָה וַיְקִימֶהָ שָּׁם תַּחַת הָאַלָּה אֲשֶׁר בְּמִקְדַּשׁ יהוה\'&quot;</p><p>הפסוקים נראים סותרים</p><p>פרוש 1: לפי פרשנות דיין מותר עֵץ הָאַלָּה אֲשֶׁר בְּמִקְדַּשׁ יהוה כל עוד הוא לא אֵצֶל מִזְבַּח יהוה אֱלֹהֶיךָ</p><p>פרוש 2: לפי פרשנות חזל אין הכוונה למשכן-יהוה בכתוב [בספר יהושע כד26] אֲשֶׁר בְּמִקְדַּשׁ יהוה</p><p>אני דיין חושב שפרשני חזל תועים ושהכתוב אֲשֶׁר בְּמִקְדַּשׁ יהוה הוא אכן משכן-יהוה</p><p>על פי הפסוקים בספר שמות כה8: &quot;וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם&quot; לאמור משכן = מִקְדָּשׁ</p><p>ובספר במדבר י21: &quot;וְנָסְעוּ הַקְּהָתִים נֹשְׂאֵי ***הַמִּקְדָּשׁ*** וְהֵקִימוּ אֶת ***הַמִּשְׁכָּן*** עַד בֹּאָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-26 18:56:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-08-26 18:56:18' 
+			WHERE messageid=12931;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p> </p><p> </p><p>https://www.youtube.com/watch?v=KbmOV_wl0-0&amp;t=212s</p><p>מקדיש שיר זה לכל שבורי הלב ..................................................</p><p>תהלים נא19: &quot;זִבְחֵי אֱלֹהִים רוּחַ נִשְׁבָּרָה לֵב נִשְׁבָּר וְנִדְכֶּה אֱלֹהִים לֹא תִבְזֶה&quot;</p><p> </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-30 14:34:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2701_0.html',
+		'<p>מבחן הצדיק על פי מצב עצמות השיניים</p><p> </p><p>תהלים לד20-21: &quot;רַבּוֹת רָעוֹת צַדִּיק וּמִכֻּלָּם יַצִּילֶנּוּ יהוה שֹׁמֵר כָּל עַצְמוֹתָיו אַחַת מֵהֵנָּה לֹא נִשְׁבָּרָה&quot;.......</p><p>תהלים ג8: &quot;קוּמָה יהוה הוֹשִׁיעֵנִי אֱלֹהַי כִּי הִכִּיתָ אֶת כָּל אֹיְבַי לֶחִי שִׁנֵּי רְשָׁעִים שִׁבַּרְתָּ&quot;..........................</p><p> צַדִּיק? עַצְמוֹתָיו אַחַת מֵהֵנָּה לֹא נִשְׁבָּרָה ------- לֶחִי שִׁנֵּי רְשָׁעִים שִׁבַּרְתָּ</p><p>תוצאות המבחן בסוף החיים</p><p>דברים לד7: &quot;וּמֹשֶׁה בֶּן מֵאָה וְעֶשְׂרִים שָׁנָה בְּמֹתוֹ לֹא כָהֲתָה עֵינוֹ וְלֹא נָס לֵחֹה&quot; --- כי לֶחִי שִׁנֵּי צַדִּיק לא שִׁבַּרְתָּ</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-08-31 17:09:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:18:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p><p>הוא הזמן בו חוזרים מבית הכנסת בבוקר של יום שבת סעודה שנייה</p><p>רק לא לשתות היין בתחילת הבוקר עת קמים מהמיטה בשחר השכם</p><p>ישעיהו ה11: &quot;הוֹי מַשְׁכִּימֵי בַבֹּקֶר שֵׁכָר יִרְדֹּפוּ מְאַחֲרֵי בַנֶּשֶׁף יַיִן יַדְלִיקֵם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:21:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:21:46' 
+			WHERE messageid=12935;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים צב3: &quot;לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת&quot;</p><p>לכן כדי שתהיה אמונה בלילה לא לשתות יין כי אם בַּבֹּקֶר בתחילת הצהרים</p><p>אם מחלקים את זמני היום לבוקר בין 06-10 וצהרים בין 10:14 וערב בין 14-18</p><p>אז המועד הנכון לשתיית היין הוא ביום שבת בתחילת הצהרים בשעה 10 בבוקר</p><p>הוא הזמן בו חוזרים מבית הכנסת בבוקר של יום שבת סעודה שנייה</p><p>כי בסעודה הראשונה ביום ששי בליל שבת אוכלים בשר באמונה בלילה ללא יין</p><p>אך בסעודה שנייה של שבת בבוקר היא ארוחה חלבית + יין</p><p>שיר השירים ה1: </p><p>&quot;בָּאתִי לְגַנִּי אֲחֹתִי כַלָּה אָרִיתִי מוֹרִי עִם בְּשָׂמִי אָכַלְתִּי יַעְרִי עִם דִּבְשִׁי </p><p>שָׁתִיתִי יֵינִי עִם חֲלָבִי....... אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דּוֹדִים&quot;</p><p>רק לא לשתות היין בתחילת הבוקר עת קמים מהמיטה בשחר השכם</p><p>ישעיהו ה11: &quot;הוֹי מַשְׁכִּימֵי בַבֹּקֶר שֵׁכָר יִרְדֹּפוּ מְאַחֲרֵי בַנֶּשֶׁף יַיִן יַדְלִיקֵם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:27:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:27:45' 
+			WHERE messageid=12874;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:28:03' 
+			WHERE messageid=12936;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>עֶרְכְּךָ לְפִי זַרְעוֹ = לאמור יותר חשוב לי שהיין יהיה מזרע משובח מזן מובחר בחשיבות יתרה על פני מקום גידול היין למרות שגם בית הגידול חשוב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:37:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>ויקרא כז16: &quot;וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ ליהוה וְהָיָה עֶרְכְּךָ לְפִי זַרְעוֹ זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף&quot;</p><p>עֶרְכְּךָ לְפִי זַרְעוֹ = לאמור יותר חשוב לי שהיין יהיה מזרע משובח מזן מובחר בחשיבות יתרה על פני מקום גידול היין למרות שגם בית הגידול חשוב</p><p>כאשר על פי התורה זרע האב קובע את דתו של הנולד בחשיבות יתרה על פני אמו של הילד למרות שבהלכה של הרבנים זה הפוך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 10:47:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-01 10:47:57' 
+			WHERE messageid=12938;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>הודעה לצדיק בשיר זה</p><p>אני אהיה שם בשבילך שוב</p><p>אני אחכה, מחכה עד הסוף</p><p>https://www.youtube.com/watch?v=XPCCg0Wscw8&amp;list=LL&amp;index=56</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-01 17:36:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p><p>משלי יח22: &quot;מָצָא אִשָּׁה מָצָא טוֹב וַיָּפֶק רָצוֹן מיהוה\'&quot;</p><p>משלי ח35: &quot;כִּי מצאי[מָצָא] מֹצְאִי חַיִּים וַיָּפֶק רָצוֹן מיהוה\'&quot; </p><p>VOCAL TRANCE: Nikolauss &amp; Elara - Found A Way To You</p><p>https://www.youtube.com/watch?v=ovzD3h8XpdE&amp;list=RDovzD3h8XpdE&amp;start_radio=1</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-02 13:46:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/jlom_erel.html',
+		'<p>אם אתם רוצים ללמד את הערבים שבע מצוות בני נח - יש בידי חוברות בשפה הערבית על שבע מצוות בני נח שכתב הרב יואל שוורץ זצ&quot;ל</p><p>ואשמח להביא למי שרוצה ללמד ניתן לפנות אלי במייל - yudataub@gmail.com</p><p></p>',
+		'109877959675478301091',
+		'יהודה טאוב - ספרי חיבת הארץ',
+		'2024-09-04 00:33:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/jlom_erel.html',
+		'<p>הפתרון של ר\' יואל שוורץ זצ&quot;ל לבעיה הפלסטינית:</p><p>מעגלי ההשפעה התורנית של ר\' יואל התרחבו הלאה, מעבר לגבולות העם היהודי. הרב ראה צורך ללמד את העולם כולו את האמונה באלוקים ויחודו של עם ישראל. שהיו שואלים אותו מה המקור לכך? היה אומר התפללת היום שחרית? ומה אמרת? &quot;הוֹדוּ לַה\' קִרְאוּ בִשְׁמוֹ הוֹדִיעוּ בָעַמִּים עֲלִילוֹתָיו&quot;.</p><p>הוא לא הסתפק בללמד את הגויים שיש שבע מצוות, אלא חיפש לחבר אותם לבורא עולם במשך היום כולו ובמעגל השנה. לשם כך הוא חיבר סידור תפילה לבני נח ואף ספר יסודי שמברר בעבורם את תפקיד אומות העולם במהלך האלוקי הכללי של העולם ואת פרטי הדינים שהם חייבים בהם. </p><p>הספר, שנקרא \'אור לעמים\', הגיע לידיו של וונדל ג\'ונס - כומר בפטיסטי מארצות הברית, תאולוג וארכאולוג, שהחל להתוודע ליהדות בשנות התשעים של המאה שעברה, ועבר מהפך רוחני שתוצאתו הקמת אגודת \'כרם בני נח\'. </p><p>הספר העניק לג\'ונס, שגישש את דרכו כבן נח, מענה ראשוני בתקופה שבה הסוגיה הייתה עדיין תיאורטית לחלוטין. הוא הגיע לרב הביתה, דפק לו על הדלת והתחיל לשוחח איתו, לאחר מכן הם המשיכו בקשר של התכתבות. הרב נתן לבני נח כלים ליצור הווי דתי, קשר עם בורא עולם.</p><p>הספר \'אור לעמים\' תורגם ל־12 שפות, והגיע לגויים במדינות שונות ברחבי העולם. אל ביתו של הרב במאה שערים הגיעו במשך 13 שנה סטודנטים נוצרים גרמנים והתעמתו איתו בכל השאלות התאולוגיות שהטרידו אותם, ויצאו ממנו כשידם על התחתונה.  </p><p>פעם ישבת הרב על ספסל בתחנה ציבורית ולידו התיישב ערבי זקן. לפתע פנה אליו הערבי וביקש שיסביר לו משנה קשה. הרב שאל אותו לשם מה הוא צריך לדעת משניות? והוא התחיל לספר שלמד באוניברסיטה העברית לפני מלחמת השחרור והחליט לתרגם את המשניות לערבית. </p><p>הרב הציע לו במקום ללמד את הערבים משניות יש לו רעיון טוב בשבילו, יש לו ספר שמלמד מה הגויים חייבים על פי היהדות, הוא מסכים לשלם לו כדי שיתרגם את הספר לערבית, הערבי הסכים ותרגם את הספר. </p><p>הספר בערבית הצליח, קנו אותו פועלים שעבדו אצלם ערבים, וכן בית הספר ערבי החליט לחלק את הספר לתלמידים כמזכרת סיום שנות הלימודים. </p><p>הרב אהב תמיד לספר את הסיפור הבא: &quot;האדם שמפיץ את הספרים בין הערבים אמר לי שפנו אליו הורים של שני נערים ערבים, ואמרו לו שהספר הציל את בניהם מלהיות מחבלים מתאבדים, כיוון שהם הבינו שאפשר להגיע לאלוקים גם מבלי להתאבד&quot;. </p><p>הרב פנה לאמ&quot;ן וביקש שינסו את הנשק החדש-ישן הזה כדי להילחם בפיגועי ההתאבדות, אך בצה&quot;ל לא היו מוכנים כלל לשמוע מהעניין. </p><p>&quot;מהסיפור על הנערים הערבים אפשר ללמוד שהבאת השלום בעולם תלויה רק בנו. תפקידנו הוא להפיץ את האמונה בעולם, וזה מה שיביא את השלום&quot;.</p><p>שיטה זו של ר\' יואל שעלינו לעשות מעשים בשביל שתתקיים התפילה &quot;וְיִדְרְשׁוּךָ עַמִּים לֹא יְדָעוּךָ. וִיהַלְלוּךָ כָּל אַפְסֵי אָרֶץ. וְיֹאמְרוּ תָמִיד יִגְדַּל ה\'&quot;, נבעה כולה מתורתו של הגר&quot;א האומרת: שכל נבואות הגאולה לא יהיו לבד ללא שום מעשה מצדנו רק על ידי משיח, אלא עלינו לפעול ולעשות, רק אז נזכה והקב&quot;ה יסייע ויגמור בעדנו.</p><p>תורת הגאולה של הגר&quot;א היא זו שגרמה לתלמידיו לעלות במסירות נפש לארץ ישראל לגאול את חורבת ר\' יהודה החסיד ולבנות את ירושלים, עד למצב בו אנו ב&quot;ה כיום.  </p><p>ניתן להשיג את ספרי ר\' יואל שוורץ בגירסת PDF במייל 8436092@gmail.com</p><p></p>',
+		'109877959675478301091',
+		'יהודה טאוב - ספרי חיבת הארץ',
+		'2024-09-04 00:34:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/jlom_erel.html',
+		'<p>דברים כ10: &quot;כִּי תִקְרַב אֶל עִיר לְהִלָּחֵם עָלֶיהָ וְקָרָאתָ אֵלֶיהָ לְשָׁלוֹם&quot; </p><p>דברים כ15: &quot;כֵּן תַּעֲשֶׂה לְכָל הֶעָרִים הָרְחֹקֹת מִמְּךָ מְאֹד אֲשֶׁר לֹא מֵעָרֵי הַגּוֹיִם הָאֵלֶּה הֵנָּה&quot;</p><p>דברים כ16: &quot;רַק מֵעָרֵי הָעַמִּים הָאֵלֶּה אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ נַחֲלָה לֹא תְחַיֶּה כָּל נְשָׁמָה&quot;</p><p>הקריאה לשלום רק לעמים בחו&quot;ל ובאשר לעמים הגוים שבארץ ישראל לא תחנם</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-04 06:28:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-98.html',
+		'<p>מקסים תודה</p>',
+		'116551892144888688546',
+		'דנה אלקיים',
+		'2024-09-04 08:25:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-98.html',
+		'<p>ציטוט: &quot;אויביו של דוד היו רבנים גדולים וחשובים, עם מעמד גבוה בעולם התורה. אולם דוד למד את מצוותך , הוא למד בתמימות רק על-מנת לעשות ולקיים מצוות. ולכן רק הוא זכה לכוון לפירוש הנכון.&quot; [סוף ציטוט]</p><p>המשפט הזה נכון גם להיום !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-04 14:21:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כמה אקרא לך לדבר אליך ואתה אינך מקשיב</p><p>הנה אדבר אליך דרך המוזיקה שמע זאת גם מבלי להתייחס למילים באנגלית אך הקשב למוזיקה אולי תבין</p><p>https://www.youtube.com/watch?v=jjBgYgspjI0</p><p>מיכה ה14: &quot;וְעָשִׂיתִי בְּאַף וּבְחֵמָה נָקָם אֶת הַגּוֹיִם אֲשֶׁר לֹא שָׁמֵעוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-04 14:56:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כמה אקרא לך לדבר אליך ואתה אינך מקשיב</p><p>הנה אדבר אליך דרך המוזיקה שמע זאת גם מבלי להתייחס למילים באנגלית אך הקשב למוזיקה אולי תבין</p><p>https://www.youtube.com/watch?v=jjBgYgspjI0</p><p>https://www.youtube.com/watch?v=bBVBNcYsKdg</p><p>מיכה ה14: &quot;וְעָשִׂיתִי בְּאַף וּבְחֵמָה נָקָם אֶת הַגּוֹיִם אֲשֶׁר לֹא שָׁמֵעוּ&quot;</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-04 16:26:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-04 16:26:50' 
+			WHERE messageid=12947;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>שימו לב מה בתורה בספר דברים פרק יז כתוב:</p><p>ח כִּי יִפָּלֵא מִמְּךָ דָבָר לַמִּשְׁפָּט בֵּין-דָּם לְדָם בֵּין-דִּין לְדִין וּבֵין נֶגַע לָנֶגַע דִּבְרֵי רִיבֹת בִּשְׁעָרֶיךָ  וְקַמְתָּ וְעָלִיתָ אֶל-הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ.  </p><p>ט וּבָאתָ אֶל-הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם וְדָרַשְׁתָּ וְהִגִּידוּ לְךָ אֵת דְּבַר הַמִּשְׁפָּט.  </p><p>י וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ מִן-הַמָּקוֹם הַהוּא אֲשֶׁר יִבְחַר יְהוָה וְשָׁמַרְתָּ לַעֲשׂוֹת כְּכֹל אֲשֶׁר יוֹרוּךָ.  </p><p>יא עַל-פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל-הַמִּשְׁפָּט אֲשֶׁר-יֹאמְרוּ לְךָ תַּעֲשֶׂה  לֹא תָסוּר מִן-הַדָּבָר אֲשֶׁר-יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל.  </p><p>יב וְהָאִישׁ אֲשֶׁר-יַעֲשֶׂה בְזָדוֹן לְבִלְתִּי שְׁמֹעַ אֶל-הַכֹּהֵן הָעֹמֵד לְשָׁרֶת שָׁם אֶת-יְהוָה אֱלֹהֶיךָ אוֹ אֶל-הַשֹּׁפֵט וּמֵת הָאִישׁ הַהוּא וּבִעַרְתָּ הָרָע מִיִּשְׂרָאֵל.  </p><p>יג וְכָל-הָעָם יִשְׁמְעוּ וְיִרָאוּ וְלֹא יְזִידוּן עוֹד.</p><p>אז שימו לב</p><p>וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ הַכֹּהֵן הָעֹמֵד לְשָׁרֶת שָׁם אֶת-יְהוָה אֱלֹהֶיךָ אוֹ אֶל-הַשֹּׁפֵט --- לא הרבנים שקוראים לעצמם חכמי ישראל</p><p>וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם  --- לא הרבנים שקוראים לעצמם חכמי ישראל</p><p>סמכות רבני חזל זה בלוף הרבנים מעניקים לעצמם סמכות בכזב לאמור &quot;וְשָׁמַרְתָּ לַעֲשׂוֹת כְּכֹל אֲשֶׁר יוֹרוּךָ&quot;</p><p> אבל הרבנים לא מספרים לך את המשך הפסוק שמדובר על הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט ---  כי רק הם באמת אֲשֶׁר יוֹרוּךָ</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-05 07:12:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>שימו לב בפרשת שופטים מה בתורה בספר דברים פרק יז כתוב:</p><p>ח כִּי יִפָּלֵא מִמְּךָ דָבָר לַמִּשְׁפָּט בֵּין-דָּם לְדָם בֵּין-דִּין לְדִין וּבֵין נֶגַע לָנֶגַע דִּבְרֵי רִיבֹת בִּשְׁעָרֶיךָ וְקַמְתָּ וְעָלִיתָ אֶל-הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ.</p><p>ט וּבָאתָ אֶל-הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם וְדָרַשְׁתָּ וְהִגִּידוּ לְךָ אֵת דְּבַר הַמִּשְׁפָּט.</p><p>י וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ מִן-הַמָּקוֹם הַהוּא אֲשֶׁר יִבְחַר יְהוָה וְשָׁמַרְתָּ לַעֲשׂוֹת כְּכֹל אֲשֶׁר יוֹרוּךָ.</p><p>יא עַל-פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל-הַמִּשְׁפָּט אֲשֶׁר-יֹאמְרוּ לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן-הַדָּבָר אֲשֶׁר-יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל.</p><p>יב וְהָאִישׁ אֲשֶׁר-יַעֲשֶׂה בְזָדוֹן לְבִלְתִּי שְׁמֹעַ אֶל-הַכֹּהֵן הָעֹמֵד לְשָׁרֶת שָׁם אֶת-יְהוָה אֱלֹהֶיךָ אוֹ אֶל-הַשֹּׁפֵט וּמֵת הָאִישׁ הַהוּא וּבִעַרְתָּ הָרָע מִיִּשְׂרָאֵל.</p><p>יג וְכָל-הָעָם יִשְׁמְעוּ וְיִרָאוּ וְלֹא יְזִידוּן עוֹד.</p><p>אז שימו לב</p><p>וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ הַכֹּהֵן הָעֹמֵד לְשָׁרֶת שָׁם אֶת-יְהוָה אֱלֹהֶיךָ אוֹ אֶל-הַשֹּׁפֵט --- לא הרבנים שקוראים לעצמם חכמי ישראל</p><p>וְעָשִׂיתָ עַל-פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם --- לא הרבנים שקוראים לעצמם חכמי ישראל</p><p>סמכות רבני חזל זה בלוף הרבנים מעניקים לעצמם סמכות בכזב לאמור &quot;וְשָׁמַרְתָּ לַעֲשׂוֹת כְּכֹל אֲשֶׁר יוֹרוּךָ&quot;</p><p>אבל הרבנים לא מספרים לך את המשך הפסוק שמדובר על הַכֹּהֲנִים הַלְוִיִּם וְאֶל-הַשֹּׁפֵט --- כי רק הם באמת אֲשֶׁר יוֹרוּךָ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-05 07:18:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-05 07:18:56' 
+			WHERE messageid=12949;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>סליחה את דיילת תגידי בבקשה</p><p>מה ההבדל בין דיילת אויר לדיילת קרקע</p><p>הדיילת: אוהו זה הבדל שמים וארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 08:02:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 08:49:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 08:49:09' 
+			WHERE messageid=12952;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 10:46:49' 
+			WHERE messageid=11149;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 10:46:57' 
+			WHERE messageid=11156;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>ההבדלים לשם המחשה בלבד</p><p>כשאתה שומע בקול אלהים שירת החיים נשמעת לך כמערכת סטריאו</p><p>וכשאתה לא שומע בקול אלהים שירת החיים נשמעת לך כטרנזיסטור</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 12:14:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-06 12:15:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-06 12:16:46' 
+			WHERE messageid=12954;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>שבוע טוב</p><p>הדרך לגאולה מתחילה בברית עשרת הדברים</p><p>שמות לד כתוב:</p><p>א וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה פְּסָל-לְךָ שְׁנֵי-לֻחֹת אֲבָנִים כָּרִאשֹׁנִים וְכָתַבְתִּי עַל-הַלֻּחֹת אֶת-הַדְּבָרִים אֲשֶׁר הָיוּ עַל-הַלֻּחֹת הָרִאשֹׁנִים אֲשֶׁר שִׁבַּרְתָּ.  ב וֶהְיֵה נָכוֹן לַבֹּקֶר וְעָלִיתָ בַבֹּקֶר אֶל-הַר סִינַי וְנִצַּבְתָּ לִי שָׁם עַל-רֹאשׁ הָהָר.  ג וְאִישׁ לֹא-יַעֲלֶה עִמָּךְ וְגַם-אִישׁ אַל-יֵרָא בְּכָל-הָהָר גַּם-הַצֹּאן וְהַבָּקָר אַל-יִרְעוּ אֶל-מוּל הָהָר הַהוּא.  ד וַיִּפְסֹל שְׁנֵי-לֻחֹת אֲבָנִים כָּרִאשֹׁנִים וַיַּשְׁכֵּם מֹשֶׁה בַבֹּקֶר וַיַּעַל אֶל-הַר סִינַי כַּאֲשֶׁר צִוָּה יְהוָה אֹתוֹ וַיִּקַּח בְּיָדוֹ שְׁנֵי לֻחֹת אֲבָנִים.  ה וַיֵּרֶד יְהוָה בֶּעָנָן וַיִּתְיַצֵּב עִמּוֹ שָׁם וַיִּקְרָא בְשֵׁם יְהוָה.  ו וַיַּעֲבֹר יְהוָה עַל-פָּנָיו וַיִּקְרָא יְהוָה יְהוָה אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב-חֶסֶד וֶאֱמֶת.  ז נֹצֵר חֶסֶד לָאֲלָפִים נֹשֵׂא עָו‍ֹן וָפֶשַׁע וְחַטָּאָה וְנַקֵּה לֹא יְנַקֶּה פֹּקֵד עֲו‍ֹן אָבוֹת עַל-בָּנִים וְעַל-בְּנֵי בָנִים עַל-שִׁלֵּשִׁים וְעַל-רִבֵּעִים.  ח וַיְמַהֵר מֹשֶׁה וַיִּקֹּד אַרְצָה וַיִּשְׁתָּחוּ.  ט וַיֹּאמֶר אִם-נָא מָצָאתִי חֵן בְּעֵינֶיךָ אֲדֹנָי יֵלֶךְ-נָא אֲדֹנָי בְּקִרְבֵּנוּ  כִּי עַם-קְשֵׁה-עֹרֶף הוּא וְסָלַחְתָּ לַעֲו‍ֹנֵנוּ וּלְחַטָּאתֵנוּ וּנְחַלְתָּנוּ.  י וַיֹּאמֶר הִנֵּה אָנֹכִי כֹּרֵת בְּרִית נֶגֶד כָּל-עַמְּךָ אֶעֱשֶׂה נִפְלָאֹת אֲשֶׁר לֹא-נִבְרְאוּ בְכָל-הָאָרֶץ וּבְכָל-הַגּוֹיִם וְרָאָה כָל-הָעָם אֲשֶׁר-אַתָּה בְקִרְבּוֹ אֶת-מַעֲשֵׂה יְהוָה כִּי-נוֹרָא הוּא אֲשֶׁר אֲנִי עֹשֶׂה עִמָּךְ.  יא שְׁמָר-לְךָ אֵת אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם הִנְנִי גֹרֵשׁ מִפָּנֶיךָ אֶת-הָאֱמֹרִי וְהַכְּנַעֲנִי וְהַחִתִּי וְהַפְּרִזִּי וְהַחִוִּי וְהַיְבוּסִי.  יב הִשָּׁמֶר לְךָ פֶּן-תִּכְרֹת בְּרִית לְיוֹשֵׁב הָאָרֶץ אֲשֶׁר אַתָּה בָּא עָלֶיהָ  פֶּן-יִהְיֶה לְמוֹקֵשׁ בְּקִרְבֶּךָ.  יג כִּי אֶת-מִזְבְּחֹתָם תִּתֹּצוּן וְאֶת-מַצֵּבֹתָם תְּשַׁבֵּרוּן וְאֶת-אֲשֵׁרָיו תִּכְרֹתוּן.  יד כִּי לֹא תִשְׁתַּחֲוֶה לְאֵל אַחֵר  כִּי יְהוָה קַנָּא שְׁמוֹ אֵל קַנָּא הוּא.  טו פֶּן-תִּכְרֹת בְּרִית לְיוֹשֵׁב הָאָרֶץ וְזָנוּ אַחֲרֵי אֱלֹהֵיהֶם וְזָבְחוּ לֵאלֹהֵיהֶם וְקָרָא לְךָ וְאָכַלְתָּ מִזִּבְחוֹ.  טז וְלָקַחְתָּ מִבְּנֹתָיו לְבָנֶיךָ וְזָנוּ בְנֹתָיו אַחֲרֵי אֱלֹהֵיהֶן וְהִזְנוּ אֶת-בָּנֶיךָ אַחֲרֵי אֱלֹהֵיהֶן.  יז אֱלֹהֵי מַסֵּכָה לֹא תַעֲשֶׂה-לָּךְ.  יח אֶת-חַג הַמַּצּוֹת תִּשְׁמֹר שִׁבְעַת יָמִים תֹּאכַל מַצּוֹת אֲשֶׁר צִוִּיתִךָ לְמוֹעֵד חֹדֶשׁ הָאָבִיב  כִּי בְּחֹדֶשׁ הָאָבִיב יָצָאתָ מִמִּצְרָיִם.  יט כָּל-פֶּטֶר רֶחֶם לִי וְכָל-מִקְנְךָ תִּזָּכָר פֶּטֶר שׁוֹר וָשֶׂה.  כ וּפֶטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה וְאִם-לֹא תִפְדֶּה וַעֲרַפְתּוֹ כֹּל בְּכוֹר בָּנֶיךָ תִּפְדֶּה וְלֹא-יֵרָאוּ פָנַי רֵיקָם.  כא שֵׁשֶׁת יָמִים תַּעֲבֹד וּבַיּוֹם הַשְּׁבִיעִי תִּשְׁבֹּת בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת.  כב וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה.  כג שָׁלֹשׁ פְּעָמִים בַּשָּׁנָה יֵרָאֶה כָּל-זְכוּרְךָ אֶת-פְּנֵי הָאָדֹן יְהוָה אֱלֹהֵי יִשְׂרָאֵל.  כד כִּי-אוֹרִישׁ גּוֹיִם מִפָּנֶיךָ וְהִרְחַבְתִּי אֶת-גְּבֻלֶךָ וְלֹא-יַחְמֹד אִישׁ אֶת-אַרְצְךָ בַּעֲלֹתְךָ לֵרָאוֹת אֶת-פְּנֵי יְהוָה אֱלֹהֶיךָ שָׁלֹשׁ פְּעָמִים בַּשָּׁנָה.  כה לֹא-תִשְׁחַט עַל-חָמֵץ דַּם-זִבְחִי וְלֹא-יָלִין לַבֹּקֶר זֶבַח חַג הַפָּסַח.  כו רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית יְהוָה אֱלֹהֶיךָ לֹא-תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ.  </p><p>כז וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה כְּתָב-לְךָ אֶת-הַדְּבָרִים הָאֵלֶּה  כִּי עַל-פִּי הַדְּבָרִים הָאֵלֶּה כָּרַתִּי אִתְּךָ בְּרִית וְאֶת-יִשְׂרָאֵל.  כח וַיְהִי-שָׁם עִם-יְהוָה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַל וּמַיִם לֹא שָׁתָה וַיִּכְתֹּב עַל-הַלֻּחֹת אֵת דִּבְרֵי הַבְּרִית עֲשֶׂרֶת הַדְּבָרִים.  כט וַיְהִי בְּרֶדֶת מֹשֶׁה מֵהַר סִינַי וּשְׁנֵי לֻחֹת הָעֵדֻת בְּיַד-מֹשֶׁה בְּרִדְתּוֹ מִן-הָהָר וּמֹשֶׁה לֹא-יָדַע כִּי קָרַן עוֹר פָּנָיו בְּדַבְּרוֹ אִתּוֹ.  ל וַיַּרְא אַהֲרֹן וְכָל-בְּנֵי יִשְׂרָאֵל אֶת-מֹשֶׁה וְהִנֵּה קָרַן עוֹר פָּנָיו וַיִּירְאוּ מִגֶּשֶׁת אֵלָיו.  לא וַיִּקְרָא אֲלֵהֶם מֹשֶׁה וַיָּשֻׁבוּ אֵלָיו אַהֲרֹן וְכָל-הַנְּשִׂאִים בָּעֵדָה וַיְדַבֵּר מֹשֶׁה אֲלֵהֶם.  לב וְאַחֲרֵי-כֵן נִגְּשׁוּ כָּל-בְּנֵי יִשְׂרָאֵל וַיְצַוֵּם אֵת כָּל-אֲשֶׁר דִּבֶּר יְהוָה אִתּוֹ בְּהַר סִינָי.  לג וַיְכַל מֹשֶׁה מִדַּבֵּר אִתָּם וַיִּתֵּן עַל-פָּנָיו מַסְוֶה.  לד וּבְבֹא מֹשֶׁה לִפְנֵי יְהוָה לְדַבֵּר אִתּוֹ יָסִיר אֶת-הַמַּסְוֶה עַד-צֵאתוֹ וְיָצָא וְדִבֶּר אֶל-בְּנֵי יִשְׂרָאֵל אֵת אֲשֶׁר יְצֻוֶּה.  לה וְרָאוּ בְנֵי-יִשְׂרָאֵל אֶת-פְּנֵי מֹשֶׁה כִּי קָרַן עוֹר פְּנֵי מֹשֶׁה וְהֵשִׁיב מֹשֶׁה אֶת-הַמַּסְוֶה עַל-פָּנָיו עַד-בֹּאוֹ לְדַבֵּר אִתּוֹ.</p><p>אז שימו לב לפסוקים הבאים.......</p><p>שמות לד29: &quot;וַיְהִי בְּרֶדֶת מֹשֶׁה מֵהַר סִינַי וּשְׁנֵי לֻחֹת הָעֵדֻת בְּיַד מֹשֶׁה בְּרִדְתּוֹ מִן הָהָר וּמֹשֶׁה לֹא יָדַע כִּי קָרַן עוֹר פָּנָיו בְּדַבְּרוֹ אִתּוֹ&quot; </p><p>שמות לד30: &quot;וַיַּרְא אַהֲרֹן וְכָל בְּנֵי יִשְׂרָאֵל אֶת מֹשֶׁה וְהִנֵּה קָרַן עוֹר פָּנָיו וַיִּירְאוּ מִגֶּשֶׁת אֵלָיו&quot;</p><p>שמות לד35: &quot;וְרָאוּ בְנֵי יִשְׂרָאֵל אֶת פְּנֵי מֹשֶׁה כִּי קָרַן עוֹר פְּנֵי מֹשֶׁה וְהֵשִׁיב מֹשֶׁה אֶת הַמַּסְוֶה עַל פָּנָיו עַד בֹּאוֹ לְדַבֵּר אִתּוֹ&quot;</p><p>עתה אם נלך בדרך תורת משה להקים את ברית עשרת הדברים אשר ציוה יהוה את משה וקרן עלינו אור אלהים</p><p>ישעיהו ס3: &quot;וְהָלְכוּ גוֹיִם לְאוֹרֵךְ וּמְלָכִים לְנֹגַהּ זַרְחֵךְ&quot;</p><p>מיכה ד2: &quot;וְהָלְכוּ גּוֹיִם רַבִּים וְאָמְרוּ לְכוּ וְנַעֲלֶה אֶל הַר יהוה וְאֶל בֵּית אֱלֹהֵי יַעֲקֹב וְיוֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יהוה מִירוּשָׁלָים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-07 16:58:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_59.html',
+		'<p>שלום ותודה על הדברים המעניינים!</p><p>אשמח להפניה למקור בחז&quot;ל על הקשר בין חנוכה לחלומות פרעה (&quot;קשר נוסף בן חנוכה לפרשה - מתבטא לפי חז&quot;ל בחלומותיו של פרעה&quot; - היכן בחז&quot;ל?).</p><p>תודה רבה,</p><p>אודיה בראון</p>',
+		'103946299662476218531',
+		'בראון',
+		'2024-09-07 19:30:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-08 02:48:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-08 02:48:13' 
+			WHERE messageid=12957;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>עשיתי מבחן באינטרנט זה מה שיצא.......</p><p>מבין כל האנשים שסביבך, אין אחד שיותר מתאים לתת עצות לאחרים ממך! אתה יכול לחשוב על עצמך כמעין מורה דרך ומדריך שעוזר לאנשים לראות את נתיב הפעולה הטוב ביותר – אותה הדרך שהם תמיד ידעו שבה עליהם ללכת, ואתה רק עזרת לכוון אותם אליה. תחשוב על דמויות כמו יודה ממלחמת הכוכבים או גנדלף משר הטבעות – אתה האדם הנבון והחכם שכולם סומכים על דעתו ויודעים שיש הרבה מה ללמוד ממנו!</p><p>https://www.baba-mail.co.il/quizzes/quiz.aspx?quizid=341</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-09 06:07:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/prs.html',
+		'<p></p>',
+		'113985013168837920174',
+		'Yitzhak Berezin',
+		'2024-09-10 19:42:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/prs.html',
+		'<p>גלות יכניה הוא המלך יהויכין אשר הגלה בשנת 3349 למניין על פי מסורת ישראל [ולא עושים חשבון לפי ההיסטוריונים הזרים]</p><p>ויש להבין בפסוק כי מדובר על קִישׁ אִישׁ יְמִינִי הוא האיש אשר הגלה בגלות יכניה בשנת 3349 לספירה במסורת ישראל</p><p>אסתר ב5: &quot;אִישׁ יְהוּדִי הָיָה בְּשׁוּשַׁן הַבִּירָה וּשְׁמוֹ מָרְדֳּכַי בֶּן יָאִיר בֶּן שִׁמְעִי בֶּן קִישׁ אִישׁ יְמִינִי&quot;</p><p>אסתר ב6: &quot;אֲשֶׁר הַגֹּלָה מִירוּשָׁלַיִם עִם הָגְלָה אֲשֶׁר הָגְלְתָה עִם יְכָנְיָה מֶלֶךְ יְהוּדָה אֲשֶׁר הֶגְלָה נבוכדנצר מֶלֶךְ בָּבֶל&quot;</p><p>-------------</p><p>מָרְדֳּכַי בֶּן יָאִיר בֶּן שִׁמְעִי בֶּן קִישׁ אִישׁ יְמִינִי = מדובר על ארבעה דורות לגלות מאז קצף אלהי ישראל</p><p>כִּי אָנֹכִי יהוה אֱלֹהֶיךָ אֵל קַנָּא פֹּקֵד עון אָבוֹת עַל בָּנִים וְעַל שִׁלֵּשִׁים וְעַל רִבֵּעִים לְשֹׂנְאָי</p><p>וכשתמו ארבעה דורות אז סלח אלהים בדור מָרְדֳּכַי</p><p>כעת נעשה חשבון שבערך כל דור בן 40 שנה</p><p>אז בעת גלות יכניה עת הגלה גם קִישׁ אִישׁ יְמִינִי בשנת 3349 למניין ספירת ישראל מהחל היצירה אשר ברא אלהים</p><p>3349+40+40+40= 3469 = נעגל לשנת 3470 זו בערך השנה של מרדכי היהודי בימי מגילת אסתר</p><p>ויש לדעת כי ראשית ימי בית שני הוא בית האלהים האחרון החל בשנת 3430 וכארבעים שנה לאחר מכן התרחשו ימי מגילת אסתר</p><p>וגם אמרתי כי מָרְדֳּכַי בֶּן יָאִיר בֶּן שִׁמְעִי בֶּן קִישׁ אִישׁ יְמִינִי = ארבעה דורות</p><p>גם ארבעה דורות למלכים</p><p>1.בֵּלְשַׁאצַּר מלך בבל האחרון למלכות בבל</p><p>2. כּוֹרֶשׁ מֶלֶךְ פָּרַס שכבש את ממלכת בבל</p><p>3.וְעַד מַלְכוּת דָּרְיָוֶשׁ מֶלֶךְ פָּרַס</p><p>4. וּבְמַלְכוּת אֲחַשְׁוֵרוֹשׁ בִּתְחִלַּת מַלְכוּתוֹ</p><p>עזרא ד5: &quot;וְסֹכְרִים עֲלֵיהֶם יוֹעֲצִים לְהָפֵר עֲצָתָם כָּל יְמֵי כּוֹרֶשׁ מֶלֶךְ פָּרַס וְעַד מַלְכוּת דָּרְיָוֶשׁ מֶלֶךְ פָּרַס&quot;</p><p>עזרא ד6: &quot;וּבְמַלְכוּת אֲחַשְׁוֵרוֹשׁ בִּתְחִלַּת מַלְכוּתוֹ כָּתְבוּ שִׂטְנָה עַל יֹשְׁבֵי יְהוּדָה וִירוּשָׁלָים&quot;</p><p>וּבְמַלְכוּת אֲחַשְׁוֵרוֹשׁ בִּתְחִלַּת מַלְכוּתוֹ = מָרְדֳּכַי בֶּן יָאִיר --הוא הדור הרביעי לגלות יכניה</p><p>בימי מַלְכוּת דָּרְיָוֶשׁ מֶלֶךְ פָּרַס = יָאִיר בֶּן שִׁמְעִי ---------- הוא הדור השלשי לגלות יכניה</p><p>ביְמֵי כּוֹרֶשׁ מֶלֶךְ פָּרַס = שִׁמְעִי בֶּן קִישׁ -------------------- הוא הדור השני לגלות יכניה</p><p>בימי מלך בבל בגלות יכניה = קִישׁ אִישׁ יְמִינִי ---------- הוא הדור הראשון לגלות יכניה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 05:56:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/zmnim.html',
+		'<p>מגילה יד ע&quot;א ברש&quot;י שם יש רשימה של 48 נביאים כולל אברהם יצחק ויעקב יהושע ודניאל</p>',
+		'113344639249912115346',
+		'YOSEF ZELCER',
+		'2024-09-11 06:14:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף ולא ניתן להאשים את כל העולם באנטישמיות</p><p>אכן מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אתכם </p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה אך כנחשים למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 08:18:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף ולא ניתן להאשים את כל העולם באנטישמיות</p><p>אכן מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה אך כנחשים למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 08:33:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 08:33:26' 
+			WHERE messageid=12962;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף ולא ניתן להאשים את כל העולם באנטישמיות</p><p>אכן מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 13:01:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 13:01:02' 
+			WHERE messageid=12963;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 13:24:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 13:24:12' 
+			WHERE messageid=12964;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם הרבנים מהורסי הארץ להחריבה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 17:28:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 17:28:46' 
+			WHERE messageid=12965;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם הרבנים מהורסי הארץ ומחריביה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 17:35:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 17:35:13' 
+			WHERE messageid=12966;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהורסי הארץ ומחריביה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 17:46:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 17:46:43' 
+			WHERE messageid=12967;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהרסי-הארץ ומחריביה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 17:53:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 17:53:52' 
+			WHERE messageid=12968;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אני דיין שם משה </p><p>אנכי הכהן המשיח </p><p>כל עולם המיסטיקה תומך בזאת</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.-</p><p>אסטרולגית עולמית בכירה כותבת: מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו</p><p>וגם מבחינת תוכנת מחשב נומרולוגית</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה, </p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p> </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם  דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 18:13:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אני דיין שם משה </p><p>אנכי הכהן המשיח </p><p>כל עולם המיסטיקה תומך בזאת</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>-</p><p>אסטרולגית עולמית בכירה כותבת: מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו</p><p>וגם מבחינת תוכנת מחשב נומרולוגית</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה, </p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p> </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם  דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 18:14:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 18:14:33' 
+			WHERE messageid=12970;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p>אני דיין שם משה </p><p>אנכי הכהן המשיח </p><p>כל עולם המיסטיקה תומך בזאת</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>------- אסטרולגית עולמית בכירה כותבת: &quot;מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו&quot;</p><p>וגם מבחינת תוכנת מחשב נומרולוגית --- זה מה שיצא</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה, </p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p> </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם  דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-11 18:31:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-11 18:32:02' 
+			WHERE messageid=12971;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-08-3031.html',
+		'<p>מרתק מחכים משעשע משמח</p>',
+		'104134290856325421479',
+		'Carmelle Havivi',
+		'2024-09-11 22:59:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>אני דיין שם משה</p><p>אנכי הכהן המשיח</p><p>כל עולם המיסטיקה תומך בזאת</p><p>מבחינת תוכנת מחשב נומרולוגית --- זה מה שיצא</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה,</p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>------- אסטרולגית עולמית בכירה בניתוח המפה האסטרולוגית של מלך המשיח כותבת:</p><p> &quot;מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 09:20:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים ב ב11: &quot;וַיְהִי הֵמָּה הֹלְכִים הָלוֹךְ וְדַבֵּר</p><p>וְהִנֵּה רֶכֶב אֵשׁ וְסוּסֵי אֵשׁ וַיַּפְרִדוּ בֵּין שְׁנֵיהֶם וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם&quot;</p><p>נחום א3: &quot;ה\' אֶרֶךְ אַפַּיִם וגדול[וּגְדָל] כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יהוה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו&quot;</p><p> וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם = בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ</p><p>https://www.youtube.com/watch?v=1j1NBVSjzPc&amp;list=RDovzD3h8XpdE&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 10:50:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09a18_5.html',
+		'<p>מלכים ב ב11: &quot;וַיְהִי הֵמָּה הֹלְכִים הָלוֹךְ וְדַבֵּר</p><p>וְהִנֵּה רֶכֶב אֵשׁ וְסוּסֵי אֵשׁ וַיַּפְרִדוּ בֵּין שְׁנֵיהֶם וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם&quot;</p><p>נחום א3: &quot;יהוה אֶרֶךְ אַפַּיִם וגדול[וּגְדָל] כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יהוה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו&quot;</p><p>וַיַּעַל אֵלִיָּהוּ בַּסְּעָרָה הַשָּׁמָיִם = בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ</p><p>https://www.youtube.com/watch?v=1j1NBVSjzPc&amp;list=RDovzD3h8XpdE&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 10:51:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-12 10:51:02' 
+			WHERE messageid=12975;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-12 14:36:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-12 14:36:59' 
+			WHERE messageid=12977;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:12:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:12:14' 
+			WHERE messageid=12978;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:12:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:12:34' 
+			WHERE messageid=12979;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_1.html',
+		'<p>יש פר בן-בקר וזה הבקר אבי-הפר</p><p>https://www.facebook.com/watch?v=1191858505377863</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:43:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-13 03:44:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-13 03:44:19' 
+			WHERE messageid=12981;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p></p><p>קהלת ד3: &quot;וְטוֹב מִשְּׁנֵיהֶם אֵת אֲשֶׁר עֲדֶן לֹא הָיָה אֲשֶׁר לֹא רָאָה אֶת הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ&quot;</p><p> פרק ג</p><p>א) ועתה שמע על אודות השמים אשר הראית, ועל כן אלה אשר מתחת כהים הם, כי ראו את כל מעשי רשע בני האדם.</p><p>ואתה אם חפצת בשמים בהירים זוהרים ומאירים אל תבט אל רשעת האדם אל חצי הכוס הריקה כי אם לחצי הכוס המלאה לצדיקים</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 03:57:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 03:57:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 03:57:57' 
+			WHERE messageid=12983;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>קהלת ד3: &quot;וְטוֹב מִשְּׁנֵיהֶם אֵת אֲשֶׁר עֲדֶן לֹא הָיָה אֲשֶׁר לֹא רָאָה אֶת הַמַּעֲשֶׂה הָרָע אֲשֶׁר נַעֲשָׂה תַּחַת הַשָּׁמֶשׁ&quot;</p><p>פרק ג</p><p>א) ועתה שמע על אודות השמים אשר הראית, ועל כן אלה אשר מתחת כהים הם, כי ראו את כל מעשי רשע בני האדם.</p><p>ואתה אם חפצת בשמים בהירים זוהרים ומאירים אל תבט אל הרעה אל מעשי רשעת האדם כי אם למעשי צדקת האדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 05:43:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 05:43:26' 
+			WHERE messageid=12982;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 05:43:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 05:43:45' 
+			WHERE messageid=12985;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהרסי-הארץ ומחריביה</p><p>על פי התורה תרומות ומעשר מהציבור מיועדות לנביאים בלבד וכן לבני אהרן הכהנים והלויים ולא לכם הרבנים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 10:20:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 10:21:00' 
+			WHERE messageid=12969;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהרסי-הארץ ומחריביה</p><p>על פי התורה תרומות ומעשר מהעם מיועדות לנביאים וכן לבני אהרן הכהנים והלויים ולא לכם הרבנים אשר אתם עם הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 10:42:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 10:42:16' 
+			WHERE messageid=12986;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>מלאכי ג10: &quot;הָבִיאוּ אֶת כָּל הַמַּעֲשֵׂר אֶל בֵּית הָאוֹצָר וִיהִי טֶרֶף בְּבֵיתִי וּבְחָנוּנִי נָא בָּזֹאת אָמַר יהוה צְבָאוֹת</p><p>אִם לֹא אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי&quot;</p><p>יחזקאל א1: &quot;וַיְהִי בִּשְׁלֹשִׁים שָׁנָה בָּרְבִיעִי בַּחֲמִשָּׁה לַחֹדֶשׁ וַאֲנִי בְתוֹךְ הַגּוֹלָה עַל נְהַר כְּבָר נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים&quot;</p><p>אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי = נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים</p><p>---------------------------------- אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם = נִפְתְּחוּ הַשָּׁמַיִם ----------------------------------</p><p>---------------------------------- וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי = וָאֶרְאֶה מַרְאוֹת אֱלֹהִים --------------------------</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>נא התאמצו להבין איזו ברכה היתה לכל נביא ובמיוחד למשה אשר ראה את מַרְאוֹת אֱלֹהִים</p><p>במדבר יב8: &quot;פֶּה אֶל פֶּה אֲדַבֶּר בּוֹ וּמַרְאֶה וְלֹא בְחִידֹת וּתְמֻנַת יהוה יַבִּיט....... וּמַדּוּעַ לֹא יְרֵאתֶם לְדַבֵּר בְּעַבְדִּי בְמֹשֶׁה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 16:19:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>מלאכי ג10: &quot;הָבִיאוּ אֶת כָּל הַמַּעֲשֵׂר אֶל בֵּית הָאוֹצָר וִיהִי טֶרֶף בְּבֵיתִי וּבְחָנוּנִי נָא בָּזֹאת אָמַר יהוה צְבָאוֹת</p><p>אִם לֹא אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי&quot;</p><p>יחזקאל א1: &quot;וַיְהִי בִּשְׁלֹשִׁים שָׁנָה בָּרְבִיעִי בַּחֲמִשָּׁה לַחֹדֶשׁ וַאֲנִי בְתוֹךְ הַגּוֹלָה עַל נְהַר כְּבָר נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים&quot;</p><p>אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי = נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים</p><p>---------------------------------- אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם = נִפְתְּחוּ הַשָּׁמַיִם ----------------------------------</p><p>---------------------------------- וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד בְּלִי דָי = וָאֶרְאֶה מַרְאוֹת אֱלֹהִים --------------------------</p><p>----------------------------------------------------------------------------------------------------------------------------</p><p>נא התאמצו להבין איזו ברכה היתה לכל נביא אשר ראה את מַרְאוֹת אֱלֹהִים ובמיוחד למשה אשר ראה תְמֻנַת יהוה</p><p>במדבר יב8: &quot;פֶּה אֶל פֶּה אֲדַבֶּר בּוֹ וּמַרְאֶה וְלֹא בְחִידֹת וּתְמֻנַת יהוה יַבִּיט....... וּמַדּוּעַ לֹא יְרֵאתֶם לְדַבֵּר בְּעַבְדִּי בְמֹשֶׁה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 16:21:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 16:21:45' 
+			WHERE messageid=12988;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-15 16:23:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-15 16:23:04' 
+			WHERE messageid=12990;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהרסי-הארץ ומחריביה</p><p>על פי התורה תרומות ומעשר מהעם מיועדות לנביאים וכן לבני אהרן הכהנים והלויים ולא לכם הרבנים אשר אתם עם הארץ</p><p>בעת התרמתכם אתם הרבנים כהני עם-הארץ חוטאים שלוש פעמים.......</p><p>1.גזלת כספי המעשר והתרומה מהנביא והכהן</p><p>2.מחללים את  קָדְשֵׁי בְּנֵי יִשְׂרָאֵל אֵת [התרומה והמעשר] אֲשֶׁר יָרִימוּ ליהוה  </p><p>3.לבני ישראל נדמה להם שהם תורמים לקודש אך אתם הרבנים משיאים את בני ישראל עוון אשמה כאשר הכסף הנתרם הולך לא לקודש</p><p>ויקרא כב15: &quot;וְלֹא יְחַלְּלוּ אֶת קָדְשֵׁי בְּנֵי יִשְׂרָאֵל אֵת אֲשֶׁר יָרִימוּ ליהוה\'&quot;</p><p>ויקרא כב16: &quot;וְהִשִּׂיאוּ אוֹתָם עון אַשְׁמָה בְּאָכְלָם אֶת קָדְשֵׁיהֶם כִּי אֲנִי יהוה מְקַדְּשָׁם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 06:07:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 06:07:21' 
+			WHERE messageid=12987;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>להקים ועדת חקירה רוחנית !!!!!!!!!!</p><p>יום יום פיגועים במשך שנות דור ולהנהגה הרוחנית של הרבנים אין מענה פתרון</p><p>חטופים בשבי נרצחים בפיגועים עקורים מהמלחמה כמעט שנה ואין פתרון באופק</p><p>כל העולם שונא את היהודים בגלל שהרבנים רודפי בצע כסף עד מתי תאשימו את כל העולם באנטישמיות</p><p>אם יש לישראל מלחמה עם כל העולם זה כי אלהי ישראל לא חפץ בדרכיכם</p><p>משלי טז7: &quot;בִּרְצוֹת יהוה דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִם אִתּוֹ&quot;</p><p>מנהיגי היהודים מאמינים בכסף וזהב והרבנים הגדולים נוהגים כנחשים ורק מתרימים אותנו</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>תהלים עג9: &quot;שַׁתּוּ בַשָּׁמַיִם פִּיהֶם [מדברים גבוהה גבוהה ולשונם כנחש למען כסף חומריות הארץ] וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ&quot;</p><p>עתה עמך בני ישראל השכילו ואל תתרמו לריק כספיכם גם אם יאמרו לכם בכזב זה לקודש</p><p>הביטו בתורה כי משה ואהרן ומרים לא התרימו את בני ישראל בטרם הוציאו אותם ממצרים</p><p>קודם משה ואהרן הוציאו את בני ישראל ממצרים ורק אחרי כן היתה התרמה למשכן</p><p>ואתם רבני ישראל הרחוקים מצדקה הלא עתה בני ישראל במצרים ואתם התרמותיכם לא למען המשכן כי אם לבצע כסף להעשיר בתיכם</p><p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;....... ואתם המתרימים תְּרוּמוֹת אתם מהרסי-הארץ ומחריביה</p><p>על פי התורה תרומות ומעשר מהעם מיועדות לנביאים וכן לבני אהרן הכהנים והלויים ולא לכם הרבנים אשר אתם עם הארץ</p><p>בעת התרמתכם אתם הרבנים כהני עם-הארץ חוטאים שלוש פעמים.......</p><p>1.אתם הרבנים גוזלים את כספי המעשר והתרומה מהנביא והכהן הלוי</p><p>2.מחללים את קָדְשֵׁי בְּנֵי יִשְׂרָאֵל אֵת [התרומה והמעשר] אֲשֶׁר יָרִימוּ ליהוה</p><p>3.לבני ישראל נדמה להם שהם תורמים לקודש אך אתם הרבנים משיאים את בני ישראל עוון אשמה כאשר הכסף הנתרם הולך לא לקודש</p><p>ויקרא כב15: &quot;וְלֹא יְחַלְּלוּ אֶת קָדְשֵׁי בְּנֵי יִשְׂרָאֵל אֵת אֲשֶׁר יָרִימוּ ליהוה\'&quot;</p><p>ויקרא כב16: &quot;וְהִשִּׂיאוּ אוֹתָם עון אַשְׁמָה בְּאָכְלָם אֶת קָדְשֵׁיהֶם כִּי אֲנִי יהוה מְקַדְּשָׁם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 07:39:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 07:39:32' 
+			WHERE messageid=12991;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 15:01:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 15:01:43' 
+			WHERE messageid=12993;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-17 17:30:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-17 17:30:47' 
+			WHERE messageid=12994;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>אילו היו לנו מנהיגים שיודעים תורה, הם היו יוצאים כבר עכשיו לכבוש את לבנון. </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-18 05:33:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 05:33:24' 
+			WHERE messageid=12995;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>כיום הולך ומתברר, שאין שום אפשרות להשיג ביטחון בגליל, פרט לכיבוש לבנון. אבל כדי לכבוש את לבנון, צריך קודם-כל להבין שלבנון היא חלק מארץ ישראל, שניתנה לנו מה\'. וכדי להבין את זה, צריך לדעת תורה. רק מנהיגים שיודעים תורה יוכלו לכבוש את לבנון ולהציל את הגליל.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-18 05:34:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 07:32:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 07:32:07' 
+			WHERE messageid=12997;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-119-98.html',
+		'<p>אשריכם</p>',
+		'114794060750916535902',
+		'יצחק כהן',
+		'2024-09-18 15:25:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 16:00:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 16:00:28' 
+			WHERE messageid=12999;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-18 16:35:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-18 16:35:29' 
+			WHERE messageid=13000;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p></p><p>מלכים ב ו18: &quot;וַיֵּרְדוּ אֵלָיו וַיִּתְפַּלֵּל אֱלִישָׁע אֶל יהוה וַיֹּאמַר הַךְ נָא אֶת הַגּוֹי הַזֶּה בַּסַּנְוֵרִים וַיַּכֵּם בַּסַּנְוֵרִים כִּדְבַר אֱלִישָׁע&quot;</p><p>בראשית יט11: &quot;וְאֶת הָאֲנָשִׁים אֲשֶׁר פֶּתַח הַבַּיִת הִכּוּ בַּסַּנְוֵרִים מִקָּטֹן וְעַד גָּדוֹל וַיִּלְאוּ לִמְצֹא הַפָּתַח&quot;</p><p>זכריה ב12: &quot;כִּי כֹה אָמַר יהוה צְבָאוֹת אַחַר כָּבוֹד שְׁלָחַנִי אֶל הַגּוֹיִם הַשֹּׁלְלִים אֶתְכֶם כִּי הַנֹּגֵעַ בָּכֶם נֹגֵעַ בְּבָבַת עֵינוֹ&quot;</p><p>זכריה יד12: &quot;וְזֹאת תִּהְיֶה הַמַּגֵּפָה אֲשֶׁר יִגֹּף יהוה אֶת כָּל הָעַמִּים אֲשֶׁר צָבְאוּ עַל יְרוּשָׁלָים הָמֵק בְּשָׂרוֹ וְהוּא עֹמֵד עַל רַגְלָיו וְעֵינָיו תִּמַּקְנָה בְחֹרֵיהֶן וּלְשׁוֹנוֹ תִּמַּק בְּפִיהֶם&quot;</p><p>תהלים קלז6: &quot;תִּדְבַּק לְשׁוֹנִי לְחִכִּי אִם לֹא אֶזְכְּרֵכִי אִם לֹא אַעֲלֶה אֶת יְרוּשָׁלַים עַל רֹאשׁ שִׂמְחָתִי&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-19 06:20:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>אני דיין שם משה</p><p>אנכי הכהן המשיח</p><p>כל עולם המיסטיקה תומך בזאת</p><p>מבחינת תוכנת מחשב נומרולוגית --- זה מה שיצא</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה,</p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>------- אסטרולגית עולמית בכירה בניתוח המפה האסטרולוגית של מלך המשיח כותבת:</p><p>&quot;מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו&quot;</p><p>---------------------------------------------------------------------------------------------------------------------</p><p>תהלים יט2: &quot;הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל וּמַעֲשֵׂה יָדָיו מַגִּיד הָרָקִיעַ&quot;  ------- ועל זה מיוסדת האסטרולוגיה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-19 09:54:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-19 09:54:37' 
+			WHERE messageid=12974;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>אני דיין שם משה</p><p>אנכי הכהן המשיח</p><p>כל עולם המיסטיקה תומך בזאת</p><p>מבחינת תוכנת מחשב נומרולוגית --- זה מה שיצא</p><p>דין שם משה</p><p>ת. לידה: 16.04.1968</p><p>דין שם היקר</p><p>אתה בעל אינטליגנציה רגשית גבוהה ונדירה,</p><p>לפעמים פועל בעודף נתינה, מסוגל להעניק לאנשים את צרכיהם מבלי שאפילו הספיקו לבקש. מאוד יצירתי, אוהב ומעריך יופי ואסתטיקה, מאוד חשוב לך שיעריכו אותך, ולפעמים אנשים מקבלים אותך כמובן מאליו ואתה חש תסכול גדול. צריך וודאות ובטחון, אוהב לחיות חיים נוחים. אתה איטי מאוד בשינויים, צריך המון תמיכה, המון פידבקים סביבה מפרגנת, כי לעיתים אתה מקריב את עצמך. מאוד יצירתי ומוכשר בידיים. לייעוץ אישי ומעמיק יותר חייג: 054-4775962</p><p>גם מבחינה אסטרולוגית</p><p>בספר צוואת לוי בן יעקב כתוב:</p><p>ב) ואז יקים יהוה כוהן חדש אשר לו יגלו כל אמרות יהוה והוא יעשה משפט אמת עלי אדמות במלאת הימים.</p><p>ג) ויעלה כוכבו בשמים ככוכב מלך,....... ויאיר באור הדעת כשמש ליום והוא יתגדל בעולם.</p><p>------- אסטרולגית עולמית בכירה בניתוח המפה האסטרולוגית של מלך המשיח כותבת:</p><p>&quot;מעולם לא ראיתי טרנד אסטרולוגי כל כך חזק לפני כן. לעולם לא תראה עוד אחד מסוגו&quot;</p><p>תהלים יט2: &quot;הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל וּמַעֲשֵׂה יָדָיו מַגִּיד הָרָקִיעַ&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-19 09:56:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-19 09:56:28' 
+			WHERE messageid=13002;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>משלי טו31: &quot;אֹזֶן שֹׁמַעַת תּוֹכַחַת חַיִּים בְּקֶרֶב חֲכָמִים תָּלִין&quot;</p><p>משלי יח15: &quot;לֵב נָבוֹן יִקְנֶה דָּעַת וְאֹזֶן חֲכָמִים תְּבַקֶּשׁ דָּעַת&quot;</p><p>משלי כה12: &quot;נֶזֶם זָהָב וַחֲלִי כָתֶם מוֹכִיחַ חָכָם עַל אֹזֶן שֹׁמָעַת&quot;</p><p>--------------------- חָכָם עַל אֹזֶן שֹׁמָעַת ---------------------</p><p>------------------ וְאֹזֶן חֲכָמִים = אֹזֶן שֹׁמַעַת ------------------</p><p>---------------- לֵב חָכָם וְנָבוֹן = לֵב שֹׁמֵעַ לִשְׁפֹּט ----------------</p><p>מלכים א ג9: &quot;וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ לִשְׁפֹּט....... אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה&quot;</p><p>מלכים א ג12: &quot;הִנֵּה עָשִׂיתִי כִּדְבָרֶיךָ הִנֵּה נָתַתִּי לְךָ לֵב חָכָם וְנָבוֹן....... אֲשֶׁר כָּמוֹךָ לֹא הָיָה לְפָנֶיךָ וְאַחֲרֶיךָ לֹא יָקוּם כָּמוֹךָ&quot;</p><p>לדיין - לֵב שֹׁמֵעַ לִשְׁפֹּט = לדיין - לֵב חָכָם וְנָבוֹן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-19 18:12:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 04:40:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 04:40:40' 
+			WHERE messageid=13005;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 12:32:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 12:32:22' 
+			WHERE messageid=13006;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 13:36:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 13:36:37' 
+			WHERE messageid=13007;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>מלכים ב ה12: &quot;הֲלֹא טוֹב אבנה[אֲמָנָה] וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה&quot;</p><p>מיי הגוים טהורים וטובים מִכֹּל מֵימֵי יִשְׂרָאֵל אך על אף זאת מֵימֵי יִשְׂרָאֵל הם המים של ארץ הקודש וסגולה נפלאה לטבול בם</p><p>הוא הדבר באשר לשתיית המים לאמור כי המים המינרלים הטבעים מישראל ארץ הקודש ברוכים מן המים המינרלים הטבעיים של חו&quot;ל</p><p>על אף כי במים מינרלים מחו&quot;ל רמת החנקות נמוכה יותר מה שמעיד על רמת טוהר גבוהה יותר במים ובכל זאת מי ארץ הקודש ברוכים יותר</p><p>כי המים של ישראל ירדו מן השמים לארץ הקודש אשר שכן שם משכן אהל-מועד על כן כתוב:</p><p>במדבר ה17: &quot;וְלָקַח הַכֹּהֵן מַיִם קְדֹשִׁים בִּכְלִי חָרֶשׂ וּמִן הֶעָפָר אֲשֶׁר יִהְיֶה בְּקַרְקַע הַמִּשְׁכָּן יִקַּח הַכֹּהֵן וְנָתַן אֶל הַמָּיִם&quot;</p><p>לאמור כי מלבד המים הקדושים יש חשיבות גם לקרקע אשר המים עליהם ואם הקרקע קדושה הלא זה מבורך</p><p>הוא הדבר אשר מים טהורים מן השמים כולם טהורים אבל יש חשיבות לאדמת הקודש אשר המים ירדו אליה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 14:58:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 14:58:50' 
+			WHERE messageid=12908;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-20 15:12:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-20 15:12:41' 
+			WHERE messageid=13009;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-21 17:16:57' 
+			WHERE messageid=11113;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-21 17:17:48' 
+			WHERE messageid=10316;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_15.html',
+		'<p>NH ARUMV T, ZV AHVHV KU TJKV JHHO ,RDNU KGCRH,</p>',
+		'114199613018129894304',
+		'אפיק וקנין',
+		'2024-09-22 08:48:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-22 09:41:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-22 09:41:50' 
+			WHERE messageid=13011;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0619_0.html',
+		'<p>אראל</p><p>יש לכבוש את דרום לבנון הערים צור וצידון וכן את דרום סוריה כולל העיר דמשק </p><p>בראשית יד14: &quot;וַיִּשְׁמַע אַבְרָם כִּי נִשְׁבָּה אָחִיו וַיָּרֶק אֶת חֲנִיכָיו יְלִידֵי בֵיתוֹ שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת וַיִּרְדֹּף עַד דָּן&quot;  </p><p>בראשית יד15: &quot;וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה הוּא וַעֲבָדָיו וַיַּכֵּם וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק&quot; </p><p>אברהם אבינו רדף אחרי אויביו הכה אותם וגרש וסילק אותם מעבר לארץ כנען לאמור</p><p> וַיִּרְדֹּף עַד דָּן --- בדרום לבנון זה נחשב לנחלת ישראל</p><p> וַיִּרְדְּפֵם עַד חוֹבָה אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק --- גם חלק זה בסוריה נחשב לנחלת ישראל</p><p>ראש הממשלה ומנהיגי ישראל צריכים להבין זאת ולפעול בהתאם לתורה</p><p>https://tora.us.fm/tnk1/messages/prqim_t0434_0.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-23 06:24:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/hyomn1.html',
+		'<p>נח&quot;ת זה מרנין :)</p>',
+		'112175768288394926668',
+		'אריאל יונייב',
+		'2024-09-23 11:16:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-23 19:33:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-23 19:33:28' 
+			WHERE messageid=13014;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום.</p><p>האם אתה צריך הלוואה דחופה כדי להיפטר מהבעיה הכלכלית שלך, האם היית</p><p>נדחה על ידי בנקים במדינה שלך ואתה זקוק להלוואה דחופה, צור איתנו קשר</p><p>היום ב-Info Trust Firm Company Ltd, אנחנו עוזרים כשאחרים לא יכולים!</p><p>* לשאול כל דבר עד $5,000.00 עד $50,000,000.00.</p><p>* בחר בין שנה ל-10 שנים להחזר.</p><p>דוא&quot;ל ליצירת קשר: (info.trustfirm2012@gmail.com)</p><p>תודה על הזמן שלך,</p><p>בברכה,</p><p>קתרין קול</p><p>info.trustfirm2012@gmail.com</p><p></p>',
+		'110883568977859566790',
+		'Catherine Cole',
+		'2024-09-23 21:43:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/ribit0/get.html',
+		'<p>שלום.</p><p>האם אתה צריך הלוואה דחופה כדי להיפטר מהבעיה הכלכלית שלך, האם היית</p><p>נדחה על ידי בנקים במדינה שלך ואתה זקוק להלוואה דחופה, צור איתנו קשר</p><p>היום ב-Info Trust Firm Company Ltd, אנחנו עוזרים כשאחרים לא יכולים!</p><p>* לשאול כל דבר עד $5,000.00 עד $50,000,000.00.</p><p>* בחר בין שנה ל-10 שנים להחזר.</p><p>דוא&quot;ל ליצירת קשר: (info.trustfirm2012@gmail.com)</p><p>תודה על הזמן שלך,</p><p>בברכה,</p><p>קתרין קול</p><p>info.trustfirm2012@gmail.com</p><p></p>',
+		'110883568977859566790',
+		'Catherine Cole',
+		'2024-09-23 21:43:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>בקר-טוב</p><p>זה עתה חלמתי חלום שעל בני ישראל להיות מאוחדים כאשר הים אחד במקום אחד</p><p>תהלים עז20: &quot;בַּיָּם דַּרְכֶּךָ....... ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>תהלים עז14: &quot;אֱלֹהִים בַּקֹּדֶשׁ....... דַּרְכֶּךָ מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>בני ישראל לא מאוחדים כאשר הים אחד כי הים הוא קודש ועל בני ישראל להתקדש</p><p>כי בהיותנו קדושים כולם נהיה כולנו בני ישראל לעם אחד מאוחד אחדות תהיה בתוכנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 04:20:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_6.html',
+		'<p>בקר-טוב</p><p>זה עתה חלמתי חלום שעל בני ישראל להיות מאוחדים כאשר הים אחד במקום אחד</p><p>תהלים עז20: &quot;בַּיָּם דַּרְכֶּךָ....... ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>תהלים עז14: &quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ....... מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>בני ישראל לא מאוחדים כאשר הים אחד כי הים הוא קודש ועל בני ישראל להתקדש</p><p>כי בהיותנו קדושים כולם נהיה כולנו בני ישראל לעם אחד מאוחד אחדות תהיה בתוכנו</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 04:21:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 04:21:31' 
+			WHERE messageid=13017;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-24 14:00:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 14:00:36' 
+			WHERE messageid=13019;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:23:58' 
+			WHERE messageid=13016;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:02' 
+			WHERE messageid=13015;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:13' 
+			WHERE messageid=12762;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-24 18:24:15' 
+			WHERE messageid=12761;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_15.html',
+		'<p>bhdv</p>',
+		'114199613018129894304',
+		'אפיק וקנין',
+		'2024-09-25 07:01:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-25 13:52:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-25 13:52:36' 
+			WHERE messageid=13021;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>ישראל איך תדע אם אלהים אתך להאמין בעצמך באמת</p><p>אם אדם הולך בדרך אלהים אז רוח אלהים עליו</p><p>על כן על האדם עליו להאמין בעצמו לאמור יש אלהים בקרבי</p><p>בספר שמות היה אלהים בקרבנו ישראל וישראל לא האמינו בעצמם</p><p>שמות יז7: &quot;וַיִּקְרָא שֵׁם הַמָּקוֹם מַסָּה וּמְרִיבָה עַל רִיב בְּנֵי יִשְׂרָאֵל וְעַל נַסֹּתָם אֶת יהוה לֵאמֹר הֲיֵשׁ יהוה בְּקִרְבֵּנוּ אִם אָיִן&quot;</p><p>בספר מיכה אלהים לא היה בתוך הרשעים האלה והם האמינו לשוא לאמור אלהים בקרבנו</p><p>מיכה ג11: &quot;רָאשֶׁיהָ בְּשֹׁחַד יִשְׁפֹּטוּ וְכֹהֲנֶיהָ בִּמְחִיר יוֹרוּ וּנְבִיאֶיהָ בְּכֶסֶף יִקְסֹמוּ וְעַל יהוה יִשָּׁעֵנוּ לֵאמֹר הֲלוֹא יהוה בְּקִרְבֵּנוּ לֹא תָבוֹא עָלֵינוּ רָעָה&quot;</p><p>-</p><p>לסיכום</p><p>בשני המקרים בני ישראל תעו</p><p>בספר שמות כשאלהים היה עמם הם לא האמינו בו</p><p>בספר מיכה כשאלהים לא היה עמם חשבו את עצמם לצדיקים לאמור בקרבנו הוא</p><p>--</p><p>סוף דבר</p><p>אם אלהים אתך האמן בעצמך</p><p>אם אלהים לא אתך אל תאמן בעצמך לשוא</p><p>-</p><p>עתה אם ברצונך לדעת אם אלהים אתך זה המבחן</p><p>משלי כח27: &quot;נוֹתֵן לָרָשׁ אֵין מַחְסוֹר....... וּמַעְלִים עֵינָיו רַב מְאֵרוֹת&quot;</p><p>דברים ב7: &quot;כִּי יהוה אֱלֹהֶיךָ בֵּרַכְךָ בְּכֹל מַעֲשֵׂה יָדֶךָ יָדַע לֶכְתְּךָ אֶת הַמִּדְבָּר הַגָּדֹל הַזֶּה זֶה אַרְבָּעִים שָׁנָה יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר&quot;.......</p><p>נוֹתֵן לָרָשׁ אֵין מַחְסוֹר = יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>----------- נוֹתֵן לָרָשׁ = יהוה אֱלֹהֶיךָ עִמָּךְ -----------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-26 00:32:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-26 07:46:28' 
+			WHERE messageid=12634;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/br-32-27.html',
+		'<p>גם בלבנון: אסור להסכים להפסקת אש, עד שהאויבים יברכו אותנו. לבנון, חיזבלה, וגם איראן - כולם צריכים להגיד &quot;אלהים יברך את מדינת ישראל&quot;.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-09-26 07:47:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-26 16:54:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-26 16:54:02' 
+			WHERE messageid=13024;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_hdm_0.html',
+		'<p>לפי הרבה מסורות הר הזיתים (הר המשחה) הוא הדום לרגלי ה\'</p><p>\'הדום לרגלי אלוהינו\'</p><p>הר הזיתים נקרא בימי הביניים \'הדום (כסא) רגלי אלוהינו\' וכן \'מקום שכינת עוזו והדום לרגליו\' ואף הצביעו על מקומו המדויק בהר הזיתים: &quot;תעלה אל הר הזיתים, אל אבן אורכה 10 אמות, רוחבה ועוביה 2 אמות… היא כורסת הראש (לראש הישיבה) והיא מוצבת במקום בו עמד כבוד ה\' שלוש וחצי שנים בהר הזיתים כמו שנאמר: ויעל כבוד ה\' מעל תוך העיר ויעמוד על ההר אשר מקדם לעיר&quot;.</p><p>(מדריך ארץ ישראל מהגניזה הקהירית המאה ה 11)</p><p>דברים לג3: &quot;אף חבב עמים כל קדשיו בידך והם תכו לרגלך ישא מדברתיך&quot;</p><p>זכריה יד4: ועמדו רגליו ביום-ההוא על-הר הזתים אשר על-פני ירושלם מקדם </p><p>ונבקע הר הזיתים מחציו מזרחה וימה גיא גדולה מאד ומש חצי ההר צפונה וחציו-נגבה.</p><p>ונסתם גיא הרי כי יגיע גי הרים אל אצל ונסתם כאשר נסתם מפני הרעש בימי עזיה מלך יהודה </p><p>ובא ה\' אלהי כל קדשים עמך&quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-09-27 06:37:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_hdm_0.html',
+		'<p>בתגובה אי אפשר להדגיש, ההדגשה צריכה להיות על &quot;ועמדו רגליו&quot; - הר הזיתים הדום רגליו</p><p>ו &quot;כל קדשיו בידך&quot; בהקבלה ל &quot;כל קדשים עמך&quot; רמז ברור שמדובר באותו עניין</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-09-27 06:40:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>על פי התורה יש שני משיחים זה נכון</p><p>האחד הוא הכהן המשיח זרע אהרן הלוי ------- המייצג את מלכות השמים</p><p>השני הוא מלך המשיח זרע דוד בן ישי ------- המייצג את מלכות הארץ</p><p>---</p><p>על הכהן המשיח כתוב ברור בתורה</p><p>ויקרא ד3: &quot;אִם הַכֹּהֵן הַמָּשִׁיחַ....... יֶחֱטָא לְאַשְׁמַת הָעָם וְהִקְרִיב עַל חַטָּאתוֹ אֲשֶׁר חָטָא פַּר בֶּן בָּקָר תָּמִים ליהוה לְחַטָּאת&quot;</p><p>ויקרא ד5: &quot;וְלָקַח הַכֹּהֵן הַמָּשִׁיחַ....... מִדַּם הַפָּר וְהֵבִיא אֹתוֹ אֶל אֹהֶל מוֹעֵד&quot;</p><p>ויקרא ד16: &quot;וְהֵבִיא הַכֹּהֵן הַמָּשִׁיחַ....... מִדַּם הַפָּר אֶל אֹהֶל מוֹעֵד&quot;</p><p>ויקרא ו15: &quot;וְהַכֹּהֵן הַמָּשִׁיחַ....... תַּחְתָּיו מִבָּנָיו יַעֲשֶׂה אֹתָהּ חָק עוֹלָם ליהוה כָּלִיל תָּקְטָר&quot;</p><p>-</p><p>ועל משיח בן דוד בן ישי כתוב:</p><p>ישעיהו יא1: &quot;וְיָצָא חֹטֶר מִגֵּזַע יִשָׁי וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה&quot;</p><p>ישעיהו יא2: &quot;וְנָחָה עָלָיו רוּחַ יהוה רוּחַ חָכְמָה וּבִינָה רוּחַ עֵצָה וּגְבוּרָה רוּחַ דַּעַת וְיִרְאַת יהוה\'&quot;</p><p>-</p><p>ואין דבר כזה משיח בן יוסף אשר בדו מלבם הרבנים</p><p>דברי הימים א ה2: &quot;כִּי יְהוּדָה גָּבַר בְּאֶחָיו וּלְנָגִיד מִמֶּנּוּ וְהַבְּכֹרָה לְיוֹסֵף&quot;</p><p>כאשר מדברים על משיח שאינו מזרע דוד בן ישי אז האפשרות היחידה היא שמדובר על הכהן המשיח משבט לוי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-27 15:07:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-28 10:11:58' 
+			WHERE messageid=13027;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>ויקרא יט26: &quot;לֹא תֹאכְלוּ עַל הַדָּם לֹא תְנַחֲשׁוּ וְלֹא תְעוֹנֵנוּ&quot;</p><p>דברים יב23: &quot;רַק חֲזַק לְבִלְתִּי אֲכֹל הַדָּם כִּי הַדָּם הוּא הַנָּפֶשׁ וְלֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר&quot;</p><p>דברים יב24: &quot;לֹא תֹּאכְלֶנּוּ עַל הָאָרֶץ תִּשְׁפְּכֶנּוּ כַּמָּיִם&quot;</p><p>שמואל א יד33: &quot;וַיַּגִּידוּ לְשָׁאוּל לֵאמֹר הִנֵּה הָעָם חֹטִאים ליהוה לֶאֱכֹל עַל הַדָּם וַיֹּאמֶר בְּגַדְתֶּם גֹּלּוּ אֵלַי הַיּוֹם אֶבֶן גְּדוֹלָה&quot;</p><p>כי על פי התורה אין לאכול על הדם לכן בדיני הכשרות אנחנו ממליחים את הבשר להוצאת כל הדם כי הקדושים מקריבים קורבן ללא דם</p><p>דברים יב23: &quot;רַק חֲזַק לְבִלְתִּי אֲכֹל הַדָּם ***כִּי הַדָּם הוּא הַנָּפֶשׁ*** וְלֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר&quot;</p><p>ויקרא יז11: &quot;כִּי נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא וַאֲנִי נְתַתִּיו לָכֶם עַל הַמִּזְבֵּחַ לְכַפֵּר עַל נַפְשֹׁתֵיכֶם ***כִּי הַדָּם הוּא בַּנֶּפֶשׁ*** יְכַפֵּר&quot;</p><p>על פי התורה מי שאין לו דם-דמים-נפש נחשב לרשע ולכן מרשיעים אותו</p><p>שמות כב2: &quot;אִם זָרְחָה הַשֶּׁמֶשׁ עָלָיו דָּמִים לוֹ שַׁלֵּם יְשַׁלֵּם אִם אֵין לוֹ וְנִמְכַּר בִּגְנֵבָתוֹ&quot;</p><p>והדורש אלהים דורש דמים</p><p>תהלים ט13: &quot;כִּי דֹרֵשׁ דָּמִים אוֹתָם זָכָר לֹא שָׁכַח צַעֲקַת עניים[עֲנָוִים] &quot;</p><p> בראשית מב22: &quot;וַיַּעַן רְאוּבֵן אֹתָם לֵאמֹר הֲלוֹא אָמַרְתִּי אֲלֵיכֶם לֵאמֹר אַל תֶּחֶטְאוּ בַיֶּלֶד וְלֹא שְׁמַעְתֶּם וְגַם דָּמוֹ הִנֵּה נִדְרָשׁ&quot; </p><p>אסור היה להרשיע את יוסף הצדיק אשר דמים לו</p><p>אסור להרשיע מי שדמים לו כאשר היה דם-נפש להבל אשר נרצח בידי קין</p><p>בראשית ד10: &quot;וַיֹּאמֶר מֶה עָשִׂיתָ קוֹל דְּמֵי אָחִיךָ ------- צֹעֲקִים אֵלַי מִן הָאֲדָמָה&quot;</p><p>אלהים רואה ושומע בקול הדמים ------- והשומע בקול אלהים שומע בקול הדם </p><p>אלהים רואה את הדם</p><p>שמות יב13: &quot;וְהָיָה הַדָּם לָכֶם לְאֹת עַל הַבָּתִּים אֲשֶׁר אַתֶּם שָׁם ***וְרָאִיתִי אֶת הַדָּם*** וּפָסַחְתִּי עֲלֵכֶם וְלֹא יִהְיֶה בָכֶם נֶגֶף לְמַשְׁחִית בְּהַכֹּתִי בְּאֶרֶץ מִצְרָיִם&quot;</p><p>שמות יב23: &quot;וְעָבַר יהוה לִנְגֹּף אֶת מִצְרַיִם וְ***רָאָה אֶת הַדָּם*** עַל הַמַּשְׁקוֹף וְעַל שְׁתֵּי הַמְּזוּזֹת וּפָסַח יהוה עַל הַפֶּתַח וְלֹא יִתֵּן הַמַּשְׁחִית לָבֹא אֶל בָּתֵּיכֶם לִנְגֹּף&quot;</p><p>כשאלהים במחזה רואה את הדם הוא גם שומע את הדם כי כן הדבר במחזה לראות ולשמוע יחדיו עם כל מערכת החושים כאיש אלהים זאת תמונת-יהוה</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-30 16:34:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p>ויקרא יט26: &quot;לֹא תֹאכְלוּ עַל הַדָּם לֹא תְנַחֲשׁוּ וְלֹא תְעוֹנֵנוּ&quot;</p><p>דברים יב23: &quot;רַק חֲזַק לְבִלְתִּי אֲכֹל הַדָּם כִּי הַדָּם הוּא הַנָּפֶשׁ וְלֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר&quot;</p><p>דברים יב24: &quot;לֹא תֹּאכְלֶנּוּ עַל הָאָרֶץ תִּשְׁפְּכֶנּוּ כַּמָּיִם&quot;</p><p>שמואל א יד33: &quot;וַיַּגִּידוּ לְשָׁאוּל לֵאמֹר הִנֵּה הָעָם חֹטִאים ליהוה לֶאֱכֹל עַל הַדָּם וַיֹּאמֶר בְּגַדְתֶּם גֹּלּוּ אֵלַי הַיּוֹם אֶבֶן גְּדוֹלָה&quot;</p><p>כי על פי התורה אין לאכול על הדם לכן בדיני הכשרות אנחנו ממליחים את הבשר להוצאת כל הדם כי הקדושים מקריבים קורבן ללא דם</p><p>דברים יב23: &quot;רַק חֲזַק לְבִלְתִּי אֲכֹל הַדָּם ***כִּי הַדָּם הוּא הַנָּפֶשׁ*** וְלֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר&quot;</p><p>ויקרא יז11: &quot;כִּי נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא וַאֲנִי נְתַתִּיו לָכֶם עַל הַמִּזְבֵּחַ לְכַפֵּר עַל נַפְשֹׁתֵיכֶם ***כִּי הַדָּם הוּא בַּנֶּפֶשׁ*** יְכַפֵּר&quot;</p><p>על פי התורה מי שאין לו דם-דמים-נפש נחשב לרשע ולכן מרשיעים אותו</p><p>שמות כב2: &quot;אִם זָרְחָה הַשֶּׁמֶשׁ עָלָיו דָּמִים לוֹ שַׁלֵּם יְשַׁלֵּם אִם אֵין לוֹ וְנִמְכַּר בִּגְנֵבָתוֹ&quot;</p><p>והדורש אלהים דורש דמים</p><p>תהלים ט13: &quot;כִּי דֹרֵשׁ דָּמִים אוֹתָם זָכָר לֹא שָׁכַח צַעֲקַת עניים[עֲנָוִים] &quot;</p><p>בראשית מב22: &quot;וַיַּעַן רְאוּבֵן אֹתָם לֵאמֹר הֲלוֹא אָמַרְתִּי אֲלֵיכֶם לֵאמֹר אַל תֶּחֶטְאוּ בַיֶּלֶד וְלֹא שְׁמַעְתֶּם וְגַם דָּמוֹ הִנֵּה נִדְרָשׁ&quot;</p><p>אסור היה להרשיע את יוסף הצדיק אשר דמים לו</p><p>אסור להרשיע מי שדמים לו כאשר היה דם-נפש להבל אשר נרצח בידי קין</p><p>בראשית ד10: &quot;וַיֹּאמֶר מֶה עָשִׂיתָ קוֹל דְּמֵי אָחִיךָ ------- צֹעֲקִים אֵלַי מִן הָאֲדָמָה&quot;</p><p>אלהים רואה ושומע בקול הדמים ------- והשומע בקול אלהים שומע בקול הדם</p><p>אלהים רואה את הדם</p><p>שמות יב13: &quot;וְהָיָה הַדָּם לָכֶם לְאֹת עַל הַבָּתִּים אֲשֶׁר אַתֶּם שָׁם ***וְרָאִיתִי אֶת הַדָּם*** וּפָסַחְתִּי עֲלֵכֶם וְלֹא יִהְיֶה בָכֶם נֶגֶף לְמַשְׁחִית בְּהַכֹּתִי בְּאֶרֶץ מִצְרָיִם&quot;</p><p>שמות יב23: &quot;וְעָבַר יהוה לִנְגֹּף אֶת מִצְרַיִם וְ***רָאָה אֶת הַדָּם*** עַל הַמַּשְׁקוֹף וְעַל שְׁתֵּי הַמְּזוּזֹת וּפָסַח יהוה עַל הַפֶּתַח וְלֹא יִתֵּן הַמַּשְׁחִית לָבֹא אֶל בָּתֵּיכֶם לִנְגֹּף&quot;</p><p>כשאלהים במחזה רואה את הדם הוא גם שומע את הדם כי כן הדבר במחזה לראות ולשמוע יחדיו עם כל מערכת החושים כאיש אלהים זאת תמונת-יהוה</p><p>סוף דבר</p><p>הזהר מאד לבלתי אכול הדם כי הדם הוא הנפש ואלהים דורש דמים</p><p>אם תאכל דם של נפש חיה או אדם אז אלהים ידרוש ממך הדם</p><p>בראשית ט5-6: &quot;וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת נֶפֶשׁ הָאָדָם שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת הָאָדָם&quot;</p><p>לא לאכול הדם משמעו לא להזיק לבעל הדמים ולא להרשיע</p><p>ויקרא יז</p><p>א וַיְדַבֵּר יְהוָה אֶל-מֹשֶׁה לֵּאמֹר.  </p><p>ב דַּבֵּר אֶל-אַהֲרֹן וְאֶל-בָּנָיו וְאֶל כָּל-בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵיהֶם  זֶה הַדָּבָר אֲשֶׁר-צִוָּה יְהוָה לֵאמֹר.  </p><p>ג אִישׁ אִישׁ מִבֵּית יִשְׂרָאֵל אֲשֶׁר יִשְׁחַט שׁוֹר אוֹ-כֶשֶׂב אוֹ-עֵז בַּמַּחֲנֶה אוֹ אֲשֶׁר יִשְׁחַט מִחוּץ לַמַּחֲנֶה.  </p><p>ד וְאֶל-פֶּתַח אֹהֶל מוֹעֵד לֹא הֱבִיאוֹ לְהַקְרִיב קָרְבָּן לַיהוָה לִפְנֵי מִשְׁכַּן יְהוָה דָּם יֵחָשֵׁב לָאִישׁ הַהוּא דָּם שָׁפָךְ וְנִכְרַת הָאִישׁ הַהוּא מִקֶּרֶב עַמּוֹ</p><p>-</p><p>מי יתן ויבנה משכן-יהוה ולא נחשב לשופכי דמים</p><p>אך לעת הזאת אני מייעץ לך להתרחץ או לטבול במים לאחר כל אכילת בשר</p><p>כי בעת רחצך במים אתה מביא את רוח אלהים עליך כאשר לִפְנֵי מִשְׁכַּן יְהוָה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-30 17:09:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-30 17:09:29' 
+			WHERE messageid=13028;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-09-30 17:10:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-09-30 17:10:02' 
+			WHERE messageid=13030;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_432.html',
+		'<p>האם חיברת לזה מנגינה?</p>',
+		'106258673019999926839',
+		'דב הרשקוביץ',
+		'2024-10-01 10:16:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ספר עמוס פרק ג כתוב:</p><p>(א) שִׁמְעוּ אֶת הַדָּבָר הַזֶּה אֲשֶׁר דִּבֶּר יְהֹוָה עֲלֵיכֶם בְּנֵי יִשְׂרָאֵל עַל כָּל הַמִּשְׁפָּחָה אֲשֶׁר הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם לֵאמֹר:</p><p>(ב) רַק אֶתְכֶם יָדַעְתִּי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה עַל כֵּן אֶפְקֹד עֲלֵיכֶם אֵת כָּל עֲוֹנֹתֵיכֶם:</p><p>כי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה רק לעם-ישראל יש ברית עם האלהים</p><p>אם עמי הגוים אינם הולכים בדרך האלהים אז אלהים לא כל כך יכעס עליהם כמו על בני ישראל שלא ילכו בדרך האלהים כי לעם ישראל יש ברית עם האלהים ואם עם ישראל יפר את הברית אז הוא יענש על הפרת חוזה לכן כשאנחנו שומעים בחדשות בתקשורת על חרדי שגנב או עבר עבירה אז אנחנו כועסים יותר מאשר אם היה חילוני עבריין כי מהאיש הדתי אנחנו מצפים ליותר</p><p>כך גם הקדוש ברוך הוא מצפה יותר מעם ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 11:00:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_111_0.html',
+		'<p>כן זה כתוב בתורה</p><p>בראשית כב20: &quot;וַיְהִי אַחֲרֵי הַדְּבָרִים הָאֵלֶּה וַיֻּגַּד לְאַבְרָהָם לֵאמֹר הִנֵּה יָלְדָה מִלְכָּה גַם הִוא בָּנִים לְנָחוֹר אָחִיךָ&quot; </p><p>בראשית כב21: &quot;אֶת עוּץ בְּכֹרוֹ וְאֶת בּוּז אָחִיו וְאֶת קְמוּאֵל אֲבִי אֲרָם&quot; ......</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 13:55:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-01 14:16:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-01 14:16:34' 
+			WHERE messageid=13034;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-02 08:07:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-02 08:07:53' 
+			WHERE messageid=13035;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-05 20:03:40' 
+			WHERE messageid=11772;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>https://www.facebook.com/photo/?fbid=1546470789287932&amp;set=gm.1167225347687069&amp;idorvanity=617390392670570</p><p>https://www.facebook.com/photo/?fbid=122185263380192586&amp;set=a.122104465916192586</p><p>https://www.facebook.com/photo/?fbid=873955011467027&amp;set=gm.943905081115488&amp;idorvanity=850949627077701</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-06 16:35:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>בראשית יב3: &quot;וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה&quot; </p><p>בראשית כז29: &quot;יַעַבְדוּךָ עַמִּים וישתחו[וְיִשְׁתַּחֲווּ] לְךָ לְאֻמִּים הֱוֵה גְבִיר לְאַחֶיךָ וְיִשְׁתַּחֲווּ לְךָ בְּנֵי אִמֶּךָ אֹרְרֶיךָ אָרוּר וּמְבָרֲכֶיךָ בָּרוּךְ&quot;</p><p>במדבר כד9: &quot;כָּרַע שָׁכַב כַּאֲרִי וּכְלָבִיא מִי יְקִימֶנּוּ מְבָרֲכֶיךָ בָרוּךְ וְאֹרְרֶיךָ אָרוּר&quot;</p><p>שמעו נא בני ישראל וכל הגוים כי לי דיין עבד-יהוה ומשיחו נתן יהוה את ברכת אלהי אבותינו הקדושים</p><p>עתה אם דל אתה אעשה עמך חסד גדול בדבר הזה כמשפט </p><p>כי אם עני ואביון אומלל ומסכן אתה או אין לך ברכה וחפצת מאד בברכה</p><p>כל מה שעליך לעשות זה לברך אותי בכל לבבך ובכל נפשך ובכל מאדך</p><p>[ובשפה עממית ופשוטה ברך את דיין עבד-יהוה ומשיחו מעומק הלב]</p><p>ואלהי אבותינו הקדושים אלהי אברהם יצחק ויעקב יברכך כי ברכת אותי</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-07 14:57:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;</p><p>ישעיהו כו9: &quot;נַפְשִׁי אִוִּיתִיךָ בַּלַּיְלָה אַף רוּחִי בְקִרְבִּי אֲשַׁחֲרֶךָּ כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot; </p><p> משלי כז24: &quot;כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור[וָדוֹר] &quot;</p><p>  מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ ---   כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל&quot; ---  וְהָאָרֶץ לְעוֹלָם עֹמָדֶת</p><p>  כי בכל דור ודור מלך נזר והוא צדק מלמד יֹשְׁבֵי תֵבֵל</p><p>ואנכי דיין בדור הזה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-08 07:12:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;</p><p>ישעיהו כו9: &quot;נַפְשִׁי אִוִּיתִיךָ בַּלַּיְלָה אַף רוּחִי בְקִרְבִּי אֲשַׁחֲרֶךָּ כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל&quot;</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>משלי כז24: &quot;כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור[וָדוֹר] &quot;</p><p>מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ --- כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל --- וְהָאָרֶץ לְעוֹלָם עֹמָדֶת</p><p>כי בכל דור ודור מלך נזר והוא צדק מלמד יֹשְׁבֵי תֵבֵל</p><p>ואנכי דיין בדור הזה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-08 07:13:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-08 07:13:11' 
+			WHERE messageid=13038;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>משלי כט4: &quot;מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ וְאִישׁ תְּרוּמוֹת יֶהֶרְסֶנָּה&quot;</p><p>ישעיהו כו9: &quot;נַפְשִׁי אִוִּיתִיךָ בַּלַּיְלָה אַף רוּחִי בְקִרְבִּי אֲשַׁחֲרֶךָּ כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל&quot;</p><p>[נַפְשִׁי אִוִּיתִיךָ בַּלַּיְלָה = הנביא מייחל לדבר אלהים בחזיון הלילה]</p><p>קהלת א4: &quot;דּוֹר הֹלֵךְ וְדוֹר בָּא וְהָאָרֶץ לְעוֹלָם עֹמָדֶת&quot;</p><p>משלי כז24: &quot;כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור[וָדוֹר] &quot;</p><p>מֶלֶךְ בְּמִשְׁפָּט יַעֲמִיד אָרֶץ --- כִּי כַּאֲשֶׁר מִשְׁפָּטֶיךָ לָאָרֶץ צֶדֶק לָמְדוּ יֹשְׁבֵי תֵבֵל --- וְהָאָרֶץ לְעוֹלָם עֹמָדֶת</p><p>כי בכל דור ודור מלך נזר והוא צדק מלמד יֹשְׁבֵי תֵבֵל</p><p>ואנכי דיין בדור הזה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-08 07:25:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-08 07:25:07' 
+			WHERE messageid=13039;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-32-21.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-10-09 03:02:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-09 03:02:18' 
+			WHERE messageid=13041;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_epl_0.html',
+		'<p>בקשר לעפולים אפולו תחות</p><p>יש עוד לציין שבמצרים החודש הראשון תחות מקביל לאלול </p><p>אלול - מזל בתולה נשלט על ידי כוכב חמה - תחות</p><p>מתחיל ב11.9 , מזל בתולה מתחיל היום ב17.9 , אך בעבר היה חופך</p><p>הוכחה פשוטה לכך היא העובדה שיוספוס בספר קדמוניות היהודים </p><p>מקביל את יציאת מצרים בחודש העברי ניסן לחודש המצרי פרמותי</p><p>ניסן הוא השמיני מאלול, וכן פרמותי השמיני מתחות</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2024-10-09 16:56:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 07:45:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 07:45:52' 
+			WHERE messageid=13043;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 07:46:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 07:46:07' 
+			WHERE messageid=13044;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 12:51:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 12:51:25' 
+			WHERE messageid=13045;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 12:51:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 12:51:45' 
+			WHERE messageid=13046;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>הושע יב13: &quot;וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה וּבְאִשָּׁה שָׁמָר&quot;.......</p><p>הושע יב14: &quot;וּבְנָבִיא הֶעֱלָה יהוה אֶת יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר&quot;.......</p><p>אחיי בני ישראל שימו לב לפסוקים האלה כפי הסדר כי בטרם תינבא יש להשמר מאִשָּׁה</p><p>כל אבותינו הקדושים שהיו נביאים נשמרו מאִשָּׁה וכשאתה נשמר מאִשָּׁה תוכל לאכול לחם הקודש </p><p>שמואל א כא5: &quot;וַיַּעַן הַכֹּהֵן אֶת דָּוִד וַיֹּאמֶר אֵין לֶחֶם חֹל אֶל תַּחַת יָדִי כִּי אִם לֶחֶם קֹדֶשׁ יֵשׁ אִם נִשְׁמְרוּ הַנְּעָרִים אַךְ מֵאִשָּׁה&quot;</p><p>אבותינו הקדושים נשמרו ממגע בנידת אִשָּׁה וכשאבותינו היו בשליחות אלהים התנזרו ופרשו לחלוטין מאִשָּׁה </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 15:14:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>הושע יב13: &quot;וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה וּבְאִשָּׁה שָׁמָר&quot;.......</p><p>הושע יב14: &quot;וּבְנָבִיא הֶעֱלָה יהוה אֶת יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר&quot;.......</p><p>אחיי בני ישראל שימו לב לפסוקים האלה כפי הסדר כי בטרם תינבא יש להשמר מאִשָּׁה</p><p>כל אבותינו הקדושים שהיו נביאים נשמרו מאִשָּׁה וכשאתה נשמר מאִשָּׁה תוכל לאכול לחם הקודש</p><p>שמואל א כא5: &quot;וַיַּעַן הַכֹּהֵן אֶת דָּוִד וַיֹּאמֶר אֵין לֶחֶם חֹל אֶל תַּחַת יָדִי כִּי אִם לֶחֶם קֹדֶשׁ יֵשׁ אִם נִשְׁמְרוּ הַנְּעָרִים אַךְ מֵאִשָּׁה&quot;</p><p>אבותינו הקדושים נשמרו ממגע אִשָּׁה בנידתה וכשאבותינו היו בשליחות אלהים התנזרו ופרשו לחלוטין מאִשָּׁה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 15:32:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 15:32:38' 
+			WHERE messageid=13047;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-11 07:16:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-11 07:16:14' 
+			WHERE messageid=13049;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-11 07:16:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-11 07:16:29' 
+			WHERE messageid=13050;
+
