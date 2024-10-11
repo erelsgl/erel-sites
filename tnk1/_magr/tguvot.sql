@@ -10978,3 +10978,110 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-10 07:46:07' 
 			WHERE messageid=13044;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 12:51:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 12:51:25' 
+			WHERE messageid=13045;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 12:51:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 12:51:45' 
+			WHERE messageid=13046;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>הושע יב13: &quot;וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה וּבְאִשָּׁה שָׁמָר&quot;.......</p><p>הושע יב14: &quot;וּבְנָבִיא הֶעֱלָה יהוה אֶת יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר&quot;.......</p><p>אחיי בני ישראל שימו לב לפסוקים האלה כפי הסדר כי בטרם תינבא יש להשמר מאִשָּׁה</p><p>כל אבותינו הקדושים שהיו נביאים נשמרו מאִשָּׁה וכשאתה נשמר מאִשָּׁה תוכל לאכול לחם הקודש </p><p>שמואל א כא5: &quot;וַיַּעַן הַכֹּהֵן אֶת דָּוִד וַיֹּאמֶר אֵין לֶחֶם חֹל אֶל תַּחַת יָדִי כִּי אִם לֶחֶם קֹדֶשׁ יֵשׁ אִם נִשְׁמְרוּ הַנְּעָרִים אַךְ מֵאִשָּׁה&quot;</p><p>אבותינו הקדושים נשמרו ממגע בנידת אִשָּׁה וכשאבותינו היו בשליחות אלהים התנזרו ופרשו לחלוטין מאִשָּׁה </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 15:14:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>הושע יב13: &quot;וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה וּבְאִשָּׁה שָׁמָר&quot;.......</p><p>הושע יב14: &quot;וּבְנָבִיא הֶעֱלָה יהוה אֶת יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר&quot;.......</p><p>אחיי בני ישראל שימו לב לפסוקים האלה כפי הסדר כי בטרם תינבא יש להשמר מאִשָּׁה</p><p>כל אבותינו הקדושים שהיו נביאים נשמרו מאִשָּׁה וכשאתה נשמר מאִשָּׁה תוכל לאכול לחם הקודש</p><p>שמואל א כא5: &quot;וַיַּעַן הַכֹּהֵן אֶת דָּוִד וַיֹּאמֶר אֵין לֶחֶם חֹל אֶל תַּחַת יָדִי כִּי אִם לֶחֶם קֹדֶשׁ יֵשׁ אִם נִשְׁמְרוּ הַנְּעָרִים אַךְ מֵאִשָּׁה&quot;</p><p>אבותינו הקדושים נשמרו ממגע אִשָּׁה בנידתה וכשאבותינו היו בשליחות אלהים התנזרו ופרשו לחלוטין מאִשָּׁה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-10 15:32:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-10 15:32:38' 
+			WHERE messageid=13047;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-11 07:16:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-11 07:16:14' 
+			WHERE messageid=13049;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-94-02.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-11 07:16:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-10-11 07:16:29' 
+			WHERE messageid=13050;
+
