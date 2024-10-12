@@ -11085,3 +11085,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-11 07:16:29' 
 			WHERE messageid=13050;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p>ועדת החקירה הרוחנית של הסנהדרין http://www.thesanhedrin.org/he/index.php/Repent </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2024-10-11 12:15:49'
+		)
+		;
+
