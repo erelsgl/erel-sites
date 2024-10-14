@@ -17722,3 +17722,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sofrim/proptrek.html',
+				'https://annas-archive.org/md5/9879be385e659369e89e3165052efbc9',
+				NULL,
+				'2024-10-13 13:15:09',
+				'2024-10-13 13:15:09',
+				'קישור נוסף לאותו ספר תורת המלכים 614 עמודים 100+ מגא',
+				'אני ואפסי עוד',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-13 15:02:55'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
