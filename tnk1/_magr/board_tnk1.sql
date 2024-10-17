@@ -17746,3 +17746,81 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1699.html',
+				NULL,
+				'2024-10-16 11:12:35',
+				'2024-10-16 11:12:35',
+				'חג סוכות ושמחת תורה-השמחה והעצבות-הילכו יחדיו?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-10-16 11:12:35'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1700.html',
+				NULL,
+				'2024-10-16 11:19:01',
+				'2024-10-16 11:19:01',
+				'העצבות והשמחה יחדיו/ שיר מאת: אהובה קליין (c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-10-16 11:19:01'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-16 12:12:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-16 14:53:30'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-13-33.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-16 14:57:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t35b08_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-16 14:57:38'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
