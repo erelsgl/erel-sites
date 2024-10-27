@@ -11311,3 +11311,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>******** תהלים קכא5: &quot;יהוה שֹׁמְרֶךָ יהוה צִלְּךָ עַל יַד יְמִינֶךָ&quot; ********</p><p>-----------------------------------------------------------------------------</p><p>https://try.astrology.app/en?utm_source=Facebook&amp;utm_medium=cpc&amp;campaign_id=120215095501280226&amp;utm_adgroup_id=120215930052240226&amp;ad_id=120215930052300226&amp;utm_campaign=JH_PDT_WW_865%2B829%2B711%2B802&amp;adset_name=AstrologyH_Palm_PDT_WW%28eng%29_Qol_LC_All18%2B_AdvPlace&amp;ad_name=%7B%7Bad.name%7D&amp;fbclid=IwY2xjawGKJZNleHRuA2FlbQIxMAABHS1LxCi0tHsriqv--_Vh_gYPxo4q9UoUkuWaKvNz1p9qwm396wTVX17pvw_aem_vIpcM1szMTcz48ia7GQ_YQ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-27 04:42:24'
+		)
+		;
+
