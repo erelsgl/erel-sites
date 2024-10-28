@@ -17902,3 +17902,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/gdh1.html',
+				'tnk1/messages/ljon_jorj_gdh1_0.html',
+				NULL,
+				'2024-10-27 17:10:08',
+				'2024-10-27 17:10:08',
+				'לא תבשל גדי בחלב אמו = כל עוד הוא יונק',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-10-28 04:19:05'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
