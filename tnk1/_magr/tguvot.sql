@@ -11404,3 +11404,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-10-29 13:32:17' 
 			WHERE messageid=13068;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0618_0.html',
+		'<p>https://scontent.fhfa1-1.fna.fbcdn.net/v/t39.30808-6/464853218_1088619436600318_3805412029793076619_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=5axwiXCoqFYQ7kNvgEfyK4k&amp;_nc_zt=23&amp;_nc_ht=scontent.fhfa1-1.fna&amp;_nc_gid=Abw_ky5oGVHsl6J9bFwOOCa&amp;oh=00_AYBSzT7TDue2UvFLGpcKT5QlgS86T0ZeLzbhVpCm-An2AA&amp;oe=6727F917</p><p>-</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-10-30 14:05:08'
+		)
+		;
+
