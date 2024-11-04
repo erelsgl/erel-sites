@@ -11473,3 +11473,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-11-01 13:24:47' 
 			WHERE messageid=13073;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>בכתב ידו: הרב עובדיה יוסף תמך במסירת שטחים לחמאס</p><p>https://www.srugim.co.il/138020-%D7%91%D7%9B%D7%AA%D7%91-%D7%99%D7%93%D7%95-%D7%94%D7%A8%D7%91-%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%94-%D7%AA%D7%9E%D7%9A-%D7%91%D7%9E%D7%A1%D7%99%D7%A8%D7%AA-%D7%A9%D7%98%D7%97%D7%99%D7%9D#google_vignette</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-04 05:16:49'
+		)
+		;
+
