@@ -18090,3 +18090,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-11-07 20:20:06'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/1381.html',
+				'tnk1/messages/dmut_dmut_1381_1.html',
+				NULL,
+				'2024-11-08 09:05:19',
+				'2024-11-08 09:05:19',
+				'קרן = הפוך (בת איוב)',
+				'אביתר כהן',
+				''
+			)
+		;
+
