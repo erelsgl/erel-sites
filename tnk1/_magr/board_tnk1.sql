@@ -18106,3 +18106,11 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-11-09 16:40:48'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
