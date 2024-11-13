@@ -11523,3 +11523,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-11-10 08:58:20' 
 			WHERE messageid=13076;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-13 04:42:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-11-13 04:42:19' 
+			WHERE messageid=13077;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2701_0.html',
+		'<p>צדיק ורע לו רשע וטוב לו ? קשקוש של הרבנים</p><p>קהלת ח5: &quot;שׁוֹמֵר מִצְוָה לֹא יֵדַע דָּבָר רָע וְעֵת וּמִשְׁפָּט יֵדַע לֵב חָכָם&quot;</p><p>ראה במאמרי זה גם תגובתי זאת מיום 2021-08-10 14:34:05</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-13 05:05:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>דמיינו איזה ענק צריך להיות כדי לאחוז בחרב הזאת שנמצאה בארכיאולוגיה</p><p>https://www.facebook.com/photo?fbid=448518138261821&amp;set=a.135269199586718</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-13 07:09:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>דמיינו איזה ענק צריך להיות כדי לאחוז בחרב הזאת שנמצאה בארכיאולוגיה</p><p>https://www.facebook.com/photo?fbid=448518138261821&amp;set=a.135269199586718</p><p>-</p><p>https://scontent.ftlv1-1.fna.fbcdn.net/v/t39.30808-6/466367684_448518144928487_8572023263253053482_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=zjmIINgQBPEQ7kNvgEm8r3D&amp;_nc_zt=23&amp;_nc_ht=scontent.ftlv1-1.fna&amp;_nc_gid=AL45K3omw6bBhce60mLLeB9&amp;oh=00_AYA95kMH-KwbeKhk0gp2X4dM54NLZVlk6xnJBMlMpQlxEQ&amp;oe=673A33F6</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-13 07:10:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-11-13 07:10:15' 
+			WHERE messageid=13079;
+
