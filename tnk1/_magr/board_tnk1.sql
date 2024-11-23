@@ -18294,3 +18294,19 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2024-11-21 20:42:33'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-11-22 10:38:48'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-11-22 10:59:52'
+		WHERE ktovt_bn='tnk1/dmut/ToknLfiDmutHkl.html'
+		;
+

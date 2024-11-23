@@ -11647,3 +11647,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-11-16 17:18:13' 
 			WHERE messageid=13084;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-22 10:38:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-11-22 10:38:54' 
+			WHERE messageid=13085;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutHkl.html',
+		'<p>האם חסר אלידד בן כסלון? נשיא שבט בנימין</p>',
+		'118187115172037285201',
+		'Stav Emanuel',
+		'2024-11-22 10:59:52'
+		)
+		;
+
