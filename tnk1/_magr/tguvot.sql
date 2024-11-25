@@ -11678,3 +11678,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-20-15.html',
+		'<p></p>',
+		'117654915282824265602',
+		'Ori Gleisner',
+		'2024-11-24 14:20:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-20-15.html',
+		'<p>https://tora.us.fm/tnk1/messages/prqim_t2820_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-24 14:51:50'
+		)
+		;
+

@@ -18310,3 +18310,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/dmut/ToknLfiDmutHkl.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-11-24 14:20:05'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-20-15.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-11-24 14:51:50'
+		WHERE ktovt_bn='tnk1/ktuv/mjly/mj-20-15.html'
+		;
+
