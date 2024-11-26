@@ -11702,3 +11702,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qormn2.html',
+		'<p>הספר &quot;יציאת מצרים ומתן תורה&quot; נמצא גם כן באוצר החכמה</p>',
+		'108531812961108088179',
+		'טל הרוש',
+		'2024-11-25 20:23:06'
+		)
+		;
+
