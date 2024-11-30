@@ -11726,3 +11726,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>ארץ ישראל הייתה יפה פעם</p><p>https://www.facebook.com/HalleluHeb/videos/1983103281960606</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-11-29 09:01:15'
+		)
+		;
+
