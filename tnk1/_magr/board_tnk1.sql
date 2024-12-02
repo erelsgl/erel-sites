@@ -18404,3 +18404,42 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2823_0.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/nvia/tryasr/ml-01b.html',
+				NULL,
+				'2024-12-01 10:17:23',
+				'2024-12-01 10:17:23',
+				'ברכות יעקב ועשו בספר מלאכי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-12-01 10:17:23'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-01 14:58:43'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ml-01b.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-01 15:10:41'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ml-01b.html'
+		;
+

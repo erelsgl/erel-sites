@@ -2335,3 +2335,41 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t2823_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/ml-01b.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-12-01 14:58:43'
+		WHERE parent='tnk1/nvia/tryasr/ml-01b.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/nvia/tryasr/ml-01b.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2024-12-01 15:10:41'
+		WHERE parent='tnk1/nvia/tryasr/ml-01b.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2024-12-01 15:10:45'
+			WHERE parent='tnk1/nvia/tryasr/ml-01b.html'
+			;
+

@@ -11750,3 +11750,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ml-01b.html',
+		'<p> מלאכי א6: &quot; בֵּן יְכַבֵּד אָב, וְעֶבֶד אֲדֹנָיו; וְאִם אָב אָנִי - אַיֵּה כְבוֹדִי? וְאִם אֲדוֹנִים אָנִי - אַיֵּה מוֹרָאִי? אָמַר ה\' צְבָאוֹת לָכֶם הַכֹּהֲנִים בּוֹזֵי שְׁמִי... </p><p> הרבנים כהני הדת בישראל אלה הם = הַכֹּהֲנִים בּוֹזֵי שְׁמִי.</p><p>לא צריך ועדת חקירה רוחנית </p><p>כי כבר כתבתי כי ארועי 7 באוקטובר 2023 וכל מצב הביש של ישראל הוא בגלל הרבנים שאין להם מורא ואינם מכבדים את השם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-01 14:58:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ml-01b.html',
+		'<p>מלאכי א6: &quot; בֵּן יְכַבֵּד אָב, וְעֶבֶד אֲדֹנָיו; וְאִם אָב אָנִי - אַיֵּה כְבוֹדִי? וְאִם אֲדוֹנִים אָנִי - אַיֵּה מוֹרָאִי? אָמַר ה\' צְבָאוֹת לָכֶם הַכֹּהֲנִים בּוֹזֵי שְׁמִי...</p><p>הרבנים כהני הדת בישראל אלה הם = הַכֹּהֲנִים בּוֹזֵי שְׁמִי.</p><p>זה כל הסיפור לא צריך ועדת חקירה רוחנית</p><p>כי כבר כתבתי כי ארועי 7 באוקטובר 2023 וכל מצב הביש של ישראל הוא בגלל הרבנים שאין להם מורא ואינם מכבדים את השם</p><p>https://tora.us.fm/tnk1/messages/prqim_t1502_2.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-01 15:10:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-12-01 15:10:45' 
+			WHERE messageid=13093;
+
