@@ -11800,3 +11800,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-12-06 09:58:53' 
 			WHERE messageid=13095;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/47.html',
+		'<p>הרב יצר אצלי רצון מחודש לחשוב על כל הנושא</p><p>הבנתי מדבריו, שיש כאן סוג של פרסומת ליעקב ונעמי, מה שלא נצרך אצל אברהם ויצחק.</p><p>חשבתי לעצמי, אולי יש כאן הסבר, מדוע ה׳ ניצב עליו לשמרו, שהרי יש כאן כ’’כ הרבה מזיקים מחמת שהיה כאן לבדו, מחמת שיציאת עשתה הרבה רושם, ובאו לפגוע בו, אילולי השמירה ממרום.</p><p>ודוקא כאן ואצל נעמי צריך לכתוב שעושה רושם, כי כאן בנקודת החיים הזאת הם הגיעו לפסגת חייהם, מה שלא היה אצלם אף פעם. משא’’כ אצל אברהם ויצחק (נוסף להסבר שכתב הרב שהיו מפורסמים מקודם).</p><p>חשוב להדגיש, כי נעמי לא הוצרכה לשמירה, מכיון שלא נשארה לבדה, כי אם עם כלותיה.</p>',
+		'103754116965256510561',
+		'ישראל טל',
+		'2024-12-07 20:08:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/zuckm/47.html',
+		'<p></p>',
+		'103754116965256510561',
+		'ישראל טל',
+		'2024-12-07 20:09:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-12-07 20:09:28' 
+			WHERE messageid=13097;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/mcwot.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-08 05:22:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-12-08 05:22:41' 
+			WHERE messageid=13098;
+
