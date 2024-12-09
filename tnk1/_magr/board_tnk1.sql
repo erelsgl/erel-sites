@@ -18521,3 +18521,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/klli/mdrjim/mcwot.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-08 18:01:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-09 01:17:47'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/bet_el.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-09 03:46:24'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/bet_el.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-09 07:37:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_2.html'
+		;
+
