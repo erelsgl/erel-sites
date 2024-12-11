@@ -11905,3 +11905,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2024-12-09 07:37:52' 
 			WHERE messageid=13099;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>קהלת ג11: &quot;אֶת הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ גַּם אֶת הָעֹלָם נָתַן בְּלִבָּם מִבְּלִי אֲשֶׁר לֹא יִמְצָא הָאָדָם אֶת הַמַּעֲשֶׂה אֲשֶׁר עָשָׂה הָאֱלֹהִים מֵרֹאשׁ וְעַד סוֹף&quot; </p><p>-------------------------------------------------  הָעֹלָם נָתַן בְּלִבָּך....... על כן שמה בלבך כל התשובות לשאלות ומשאלות לבך</p><p>דברים ל14: &quot;כִּי קָרוֹב אֵלֶיךָ הַדָּבָר מְאֹד בְּפִיךָ וּבִלְבָבְךָ לַעֲשֹׂתוֹ&quot;....... ואם יהיה לך לב טוב וישר אז תוכל הַדָּבָר לַעֲשֹׂתוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-10 14:21:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>משלי ג6: &quot;בְּכָל דְּרָכֶיךָ דָעֵהוּ וְהוּא יְיַשֵּׁר אֹרְחֹתֶיךָ</p><p>משלי טז3: &quot;גֹּל אֶל יהוה מַעֲשֶׂיךָ וְיִכֹּנוּ מַחְשְׁבֹתֶיךָ&quot;</p><p> &quot;גֹּל אֶל יהוה מַעֲשֶׂיךָ = בְּכָל דְּרָכֶיךָ דָעֵהוּ</p><p> וְהוּא יְיַשֵּׁר אֹרְחֹתֶיךָ = וְיִכֹּנוּ מַחְשְׁבֹתֶיךָ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-10 15:28:32'
+		)
+		;
+
