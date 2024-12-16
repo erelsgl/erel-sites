@@ -11984,3 +11984,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים קד33: &quot;אָשִׁירָה ליהוה בְּחַיָּי אֲזַמְּרָה לֵאלֹהַי בְּעוֹדִי&quot;</p><p>תהלים קמו2: &quot;אֲהַלְלָה יהוה בְּחַיָּי אֲזַמְּרָה לֵאלֹהַי בְּעוֹדִי&quot;</p><p>אָשִׁירָה = אֲהַלְלָה</p><p>לשיר = להלל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-15 12:09:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים סט18: &quot;וְאַל תַּסְתֵּר פָּנֶיךָ מֵעַבְדֶּךָ כִּי צַר לִי מַהֵר עֲנֵנִי&quot;</p><p>תהלים קב3: &quot;אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי בְּיוֹם צַר לִי הַטֵּה אֵלַי אָזְנֶךָ בְּיוֹם אֶקְרָא מַהֵר עֲנֵנִי&quot;</p><p>תהלים קמג7: &quot;מַהֵר עֲנֵנִי יהוה כָּלְתָה רוּחִי אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי וְנִמְשַׁלְתִּי עִם יֹרְדֵי בוֹר&quot;</p><p>מַהֵר עֲנֵנִי יהוה =  אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי מֵעַבְדֶּךָ</p><p>אם יהוה ענה לך אות היא כי נגלו לך פני אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-15 18:16:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/ndr.html',
+		'<p>כתוב בזוהר פרשת וישלח:</p><p>דקע&quot;ד ע&quot;ב בסוף פיסקא המתחילה: ויהי בצאת נפשה כי מתה...</p><p>ותא חזי בגין דיעקב אחר נדרים דנדר קמי קודשא בריך הוא אתתקף דינא על ידא דמקטרגא דקטרג עליה דיעקב ובעא דינא בשעתא דסכנה דהוות רחל בה אמר קמי קודשא בריך הוא והא יעקב נדר נדריה ולא שלים והא איהו תקיף מכולא בעותרא ובבנין בכל מה דאצטריך ולא שלים נדריה דנדר קמך ולא נסבת עונשא מיניה מיד ותלד רחל ותקש בלדתה. מאי ותקש דאתקשי דינא לעילא גבי מלאך המות ואתענש יעקב בהאי מאי טעמא בגין דכתיב אם אין לך לשלם למה יקח משכבך מתחתיך. ועל דא מיתת רחל ואתמסר דינא על ידא דמלאך המות.</p>',
+		'101016101841541046595',
+		'UA',
+		'2024-12-16 01:54:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0128_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-16 06:18:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2024-12-16 06:18:59' 
+			WHERE messageid=13112;
+
