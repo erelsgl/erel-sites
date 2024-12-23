@@ -18861,3 +18861,98 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-22 13:34:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-22 14:23:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0127_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-22 18:44:52'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-22 18:47:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2690_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/1israel.html',
+				'tnk1/tora/dvrim/dm-09-05.html',
+				NULL,
+				'2024-12-23 02:41:31',
+				'2024-12-23 02:41:31',
+				'האם צדיקות היא תנאי לירושת ארץ ישראל?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2024-12-23 02:41:31'
+			WHERE ktovt_bn='tnk1/msr/1israel.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-23 03:03:33'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-05.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-23 03:05:29'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-05.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-23 03:24:53'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-05.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-23 03:40:54'
+		WHERE ktovt_bn='tnk1/tora/dvrim/dm-09-05.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2024-12-23 05:58:01'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2674_0.html'
+		;
+
