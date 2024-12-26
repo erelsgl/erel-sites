@@ -12521,3 +12521,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-30-02.html',
+		'<p>תהלים ל2: &quot; אֲרוֹמִמְךָ יהוה כִּי דִלִּיתָנִי וְלֹא שִׂמַּחְתָּ אֹיְבַי לִי. &quot;</p><p>תהלים קטז6: &quot;שֹׁמֵר פְּתָאיִם יהוה דַּלּוֹתִי וְלִי יְהוֹשִׁיעַ&quot;</p><p> משמעות נוספת:....... כִּי דִלִּיתָנִי = דַּלּוֹתִי = עשית אותי דל... [ולא גזרת עלי מחלה כי אם הושעתני]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2024-12-26 04:50:58'
+		)
+		;
+
