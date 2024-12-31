@@ -19234,3 +19234,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/hrr.html',
+				'tnk1/ktuv/thlim/th-30-08.html',
+				NULL,
+				'2024-12-31 02:34:23',
+				'2024-12-31 02:34:23',
+				'העמדת להררי עוז',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/bce1.html',
+				'tnk1/ktuv/thlim/th-30-10.html',
+				NULL,
+				'2024-12-31 04:16:42',
+				'2024-12-31 04:16:42',
+				'הודיה ואמת מצדיקים את קיומנו',
+				'אראל',
+				''
+			)
+		;
+
