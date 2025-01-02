@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2024-09-24 18:44:38
+# This file was automatically generated at 2025-01-01 19:49:23
 
 sub wikia_replace_links {
 $_=shift;
@@ -1632,6 +1632,7 @@ s|${OPENLINK}tnk1/tora/dvrim/dm-10-16|[[ביאור:מילת ערלת הלב|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-21|[[ביאור:הנחל היורד מן ההר|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-17|[[ביאור:לוחות הברית המרחפים|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-1517|[[ביאור:לוחות מרחפים|ig;
+s|${OPENLINK}tnk1/tora/dvrim/dm-09-05|[[ביאור:האם צדיקות היא תנאי לירושת ארץ ישראל?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09-0405|[[ביאור:מדוע זכו ישראל לרשת את ארצם של הכנענים?|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-09|[[ביאור:דברים ט-י|ig;
 s|${OPENLINK}tnk1/tora/dvrim/dm-08-1118|[[ביאור:מצעד צה"ל - טוב או רע?|ig;
@@ -3540,6 +3541,7 @@ s|${OPENLINK}tnk1/nvia/tryasr/ml-0203|[[ביאור:תלונות של צדיקי�
 s|${OPENLINK}tnk1/nvia/tryasr/ml-02-10|[[ביאור:הלא אב אחד לכולנו, הלא אל אחד בראנו|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ml-02-0507|[[ביאור:ברית הלוי|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ml-02|[[ביאור:שלוש בריתות בספר מלאכי - ברית הלוי, ברית אבותינו, אשת בריתך|ig;
+s|${OPENLINK}tnk1/nvia/tryasr/ml-01b|[[ביאור:ברכות יעקב ועשו בספר מלאכי|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ml-010203|[[ביאור:ספר מלאכי - מבנים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/ml-01|[[ביאור:אם כבנים, אם כעבדים|ig;
 s|${OPENLINK}tnk1/nvia/tryasr/mitsraim|[[ביאור:יציאת מצרים בדברי הושע, עמוס ומיכה|ig;
@@ -7053,6 +7055,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_klh2_0|[[ביאור:כליות = מקום �
 s|${OPENLINK}tnk1/messages/ljon_jorj_klh1_0|[[ביאור:ניצחון = עד-כלותם|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_klb_0|[[ביאור:שמותיו של הכלב במקרא|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_kkr_0|[[ביאור:ככר = עגול|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_kkb_1|[[ביאור:שמות קבוצות הכוכבים לפי אבן עזרא|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_kkb_0|[[ביאור:כוכבים ומזלות בתנ"ך|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_kjp_0|[[ביאור:מכשף / קוסם / בד|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_kjl_1|[[ביאור:על מכשולים בתנ"ך|ig;
@@ -7099,6 +7102,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_gml2_0|[[ביאור:להבין וגם לה�
 s|${OPENLINK}tnk1/messages/ljon_jorj_gjm_0|[[ביאור:הגשם בחג הסוכות|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_gej_0|[[ביאור:(הר) געש = סלפית|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_gd_0|[[ביאור:גד = כוסברה|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_gdh1_0|[[ביאור:לא תבשל גדי בחלב אמו = כל עוד הוא יונק|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_fwb_0|[[ביאור:טוב - נעים - הרבה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_frp_0|[[ביאור:עלה טרף ונחל זרד|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_frm_0|[[ביאור:בטרם הרים יולדו... כלומר בראשית...|ig;
@@ -7115,6 +7119,7 @@ s|${OPENLINK}tnk1/messages/ljon_jorj_erb6_0|[[ביאור:ערבות = עננים
 s|${OPENLINK}tnk1/messages/ljon_jorj_eqr_1|[[ביאור:עקרות ולידה ג|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_eqr_0_0|[[ביאור:'עקרה' - עמירה הגני|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_eqr_0|[[ביאור:עקרות ולידה ב|ig;
+s|${OPENLINK}tnk1/messages/ljon_jorj_epl_0|[[ביאור:על עפולים עכברים חומת העופל ושער חולדה|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_enq_0|[[ביאור:ענקים עליך ישראל|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_enh_0|[[ביאור:ענה = שר, זימר, שימח|ig;
 s|${OPENLINK}tnk1/messages/ljon_jorj_enh3_0|[[ביאור:פדן = ג'יפתליק = צמד שדה|ig;
@@ -8305,10 +8310,38 @@ s|${OPENLINK}tnk1/messages/forums_176|[[ביאור:יונה הנביא - מדו�
 s|${OPENLINK}tnk1/messages/forums_175|[[ביאור:'יום דין הברואים' שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_174|[[ביאור:'חיים טובים' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_173|[[ביאור:פרשת האזינו - כיצד להימנע מכישלונות בחיים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1720|[[ביאור:'אחי יוסף מצייתים לאביהם' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_172|[[ביאור:'צלילי שופר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1719|[[ביאור:פרשת  מקץ - כיצד רומזת הפרשה לנסי חנוכה בשליטת ה'?/ אהובה  קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1718|[[ביאור:'חנוכיית הגבורה והנסים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1717|[[ביאור:פרשת וישב - המשותף לפרשה, לימנו ולחנוכה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1716|[[ביאור:'ברכת ה' ליעקב- לדורות' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1715|[[ביאור:פרשת וישלח - איך ברכת ה' ליעקב מלווה אותנו כיום!|ig;
+s|${OPENLINK}tnk1/messages/forums_1714|[[ביאור:'יעקב והרועים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1713|[[ביאור:פרשת ויצא - מאין כי ארץ ישראל נועדה רק לעם ישראל לעד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1712|[[ביאור:'יעקב ועשיו-שני לאומים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1711|[[ביאור:פרשת תולדות, עשיו ויעקב - מה הקשר לימינו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1710|[[ביאור:'אברהם אבי האומה לעד' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_171|[[ביאור:'העם והברית' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1709|[[ביאור:פרשת חיי שרה - אברהם ושרה - במה זכו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1708|[[ביאור:'אברהם שב מן העקדה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1707|[[ביאור:פרשת וירא - מה נלמד מניסיון העקדה לתקופתנו?אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1706|[[ביאור:'הולדת ישמעאל' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1705|[[ביאור:פרשת לך לך - מה בישר המלאך להגר על עתיד ישמעאל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1704|[[ביאור:'גורל דור הפלגה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1703|[[ביאור:פרשת נח - דור הפלגה - גורלם והמסקנות לעתיד ישראל?|ig;
+s|${OPENLINK}tnk1/messages/forums_1702|[[ביאור:'מתנת השבת  ליהודי' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1701|[[ביאור:פרשת בראשית - השבת - מעלותיה ליהודים וארץ ישראל/ מאת: אהובה קליין|ig;
+s|${OPENLINK}tnk1/messages/forums_1700|[[ביאור:'העצבות והשמחה יחדיו' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_170|[[ביאור:פרשת ניצבים וילך - הכנות לראש השנה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_17|[[ביאור:'עקדת יצחק' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1699|[[ביאור:חג סוכות ושמחת תורה - השמחה והעצבות - הילכו יחדיו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1698|[[ביאור:'יונה הנביא ומחשבותיו' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1697|[[ביאור:יום כיפור בזמן מלחמה - ממה התעלם יונה הנביא?|ig;
+s|${OPENLINK}tnk1/messages/forums_1696|[[ביאור:'משל הרועה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1695|[[ביאור:ראש השנה ופרשת האזינו - מסר לחיים טובים|ig;
+s|${OPENLINK}tnk1/messages/forums_1694|[[ביאור:'מלחמת קיום' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1693|[[ביאור:פרשת נצבים - וילך - מלחמת קיום ונבואת משה!|ig;
 s|${OPENLINK}tnk1/messages/forums_1692|[[ביאור:'לבוא לארץ להאיר' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1691|[[ביאור:פרשת כי תבוא - התורה, ארץ ישראל ותקופתנו|ig;
 s|${OPENLINK}tnk1/messages/forums_1690|[[ביאור:'מלחמת עמלק-אז והיום!' - שיר מאת אהובה קליין (c)|ig;
@@ -9204,6 +9237,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_153_0|[[ביאור:שמות נשותיו ש
 s|${OPENLINK}tnk1/messages/dmut_dmut_143_0|[[ביאור:אדבאל = נודב|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1436_0_1|[[ביאור:הילד השני הוא אבשלום|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1436_0|[[ביאור:קהלת בן דוד = החכמה שהוליד דוד ליום הקהל|ig;
+s|${OPENLINK}tnk1/messages/dmut_dmut_1381_1|[[ביאור:קרן = הפוך (בת איוב)|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1381_0|[[ביאור:קרן הפוך = כוכב ה"קרן" בקבוצת ה"ראם"|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1341_0|[[ביאור:פירוש חז"ל לשמות המרגלים|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1331_2|[[ביאור:חזון דניאל על "אובל אולי"|ig;
@@ -9233,6 +9267,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_1173_0|[[ביאור:שמעיה הנחלמי
 s|${OPENLINK}tnk1/messages/dmut_dmut_1147_1|[[ביאור:עת שקר סופרים... נבואת ירמיה לזמן הזה...|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1147_0|[[ביאור:נבואת ירמיה כללה טווח זמן של 70 שנה|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1125_0|[[ביאור:פרעה נכו - 610-595 לפסה"נ|ig;
+s|${OPENLINK}tnk1/messages/dmut_dmut_111_0|[[ביאור:קמואל בן נחור אבי ארם|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1114_0|[[ביאור:'שיעור במקרא' - נתן יונתן|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1104_0|[[ביאור:אור כשדים = אורפה|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_1100_0|[[ביאור:תרהקה מלך כוש = שמה של שושלת הפרעונים הנובית|ig;
@@ -9674,6 +9709,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-94-12|[[ביאור:אשרי הגבר אשר תי
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-09|[[ביאור:הנוטע אוזן הלא ישמע?! אם יוצר עין הלא יביט?!|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-07|[[ביאור:התפארות הרשעים משפילה את כבוד ה'|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-04|[[ביאור:תפילה שהגויים יובסו עד שלא יוכלו להגיד שניצחו|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-94-02|[[ביאור:הינשא שופט הארץ, השב גמול על גאים!|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94-01|[[ביאור:קריאה לה' שיופיע וינקום|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-94|[[ביאור:מבנה תהלים צד|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-93-05|[[ביאור:מראש הנקרה לבית המקדש|ig;
@@ -9735,9 +9771,15 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-34-1214|[[ביאור:דיבורי יראת ה'|i
 s|${OPENLINK}tnk1/ktuv/thlim/th-33-22|[[ביאור:יהי חסדך ה' עלינו, כאשר ייחלנו לך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-32-0102|[[ביאור:מותר להסתיר חטאים בין אדם למקום כשלא מתגאים|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-30-dby|[[ביאור:מזמור שיר חנוכת הבית לדוד|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-13|[[ביאור:לאחר שניצלנו ממוות, נזמר לכבוד ה' בלי הפסקה|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-30-12|[[ביאור:הפכת מספדי למחול לי|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-10|[[ביאור:הודיה ואמת מצדיקים את קיומנו|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-08|[[ביאור:העמדת להררי עוז|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-07|[[ביאור:שלוה גורמת לבטחון עצמי מופרז|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-30-06|[[ביאור:לכעוס רגע ומייד להירגע|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-05|[[ביאור:זמרו לה' חסידיו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-30-04|[[ביאור:לעלות מהשאול, לא לרדת לבור|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-30-02|[[ביאור:תודה לה' שלא שימח את אויבינו|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-30-01|[[ביאור:איזה בית חנך דוד?|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-29-07|[[ביאור:חוצב להבות|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-27-israel|[[ביאור:תהלים כז כתפילת עם ישראל|ig;
@@ -11537,6 +11579,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/xtr|[[ביאור:חתר = חפר וחדר בסתר|
 s|${OPENLINK}tnk1/kma/qjrim1/xte|[[ביאור:חטא = עבירה מתוך טעות או תאוה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xsrlv|[[ביאור:חסר לב = שאינו מסוגל לחשוב|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xsk|[[ביאור:חשך (חסך) = לא נתן|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/xsid1|[[ביאור:מי הם החסידים של ה'?|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xsid|[[ביאור:חסיד = העושה מעבר לחובתו|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xsd|[[ביאור:סיכום הפסוקים בנושא עזרה לזולת|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/xs|[[ביאור:חסד = מעבר לחובה|ig;
@@ -12009,6 +12052,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/erkaf|[[ביאור:ארך אפיים = מחכה ז�
 s|${OPENLINK}tnk1/kma/qjrim1/erc_hqodj|[[ביאור:ארץ הקודש|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/eqv|[[ביאור:עקב = שכר או עונש|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/eni|[[ביאור:עני = אדם שמעמדו החברתי נמוך|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/emt1|[[ביאור:האמת של ה'|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/emori|[[ביאור:האמורי|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/elhim|[[ביאור:אלהים = שופטים המשתפים את ה'|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/el|[[ביאור:אלים = כוחות|ig;
@@ -13157,7 +13201,6 @@ s|${OPENLINK}tnk1/dm-12-11|[[ביאור:ביאור:דברים יב11|ig;
 s|${OPENLINK}tnk1/dm-12-10|[[ביאור:ביאור:דברים יב10|ig;
 s|${OPENLINK}tnk1/dm-12-1|[[ביאור:ביאור:דברים יב1|ig;
 s|${OPENLINK}tnk1/dm-12-09|[[ביאור:ביאור:דברים יב9|ig;
-s|${OPENLINK}tnk1/dm-09-5|[[ביאור:ביאור:דברים ט5|ig;
 s|${OPENLINK}tnk1/dm-08-6|[[ביאור:ביאור:דברים ח6|ig;
 s|${OPENLINK}tnk1/dm-08-3|[[ביאור:ביאור:דברים ח3|ig;
 s|${OPENLINK}tnk1/dm-07-12|[[ביאור:ביאור:דברים ז12|ig;
