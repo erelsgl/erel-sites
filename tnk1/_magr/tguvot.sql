@@ -12988,3 +12988,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-03 03:54:05' 
 			WHERE messageid=13173;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>משלי כז23: &quot;יָדֹעַ תֵּדַע פְּנֵי צֹאנֶךָ שִׁית לִבְּךָ לַעֲדָרִים&quot;</p><p>משלי כז24: &quot;כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור[וָדוֹר] &quot;</p><p>******* שִׁית לִבְּךָ לַעֲדָרִים =  נֵזֶר לְדוֹר דור *******</p><p>אם שמת לב לתת לבך לבעלי החיים לעולם תהיה קדוש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-04 16:00:00'
+		)
+		;
+
