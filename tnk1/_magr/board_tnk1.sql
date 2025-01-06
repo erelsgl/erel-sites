@@ -20788,3 +20788,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2655_5.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-01-05 18:27:07'
+		WHERE ktovt_bn='tnk1/kma/qjrim1/psx.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-01-06 06:00:31'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
