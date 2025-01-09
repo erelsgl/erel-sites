@@ -13067,3 +13067,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0118_3.html',
+		'<p>לפי הבתני, למה שכתוב וכיצד התקיים: כאשר &quot;לעת חיה&quot; מדובר על תקופת זמן של &quot;שנה שלמה&quot; על איזה שנה מדובר? על &quot;שנת היריח&quot; או על &quot;שנת החמה&quot;? </p><p>כאשר הקב&quot;ה אמר לאברהם &quot;כעת חיה&quot;, האם התכון שישוב עשרה ימים לאחר הולד, שלושה ימים לאחר המילה? = שנת החמה?</p><p>כי אצל נח, שנת שמבול נערכה שנת היריח ועוד עשרה ימים, האם נקרה שתקופת המבול נערח כעת חיה,  שנת החמה?</p><p>האם כאשר התורה מדברת על &quot;שנה&quot; מתכוונת לשנת היאיח, אבל אם לשנת החמה, אומרת &quot;לעת חיה&quot;? </p><p>מה דעת המומחים בשפע של המקרא?</p><p>השואל: שמואל שמשוני</p>',
+		'111645498450300072982',
+		'Shmuel Shimshoni',
+		'2025-01-08 08:09:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>משלי כ3: &quot;כָּבוֹד לָאִישׁ שֶׁבֶת מֵרִיב....... וְכָל אֱוִיל יִתְגַּלָּע&quot;</p><p>אז איך נחמיה רב עם חֹרֵי יְהוּדָה</p><p>נחמיה יג17: &quot;וָאָרִיבָה....... אֵת חֹרֵי יְהוּדָה וָאֹמְרָה לָהֶם מָה הַדָּבָר הָרָע הַזֶּה אֲשֶׁר אַתֶּם עֹשִׂים וּמְחַלְּלִים אֶת יוֹם הַשַּׁבָּת&quot;</p><p>ובכן אמנם נכון כי  כָּבוֹד לָאִישׁ שֶׁבֶת מֵרִיב אבל אם ראית בוגדים עליך לריב איתם להתקוטט איתם</p><p>תהלים קיט158: &quot;רָאִיתִי בֹגְדִים וָאֶתְקוֹטָטָה אֲשֶׁר אִמְרָתְךָ לֹא שָׁמָרוּ&quot;</p><p>ואתה אל תמהר להתקוטט לשוא כי עליך להבין באמת מה היא אִמְרָתְ-יה פן תפרש בשגגה ויצאת לריב חינם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-08 08:15:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>כשאני רואה את השכונות החדשות שבונים שכונות של אספלט ומפלצות בטון נדל&quot;ן אבן ואוון</p><p>רק משפט אחד יש לי להגיד &quot;ארור מי שבנה טיפש מי שקנה&quot; אכן עבודה זרה עם עובדים זרים</p><p>ואם החרבתם את הארץ להביא עליה חורבן</p><p>ואיך אדריך אתכם ללכת אל עִיר מוֹשָׁב [קיבוץ כפר-חקלאי] בדרך ישרה ככתוב:</p><p>תהלים קז7: &quot;וַיַּדְרִיכֵם בְּדֶרֶךְ יְשָׁרָה לָלֶכֶת אֶל עִיר מוֹשָׁב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-08 08:25:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1312_3.html',
+		'<p>כשאני רואה את השכונות החדשות שבונים שכונות של אספלט ומפלצות בטון נדל&quot;ן אבן ואוון</p><p>רק משפט אחד יש לי להגיד &quot;ארור מי שבנה טיפש מי שקנה&quot; אכן עבודה זרה עם עובדים זרים</p><p>ואם החרבתם את הארץ להביא עליה חורבן ללא צמח השדה וללא חיית השדה</p><p>ואיך אדריך אתכם ללכת אל עִיר מוֹשָׁב [קיבוץ כפר-חקלאי] בדרך ישרה ככתוב:</p><p>תהלים קז7: &quot;וַיַּדְרִיכֵם בְּדֶרֶךְ יְשָׁרָה לָלֶכֶת אֶל עִיר מוֹשָׁב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-08 08:25:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-08 08:25:55' 
+			WHERE messageid=13182;
+
