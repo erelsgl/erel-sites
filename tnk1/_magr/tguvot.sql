@@ -13122,3 +13122,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-08 08:25:55' 
 			WHERE messageid=13182;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_2.html',
+		'<p>  בְּרִית הַלֵּוִי = יוֹרוּ מִשְׁפָּטֶיךָ לְיַעֲקֹב וְתוֹרָתְךָ לְיִשְׂרָאֵל</p><p>דברים לג8: &quot;וּלְלֵוִי אָמַר תֻּמֶּיךָ וְאוּרֶיךָ לְאִישׁ חֲסִידֶךָ אֲשֶׁר נִסִּיתוֹ בְּמַסָּה תְּרִיבֵהוּ עַל מֵי מְרִיבָה&quot;</p><p>דברים לג9: &quot;הָאֹמֵר לְאָבִיו וּלְאִמּוֹ לֹא רְאִיתִיו וְאֶת אֶחָיו לֹא הִכִּיר וְאֶת בנו[בָּנָיו] לֹא יָדָע כִּי שָׁמְרוּ אִמְרָתֶךָ וּבְרִיתְךָ יִנְצֹרוּ&quot;</p><p>דברים לג10: &quot;יוֹרוּ מִשְׁפָּטֶיךָ לְיַעֲקֹב וְתוֹרָתְךָ לְיִשְׂרָאֵל יָשִׂימוּ קְטוֹרָה בְּאַפֶּךָ וְכָלִיל עַל מִזְבְּחֶךָ&quot;</p><p>דברים לג11: &quot;בָּרֵךְ יהוה חֵילוֹ וּפֹעַל יָדָיו תִּרְצֶה מְחַץ מָתְנַיִם קָמָיו וּמְשַׂנְאָיו מִן יְקוּמוּן&quot;</p><p>-</p><p>מלאכי ב8: &quot;וְאַתֶּם סַרְתֶּם מִן הַדֶּרֶךְ הִכְשַׁלְתֶּם רַבִּים בַּתּוֹרָה שִׁחַתֶּם בְּרִית הַלֵּוִי אָמַר יהוה צְבָאוֹת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-09 18:03:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/hvdlim1/gr_tojv.html',
+		'<p>מה הבדל בין גר לאזרח</p><p></p>',
+		'117515255571269026901',
+		'Yael Slomovic',
+		'2025-01-09 20:39:34'
+		)
+		;
+
