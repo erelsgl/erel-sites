@@ -13246,3 +13246,96 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-12 17:06:41' 
 			WHERE messageid=13190;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/cmxonut.html',
+		'<p>חזון הצמחונות והשלום רק בעולם הבא --- כאשר אדם במותו מתנתק מחטא הדעת ושב לאדמתו</p><p>ולחזון אחרית הימים כתוב: בספר הנביא זכריה יד21: &quot;וְהָיָה כָּל סִיר בִּירוּשָׁלַים וּבִיהוּדָה קֹדֶשׁ ליהוה צְבָאוֹת </p><p>וּבָאוּ כָּל הַזֹּבְחִים וְלָקְחוּ מֵהֶם וּבִשְּׁלוּ בָהֶם וְלֹא יִהְיֶה כְנַעֲנִי עוֹד בְּבֵית יהוה צְבָאוֹת בַּיּוֹם הַהוּא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 16:05:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3412_0.html',
+		'<p>השמאל יעלה לשלטון באחרית הימים כי זה קץ הימין   חחחחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 16:36:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3412_0.html',
+		'<p>השמאל יעלה לשלטון באחרית הימים כי זה קֵץ הַיָּמִין חחחחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 16:37:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-13 16:37:11' 
+			WHERE messageid=13193;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3412_0.html',
+		'<p>השמאל יעלה לשלטון רק באחרית הימים כי זה קֵץ הַיָּמִין חחחחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 16:48:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-13 16:48:10' 
+			WHERE messageid=13194;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>תהלים לז25: &quot;נַעַר הָיִיתִי גַּם זָקַנְתִּי וְלֹא רָאִיתִי צַדִּיק נֶעֱזָב וְזַרְעוֹ מְבַקֶּשׁ לָחֶם&quot; ---  וְגַם לֹא לַחֲכָמִים לֶחֶם </p><p>שמות לד28: &quot;וַיְהִי שָׁם עִם יהוה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַל וּמַיִם לֹא שָׁתָה וַיִּכְתֹּב עַל הַלֻּחֹת אֵת דִּבְרֵי הַבְּרִית עֲשֶׂרֶת הַדְּבָרִים&quot;</p><p>דברים ט9: </p><p>&quot;בַּעֲלֹתִי הָהָרָה לָקַחַת לוּחֹת הָאֲבָנִים לוּחֹת הַבְּרִית אֲשֶׁר כָּרַת יהוה עִמָּכֶם וָאֵשֵׁב בָּהָר אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי וּמַיִם לֹא שָׁתִיתִי&quot;</p><p>משה לא אכל לחם ומים לא שתה כאשר הביא את התורה כי צַדִּיק וחכם לא מְבַקֶּשׁ לָחֶם</p><p> אך רבני חזל הרודפים אחר הלחם להם חוק &quot;פת שחרית&quot; לא מאמינים במשה וסלפו את תורתו כי אמרו אִם אֵין קֶמַח אֵין תּוֹרָה</p><p>דמיינו את משה ברדתו מן ההר וכל רבני חזל מקטרגים על משה ואומרים לו תורתך אינה קיימת כי לא הכנסת לפיך קמח במשך 40 יום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 17:45:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>תהלים לז25: &quot;נַעַר הָיִיתִי גַּם זָקַנְתִּי וְלֹא רָאִיתִי צַדִּיק נֶעֱזָב וְזַרְעוֹ מְבַקֶּשׁ לָחֶם&quot; --- וְגַם לֹא לַחֲכָמִים לֶחֶם</p><p>שמות לד28: &quot;וַיְהִי שָׁם עִם יהוה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַל וּמַיִם לֹא שָׁתָה וַיִּכְתֹּב עַל הַלֻּחֹת אֵת דִּבְרֵי הַבְּרִית עֲשֶׂרֶת הַדְּבָרִים&quot;</p><p>דברים ט9:</p><p>&quot;בַּעֲלֹתִי הָהָרָה לָקַחַת לוּחֹת הָאֲבָנִים לוּחֹת הַבְּרִית אֲשֶׁר כָּרַת יהוה עִמָּכֶם וָאֵשֵׁב בָּהָר אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי וּמַיִם לֹא שָׁתִיתִי&quot;</p><p>משה לא אכל לחם ומים לא שתה כאשר הביא את התורה כי צַדִּיק וחכם לא מְבַקֶּשׁ לָחֶם</p><p>אך רבני חזל הרודפים אחר הלחם להם חוק &quot;פת שחרית&quot; לא מאמינים במשה וסלפו את תורתו כי אמרו אִם אֵין קֶמַח אֵין תּוֹרָה</p><p>דמיינו את משה ברדתו מן ההר וכל רבני חזל מקטרגים על משה ואומרים לו אין תורתך קיימת כי לא הכנסת לפיך קמח במשך 40 יום</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-13 17:50:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-13 17:50:29' 
+			WHERE messageid=13196;
+
