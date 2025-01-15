@@ -13339,3 +13339,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-13 17:50:29' 
 			WHERE messageid=13196;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-14 18:48:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-14 18:48:39' 
+			WHERE messageid=13198;
+
