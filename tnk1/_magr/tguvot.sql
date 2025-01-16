@@ -13358,3 +13358,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-14 18:48:39' 
 			WHERE messageid=13198;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b03_1.html',
+		'<p>איוב ד18: &quot;הֵן בַּעֲבָדָיו לֹא יַאֲמִין וּבְמַלְאָכָיו יָשִׂים תָּהֳלָה&quot;</p><p>איוב טו15: &quot;הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין וְשָׁמַיִם לֹא זַכּוּ בְעֵינָיו&quot;</p><p>הֵן בַּעֲבָדָיו לֹא יַאֲמִין = הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין</p><p>לכן כשאברהם אבינו בעקדת יצחק שמע בקול אלהים</p><p>אברהם חידש את אמונת אלהים באדם וזאת הברכה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-16 07:04:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>איוב ד18: &quot;הֵן בַּעֲבָדָיו לֹא יַאֲמִין וּבְמַלְאָכָיו יָשִׂים תָּהֳלָה&quot;</p><p>איוב טו15: &quot;הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין וְשָׁמַיִם לֹא זַכּוּ בְעֵינָיו&quot;</p><p>הֵן בַּעֲבָדָיו לֹא יַאֲמִין = הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין</p><p>לכן כשאברהם אבינו בעקדת יצחק שמע בקול אלהים</p><p>אברהם חידש את אמונת אלהים באדם וזאת הברכה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-16 07:04:54'
+		)
+		;
+
