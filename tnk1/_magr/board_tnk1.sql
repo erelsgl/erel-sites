@@ -21199,3 +21199,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/7oct.html',
+				'tnk1/nvia/yxzqel/yx-29-07.html',
+				NULL,
+				'2025-01-26 02:32:00',
+				'2025-01-26 02:32:00',
+				'המשען הנשבר גרוע כמו אויב',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-01-26 05:17:29'
+		WHERE ktovt_bn='tnk1/nvia/yxzqel/yx-29-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-01-26 05:19:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1066_1.html'
+		;
+

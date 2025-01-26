@@ -13501,3 +13501,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-21 03:13:59' 
 			WHERE messageid=13207;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yxzqel/yx-29-07.html',
+		'<p>משלי כ6: &quot;רָב אָדָם יִקְרָא אִישׁ חַסְדּוֹ וְאִישׁ אֱמוּנִים מִי יִמְצָא&quot; </p><p>אדם צריך להיות בעל אמונה ולקרוא לאלהים שיעשה חסד עמו ולא לקרוא לאיש חסדו</p><p>מדינת ישראל צריכה להיות בעלת אמונה ולא לקרוא לבעלת בריתה</p><p>וכתוב בחזון הנביא :</p><p>מיכה ה6: &quot;וְהָיָה שְׁאֵרִית יַעֲקֹב בְּקֶרֶב עַמִּים רַבִּים כְּטַל מֵאֵת יהוה כִּרְבִיבִים עֲלֵי עֵשֶׂב אֲשֶׁר לֹא יְקַוֶּה לְאִישׁ וְלֹא יְיַחֵל לִבְנֵי אָדָם&quot; </p><p>&quot;לֹא יְקַוֶּה לְאִישׁ וְלֹא יְיַחֵל לִבְנֵי אָדָם&quot; כי אם ליהוה צבאות לבדו זאת האמונה אז יעשה עמנו חסד</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-26 05:17:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1066_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-26 05:19:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-26 05:19:12' 
+			WHERE messageid=13209;
+
