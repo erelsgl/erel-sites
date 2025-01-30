@@ -13551,3 +13551,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-29 06:31:03' 
 			WHERE messageid=13210;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.youtube.com/watch?v=jNOUpCzbg7o&amp;list=LL</p><p>יאיר לפיד ממחנה השמאל מנציח את המרן של ש&quot;ס שהיה מוכן להחזיר שטחים חבלי מולדת לחמאס הפלשתיני </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-29 08:39:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-01-29 09:07:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-01-29 09:07:43' 
+			WHERE messageid=13212;
+
