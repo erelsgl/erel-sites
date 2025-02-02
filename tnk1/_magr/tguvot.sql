@@ -13601,3 +13601,10 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-01-31 03:27:04' 
 			WHERE messageid=13213;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-02-01 18:44:13' 
+			WHERE messageid=8977;
+

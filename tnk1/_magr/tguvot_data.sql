@@ -4606,3 +4606,11 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-02-01 18:44:13'
+			WHERE parent='tnk1/messages/prqim_t0713_5.html'
+			;
+
