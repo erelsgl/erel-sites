@@ -13620,3 +13620,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mj/31-23.html',
+		'<p>לשפחה חרופה שמכלה את כוחותיה וחייה על עבודה אינסופית קוראים &quot;אשת חיל&quot;. בעלה שעל פי הכתובה אמור לפרנס אותה - לא עובד, ורק יושב עם זקני ארץ ומקבל כבוד. איזה כייף לאישתו.</p>',
+		'114992047347383717058',
+		'mona goldenberg',
+		'2025-02-06 02:39:16'
+		)
+		;
+

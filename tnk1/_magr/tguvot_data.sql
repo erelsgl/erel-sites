@@ -4629,3 +4629,18 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/nvia/yrmyhu/yr-12-05.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/ktuv/mj/31-23.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2025-02-06 02:39:16'
+		WHERE parent='tnk1/ktuv/mj/31-23.html'
+		;
+
