@@ -13651,3 +13651,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-02-07 13:42:36' 
 			WHERE messageid=13216;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/xld.html',
+		'<p>גם חלדה הנביאה</p>',
+		'105644579754179622098',
+		'Yacov Damary',
+		'2025-02-09 07:11:54'
+		)
+		;
+
