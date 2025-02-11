@@ -13663,3 +13663,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>יהושע כד14: &quot;וְעַתָּה יְראוּ אֶת יהוה וְעִבְדוּ אֹתוֹ בְּתָמִים וּבֶאֱמֶת</p><p>תהלים ב11:  &quot;עִבְדוּ אֶת יהוה בְּיִרְאָה וְגִילוּ בִּרְעָדָה&quot;</p><p>תהלים ק2:   &quot;עִבְדוּ אֶת יהוה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה&quot;</p><p>----------------</p><p>עִבְדוּ אֶת יהוה בְּתָמִים וּבֶאֱמֶת בְּיִרְאָה בְּשִׂמְחָה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-10 17:17:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p> </p><p>תהלים ב11:  &quot;עִבְדוּ אֶת יהוה בְּיִרְאָה וְגִילוּ בִּרְעָדָה&quot;</p><p>תהלים ק2:   &quot;עִבְדוּ אֶת יהוה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה&quot;</p><p>יהושע כד14: &quot;וְעַתָּה יְראוּ אֶת יהוה וְעִבְדוּ אֹתוֹ בְּתָמִים וּבֶאֱמֶת</p><p>----------------</p><p>עִבְדוּ אֶת יהוה בְּתָמִים וּבֶאֱמֶת בְּיִרְאָה בְּשִׂמְחָה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-10 17:17:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-02-10 17:17:53' 
+			WHERE messageid=13218;
+
