@@ -13732,3 +13732,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-02-16 19:27:39' 
 			WHERE messageid=13221;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>איזה צחוקים של הרב מאיר אליהו תראו ותחייכו</p><p>https://www.youtube.com/watch?v=Nf64NrxvAbg</p><p>https://www.youtube.com/watch?v=_-SPuVKt5vk</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-19 11:59:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>איזה צחוקים של הרב מאיר אליהו תראו וימלא שחוק פיכם</p><p>https://www.youtube.com/watch?v=Nf64NrxvAbg</p><p>https://www.youtube.com/watch?v=_-SPuVKt5vk</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-19 12:00:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-02-19 12:00:50' 
+			WHERE messageid=13222;
+
