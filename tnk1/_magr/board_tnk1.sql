@@ -21529,3 +21529,111 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-02-20 17:38:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1734.html',
+				NULL,
+				'2025-02-20 21:17:56',
+				'2025-02-20 21:17:56',
+				'פרשת  משפטים- האם מותר לכרות ברית עם אויב?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-02-20 21:17:56'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1735.html',
+				NULL,
+				'2025-02-20 21:20:30',
+				'2025-02-20 21:20:30',
+				'פרשת משפטים-האם מותר לכרות ברית עם אויב?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-02-20 21:20:30'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1736.html',
+				NULL,
+				'2025-02-20 21:32:25',
+				'2025-02-20 21:32:25',
+				'משפטי ה\'-מצילי חיים/שיר מאת: אהובה קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-02-20 21:32:25'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/tora/bmdbr/bm-35.html',
+				NULL,
+				'2025-02-21 03:56:36',
+				'2025-02-21 03:56:36',
+				'מבנה במדבר לה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-02-21 03:56:36'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-02-21 05:31:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1402_2.html'
+		;
+

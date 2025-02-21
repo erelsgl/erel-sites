@@ -13763,3 +13763,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-02-19 12:00:50' 
 			WHERE messageid=13222;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-20 17:38:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-02-20 17:38:57' 
+			WHERE messageid=13224;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>דברים כ16: &quot;רַק מֵעָרֵי הָעַמִּים הָאֵלֶּה אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ נַחֲלָה לֹא תְחַיֶּה כָּל נְשָׁמָה&quot; !!!!!!! הבנתם? מות לא טרנספר </p><p>שמואל א טו3: </p><p>&quot;עַתָּה לֵךְ וְהִכִּיתָה אֶת עֲמָלֵק וְהַחֲרַמְתֶּם אֶת כָּל אֲשֶׁר לוֹ וְלֹא תַחְמֹל עָלָיו וְהֵמַתָּה מֵאִישׁ עַד אִשָּׁה מֵעֹלֵל וְעַד יוֹנֵק מִשּׁוֹר וְעַד שֶׂה מִגָּמָל וְעַד חֲמוֹר&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-02-21 05:31:26'
+		)
+		;
+
