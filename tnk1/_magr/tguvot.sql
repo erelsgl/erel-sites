@@ -13987,3 +13987,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/tora_toknot.html',
+		'<p>אני משתמש באוצריא, תוכנה חינמית מעולה, עם אלפי ספרים מוקלדים ואפשרות לחיפוש, הכל מאוד גמיש ובקוד פתוח</p><p>https://www.otzaria.org/</p>',
+		'101294229831901552825',
+		'Moché Mimran',
+		'2025-03-04 09:57:55'
+		)
+		;
+
