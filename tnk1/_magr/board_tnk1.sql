@@ -21841,3 +21841,59 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2824_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-03-09 14:05:11'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1201_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/xqr.html',
+				'tnk1/messages/ljon_jorj_xqr_0.html',
+				NULL,
+				'2025-03-09 16:12:55',
+				'2025-03-09 16:12:55',
+				'מחקר התנ\"ך לאור הבינה המלאכותית',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-03-09 16:14:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2619_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-03-09 17:28:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2728_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-03-09 18:58:11'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_xqr_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-03-10 05:58:35'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+

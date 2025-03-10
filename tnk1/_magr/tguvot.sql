@@ -14018,3 +14018,63 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-03-07 03:31:50' 
 			WHERE messageid=13239;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>THE SKY</p><p>https://www.youtube.com/watch?v=zQD6zmU2TD8&amp;list=LL&amp;index=98</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-09 14:05:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים עט5: &quot;עַד מָה יהוה תֶּאֱנַף לָנֶצַח תִּבְעַר כְּמוֹ אֵשׁ קִנְאָתֶךָ&quot;</p><p>תהלים פט47: &quot;עַד מָה יהוה תִּסָּתֵר לָנֶצַח תִּבְעַר כְּמוֹ אֵשׁ חֲמָתֶךָ&quot;</p><p> תֶּאֱנַף לָנֶצַח =  תִּסָּתֵר לָנֶצַח</p><p>-------- תֶּאֱנַף =  תִּסָּתֵר -------- אם אלהים אנף בך הלא הסתיר פניו ממך ואם אלהים הסתיר פניו ממך הלא אנף בך</p><p>-----------------------------------------------------------------------------------------------------------------------------------</p><p>תִּבְעַר כְּמוֹ אֵשׁ קִנְאָתֶךָ = תִּבְעַר כְּמוֹ אֵשׁ חֲמָתֶךָ</p><p>---------------- קִנְאָתֶךָ = חֲמָתֶךָ ----------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-09 16:14:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_2.html',
+		'<p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot;</p><p>קהלת ב11: &quot;וּפָנִיתִי אֲנִי בְּכָל מַעֲשַׂי שֶׁעָשׂוּ יָדַי וּבֶעָמָל שֶׁעָמַלְתִּי לַעֲשׂוֹת וְהִנֵּה הַכֹּל הֶבֶל וּרְעוּת רוּחַ וְאֵין יִתְרוֹן תַּחַת הַשָּׁמֶשׁ&quot;</p><p>קהלת ב13: &quot;וְרָאִיתִי אָנִי שֶׁיֵּשׁ יִתְרוֹן לַחָכְמָה מִן הַסִּכְלוּת כִּיתְרוֹן הָאוֹר מִן הַחֹשֶׁךְ&quot; ובתכל\'ס  וְאֵין יִתְרוֹן תַּחַת הַשָּׁמֶשׁ גם לחכם הכי גדול</p><p>אמנם כחכם יש לך יתרון על הכסיל אבל לשניהם גם לחכם וגם לכסיל כתוב וְאֵין יִתְרוֹן תַּחַת הַשָּׁמֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-09 17:28:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xqr_0.html',
+		'<p>נראה אם אצליח להוציא ממנו תובנות לגבי המחקר המהפכני שלי לגבי גבולות הארץ והשבטים</p><p>מחקר שנאלצתי להפסיק אותו בחודשים האחרונים כי גזל ממני יותר מדי אנרגיה</p><p>והאמת שהשיחה איתו (גרוק3) מתקדמת יפה</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-03-09 18:58:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>לכל מי שנמצא בסכנת מות וחפץ בחיים</p><p>אמור תפילה זו ואל תשכח עשות צדקה</p><p>-</p><p>אלהים אני עבדך אם אני אמות איך תהיה לי מלך</p><p>********** תן לי חיים בארץ הקודש **********</p><p>&quot;לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-10 05:58:35'
+		)
+		;
+
