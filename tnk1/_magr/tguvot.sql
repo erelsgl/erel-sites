@@ -14090,3 +14090,39 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/3bnim_wbt1.html',
+		'<p>zak habany, ישנם ניחושים שתָּמָר ומַעֲכָה הן למעשה אישה אחת בשמות שונים.</p>',
+		'102369407413070972280',
+		'עוז עמרם נפשי',
+		'2025-03-11 16:27:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/3bnim_wbt1.html',
+		'<p>יש פירוש נוסף בבמדבר רבה, ט, כד, שאף אחד מבניו לא היה ראוי למלכות.</p>',
+		'102369407413070972280',
+		'עוז עמרם נפשי',
+		'2025-03-11 18:47:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אם חשבת שאלהים בוגד בך דע כי בעת הזאת מכין לך בגדי קודש מלכות</p><p>אך אם אתה בוגד באלהים גם בגדיך בגדי הקודש צלם אלהים ילקחו ממך </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 07:16:41'
+		)
+		;
+
