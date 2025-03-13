@@ -14126,3 +14126,148 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 08:38:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 08:38:34' 
+			WHERE messageid=13249;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>על פי התורה חג שבועות ללא האות ו\' פעמיים  </p><p>שמות לד22: &quot;וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה&quot;</p><p>וְחַג שָׁבֻעֹת =  הוא חג שבעת = מלשון חָג שִׁבְעַת יָמִים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 09:45:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>על פי התורה חג שבועות ללא האות ו\' פעמיים</p><p>שמות לד22: &quot;וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה&quot;</p><p>וְחַג שָׁבֻעֹת = הוא חג שבעת = מלשון חָג שִׁבְעַת יָמִים</p><p>ממחרת השבת זה היום הראשון לשבוע הוא גם היום הראשון לחג השבועות</p><p>ויום שבת הוא היום השביעי של חג השבועות הוא יום מתן תורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 09:47:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 09:47:44' 
+			WHERE messageid=13250;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 09:48:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 09:48:08' 
+			WHERE messageid=13252;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>16 למרס 2025 = הוא 1.1.5786 בלוח המקדש זה הוא שבוע קציר לשעורים בו יחל חרמש בקמה</p><p>23 למרס 2025 = הוא 8.1.5786 ממחרת השבת ביום ראשון לשבוע זה הוא מועד יום הנפת העומר</p><p>29 למרס 2025 = הוא 14.1.5786 זה מועד הפסח בלוח המקדש</p><p>30 למרס 2025 = הוא 15.1.5786 זה חג המצות בלוח המקדש</p><p>5 לאפריל 2025 = הוא 21.1.5786 זה הוא שביעי של חג המצות בלוח המקדש וכמובן יום שבתון</p><p>15 לאפריל 2025 = הוא 1.2.5786 זה ראש החודש השני בלוח המקדש</p><p>28 לאפריל 2025 = הוא 14.2.5786 זה מועד פסח שני בלוח המקדש</p><p>11 למאי 2025 = זה הוא 27.2.5786 מועד חג השבועות הוא חג קציר חטים יום 50 לעומר יוצא כמובן ביום ראשון ממחרת השבת</p><p>על פי התורה חג שבועות ללא האות ו\' פעמיים</p><p>שמות לד22: &quot;וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה&quot;</p><p>וְחַג שָׁבֻעֹת = הוא חג שבעת = מלשון חָג שִׁבְעַת יָמִים</p><p>ממחרת השבת זה היום הראשון לשבוע הוא גם היום הראשון לחג השבועות</p><p>היום הראשון של חג השבועות הוא יום החמישים המציין את סוף ספירת העומר</p><p>ויום שבת הקרוב הוא היום השביעי של חג השבועות הוא יום מתן תורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 10:12:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 10:12:11' 
+			WHERE messageid=13251;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 10:12:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 10:12:57' 
+			WHERE messageid=13254;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>16 למרס 2025 = הוא 1.1.5786 בלוח המקדש זה הוא שבוע קציר לשעורים בו יחל חרמש בקמה</p><p>23 למרס 2025 = הוא 8.1.5786 ממחרת השבת ביום ראשון לשבוע זה הוא מועד יום הנפת העומר</p><p>29 למרס 2025 = הוא 14.1.5786 זה מועד הפסח בלוח המקדש</p><p>30 למרס 2025 = הוא 15.1.5786 זה חג המצות בלוח המקדש</p><p>5 לאפריל 2025 = הוא 21.1.5786 זה הוא שביעי של חג המצות בלוח המקדש וכמובן יום שבתון</p><p>15 לאפריל 2025 = הוא 1.2.5786 זה ראש החודש השני בלוח המקדש</p><p>28 לאפריל 2025 = הוא 14.2.5786 זה מועד פסח שני בלוח המקדש</p><p>11 למאי 2025 = זה הוא 27.2.5786 מועד חג השבועות הוא חג קציר חטים יום 50 לעומר יוצא כמובן ביום ראשון ממחרת השבת</p><p>15 למאי 2025 = זה ראש החודש השלשי 1.3.5786</p><p>17 למאי 2025 = זה יום השביעי לחג השבועות הוא יום מתן תורה שיוצא במועד 3.3.5786</p><p>שמות יט11: &quot;וְהָיוּ נְכֹנִים לַיּוֹם הַשְּׁלִישִׁי כִּי בַּיּוֹם השלשי יֵרֵד יהוה לְעֵינֵי כָל הָעָם עַל הַר סִינָי&quot;</p><p>על פי התורה חג שבועות ללא האות ו\' פעמיים</p><p>שמות לד22: &quot;וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה&quot;</p><p>וְחַג שָׁבֻעֹת = הוא חג שבעת = מלשון חָג שִׁבְעַת יָמִים</p><p>ממחרת השבת זה היום הראשון לשבוע הוא גם היום הראשון לחג השבועות</p><p>היום הראשון של חג השבועות הוא יום החמישים המציין את סוף ספירת העומר</p><p>ויום שבת הקרוב הוא היום השביעי של חג השבועות הוא יום מתן תורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 10:18:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 10:18:10' 
+			WHERE messageid=13253;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-12 10:18:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-12 10:18:23' 
+			WHERE messageid=13256;
+
