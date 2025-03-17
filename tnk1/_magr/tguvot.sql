@@ -14290,3 +14290,67 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-03-14 02:33:57' 
 			WHERE messageid=13257;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-17 02:40:23' 
+			WHERE messageid=13080;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>https://www.facebook.com/photo/?fbid=522421580891957&amp;set=a.234092363058215</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-17 02:40:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>https://www.facebook.com/photo/?fbid=522421580891957&amp;set=a.234092363058215</p><p>https://www.facebook.com/photo/?fbid=527476026890783&amp;set=a.494506310187755</p><p>https://www.facebook.com/photo/?fbid=1546470789287932&amp;set=gm.1167225347687069&amp;idorvanity=617390392670570</p><p>https://www.facebook.com/photo/?fbid=122185263380192586&amp;set=a.122104465916192586</p><p>https://www.facebook.com/photo/?fbid=275053515414031&amp;set=a.266075056311877</p><p>https://www.facebook.com/photo/?fbid=873955011467027&amp;set=gm.943905081115488&amp;idorvanity=850949627077701</p><p>https://www.facebook.com/photo/?fbid=272310129100090&amp;set=a.258233650507738</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-17 04:26:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-17 04:26:45' 
+			WHERE messageid=13072;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-17 04:26:48' 
+			WHERE messageid=13258;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-13-33.html',
+		'<p>עדות לבני ענק מן הנפילים הענקים</p><p>https://www.facebook.com/photo/?fbid=522421580891957&amp;set=a.234092363058215</p><p>https://www.facebook.com/photo/?fbid=527476026890783&amp;set=a.494506310187755</p><p>https://www.facebook.com/photo/?fbid=1546470789287932&amp;set=gm.1167225347687069&amp;idorvanity=617390392670570</p><p>https://www.facebook.com/photo/?fbid=122185263380192586&amp;set=a.122104465916192586</p><p>https://www.facebook.com/photo/?fbid=275053515414031&amp;set=a.266075056311877</p><p>https://www.facebook.com/photo/?fbid=873955011467027&amp;set=gm.943905081115488&amp;idorvanity=850949627077701</p><p>https://www.facebook.com/photo/?fbid=272310129100090&amp;set=a.258233650507738</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-17 04:28:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-17 04:28:06' 
+			WHERE messageid=13259;
+
