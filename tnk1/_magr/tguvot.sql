@@ -14354,3 +14354,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-03-17 04:28:06' 
 			WHERE messageid=13259;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2901_0.html',
+		'<p>מענין, תודה.</p>',
+		'109073013555631504698',
+		'Ben-Tsion Klibansky',
+		'2025-03-17 11:06:53'
+		)
+		;
+
