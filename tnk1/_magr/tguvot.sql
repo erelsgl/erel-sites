@@ -14847,3 +14847,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-03-26 08:44:24' 
 			WHERE messageid=13290;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p> תהלים קטו17: &quot;לֹא הַמֵּתִים יְהַלְלוּ יָהּ וְלֹא כָּל יֹרְדֵי דוּמָה&quot;</p><p>תהלים קטו18: &quot;וַאֲנַחְנוּ נְבָרֵךְ יָהּ מֵעַתָּה וְעַד עוֹלָם הַלְלוּ יָהּ&quot;</p><p>תהלים ו6: &quot;כִּי אֵין בַּמָּוֶת זִכְרֶךָ בִּשְׁאוֹל מִי יוֹדֶה לָּךְ&quot;</p><p>ישעיהו לח18: &quot;כִּי לֹא שְׁאוֹל תּוֹדֶךָּ מָוֶת יְהַלְלֶךָּ לֹא יְשַׂבְּרוּ יוֹרְדֵי בוֹר אֶל אֲמִתֶּךָ&quot;</p><p>ישעיהו לח19: &quot;חַי חַי הוּא יוֹדֶךָ כָּמוֹנִי הַיּוֹם אָב לְבָנִים יוֹדִיעַ אֶל אֲמִתֶּךָ&quot;</p><p>  לֹא יְשַׂבְּרוּ יוֹרְדֵי בוֹר [בקבר] אֶל אֲמִתֶּךָ --- אָב לְבָנִים יוֹדִיעַ אֶל אֲמִתֶּךָ&quot;</p><p>אם אתה לא אָב לְבָנִים הלא רע לך ונחשבת כמת בקבר יוֹרְדֵי בוֹר</p><p>והפוך כי אם טוב היה לך בחיים : &quot;טוֹב יַנְחִיל בְּנֵי בָנִים&quot; [משלי יג22]</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-27 12:48:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-27 13:29:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-27 13:29:44' 
+			WHERE messageid=13292;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-03-28 07:58:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-03-28 07:58:19' 
+			WHERE messageid=13293;
+
