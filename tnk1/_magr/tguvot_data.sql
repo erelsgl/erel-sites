@@ -139,3 +139,41 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-40.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2025-04-01 04:24:38'
+		WHERE parent='tnk1/tora/jmot/jm-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/jmot/jm-40.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2025-04-01 04:48:12'
+		WHERE parent='tnk1/tora/jmot/jm-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-04-01 04:48:16'
+			WHERE parent='tnk1/tora/jmot/jm-40.html'
+			;
+

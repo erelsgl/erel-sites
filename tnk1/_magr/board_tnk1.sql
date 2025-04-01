@@ -22427,3 +22427,42 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvne2.html',
+				'tnk1/tora/jmot/jm-40.html',
+				NULL,
+				'2025-04-01 00:52:37',
+				'2025-04-01 00:52:37',
+				'מבנה שמות מ - המשכן והבריאה',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-04-01 00:52:37'
+			WHERE ktovt_bn='tnk1/sig/mvne2.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-01 04:24:38'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-40.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-01 04:48:12'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-40.html'
+		;
+
