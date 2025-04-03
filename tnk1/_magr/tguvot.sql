@@ -14952,3 +14952,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>אדמת ישראל אדמת קודש אך הארץ שינתה את פניה וזו כבר לא אותה ארץ  </p><p>כל החפצים לבנות בית מקדש שלישי בעת הזאת כסילים הם ולא על פי רוחי </p><p>כי לא יקום בית מקדש בטרם תחרב הארץ ברעש אדמה בנפול כל מגדליה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-02 13:59:02'
+		)
+		;
+
