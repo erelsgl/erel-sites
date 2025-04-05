@@ -14983,3 +14983,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-04-03 10:19:58' 
 			WHERE messageid=13299;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-40.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-04 08:21:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-04 08:21:09' 
+			WHERE messageid=13300;
+
