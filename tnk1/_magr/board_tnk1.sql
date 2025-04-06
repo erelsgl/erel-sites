@@ -22552,3 +22552,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-40.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-06 03:34:39'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0529_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-06 03:55:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-06 03:55:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0103_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-06 04:14:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+

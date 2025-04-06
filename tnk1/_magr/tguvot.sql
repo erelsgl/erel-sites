@@ -15002,3 +15002,79 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-04-04 08:21:09' 
 			WHERE messageid=13300;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p> יחזקאל לט23: &quot;וְיָדְעוּ הַגּוֹיִם כִּי בעונם גָּלוּ בֵית יִשְׂרָאֵל עַל אֲשֶׁר מָעֲלוּ בִי וָאַסְתִּר פָּנַי מֵהֶם וָאֶתְּנֵם בְּיַד צָרֵיהֶם וַיִּפְּלוּ בַחֶרֶב כֻּלָּם&quot;</p><p>איזה גלות הלא כולם בארץ ישראל ובכן לא בדיוק כי לפני המלחמה בגוג כל ישראל בגלות</p><p>אף כי בארץ ישראל הם זאת לא תהיה ארץ שבעת המינים &quot;וישליכם אל ארץ אחרת&quot;---</p><p>דברים כט27: &quot;וַיִּתְּשֵׁם יהוה מֵעַל אַדְמָתָם בְּאַף וּבְחֵמָה וּבְקֶצֶף גָּדוֹל וַיַּשְׁלִכֵם אֶל אֶרֶץ אַחֶרֶת כַּיּוֹם הַזֶּה&quot;</p><p>דברים כט22: &quot;גָּפְרִית וָמֶלַח שְׂרֵפָה כָּל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וּצְבוֹיִם אֲשֶׁר הָפַךְ יהוה בְּאַפּוֹ וּבַחֲמָתוֹ&quot;</p><p>לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָל עֵשֶׂב [לא &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;]</p><p>הרשעים בישראל כגויים רוצים להקים בית מקדש למען חלל את הקודש בעבודה זרה</p><p>כל הניסיונות לבנות בית מקדש בעת הזאת לא יצלחו וגם אם יבנו בית מקדש כזה לא יהיה שם אלהים</p><p>רק לאחר תחרב הארץ ברעש אדמה בנפול כל מגדליה רק אז תוכל כל הארץ להתפנות להיות מקדש</p><p>כאשר כל הפרות רועות במרעה באחו [כאשר ברמת הגולן] וכל הגבעות תלכנה חלב של עדרי הצאן</p><p>מיכה ד4: &quot;וְיָשְׁבוּ אִישׁ תַּחַת גַּפְנוֹ וְתַחַת תְּאֵנָתוֹ וְאֵין מַחֲרִיד כִּי פִי יהוה צְבָאוֹת דִּבֵּר&quot;</p><p>החל משנת 5832 [שבעוד 45 שנה] תתחדש הכהונה וישראל ישובו לאלהי אמת</p><p>והחל משנת 5930 קודש ואמת יהיה שלום בכל הארץ ובשיבה טובה ימותו אנשים</p><p>בשנת 5930 ימלאו 121 יובלים ויחל יובל 122</p><p>בשנת 5930 ימלאו 3000 שנה לבית המקדש של שלמה הוא בית האלהים הראשון</p><p>בשנת 5930 יחל האלף השביעי לאדם כי ימלאו 6000 שנה לגיל אדם מאז יצא האדם מגן-עדן בהיותו בן 70 </p><p> </p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-06 03:34:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-06 03:34:49' 
+			WHERE messageid=13297;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-06 03:34:55' 
+			WHERE messageid=13298;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>בראשית ג17: &quot;וּלְאָדָם אָמַר כִּי שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ&quot; </p><p>זה נאמר לאדם הראשון אך זה לכל האדם ולא רק לאדם הראשון כי האדם הראשון הכיל בתוכו את כל נשמות בני האדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-06 03:55:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>בראשית ג17:</p><p> &quot;וּלְאָדָם אָמַר כִּי שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכֲלֶנָּה כֹּל יְמֵי חַיֶּיךָ&quot; </p><p>זה נאמר לאדם הראשון אך זה לכל האדם ולא רק לאדם הראשון כי האדם הראשון הכיל בתוכו את כל נשמות בני האדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-06 03:55:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-06 03:55:53' 
+			WHERE messageid=13302;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-06 04:14:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-06 04:14:27' 
+			WHERE messageid=13304;
+
