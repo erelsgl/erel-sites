@@ -552,3 +552,50 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t0218_5.html'
 			;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-04-10 13:31:34'
+			WHERE parent='tnk1/msr/yovl.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-04-10 13:31:44'
+			WHERE parent='tnk1/msr/yovl.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-04-10 13:31:48'
+			WHERE parent='tnk1/msr/yovl.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0516_7.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2025-04-11 02:33:02'
+		WHERE parent='tnk1/messages/prqim_t0516_7.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2025-04-11 02:33:07'
+			WHERE parent='tnk1/messages/prqim_t0516_7.html'
+			;
+
