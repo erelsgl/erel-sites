@@ -15382,3 +15382,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-04-18 13:55:22' 
 			WHERE messageid=13319;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/yom8_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-19 17:20:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-19 17:20:25' 
+			WHERE messageid=13321;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>ישעיהו לב17: &quot;וְהָיָה מַעֲשֵׂה הַצְּדָקָה שָׁלוֹם וַעֲבֹדַת הַצְּדָקָה הַשְׁקֵט וָבֶטַח עַד עוֹלָם&quot;</p><p>זאת עבודת אלהים = צדקה שלום הַשְׁקֵט ובטח בטחון באלהים</p><p>ישעיהו ל15: &quot;כִּי כֹה אָמַר אֲדֹנָי יהוה קְדוֹשׁ יִשְׂרָאֵל בְּשׁוּבָה וָנַחַת תִּוָּשֵׁעוּן בְּהַשְׁקֵט וּבְבִטְחָה תִּהְיֶה גְּבוּרַתְכֶם וְלֹא אֲבִיתֶם&quot; </p><p>ותדרשו את המתים עד רוח גוג אשר יבוא מן המתים כי חמד את ישראל למען יעבדוהו וידיחם למען יעזבו את יהוה אלהיהם ורבו חללי יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-19 17:24:26'
+		)
+		;
+
