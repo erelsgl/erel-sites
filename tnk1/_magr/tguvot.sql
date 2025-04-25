@@ -15444,3 +15444,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-04-21 06:06:44' 
 			WHERE messageid=13323;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-28-13.html',
+		'<p>מאמר מצויין ונכון,</p><p>יישר כח</p>',
+		'111517395097116170064',
+		'ינאי שולפטר',
+		'2025-04-24 11:35:16'
+		)
+		;
+
