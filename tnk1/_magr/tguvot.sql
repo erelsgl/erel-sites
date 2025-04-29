@@ -15456,3 +15456,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/limud/xipus.html',
+		'<p>אני מחפשת פסוקים עם השורש ב.ח.ר</p>',
+		'107637225148403894343',
+		'Chanie Baddouch',
+		'2025-04-28 19:20:01'
+		)
+		;
+

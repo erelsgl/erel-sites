@@ -22890,3 +22890,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2025-04-25 07:57:35'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-04-28 19:20:01'
+		WHERE ktovt_bn='tnk1/klli/limud/xipus.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/lawmyt_mdyntyt_bmwnxym_jl_qyymwt_klklyt.pdf',
+				NULL,
+				'2025-04-29 06:27:51',
+				'2025-04-29 06:27:51',
+				'קיימות לאומית מדינתית במונחים של קיימות כלכלית',
+				'סימה שרייבר',
+				''
+			)
+		;
+
