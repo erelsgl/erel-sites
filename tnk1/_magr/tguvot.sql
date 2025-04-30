@@ -15468,3 +15468,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>שיוויון בנטל? יום הזכרון 2025 עם-ישראל מבכה על חללי מערכות ישראל אך יש רב מפורסם שמצדיק השתמטות בעת מלחמה</p><p>תוך כדי הסבר למה החרדים לא מתגייסים לצבא</p><p>https://www.hidabroot.org/video/223830</p><p>https://www.hidabroot.org/%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%97%D7%A8%D7%93%D7%99%D7%9D</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-30 03:40:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>יום הזיכרון 2025 בעוד ישראל כורעת תחת הנטל הצבאי ועם-ישראל מבכה על חללי מערכות ישראל </p><p>יש רב מפורסם שמצדיק השתמטות בעת מלחמה תוך כדי הסבר למה החרדים לא מתגייסים לצבא</p><p>https://www.hidabroot.org/video/223830</p><p>https://www.hidabroot.org/%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%97%D7%A8%D7%93%D7%99%D7%9D</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-30 04:33:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-30 04:33:19' 
+			WHERE messageid=13327;
+
