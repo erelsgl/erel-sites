@@ -15499,3 +15499,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-04-30 04:33:19' 
 			WHERE messageid=13327;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1001_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-30 12:05:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-30 12:05:50' 
+			WHERE messageid=13329;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1001_4.html',
+		'<p>במדבר יא2: &quot;וַיִּצְעַק הָעָם אֶל מֹשֶׁה וַיִּתְפַּלֵּל מֹשֶׁה אֶל יהוה וַתִּשְׁקַע הָאֵשׁ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-30 13:19:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1001_4.html',
+		'<p>במדבר יא1: &quot;וַיְהִי הָעָם כְּמִתְאֹנְנִים רַע בְּאָזְנֵי יהוה וַיִּשְׁמַע יהוה וַיִּחַר אַפּוֹ וַתִּבְעַר בָּם אֵשׁ יהוה וַתֹּאכַל בִּקְצֵה הַמַּחֲנֶה&quot;</p><p>במדבר יא2: &quot;וַיִּצְעַק הָעָם אֶל מֹשֶׁה וַיִּתְפַּלֵּל מֹשֶׁה אֶל יהוה וַתִּשְׁקַע הָאֵשׁ&quot; ------- כן להתפלל ולא להתאונן רע -------</p><p>תלונות להלין רק כשאתה לן בלילה בטרם ישנת שנת ישרים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-04-30 13:27:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-04-30 13:27:28' 
+			WHERE messageid=13330;
+
