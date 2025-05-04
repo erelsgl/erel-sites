@@ -23008,3 +23008,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2025-05-02 13:09:08'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-05-04 03:01:04'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+
