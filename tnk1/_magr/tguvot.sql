@@ -15587,3 +15587,96 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-04 03:35:21' 
 			WHERE messageid=12619;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>תהלים סח5: &quot;שִׁירוּ לֵאלֹהִים זַמְּרוּ שְׁמוֹ סֹלּוּ לָרֹכֵב בָּעֲרָבוֹת בְּיָהּ שְׁמוֹ....... וְעִלְזוּ לְפָנָיו&quot;</p><p>תהלים סח6: &quot;אֲבִי יְתוֹמִים וְדַיַּן....... אַלְמָנוֹת אֱלֹהִים בִּמְעוֹן קָדְשׁוֹ&quot;</p><p>תהלים סח34: &quot;לָרֹכֵב בִּשְׁמֵי שְׁמֵי קֶדֶם....... הֵן יִתֵּן בְּקוֹלוֹ קוֹל עֹז&quot;</p><p>מיכה ה1: &quot;וְאַתָּה בֵּית לֶחֶם אֶפְרָתָה צָעִיר לִהְיוֹת בְּאַלְפֵי יְהוּדָה מִמְּךָ לִי יֵצֵא לִהְיוֹת מוֹשֵׁל בְּיִשְׂרָאֵל וּמוֹצָאֹתָיו מִקֶּדֶם....... מִימֵי עוֹלָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-04 13:01:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>רבני הגמרא מסיתים ומוציאים דיבה על בעלי חיים</p><p>לדברי הרב עם-הארץ יש &quot;רוח רעה&quot; לכלבים וחתולים</p><p> https://www.youtube.com/watch?v=fu4cYWaR-u4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-04 14:45:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>רבנים עמי-ארצות מסיתים ומוציאים דיבה על בעלי חיים</p><p>לדברי הרב חסר הלב יש &quot;רוח רעה&quot; לכלבים וחתולים</p><p> https://www.youtube.com/watch?v=fu4cYWaR-u4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-04 15:29:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-04 15:30:01' 
+			WHERE messageid=13335;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>רבנים עמי-ארצות מסיתים ומוציאים דיבה על בעלי חיים</p><p>לדברי הרב חסר הלב יש &quot;רוח רעה&quot; לכלבים וחתולים</p><p>https://www.youtube.com/watch?v=fu4cYWaR-u4</p><p>ואתם הרואים בקישור הזה את דברי רבני הגמרא אל תאמינו להם</p><p>כי דיברו רעה על חיות מחמד שהביאו אושר גדול כחברים נפלאים לאדם</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-04 15:33:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-04 15:33:53' 
+			WHERE messageid=13336;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.facebook.com/reel/999730115632137</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-05 05:35:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>מי זה הרשע על פי ההגדה של פסח</p><p>https://www.facebook.com/reel/999730115632137</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-05 05:38:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-05 05:38:07' 
+			WHERE messageid=13338;
+
