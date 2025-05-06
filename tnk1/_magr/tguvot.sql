@@ -15680,3 +15680,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-05 05:38:07' 
 			WHERE messageid=13338;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-05 14:51:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-05 14:51:34' 
+			WHERE messageid=13340;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הרבנים אינם שומעים בקולי כי אינם סרים למשמעתי</p><p>כל אחד מהם תופס מעצמו חכם ואינם עובדים אותי</p><p>כי את המעשר מן המעשר תְּרוּמַת יהוה לא הביאו לי</p><p>לכן רָעָה תָּבֹא אֲלֵיהֶם כי גזלו את תְּרוּמַת יהוה </p><p>במדבר יח26: </p><p>&quot;וְאֶל הַלְוִיִּם תְּדַבֵּר וְאָמַרְתָּ אֲלֵהֶם כִּי תִקְחוּ מֵאֵת בְּנֵי יִשְׂרָאֵל אֶת הַמַּעֲשֵׂר אֲשֶׁר נָתַתִּי לָכֶם מֵאִתָּם בְּנַחֲלַתְכֶם וַהֲרֵמֹתֶם מִמֶּנּוּ תְּרוּמַת יהוה מַעֲשֵׂר מִן הַמַּעֲשֵׂר&quot;</p><p>ירמיהו ב3: &quot;קֹדֶשׁ יִשְׂרָאֵל ליהוה רֵאשִׁית תְּבוּאָתֹה כָּל אֹכְלָיו יֶאְשָׁמוּ רָעָה תָּבֹא אֲלֵיהֶם נְאֻם יהוה\'&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-06 05:04:42'
+		)
+		;
+
