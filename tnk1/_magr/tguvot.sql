@@ -15711,3 +15711,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-32-05.html',
+		'<p>שִׁחֵת לוֹ?לֹא בָּנָיו מוּמָם?</p><p>ההיפך הוא הנכון</p><p>כי לא שִׁחֵת לוֹ אלא בָּנָיו מוּמָם</p><p>סוף דבר</p><p>אלהים לא מושחת!!! וכי בניו הם המושחתים מום בם ערלת הלב</p><p>ירמיהו ט25:&quot;כִּי כָל הַגּוֹיִם עֲרֵלִים וְכָל בֵּית יִשְׂרָאֵל עַרְלֵי לֵב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-06 11:28:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot;</p><p>שִׁחֵת לוֹ?לֹא בָּנָיו מוּמָם?</p><p>ההיפך הוא הנכון</p><p>כי לא שִׁחֵת לוֹ אלא בָּנָיו מוּמָם</p><p>סוף דבר</p><p>אלהים לא מושחת!!! וכי בניו הם המושחתים מום בם ערלת הלב</p><p>ירמיהו ט25:&quot;כִּי כָל הַגּוֹיִם עֲרֵלִים וְכָל בֵּית יִשְׂרָאֵל עַרְלֵי לֵב&quot;</p><p>ירמיהו ד4: &quot;הִמֹּלוּ ליהוה וְהָסִרוּ עָרְלוֹת לְבַבְכֶם אִישׁ יְהוּדָה וְיֹשְׁבֵי יְרוּשָׁלָים פֶּן תֵּצֵא כָאֵשׁ חֲמָתִי וּבָעֲרָה וְאֵין מְכַבֶּה מִפְּנֵי רֹעַ מַעַלְלֵיכֶם&quot; </p><p>ירמיהו כא12: &quot;בֵּית דָּוִד כֹּה אָמַר יהוה דִּינוּ לַבֹּקֶר מִשְׁפָּט וְהַצִּילוּ גָזוּל מִיַּד עוֹשֵׁק פֶּן תֵּצֵא כָאֵשׁ חֲמָתִי וּבָעֲרָה וְאֵין מְכַבֶּה מִפְּנֵי רֹעַ מַעַלְלֵיכֶם &quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-06 11:45:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דברים לב5: &quot;שִׁחֵת לֹא לוֹ בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot; [ככה צריך להיות כתוב]</p><p>דברים לב5: &quot;שִׁחֵת לוֹ לֹא בָּנָיו מוּמָם דּוֹר עִקֵּשׁ וּפְתַלְתֹּל&quot; [אבל ככה כתבתם בתורה]</p><p>שִׁחֵת לוֹ?לֹא בָּנָיו מוּמָם?</p><p>ההיפך הוא הנכון</p><p>כי לא שִׁחֵת לוֹ אלא בָּנָיו מוּמָם</p><p>סוף דבר</p><p>אלהים לא מושחת!!! וכי בניו הם המושחתים מום בם ערלת הלב</p><p>ירמיהו ט25:&quot;כִּי כָל הַגּוֹיִם עֲרֵלִים וְכָל בֵּית יִשְׂרָאֵל עַרְלֵי לֵב&quot;</p><p>ירמיהו ד4: &quot;הִמֹּלוּ ליהוה וְהָסִרוּ עָרְלוֹת לְבַבְכֶם אִישׁ יְהוּדָה וְיֹשְׁבֵי יְרוּשָׁלָים פֶּן תֵּצֵא כָאֵשׁ חֲמָתִי וּבָעֲרָה וְאֵין מְכַבֶּה מִפְּנֵי רֹעַ מַעַלְלֵיכֶם&quot;</p><p>ירמיהו כא12: &quot;בֵּית דָּוִד כֹּה אָמַר יהוה דִּינוּ לַבֹּקֶר מִשְׁפָּט וְהַצִּילוּ גָזוּל מִיַּד עוֹשֵׁק פֶּן תֵּצֵא כָאֵשׁ חֲמָתִי וּבָעֲרָה וְאֵין מְכַבֶּה מִפְּנֵי רֹעַ מַעַלְלֵיכֶם &quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-06 11:48:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-06 11:48:57' 
+			WHERE messageid=13343;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-06 13:01:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-06 13:01:08' 
+			WHERE messageid=13345;
+
