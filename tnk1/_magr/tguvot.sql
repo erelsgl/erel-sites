@@ -15835,3 +15835,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-07 18:26:59' 
 			WHERE messageid=13349;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b23_1.html',
+		'<p>תהלים כה12: &quot;מִי זֶה הָאִישׁ יְרֵא יהוה יוֹרֶנּוּ בְּדֶרֶךְ יִבְחָר&quot;</p><p>תהלים כה13: &quot;נַפְשׁוֹ בְּטוֹב תָּלִין וְזַרְעוֹ יִירַשׁ אָרֶץ&quot;</p><p>ישעיהו סה14: &quot;הִנֵּה עֲבָדַי יָרֹנּוּ מִטּוּב לֵב</p><p>וְאַתֶּם תִּצְעֲקוּ מִכְּאֵב לֵב וּמִשֵּׁבֶר רוּחַ תְּיֵלִילוּ&quot;</p><p>עתה בחן את עצמך אם טוב לב אתה או מהמייללים מִשֵּׁבֶר רוּחַ</p><p>משלי טו4: &quot;מַרְפֵּא לָשׁוֹן עֵץ חַיִּים וְסֶלֶף בָּהּ שֶׁבֶר בְּרוּחַ&quot;</p><p>שֶׁבֶר בְּרוּחַ לָשׁוֹן שקר ומַרְפֵּא לָשׁוֹן עֵץ חַיִּים</p><p>משלי יב18: &quot;יֵשׁ בּוֹטֶה כְּמַדְקְרוֹת חָרֶב וּלְשׁוֹן חֲכָמִים מַרְפֵּא&quot;</p><p>-------------</p><p>יְרֵא יהוה יוֹרֶנּוּ בְּדֶרֶךְ יִבְחָר נַפְשׁוֹ בְּטוֹב תָּלִין = הִנֵּה עֲבָדַי יָרֹנּוּ מִטּוּב לֵב</p><p>אם אתם מחפשים ירא-יהוה להורותכם הדרך רק האיש אשר נַפְשׁוֹ בְּטוֹב תָּלִין</p><p>ואם נַפְשׁוֹ לא בְּטוֹב תָּלִין אז פסחו מעליו הלאה וסרתם ממנו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-08 17:43:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-08 17:44:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-08 17:44:16' 
+			WHERE messageid=13351;
+
