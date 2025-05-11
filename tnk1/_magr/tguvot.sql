@@ -15866,3 +15866,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-08 17:44:16' 
 			WHERE messageid=13351;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/zvx.html',
+		'<p>מחזק את ההגדרה למעלה : &quot; זבח = שחט לצורך הוצאת הדם ואכילת הבשר &quot;. גם בזביחת עולות , יש אכילת בשר !!! האש אוכלת את הבשר וכך משמע בהרבה מקראות. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2025-05-11 06:45:27'
+		)
+		;
+
