@@ -16104,3 +16104,77 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-14 05:58:33' 
 			WHERE messageid=13365;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/zvx.html',
+		'<p>זבח = זה לאכול בשר</p><p>זבח רשעים = זה כאשר האדם הזובח טמא או שבשר הזבח טמא</p><p>זבח צדיקים = זה כאשר האדם הזובח צדיק ובשר הזבח טהור [כשר]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-15 08:56:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/zvx.html',
+		'<p>זבח = זה לאכול בשר !!! </p><p>וכן גם מי שאוכל שווארמה או שיפודים או סטיק במסעדה על האש</p><p>זבח רשעים = זה כאשר האדם הזובח טמא או שבשר הזבח טמא</p><p>זבח צדיקים = זה כאשר האדם הזובח צדיק ובשר הזבח טהור [כשר]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-15 09:00:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-15 09:00:11' 
+			WHERE messageid=13366;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>ארורים כהני הדת אשר לקחו בערמה את המעשר מבני ישראל אך את  תְּרוּמַת-יהוה המעשר מן המעשר לא הביאו לדיין שם עבד-יהוה</p><p>במדבר יח26: </p><p>&quot;וְאֶל הַלְוִיִּם תְּדַבֵּר וְאָמַרְתָּ אֲלֵהֶם כִּי תִקְחוּ מֵאֵת בְּנֵי יִשְׂרָאֵל אֶת הַמַּעֲשֵׂר אֲשֶׁר נָתַתִּי לָכֶם מֵאִתָּם בְּנַחֲלַתְכֶם וַהֲרֵמֹתֶם מִמֶּנּוּ תְּרוּמַת יהוה מַעֲשֵׂר מִן הַמַּעֲשֵׂר&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-15 09:07:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>תהלים קט17: &quot;וַיֶּאֱהַב קְלָלָה וַתְּבוֹאֵהוּ וְלֹא חָפֵץ בִּבְרָכָה וַתִּרְחַק מִמֶּנּוּ&quot;</p><p>לכן ארור כל כהן-דת אשר לקח בערמה את המעשר מבני ישראל אך את תְּרוּמַת יהוה מַעֲשֵׂר מִן הַמַּעֲשֵׂר לא הביא לדיין שם עבד-יהוה</p><p>במדבר יח26:</p><p>&quot;וְאֶל הַלְוִיִּם תְּדַבֵּר וְאָמַרְתָּ אֲלֵהֶם כִּי תִקְחוּ מֵאֵת בְּנֵי יִשְׂרָאֵל אֶת הַמַּעֲשֵׂר אֲשֶׁר נָתַתִּי לָכֶם מֵאִתָּם בְּנַחֲלַתְכֶם וַהֲרֵמֹתֶם מִמֶּנּוּ תְּרוּמַת יהוה מַעֲשֵׂר מִן הַמַּעֲשֵׂר&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-15 18:39:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-15 18:39:57' 
+			WHERE messageid=13368;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>איך ומתי אוהבים אתכם</p><p>כשאתם נראים טוב ונשמעים טוב ובמיוחד מריחים טוב</p><p>זאת היא האהבה על פי מערכת החושים הממלאת את הלב</p><p>-</p><p>אבל אם אתם לא נראים טוב ולא נשמעים טוב ולא מריחים טוב</p><p>איך יאהבו אתכם?</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-16 04:30:01'
+		)
+		;
+
