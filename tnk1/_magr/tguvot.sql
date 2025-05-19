@@ -16302,3 +16302,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-18 07:47:17' 
 			WHERE messageid=13371;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mjly/mj-27-17.html',
+		'<p></p>',
+		'112554599102781401962',
+		'Azanow oz Israel Mekonen',
+		'2025-05-18 11:31:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-18 13:54:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-18 13:54:04' 
+			WHERE messageid=13380;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-18 17:17:26' 
+			WHERE messageid=13379;
+
