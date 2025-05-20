@@ -16340,3 +16340,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-18 17:17:26' 
 			WHERE messageid=13379;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>ישעיהו נד17: &quot;כָּל כְּלִי יוּצַר עָלַיִךְ לֹא יִצְלָח וְכָל לָשׁוֹן תָּקוּם אִתָּךְ לַמִּשְׁפָּט תַּרְשִׁיעִי .......זֹאת נַחֲלַת עַבְדֵי יהוה וְצִדְקָתָם מֵאִתִּי נְאֻם יהוה\'&quot; </p><p> וְכָל לָשׁוֹן תָּקוּם אִתָּךְ לַמִּשְׁפָּט תַּרְשִׁיעִי....... </p><p>תהלים א5: &quot;עַל כֵּן לֹא יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִים&quot;</p><p>תהלים א6: &quot;כִּי יוֹדֵעַ יהוה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-20 02:57:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-20 04:30:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-05-20 04:31:03' 
+			WHERE messageid=13382;
+
