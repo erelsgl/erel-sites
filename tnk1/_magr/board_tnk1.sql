@@ -23555,3 +23555,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/yhojua/ja-09-04.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-05-22 08:35:37'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/new.html',
+				'tnk1/messages/jl_rjby.docx',
+				NULL,
+				'2025-05-22 10:16:48',
+				'2025-05-22 10:16:48',
+				'הכתרים של רשבי',
+				'סימה שרייבר',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-05-22 13:03:58'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0219_3.html'
+		;
+
