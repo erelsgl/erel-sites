@@ -16490,3 +16490,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-05-23 14:16:34' 
 			WHERE messageid=13389;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/dmut/ToknLfiDmutIja.html',
+		'<p>פנינה?</p>',
+		'112048296518662023346',
+		'רפאל מיוחס',
+		'2025-05-24 21:57:24'
+		)
+		;
+
