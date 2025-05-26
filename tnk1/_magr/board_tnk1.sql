@@ -23649,3 +23649,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/dmut/ToknLfiDmutIja.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-05-26 06:58:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
