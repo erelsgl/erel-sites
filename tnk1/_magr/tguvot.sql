@@ -16514,3 +16514,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>בכל אדם יש טוב ורע</p><p>ואני אוהב טוב ולא רע</p><p>לכן אני לא אוהב את כל האדם</p><p>אני אוהב רק את האלהים באדם</p><p>נבקש את האלהים באדם ואיתו נתקשר</p><p>נראה את האלהים באדם אצל כל אדם</p><p>נראה את האלהים באדם ואותו נאהב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-05-26 19:38:45'
+		)
+		;
+
