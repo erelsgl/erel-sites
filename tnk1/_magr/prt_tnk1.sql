@@ -143,3 +143,7 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:דברים ט5' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'מהות המספר 18 בתורה - הקשר בין תהילים כט, 18, אמת ושקר' AND 1 LIMIT 1;
+
