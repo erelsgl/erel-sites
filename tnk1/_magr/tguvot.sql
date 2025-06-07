@@ -16752,3 +16752,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-06 02:41:01' 
 			WHERE messageid=13405;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>&quot;אין שמחה אלא בבשר ויין&quot;....... אך...</p><p>בעת האבל לא אוכלים בשר ולא שותים יין </p><p>כי אם נגע בנו השכול זו העת להיות חכם </p><p>להאזין לשמוע ולהיות קשוב ליהוה אלהים </p><p>קהלת ז4: &quot;לֵב חֲכָמִים בְּבֵית אֵבֶל !!!!!!!!! וְלֵב כְּסִילִים בְּבֵית שִׂמְחָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-06 14:43:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p>&quot;אין שמחה אלא בבשר ויין&quot;....... אך...</p><p>בעת האבל לא אוכלים בשר ולא שותים יין</p><p>כי אם נגע בנו השכול זו העת להיות חכם</p><p>להאזין לשמוע ולהיות קשוב ליהוה אלהים</p><p>שלא יפגע בנו פעם נוספת המות והשכול</p><p>קהלת ז4: &quot;לֵב חֲכָמִים בְּבֵית אֵבֶל !!!!!!!!! וְלֵב כְּסִילִים בְּבֵית שִׂמְחָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-06 14:57:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-06 14:58:10' 
+			WHERE messageid=13406;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b35_0.html',
+		'<p>&quot;אין שמחה אלא בבשר ויין&quot;....... אך...</p><p>בעת האבל לא אוכלים בשר ולא שותים יין</p><p>כי אם נגע בנו השכול זו העת להיות חכם</p><p>להאזין לשמוע ולהיות קשוב ליהוה אלהים</p><p>שלא יפגע בנו פעם נוספת המות והשכול</p><p>קהלת ז4: &quot;לֵב חֲכָמִים בְּבֵית אֵבֶל !!!!!!!!! וְלֵב כְּסִילִים בְּבֵית שִׂמְחָה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-06 14:59:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-06 14:59:26' 
+			WHERE messageid=13407;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_nzr1_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-06 14:59:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-06 14:59:30' 
+			WHERE messageid=13409;
+
