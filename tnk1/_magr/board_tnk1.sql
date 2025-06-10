@@ -23989,3 +23989,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/dmut/teud.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-06-09 13:48:25'
+		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
+		;
+
