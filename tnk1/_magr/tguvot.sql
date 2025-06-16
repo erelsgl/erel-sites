@@ -17066,3 +17066,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-13 16:00:55' 
 			WHERE messageid=13423;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>איוב ד18: &quot;הֵן בַּעֲבָדָיו לֹא יַאֲמִין וּבְמַלְאָכָיו יָשִׂים תָּהֳלָה&quot;</p><p>איוב טו15: &quot;הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין וְשָׁמַיִם לֹא זַכּוּ בְעֵינָיו&quot;</p><p> בִּקְדֹשָׁיו  = בַּעֲבָדָיו </p><p>וְשָׁמַיִם = וּבְמַלְאָכָיו [הכהנים]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-15 12:52:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0533_4.html',
+		'<p>איוב ד18: &quot;הֵן בַּעֲבָדָיו לֹא יַאֲמִין וּבְמַלְאָכָיו יָשִׂים תָּהֳלָה&quot;</p><p>איוב טו15: &quot;הֵן בִּקְדֹשָׁיו לֹא יַאֲמִין וְשָׁמַיִם לֹא זַכּוּ בְעֵינָיו&quot;</p><p> בִּקְדֹשָׁיו  = בַּעֲבָדָיו </p><p>וְשָׁמַיִם = וּבְמַלְאָכָיו [הכהנים]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-15 13:32:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-15 13:34:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-15 13:34:19' 
+			WHERE messageid=13426;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-15 13:36:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-15 13:36:22' 
+			WHERE messageid=13427;
+
