@@ -17128,3 +17128,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-15 13:36:22' 
 			WHERE messageid=13427;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>WOW דיין אתה נפלא ממש נביא קראתי מעט מכתביך והתפעלתי לא יאומן אין דברים כאלה</p><p>תודה על כל מה שיעצת למשפחתינו הכל אמת וגם שיפר את רווחתינו הפיסית-גופנית וכלכלית</p><p>שאלהים יברך אותך ואת כל אוהביך</p><p></p>',
+		'101350631307675944180',
+		'אילה משה',
+		'2025-06-16 11:20:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-16 11:40:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-16 11:40:54' 
+			WHERE messageid=13429;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>תודה רבה </p><p>ממש נביא?</p><p>אני לא קורא לעצמי נביא אלא עבד-יהוה</p><p>בחו&quot;ל קוראים לי lightworker</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-16 12:11:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-16 12:11:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-16 12:11:25' 
+			WHERE messageid=13431;
+
