@@ -17190,3 +17190,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-16 12:11:25' 
 			WHERE messageid=13431;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p> אַךְ בַּיהוָה אַל-תִּמְרֹדוּ !!!</p><p>מר זמיר כהן [הרב זמיר] וכל רבני ישראל אל תמרדו בי</p><p>ראיתי את מעשיכם אל תמרדו בדיין עבד-יהוה</p><p>אל תחכו שיכה אותכם אלהים !!!!!!!!!!!!!!!!!!!!!</p><p>כבר נפל טיל בבני ברק בניגוד לדברי רבניכם הגדולים</p><p>כבר שרפו את בית הכנסת של הרב שלכם עם כל הספרים</p><p>כבר הוכיח אתכם אלהים בדברים שאתם לבדכם יודעים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-19 12:05:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>אַךְ בַּיהוָה אַל-תִּמְרֹדוּ !!!</p><p>מר זמיר כהן [הרב זמיר] וכל רבני ישראל אל תמרדו בי</p><p>ראיתי את מחשבותיכם אל תמרדו בדיין עבד-יהוה</p><p>אל תחכו שיכה אותכם אלהים !!!!!!!!!!!!!!!!!!!!!</p><p>כבר נפל טיל בבני ברק בניגוד לדברי רבניכם הגדולים</p><p>כבר שרפו את בית הכנסת של הרב שלכם עם כל הספרים</p><p>כבר הוכיח אתכם אלהים בדברים שאתם לבדכם יודעים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-19 12:13:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-19 12:13:39' 
+			WHERE messageid=13432;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>&lt;/p&gt;&lt;script&gt;alert(HACKED BY TFC - FREE PALESTINE)&lt;/script&gt;</p>',
+		'109115558920337220000',
+		'CS competition',
+		'2025-06-19 22:43:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-19 22:43:35' 
+			WHERE messageid=13434;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>&lt;/p&gt;&lt;script&gt;alert(HACKED BY TFC - FREE PALESTINE)&lt;/script&gt;</p>',
+		'109115558920337220000',
+		'CS competition',
+		'2025-06-19 22:43:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-19 22:44:35' 
+			WHERE messageid=13435;
+
