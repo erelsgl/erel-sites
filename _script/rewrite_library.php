@@ -1,7 +1,7 @@
 <?php
 
 /*
- ÷éãåã çìåðåú!
+ ����� ������!
 */
 
 require_once('callback.php');
@@ -80,7 +80,7 @@ function add_page() {
 	$addFile = '';
 	
 	$replaceFile = isset($_POST['hxlf_qovc']) && $_POST['hxlf_qovc'];
-	if ($replaceFile && ($current_role!=='editor' && $author!=='ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½')) {
+	if ($replaceFile && ($current_role!=='editor' && $author!=='��� ���')) {
 		user_error("Sorry, as a $current_role you are not allowed to replace files!");
 		$replaceFile=false;
 	}
@@ -101,7 +101,6 @@ function add_page() {
 
 
 	if (isset($_FILES['jm_qovc_al_hlqox'])) {
-		die("Sorry, file upload is blocked due to security reasons")
 		$addFile = post_process_file_upload('jm_qovc_al_hlqox', "$fileroot/$site/messages", $replaceFile);
 		if ($addFile===false)
 			die ("Upload file failed");
@@ -315,7 +314,7 @@ function add_to_ancestor() {
 			$new_output_line .= ($addLine? ". ": "</a> ");
 			$new_output_line .= $input_buttons;
 
-			if (!(preg_match("|[ï¿½-ï¿½][ï¿½-ï¿½]|", $email) || ($site === 'fuelcell') || isCywr())) {
+			if (!(preg_match("|[�-�][�-�]|", $email) || ($site === 'fuelcell') || isCywr())) {
 				$new_output_line .= "&nbsp;&nbsp;<span class='date'>[" .
 					static_text('written at') .
 					"$date_for_html]</span>";
@@ -422,7 +421,7 @@ function rewrite_page() {
 		substr($body, $indices[2]);
 
 	$body = fix_html($body);
-	$bodyIsDeleted = (preg_match("/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
+	$bodyIsDeleted = (preg_match("/������/i",$body) || preg_match("/delete me/i",$body) || preg_match("/\[delete\]/i",$body) );
 	if ($bodyIsDeleted) {
 		$to_by_language .= " " . static_text("to delete");
 		$gerund_by_language .= " " . static_text("to delete");
