@@ -39,11 +39,6 @@ require_once('../tnk1/admin/db_connect.php');
 $HTML_ENCODING = "utf-8";           // causes problems with backup
 function encode_output($s) {return $s;}
 sql_set_charset('utf8');
-//mysql_query("set character_set_results=utf8");
-
-//$HTML_ENCODING = 'utf-8';
-//sql_set_charset('utf8')
-
 
 $linkroot = '';
 
@@ -256,7 +251,9 @@ function update_prt_page_prt_form() {
 			$l = quote_smart($l_array[$i]);
 			$qod = ($qod_array[$i]? quote_smart($qod_array[$i]): $kotrt);
 
-			$success = sql_query("
+			$success = 
+				// sql_query("
+				sql_query_or_die("
 				INSERT INTO prt_$site (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
 				VALUES ($qod, $sug, $kotrt, $ktovt_bn, $m, $l, $GLOBALS[current_time_quoted])
 				");
@@ -660,7 +657,9 @@ function update_or_insert_qjr($av, $bn, $av_xdj, $sdr_bn, $sdr_av, $kotrt, $sug)
 	}
 	print "<p dir='ltr'>$query</p>";
 	if ($query) 
-		return sql_query($query)
+		return 
+			sql_query_or_die($query)
+			// sql_query($query)
 			or user_error('Invalid query: ' . sql_error());
 	else
 		return false;
