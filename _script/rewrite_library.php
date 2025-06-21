@@ -101,6 +101,8 @@ function add_page() {
 
 
 	if (isset($_FILES['jm_qovc_al_hlqox'])) {
+		die("העלאת קבצים חסומה מסיבות של בטיחות.");
+
 		$addFile = post_process_file_upload('jm_qovc_al_hlqox', "$fileroot/$site/messages", $replaceFile);
 		if ($addFile===false)
 			die ("Upload file failed");
