@@ -66,3 +66,42 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_tnk1_tnk1` SET `av` = 'מנהגים', `tarik_hosfa` = '2025-01-19 06:03:48' WHERE `av` = 'מניע של פעולה' AND `bn` = 'ביאור:רות ג12' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'יהודה  נשלח למצרים\' - אהובה קליין',60,10,'','יהודה  נשלח למצרים','2025-06-21 22:42:08');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'שבט אשר וברכתו\' - אהובה קליין',60,10,'','שבט אשר וברכתו','2025-06-21 22:42:08');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'אהרון רעייתו ובניו\' - אהובה קליין',60,10,'','אהרון רעייתו ובניו','2025-06-21 22:42:08');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET sdr_av=10,tarik_hosfa='2025-06-21 22:45:11'
+		WHERE av='שירי אהובה קליין' AND bn='\'יהודה  נשלח למצרים\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET sdr_av=10,tarik_hosfa='2025-06-21 22:45:11'
+		WHERE av='שירי אהובה קליין' AND bn='\'שבט אשר וברכתו\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET sdr_av=10,tarik_hosfa='2025-06-21 22:45:11'
+		WHERE av='שירי אהובה קליין' AND bn='\'אהרון רעייתו ובניו\' - אהובה קליין';
+

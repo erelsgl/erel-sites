@@ -147,3 +147,31 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 DELETE FROM `prt_tnk1` WHERE `qod` = 'מהות המספר 18 בתורה - הקשר בין תהילים כט, 18, אמת ושקר' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('פרשת ויגש - הירידה למצרים - מסר יעקב לעם  ישראל!', 'מאמר', 'פרשת ויגש - הירידה למצרים - מסר יעקב לעם  ישראל!', 'tnk1/messages/forums_1721.html', 'אהובה קליין ', '', '2025-06-21 22:41:02')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('\'יהודה  נשלח למצרים\' - אהובה קליין', 'שיר', '\'יהודה  נשלח למצרים\' - שיר מאת אהובה קליין (c)', 'tnk1/messages/forums_1722.html', 'אהובה קליין', '', '2025-06-21 22:41:02')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('\'שבט אשר וברכתו\' - אהובה קליין', 'שיר', '\'שבט אשר וברכתו\' - שיר מאת אהובה קליין (c)', 'tnk1/messages/forums_1724.html', 'אהובה קליין', '', '2025-06-21 22:41:02')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('\'אהרון רעייתו ובניו\' - אהובה קליין', 'שיר', '\'אהרון רעייתו ובניו\' - שיר מאת אהובה קליין (c)', 'tnk1/messages/forums_1727.html', 'אהובה קליין', '', '2025-06-21 22:41:02')
+				;
+

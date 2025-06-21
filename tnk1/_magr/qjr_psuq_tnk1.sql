@@ -918,3 +918,16 @@ SET character_set_client=utf8mb3;
 SET character_set_connection=utf8mb3;
 UPDATE `qjr_psuq_tnk1` SET `kotrt` = NULL, `tarik_hosfa` = '2024-09-24 03:33:12' WHERE `bn` = 'על הספר \"הצלחתם של מספרי הסיפורים\" מאת מרדכי שטנר' AND `sfr` = 'דבר' AND `prq0` = 'כו' AND `psuq0` = 18 AND `sug` = '' AND 1 LIMIT 1;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ברא','מה',28,28,'פרשת ויגש - הירידה למצרים - מסר יעקב לעם  ישראל!',60,'','','2025-06-21 22:42:08');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_psuq_tnk1
+		SET tarik_hosfa='2025-06-21 22:45:11'
+		WHERE sfr='ברא' AND prq0='מה' AND psuq0=28 AND psuq1=28 AND bn='פרשת ויגש - הירידה למצרים - מסר יעקב לעם  ישראל!';
+
