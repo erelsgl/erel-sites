@@ -1,2 +1,2 @@
-_script/rewrite.php binary
-_script/rewrite_library.php binary
+_script/rewrite.php text eol=crlf encoding=windows-1255
+_script/rewrite_library.php text eol=crlf encoding=windows-1255
