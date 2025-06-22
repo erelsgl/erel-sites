@@ -9,7 +9,7 @@ CREATE TABLE `prt_tnk1` (
   `tarik_hosfa` datetime DEFAULT NULL,
   PRIMARY KEY (`qod`),
   UNIQUE KEY `ktovt` (`ktovt`)
-) ENGINE=InnoDB CHARACTER SET utf8mb3;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_tnk1.txt'  INTO TABLE prt_tnk1 (qod,sug,tvnit,kotrt,ktovt,m,l,tarik_hosfa);
 

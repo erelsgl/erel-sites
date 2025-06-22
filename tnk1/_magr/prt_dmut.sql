@@ -7,7 +7,7 @@ CREATE TABLE `prt_dmut` (
   `mxbr` varchar(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`tt_kotrt`),
   UNIQUE KEY `ktovt` (`ktovt`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_dmut.txt'  INTO TABLE prt_dmut (tt_kotrt,jm,siomt,min,ktovt,mxbr);
 

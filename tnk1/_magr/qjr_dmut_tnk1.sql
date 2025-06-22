@@ -8,7 +8,7 @@ CREATE TABLE `qjr_dmut_tnk1` (
   `tarik_hosfa` datetime DEFAULT NULL,
   PRIMARY KEY (`av`,`bn`),
   UNIQUE KEY `bn` (`bn`,`av`)
-) ENGINE=InnoDB CHARACTER SET utf8mb3;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_dmut_tnk1.txt'  INTO TABLE qjr_dmut_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
 

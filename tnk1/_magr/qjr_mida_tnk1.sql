@@ -8,7 +8,7 @@ CREATE TABLE `qjr_mida_tnk1` (
   `text2` varchar(63) DEFAULT NULL,
   `text3` varchar(63) DEFAULT NULL,
   PRIMARY KEY (`av`,`bn`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_mida_tnk1.txt'  INTO TABLE qjr_mida_tnk1 (av,bn,sug,kinuyim,nigudim,text1,text2,text3);
 

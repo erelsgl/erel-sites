@@ -9,7 +9,7 @@ CREATE TABLE `prt_tryg` (
   `tarik_hosfa` datetime DEFAULT NULL,
   PRIMARY KEY (`qod`),
   UNIQUE KEY `ktovt` (`ktovt`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_tryg.txt'  INTO TABLE prt_tryg (qod,sug,tvnit,kotrt,ktovt,m,l,tarik_hosfa);
 

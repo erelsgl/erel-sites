@@ -9628,3 +9628,4 @@ tnk1/sofrim/shabot/index.html	אלברט שבות	add reply link	אלברט שב
 tnk1/messages/sofrim_shabot_index_133.html	הסוד הכמוס של חולשת ישראל	rewrite	מישהי/ו שכתובתה/ו 190.218.223.112 וטוענ/ת ששמה/ו אלברט שבות	2021-11-25 17:00:26
 tnk1/messages/sofrim_shabot_index_133.html	הסוד הכמוס של חולשת ישראל	rewrite	מישהי/ו שכתובתה/ו 190.218.223.112 וטוענ/ת ששמה/ו אלברט שבות	2021-11-25 17:01:16
 tnk1/new.html	הוספת מאמר חדש	add file link	רמי ניר	2021-11-28 19:00:30
+tnk1/dmut/dmut/843.html	אביאל הערבתי	add file link	אראל	2025-06-21 21:15:23

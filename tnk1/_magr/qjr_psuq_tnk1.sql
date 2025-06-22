@@ -12,7 +12,7 @@ CREATE TABLE `qjr_psuq_tnk1` (
   UNIQUE KEY `bn` (`bn`,`sfr`,`prq0`,`psuq0`,`sug`),
   UNIQUE KEY `sfr` (`sfr`,`prq0`,`psuq1`,`sug`,`bn`),
   UNIQUE KEY `bn_2` (`bn`,`sfr`,`prq0`,`psuq1`,`sug`)
-) ENGINE=InnoDB CHARACTER SET utf8mb3;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_psuq_tnk1.txt'  INTO TABLE qjr_psuq_tnk1 (bn,sfr,prq0,psuq0,psuq1,kotrt,sug,sdr_bn,tarik_hosfa);
 

@@ -3,7 +3,7 @@ CREATE TABLE `prt_jm` (
   `ktovt` varchar(160) NOT NULL DEFAULT '',
   PRIMARY KEY (`jm`),
   UNIQUE KEY `ktovt` (`ktovt`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_jm.txt'  INTO TABLE prt_jm (jm,ktovt);
 
