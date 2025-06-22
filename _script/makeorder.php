@@ -658,8 +658,8 @@ function update_or_insert_qjr($av, $bn, $av_xdj, $sdr_bn, $sdr_av, $kotrt, $sug)
 	print "<p dir='ltr'>$query</p>";
 	if ($query) 
 		return 
-			sql_query_or_die($query)
-			// sql_query($query)
+			sql_query_or_die($query)   // keeps backup
+			// sql_query($query)       // does not keep backup
 			or user_error('Invalid query: ' . sql_error());
 	else
 		return false;

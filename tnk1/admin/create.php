@@ -58,6 +58,13 @@ function show_create_page() {
 	read("New user name", "db_user");
 	read("New user password", "db_pass");
 	print "Drop existing database if it exists? [no]: "; $drop_db = trim(fgets(STDIN));
+
+	print "
+## Google Sign-In details - take from here: https://console.cloud.google.com/apis/credentials
+
+";
+	read("Google Sign-In Client ID (only the part before the '.apps')", "google_signin_client_id");
+	
 	$_POST['drop_db']=($drop_db=='yes');
 }
 
@@ -144,6 +151,7 @@ function create_db_connect_params() {
 \$GLOBALS['db_name'] = \$db_name = '$_POST[db_name]';
 \$GLOBALS['db_sock'] = '$_POST[db_sock]';
 \$GLOBALS['BACKUP_FILEROOT'] = str_replace('admin','_magr',dirname(__FILE__));
+\$GLOBALS['google_signin_client_id'] = '$_POST[google_signin_client_id]';
 ?".">")  /* put dirname inside the ""! */
 or die ("Can't create db_connect_params");
 }
