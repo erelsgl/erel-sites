@@ -2,7 +2,7 @@ CREATE TABLE `psuqim_qijurim` (
   `id` char(9) DEFAULT NULL,
   `book` char(3) NOT NULL DEFAULT '',
   `chapter` char(3) NOT NULL DEFAULT '',
-  `verse_number` int(11) NOT NULL DEFAULT '0',
+  `verse_number` int NOT NULL DEFAULT '0',
   `verse_text` text,
   PRIMARY KEY (`book`,`chapter`,`verse_number`),
   UNIQUE KEY `id` (`id`)

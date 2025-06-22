@@ -1,5 +1,5 @@
 CREATE TABLE `static_text` (
-  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'input5',
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'input5',
   `name` varchar(32) DEFAULT NULL,
   `English` varchar(255) DEFAULT NULL,
   `Hebrew` varchar(255) DEFAULT NULL,

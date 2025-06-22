@@ -1,6 +1,6 @@
 CREATE TABLE `prt_mcwa` (
-  `mspr_xinuk` smallint(6) NOT NULL DEFAULT '0',
-  `tt_mspr_xinuk` tinyint(4) NOT NULL DEFAULT '0',
+  `mspr_xinuk` smallint NOT NULL DEFAULT '0',
+  `tt_mspr_xinuk` tinyint NOT NULL DEFAULT '0',
   `jm` varchar(160) NOT NULL DEFAULT '',
   `qvuca` varchar(160) NOT NULL DEFAULT '',
   `ase` tinyint(1) DEFAULT NULL,
@@ -17,14 +17,14 @@ CREATE TABLE `prt_mcwa` (
   `tlmud_prq` char(2) NOT NULL DEFAULT '',
   `rmbm_hlkot` varchar(31) NOT NULL DEFAULT '',
   `rmbm_prq` char(2) NOT NULL DEFAULT '',
-  `rmbm_mspr` smallint(6) DEFAULT '0',
-  `rmbn` smallint(6) DEFAULT NULL,
-  `smg` smallint(6) DEFAULT NULL,
+  `rmbm_mspr` smallint DEFAULT '0',
+  `rmbn` smallint DEFAULT NULL,
+  `smg` smallint DEFAULT NULL,
   `herot` varchar(160) NOT NULL DEFAULT '',
   `tamim` varchar(160) NOT NULL DEFAULT '',
   `erk` varchar(31) NOT NULL DEFAULT '',
   PRIMARY KEY (`mspr_xinuk`,`tt_mspr_xinuk`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_mcwa.txt'  INTO TABLE prt_mcwa (mspr_xinuk,tt_mspr_xinuk,jm,qvuca,ase,xyvim,tdirut,rcon,erua,ecm,zmn_xyuv,mqom_xyuv,onj_mzid,onj_jogg,tlmud_mskt,tlmud_prq,rmbm_hlkot,rmbm_prq,rmbm_mspr,rmbn,smg,herot,tamim,erk);
 

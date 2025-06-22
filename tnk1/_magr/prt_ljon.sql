@@ -10,11 +10,11 @@ CREATE TABLE `prt_ljon` (
   `l` varchar(255) NOT NULL DEFAULT '',
   `ktovt_cilum` varchar(160) NOT NULL DEFAULT '',
   `godl_cilum` varchar(255) NOT NULL DEFAULT '',
-  `mofaim` int(11) DEFAULT NULL,
+  `mofaim` int DEFAULT NULL,
   `mftx` tinyint(1) DEFAULT NULL,
   `tarik_hosfa` datetime DEFAULT NULL,
   PRIMARY KEY (`qod`)
-) ENGINE=MyISAM CHARACTER SET utf8;
+) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/prt_ljon.txt'  INTO TABLE prt_ljon (av,qod,kotrt,sug,beur,tvnit,ktovt,m,l,ktovt_cilum,godl_cilum,mofaim,mftx,tarik_hosfa);
 
