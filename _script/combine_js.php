@@ -90,6 +90,6 @@ if ($outfile) {
 	echo $js;
 }
 
-//https://localhost/_script/combine_js.php?files=_script/jquery-1.3.1.min+_script/jquery.hoverIntent.min+_script/vars0+_script/cookies+_script/rtelang/en+_script/rte+_script/elements+_script/form_validation+_script/fields+_script/arguments+_script/sites+_script/dates/dates+_script/templates+_script/magrim+https://www.google.com/friendconnect/script/friendconnect.js+_script/search+_script/etc+_script/jquery.taconite&out=_script/vars&minify=1
+//https://localhost/_script/combine_js.php?files=_script/jquery-3.7.1.min+_script/jquery.hoverIntent.min+_script/vars0+_script/cookies+_script/rtelang/en+_script/rte+_script/elements+_script/form_validation+_script/fields+_script/arguments+_script/sites+_script/dates/dates+_script/templates+_script/magrim+https://www.google.com/friendconnect/script/friendconnect.js+_script/search+_script/etc+_script/jquery.taconite&out=_script/vars&minify=1
 
 ?>

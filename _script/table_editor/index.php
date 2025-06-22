@@ -46,7 +46,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?'.'>'.chr(13);
 				echo html_header_for_calendar_functions();?>
 
 	<link rel='stylesheet' type='text/css' href='/_script/klli.css' />
-    <script type='text/javascript' src='<?=$base_url?>/../jquery-1.3.2.min.js' ></script>
+    <script type='text/javascript' src='<?=$base_url?>/../jquery-3.7.1.min.js' ></script>
     <script type='text/javascript' src='<?=$base_url?>/../ckeditor/ckeditor.js' ></script>
     <script type='text/javascript' src='<?=$base_url?>/../ckeditor/ckeditor_local.js' ></script>
     <script type='text/javascript'>

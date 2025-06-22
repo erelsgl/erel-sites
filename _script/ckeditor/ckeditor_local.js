@@ -3,7 +3,7 @@ My local adjustments to ckeditor.
 
 Must come after the following scripts:
 
-    <script type='text/javascript' src='<?=$base_url?>/../jquery-1.3.2.min.js' ></script>
+    <script type='text/javascript' src='<?=$base_url?>/../jquery-3.7.1.min.js' ></script>
     <script type='text/javascript' src='<?=$base_url?>/../ckeditor/ckeditor.js' ></script>
 
 */
