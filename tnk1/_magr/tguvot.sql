@@ -75,3 +75,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-22 10:27:58' 
 			WHERE messageid=13438;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-23 10:24:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-23 10:24:50' 
+			WHERE messageid=13439;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>7 באוקטובר וחטופים בעזה = כי אלהים כועס על ישראל</p><p>וההצלחה באיראן = כי אלהים חפץ לשמור על ישראל</p><p>סוף דבר</p><p>אמנם אלהים כועס על ישראל אך לא חפץ בהשמדת ישראל</p><p>דברים כ13: &quot;וּנְתָנָהּ יהוה אֱלֹהֶיךָ בְּיָדֶךָ וְהִכִּיתָ אֶת כָּל זְכוּרָהּ לְפִי חָרֶב&quot;</p><p>  וּנְתָנָהּ יהוה אֱלֹהֶיךָ בְּיָדֶךָ = אלהים הקים דברו כי נתן בידך</p><p> וְהִכִּיתָ אֶת כָּל זְכוּרָהּ לְפִי חָרֶב = זה אתה ישראל לא הקמת</p><p>לכן תהיה עוד מלחמה עם איראן ואויבי ישראל לא ישלימו עמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-23 14:17:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2821_2.html',
+		'<p>תוכחה לישראל</p><p>7 באוקטובר וחטופים בעזה --- כי אלהים כועס על ישראל</p><p>וההצלחה באיראן --- כי אלהים חפץ לשמור על ישראל</p><p>סוף דבר</p><p>אמנם אלהים כועס על ישראל אך לא חפץ בהשמדת ישראל</p><p>דברים כ13: &quot;וּנְתָנָהּ יהוה אֱלֹהֶיךָ בְּיָדֶךָ וְהִכִּיתָ אֶת כָּל זְכוּרָהּ לְפִי חָרֶב&quot;</p><p>וּנְתָנָהּ יהוה אֱלֹהֶיךָ בְּיָדֶךָ --- זה אלהים הקים דברו כי נתן בידך</p><p>וְהִכִּיתָ אֶת כָּל זְכוּרָהּ לְפִי חָרֶב = זה אתה ישראל לא הקמת</p><p>לכן תהיה עוד מלחמה עם איראן ואויבי ישראל לא ישלימו עמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-23 14:39:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-23 14:39:06' 
+			WHERE messageid=13440;
+
