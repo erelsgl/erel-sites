@@ -63,26 +63,3 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t2821_2.html'
 		;
 
-SET character_set_client=hebrew;
-SET character_set_connection=hebrew;
-
-		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
-		VALUES (
-				'tnk1/msr/1.html',
-				'https://hu7zfi7s8mdvgrg827un8kydj.nglocalhost.com/shell.php',
-				NULL,
-				'2025-06-23 23:06:46',
-				'2025-06-23 23:06:46',
-				'lavalavalava',
-				'lavalavalava',
-				''
-			)
-		;
-
-SET character_set_client=hebrew;
-SET character_set_connection=hebrew;
-
-			UPDATE board_tnk1
-			SET newest_child_created_at='2025-06-23 23:06:46'
-			WHERE ktovt_bn='tnk1/msr/1.html';
-
