@@ -1,0 +1,4 @@
+AuthName "tnk1 admin"
+AuthType Basic
+AuthUserFile "/root/wwwwwd/doar/passwd"
+require valid-user
