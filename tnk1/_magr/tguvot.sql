@@ -225,3 +225,184 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-25 04:58:03' 
 			WHERE messageid=13447;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2701_0.html',
+		'<p>תהלים קכה3: &quot;כִּי לֹא יָנוּחַ שֵׁבֶט הָרֶשַׁע עַל גּוֹרַל הַצַּדִּיקִים לְמַעַן לֹא יִשְׁלְחוּ הַצַּדִּיקִים בְּעַוְלָתָה יְדֵיהֶם&quot;</p><p>אנחנו מכירים שתי משמעויות</p><p>1.כִּי לֹא יָנוּחַ =   ללא מנוחה ללא הפסקה </p><p>2. כִּי לֹא יָנוּחַ = כי לא נחה עליו לא תהיה עליו</p><p>-</p><p>משמעות 2 היא המשמעות המקראית</p><p>לאמור כי לא נח שֵׁבֶט הָרֶשַׁע עַל גּוֹרַל הַצַּדִּיקִים</p><p>הַצַּדִּיקִים מוגנים מפני  שֵׁבֶט הָרֶשַׁע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-25 08:17:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-25 08:17:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-25 08:17:54' 
+			WHERE messageid=13449;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-25 08:18:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-25 08:18:10' 
+			WHERE messageid=13450;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-30-13.html',
+		'<p>הנה עדכון לשקל הקודש</p><p>*** היום 26 ליוני 2025 ***</p><p>מחיר 1 אונקיית כסף = 130 ש&quot;ח  </p><p>מחיר 5 אונקיות כסף = 650 ש&quot;ח = רבע שקל כסף אשר יש לתת לנביא לדרוש אלהים</p><p>מחיר 10 אונקיות כסף = 1300 ש&quot;ח = מחצית השקל = זה כסף הכפורים אשר יש לתת ביום הכפורים לכפר על נפשותיכם</p><p>מחיר 20 אונקיות כסף = 2600 ש&quot;ח זה שוויו של 1 שקל הקודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-25 16:47:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26e7_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-25 18:34:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-25 18:34:38' 
+			WHERE messageid=13452;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>זקני ישראל הם חכמי ישראל</p><p>הושע ז9: &quot;אָכְלוּ זָרִים כֹּחוֹ וְהוּא לֹא יָדָע גַּם שֵׂיבָה זָרְקָה בּוֹ וְהוּא לֹא יָדָע&quot;</p><p>-</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת ***שִׁיבַת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת  ***שֵׂיבָת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>יכל להגיד---  בְּשׁוּב יהוה אֶת צִיּוֹן ולא אֶת שִׁיבַת צִיּוֹן </p><p>אך יש פה הבנה נוספת --- אֶת שֵׂיבָת צִיּוֹן לאמור זקני ציון</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת שֵׂיבָת צִיּוֹן [את זקני ציון] הָיִינוּ כְּחֹלְמִים&quot;.......</p><p>יואל ג1: &quot;וְהָיָה אַחֲרֵי כֵן אֶשְׁפּוֹךְ אֶת רוּחִי עַל כָּל בָּשָׂר וְנִבְּאוּ בְּנֵיכֶם וּבְנוֹתֵיכֶם *****זִקְנֵיכֶם חֲלֹמוֹת יַחֲלֹמוּן***** בַּחוּרֵיכֶם חֶזְיֹנוֹת יִרְאוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 02:16:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>זקני ישראל הם חכמי ישראל</p><p>הושע ז9: &quot;אָכְלוּ זָרִים כֹּחוֹ וְהוּא לֹא יָדָע גַּם שֵׂיבָה זָרְקָה בּוֹ וְהוּא לֹא יָדָע&quot;</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת ***שֵׂיבָת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>על פי הפסוק הזה המנוקד אחרת</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת ***שִׁיבַת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>יכל להגיד--- בְּשׁוּב יהוה אֶת צִיּוֹן ולא אֶת שִׁיבַת צִיּוֹן</p><p>אך יש פה הבנה נוספת --- אֶת שֵׂיבָת צִיּוֹן לאמור את זקני ציון</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת שֵׂיבָת צִיּוֹן [את זקני ציון] הָיִינוּ כְּחֹלְמִים&quot;.......</p><p>יואל ג1: &quot;וְהָיָה אַחֲרֵי כֵן אֶשְׁפּוֹךְ אֶת רוּחִי עַל כָּל בָּשָׂר וְנִבְּאוּ בְּנֵיכֶם וּבְנוֹתֵיכֶם *****זִקְנֵיכֶם חֲלֹמוֹת יַחֲלֹמוּן***** בַּחוּרֵיכֶם חֶזְיֹנוֹת יִרְאוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 02:58:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 02:58:48' 
+			WHERE messageid=13453;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>זקני ישראל הם חכמי ישראל</p><p>הושע ז9: &quot;אָכְלוּ זָרִים כֹּחוֹ וְהוּא לֹא יָדָע גַּם ***שֵׂיבָה זָרְקָה בּוֹ*** וְהוּא לֹא יָדָע&quot;</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת ***שֵׂיבָת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>על פי הפסוק הזה המנוקד אחרת</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת ***שִׁיבַת צִיּוֹן*** הָיִינוּ כְּחֹלְמִים&quot;</p><p>יכל להגיד--- בְּשׁוּב יהוה אֶת צִיּוֹן ולא אֶת שִׁיבַת צִיּוֹן</p><p>אך יש פה הבנה נוספת --- אֶת שֵׂיבָת צִיּוֹן לאמור את זקני ציון</p><p>תהלים קכו1: &quot;שִׁיר הַמַּעֲלוֹת בְּשׁוּב יהוה אֶת שֵׂיבָת צִיּוֹן [את זקני ציון] הָיִינוּ כְּחֹלְמִים&quot;.......</p><p>יואל ג1: &quot;וְהָיָה אַחֲרֵי כֵן אֶשְׁפּוֹךְ אֶת רוּחִי עַל כָּל בָּשָׂר וְנִבְּאוּ בְּנֵיכֶם וּבְנוֹתֵיכֶם *****זִקְנֵיכֶם חֲלֹמוֹת יַחֲלֹמוּן***** בַּחוּרֵיכֶם חֶזְיֹנוֹת יִרְאוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 02:59:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 02:59:52' 
+			WHERE messageid=13454;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>בראשית כז29: &quot;יַעַבְדוּךָ עַמִּים וְיִשְׁתַּחֲווּ לְךָ לְאֻמִּים הֱוֵה גְבִיר לְאַחֶיךָ....... וְיִשְׁתַּחֲווּ לְךָ בְּנֵי אִמֶּךָ אֹרְרֶיךָ אָרוּר וּמְבָרֲכֶיךָ בָּרוּךְ&quot;</p><p>בראשית כז37: &quot;וַיַּעַן יִצְחָק וַיֹּאמֶר לְעֵשָׂו הֵן גְּבִיר שַׂמְתִּיו לָךְ וְאֶת כָּל אֶחָיו....... נָתַתִּי לוֹ לַעֲבָדִים וְדָגָן וְתִירֹשׁ סְמַכְתִּיו וּלְכָה אֵפוֹא מָה אֶעֱשֶׂה בְּנִי&quot; </p><p>בראשית לא46: &quot;וַיֹּאמֶר יַעֲקֹב לְאֶחָיו....... לִקְטוּ אֲבָנִים וַיִּקְחוּ אֲבָנִים וַיַּעֲשׂוּ גָל וַיֹּאכְלוּ שָׁם עַל הַגָּל&quot; </p><p>בראשית לא54: &quot;וַיִּזְבַּח יַעֲקֹב זֶבַח בָּהָר וַיִּקְרָא לְאֶחָיו....... לֶאֱכָל לָחֶם וַיֹּאכְלוּ לֶחֶם וַיָּלִינוּ בָּהָר&quot; </p><p>-</p><p>ליעקב אבינו היו עוד אחים מלבד עשיו אך הקרב על הבכורה היה עם עשיו כי עשיו היה הבכור</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 05:37:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>בראשית כז29: &quot;יַעַבְדוּךָ עַמִּים וְיִשְׁתַּחֲווּ לְךָ לְאֻמִּים הֱוֵה גְבִיר לְאַחֶיךָ....... וְיִשְׁתַּחֲווּ לְךָ בְּנֵי אִמֶּךָ....... אֹרְרֶיךָ אָרוּר וּמְבָרֲכֶיךָ בָּרוּךְ&quot;</p><p>בראשית כז37: &quot;וַיַּעַן יִצְחָק וַיֹּאמֶר לְעֵשָׂו הֵן גְּבִיר שַׂמְתִּיו לָךְ וְאֶת כָּל אֶחָיו....... נָתַתִּי לוֹ לַעֲבָדִים וְדָגָן וְתִירֹשׁ סְמַכְתִּיו וּלְכָה אֵפוֹא מָה אֶעֱשֶׂה בְּנִי&quot;</p><p>בראשית לא46: &quot;וַיֹּאמֶר יַעֲקֹב לְאֶחָיו....... לִקְטוּ אֲבָנִים וַיִּקְחוּ אֲבָנִים וַיַּעֲשׂוּ גָל וַיֹּאכְלוּ שָׁם עַל הַגָּל&quot;</p><p>בראשית לא54: &quot;וַיִּזְבַּח יַעֲקֹב זֶבַח בָּהָר וַיִּקְרָא לְאֶחָיו....... לֶאֱכָל לָחֶם וַיֹּאכְלוּ לֶחֶם וַיָּלִינוּ בָּהָר&quot;</p><p>-</p><p>ליעקב אבינו היו עוד אחים מלבד עשיו אך הקרב על הבכורה היה עם עשיו כי עשיו היה הבכור</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 05:38:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 05:38:24' 
+			WHERE messageid=13456;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 06:32:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 06:32:55' 
+			WHERE messageid=13458;
+
