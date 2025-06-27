@@ -406,3 +406,191 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-26 06:32:55' 
 			WHERE messageid=13458;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>משה איש האלהים כבר כתב את דבר יהוה בתורה בספר שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>אז האם דוד המלך התפלל לחינם בקשתו כאשר אמר בספר תהילות דויד בפרק תהלים לו11: &quot;מְשֹׁךְ חַסְדְּךָ לְיֹדְעֶיךָ וְצִדְקָתְךָ לְיִשְׁרֵי לֵב&quot;</p><p>ובכן תפילת דויד לא לחינם כי אם למלא את דבר אלהים ולהבהיר לנו כי אוהבי אלהים ושומרי מצוותיו הם יודעי אלהים וישרי לב אשר שמחה להם ותפילת צדיקים כדוד כבר נשמעה ליהוה אלהים מראש מקדם ככתוב: &quot;וּתְפִלַּת צַדִּיקִים יִשְׁמָע&quot;</p><p>ככתוב בספר קהלת יב13: &quot;סוֹף דָּבָר הַכֹּל נִשְׁמָע אֶת הָאֱלֹהִים יְרָא וְאֶת מצותיו שְׁמוֹר כִּי זֶה כָּל הָאָדָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 10:23:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>משה איש האלהים כבר כתב את דבר יהוה בתורה בספר שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>אז האם דוד המלך התפלל לחינם בקשתו כאשר אמר בספר תהילות דויד בפרק תהלים לו11: &quot;מְשֹׁךְ חַסְדְּךָ לְיֹדְעֶיךָ וְצִדְקָתְךָ לְיִשְׁרֵי לֵב&quot;</p><p>ובכן תפילת דויד לא לחינם כי אם למלא את דבר אלהים ולהבהיר לנו כי אוהבי אלהים ושומרי מצוותיו הם יודעי אלהים וישרי לב אשר שמחה להם </p><p>ותפילת צדיקים כדוד כבר נשמעה ליהוה אלהים מראש מקדם ככתוב: &quot;וּתְפִלַּת צַדִּיקִים יִשְׁמָע&quot;</p><p>ככתוב בספר קהלת יב13: &quot;סוֹף דָּבָר הַכֹּל נִשְׁמָע אֶת הָאֱלֹהִים יְרָא וְאֶת מצותיו שְׁמוֹר כִּי זֶה כָּל הָאָדָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 12:12:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 12:12:13' 
+			WHERE messageid=13459;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 12:13:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 12:13:29' 
+			WHERE messageid=13461;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 13:28:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 13:28:56' 
+			WHERE messageid=13462;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 13:32:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 13:32:26' 
+			WHERE messageid=13463;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>אני ממליץ על כבוד הרב &quot;אייל עמרמי&quot; המדבר על אמונה ובטחון </p><p>שמעו את דבריו כי זה הכיוון זאת הדרך שחפצתי אמונה לא גמרא</p><p>https://www.youtube.com/shorts/iF3f-VuK7Nk</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 15:56:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/iF3f-VuK7Nk</p><p>שמעו נא את דברי הרב אייל עמרמי הוא מתחיל לחשוב כמוני</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 16:46:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 16:46:50' 
+			WHERE messageid=13464;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/iF3f-VuK7Nk</p><p>שמעו נא את דברי הרב אייל עמרמי [מוסדות כאייל תערוג]</p><p>המתחיל לדבר על מה שכבר כתבתי לכם פה במאמרי זה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-26 16:50:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-26 16:50:13' 
+			WHERE messageid=13465;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>בהמשך לתגובתי במאמר זה מיום 2018-09-23 05:49:51 DAIAN SHEM</p><p>אני כותב לכם לכל מַשְׁכִּימֵי קוּם כי אסור לאכול פת-שחרית בעת השכמת קום </p><p>תהלים קכז2: &quot;שָׁוְא לָכֶם מַשְׁכִּימֵי קוּם מְאַחֲרֵי שֶׁבֶת אֹכְלֵי לֶחֶם הָעֲצָבִים כֵּן יִתֵּן לִידִידוֹ שֵׁנָא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 01:04:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 01:05:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 01:05:43' 
+			WHERE messageid=13468;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 01:06:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 01:06:14' 
+			WHERE messageid=13469;
+
