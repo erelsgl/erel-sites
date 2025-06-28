@@ -594,3 +594,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-06-27 01:06:14' 
 			WHERE messageid=13469;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 10:36:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 10:37:01' 
+			WHERE messageid=13470;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 10:37:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 10:37:43' 
+			WHERE messageid=13471;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 10:38:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 10:38:12' 
+			WHERE messageid=13472;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>יום שיוויון האביב הוא ראש חודש האביב הוא ראש השנה לבריאת העולם </p><p>ויום שיוויון הסתיו הוא חג-סכות הוא ראש השנה לשנות שמיטין ויובלים </p><p>יום שיוויון הסתיו אינו ראש החודש השביעי כי אם 15.7 הוא חג-הסכות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 10:57:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 10:59:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-06-27 10:59:18' 
+			WHERE messageid=13474;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0526_3.html',
+		'<p></p><p>שמואל א ג1: &quot;וְהַנַּעַר שְׁמוּאֵל מְשָׁרֵת אֶת יהוה לִפְנֵי עֵלִי [הכהן הגדול]</p><p>שמואל א ב18: &quot;וּשְׁמוּאֵל מְשָׁרֵת אֶת פְּנֵי יהוה נַעַר חָגוּר אֵפוֹד בָּד&quot;</p><p>שמואל א ב11: &quot;וַיֵּלֶךְ אֶלְקָנָה הָרָמָתָה עַל בֵּיתוֹ וְהַנַּעַר הָיָה מְשָׁרֵת אֶת יהוה אֶת פְּנֵי עֵלִי הַכֹּהֵן&quot;</p><p>שמואל א ב18: &quot;וּשְׁמוּאֵל מְשָׁרֵת אֶת פְּנֵי יהוה =  מְשָׁרֵת אֶת יהוה אֶת פְּנֵי עֵלִי הַכֹּהֵן [שמואל א ב11]</p><p> פְּנֵי יהוה = פְּנֵי עֵלִי הַכֹּהֵן [כי פני כהן הראש הכהן הגדול = פְּנֵי יהוה]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-06-27 13:51:13'
+		)
+		;
+
