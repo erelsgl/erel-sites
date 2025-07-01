@@ -63,6 +63,23 @@ function google_new($followup) {
 	global $current_userid;
 	return "
 		<script type='text/javascript'>
+		// Suppress the mjx.menu cookie warning that comes from Google Sign In
+		const originalError = console.error;
+		const originalWarn = console.warn;
+
+		console.error = console.warn = function(...args) {
+			const message = args[0] || '';
+			if (typeof message === 'string' && 
+				(message.includes('mjx.menu') || 
+				message.includes('SameSite') ||
+				message.includes('cross-site context'))) {
+				return; // Suppress these specific warnings
+			}
+			originalError.apply(console, args);
+		};
+		</script>
+			
+		<script type='text/javascript'>
 		// Disable MathJax cookies completely - this must run before MathJax loads
 		window.MathJax = window.MathJax || {};
 		window.MathJax.HTML = window.MathJax.HTML || {};
