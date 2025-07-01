@@ -60,8 +60,7 @@ echo xhtml_header(
 
 
 function google_new($followup) {
-	global $current_userid;
-	return "
+/* claude.ai attempts to solve the mjx.menu error:
 		<script type='text/javascript'>
 		// Suppress the mjx.menu cookie warning that comes from Google Sign In
 		const originalError = console.error;
@@ -115,6 +114,11 @@ function google_new($followup) {
 		return element;
 		};
 		</script>
+*/
+
+
+	global $current_userid;
+	return "
 
 	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
 	<style>
