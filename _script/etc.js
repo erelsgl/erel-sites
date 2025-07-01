@@ -198,7 +198,7 @@ function hide_old_idfields() {
 // the header of every document
 function kotrt() {
 
-	/*
+/*
 	if (!is_local) {
 		if (/צחור/.test(theAuthor) || /אביתר/.test(theAuthor) || /הופר/.test(theAuthor))  {
 			google_ad_client = "pub-4131841895603404";
@@ -209,7 +209,7 @@ function kotrt() {
 			document.write('<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
 		} 
 	}
-	*/
+*/
 
 	var theText="";
 	if (theReceiver=='סגלות משלי') {

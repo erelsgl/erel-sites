@@ -23,3 +23,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/ov-01-11.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/555.html',
+				'tnk1/messages/dmut_dmut_555_1.html',
+				NULL,
+				'2025-06-30 13:06:52',
+				'2025-06-30 13:06:52',
+				'יעבץ (עצב) = עתניאל (נתנאל)',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-07-01 03:54:15'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html'
+		;
+
