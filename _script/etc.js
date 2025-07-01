@@ -4,9 +4,9 @@
 path_from_document_to_scripts = path_from_document_to_site + '../_script/';
 is_local = 	/localhost/.test(location.href);
 
-var urlToLike = "https://tora.us.fm/"+path_from_root_to_document;
-var facebookLikeButton = "<iframe src='https://www.facebook.com/plugins/like.php?href=" +
-		urlToLike+"' scrolling='no' frameborder='0' style='border:none; width:450px; height:80px'></iframe>\n";
+// var urlToLike = "https://tora.us.fm/"+path_from_root_to_document;
+// var facebookLikeButton = "<iframe src='https://www.facebook.com/plugins/like.php?href=" +
+// 		urlToLike+"' scrolling='no' frameborder='0' style='border:none; width:450px; height:80px'></iframe>\n";
 
 select_other_versions = 
 	!/\/t0/.test(path_from_root_to_document) && 
@@ -26,13 +26,6 @@ gfc_skin['CONTENT_TEXT_COLOR'] = '#33333a';
 gfc_skin['CONTENT_SECONDARY_LINK_COLOR'] = '#990033';
 gfc_skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#666666';
 gfc_skin['CONTENT_HEADLINE_COLOR'] = '#333333';
-
-////Usage: initRTE(imagesPath, includesPath, cssFile, generateXHtml)
-//initRTE(
-//	path_from_document_to_scripts+"rteimages/",
-//	path_from_document_to_scripts,
-//	'', //path_from_document_to_site+"_themes/klli.css",
-//	false);
 
 
 //////////////   CONSTANTS   //////////////
@@ -124,18 +117,6 @@ function getFormElements() { // called in "tguva"
 	theEditForm = document.getElementById('editform');
 	theButtons = document.getElementById('buttons');
 }
-
-
-// disable hidden fields of RTEs, so that they won't be sent
-//function disableHiddenRTEs() {
-//	var vRTEs = allRTEs.split(";");
-//	for(var i=vRTEs.length-1; i>=0; --i) {
-//		$('hdn'+vRTEs[i]).attr("disabled", "disabled");
-//		$('size'+vRTEs[i]).attr("disabled", "disabled");
-//		//document.getElementById('hdn'+vRTEs[i]).disabled = true;
-//		//document.getElementById('size'+vRTEs[i]).disabled = true;
-//	}
-//}
 
 
 
@@ -328,7 +309,7 @@ function kotrt() {
 			//"<td>" + emptyVersionSelector('versionsByStyle') + "</td>\n" + 
 			//"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
 			//"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
-			"<td>" + facebookLikeButton + "</td>\n"+
+			// "<td>" + facebookLikeButton + "</td>\n"+
 		"</tr>\n</table>\n";
 	}
 
@@ -878,9 +859,9 @@ function tguva() {
 	}
 
 
-	document.write("<table class='versionselectors'><tr>\n"+
-			"<td>" + facebookLikeButton + "</td>\n"+
-			"</tr></table>");
+	// document.write("<table class='versionselectors'><tr>\n"+
+	// 		"<td>" + facebookLikeButton + "</td>\n"+
+	// 		"</tr></table>");
 
 	if (theTvnit == "0") {
 		teur1 = "לחצו כאן כדי להוסיף לאתר דף חדש שהגולשים יוכלו להגיע אליו מהדף הראשי.";
