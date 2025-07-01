@@ -198,16 +198,18 @@ function hide_old_idfields() {
 // the header of every document
 function kotrt() {
 
+	/*
 	if (!is_local) {
 		if (/צחור/.test(theAuthor) || /אביתר/.test(theAuthor) || /הופר/.test(theAuthor))  {
 			google_ad_client = "pub-4131841895603404";
-			/* 728x90, נוצר 11/05/08 */
+			// 728x90, נוצר 11/05/08 
 			google_ad_slot = "5267744417";
 			google_ad_width = 728;
 			google_ad_height = 90;
 			document.write('<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>');
 		} 
 	}
+	*/
 
 	var theText="";
 	if (theReceiver=='סגלות משלי') {
@@ -298,6 +300,7 @@ function kotrt() {
 	theText += "</div>\n";
 	
 	// add links to other versions (languages, printer friendly, all replies, etc)
+	/*
 	if (select_other_versions) {
 		theText += 
 		"<script type='text/javascript' src='https://apis.google.com/js/plusone.js'>"+
@@ -310,6 +313,7 @@ function kotrt() {
 			// "<td>" + facebookLikeButton + "</td>\n"+
 		"</tr>\n</table>\n";
 	}
+	*/
 
 	document.write(theText);
 }
