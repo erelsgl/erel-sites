@@ -63,6 +63,15 @@ function google_new($followup) {
 	global $current_userid;
 	return "
 		<script type='text/javascript'>
+		// Disable MathJax cookies completely - this must run before MathJax loads
+		window.MathJax = window.MathJax || {};
+		window.MathJax.HTML = window.MathJax.HTML || {};
+		window.MathJax.HTML.Cookie = window.MathJax.HTML.Cookie || {};
+		window.MathJax.HTML.Cookie.Set = function(){};
+		window.MathJax.HTML.Cookie.Get = function(){ return {}; };
+		</script>
+
+		<script type='text/javascript'>
 		// Prevent MathJax from being loaded by any library. Thanks claude.ai
 		window.MathJax = {
 		skipStartupTypeset: true,
