@@ -14,7 +14,7 @@ global $HTML_DIRECTION, $HTML_LANGUAGE, $HTML_ENCODING;
 $HTML_DIRECTION = 'rtl';
 $HTML_LANGUAGE = 'he';
 $HTML_ENCODING = 'utf-8';
-$jquery = 'https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+$jquery = 'https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js';
 
 require_once("admin/db_connect.php");
 if (isset($_GET['debug_times']))
@@ -39,12 +39,6 @@ $logout = isset($_GET['to']) && $_GET['to']=='logout';
 
 global $name_for_display, $current_userid, $current_userid_quoted, $current_email;
 
-// require_once("$OPENID/local.php");
-// $attributes = google_attributes($login, $logout, $followup);
-// $current_userid = $attributes['current_userid'];
-// $name_for_display = $attributes['name_for_display'];
-// $current_email =  $attributes['current_email'];
-
 $_SESSION['id'] = $current_userid = coalesce($_GET['id'],''); 
 $_SESSION['name'] = $name_for_display = coalesce($_GET['name'],'');
 $_SESSION['email'] = $current_email = coalesce($_GET['email'],'');
@@ -62,6 +56,7 @@ echo xhtml_header(
 		"
 		<script type='text/javascript' src='$jquery'></script>
 		");
+
 
 
 function google_new($followup) {
