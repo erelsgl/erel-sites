@@ -300,6 +300,7 @@ function kotrt() {
 	theText += "</div>\n";
 	
 	// add links to other versions (languages, printer friendly, all replies, etc)
+	/*
 	if (select_other_versions) {
 		theText += 
 		"<script type='text/javascript' src='https://apis.google.com/js/plusone.js'>"+
@@ -312,6 +313,7 @@ function kotrt() {
 			// "<td>" + facebookLikeButton + "</td>\n"+
 		"</tr>\n</table>\n";
 	}
+	*/
 
 	document.write(theText);
 }
