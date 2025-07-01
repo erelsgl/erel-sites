@@ -62,6 +62,34 @@ echo xhtml_header(
 function google_new($followup) {
 	global $current_userid;
 	return "
+		<script type='text/javascript'>
+		// Prevent MathJax from being loaded by any library. Thanks claude.ai
+		window.MathJax = {
+		skipStartupTypeset: true,
+		messageStyle: 'none',
+		options: {
+			enableMenu: false
+		}
+		};
+
+		// Block MathJax script loading entirely
+		const originalCreateElement = document.createElement;
+		document.createElement = function(tagName) {
+		const element = originalCreateElement.call(this, tagName);
+		if (tagName.toLowerCase() === 'script') {
+			const originalSetAttribute = element.setAttribute;
+			element.setAttribute = function(name, value) {
+			if (name === 'src' && value && value.includes('mathjax')) {
+				console.log('Blocked MathJax loading:', value);
+				return; // Block MathJax script loading
+			}
+			return originalSetAttribute.call(this, name, value);
+			};
+		}
+		return element;
+		};
+		</script>
+
 	<script type='text/javascript' src='https://accounts.google.com/gsi/client' async defer></script>
 	<style>
 		iframe#ssIFrame_google {display:none}
