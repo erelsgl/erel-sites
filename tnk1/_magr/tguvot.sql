@@ -330,3 +330,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-07-10 03:40:21' 
 			WHERE messageid=13496;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/hagay/qnu.html',
+		'<p>מעוניין לרכוש את ספרך על המשכן. מיכאל אמיד נייד 0528991601</p>',
+		'102583711872105951611',
+		'Michael Amid',
+		'2025-07-10 16:43:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>בגלל עכן בן כרמי אשר מעל בחרם נפלו חיילי ישראל חללים במלחמה</p><p>גם כיום בגלל שמועלים בחרם נופלים חיילי ישראל יום יום במלחמה</p><p>עתה אני קורא לכם ממשלת ישראל בערו את השחיתות בכל המדינה</p><p>ולא יפלו עוד חיילי ישראל חללים במלחמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-11 03:34:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-11 03:35:46' 
+			WHERE messageid=13499;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b03_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-11 05:22:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-11 05:22:52' 
+			WHERE messageid=13500;
+
