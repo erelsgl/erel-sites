@@ -380,3 +380,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-07-11 05:22:52' 
 			WHERE messageid=13500;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אם אתה רוצה להצליח בחיים.......</p><p>אל תבקש לזכות בלוטו להיות מיליונר אל תבקש דבר מלבד ללכת בדרך יהוה האלהים</p><p>דרך יהוה אלהים זה צדקה ומשפט חסד ואמת אם תשמע בקולי אז תצליח בכל מעשיך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-11 14:26:55'
+		)
+		;
+
