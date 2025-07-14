@@ -392,3 +392,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הנוצרים מאמינים בכל התנ&quot;ך ובברית החדשה לכן אנטישמיות הנוצרים לא בגלל התורה והתנ&quot;ך</p><p>אנטישמיות הנוצרים בגלל התלמוד המסלף את התורה והאנטישמיות הנוצרית הזאת מוצדקת</p><p>סוף דבר</p><p>רבני התלמוד הם האשמים באנטישמיות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-14 00:29:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-14 01:13:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-14 01:13:20' 
+			WHERE messageid=13503;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-14 01:13:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-14 01:13:45' 
+			WHERE messageid=13504;
+
