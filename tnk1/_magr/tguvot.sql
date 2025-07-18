@@ -509,3 +509,72 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>הקול הפנימי זה לשמוע בקול אלהים</p><p>וכאשר יש מאבק-קונפליקט בין לשמוע לקול הפנימי לבין לשמוע לתורה אני מעדיף לשמוע לקול הפנימי</p><p>וככה אני מצפה גם מאחרים</p><p>כי לעתים יש תורות שהם שקר לא אמת [אני לא מדבר על תורת משה] ולכן הקול הפנימי חשוב יותר</p><p>גם אם תורתך אמת הלא לשמוע בקול אלהים זה ראשית התורה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-17 08:58:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-17 08:58:39' 
+			WHERE messageid=13510;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>הקול הפנימי זה לשמוע בקול אלהים</p><p>וכאשר יש קונפליקט בין לשמוע לקול אלהים לבין לשמוע לתורה אני מעדיף לשמוע לקול אלהים</p><p>וככה אני מצפה גם מאחרים</p><p>כי לעתים יש תורות שהם לא אמת [אני לא מדבר על תורת משה] ולכן הקול הפנימי חשוב יותר</p><p>גם אם תורתך אמת הלא לשמוע בקול אלהים זה ראשית התורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-17 09:00:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>הקול הפנימי זה לשמוע בקול אלהים</p><p>וכאשר יש קונפליקט בין לשמוע לקול אלהים לבין לשמוע לתורה אני מעדיף לשמוע לקול אלהים</p><p>וככה אני מצפה גם מאחרים</p><p>כי לעתים יש תורות שהם לא אמת [אני לא מדבר על תורת משה] ולכן הקול הפנימי חשוב יותר</p><p>גם אם תורתך אמת הלא לשמוע בקול אלהים זה ראשית התורה</p><p>על כן אמר אהרן הכהן: גם אם על פי חוקי התורה עלי לאכול את בשר קרבן החַטָּאת זה לא נכון בעיני אלהים לכן לא אוכל את החַטָּאת</p><p>ויקרא י19: &quot;וַיְדַבֵּר אַהֲרֹן אֶל מֹשֶׁה הֵן הַיּוֹם הִקְרִיבוּ אֶת חַטָּאתָם וְאֶת עֹלָתָם לִפְנֵי יהוה וַתִּקְרֶאנָה אֹתִי כָּאֵלֶּה וְאָכַלְתִּי חַטָּאת הַיּוֹם הַיִּיטַב בְּעֵינֵי יהוה&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-17 10:32:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-17 10:32:36' 
+			WHERE messageid=13511;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>הקול הפנימי זה לשמוע בקול אלהים</p><p>וכאשר יש קונפליקט בין לשמוע לקול אלהים לבין לשמוע לתורה אני מעדיף לשמוע לקול אלהים</p><p>וככה אני מצפה גם מאחרים</p><p>כי לעתים יש תורות שהם לא אמת [אני לא מדבר על תורת משה] ולכן הקול הפנימי חשוב יותר</p><p>גם אם תורתך אמת הלא לשמוע בקול אלהים זה ראשית התורה</p><p>על כן אמר אהרן הכהן: זה לא נכון בעיני אלהים לאכול את בשר קרבן החַטָּאת על פי התורה כי כעת שני בני מתו וזו לא העת לאכול בשמחה</p><p>ויקרא י19: &quot;וַיְדַבֵּר אַהֲרֹן אֶל מֹשֶׁה הֵן הַיּוֹם הִקְרִיבוּ אֶת חַטָּאתָם וְאֶת עֹלָתָם לִפְנֵי יהוה וַתִּקְרֶאנָה אֹתִי כָּאֵלֶּה וְאָכַלְתִּי חַטָּאת הַיּוֹם הַיִּיטַב בְּעֵינֵי יהוה&quot;</p><p>ויקרא י20: &quot;וַיִּשְׁמַע מֹשֶׁה וַיִּיטַב בְּעֵינָיו&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-17 10:38:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-17 10:38:43' 
+			WHERE messageid=13512;
+
