@@ -335,3 +335,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-25-13.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-07-20 18:29:18'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-25-13.html'
+		;
+

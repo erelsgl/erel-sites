@@ -628,3 +628,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-07-18 13:47:07' 
 			WHERE messageid=13515;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/bmdbr/bm-25-13.html',
+		'<p>יש בעיה בהוספת מאמרים</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-07-20 18:29:18'
+		)
+		;
+
