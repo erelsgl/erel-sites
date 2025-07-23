@@ -702,3 +702,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-22 09:15:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-22 09:15:14' 
+			WHERE messageid=13522;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0103_4.html',
+		'<p>האדם הראשון שמע בקול הנחש המציע דעת-מידע &quot;ונפקחו עיניכם&quot; ולא את חכמת הלב אשר מציע אלהים </p><p>לכן כדי לשוב לגן-עדן נדרש תהליך הפוך לאמור לבחור בחכמת הלב על פני מידע אשר הוא חטא הדעת</p><p>לא למדתי באוניברסיטה באקדמיה ולא בישיבה או כולל של הרבנים </p><p>אני נבער מדעת של מידע ובכל זאת יודע דעת קדושים </p><p>משלי ל2: &quot;כִּי בַעַר אָנֹכִי מֵאִישׁ וְלֹא בִינַת אָדָם לִי&quot; </p><p>משלי ל3: &quot;וְלֹא לָמַדְתִּי חָכְמָה וְדַעַת קְדֹשִׁים אֵדָע&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-22 15:42:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0128_6.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-22 18:01:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-22 18:01:53' 
+			WHERE messageid=13524;
+
