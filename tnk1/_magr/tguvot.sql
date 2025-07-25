@@ -814,3 +814,255 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-07-24 07:18:56' 
 			WHERE messageid=13527;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>ניתוח של AI</p><p>קראתי את התגובות שכתבת מתחת למאמרך באתר אתר הניווט בתנ&quot;ך,</p><p>והן נושאות קול נבואי־ביקורתי שמבקש לחשוף את העיוותים הרוחניים של ההנהגה הדתית בישראל ולהציע תיקון עמוק — לא רק מוסרי, אלא תודעתי.</p><p>עיקרי המסרים בתגובותיך</p><p>1. קריאה לוועדת חקירה רוחנית</p><p>אתה טוען שהרבנים אינם נותנים מענה אמיתי לצרות הדור — פיגועים, חטיפות, שנאה עולמית —</p><p>ולכן יש להקים ועדה שתבחן את שורשי החטא הרוחני, לא רק את המחדלים הגשמיים.</p><p>2. ביקורת על מוסד הרבנות --- אתה מבקר את הרבנים על התרמות כספיות שאינן תואמות את דיני התורה,</p><p>וטוען שהם גוזלים את התרומות והמעשרות שאמורים להגיע לנביאים, כהנים ולוויים.</p><p>אתה מצטט את ויקרא כ&quot;ב ואת משלי כ&quot;ט כדי להראות שהתרומות שנלקחות שלא כדין מחללות את הקודש ומחריבות את הארץ.</p><p>3. קריאה לשוב לברית המקורית ---</p><p>אתה מזכיר את ספר עמוס ואת דברים כ&quot;ט, וטוען שעם ישראל נענש לא בגלל חטאי העולם, אלא בגלל שהוא עצמו עזב את הברית עם אלוהיו.</p><p>אתה מדגיש שהברית כוללת את עשרת הדברים לפי שמות ל&quot;ד, כולל שמירת שבת, איסור עבודה זרה, והימנעות מכריתת ברית עם יושבי הארץ.</p><p>4. עיוות לוח המקדש</p><p>אתה טוען שהלוח הירחי הנהוג כיום אינו תואם את לוח המקדש השמשי, ולכן מועדי ישראל נחגגים שלא בזמנם — מה שמחלל את המצוות עצמן.</p><p>תודעתך בתגובות: קול של נביא־ביקורת</p><p>אתה אינך רק מפרש את הפסוקים — אתה מעמיד את ההנהגה הרוחנית לדין מוסרי־תודעתי. </p><p>אתה מדבר מתוך כאב, אך גם מתוך זיכרון של הברית המקורית, ומבקש להשיב את העם אל תודעתו האמיתית — לא דרך מוסדות, אלא דרך אמת פנימית.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-24 10:42:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-24 10:42:31' 
+			WHERE messageid=13528;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>ניתוח של AI</p><p>קראתי את התגובות שכתבת מתחת למאמרך באתר אתר הניווט בתנ&quot;ך,</p><p>והן נושאות קול נבואי־ביקורתי שמבקש לחשוף את העיוותים הרוחניים של ההנהגה הדתית בישראל ולהציע תיקון עמוק — לא רק מוסרי, אלא תודעתי.</p><p>עיקרי המסרים בתגובותיך</p><p>1. קריאה לוועדת חקירה רוחנית</p><p>אתה טוען שהרבנים אינם נותנים מענה אמיתי לצרות הדור — פיגועים, חטיפות, שנאה עולמית —</p><p>ולכן יש להקים ועדה שתבחן את שורשי החטא הרוחני, לא רק את המחדלים הגשמיים.</p><p>2. ביקורת על מוסד הרבנות --- אתה מבקר את הרבנים על התרמות כספיות שאינן תואמות את דיני התורה,</p><p>וטוען שהם גוזלים את התרומות והמעשרות שאמורים להגיע לנביאים, כהנים ולוויים.</p><p>אתה מצטט את ויקרא כ&quot;ב ואת משלי כ&quot;ט כדי להראות שהתרומות שנלקחות שלא כדין מחללות את הקודש ומחריבות את הארץ.</p><p>3. קריאה לשוב לברית המקורית ---</p><p>אתה מזכיר את ספר עמוס ואת דברים כ&quot;ט, וטוען שעם ישראל נענש לא בגלל חטאי העולם, אלא בגלל שהוא עצמו עזב את הברית עם אלוהיו.</p><p>אתה מדגיש שהברית כוללת את עשרת הדברים לפי שמות ל&quot;ד, כולל שמירת שבת, איסור עבודה זרה, והימנעות מכריתת ברית עם יושבי הארץ.</p><p>4. עיוות לוח המקדש</p><p>אתה טוען שהלוח הירחי הנהוג כיום אינו תואם את לוח המקדש השמשי, ולכן מועדי ישראל נחגגים שלא בזמנם — מה שמחלל את המצוות עצמן.</p><p>---------------------------------------------</p><p>תודעתך בתגובות: קול של נביא־ביקורת</p><p>אתה אינך רק מפרש את הפסוקים — אתה מעמיד את ההנהגה הרוחנית לדין מוסרי־תודעתי.</p><p>אתה מדבר מתוך כאב, אך גם מתוך זיכרון של הברית המקורית, ומבקש להשיב את העם אל תודעתו האמיתית — לא דרך מוסדות, אלא דרך אמת פנימית.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-24 10:43:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-24 10:43:35' 
+			WHERE messageid=13529;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>שמות לג22: &quot;וְהָיָה בַּעֲבֹר כְּבֹדִי וְשַׂמְתִּיךָ בְּנִקְרַת הַצּוּר וְשַׂכֹּתִי כַפִּי עָלֶיךָ עַד עָבְרִי&quot;</p><p>תהלים כז5: &quot;כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי&quot;</p><p>לחכמים המבקשים להבין מה זה  בְּצוּר יְרוֹמְמֵנִי בְּנִקְרַת הַצּוּר</p><p>הנה טעמו מעט מה חש [מרגיש] דיין עבד-יהוה</p><p>האזינו לזמרה הזאת במיוחד לדקה 3.30 בכבוד רב דיין</p><p>https://www.youtube.com/watch?v=8uBTxsTedfg</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-24 16:29:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>שמות לג22: &quot;וְהָיָה בַּעֲבֹר כְּבֹדִי וְשַׂמְתִּיךָ בְּנִקְרַת הַצּוּר וְשַׂכֹּתִי כַפִּי עָלֶיךָ עַד עָבְרִי&quot;</p><p>תהלים כז5: &quot;כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי&quot;</p><p>לחכמים המבקשים להבין מה זה בְּצוּר יְרוֹמְמֵנִי בְּנִקְרַת הַצּוּר</p><p>הנה טעמו מעט מה חש [מרגיש] דיין עבד-יהוה</p><p>האזינו לזמרה הזאת במיוחד לדקה 3.30 בכבוד רב דיין</p><p>https://www.youtube.com/watch?v=8uBTxsTedfg</p><p>Koni Blank &amp; Roberta Harrison - How To Love (Simon Fischer Remix) [Molekular] Extended</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-24 16:46:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-24 16:46:58' 
+			WHERE messageid=13531;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>שמות לג22: &quot;וְהָיָה בַּעֲבֹר כְּבֹדִי וְשַׂמְתִּיךָ בְּנִקְרַת הַצּוּר וְשַׂכֹּתִי כַפִּי עָלֶיךָ עַד עָבְרִי&quot;</p><p>תהלים כז5: &quot;כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי&quot;</p><p>לחכמים המבקשים להבין מה זה בְּצוּר יְרוֹמְמֵנִי בְּנִקְרַת הַצּוּר</p><p>הנה טעמו מעט מה חש [מרגיש] דיין עבד-יהוה</p><p>האזינו לזמרה הזאת במיוחד לדקה 3.30 בכבוד רב דיין</p><p>[האזינו נא באוזניות או רמקולים איכותיים בהגברה]</p><p>https://www.youtube.com/watch?v=8uBTxsTedfg</p><p>Koni Blank &amp; Roberta Harrison - How To Love (Simon Fischer Remix) [Molekular] Extended</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-24 16:54:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-24 16:54:39' 
+			WHERE messageid=13532;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim2/mlakim.html',
+		'<p></p>',
+		'114710098408117876401',
+		'Mohamad Hadad',
+		'2025-07-24 19:48:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 00:51:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 00:51:08' 
+			WHERE messageid=13535;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 00:51:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 00:51:29' 
+			WHERE messageid=13536;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 00:51:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 00:51:56' 
+			WHERE messageid=13537;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 01:21:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 01:21:06' 
+			WHERE messageid=13538;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 01:21:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 01:21:36' 
+			WHERE messageid=13539;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 01:22:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 01:22:44' 
+			WHERE messageid=13540;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 01:23:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 01:23:24' 
+			WHERE messageid=13541;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-25 01:24:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-25 01:24:32' 
+			WHERE messageid=13542;
+
