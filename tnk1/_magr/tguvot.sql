@@ -1066,3 +1066,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-07-25 01:24:32' 
 			WHERE messageid=13542;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>בתגובה מיום תאריך זה2021-02-12 02:26:23</p><p>DAIAN SHEM</p><p>כתבתי כי יהודי מזרחי ללא אמונה הוא למעשה &quot;ערבי&quot; </p><p>עם הקונטציות השליליות של המילה ערבי ולעתים טרוריסט במשפחה ובחברה </p><p>והרב הזה בקישור מאשר כיום את דברי </p><p>https://www.youtube.com/shorts/WZ7kSr8M4Kg</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-27 06:05:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>בתגובה למאמרי זה </p><p>מיום תאריך  2021-02-12 02:26:23 DAIAN SHEM</p><p>[זה יוצא 8 תגובות מעל תגובה הנוכחית הזאת]</p><p>כתבתי כי יהודי מזרחי ללא אמונה הוא למעשה &quot;ערבי&quot; </p><p>עם הקונטציות השליליות של המילה ערבי ולעתים טרוריסט במשפחה ובחברה</p><p>והרב הזה בקישור מאשר כיום את דברי</p><p>https://www.youtube.com/shorts/WZ7kSr8M4Kg</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-27 06:08:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-27 06:08:57' 
+			WHERE messageid=13543;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>בתגובה למאמרי זה</p><p>מיום תאריך 2021-02-12 02:26:23 DAIAN SHEM</p><p>[זה יוצא 7 תגובות מעל תגובה הנוכחית הזאת]</p><p>כתבתי כי יהודי מזרחי ללא אמונה הוא למעשה &quot;ערבי&quot;</p><p>עם הקונטציות השליליות של המילה ערבי ולעתים טרוריסט במשפחה ובחברה</p><p>והרב הזה בקישור מאשר כיום את דברי</p><p>https://www.youtube.com/shorts/WZ7kSr8M4Kg</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-27 06:09:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-27 06:10:04' 
+			WHERE messageid=13544;
+
