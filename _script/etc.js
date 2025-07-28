@@ -512,6 +512,36 @@ function P2LI(html) {
 }
 
 /*
+function standardizeHTMLBnim(bnimHTML) {
+	return 	"<ul id='ulbnim'>\r\n" + 
+		standardizeHTMLTguvot(bnimHTML) + "\r\n" +
+		"</ul><!--end-->\r\n\r\n";
+}
+
+function standardizeHTMLTosftAndBnim(tosftHTML, bnimHTML) {
+	return 	"<!--tosft0--><div id='tosft'>\r\n" +
+		standardizeHTMLTokn(tosftHTML) + "\r\n" +
+		"</div><!--tosft1-->\r\n"+
+		standardizeHTMLBnim(bnimHTML);
+}
+
+
+function standardizeHTML() {
+	if (theTokn && theTguvot) {
+		return standardizeHTMLToknAndTguvot(theTokn.innerHTML, theTguvot.innerHTML);
+	}
+	else if (theBnim && theTosft) {
+		return standardizeHTMLTosftAndBnim(theTosft.innerHTML, theBnim.innerHTML);
+	}
+	else if (theBnim) {
+		return standardizeHTMLBnim(theBnim.innerHTML);
+	}
+	else {
+		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
+	}
+}
+*/
+
 function standardizeHTMLTokn(theHTML) {
 	theText = theHTML.
 	//* add newline before a start-tag (except an underline and a super/subscript) 
@@ -616,37 +646,6 @@ function standardizeHTMLToknAndTguvot(toknHTML, tguvotHTML) {
 		standardizeHTMLTguvot(tguvotHTML) + "\r\n" +
 		"</ul><!-" + "-end-->\r\n\r\n";
 }
-
-function standardizeHTMLBnim(bnimHTML) {
-	return 	"<ul id='ulbnim'>\r\n" + 
-		standardizeHTMLTguvot(bnimHTML) + "\r\n" +
-		"</ul><!--end-->\r\n\r\n";
-}
-
-function standardizeHTMLTosftAndBnim(tosftHTML, bnimHTML) {
-	return 	"<!--tosft0--><div id='tosft'>\r\n" +
-		standardizeHTMLTokn(tosftHTML) + "\r\n" +
-		"</div><!--tosft1-->\r\n"+
-		standardizeHTMLBnim(bnimHTML);
-}
-
-
-function standardizeHTML() {
-	if (theTokn && theTguvot) {
-		return standardizeHTMLToknAndTguvot(theTokn.innerHTML, theTguvot.innerHTML);
-	}
-	else if (theBnim && theTosft) {
-		return standardizeHTMLTosftAndBnim(theTosft.innerHTML, theBnim.innerHTML);
-	}
-	else if (theBnim) {
-		return standardizeHTMLBnim(theBnim.innerHTML);
-	}
-	else {
-		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
-	}
-}
-*/
-
 
 function standardizeHTMLRTE() {
 	if (theTokn && theTguvot) {
