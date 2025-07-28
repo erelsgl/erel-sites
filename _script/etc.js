@@ -645,6 +645,8 @@ function standardizeHTML() {
 		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
 	}
 }
+*/
+
 
 function standardizeHTMLRTE() {
 	if (theTokn && theTguvot) {
@@ -663,7 +665,6 @@ function standardizeHTMLRTE() {
 		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
 	}
 }
-*/
 
 function hideEdit() {
 	if (document.all) {
