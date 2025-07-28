@@ -564,14 +564,14 @@ function standardizeHTMLTokn(theHTML) {
 	//* remove unneeded properties (added by "Word") 
 		replace(/<o:p>\s*<\/o:p>/ig,"").
 		replace(/<\/?o:p>/ig,"").
-		replace(/ class=MsoNormal[a-z]*+/ig,"").
-		replace(/mso-[^ ">]*:\s*[^ ">]*+/ig,"").
-		replace(/margin[^ ">]*:\s*[^ ">]*+/ig,"").
+		replace(/ class=MsoNormal[a-z]*/ig,"").
+		replace(/mso-[^ ">]*:\s*[^ ">]*/ig,"").
+		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
-		replace(/TEXT-INDENT: -[0-9a-z.]*+/ig,"").
+		replace(/TEXT-INDENT: -[0-9a-z.]*/ig,"").
 	//* remove unneeded properties (added by "Visual Studio") 
 		replace(/href=\"vid:/ig,"href=\"").
-		replace(/margin[^ ">]*:\s*[^ ">]*+/ig,"").
+		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
 	//* remove unneeded properties (added by Mozilla) 
 		replace(/ wrap=\"\"/ig,"").
@@ -599,7 +599,7 @@ function standardizeHTMLTokn(theHTML) {
 		replace(/\[\[/ig, "<small>").
 		replace(/\]\]/ig, "<\/small>").
 	//* remove unneeded parts of a link 
-		replace(/(\.htm)\?[^\"\'<>]*+/ig,"$1").
+		replace(/(\.htm)\?[^\"\'<>]*/ig,"$1").
 	//* fix span direction (for bidi text) 
 		//replace(/(<p[^>]*>\s*)(<B[^>]*>\s*)*(<span[^>]*>\s*)*(<span[^>]*)dir=...([^>]*>)/ig,"$1$2$3$4$5").
 		replace(/(<p[^>]*>)([^à-ú]*)(<span[^>]*)dir=\"?...\"?([^>]*>)/ig,"$1$2$3$4").
