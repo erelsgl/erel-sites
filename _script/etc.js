@@ -68,8 +68,9 @@ function showHideRTE(rte, showHide) {
 	try {document.getElementById('Buttons1_'+rte).style.display = display ; } catch(e) {}
 	try {document.getElementById('Buttons2_'+rte).style.display = display ; } catch(e) {}
 	try {document.getElementById('vs'+rte).style.display = display ; } catch(e) {}
-	if (isIE) {	document.getElementById(rte).style.display = display;	}
-	else showHideElement(rte, showHide, false);  // "true" causes an error in Mozilla
+	// if (isIE) {	
+	document.getElementById(rte).style.display = display;
+	// else showHideElement(rte, showHide, false);  // "true" causes an error in Mozilla
 }
 
 
