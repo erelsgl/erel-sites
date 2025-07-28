@@ -511,45 +511,45 @@ function P2LI(html) {
 	return result;
 }
 
-
+/*
 function standardizeHTMLTokn(theHTML) {
 	theText = theHTML.
-	/* add newline before a start-tag (except an underline and a super/subscript) */
+	//* add newline before a start-tag (except an underline and a super/subscript) 
 		replace(/(<[^uU\/!])/ig,"\r\n$1").
 		replace(/\r\n(<su[bp]>)/ig,"$1").
-	/* add space after an end-tag (except an underline and a subscript) */
+	//* add space after an end-tag (except an underline and a subscript) 
 		replace(/(<\/[^uUaA>][^>]*>)/ig,"$1 ").
 		replace(/(<\/su[bp]>) /ig,"$1").
-	/* move space from end of tags to after the tags */
+	//* move space from end of tags to after the tags 
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
-	/* remove links and meta-tags that somehow get into the text (through word, for example) */
+	//* remove links and meta-tags that somehow get into the text (through word, for example) 
 		replace(/<link[^>]*>/ig,"").
 		replace(/<meta[^>]*>/ig,"").
-	/* replace deprecated elements with styles */
+	//* replace deprecated elements with styles 
 		replace(/<u>([^<]*)<\/u>/ig,"<span class='u'>$1</span>").
 		replace(/(<\/sub>) /ig,"$1").
 		replace(/<o:p>\s*<\/o:p>/ig,"").
-	/* remove unneeded properties (added by "Word") */
+	//* remove unneeded properties (added by "Word") 
 		replace(/<o:p>\s*<\/o:p>/ig,"").
 		replace(/<\/?o:p>/ig,"").
-		replace(/ class=MsoNormal[a-z]*/ig,"").
-		replace(/mso-[^ ">]*:\s*[^ ">]*/ig,"").
-		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
+		replace(/ class=MsoNormal[a-z]*+/ig,"").
+		replace(/mso-[^ ">]*:\s*[^ ">]*+/ig,"").
+		replace(/margin[^ ">]*:\s*[^ ">]*+/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
-		replace(/TEXT-INDENT: -[0-9a-z.]*/ig,"").
-	/* remove unneeded properties (added by "Visual Studio") */
+		replace(/TEXT-INDENT: -[0-9a-z.]*+/ig,"").
+	//* remove unneeded properties (added by "Visual Studio") 
 		replace(/href=\"vid:/ig,"href=\"").
-		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
+		replace(/margin[^ ">]*:\s*[^ ">]*+/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
-	/* remove unneeded properties (added by Mozilla) */
+	//* remove unneeded properties (added by Mozilla) 
 		replace(/ wrap=\"\"/ig,"").
 		replace(/ class=\"moz-txt-citetags\"/ig,"").
 		replace(/ border-collapse:\s*collapse/ig, "").
 		replace(/ lang=["']["']/ig, "").
 		replace(/ target=["']?_self["']?/ig, "").
-	/* remove unneeded spans */
+	//* remove unneeded spans 
 		replace(/<span[^>]*>\s*<\/span>/ig,"").
 		replace(/<span>([^<]*)<\/span>/ig,"$1").
 		replace(/<span[^>]*>\s*<\/span>/ig,"").
@@ -557,33 +557,33 @@ function standardizeHTMLTokn(theHTML) {
 		replace(/<font[^>]*>\s*<\/font>/ig,"").
 		replace(/<a[^>]*>\s*<\/a>/ig,"").
 		replace(/<q[^>]*>\s*<\/q>/ig,"").
-	/* remove problematic FireFox list elements */
+	//* remove problematic FireFox list elements 
 		replace(/<ul>\s*<li>\s*<\/li>\s*<\/ul>/ig,"").  // empty list
 		replace(/<\/li>\s*<ul>/ig,"<ul>").                  // list inside list
-	/* remove unallowed character-data */
+	//* remove unallowed character-data 
 		replace(/(<[oud]l[^>]*>\s*)&nbsp;/ig,"$1").
 		replace(/(<\/li[^>]*>\s*)&nbsp;/ig,"$1").
-	/* remove unallowed tags */
+	//* remove unallowed tags 
 		replace(/<p>\s*(<\/[^p])/ig,"$1").
-	/* create small text: replace "[[...]]" with "<small>...</small>" */
+	//* create small text: replace "[[...]]" with "<small>...</small>" 
 		replace(/\[\[/ig, "<small>").
 		replace(/\]\]/ig, "<\/small>").
-	/* remove unneeded parts of a link */
-		replace(/(\.htm)\?[^\"\'<>]*/ig,"$1").
-	/* fix span direction (for bidi text) */
+	//* remove unneeded parts of a link 
+		replace(/(\.htm)\?[^\"\'<>]*+/ig,"$1").
+	//* fix span direction (for bidi text) 
 		//replace(/(<p[^>]*>\s*)(<B[^>]*>\s*)*(<span[^>]*>\s*)*(<span[^>]*)dir=...([^>]*>)/ig,"$1$2$3$4$5").
 		replace(/(<p[^>]*>)([^א-ת]*)(<span[^>]*)dir=\"?...\"?([^>]*>)/ig,"$1$2$3$4").
 		replace(/(<li[^>]*>)([^א-ת]*)(<span[^>]*)dir=\"?...\"?([^>]*>)/ig,"$1$2$3$4").
-	/* remove unneeded newlines */
+	//* remove unneeded newlines 
 		replace(/\r\n(\r\n)+/ig, "\r\n").
 		replace(/^\r\n/ig, "").
 		replace(/\r\n$/ig, "").
 		replace(/(<br[^>]*>\s*)(<br[^>]*>\s*)+/ig, "<p>").
-	/* remove unneeded comments */
+	//* remove unneeded comments 
 		replace(/<!--[a-z]-->/ig, "").
-	/* correct links */
+	//* correct links 
 		replace(/tnk\//ig, "tnk1/").
-	/* close tags*/
+	//* close tags
 		replace(/<p>\s*(<[hpou])/ig,"<p />$1").
 		replace(/<(hr[^>]*)>/ig, "<$1 />").
 		replace(/<(br[^>]*)>/ig, "<$1 />").
@@ -663,7 +663,7 @@ function standardizeHTMLRTE() {
 		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
 	}
 }
-
+*/
 
 function hideEdit() {
 	if (document.all) {
