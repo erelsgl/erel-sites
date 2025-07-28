@@ -32,6 +32,49 @@ gfc_skin['CONTENT_HEADLINE_COLOR'] = '#333333';
 var SUBSEQUENT_CLICKS_TO_EDIT = 10;
 
 
+////////////// Show or Hide Elements /////////\
+// [copied from the old rte.js file]
+
+function showHideElement(element, showHide, rePosition){
+	//function to show or hide elements
+	//element variable can be string or object
+	if(document.getElementById(element)){
+		element = document.getElementById(element);
+	}
+	if(showHide == "show"){
+		element.style.visibility = "visible";
+		if(rePosition){
+			element.style.position = "relative";
+			element.style.left = "auto";
+			element.style.top = "auto";
+		}
+	}else if(showHide == "hide"){
+		element.style.visibility = "hidden";
+		if(rePosition){
+				element.style.position = "absolute";
+				element.style.left = "-1000px";
+				element.style.top = "-1000px";
+		}
+	}
+}
+
+// function added by Erel
+// usage:
+// 	showHideRte(rte, "show")
+// 	showHideRte(rte, "hide")
+function showHideRTE(rte, showHide) {
+	var display = (showHide == 'show'? '': 'none');
+	// not all parts exist for each rte, so we ignore errors
+	try {document.getElementById('Buttons1_'+rte).style.display = display ; } catch(e) {}
+	try {document.getElementById('Buttons2_'+rte).style.display = display ; } catch(e) {}
+	try {document.getElementById('vs'+rte).style.display = display ; } catch(e) {}
+	if (isIE) {	document.getElementById(rte).style.display = display;	}
+	else showHideElement(rte, showHide, false);  // "true" causes an error in Mozilla
+}
+
+
+
+
 var lang = document.body.lang;
 
 function initialLanguage() {
@@ -607,12 +650,12 @@ function standardizeHTMLRTE() {
 		return standardizeHTMLToknAndTguvot($('#ToknRTE').val(), $('#TguvotRTE').val());
 	}
 	else if (theBnim && theTosft) {
-		updateRTE('ToknRTE');
-		updateRTE('TguvotRTE');
+		updateRTE('ToknRTE');    // from old rte.js
+		updateRTE('TguvotRTE');  // from old rte.js
 		return standardizeHTMLTosftAndBnim(document.getElementById('hdnToknRTE').value, document.getElementById('hdnTguvotRTE').value);
 	}
 	else if (theBnim) {
-		updateRTE('TguvotRTE');  
+		updateRTE('TguvotRTE');   // from old rte.js
 		return standardizeHTMLBnim(document.getElementById('hdnTguvotRTE').value);
 	}
 	else {
@@ -694,6 +737,47 @@ function minmax(val, min, max) {
 	return val<min? min: val>max? max: val;
 }
 
+
+
+/*
+// function added by Erel
+// set both the visible and the hidden size of the given RTE
+// Doesn't work on IE! 
+function setRTESize(rte,width,height) {
+	var oRTE = document.getElementById(rte);
+	var sRTE = document.getElementById('size'+rte);
+	var oBut1 = document.getElementById('Buttons1_'+rte);
+	var oVS = document.getElementById('vs'+rte);
+
+	if (isIE) {
+		oRTE.style = "width:"+(width-2)+"px; height:"+height+"px";  // Doesn't work!
+	}
+	else {
+		oRTE.style.width = "" + width-2 + "px";
+		oRTE.style.height = "" + height + "px";
+	}
+
+	if (sRTE) sRTE.value = height;
+	if (oBut1) oBut1.style.width = "" + width + "px";
+	if (oVS) oVS.style.width = "" + width + "px";
+}
+
+function returnRTE(rte) {
+	var rtn;
+	if(document.all){
+		rtn = frames[rte];
+	}else{
+		rtn = document.getElementById(rte);
+		if (rtn==null) {
+			//alert("rte '"+rte+"' is null");
+			return null;
+		}
+		else rtn = rtn.contentWindow;
+	}
+	return rtn;
+}
+
+
 function fixRTEAppearance() {
 	returnRTE('ToknRTE').document.body.dir = returnRTE('TguvotRTE').document.body.dir = document.body.dir;
 
@@ -706,6 +790,7 @@ function fixRTEAppearance() {
 		setRTESize('TguvotRTE', width, height2);
 	}
 }
+*/
 
 function fixTokn() {
 	t = theTokn.innerHTML;
