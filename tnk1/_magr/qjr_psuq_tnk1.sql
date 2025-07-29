@@ -16,3 +16,39 @@ CREATE TABLE `qjr_psuq_tnk1` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_psuq_tnk1.txt'  INTO TABLE qjr_psuq_tnk1 (bn,sfr,prq0,psuq0,psuq1,kotrt,sug,sdr_bn,tarik_hosfa);
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דהא','ד',9,9,'יעבץ ועתניאל',60,'','יעבץ (עצב) = עתניאל (נתנאל)','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דהא','ד',10,10,'יעבץ ועתניאל',60,'','יעבץ (עצב) = עתניאל (נתנאל)','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('יהש','טו',15,15,'יעבץ ועתניאל',60,'','יעבץ (עצב) = עתניאל (נתנאל)','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דהא','ב',55,55,'יעבץ ועתניאל',60,'','יעבץ (עצב) = עתניאל (נתנאל)','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('מלב','ב',24,24,'ביאור:מלכים ב ב24',10,'תרגומים','קללת אלישע','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('מלב','ב',3,3,'ביאור:מלכים ב ב24',60,'','קללת אלישע','2025-07-29 02:00:07');
+

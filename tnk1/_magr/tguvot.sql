@@ -1295,3 +1295,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/investigation.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-28 14:35:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-28 14:35:38' 
+			WHERE messageid=13558;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-28 14:36:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-28 14:36:34' 
+			WHERE messageid=13559;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-02-24.html',
+		'<p>נחמיה ט30: &quot;וַתִּמְשֹׁךְ עֲלֵיהֶם שָׁנִים רַבּוֹת וַתָּעַד בָּם בְּרוּחֲךָ בְּיַד נְבִיאֶיךָ....... וְלֹא הֶאֱזִינוּ וַתִּתְּנֵם בְּיַד עַמֵּי הָאֲרָצֹת&quot;</p><p> בְּרוּחֲךָ בְּיַד נְבִיאֶיךָ --- כי רוח יהוה לנביאו</p><p>ויקרא כד16: &quot;וְנֹקֵב שֵׁם יהוה מוֹת יוּמָת רָגוֹם יִרְגְּמוּ בוֹ כָּל הָעֵדָה כַּגֵּר כָּאֶזְרָח בְּנָקְבוֹ שֵׁם יוּמָת&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-29 03:26:13'
+		)
+		;
+

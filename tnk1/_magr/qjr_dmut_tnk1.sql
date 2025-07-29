@@ -12,3 +12,9 @@ CREATE TABLE `qjr_dmut_tnk1` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_dmut_tnk1.txt'  INTO TABLE qjr_dmut_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_dmut_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('עתניאל בן קנז','יעבץ ועתניאל',60,10,'','יעבץ (עצב) = עתניאל (נתנאל)','2025-07-29 02:00:07');
+

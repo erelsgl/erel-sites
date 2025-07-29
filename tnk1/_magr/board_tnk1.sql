@@ -679,3 +679,115 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/kma/qjrim1/peaceman.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-07-28 14:35:36'
+		WHERE ktovt_bn='tnk1/msr/knesset/investigation.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-07-28 14:36:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/qll1.html',
+				'tnk1/nvir/mlkimb/mb-02-24.html',
+				NULL,
+				'2025-07-29 01:51:03',
+				'2025-07-29 01:51:03',
+				'χμμϊ ΰμιως',
+				'ΰψΰμ',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sug='Χ”Χ’Χ“Χ¨Χ”', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sug='Χ”Χ’Χ“Χ¨Χ”', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/kma/qjrim1/peaceman.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sug='Χ“Χ™Χ•Χ1', sdr_bn=NULL
+			WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-02-24.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/messages/dmut_dmut_555_1.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/kma/qjrim1/peaceman.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-02-24.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=10
+			WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-02-24.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE board_tnk1
+			SET sdr_bn=60
+			WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-02-24.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-07-29 03:26:13'
+		WHERE ktovt_bn='tnk1/nvir/mlkimb/mb-02-24.html'
+		;
+

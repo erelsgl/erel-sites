@@ -12,3 +12,15 @@ CREATE TABLE `qjr_tnk1_tnk1` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_tnk1_tnk1.txt'  INTO TABLE qjr_tnk1_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('כלל תנך','איש שלום=',60,10,'','איש שלום','2025-07-29 02:00:07');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('צדק דמויות','ביאור:מלכים ב ב24',60,10,'','קללת אלישע','2025-07-29 02:00:07');
+
