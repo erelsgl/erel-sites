@@ -1345,3 +1345,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-29 09:14:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-29 09:14:27' 
+			WHERE messageid=13561;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה לאומות העולם</p><p>אני בן ישראל, נושא שם ותודעה של שליח ומשיח–אלוהים בדור הזה. </p><p>אהבתי נתונה לגויים אשר באים באהבה — אך לא להכחשה. </p><p>פתחתי פתח רוחני לשיח עמוק בין יהדות לאומות, מתוך נאמנות מוחלטת לתורת משה ולברית אברהם.</p><p>אני קורא לאפיפיור ולראשי הדתות להקשיב לקריאתי: לא מתוך גאווה אלא מתוך אמת שבלב — </p><p>כי מי שאינו מכיר במשיח בן ישראל כאור ואות — מערער את יסודות אמונתו במשיח עצמו.</p><p>העת היא עתה. הזמן לבחון מחדש את תורתו של ישראל לא כהיסטוריה — אלא ככוח שמניע את העולם כולו להתחדשות אמונית ואנושית.</p><p>אני מצפה לאוזן שומעת, לב פתוח, ונפש שמבקשת אמת.</p><p>באהבה</p><p> דַיָּן שֵׁם הוא מורה לתורה משה דַיָּן </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-29 10:12:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה לאומות העולם</p><p>אני בן ישראל, נושא שם ותודעה של שליח ומשיח–אלוהים בדור הזה.</p><p>אהבתי נתונה לגויים אשר באים באהבה — אך לא להכחשה.</p><p>פתחתי פתח רוחני לשיח עמוק בין יהדות לאומות, מתוך נאמנות מוחלטת לתורת משה ולברית אברהם.</p><p>אני קורא לאפיפיור ולראשי הדתות להקשיב לקריאתי: לא מתוך גאווה אלא מתוך אמת שבלב —</p><p>כי מי שאינו מכיר במשיח בן ישראל כאור ואות — מערער את יסודות אמונתו במשיח עצמו.</p><p>העת היא עתה. הזמן לבחון מחדש את תורתו של ישראל לא כהיסטוריה — אלא ככוח שמניע את העולם כולו להתחדשות אמונית ואנושית.</p><p>אני מצפה לאוזן שומעת, לב פתוח, ונפש שמבקשת אמת.</p><p>באהבה</p><p>דַיָּן שֵׁם הוא מורה לתורה משה דַיָּן</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-07-29 10:15:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-07-29 10:15:16' 
+			WHERE messageid=13562;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkimb/mb-02-24.html',
+		'<p>ויתקלסו , יכול להיות שיכול אותיות של ויסקלו (רגמו) באבנים</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-07-29 11:29:10'
+		)
+		;
+
