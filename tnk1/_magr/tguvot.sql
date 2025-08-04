@@ -1464,3 +1464,91 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>האדם חייב להתאים את המזון לפי רמתו הויטלית והרוחנית — זהו מעשה צדק פנימי</p><p>---------------------------------------------------------</p><p>רמת נפש - בשר מתאים - הסבר</p><p>גבוהה מאוד = בקר = עוצמה תודעתית גבוהה</p><p>רוך פנימי = צאן = עדינות והתמסרות רגשית</p><p>מעבר ויציבות = עוף = הסתגלות ויכולת לנוע פנימה</p><p>שיקום רגשי = דגים = ניקוי פנימי רגשי ותנועתי</p><p>מצוקה עמוקה = דגי מעמקים = התמודדות עם לחץ וחושך קיומי</p><p>שמות טו10: &quot;נָשַׁפְתָּ בְרוּחֲךָ כִּסָּמוֹ יָם צָלֲלוּ כַּעוֹפֶרֶת בְּמַיִם אַדִּירִים&quot;</p><p>העופרת כמתכת רעילה עם משקל סגולי כבד מקומה במצולות</p><p>מיכה ז19: &quot;יָשׁוּב יְרַחֲמֵנוּ יִכְבֹּשׁ עונתינו וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם כָּל חַטֹּאותָם&quot;</p><p>העופרת כמתכת רעילה מקומה במצולות כי היא אם כל חטאת</p><p>זכריה ה7: &quot;וְהִנֵּה כִּכַּר עֹפֶרֶת נִשֵּׂאת וְזֹאת אִשָּׁה אַחַת יוֹשֶׁבֶת בְּתוֹךְ הָאֵיפָה&quot;</p><p>סוף דבר</p><p>דגי המעמקים יכולים להתמודד עם מתכות רעילות כעופרת המייצגות את החטאים</p><p>כאשר האדם החוטא במצב רוחני נמוך התאים את עצמו לחומריות הנמוכה כדגי המעמקים אז מתקיים משפט צדק</p><p>ובמשפט הצדק הזה יוכל האדם החוטא להרפא וזאת בצנאי כמובן שלא ישוב עוד לחטוא וכן יעשה צדקה ומשפט</p><p>-</p><p>עתה תבינו למה אבותינו הקדושים אכלו כמעט תמיד צאן ובקר כי היו ברמה רוחנית גבוהה וזה מעשה המקדש ולכן אין במקדש דגים בכלל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-03 11:50:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>האדם חייב להתאים את המזון לפי רמתו הויטלית והרוחנית — זהו מעשה צדק פנימי</p><p>---------------------------------------------------------</p><p>רמת נפש - בשר מתאים - הסבר</p><p>גבוהה מאוד = בקר = עוצמה תודעתית גבוהה</p><p>רוך פנימי = צאן = עדינות והתמסרות רגשית</p><p>מעבר ויציבות = עוף = הסתגלות ויכולת לנוע פנימה</p><p>שיקום רגשי = דגים = ניקוי פנימי רגשי ותנועתי</p><p>מצוקה עמוקה = דגי מעמקים = התמודדות עם לחץ וחושך קיומי</p><p>שמות טו10: &quot;נָשַׁפְתָּ בְרוּחֲךָ כִּסָּמוֹ יָם צָלֲלוּ כַּעוֹפֶרֶת בְּמַיִם אַדִּירִים&quot;</p><p>העופרת כמתכת רעילה עם משקל סגולי כבד מקומה במצולות</p><p>מיכה ז19: &quot;יָשׁוּב יְרַחֲמֵנוּ יִכְבֹּשׁ עונתינו וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם כָּל חַטֹּאותָם&quot;</p><p>העופרת כמתכת רעילה מקומה במצולות כי היא אם כל חטאת</p><p>זכריה ה7: &quot;וְהִנֵּה כִּכַּר עֹפֶרֶת נִשֵּׂאת וְזֹאת אִשָּׁה אַחַת יוֹשֶׁבֶת בְּתוֹךְ הָאֵיפָה&quot;</p><p>סוף דבר</p><p>דגי המעמקים יכולים להתמודד עם מתכות רעילות כעופרת המייצגות את החטאים</p><p>כאשר האדם החוטא במצב רוחני נמוך אוכל בתאום מן חומריות הנמוכה כדגי המעמקים אז מתקיים משפט צדק</p><p>ובמשפט הצדק הזה יוכל האדם החוטא להרפא וזאת בתנאי כמובן שלא ישוב עוד לחטוא וכן יעשה צדקה ומשפט</p><p>-</p><p>עתה תבינו למה אבותינו הקדושים אכלו כמעט תמיד צאן ובקר כי היו ברמה רוחנית גבוהה וזה מעשה המקדש ולכן אין במקדש דגים בכלל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-03 11:52:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-03 11:52:32' 
+			WHERE messageid=13568;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-03 11:52:39' 
+			WHERE messageid=13552;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/yl-04-02.html',
+		'<p>המאמר רלבנטי גם היום, תשעה באב ה\'תשפ&quot;ה.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2025-08-03 12:34:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-04 02:07:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-04 02:07:07' 
+			WHERE messageid=13571;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-04 02:07:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-04 02:07:37' 
+			WHERE messageid=13572;
+
