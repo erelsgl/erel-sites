@@ -1357,3 +1357,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/282.html',
+				'tnk1/messages/dmut_dmut_282_1.html',
+				NULL,
+				'2025-08-10 16:38:47',
+				'2025-08-10 16:38:47',
+				'הכושית וצפורה: זיקה גאוגרפית ולשונית בין כוש למדין במקרא',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-10 17:49:48'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
