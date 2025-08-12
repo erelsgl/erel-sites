@@ -1381,3 +1381,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/eqb.html',
+				'tnk1/messages/ljon_jorj_eqb_0.html',
+				NULL,
+				'2025-08-11 14:24:58',
+				'2025-08-11 14:24:58',
+				'והיה העקוב למישור',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-11 19:20:41'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-11 19:21:46'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-11 19:23:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
+		;
+
