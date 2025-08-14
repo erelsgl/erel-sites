@@ -1421,3 +1421,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0128_4.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/afr.html',
+				'tnk1/messages/ljon_jorj_afr_0.html',
+				NULL,
+				'2025-08-13 13:39:44',
+				'2025-08-13 13:39:44',
+				'אטרי יד (שמאליים) אז והיום',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-14 06:04:34'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_afr_0.html'
+		;
+
