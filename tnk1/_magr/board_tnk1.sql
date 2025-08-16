@@ -1501,3 +1501,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0122_10.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/rgj.html',
+				'tnk1/messages/ljon_jorj_rgj_0.html',
+				NULL,
+				'2025-08-15 09:02:31',
+				'2025-08-15 09:02:31',
+				'רגש – קהל , אסיפה - סוד',
+				'אביתר כהן',
+				''
+			)
+		;
+
