@@ -1814,3 +1814,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-08-15 04:11:30' 
 			WHERE messageid=13587;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_rgj_0.html',
+		'<p>תהלים קיא1: &quot;הַלְלוּ יָהּ אוֹדֶה יהוה בְּכָל לֵבָב בְּסוֹד יְשָׁרִים וְעֵדָה&quot;</p><p> בְּסוֹד יְשָׁרִים = וְעֵדָה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-17 05:40:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>מלכים א ג28:</p><p>&quot;וַיִּשְׁמְעוּ כָל יִשְׂרָאֵל אֶת הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ כִּי רָאוּ כִּי חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט&quot;</p><p>חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט</p><p>מלכים א ג11: </p><p>&quot;וַיֹּאמֶר אֱלֹהִים אֵלָיו יַעַן אֲשֶׁר שָׁאַלְתָּ אֶת הַדָּבָר הַזֶּה וְלֹא שָׁאַלְתָּ לְּךָ יָמִים רַבִּים וְלֹא שָׁאַלְתָּ לְּךָ עֹשֶׁר וְלֹא שָׁאַלְתָּ נֶפֶשׁ אֹיְבֶיךָ וְשָׁאַלְתָּ לְּךָ הָבִין לִשְׁמֹעַ מִשְׁפָּט&quot;</p><p>יש משפט וצדק כבר קיים רק צריך להָבִין לִשְׁמֹעַ מִשְׁפָּט</p><p>סוף דבר</p><p>חָכְמַה =  לַעֲשׂוֹת מִשְׁפָּט</p><p>בינה  =  להָבִין לִשְׁמֹעַ מִשְׁפָּט</p><p>בינת אלהים = </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-17 05:49:54'
+		)
+		;
+
