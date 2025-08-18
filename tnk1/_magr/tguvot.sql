@@ -1838,3 +1838,77 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/psilim_wajrot.html',
+		'<p>בדיוק השאלה שהיתה לי כמה ימים. והביאור והיישוב נחמד מאוד ולפום ריהטא נראה סביר וטוב. יישר כח גדול</p>',
+		'101657250940296985285',
+		'אורי מור יוסף',
+		'2025-08-17 14:20:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_bef_0.html',
+		'<p>שמן וטיפשות – הקשר השמי החבוי</p><p>בפסוק הידוע (לפי התוספת בתרגום השבעים והשומרונים)  </p><p>&quot;וַיֹּאכַל יַעֲקֹב וַיִּשְׂבַּע, וַיִּשְׁמַן יְשֻרוּן וַיִּבְעָט&quot; (דברים ל״ב15) מתוארת תופעה כפולה: </p><p>שובע פיזי שהופך להשמנה, וההשמנה מביאה לבעיטה ולמרד. </p><p>אך ייתכן שיש כאן עומק נוסף: &quot;ויבעט&quot; איננו רק בעיטה, אלא גם &quot;ויעבט&quot; – מלשון עיבוי והשמנה.</p><p>בערבית המילה עביט פירושה טיפש, עבה־מוח, מן השורש ע־ב־ט שמשמעו התעבה, נעשה גס ומגושם. </p><p>אם כן, &quot;וישמן ישורון ויבעט&quot; אפשר לשמוע גם כ&quot;וַיִּשְׁמַן… וַיִּעְבַּט&quot; – כלומר, השמין והפך לטיפש.</p><p>הקבלה זו איננה מקרית. בכל השפות השמיות נמצא זיקה בין שומן ל־כבדות שכלית:</p><p>בעברית, &quot;טיפש&quot; נתפס ככבד וערל־לב, ובארמית &quot;טפיש&quot; הוא נעשה עכור ואטום.</p><p>בערבית, &quot;סמין&quot; (שמן) מתאר אדם עבה, ו־עביט מתאר אדם טיפש.</p><p>באתיופית (געז),טפשא משמעה כבד, קהה, וגם טיפש.</p><p>המכנה המשותף ברור: העובי והשומן מטשטשים את החדות, </p><p>והופכים את השכל לכבד ואטום. לא רק הגוף מתעבה, אלא גם התודעה.</p><p>מכאן, הפסוק אינו רק מוסר השכל חברתי אלא תובנה לשונית־תרבותית: </p><p>השובע והשומן מולידים לא רק יהירות ומרד, אלא גם טיפשות ממש.</p><p>ראו גם: על טיפשים ושמנים במקרא</p><p>https://tora.us.fm/tnk1/messages/ljon_jorj_jmn_0.html?utm_source=chatgpt.com</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-08-17 16:43:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_bef_0.html',
+		'<p>ישעיהו ו10: &quot;הַשְׁמֵן לֵב הָעָם הַזֶּה....... וְאָזְנָיו הַכְבֵּד וְעֵינָיו הָשַׁע פֶּן יִרְאֶה בְעֵינָיו וּבְאָזְנָיו יִשְׁמָע וּלְבָבוֹ יָבִין וָשָׁב וְרָפָא לוֹ&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-18 02:34:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_bef_0.html',
+		'<p>לב שמן = לב שאינו מבין</p><p>ישעיהו ו10: &quot;הַשְׁמֵן לֵב הָעָם הַזֶּה....... וְאָזְנָיו הַכְבֵּד וְעֵינָיו הָשַׁע פֶּן יִרְאֶה בְעֵינָיו וּבְאָזְנָיו יִשְׁמָע וּלְבָבוֹ יָבִין וָשָׁב וְרָפָא לוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-18 02:36:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-18 02:36:42' 
+			WHERE messageid=13593;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_bef_0.html',
+		'<p>לב שמן = לב שאינו מבין</p><p>ישעיהו ו10: &quot;הַשְׁמֵן לֵב הָעָם הַזֶּה....... וְאָזְנָיו הַכְבֵּד וְעֵינָיו הָשַׁע פֶּן יִרְאֶה בְעֵינָיו וּבְאָזְנָיו יִשְׁמָע וּלְבָבוֹ יָבִין וָשָׁב וְרָפָא לוֹ&quot;</p><p>ובפסוק הבא כתוב כי בני ישראל הרגו למעשה את הכסילים חסרי הלב כַּעֲשֶׂרֶת אֲלָפִים אִישׁ כָּל שָׁמֵן</p><p>שופטים ג29: &quot;וַיַּכּוּ אֶת מוֹאָב בָּעֵת הַהִיא כַּעֲשֶׂרֶת אֲלָפִים אִישׁ כָּל שָׁמֵן....... וְכָל אִישׁ חָיִל וְלֹא נִמְלַט אִישׁ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-18 03:33:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-18 03:33:31' 
+			WHERE messageid=13594;
+

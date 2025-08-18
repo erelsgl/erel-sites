@@ -1533,3 +1533,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-17 14:20:12'
+		WHERE ktovt_bn='tnk1/tora/dvrim/psilim_wajrot.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-17 16:43:27'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_bef_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-18 02:34:28'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_bef_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-18 02:36:38'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_bef_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-18 03:33:29'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_bef_0.html'
+		;
+
