@@ -1967,3 +1967,27 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/psilim_wajrot.html',
+		'<p>את האשרות, שנמצאות בחצר הבית, לא כדאי לשרוף, כי זה מסוכן - זה עלול לגרום לשריפה בבית ובבתים הסמוכים, ולסכן חיים. לכן, מספיק לגדע אותה.</p><p>שאלתי היא. למה לא להוציא גם אותם אל מחוץ המגורים ולשרוף אותם.</p>',
+		'101657250940296985285',
+		'אורי מור יוסף',
+		'2025-08-20 02:11:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/psilim_wajrot.html',
+		'<p>אבל, בשני הפירושים האלה יש בעיה - הם לא מסבירים מדוע בפרק ז נזכר שצריך לגדע את האשרים ולשרוף את הפסילים, ובפרק יב להפך!</p><p>התשובה לזה היא. שבכך ראתה התורה להראות שלפעמים מתאים לאשרה לאבדה על ידי גדיעה ולפעמים על ידי שריפה וכן פסילהן. </p><p>אגב יש מקום אחר בתורה שכתוב על אשירה לשון תכרתון לשון שלישית</p>',
+		'101657250940296985285',
+		'אורי מור יוסף',
+		'2025-08-20 02:22:37'
+		)
+		;
+
