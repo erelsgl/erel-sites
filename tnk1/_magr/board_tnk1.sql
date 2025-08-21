@@ -1621,3 +1621,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/dvrim/psilim_wajrot.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-20 08:16:19'
+		WHERE ktovt_bn='tnk1/messages/tora_brejit_gn_edn_israel_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-20 18:00:07'
+		WHERE ktovt_bn='tnk1/messages/tora_brejit_gn_edn_israel_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-08-20 18:01:49'
+		WHERE ktovt_bn='tnk1/messages/tora_brejit_gn_edn_israel_0.html'
+		;
+

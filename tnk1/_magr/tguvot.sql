@@ -1991,3 +1991,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_brejit_gn_edn_israel_0.html',
+		'<p>דברים יא31: &quot;כִּי אַתֶּם עֹבְרִים אֶת הַיַּרְדֵּן לָבֹא לָרֶשֶׁת אֶת הָאָרֶץ אֲשֶׁר יהוה אֱלֹהֵיכֶם נֹתֵן לָכֶם וִירִשְׁתֶּם אֹתָהּ וִישַׁבְתֶּם בָּהּ&quot;</p><p>ארץ כנען נמצאת ימה לירדן [מערבה] זאת היא הארץ למורשה !!! מלבד שתים וחצי נחלות של בני ישראל ראובן גד וחצי שבט מנשה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-20 08:16:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_brejit_gn_edn_israel_0.html',
+		'<p>דברים יא31: &quot;כִּי אַתֶּם עֹבְרִים אֶת הַיַּרְדֵּן לָבֹא לָרֶשֶׁת אֶת הָאָרֶץ אֲשֶׁר יהוה אֱלֹהֵיכֶם נֹתֵן לָכֶם וִירִשְׁתֶּם אֹתָהּ וִישַׁבְתֶּם בָּהּ&quot;</p><p>כדי לרשת את ארץ כנען יש לעבור אֶת הַיַּרְדֵּן ממזרח למערב ארץ כנען לא נמצאת ממזרח לנהר פרת [הוא נהר הירדן]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-20 18:00:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-20 18:00:09' 
+			WHERE messageid=13602;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_brejit_gn_edn_israel_0.html',
+		'<p>דברים יא31: &quot;כִּי אַתֶּם עֹבְרִים אֶת הַיַּרְדֵּן לָבֹא לָרֶשֶׁת אֶת הָאָרֶץ אֲשֶׁר יהוה אֱלֹהֵיכֶם נֹתֵן לָכֶם וִירִשְׁתֶּם אֹתָהּ וִישַׁבְתֶּם בָּהּ&quot;</p><p>כדי לרשת את ארץ כנען יש לעבור אֶת הַיַּרְדֵּן ממזרח למערב! ארץ כנען לא נמצאת ממזרח לנהר פרת [הוא נהר הירדן]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-20 18:01:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-20 18:01:50' 
+			WHERE messageid=13603;
+
