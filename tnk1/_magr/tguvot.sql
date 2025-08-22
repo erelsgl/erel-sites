@@ -2041,3 +2041,84 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-08-20 18:01:50' 
 			WHERE messageid=13603;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0234_5.html',
+		'<p>משלי י27: &quot;יִרְאַת יהוה תּוֹסִיף יָמִים....... וּשְׁנוֹת רְשָׁעִים תִּקְצֹרְנָה&quot;</p><p>שמות כ11: &quot;כַּבֵּד אֶת אָבִיךָ וְאֶת אִמֶּךָ לְמַעַן יַאֲרִכוּן יָמֶיךָ....... עַל הָאֲדָמָה אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לָךְ&quot; </p><p>דברים ה15: &quot;כַּבֵּד אֶת אָבִיךָ וְאֶת אִמֶּךָ כַּאֲשֶׁר צִוְּךָ יהוה אֱלֹהֶיךָ לְמַעַן יַאֲרִיכֻן יָמֶיךָ....... וּלְמַעַן יִיטַב לָךְ עַל הָאֲדָמָה אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לָךְ&quot;</p><p>משלי י27: &quot;יִרְאַת יהוה תּוֹסִיף יָמִים....... וּשְׁנוֹת רְשָׁעִים תִּקְצֹרְנָה&quot;</p><p>קהלת ח13: &quot;וְטוֹב לֹא יִהְיֶה לָרָשָׁע וְלֹא יַאֲרִיךְ יָמִים כַּצֵּל אֲשֶׁר אֵינֶנּוּ יָרֵא מִלִּפְנֵי אֱלֹהִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-21 08:35:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>בהמשך לתגובתי מיום תאריך 2013-11-05 15:51:57 Daian Moshe</p><p>ספר איוב פרק לח (ד) אֵיפֹה הָיִיתָ בְּיָסְדִי אָרֶץ הַגֵּד אִם יָדַעְתָּ בִינָה.</p><p>וְדַעַת קְדֹשִׁים בִּינָה נמצאת בעת שיהוה יוסד ארץ בעת היווצרות [גוף] משכן האדם וזרעו בעת שהאדם אוכל ומזין נפשו</p><p>ואם אתם אחי בני ישראל וחפצתם בדַעַת קְדֹשִׁים בִּינָה אז כאשר יהוה יוסד ארץ לאמור בעת שאתם אוכלים וסועדים קראו בשם אלהים שיבוא מלך הכבוד וְדַעַת קְדֹשִׁים בִּינָה יתן לכם</p><p>גם קרא לאלהים וגם רחץ בשרך במים [בים באגם או במקלחת]</p><p>תהלים כד2: &quot;כִּי הוּא עַל יַמִּים יְסָדָהּ וְעַל נְהָרוֹת יְכוֹנְנֶהָ&quot;</p><p>איוב לח4: &quot;אֵיפֹה הָיִיתָ בְּיָסְדִי אָרֶץ הַגֵּד אִם יָדַעְתָּ בִינָה&quot;</p><p>משלי ג19: &quot;יהוה בְּחָכְמָה יָסַד אָרֶץ כּוֹנֵן שָׁמַיִם בִּתְבוּנָה&quot;</p><p>תהלים כד2: &quot;כִּי הוּא עַל יַמִּים יְסָדָהּ וְעַל נְהָרוֹת יְכוֹנְנֶהָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-21 10:14:54'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0514_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-21 10:25:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-21 10:25:30' 
+			WHERE messageid=13607;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0310_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-21 10:26:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-21 10:26:31' 
+			WHERE messageid=13608;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_brejit_gn_edn_israel_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-21 10:28:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-21 10:28:48' 
+			WHERE messageid=13609;
+
