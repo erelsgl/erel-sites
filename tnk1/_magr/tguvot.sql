@@ -2446,3 +2446,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-08-29 06:59:09' 
 			WHERE messageid=13629;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hagay_index_53.html',
+		'<p>מעוניין לרכוש את ספרך \'אשר על המשכן\' נא פרט האפשרויות. שבת שלום</p>',
+		'109872128546306616834',
+		'Michael Amid',
+		'2025-08-29 15:09:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-29 15:19:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-29 15:19:55' 
+			WHERE messageid=13631;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/dvrim/dm-16-18.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-08-29 15:20:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-08-29 15:20:11' 
+			WHERE messageid=13632;
+
