@@ -2508,3 +2508,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xnf2_0.html',
+		'<p>עריכה חדשה ונוחה יותר לציבור הרחב, תהינו..</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-09-01 18:12:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xnf2_0.html',
+		'<p>שופטים יד8: &quot;וַיָּשָׁב מִיָּמִים לְקַחְתָּהּ וַיָּסַר לִרְאוֹת אֵת מַפֶּלֶת הָאַרְיֵה וְהִנֵּה עֲדַת דְּבוֹרִים בִּגְוִיַּת הָאַרְיֵה וּדְבָשׁ&quot;</p><p> וְהִנֵּה עֲדַת דְּבוֹרִים בִּגְוִיַּת הָאַרְיֵה וּדְבָשׁ = דְבָשׁ מופק מדְּבוֹרִים!!!</p><p> לא מדובר בסילאן התמרים!! רבני חזל פירשו לא נכון את התורה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-02 02:46:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-02 02:47:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-02 02:47:15' 
+			WHERE messageid=13636;
+
