@@ -2551,3 +2551,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-02 02:47:15' 
 			WHERE messageid=13636;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים סט37: &quot;וְזֶרַע עֲבָדָיו יִנְחָלוּהָ וְאֹהֲבֵי שְׁמוֹ יִשְׁכְּנוּ בָהּ&quot;</p><p>תהלים קב29: &quot;בְּנֵי עֲבָדֶיךָ יִשְׁכּוֹנוּ וְזַרְעָם לְפָנֶיךָ יִכּוֹן&quot;</p><p>וְזֶרַע עֲבָדָיו יִנְחָלוּהָ = וְזַרְעָם לְפָנֶיךָ יִכּוֹן</p><p>בְּנֵי עֲבָדֶיךָ יִשְׁכּוֹנוּ   =  וְאֹהֲבֵי שְׁמוֹ יִשְׁכְּנוּ בָהּ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-02 14:09:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1045_2.html',
+		'<p>במדבר יא15: &quot;וְאִם כָּכָה אַתְּ עֹשֶׂה לִּי הָרְגֵנִי נָא הָרֹג אִם מָצָאתִי חֵן בְּעֵינֶיךָ וְאַל אֶרְאֶה בְּרָעָתִי&quot;.......</p><p>תהלים כג4: &quot;גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע....... כִּי אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי&quot;</p><p>לֹא אִירָא רָע =  וְאַל אֶרְאֶה בְּרָעָתִי</p><p>אם לא תירא מהרע אז לא תראה רע</p><p>אם תבטח באלהים =  לא תראה רע</p><p>אם תבטח באלהים = חסד יסובבך</p><p>       וְהַבּוֹטֵחַ ביהוה = חֶסֶד יְסוֹבְבֶנּוּ</p><p>----------------------------------------</p><p>תהלים לב10: &quot;רַבִּים מַכְאוֹבִים לָרָשָׁע וְהַבּוֹטֵחַ ביהוה חֶסֶד יְסוֹבְבֶנּוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-02 14:17:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-02 14:18:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-02 14:18:17' 
+			WHERE messageid=13639;
+
