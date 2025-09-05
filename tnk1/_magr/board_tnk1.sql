@@ -2017,3 +2017,75 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/ljon/jorj/ed2.html',
+				'tnk1/messages/ljon_jorj_ed2_0.html',
+				NULL,
+				'2025-09-04 13:14:51',
+				'2025-09-04 13:14:51',
+				'תפילת חנה',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-04 14:03:34'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_fwb_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-04 14:24:04'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_fwb_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-04 14:28:46'
+		WHERE ktovt_bn='tnk1/messages/ljon_jorj_fwb_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-05 04:34:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-05 04:35:30'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0133_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-05 06:39:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2824_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-09-05 06:53:56'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2824_1.html'
+		;
+
