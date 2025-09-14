@@ -2806,3 +2806,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p></p><p>יהוה צבאות אני זוכר ולא שוכח כי אתה אלהים</p><p>אנא זכור אתה כי אני אדם כן בסך הכל בן-אדם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-14 06:09:34'
+		)
+		;
+
