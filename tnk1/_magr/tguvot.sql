@@ -2818,3 +2818,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2824_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-14 11:06:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-14 11:07:01' 
+			WHERE messageid=13654;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>דברים ז12-13: </p><p>&quot;וְהָיָה עֵקֶב תִּשְׁמְעוּן....... אֵת הַמִּשְׁפָּטִים הָאֵלֶּה וּשְׁמַרְתֶּם וַעֲשִׂיתֶם אֹתָם וְשָׁמַר יהוה אֱלֹהֶיךָ לְךָ אֶת הַבְּרִית וְאֶת הַחֶסֶד אֲשֶׁר נִשְׁבַּע לַאֲבֹתֶיךָ </p><p>וַאֲהֵבְךָ....... וּבֵרַכְךָ וְהִרְבֶּךָ וּבֵרַךְ פְּרִי בִטְנְךָ וּפְרִי אַדְמָתֶךָ דְּגָנְךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ שְׁגַר אֲלָפֶיךָ וְעַשְׁתְּרֹת צֹאנֶךָ עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע לַאֲבֹתֶיךָ לָתֶת לְךָ&quot;</p><p>וְהָיָה עֵקֶב תִּשְׁמְעוּן.......וַאֲהֵבְךָ.......</p><p>הנה העדות כי אלהי ישראל אוהב את עמו עֵקֶב תִּשְׁמְעוּן בקול יהוה אלהים</p><p>ואם לא תִּשְׁמְעוּן בקול יהוה אלהים איכה יאהבכם  ????????????????</p><p>ואתם אל תאמינו לרבנים מוכרי הכזבים לאמור אלהים אוהב אותכם תמיד</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-14 14:56:45'
+		)
+		;
+
