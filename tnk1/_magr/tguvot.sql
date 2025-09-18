@@ -2880,3 +2880,153 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-16 06:06:52' 
 			WHERE messageid=13657;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה הנושא תפקיד איש אלהים אשר הַמִּשְׂרָה עַל שִׁכְמוֹ</p><p>הלא כתוב.......</p><p>תהלים צא15: &quot;יִקְרָאֵנִי וְאֶעֱנֵהוּ עִמּוֹ אָנֹכִי בְצָרָה אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ&quot;</p><p>ואם עִמּוֹ אָנֹכִי בְצָרָה איך אהיה בשמחה תמיד</p><p>התשובה היא אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ לאמור כי במעשה החילוץ אנכי שמח</p><p>כי יהוה נמצא במרום וכמשל בהר בשן ומלוא כל הארץ כבודו </p><p>על כן יכול לרדת למצולות ולמשות משם את אשר יקרא ליהוה</p><p>תהלים סח23: &quot;אָמַר אֲדֹנָי מִבָּשָׁן אָשִׁיב אָשִׁיב מִמְּצֻלוֹת יָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 10:51:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה הנושא תפקיד איש אלהים אשר הַמִּשְׂרָה עַל שִׁכְמוֹ</p><p>הלא כתוב.......</p><p>תהלים צא15: &quot;יִקְרָאֵנִי וְאֶעֱנֵהוּ עִמּוֹ אָנֹכִי בְצָרָה אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ&quot;</p><p>ואם עִמּוֹ אָנֹכִי בְצָרָה איך אהיה בשמחה תמיד</p><p>התשובה היא אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ לאמור כי במעשה החילוץ אנכי שמח</p><p>כי יהוה נמצא במרום וכמשל בהר בשן ומלוא כל הארץ כבודו</p><p>על כן יכול לרדת למצולות ולמשות משם את אשר יקרא ליהוה</p><p>זאת השמחה לצדיק לעשות צדקה ומשפט</p><p>תהלים סח23: &quot;אָמַר אֲדֹנָי מִבָּשָׁן אָשִׁיב אָשִׁיב מִמְּצֻלוֹת יָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 10:52:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 10:52:43' 
+			WHERE messageid=13658;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה הנושא תפקיד איש אלהים אשר הַמִּשְׂרָה עַל שִׁכְמוֹ</p><p>הלא כתוב.......</p><p>תהלים צא15: &quot;יִקְרָאֵנִי וְאֶעֱנֵהוּ עִמּוֹ אָנֹכִי בְצָרָה אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ&quot;</p><p>ואם עִמּוֹ אָנֹכִי בְצָרָה איך אהיה בשמחה תמיד</p><p>התשובה היא אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ לאמור כי במעשה החילוץ אנכי שמח</p><p>כי יהוה נמצא במרום וכמשל בהר בשן ומלוא כל הארץ כבודו</p><p>על כן יכול לרדת למצולות ולמשות משם את אשר יקרא ליהוה</p><p>זאת השמחה לצדיק הגואל כי לעשות צדקה ומשפט זאת הגאולה</p><p>תהלים סח23: &quot;אָמַר אֲדֹנָי מִבָּשָׁן אָשִׁיב אָשִׁיב מִמְּצֻלוֹת יָם&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 11:05:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 11:05:08' 
+			WHERE messageid=13659;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת משיח יהוה הנושא תפקיד איש אלהים אשר הַמִּשְׂרָה עַל שִׁכְמוֹ</p><p>הלא כתוב.......</p><p>תהלים צא15: &quot;יִקְרָאֵנִי וְאֶעֱנֵהוּ עִמּוֹ אָנֹכִי בְצָרָה אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ&quot;</p><p>ואם עִמּוֹ אָנֹכִי בְצָרָה איך אהיה בשמחה תמיד</p><p>התשובה היא אֲחַלְּצֵהוּ וַאֲכַבְּדֵהוּ לאמור כי במעשה החילוץ אנכי שמח</p><p>כי יהוה נמצא במרום וכמשל בהר בשן ומלוא כל הארץ כבודו</p><p>על כן יכול לרדת למצולות ולמשות משם את אשר יקרא ליהוה</p><p>זאת השמחה לצדיק הגואל כי לעשות צדקה ומשפט זאת הגאולה</p><p>תהלים סח23: &quot;אָמַר אֲדֹנָי מִבָּשָׁן אָשִׁיב אָשִׁיב מִמְּצֻלוֹת יָם&quot;</p><p>האם הבנתם למה הקדוש ברוך הוא בשמחה תמיד??? אף כי אמר עִמּוֹ אָנֹכִי בְצָרָה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 11:17:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 11:17:44' 
+			WHERE messageid=13660;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 15:25:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 15:26:03' 
+			WHERE messageid=13662;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לדון את כולם לכף זכות זה אומר להצדיק רשע וזה לא משפט צדק ואם רוצים באמת משפט צדק יש ללכת בדרך אלהים ככתוב:</p><p>מלכים א ח32: &quot;וְאַתָּה תִּשְׁמַע הַשָּׁמַיִם וְעָשִׂיתָ וְשָׁפַטְתָּ אֶת עֲבָדֶיךָ לְהַרְשִׁיעַ רָשָׁע לָתֵת דַּרְכּוֹ בְּרֹאשׁוֹ וּלְהַצְדִּיק צַדִּיק לָתֶת לוֹ כְּצִדְקָתוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 18:29:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>לדון את כולם לכף-זכות זה אומר גם להצדיק רשע וזה לא משפט אמת ואם רוצים באמת משפט יש ללכת בדרך אלהים ככתוב:</p><p>מלכים א ח32: &quot;וְאַתָּה תִּשְׁמַע הַשָּׁמַיִם וְעָשִׂיתָ וְשָׁפַטְתָּ אֶת עֲבָדֶיךָ לְהַרְשִׁיעַ רָשָׁע לָתֵת דַּרְכּוֹ בְּרֹאשׁוֹ וּלְהַצְדִּיק צַדִּיק לָתֶת לוֹ כְּצִדְקָתוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 18:49:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 18:49:55' 
+			WHERE messageid=13663;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>מימי קדם נביאי ישראל הוכיחו את עם-ישראל שריו וכהניו על שלא הלכו בדרך האלהים כנדרש </p><p>ורבני-הרשע אמרו &quot;הפוסל במומו פוסל&quot; לאמור כי מבחינתם נביאי האמת בעצמם לא הלכו בדרך אלהים </p><p>אני כותב לכם זאת למען השכל דעת כי משפטי רבני חזל אינם בקודש ואין להתייחס אליהם ברצינות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 19:06:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>מימי קדם נביאי ישראל הוכיחו את עם-ישראל שריו וכהניו על שלא הלכו בדרך האלהים כנדרש</p><p>ורבני-חזל אמרו &quot;הפוסל במומו פוסל&quot; לאמור כי מבחינתם נביאי האמת בעצמם לא הלכו בדרך אלהים</p><p>אני כותב לכם זאת למען השכל דעת כי משפטי רבני חזל אינם בקודש ואין להתייחס אליהם ברצינות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-17 19:53:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-17 19:53:45' 
+			WHERE messageid=13665;
+
