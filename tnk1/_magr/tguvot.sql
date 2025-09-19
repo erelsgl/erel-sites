@@ -3030,3 +3030,122 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-17 19:53:45' 
 			WHERE messageid=13665;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-18 10:24:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-18 10:24:21' 
+			WHERE messageid=13667;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>החרמת ישראל מהאירויזיון כבייכול בגלל האנטישמיות </p><p>אבל אם הישראלים היו יודעים באמת לעשות מוזיקה </p><p>אז אהבת הקהל לא הייתה מאפשרת את האנטישמיות</p><p>היוצרים בישראל לא שווים גרוש ויותר מזה הם נבלות מתועבים בלתי נסבלים </p><p>אני מתעב את זמרי ישראל לדורותיהם אשכנזים מזרחים דתיים וחילונים לא שווים גרוש</p><p>עמוס פרק ה כתוב:(כג) הָסֵר מֵעָלַי הֲמוֹן שִׁרֶיךָ וְזִמְרַת נְבָלֶיךָ לֹא אֶשְׁמָע</p><p>ובעממית:--------------------------------- תעשו טובה תסתמו את הפה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-18 10:46:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-18 10:56:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-18 10:56:17' 
+			WHERE messageid=13669;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>החרמת ישראל מהאירויזיון כבייכול בגלל האנטישמיות</p><p>אבל אם הישראלים היו יודעים באמת לעשות מוזיקה</p><p>אז אהבת הקהל לא הייתה מאפשרת את האנטישמיות</p><p>היוצרים בישראל לא שווים גרוש ויותר מזה הם נבלות מתועבים בלתי נסבלים</p><p>אני מתעב את הזמר הישראלי לדורותיהם אשכנזים מזרחים דתיים וחילונים לא שווים גרוש</p><p>עמוס פרק ה כתוב:(כג) הָסֵר מֵעָלַי הֲמוֹן שִׁרֶיךָ וְזִמְרַת נְבָלֶיךָ לֹא אֶשְׁמָע</p><p>ובעממית:--------------------------------- תעשו טובה תסתמו את הפה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-18 14:28:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-18 14:28:15' 
+			WHERE messageid=13668;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-18 14:28:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-18 14:28:37' 
+			WHERE messageid=13671;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-19 03:29:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-19 03:29:21' 
+			WHERE messageid=13672;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>יום שבת פרשת ניצבים 20 לספטמבר 2025 </p><p>------------------------------------------- 11 +</p><p>ובעוד 11 שנה  רעש--אדמה בישראל 2036</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-19 07:14:27'
+		)
+		;
+
