@@ -3149,3 +3149,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2824_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-21 10:05:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-21 10:05:32' 
+			WHERE messageid=13674;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p> חודש השמן למסיק הזיתים תחילתו בראש הַחֹדֶשׁ הַשְּׁמִינִי אשר חל 70 יום לפני היום הקצר ביותר בשנה</p><p>מראש הַחֹדֶשׁ הַשְּׁמִינִי 70 יום מסיק זיתי השמן [כזן הסורי] עד 10.10 בלוח המקדש היום הקצר ביותר </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-21 16:52:42'
+		)
+		;
+
