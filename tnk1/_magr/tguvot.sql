@@ -3287,3 +3287,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-22 13:02:35' 
 			WHERE messageid=13680;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-23 11:16:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-23 11:16:21' 
+			WHERE messageid=13682;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_2.html',
+		'<p>אדם בהיוולדו לא יכול לאכול כמויות של אוכל לשארית חייו כי אם לאכול כל יום טיפין טיפין יום יום</p><p>הוא הדבר אשר על אדם לדרוש אלהים יום יום   </p><p>ישעיהו נח2: &quot;וְאוֹתִי יוֹם יוֹם יִדְרֹשׁוּן....... וְדַעַת דְּרָכַי יֶחְפָּצוּן כְּגוֹי אֲשֶׁר צְדָקָה עָשָׂה וּמִשְׁפַּט אֱלֹהָיו לֹא עָזָב יִשְׁאָלוּנִי מִשְׁפְּטֵי צֶדֶק קִרְבַת אֱלֹהִים יֶחְפָּצוּן&quot; </p><p>כי המלך הגדול יעננו באותו יום שקראנו אליו</p><p>&quot;יהוה הוֹשִׁיעָה הַמֶּלֶךְ יַעֲנֵנוּ בְיוֹם קָרְאֵנוּ&quot; [תהלים כ10:]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-23 18:53:21'
+		)
+		;
+
