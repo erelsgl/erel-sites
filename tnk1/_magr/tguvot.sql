@@ -3318,3 +3318,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>https://www.youtube.com/watch?v=hLbrGv2yx5A</p><p>הרב ניר בן ארצי : &quot;יופיע אור מעל ראשו ותוך 24 שעות כולם יבינו - זה המשיח&quot;</p><p>וכעת רק המתקשרים הבכירים יכולים לראות את אורו של המשיח</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-25 08:09:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-25 12:17:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-25 12:17:16' 
+			WHERE messageid=13685;
+
