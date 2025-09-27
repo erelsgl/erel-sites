@@ -3349,3 +3349,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-25 12:17:16' 
 			WHERE messageid=13685;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-26 14:54:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-26 14:54:58' 
+			WHERE messageid=13686;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_32.html',
+		'<p>It is an interesting article. Unogeeks is the top Oracle Fusion HCM Training Institute, which provides the best &lt;a href=&quot;https://unogeeks.com/oracle-fusion-hcm-online-training&quot; &gt; Oracle Fusion HCM Training &lt;/a&gt; </p>',
+		'106097252960061801206',
+		'UnoGeeks Training',
+		'2025-09-27 06:46:03'
+		)
+		;
+
