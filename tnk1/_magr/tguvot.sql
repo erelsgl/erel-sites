@@ -3380,3 +3380,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מראש השנה באחד לחודש הראשון יום שיוויון האביב יש 182 ימים עד ראש החודש השביעי</p><p>מראש השנה באחד לחודש הראשון יום שיוויון האביב יש 196 ימים עד יום שיוויון הסתיו הוא חג-הסכות הוא ראש השנה</p><p>בראש השנה באחד לחודש הראשון יום שיוויון האביב יחל הקציר במרכז לב הארץ אך לא בצפון</p><p>וכדי שהקציר יחל גם בצפון מחכים עוד כשלושה שבועות לאמור ממחרת השבת של שביעי של פסח </p><p>וממחרת השבת שאחרי העשרים ואחד לחודש הראשון יחול יום הנפת העומר</p><p>ספירת העומר תהיה שבעה שבועות עד יום החמישים בכורי קציר-חטים הוא חג השבועות מועד הדגן</p><p>וממועד הדגן 70 יום עד מועד התירוש</p><p>וממועד התירוש 70 יום עד מועד היצהר</p><p>וממועד היצהר 70 יום עד היום הקצר בשנה הוא יום ההיפוך החורפי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-27 16:26:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0101_23.html',
+		'<p>מראש השנה באחד לחודש הראשון יום שיוויון האביב יש 182 ימים עד ראש החודש השביעי</p><p>מראש השנה באחד לחודש הראשון יום שיוויון האביב יש 196 ימים עד יום שיוויון הסתיו הוא חג-הסכות הוא ראש השנה</p><p>בראש השנה באחד לחודש הראשון יום שיוויון האביב יחל הקציר במרכז לב הארץ אך לא בצפון</p><p>וכדי שהקציר יחל גם בצפון מחכים עוד כשלושה שבועות לאמור ממחרת השבת של שביעי של פסח</p><p>וממחרת השבת שאחרי העשרים ואחד לחודש הראשון יחול יום הנפת העומר</p><p>ספירת העומר תהיה שבעה שבועות עד יום החמישים בכורי קציר-חטים הוא חג השבועות מועד הדגן</p><p>וממועד הדגן 70 יום עד מועד התירוש</p><p>וממועד התירוש 70 יום עד מועד היצהר - מסיק הזיתים</p><p>וממועד היצהר 70 יום עד היום הקצר בשנה הוא יום ההיפוך החורפי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-27 16:29:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-27 16:29:47' 
+			WHERE messageid=13688;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-09-28 02:48:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-09-28 02:49:02' 
+			WHERE messageid=13690;
+
