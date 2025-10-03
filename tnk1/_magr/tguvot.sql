@@ -3430,3 +3430,17 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-09-28 02:49:02' 
 			WHERE messageid=13690;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-10-02 11:45:43' 
+			WHERE messageid=13689;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-10-02 11:45:48' 
+			WHERE messageid=13681;
+
