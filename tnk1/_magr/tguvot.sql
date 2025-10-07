@@ -3501,3 +3501,29 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-10-05 18:25:32' 
 			WHERE messageid=13687;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-10-06 08:14:07' 
+			WHERE messageid=13673;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t35b08_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-10-06 12:30:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-10-06 12:30:18' 
+			WHERE messageid=13694;
+
