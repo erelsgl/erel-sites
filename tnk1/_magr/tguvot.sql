@@ -3577,3 +3577,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-10-12 17:15:10' 
 			WHERE messageid=13696;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/b7.html',
+		'<p>ראה ספר \'מקום בפרשה\' מאת פרופ\' יואל אליצור עמוד 79- 84 בדבר זיהוי תל \'באר שבע\' ותל \'שבע\'. </p>',
+		'108891412974294502117',
+		'חגי לב',
+		'2025-10-15 06:49:57'
+		)
+		;
+
