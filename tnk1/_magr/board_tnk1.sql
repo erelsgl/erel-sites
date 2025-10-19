@@ -2804,3 +2804,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2025-10-17 14:27:29'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-10-19 07:37:23'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
