@@ -2962,3 +2962,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2025-10-25 20:42:34'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-10-28 09:22:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0146_2.html'
+		;
+
