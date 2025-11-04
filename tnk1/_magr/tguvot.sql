@@ -3880,3 +3880,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-11-02 19:35:06' 
 			WHERE messageid=13716;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-01-20.html',
+		'<p>שמות א21: &quot;וַיְהִי כִּי יָרְאוּ הַמְיַלְּדֹת אֶת הָאֱלֹהִים וַיַּעַשׂ לָהֶם בָּתִּים&quot; .......</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית יהוה&quot;</p><p>וזאת הברכה אשר תבורך מפי ירא-אלהים השכן בבית אלהים</p><p>רק דרוש חכמה לדעת מי הוא באמת ירא-אלהים השכן בבית-אלהים</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-03 12:48:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-01-20.html',
+		'<p>שמות א21: &quot;וַיְהִי כִּי יָרְאוּ הַמְיַלְּדֹת אֶת הָאֱלֹהִים וַיַּעַשׂ לָהֶם בָּתִּים&quot; .......</p><p>תהלים קיח26: &quot;בָּרוּךְ הַבָּא בְּשֵׁם יהוה בֵּרַכְנוּכֶם מִבֵּית יהוה&quot;</p><p>וזאת הברכה אשר תבורך מפי ירא-אלהים השכן בבית יהוה</p><p>רק דרוש חכמה לדעת מי הוא באמת ירא-אלהים השכן בבית יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-03 12:49:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-03 12:49:23' 
+			WHERE messageid=13718;
+

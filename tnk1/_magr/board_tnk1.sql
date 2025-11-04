@@ -3048,3 +3048,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-01-20.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-03 12:48:24'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-01-20.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-03 12:49:22'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-01-20.html'
+		;
+
