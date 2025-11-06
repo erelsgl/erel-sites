@@ -4047,3 +4047,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-11-05 04:21:57' 
 			WHERE messageid=13713;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>תהלים קיט105: &quot;נֵר לְרַגְלִי = דְבָרֶךָ וְאוֹר לִנְתִיבָתִי&quot;</p><p>תהלים קה42: &quot;כִּי זָכַר אֶת דְּבַר קָדְשׁוֹ אֶת אַבְרָהָם עַבְדּוֹ&quot;</p><p>&quot;נֵר לְרַגְלִי = דְבָרֶךָ וְאוֹר לִנְתִיבָתִי&quot; = &quot;כִּי זָכַר אֶת דְּבַר קָדְשׁוֹ אֶת אַבְרָהָם עַבְדּוֹ&quot;</p><p>נֵר-יהוה = הוא דְּבַר קָדְשׁוֹ = הוא עבד-יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-05 12:52:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/joftim/40.html',
+		'<p></p><p>לדעתי 40 שנה הלכו בני ישראל במדבר , ע&quot;מ שדור חדש יחליף את דור המדבר ותחל התחלה חדשה.</p><p>אם נסתמך על העדויות המדעיות  האנשים שהלכו במדבר בודאי עברו תקופה לא קלה ולא שרדו, רבים לא האריכו יותר מ-40 שנה </p><p>ומתו בדרכם במדבר.  40 שנה זהיה הגיל הממוצע של אדם בחייו.</p>',
+		'116685597601699799155',
+		'laura behar',
+		'2025-11-05 16:57:12'
+		)
+		;
+
