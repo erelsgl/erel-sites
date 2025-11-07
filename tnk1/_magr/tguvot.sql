@@ -4071,3 +4071,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>תהלים קיט105: &quot;נֵר לְרַגְלִי = דְבָרֶךָ וְאוֹר לִנְתִיבָתִי&quot;</p><p>תהלים קה42: &quot;כִּי זָכַר אֶת דְּבַר קָדְשׁוֹ אֶת אַבְרָהָם עַבְדּוֹ&quot;</p><p>&quot;נֵר לְרַגְלִי = דְבָרֶךָ וְאוֹר לִנְתִיבָתִי&quot; = &quot;כִּי זָכַר אֶת דְּבַר קָדְשׁוֹ אֶת אַבְרָהָם עַבְדּוֹ&quot;</p><p>נֵר-יהוה = הוא דְּבַר קָדְשׁוֹ = הוא עבד-יהוה</p><p>הַאֲמִינוּ ביהוה אֱלֹהֵיכֶם וְתֵאָמֵנוּ הַאֲמִינוּ בִנְבִיאָיו וְהַצְלִיחוּ&quot; [דברי הימים ב כ20]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-06 09:13:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-06 09:13:23' 
+			WHERE messageid=13729;
+
