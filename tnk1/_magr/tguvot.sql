@@ -4090,3 +4090,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-11-06 09:13:23' 
 			WHERE messageid=13729;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/mlkima/ma-07-21.html',
+		'<p></p>',
+		'103420039447689780749',
+		'מיכאל ויסברג',
+		'2025-11-10 07:32:45'
+		)
+		;
+
