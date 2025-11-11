@@ -4102,3 +4102,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>לא נדרש לבקש דבר מאדם אם אתה מאמין שאלהים יכול לתת לך הכל</p><p>מיכה ה6: &quot;וְהָיָה שְׁאֵרִית יַעֲקֹב בְּקֶרֶב עַמִּים רַבִּים כְּטַל מֵאֵת ה\' כִּרְבִיבִים עֲלֵי עֵשֶׂב אֲשֶׁר לֹא יְקַוֶּה לְאִישׁ וְלֹא יְיַחֵל לִבְנֵי אָדָם&quot; </p><p>אל תאמר לאדם עזרני ללא תמורה אלא קנה בכסף כמסחר הוגן כי אין מתנות חינם מלבד אלהי ישראל אשר אהבך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-11 05:59:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>לא נדרש לבקש דבר מאדם אם אתה מאמין שאלהים יכול לתת לך הכל</p><p>מיכה ה6: &quot;וְהָיָה שְׁאֵרִית יַעֲקֹב בְּקֶרֶב עַמִּים רַבִּים כְּטַל מֵאֵת יהוה כִּרְבִיבִים עֲלֵי עֵשֶׂב אֲשֶׁר לֹא יְקַוֶּה לְאִישׁ וְלֹא יְיַחֵל לִבְנֵי אָדָם&quot;</p><p>אל תאמר לאדם עזרני ללא תמורה אלא קנה בכסף כמסחר הוגן כי אין מתנות חינם מלבד יהוה אלהי ישראל אשר אהבך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-11 05:59:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-11 06:01:19' 
+			WHERE messageid=13733;
+

@@ -3214,3 +3214,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/mlkima/ma-07-21.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-11 05:59:22'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-11 05:59:58'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
