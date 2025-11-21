@@ -4770,3 +4770,58 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-11-20 04:08:27' 
 			WHERE messageid=13774;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן וּמַרְוֶה גַּם הוּא יוֹרֶא&quot; </p><p>משלי כח25: &quot;רְחַב נֶפֶשׁ יְגָרֶה מָדוֹן וּבוֹטֵחַ עַל יהוה יְדֻשָּׁן&quot;</p><p>----- נֶפֶשׁ בְּרָכָה תְדֻשָּׁן = וּבוֹטֵחַ עַל יהוה יְדֻשָּׁן -----</p><p>------------ נֶפֶשׁ בְּרָכָה = בּוֹטֵחַ ביהוה ------------ </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-20 10:35:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0127_3.html',
+		'<p>משלי יא25: &quot;נֶפֶשׁ בְּרָכָה תְדֻשָּׁן....... וּמַרְוֶה גַּם הוּא יוֹרֶא&quot;</p><p>משלי כח25: &quot;רְחַב נֶפֶשׁ יְגָרֶה מָדוֹן וּבוֹטֵחַ עַל יהוה יְדֻשָּׁן&quot;.......</p><p>----- נֶפֶשׁ בְּרָכָה תְדֻשָּׁן = וּבוֹטֵחַ עַל יהוה יְדֻשָּׁן -----</p><p>------------ נֶפֶשׁ בְּרָכָה = בּוֹטֵחַ ביהוה ------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-20 10:35:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-20 10:35:55' 
+			WHERE messageid=13777;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>תהלים נ5: &quot;אִסְפוּ לִי חֲסִידָי כֹּרְתֵי בְרִיתִי עֲלֵי זָבַח&quot;</p><p>חסידי-יהוה בעת הזבח הטהור ***קוראים*** אל יהוה וכורתים ברית עִמּוֹ</p><p>גם אם אמרת &quot;אלהים כבר כרת עִמּי ברית&quot; בכל זאת עליך לחדש הברית</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-20 13:16:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b2_1.html',
+		'<p> תהלים ד7: &quot;רַבִּים אֹמְרִים מִי יַרְאֵנוּ טוֹב נְסָה עָלֵינוּ אוֹר פָּנֶיךָ יהוה&quot;</p><p>אם ברצונכם לראות טוב אוֹר פָּנֶי-יהוה היו יראי-אלהים-צדיקים</p><p>עתה שימו לב לפסוקים האלה אשר כתב קהלת משיח בן-דוד</p><p>קהלת ח12: &quot;אֲשֶׁר חֹטֶא עֹשֶׂה רָע מְאַת וּמַאֲרִיךְ לוֹ </p><p>כִּי גַּם יוֹדֵעַ אָנִי אֲשֶׁר יִהְיֶה טּוֹב לְיִרְאֵי הָאֱלֹהִים אֲשֶׁר יִירְאוּ מִלְּפָנָיו&quot;.......</p><p>קהלת ח13: &quot;וְטוֹב לֹא יִהְיֶה לָרָשָׁע וְלֹא יַאֲרִיךְ יָמִים כַּצֵּל אֲשֶׁר אֵינֶנּוּ יָרֵא מִלִּפְנֵי אֱלֹהִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-21 04:27:03'
+		)
+		;
+
