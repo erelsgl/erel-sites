@@ -4825,3 +4825,77 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>ישעיהו נח14: &quot;אָז תִּתְעַנַּג עַל יהוה וְהִרְכַּבְתִּיךָ עַל במותי[בָּמֳתֵי] אָרֶץ....... וְהַאֲכַלְתִּיךָ נַחֲלַת יַעֲקֹב אָבִיךָ כִּי פִּי יהוה דִּבֵּר&quot; </p><p>דברים כח13: &quot;וּנְתָנְךָ יהוה לְרֹאשׁ וְלֹא לְזָנָב וְהָיִיתָ רַק לְמַעְלָה....... וְלֹא תִהְיֶה לְמָטָּה כִּי תִשְׁמַע אֶל מצות יהוה אֱלֹהֶיךָ אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לִשְׁמֹר וְלַעֲשׂוֹת&quot;</p><p>וּנְתָנְךָ יהוה לְרֹאשׁ וְלֹא לְזָנָב וְהָיִיתָ רַק לְמַעְלָה = אָז תִּתְעַנַּג עַל יהוה וְהִרְכַּבְתִּיךָ עַל במותי[בָּמֳתֵי] אָרֶץ = זה שבת קודש</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-22 15:39:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>ישעיהו נח14: &quot;אָז תִּתְעַנַּג עַל יהוה וְהִרְכַּבְתִּיךָ עַל במותי[בָּמֳתֵי] אָרֶץ....... וְהַאֲכַלְתִּיךָ נַחֲלַת יַעֲקֹב אָבִיךָ כִּי פִּי יהוה דִּבֵּר&quot;</p><p>דברים כח13: &quot;וּנְתָנְךָ יהוה לְרֹאשׁ וְלֹא לְזָנָב וְהָיִיתָ רַק לְמַעְלָה....... וְלֹא תִהְיֶה לְמָטָּה כִּי תִשְׁמַע אֶל מצות יהוה אֱלֹהֶיךָ אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לִשְׁמֹר וְלַעֲשׂוֹת&quot;</p><p>וּנְתָנְךָ יהוה לְרֹאשׁ וְלֹא לְזָנָב וְהָיִיתָ רַק לְמַעְלָה = אָז תִּתְעַנַּג עַל יהוה וְהִרְכַּבְתִּיךָ עַל במותי[בָּמֳתֵי] אָרֶץ = זה לזכור לשמור שבת קודש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-22 15:40:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-22 15:40:40' 
+			WHERE messageid=13781;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>משלי כח21: &quot;הַכֵּר פָּנִים לֹא טוֹב וְעַל פַּת לֶחֶם יִפְשַׁע גָּבֶר&quot;</p><p>קהלת ט11: &quot;שַׁבְתִּי וְרָאֹה תַחַת הַשֶּׁמֶשׁ כִּי לֹא לַקַּלִּים הַמֵּרוֹץ וְלֹא לַגִּבּוֹרִים הַמִּלְחָמָה וְגַם לֹא לַחֲכָמִים לֶחֶם....... וְגַם לֹא לַנְּבֹנִים עֹשֶׁר וְגַם לֹא לַיֹּדְעִים חֵן כִּי עֵת וָפֶגַע יִקְרֶה אֶת כֻּלָּם&quot;</p><p>וְעַל פַּת לֶחֶם יִפְשַׁע גָּבֶר - וְגַם לֹא לַחֲכָמִים לֶחֶם - אצפה מהחכמים להמנע מהלחם ולא יפשעו כי פשע של חכם מסוכן יותר מפשע של עם הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-11-22 17:00:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p></p>',
+		'110785922074390402208',
+		'shlomo itzhaik',
+		'2025-11-22 20:45:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/brejit/tarikim25.html',
+		'<p>בס&quot;ד</p><p>לפי ידע ממקורות חכמים אדם חכם מתחיל לדאוג למותו כ5 שנים לפני מות הוריו ועד 5 שנים אחרי מות אמו שרה שנפטרה בגיל 127 כשיצחק היה בן 37 ,כשיצחק היה בן 122(127-5)החל לדאוג לחייו  ,ואז יעקוב ועשיו היו בני 62 ,חכה שנה והחליט שזהוא בגיל 123נתן את הברכה לבניו כשחשב שזהוא הוא עובר מהעולם בתקופה הזו ,אבל לקדוש ברוך הוא היו תכניות אחרות והאריך ימיו בעוד 57 שנים לכן נכון להגיד שיעקוב ועשיו היו בני 63 בזמן הברכה ,בהנחה שתכיף באותו הזמן יעקוב ברח מהבית במצוות רבקה וברכת יצחק (מעניין שיעקוב קנה את הבכורה כאשר היה בן 15 מאחיו עשיו .(מות אברהם בגיל 175 ,כשיצחק בן 75 ובניו בגיל 15) זה עוד צד שמנסה להראות את גיל יצחק בזמן ברכת הבכור ליעקוב.  בע&quot;ה מקווה שעזר.</p>',
+		'110785922074390402208',
+		'shlomo itzhaik',
+		'2025-11-22 21:04:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-11-22 21:05:57' 
+			WHERE messageid=13784;
+
