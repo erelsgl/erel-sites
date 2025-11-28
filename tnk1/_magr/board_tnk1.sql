@@ -3786,3 +3786,73 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-27 15:27:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-27 15:38:02'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-11-27 16:23:55'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1506_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1798.html',
+				NULL,
+				'2025-11-28 07:46:33',
+				'2025-11-28 07:46:33',
+				'פרשת ויצא- זיווגו של אדם מאין?/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-11-28 07:46:33'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1799.html',
+				NULL,
+				'2025-11-28 07:49:53',
+				'2025-11-28 07:49:53',
+				'יעקב ורחל ליד הבאר/שיר מאת: אהובה קליין (c) ',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2025-11-28 07:49:53'
+			WHERE ktovt_bn='tnk1/forums.html';
+
