@@ -4046,3 +4046,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-12-08 12:44:39'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-34-30.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-12-08 13:17:57'
+		WHERE ktovt_bn='tnk1/tora/brejit/br-34-30.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-12-09 06:15:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
