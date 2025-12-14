@@ -5488,3 +5488,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-12-12 03:18:40' 
 			WHERE messageid=13823;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>ישעיהו לח19: &quot;חַי חַי הוּא יוֹדֶךָ....... כָּמוֹנִי הַיּוֹם אָב לְבָנִים יוֹדִיעַ אֶל אֲמִתֶּךָ&quot;</p><p>ואם אדם יודה לאלהים ככתוב &quot;יוֹדֶךָ&quot; אז האדם  חַי חַי לאמור הוא מלא חיים</p><p>א   מִזְמוֹר לְתוֹדָה ------ הָרִיעוּ לַיהוָה כָּל-הָאָרֶץ. </p><p>ב   עִבְדוּ אֶת-יְהוָה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה. </p><p>ג   דְּעוּ כִּי יְהוָה הוּא אֱלֹהִים הוּא עָשָׂנוּ וְלוֹ אֲנַחְנוּ עַמּוֹ וְצֹאן מַרְעִיתוֹ. </p><p>ד   בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרְכוּ שְׁמוֹ. </p><p>ה   כִּי-טוֹב יְהוָה לְעוֹלָם חַסְדּוֹ וְעַד-דֹּר וָדֹר אֱמוּנָתוֹ.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-14 04:01:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-14 05:31:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-14 05:31:31' 
+			WHERE messageid=13825;
+
