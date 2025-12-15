@@ -5519,3 +5519,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-12-14 05:31:31' 
 			WHERE messageid=13825;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/AUCuDgbVQ7U</p><p>לכבוד הרב --- שמעני כי לא חפצתי להרשיעך </p><p>אך מדוע אתה מרשיע את נביאי ישראל המדברים מן השמים </p><p>וכאשר הם ראו &quot;התנהגויות פסולות כדבריך&quot; הוכיחו את העם וכהניו </p><p>ואתה אמרת עליהם &quot;הפוסל במומו פוסל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-14 11:18:59'
+		)
+		;
+
