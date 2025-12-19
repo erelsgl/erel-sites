@@ -5674,3 +5674,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-12-16 19:51:48' 
 			WHERE messageid=13835;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/ljon_jorj_xnf2_0.html',
+		'<p>ליתר דיוק : ירחו זרע - זריעת שעורה, ירחו לקש - זריעה מאוחרת - זריעת חיטה</p><p>בתאריך 17.12 , בתקופת חנוכה שמקבילה לסטורנליה / עיד אל ברברה (ערבי נוצרי ישראל, סוריה, לבנון) / עיד אל בנאת (ראש חודש טבת, יהודי צפון אפריקה) </p><p>עליית כוכב פרוקיון (הכוכב הבהיר בקבוצת כלב קטן) בשמי הלילה כשהשמש במזל גדי, פרוקיון מכונה ברברה /בורברה אצל בדואי המדבר</p><p>ברברה / בורבורה - אולי הכפלת בר - חיטה / תבואה</p><p>כמו שמציינים וחוגגים את קציר שעורים בפסח וקציר חיטים בשבועות, כך ציינו וחגגו את המעבר מזריעת שעורה לזריעת חיטה שהיא חשובה יותר</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2025-12-18 17:39:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-18 18:50:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-18 18:50:46' 
+			WHERE messageid=13837;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-19 04:48:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-19 04:48:46' 
+			WHERE messageid=13838;
+
