@@ -5724,3 +5724,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-12-19 04:48:46' 
 			WHERE messageid=13838;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ezor/index.html',
+		'<p></p>',
+		'111274236343577780613',
+		'עופר צוקר',
+		'2025-12-20 15:09:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ezor/index.html',
+		'<p></p>',
+		'111274236343577780613',
+		'עופר צוקר',
+		'2025-12-20 15:09:57'
+		)
+		;
+
