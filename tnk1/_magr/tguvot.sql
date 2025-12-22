@@ -5748,3 +5748,91 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>  אני דיין עבד-אלהים ומשיחו וחשפתי את מערומי הרבנים ואת קלונם בציבור </p><p>ואם רב שקצת פוגעים לו בכבוד [שבכלל לא מגיע לו] והוא כבר חושב כמו קרימינל </p><p>צריך להבין בעצמו שהוא עם-הארץ ולא כהן-דת</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-21 12:05:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>אני דיין עבד-אלהים ומשיחו וחשפתי את מערומי הרבנים ואת קלונם בציבור</p><p>ואם רב שקצת פוגעים לו בכבוד [שבכלל לא מגיע לו] והוא כבר חושב כמו קרימינל</p><p>צריך להבין בעצמו שהוא כהן מכהני עמי-הארצות ולא מכהני-יהוה אלהי-ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-21 13:17:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-21 13:18:14' 
+			WHERE messageid=13841;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>תופעות של גאווה, בלבול או חוסר יושר רוחני שנוצרו בחלקים מסוימים של ההנהגה הדתית.</p><p>כאשר אדם הנושא תפקיד של רב או מנהיג רוחני נפגע מעט בכבודו ומגיב בכעס או בחשדנות, </p><p>עליו לבחון את עצמו באמת ולשאול האם דרכו מונעת מענווה, יראת אלוהים וטוהר כוונה.</p><p>מנהיגות רוחנית אמיתית אינה נמדדת בכבוד חיצוני, אלא ביושר פנימי, בחמלה, ובמחויבות עמוקה לאמת.</p><p>אני דיין עבד-אלהים ומשיחו וחשפתי את מערומי הרבנים ואת קלונם בציבור</p><p>ואם רב שקצת פוגעים לו בכבוד [שבכלל לא מגיע לו] והוא כבר חושב כמו קרימינל</p><p>צריך להבין בעצמו שהוא כהן מכהני עמי-הארצות ולא מכהני-יהוה אלהי-ישראל</p><p>----</p><p>יש הבדל בין מי שמנהיג מתוך קדושה וענווה, לבין מי שמחזיק בתפקיד אך אינו נושא את האחריות המוסרית והערכית הכרוכה בו.</p><p>מי שמנהיג ציבור צריך לשאול את עצמו האם הוא פועל כשליח אמת של ערכי התורה — או רק כנציג של מסורת אנושית שאיבדה את דרכה.</p><p>אני קורא לשיבה אל דרך הקודש:</p><p>דרך של יושר, ענווה, טוהר לב ויראת אלוהים.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-21 16:12:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-21 16:12:55' 
+			WHERE messageid=13843;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>אני דיין עבד-אלהים ומשיחו וחשפתי את מערומי הרבנים ואת קלונם בציבור</p><p>ואם רב שקצת פוגעים לו בכבוד [שבכלל לא מגיע לו] והוא כבר חושב כמו קרימינל</p><p>צריך להבין בעצמו שהוא כהן מכהני עמי-הארצות ולא מכהני-יהוה אלהי-ישראל</p><p>----------------------------------------------------------------------------------------------</p><p>תופעות של גאווה, בלבול או חוסר יושר רוחני שנוצרו בחלקים מסוימים של ההנהגה הדתית.</p><p>כאשר אדם הנושא תפקיד של רב או מנהיג רוחני נפגע מעט בכבודו ומגיב בכעס או בחשדנות, </p><p>עליו לבחון את עצמו באמת ולשאול האם דרכו מונעת מענווה, יראת אלוהים וטוהר כוונה.</p><p>מנהיגות רוחנית אמיתית אינה נמדדת בכבוד חיצוני, אלא ביושר פנימי, בחמלה, ובמחויבות עמוקה לאמת.</p><p>יש הבדל בין מי שמנהיג מתוך קדושה וענווה, לבין מי שמחזיק בתפקיד אך אינו נושא את האחריות המוסרית והערכית הכרוכה בו.</p><p>מי שמנהיג ציבור צריך לשאול את עצמו האם הוא פועל כשליח אמת של ערכי התורה — או רק כנציג של מסורת אנושית שאיבדה את דרכה.</p><p>אני קורא לשיבה אל דרך הקודש</p><p>דרך של יושר, ענווה, טוהר לב ויראת אלוהים.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-21 16:16:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-21 16:16:28' 
+			WHERE messageid=13842;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/klli/mdrjim/xnuka.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2025-12-22 07:56:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-22 07:56:44' 
+			WHERE messageid=13845;
+
