@@ -5922,3 +5922,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם דרך הקודש        </p><p> מאת דיין עבד-אלהים ומשיחו </p><p>אני מצפה מכל כהני הדת בישראל מכל הזרמים לעבוד אותי לשמוע בקולי ללמד תורתי ולכבדני במעשר למען יהיה טוב לישראל</p><p>ואם תאמרו בלעג למה מי אתה אנחנו עבדים לקדוש-ברוך-הוא דעו כי מרעה דיברתם וגם אני לא אחפץ בכם כי אין חפץ בכסילים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-23 08:40:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-23 08:40:52' 
+			WHERE messageid=13851;
+
