@@ -5941,3 +5941,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2025-12-23 08:40:52' 
 			WHERE messageid=13851;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvir/jmuelb/njy_dwd.html',
+		'<p>דויד עזב את מיכל. מיכל הייתה נשואה לפלטי .בשלב מאוחר יותר היא עזבה את פלטי והלכה אחרי דויד, כבת שאול ולא כאשת דויד.  לכן רשמית, היא לא אשתו. ויש גם את הבעייתיות של  - לא תחמוד.</p>',
+		'106213939467140273333',
+		'Andrea Litvin',
+		'2025-12-27 03:20:51'
+		)
+		;
+

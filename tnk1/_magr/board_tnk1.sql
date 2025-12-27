@@ -4473,3 +4473,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2025-12-25 22:35:15'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2025-12-27 03:20:51'
+		WHERE ktovt_bn='tnk1/nvir/jmuelb/njy_dwd.html'
+		;
+
