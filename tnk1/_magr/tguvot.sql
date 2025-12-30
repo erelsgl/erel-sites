@@ -6077,3 +6077,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/NrfrP-k09-U</p><p>כל הכבוד הפעם אני מפרגן לרב אהרן לוי -- ישר כח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-30 04:15:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>במאמרי זה כתבתי ביקורת על הרבנים</p><p>אבל הפעם אני מפרגן לרב --- ישר כח </p><p>https://www.youtube.com/shorts/NrfrP-k09-U</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-30 04:38:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2025-12-30 04:39:01' 
+			WHERE messageid=13862;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b23_1.html',
+		'<p>דברי דוד המלך משיח אלהים</p><p>בספר שמואל פרק כג (ג) אָמַר אֱלֹהֵי יִשְׂרָאֵל לִי דִבֶּר צוּר יִשְׂרָאֵל מוֹשֵׁל בָּאָדָם צַדִּיק מוֹשֵׁל יִרְאַת אֱלֹהִים:</p><p>וחברי הממשלה בעצמם מעידים כי אין להם &quot;משילות&quot; ------ כי לא צדיקים הם ואין להם יראת אלהים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2025-12-30 06:14:53'
+		)
+		;
+
