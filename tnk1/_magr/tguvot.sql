@@ -6120,3 +6120,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/sofrim/mali/nxlot_10.html',
+		'<p>תודה!</p>',
+		'116900592371761366940',
+		'לביא פלס',
+		'2025-12-30 14:14:18'
+		)
+		;
+
