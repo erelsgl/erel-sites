@@ -4577,3 +4577,49 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/sofrim/mali/nxlot_10.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1807.html',
+				NULL,
+				'2026-01-01 20:16:38',
+				'2026-01-01 20:16:38',
+				'פרשת ויחי- אפרים ומנשה ייחודם- ומסר דוד המלך/ אהובה קליין',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-01-01 20:16:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1808.html',
+				NULL,
+				'2026-01-01 20:22:33',
+				'2026-01-01 20:22:33',
+				'אפרים ומנשה מתברכים/ שיר מאת: אהובה קליין(c)',
+				'אהובה קליין ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-01-01 20:22:33'
+			WHERE ktovt_bn='tnk1/forums.html';
+
