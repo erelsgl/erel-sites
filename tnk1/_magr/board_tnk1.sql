@@ -4708,3 +4708,49 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2026-01-08 22:35:01'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1812.html',
+				NULL,
+				'2026-01-15 23:15:38',
+				'2026-01-15 23:15:38',
+				'פרשת וארא- מסר עכשווי לישראל ממשה ואהרון/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-01-15 23:15:38'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1813.html',
+				NULL,
+				'2026-01-15 23:19:02',
+				'2026-01-15 23:19:02',
+				'משה ואהרון בארמון פרעה/ שיר מאת: אהובה  קליין(c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-01-15 23:19:02'
+			WHERE ktovt_bn='tnk1/forums.html';
+
