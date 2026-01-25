@@ -8,7 +8,7 @@
 	" <link rel='stylesheet' href='../forum.css' />$newline":
 	" <link rel='stylesheet' href='${path_from_reply_to_root}_script/klli.css' />$newline" .
 	" <link rel='stylesheet' href='${path_from_reply_to_site}_themes/klli.css' />$newline" .
-	" <link rel='canonical' href='http://tora.us.fm/$path_from_root_to_reply' />$newline") .
+	" <link rel='canonical' href='https://tora.quest/$path_from_root_to_reply' />$newline") .
 	" <title>$title_without_html</title>$newline" .
 	" <meta name='author' content='$username' />$newline" .
 	" <meta name='receiver' content='$email' />$newline" .
