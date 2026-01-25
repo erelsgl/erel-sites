@@ -1,7 +1,7 @@
 // sites.js - site-specific variables
 // INCLUDE ONLY AFTER the variable "path_from_root_to_document" is set! (i.e. in arguments.js)!
 
-var server = "http://tora.us.fm/";
+var server = "http://tora.quest/";
 
 var relative_depth=0;
 for (i=0; i<path_from_root_to_document.length; ++i) {

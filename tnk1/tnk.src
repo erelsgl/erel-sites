@@ -10,8 +10,8 @@
    version="7.1"
    name="Hebrew Bible RegExp"
    description="Hebrew Bible (Tanakh) Regular Expression Search"
-   action="http://www.tora.us.fm/_script/findpsuq.php"
-   searchForm="http://www.tora.us.fm/tnk1"
+   action="https://tora.quest/tnk/findpsuq.php"
+   searchForm="https://tora.quest/tnk1"
    method="GET"
    queryCharset="windows-1255"
 >

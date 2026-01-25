@@ -9,7 +9,7 @@ require("admin/db_connect_params.php");
 sql_connect_and_select($db_host, $db_name, $db_user, $db_pass, false, MYSQL_CLIENT_INTERACTIVE);
 
 require_once("mxbr_lib.php");  // author search function
-$linkroot = "http://tora.us.fm";
+$linkroot = "http://tora.quest";
 
 sql_set_charset("utf8");
 mysql_query("set character_set_results=hebrew");
