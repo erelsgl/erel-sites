@@ -25,8 +25,8 @@ tnk1/nvir/mlkima/htxps.html	תגובה	2004-12-23 03:22:04	2005-05-11 11:55:45	t
 tnk1/nvir/mlkima/yrvam.html	תגובה	2005-03-28 13:19:50	2005-03-28 13:19:50	tnk1/messages/nvir_mlkima_yrvam_0.html	תגובה: על חטאת ירבעם	אריק	arik @ tovel.net	112
 tnk1/nvir/mlkima/zhv.html	תגובה	2005-04-11 12:01:23	2005-04-11 12:01:23	tnk1/messages/nvir_mlkima_zhv_0.html	תגובה ל: הזהב בימי שלמה	ארנון	naharon @ hotmail.com	112
 tnk1/nvir/mlkima/ma-19-10.html	תגובה	2005-04-07 06:13:23	2005-04-07 06:13:23	tnk1/messages/nvir_mlkima_ma-19-10_0.html	תגובה: במות לשם שמים	יהודה		112
-tnk1/nvir/mlkima/ma-19-10.html	תגובה	2005-04-11 12:37:12	2005-04-11 12:37:12	tnk1/messages/nvir_mlkima_ma-19-10_1.html	אליהו לא דיבר בצער אלא בכעס	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/nvir/mlkima/ma-19-10.html	תגובה	2005-04-11 13:44:58	2005-04-11 13:44:58	tnk1/messages/nvir_mlkima_ma-19-10_2.html	למצוה יש טעם	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/nvir/mlkima/ma-19-10.html	תגובה	2005-04-11 12:37:12	2005-04-11 12:37:12	tnk1/messages/nvir_mlkima_ma-19-10_1.html	אליהו לא דיבר בצער אלא בכעס	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/nvir/mlkima/ma-19-10.html	תגובה	2005-04-11 13:44:58	2005-04-11 13:44:58	tnk1/messages/nvir_mlkima_ma-19-10_2.html	למצוה יש טעם	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/nvir/mlkima/ma-13-yhudi.html	תגובה	2005-08-07 06:27:45	2005-08-10 09:54:29	tnk1/messages/nvir_mlkima_ma-13-yhudi_0.html	תגובה ל: האיש שנכשל באהבת חינם	יהודה		112
 tnk1/nvir/mlkima/nicvy_jlmo.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/4921.html	תגובה ל: ניצבי שלמה			112
 tnk1/nvir/mlkima/mlkt_jva.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1417.html	תגובה ל{למה באה מלכת שבא לארץ ישראל?}			112
@@ -185,9 +185,9 @@ tnk1/nvia/tryasr/ho-02-0418.html	תגובה	2006-02-19 13:27:28	2006-02-19 13:30
 tnk1/nvia/tryasr/ho-04-17.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/nvia_tryasr_ho-04-17_0.html	שיעורשת על "חבור עצבים אפרים הנח לו", המדרש, וספר הושע	חברי נחת	שיעורשת מוצש פרשת ויקרא התשסו	112
 tnk1/nvia/yxzqel/mlxmt-yom-kipur.html	תגובה	2006-06-13 06:57:19	2006-06-13 06:57:19	tnk1/messages/nvia_yxzqel_mlxmt-yom-kipur_0.html	תגובה על: מלחמת יום כיפור	אלחנן ברדוגו		112
 tnk1/prqim/t08b21.htm	תוכן2	2011-05-10 04:37:25	2011-05-10 12:14:41	tnk1/messages/prqim_t08b21_4.html	האם שאול באמת המית את הגבעונים?	אור-לי לדוביץ	orlyladovich @ gmail.com	60
-tnk1/messages/izru_7_4_1.html	תגובה	2005-10-01 20:59:07	2005-10-01 20:59:07	tnk1/messages/izru_7_4_1_0.html	חזק ועשה [לת]	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/izru_7_4_1.html	תגובה	2005-10-01 20:59:07	2005-10-01 20:59:07	tnk1/messages/izru_7_4_1_0.html	חזק ועשה [לת]	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/prqim_t08a_2_3.html	תגובה	2006-02-13 10:11:24	2006-02-13 10:11:24	tnk1/messages/prqim_t08a_2_3_0.html	נכון	אלחנן	elchananj @ gmail.com	112
-tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0.html	תגובה	2005-09-22 13:31:41	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0.html	האומר דבר בשם אומרו מביא גאולה לעולם	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0.html	תגובה	2005-09-22 13:31:41	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0.html	האומר דבר בשם אומרו מביא גאולה לעולם	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_brejit_br-11-02_0.html	תגובה	2006-02-02 10:19:37	2006-02-02 10:19:37	tnk1/messages/tora_brejit_br-11-02_0_0.html	כשחושבים על זה..	שירה	r	112
 tnk1/messages/tora_brejit_br-11-02_0.html	תגובה	2006-02-02 15:48:16	2006-02-02 15:48:16	tnk1/messages/tora_brejit_br-11-02_0_1.html	לענ"ד	צחור		112
 tnk1/messages/ktuv_mgilot_ei-01_0.html	תגובה	2006-01-14 20:09:36	2007-07-23 06:41:08	tnk1/messages/ktuv_mgilot_ei-01_0_0.html	נכון...	אראל		112
@@ -198,21 +198,21 @@ tnk1/messages/tora_bmdbr_my_mriva_0.html	תגובה	2005-01-12 19:01:56	2005-01-
 tnk1/messages/prqim_t0121_0.html	תגובה	2005-03-07 16:56:49	2005-10-30 19:07:06	tnk1/messages/prqim_t0121_0_0.html	תגובה ל: ילד בן 19?	אראל		112
 tnk1/messages/nvir_yhojua_jmj_bgveon_0_0.html	תגובה	2005-04-03 13:27:19	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0.html	תגובה ל: מה המדענים יודעים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/nvir_mlkimb_mb-12_0_0.html	תגובה	2005-01-06 13:37:33	2005-01-10 20:04:38	tnk1/messages/nvir_mlkimb_mb-12_0_0_0.html	תגובה ל: בנק של חסד	רפאל שחורי		112
-tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 14:19:47	2019-10-31 19:50:59	tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	בקשר למפקד דוד	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 14:20:55	2005-04-11 12:43:42	tnk1/nvir/mlkimb/qrx.html	בקשר ל-42 הילדים	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 14:19:47	2019-10-31 19:50:59	tnk1/nvir/jmuelb/hmfqd_bymy_dwd.html	בקשר למפקד דוד	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 14:20:55	2005-04-11 12:43:42	tnk1/nvir/mlkimb/qrx.html	בקשר ל-42 הילדים	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/prqim/t0234.htm	מאמר	2010-06-12 14:36:16	2010-06-12 14:36:16	tnk1/messages/prqim_t0234_2.html	אל רחום וחנון	חגי הופר		60
 tnk1/prqim/t0234.htm	בסיס	2010-06-13 01:38:08	2022-12-04 17:13:12	tnk1/messages/prqim_t0234_3.html	אלהים מרחם רק על ההולכים בדרכיו 	מורה לתורה משה דין	daian1 @ 013.net	60
 tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 15:11:56	2005-04-05 15:11:56	tnk1/messages/nvir_mlkima_ma-19-17_0_0.html	אלישע לא הרג את הילדים בגלל הפגיעה בכבודו	אלכס		112
 tnk1/messages/nvir_mlkima_ma-19-17_0.html	תגובה	2005-04-05 18:19:27	2005-04-05 18:19:27	tnk1/messages/nvir_mlkima_ma-19-17_0_2.html	תגובה ל: תגובה ל: את מי המית אלישע?	ארנון	naharon @ hotmail.com	112
 tnk1/messages/nvir_jmuela_ja-15-33_0.html	תגובה	2005-03-29 10:35:55	2005-03-29 10:35:55	tnk1/messages/nvir_jmuela_ja-15-33_0_0.html	מצוות מחיית עמלק - תשובות	אראל		112
 tnk1/messages/nvia_yjayhu_yj-29-18_0.html	תגובה	2005-07-03 13:42:42	2005-07-03 13:42:42	tnk1/messages/nvia_yjayhu_yj-29-18_0_0.html	סליחה, טעיתי, גם בהוצאת קורן זה כמו שכתוב באתר. איפה ראית את הפסוק הזה כמו שאתה כותב?	דינה		112
-tnk1/messages/nvia_yjayhu_yj-29-18_0.html	תגובה	2005-07-03 13:58:24	2005-07-03 13:58:24	tnk1/messages/nvia_yjayhu_yj-29-18_0_1.html	סליחה, קיצרתי יותר מדי	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvia_yjayhu_yj-29-18_0.html	תגובה	2005-07-03 13:58:24	2005-07-03 13:58:24	tnk1/messages/nvia_yjayhu_yj-29-18_0_1.html	סליחה, קיצרתי יותר מדי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_xgg_0_1.html	תגובה	2005-03-03 18:45:18	2005-03-03 18:45:18	tnk1/messages/ljon_jorj_xgg_0_1_0.html	תגובה ל: רגל = פעם , 3 רגלים = 3 פעמים	רפאל שחורי	raphael_schory @ walla.co.il	112
 tnk1/messages/klli_limud_hblda_lze_jnisa_0.html	תגובה	2005-03-02 08:32:53	2005-03-02 08:32:53	tnk1/messages/klli_limud_hblda_lze_jnisa_0_0.html	תגובה ל: תרגום ל: הבלדה לזה שניסה	אראל		112
 tnk1/messages/ktuv_mjly_mj-31-12_0_1_0.html	תגובה	2005-03-29 19:17:24	2005-03-29 19:17:24	tnk1/messages/ktuv_mjly_mj-31-12_0_1_0_0.html	תגובה ל: כשלא קוראים...	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_mj-28-23_0.html	תגובה	2005-08-25 15:02:04	2005-08-25 15:02:04	tnk1/messages/ktuv_mjly_mj-28-23_0_0.html	תגובה ל: תגובה ל: אחרי!	ויוי		112
 tnk1/messages/ktuv_mgilot_mg07_0.html	תגובה	2005-04-04 16:06:31	2005-04-04 16:06:31	tnk1/messages/ktuv_mgilot_mg07_0_0.html	תגובה ל: תגובה ל: ויכוחים על מעמדן של המגילות	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_mgilot_mg07_0.html	תגובה	2005-04-04 18:34:03	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	קריאת מחשבות לאחור	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mgilot_mg07_0.html	תגובה	2005-04-04 18:34:03	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	קריאת מחשבות לאחור	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0.html	תגובה	2005-03-31 13:16:04	2005-03-31 18:43:06	tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0_0.html	תגובה ל: חוק הכלים השלובים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_mdrjim_ra_ry_0.html	תגובה	2005-03-03 15:10:37	2005-03-03 19:40:35	tnk1/messages/klli_mdrjim_ra_ry_0_0.html	תגובה ל: תגובה ל: שתי מחלוקות עקרוניות בין ר אליעזר לר יהושע	דוד לוי		112
 tnk1/messages/klli_mdrjim_ra_ry_0.html	תגובה	2005-03-03 19:39:41	2005-03-03 19:39:41	tnk1/messages/klli_mdrjim_ra_ry_0_1.html	גם אני עם רבי אליעזר	אראל		112
@@ -248,7 +248,7 @@ tnk1/messages/tora_bmdbr_my_mriva_1.html	תגובה	2005-09-25 12:33:13	2005-09-
 tnk1/messages/tora_bmdbr_my_mriva_1.html	תגובה	2005-10-09 03:13:13	2005-10-09 03:13:13	tnk1/messages/tora_bmdbr_my_mriva_1_1.html	תגובה ל: תגובה ל: הפירוש ה1001 לחטאם של משה ואהרן	יהודה		112
 tnk1/messages/sig_mjl_0_0_0_0.html	תגובה	2006-08-01 13:53:00	2006-08-01 14:40:15	tnk1/messages/sig_mjl_0_0_0_0_0.html	תגובה על: התכוונתי לשאול באופן ספציפי על הפסוקים האלה	מטמונית למשפחות סופרים	schriber @ 012.net.il	112
 tnk1/messages/sig_mjl_0.html	תגובה	2006-07-31 19:43:28	2006-08-01 14:40:15	tnk1/messages/sig_mjl_0_0.html	יפה מאד	אראל		112
-tnk1/messages/ktuv_mjly_lcim_0.html	תגובה	2005-09-22 13:30:51	2005-09-23 04:26:38	tnk1/messages/ktuv_mjly_lcim_0_0.html	שאלה טובה	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_lcim_0.html	תגובה	2005-09-22 13:30:51	2005-09-23 04:26:38	tnk1/messages/ktuv_mjly_lcim_0_0.html	שאלה טובה	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_rkb_0.html	תגובה	2006-08-15 19:30:48	2006-08-17 09:42:54	tnk1/messages/ljon_jorj_rkb_0_0.html	יפה, אבל לפי זה...	אראל		112
 tnk1/messages/sig_mjl_0_0_0.html	תגובה	2006-08-01 11:47:37	2006-08-01 14:40:15	tnk1/messages/sig_mjl_0_0_0_0.html	התכוונתי לשאול באופן ספציפי על הפסוקים האלה	אראל		112
 tnk1/messages/sig_mjl_0_0.html	תגובה	2006-08-01 08:58:20	2006-08-01 14:40:15	tnk1/messages/sig_mjl_0_0_0.html	תגובה על: יפה מאד	מטמונית למשפחות סופרים	schriber @ 012.net.il	112
@@ -262,16 +262,16 @@ tnk1/messages/tora_wyqra_tojba_1.html	תגובה	0000-00-00 00:00:00	2015-05-29 
 tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0_0_0_0.html	תגובה	2005-04-13 22:21:37	2005-04-13 22:21:37	tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0_0_0_0_0.html	תגובה ל: ציטוטים נבחרים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0.html	תגובה	2005-03-19 22:18:11	2005-04-13 22:21:37	tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0_0.html	מחלוקות בין הסטוריונים - לא בתורה אלא בפרשנות	אראל		112
 tnk1/messages/tora_brejit_eromim_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/tora_brejit_eromim_0_0.html	תגובה ל: תגובה ל: וידעו כי עירומים הם			112
-tnk1/messages/tora_brejit_br-0506_0.html	תגובה	2005-05-10 10:47:24	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_brejit_br-0506_0.html	תגובה	2005-05-10 10:47:24	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_brejit_axry_haqda_0_1.html	תגובה	2005-05-31 18:21:33	2005-05-31 18:21:33	tnk1/messages/tora_brejit_axry_haqda_0_1_0.html	ואוסיף על דברי דוד:	קובי(תל אביב)		112
 tnk1/messages/tora_brejit_axry_haqda_0_1.html	תגובה	2005-06-04 21:51:09	2005-06-04 21:51:09	tnk1/messages/tora_brejit_axry_haqda_0_1_1.html	תגובה ל: תגובה: תגובה ל: יורה דעה 1	ארנון	naharon @ hotmail.com	112
 tnk1/messages/sig_do1_0_0_0.html	תגובה	2005-06-09 09:10:00	2005-06-15 11:17:24	tnk1/messages/sig_do1_0_0_0_0.html	תגובה: תגובה ל: אפשרות של חצי פתרון לחידה על מילים בנות 4 אותיות...	דוד צוראל	DMTsurel @ gmail.com	112
 tnk1/messages/prqim_t1048_1.html	תגובה	2005-03-10 21:14:19	2005-03-14 12:39:16	tnk1/messages/prqim_t1048_1_0.html	בדיוק להפך	דוד צוראל		112
 tnk1/messages/prqim_t09b12_3.html	תגובה	2005-07-16 22:49:34	2005-07-16 22:49:34	tnk1/messages/prqim_t09b12_3_0.html	תגובה ל: שינויי נוסח במלכים ב יב 22	ישי	yishay102 @ walla.com	112
 tnk1/messages/prqim_t08a13_0.html	תגובה	2005-02-10 21:02:49	2005-02-10 21:02:49	tnk1/messages/prqim_t08a13_0_0.html	תגובה ל: ויהי מקץ עשרת ימים	דוד צוראל		112
-tnk1/messages/nvir_mlkimb_qrx_0_0_0.html	תגובה	2005-04-11 12:43:42	2005-04-11 12:43:42	tnk1/messages/nvir_mlkimb_qrx_0_0_0_0.html	אלישע לא רצח ילדים	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0.html	תגובה	2005-04-04 18:41:32	2005-04-04 18:41:32	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_0.html	הארכיאולוגים ואתה	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0.html	תגובה	2005-04-05 09:31:19	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_1.html	זה לא פירוש	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_mlkimb_qrx_0_0_0.html	תגובה	2005-04-11 12:43:42	2005-04-11 12:43:42	tnk1/messages/nvir_mlkimb_qrx_0_0_0_0.html	אלישע לא רצח ילדים	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0.html	תגובה	2005-04-04 18:41:32	2005-04-04 18:41:32	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_0.html	הארכיאולוגים ואתה	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0.html	תגובה	2005-04-05 09:31:19	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_1.html	זה לא פירוש	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/klli/mdrjim/index.html	פירוש	2012-09-14 07:48:56	2012-09-14 07:48:56	tnk1/sofrim/ilanhp/bxyy.html	ירושלים במשנת רבנו בחיי	הרב אילן חיים פור		51
 tnk1/messages/nvir_mlkima_htxps_0_0_0.html	תגובה	2005-05-11 06:23:55	2005-05-11 06:23:55	tnk1/messages/nvir_mlkima_htxps_0_0_0_0.html	תגובה: תגובה ל: מדוע רחצו הזונות בדם אחאב?	יהודה		112
 tnk1/messages/nvir_mlkima_htxps_0_0_0.html	תגובה	2005-05-11 11:55:45	2005-05-11 11:55:45	tnk1/messages/nvir_mlkima_htxps_0_0_0_1.html	תגובה ל: תגובה ל: מדוע רחצו הזונות בדם אחאב?	ארנון	naharon @ hotmail.com	112
@@ -279,8 +279,8 @@ tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0_0_0_0.html	תגובה	2005-08-10 09:54
 tnk1/ljon/jorj/ewr3.html	דיון1	2011-03-14 23:11:10	2012-12-12 10:55:05	tnk1/nvia/yjayhu/yj-42-1820.html	מי עיוור כעבד ה'?	אראל		60
 tnk1/prqim/t0101.htm	בסיס	2011-03-15 08:10:28	2011-03-15 08:10:28	tnk1/messages/prqim_t0101_26.html	דה-סוסיר והתנ"ך: תהו ובבהו קודם ללשון	חגי הופר		60
 tnk1/messages/nvia_yrmyhu_yr-20-15_0.html	תגובה	2005-06-22 14:14:34	2005-06-22 14:14:34	tnk1/messages/nvia_yrmyhu_yr-20-15_0_0.html	תגובה ל: תגובה ל: מה אשם המבשר?	אני...		112
-tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-05-08 15:00:27	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0.html	לעולם	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-05-08 15:10:02	2015-05-29 14:42:33	tnk1/klli/limud/emu.html	"אין מוקדם ומאוחר בתורה"	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-05-08 15:00:27	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0.html	לעולם	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-05-08 15:10:02	2015-05-29 14:42:33	tnk1/klli/limud/emu.html	"אין מוקדם ומאוחר בתורה"	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-05-14 23:09:25	2005-05-14 23:09:25	tnk1/messages/ktuv_thlim_th-119l_0_1.html	תגובה ל: תגובה ל: ל = נצחיות תורת ה	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_thlim_th-119l_0.html	תגובה	2005-07-06 09:24:18	2005-07-06 09:24:18	tnk1/messages/ktuv_thlim_th-119l_0_2.html	תגובה ל: תגובה ל: ל = נצחיות תורת ה	דוד1000 (benpoeratdavid @ hotmail.com)		112
 tnk1/messages/ljon_jorj_xgg_0_0.html	תגובה	2005-03-03 14:35:05	2005-03-03 14:35:05	tnk1/messages/ljon_jorj_xgg_0_0_0.html	תגובה ל: תגובה ל: חג / חג	רפאל שחורי	raphael_schory @ walla.co.il	112
@@ -294,15 +294,15 @@ tnk1/forums.html	מאמר	2015-03-23 21:53:37	2015-03-23 21:53:37	tnk1/messages/
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-23 21:10:55	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: קבל את דבריהם!	אלחנן	elchananj @ gmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-16 10:27:11	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0.html	לרועי וארנון - המאמינים בתנ"ך	אלחנן	elchananj @ gmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2.html	תגובה	2005-05-08 15:37:40	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0.html	תגובה לארנון	רועי מעודה	mauda_roi @ walla.co.il	112
-tnk1/messages/ktuv_mjly_mj-31-12_2.html	תגובה	2005-03-31 19:13:32	2005-03-31 19:13:32	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (3)	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_ewn_xomt_yrujlym_0.html	תגובה	2005-05-10 17:11:27	2005-05-10 17:11:27	tnk1/messages/ktuv_ewn_xomt_yrujlym_0_0.html	רשותי נתונה לך :)	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-12_2.html	תגובה	2005-03-31 19:13:32	2005-03-31 19:13:32	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (3)	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_ewn_xomt_yrujlym_0.html	תגובה	2005-05-10 17:11:27	2005-05-10 17:11:27	tnk1/messages/ktuv_ewn_xomt_yrujlym_0_0.html	רשותי נתונה לך :)	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_ewn_xomt_yrujlym_0.html	תגובה	2005-12-25 22:09:29	2005-12-25 22:09:29	tnk1/messages/ktuv_ewn_xomt_yrujlym_0_1.html	תגובה ל: תגובה ל: חומת ירושלים	יסמין	jasminenissan @ hotmail.com	112
 tnk1/prqim/t0412.htm	דיון1	2009-03-28 10:12:29	2009-03-28 10:12:29	tnk1/messages/prqim_t0412_0.html	תוספת ל: במדבר יב	חגי הופר		60
 tnk1/messages/kma_qjrim1_srft_yldim_0.html	תגובה	2005-04-10 12:09:04	2005-04-10 12:09:04	tnk1/messages/kma_qjrim1_srft_yldim_0_0.html	תגובה ל: תגובה ל: שריפת ילדים	ארנון	naharon @ hotmail.com	112
-tnk1/messages/kma_qjrim1_srft_yldim_0.html	תגובה	2005-04-11 12:53:33	2005-04-11 12:53:33	tnk1/messages/kma_qjrim1_srft_yldim_0_1.html	שריפת ילדים - לא בתורה	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_srft_yldim_0.html	תגובה	2005-04-11 12:53:33	2005-04-11 12:53:33	tnk1/messages/kma_qjrim1_srft_yldim_0_1.html	שריפת ילדים - לא בתורה	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim1_rek_0.html	תגובה	2004-11-28 19:03:19	2008-04-03 12:44:42	tnk1/messages/kma_qjrim1_rek_0_0.html	ואיך אתה מפרש את "רעך ורע אביך אל תעזוב"?	אראל		112
 tnk1/messages/kma_qjrim1_rek_0.html	תגובה	2004-11-28 19:04:32	2004-12-20 16:27:57	tnk1/messages/kma_qjrim1_rek_0_1.html	ואיך אתה מפרש את "זה חסדך את רעך ?! למה לא הלכת את רעך ?"	אראל		112
-tnk1/messages/kma_qjrim1_arubot_0.html	תגובה	2005-03-31 08:31:24	2005-03-31 08:31:24	tnk1/messages/kma_qjrim1_arubot_0_0.html	המים אשר מעל הרקיע של שבתאי	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_arubot_0.html	תגובה	2005-03-31 08:31:24	2005-03-31 08:31:24	tnk1/messages/kma_qjrim1_arubot_0_0.html	המים אשר מעל הרקיע של שבתאי	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_hvdlim2_jmot_mlkim_1.html	תגובה	2005-08-04 11:46:58	2005-08-04 11:57:58	tnk1/messages/kma_hvdlim2_jmot_mlkim_1_0.html	תגובה ל: מאמר יפה	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_mdrjim_yaqv_wesw_0_0.html	תגובה	2005-04-01 11:23:34	2005-04-01 11:23:34	tnk1/messages/klli_mdrjim_yaqv_wesw_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: למה חזל משמיצים את עשו?!	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_jirim_jirim_xdjim_7.html	תגובה	2005-02-02 08:52:12	2005-02-02 18:16:46	tnk1/messages/klli_jirim_jirim_xdjim_7_0.html	תגובה ל: אוהב אותך לאה	אסף		112
@@ -380,18 +380,18 @@ tnk1/messages/prqim_t0131_0_1.html	תגובה	2005-02-24 06:23:28	2005-02-24 06:
 tnk1/messages/prqim_t0131_0_1.html	תגובה	2005-03-06 23:29:27	2005-03-06 23:29:27	tnk1/messages/prqim_t0131_0_1_1.html	תגובה ל: תגובה ל: מטוב עד רע	עופר לביא		112
 tnk1/messages/prqim_t0121_0_0.html	תגובה	2005-10-29 19:27:01	2005-10-30 19:07:06	tnk1/messages/prqim_t0121_0_0_0.html	שאלה: תגובה ל: ילד בן 19?	תמר וובר	tamarbal @ walla.com	112
 tnk1/messages/nvir_mlkimb_qrx_0_0.html	תגובה	2005-04-07 10:52:09	2005-04-11 12:43:42	tnk1/messages/nvir_mlkimb_qrx_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: עלה קרח	ארנון	naharon @ hotmail.com	112
-tnk1/messages/nvir_jmuela_bny_eli_1.html	תגובה	2005-04-08 18:13:10	2005-04-11 13:39:28	tnk1/messages/nvir_jmuela_bny_eli_1_0.html	שוב לא קראת	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_jmuela_bny_eli_1.html	תגובה	2005-04-08 18:13:10	2005-04-11 13:39:28	tnk1/messages/nvir_jmuela_bny_eli_1_0.html	שוב לא קראת	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvia_yrmyhu_qore_0.html	תגובה	2005-03-04 15:33:14	2005-03-04 15:33:14	tnk1/messages/nvia_yrmyhu_qore_0_0.html	תגובה ל: תגובה ל: קורא = קוקיה?	אלכס		112
 tnk1/messages/ljon_jorj_nxj3_0.html	תגובה	2005-08-09 19:24:04	2007-08-28 14:22:47	tnk1/messages/ljon_jorj_nxj3_0_0.html	למה, למען ה', חיה=נחש?	נריה ואסתי קליין		112
 tnk1/messages/ljon_jorj_nxj3_0.html	תגובה	2005-08-10 11:26:12	2005-08-10 11:26:12	tnk1/messages/ljon_jorj_nxj3_0_1.html	תגובה ל: מאמר: בשן = ארגוב = חות יאיר = נחש	ארנון	naharon @ hotmail.com	112
-tnk1/messages/odot_4_3_1.html	תגובה	2005-03-29 23:12:16	2005-03-29 23:12:16	tnk1/messages/odot_4_3_1_0.html	לא הבנתי את השאלה	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/odot_4_3_1.html	תגובה	2005-03-29 23:12:16	2005-03-29 23:12:16	tnk1/messages/odot_4_3_1_0.html	לא הבנתי את השאלה	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_klh2_0.html	תגובה	2005-08-15 15:09:14	2011-09-07 08:00:55	tnk1/messages/ljon_jorj_klh2_0_1.html	תגובה ל: כליות = מקום המצפון	אלכס		112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0.html	תגובה	2005-05-09 15:45:32	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0.html	עוד דבר	רועי מעודה	mauda_roi @ walla.co.il	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-19 13:31:52	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0.html	קבל את דבריהם!	אסתי (ונריה) קליין	esthy_neria @ walla.com	112
 tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0_0.html	תגובה	2005-04-20 20:13:08	2005-04-20 20:13:08	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: סברות כרס	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mgilot_tarikim_0.html	תגובה	2005-03-16 19:13:04	2005-03-16 19:13:04	tnk1/messages/ktuv_mgilot_tarikim_0_0.html	תגובה ל: תגובה ל: תאריכים במגילת אסתר	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mgilot_tarikim_0.html	תגובה	2005-03-19 20:21:57	2005-03-19 20:21:57	tnk1/messages/ktuv_mgilot_tarikim_0_1.html	תענית אסתר - לזכר הגזירה ולא לזכר הצום	אראל		112
-tnk1/messages/ktuv_dha_da-03-0608_0.html	תגובה	2005-04-11 19:46:58	2005-04-12 13:19:14	tnk1/messages/ktuv_dha_da-03-0608_0_0.html	סברות כרס	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_dha_da-03-0608_0.html	תגובה	2005-04-11 19:46:58	2005-04-12 13:19:14	tnk1/messages/ktuv_dha_da-03-0608_0_0.html	סברות כרס	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim2_mnhigut_mje_1.html	תגובה	2004-12-30 17:15:09	2004-12-30 17:15:09	http://images.google.com/images?hl=en&lr=&q=moses	תמונות של משה [חיצוני]	נדב		112
 tnk1/messages/kma_qjrim1_krml_1_0.html	תגובה	2005-06-23 16:44:59	2005-06-23 16:44:59	tnk1/messages/kma_qjrim1_krml_1_0_0.html	תגובה ל: אבל לפעמים כרמל מנוגד ליער...	אביתר כהן		112
 tnk1/messages/kma_qjrim1_jrc_0.html	תגובה	2005-04-02 21:18:27	2005-04-02 21:18:27	tnk1/messages/kma_qjrim1_jrc_0_0.html	תגובה ל: תגובה ל: שריצה = ריבוי ניסי	ארנון	naharon @ hotmail.com	112
@@ -421,7 +421,7 @@ tnk1/messages/izru_7.html	תגובה	2005-02-10 20:14:03	2005-02-10 20:14:03	tnk
 tnk1/messages/izru_7.html	תגובה	2005-02-13 17:16:28	2005-10-01 20:59:07	tnk1/messages/izru_7_4.html	תגובה ל: מדור החידות - פוטנציאל מבוזבז...	UP		112
 tnk1/messages/izru_7.html	תגובה	2005-10-14 12:01:45	2008-01-22 01:30:13	tnk1/messages/izru_7_5.html	חידות לא פתורות ממדור החידות	אלחנן	elchananj @ gmail.com	112
 tnk1/ljon/jorj/nsn.html	דיון1	2009-03-26 00:25:48	2009-03-26 00:25:48	tnk1/tora/jmot/jm-12-02.html	החודש הזה לכם ראש חודשים, ראשון הוא לכם לחדשי השנה	אראל		111
-tnk1/messages/ktuv_mjly_mj-31-1319_0.html	תגובה	2005-09-14 00:27:13	2005-09-14 00:27:13	tnk1/messages/ktuv_mjly_mj-31-1319_0_0.html	נודע בשערים בעלה, בשבתו עם זקני ארץ	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-1319_0.html	תגובה	2005-09-14 00:27:13	2005-09-14 00:27:13	tnk1/messages/ktuv_mjly_mj-31-1319_0_0.html	נודע בשערים בעלה, בשבתו עם זקני ארץ	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/dmut_dmut_1436_0.html	תגובה	2006-10-06 14:50:02	2006-10-06 16:46:38	tnk1/messages/dmut_dmut_1436_0_0.html	שאלה על: קהלת	אראל		112
 tnk1/messages/dmut_dmut_173_3.html	תגובה	2006-10-05 13:50:43	2006-10-05 13:50:43	tnk1/messages/convoy.JPG	convoy	רמי ניר		112
 tnk1/messages/dmut_dmut_173_3.html	תגובה	2006-10-07 08:26:30	2006-10-07 08:26:30	tnk1/messages/picture_1012_.pdf	picture 10-12	רמי ניר		112
@@ -431,31 +431,31 @@ tnk1/messages/ljon_sug_EcmMlak_0_0.html	תגובה	2006-10-05 08:42:21	2006-10-0
 tnk1/msr/4jlom.html	דיון1	2019-09-11 04:50:14	2019-09-11 04:52:07	tnk1/nvir/jmuela/ja-30-25.html	חוק חלוקת השלל של דוד המלך	אראל		60
 tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0.html	תגובה	2006-09-28 10:54:23	2006-10-22 23:01:36	tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_0.html	תגובה על "430 שנה לחיי המקדש "	אראל		112
 tnk1/messages/tora_brejit_br-01-03_0.html	תגובה	2005-03-15 14:26:45	2005-03-15 14:26:45	tnk1/messages/tora_brejit_br-01-03_0_0.html	לא על השמש לבדה	אראל		112
-tnk1/messages/tora_brejit_mbul_2.html	תגובה	2005-04-20 11:42:18	2005-04-20 11:42:18	tnk1/messages/tora_brejit_mbul_2_0.html	אתה צודק	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_brejit_mbul_2.html	תגובה	2005-04-20 11:42:18	2005-04-20 11:42:18	tnk1/messages/tora_brejit_mbul_2_0.html	אתה צודק	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/sig_do1_0_0_0_0_0.html	תגובה	2005-06-10 14:02:55	2005-06-15 11:17:24	tnk1/messages/sig_do1_0_0_0_0_0_0.html	תגובה: תגובה ל: תגובה: תגובה ל: אפשרות של חצי פתרון לחידה על מילים בנות 4 אותיות...	אסתי ונריה קליין	esthy_neria @ walla.com	112
 tnk1/messages/prqim_t1018_0.html	תגובה	2005-07-12 10:37:54	2005-07-12 10:37:54	tnk1/messages/prqim_t1018_0_0.html	תגובה ל: תנך בעברית מדוברת	ארנון	naharon @ hotmail.com	112
 tnk1/messages/prqim_t0131_0_0.html	תגובה	2005-03-06 13:20:04	2005-03-06 13:20:04	tnk1/messages/prqim_t0131_0_0_1.html	חלוקה יפה, שאלה	אלחנן (elchananj @ gmail.com)		112
 tnk1/messages/odot_4_3_0_0.html	תגובה	2005-03-29 10:30:06	2005-03-29 10:30:06	tnk1/messages/odot_4_3_0_0_0.html	הבנתי. זה ייקח קצת זמן...	אראל		112
 tnk1/messages/nvir_mlkim_raim_0.html	תגובה	2005-01-05 23:51:54	2005-01-05 23:51:54	tnk1/messages/nvir_mlkim_raim_0_0.html	מסכים	אלכס		112
 tnk1/messages/nvir_mlkim_raim_0.html	תגובה	2005-02-22 04:19:24	2005-02-22 04:19:24	tnk1/messages/nvir_mlkim_raim_0_1.html	תגובה ל: מדוע אחאב נחשב רע מכל אשר לפניו	אני...		112
-tnk1/messages/nvir_xtati_0.html	תגובה	2005-04-03 11:36:42	2005-04-03 11:36:42	tnk1/messages/nvir_xtati_0_0.html	חומרת החטא אינה השיקול היחיד	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_xtati_0.html	תגובה	2005-04-03 11:36:42	2005-04-03 11:36:42	tnk1/messages/nvir_xtati_0_0.html	חומרת החטא אינה השיקול היחיד	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/odot_4_3_0.html	תגובה	2005-03-29 00:05:29	2005-03-29 10:30:06	tnk1/messages/odot_4_3_0_0.html	תגובה ל: אכיפה	צחור		112
 tnk1/messages/odot_4_3_0.html	תגובה	2005-03-29 10:15:22	2005-03-29 10:15:22	tnk1/messages/odot_4_3_0_1.html	תגובה ל: אכיפה	אור-לי מחוז תל אביב		112
 tnk1/messages/odot_4_3_0.html	תגובה	2005-03-29 21:04:46	2005-03-30 16:44:42	tnk1/messages/odot_4_3_0_2.html	תגובה ל: אכיפה	אלכס		112
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_1.html	תגובה	2005-03-19 20:35:21	2005-03-19 20:35:21	tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_1_0.html	איך אתה יודע מה הפשט?	אראל		112
-tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0.html	תגובה	2005-04-11 13:33:12	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0.html	במה חטאו ישראל בזמן המפקד	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/nvia_yrmyhu_yr-0922-1018_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/nvia_yrmyhu_yr-0922-1018_0_1.html	פסלים בימינו	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0.html	תגובה	2005-04-11 13:33:12	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0.html	במה חטאו ישראל בזמן המפקד	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/nvia_yrmyhu_yr-0922-1018_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/nvia_yrmyhu_yr-0922-1018_0_1.html	פסלים בימינו	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_xgg_0.html	תגובה	2005-03-03 13:38:51	2005-03-03 14:35:05	tnk1/messages/ljon_jorj_xgg_0_0.html	תגובה ל: חג / חג	צחור		112
 tnk1/messages/ljon_jorj_xgg_0.html	תגובה	2005-03-03 18:10:06	2005-03-03 18:45:18	tnk1/messages/ljon_jorj_xgg_0_1.html	רגל = פעם , 3 רגלים = 3 פעמים	אביתר כהן		112
 tnk1/messages/ljon_jorj_nxj3_1_1.html	תגובה	2005-08-10 19:05:44	2005-08-10 19:05:44	http://www.herzog.ac.il/main/megadim/1ofer.html	מאמר: משרש נחש יצא צפע	יוסף עופר (מגדים)		112
 tnk1/messages/ljon_jorj_nxj3_1_1.html	תגובה	2005-08-10 19:46:42	2005-08-10 19:46:42	tnk1/messages/ljon_jorj_nxj3_1_1_0.html	תגובה ל: ישי = נחש	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ljon_jorj_gml3_0.html	תגובה	2005-08-14 22:20:24	2005-10-16 00:06:03	tnk1/messages/ljon_jorj_gml3_0_0.html	תגובה ל: מאמר: שמות הגמל במקרא	ארנון		112
 tnk1/messages/ktuv_thlim_th-119l_0_0_0.html	תגובה	2005-05-09 22:00:50	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0.html	תגובה ל: תגובה ל: לעולם	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_thlim_th-119l_0_0_0.html	תגובה	2005-05-10 09:28:42	2005-05-10 10:52:56	tnk1/messages/ktuv_thlim_th-119l_0_0_0_1.html	הוא לא כתב "עד סוף ימי"	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_thlim_th-119l_0_0_0.html	תגובה	2005-05-10 09:28:42	2005-05-10 10:52:56	tnk1/messages/ktuv_thlim_th-119l_0_0_0_1.html	הוא לא כתב "עד סוף ימי"	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mgilot_6seorin_0.html	תגובה	2005-03-20 20:51:19	2005-03-20 20:51:19	tnk1/messages/ktuv_mgilot_6seorin_0_0.html	הפוסל - במומו פוסל	אראל		112
 tnk1/messages/kma_qjrim2_mnhigut_mje_0.html	תגובה	2005-05-04 12:46:16	2005-05-04 12:46:16	tnk1/messages/kma_qjrim2_mnhigut_mje_0_0.html	תגובה ל: ערעור על מנהיגותו של משה	עופר		112
 tnk1/messages/kma_qjrim1_stn_0.html	תגובה	2005-06-01 18:15:19	2005-06-01 18:15:19	tnk1/messages/kma_qjrim1_stn_0_0.html	דנה יש לך טעות קטנה	רועי מעודה		112
-tnk1/messages/kma_qjrim1_stn_0.html	תגובה	2005-06-02 10:19:37	2006-03-28 15:46:10	tnk1/messages/kma_qjrim1_stn_0_1.html	זה עדיין לא אומר שהשטן הוא רע מוחלט	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_stn_0.html	תגובה	2005-06-02 10:19:37	2006-03-28 15:46:10	tnk1/messages/kma_qjrim1_stn_0_1.html	זה עדיין לא אומר שהשטן הוא רע מוחלט	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ezor_ToknLfiEzorYrujlym_0.html	תגובה	2005-12-25 03:05:17	2005-12-25 03:05:17	tnk1/messages/ezor_ToknLfiEzorYrujlym_0_0.html	תגובה ל: שערי ירושלים	יסמין	jasminenissan @ hotmail.com	112
 tnk1/messages/dmut_dmut_654_1.html	תגובה	2005-05-31 22:46:37	2007-02-05 10:25:02	tnk1/messages/dmut_dmut_654_1_0.html	פרוש השם מיכל	דינה		112
 tnk1/messages/dmut_dmut_301_0_1.html	תגובה	2005-03-28 23:36:53	2011-09-25 03:00:59	tnk1/messages/dmut_dmut_301_0_1_0.html	בנות צלופחד בנחלת מנשה	אראל		112
@@ -489,16 +489,16 @@ tnk1/messages/ljon_sug_LjonJela_0.html	תגובה	2006-09-27 11:27:56	2006-09-27
 tnk1/messages/ljon_sug_EcmMlak_0_0_0.html	תגובה	2006-10-05 09:18:44	2006-10-07 21:08:01	tnk1/messages/ljon_sug_EcmMlak_0_0_0_0.html	תגובה על: תגובה על: איך משיגים את הספר?	רמי ניר		112
 tnk1/messages/ktuv_mjly_rj_tm_0.html	תגובה	2005-09-12 17:02:12	2005-09-12 17:02:12	tnk1/messages/ktuv_mjly_rj_tm_0_0.html	תגובה ל: חוכמת-חיים תמצא אצל הדל, לא אצל מי שחושב שהוא חכם	ארנון	naharon @ hotmail.com	112
 tnk1/messages/odot_0.html	תגובה	2006-10-25 21:20:05	2014-03-26 03:46:36	tnk1/messages/odot_0_5.html	תגובה על: עזרה בהכנת שיעורי בית בתנך עם "מוסר למידה"...	רמי ניר		112
-tnk1/messages/nvir_jmuela_ja-03-01_0.html	תגובה	2005-09-10 22:45:12	2005-09-10 22:45:12	tnk1/messages/nvir_jmuela_ja-03-01_0_0.html	פרץ - נפרץ	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/nvir_jmuela_ja-03-01_0.html	תגובה	2005-09-10 22:45:12	2005-09-10 22:45:12	tnk1/messages/nvir_jmuela_ja-03-01_0_0.html	פרץ - נפרץ	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim1_pdqewn_0_0.html	תגובה	2005-09-08 16:30:38	2005-09-08 20:04:06	tnk1/messages/kma_qjrim1_pdqewn_0_0_0.html	תגובה ל: ניסיון חיים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_0.html	תגובה	2006-09-28 14:24:02	2006-10-22 23:01:36	tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_0_0.html	תגובה על: תגובה על 430 שנה לחיי המקדש	רמי ניר		111
 tnk1/messages/tora_brejit_meorot_0_0_0_0.html	תגובה	2005-03-18 08:05:44	2005-03-19 22:10:48	tnk1/messages/tora_brejit_meorot_0_0_0_0_0.html	מאור גדול ומאור קטון	אראל		112
 tnk1/messages/sofrim_zuckm_31_1.html	תגובה	2005-07-02 22:37:32	2005-07-02 22:37:32	tnk1/messages/sofrim_zuckm_31_1_0.html	תגובה ל: תגובה: לא תחנם - האמנם? - עיוות העובדות	ידידה	yedidabigman @ yahoo.com	112
 tnk1/messages/sofrim_zuckm_31_1.html	תגובה	2005-07-03 00:23:17	2005-07-03 00:23:17	tnk1/messages/sofrim_zuckm_31_1_1.html	אשרינו מה טוב חלקנו!	קובי(תל אביב)		112
 tnk1/messages/sig_diff_0_0.html	תגובה	2005-06-02 18:33:56	2005-06-02 18:33:56	tnk1/messages/sig_diff_0_0_0.html	תגובה ל: תגובה ל: תוספת ל: פירושים על הבדלים בין פסוקים או פרשות	מוטי אהרוני		112
-tnk1/messages/prqim_t08a15_1_0.html	תגובה	2005-03-31 19:16:09	2017-03-09 14:29:07	tnk1/tora/dvrim/amlq.html	במאמר זה אספתי כמה תשובות	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/prqim_t08a15_1_0.html	תגובה	2005-03-31 19:16:09	2017-03-09 14:29:07	tnk1/tora/dvrim/amlq.html	במאמר זה אספתי כמה תשובות	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/prqim_t08a15_1_0.html	תגובה	2005-04-01 11:43:52	2005-04-01 11:43:52	tnk1/messages/prqim_t08a15_1_0_0.html	תגובה ל: תגובה ל: 3: מדוע ציווה שמואל על שאול להרוג את בהמותיהם של עמלק?	ארנון	naharon @ hotmail.com	112
-tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0.html	תגובה	2005-04-03 13:53:43	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0.html	ניסים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0.html	תגובה	2005-04-03 13:53:43	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0.html	ניסים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0.html	תגובה	2005-04-03 19:02:46	2005-04-04 19:03:53	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1.html	המדענים יודעים שהם לא יודעים (לכל היותר)	רועי מעודה	mauda_roi @ walla.co.il	112
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0.html	תגובה	2005-03-29 03:55:28	2005-03-29 03:55:28	tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0_0.html	אליהו - איש של אש ושל רוח	יהודה		112
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0.html	תגובה	2005-04-01 02:21:02	2005-04-11 13:44:58	tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0_2.html	שאלה: ורוח ה יישאך" לעומת "לא ברוח ה'"	יהודה	holstein @ walla.com	112
@@ -507,8 +507,8 @@ tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2.html	תגובה	2005-03-17 11:09:3
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2.html	תגובה	2005-04-01 10:27:46	2005-04-01 10:27:46	tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_2.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: דיון – מה קרה לאליהו?	ארנון	naharon @ hotmail.com	112
 tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0.html	תגובה	2005-04-10 11:34:15	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0.html	תגובה ל: שוב לא קראת (2)	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_dmut_788_0.html	תגובה	2006-10-18 17:40:41	2006-10-18 19:04:03	tnk1/messages/dmut_dmut_788_0_0.html	לא הבנתי למה היה צריך למרוד	אראל		112
-tnk1/messages/ktuv_mjly_kyusaki_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ktuv_mjly_kyusaki_0_0.html	תגובה ל: תגובה ל: 9: נגד קיוסאקי	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0.html	תגובה	2005-08-14 20:54:12	2006-01-28 19:15:18	tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0_0.html	הוא התכוון לבריאת העולם הטבעי	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mjly_kyusaki_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ktuv_mjly_kyusaki_0_0.html	תגובה ל: תגובה ל: 9: נגד קיוסאקי	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0.html	תגובה	2005-08-14 20:54:12	2006-01-28 19:15:18	tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0_0.html	הוא התכוון לבריאת העולם הטבעי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mgilot_ei-mtnya_1_0.html	תגובה	2005-08-12 11:32:10	2006-01-28 19:15:18	tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0.html	תגובה ל: תגובה ל: שאלה: ספר איכה - סדר וצורה	אלחנן	elchananj @ gmail.com	112
 tnk1/ljon/jorj/jyr.html	הגדרה	2019-07-05 09:20:57	2019-07-11 20:52:01	tnk1/kma/qjrim1/jirxdj.html	שיר חדש = שיר הודיה על החידוש	אראל		60
 tnk1/messages/kma_qjrim1_arc_0_0.html	תגובה	2005-03-24 21:49:14	2005-03-24 21:49:14	tnk1/messages/kma_qjrim1_arc_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: ארץ = גוף שרץ ומסתובב	דוד צוראל		112
@@ -544,11 +544,11 @@ tnk1/messages/ljon_sug_EcmMlak_0.html	תגובה	2006-10-05 07:32:08	2006-10-07 
 tnk1/messages/ljon_sug_EcmMlak_0.html	תגובה	2006-10-08 17:05:05	2006-10-08 19:27:16	tnk1/messages/ljon_sug_EcmMlak_0_1.html	איך ידע יוסף את שמו של המלאך?	אראל		112
 tnk1/messages/ljon_sug_EcmMlak_0.html	תגובה	2006-10-08 21:20:24	2006-10-08 21:23:10	tnk1/messages/ljon_sug_EcmMlak_0_2.html	תגובה על: האיש שעמו נאבק יעקב - בכתובת מצרית	רמי ניר		112
 tnk1/messages/ljon_sug_EcmMlak_0.html	תגובה	2006-10-22 17:39:25	2006-10-22 20:10:19	tnk1/messages/ljon_sug_EcmMlak_0_3.html	שאלה על: האיש שעמו נאבק יעקב - בכתובת מצרית	יהודה		112
-tnk1/messages/kma_qjrim1_ecb_0.html	תגובה	2005-09-21 12:15:42	2005-09-21 12:15:42	tnk1/messages/kma_qjrim1_ecb_0_0.html	תודה, תיקנתי	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/kma_qjrim1_ecb_0.html	תגובה	2005-09-21 12:15:42	2005-09-21 12:15:42	tnk1/messages/kma_qjrim1_ecb_0_0.html	תודה, תיקנתי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/dmut_dmut_154_2_0.html	תגובה	2006-10-06 10:00:33	2015-06-02 21:00:53	tnk1/messages/dmut_dmut_154_2_0_0.html	תגובה על: שאלה על: חצרון וחמול	רמי ניר		112
 tnk1/messages/sig_9jir_3.html	תגובה	2006-10-16 08:53:26	2006-10-18 18:49:36	tnk1/messages/sig_9jir_3_0.html	תגובה על: ויהי בישורון מלך	אראל		112
 tnk1/messages/ezor_ToknLfiEzorMym_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ezor_ToknLfiEzorMym_0_0.html	הסברים שונים	אלכס		112
-tnk1/messages/ktuv_mjly_kyusaki_1.html	תגובה	2005-09-10 21:32:10	2005-09-15 12:27:54	tnk1/messages/ktuv_mjly_kyusaki_1_0.html	הכנסה פאסיבית - מאיפה היא באה?	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_kyusaki_1.html	תגובה	2005-09-10 21:32:10	2005-09-15 12:27:54	tnk1/messages/ktuv_mjly_kyusaki_1_0.html	הכנסה פאסיבית - מאיפה היא באה?	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/prqim_t1217_1_0_0.html	תגובה	2006-10-02 18:52:33	2016-08-15 20:07:00	tnk1/ljon/new.html	והנה עוד כמה...	אראל		112
 tnk1/messages/dmut_dmut_154_2.html	תגובה	2006-10-06 08:42:35	2006-10-06 10:00:33	tnk1/messages/dmut_dmut_154_2_0.html	שאלה על: חצרון וחמול	אראל		112
 tnk1/messages/dmut_dmut_154_2.html	תגובה	2006-10-18 19:55:25	2006-10-18 21:14:35	tnk1/messages/dmut_dmut_154_2_1.html	איך קבעת מי נולד בכנען ומי נולד במצרים?	אראל		112
@@ -558,22 +558,22 @@ tnk1/messages/prqim_t1304_0.html	תגובה	2006-01-19 17:09:05	2006-01-19 17:09
 tnk1/messages/prqim_t0521_0.html	תגובה	2005-03-01 18:11:13	2005-03-01 18:11:13	tnk1/messages/prqim_t0521_0_0.html	תגובה ל: על בכורה ובחירה	רפאל שחורי	raphael_schory @ walla.co.il	112
 tnk1/messages/prqim_t0521_0.html	תגובה	2005-05-30 12:33:26	2005-05-30 12:33:26	tnk1/messages/prqim_t0521_0_1.html	תגובה ל: על בכורה ובחירה	מוטי אהרוני		112
 tnk1/messages/odot_4_3_0_2.html	תגובה	2005-03-30 14:31:12	2005-03-30 14:31:12	tnk1/messages/odot_4_3_0_2_0.html	תגובה ל: תגובה ל: אכיפה	אריאל		112
-tnk1/messages/odot_4_3_0_2.html	תגובה	2005-03-30 16:44:42	2005-03-30 16:44:42	tnk1/messages/odot_4_3_0_2_1.html	שינוי מאמרים של אחרים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/odot_4_3_0_2.html	תגובה	2005-03-30 16:44:42	2005-03-30 16:44:42	tnk1/messages/odot_4_3_0_2_1.html	שינוי מאמרים של אחרים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_mlkimb_mb-12_0.html	תגובה	2004-12-29 16:21:40	2005-01-10 20:04:38	tnk1/messages/nvir_mlkimb_mb-12_0_0.html	בנק של חסד	אראל		112
 tnk1/messages/ktuv_mjly_mj-31-12_0_1_1_0.html	תגובה	2005-03-30 15:48:53	2005-03-30 15:48:53	tnk1/messages/ktuv_mjly_mj-31-12_0_1_1_0_0.html	טוב, די...!	נריה קליין!!!		112
 tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	תגובה	2005-04-14 12:47:28	2005-04-20 20:13:08	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0_0.html	תגובה ל: תגובה ל: סברות כרס	רועי מעודה		112
-tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	תגובה	2005-04-14 13:35:31	2016-10-20 11:53:42	tnk1/ktuv/ewn/sukot.html	סוכות מיהושע עד נחמיה	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	תגובה	2005-04-14 13:35:31	2016-10-20 11:53:42	tnk1/ktuv/ewn/sukot.html	סוכות מיהושע עד נחמיה	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1254840_1.html	ספר התורה בימי יאשיהו	GT26	דרישת האלהים באמצעות חקר המקרא	112
 tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	תגובה	2005-04-14 14:47:38	2005-04-14 14:47:38	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0_1.html	חוסר אמינות	אראל		112
-tnk1/messages/ktuv_mjly_mj-30-3233_0.html	תגובה	2005-07-31 02:24:50	2005-07-31 02:24:50	tnk1/messages/ktuv_mjly_mj-30-3233_0_0.html	בשביל זה קמה תנועת המוסר...	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_mjly_mj-10-04_0.html	תגובה	2005-08-17 11:44:38	2005-08-17 11:44:38	tnk1/messages/ktuv_mjly_mj-10-04_0_0.html	תגובה ל: תגובה ל: 4: לא להרגיל את הידיים למרמה	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-30-3233_0.html	תגובה	2005-07-31 02:24:50	2005-07-31 02:24:50	tnk1/messages/ktuv_mjly_mj-30-3233_0_0.html	בשביל זה קמה תנועת המוסר...	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_mjly_mj-10-04_0.html	תגובה	2005-08-17 11:44:38	2005-08-17 11:44:38	tnk1/messages/ktuv_mjly_mj-10-04_0_0.html	תגובה ל: תגובה ל: 4: לא להרגיל את הידיים למרמה	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/prqim_kotrot_0.html	תגובה	2006-09-26 13:41:12	2006-09-26 13:41:12	tnk1/messages/prqim_kotrot_0_0.html	תגובה על: שבעת המינים בראי הרחובות	צחור		112
 tnk1/prqim/t0325.htm	מאמר	2009-05-15 05:05:36	2009-05-15 05:05:36	tnk1/messages/prqim_t0325_3.html	תוספת ל: ויקרא כה	חגי הופר		60
 tnk1/prqim/t0216.htm	מאמר	2009-05-15 08:30:18	2009-05-15 08:30:18	tnk1/messages/prqim_t0216_3.html	(כ"ב אייר ב/תרס"ט) יהוה נתן את השבת	רמי ניר		60
-tnk1/messages/klli_mdrjim_xte_dwd_1_0.html	תגובה	2005-09-23 17:39:34	2005-09-23 17:39:34	tnk1/messages/klli_mdrjim_xte_dwd_1_0_0.html	כולם מסכימים שדוד חטא ושאסור לעשות זאת	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/klli_mdrjim_xte_dwd_1_0.html	תגובה	2005-09-23 17:39:34	2005-09-23 17:39:34	tnk1/messages/klli_mdrjim_xte_dwd_1_0_0.html	כולם מסכימים שדוד חטא ושאסור לעשות זאת	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/dmut_dmut_1092_0_1.html	תגובה	2005-06-02 16:44:24	2005-06-02 22:37:23	tnk1/messages/dmut_dmut_1092_0_1_0.html	אתה מתבלבל בין חזקיהו ליחזקאל	יחיאל	yechielbach @ walla.com	112
 tnk1/messages/dmut_dmut_1092_0_1.html	תגובה	2005-06-02 23:39:40	2005-06-02 23:39:40	tnk1/messages/dmut_dmut_1092_0_1_1.html	תגובה: תגובה ל: רבשקה - יהודי לשעבר	דוד צוראל	DMTsurel @ gmail.com	112
-tnk1/messages/dmut_out_0.html	תגובה	2005-08-22 00:29:09	2005-08-22 00:29:09	tnk1/messages/dmut_out_0_0.html	נכון	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/dmut_out_0.html	תגובה	2005-08-22 00:29:09	2005-08-22 00:29:09	tnk1/messages/dmut_out_0_0.html	נכון	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ToknLfiSgnonDmyonSipur_0_1_0.html	תגובה	2004-12-12 15:24:40	2004-12-20 10:46:52	tnk1/messages/ToknLfiSgnonDmyonSipur_0_1_0_0.html	תשובה לשרה	צחור		112
 tnk1/messages/5871.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/5876.html	תשובה			112
 tnk1/messages/5871.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/5877.html	ואני לא נשמע רציני........... [לת]			112
@@ -601,7 +601,7 @@ tnk1/messages/2638.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/
 tnk1/forums.html	בסיס	2011-05-29 11:41:49	2011-05-29 11:41:49	tnk1/messages/forums_289.html	חשיבותה של ירושלים- כיצד?/ אהובה קליין	אהובה קליין		60
 tnk1/messages/1558.html	תגובה	0000-00-00 00:00:00	2007-05-24 08:14:27	tnk1/messages/2156.html	קושי			112
 tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1_0.html	תגובה	2005-04-03 22:05:40	2005-04-03 22:05:40	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1_0_0.html	לפחות בדבר אחד הודית לי	רועי מעודה	mauda_roi @ walla.co.il	112
-tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1_0.html	תגובה	2005-04-04 19:03:53	2005-04-04 19:03:53	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_0.html	הארכיאולוגים ואתה	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1_0.html	תגובה	2005-04-04 19:03:53	2005-04-04 19:03:53	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0_0.html	הארכיאולוגים ואתה	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_bmdbr_my_mriva_1_0_1.html	תגובה	0000-00-00 00:00:00	2005-09-26 13:23:13	tnk1/messages/tora_bmdbr_my_mriva_1_0_1_0.html	תגובה ל: תגובה ל: תגובה: תגובה ל: הפירוש ה1001 לחטאם של משה ואהרן	יהודה		112
 tnk1/messages/ktuv_mgilot_tklt_avrhm_jtrot_0_0_0.html	תגובה	2006-10-22 23:01:36	2006-10-22 23:01:36	tnk1/messages/AWTWT_JMYM.pdf	אותות שמים	רמי ניר		112
 tnk1/prqim/t0102.htm	בסיס	2010-06-07 05:21:26	2010-06-07 05:36:54	tnk1/messages/prqim_t0102_7.html	אפלטון והתנ"ך: הבריאה	חגי הופר		60
@@ -623,7 +623,7 @@ tnk1/ljon/jorj/bwz.html	דיון1	2007-06-20 23:24:06	2018-12-23 15:03:03	tnk1/k
 tnk1/odot.html	מאמר	2007-06-21 02:04:39	2007-06-21 02:04:39	tnk1/stats.html	נתונים מספריים על האתר	אראל		60
 tnk1/ljon/jorj/bzh.html	דיון1	2007-06-22 07:38:02	2007-06-22 07:38:02	tnk1/ktuv/mjly/mj-19-16.html	שומר מצוה - שומר נפשו, בוזה דרכיו - ימות	אראל		10
 tnk1/messages/prqim_t0213_0_0.html	תגובה	2005-04-13 18:30:18	2005-04-13 18:30:18	tnk1/messages/prqim_t0213_0_0_0.html	תגובה ל: הקרבת בכורות הבהמות	ארנון	naharon @ hotmail.com	112
-tnk1/messages/prqim_t0136_0_0.html	תגובה	2005-03-31 08:28:18	2020-09-16 04:24:22	tnk1/klli/mdrjim/yaqv_wesw.html	בקשר למדרשי חז"ל על עשו	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/prqim_t0136_0_0.html	תגובה	2005-03-31 08:28:18	2020-09-16 04:24:22	tnk1/klli/mdrjim/yaqv_wesw.html	בקשר למדרשי חז"ל על עשו	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_joftim_gideon_mqomot_0.html	תגובה	2005-04-12 15:16:37	2005-04-12 15:16:37	tnk1/messages/nvir_joftim_gideon_mqomot_0_0.html	תגובה ל: גבעת המורֶה	אבי (avil770 @ walla.com)		112
 tnk1/messages/nvir_joftim_gideon_mqomot_0.html	תגובה	2005-05-23 22:14:09	2005-05-23 22:14:09	tnk1/messages/nvir_joftim_gideon_mqomot_0_1.html	תגובה ל: גבעת המורֶה	רפי חתוכה	rh44 @ zahav.net.il	112
 tnk1/ljon/jorj/jpf.html	הגדרה	2007-04-25 02:19:21	2007-04-25 06:49:03	tnk1/kma/qjrim1/mjpt.html	הגדרה: משפט = א. חוק בין אדם לחברו; ב. תהליך שמטרתו לברר מי צודק; ג. מנהג קבוע	אראל		1
@@ -635,8 +635,8 @@ tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_1.html	תגובה	2005-05-13 17:42:58	2
 tnk1/messages/ktuv_mjly_lv_xjv_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ktuv_mjly_lv_xjv_0_0.html	תגובה ל: תגובה ל: מחשבות בלב איש, ועצת ה	אלכס		112
 tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0_0.html	תגובה	2005-04-12 18:31:03	2005-04-12 18:31:03	tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: אחשוורוש - חכם, טיפש או הפכפך?	ארנון	naharon @ hotmail.com	112
 tnk1/messages/kma_qjrim1_stn_0_1.html	תגובה	2005-07-27 18:19:50	2006-03-28 15:46:10	tnk1/messages/kma_qjrim1_stn_0_1_0.html	תגובה ל: זה עדיין לא אומר שהשטן הוא רע מוחלט	דנה, תנך...		112
-tnk1/messages/klli_limud_emu_1_2_0_1_0_0.html	תגובה	2005-05-11 06:23:19	2005-05-11 06:23:19	tnk1/messages/klli_limud_emu_1_2_0_1_0_0_0.html	אם הסיסמה נכונה - התגובות מתפרסמות אוטומטית	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/klli_limud_emu_1_2_0_1.html	תגובה	2005-05-11 04:49:21	2005-05-11 06:23:19	tnk1/messages/klli_limud_emu_1_2_0_1_0.html	אני מושפע מהפסוק "חצות לילה אקום להודות..."	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_limud_emu_1_2_0_1_0_0.html	תגובה	2005-05-11 06:23:19	2005-05-11 06:23:19	tnk1/messages/klli_limud_emu_1_2_0_1_0_0_0.html	אם הסיסמה נכונה - התגובות מתפרסמות אוטומטית	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/klli_limud_emu_1_2_0_1.html	תגובה	2005-05-11 04:49:21	2005-05-11 06:23:19	tnk1/messages/klli_limud_emu_1_2_0_1_0.html	אני מושפע מהפסוק "חצות לילה אקום להודות..."	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/dmut_dmut_1092_0_0.html	תגובה	2005-06-02 13:06:35	2005-06-02 22:20:33	tnk1/messages/dmut_dmut_1092_0_0_0.html	ארנון מה זה אמור להיות?	רועי מעודה		112
 tnk1/messages/dmut_dmut_1092_0_0.html	תגובה	2005-06-02 20:44:11	2005-06-02 20:44:11	tnk1/messages/dmut_dmut_1092_0_0_1.html	איך אתה יודע?	אלכס		112
 tnk1/messages/dmut_dmut_1092_0_0.html	תגובה	2005-06-04 10:22:43	2005-06-04 10:22:43	tnk1/messages/dmut_dmut_1092_0_0_2.html	תגובה ל: תגובה ל: רבשקה - יהודי לשעבר	מוטי אהרוני		112
@@ -693,12 +693,12 @@ tnk1/messages/1229.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/
 tnk1/messages/dmut_dmut_173_3_0.html	תגובה	2006-10-08 14:46:57	2007-03-06 01:13:06	tnk1/messages/dmut_dmut_173_3_0_0.html	תגובה על: תגובה על: תגובה על: יוסף בן יעקב	רמי ניר		112
 tnk1/messages/dmut_dmut_1331_1_0.html	תגובה	2006-10-13 16:02:30	2006-10-15 15:13:14	tnk1/messages/dmut_dmut_1331_1_0_0.html	תגובה על: תגובה על: תגובה על: דניאל	רמי ניר		112
 tnk1/messages/prqim_t0533_0_0.html	תגובה	2006-10-08 20:50:24	2006-10-08 20:50:24	tnk1/messages/prqim_t0533_0_0_0.html	תגובה על: זה נוסח הכתיב	רמי ניר		112
-tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1.html	תגובה	2005-09-21 19:32:09	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0.html	הבדיחה היא שלך, לא שלי	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1.html	תגובה	2005-09-21 19:32:09	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0.html	הבדיחה היא שלך, לא שלי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/dmut_dmut_1331_1_0_0_0.html	תגובה	2006-10-15 15:13:14	2006-10-15 15:13:14	tnk1/messages/dmut_dmut_1331_1_0_0_0_0.html	תגובה על: תגובה על: תגובה על: תגובה על: תגובה על: דניאל	רמי ניר		112
 tnk1/messages/ljon_sug_EcmMlak_0_1_0.html	תגובה	2006-10-08 19:27:16	2006-10-08 19:27:16	tnk1/messages/ljon_sug_EcmMlak_0_1_0_0.html	תגובה על: תגובה על: איך ידע יוסף את שמו של המלאך?	רמי ניר		112
 tnk1/messages/ljon_sug_EcmMlak_0_0_0_0_0.html	תגובה	2006-10-07 21:08:01	2006-10-07 21:08:01	tnk1/messages/ljon_sug_EcmMlak_0_0_0_0_0_0.html	תגובה על: תגובה על: תגובה על: תגובה על: איך משיגים את הספר?	רמי ניר		112
 tnk1/messages/dmut_dmut_1331_1_0_0.html	תגובה	2006-10-15 11:54:22	2006-10-15 15:13:14	tnk1/messages/dmut_dmut_1331_1_0_0_0.html	תגובה על: תגובה על: תגובה על: תגובה על: דניאל	איתי קגן		112
-tnk1/messages/ktuv_mjly_mj-22-2223_1.html	תגובה	2005-09-12 23:15:41	2005-09-12 23:15:41	tnk1/ktuv/mjly/mj-22-22.html	לא לגזול מצוות	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-22-2223_1.html	תגובה	2005-09-12 23:15:41	2005-09-12 23:15:41	tnk1/ktuv/mjly/mj-22-22.html	לא לגזול מצוות	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mjly_kyusaki_1_0.html	תגובה	2005-09-15 12:17:14	2005-09-15 12:27:54	tnk1/messages/ktuv_mjly_kyusaki_1_0_0.html	תגובה	דרור		112
 tnk1/messages/dmut_dmut_1041_2_0_1.html	תגובה	2005-09-07 10:02:04	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1_0.html	תגובה ל: תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_mj-21-01_0_1.html	תגובה	2006-10-12 16:26:23	2006-10-12 16:26:23	tnk1/messages/ktuv_mjly_mj-21-01_0_1_0.html	תגובה על: אולי הבחירה החופשית היא במידה שבה הולכים בכיוון שה קבע	רמי ניר		112
@@ -706,10 +706,10 @@ tnk1/messages/ljon_sug_EcmMlak_0_2.html	תגובה	2006-10-08 21:23:10	2006-10-0
 tnk1/messages/prqim_t0533_0.html	תגובה	2006-10-08 16:58:18	2006-10-08 20:50:24	tnk1/messages/prqim_t0533_0_0.html	זה נוסח הכתיב	אראל		112
 tnk1/messages/dmut_dmut_1436_0_0.html	תגובה	2006-10-06 16:46:38	2006-10-06 16:46:38	tnk1/messages/dmut_dmut_1436_0_0_0.html	תגובה על: שאלה על: קהלת	רמי ניר		112
 tnk1/messages/kma_qjrim1_bqj_0.html	תגובה	2006-10-17 22:18:38	2007-02-18 05:06:26	tnk1/messages/kma_qjrim1_bqj_0_0.html	אז מה המסקנה המעשית?	אראל		112
-tnk1/messages/tora_brejit_mbul_1.html	תגובה	2005-04-20 08:06:59	2005-04-20 08:06:59	tnk1/messages/tora_brejit_mbul_1_0.html	תיקנתי [לת]	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_brejit_mbul_1.html	תגובה	2005-04-20 08:06:59	2005-04-20 08:06:59	tnk1/messages/tora_brejit_mbul_1_0.html	תיקנתי [לת]	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim2_tjuvt_dwd_svl_1.html	תגובה	2006-10-18 21:13:39	2006-10-19 21:17:07	tnk1/messages/kma_qjrim2_tjuvt_dwd_svl_1_0.html	דוד לא ידע מי האישה?	אראל		112
 tnk1/messages/tora_jmot_byom_o_blyla_0.html	תגובה	2005-03-16 12:57:08	2012-04-16 09:53:05	tnk1/messages/tora_jmot_byom_o_blyla_0_0.html	430	אראל		112
-tnk1/messages/prqim_t0213_0.html	תגובה	2005-04-13 11:44:24	2005-04-13 18:30:18	tnk1/messages/prqim_t0213_0_0.html	הקרבת בכורות הבהמות	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/prqim_t0213_0.html	תגובה	2005-04-13 11:44:24	2005-04-13 18:30:18	tnk1/messages/prqim_t0213_0_0.html	הקרבת בכורות הבהמות	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/prqim_t0123_0.html	תגובה	2005-05-25 08:15:03	2005-05-25 08:15:03	tnk1/kma/qjrim1/aha.html	עם הארץ = קבוצת הרוב	אראל		112
 tnk1/messages/prqim_t0123_0.html	תגובה	2005-05-25 12:14:15	2005-05-25 12:14:15	tnk1/messages/prqim_t0123_0_0.html	תגובה: עם הארץ במל"ב	על-פי ש.ל גרדון		112
 tnk1/messages/nvir_jmuelb_D-jb-12-13_0.html	תגובה	2005-04-27 17:09:28	2006-02-27 22:54:50	tnk1/messages/nvir_jmuelb_D-jb-12-13_0_1.html	תגובה ל: תגובה: חטאו של דוד	ארנון	naharon @ hotmail.com	112
@@ -717,7 +717,7 @@ tnk1/messages/ktuv_thlim_sdryom_1_0_0.html	תגובה	2005-05-09 11:12:05	2005-0
 tnk1/messages/mvcaim_mfrjim_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/messages_mvcaim_mfrjim_0_0.html	תגובה ל: ויקיטקסט			112
 tnk1/messages/mvcaim_mfrjim_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/messages_mvcaim_mfrjim_0_1.html	עוד קישור			112
 tnk1/messages/ljon_jorj_xsd_0_0.html	תגובה	2005-04-03 19:39:52	2005-04-03 19:39:52	tnk1/messages/ljon_jorj_xsd_0_0_0.html	לא נכון	נריה קליין!!!		112
-tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_0.html	תגובה	2005-05-10 10:46:13	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_0_0.html	יפה שיחתן של עבדי אבות	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_0.html	תגובה	2005-05-10 10:46:13	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_0_0.html	יפה שיחתן של עבדי אבות	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-12_0_0.html	תגובה	2005-03-25 13:05:10	2005-03-31 18:45:05	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: גמלתהו טוב ולא רע	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-12_0_0.html	תגובה	2005-03-30 21:31:04	2006-09-28 15:20:45	tnk1/messages/ktuv_mjly_mj-31-12_0_0_1.html	תגובה ל: תגובה ל: תגובה ל: גמלתהו טוב ולא רע	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_axrim_2.html	תגובה	2005-04-07 20:49:03	2005-04-07 20:49:03	tnk1/messages/ktuv_mjly_axrim_2_0.html	לצחור	אלכס		112
@@ -769,7 +769,7 @@ tnk1/messages/kma_qjrim1_bqj_0_0.html	תגובה	2006-10-17 23:04:12	2007-02-18 
 tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0.html	תגובה	2005-03-19 22:07:53	2005-04-13 22:21:37	tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0.html	תגובה ל: עדיף לקרוא לפני שכותבים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_dmut_1041_2_0_1_0_0_0.html	תגובה	2005-09-11 07:11:53	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	יהודה		112
 tnk1/messages/kma_qjrim2_tjuvt_dwd_svl_1_0.html	תגובה	2006-10-18 22:16:32	2006-10-19 21:17:07	tnk1/messages/kma_qjrim2_tjuvt_dwd_svl_1_0_0.html	תגובה על: דוד לא ידע מי האישה?	רמי ניר		112
-tnk1/messages/tora_wyqra_tm01_ofot_0.html	תגובה	2005-04-05 09:29:05	2005-04-05 09:29:05	tnk1/messages/tora_wyqra_tm01_ofot_0_0.html	חיסכון	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_wyqra_tm01_ofot_0.html	תגובה	2005-04-05 09:29:05	2005-04-05 09:29:05	tnk1/messages/tora_wyqra_tm01_ofot_0_0.html	חיסכון	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim2_yciat_mcrym_0_0.html	תגובה	2006-10-20 18:37:37	2006-10-20 18:37:37	tnk1/messages/AWT_HJBT.pdf	אות השבת	רמי ניר		112
 tnk1/messages/tora_dvrim_amlq_0.html	תגובה	2005-01-10 20:00:30	2005-01-10 20:00:30	tnk1/messages/tora_dvrim_amlq_0_0.html	אתה צודק. צריך לחשוב על זה.	אראל		112
 tnk1/messages/tora_dvrim_amlq_0.html	תגובה	2005-01-21 13:49:16	2005-01-21 13:49:16	tnk1/messages/tora_dvrim_amlq_0_1.html	תגובה ל: הסבר לקוי - יש עוד סיבות שגורמות לעם לתקוף.	מנחם הפנר	mhep1 @ bezeqint.net	112
@@ -780,11 +780,11 @@ tnk1/messages/nvir_mlkimb_mb-12_0_0_0.html	תגובה	2005-01-10 20:04:38	2005-0
 tnk1/forums.html	שיר	2011-06-15 14:10:04	2011-06-15 14:10:04	tnk1/messages/forums_295.html	המרגלים וחטאם/ שיר מאת: אהובה קליין (c)	אהובה קליין		60
 tnk1/messages/nvir_mlkima_htxps_0.html	תגובה	2005-05-06 05:52:55	2005-05-11 11:55:45	tnk1/messages/nvir_mlkima_htxps_0_0.html	שאלה: תגובה ל: התחפש ובוא במלחמה	יהודה		112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0.html	תגובה	2005-06-15 18:00:57	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0.html	תגובה ל: התעוררת?!	ארנון	naharon @ hotmail.com	112
-tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0.html	תגובה	2005-04-08 18:25:18	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0.html	שוב לא קראת (2)	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0.html	תגובה	2005-04-08 18:25:18	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0.html	שוב לא קראת (2)	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_dwd_wbt7_0.html	תגובה	2005-02-28 09:38:17	2005-03-06 22:18:56	tnk1/messages/nvir_dwd_wbt7_0_0.html	תגובה ל: איך חזל ניקו את דוד מחטא אשת איש?	אלחנן	elchananj @ gmail.com	112
 tnk1/messages/nvir_dwd_wbt7_0.html	תגובה	2005-03-06 16:55:35	2005-03-07 14:40:21	tnk1/messages/nvir_dwd_wbt7_0_1.html	תגובה ל: איך חזל ניקו את דוד מחטא אשת איש?	עופר לביא		112
 tnk1/messages/nvir_dwd_wbt7_0.html	תגובה	2006-10-22 21:31:51	2006-10-22 21:31:51	tnk1/messages/nvir_dwd_wbt7_0_2.html	תגובה על: איך חזל ניקו את דוד מחטא אשת איש?	נינה פלינט		112
-tnk1/messages/nvia_yxzqel_yom_hacmot_0_0.html	תגובה	2005-03-18 12:47:00	2005-03-18 12:47:00	tnk1/messages/nvia_yxzqel_yom_hacmot_0_0_0.html	על מה אתה מדבר?	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/nvia_yxzqel_yom_hacmot_0_0.html	תגובה	2005-03-18 12:47:00	2005-03-18 12:47:00	tnk1/messages/nvia_yxzqel_yom_hacmot_0_0_0.html	על מה אתה מדבר?	נדב		112
 tnk1/messages/ljon_jorj_mrh_0.html	תגובה	2005-03-01 16:15:48	2005-03-01 16:15:48	tnk1/messages/ljon_jorj_mrh_0_0.html	תגובה ל: מה קרה במרה	רפאל שחורי	raphael_schory @ walla.co.il	112
 tnk1/messages/ljon_jorj_gd_0.html	תגובה	2005-05-09 18:29:33	2005-05-09 18:29:33	tnk1/messages/ljon_jorj_gd_0_0.html	תגובה ל: מאמר: גד = כוסברה	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ljon_jorj_eqr_0.html	תגובה	2005-08-31 01:10:30	2005-08-31 18:47:59	tnk1/messages/ljon_jorj_eqr_0_1.html	תגובה ל: עקרות ולידה ב	דנה, תנך זורם אצלי בדם		112
@@ -793,16 +793,16 @@ tnk1/messages/kma_qjrim1_ptr_rxm_0.html	תגובה	2005-03-01 19:26:42	2005-03-0
 tnk1/messages/kma_qjrim1_rek_0_1.html	תגובה	2004-12-20 16:27:57	2004-12-20 16:27:57	tnk1/messages/kma_qjrim1_rek_0_1_0.html	תגובה ל: ואיך אתה מפרש את זה חסדך את רעך ?! למה לא הלכת את רעך ?	רן	kingofroom @ yahoo.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-21 17:06:44	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: קבל את דבריהם!	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0.html	תגובה	2005-05-08 23:20:33	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0.html	תגובה ל: תגובה ל: תגובה לארנון	רועי מעודה	mauda_roi @ walla.co.il	112
-tnk1/messages/kma_qjrim1_stn_0_1_0.html	תגובה	2005-07-31 09:52:58	2005-07-31 09:52:58	tnk1/klli/limud/ribuy.html	בקשר לשאלה האחרונה (ביקשת לשים את השאר בצד...)	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_stn_0_1_0.html	תגובה	2005-07-31 09:52:58	2005-07-31 09:52:58	tnk1/klli/limud/ribuy.html	בקשר לשאלה האחרונה (ביקשת לשים את השאר בצד...)	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim1_stn_0_1_0.html	תגובה	2005-07-31 14:12:43	2005-07-31 14:12:43	tnk1/messages/kma_qjrim1_stn_0_1_0_0.html	התנ"ך כספר חוקים	רועי מעודה		112
 tnk1/messages/kma_qjrim1_stn_0_1_0.html	תגובה	2006-03-28 15:46:10	2012-04-28 11:44:35	tnk1/ktuv/eyov/1stn.html	תשובתי לשאלה הראשונה	אראל		112
-tnk1/messages/kma_qjrim1_krml_1.html	תגובה	2005-06-23 15:50:58	2005-06-23 16:44:59	tnk1/messages/kma_qjrim1_krml_1_0.html	אבל לפעמים כרמל מנוגד ליער...	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_krml_1.html	תגובה	2005-06-23 15:50:58	2005-06-23 16:44:59	tnk1/messages/kma_qjrim1_krml_1_0.html	אבל לפעמים כרמל מנוגד ליער...	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_qjrim1_jmym_1.html	תגובה	2005-03-29 10:54:34	2005-03-29 10:54:34	tnk1/messages/kma_qjrim1_jmym_1_0.html	תגובה ל: תגובה ל: כמה שמים יש?	אראל		112
-tnk1/messages/kma_qjrim1_arc_0.html	תגובה	2005-03-22 23:12:31	2005-03-24 21:49:14	tnk1/messages/kma_qjrim1_arc_0_0.html	תגובה ל: תגובה ל: ארץ = גוף שרץ ומסתובב	נדב	nachat @ tora.us.fm.antispam	112
-tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0_0.html	תגובה	2005-03-31 14:02:01	2005-03-31 18:43:06	tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0_0_0.html	מאין הידע	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:03:21	2005-03-31 09:03:21	tnk1/tora/brejit/br-01-03.html	יש אור גם בלי שמש	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:03:43	2016-06-13 20:45:54	tnk1/kma/qjrim1/m.html	הירח הוא מאור	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:05:46	2005-03-31 18:43:06	tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0.html	חוק הכלים השלובים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_qjrim1_arc_0.html	תגובה	2005-03-22 23:12:31	2005-03-24 21:49:14	tnk1/messages/kma_qjrim1_arc_0_0.html	תגובה ל: תגובה ל: ארץ = גוף שרץ ומסתובב	נדב		112
+tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0_0.html	תגובה	2005-03-31 14:02:01	2005-03-31 18:43:06	tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0_0_0.html	מאין הידע	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:03:21	2005-03-31 09:03:21	tnk1/tora/brejit/br-01-03.html	יש אור גם בלי שמש	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:03:43	2016-06-13 20:45:54	tnk1/kma/qjrim1/m.html	הירח הוא מאור	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_qjrim1_hiqwut_hmym_0.html	תגובה	2005-03-31 09:05:46	2005-03-31 18:43:06	tnk1/messages/kma_qjrim1_hiqwut_hmym_0_0.html	חוק הכלים השלובים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/odot_4_6.html	תגובה	2005-09-30 11:59:45	2005-09-30 14:53:51	tnk1/messages/odot_4_6_0.html	תגובה ל: כללי הכתיבה באתר	ארנון	naharon @ hotmail.com	112
 tnk1/messages/odot_4_6.html	תגובה	2005-10-03 13:23:44	2005-10-07 08:42:25	tnk1/messages/odot_4_6_1.html	אם אפשר בבקשה	צחור	l_tzahor@walla.co.il	112
 tnk1/messages/kma_hvdlim2_jmot_mlkim_1_0_0.html	תגובה	2005-08-04 11:57:58	2005-08-04 11:57:58	tnk1/messages/kma_hvdlim2_jmot_mlkim_1_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: מאמר יפה	ארנון	naharon @ hotmail.com	112
@@ -856,7 +856,7 @@ tnk1/messages/dmut_dmut_1147_0_0.html	תגובה	2006-10-23 18:45:55	2006-10-23 
 tnk1/messages/sofrim_shlomit_index_0_0.html	תגובה	2006-10-19 14:24:54	2006-10-19 20:25:04	tnk1/messages/sofrim_shlomit_index_0_0_0.html	תגובה על: תגובה על: תגובה על: שלומית אגוזי - תנך בראיה הומניסטית-חילונית	רמי ניר		112
 tnk1/messages/ljon_sug_EcmMlak_0_3.html	תגובה	2006-10-22 20:10:19	2006-10-22 20:10:19	tnk1/messages/ljon_sug_EcmMlak_0_3_0.html	תגובה על: שאלה על: האיש שעמו נאבק יעקב - בכתובת מצרית	רמי ניר		112
 tnk1/messages/ktuv_mgilot_qh-07-07_0_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ktuv_mgilot_qh-07-07_0_0_0.html	תגובה / רמי ניר			112
-tnk1/messages/kma_qjrim1_mlcr_0.html	תגובה	2005-08-31 09:43:34	2005-08-31 09:43:34	http://www.etymonline.com/index.php?term=translate	מקור המלה translate (באתר שימושי ביותר)	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/kma_qjrim1_mlcr_0.html	תגובה	2005-08-31 09:43:34	2005-08-31 09:43:34	http://www.etymonline.com/index.php?term=translate	מקור המלה translate (באתר שימושי ביותר)	נדב		112
 tnk1/messages/tora_brejit_hgr_wsra_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/tora_brejit_hgr_wsra_0_0.html	תגובה ל: תגובה: הגר ושרה - 7 שאלות ותשובות	ארנון	naharon @ hotmail.com	112
 tnk1/messages/sofrim_shlomit_index_0.html	תגובה	2006-10-19 12:34:59	2006-10-19 20:25:04	tnk1/messages/sofrim_shlomit_index_0_0.html	תגובה על: תגובה על: שלומית אגוזי - תנך בראיה הומניסטית-חילונית	שלומית אגוזי	shlomitegozi @ gmail.com	112
 tnk1/messages/tora_brejit_tarikim_0_0.html	תגובה	2005-03-07 19:12:52	2005-03-07 19:12:52	tnk1/messages/tora_brejit_tarikim_0_0_0.html	תגובה ל: תגובה ל: מאמר: תאריכים בספר בראשית	ארנון	naharon @ hotmail.com	112
@@ -870,18 +870,18 @@ tnk1/messages/prqim_t08a02_1_0_0.html	תגובה	2005-06-26 02:16:18	2005-06-26 
 tnk1/messages/prqim_t0101_2.html	תגובה	0000-00-00 00:00:00	2018-03-03 10:03:09	tnk1/tora/brejit/rqia_hjmym.html	שמים = המרחב, היקום	אראל	האתר	112
 tnk1/messages/prqim_t0101_2.html	תגובה	0000-00-00 00:00:00	2005-03-15 14:26:45	tnk1/tora/brejit/br-01-03.html	אור = קרינה אלקטרומגנטית	אראל	האתר	112
 tnk1/messages/prqim_t0101_2.html	תגובה	0000-00-00 00:00:00	2005-03-19 22:10:48	tnk1/messages/tora_brejit_meorot_0.html	מאור = עצם שמאיר לנו, לאו דווקא עצם שיוצר אור	אלמונית	האתר	112
-tnk1/messages/nvir_yhojua_jmj_bgveon_0.html	תגובה	2005-04-03 11:44:09	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0.html	מה המדענים יודעים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_yhojua_jmj_bgveon_0.html	תגובה	2005-04-03 11:44:09	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0.html	מה המדענים יודעים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_mlkimb_yehu_0.html	תגובה	2004-12-09 15:53:13	2004-12-09 15:53:13	tnk1/messages/nvir_mlkimb_yehu_0_0.html	תגובה ל: תגובה ל: יחי המלך יהוא!	תום-ש	tom_shohat @ hotmail.co.il	112
 tnk1/messages/nvir_mlkimb_yehu_0.html	תגובה	2006-01-25 19:48:04	2006-01-25 19:48:04	tnk1/messages/nvir_mlkimb_yehu_0_1.html	תגובה על: מה קרה בחדר האיפור של איזבל	זאביק	zebikz @ walla.co.il	112
 tnk1/nvir/jmuela/ja-02-25.html	תגובה	2007-04-24 12:49:07	2007-04-30 12:54:21	tnk1/messages/nvir_jmuela_ja-02-25_0.html	"ח?ל?יל?ה ל??י כ??י-מ?כ?ב??ד?י א?כ?ב??ד ו?ב?ז?י י?ק?ל?ו?"...	רמי ניר		\N
-tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0.html	תגובה	2005-04-11 13:47:44	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	כבר הוכחת שה"נבואה לאחור" אפשרית	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0.html	תגובה	2005-04-11 13:47:44	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	כבר הוכחת שה"נבואה לאחור" אפשרית	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0.html	תגובה	2005-04-12 15:12:41	2005-04-12 18:31:03	tnk1/messages/ktuv_mgilot_tklt_avrhm_axjwroj_0_0.html	תגובה ל: תגובה ל: אחשוורוש - חכם, טיפש או הפכפך?	נריה ואסתי קליין!!! (eshty_neria @ walla.com)		112
 tnk1/messages/kma_qjrim1_rek_0_0.html	תגובה	2004-12-20 16:25:36	2008-04-03 12:44:42	tnk1/messages/kma_qjrim1_rek_0_0_0.html	תגובה ל: ואיך אתה מפרש את רעך ורע אביך אל תעזוב	רן	kingofroom @ yahoo.com	112
 tnk1/messages/kma_qjrim1_jmym_0.html	תגובה	2005-03-25 00:15:08	2005-03-25 00:15:08	tnk1/messages/kma_qjrim1_jmym_0_0.html	תגובה ל: תגובה ל: כמה שמים יש?	אלחנן	elchananj @ gmail.com	112
 tnk1/messages/klli_mdrjim_yaqv_wesw_0.html	תגובה	2005-03-31 19:36:01	2005-04-01 11:23:34	tnk1/messages/klli_mdrjim_yaqv_wesw_0_0.html	תגובה ל: תגובה ל: למה חזל משמיצים את עשו?!	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_mdrjim_yaqv_wesw_0.html	תגובה	2005-03-31 20:56:29	2005-03-31 20:56:29	tnk1/messages/klli_mdrjim_yaqv_wesw_0_1.html	תגובה ל: תגובה ל: למה חזל משמיצים את עשו?!	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_mdrjim_yaqv_wesw_0.html	תגובה	2005-04-01 11:49:50	2005-04-03 11:35:21	tnk1/messages/klli_mdrjim_yaqv_wesw_0_2.html	תגובה ל: תגובה ל: למה חזל משמיצים את עשו?!	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_limud_emu_1_0_0_0.html	תגובה	2005-05-10 10:43:15	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים (2)	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_limud_emu_1_0_0_0.html	תגובה	2005-05-10 10:43:15	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים (2)	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_limud_emu_1_0_0_0.html	תגובה	2005-05-10 22:18:47	2005-05-10 22:18:47	tnk1/messages/klli_limud_emu_1_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: שוב לא קראת	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ljon_jorj_ems_0.html	תגובה	2006-10-26 09:07:33	2006-10-26 09:32:52	tnk1/messages/ljon_jorj_ems_0_0.html	נפץ יד עם קודש = ניפוץ אבן השתיה?!	אראל		112
 tnk1/messages/dmut_dmut_1381_0.html	תגובה	2005-04-27 17:29:07	2010-08-19 12:35:09	tnk1/messages/5457.html	קבוצת אוריגה (עגלון) = ראם (תאו)	אביתר כהן		112
@@ -915,7 +915,7 @@ tnk1/messages/sofrim_shlomit_index_0_0_0.html	תגובה	2006-10-19 20:25:04	200
 tnk1/messages/dmut_dmut_154_2_1.html	תגובה	2006-10-18 21:14:35	2006-10-18 21:14:35	tnk1/messages/dmut_dmut_154_2_1_0.html	תגובה על: איך קבעת מי נולד בכנען ומי נולד במצרים?	רמי ניר		112
 tnk1/messages/dmut_dmut_1041_2_0.html	תגובה	2005-09-06 17:31:42	2005-09-06 17:31:42	tnk1/messages/dmut_dmut_1041_2_0_0.html	תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_dmut_1041_2_0.html	תגובה	2005-09-07 05:09:08	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1.html	תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	יהודה		112
-tnk1/messages/tora_bmdbr_mfqd_bny_ysrel_bprjt_bmdbr_1.html	תגובה	2005-03-29 23:06:35	2005-03-29 23:06:35	tnk1/messages/tora_bmdbr_mfqd_bny_ysrel_bprjt_bmdbr_1_0.html	הרב גפן לא מבקר כאן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_bmdbr_mfqd_bny_ysrel_bprjt_bmdbr_1.html	תגובה	2005-03-29 23:06:35	2005-03-29 23:06:35	tnk1/messages/tora_bmdbr_mfqd_bny_ysrel_bprjt_bmdbr_1_0.html	הרב גפן לא מבקר כאן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_ems_0_0.html	תגובה	2006-10-26 09:32:52	2006-10-26 09:32:52	tnk1/messages/ljon_jorj_ems_0_0_0.html	תגובה על: נפץ יד עם קודש = ניפוץ אבן השתיה?!	רמי ניר		112
 tnk1/klli/mdrjim/agda.html	פירוש	2009-08-24 16:30:02	2017-04-06 07:14:58	tnk1/klli/mdrjim/br-02-18.html	זכה - עזר, לא זכה - כנגדו להילחם	אראל		60
 tnk1/prqim/t0218.htm	מאמר	2009-08-24 23:17:24	2025-04-09 14:56:41	tnk1/messages/prqim_t0218_5.html	רק נביא קדוש יכול לעמוד מול האלהים	מורה לתורה משה דין	daian1 @ 013.net	60
@@ -926,8 +926,8 @@ tnk1/messages/prqim_t08b_0.html	תגובה	2005-03-18 09:39:59	2005-03-18 09:39:
 tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0_0_0.html	תגובה	2005-08-10 08:21:10	2005-08-10 09:54:29	tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0_0_0_0.html	תגובה ל: אולי גדול מאוד	יהודה		112
 tnk1/messages/izru_7_4.html	תגובה	2005-03-10 17:37:39	2005-03-10 17:37:39	tnk1/messages/izru_7_4_0.html		->		112
 tnk1/messages/izru_7_4.html	תגובה	2005-09-30 17:35:20	2005-10-01 20:59:07	tnk1/messages/izru_7_4_1.html	תגובה: תגובה ל: מדור החידות - פוטנציאל מבוזבז...	אלחנן	elchananj @ gmail.com	112
-tnk1/messages/ktuv_mgilot_mg07_0_1_0.html	תגובה	2005-04-11 19:49:26	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0.html	סברות כרס	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/kma_hvdlim1_jma_hqjiv_0.html	תגובה	2005-07-05 20:25:31	2017-11-21 14:21:17	tnk1/messages/kma_hvdlim1_jma_hqjiv_0_0.html	ייתכן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mgilot_mg07_0_1_0.html	תגובה	2005-04-11 19:49:26	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0.html	סברות כרס	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_hvdlim1_jma_hqjiv_0.html	תגובה	2005-07-05 20:25:31	2017-11-21 14:21:17	tnk1/messages/kma_hvdlim1_jma_hqjiv_0_0.html	ייתכן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_hvdlim1_cva_0.html	תגובה	2005-03-28 13:11:51	2005-03-28 13:11:51	tnk1/messages/kma_hvdlim1_cva_0_0.html	תגובה ל: תגובה ל: המתגייסים לצבא	נריה קליין		112
 tnk1/messages/kma_hvdlim1_cva_0.html	תגובה	2005-03-29 12:16:46	2005-03-29 12:16:46	tnk1/messages/kma_hvdlim1_cva_0_1.html	מספרים בספר הנצח	אראל		112
 tnk1/messages/klli_limud_xipus_2.html	תגובה	2006-02-01 18:43:40	2006-02-01 19:13:43	tnk1/messages/klli_limud_xipus_2_0.html	תגובה על: תגובה: מציאת פסוק בתנך	צחור		112
@@ -974,15 +974,15 @@ tnk1/messages/2598.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/
 tnk1/messages/1597.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1623.html	מה זה? (ספר? מאמר?)			112
 tnk1/messages/1597.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1872.html	ספר			112
 tnk1/messages/1531.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	http://www.templeinstitute.org/index.html	תנסה באתר של "מכון המקדש" [חיצוני]			112
-tnk1/messages/nvir_mlkimb_mtnot_1.html	תגובה	2005-10-02 17:28:22	2005-10-02 17:28:22	tnk1/messages/nvir_mlkimb_mtnot_1_0.html	כתוב שם שחזאל הביא לו מנחה	אראל	erelsgl1@tora.us.fm	112
-tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1.html	תגובה	2005-09-22 18:06:55	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1_0.html	מה חושבים הגולשים?	אראל	erelsgl1@tora.us.fm	112
-tnk1/messages/msr_1avoda_0_1_0.html	תגובה	2005-09-14 23:35:57	2005-09-14 23:35:57	tnk1/messages/msr_1avoda_0_1_0_0.html	כן, גם זה ביטוי לעג	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/nvir_mlkimb_mtnot_1.html	תגובה	2005-10-02 17:28:22	2005-10-02 17:28:22	tnk1/messages/nvir_mlkimb_mtnot_1_0.html	כתוב שם שחזאל הביא לו מנחה	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1.html	תגובה	2005-09-22 18:06:55	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1_0.html	מה חושבים הגולשים?	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/msr_1avoda_0_1_0.html	תגובה	2005-09-14 23:35:57	2005-09-14 23:35:57	tnk1/messages/msr_1avoda_0_1_0_0.html	כן, גם זה ביטוי לעג	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_brejit_tarikim_1.html	תגובה	2005-03-13 00:14:32	2014-04-12 15:48:09	tnk1/prqim/t01.htm	שמתי טבלה בדף הראשי של ספר בראשית	אראל		112
 tnk1/messages/tora_brejit_br-09-2027_0.html	תגובה	2006-11-05 07:21:57	2006-11-05 07:53:23	tnk1/messages/tora_brejit_br-09-2027_0_0.html	שאלה על: תגובה על: חם חטא וכנען נענש	יהודה		112
 tnk1/messages/tora_brejit_br-09-2027_0_0.html	תגובה	2006-11-05 07:53:23	2006-11-05 07:53:23	tnk1/messages/tora_brejit_br-09-2027_0_0_0.html	תגובה על: שאלה על: תגובה על: חם חטא וכנען נענש	רמי ניר		112
 tnk1/messages/tora_brejit_br-09-2027_1.html	תגובה	2006-11-06 03:13:02	2006-11-06 13:13:18	tnk1/messages/tora_brejit_br-09-2027_1_0.html	אראל , הסיסמא האישית שלי לא נקלטת.. אז לא יכולתי לערוך..	אביתר כהן	evycohen @ walla.com	112
 tnk1/messages/tora_brejit_br-09-2027_1_0.html	תגובה	2006-11-06 13:13:18	2006-11-06 13:13:18	tnk1/messages/tora_brejit_br-09-2027_1_0_0.html	אני עובד על זה...	אראל		112
-tnk1/messages/tora_brejit_tarikim11_1.html	תגובה	2005-04-20 12:02:51	2005-05-07 14:10:38	tnk1/messages/tora_brejit_tarikim11_1_0.html	אם כך, מדוע נאמר על שם שהוא "אחי יפת הגדול"?	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_brejit_tarikim11_1.html	תגובה	2005-04-20 12:02:51	2005-05-07 14:10:38	tnk1/messages/tora_brejit_tarikim11_1_0.html	אם כך, מדוע נאמר על שם שהוא "אחי יפת הגדול"?	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_brejit_mot_tmut_0_0_0.html	תגובה	2005-03-10 16:44:17	2005-03-10 16:44:17	tnk1/messages/tora_brejit_mot_tmut_0_0_0_0.html	תגובה ל: תגובה ל: הנה עוד הבטחה שלא התגשמה:	רפאל שחורי	raphael_schory @ walla.co.il	112
 tnk1/messages/tora_brejit_mot_tmut_0_0_0.html	תגובה	2005-03-19 20:55:12	2005-03-19 20:55:12	tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_1_0.html	קרא גם אתה בראב"ע	אראל		112
 tnk1/messages/tora_brejit_mot_tmut_0_0.html	תגובה	2005-03-10 11:52:07	2005-03-19 20:55:12	tnk1/messages/tora_brejit_mot_tmut_0_0_0.html	תגובה ל: הנה עוד הבטחה שלא התגשמה:	ארנון	naharon @ hotmail.com	112
@@ -993,7 +993,7 @@ tnk1/messages/prqim_t08a15_1.html	תגובה	2005-03-30 10:02:53	2005-04-01 11:4
 tnk1/messages/ljon_jorj_aps_0.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/969489_1.html	מאמר זה פורסם גם כאן			112
 tnk1/messages/ktuv_mgilot_ei-mtnya_1.html	תגובה	2005-08-11 16:49:47	2006-01-28 19:15:18	tnk1/messages/ktuv_mgilot_ei-mtnya_1_0.html	תגובה ל: שאלה: ספר איכה - סדר וצורה	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mgilot_ei-mtnya_1.html	תגובה	2006-01-30 00:51:35	2006-01-30 00:51:35	tnk1/messages/ktuv_mgilot_ei-mtnya_1_1.html	תגובה על: שאלה: ספר איכה - סדר וצורה	ארז לוזון		112
-tnk1/messages/ktuv_ewn_yomlyla_0.html	תגובה	2005-05-06 16:15:37	2005-05-06 16:15:37	tnk1/messages/ktuv_ewn_yomlyla_0_0.html	הפסוק דרוש כדי לדעת את הגבול המדוייק	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_ewn_yomlyla_0.html	תגובה	2005-05-06 16:15:37	2005-05-06 16:15:37	tnk1/messages/ktuv_ewn_yomlyla_0_0.html	הפסוק דרוש כדי לדעת את הגבול המדוייק	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/kma_hvdlim1_jma_hqjiv_1.html	תגובה	2005-07-06 11:09:44	2005-07-06 11:09:44	tnk1/ktuv/mgilot/jj-08-1314.html	הסיום של שיר השירים	אראל		112
 tnk1/ljon/jorj/xnf.html	הגדרה	2007-07-21 12:46:02	2019-09-05 18:15:26	tnk1/kma/qjrim1/xnt.html	הגדרה: חנוט = קשה ועטוף כמו גרעין	אראל		111
 tnk1/messages/ljon_sug_EcmMlak_0.html	משל	2007-07-21 13:03:47	2007-07-23 08:19:47	tnk1/messages/ljon_sug_EcmMlak_0_4.html	תגובה על: האיש שעמו נאבק יעקב - בכתובת מצרית	דויד אקסלרוד	axeldavid @ 012.net.il	111
@@ -1003,7 +1003,7 @@ tnk1/messages/klli_mdrjim_ra_ry_0_0.html	תגובה	2005-03-03 19:40:35	2005-03-
 tnk1/messages/klli_limud_emu_1_2_0.html	תגובה	2005-05-11 04:46:45	2005-05-11 12:00:56	tnk1/messages/klli_limud_emu_1_2_0_0.html	נכון מאוד, אבל	נריה ואסתי קליין		112
 tnk1/messages/klli_limud_emu_1_2_0.html	תגובה	2005-05-11 04:48:13	2005-05-11 06:23:19	tnk1/messages/klli_limud_emu_1_2_0_1.html	ומה אתה עושה ער?	נריה ואסתי קליין		112
 tnk1/messages/sig_do1_0_1.html	תגובה	2005-06-19 11:06:58	2005-06-19 11:06:58	tnk1/messages/sig_do1_0_1_0.html	תגובה ל: שאלה על החידה	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_jirim_jirim_xdjim_0_0.html	תגובה	2005-02-01 19:57:31	2005-02-01 20:03:39	tnk1/messages/klli_jirim_jirim_xdjim_0_0_0.html	שיר נחמד	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/klli_jirim_jirim_xdjim_0_0.html	תגובה	2005-02-01 19:57:31	2005-02-01 20:03:39	tnk1/messages/klli_jirim_jirim_xdjim_0_0_0.html	שיר נחמד	נדב		112
 tnk1/messages/dmut_dmut_649_2.html	תגובה	2005-03-05 22:36:43	2005-03-05 22:36:43	tnk1/messages/dmut_dmut_649_2_0.html	תגובה ל: נקודה למחשבה	תום-ש	tom_shohat @ hotmail.co.il	112
 tnk1/messages/dmut_dmut_649_2.html	תגובה	2005-03-06 00:08:19	2006-09-25 19:54:41	tnk1/messages/dmut_dmut_649_2_1.html	תגובה ל: נקודה למחשבה	שירה	rosengart @ walla.co.il	112
 tnk1/messages/dmut_dmut_649_2.html	תגובה	2005-03-06 09:11:44	2005-03-06 09:11:44	tnk1/messages/dmut_dmut_649_2_2.html	מה היה קורה אילו שאול לא היה חוטא?	אראל		112
@@ -1030,17 +1030,17 @@ tnk1/messages/1697.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/
 tnk1/messages/1697.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/4852.html	קורים לי יוספון			112
 tnk1/messages/1585.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1629.html	פרשיית הגבעונים			112
 tnk1/messages/izru_9_0_0.html	תגובה	2007-02-25 01:11:11	2007-02-25 01:11:11	tnk1/messages/izru_9_0_0_1.html	ישר כח	אביתר כהן	evycohen @ walla.com	\N
-tnk1/messages/ktuv_mjly_kyusaki_1_0_0.html	תגובה	2005-09-15 12:27:54	2005-09-15 12:27:54	tnk1/messages/ktuv_mjly_kyusaki_1_0_0_0.html	אם כך, הבעיה היא רק בשם	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_kyusaki_1_0_0.html	תגובה	2005-09-15 12:27:54	2005-09-15 12:27:54	tnk1/messages/ktuv_mjly_kyusaki_1_0_0_0.html	אם כך, הבעיה היא רק בשם	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_jnh2_0.html	תגובה	2005-09-14 22:34:20	2005-09-14 22:34:20	tnk1/messages/ljon_jorj_jnh2_0_0.html	תגובה ל: מאמר: שני שנוא וישן	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_rj_tm_0_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ktuv_mjly_rj_tm_0_0_0.html	תגיד אתה גדלתה בבני-ברק?	יעל		112
 tnk1/messages/dmut_dmut_1041_2_0_1_0.html	תגובה	2005-09-09 06:59:26	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	יהודה		112
 tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_wjti_westr_0.html	תגובה	2005-05-11 04:45:41	2005-05-11 04:45:41	tnk1/messages/ktuv_mgilot_tklt_avrhm_zihuy_wjti_westr_0_0.html	אלה הבעיות היחידות הלא פתורות אצלך?????	נריה ואסתי קליין		112
 tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0_0_0.html	תגובה	2005-03-20 20:58:05	2005-04-13 22:21:37	tnk1/messages/tora_jmot_byom_o_blyla_0_0_0_0_0_0_0_0.html	ציטוטים נבחרים	אראל		112
-tnk1/messages/tora_brejit_tarikim11_0.html	תגובה	2005-04-11 11:58:12	2005-04-11 11:58:12	tnk1/messages/tora_brejit_tarikim11_0_0.html	תודה! תיקנתי	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_brejit_tarikim11_0.html	תגובה	2005-04-11 11:58:12	2005-04-11 11:58:12	tnk1/messages/tora_brejit_tarikim11_0_0.html	תודה! תיקנתי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_bmdbr_my_mriva_0_1.html	תגובה	2005-01-16 18:49:02	2005-01-16 18:49:02	tnk1/messages/tora_bmdbr_my_mriva_0_1_0.html	תגובה ל: עפ חז	דוד לוי		112
 tnk1/messages/prqim_t33_2_0.html	תגובה	2005-03-16 20:15:03	2005-03-16 20:15:03	tnk1/messages/prqim_t33_2_0_0.html	ספר דברי הימים למלכי פרס ומדי	אראל		112
 tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1.html	תגובה	2005-04-03 19:51:29	2005-04-04 19:03:53	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_1_0.html	תגובה ל: המדענים יודעים שהם לא יודעים (לכל היותר)	ארנון	naharon @ hotmail.com	112
-tnk1/messages/nvir_mlkimb_mb-14_0.html	תגובה	2005-07-18 18:02:31	2005-07-18 18:02:31	tnk1/messages/nvir_mlkimb_mb-14_0_0.html	תיקון	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_mlkimb_mb-14_0.html	תגובה	2005-07-18 18:02:31	2005-07-18 18:02:31	tnk1/messages/nvir_mlkimb_mb-14_0_0.html	תיקון	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/odot_4_2_0_0.html	תגובה	2005-03-29 10:32:31	2005-03-29 10:32:31	tnk1/messages/odot_4_2_0_0_0.html	אני לא מכיר את כל הטריקים	אראל		112
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0_2.html	תגובה	2005-04-04 20:29:34	2005-04-04 20:29:34	tnk1/nvir/mlkima/ma-19-09.html	ה' מוכיח את אליהו	אראל		112
 tnk1/messages/nvir_mlkima_ma_qra_lelyhu_0_0_2_0_2.html	תגובה	2005-04-04 20:48:32	2005-04-11 13:44:58	tnk1/nvir/mlkima/ma-19-10.html	במות לשם שמים	אראל		112
@@ -1052,20 +1052,20 @@ tnk1/messages/nvir_jmuela_meisa0_1.html	תגובה	2005-04-17 15:24:53	2005-04-1
 tnk1/messages/nvir_jmuela_meisa0_1.html	תגובה	2005-04-17 15:45:54	2005-04-17 15:45:54	tnk1/messages/nvir_jmuela_meisa0_1_1.html	את לא רצינית . . .	רועי מעודה	mauda_roi @ walla.co.il	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0.html	תגובה	2005-05-09 15:15:52	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0.html	תיקונים	רועי מעודה		112
 tnk1/messages/ktuv_mgilot_mg07_0_1.html	תגובה	2005-04-11 19:05:57	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1_0.html	תגובה ל: קריאת מחשבות לאחור	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_dha_da-03-0608_0_0_0.html	תגובה	2005-04-12 13:19:14	2005-04-12 13:19:14	tnk1/messages/ktuv_dha_da-03-0608_0_0_0_0.html	הגיון כרס	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_dha_da-03-0608_0_0_0.html	תגובה	2005-04-12 13:19:14	2005-04-12 13:19:14	tnk1/messages/ktuv_dha_da-03-0608_0_0_0_0.html	הגיון כרס	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_dha_da-03-0608_0_0.html	תגובה	2005-04-12 11:01:31	2005-04-12 13:19:14	tnk1/messages/ktuv_dha_da-03-0608_0_0_0.html	תגובה ל: סברות כרס	ארנון	naharon @ hotmail.com	112
-tnk1/messages/kma_qjrim1_el_0_0.html	תגובה	2005-03-08 21:57:10	2005-03-08 21:57:10	http://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%95%D7%97_%D7%94%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95-%D7%97%D7%9C%D7%A9	צודק.. [חיצוני]	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/kma_qjrim1_el_0_0.html	תגובה	2005-03-08 21:57:10	2005-03-08 21:57:10	http://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%95%D7%97_%D7%94%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95-%D7%97%D7%9C%D7%A9	צודק.. [חיצוני]	נדב		112
 tnk1/messages/kma_hvdlim2_jm-13_0.html	תגובה	2005-03-01 16:04:26	2007-06-10 02:56:46	tnk1/kma/qjrim1/ptr_rxm.html	פטר רחם = בכור לאימו, שמרחיב את פתח הרחם של אימו	אראל		112
-tnk1/messages/klli_mdrjim_yaqv_wesw_0_2.html	תגובה	2005-04-03 11:35:21	2005-04-03 11:35:21	tnk1/messages/klli_mdrjim_yaqv_wesw_0_2_0.html	למחוק הכל זו בעיה	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/klli_limud_emu_1_0_0_1_0.html	תגובה	2005-05-11 03:44:27	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_0_0_1_0.html	די לצביעות (2)	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_mdrjim_yaqv_wesw_0_2.html	תגובה	2005-04-03 11:35:21	2005-04-03 11:35:21	tnk1/messages/klli_mdrjim_yaqv_wesw_0_2_0.html	למחוק הכל זו בעיה	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/klli_limud_emu_1_0_0_1_0.html	תגובה	2005-05-11 03:44:27	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_0_0_1_0.html	די לצביעות (2)	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_limud_emu_0.html	תגובה	2005-03-02 08:34:34	2005-05-11 03:49:32	tnk1/messages/klli_limud_emu_0_0.html	סמיכות פרשיות	אראל		112
 tnk1/messages/klli_limud_emu_0.html	תגובה	2005-05-09 21:38:28	2005-05-09 21:38:28	tnk1/messages/klli_limud_emu_0_1.html	תגובה ל: תגובה ל: אין מוקדם ומאוחר בתורה	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_jirim_jirim_xdjim_0_0_0.html	תגובה	2005-02-01 20:03:39	2005-02-01 20:03:39	tnk1/messages/klli_jirim_jirim_xdjim_0_0_0_0.html	אגב, המלים של נתן יונתן ז"ל	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/klli_jirim_jirim_xdjim_0_0_0.html	תגובה	2005-02-01 20:03:39	2005-02-01 20:03:39	tnk1/messages/klli_jirim_jirim_xdjim_0_0_0_0.html	אגב, המלים של נתן יונתן ז"ל	נדב		112
 tnk1/messages/klli_jirim_jirim_xdjim_2.html	תגובה	2005-02-01 20:13:51	2005-02-01 20:13:51	tnk1/messages/klli_jirim_jirim_xdjim_2_0.html	תגובה ל: אוריה	אחיה		112
 tnk1/messages/klli_jirim_jirim_xdjim_0_1.html	תגובה	2005-02-01 22:01:37	2005-02-01 22:01:37	tnk1/messages/klli_jirim_jirim_xdjim_0_1_0.html	תגובה ל: תגובה ל: מת אב ומת אלול	צחור		112
 tnk1/messages/dmut_dmut_117_0.html	תגובה	2006-01-25 21:03:03	2006-01-25 21:03:03	tnk1/messages/dmut_dmut_117_0_0.html	תגובה על: היפים והתנכיים - רבקה	ריקה	rika_rika @ walla.co.il	112
 tnk1/messages/ToknLfiSgnonDmyonSipur_0_0.html	תגובה	2004-12-10 15:21:04	2004-12-17 10:17:03	tnk1/messages/ToknLfiSgnonDmyonSipur_0_0_0.html	תגובה ל: אולי לעולם לא נדע	שרה	sarshannon @ walla.co.il	112
-tnk1/messages/dmut_ToknLfiDmutGvr_0.html	תגובה	2005-05-15 14:53:32	2005-05-15 14:53:32	tnk1/messages/dmut_ToknLfiDmutGvr_0_0.html	הרשימה עדיין לא כוללת את דברי הימים [לת]	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/dmut_ToknLfiDmutGvr_0.html	תגובה	2005-05-15 14:53:32	2005-05-15 14:53:32	tnk1/messages/dmut_ToknLfiDmutGvr_0_0.html	הרשימה עדיין לא כוללת את דברי הימים [לת]	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ToknLfiSgnonEin_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ToknLfiSgnonEin_0_0.html	תגובה ל: מאמר דמיוני: שהכל נהיה בדברו [אין להתייחס ברצינות!]	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ToknLfiSgnonDmyonSipur_0_0_0_0_0.html	תגובה	2004-12-17 10:17:03	2004-12-17 10:17:03	tnk1/messages/ToknLfiSgnonDmyonSipur_0_0_0_0_0_0.html	לדעתי זה מראה שהתנך יקר לנו	אראל		112
 tnk1/messages/5758.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/5787.html	ראיות לחיזוק הפירוש המקובל			112
@@ -1093,7 +1093,7 @@ tnk1/messages/nvia_yrmyhu_yr-13-2227_0.html	תגובה	2005-09-20 16:56:24	2005-
 tnk1/messages/nvia_yrmyhu_yr-13-2227_0.html	תגובה	2005-09-21 16:52:46	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1.html	תגובה ל: תגובה ל: 27: העוונות גרמו לגויים לזלזל בישראל	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_dmut_1041_2_0_1_0_0_0_0.html	תגובה	2005-09-11 10:20:59	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1_0_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	ארנון	naharon @ hotmail.com	112
 tnk1/messages/msr_1avoda_0_0.html	תגובה	2005-09-12 12:13:41	2005-09-12 12:13:41	tnk1/messages/msr_1avoda_0_0_0.html	כן, אבל צריך לעשות זאת בצורה מאוזנת	יעל		112
-tnk1/messages/tora_jmot_jm-21-2021_0.html	תגובה	2005-05-12 08:43:17	2005-05-13 17:42:58	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_1.html	כבר כתבת את זה, וכבר עניתי לך	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/tora_jmot_jm-21-2021_0.html	תגובה	2005-05-12 08:43:17	2005-05-13 17:42:58	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_1.html	כבר כתבת את זה, וכבר עניתי לך	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_mlkima_ma-13-yhudi_0.html	תגובה	2005-08-07 09:52:17	2005-08-10 09:54:29	tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0.html	תשובה	רועי מעודה		112
 tnk1/messages/sig_do1_0_0_0_0_0_0.html	תגובה	2005-06-15 11:17:24	2005-06-15 11:17:24	tnk1/messages/sig_do1_0_0_0_0_0_0_0.html	תגובה ל: תגובה: תגובה ל: תגובה: תגובה ל: אפשרות של חצי פתרון לחידה על מילים בנות 4 אותיות...	ארנון	naharon @ hotmail.com	112
 tnk1/messages/prqim_t3302_0_1.html	תגובה	2005-03-28 13:09:16	2005-03-28 13:09:16	tnk1/messages/prqim_t3302_0_1_0.html	תגובה ל: תגובה ל: 19: מדוע קיבצו בתולות שנית?	נריה קליין!!!		112
@@ -1106,7 +1106,7 @@ tnk1/messages/odot_4.html	תגובה	2005-03-27 21:33:07	2005-03-29 10:32:31	tnk
 tnk1/messages/odot_4.html	תגובה	2005-03-28 21:51:35	2005-03-30 16:44:42	tnk1/messages/odot_4_3.html	תגובה ל: חופש הביטוי באתר	אלכס		112
 tnk1/messages/odot_4.html	תגובה	2005-03-29 21:10:13	2005-03-30 11:30:50	tnk1/messages/odot_4_4.html	לאראל	אלכס		112
 tnk1/messages/odot_4.html	תגובה	2005-03-29 21:16:54	2005-03-29 21:16:54	tnk1/messages/odot_4_5.html	תגובה ל: חופש הביטוי באתר	ארנון	naharon @ hotmail.com	112
-tnk1/messages/odot_4.html	תגובה	2005-09-29 23:36:18	2005-10-07 08:42:25	tnk1/messages/odot_4_6.html	כללי הכתיבה באתר	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/odot_4.html	תגובה	2005-09-29 23:36:18	2005-10-07 08:42:25	tnk1/messages/odot_4_6.html	כללי הכתיבה באתר	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0.html	תגובה	2005-04-04 10:17:55	2005-04-05 09:31:19	tnk1/messages/nvir_yhojua_jmj_bgveon_0_0_0_0_0.html	תגובה ל: ניסים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/nvir_joftim_lpidot_0.html	תגובה	2005-03-12 22:14:59	2005-03-12 22:14:59	tnk1/messages/nvir_joftim_lpidot_0_0.html	תגובה ל: שמות משפחה בתנך	מוטי אהרוני	MOTI_AHARONI @ WALLA.CO.IL	112
 tnk1/ljon/jorj/khn.html	דיון1	2011-05-09 01:03:51	2011-05-09 01:32:25	tnk1/nvia/yjayhu/yj-61-06.html	ואתם כהני ה' תיקראו	אראל		60
@@ -1120,13 +1120,13 @@ tnk1/messages/kma_qjrim1_nude_0.html	תגובה	2004-11-14 20:16:46	2004-11-14 2
 tnk1/messages/klli_mdrjim_mjpt_hmlk_0.html	תגובה	2005-02-28 18:17:09	2005-03-01 18:19:59	tnk1/messages/klli_mdrjim_mjpt_hmlk_0_0.html	איפה זה כתוב בתורה?	אראל		112
 tnk1/messages/klli_limud_emu_1_2_2.html	תגובה	2005-05-11 15:36:43	2005-05-11 15:36:43	tnk1/messages/klli_limud_emu_1_2_2_0.html	תגובה ל: תגובה: מה קורה פה?	ארנון	naharon @ hotmail.com	112
 tnk1/messages/klli_limud_emu_1_0.html	תגובה	2005-05-09 18:50:10	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_1_0_0.html	תגובה ל: שוב לא קראת	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_limud_emu_1.html	תגובה	2005-05-09 11:38:14	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_1_0.html	שוב לא קראת	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/klli_limud_emu_1.html	תגובה	2005-05-10 10:41:59	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_limud_emu_1.html	תגובה	2005-05-09 11:38:14	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_1_0.html	שוב לא קראת	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/klli_limud_emu_1.html	תגובה	2005-05-10 10:41:59	2005-05-10 10:57:38	tnk1/messages/klli_limud_emu_1_1.html	יש לקרוא לפני שמגיבים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_limud_emu_1.html	תגובה	2005-05-11 04:06:41	2005-05-11 17:07:13	tnk1/messages/klli_limud_emu_1_2.html	מה קורה פה?	נריה ואסתי קליין		112
 tnk1/messages/klli_limud_emu_1_0_0.html	תגובה	2005-05-09 21:25:01	2005-05-10 22:18:47	tnk1/messages/klli_limud_emu_1_0_0_0.html	תגובה ל: תגובה ל: שוב לא קראת	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_limud_emu_1_0_0.html	תגובה	2005-05-10 08:30:10	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_1_0_0_1.html	שאל את מפרשי רש"י	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/klli_limud_emu_0_0_1.html	תגובה	2005-05-11 03:42:54	2005-05-11 03:42:54	tnk1/messages/klli_limud_emu_0_0_1_0.html	די לצביעות	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/klli_limud_emu_0_0_1.html	תגובה	2005-05-11 03:49:32	2005-05-11 03:49:32	tnk1/messages/klli_limud_emu_0_0_1_1.html	מה הקשר?	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_limud_emu_1_0_0.html	תגובה	2005-05-10 08:30:10	2005-05-11 03:44:27	tnk1/messages/klli_limud_emu_1_0_0_1.html	שאל את מפרשי רש"י	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/klli_limud_emu_0_0_1.html	תגובה	2005-05-11 03:42:54	2005-05-11 03:42:54	tnk1/messages/klli_limud_emu_0_0_1_0.html	די לצביעות	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/klli_limud_emu_0_0_1.html	תגובה	2005-05-11 03:49:32	2005-05-11 03:49:32	tnk1/messages/klli_limud_emu_0_0_1_1.html	מה הקשר?	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_jirim_jirim_xdjim_7_0.html	תגובה	2005-02-02 09:41:59	2005-02-02 09:41:59	tnk1/messages/klli_jirim_jirim_xdjim_7_0_0.html	תגובה ל: תגובה ל: אוהב אותך לאה	צחור		112
 tnk1/messages/klli_jirim_jirim_xdjim_7_0.html	תגובה	2005-02-02 18:16:46	2005-02-02 18:16:46	tnk1/messages/klli_jirim_jirim_xdjim_7_0_1.html	תגובה ל: תגובה ל: אוהב אותך לאה	ד.ל		112
 tnk1/messages/dmut_dmut_649_2_1_0.html	תגובה	2006-09-25 19:54:41	2006-09-25 19:54:41	tnk1/messages/dmut_dmut_649_2_1_0_0.html	תגובה על: ידיעה ובחירה	עדי		112
@@ -1136,7 +1136,7 @@ tnk1/messages/dmut_dmut_301_0_2.html	תגובה	2005-03-29 12:59:51	2005-03-29 2
 tnk1/messages/dmut_dmut_301_0.html	תגובה	2005-03-28 19:05:22	2005-03-28 22:27:42	tnk1/messages/dmut_dmut_301_0_0.html	תגובה ל: מאמר: תרצה	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_dmut_301_0.html	תגובה	2005-03-28 20:52:28	2005-03-28 23:36:53	tnk1/messages/dmut_dmut_301_0_1.html	תגובה ל: מאמר: תרצה	אלכס		112
 tnk1/messages/dmut_dmut_301_0.html	תגובה	2005-03-28 23:40:12	2005-03-29 21:07:41	tnk1/messages/dmut_dmut_301_0_2.html	גבול מנשה	אראל		112
-tnk1/messages/icons_0.html	תגובה	2005-06-28 13:28:01	2005-06-28 13:28:01	tnk1/messages/icons_0_0.html	הספר "איילת השחר" נמצא יחד עם פירוש מלבי"ם לספר ויקרא [לת]	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/icons_0.html	תגובה	2005-06-28 13:28:01	2005-06-28 13:28:01	tnk1/messages/icons_0_0.html	הספר "איילת השחר" נמצא יחד עם פירוש מלבי"ם לספר ויקרא [לת]	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/5130_0_0.html	תגובה	2005-06-04 22:20:28	2005-06-04 22:20:28	tnk1/messages/5130_0_0_0.html	זה קצת בעייתי	רועי מעודה		112
 tnk1/messages/ToknLfiTosftEmuna_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ToknLfiTosftEmuna_0_0.html	תגובה ל: שופר ויום דין?!			112
 tnk1/messages/ToknLfiSgnonDmyonSipur_0.html	תגובה	0000-00-00 00:00:00	2004-12-17 10:17:03	tnk1/messages/ToknLfiSgnonDmyonSipur_0_0.html	אולי לעולם לא נדע	אראל		112
@@ -1183,7 +1183,7 @@ tnk1/messages/ktuv_mjly_lcim_0_0.html	תגובה	2005-09-23 04:26:38	2005-09-23 
 tnk1/messages/kma_qjrim1_jmc_0.html	תגובה	2005-09-06 17:20:29	2005-09-06 17:20:29	tnk1/messages/kma_qjrim1_jmc_0_0.html	תגובה ל: תגובה ל: הגדרה: שמצ - שני פירושים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/msr_1avoda_0_1.html	תגובה	2005-09-14 22:44:32	2005-09-14 23:35:57	tnk1/messages/msr_1avoda_0_1_0.html	תגובה ל: תגובה ל: סדר עדיפות בקיום המצוות	ארנון	naharon @ hotmail.com	112
 tnk1/messages/tora_brejit_meorot_0_0_0.html	תגובה	2005-03-17 20:44:28	2005-03-19 22:10:48	tnk1/messages/tora_brejit_meorot_0_0_0_0.html	תגובה ל: הירח כן מאיר	ארנון	naharon @ hotmail.com	112
-tnk1/messages/nvir_mlkima_htxps_0_0.html	תגובה	2005-05-10 00:20:24	2005-05-11 11:55:45	tnk1/messages/nvir_mlkima_htxps_0_0_0.html	תגובה ל: מדוע רחצו הזונות בדם אחאב?	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvir_mlkima_htxps_0_0.html	תגובה	2005-05-10 00:20:24	2005-05-11 11:55:45	tnk1/messages/nvir_mlkima_htxps_0_0_0.html	תגובה ל: מדוע רחצו הזונות בדם אחאב?	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/prqim/t09a11.htm	בסיס	2015-03-06 14:39:38	2015-03-06 14:39:38	tnk1/messages/prqim_t09a11_2.html	"בית נאמן", וורט לשבע ברכות, או רעיון למול אחוזי הגירושין הגואים	חגי הופר	hagaihof @ gmail.com	60
 tnk1/prqim/t0230.htm	מאמר	2015-03-05 23:44:28	2015-03-05 23:44:28	tnk1/messages/prqim_t0230_3.html	משהו לפרשת "כי תישא"	חגי הופר	hagaihof @ gmail.com	60
 tnk1/messages/prqim_t10_0.html	תגובה	2005-03-18 10:50:29	2005-03-18 10:50:29	tnk1/messages/prqim_t10_0_0.html	אפשר להוסיף גם: מכמורת (יט 8)	אראל		112
@@ -1195,12 +1195,12 @@ tnk1/messages/nvir_mlkimb_qrx_0.html	תגובה	2005-04-07 09:20:11	2005-04-11 1
 tnk1/messages/kma_qjrim1_el_0.html	תגובה	2005-03-08 18:15:03	2005-03-08 21:57:10	tnk1/messages/kma_qjrim1_el_0_0.html	שלושה כוחות -			112
 tnk1/messages/odot_4_2.html	תגובה	2005-03-28 20:37:18	2005-03-29 10:32:31	tnk1/messages/odot_4_2_0.html	מילון - לא מעשי	אראל		112
 tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0.html	תגובה	2006-08-13 17:46:11	2006-11-30 11:23:12	tnk1/messages/nvir_jmuelb_hmfqd_bymy_dwd_0_0_0_0_0.html	תגובה על: במה חטאו ישראל בזמן המפקד	מוטי אהרוני		112
-tnk1/messages/nvia_yrmyhu_yr-34-13_0.html	תגובה	2005-08-17 11:37:14	2005-08-17 11:37:14	daat/kitveyet/mahanaim/elitzor.htm	קרא בקישור	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/nvia_yrmyhu_yr-34-13_0.html	תגובה	2005-08-17 11:37:14	2005-08-17 11:37:14	daat/kitveyet/mahanaim/elitzor.htm	קרא בקישור	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_jorj_klh2_0_1.html	תגובה	2005-07-26 17:48:42	2005-07-26 17:48:42	tnk1/messages/ljon_jorj_klh2_0_1_0.html	תגובה ל: כליות ולב	דינה		112
 tnk1/messages/ljon_jorj_klb_0.html	תגובה	2005-06-30 12:17:38	2005-06-30 12:17:38	tnk1/messages/5870.html	מאמר: חציר = כרתי	אביתר כהן		112
 tnk1/messages/ljon_jorj_gml3_0_0.html	תגובה	2005-10-16 00:06:03	2005-10-16 00:06:03	tnk1/messages/ljon_jorj_gml3_0_0_0.html	תגובה ל: תגובה ל: מאמר: שמות הגמל במקרא	מיכל	mic360 @ walla.co.il	112
 tnk1/messages/ktuv_thlim_th-119l_0_0_0_0.html	תגובה	2005-05-09 22:05:23	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: לעולם	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_thlim_th-119l_0_0_0_0.html	תגובה	2005-05-10 09:30:00	2005-05-13 17:42:58	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_1.html	תלוי באיזה עולם אתה חי	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_thlim_th-119l_0_0_0_0.html	תגובה	2005-05-10 09:30:00	2005-05-13 17:42:58	tnk1/messages/ktuv_thlim_th-119l_0_0_0_0_1.html	תלוי באיזה עולם אתה חי	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0.html	תגובה	2005-05-08 21:26:41	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0.html	תגובה ל: תגובה לארנון	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0_0.html	תגובה	2006-01-28 19:15:18	2006-01-28 19:15:18	tnk1/messages/ktuv_mgilot_ei-mtnya_1_0_0_0_0.html	תגובה על: הוא התכוון לבריאת העולם הטבעי	מוטי אהרוני		112
 tnk1/messages/odot_5.html	תגובה	2005-04-01 15:39:46	2005-04-01 15:39:46	tnk1/messages/odot_5_0.html	תגובה ל: עצב דף זה	אביתר כהן		112
@@ -1228,47 +1228,47 @@ tnk1/messages/prqim_t11_0.html	תגובה	2005-03-18 10:13:35	2005-03-18 10:13:3
 tnk1/messages/2165.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/2166.html	תיקון טעות			112
 tnk1/messages/1672.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1677.html	ולשנת תשס"ג			112
 tnk1/messages/1672.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1701.html	יהושע נחמיה לייקר,			112
-tnk1/messages/ljon_jorj_kjp_0.html	תגובה	2005-09-22 11:06:37	2005-09-22 11:06:37	tnk1/messages/ljon_jorj_kjp_0_0.html	עמי בעצו ישאל, ומקלו יגיד לו	אראל	erelsgl1@tora.us.fm	112
-tnk1/messages/kma_qjrim1_pdqewn_0.html	תגובה	2005-09-08 08:35:11	2017-11-14 17:28:23	tnk1/kma/qjrim1/iby.html	איש בעוונו ימות	אראל סגל	erelsgl1@tora.us.fm	112
-tnk1/messages/kma_qjrim1_pdqewn_0.html	תגובה	2005-09-08 08:52:55	2005-09-08 20:04:06	tnk1/messages/kma_qjrim1_pdqewn_0_0.html	ניסיון חיים	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ljon_jorj_kjp_0.html	תגובה	2005-09-22 11:06:37	2005-09-22 11:06:37	tnk1/messages/ljon_jorj_kjp_0_0.html	עמי בעצו ישאל, ומקלו יגיד לו	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_qjrim1_pdqewn_0.html	תגובה	2005-09-08 08:35:11	2017-11-14 17:28:23	tnk1/kma/qjrim1/iby.html	איש בעוונו ימות	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/kma_qjrim1_pdqewn_0.html	תגובה	2005-09-08 08:52:55	2005-09-08 20:04:06	tnk1/messages/kma_qjrim1_pdqewn_0_0.html	ניסיון חיים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/ljon/jorj/gnn.html	דיון1	2007-06-19 23:34:15	2016-04-13 07:10:46	tnk1/ktuv/mjly/mj-06-11.html	ובא כמהלך ראשך, ומחסרך כאיש מגן	אראל		60
 tnk1/prqim/t2806.htm	דיון1	2007-06-20 01:02:17	2007-06-20 01:02:17	tnk1/ktuv/mj/06-32.html	גניבה לעומת ניאוף	אראל		10
 tnk1/messages/ljon_jorj_eqr_0_1_1_0.html	תגובה	2005-08-31 18:47:59	2005-08-31 18:47:59	tnk1/messages/ljon_jorj_eqr_0_1_1_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: עקרות ולידה ב	ארנון	naharon @ hotmail.com	112
 tnk1/messages/tora_jmot_jm-18-21_0.html	תגובה	2005-04-03 15:58:40	2005-04-03 15:58:40	tnk1/messages/tora_jmot_jm-18-21_0_0.html	תגובה ל: תגובה ל: 21: לא צריך שופטים שמחפשים משכורות גבוהות	יעל		112
-tnk1/messages/tora_jmot_jm-18-21_0.html	תגובה	2005-09-14 00:30:01	2005-09-14 00:30:01	tnk1/messages/tora_jmot_jm-18-21_0_1.html	ככל שיש יותר, רוצים יותר	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/tora_jmot_jm-18-21_0.html	תגובה	2005-09-14 00:30:01	2005-09-14 00:30:01	tnk1/messages/tora_jmot_jm-18-21_0_1.html	ככל שיש יותר, רוצים יותר	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/tora_brejit_tarikim05_0.html	תגובה	2005-05-01 16:20:36	2005-05-01 16:20:36	http://about:blank	הוספתי [חיצוני]	אראל סגל	../tryg/ribit0/bankisrael	112
 tnk1/messages/prqim_t09b19_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/messages_prqim_t09b19_0_0.html	רשומון			112
 tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0.html	תגובה	2005-08-08 08:16:23	2005-08-10 09:54:29	tnk1/messages/nvir_mlkima_ma-13-yhudi_0_0_0.html	תגובה ל: תשובה	יהודה		112
 tnk1/messages/izru_3.html	תגובה	2006-03-28 09:02:26	2006-03-28 09:35:06	tnk1/messages/izru_3_0.html	תגובה על: סיסמה לעדכון הגרסה הרשמית	מתן		112
 tnk1/messages/nvir_dwd_wbt7_0_1.html	תגובה	2005-03-07 14:40:21	2005-03-07 14:40:21	tnk1/kma/qjrim1/zqnim.html	סנהדרין = זקני העם			112
 tnk1/messages/ljon_jorj_khn_3.html	תגובה	2004-12-20 20:02:44	2004-12-20 20:02:44	tnk1/messages/ljon_jorj_khn_3_0.html	תגובה ל: שאלה על כהן משוח מלחמה	אלכס		112
-tnk1/messages/ljon_jorj_bwr_0.html	תגובה	2005-08-29 10:49:15	2005-08-29 10:49:15	tnk1/messages/ljon_jorj_bwr_0_0.html	בור - דות	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ljon_jorj_bwr_0.html	תגובה	2005-08-29 10:49:15	2005-08-29 10:49:15	tnk1/messages/ljon_jorj_bwr_0_0.html	בור - דות	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_thlim_th-119l_0_0_0_1.html	תגובה	2005-05-10 10:52:56	2005-05-10 10:52:56	tnk1/messages/ktuv_thlim_th-119l_0_0_0_1_0.html	תגובה ל: הוא לא כתב עד סוף ימי	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_thlim_sdryom_1.html	תגובה	2005-05-05 11:43:01	2005-05-09 11:12:05	tnk1/messages/ktuv_thlim_sdryom_1_0.html	לא מומלץ לנסות בבית...	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_thlim_sdryom_1.html	תגובה	2005-05-05 11:43:01	2005-05-09 11:12:05	tnk1/messages/ktuv_thlim_sdryom_1_0.html	לא מומלץ לנסות בבית...	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/odot_4_3.html	תגובה	2005-03-28 23:20:50	2005-03-30 16:44:42	tnk1/messages/odot_4_3_0.html	אכיפה	אראל		112
 tnk1/messages/odot_4_3.html	תגובה	2005-03-29 21:13:24	2005-03-29 23:12:16	tnk1/messages/odot_4_3_1.html	תגובה ל: תגובה ל: חופש הביטוי באתר	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-19 20:43:45	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה ל: תגובה ל: קבל את דבריהם!	אסתי (ונריה) קליין	esthy_neria @ walla.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-26 02:18:15	2005-06-26 02:18:15	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0_1.html	וכן, ראיתי הרבה רוח הקודש כאלו.	נריה ואסתי קליין	esthy_neria @ walla.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0.html	תגובה	2005-06-10 01:23:49	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0.html	התעוררת?!	רועי מעודה		112
-tnk1/messages/ktuv_mjly_mj-31-12_1.html	תגובה	2005-03-31 19:14:51	2005-03-31 19:14:51	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (4)	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_mjly_mj-31-12_0_0_1.html	תגובה	2005-03-31 09:07:57	2020-08-26 05:07:55	tnk1/tora/dvrim/dm-22-29.html	עונשו של האנס בתורה - יותר צודק ומרתיע מהעונשים של ימינו	אראל סגל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/ktuv_mjly_mj-31-12_0_0_1.html	תגובה	2005-03-31 19:09:56	2005-03-31 19:09:56	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (2)	אראל סגל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-12_1.html	תגובה	2005-03-31 19:14:51	2005-03-31 19:14:51	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (4)	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_mjly_mj-31-12_0_0_1.html	תגובה	2005-03-31 09:07:57	2020-08-26 05:07:55	tnk1/tora/dvrim/dm-22-29.html	עונשו של האנס בתורה - יותר צודק ומרתיע מהעונשים של ימינו	אראל סגל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/ktuv_mjly_mj-31-12_0_0_1.html	תגובה	2005-03-31 19:09:56	2005-03-31 19:09:56	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן (2)	אראל סגל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ljon_index_0.html	תגובה	2006-06-21 14:08:02	2012-05-07 03:24:30	tnk1/messages/ljon_index_0_0.html	תגובה על: הכתב הכנעני הקדום = דעץ = רעץ = ליבונאה	drkats		112
 tnk1/messages/ktuv_mgilot_mg07_0_1_0_0.html	תגובה	2005-04-13 20:52:25	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1_0_0_0.html	תגובה ל: סברות כרס	ארנון	naharon @ hotmail.com	112
 tnk1/messages/odot_0_0.html	תגובה	2004-12-06 17:36:35	2004-12-06 17:36:35	tnk1/messages/odot_0_0_0.html	נכון, הגרסה הקודמת מחקה את הקישור רק מהדף "מאמרים חדשים בתנ"ך"	אראל		112
 tnk1/messages/klli_mdrjim_bkl_ljon_o_bljon_hqodj_0.html	תגובה	2005-06-20 18:23:15	2005-06-20 18:23:15	tnk1/messages/klli_mdrjim_bkl_ljon_o_bljon_hqodj_0_0.html	תגובה ל: תגובה ל: בכל לשון או בלשון הקודש?	ארנון	naharon @ hotmail.com	112
-tnk1/messages/klli_limud_emu_1_2.html	תגובה	2005-05-11 04:09:06	2005-05-11 12:00:56	tnk1/messages/klli_limud_emu_1_2_0.html	מאויבי תחכמני מצוותיך = צריך ללמוד גם מאויבים	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/klli_limud_emu_1_2.html	תגובה	2005-05-11 04:09:06	2005-05-11 12:00:56	tnk1/messages/klli_limud_emu_1_2_0.html	מאויבי תחכמני מצוותיך = צריך ללמוד גם מאויבים	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_limud_emu_1_2.html	תגובה	2005-05-11 14:14:43	2005-05-11 15:36:43	tnk1/messages/klli_limud_emu_1_2_2.html	תגובה: מה קורה פה?	רועי מעודה	mauda_roi @ walla.co.il	112
 tnk1/messages/klli_limud_emu_1_2.html	תגובה	2005-05-11 17:07:13	2005-05-11 17:07:13	tnk1/messages/klli_limud_emu_1_2_3.html	תגובה ל: מה קורה פה?	ארנון	naharon @ hotmail.com	112
-tnk1/messages/dmut_jm_axab_0_1.html	תגובה	2005-04-11 13:01:56	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	כבר הוכחת שנבואה לאחור היא אפשרית	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/dmut_jm_axab_0_1.html	תגובה	2005-04-11 13:01:56	2005-10-23 18:56:27	tnk1/messages/ktuv_mgilot_mg07_0_1.html	כבר הוכחת שנבואה לאחור היא אפשרית	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ezor_index_0.html	תגובה	2005-01-24 18:35:22	2005-02-20 14:55:44	tnk1/tora/brejit/br-50-10.html	אולי זה מסיבות פוליטיות	אראל		112
 tnk1/messages/ezor_index_0.html	תגובה	2005-03-06 13:17:04	2005-03-06 13:17:04	tnk1/messages/ezor_index_0_0.html	תגובה ל: שאלה על פרשת השבוע (ויחי) - גיאוגרפית	אלחנן		112
-tnk1/messages/ezor_ToknLfiEzorErc_0_0_0_0.html	תגובה	2005-04-11 13:17:05	2012-04-16 09:53:05	tnk1/messages/tora_jmot_byom_o_blyla_0_0.html	בקשר ליציאת מצרים - תזכורת	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ezor_ToknLfiEzorErc_0_0_0_0.html	תגובה	2005-04-11 13:17:05	2012-04-16 09:53:05	tnk1/messages/tora_jmot_byom_o_blyla_0_0.html	בקשר ליציאת מצרים - תזכורת	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ezor_ToknLfiEzorErc_0.html	תגובה	2005-04-07 11:13:15	2005-04-13 22:21:37	tnk1/messages/ezor_ToknLfiEzorErc_0_0.html	תגובה ל: אלמנט הזמן בתהליך יציאת מצרים	ארנון	naharon @ hotmail.com	112
 tnk1/messages/dmut_jm_axab_0.html	תגובה	2005-04-10 17:24:42	2005-04-12 10:02:42	tnk1/messages/dmut_jm_axab_0_0.html	תגובה ל: מדוע אחאב נחשב רשע?	עדי		112
 tnk1/messages/dmut_jm_axab_0.html	תגובה	2005-04-10 21:03:22	2005-10-23 18:56:27	tnk1/messages/dmut_jm_axab_0_1.html	תגובה ל: מדוע אחאב נחשב רשע?	ארנון	naharon @ hotmail.com	112
-tnk1/messages/dmut_jm_axab_0.html	תגובה	2005-04-11 13:03:54	2005-04-12 10:01:33	tnk1/messages/dmut_jm_axab_0_2.html	מדוע אחאב נשאר בשדה הקרב	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/messages/dmut_dmut_649_2_3_0.html	תגובה	2005-03-06 23:12:03	2005-03-06 23:12:03	tnk1/messages/dmut_dmut_649_2_3_0_2.html	מסקנה:	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/messages/dmut_jm_axab_0.html	תגובה	2005-04-11 13:03:54	2005-04-12 10:01:33	tnk1/messages/dmut_jm_axab_0_2.html	מדוע אחאב נשאר בשדה הקרב	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/messages/dmut_dmut_649_2_3_0.html	תגובה	2005-03-06 23:12:03	2005-03-06 23:12:03	tnk1/messages/dmut_dmut_649_2_3_0_2.html	מסקנה:	נדב		112
 tnk1/messages/dmut_dmut_1189_0_1.html	תגובה	2005-08-08 17:29:25	2005-08-08 17:29:25	tnk1/messages/dmut_dmut_1189_0_1_0.html	תגובה: לא בטוח	אביתר כהן	evycohen @ walla.co.il	112
 tnk1/messages/dmut_dmut_1189_0_1.html	תגובה	2006-10-24 13:22:35	2006-10-24 13:22:35	tnk1/messages/dmut_dmut_1189_0_1_1.html	שם הסבא הוא בכלל שבי ולא נובי	מיכאל		112
 tnk1/messages/dmut_dmut_1189_0_1.html	תגובה	2006-10-24 13:24:33	2006-10-24 13:24:33	tnk1/messages/dmut_dmut_1189_0_1_2.html	שם הסבא הוא בכלל שבי ולא נובי	מיכאל		112
@@ -1289,9 +1289,9 @@ tnk1/messages/3172.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/
 tnk1/messages/2593.html	תגובה	0000-00-00 00:00:00	2008-07-17 08:27:39	tnk1/messages/2598.html	הסבר,			112
 tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1_0.html	תגובה	2005-09-22 18:11:39	2005-09-22 18:11:39	tnk1/messages/nvia_yrmyhu_yr-13-2227_0_1_0_0_0_1_0_0.html	תגובה: אני בעד שתחסום אותו לגמרי !	אביתר כהן	evycohen @ walla.co.il	112
 tnk1/messages/sig_do1_0_2_0.html	תגובה	2005-09-29 11:43:21	2005-09-29 11:43:21	tnk1/messages/sig_do1_0_2_0_0.html	תגובה ל: תגובה ל: בקשר למילים בנות 4 אותיות	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-09-14 17:37:06	2005-09-18 18:14:11	tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0_0.html	טופס התגובה אינו מיועד לבדיחות	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-09-14 17:37:06	2005-09-18 18:14:11	tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0_0.html	טופס התגובה אינו מיועד לבדיחות	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-09-14 22:41:07	2005-09-14 22:41:07	tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0_1.html	תגובה ל: תגובה ל: נודע בשערים בעלה, בשבתו עם זקני ארץ	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-09-14 23:43:31	2005-09-14 23:43:31	tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0_2.html	חריצות חשובה לכולם	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-09-14 23:43:31	2005-09-14 23:43:31	tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0_2.html	חריצות חשובה לכולם	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-03-29 11:11:27	2005-03-29 19:17:24	tnk1/messages/ktuv_mjly_mj-31-12_0_1_0.html	כשלא קוראים...	אראל		112
 tnk1/messages/ktuv_mjly_mj-31-1319_0_0_0.html	תגובה	2005-03-29 13:25:48	2005-03-30 15:48:53	tnk1/messages/ktuv_mjly_mj-31-12_0_1_1.html	תגובה ל: תגובה ל: תגובה ל: גמלתהו טוב ולא רע	ישי	yishay102 @ walla.com	112
 tnk1/messages/dmut_dmut_1041_2_0_1_0_0.html	תגובה	2005-09-09 10:27:08	2005-09-11 10:20:59	tnk1/messages/dmut_dmut_1041_2_0_1_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: תגובה ל: פרשת בן השונמית - ביקורת על אלישע הנביא	ארנון	naharon @ hotmail.com	112
@@ -1315,17 +1315,17 @@ tnk1/messages/nvir_dwd_wbt7_0_0.html	תגובה	2005-02-28 18:27:31	2005-02-28 1
 tnk1/messages/nvir_dwd_wbt7_0_0.html	תגובה	2005-03-06 22:18:56	2005-03-06 22:18:56	tnk1/messages/nvir_dwd_wbt7_0_0_1.html	תגובה ל: תגובה ל: איך חזל ניקו את דוד מחטא אשת איש?	ארנון	naharon @ hotmail.com	112
 tnk1/messages/nvia_tryasr_yona_xvi_0.html	תגובה	2005-11-16 15:20:42	2005-11-16 15:20:42	tnk1/messages/nvia_tryasr_yona_xvi_0_0.html	תגובה ל: תגובה ל: המבחן של יונה	סהר טליאס		112
 tnk1/messages/ljon_jorj_nxl1_0.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/ljon_jorj_nxl1_0_0.html	תגובה ל: נחלת שמשון			112
-tnk1/messages/odot_4_4.html	תגובה	2005-03-30 11:30:50	2005-03-30 11:30:50	tnk1/messages/odot_4_4_0.html	רק בפורום חדש	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/odot_4_4.html	תגובה	2005-03-30 11:30:50	2005-03-30 11:30:50	tnk1/messages/odot_4_4_0.html	רק בפורום חדש	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0.html	תגובה	2005-05-09 12:48:13	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה לארנון	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_thlim_th-137-09_0.html	תגובה	2005-01-10 20:07:50	2005-01-10 20:07:50	tnk1/messages/ktuv_thlim_th-137-09_0_0.html	כל עונש פוגע גם במשפחתו של העבריין	אראל		112
 tnk1/messages/ktuv_thlim_th-119l_0_0.html	תגובה	2005-05-09 21:55:36	2005-05-13 18:50:36	tnk1/messages/ktuv_thlim_th-119l_0_0_0.html	תגובה ל: לעולם	ארנון	naharon @ hotmail.com	112
-tnk1/messages/odot_4_6_1.html	תגובה	2005-10-07 08:42:25	2005-10-07 08:42:25	tnk1/messages/odot_4_6_1_0.html	הנה כמה ביטויים מהזמן האחרון	אראל	erelsgl1@tora.us.fm	112
+tnk1/messages/odot_4_6_1.html	תגובה	2005-10-07 08:42:25	2005-10-07 08:42:25	tnk1/messages/odot_4_6_1_0.html	הנה כמה ביטויים מהזמן האחרון	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה	2005-06-19 13:56:25	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0_0_0_0_0_0_0.html	תגובה ל: קבל את דבריהם!	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0.html	תגובה	2005-06-09 18:59:24	2006-04-26 09:08:45	tnk1/messages/ktuv_thlim_sdryom_2_0_0_0_0_0_0_0.html	תגובה ל: עוד דבר	ארנון	naharon @ hotmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-12_0_1_1.html	תגובה	2005-03-29 19:28:56	2005-03-30 15:48:53	tnk1/messages/ktuv_mjly_mj-31-12_0_1_1_0.html	תגובה ל: תגובה ל: תגובה ל: תגובה ל: גמלתהו טוב ולא רע	ארנון	naharon @ hotmail.com	112
-tnk1/messages/ktuv_mjly_mj-31-12_0_0_0.html	תגובה	2005-03-31 18:45:05	2005-03-31 18:45:05	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/ktuv_mjly_mj-31-12_0_0_0.html	תגובה	2005-03-31 18:45:05	2005-03-31 18:45:05	tnk1/messages/ktuv_mjly_mj-31-12_0_0_0_0.html	טענות על הרמב"ם - לא כאן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/ktuv_mjly_mj-31-12_0.html	תגובה	0000-00-00 00:00:00	2006-09-28 15:20:45	tnk1/messages/ktuv_mjly_mj-31-12_0_0.html	תגובה ל: תגובה ל: גמלתהו טוב ולא רע	נפתלי (אבא של אסתי (סלוטקי) קליין)	"אוהבה כגופו..."	112
-tnk1/messages/kma_hvdlim1_uzya_wazrya_0.html	תגובה	2005-03-29 17:50:07	2005-03-29 17:50:07	tnk1/messages/kma_hvdlim1_uzya_wazrya_0_0.html	תגובה ל: תגובה ל: סיכמתי את הפסוקים שבהם מופיעים עזריה ועוזיה בספרי הנביאים:	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/messages/kma_hvdlim1_uzya_wazrya_0.html	תגובה	2005-03-29 17:50:07	2005-03-29 17:50:07	tnk1/messages/kma_hvdlim1_uzya_wazrya_0_0.html	תגובה ל: תגובה ל: סיכמתי את הפסוקים שבהם מופיעים עזריה ועוזיה בספרי הנביאים:	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/messages/klli_mdrjim_myldot_0.html	תגובה	2004-12-13 21:57:33	2004-12-13 21:57:33	tnk1/messages/klli_mdrjim_myldot_0_0.html	תגובה ל: תגובה ל: המיילדות העבריות	אלכס		112
 tnk1/messages/klli_mdrjim_127_0.html	תגובה	2005-02-21 17:30:51	2005-02-21 17:30:51	tnk1/jdl/MefarsheyTanach001-23.htm	הסתמכתי על גרסה שמצאתי בפירוש שד"ל, שהיא הגיונית יותר	אראל		112
 tnk1/messages/klli_limud_hqblot_0.html	תגובה	2005-04-13 21:57:38	2005-04-13 21:57:38	tnk1/messages/klli_limud_hqblot_0_0.html	תגובה ל: תגובה ל: האם יש לחפש הקבלות בין סיפורי התנך לאירועים בימינו?	ארנון	naharon @ hotmail.com	112
@@ -1603,8 +1603,8 @@ tnk1/ezor/mqomot/temple.html	תגובה	2005-06-06 18:19:31	2005-06-06 18:19:31	
 tnk1/ezor/mqomot/temple.html	תגובה	2005-06-21 15:15:15	2005-06-21 15:15:15	tnk1/messages/ezor_mqomot_temple_1.html	תגובה ל: תרשימים של ירושלים ובית-המקדש	דוד ג. (dggellman2002 @ yahoo.com)		112
 tnk1/dmut/ToknLfiDmutHkl.html	תגובה	2006-10-04 22:11:58	2011-11-28 09:18:44	tnk1/messages/dmut_ToknLfiDmutHkl_0.html	תגובה על: כל הדמויות (האנושיות) מכל התנך פרט לעזרא-נחמיה-דברי הימים	רמי ניר		112
 tnk1/dmut/ToknLfiDmutGvr.html	תגובה	2005-05-15 14:21:08	2005-05-15 14:53:32	tnk1/messages/dmut_ToknLfiDmutGvr_0.html	תוספת ל: גברים	ארנון	naharon @ hotmail.com	112
-tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/dmut/dmut/1189.html	יהוכל בן שלמיהו	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/dmut/dmut/1168.html	ברוך בן נריה	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/dmut/dmut/1189.html	יהוכל בן שלמיהו	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/dmut/dmut/1168.html	ברוך בן נריה	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	2005-08-22 00:29:09	tnk1/messages/dmut_out_0.html	הערה...	דינה		112
 tnk1/dmut/out.html	תגובה	0000-00-00 00:00:00	2014-05-13 12:18:50	tnk1/dmut/dmut/514.html	בלעם	איתי	itaikagan @ gmail.com	112
 tnk1/dmut/bb91a.html	תגובה	2006-05-16 11:43:53	2006-05-16 11:45:25	tnk1/messages/dmut_bb91a_0.html	עוד שמות	אביתר כהן	evycohen @ walla.com	112
@@ -1756,8 +1756,8 @@ tnk1/forums.html	שיר	2011-05-27 08:21:42	2011-05-27 08:21:42	tnk1/messages/fo
 tnk1/prqim/t1040.htm	כלל	2011-05-28 15:18:35	2011-05-28 21:42:30	tnk1/messages/prqim_t1040_4.html	כבגד עדים כל צדקתינו	חגי הופר		60
 tnk1/kma/hvdlim1/yj.html	תגובה	2005-06-05 10:19:01	2005-06-05 10:19:01	tnk1/messages/kma_hvdlim1_yj_0.html	תגובה ל: יש לי רב - יש לי כל	משה	lpe @ netvision.net.il	112
 tnk1/kma/hvdlim1/magl_yjr.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/kma_hvdlim1_magl_yjr_0.html	תגובה: מעגל = עגה = עקום	אביתר כהן	evycohen @ walla.co.il	112
-tnk1/kma/hvdlim1/jma_hqjiv.html	תגובה	0000-00-00 00:00:00	2005-07-05 20:25:31	tnk1/messages/kma_hvdlim1_jma_hqjiv_0.html	וראה = הביט?	נדב	nachat @ tora.us.fm.antispam	112
-tnk1/kma/hvdlim1/jma_hqjiv.html	תגובה	0000-00-00 00:00:00	2005-07-06 11:09:44	tnk1/messages/kma_hvdlim1_jma_hqjiv_1.html	ועוד שאלה	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/kma/hvdlim1/jma_hqjiv.html	תגובה	0000-00-00 00:00:00	2005-07-05 20:25:31	tnk1/messages/kma_hvdlim1_jma_hqjiv_0.html	וראה = הביט?	נדב		112
+tnk1/kma/hvdlim1/jma_hqjiv.html	תגובה	0000-00-00 00:00:00	2005-07-06 11:09:44	tnk1/messages/kma_hvdlim1_jma_hqjiv_1.html	ועוד שאלה	נדב		112
 tnk1/kma/hvdlim1/sgnon.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/1496.html	תגובה			112
 tnk1/ljon/jorj/klb1.html	הגדרה	2007-06-11 03:25:29	2022-01-11 17:01:27	tnk1/kma/qjrim1/klv.html	כלב - חיה בזויה	אראל		30
 tnk1/ljon/jorj/sjh.html	דיון1	2007-06-11 03:46:11	2007-06-11 04:15:59	tnk1/tora/jmot/jm-13-13.html	ופטר חמור תפדה בשה	אראל		10
@@ -1812,7 +1812,7 @@ tnk1/kma/qjrim1/arvut.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tn
 tnk1/kma/qjrim1/rk.html	תגובה	2005-10-23 10:36:28	2005-10-23 10:36:28	tnk1/messages/kma_qjrim1_rk_0.html	תגובה: הגדרה: רך = רגיש, מושפע בקלות מכוחות חיצוניים	אתי		112
 tnk1/kma/qjrim1/z.html	תגובה	2005-05-06 10:59:15	2005-05-06 10:59:15	tnk1/messages/kma_qjrim1_z_0.html	תגובה ל: זה, זאת, אלה, אלו - למה הם רומזים?	ארנון	naharon @ hotmail.com	112
 tnk1/kma/qjrim1/moldt.html	תגובה	2005-12-05 19:51:32	2005-12-05 19:51:32	tnk1/messages/kma_qjrim1_moldt_0.html	תגובה ל: הגדרה: מולדת = מקום המשפחה	לין שביט		112
-tnk1/kma/qjrim1/el.html	תגובה	2005-03-08 16:32:58	2005-03-08 21:57:10	tnk1/messages/kma_qjrim1_el_0.html	אֵלים = כוחות	נדב	nachat @ tora.us.fm.antispam	112
+tnk1/kma/qjrim1/el.html	תגובה	2005-03-08 16:32:58	2005-03-08 21:57:10	tnk1/messages/kma_qjrim1_el_0.html	אֵלים = כוחות	נדב		112
 tnk1/kma/qjrim1/xjbon.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	nxtboard/messages/4936.html	תגובה ל: שיעורים בחשבון			112
 tnk1/kma/qjrim1/xjbon.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	nxtboard/messages/4943.html	סדרה הנדסית			112
 tnk1/kma/qjrim1/txbla.html	תגובה	2007-11-24 12:01:19	2007-11-24 12:01:19	tnk1/messages/kma_qjrim1_txbla_0.html	הנבואה הכתובה...היא התחבולה נגד אחמדי-נג'אד...	רמי ניר		\N
@@ -1873,9 +1873,9 @@ tnk1/kma/qjrim1/pra.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1
 tnk1/kma/qjrim1/arubot.html	תגובה	2005-03-27 22:10:54	2005-03-31 08:31:24	tnk1/messages/kma_qjrim1_arubot_0.html	תגובה ל: ארובות השמיים - אז והיום	ארנון	naharon @ hotmail.com	112
 tnk1/kma/qjrim1/arubot.html	תגובה	2006-02-13 09:35:18	2013-10-02 00:33:58	tnk1/messages/kma_qjrim1_arubot_1.html	המים אשר מעל השמים נזכרו גם בספר תהלים	רוח דרומית		112
 tnk1/kma/qjrim1/stn.html	תגובה	2005-06-01 11:11:52	2020-04-29 06:21:25	tnk1/messages/kma_qjrim1_stn_0.html	תגובה ל: שטן = אויב סובייקטיבי ולא רע אובייקטיבי	דנה, תנך זורם אצלי בדם		112
-tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:47:58	2005-05-10 12:47:58	axrimpl/hydepark/1193582_1.html	-	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:49:51	2005-05-10 12:49:51	axrimpl/hydepark/1100535_1.html	-	אראל	erelsgl1 @ tora.us.fm	112
-tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:52:52	2005-05-10 12:52:52	axrimpl/hydepark/1294736_1.html	מלאכה שהותחלה לפני שבת	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:47:58	2005-05-10 12:47:58	axrimpl/hydepark/1193582_1.html	-	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:49:51	2005-05-10 12:49:51	axrimpl/hydepark/1100535_1.html	-	אראל	erelvgalya+tnk1@gmail.com	112
+tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 12:52:52	2005-05-10 12:52:52	axrimpl/hydepark/1294736_1.html	מלאכה שהותחלה לפני שבת	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/kma/qjrim1/mlaka.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/599444_1.html	-	אראל	עצור כאן חושבים	112
 tnk1/kma/qjrim1/mlaka.html	tryg	2005-05-10 13:48:03	2005-05-10 13:48:03	axrimpl/hydepark/1292598_1.html	--	אראל		112
 tnk1/kma/qjrim1/reh.html	תגובה	2005-10-09 13:33:02	2005-10-09 23:20:36	tnk1/messages/kma_qjrim1_reh_0.html	מאמר: רועה = הולך בעקבות..	אביתר כהן	evycohen @ walla.co.il	112
@@ -1929,7 +1929,7 @@ tnk1/tora/amlq_wbnim.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/h
 tnk1/tora/gruj_xrm.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/7042.html	תגובה ל: לגרש או להחרים?			112
 tnk1/tora/gruj_xrm.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/7044.html	בשם אומרו...			112
 tnk1/tora/mym.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/tora_mym_0.html	תגובה ל: מים נקיים = בריאות	רפאל שחורי	raphael_schory @ walla.co.il	112
-tnk1/tora/bznm10.html	tryg	2005-05-10 13:00:47	2005-05-10 13:00:47	axrimpl/hydepark/1296617_1.html	פורסם כאן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/tora/bznm10.html	tryg	2005-05-10 13:00:47	2005-05-10 13:00:47	axrimpl/hydepark/1296617_1.html	פורסם כאן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/tora/amlq_axryut.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1318162_1.html	פורסם כאן	-> עצור כאן חושבים		112
 tnk1/tora/min_waxryut.html	תגובה	0000-00-00 00:00:00	2005-05-04 21:21:57	tnk1/messages/3437.html	מותר או אסור??			112
 tnk1/tora/min_waxryut.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/3460.html	תגובה ל: מין ואחריות			112
@@ -1985,7 +1985,7 @@ tnk1/tora/jmot/jm-21-22.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	
 tnk1/tora/jmot/jm-21-22.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/tora_jmot_jm-21-22_1.html	מעמד שונה לעובר	אלכס		112
 tnk1/tora/jmot/jm-21-22.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1668648_1.html	פורסם גם כאן	אראל	דרישת ה באמצעות חקר המקרא	112
 tnk1/tora/jmot/jm-08-15.html	תגובה	2004-12-23 04:35:29	2004-12-23 04:35:29	tnk1/messages/tora_jmot_jm-08-15_0.html	מהי מכת הכנים?	הדר דהן		112
-tnk1/tora/jmot/jm-03-1315.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1450264_1.html	פורסם גם כאן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/tora/jmot/jm-03-1315.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1450264_1.html	פורסם גם כאן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/tora/jmot/jm-03-1315.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1664464_1.html	פורסם גם כאן	אראל	עצור כאן חושבים	112
 tnk1/tora/wyqra/wy-20-27.html	תגובה	2005-05-15 04:59:05	2007-11-22 10:44:06	tnk1/kma/qjrim2/sofim.html	סיומים מוזרים	אראל		112
 tnk1/tora/wyqra/wy-19-18-xyim.html	תגובה	2004-11-26 00:52:01	2004-11-26 00:52:01	tnk1/messages/tora_wyqra_wy-19-18-xyim_0.html	תגובה ל: ואהבת לרעך כמוך - למי בדיוק צריך לאהוב?	גיל	gisaben @ zahav.net.il	112
@@ -2510,7 +2510,7 @@ tnk1/klli/mdrjim/evl.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/h
 tnk1/izru.html	מאמר	2008-05-13 11:46:13	2011-12-20 23:47:27	tnk1/messages/izru_1.html	פרסומות באתר	צחור		60
 tnk1/prqim/t0325.htm	מאמר	2008-05-13 22:54:52	2008-05-13 22:54:52	tnk1/messages/prqim_t0325_1.html	פרשת "בהר" : משמיטה ויובל להרמוניה של מספרים	motinue	motele777 @ gmail.com	60
 tnk1/klli/mdrjim/ps04.html	tryg	0000-00-00 00:00:00	0000-00-00 00:00:00	axrimpl/hydepark/1770443_3.html	פירוש פשוט יותר לדרשות חז"ל על המילה "ראשון"	תלמיד	עצור כאן חושבים	112
-tnk1/klli/limud/asmkta.html	tryg	2005-05-09 12:17:08	2005-05-09 12:17:08	axrimpl/hydepark/1308669_1.html	פורסם גם כאן	אראל	erelsgl1 @ tora.us.fm	112
+tnk1/klli/limud/asmkta.html	tryg	2005-05-09 12:17:08	2005-05-09 12:17:08	axrimpl/hydepark/1308669_1.html	פורסם גם כאן	אראל	erelvgalya+tnk1@gmail.com	112
 tnk1/klli/limud/simnim.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	nxtboard/messages/2435.html	טעות בפסוק המצוטט?			112
 tnk1/klli/limud/simnim.html	תגובה	0000-00-00 00:00:00	0000-00-00 00:00:00	tnk1/messages/klli_limud_simnim_0.html	טעות ברשימת מקור	גרדול		112
 tnk1/klli/limud/prjot4.html	תגובה	2005-02-28 15:20:57	2005-02-28 15:20:57	tnk1/messages/klli_limud_prjot4_0.html	חלוקת התנ"ך ללימוד אחת לשבוע	צחור		112
