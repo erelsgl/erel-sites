@@ -411,7 +411,7 @@ function linkToOurSearchResults(query) {
 function uriOfGoogleSearchResults(query) {
 	return "https://www.google.co.il/search?hl=iw&q=" + 
 		query.replace(/ /g,"+") + 
-		"+site:www.tora.us.fm" + 
+		"+site:tora.quest" + 
 		"&meta=&ie=windows-1255&oe=windows-1255&num=100";
 }
 

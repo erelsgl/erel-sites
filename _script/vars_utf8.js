@@ -2370,7 +2370,7 @@ function show_table_warning() {
 function submitGoogle(theForm) {
 	theForm.ie.disabled=theForm.oe.disabled=theForm.hl.disabled=theForm.q.disabled=theForm.meta.disabled=theForm.num.disabled=theForm.lr.disabled=false; 
 	theForm.mslul.disabled=theForm.erk.disabled=true; 
-	theForm.q.value=theForm.erk.value+" site:www.tora.us.fm"; 
+	theForm.q.value=theForm.erk.value+" site:tora.quest"; 
 	theForm.action="http://www.google.co.il/search"; 
 	theForm.submit(); 
 	theForm.mslul.disabled=theForm.erk.disabled=false;
@@ -2830,7 +2830,7 @@ function linkToOurSearchResults(query) {
 function uriOfGoogleSearchResults(query) {
 	return "https://www.google.co.il/search?hl=iw&q=" + 
 		query.replace(/ /g,"+") + 
-		"+site:www.tora.us.fm" + 
+		"+site:tora.quest" + 
 		"&meta=&ie=windows-1255&oe=windows-1255&num=100";
 }
 
