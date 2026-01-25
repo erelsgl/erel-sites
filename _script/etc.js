@@ -4,10 +4,6 @@
 path_from_document_to_scripts = path_from_document_to_site + '../_script/';
 is_local = 	/localhost/.test(location.href);
 
-// var urlToLike = "https://tora.us.fm/"+path_from_root_to_document;
-// var facebookLikeButton = "<iframe src='https://www.facebook.com/plugins/like.php?href=" +
-// 		urlToLike+"' scrolling='no' frameborder='0' style='border:none; width:450px; height:80px'></iframe>\n";
-
 select_other_versions = 
 	!/\/t0/.test(path_from_root_to_document) && 
 	!/\/index/.test(path_from_root_to_document) && 
