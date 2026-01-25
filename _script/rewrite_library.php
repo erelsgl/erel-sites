@@ -1,7 +1,8 @@
 <?php
 
 /*
- ÷éãåã çìåðåú!
+ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!
+ 
 */
 
 require_once('callback.php');
@@ -93,7 +94,7 @@ function add_page() {
 			die(static_text('hyperlink has spaces'));
 
 		if (preg_match("/print.php?.*ktovt=([^&]*)/",$addHyperlink,$matches))
-			$addHyperlink="https://tora.us.fm/$matches[1]";
+			$addHyperlink="https://tora.quest/$matches[1]";
 	}
 	else {
 		$addHyperlink = '';
@@ -143,8 +144,11 @@ function add_page() {
 		$addHyperlink = str_replace("#tguvot","",$addHyperlink);
 
 		$path_from_root_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}","", $addHyperlink);
+		$path_from_root_to_reply = preg_replace("{https?://(www.)?tora.quest/}","", $path_from_root_to_reply);
 		$path_from_site_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}", "../", $addHyperlink);
+		$path_from_site_to_reply = preg_replace("{https?://(www.)?tora.quest/}", "../", $path_from_site_to_reply);
 		$path_from_document_to_reply = preg_replace("{https?://(www.)?tora.us.fm/}", "$path_from_document_to_root", $addHyperlink);
+		$path_from_document_to_reply = preg_replace("{https?://(www.)?tora.quest/}", "$path_from_document_to_root", $path_from_document_to_reply);
 
 		if (preg_match("/^https?:/", $path_from_site_to_reply)) 
 			$titleType = ' [' . static_text('external') . ']';
@@ -204,6 +208,7 @@ function add_page() {
 			$path_from_reply_to_site = str_repeat('../', $omq);
 			$path_from_reply_to_root = str_repeat('../', ($omq+1));
 			$body =  preg_replace("{<a href=([\"']?)https?://(www.)?tora.us.fm/}", "<a href=$1$path_from_reply_to_root", $body);
+			$body =  preg_replace("{<a href=([\"']?)https?://(www.)?tora.quest/}", "<a href=$1$path_from_reply_to_root", $body);
 
 			if (!preg_match("/<.*>/",$body)) { // not html - convert spaces to html
 				$body = preg_replace("/[\r\n]+/","<p>",$body);
@@ -771,6 +776,7 @@ function fix_html($body) {
 	if ($body) {
 		if (preg_match("/htm/",$ext)) $body = sanitize_tags($body);
 		$body = preg_replace("{href=([\"']?)https?://(www.)?tora.us.fm/}", "href=$1/", $body); #links are fixed here, for convenience.
+		$body = preg_replace("{href=([\"']?)https?://(www.)?tora.quest/}", "href=$1/", $body); #links are fixed here, for convenience.
 		$body = preg_replace("{href=([\"']?)[^<>\"']*(_script|cgi-bin)/print[.](php|pl)[?][^<>\"']*ktovt=([^<>&='\"]*)}", "href=$1/$4.html", $body);
 		$body = preg_replace("@<h(\d)>\s*(<p>|<br>|<br/>|<br />)+@", "<h$1>", $body);
 		$body = preg_replace("@(</p>|<br>|<br/>|<br />)+\s*</h(\d)>@", "</h$2>", $body);
@@ -805,6 +811,7 @@ function mirrorUrl($url, $directory_for_file, $file_name, $title) {
 	print "<p>getting $url</p>\n";
 	$content = file_get_contents($url);
 	$content = preg_replace("{https?://(www)?.tora.us.fm/}i","../../",$content);
+	$content = preg_replace("{https?://(www)?.tora.quest/}i","../../",$content);
 	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*topic_id=(\d+)}i","../../axrimpl/hydepark/$1_1.html",$content);
 	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*topic_id=(\d+)[^ ]*whichpage=(\d+)}i","../hydepark/$1_$2.html",$content);
 	$content = preg_replace("{https?://[^ ]*hydepark[^ ]*whichpage=(\d+)[^ ]*topic_id=(\d+)}i","../hydepark/$2_$1.html",$content);
