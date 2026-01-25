@@ -8,7 +8,7 @@
 	" <link rel='stylesheet' href='../forum.css' />$newline":
 	" <link rel='stylesheet' href='${path_from_reply_to_root}_script/klli.css' />$newline" .
 	" <link rel='stylesheet' href='${path_from_reply_to_site}_themes/klli.css' />$newline" .
-	" <link rel='canonical' href='http://tora.quest/$path_from_root_to_reply' />$newline") .
+	" <link rel='canonical' href='http://tora.us.fm/$path_from_root_to_reply' />$newline") .
 	" <title>$title_without_html</title>$newline" .
 	" <meta name='author' content='$username' />$newline" .
 	" <meta name='receiver' content='$email' />$newline" .
@@ -22,7 +22,7 @@
 	"<div class='NiwutElyon'>" . 
 	"<a class='link_to_homepage' href='".
 	(preg_match('/9083/',$path_from_site_to_document)? "/aba": "${path_from_reply_to_site}index.html") .
-	"'>" . ($lang eq 'en'? "main": "пїЅпїЅпїЅпїЅ")  . "</a>" .
+	"'>" . ($lang eq 'en'? "main": "шащй")  . "</a>" .
 	"&gt;" .
 	($path_from_site_to_document? "<a href='$path_from_reply_to_site$path_from_site_to_document$optional_ext'>$origsubject</a>&gt;": "" ) .
 	"</div>$newline</div>$newline" .
@@ -32,8 +32,8 @@
 	
 (($bodyclass eq "mptx" or $bodyclass eq "findpsuq")? "": 
 	("<div id='idfields'>$newline" .
-	"<p>пїЅпїЅпїЅ: $username</p>$newline" .
-	($email? "<p>пїЅпїЅ: $email</p>$newline": "") .
+	"<p>оаъ: $username</p>$newline" .
+	($email? "<p>ам: $email</p>$newline": "") .
 	"</div>$newline")) .
 
 	"<script type='text/javascript' src='${path_from_reply_to_root}_script/" .
@@ -46,7 +46,7 @@
 
 	(($bodyclass eq "newarticle" or $bodyclass eq "newsubject" or $bodyclass eq "sgulot" or $tvnit)? "":
 		"<p class='teur_tguva'>" . 
-		($lang eq 'en'? "Written: $date_for_html, as an addition/reply to:": "пїЅпїЅпїЅпїЅ пїЅ: $date_for_html, пїЅпїЅпїЅпїЅпїЅпїЅ/пїЅпїЅпїЅпїЅпїЅ пїЅ: ") . 
+		($lang eq 'en'? "Written: $date_for_html, as an addition/reply to:": "рлъб б: $date_for_html, лъесфъ/ъвебд м: ") . 
 		"<a href='$path_from_reply_to_site$path_from_site_to_document$optional_ext'>$origsubject</a></p>$newline") .
 		
 ($fullbody? 
@@ -58,15 +58,15 @@
 	($body||preg_match('/9083/',$path_from_site_to_document)? "$body$newline<br />$newline": 
 		($lang eq 'en'?
 			"[Edit the document by clicking one of the edit buttons below]$newline":
-			"[пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ-пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ 'пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ' пїЅпїЅ 'пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ']$newline") ) .
+			"[рйъп мдесйу ъелп мгу тм-йгй мзйцд тм 'ъчп гу жд' ае 'тцб гу жд']$newline") ) .
          "<br />$newline" .
 
 	"</div><!--tokn-->$newline" .
 	
 	(preg_match('/9083/',$path_from_site_to_document)? "": "<h2 id='tguvot'>" . 
 	($bodyclass eq 'newsubject'? 
-		($lang eq 'en'? "Subjects": "пїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ"):
-		($lang eq 'en'? "Replies": "пїЅпїЅпїЅпїЅпїЅпїЅ" )  ) .
+		($lang eq 'en'? "Subjects": "ъъ-рещайн"):
+		($lang eq 'en'? "Replies": "ъвебеъ" )  ) .
 	"</h2>$newline$newline" .
 	"<ul id='ultguvot'>$newline$newline" .
 	"<li></li>$newline$newline" .
