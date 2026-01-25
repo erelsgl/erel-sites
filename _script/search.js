@@ -4,10 +4,11 @@
 // required vars: site, path_from_site_to_cgi
 // optional vars: erk, new_window
 
+
 function submitGoogle(theForm) {
 	theForm.ie.disabled=theForm.oe.disabled=theForm.hl.disabled=theForm.q.disabled=theForm.meta.disabled=theForm.num.disabled=theForm.lr.disabled=false; 
 	theForm.mslul.disabled=theForm.erk.disabled=true; 
-	theForm.q.value=theForm.erk.value+" site:www.tora.us.fm"; 
+	theForm.q.value=theForm.erk.value+" site:www.tora.quest"; 
 	theForm.action="http://www.google.co.il/search"; 
 	theForm.submit(); 
 	theForm.mslul.disabled=theForm.erk.disabled=false;
@@ -46,7 +47,7 @@ function submitFindTaconite(theForm) {
 
 function goSfrPrq(sfr, prq) {
 	if (sfr.length>0)
-		top.location.href = "http://tora.us.fm/tnk1/prqim/t"+sfr+prq+".htm";
+		top.location.href = "http://tora.quest/tnk1/prqim/t"+sfr+prq+".htm";
 }
 
 
