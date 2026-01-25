@@ -32,6 +32,50 @@ gfc_skin['CONTENT_HEADLINE_COLOR'] = '#333333';
 var SUBSEQUENT_CLICKS_TO_EDIT = 10;
 
 
+////////////// Show or Hide Elements /////////\
+// [copied from the old rte.js file]
+
+function showHideElement(element, showHide, rePosition){
+	//function to show or hide elements
+	//element variable can be string or object
+	if(document.getElementById(element)){
+		element = document.getElementById(element);
+	}
+	if(showHide == "show"){
+		element.style.visibility = "visible";
+		if(rePosition){
+			element.style.position = "relative";
+			element.style.left = "auto";
+			element.style.top = "auto";
+		}
+	}else if(showHide == "hide"){
+		element.style.visibility = "hidden";
+		if(rePosition){
+				element.style.position = "absolute";
+				element.style.left = "-1000px";
+				element.style.top = "-1000px";
+		}
+	}
+}
+
+// function added by Erel
+// usage:
+// 	showHideRte(rte, "show")
+// 	showHideRte(rte, "hide")
+function showHideRTE(rte, showHide) {
+	var display = (showHide == 'show'? '': 'none');
+	// not all parts exist for each rte, so we ignore errors
+	try {document.getElementById('Buttons1_'+rte).style.display = display ; } catch(e) {}
+	try {document.getElementById('Buttons2_'+rte).style.display = display ; } catch(e) {}
+	try {document.getElementById('vs'+rte).style.display = display ; } catch(e) {}
+	// if (isIE) {	
+	document.getElementById(rte).style.display = display;
+	// else showHideElement(rte, showHide, false);  // "true" causes an error in Mozilla
+}
+
+
+
+
 var lang = document.body.lang;
 
 function initialLanguage() {
@@ -467,27 +511,57 @@ function P2LI(html) {
 	return result;
 }
 
+/*
+function standardizeHTMLBnim(bnimHTML) {
+	return 	"<ul id='ulbnim'>\r\n" + 
+		standardizeHTMLTguvot(bnimHTML) + "\r\n" +
+		"</ul><!--end-->\r\n\r\n";
+}
+
+function standardizeHTMLTosftAndBnim(tosftHTML, bnimHTML) {
+	return 	"<!--tosft0--><div id='tosft'>\r\n" +
+		standardizeHTMLTokn(tosftHTML) + "\r\n" +
+		"</div><!--tosft1-->\r\n"+
+		standardizeHTMLBnim(bnimHTML);
+}
+
+
+function standardizeHTML() {
+	if (theTokn && theTguvot) {
+		return standardizeHTMLToknAndTguvot(theTokn.innerHTML, theTguvot.innerHTML);
+	}
+	else if (theBnim && theTosft) {
+		return standardizeHTMLTosftAndBnim(theTosft.innerHTML, theBnim.innerHTML);
+	}
+	else if (theBnim) {
+		return standardizeHTMLBnim(theBnim.innerHTML);
+	}
+	else {
+		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
+	}
+}
+*/
 
 function standardizeHTMLTokn(theHTML) {
 	theText = theHTML.
-	/* add newline before a start-tag (except an underline and a super/subscript) */
+	//* add newline before a start-tag (except an underline and a super/subscript) 
 		replace(/(<[^uU\/!])/ig,"\r\n$1").
 		replace(/\r\n(<su[bp]>)/ig,"$1").
-	/* add space after an end-tag (except an underline and a subscript) */
+	//* add space after an end-tag (except an underline and a subscript) 
 		replace(/(<\/[^uUaA>][^>]*>)/ig,"$1 ").
 		replace(/(<\/su[bp]>) /ig,"$1").
-	/* move space from end of tags to after the tags */
+	//* move space from end of tags to after the tags 
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
 		replace(/ (<\/[^>]*>)/ig,"$1 ").
-	/* remove links and meta-tags that somehow get into the text (through word, for example) */
+	//* remove links and meta-tags that somehow get into the text (through word, for example) 
 		replace(/<link[^>]*>/ig,"").
 		replace(/<meta[^>]*>/ig,"").
-	/* replace deprecated elements with styles */
+	//* replace deprecated elements with styles 
 		replace(/<u>([^<]*)<\/u>/ig,"<span class='u'>$1</span>").
 		replace(/(<\/sub>) /ig,"$1").
 		replace(/<o:p>\s*<\/o:p>/ig,"").
-	/* remove unneeded properties (added by "Word") */
+	//* remove unneeded properties (added by "Word") 
 		replace(/<o:p>\s*<\/o:p>/ig,"").
 		replace(/<\/?o:p>/ig,"").
 		replace(/ class=MsoNormal[a-z]*/ig,"").
@@ -495,17 +569,17 @@ function standardizeHTMLTokn(theHTML) {
 		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
 		replace(/TEXT-INDENT: -[0-9a-z.]*/ig,"").
-	/* remove unneeded properties (added by "Visual Studio") */
+	//* remove unneeded properties (added by "Visual Studio") 
 		replace(/href=\"vid:/ig,"href=\"").
 		replace(/margin[^ ">]*:\s*[^ ">]*/ig,"").
 		replace(/style=[\"\'][\"\']/ig,"").
-	/* remove unneeded properties (added by Mozilla) */
+	//* remove unneeded properties (added by Mozilla) 
 		replace(/ wrap=\"\"/ig,"").
 		replace(/ class=\"moz-txt-citetags\"/ig,"").
 		replace(/ border-collapse:\s*collapse/ig, "").
 		replace(/ lang=["']["']/ig, "").
 		replace(/ target=["']?_self["']?/ig, "").
-	/* remove unneeded spans */
+	//* remove unneeded spans 
 		replace(/<span[^>]*>\s*<\/span>/ig,"").
 		replace(/<span>([^<]*)<\/span>/ig,"$1").
 		replace(/<span[^>]*>\s*<\/span>/ig,"").
@@ -513,33 +587,33 @@ function standardizeHTMLTokn(theHTML) {
 		replace(/<font[^>]*>\s*<\/font>/ig,"").
 		replace(/<a[^>]*>\s*<\/a>/ig,"").
 		replace(/<q[^>]*>\s*<\/q>/ig,"").
-	/* remove problematic FireFox list elements */
+	//* remove problematic FireFox list elements 
 		replace(/<ul>\s*<li>\s*<\/li>\s*<\/ul>/ig,"").  // empty list
 		replace(/<\/li>\s*<ul>/ig,"<ul>").                  // list inside list
-	/* remove unallowed character-data */
+	//* remove unallowed character-data 
 		replace(/(<[oud]l[^>]*>\s*)&nbsp;/ig,"$1").
 		replace(/(<\/li[^>]*>\s*)&nbsp;/ig,"$1").
-	/* remove unallowed tags */
+	//* remove unallowed tags 
 		replace(/<p>\s*(<\/[^p])/ig,"$1").
-	/* create small text: replace "[[...]]" with "<small>...</small>" */
+	//* create small text: replace "[[...]]" with "<small>...</small>" 
 		replace(/\[\[/ig, "<small>").
 		replace(/\]\]/ig, "<\/small>").
-	/* remove unneeded parts of a link */
+	//* remove unneeded parts of a link 
 		replace(/(\.htm)\?[^\"\'<>]*/ig,"$1").
-	/* fix span direction (for bidi text) */
+	//* fix span direction (for bidi text) 
 		//replace(/(<p[^>]*>\s*)(<B[^>]*>\s*)*(<span[^>]*>\s*)*(<span[^>]*)dir=...([^>]*>)/ig,"$1$2$3$4$5").
 		replace(/(<p[^>]*>)([^א-ת]*)(<span[^>]*)dir=\"?...\"?([^>]*>)/ig,"$1$2$3$4").
 		replace(/(<li[^>]*>)([^א-ת]*)(<span[^>]*)dir=\"?...\"?([^>]*>)/ig,"$1$2$3$4").
-	/* remove unneeded newlines */
+	//* remove unneeded newlines 
 		replace(/\r\n(\r\n)+/ig, "\r\n").
 		replace(/^\r\n/ig, "").
 		replace(/\r\n$/ig, "").
 		replace(/(<br[^>]*>\s*)(<br[^>]*>\s*)+/ig, "<p>").
-	/* remove unneeded comments */
+	//* remove unneeded comments 
 		replace(/<!--[a-z]-->/ig, "").
-	/* correct links */
+	//* correct links 
 		replace(/tnk\//ig, "tnk1/").
-	/* close tags*/
+	//* close tags
 		replace(/<p>\s*(<[hpou])/ig,"<p />$1").
 		replace(/<(hr[^>]*)>/ig, "<$1 />").
 		replace(/<(br[^>]*)>/ig, "<$1 />").
@@ -573,53 +647,23 @@ function standardizeHTMLToknAndTguvot(toknHTML, tguvotHTML) {
 		"</ul><!-" + "-end-->\r\n\r\n";
 }
 
-function standardizeHTMLBnim(bnimHTML) {
-	return 	"<ul id='ulbnim'>\r\n" + 
-		standardizeHTMLTguvot(bnimHTML) + "\r\n" +
-		"</ul><!--end-->\r\n\r\n";
-}
-
-function standardizeHTMLTosftAndBnim(tosftHTML, bnimHTML) {
-	return 	"<!--tosft0--><div id='tosft'>\r\n" +
-		standardizeHTMLTokn(tosftHTML) + "\r\n" +
-		"</div><!--tosft1-->\r\n"+
-		standardizeHTMLBnim(bnimHTML);
-}
-
-
-function standardizeHTML() {
-	if (theTokn && theTguvot) {
-		return standardizeHTMLToknAndTguvot(theTokn.innerHTML, theTguvot.innerHTML);
-	}
-	else if (theBnim && theTosft) {
-		return standardizeHTMLTosftAndBnim(theTosft.innerHTML, theBnim.innerHTML);
-	}
-	else if (theBnim) {
-		return standardizeHTMLBnim(theBnim.innerHTML);
-	}
-	else {
-		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
-	}
-}
-
 function standardizeHTMLRTE() {
 	if (theTokn && theTguvot) {
 		return standardizeHTMLToknAndTguvot($('#ToknRTE').val(), $('#TguvotRTE').val());
 	}
 	else if (theBnim && theTosft) {
-		updateRTE('ToknRTE');
-		updateRTE('TguvotRTE');
+		updateRTE('ToknRTE');    // from old rte.js
+		updateRTE('TguvotRTE');  // from old rte.js
 		return standardizeHTMLTosftAndBnim(document.getElementById('hdnToknRTE').value, document.getElementById('hdnTguvotRTE').value);
 	}
 	else if (theBnim) {
-		updateRTE('TguvotRTE');  
+		updateRTE('TguvotRTE');   // from old rte.js
 		return standardizeHTMLBnim(document.getElementById('hdnTguvotRTE').value);
 	}
 	else {
 		alert('התגלתה תקלה במבנה המסמך. נא להודיע למנהל האתר!');
 	}
 }
-
 
 function hideEdit() {
 	if (document.all) {
@@ -694,6 +738,47 @@ function minmax(val, min, max) {
 	return val<min? min: val>max? max: val;
 }
 
+
+
+/*
+// function added by Erel
+// set both the visible and the hidden size of the given RTE
+// Doesn't work on IE! 
+function setRTESize(rte,width,height) {
+	var oRTE = document.getElementById(rte);
+	var sRTE = document.getElementById('size'+rte);
+	var oBut1 = document.getElementById('Buttons1_'+rte);
+	var oVS = document.getElementById('vs'+rte);
+
+	if (isIE) {
+		oRTE.style = "width:"+(width-2)+"px; height:"+height+"px";  // Doesn't work!
+	}
+	else {
+		oRTE.style.width = "" + width-2 + "px";
+		oRTE.style.height = "" + height + "px";
+	}
+
+	if (sRTE) sRTE.value = height;
+	if (oBut1) oBut1.style.width = "" + width + "px";
+	if (oVS) oVS.style.width = "" + width + "px";
+}
+
+function returnRTE(rte) {
+	var rtn;
+	if(document.all){
+		rtn = frames[rte];
+	}else{
+		rtn = document.getElementById(rte);
+		if (rtn==null) {
+			//alert("rte '"+rte+"' is null");
+			return null;
+		}
+		else rtn = rtn.contentWindow;
+	}
+	return rtn;
+}
+
+
 function fixRTEAppearance() {
 	returnRTE('ToknRTE').document.body.dir = returnRTE('TguvotRTE').document.body.dir = document.body.dir;
 
@@ -706,6 +791,7 @@ function fixRTEAppearance() {
 		setRTESize('TguvotRTE', width, height2);
 	}
 }
+*/
 
 function fixTokn() {
 	t = theTokn.innerHTML;

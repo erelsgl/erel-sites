@@ -12,3 +12,9 @@ CREATE TABLE `qjr_tryg_tnk1` (
 
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/qjr_tryg_tnk1.txt'  INTO TABLE qjr_tryg_tnk1 (av,bn,kotrt,sug,sdr_bn,sdr_av,tarik_hosfa);
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tryg_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('תשובה אל ה\'','ביאור:איכה א20',60,10,'','ירושלים מתהפכת לטובה מתוך הצרה','2025-08-03 20:26:01');
+

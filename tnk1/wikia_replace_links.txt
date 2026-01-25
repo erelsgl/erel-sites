@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2025-06-29 20:17:29
+# This file was automatically generated at 2025-07-29 02:00:19
 
 sub wikia_replace_links {
 $_=shift;
@@ -2752,6 +2752,7 @@ s|${OPENLINK}tnk1/nvir/mlkimb/mb-06-2324|[[ביאור:ולא יספו - ויצר
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-04-35|[[ביאור:החייאת הילד - עיסוי לב?|ig;
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-0306|[[ביאור:המצור על מואב והמצור על שומרון|ig;
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-02.doc|[[ביאור:מלכים ב ב - ביטויים לשים לב אליהם (.doc)|ig;
+s|${OPENLINK}tnk1/nvir/mlkimb/mb-02-24|[[ביאור:קללת אלישע|ig;
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-02-2324|[[ביאור:אלישע ו-42 הנערים - כל המאמרים|ig;
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-02|[[ביאור:אלישע מפתיע|ig;
 s|${OPENLINK}tnk1/nvir/mlkimb/mb-01-10|[[ביאור:מדוע נשרפו שני שרי החמישים וחמישיהם?|ig;
@@ -9178,6 +9179,7 @@ s|${OPENLINK}tnk1/messages/dmut_dmut_600_1|[[ביאור:שמשון - דגם של
 s|${OPENLINK}tnk1/messages/dmut_dmut_600_0|[[ביאור:שמשון שפט 20 שנה חופף לימי שמואל|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_565_0|[[ביאור:דבורה מתעדת את "כוכב יעקב"|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_559_0|[[ביאור:גרא = איטר|ig;
+s|${OPENLINK}tnk1/messages/dmut_dmut_555_1|[[ביאור:יעבץ (עצב) = עתניאל (נתנאל)|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_555_0|[[ביאור:מי היה עתניאל בן קנז?|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_549_0|[[ביאור:ארבע אבי הענק עפרון וחברון|ig;
 s|${OPENLINK}tnk1/messages/dmut_dmut_542_0|[[ביאור:כלב והוא היה בן 85 שנה|ig;
@@ -11751,6 +11753,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/plg|[[ביאור:פלג מים = חלק מנהר, �
 s|${OPENLINK}tnk1/kma/qjrim1/pja|[[ביאור:פשע = בגידה, מרד בסמכות, פריקת עול|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pilug|[[ביאור:מתי זה טוב להתפצל?|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pga|[[ביאור:פגע = פגש בכאב|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/peaceman|[[ביאור:איש שלום|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/pdqewn|[[ביאור:פוקד עוון = מביא את העוון בחשבון|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/oz|[[ביאור:עוז = ביצור והגנה, או מרץ להתקפה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/oyn|[[ביאור:קשר בין ראיה לבין יריבות|ig;
