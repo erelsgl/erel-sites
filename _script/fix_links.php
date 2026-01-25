@@ -148,10 +148,16 @@ function fix_link_absolute($attribute_name, $old_link, $base_path) {
 
 	remove_unneeded_prefix("http://tora.us.fm",$old_link);
 	remove_unneeded_prefix("http://www.tora.us.fm",$old_link);
-	remove_unneeded_prefix("http://localhost",$old_link);
-	remove_unneeded_prefix("http://127.0.0.1",$old_link);
 	remove_unneeded_prefix("https://tora.us.fm",$old_link);
 	remove_unneeded_prefix("https://www.tora.us.fm",$old_link);
+
+	remove_unneeded_prefix("http://tora.quest",$old_link);
+	remove_unneeded_prefix("http://www.tora.quest",$old_link);
+	remove_unneeded_prefix("https://tora.quest",$old_link);
+	remove_unneeded_prefix("https://www.tora.quest",$old_link);
+
+	remove_unneeded_prefix("http://localhost",$old_link);
+	remove_unneeded_prefix("http://127.0.0.1",$old_link);
 	remove_unneeded_prefix("https://localhost",$old_link);
 	remove_unneeded_prefix("https://127.0.0.1",$old_link);
 
@@ -201,14 +207,14 @@ if (basename(__FILE__)==basename($_SERVER['PHP_SELF'])) {
 	print "<pre>".htmlspecialchars(fix_links('
 		<a class="psuq" href="../../prqim/t2809.htm#1">abc</a>
 		<a class="psuq" href="mj-02-02.html">abc</a>
-		<a href="https://tora.us.fm/abc.html">abc</a>
+		<a href="https://tora.quest/abc.html">abc</a>
 		<a href="mailto:xyz">abc</a>
 		', 'tnk1/ktuv/mjly/mj-01-01.html', 
 		'fix_link'))."</pre>";
 	print "<pre>".htmlspecialchars(fix_links('
 		<a class="psuq" href="../../prqim/t2809.htm#1">abc</a>
 		<a class="psuq" href="mj-02-02.html">abc</a>
-		<a href="https://tora.us.fm/abc.html">abc</a>
+		<a href="https://tora.quest/abc.html">abc</a>
 		<a href="mailto:xyz">abc</a>
 		', 'tnk1/ktuv/mjly/mj-01-01.html', 
 		'fix_link_absolute'))."</pre>";

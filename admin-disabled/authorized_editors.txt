@@ -25,4 +25,4 @@ Erel Segal
 Erel ???? Segal-Halevi
 Erel אראל Segal-Halevi
 DeadSea Scrolls
-scp ~/git/erel-sites/authorized_editors.txt root@tora.us.fm:/root/erel-sites/authorized_editors.txt
+scp ~/git/erel-sites/authorized_editors.txt root@tora.quest:/root/erel-sites/authorized_editors.txt
