@@ -127,7 +127,7 @@ if (!$lowe_form->validate() && !$arev_form->validate()) {
 
 	require_once('../../_script/email.php');
 	$GLOBALS['MAIL_TYPES'] = array("sendmail");
-	default_mail('erelvgalya@gmail.com', 'ribit0@tora.us.fm', 'New loan-info request', print_r($_POST,true));
+	default_mail('erelvgalya@gmail.com', 'erelvgalya+ribit0@gmail.com', 'New loan-info request', print_r($_POST,true));
 
 	$GLOBALS['RedirectSystem']->redirect_back("to=arev&phase=1");
 } elseif ($arev_form->validate()) {

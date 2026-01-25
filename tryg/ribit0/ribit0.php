@@ -8,7 +8,7 @@
  */
 
 $MAIL_RECEIVER="erelvgalya@gmail.com";
-$MAIL_SENDER="ribit0@tora.us.fm";
+$MAIL_SENDER="erelvgalya+ribit0@gmail.com";
 $MAIL_SUBJECT="New loan-info request";
 
 error_reporting(E_ALL);
