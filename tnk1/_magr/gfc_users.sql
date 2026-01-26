@@ -7,5 +7,7 @@ CREATE TABLE `gfc_users` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM CHARACTER SET utf8mb3;
 
+SET character_set_database=utf8mb3;
+
 LOAD DATA LOCAL INFILE '$BACKUP_FILEROOT/gfc_users.txt'  INTO TABLE gfc_users (id,name,thumbnail,profile,created_at);
 
