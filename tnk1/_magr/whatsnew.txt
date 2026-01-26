@@ -482,8 +482,6 @@ tokxot/brieut/sl.html	סל הבריאות - איזה תרופות להכניס?	
 tnk1/messages/dmut_dmut_1099_3.html	מאמר חדש על: ישעיה נבואה אחרונה	create	רמי ניר	2006-12-03 22:47:28
 tnk1/dmut/dmut/1099.html	ישעיה	add reply link	רמי ניר	2006-12-03 22:47:28
 tnk1/messages/dmut_dmut_1099_3.html	מאמר חדש על: ישעיה נבואה אחרונה	add file link	רמי ניר	2006-12-03 22:49:37
-horaa/messages/xinuk_mrxoq_slomon_0.html	תגובה על: http://www.tora.us.fm - למידה מרחוק: האם למידה? האם מרחוק?	create		2006-12-04 02:13:17
-horaa/xinuk/mrxoq_slomon.html	http://www.tora.us.fm - למידה מרחוק: האם למידה? האם מרחוק?	add reply link		2006-12-04 02:13:17
 tokxot/messages/axdut_index_1.html	הודעה חשובה על: אחדות עם ישראל ואהבת חינם	create		2006-12-04 21:03:22
 tokxot/axdut/index.html	אחדות עם ישראל ואהבת חינם	add reply link		2006-12-04 21:03:22
 tnk1/messages/odot_11.html	מי רוצה שהמאמרים שלו יתפרסמו באתר נוסף?	create	אראל	2006-12-04 21:51:44

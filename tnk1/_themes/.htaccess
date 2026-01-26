@@ -2,6 +2,6 @@
 RewriteEngine on
 RewriteOptions inherit
 RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^https?://(www\.)?(tora.us.fm) [NC]
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?(tora.quest) [NC]
 RewriteRule \.(gif|GIF|jpg|JPG|bmp|BMP|swf|SWF)$ - [F]
 # Hotlink Protection

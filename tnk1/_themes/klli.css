@@ -1,10 +1,10 @@
 /*
-    style sheet for Bible navigation site: http://tora.us.fm/tnk1
-    (See also generic stylesheet: http://tora.us.fm/_script/klli.css)
+    style sheet for Bible navigation site: http://tora.quest/tnk1
+    (See also generic stylesheet: http://tora.quest/_script/klli.css)
 */
 
 
-/* sizes - override http://tora.us.fm/_script/klli.css */
+/* sizes - override http://tora.quest/_script/klli.css */
 
 
 /* colors and font styles */
@@ -265,7 +265,7 @@ body.jyr {
 
 span.awt, span.mylh, span.mwpjf, span.ecm, span.kly, span.xyh, span.pwel, span.twar, span.hgdrh {font-weight:bold}
 
-/* see, for example, http://tora.us.fm/tnk1/nvia/yrmyhu/yr-02.html */
+/* see, for example, http://tora.quest/tnk1/nvia/yrmyhu/yr-02.html */
 
 .jura0 {background-color: #ffffff}
 .jura1 {background-color: #eeeeee}
