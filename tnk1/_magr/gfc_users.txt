@@ -480,7 +480,7 @@
 12783644358255985047	אמירה ואלי בנאי	http://www.google.com/friendconnect/scs/images/NoPictureDark.png	\N	2012-02-28 06:01:30
 04922514190005572158	zipi ehrmann	http://www.google.com/friendconnect/scs/images/NoPictureDark.png	\N	2012-02-29 00:16:39
 17545076804971272086	elior.segev	http://www.google.com/friendconnect/scs/images/NoPictureDark.png	\N	2012-03-04 06:28:51
-https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo	Erel Segal Halevi	http://tora.us.fm/erelsgl/erel35x.jpg	\N	2015-04-15 05:35:12
+https://www.google.com/accounts/o8/id?id=AItOawn-lsCU8_iWlz8S04hKIj7ekaBSyZaEloo	Erel Segal Halevi	https://tora.quest/erelsgl/erel35x.jpg	\N	2015-04-15 05:35:12
 https://www.google.com/accounts/o8/id?id=AItOawkimwFyqevXh2gjrVPHX9qj0eFdlDWJLww	Daian Moshe	\N	\N	2015-04-19 09:18:06
 https://www.google.com/accounts/o8/id?id=AItOawlpLZsWAOSB_3BzxHlAUTAaNpVV-9nGrIw	hagai hoffer	\N	\N	2015-04-21 13:10:31
 https://www.google.com/accounts/o8/id?id=AItOawn1QQXYctrNinFbi1mT5aeMYHoh0EEOw4g	מאיר הורוביץ	\N	\N	2013-11-03 21:09:32
@@ -1015,7 +1015,7 @@ https://www.google.com/accounts/o8/id?id=AItOawkVsc_2oD5rKOAClXv1E3byW0e1W3jbq_4
 https://www.google.com/accounts/o8/id?id=AItOawmpRjQEQMF3wkF0k5ANm4uyjctDNYvDO_E	Revital Ben shmuel	\N	\N	2014-07-03 17:27:49
 https://www.google.com/accounts/o8/id?id=AItOawlygWLWqWA9TQelTa0VC1pbH5CdVLIxBrI	אריאל לוי	\N	\N	2014-07-06 18:12:14
 https://www.google.com/accounts/o8/id?id=AItOawkapd3NSxN80eIxDpfHbLzH74LPtO0ZLMk	Elitsur Gadasi	\N	\N	2014-07-16 17:53:52
-https://www.google.com/accounts/o8/id?id=AItOawl9a1K3b4Oym0N7Yfr-7O3iXBHNOpBwhrY	Erel Segal Halevi	http://tora.us.fm/erelsgl/erel35x.jpg	\N	2014-07-19 19:49:20
+https://www.google.com/accounts/o8/id?id=AItOawl9a1K3b4Oym0N7Yfr-7O3iXBHNOpBwhrY	Erel Segal Halevi	https://tora.quest/erelsgl/erel35x.jpg	\N	2014-07-19 19:49:20
 https://www.google.com/accounts/o8/id?id=AItOawkaJxkgzZcW7anFECIGgbK9QVxXOZdYv6U	Roi Fried	\N	\N	2014-07-20 12:35:09
 https://www.google.com/accounts/o8/id?id=AItOawlJPQ5K8Hh9h1Z_YenRtPfBYl21KPdXjZI	Arie Franco	\N	\N	2014-07-24 03:40:48
 https://www.google.com/accounts/o8/id?id=AItOawnWYtiDigV4G2uavkqmusMz2uLsCw6V42M	Joel Bursztyn	\N	\N	2014-07-25 16:02:28
