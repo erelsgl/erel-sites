@@ -3,7 +3,7 @@
 /**
  * @file mediawiki.php - Encoding Windows-1255 - קידוד חלונות
  * Utilities for writing files for importing into MediaWiki sites, Using Ori's bot.
- * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
+ * @author Erel Segal-Halevi 
  * @date 2007-08
  */
 

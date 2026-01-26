@@ -3,7 +3,7 @@
 /**
  * @file mediawiki.php
  * Utilities for writing files for importing into MediaWiki sites.
- * @author Erel Segal-Halevi http://tora.us.fm/erelsgl
+ * @author Erel Segal-Halevi
  * @date 2006-11
  */
 
