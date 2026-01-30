@@ -29,7 +29,7 @@ IF(sugmqor='פסוק', CONCAT(
 	"ציטוט=",citut,"|"), ""),
 '}}',
 "<br/>",
-"{{הוסב מאתר הניווט בתנך|http://tora.us.fm/tnk1/ezor}}",
+"{{הוסב מאתר הניווט בתנך|http://tora.quest/tnk1/ezor}}",
 "<br/>",
 "ENDOFFILE",
 "<br/>"

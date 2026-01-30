@@ -19425,7 +19425,7 @@ http://creativecommons.org/licenses/by-sa/3.0/deed.he. &#160;</li></ul>  \
 <a class="psuq" href="http://localhost/tnk1/prqim/t2811.htm#22">משלי יא22</a>: "<q class="psuq"><strong>נֶזֶם זָהָב</strong> בְּאַף חֲזִיר - אִשָּׁה יָפָה וְסָרַת טָעַם</q>": שם מדובר על נזם זהב שאינו מתאים למקום שבו הוא נמצא (אף חזיר), וכאן מדובר על נזם זהב המתאים למקומו (חלי כתם).\
 </p>     \
 <p style="text-align: center;">\
-<img style="cursor: -moz-zoom-in;" alt="http://tora.us.fm/tnk1/ktuv/mjly/mj-25-12.gif" src="https://tora.quest/tnk1/ktuv/mjly/mj-25-12.gif" width="351" height="249" />\
+<img style="cursor: -moz-zoom-in;" src="https://tora.quest/tnk1/ktuv/mjly/mj-25-12.gif" width="351" height="249" />\
  \
 </p>	חכמים מותחים ביקורת באופן שמייפה את השומע
 משל	25	13	כְּצִנַּת שֶׁלֶג בְּיוֹם קָצִיר,\
@@ -19553,7 +19553,7 @@ http://creativecommons.org/licenses/by-sa/3.0/deed.he. &#160;</li></ul>  \
 </p>         \
 <p>שתי העצות הללו נכונות גם לשיחות טלפון או לכל סוג אחר של קשר. </p><div class="future">\
 <h3>\
-<img style="cursor: -moz-zoom-in" alt="http://tora.us.fm/tnk1/ktuv/mjly/mj-25-16.gif" src="http://localhost/tnk1/ktuv/mjly/mj-25-16.gif" width="1007" height="366" /></h3></div>	לבקר חברים רק כשהם רעבים לביקור
+<img style="cursor: -moz-zoom-in" src="http://localhost/tnk1/ktuv/mjly/mj-25-16.gif" width="1007" height="366" /></h3></div>	לבקר חברים רק כשהם רעבים לביקור
 משל	25	17	= הֹקַר רַגְלְךָ מִבֵּית רֵעֶךָ,\
 פֶּן יִשְׂבָּעֲךָ וּשְׂנֵאֶךָ.	<p>\
 - <strong>הקר</strong>    (קרר, צנן) את \
@@ -24103,7 +24103,7 @@ http://creativecommons.org/licenses/by-sa/3.0/deed.he. &#160;</li></ul>  \
    \
 <div class="future">\
 <br />\
-<img alt="http://www.tora.us.fm/tnk1/ktuv/mjly/mj-31-21.jpg" src="http://localhost/tnk1/ktuv/mjly/mj-31-21.jpg" />\
+<img src="http://localhost/tnk1/ktuv/mjly/mj-31-21.jpg" />\
 </div>	להלביש את הבית בבידוד כפול
 משל	31	22	מַרְבַדִּים עָשְׂתָה לָּהּ, \
 שֵׁשׁ וְאַרְגָּמָן לְבוּשָׁהּ.	<p>היא \

@@ -45,7 +45,7 @@ SELECT
 	left(convert(replace(
 			replace(
 				replace(
-					IF(tvnit_ktovt like 'tnk1/jdl/%', CONCAT('http://tora.us.fm/',tvnit_ktovt), tvnit_ktovt),
+					IF(tvnit_ktovt like 'tnk1/jdl/%', CONCAT('http://tora.quest/',tvnit_ktovt), tvnit_ktovt),
 					"$qod_snunit",
 					prqim.qod_snunit),
 				"$qod_mlbim",

@@ -1,14 +1,14 @@
 <?php
-/** קידוד חלונות
+/** קידוד אחיד
  * @file index_ajax.php - loaded from index.html using jquery ajax
- * @author Erel Segal http://tora.us.fm
+ * @author Erel Segal
  * @date 2009-08-30
  */
 
 
 set_include_path(realpath(dirname(__FILE__) . "/../_script") . PATH_SEPARATOR . get_include_path());
 
-// http://tora.us.fm/tnk1/display.php?site=tnk1&file=board
+// https://tora.quest/tnk1/display.php?site=tnk1&file=board
 require('admin/db_connect.php');
 require_once('./display.php');
 

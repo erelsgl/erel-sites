@@ -33,7 +33,7 @@ SELECT CONCAT(
 '}}',
 "<br/>",
 "{{הוסב מאתר הניווט בתנך",
-"|http://tora.us.fm/tryg/mcwa/",ktovt,
+"|http://tora.quest/tryg/mcwa/",ktovt,
 ".html}}",
 "<br/>",
 'ENDOFFILE') AS ``

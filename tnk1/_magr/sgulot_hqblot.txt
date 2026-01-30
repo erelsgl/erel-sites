@@ -10563,7 +10563,7 @@
 <a class="psuq" href="https://tora.quest/tnk1/prqim/t2819.htm#21">משלי יט21</a>: "<q class="psuq">רַבּוֹת מַחֲשָׁבוֹת בְּלֶב אִישׁ, וַעֲצַת ה' הִיא תָקוּם</q>" (<a href="https://tora.quest/tnk1/ktuv/mjly/mj-19-2021.html">פירוט</a>). </p><p>   \
      \
    \
-<img alt="http://www.tora.us.fm/tnk1/ktuv/mjly/mj-20-05.gif" src="http://localhost/tnk1/ktuv/mjly/mj-20-05.gif" height="131" width="279" /></p>
+<img src="http://localhost/tnk1/ktuv/mjly/mj-20-05.gif" height="131" width="279" /></p>
 משל	20	6	רָב אָדָם יִקְרָא אִישׁ חַסְדּוֹ; וְאִישׁ אֱמוּנִים, מִי יִמְצָא?	<br />
 משל	20	7	מִתְהַלֵּךְ בְּתֻמּוֹ צַדִּיק,\
 אַשְׁרֵי בָנָיו אַחֲרָיו.	<p>בתנ"ך מצאנו שלושה אנשים \
