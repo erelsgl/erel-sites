@@ -18,7 +18,7 @@ error_reporting(E_ALL);
  */
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
-$GLOBALS['serverroot'] = "http://tora.us.fm";  // = $fileroot;
+$GLOBALS['serverroot'] = "https://tora.quest";  // = $fileroot;
 $GLOBALS['linkroot'] = "../../..";
 require_once("$fileroot/_script/file.php");
 require_once("$fileroot/_script/mkpath.php");
@@ -78,8 +78,9 @@ while ($row=sql_fetch_assoc($rows)) {
 		print "<p>BEFORE: $strlen_before";
 		//$row[$field] = fix_links($row[$field], $path_from_root_to_document, "fix_link_absolute");
 		$row[$field] = fix_links_mjly($row[$field]);
-		$row[$field] = str_replace("http://localhost/","/",$row[$field]);
-		$row[$field] = str_replace("http://tora.us.fm/","/",$row[$field]);
+		$row[$field] = preg_replace("https?://localhost/","/",$row[$field]);
+		$row[$field] = preg_replace("https?://(www.)?tora.us.fm/","/",$row[$field]);
+		$row[$field] = preg_replace("https?://(www.)?tora.quest/","/",$row[$field]);
 		$strlen_after =  strlen($row[$field]);
 		print "<p>AFTER: $strlen_after";
 		if ($strlen_after<$strlen_before*0.8 && $strlen_after<$strlen_before-100)

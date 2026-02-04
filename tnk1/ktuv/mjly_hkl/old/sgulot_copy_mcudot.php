@@ -18,7 +18,7 @@ error_reporting(E_ALL);
  */
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
-$GLOBALS['serverroot'] = "http://tora.us.fm";  // = $fileroot;
+$GLOBALS['serverroot'] = "https://tora.quest";  // = $fileroot;
 $GLOBALS['linkroot'] = "../../..";
 require_once("$fileroot/_script/file.php");
 require_once("$fileroot/_script/mkpath.php");

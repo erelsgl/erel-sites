@@ -11,14 +11,14 @@
 error_reporting(E_ALL);
 
 /**
- * @file sgulot_copy.php - copy articles from the tora.us.fm site to the "sgulot" table.
+ * @file sgulot_copy.php - copy articles from the tora.quest site to the "sgulot" table.
  * @author Erel Segal אראל סגל
  * @note קידוד אחיד
  * @date 2012-06
  */
 
 $GLOBALS['fileroot'] = realpath(dirname(__FILE__)."/../../..");
-$GLOBALS['serverroot'] = "http://tora.us.fm";  // = $fileroot;
+$GLOBALS['serverroot'] = "https://tora.quest";  // = $fileroot;
 $GLOBALS['linkroot'] = "../../..";
 require_once("$fileroot/_script/file.php");
 require_once("$fileroot/_script/mkpath.php");
