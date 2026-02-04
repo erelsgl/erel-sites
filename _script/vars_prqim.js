@@ -31,9 +31,6 @@ for (i=0; i<path_from_root_to_document.length; ++i)
 var path_from_document_to_root = '';
 for (i=0; i<relative_depth; ++i)
 	path_from_document_to_root += '../';
-/*
-/_script/combine_js.php?files=_script/jquery-3.7.1.min+_script/jquery.hoverIntent.min+_script/vars0+_script/cookies+_script/rtelang/en+_script/rte+_script/elements+_script/form_validation+_script/fields+_script/arguments+_script/sites+_script/dates/dates+_script/templates+_script/magrim+http://www.google.com/friendconnect/script/friendconnect.js+_script/search+_script/etc+_script/jquery.taconite&out=_script/vars&minify=1
-*/
 
 
 /* _script/cookies */
@@ -862,7 +859,7 @@ else {
 /* _script/sites */
 
 
-var server = "http://tora.us.fm/";
+var server = "http://tora.quest/";
 
 var relative_depth=0;
 for (i=0; i<path_from_root_to_document.length; ++i) {
@@ -1286,10 +1283,11 @@ function show_table_warning() {
 
 
 
+
 function submitGoogle(theForm) {
 	theForm.ie.disabled=theForm.oe.disabled=theForm.hl.disabled=theForm.q.disabled=theForm.meta.disabled=theForm.num.disabled=theForm.lr.disabled=false; 
 	theForm.mslul.disabled=theForm.erk.disabled=true; 
-	theForm.q.value=theForm.erk.value+" site:tora.quest"; 
+	theForm.q.value=theForm.erk.value+" site:www.tora.quest"; 
 	theForm.action="http://www.google.co.il/search"; 
 	theForm.submit(); 
 	theForm.mslul.disabled=theForm.erk.disabled=false;
@@ -1328,7 +1326,7 @@ function submitFindTaconite(theForm) {
 
 function goSfrPrq(sfr, prq) {
 	if (sfr.length>0)
-		top.location.href = "http://tora.us.fm/tnk1/prqim/t"+sfr+prq+".htm";
+		top.location.href = "http://tora.quest/tnk1/prqim/t"+sfr+prq+".htm";
 }
 
 
