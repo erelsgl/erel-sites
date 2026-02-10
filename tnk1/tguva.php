@@ -141,16 +141,47 @@ function google_new($followup) {
 
 		function onSignIn(response) {
 				const responsePayload = decodeJwtResponse(response.credential);
-				// alert (responsePayload.name);
+
+				// ✅ claude.ai: Save user to localStorage so refresh doesn't log them out
+				localStorage.setItem('google_user', JSON.stringify({
+					id:    responsePayload.sub,
+					name:  responsePayload.name,
+					email: responsePayload.email,
+					image: responsePayload.picture,
+					exp:   responsePayload.exp
+				}));
+
 				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(responsePayload.sub)+'&name='+encodeURIComponent(responsePayload.name)+'&email='+encodeURIComponent(responsePayload.email)+'&image='+encodeURIComponent(responsePayload.picture);
-				// console.log(redirectUrl);
 				window.location = redirectUrl;
 		}
 		
 		function onSignOut() {
+			// ✅ claude.ai: Clear saved login on sign-out
+			localStorage.removeItem('google_user');		
 			var redirectUrl = '?followup=$followup';
 			window.location = redirectUrl;
 		}
+
+		// ✅ claude.ai: On every page load, check if user was already logged in
+		window.addEventListener('DOMContentLoaded', function() {
+			// Don't restore if already logged in (URL has id= param from fresh login)
+			if (window.location.search.includes('&id=')) return;
+
+			var saved = localStorage.getItem('google_user');
+			if (!saved) return;
+
+			var user = JSON.parse(saved);
+			var now = Math.floor(Date.now() / 1000);
+
+			if (user.exp > now) {
+				// Token still valid — silently restore login
+				var redirectUrl = '?followup=$followup&id='+encodeURIComponent(user.id)+'&name='+encodeURIComponent(user.name)+'&email='+encodeURIComponent(user.email)+'&image='+encodeURIComponent(user.image);
+				window.location = redirectUrl;
+			} else {
+				// Token expired (Google tokens last ~1 hour) — clear and show login button
+				localStorage.removeItem('google_user');
+			}
+		});		
 	</script>
 	";
 }

@@ -338,23 +338,6 @@ function kotrt() {
 	if (/jdl.*Mefar/.test(path_from_root_to_document))   theText += ('<p>מהדורה אלקטרונית זו של פירושי שד"ל מוקדשת לעילוי נשמתו של ד"ר שלמה א. נכון (ליוורנו, תרס"ו - ירושלים, תשל"ד), גואלם ומוציאם לאור של פירושי שד"ל בימינו. כל הזכויות שמורות למשפחה.');
 
 	theText += "</div>\n";
-	
-	// add links to other versions (languages, printer friendly, all replies, etc)
-	/*
-	if (select_other_versions) {
-		theText += 
-		"<script type='text/javascript' src='https://apis.google.com/js/plusone.js'>"+
-			"{lang: 'iw'}"+
-		"</script>"+
-		"<table class='versionselectors'>\n<tr>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByStyle') + "</td>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
-			// "<td>" + facebookLikeButton + "</td>\n"+
-		"</tr>\n</table>\n";
-	}
-	*/
-
 	document.write(theText);
 }
 
