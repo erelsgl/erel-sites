@@ -1468,3 +1468,18 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/nvir/mlkimb/emu21.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/dmut_dmut_1038_4.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-02-11 21:52:52'
+		WHERE parent='tnk1/messages/dmut_dmut_1038_4.html'
+		;
+

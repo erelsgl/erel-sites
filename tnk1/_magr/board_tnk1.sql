@@ -118,3 +118,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvir/mlkimb/emu21.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-02-11 21:52:52'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_1038_4.html'
+		;
+

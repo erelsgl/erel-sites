@@ -44,3 +44,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_1038_4.html',
+		'<p>סיפור יפה ומרגש</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-02-11 21:52:52'
+		)
+		;
+
