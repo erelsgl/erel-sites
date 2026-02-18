@@ -1483,3 +1483,18 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/dmut_dmut_1038_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tryg/mamr/pilgj_yabc.html',0)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-02-17 15:07:44'
+		WHERE parent='tryg/mamr/pilgj_yabc.html'
+		;
+

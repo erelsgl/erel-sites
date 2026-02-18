@@ -195,3 +195,11 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2026-02-12 21:21:21'
 			WHERE ktovt_bn='tnk1/forums.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-02-17 15:07:44'
+		WHERE ktovt_bn='tryg/mamr/pilgj_yabc.html'
+		;
+

@@ -56,3 +56,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tryg/mamr/pilgj_yabc.html',
+		'<p></p>',
+		'101136249483181201109',
+		'Berl',
+		'2026-02-17 15:07:44'
+		)
+		;
+
