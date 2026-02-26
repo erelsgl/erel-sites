@@ -218,3 +218,91 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-02-22 09:58:46' 
 			WHERE messageid=13879;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3302_1.html',
+		'<p>אלהי יעקב ציוה ליהודה כי ישתחוו לו</p><p>בראשית מט8: &quot;יְהוּדָה אַתָּה יוֹדוּךָ אַחֶיךָ יָדְךָ בְּעֹרֶף אֹיְבֶיךָ יִשְׁתַּחֲוּוּ לְךָ בְּנֵי אָבִיךָ&quot; </p><p>וַיַּרְא הָמָן כי מִשְׁתַּחֲוִים לרב יְהוּדָה הינוקא שבמזרח העיר ראשון לציון </p><p>ויקם לינוקא כפיל במערב ראשון לציון אך זה מהסיתרא אחרא=מהצד האחר של העיר  חחחח</p><p> משלי כד6: &quot;כִּי בְתַחְבֻּלוֹת תַּעֲשֶׂה לְּךָ מִלְחָמָה וּתְשׁוּעָה בְּרֹב יוֹעֵץ&quot; </p><p>תהלים צד7: &quot;וַיֹּאמְרוּ לֹא יִרְאֶה יָּהּ וְלֹא יָבִין אֱלֹהֵי יַעֲקֹב&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-25 12:06:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3302_1.html',
+		'<p>אֱלֹהֵי יַעֲקֹב ציוה ליהודה כי ישתחוו לו</p><p>בראשית מט8: &quot;יְהוּדָה אַתָּה יוֹדוּךָ אַחֶיךָ יָדְךָ בְּעֹרֶף אֹיְבֶיךָ יִשְׁתַּחֲוּוּ לְךָ בְּנֵי אָבִיךָ&quot;</p><p>וַיַּרְא הָמָן כי מִשְׁתַּחֲוִים לרב יְהוּדָה הינוקא שבמזרח העיר ראשון לציון</p><p>ויקם לינוקא כפיל במערב ראשון לציון אך זה מהסיתרא אחרא=מהצד האחר של העיר חחחח</p><p>משלי כד6: &quot;כִּי בְתַחְבֻּלוֹת תַּעֲשֶׂה לְּךָ מִלְחָמָה וּתְשׁוּעָה בְּרֹב יוֹעֵץ&quot;</p><p>תהלים צד7: &quot;וַיֹּאמְרוּ לֹא יִרְאֶה יָּהּ וְלֹא יָבִין אֱלֹהֵי יַעֲקֹב&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-25 12:08:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-25 12:08:19' 
+			WHERE messageid=13881;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-25 14:11:26' 
+			WHERE messageid=13882;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>https://www.youtube.com/watch?v=ka8NeazPWc0</p><p>כן אחיי אם הינוקא עשה  הָאֹתֹת לְעֵינֵי הָעָם --- האמינו בו</p><p>שמות ד30: &quot;וַיְדַבֵּר אַהֲרֹן אֵת כָּל הַדְּבָרִים אֲשֶׁר דִּבֶּר יהוה אֶל מֹשֶׁה וַיַּעַשׂ הָאֹתֹת לְעֵינֵי הָעָם&quot;</p><p>שמות ד31: &quot;וַיַּאֲמֵן הָעָם וַיִּשְׁמְעוּ כִּי פָקַד יהוה אֶת בְּנֵי יִשְׂרָאֵל וְכִי רָאָה אֶת עָנְיָם וַיִּקְּדוּ וַיִּשְׁתַּחֲוּוּ&quot;</p><p> וְרָאָה כָל הָעָם אֲשֶׁר אַתָּה [משה] בְקִרְבּוֹ אֶת מַעֲשֵׂה יהוה נִפְלָאֹת כָל הָעָם אֲשֶׁר אַתָּה [ינוקא] בְקִרְבּוֹ </p><p>שמות לד10: &quot;וַיֹּאמֶר הִנֵּה אָנֹכִי כֹּרֵת בְּרִית נֶגֶד כָּל עַמְּךָ אֶעֱשֶׂה נִפְלָאֹת אֲשֶׁר לֹא נִבְרְאוּ בְכָל הָאָרֶץ וּבְכָל הַגּוֹיִם וְרָאָה כָל הָעָם אֲשֶׁר אַתָּה בְקִרְבּוֹ אֶת מַעֲשֵׂה יהוה כִּי נוֹרָא הוּא אֲשֶׁר אֲנִי עֹשֶׂה עַמְּךָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-25 16:35:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>https://www.youtube.com/watch?v=ka8NeazPWc0</p><p>כן אחיי אם הינוקא עשה הָאֹתֹת לְעֵינֵי הָעָם --- האמינו בו</p><p>שמות ד30: &quot;וַיְדַבֵּר אַהֲרֹן אֵת כָּל הַדְּבָרִים אֲשֶׁר דִּבֶּר יהוה אֶל מֹשֶׁה וַיַּעַשׂ הָאֹתֹת לְעֵינֵי הָעָם&quot;</p><p>שמות ד31: &quot;וַיַּאֲמֵן הָעָם וַיִּשְׁמְעוּ כִּי פָקַד יהוה אֶת בְּנֵי יִשְׂרָאֵל וְכִי רָאָה אֶת עָנְיָם וַיִּקְּדוּ וַיִּשְׁתַּחֲוּוּ&quot;</p><p>שמות לד10: &quot;וַיֹּאמֶר הִנֵּה אָנֹכִי כֹּרֵת בְּרִית נֶגֶד כָּל עַמְּךָ אֶעֱשֶׂה נִפְלָאֹת אֲשֶׁר לֹא נִבְרְאוּ בְכָל הָאָרֶץ וּבְכָל הַגּוֹיִם </p><p>וְרָאָה כָל הָעָם אֲשֶׁר אַתָּה [משה - הינוקא---] בְקִרְבּוֹ אֶת מַעֲשֵׂה יהוה כִּי נוֹרָא הוּא אֲשֶׁר אֲנִי עֹשֶׂה עַמְּךָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-25 16:43:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-25 16:43:25' 
+			WHERE messageid=13883;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>https://www.youtube.com/watch?v=ka8NeazPWc0</p><p>כן אחיי אם הינוקא עשה הָאֹתֹת לְעֵינֵי הָעָם --- האמינו בו</p><p>שמות ד30: &quot;וַיְדַבֵּר אַהֲרֹן אֵת כָּל הַדְּבָרִים אֲשֶׁר דִּבֶּר יהוה אֶל מֹשֶׁה וַיַּעַשׂ הָאֹתֹת לְעֵינֵי הָעָם&quot;</p><p>שמות ד31: &quot;וַיַּאֲמֵן הָעָם וַיִּשְׁמְעוּ כִּי פָקַד יהוה אֶת בְּנֵי יִשְׂרָאֵל וְכִי רָאָה אֶת עָנְיָם וַיִּקְּדוּ וַיִּשְׁתַּחֲוּוּ&quot;</p><p>שמות לד10: &quot;וַיֹּאמֶר הִנֵּה אָנֹכִי כֹּרֵת בְּרִית נֶגֶד כָּל עַמְּךָ אֶעֱשֶׂה נִפְלָאֹת אֲשֶׁר לֹא נִבְרְאוּ בְכָל הָאָרֶץ וּבְכָל הַגּוֹיִם</p><p>וְרָאָה כָל הָעָם אֲשֶׁר אַתָּה [משה ואהרן - הינוקא---] בְקִרְבּוֹ אֶת מַעֲשֵׂה יהוה כִּי נוֹרָא הוּא אֲשֶׁר אֲנִי עֹשֶׂה עַמְּךָ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-25 16:54:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-25 16:54:04' 
+			WHERE messageid=13884;
+
