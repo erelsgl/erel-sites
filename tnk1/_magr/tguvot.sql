@@ -306,3 +306,77 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-02-25 16:54:04' 
 			WHERE messageid=13884;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p></p><p>[Amsterdam Trance] THIRDWAVE &amp; Stine Grove - Love Is The Answer</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-27 03:54:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>שיר שנכתב עלי </p><p>תודה רבה התקבל באהבה גדולה</p><p>4 Strings &amp; Susanne Teutenberg - I Feel You</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-27 04:13:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-27 04:13:29' 
+			WHERE messageid=13887;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>4 Strings &amp; Susanne Teutenberg - I Feel You</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-27 04:13:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>4 Strings &amp; Susanne Teutenberg - I Feel You</p><p>https://www.youtube.com/watch?v=qH4jgcDtN6U&amp;list=LL&amp;index=2</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-27 07:03:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-02-27 07:03:16' 
+			WHERE messageid=13888;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>[Amsterdam Trance] THIRDWAVE &amp; Stine Grove - Love Is The Answer</p><p>https://www.youtube.com/watch?v=AapIeob-42c&amp;list=LL&amp;index=1</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-02-27 07:04:29'
+		)
+		;
+
