@@ -1879,3 +1879,19 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/messages/prqim_t08b01_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2026-02-28 23:10:37'
+			WHERE parent='tnk1/messages/prqim_t08b01_2.html'
+			;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2026-03-01 01:54:49'
+			WHERE parent='tnk1/messages/prqim_t1002_4.html'
+			;
+
