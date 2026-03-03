@@ -425,3 +425,160 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-03-02 07:32:54' 
 			WHERE messageid=13891;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>סוף פברואר תחילת מרס 2026 צאו כעת לשדה</p><p>החלה פריחת השעורה אביב בכל לב-ארץ-ישראל מן המרכז עד הדרום</p><p>וחג-הפורים שלכם הוא כבר למעשה ראש ירחא ניסן ראש חודש האביב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-02 09:39:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/yovl.html',
+		'<p>סוף פברואר תחילת מרס 2026 צאו כעת לשדה</p><p>החלה פריחת השעורה אביב בכל לב-ארץ-ישראל מן המרכז עד הדרום</p><p>וחג-הפורים שלכם הוא כבר למעשה ראש ירחא ניסן ראש חודש האביב</p><p>https://tora.quest/tnk1/messages/prqim_t0101_23.html</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-02 09:40:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-02 09:40:53' 
+			WHERE messageid=13893;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>Oriashahrur@gmail.com</p><p></p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p>Oriashahrur@gmail.com</p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p></p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p></p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p></p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jmj.html',
+		'<p></p>',
+		'113569684487686060950',
+		'Tohar Shahrur',
+		'2026-03-02 18:09:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:15' 
+			WHERE messageid=13897;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:16' 
+			WHERE messageid=13898;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:17' 
+			WHERE messageid=13899;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:17' 
+			WHERE messageid=13900;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:23' 
+			WHERE messageid=13895;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-03 00:17:24' 
+			WHERE messageid=13896;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>בסוף פברואר תחילת מרס 2026 החלה פריחת השעורה אביב בלב הארץ במרכז ובדרום</p><p>אבל בצפון בתחילת אפריל עד סוף החודש פריחת השעורה אביב לאמור כי כחודשיים ימים</p><p>מתחילת מרס עד סוף אפריל והאביב על פי התורה הוא רק חודש ימים ולא חודשיים</p><p>לאמור לכם כי אף על פי שבתחילת מרס החלה פריחת האביב בירחא ניסן [פורים שלכם]</p><p>אין זה חודש האביב הרשמי כי אם יום שיוויון האביב הוא ראש החודש האביב הרשמי </p><p>כי הוא בדיוק בתווך בין פריחת האביב שבדרום לבין פריחת האביב שבצפון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-03 06:27:07'
+		)
+		;
+
