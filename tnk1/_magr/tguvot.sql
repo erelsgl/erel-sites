@@ -870,3 +870,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>חודש מרס מקביל לחודש האביב בדרום </p><p>וחודש אפריל מקביל לחודש האביב בצפון</p><p>-</p><p>לכן מחצית חודש מרס הוא ראש חודש האביב </p><p>הוא ראש השנה ביום השיויון בין היום והלילה</p><p>-</p><p> יום שוויון האביב = הוא ראש חודש האביב הוא ראש השנה</p><p>אך שימו לב.......</p><p>מדובר על יום השיוויון בין היום והלילה ולא יום השיוויון האסטרונומי אשר חל שבוע ימים אחריו</p><p>ביום השיוויון האביבי בין היום והלילה אז יחל ראש-חדש-השעורה-אביב הוא ראש השנה</p><p>ככה מדדו בימי קדם את יום השיויון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-08 10:21:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-08 10:21:05' 
+			WHERE messageid=13918;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>חודש מרס מקביל לחודש האביב בדרום</p><p>וחודש אפריל מקביל לחודש האביב בצפון</p><p>[ראו נא בקישור הזה של דף הפייסבוק של אמיר-בלבן מיום 29 לאפריל 2025</p><p>להראות לכם שהשעורה אביב פורחת בצפון בסוף אפריל ומבחינתם אביב</p><p>ואנחנו עלינו להביא זאת בחשבון להביט על כל הארץ מהדרום ועד הצפון</p><p>בבואנו לקבוע את מועד חודש האביב]</p><p>https://www.facebook.com/photo/?fbid=30287414984182667&amp;set=pcb.30287416354182530</p><p>-</p><p>לכן מחצית חודש מרס הוא ראש חודש האביב</p><p>הוא ראש השנה ביום השיויון בין היום והלילה</p><p>-</p><p>יום שוויון האביב = הוא ראש חודש האביב הוא ראש השנה</p><p>אך שימו לב.......</p><p>מדובר על יום השיוויון בין היום והלילה ולא יום השיוויון האסטרונומי אשר חל שבוע ימים אחריו</p><p>ביום השיוויון האביבי בין היום והלילה אז יחל ראש-חדש-השעורה-אביב הוא ראש השנה</p><p>ככה מדדו בימי קדם את יום השיויון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-08 15:03:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-08 15:04:00' 
+			WHERE messageid=13919;
+
