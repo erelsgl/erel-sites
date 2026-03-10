@@ -908,3 +908,165 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-03-08 15:04:00' 
 			WHERE messageid=13919;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_4.html',
+		'<p>https://www.youtube.com/watch?v=0vUbz1_QdZ0</p><p>Nitrous Oxide &amp; Stine Grove – Cage Bird ( Original Mix )</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 14:13:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_4.html',
+		'<p>https://www.youtube.com/watch?v=pbp0UJYo6AA</p><p>Nitrous Oxide &amp; Stine Grove – Cage Bird</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 14:29:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-09 14:29:06' 
+			WHERE messageid=13921;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_4.html',
+		'<p>https://www.youtube.com/watch?v=pbp0UJYo6AA</p><p>Nitrous Oxide &amp; Stine Grove – Cage Bird</p><p>------------------------------------------------------------------</p><p>LYRICS</p><p>Days are over</p><p>When we ran our dreams together</p><p>Days are over, oh, over</p><p>Days are over</p><p>Where I thought you\'d care forever</p><p>Days are over, oh, over</p><p>I fade away \'cause you have changed</p><p>\'Cause now you rule me</p><p>You pull my strings</p><p>You tie me up and you cut my wings</p><p>But don\'t complain about my silent thing</p><p>\'Cause cage birds they keep quiet</p><p>They don\'t sing [3x]</p><p>\'Cause now you rule me</p><p>You pull my strings</p><p>You tie me up and you cut my wings</p><p>But don\'t complain about my silent thing</p><p>\'Cause cage birds they keep quiet</p><p>They don\'t sing [3x]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 14:41:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-09 14:41:28' 
+			WHERE messageid=13922;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>https://www.facebook.com/photo/?fbid=25990190623957504&amp;set=a.227618857308034</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 16:33:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>התייעצו ביניהם הרבנים מה לעשות עם מורה לתורה משה דין הוא הינוקא האמיתי אשר הציבור נוטה אחריו ואנחנו [הרבנים] מאבדים לקוחות כי זה גורם למחלוקות</p><p>ויועצו יחדיו להקים דמות פיקטיבית כפיל שיקרא הרב-הינוקא וככה נטה אלינו הרבנים את כל הציבור שנוטה אחרי הינוקא האמיתי הוא מורה לתורה משה דיין</p><p>-</p><p>ועתה שמעו רבני ישראל כי אתם מטאטים את בעיית-המחלוקת מתחת לשטיח וזה לא נקרא פתרון המחלוקת כי אם מעשה מרמה</p><p>וכאשר אלהים יופיע כמעמד הר-סיני לדבר אל כל ישראל לא תוכלו להסתתר ורעתכם תיגלה בקהל וכלם ידעו כי אנשי רמייה אתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 18:18:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>התייעצו ביניהם הרבנים מה לעשות עם מורה לתורה משה דין הוא הינוקא האמיתי אשר הציבור נוטה אחריו ואנחנו [הרבנים] מאבדים לקוחות כי זה גורם למחלוקות</p><p>ויועצו יחדיו להקים דמות פיקטיבית כפיל שיקרא הרב-הינוקא וככה נטה אלינו הרבנים את כל הציבור שנוטה אחרי הינוקא האמיתי הוא מורה לתורה משה דיין</p><p>-</p><p>ועתה שמעו רבני ישראל כי אתם מטאטים את בעיית-המחלוקת מתחת לשטיח וזה לא נקרא פתרון המחלוקת כי אם מעשה מרמה</p><p>וכאשר אלהים יופיע כמעמד הר-סיני לדבר אל כל ישראל לא תוכלו להסתתר ורעתכם תיגלה בקהל וכולם ידעו כי אנשי רמייה אתם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-09 18:28:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-09 18:28:47' 
+			WHERE messageid=13925;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בסוף פברואר תחילת מרס החלה פריחת השעורה אביב</p><p>ואם בתאריך 1 למרס החל קציר שעורים ביום ראשון</p><p>אז מדוע אנחנו לא מכריזים על יום הנפת העומר ממחרת השבת בתאריך 8 למרס</p><p>-</p><p>אני אתן משל ותבינו.......</p><p>אם אנחנו משפחה מלוכדת ויש לי כארבעה ילדים [לצורך העניין] וכל אחד מהם חוזר בשעה אחרת מהבית ספר</p><p>אחד חוזר בשעה 12 והשני חוזר בשעה 12:30 והשלישי חוזר בשעה 13 והרביעי חוזר בשעה 13:30</p><p>אני לא אכין להם ארוחת צהרים בשעה 12 ולא בשעה 12:30 ולא בשעה 13</p><p>אלא אכין את הארוחה רק כשהילד האחרון חזר מהבית ספר כדי שכולם יאכלו יחדיו</p><p>על כן יום הנפת העומר יחל רק ממחרת השבת הראשונה שאחרי יום שיויון האביב [כשכל הילדים כבר חזרו מבית הספר] ולא לפני כן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-10 06:25:53'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בסוף פברואר תחילת מרס החלה פריחת השעורה אביב</p><p>ואם בתאריך 1 למרס החל קציר שעורים ביום ראשון</p><p>אז מדוע אנחנו לא מכריזים על יום הנפת העומר ממחרת השבת בתאריך 8 למרס</p><p>-</p><p>אני אתן משל ותבינו.......</p><p>אם אנחנו משפחה מלוכדת ויש לי כארבעה ילדים [לצורך העניין] וכל אחד מהם חוזר בשעה אחרת מהבית ספר</p><p>אחד חוזר בשעה 12 והשני חוזר בשעה 12:30 והשלישי חוזר בשעה 13 והרביעי חוזר בשעה 13:30</p><p>אני לא אכין להם ארוחת צהרים בשעה 12 ולא בשעה 12:30 ולא בשעה 13</p><p>אלא אכין את הארוחה רק כשהילד האחרון חזר מהבית ספר כדי שכולם יאכלו יחדיו</p><p>על כן יום הנפת העומר יחל רק ממחרת השבת הראשונה שאחרי יום שיויון האביב </p><p>[כשכל הילדים כבר חזרו מבית הספר=לאמור כשבכל הארץ החל חרמש בקמה] ולא לפני כן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-10 06:27:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-10 06:27:30' 
+			WHERE messageid=13927;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בסוף פברואר תחילת מרס החלה פריחת השעורה אביב</p><p>ואם בתאריך 1 למרס החל קציר שעורים ביום ראשון</p><p>אז מדוע אנחנו לא מכריזים על יום הנפת העומר ממחרת השבת בתאריך 8 למרס</p><p>-</p><p>אני אתן משל ותבינו.......</p><p>אם אנחנו משפחה מלוכדת ויש לי כארבעה ילדים [לצורך העניין] וכל אחד מהם חוזר בשעה אחרת מהבית ספר</p><p>אחד חוזר בשעה 12 והשני חוזר בשעה 12:30 והשלישי חוזר בשעה 13 והרביעי חוזר בשעה 13:30</p><p>אני לא אכין להם ארוחת צהרים בשעה 12 ולא בשעה 12:30 ולא בשעה 13</p><p>אלא אכין את הארוחה רק כשהילד האחרון חזר מהבית ספר כדי שכולם יאכלו יחדיו</p><p>על כן יום הנפת העומר יחל רק ממחרת השבת הראשונה שאחרי יום שיויון האביב</p><p>כשכל הילדים כבר חזרו מבית הספר=לאמור כשבכל הארץ החל חרמש בקמה [גם בצפון ולא רק בדרום] ולא לפני כן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-10 06:47:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-10 06:47:41' 
+			WHERE messageid=13928;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>בסוף פברואר תחילת מרס החלה פריחת השעורה אביב</p><p>ואם בתאריך 1 למרס החל קציר שעורים ביום ראשון</p><p>אז מדוע אנחנו לא מכריזים על יום הנפת העומר ממחרת השבת בתאריך 8 למרס</p><p>-</p><p>אני אתן משל ותבינו.......</p><p>אם אנחנו משפחה מלוכדת ויש לי כארבעה ילדים [לצורך העניין] וכל אחד מהם חוזר בשעה אחרת מהבית ספר</p><p>אחד חוזר בשעה 12 והשני חוזר בשעה 12:30 והשלישי חוזר בשעה 13 והרביעי חוזר בשעה 13:30</p><p>אני לא אכין להם ארוחת צהרים בשעה 12 ולא בשעה 12:30 ולא בשעה 13</p><p>אלא אכין את הארוחה רק כשהילד האחרון חזר מהבית ספר כדי שכולם יאכלו יחדיו</p><p>על כן יום הנפת העומר יחל רק ממחרת השבת הראשונה שאחרי יום שיויון האביב</p><p>כשכל הילדים כבר חזרו מבית הספר=לאמור כשבכל הארץ החל חרמש בקמה ולא לפני כן</p><p>[לאמור כשהחל חרמש בקמה גם בקציר בפריחת השעורה המאוחרת כאשר אביב בצפון ולא רק בדרום]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-10 06:51:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-10 06:51:10' 
+			WHERE messageid=13929;
+
