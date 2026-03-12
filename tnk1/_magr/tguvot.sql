@@ -1089,3 +1089,101 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-03-10 09:27:30' 
 			WHERE messageid=13931;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>https://www.facebook.com/1015763904/videos/pcb.10237172679549341/1969319987347573</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-11 11:59:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>נאמר על רבני הָעָם הַזֶּה </p><p>ישעיהו כט13: &quot;וַיֹּאמֶר אֲדֹנָי יַעַן כִּי נִגַּשׁ הָעָם הַזֶּה בְּפִיו וּבִשְׂפָתָיו כִּבְּדוּנִי וְלִבּוֹ רִחַק מִמֶּנִּי וַתְּהִי יִרְאָתָם אֹתִי מִצְוַת אֲנָשִׁים מְלֻמָּדָה&quot;  </p><p>ישעיהו כט14: &quot;לָכֵן הִנְנִי יוֹסִף לְהַפְלִיא אֶת הָעָם הַזֶּה הַפְלֵא וָפֶלֶא וְאָבְדָה חָכְמַת חֲכָמָיו וּבִינַת נְבֹנָיו תִּסְתַּתָּר&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-11 12:03:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-11 14:07:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-11 14:07:07' 
+			WHERE messageid=13934;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>תהלים קיט54: &quot;זְמִרוֹת הָיוּ לִי חֻקֶּיךָ בְּבֵית מְגוּרָי&quot;</p><p>תהלים קיט54: &quot;זְמִרוֹת [הגוים האהובים ולא זמרי-ישראל-המתועבים] הָיוּ לִי חֻקֶּיךָ בְּבֵית מְגוּרָי&quot;</p><p>לאמור לך כי אני מתעב את זמרי-מדינת-ישראל כתיעוב חוקיהם ומשפטיהם </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-11 19:51:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-11 19:52:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-11 19:52:06' 
+			WHERE messageid=13936;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/tamim.html',
+		'<p>מה אם ירח בן יומו</p><p></p>',
+		'102577932343043232757',
+		'עמיחי שחור',
+		'2026-03-12 07:19:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ljon/tamim.html',
+		'<p></p>',
+		'102577932343043232757',
+		'עמיחי שחור',
+		'2026-03-12 07:19:21'
+		)
+		;
+
