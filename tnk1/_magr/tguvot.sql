@@ -1344,3 +1344,48 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-15 13:05:36' 
+			WHERE messageid=12221;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-15 13:06:59' 
+			WHERE messageid=12253;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-15 13:08:38' 
+			WHERE messageid=13473;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>משלי כח5: &quot;אַנְשֵׁי רָע לֹא יָבִינוּ מִשְׁפָּט וּמְבַקְשֵׁי יהוה יָבִינוּ כֹל&quot;</p><p>תהלים לב9: &quot;אַל תִּהְיוּ כְּסוּס כְּפֶרֶד אֵין הָבִין....... בְּמֶתֶג וָרֶסֶן עֶדְיוֹ לִבְלוֹם בַּל קְרֹב אֵלֶיךָ&quot;</p><p>אַל תִּהְיוּ כְּסוּס כְּפֶרֶד אֵין הָבִין = אל תהיו אנשים רעים -- אַנְשֵׁי רָע לֹא יָבִינוּ מִשְׁפָּט</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-16 06:09:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>אני דיין שם </p><p>אני [הינוקא האמיתי] מורה לתורה משה דיין</p><p>אני מצפה בעת הזאת מהרבנים לחדול משתיקה</p><p>אף כי שתיקה יפה לחכמים שתיקתכם בעת הזאת גובלת בחטא</p><p>אל תבחרו תמיד באופציה של שתיקה</p><p>לעתים המצוה היא כן לפתוח את הפה</p><p>משלי לא8: &quot;פְּתַח פִּיךָ לְאִלֵּם אֶל דִּין כָּל בְּנֵי חֲלוֹף&quot; </p><p>משלי לא9: &quot;פְּתַח פִּיךָ שְׁפָט צֶדֶק וְדִין עָנִי וְאֶבְיוֹן&quot;</p><p>&quot;ושאינו יודע לשאול את פתח לו&quot; --הגדה של פסח</p><p>-</p><p>שתיקה היא חטא כאשר:</p><p>הצדק נפגע.</p><p>האמת נרמסת.</p><p>הציבור מבולבל וזקוק להכוונה.</p><p>מנהיגים שותקים כדי להגן על עצמם, לא על האמת.</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-16 07:39:09'
+		)
+		;
+
