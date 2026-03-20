@@ -1630,3 +1630,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>ד&quot;ר שקשוקה חחח</p><p>https://www.facebook.com/reel/683326471041698</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-19 11:11:00'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-19 18:55:27' 
+			WHERE messageid=13965;
+
