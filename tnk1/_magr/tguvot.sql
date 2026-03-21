@@ -1649,3 +1649,41 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-03-19 18:55:27' 
 			WHERE messageid=13965;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-20 08:45:08' 
+			WHERE messageid=13947;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>תהלים קכה2: &quot;יְרוּשָׁלַים הָרִים סָבִיב לָהּ ויהוה סָבִיב לְעַמּוֹ מֵעַתָּה וְעַד עוֹלָם&quot;</p><p>על כן אם ברצוננו ללכת על פי יהוה יש לבחון את אביב השעורה בהרי-ירושלים</p><p>גם אם אני גר בראשון לציון והשעורה אביב החלה כבר בסוף פברואר תחילת מרס</p><p>אין זה ראש השנה ולא ראש חודש האביב כי השעורה טרם אביב בהרי-ירושלים</p><p>[השעורה אביב בירושלים בסביבות יום השיויון]</p><p>וכשהשעורה אביב בירושלים אז זה ראש חודש האביב ובשבוע זה יחל הקציר</p><p>וממחרת השבת הראשונה תחל ספירת העומר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-20 10:34:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>תהלים קכה2: &quot;יְרוּשָׁלַים הָרִים סָבִיב לָהּ ויהוה סָבִיב לְעַמּוֹ מֵעַתָּה וְעַד עוֹלָם&quot;</p><p>על כן אם ברצוננו ללכת על פי יהוה יש לבחון את אביב השעורה בהרי-ירושלים</p><p>גם אם אני גר בראשון לציון והשעורה אביב החלה כבר בסוף פברואר תחילת מרס</p><p>אין זה ראש השנה ולא ראש חודש האביב כי השעורה טרם אביב בהרי-ירושלים</p><p>[השעורה אביב בירושלים בסביבות יום השיויון]</p><p>וכשהשעורה אביב בירושלים אז זה ראש חודש האביב ובשבוע זה יחל הקציר</p><p>וממחרת השבת הראשונה [לראש חודש האביב] תחל ספירת העומר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-20 10:45:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-20 10:45:39' 
+			WHERE messageid=13967;
+
