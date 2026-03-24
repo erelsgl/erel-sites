@@ -1711,3 +1711,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0223_0.html',
+		'<p>כאשר ריחמתם כן תרוחמו גם אתם שוטרי ישראל שאו ברכה</p><p>https://www.facebook.com/reel/1451736719924004</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-23 18:39:27'
+		)
+		;
+
