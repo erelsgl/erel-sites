@@ -291,7 +291,9 @@ function kotrt() {
 		else if ("יעל פרקל" == theAuthor)
 			authorForTitle = authorLink("יעל פרקל", "syaelp","t2.technion.ac.il");
 		else if (/משה דין/.test(theAuthor))
-			authorForTitle = authorLink("מורה לתורה משה דין", "DAIAN1","013.NET");
+			authorForTitle = 
+				"מורה לתורה משה דין" + " (<a href='/tnk1/daian.html'>לייעוץ ותרומות</a>)";
+				// authorLink("מורה לתורה משה דין", "daian1enator","gmail.com") 
 		else if (/אביהו/.test(theAuthor) && /איתן/.test(theAuthor))
 			authorForTitle = authorLink("שלח: אביהו איתן חדד", "eitan-avioh","iec.co.il");
 		else if (/ירון תאנה/.test(theAuthor))
