@@ -2668,7 +2668,9 @@ function kotrt() {
 		else if ("יעל פרקל" == theAuthor)
 			authorForTitle = authorLink("יעל פרקל", "syaelp","t2.technion.ac.il");
 		else if (/משה דין/.test(theAuthor))
-			authorForTitle = authorLink("מורה לתורה משה דין", "DAIAN1","013.NET");
+			authorForTitle = 
+				"מורה לתורה משה דין" + " (<a href='/tnk1/daian.html'>לייעוץ ותרומות</a>)";
+				// authorLink("מורה לתורה משה דין", "daian1enator","gmail.com") 
 		else if (/אביהו/.test(theAuthor) && /איתן/.test(theAuthor))
 			authorForTitle = authorLink("שלח: אביהו איתן חדד", "eitan-avioh","iec.co.il");
 		else if (/ירון תאנה/.test(theAuthor))
@@ -2715,23 +2717,6 @@ function kotrt() {
 	if (/jdl.*Mefar/.test(path_from_root_to_document))   theText += ('<p>מהדורה אלקטרונית זו של פירושי שד"ל מוקדשת לעילוי נשמתו של ד"ר שלמה א. נכון (ליוורנו, תרס"ו - ירושלים, תשל"ד), גואלם ומוציאם לאור של פירושי שד"ל בימינו. כל הזכויות שמורות למשפחה.');
 
 	theText += "</div>\n";
-	
-	// add links to other versions (languages, printer friendly, all replies, etc)
-	/*
-	if (select_other_versions) {
-		theText += 
-		"<script type='text/javascript' src='https://apis.google.com/js/plusone.js'>"+
-			"{lang: 'iw'}"+
-		"</script>"+
-		"<table class='versionselectors'>\n<tr>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByStyle') + "</td>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByLanguage') + "</td>\n" + 
-			//"<td>" + emptyVersionSelector('versionsByContent') + "</td>\n" + 
-			// "<td>" + facebookLikeButton + "</td>\n"+
-		"</tr>\n</table>\n";
-	}
-	*/
-
 	document.write(theText);
 }
 
