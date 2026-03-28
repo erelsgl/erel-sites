@@ -18,3 +18,10 @@ SET character_set_connection=utf8mb3;
 		INSERT  INTO qjr_tryg_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
 		VALUES('תשובה אל ה\'','ביאור:איכה א20',60,10,'','ירושלים מתהפכת לטובה מתוך הצרה','2025-08-03 20:26:01');
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tryg_tnk1
+		SET tarik_hosfa='2026-03-03 23:55:38'
+		WHERE av='תשובה אל ה\'' AND bn='ביאור:איכה א20';
+

@@ -32,3 +32,17 @@ SET character_set_connection=utf8mb3;
 		SET tarik_hosfa='2025-08-03 19:39:50'
 		WHERE av='עתניאל בן קנז' AND bn='יעבץ ועתניאל';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_dmut_tnk1
+		SET tarik_hosfa='2026-03-03 23:55:38'
+		WHERE av='רות המואביה' AND bn='רות - אמה של מלכות';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_dmut_tnk1
+		SET tarik_hosfa='2026-03-03 23:55:38'
+		WHERE av='עתניאל בן קנז' AND bn='יעבץ ועתניאל';
+
