@@ -2305,3 +2305,27 @@ SET character_set_connection=hebrew;
 			SET newest_child_created_at='2026-03-28 22:06:44'
 			WHERE ktovt_bn='tnk1/odot.html';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-29 16:36:43'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_6.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-29 17:06:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-29 17:54:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0533_4.html'
+		;
+
