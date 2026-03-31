@@ -1978,3 +1978,96 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_6.html',
+		'<p>בתחילת מרס 2026 הייתי בשדה עת פריחת השעורה [היה פורים]</p><p>ועתה הייתי גם כן לאחר חודש בשדה והשעורה הצהיבה והתייבשה</p><p>כעת סוף מרס 2026 אין ספק כי זה היה ירח האביב הוא ירחא ניסן</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-30 10:47:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>כשאדם מרגיש טוב — העולם נראה טוב.</p><p>כשאדם מרגיש רע — העולם נראה מלא רשעים.</p><p>-</p><p>כשאתה &quot;צדיק&quot; מבט הראיה שלך על העולם בכלל ועל אנשים בפרט הוא מבט טוב כולם טובים</p><p>ודווקא כשאתה &quot;רשע&quot; ומתלונן אז אתה רואה את הרשעים וער לכל מיני עוולות שנראות לך</p><p>זאת אומרת כי עליך להיות מאוזן בדרך יהוה</p><p>האיזון הוא:</p><p>לא להיות תמים מדי</p><p>לא להיות מריר מדי</p><p>לא לראות רק טוב</p><p>לא לראות רק רע</p><p>אלא ללכת בדרך ישרה, דרך של אמת</p><p>וזה מה שנקרא לו “דרך יהוה”.</p><p>זו לא דרך של קיצוניות.</p><p>זו דרך של ראייה נקייה.= זה מבט אלהים</p><p>משלי טו3: &quot;בְּכָל מָקוֹם עֵינֵי יהוה צֹפוֹת רָעִים וטוֹבִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 03:51:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0122_10.html',
+		'<p>כשאדם מרגיש טוב — העולם נראה טוב.</p><p>כשאדם מרגיש רע — העולם נראה מלא רשעים.</p><p>-</p><p>כשאתה &quot;צדיק&quot; מבט הראיה שלך על העולם בכלל ועל אנשים בפרט הוא מבט טוב כולם טובים</p><p>ודווקא כשאתה &quot;רשע&quot; ומתלונן אז אתה רואה את הרשעים וער לכל מיני עוולות שנראות לך</p><p>זאת אומרת כי עליך להיות מאוזן בדרך יהוה</p><p>האיזון הוא:</p><p>לא להיות תמים מדי</p><p>לא להיות מריר מדי</p><p>לא לראות רק טוב</p><p>לא לראות רק רע</p><p>אלא ללכת בדרך ישרה, דרך של אמת</p><p>וזה מה שנקרא לו “דרך יהוה”.</p><p>זו לא דרך של קיצוניות.</p><p>זו דרך של ראייה נקייה.= זה מבט אלהים</p><p>משלי טו3: &quot;בְּכָל מָקוֹם עֵינֵי יהוה צֹפוֹת רָעִים וטוֹבִים&quot;</p><p>--------------------------------------------------------------</p><p>כעת הבן את המשל</p><p>כי בהיות עושר רב למלך כל עבדיו טובים ונאמנים בעיניו</p><p>וכשאבד העושר למלך נטשוהו חלק מעבדיו ואז הבין המלך מי צדיק ומי רשע מבין עבדיו</p><p>וזאת הסיבה שלעתים אלהים עושה לך קצת רע למען לא תהיה נאיבי ותראה גם את הרשעים מסביבך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 04:07:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-31 04:07:50' 
+			WHERE messageid=13989;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>מלבד אכילת מצות שזה דבר חשוב מאד אין לחג-הפסח בדורנו  שום משמעות</p><p>הוא לא נחגג בזמנו כי לא באביב וגם אין קורבן פסח שזה אמור להיות לב החג</p><p>הפסח האמיתי איננו כשעבודת הפסח לא מתקיימת ככתוב בתורה בספר שמות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 05:37:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>פסח לא נחגג בזמנו כי לא באביב וגם אין קורבן פסח שזה אמור להיות לב החג</p><p>הפסח האמיתי איננו כשעבודת הפסח לא מתקיימת ככתוב בתורה בספר שמות</p><p>מלבד אכילת מצות שזה דבר חשוב מאד אין לחג-הפסח בדורנו שום משמעות</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 05:44:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-31 05:44:39' 
+			WHERE messageid=13991;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>פסח לא נחגג בזמנו כי לא באביב וגם אין קורבן פסח שזה אמור להיות לב החג</p><p>הפסח האמיתי איננו כשעבודת הפסח לא מתקיימת ככתוב בתורה בספר שמות</p><p>מלבד אכילת מצות שזה דבר חשוב מאד אין לחג-הפסח בדורנו שום משמעות</p><p>אני בהחלט מבין ללב הישראלים שנוסעים לנפוש בחו&quot;ל כל עוד אוכלים כשר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 06:05:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-31 06:06:01' 
+			WHERE messageid=13992;
+
