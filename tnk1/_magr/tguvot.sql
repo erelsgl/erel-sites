@@ -2071,3 +2071,77 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-03-31 06:06:01' 
 			WHERE messageid=13992;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0516_7.html',
+		'<p>רוב הישראלים חוגגים את פסח כיום כמו חג חברתי — כמו שהרוסים אוהבים את &quot;נובי־גוד&quot; — מתוך רצון לשמוח ולא מתוך חיבור למהות המקורית.</p><p>מאחר שאין היום קורבן פסח, אין מקדש, ואין את המעמד האמיתי של “פסח יהוה”, החג הפך לקליפה ריקה: ליל סדר — בלי קורבן פסח שהוא הלב של החג.</p><p>המציאות הזאת יוצרת חג שמח מבחינה חברתית אך חסר משמעות רוחנית אמיתית.ואמנם אין פסול באירוע חברתי אבל חג משלושת הרגלים נועד להיות קדוש באמונה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 08:17:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>דַּיָּן — איש אמת, ההולך בדרכי רוח פנימית,</p><p>ומבקש לגלות דבר־יושר למי שלבו פתוח לשמוע.</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 13:52:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-31 13:54:45' 
+			WHERE messageid=13995;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>דַּיָּן — אִישׁ אֱמֶת, הַהוֹלֵךְ בְּנִתִיבוֹת רוּחַ פְּנִימִית</p><p> וּמְבַקֵּשׁ לְהַשְׁמִיעַ דְּבַר־יֹשֶׁר לְמִי שֶׁלִּבּוֹ נָכוֹן לִשְׁמֹעַ..</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 13:54:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>דַּיָּן — אִישׁ אֱמֶת הַהוֹלֵךְ בְּנִתִיבוֹת רוּחַ פְּנִימִית</p><p> וּמְבַקֵּשׁ לְהַשְׁמִיעַ דְּבַר־יֹשֶׁר לְמִי שֶׁלִּבּוֹ נָכוֹן לִשְׁמֹעַ..</p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>       דרך הקודש          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-03-31 13:55:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-03-31 13:55:04' 
+			WHERE messageid=13996;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>מי כן יכול להיעזר בי?</p><p>מי שמרגיש שמשהו לא מסתדר לו בפנים</p><p>מי שמרגיש שיש עומק שהוא לא מצליח לגעת בו</p><p>מי שמרגיש שהוא תקוע בתוך רעש</p><p>מי שמבקש בהירות</p><p>מי שמוכן לשמוע מראה</p><p>מי שמוכן להסתכל פנימה בלי לברוח</p><p>בקיצור אני בשביל מי שמוכן לפגוש את האמת של עצמו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-01 07:42:46'
+		)
+		;
+

@@ -2377,3 +2377,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/tora_jmot_byom_o_blyla_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-31 08:17:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0516_7.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-31 13:52:47'
+		WHERE ktovt_bn='tnk1/daian.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-31 13:54:49'
+		WHERE ktovt_bn='tnk1/daian.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-03-31 13:55:02'
+		WHERE ktovt_bn='tnk1/daian.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-04-01 07:42:46'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
