@@ -2145,3 +2145,41 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>דַּיָּן — אִישׁ אֱמֶת הַהוֹלֵךְ בְּנִתִיבוֹת רוּחַ פְּנִימִית</p><p>וּמְבַקֵּשׁ לְהַשְׁמִיעַ דְּבַר־יֹשֶׁר לְמִי שֶׁלִּבּוֹ נָכוֹן לִשְׁמֹעַ..</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>דרך הקודש</p><p>------------------</p><p>תמיכה בעשייה</p><p>אני כותב כאן כבר עשרות שנים מתוך רצון אחד:</p><p>להאיר מחשבות, לפתוח בהירות, ולסייע לאנשים לראות את מה שכבר נמצא בתוכם.</p><p>אני לא מטפל, לא מדריך, ולא בעל סמכות.</p><p>אני אדם רואה — אדם שמביט אל תוך הדברים ומחזיר בהירות למי שמבקש להבין.</p><p>הכתיבה באתר נעשית בהתנדבות מלאה, ללא פרסומות וללא חסויות.</p><p>אם התוכן כאן תרם לך, פתח לך נקודה, או עזר לך לראות משהו שלא ראית קודם —</p><p>אתה מוזמן לתמוך בעשייה.</p><p>התרומה אינה חובה ואינה תנאי לשום דבר.</p><p>היא פשוט דרך לומר:</p><p>“זה היה בעל ערך עבורי.”</p><p>תודה לך על כל תמיכה, מכל סוג.</p><p>ובקיצור-----</p><p>אם המילים כאן פתחו לך בהירות או עזרו לך להבין משהו על עצמך —</p><p>אתה מוזמן לתמוך בהמשך הכתיבה. </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-01 09:16:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-01 09:16:42' 
+			WHERE messageid=13997;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-01 09:32:18' 
+			WHERE messageid=13998;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/tora_jmot_byom_o_blyla_1.html',
+		'<p>פסח לא נחגג בזמנו כי לא באביב וגם אין קורבן פסח שזה אמור להיות לב החג</p><p>הפסח האמיתי איננו כשעבודת הפסח לא מתקיימת ככתוב בתורה בספר שמות</p><p>מלבד אכילת מצות שזה דבר חשוב מאד אין לחג-הפסח בדורנו שום משמעות</p><p>אני בהחלט מבין ללב הישראלים שנוסעים לנפוש בחו&quot;ל כל עוד אוכלים כשר</p><p>-------------------------------------------------------------------------------------</p><p>עשינו ליל-סדר ככל עם ישראל אף כי כעת בלוח השמש כבר שביעי של פסח</p><p>ובלוח הירח חלף לגמרי ירח ניסן וכעת אנחנו בראש ירחא זיו הוא חודש אייר</p><p>-------------------------------------------------------------------------------------</p><p>https://scontent.ftlv1-1.fna.fbcdn.net/v/t39.30808-6/660342440_26250822421227655_5066278426619874058_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=zVTRTUXXyLQQ7kNvwF85Utf&amp;_nc_oc=AdoCJXSXFKdR1Y20tD8DO-cmISHkC0n1f2OvGmSgRutkcYqjFq3jI_WSVVZm-E3J26xleG0qvx-MYTyMpslhpLK8&amp;_nc_zt=23&amp;_nc_ht=scontent.ftlv1-1.fna&amp;_nc_gid=BIz9kjJ8_Hutye_AEwRdRQ&amp;_nc_ss=7a3a8&amp;oh=00_Af1XUoGs190SqF6i_XD6m1Wuk_Q-83QePTlztSNeTdIOyw&amp;oe=69D2F1F6</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-02 06:08:17'
+		)
+		;
+
