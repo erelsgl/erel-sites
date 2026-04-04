@@ -2512,3 +2512,27 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-04-03 12:37:20'
+		WHERE ktovt_bn='tnk1/klli/mdrjim/yovl.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-04-03 15:07:53'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2637_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-04-03 15:32:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2637_0.html'
+		;
+
