@@ -462,3 +462,294 @@ SET character_set_connection=utf8mb3;
 		SET tarik_hosfa='2026-03-03 23:55:38'
 		WHERE av='שירי אהובה קליין' AND bn='\'ישנו נזיר\' - אהובה קליין';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'סעודת קורבן שלמי תודה\' - אהובה קליין',60,10,'','סעודת קורבן שלמי תודה','2026-04-07 13:11:34');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('אודות האתר','מורה לתורה משה דין - תרומות',60,10,'','','2026-04-07 13:11:34');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('פירושים על מדרשי הלכה','יובל בימינו - מדרשי הלכה',60,10,'','','2026-04-07 13:11:34');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מנהגים','ביאור:ויקרא כה9',60,10,'','תקיעת שופר ביום הכיפורים בשנת היובל','2026-04-07 13:11:34');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'בנות ציון והמלך שלמה\' - אהובה קליין',60,10,'','בנות ציון והמלך שלמה','2026-04-07 13:11:34');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מלחמת חרבות ברזל','ביאור:תהלים עט1',60,10,'','מזמור על חורבן עצים ואבנים','2026-04-07 13:14:28');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מידת התקוה','ביאור:תהלים עט1',60,10,'','מזמור על חורבן עצים ואבנים','2026-04-07 13:14:28');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='שירי אהובה קליין' AND bn='\'בנות ציון והמלך שלמה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='מנהגים' AND bn='ביאור:ויקרא כה9';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='מידת התקוה' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='מלחמת חרבות ברזל' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='שירי אהובה קליין' AND bn='\'סעודת קורבן שלמי תודה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:22'
+		WHERE av='אודות האתר' AND bn='מורה לתורה משה דין - תרומות';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מידת התקוה','פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?',60,10,'','','2026-04-07 13:15:22');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('פירושים על מדרשי הלכה','שאלה על: יובל בימינו - מדרשי הלכה',60,10,'','','2026-04-07 13:15:22');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='שירי אהובה קליין' AND bn='\'בנות ציון והמלך שלמה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='מנהגים' AND bn='ביאור:ויקרא כה9';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='מידת התקוה' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='מלחמת חרבות ברזל' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='שירי אהובה קליין' AND bn='\'סעודת קורבן שלמי תודה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='אודות האתר' AND bn='מורה לתורה משה דין - תרומות';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='מידת התקוה' AND bn='פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:15:47'
+		WHERE av='פירושים על מדרשי הלכה' AND bn='שאלה על: יובל בימינו - מדרשי הלכה';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='שירי אהובה קליין' AND bn='\'בנות ציון והמלך שלמה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='מנהגים' AND bn='ביאור:ויקרא כה9';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='מידת התקוה' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='מלחמת חרבות ברזל' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('צדק ישראל','ביאור:תהלים עט1',60,10,'','','2026-04-07 13:16:05');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='שירי אהובה קליין' AND bn='\'סעודת קורבן שלמי תודה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='אודות האתר' AND bn='מורה לתורה משה דין - תרומות';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='מידת התקוה' AND bn='פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:16:05'
+		WHERE av='פירושים על מדרשי הלכה' AND bn='שאלה על: יובל בימינו - מדרשי הלכה';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='מידת התקוה' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='מלחמת חרבות ברזל' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='צדק ישראל' AND bn='ביאור:תהלים עט1';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='מנהגים' AND bn='ביאור:ויקרא כה9';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='שירי אהובה קליין' AND bn='\'בנות ציון והמלך שלמה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='אודות האתר' AND bn='מורה לתורה משה דין - תרומות';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='מידת התקוה' AND bn='פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='פירושים על מדרשי הלכה' AND bn='שאלה על: יובל בימינו - מדרשי הלכה';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='שירי אהובה קליין' AND bn='\'סעודת קורבן שלמי תודה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='שירי אהובה קליין' AND bn='\'בנות ישראל מתכוננות למתן תורה\' - אהובה קליין';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE  qjr_tnk1_tnk1
+		SET tarik_hosfa='2026-04-07 13:17:12'
+		WHERE av='שירי אהובה קליין' AND bn='\'ציווי  התרומה במדבר\' - אהובה קליין';
+

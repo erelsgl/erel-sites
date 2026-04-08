@@ -449,3 +449,84 @@ SET character_set_connection=utf8mb3;
 				VALUES ('שאלה - בקשה', 'הבדל', 'שאלה - בקשה', 'tnk1/kma/hvdlim1/jal-bqj.html', 'אראל', '', '2026-03-03 23:25:14')
 				;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?', 'מאמר', 'פרשת כי תישא - עליות ומורדות בפרשה - הכיצד?', 'tnk1/messages/forums_1327.html', 'אהובה קליין', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('פרשת ויקהל - פקודי - כיצד נפתח שער לכנפי השכינה?', 'מאמר', 'פרשת ויקהל - פקודי - כיצד נפתח שער לכנפי השכינה?', 'tnk1/messages/forums_1816.html', 'אהובה קליין', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('פרשת ויקרא - האם ה\' קורא למשה בלבד?', 'מאמר', 'פרשת ויקרא - האם ה\' קורא למשה בלבד?', 'tnk1/messages/forums_1817.html', 'אהובה קליין', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('\'סעודת קורבן שלמי תודה\' - אהובה קליין', 'שיר', '\'סעודת קורבן שלמי תודה\' - שיר מאת אהובה קליין (c)', 'tnk1/messages/forums_1818.html', 'אהובה קליין', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('פרשת צו - שבת הגדול ונבואת מלאכי - מה הקשר?', 'מאמר', 'פרשת צו - שבת הגדול ונבואת מלאכי - מה הקשר?', 'tnk1/messages/forums_1819.html', 'אהובה קליין', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('מורה לתורה משה דין - תרומות', 'קובץ', 'מורה לתורה משה דין - תרומות', 'tnk1/daian.html', 'אראל', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('שאלה על: יובל בימינו - מדרשי הלכה', 'פירוש', 'שאלה על: יובל בימינו - מדרשי הלכה', 'tnk1/klli/mdrjim/yovl.html', 'אראל', '', '2026-04-07 13:07:34')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `prt_tnk1` WHERE `qod` = 'ביאור:ויקרא כה9' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('ביאור:ויקרא כה9', 'דיון1', 'תקיעת שופר ביום הכיפורים בשנת היובל', 'tnk1/tora/wyqra/wy-25-09.html', 'אראל', '', '2026-04-07 13:08:41')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('חג הפסח - מה מגלה לנו ספר הספרים?', 'מאמר', 'חג הפסח - מה מגלה לנו ספר הספרים?', 'tnk1/messages/forums_1821.html', 'אהובה קליין', '', '2026-04-07 13:08:41')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('\'בנות ציון והמלך שלמה\' - אהובה קליין', 'שיר', '\'בנות ציון והמלך שלמה\' - שיר מאת אהובה קליין (c)', 'tnk1/messages/forums_1822.html', 'אהובה קליין', '', '2026-04-07 13:08:41')
+				;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+				INSERT INTO prt_tnk1 (qod, sug, kotrt, ktovt, m, l, tarik_hosfa)
+				VALUES ('ביאור:תהלים עט1', 'דיון1', 'מזמור על חורבן עצים ואבנים', 'tnk1/ktuv/thlim/th-79-01.html', 'אראל', '', '2026-04-07 13:08:41')
+				;
+
