@@ -3825,3 +3825,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-04-15 04:50:59' 
 			WHERE messageid=14102;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>מכל מה שכתבתי במאמרי ובתגובות בשרשור הזה</p><p>אני מחריג לטובה ומברך את כל הרבנים הצנועים והענוים יראי-השם</p><p>ואת הרב איל עמרמי יברכהו השם</p><p>אני לא מהרבנים ואם אין סיכוי שתלמדו תורה ממני</p><p>אז אייעץ ואמליץ לכם ואקווה כי תשמעו לרב איל עמרמי</p><p>https://www.youtube.com/@RabbiEyalAmrami</p><p>https://www.youtube.com/watch?v=4gJMms7RCNI</p><p>https://www.youtube.com/shorts/Ptn7Mlcz_5E</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-15 19:15:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-16 06:35:03' 
+			WHERE messageid=14104;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>השבוע היה יום השואה</p><p>כשאחינו האשכנזים עברו את האש בשואה הניצולים הקדושים ששרדו אמרו דבר כזה</p><p>הנקמה האמיתית שלנו זה לעלות לארץ הקודש ולהקים שם משפחה להוליד בנים ובנות</p><p>אך הנקמה של עמי הארצות היא כדברי רב-עם-הארץ הזה בושה וחרפה וכלימה לו</p><p>https://www.youtube.com/watch?v=RbTrKbAhya0&amp;t=271s</p><p>אלה רבניך ישראל שאני מתבייש בם גועל-נפש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-16 07:02:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>השבוע היה יום השואה</p><p>כשאחינו האשכנזים עברו את האש בשואה הניצולים הקדושים ששרדו אמרו דבר כזה</p><p>הנקמה האמיתית שלנו זה לעלות לארץ הקודש ולהקים שם משפחה להוליד בנים ובנות</p><p>אך הנקמה של עמי הארצות היא כדברי רב-עם-הארץ הזה בושה וחרפה וכלימה לו</p><p>https://www.youtube.com/watch?v=RbTrKbAhya0&amp;t=271s</p><p>אלה רבניך ישראל שאני מתבייש בם גועל-נפש לתת דרור ליצרים בזויים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-16 07:41:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-16 07:41:48' 
+			WHERE messageid=14105;
+
