@@ -4247,3 +4247,84 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-04-23 04:55:01' 
 			WHERE messageid=14130;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p> </p><p>בראשית מב7: &quot;וַיַּרְא יוֹסֵף אֶת אֶחָיו וַיַּכִּרֵם וַיִּתְנַכֵּר אֲלֵיהֶם*** וַיְדַבֵּר אִתָּם קָשׁוֹת*** וַיֹּאמֶר אֲלֵהֶם מֵאַיִן בָּאתֶם וַיֹּאמְרוּ מֵאֶרֶץ כְּנַעַן לִשְׁבָּר אֹכֶל&quot; </p><p>בראשית מב30: &quot;דִּבֶּר הָאִישׁ אֲדֹנֵי הָאָרֶץ אִתָּנוּ קָשׁוֹת....... וַיִּתֵּן אֹתָנוּ כִּמְרַגְּלִים אֶת הָאָרֶץ&quot;</p><p>מלכים א יט20: &quot;וַיַּעֲזֹב אֶת הַבָּקָר וַיָּרָץ אַחֲרֵי אֵלִיָּהוּ וַיֹּאמֶר אֶשְּׁקָה נָּא לְאָבִי וּלְאִמִּי וְאֵלְכָה אַחֲרֶיךָ ***וַיֹּאמֶר לוֹ לֵךְ שׁוּב כִּי מֶה עָשִׂיתִי לָךְ&quot; ***</p><p>רות א18: &quot;וַתֵּרֶא כִּי מִתְאַמֶּצֶת הִיא לָלֶכֶת אִתָּהּ וַתֶּחְדַּל לְדַבֵּר אֵלֶיהָ&quot;</p><p>דרך אבותינו הקדושים אינה כדרך המיסיונריות אדרבא כי אבותינו הקדושים דוחים אותך מלהצטרף אליהם </p><p>וזאת לראות מי יחבור אליך מרצון אמת לא מתוך שיקול זר כי אם מתוך אהבת אלהים טהורה  </p><p> </p><p> </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה            </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-23 09:18:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>בראשית מב7: &quot;וַיַּרְא יוֹסֵף אֶת אֶחָיו וַיַּכִּרֵם וַיִּתְנַכֵּר אֲלֵיהֶם*** וַיְדַבֵּר אִתָּם קָשׁוֹת*** וַיֹּאמֶר אֲלֵהֶם מֵאַיִן בָּאתֶם וַיֹּאמְרוּ מֵאֶרֶץ כְּנַעַן לִשְׁבָּר אֹכֶל&quot;</p><p>בראשית מב30: &quot;דִּבֶּר הָאִישׁ אֲדֹנֵי הָאָרֶץ אִתָּנוּ קָשׁוֹת....... וַיִּתֵּן אֹתָנוּ כִּמְרַגְּלִים אֶת הָאָרֶץ&quot;</p><p>מלכים א יט20: &quot;וַיַּעֲזֹב אֶת הַבָּקָר וַיָּרָץ אַחֲרֵי אֵלִיָּהוּ וַיֹּאמֶר אֶשְּׁקָה נָּא לְאָבִי וּלְאִמִּי וְאֵלְכָה אַחֲרֶיךָ ***וַיֹּאמֶר לוֹ לֵךְ שׁוּב כִּי מֶה עָשִׂיתִי לָךְ&quot; ***</p><p>רות א18: ***&quot;וַתֵּרֶא כִּי מִתְאַמֶּצֶת הִיא לָלֶכֶת אִתָּהּ*** וַתֶּחְדַּל לְדַבֵּר אֵלֶיהָ&quot;</p><p>דרך אבותינו הקדושים אינה כדרך המיסיונריות אדרבא כי אבותינו הקדושים דוחים אותך מלהצטרף אליהם</p><p>וזאת לראות מי יחבור אליך כמתאמץ מרצון אמת לא מתוך שיקול זר כי אם מתוך אהבת אלהים טהורה</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-23 09:20:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-23 09:20:11' 
+			WHERE messageid=14131;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>אני דיין לא בבית משפט אני דיין לא מהרבנים אני דיין בקודש שופט ברגש</p><p>כיום בדור המחשבים של AI הבינה המלאכותית הידע נגיש לך יותר מאי פעם</p><p>לכן לא מעניין אותי שהרב ההוא חכם אני רוצה לראות רגש אהבה בעבודת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-23 09:36:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-23 10:10:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-23 10:10:03' 
+			WHERE messageid=14134;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-24 04:26:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-24 04:26:54' 
+			WHERE messageid=14135;
+
