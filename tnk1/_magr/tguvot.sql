@@ -4378,3 +4378,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-04-25 17:31:22' 
 			WHERE messageid=14138;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Qal_rBijXOo</p><p>תשובה לרב</p><p>“אשפוז נפשי הוא לא קלון. מי שמשתמש בזה כדי לתקוף — פשוט לא מסוגל להתמודד עם הדברים שאני אומר.”</p><p>“האשפוז שעברתי הוא חלק מהמסע הרוחני שלי. הוא לא פגם בי — הוא חיזק אותי. </p><p>מי שמנסה להשתמש בזה נגדי, מגלה את החולשה שלו, לא את שלי. </p><p>אני לא מתבייש במסע שלי, ואני לא מסתיר אותו. האמת שלי לא תלויה במה שאנשים חושבים.”</p><p>“אני עומד מאחורי דבריי. מי שרוצה לדון עניינית — מוזמן. מי שלא — זו בחירה שלו.”</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-27 04:16:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-27 04:18:34' 
+			WHERE messageid=14139;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Qal_rBijXOo</p><p>תשובה לרב</p><p>משלי טו3: &quot;בְּכָל מָקוֹם עֵינֵי יהוה צֹפוֹת רָעִים וטוֹבִים&quot; </p><p>ואתה הרב כפסיכיאטרים של משרד הבריאות — טופל עלי לשוא חולי-נפש על משרת-יהוה</p><p>“אשפוז נפשי הוא לא קלון. מי שמשתמש בזה כדי לתקוף — פשוט לא מסוגל להתמודד עם הדברים שאני אומר.”</p><p>“האשפוז שעברתי הוא חלק מהמסע הרוחני שלי. הוא לא פגם בי — הוא חיזק אותי. </p><p>מי שמנסה להשתמש בזה נגדי, מגלה את החולשה שלו, לא את שלי. </p><p>אני לא מתבייש במסע שלי, ואני לא מסתיר אותו. האמת שלי לא תלויה במה שאנשים חושבים.”</p><p>“אני עומד מאחורי דבריי. מי שרוצה לדון עניינית — מוזמן. מי שלא — זו בחירה שלו.”</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-27 04:35:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Qal_rBijXOo</p><p>תשובה לרב</p><p>משלי טו3: &quot;בְּכָל מָקוֹם עֵינֵי יהוה צֹפוֹת רָעִים וטוֹבִים&quot;</p><p>ואתה הרב כפסיכיאטרים  — טופל עלי לשוא חולי-נפש על משרת-יהוה</p><p>“אשפוז נפשי הוא לא קלון. מי שמשתמש בזה כדי לתקוף — פשוט לא מסוגל להתמודד עם הדברים שאני אומר.”</p><p>“האשפוז שעברתי הוא חלק מהמסע הרוחני שלי. הוא לא פגם בי — הוא חיזק אותי.</p><p>מי שמנסה להשתמש בזה נגדי, מגלה את החולשה שלו, לא את שלי.</p><p>אני לא מתבייש במסע שלי, ואני לא מסתיר אותו. האמת שלי לא תלויה במה שאנשים חושבים.”</p><p>“אני עומד מאחורי דבריי. מי שרוצה לדון עניינית — מוזמן. מי שלא — זו בחירה שלו.”</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-27 04:38:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-27 04:38:35' 
+			WHERE messageid=14140;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p> https://www.youtube.com/shorts/Qal_rBijXOo</p><p>תשובה לרב</p><p>משלי טו3: &quot;בְּכָל מָקוֹם עֵינֵי יהוה צֹפוֹת רָעִים וטוֹבִים&quot;</p><p>ואתה הרב כפסיכיאטרים — טופל עלי לשוא מחלת-נפש על משרת-יהוה</p><p>“אשפוז נפשי הוא לא קלון. מי שמשתמש בזה כדי לתקוף — פשוט לא מסוגל להתמודד עם הדברים שאני אומר.”</p><p>מי שמנסה להשתמש בזה נגדי, מגלה את החולשה שלו, לא את שלי.</p><p>אני לא מתבייש במסע שלי, ואני לא מסתיר אותו. האמת שלי לא תלויה במה שאנשים חושבים.”</p><p>“אני עומד מאחורי דבריי. מי שרוצה לדון עניינית — מוזמן. מי שלא — זו בחירה שלו.”</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-27 05:10:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-27 05:10:58' 
+			WHERE messageid=14141;
+
