@@ -4447,3 +4447,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-04-27 05:10:58' 
 			WHERE messageid=14141;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/sofrim_hoffer_psychology_13.html',
+		'<p></p>',
+		'100854702325606419609',
+		'עינת שחר',
+		'2026-04-27 12:39:23'
+		)
+		;
+
