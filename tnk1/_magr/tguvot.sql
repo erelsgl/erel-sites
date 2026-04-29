@@ -4459,3 +4459,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים עב1: &quot;לִשְׁלֹמֹה אֱלֹהִים מִשְׁפָּטֶיךָ לְמֶלֶךְ תֵּן וְצִדְקָתְךָ לְבֶן מֶלֶךְ&quot;</p><p>תהלים קג17: &quot;וְחֶסֶד יהוה מֵעוֹלָם וְעַד עוֹלָם עַל יְרֵאָיו וְצִדְקָתוֹ לִבְנֵי בָנִים&quot;</p><p>משלי יז6: &quot;עֲטֶרֶת זְקֵנִים בְּנֵי בָּנִים וְתִפְאֶרֶת בָנִים אֲבוֹתָם&quot;</p><p>  עֲטֶרֶת זְקֵנִים בְּנֵי בָּנִים = וְצִדְקָתוֹ לִבְנֵי בָנִים = וְצִדְקָתְךָ לְבֶן מֶלֶךְ </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-28 13:38:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2619_1.html',
+		'<p>תהלים עב1: &quot;לִשְׁלֹמֹה אֱלֹהִים מִשְׁפָּטֶיךָ לְמֶלֶךְ תֵּן וְצִדְקָתְךָ לְבֶן מֶלֶךְ&quot;.......</p><p>תהלים קג17: &quot;וְחֶסֶד יהוה מֵעוֹלָם וְעַד עוֹלָם עַל יְרֵאָיו וְצִדְקָתוֹ לִבְנֵי בָנִים&quot;.......</p><p>משלי יז6: &quot;עֲטֶרֶת זְקֵנִים בְּנֵי בָּנִים....... וְתִפְאֶרֶת בָנִים אֲבוֹתָם&quot;</p><p>  עֲטֶרֶת זְקֵנִים בְּנֵי בָּנִים = וְצִדְקָתוֹ לִבְנֵי בָנִים = וְצִדְקָתְךָ לְבֶן מֶלֶךְ </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-28 13:38:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-04-28 13:38:52' 
+			WHERE messageid=14144;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>קהלת יב5: &quot;גַּם מִגָּבֹהַּ יִרָאוּ וְחַתְחַתִּים בַּדֶּרֶךְ וְיָנֵאץ הַשָּׁקֵד וְיִסְתַּבֵּל הֶחָגָב וְתָפֵר הָאֲבִיּוֹנָה כִּי הֹלֵךְ הָאָדָם אֶל בֵּית עוֹלָמוֹ וְסָבְבוּ בַשּׁוּק הַסֹּפְדִים&quot;</p><p> כִּי הֹלֵךְ הָאָדָם אֶל בֵּית עוֹלָמוֹ -- כל תפילותיו הצדיקים בעיני אלהים אשר התפלל בחייו יקומו לו לעולם הבא -- כִּי הֹלֵךְ הָאָדָם אֶל בֵּית עוֹלָמוֹ </p><p>ואתה בחייך דע להתפלל אמת שבקשותיך יהיו לרצון לפני יהוה אלהים כי הקם יקים את כל דבריך הצדיקים והישרים אשר התפללת באמונה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-29 03:40:15'
+		)
+		;
+
