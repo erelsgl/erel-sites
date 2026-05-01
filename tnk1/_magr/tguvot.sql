@@ -4583,3 +4583,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-04-29 18:02:05' 
 			WHERE messageid=14150;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>שאלה לדיין</p><p>שלום רב</p><p>אני גרוש ועובד בשתי משרות לממן מזונות לגרושתי ככה שהיום שלי עמוס לעייפה</p><p>הבעיה ביום שבת שאני בבדידות ניסיתי ללכת לבית כנסת אך איני מתחבר לזה</p><p>ולא נותר לי אלא לגלוש באינטרנט ביום שבת לשמוע מוזיקה האם זה מסתדר מבחינתך</p><p>-</p><p>תשובה:</p><p>ראה כי כל עוד אתה גולש באינטרנט לצורך &quot;עונג שבת&quot; למלא את הבדידות שלך</p><p>אז זה בהחלט מותר וכי מתי תשמע מוזיקה אם השבוע שלך מלא עד אפס זמן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-04-30 12:00:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-01 02:10:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-01 02:10:46' 
+			WHERE messageid=14153;
+
