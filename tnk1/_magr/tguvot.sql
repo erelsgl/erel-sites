@@ -4664,3 +4664,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-05-01 13:23:21' 
 			WHERE messageid=14155;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>תהלים סג7: &quot;אִם זְכַרְתִּיךָ עַל יְצוּעָי בְּאַשְׁמֻרוֹת אֶהְגֶּה בָּךְ&quot;</p><p>לכן אין לשתות יין בלילה כי היין גורם לשכחה ואנחנו עלינו לזכור שם אלהים על היצועים בעת שהולכים לישון בלילה </p><p>אברהם אבינו לא שתה יין בלילה לוט שתה יין בלילה ושכב עם בנותיו </p><p>אני מתכוון שאין לשתות לשכרה בלילה אך טיפה לגימה לברכה מהקידוש וההבדלה זה מותר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-02 17:20:08'
+		)
+		;
+
