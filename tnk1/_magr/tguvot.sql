@@ -4959,3 +4959,91 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>זוהר, חלק א’, דף י&quot;א ע&quot;ב </p><p>&quot;לית אתר פנוי מיניה.&quot;</p><p>תרגום:  </p><p>אין מקום בעולם שהוא ריק ממנו (מהשכינה / מהא‑לוהות).</p><p>-</p><p>אך זה לא מדוייק כי על פי התורה יש מקום שאיתו ויש מקום שלא איתו</p><p>שמות לג21: &quot;וַיֹּאמֶר יהוה הִנֵּה מָקוֹם אִתִּי וְנִצַּבְתָּ עַל הַצּוּר&quot;</p><p>וגם דוד המלך חיפש מקום ליהוה</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם ליהוה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>תהלים קג22: &quot;בָּרֲכוּ יהוה כָּל מַעֲשָׂיו בְּכָל מְקֹמוֹת מֶמְשַׁלְתּוֹ בָּרֲכִי נַפְשִׁי אֶת יהוה&quot;</p><p>ואם יש ממשלה שאינה בדרך האל אז זה לא מקום ממשלתו</p><p>-</p><p>סוף דבר לסיכום</p><p>ספר הזוהר אינו קדוש --- אך יש לו חשיבות רבה בשימור השפה הארמית</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-05 10:53:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p></p><p>2026-05-05 20:53:25</p><p>DAIAN SHEM	</p><p>זוהר, חלק א’, דף י&quot;א ע&quot;ב</p><p>&quot;לית אתר פנוי מיניה.&quot;</p><p>תרגום:</p><p>אין מקום בעולם שהוא ריק ממנו (מהשכינה / מהא‑לוהות).</p><p>-</p><p>אך זה לא מדוייק כי על פי התורה יש מקום שאיתו ויש מקום שלא איתו</p><p>שמות לג21: &quot;וַיֹּאמֶר יהוה הִנֵּה מָקוֹם אִתִּי וְנִצַּבְתָּ עַל הַצּוּר&quot;</p><p>וגם דוד המלך חיפש מקום ליהוה</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם ליהוה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>תהלים קג22: &quot;בָּרֲכוּ יהוה כָּל מַעֲשָׂיו בְּכָל מְקֹמוֹת מֶמְשַׁלְתּוֹ בָּרֲכִי נַפְשִׁי אֶת יהוה&quot;</p><p>ואם יש ממשלה שאינה בדרך האל אז זה לא מקום ממשלתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-05 11:26:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-05 11:26:20' 
+			WHERE messageid=14174;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-05 11:26:45' 
+			WHERE messageid=14175;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>זוהר, חלק א’, דף י&quot;א ע&quot;ב</p><p>&quot;לית אתר פנוי מיניה.&quot;</p><p>תרגום:</p><p>אין מקום בעולם שהוא ריק ממנו (מהשכינה / מהא‑לוהות).</p><p>-</p><p>אך זה לא מדוייק כי על פי התורה יש מקום שאיתו ויש מקום שלא איתו</p><p>שמות לג21: &quot;וַיֹּאמֶר יהוה הִנֵּה מָקוֹם אִתִּי וְנִצַּבְתָּ עַל הַצּוּר&quot;</p><p>וגם דוד המלך חיפש מקום ליהוה</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם ליהוה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>תהלים קג22: &quot;בָּרֲכוּ יהוה כָּל מַעֲשָׂיו בְּכָל מְקֹמוֹת מֶמְשַׁלְתּוֹ בָּרֲכִי נַפְשִׁי אֶת יהוה&quot;</p><p>ואם יש ממשלה שאינה בדרך האל אז זה לא מקום ממשלתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-05 11:27:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>בספר הזוהר יש הרבה דברים שתואמים את התורה</p><p>אך מצאתי גם סתירות כמו למשל בקטע הבא הזה</p><p>זוהר, חלק א’, דף י&quot;א ע&quot;ב</p><p>&quot;לית אתר פנוי מיניה.&quot;</p><p>תרגום:</p><p>אין מקום בעולם שהוא ריק ממנו (מהשכינה / מהא‑לוהות).</p><p>-</p><p>אך זה לא מדוייק כי על פי התורה יש מקום שאיתו ויש מקום שלא איתו</p><p>שמות לג21: &quot;וַיֹּאמֶר יהוה הִנֵּה מָקוֹם אִתִּי וְנִצַּבְתָּ עַל הַצּוּר&quot;</p><p>וגם דוד המלך חיפש מקום ליהוה</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם ליהוה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>תהלים קג22: &quot;בָּרֲכוּ יהוה כָּל מַעֲשָׂיו בְּכָל מְקֹמוֹת מֶמְשַׁלְתּוֹ בָּרֲכִי נַפְשִׁי אֶת יהוה&quot;</p><p>ואם יש ממשלה שאינה בדרך האל אז זה לא מקום ממשלתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-05 11:37:41'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-05 11:37:45' 
+			WHERE messageid=14176;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-05 14:20:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-05 14:21:05' 
+			WHERE messageid=14178;
+
