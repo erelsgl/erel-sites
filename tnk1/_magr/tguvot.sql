@@ -5157,3 +5157,22 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-07 11:41:24' 
+			WHERE messageid=14182;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p> הרבנים ממאנים להאמין בי כמשיח ומתרצים זאת בכך שאין תחיית המתים</p><p>אבל תחיית המתים בגרסה של רבני חזל לעולם לא תהיה</p><p>לא הייתה בימי הכהן המשיח לבית אהרן הלוי ולא בימי משיח בן-דוד</p><p>קהלת א9: &quot;מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה וּמַה שֶׁנַּעֲשָׂה הוּא שֶׁיֵּעָשֶׂה וְאֵין כָּל חָדָשׁ תַּחַת הַשָּׁמֶשׁ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-07 15:36:40'
+		)
+		;
+
