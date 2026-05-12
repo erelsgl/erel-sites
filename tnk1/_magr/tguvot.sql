@@ -5452,3 +5452,27 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-05-11 00:20:22' 
 			WHERE messageid=14202;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>תהלים נט8: &quot;הִנֵּה יַבִּיעוּן בְּפִיהֶם חֲרָבוֹת בְּשִׂפְתוֹתֵיהֶם כִּי מִי שֹׁמֵעַ&quot;</p><p>מבחינה רוחנית השפתיים זה חרב-אלהים ואסור לעשות בזה שימוש לרעה</p><p>על אחת כמה וכמה הכהן הקדוש לא ימצא בשפתיו עוולה</p><p>מלאכי ב7: &quot;כִּי שִׂפְתֵי כֹהֵן יִשְׁמְרוּ דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יהוה צְבָאוֹת הוּא&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-11 09:15:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>אם השופט הצדיק הרג בחרב-אלהים הלא אין ראיות ואין עדים כמקרה רצח בחרב אדם</p><p>לאמור כי איש לא יכול להרשיע אותך מבחינת החוק מלבד יהוה-אלהים לבדו</p><p>על כן השופט הקדוש מחשבן &quot;דין וחשבון&quot; רק לאלהים לבדו ולזאת יקרא יראת אלהים של השופט הקדוש</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-11 09:25:29'
+		)
+		;
+
