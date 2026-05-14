@@ -5538,3 +5538,134 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>החוק על פי תורת משה דין </p><p>בבוקר חלב ביחד עם פרי-עץ ------- [שייק פירות עם חלב זה טוב ]וגם היין מכיל פרי הגפן </p><p>בערב בשר ביחד עם ירק ------- כי בעת הזבח הטהור אתה בא [נכנס] אל חצר-יהוה ועליך לבוא עם צמחי ירק עשב בענוה כשפל-רוח ובהצנע לכת לפני יהוה אלהיך </p><p>על כן בעת זבח הבשר אשר אתה נכנס אל חצר-יהוה אל תשת יין כי לא יתייצבו הוללים לנגד עיניו בחצר המלך </p><p>תהלים ה6: &quot;לֹא יִתְיַצְּבוּ הוֹלְלִים לְנֶגֶד עֵינֶיךָ שָׂנֵאתָ כָּל פֹּעֲלֵי אָוֶן&quot;</p><p>-</p><p>יין קשור להוללות ואתה אל תשת יין לפני השינה כי לא תוכל להתייצב לפני אלהים באמונה בלילה</p><p>תהלים סג7: &quot;אִם זְכַרְתִּיךָ עַל יְצוּעָי בְּאַשְׁמֻרוֹת אֶהְגֶּה בָּךְ&quot;</p><p>לכן אין לשתות יין בלילה כי היין גורם לשכחה ואנחנו עלינו לזכור שם אלהים על היצועים בעת שהולכים לישון בלילה</p><p>אברהם אבינו לא שתה יין בלילה לוט שתה יין בלילה ושכב עם בנותיו</p><p>אני מתכוון שאין לשתות לשכרה בלילה אך טיפה לגימה לברכה מהקידוש וההבדלה זה מותר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-13 10:36:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-13 10:36:31' 
+			WHERE messageid=14208;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p>החוק על פי תורת משה דין</p><p>בבוקר חלב ביחד עם פרי-עץ ------- [שייק פירות עם חלב זה טוב] וגם היין מכיל פרי הגפן</p><p>בערב בשר ביחד עם ירק ------- כי בעת הזבח הטהור אתה בא [נכנס] אל חצר-יהוה ועליך לבוא עם צמחי ירק עשב בענוה כשפל-רוח ובהצנע לכת לפני יהוה אלהיך</p><p>על כן בעת זבח הבשר אשר אתה נכנס אל חצר-יהוה אל תשת יין כי לא יתייצבו הוללים לנגד עיניו בחצר המלך</p><p>תהלים ה6: &quot;לֹא יִתְיַצְּבוּ הוֹלְלִים לְנֶגֶד עֵינֶיךָ שָׂנֵאתָ כָּל פֹּעֲלֵי אָוֶן&quot;</p><p>יין קשור להוללות ואתה אל תשת יין לפני השינה כי לא תוכל להתייצב לפני אלהים באמונה בלילה</p><p>תהלים סג7: &quot;אִם זְכַרְתִּיךָ עַל יְצוּעָי בְּאַשְׁמֻרוֹת אֶהְגֶּה בָּךְ&quot;</p><p>לכן אין לשתות יין בלילה כי היין גורם לשכחה ואנחנו עלינו לזכור שם אלהים על היצועים בעת שהולכים לישון בלילה</p><p>אברהם אבינו לא שתה יין בלילה לוט שתה יין בלילה ושכב עם בנותיו</p><p>אני מתכוון שאין לשתות לשכרה בלילה אך טיפה לגימה לברכה מהקידוש וההבדלה זה מותר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-13 10:37:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-13 10:37:25' 
+			WHERE messageid=14210;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2823_0.html',
+		'<p> החוק על פי תורת משה דין</p><p>בבוקר חלב ביחד עם פרי-עץ ------- [שייק פירות עם חלב זה טוב] וגם היין מכיל פרי הגפן</p><p>בערב בשר ביחד עם ירק ------- כי בעת הזבח הטהור אתה בא [נכנס] אל חצר-יהוה ועליך לבוא עם צמחי ירק עשב בענוה כשפל-רוח ובהצנע לכת לפני יהוה אלהיך</p><p>על כן בעת זבח הבשר אשר אתה נכנס אל חצר-יהוה אל תשת יין [כי פרי-עץ-רם בו] כי לא יתייצבו הוללים לנגד עיניו בחצר המלך</p><p>תהלים ה6: &quot;לֹא יִתְיַצְּבוּ הוֹלְלִים לְנֶגֶד עֵינֶיךָ שָׂנֵאתָ כָּל פֹּעֲלֵי אָוֶן&quot;</p><p>יין קשור להוללות ואתה אל תשת יין לפני השינה כי לא תוכל להתייצב לפני אלהים באמונה בלילה</p><p>תהלים סג7: &quot;אִם זְכַרְתִּיךָ עַל יְצוּעָי בְּאַשְׁמֻרוֹת אֶהְגֶּה בָּךְ&quot;</p><p>לכן אין לשתות יין בלילה כי היין גורם לשכחה ואנחנו עלינו לזכור שם אלהים על היצועים בעת שהולכים לישון בלילה</p><p>אברהם אבינו לא שתה יין בלילה לוט שתה יין בלילה ושכב עם בנותיו</p><p>אני מתכוון שאין לשתות לשכרה בלילה אך טיפה לגימה לברכה מהקידוש וההבדלה זה מותר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-13 10:47:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-13 10:47:55' 
+			WHERE messageid=14211;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>******* לאחיי היקרים אם אתם רגישים לנפש החייה כאשר קרוב ללבי תוכלו לתרום בקישור זה &quot;למען חיות הבר&quot; *******</p><p>----------------------------------------------------------------------------------------------------------------------------------------</p><p>https://www.forthewildlife.co.il/donate-heb?utm_medium=paid&amp;utm_source=fb&amp;utm_id=120246671945840002&amp;utm_content=120249319682210002&amp;utm_term=120246671945860002&amp;utm_campaign=120246671945840002&amp;fbclid=IwY2xjawRxni9leHRuA2FlbQIxMABicmlkETFRMzJzMzlGaUNBSEZ5M2lmc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm4CMHlLTzyAkVekpa0NZ6ElD5sPgRwyT3C1NqaFSf4Z1-wfTcOkFSBNzMFE_aem_VY4_0Ok5urh2jOp9R4nJBQ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-14 01:46:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>לאחיי היקרים אם יש בכם רגש לנפש החיה</p><p>תרמו לעמותה שמגינה על חיות הבר של ישראל.</p><p>https://www.forthewildlife.co.il/donate-heb</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-14 02:22:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>לאחיי היקרים אם יש בכם רגש לנפש החיה</p><p>תוכלו לתרום **למען חיות הבר** - בקישור זה</p><p>https://www.forthewildlife.co.il/donate-heb</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-14 02:25:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-14 02:25:12' 
+			WHERE messageid=14214;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-14 02:25:29' 
+			WHERE messageid=14213;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>דברי הרב אליהו רחמים זייני בביקורת קשה וצודקת</p><p>על המרן שפסק לוותר על השטחים לא על פי התורה</p><p>https://www.youtube.com/shorts/xoGgYbvZ5Qw</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-14 07:09:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>בעוד 10 שנים בשנת 2036 --- רעידת אדמה בישראל על כל פשעי ישראל</p><p>מדינת ישראל תחרב והדבר ודאי 100% ------- אך העיתוי עוד נתון לשינוי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-14 07:52:54'
+		)
+		;
+
