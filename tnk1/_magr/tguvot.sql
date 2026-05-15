@@ -5669,3 +5669,15 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>בחירות 2026</p><p>אני דיין שם ------- קורא לבחור במתנחלים אשר אהבתי בבני הציונות הדתית אשר הקריבו נפשם בקרב-מלחמה למען כל ארץ ישראל השלמה</p><p>אל תבחרו במפלגות החרדיות כי יש חשש כבד ואמיתי שהפעם הזאת הם ילכו עם השמאל הצבוע שייתן להם פטור מגיוס למען תאוות השלטון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 07:26:17'
+		)
+		;
+
