@@ -5681,3 +5681,103 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p> הסטטוס האישי שלי ידוע ואינו מאפשר לי לאייש תפקיד </p><p>אך כתבתי את תורתי בקודש למען יאכלו ענוים וישבעו </p><p>אני לא חפץ להיות בשלטון בעת הנוכחית --- לא בשבילי</p><p>אך בהחלט להנהיג את הצדיקים הנוהים אחרי להיות להם משענת אמת </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה           </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 11:43:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p><p> הסטטוס האישי שלי ידוע ואינו מאפשר לי לאייש תפקיד</p><p>אך כתבתי את תורתי בקודש למען יאכלו ענוים וישבעו</p><p>אני לא חפץ להיות בשלטון בעת הנוכחית --- לא בשבילי</p><p>אך בהחלט להנהיג את הצדיקים הנוהים אחרי להיות להם משענת אמת </p><p>[הבהרה: הלוגו שלי עם צבעי-הקשת הוא לוגו של משיח-יהוה]</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 12:31:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-15 12:31:39' 
+			WHERE messageid=14219;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>הסטטוס האישי שלי ידוע ואינו מאפשר לי לאייש תפקיד</p><p>אך כתבתי את תורתי בקודש למען יאכלו ענוים וישבעו</p><p>אני לא חפץ להיות בשלטון בעת הנוכחית --- לא בשבילי</p><p>אך בהחלט להנהיג את הצדיקים הנוהים אחרי להיות להם משענת אמת</p><p>[הבהרה: הלוגו שלי משושה עם ששת צבעי-הקשת לוגו של משיח-יהוה]</p><p>http://tora.us.fm/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 12:45:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-15 12:45:13' 
+			WHERE messageid=14220;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>לאחר ששמענו על הרב ממירון שניצל מינית את חסידיו באה הפרשה המזעזעת הזאת כפל כפליים</p><p>https://ch10.co.il/news/1069262/</p><p>נחשפה רשת הורים פדופילים: אחד מהם, תושב עיר חרדית - מלמד ב\'חיידר\' יוקרתי --- הלו סמכות חכמים איפה אתם?????</p><p>סמכות חכמים??? הבנתי! משה נתן תורה מסיני ומסרה לזקנים וזקנים העבירו למלמד בחיידר </p><p>כאשר יש שחיתות מוסרית ברמה כזאת אז כל הסביבה אשמה כולל הבכירים ביותר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 14:19:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>לאחר ששמענו על הרב ממירון שניצל מינית את חסידיו באה הפרשה המזעזעת הזאת כפל כפליים</p><p>https://ch10.co.il/news/1069262/</p><p>נחשפה רשת הורים פדופילים: אחד מהם, תושב עיר חרדית - מלמד ב\'חיידר\' יוקרתי --- הלו סמכות חכמים איפה אתם?????</p><p>סמכות חכמים??? הבנתי! משה נתן תורה מסיני ומסרה לזקנים וזקנים העבירו למלמד בחיידר</p><p>כאשר יש שחיתות מוסרית ברמה כזאת אז כל הסביבה אשמה כולל הבכירים ביותר</p><p>נא הבינו כי כאשר חפני ופנחס בני עלי שכבו עם הנשים הצובאות פתח אהל מועד</p><p>אז נשבה ארון הברית בידי הפלישתים --- ועתה הפרשייה הזאת הרבה יותר קשה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 14:44:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-15 14:44:26' 
+			WHERE messageid=14222;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>לאחר ששמענו על הרב ממירון שניצל מינית את חסידיו באה הפרשה המזעזעת הזאת כפל כפליים</p><p>https://ch10.co.il/news/1069262/</p><p>נחשפה רשת הורים פדופילים: אחד מהם, תושב עיר חרדית - מלמד ב\'חיידר\' יוקרתי --- הלו סמכות חכמים איפה אתם?????</p><p>סמכות חכמים??? הבנתי! משה נתן תורה מסיני ומסרה לזקנים וזקנים העבירו למלמד בחיידר</p><p>כאשר יש שחיתות מוסרית ברמה כזאת אז כל הסביבה אשמה כולל הבכירים ביותר</p><p>נא הבינו כי כאשר חפני ופנחס בני עלי שכבו עם הנשים הצובאות פתח אהל מועד</p><p>אז נשבה ארון הברית בידי הפלישתים --- ועתה הפרשייה הזאת הרבה יותר קשה</p><p>---------------------------------------------------------------</p><p>בימי עלי הכהן לא חטאו ישראל,  אך נפלו במלחמה —  כי ההנהגה הכהנית הייתה מושחתת,  והשכינה הסתלקה.</p><p>כך גם היום:  כאשר מלמד בחיידר, הנושא שם של קדושה,  פוגע בילדים —  </p><p>אין זו רק נפילה של יחיד,  אלא כשל של כל מי שנועד לפקח, להתריע, ולשמור.</p><p>לא העם אשם,  אלא ההנהגה הרוחנית  שאיבדה את יראת השמים  והפקירה את החלשים.</p><p>וכשם שבימי עלי לא נשבה הארון בגלל העם,  אלא בגלל חטאי הכהנים —  </p><p>כך גם היום:  רוע בתוך מחנה קדוש  הוא אחריותם של הנושאים בתפקיד הקדוש,  לא של העם כולו.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-15 15:00:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-15 15:00:34' 
+			WHERE messageid=14223;
+
