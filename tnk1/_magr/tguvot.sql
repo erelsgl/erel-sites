@@ -5781,3 +5781,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-05-15 15:00:34' 
 			WHERE messageid=14223;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>בעוד עשר-שנים בשנת - 2036 </p><p>רעידת אדמה שתפיל בניינים ורבים ימותו</p><p>עתה שובו לאלהי-ישראל באמת ובתמים וְלֹא יִהְיֶה אָסוֹן </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 01:25:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-17 01:28:36' 
+			WHERE messageid=14225;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>בעוד עשר-שנים בשנת - 2036</p><p>רעידת אדמה שתפיל בניינים ורבים ימותו</p><p>עתה שובו לאלהי-ישראל באמת ובתמים </p><p>צפניה ב3: &quot;בַּקְּשׁוּ אֶת יהוה כָּל עַנְוֵי הָאָרֶץ אֲשֶׁר מִשְׁפָּטוֹ פָּעָלוּ בַּקְּשׁוּ צֶדֶק בַּקְּשׁוּ עֲנָוָה אוּלַי תִּסָּתְרוּ בְּיוֹם אַף יהוה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 01:34:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>בעוד עשר-שנים בשנת - 2036</p><p>רעידת אדמה שתפיל בניינים ורבים ימותו</p><p>עתה שובו לאלהי-ישראל באמת ובתמים</p><p>צפניה ב3: &quot;בַּקְּשׁוּ אֶת יהוה כָּל עַנְוֵי הָאָרֶץ אֲשֶׁר מִשְׁפָּטוֹ פָּעָלוּ בַּקְּשׁוּ צֶדֶק בַּקְּשׁוּ עֲנָוָה אוּלַי תִּסָּתְרוּ בְּיוֹם אַף יהוה&quot;</p><p>וכה אמרו הצדיקים בספר יונה ג9: &quot;מִי יוֹדֵעַ יָשׁוּב וְנִחַם הָאֱלֹהִים וְשָׁב מֵחֲרוֹן אַפּוֹ וְלֹא נֹאבֵד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 01:39:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-17 01:39:21' 
+			WHERE messageid=14226;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>בעוד עשר-שנים בשנת - 2036</p><p>רעידת אדמה שתפיל בניינים ורבים ימותו</p><p>עתה שובו לאלהי-ישראל באמת ובתמים</p><p>צפניה ב3: &quot;בַּקְּשׁוּ אֶת יהוה כָּל עַנְוֵי הָאָרֶץ אֲשֶׁר מִשְׁפָּטוֹ פָּעָלוּ בַּקְּשׁוּ צֶדֶק בַּקְּשׁוּ עֲנָוָה אוּלַי תִּסָּתְרוּ בְּיוֹם אַף יהוה&quot;</p><p>וכה אמרו הצדיקים בספר הנביא יונה ג9: &quot;מִי יוֹדֵעַ יָשׁוּב וְנִחַם הָאֱלֹהִים וְשָׁב מֵחֲרוֹן אַפּוֹ וְלֹא נֹאבֵד&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 01:39:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-17 01:39:48' 
+			WHERE messageid=14227;
+
