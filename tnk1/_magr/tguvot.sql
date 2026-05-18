@@ -5850,3 +5850,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-05-17 01:39:48' 
 			WHERE messageid=14227;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2820_2.html',
+		'<p>מלכים א ג26: &quot;וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר בְּנָהּ הַחַי אֶל הַמֶּלֶךְ כִּי נִכְמְרוּ רַחֲמֶיהָ עַל בְּנָהּ </p><p>וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ לָהּ אֶת הַיָּלוּד הַחַי וְהָמֵת אַל תְּמִיתֻהוּ וְזֹאת אֹמֶרֶת גַּם לִי גַם לָךְ לֹא יִהְיֶה גְּזֹרוּ&quot; </p><p>כשרבני השקר הבינו למי כתר המלך ולא להם הכתר לכן אמרו גַּם לִי גַם לָךְ לֹא יִהְיֶה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 08:46:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2820_2.html',
+		'<p>מלכים א ג26: &quot;וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר בְּנָהּ הַחַי אֶל הַמֶּלֶךְ כִּי נִכְמְרוּ רַחֲמֶיהָ עַל בְּנָהּ</p><p>וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ לָהּ אֶת הַיָּלוּד הַחַי וְהָמֵת אַל תְּמִיתֻהוּ וְזֹאת אֹמֶרֶת גַּם לִי גַם לָךְ לֹא יִהְיֶה גְּזֹרוּ&quot;</p><p>רבני השקר כאשה המרשעת הבינו למי כתר המלך ולא להם הכתר לכן אמרו גַּם לִי גַם לָךְ לֹא יִהְיֶה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-17 08:47:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-17 08:47:19' 
+			WHERE messageid=14229;
+
