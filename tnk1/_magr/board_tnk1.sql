@@ -4892,3 +4892,27 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/nvia/tryasr/xv-02-01.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-19 15:11:15'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-19 15:18:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-20 03:45:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t3109_1.html'
+		;
+
