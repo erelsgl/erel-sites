@@ -6103,3 +6103,36 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>בספר צוואת לוי בן-יעקב אבי הכהנים הלויים כתוב: </p><p>פרק יא) ועתה בני, שמרו את אשר אצווכם, כי את אשר שמעתי מאבותיי גיליתי לכם.</p><p>ב) והנה נקיתי מפשעכם ומעונכם אשר תעשו באחרית הימים, כי תתעו את ישראל ותמיטו עליו רעות רבות מאת יהוה.</p><p>ג) ואתם תפשעו בישראל עד כי לא תישא אתכם ירושלם מפני רשעתכם.</p><p>-</p><p>לכן במקום להקים ממלכת כהנים-פושעים שיפשעו בישראל </p><p>הדבר הנכון יותר הוא להקים שופטים דיינים שיבחנו על-פי תורת דיין DAIAN SHEM </p><p> http://tora.us.fm/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-22 12:26:44'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-22 15:45:33' 
+			WHERE messageid=14186;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-22 15:46:00' 
+			WHERE messageid=14228;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-22 15:57:08' 
+			WHERE messageid=14180;
+

@@ -5026,3 +5026,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-22 12:26:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0518_3.html'
+		;
+
