@@ -6136,3 +6136,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-05-22 15:57:08' 
 			WHERE messageid=14180;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0108_1.html',
+		'<p>https://www.facebook.com/photo/?fbid=1013099521042304&amp;set=a.274869288198668</p><p>הנה עדות משנת 1993 כי קציר-החטים היה בתחילת מאי!!! זה אומר כי חג השבועות בכורי קציר-חטים היה מוקדם יותר והוא מועד החג האמיתי</p><p>אך בדורות האחרונים קציר-החטים מתאחר בגלל שהגשמים מאחרים לבוא וגם זני החיטה איטיים יותר להבשלה וזה מה שמאחר את קציר החטים</p><p>עם כל זה שקציר החטים מתאחר זה לא קובע את מועד חג השבועות כי אם החל חרמש בקמה של קציר השעורים והשעורים גודלים פרא טבעי והם המדד לקביעת מועד חג-הקציר</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-24 04:37:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-05-24 07:32:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-24 07:32:56' 
+			WHERE messageid=14248;
+
