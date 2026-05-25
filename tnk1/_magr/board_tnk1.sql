@@ -5050,3 +5050,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-24 08:06:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-05-24 08:13:40'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26a4_2.html'
+		;
+
