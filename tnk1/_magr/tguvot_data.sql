@@ -2850,3 +2850,11 @@ SET character_set_connection=utf8mb3;
 		WHERE parent='tnk1/tora/brejit/clm_wdmut.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2026-05-26 16:27:42'
+			WHERE parent='tnk1/daian.html'
+			;
+

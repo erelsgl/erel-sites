@@ -6217,3 +6217,10 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-05-26 16:27:42' 
+			WHERE messageid=14215;
+
