@@ -5074,3 +5074,49 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/brejit/clm_wdmut.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1837.html',
+				NULL,
+				'2026-05-29 10:51:52',
+				'2026-05-29 10:51:52',
+				'פרשת: בהעלותך- הדרך הבטוחה לעליה והצלחה- כיצד?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-05-29 10:51:52'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1838.html',
+				NULL,
+				'2026-05-29 11:03:30',
+				'2026-05-29 11:03:30',
+				'אהרון והמנורה במשכן/מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-05-29 11:03:30'
+			WHERE ktovt_bn='tnk1/forums.html';
+
