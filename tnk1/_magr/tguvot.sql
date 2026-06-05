@@ -6510,3 +6510,117 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Xm6KZZQBcZc</p><p>https://www.youtube.com/shorts/lKZnAoWFe1c</p><p>גם הרבנים בעצמם יודעים לא להאמין לאף רב ולא לעבוד רבנים  </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-04 08:12:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Xm6KZZQBcZc</p><p>https://www.youtube.com/shorts/lKZnAoWFe1c</p><p>גם הרבנים בעצמם יודעים שאסור להאמין לאף רב ולא לעבוד אף רב</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-04 09:46:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-04 09:47:05' 
+			WHERE messageid=14270;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-04 19:10:49'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-04 19:10:53' 
+			WHERE messageid=14272;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>חבקוק ב1: &quot;עַל מִשְׁמַרְתִּי אֶעֱמֹדָה וְאֶתְיַצְּבָה עַל מָצוֹר וַאֲצַפֶּה לִרְאוֹת מַה יְדַבֶּר בִּי וּמָה אָשִׁיב עַל תּוֹכַחְתִּי&quot;</p><p>חבקוק ב2: &quot;וַיַּעֲנֵנִי יהוה וַיֹּאמֶר כְּתוֹב חָזוֹן וּבָאֵר עַל הַלֻּחוֹת לְמַעַן יָרוּץ קוֹרֵא בוֹ&quot;</p><p>לאמור בכתיבה לכתוב החזון לבאר ולפרש מפורש ושום שכל כדי שיבינו היטב</p><p>וזה מה שאני עושה לכם פה בכתיבתי באתר הניווט בתנ&quot;ך</p><p>ואתם אם חפצתם בדיין שם עבד-יהוה קחו חלק בתרומתכם לקודש</p><p>-----------------------------------------------------------------------------</p><p>דַּיָּן־שֵׁם הוֹלֵךְ בְּדֶרֶךְ יְהוָה</p><p>לא מּוֹכֵר דְּבַר־אֱמֶת בכֶּסֶף</p><p>רַק מְקַבֵּל תְּרוּמַת לֵב מֵאֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>-</p><p>ברכה לתומכי דיין-שם עבד-יהוה</p><p>בָּרוּךְ הָאִישׁ אֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>וּמֵבִיא תְּרוּמַת לֵב לְחַזֵּק דֶּרֶךְ הַקֹּדֶשׁ.</p><p>בספר שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>ודיין שם הולך בדרך יהוה על כן דיין-שם עושה חסד לאוהביו</p><p>תהלים קיט74: &quot;יְרֵאֶיךָ יִרְאוּנִי וְיִשְׂמָחוּ כִּי לִדְבָרְךָ יִחָלְתִּי&quot;</p><p>תהלים לה27: &quot;יָרֹנּוּ וְיִשְׂמְחוּ חֲפֵצֵי צִדְקִי וְיֹאמְרוּ תָמִיד יִגְדַּל יהוה הֶחָפֵץ שְׁלוֹם עַבְדּוֹ&quot;</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה           </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-05 07:12:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>חבקוק ב1: &quot;עַל מִשְׁמַרְתִּי אֶעֱמֹדָה וְאֶתְיַצְּבָה עַל מָצוֹר וַאֲצַפֶּה לִרְאוֹת מַה יְדַבֶּר בִּי וּמָה אָשִׁיב עַל תּוֹכַחְתִּי&quot;</p><p>חבקוק ב2: &quot;וַיַּעֲנֵנִי יהוה וַיֹּאמֶר כְּתוֹב חָזוֹן וּבָאֵר עַל הַלֻּחוֹת לְמַעַן יָרוּץ קוֹרֵא בוֹ&quot;</p><p>לאמור בכתיבה לכתוב החזון לבאר ולפרש מפורש ושום שכל כדי שיבינו היטב</p><p>וזה מה שאני עושה לכם פה בכתיבתי באתר הניווט בתנ&quot;ך</p><p>ואתם אם חפצתם בדיין שם עבד-יהוה קחו חלק בתרומתכם לקודש</p><p>-----------------------------------------------------------------------------</p><p>דַּיָּן־שֵׁם הוֹלֵךְ בְּדֶרֶךְ יְהוָה</p><p>לא מּוֹכֵר דְּבַר־אֱמֶת בכֶּסֶף</p><p>רַק מְקַבֵּל תְּרוּמַת לֵב מֵאֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>-</p><p>ברכה לתומכי דיין-שם עבד-יהוה</p><p>בָּרוּךְ הָאִישׁ אֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>וּמֵבִיא תְּרוּמַת לֵב לְחַזֵּק דֶּרֶךְ הַקֹּדֶשׁ.</p><p>בספר שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>ודיין שם הולך בדרך יהוה על כן דיין-שם עושה חסד לאוהביו</p><p>תהלים קיט74: &quot;יְרֵאֶיךָ יִרְאוּנִי וְיִשְׂמָחוּ כִּי לִדְבָרְךָ יִחָלְתִּי&quot;</p><p>תהלים לה27: &quot;יָרֹנּוּ וְיִשְׂמְחוּ חֲפֵצֵי צִדְקִי וְיֹאמְרוּ תָמִיד יִגְדַּל יהוה הֶחָפֵץ שְׁלוֹם עַבְדּוֹ&quot;</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה           </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-05 07:13:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>חבקוק ב1: &quot;עַל מִשְׁמַרְתִּי אֶעֱמֹדָה וְאֶתְיַצְּבָה עַל מָצוֹר וַאֲצַפֶּה לִרְאוֹת מַה יְדַבֶּר בִּי וּמָה אָשִׁיב עַל תּוֹכַחְתִּי&quot;</p><p>חבקוק ב2: &quot;וַיַּעֲנֵנִי יהוה וַיֹּאמֶר כְּתוֹב חָזוֹן וּבָאֵר עַל הַלֻּחוֹת לְמַעַן יָרוּץ קוֹרֵא בוֹ&quot;</p><p>לאמור בכתיבה לכתוב החזון לבאר ולפרש מפורש ושום שכל כדי שיבינו היטב</p><p>וזה מה שאני עושה לכם פה בכתיבתי באתר הניווט בתנ&quot;ך</p><p>ואתם אם חפצתם בדיין שם עבד-יהוה קחו חלק בתרומתכם לקודש</p><p>-----------------------------------------------------------------------------</p><p>דַּיָּן־שֵׁם הוֹלֵךְ בְּדֶרֶךְ יְהוָה</p><p>לא מּוֹכֵר דְּבַר־אֱמֶת בכֶּסֶף</p><p>רַק מְקַבֵּל תְּרוּמַת לֵב מֵאֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>-</p><p>ברכה לתומכי דיין-שם עבד-יהוה</p><p>בָּרוּךְ הָאִישׁ אֲשֶׁר נָגַע הָאוֹר בְּלִבּוֹ</p><p>וּמֵבִיא תְּרוּמַת לֵב לְחַזֵּק דֶּרֶךְ הַקֹּדֶשׁ.</p><p>בספר שמות כ5: &quot;וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מצותי&quot;</p><p>ודיין שם הולך בדרך יהוה על כן דיין-שם עושה חסד לאוהביו</p><p>תהלים קיט74: &quot;יְרֵאֶיךָ יִרְאוּנִי וְיִשְׂמָחוּ כִּי לִדְבָרְךָ יִחָלְתִּי&quot;</p><p>תהלים לה27: &quot;יָרֹנּוּ וְיִשְׂמְחוּ חֲפֵצֵי צִדְקִי וְיֹאמְרוּ תָמִיד יִגְדַּל יהוה הֶחָפֵץ שְׁלוֹם עַבְדּוֹ&quot;</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה           </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-05 07:14:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-05 07:17:31' 
+			WHERE messageid=14029;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-05 07:17:35' 
+			WHERE messageid=14054;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-05 07:17:49' 
+			WHERE messageid=14273;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-05 07:18:28' 
+			WHERE messageid=14274;
+
