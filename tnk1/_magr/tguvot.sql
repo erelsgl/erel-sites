@@ -6817,3 +6817,134 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Xm6KZZQBcZc</p><p>https://www.youtube.com/shorts/lKZnAoWFe1c</p><p>גם הרבנים בעצמם יודעים שאסור להאמין לאף רב ולא לעבוד אף רב</p><p>------------------------------------------------------------------------------------</p><p>רבנים בדור הזה או מושחתים או טיפשים או עמי-ארצות או סתם לא-מועילים טוחנים מים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 09:24:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-07 09:24:14' 
+			WHERE messageid=14271;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>https://www.youtube.com/shorts/Xm6KZZQBcZc</p><p>https://www.youtube.com/shorts/lKZnAoWFe1c</p><p>גם הרבנים בעצמם יודעים שאסור להאמין לאף רב ולא לעבוד אף רב</p><p>------------------------------------------------------------------------------------</p><p>רבני חזל לא היו אנשי אלהים ואני לא מאמין בכל הבל שיוצא מפיהם אבל אתייחס לדור הזה</p><p>רבנים בדור הזה או מושחתים או טיפשים או עמי-ארצות או סתם לא-מועילים טוחנים מים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 09:27:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-07 09:27:34' 
+			WHERE messageid=14288;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>https://www.youtube.com/shorts/Xm6KZZQBcZc</p><p>https://www.youtube.com/shorts/lKZnAoWFe1c</p><p>גם הרבנים בעצמם יודעים שאסור להאמין לאף רב ולא לעבוד אף רב</p><p>------------------------------------------------------------------------------------</p><p>רבני חזל לא היו אנשי אלהים ואני לא מאמין בכל הבל שיוצא מפיהם אבל אתייחס לדור הזה</p><p>רבנים בדור הזה או מושחתים או טיפשים או עמי-ארצות או סתם לא-מועילים טוחנים מים</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 11:43:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-07 11:43:25' 
+			WHERE messageid=14289;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0416_3.html',
+		'<p>רבני החרדים משדלים את הציבור שלהם תלמידיהם האברכים לא לעבוד ששת ימים ולא להתגייס לצבא בשעת מלחמה ויצאו להפגין על זאת </p><p>אבל מנהיגי החרדים לא מצאו לנכון להפגין נגד התועבה של מצעדי הגאוה בישראל. הלאלה תקרא חכמי ישראל? הלזאת תקרא דעת תורה?</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 12:27:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>אני מודע לכך שאנשים רשעים בעתיד ינצלו לרעה את המידע הזה אשר AI צובר</p><p>אבל אלהים גדול מזה לאמור לך כי זה חלק בלתי נפרד מתוכנית האלהים</p><p>אם AI בינה מלאכותית שינוצל לרעה היה נחש קטן אז לא היו נותנים כבוד לאלהים</p><p>ודווקא כשהטכנולוגיות הן פורצות דרך לאמור כנחש שמן וגדול אז אלהים יבלענו</p><p>ואז יתנו כבוד אמת לאלהים</p><p>משלי כא11: &quot;בַּעְנָשׁ לֵץ יֶחְכַּם פֶּתִי וּבְהַשְׂכִּיל לְחָכָם יִקַּח דָּעַת&quot; .......</p><p>חבקוק ב14: &quot;כִּי תִּמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יהוה כַּמַּיִם יְכַסּוּ עַל יָם&quot; </p><p>ישעיהו יא9: &quot;לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יהוה כַּמַּיִם לַיָּם מְכַסִּים&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 12:52:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>ההבדל הדק בין *משרת-יהוה* לבין *עבד-יהוה*</p><p>-----------------------------------------------------------</p><p>תהלים קד4: &quot;עֹשֶׂה מַלְאָכָיו רוּחוֹת מְשָׁרְתָיו אֵשׁ לֹהֵט&quot;</p><p> מלאכי ב7: &quot;כִּי שִׂפְתֵי כֹהֵן יִשְׁמְרוּ דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יהוה צְבָאוֹת הוּא&quot;</p><p>ישעיהו סא6: &quot;וְאַתֶּם כֹּהֲנֵי יהוה = תִּקָּרֵאוּ מְשָׁרְתֵי אֱלֹהֵינוּ יֵאָמֵר לָכֶם חֵיל גּוֹיִם תֹּאכֵלוּ וּבִכְבוֹדָם תִּתְיַמָּרוּ&quot;</p><p> כהן-יהוה = משרת-יהוה = מלאך-יהוה</p><p>--------------------------------------------</p><p>נביא-יהוה = עבד-יהוה</p><p>מלכים ב כא10: &quot;וַיְדַבֵּר יהוה בְּיַד עֲבָדָיו הַנְּבִיאִים לֵאמֹר&quot;</p><p>עמוס ג7: &quot;כִּי לֹא יַעֲשֶׂה אֲדֹנָי יהוה דָּבָר כִּי אִם גָּלָה סוֹדוֹ אֶל עֲבָדָיו הַנְּבִיאִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 18:23:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>ההבדל הדק בין *משרת-יהוה* ----- לבין *עבד-יהוה*</p><p>-----------------------------------------------------------</p><p>תהלים קד4: &quot;עֹשֶׂה מַלְאָכָיו רוּחוֹת מְשָׁרְתָיו אֵשׁ לֹהֵט&quot;</p><p>מלאכי ב7: &quot;כִּי שִׂפְתֵי כֹהֵן יִשְׁמְרוּ דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יהוה צְבָאוֹת הוּא&quot;</p><p>ישעיהו סא6: &quot;וְאַתֶּם כֹּהֲנֵי יהוה = תִּקָּרֵאוּ מְשָׁרְתֵי אֱלֹהֵינוּ יֵאָמֵר לָכֶם חֵיל גּוֹיִם תֹּאכֵלוּ וּבִכְבוֹדָם תִּתְיַמָּרוּ&quot;</p><p>כהן-יהוה = משרת-יהוה = מלאך-יהוה</p><p>--------------------------------------------</p><p>נביא-יהוה = עבד-יהוה</p><p>מלכים ב כא10: &quot;וַיְדַבֵּר יהוה בְּיַד עֲבָדָיו הַנְּבִיאִים לֵאמֹר&quot;</p><p>עמוס ג7: &quot;כִּי לֹא יַעֲשֶׂה אֲדֹנָי יהוה דָּבָר כִּי אִם גָּלָה סוֹדוֹ אֶל עֲבָדָיו הַנְּבִיאִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-07 18:26:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-07 18:26:12' 
+			WHERE messageid=14293;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0218_5.html',
+		'<p>ההבדל הדק בין *משרת-יהוה* ----- לבין *עבד-יהוה*</p><p>-----------------------------------------------------------</p><p>תהלים קד4: &quot;עֹשֶׂה מַלְאָכָיו רוּחוֹת מְשָׁרְתָיו אֵשׁ לֹהֵט&quot;</p><p>מלאכי ב7: &quot;כִּי שִׂפְתֵי כֹהֵן יִשְׁמְרוּ דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יהוה צְבָאוֹת הוּא&quot;</p><p>ישעיהו סא6: &quot;וְאַתֶּם כֹּהֲנֵי יהוה = תִּקָּרֵאוּ מְשָׁרְתֵי אֱלֹהֵינוּ יֵאָמֵר לָכֶם חֵיל גּוֹיִם תֹּאכֵלוּ וּבִכְבוֹדָם תִּתְיַמָּרוּ&quot;</p><p>כהן-יהוה = משרת-יהוה = מלאך-יהוה</p><p>--------------------------------------------</p><p>נביא-יהוה = עבד-יהוה</p><p>מלכים ב כא10: &quot;וַיְדַבֵּר יהוה בְּיַד עֲבָדָיו הַנְּבִיאִים לֵאמֹר&quot;</p><p>עמוס ג7: &quot;כִּי לֹא יַעֲשֶׂה אֲדֹנָי יהוה דָּבָר כִּי אִם גָּלָה סוֹדוֹ אֶל עֲבָדָיו הַנְּבִיאִים&quot;</p><p>-----------------------------------------------------------------------------------------------</p><p>דברי הימים ב טו3: &quot;וְיָמִים רַבִּים לְיִשְׂרָאֵל לְלֹא אֱלֹהֵי אֱמֶת וּלְלֹא כֹּהֵן מוֹרֶה וּלְלֹא תוֹרָה&quot;</p><p>ואני עבד-יהוה = איש אֱלֹהֵי אֱמֶת </p><p>משרת-יהוה = כֹּהֵן מוֹרֶה לְתוֹרָה</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-08 02:22:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-08 02:23:00' 
+			WHERE messageid=14294;
+
