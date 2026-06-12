@@ -5742,3 +5742,161 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 08:22:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 08:34:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 08:44:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 08:59:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 10:21:04'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 10:28:33'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 10:38:14'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 12:44:22'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2614_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 12:56:00'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2614_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 13:33:38'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 15:24:57'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 16:01:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-11 16:05:50'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1841.html',
+				NULL,
+				'2026-06-11 21:27:45',
+				'2026-06-11 21:27:45',
+				'פרשת קרח/מהי הסכנה הטמונה לעם ישראל- במחלוקת?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-06-11 21:27:45'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1842.html',
+				NULL,
+				'2026-06-11 21:33:18',
+				'2026-06-11 21:33:18',
+				'שמואל מחדש מלוכה/ אהובה  קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-06-11 21:33:18'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-12 01:15:21'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
