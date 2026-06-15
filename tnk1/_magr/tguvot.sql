@@ -7834,3 +7834,53 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-14 09:46:41' 
+			WHERE messageid=14323;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>מאת דַיָּן שֵׁם מְשָׁרֵת-יהוה</p><p>אחי בני ישראל שמעו נא דברי להנחותכם בדרך הקודש</p><p>תהלים כו6: &quot;אֶרְחַץ בְּנִקָּיוֹן כַּפָּי וַאֲסֹבְבָה אֶת מִזְבַּחֲךָ יהוה&quot;</p><p>על כן אתם עושים נטילת ידיים לפני הסעודה וזה לא מרבני חזל</p><p>זה דוד המלך משיח-יהוה אמר וכתב בספר תהילות פרק כ&quot;ו פסוק 6</p><p>אבל בעת רחצת כל בשרכם במים אל תמהרו לשבת לאכול כי אם חכו כשעה שעתיים</p><p>כי בעת רחצת כל בשרכם במים או בטבילה במקוה-מים ככתוב: וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם</p><p>לאמור כי בעת הרחצה במים אתה מביא את רוח אלהים עליך יהוה אֱלֹהֶיךָ עִמָּךְ לֹא חָסַרְתָּ דָּבָר</p><p>ואם אתה חלילה אוכל לאחר הרחצה במים אתה למעשה כרשע האומר לעצמו כן חָסַרְתָּ דָּבָר</p><p>עליך להבין כי כאשר אתה טובל במקוה המים או רוחץ כל בשרך במים ורוח אלהים מרחפת על פני המים</p><p>זה למעשה כתורת רוח-אלהים עמך ולא תוסיף ולא תגרע כי אם חלילה הוספת אז גרעת</p><p>דברים יג1: &quot;אֵת כָּל הַדָּבָר אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם אֹתוֹ תִשְׁמְרוּ לַעֲשׂוֹת לֹא תֹסֵף עָלָיו וְלֹא תִגְרַע מִמֶּנּוּ&quot;</p><p>דברים ד2: &quot;לֹא תֹסִפוּ עַל הַדָּבָר אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם וְלֹא תִגְרְעוּ מִמֶּנּוּ לִשְׁמֹר אֶת מצות יהוה אֱלֹהֵיכֶם אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם&quot;</p><p>קהלת ג14: &quot;יָדַעְתִּי כִּי כָּל אֲשֶׁר יַעֲשֶׂה הָאֱלֹהִים הוּא יִהְיֶה לְעוֹלָם עָלָיו אֵין לְהוֹסִיף וּמִמֶּנּוּ אֵין לִגְרֹעַ וְהָאֱלֹהִים עָשָׂה שֶׁיִּרְאוּ מִלְּפָנָיו&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-14 09:47:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-15 02:10:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-15 02:11:01' 
+			WHERE messageid=14351;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1117_1.html',
+		'<p>משלי י4: &quot;רָאשׁ עֹשֶׂה כַף רְמִיָּה וְיַד חָרוּצִים תַּעֲשִׁיר&quot;</p><p>מי הוא? רָאשׁ  = עֹשֶׂה כַף רְמִיָּה</p><p> עֹשֶׂה כַף רְמִיָּה? = אתה רָאשׁ </p><p>אדם שחי בשקר בא עליו עוני</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-15 02:33:28'
+		)
+		;
+
