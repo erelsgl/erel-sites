@@ -6172,3 +6172,51 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0526_3.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/7oct.html',
+				'tnk1/ktuv/mgilot/irandeal.html',
+				NULL,
+				'2026-06-17 21:27:56',
+				'2026-06-17 21:27:56',
+				'פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-18 01:46:03'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/irandeal.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-18 01:59:42'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/irandeal.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-18 04:08:23'
+		WHERE ktovt_bn='tnk1/ktuv/mgilot/irandeal.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-06-18 06:02:33'
+		WHERE ktovt_bn='tnk1/messages/prqim_t2740_0.html'
+		;
+

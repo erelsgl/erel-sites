@@ -8203,3 +8203,79 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-06-17 06:38:18' 
 			WHERE messageid=14370;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/irandeal.html',
+		'<p> </p><p>      אני  דַיָּן שֵׁם  מְשָׁרֵת יהוה          </p><p>       </p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה                   </p><p>----------------------------------------- </p><p>האם הסנהדרין שומעים בקולי</p><p>או שהמכתב שלהם הוא &quot;שופוני&quot; אנחנו הסנהדרין     </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-18 01:46:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/irandeal.html',
+		'<p>אני דַיָּן שֵׁם מְשָׁרֵת יהוה</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>-----------------------------------------</p><p>האם הסנהדרין שומעים בקולי</p><p>או שהמכתב שלהם הוא &quot;שופוני יא-נאס&quot; אנחנו הסנהדרין</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-18 01:59:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-18 01:59:44' 
+			WHERE messageid=14372;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/mgilot/irandeal.html',
+		'<p>אני דַיָּן שֵׁם מְשָׁרֵת יהוה</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>-----------------------------------------</p><p>האם הסנהדרין שומעים בקולי ככל אשר אצוה אותם</p><p>או שהמכתב שלהם הוא &quot;שופוני יא-נאס&quot; אנחנו הסנהדרין</p><p>אין במכתב שלכם להועיל לאיש מלבד &quot;שופוני יא-נאס&quot; אנחנו הסנהדרין</p><p>פטנט ידוע של רבני כזב לדבר על דברים &quot;גדולים&quot; בעיני הציבור וזאת כדי להגדיל את קרנם בעיני הציבור</p><p>אם חפצתם באמת למען ירום קרניכם תמכו בעניים עשו צדקה כצדיקים כי  תְּרוֹמַמְנָה קַרְנוֹת צַדִּיק</p><p>אבל אתם דומים לפוליטיקאים שמבקשים בכח לייצג ציבור כדי שהציבור ישא אותם על כתפיהם</p><p>אתם מבקשים להיות נטל על הציבור ומציגים עצמכם כמושיעי ישראל</p><p>משלי יד15: &quot;פֶּתִי יַאֲמִין לְכָל דָּבָר וְעָרוּם יָבִין לַאֲשֻׁרוֹ&quot;</p><p>משלי יח2: &quot;לֹא יַחְפֹּץ כְּסִיל בִּתְבוּנָה כִּי אִם בְּהִתְגַּלּוֹת לִבּוֹ&quot; </p><p>המכתב שלכם הוא &quot;שופוני יא-נאס&quot; אנחנו הסנהדרין</p><p>אתם לא תושיעו את ישראל כי אינכם שומעים בקול דיין</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-18 04:08:23'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-18 04:08:25' 
+			WHERE messageid=14373;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-18 05:55:53' 
+			WHERE messageid=14374;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2740_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-18 06:02:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-18 06:02:35' 
+			WHERE messageid=14375;
+
