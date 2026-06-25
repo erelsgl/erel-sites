@@ -8983,3 +8983,198 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-06-24 06:36:00' 
 			WHERE messageid=14415;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_4.html',
+		'<p>הגיע הזמן להגיד אמת ולנתץ מיתוסים</p><p>הבאבא-סאלי היה באבא-בובה</p><p>הבאבא-סאלי לא היה נביא !!! </p><p>לכן כל הסיפורים שנרקמו סביבו במרוצת השנים הם סיפורי בדיות שהפיצו  חסידיו היחצנים מרוקאים &quot;שלוחים&quot; אהבלים ועמי ארצות למען עשיית עושר ולא במשפט</p><p>וזאת מבלי לפגוע בכל העדה המרוקאית שלא מעט מהם מתנגדים לתופעה ודוחים אותה על הסף</p><p>הבאבא-סאלי לא אמר ולא כתב דבר חכמה חריג ויוצא דופן מימיו כל המורשת שלו זה לשתות ערק</p><p>כל הסיפורים סביבו נופחו מאד והם מיתולוגיים ולא עובדתיים. </p><p>יש תעשייה כלכלית ענפה סביב דמותו וזה מה שמתדלק את צאצאי משפחתו</p><p>הביקורת לא עליו באופן אישי אלא על כל תעשיית הבאבות המקובלים המתעתעים בדלת עם-הארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 08:13:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 09:29:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-24 09:29:32' 
+			WHERE messageid=14417;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3101_4.html',
+		'<p>הגיע הזמן להגיד אמת ולנתץ מיתוסים</p><p>הבאבא-סאלי היה באבא-בובה</p><p>הבאבא-סאלי לא היה נביא !!!</p><p>לכן כל הסיפורים שנרקמו סביבו במרוצת השנים הם סיפורי בדיות שהפיצו חסידיו היחצנים מרוקאים &quot;שלוחים&quot; אהבלים ועמי ארצות למען עשיית עושר ולא במשפט</p><p>וזאת מבלי לפגוע בכל העדה המרוקאית שלא מעט מהם מתנגדים לתופעה ודוחים אותה על הסף</p><p>הבאבא-סאלי לא אמר ולא כתב דבר חכמה חריג ויוצא דופן מימיו כל המורשת שלו זה לשתות ערק</p><p>כל הסיפורים סביבו נופחו מאד והם מיתולוגיים ולא עובדתיים.</p><p>יש תעשייה כלכלית ענפה סביב דמותו וזה מה שמתדלק את צאצאי משפחתו</p><p>הביקורת לא עליו באופן אישי אלא על כל תעשיית הבאבות המקובלים המתעתעים בדלת עם-הארץ</p><p>עתה ראו לדוגמא בקישור במה מאמינים עמי הארצות דברי-הבל שלא כתובים בתורה ובכל מקרא הקודש </p><p>https://www.youtube.com/shorts/y-N6afMoSbY</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 09:53:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-24 09:53:42' 
+			WHERE messageid=14416;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הרב שמציג עצמו כגאון לא מבין את המציאות האמיתית כי המציאות השקרית שלו מבוססת על רבני חזל ולא על נביאי-יהוה</p><p>עתה ראו בקישור כי הרב אומר לפני מספר חודשים שאיראן תיפול בידי אדום כשהוא מזהה את אדום כארה&quot;ב של אמריקה</p><p>https://www.youtube.com/watch?v=NVnZOBNrtmY</p><p>-</p><p>והנה עוד נביא שקר מהרבנים</p><p>https://www.tairneri.co.il/%d7%9b%d7%95%d7%aa%d7%a8%d7%95%d7%aa-%d7%9e%d7%a9%d7%a0%d7%94/%d7%94%d7%a8%d7%91-%d7%a0%d7%99%d7%a8-%d7%91%d7%9f-%d7%90%d7%a8%d7%a6%d7%99-%d7%a9%d7%9c%d7%99%d7%98%d7%90-%d7%91%d7%9c%d7%99-%d7%94%d7%94%d7%a1%d7%9b%d7%9d-%d7%94%d7%90%d7%9e%d7%99%d7%aa%d7%99/?utm_source=copilot.com</p><p>אבל על פי החזון האמיתי איראן וארה&quot;ב וכל אומות-העולם יהיו נגד ישראל והנה ראו את התרחיש שמתרחש לנגד עינינו</p><p>כאשר לאט לאט נרקמת ברית בין ארצות הברית של אמריקה לבין איראן</p><p> https://www.maariv.co.il/breaking-news/article-1336596?utm_source=copilot.com</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 10:57:22'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הרב שמציג עצמו כגאון לא מבין את המציאות האמיתית כי המציאות השקרית שלו מבוססת על רבני חזל ולא על נביאי-יהוה</p><p>עתה ראו בקישור כי הרב אומר לפני מספר חודשים שאיראן תיפול בידי אדום כשהוא מזהה את אדום כארה&quot;ב של אמריקה</p><p>https://www.youtube.com/watch?v=NVnZOBNrtmY</p><p>-</p><p>והנה עוד נביא מהרבנים</p><p>https://www.tairneri.co.il/%d7%9b%d7%95%d7%aa%d7%a8%d7%95%d7%aa-%d7%9e%d7%a9%d7%a0%d7%94/%d7%94%d7%a8%d7%91-%d7%a0%d7%99%d7%a8-%d7%91%d7%9f-%d7%90%d7%a8%d7%a6%d7%99-%d7%a9%d7%9c%d7%99%d7%98%d7%90-%d7%91%d7%9c%d7%99-%d7%94%d7%94%d7%a1%d7%9b%d7%9d-%d7%94%d7%90%d7%9e%d7%99%d7%aa%d7%99/?utm_source=copilot.com</p><p>אבל על פי החזון האמיתי איראן וארה&quot;ב וכל אומות-העולם יהיו נגד ישראל והנה ראו את התרחיש שמתרחש לנגד עינינו</p><p>כאשר לאט לאט נרקמת ברית בין ארצות הברית של אמריקה לבין איראן</p><p>https://www.maariv.co.il/breaking-news/article-1336596?utm_source=copilot.com</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 11:47:45'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-24 11:48:00' 
+			WHERE messageid=14419;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>הרב שמציג עצמו כגאון לא מבין את המציאות האמיתית כי המציאות השקרית שלו מבוססת על רבני חזל ולא על נביאי-יהוה</p><p>עתה ראו בקישור כי הרב אומר לפני מספר חודשים שאיראן תיפול בידי אדום כשהוא מזהה את אדום כארה&quot;ב של אמריקה</p><p>https://www.youtube.com/watch?v=NVnZOBNrtmY</p><p>-</p><p>והנה עוד נביא מהרבנים  חחחחח</p><p>https://www.tairneri.co.il/%d7%9b%d7%95%d7%aa%d7%a8%d7%95%d7%aa-%d7%9e%d7%a9%d7%a0%d7%94/%d7%94%d7%a8%d7%91-%d7%a0%d7%99%d7%a8-%d7%91%d7%9f-%d7%90%d7%a8%d7%a6%d7%99-%d7%a9%d7%9c%d7%99%d7%98%d7%90-%d7%91%d7%9c%d7%99-%d7%94%d7%94%d7%a1%d7%9b%d7%9d-%d7%94%d7%90%d7%9e%d7%99%d7%aa%d7%99/?utm_source=copilot.com</p><p>אבל על פי החזון האמיתי איראן וארה&quot;ב וכל אומות-העולם יהיו נגד ישראל והנה ראו את התרחיש שמתרחש לנגד עינינו</p><p>כאשר לאט לאט נרקמת ברית בין ארצות הברית של אמריקה לבין איראן</p><p>https://www.maariv.co.il/breaking-news/article-1336596?utm_source=copilot.com</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 11:49:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-24 11:49:25' 
+			WHERE messageid=14420;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-24 16:44:29' 
+			WHERE messageid=11788;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2815_2.html',
+		'<p>קהלת ח13: &quot;וְטוֹב לֹא יִהְיֶה לָרָשָׁע וְלֹא יַאֲרִיךְ יָמִים כַּצֵּל אֲשֶׁר אֵינֶנּוּ יָרֵא מִלִּפְנֵי אֱלֹהִים&quot;</p><p>קהלת ח12: &quot;אֲשֶׁר חֹטֶא עֹשֶׂה רָע מְאַת וּמַאֲרִיךְ לוֹ כִּי גַּם יוֹדֵעַ אָנִי אֲשֶׁר יִהְיֶה טּוֹב לְיִרְאֵי הָאֱלֹהִים אֲשֶׁר יִירְאוּ מִלְּפָנָיו&quot;</p><p> יִהְיֶה טּוֹב לְיִרְאֵי הָאֱלֹהִים ------- וְטוֹב לֹא יִהְיֶה לָרָשָׁע....... וְלֹא יַאֲרִיךְ יָמִים כַּצֵּל אֲשֶׁר אֵינֶנּוּ יָרֵא מִלִּפְנֵי אֱלֹהִים</p><p>-</p><p>אם חפצת בטוב תהיה ירא-אלהים ואל תהיה רשע</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-24 16:52:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-25 01:43:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-25 01:43:41' 
+			WHERE messageid=14423;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>אני גולש באינטרנט - ורואה --- הגוים מקסימים שרים יפה מאד רוקדים יפה מאד אוהבים בעלי חיים ואני ממש אוהב אותם</p><p>אבל ישראלים כולם רשעים רק מחפשים כסף -- רבנים שמבקשים תרומות ועמותות כזב וכל זאת על סמך האינטרנט בלבד</p><p>אנשי מצעד הגאוה השתלטו על כל המדינה על חברי-הכנסת על כל גופי הבטחון על צה&quot;ל על השב&quot;כ על המוסד על כל רשויות השלטון המוניציפליות על מערכת המשפט והרפואה ועל האקדמיה </p><p>לכן מדינת סדום -- תחרב !!! כי כל הנרטיב שסיפרו לכם שכביכול עם-ישראל צדיק והגוים רשעים  --- זה בדיוק הפוך !!! ורואים זאת היטב בפוליטיקאים בני בלייעל ורבני כזב שלא מועילים לעם הזה</p><p>משלי כח12: &quot;בַּעֲלֹץ צַדִּיקִים רַבָּה תִפְאָרֶת וּבְקוּם רְשָׁעִים יְחֻפַּשׂ אָדָם&quot;</p><p>משלי כח28: &quot;בְּקוּם רְשָׁעִים יִסָּתֵר אָדָם וּבְאָבְדָם יִרְבּוּ צַדִּיקִים&quot;</p><p>בְּקוּם רְשָׁעִים יִסָּתֵר אָדָם = וּבְקוּם רְשָׁעִים יְחֻפַּשׂ אָדָם</p><p>אני מחפש את האדם הנסתר בישראל אלה הצדיקים שמתחבאים בדור הזה מפני הרשעים</p><p>על כן הצדיקים האלה בישראל נסתרים לא נראים וכל הגלויים המפורסמים רובם רשעים</p><p>בדור הזה בישראל</p><p>צדיקים לא עושים סרטונים</p><p>אנשים טובים לא מחפשים לייקים</p><p>חסד אמיתי נעשה בשקט</p><p>האלגוריתם לא מקדם צניעות</p><p>הרוע תמיד עושה יותר רעש מהטוב</p><p>זה לא אומר שהצדיקים לא קיימים — זה אומר שהם לא גלויים.</p><p>אלה דברי המשיח על פי ספר משלי שלמה בן-דוד מלך ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-25 02:33:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-25 02:33:39' 
+			WHERE messageid=14407;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>אני גולש באינטרנט - ורואה --- הגוים מקסימים שרים יפה מאד רוקדים יפה מאד אוהבים בעלי חיים ואני ממש אוהב אותם</p><p>אבל ישראלים כולם רשעים רק מחפשים כסף -- רבנים שמבקשים תרומות ועמותות כזב וכל זאת על סמך האינטרנט בלבד</p><p>אנשי מצעד הגאוה השתלטו על כל המדינה על חברי-הכנסת על כל גופי הבטחון על צה&quot;ל על השב&quot;כ על המוסד על כל רשויות השלטון המוניציפליות על מערכת המשפט והרפואה ועל האקדמיה</p><p>לכן מדינת סדום -- תחרב !!! כי כל הנרטיב שסיפרו לכם שכביכול עם-ישראל צדיק והגוים רשעים --- זה בדיוק הפוך !!! ורואים זאת היטב בפוליטיקאים בני בלייעל ורבני כזב שלא מועילים לעם הזה</p><p>משלי כח12: &quot;בַּעֲלֹץ צַדִּיקִים רַבָּה תִפְאָרֶת וּבְקוּם רְשָׁעִים יְחֻפַּשׂ אָדָם&quot;</p><p>משלי כח28: &quot;בְּקוּם רְשָׁעִים יִסָּתֵר אָדָם וּבְאָבְדָם יִרְבּוּ צַדִּיקִים&quot;</p><p>בְּקוּם רְשָׁעִים יִסָּתֵר אָדָם = וּבְקוּם רְשָׁעִים יְחֻפַּשׂ אָדָם</p><p>אני מחפש את האדם הנסתר בישראל אלה הצדיקים שמתחבאים בדור הזה מפני הרשעים</p><p>על כן הצדיקים האלה בישראל נסתרים לא נראים וכל הגלויים המפורסמים רובם רשעים</p><p>בדור הזה בישראל</p><p>צדיקים לא עושים סרטונים</p><p>אנשים טובים לא מחפשים לייקים</p><p>חסד אמיתי נעשה בשקט</p><p>האלגוריתם לא מקדם צניעות</p><p>הרוע תמיד עושה יותר רעש מהטוב</p><p>זה לא אומר שהצדיקים לא קיימים — זה אומר שהם לא גלויים.</p><p>אלה דברי המשיח על פי ספר משלי שלמה בן-דוד מלך ישראל</p><p>אלה דברי דיין שם עבד-יהוה ומשיחו</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-25 02:49:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-25 02:50:02' 
+			WHERE messageid=14424;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-25 04:14:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-25 04:14:21' 
+			WHERE messageid=14426;
+
