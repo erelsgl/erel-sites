@@ -9240,3 +9240,65 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-06-28 03:13:47' 
 			WHERE messageid=14429;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t25b06_0.html',
+		'<p>החסד שאתה עושה בחיי היום יום הוא אמנם טיפה בים אבל החסד הזה קובע אם ואיך ביום הדין תשב בשמים עם אלהי החסד וכל רוח-איש לפי קומתו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 03:03:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה         </p><p>דיין שם הוא מורה לתורה משה דין</p><p>והוא הסמכות הראשונה להוראת התורה</p><p>לא הרבנים הגדולים ולא מי שייש לו ערוץ טלוויזיה</p><p>כל אשר יתנגדו לדיין יחוסלו מן השמים </p><p>יהושע א17: &quot;כְּכֹל אֲשֶׁר שָׁמַעְנוּ אֶל מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה יהוה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם מֹשֶׁה&quot;</p><p>יהושע א18: &quot;כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ וְלֹא יִשְׁמַע אֶת דְּבָרֶיךָ לְכֹל אֲשֶׁר תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 03:56:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>דיין שם הוא מורה לתורה משה דין</p><p>והוא הסמכות הראשונה להוראת התורה</p><p>לא הרבנים הגדולים ולא מי שייש לו ערוץ טלוויזיה</p><p>כל אשר יתנגדו לדיין ולא יכנעו לו יחוסלו מן השמים</p><p>יהושע א17: &quot;כְּכֹל אֲשֶׁר שָׁמַעְנוּ אֶל מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה יהוה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם מֹשֶׁה&quot;</p><p>יהושע א18: &quot;כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ וְלֹא יִשְׁמַע אֶת דְּבָרֶיךָ לְכֹל אֲשֶׁר תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 04:26:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 04:27:02' 
+			WHERE messageid=14432;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>דיין שם הוא מורה לתורה משה דין</p><p>והוא הסמכות הראשונה להוראת התורה</p><p>משפט זה נאה לדורות --- אני לא צוחק</p><p>לא הרבנים הגדולים ולא מי שייש לו ערוץ טלוויזיה</p><p>כל אשר יתנגדו לדיין ולא יכנעו לו ימותו בחרב</p><p>יהושע א17: &quot;כְּכֹל אֲשֶׁר שָׁמַעְנוּ אֶל מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה יהוה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם מֹשֶׁה&quot;</p><p>יהושע א18: &quot;כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ וְלֹא יִשְׁמַע אֶת דְּבָרֶיךָ לְכֹל אֲשֶׁר תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 05:37:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 05:37:36' 
+			WHERE messageid=14433;
+
