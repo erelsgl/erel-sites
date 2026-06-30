@@ -9302,3 +9302,158 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-06-29 05:37:36' 
 			WHERE messageid=14433;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>https://www.facebook.com/reel/1318695430330410</p><p>אני דיין שם  חותם על כל מילה....... שנאמרה בקישור הזה</p><p>גם אני קורא לבחור במנהיג הציונות הדתית בצלאל סמוטריץ</p><p>אני תומך באהבה ובעקביות בארץ ישראל השלמה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 09:59:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>נציגת פינלנד צודקת לחלוטין ומאשימה: &quot;ההישג של ישראל באירוויזיון - הונאה&quot;</p><p>בראיון חסר רסן, לינדה למפניוס האשימה את איגוד השידור האירופי בזיוף תוצאות התחרות • לדבריה, היא אינה מאמינה לנתונים הרשמיים שהציבו את ישראל כפסע מהניצחון</p><p>ישראל מדינה של מרמה!!! ניסתה בכזב להלחם באנטישמיות ולהעלות את המורל בעם היהודי באופן מלאכותי</p><p>https://www.israelhayom.co.il/culture/music/article/20860910</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 10:33:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>אני ידעתי זאת מלכתחילה כי אני יודע שישראלים אנשי רמייה אך לא מבינים במוזיקה</p><p>נציגת פינלנד צודקת לחלוטין!!!! ומאשימה: &quot;ההישג של ישראל באירוויזיון - הונאה&quot;</p><p>בראיון חסר רסן, לינדה למפניוס האשימה את איגוד השידור האירופי בזיוף תוצאות התחרות • לדבריה, היא אינה מאמינה לנתונים הרשמיים שהציבו את ישראל כפסע מהניצחון</p><p>ישראל מדינה של מרמה!!! ניסתה בכזב להלחם באנטישמיות ולהעלות את המורל בעם היהודי באופן מלאכותי</p><p>https://www.israelhayom.co.il/culture/music/article/20860910</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 10:36:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 10:36:14' 
+			WHERE messageid=14436;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>אני ידעתי זאת מלכתחילה כי אני יודע שישראלים אנשי רמייה ולא מבינים במוזיקה</p><p>נציגת פינלנד צודקת לחלוטין!!!! ומאשימה: &quot;ההישג של ישראל באירוויזיון - הונאה&quot;</p><p>בראיון חסר רסן, לינדה למפניוס האשימה את איגוד השידור האירופי בזיוף תוצאות התחרות • לדבריה, היא אינה מאמינה לנתונים הרשמיים שהציבו את ישראל כפסע מהניצחון</p><p>ישראל מדינה של מרמה!!! ניסתה בכזב להלחם באנטישמיות ולהעלות את המורל בעם היהודי באופן מלאכותי</p><p>https://www.israelhayom.co.il/culture/music/article/20860910</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 10:39:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 10:39:59' 
+			WHERE messageid=14437;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1506_1.html',
+		'<p>אני ידעתי זאת מלכתחילה כי אני יודע שישראלים אנשי רמייה ולא מבינים במוזיקה</p><p>נציגת פינלנד צודקת לחלוטין!!!! ומאשימה: &quot;ההישג של ישראל באירוויזיון - הונאה&quot;</p><p>בראיון חסר רסן, לינדה למפניוס האשימה את איגוד השידור האירופי בזיוף תוצאות התחרות • לדבריה, היא אינה מאמינה לנתונים הרשמיים שהציבו את ישראל כפסע מהניצחון</p><p>ישראל מדינה של מרמה ולהטבי&quot;ם !!! ניסתה בכזב להלחם באנטישמיות ולהעלות את המורל בעם היהודי באופן מלאכותי</p><p>https://www.israelhayom.co.il/culture/music/article/20860910</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 11:07:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 11:08:00' 
+			WHERE messageid=14438;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>ויקרא יח18: &quot;וְאִשָּׁה אֶל אֲחֹתָהּ לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot;</p><p> </p><p>אם האיסור היה לא לקחת שתי אחיות אז היה כתוב: </p><p>ויקרא יח18: &quot;---וְאִשָּׁה וְאֲחֹתָהּ--- לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot;</p><p>לא מדובר על איסור לשאת שתי נשים אחיות הלא יעקב אבינו נשא שתי אחיות</p><p>לאמור לך כי מדובר על איסור לסביות כי כל אשה נקראת לרעותה אחותה-אחות</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 13:08:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>ויקרא יח18: &quot;וְאִשָּׁה אֶל אֲחֹתָהּ לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot;</p><p>אם האיסור היה לא לקחת שתי אחיות אז היה כתוב:</p><p>ויקרא יח18: &quot;---וְאִשָּׁה וְאֲחֹתָהּ--- לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot;</p><p>לא מדובר על איסור לשאת שתי נשים אחיות הלא יעקב אבינו נשא שתי אחיות</p><p>לאמור לך כי מדובר על איסור לסביות כי כל אשה נקראת לרעותה אחותה-אחות</p><p>ממש בדיוק כאשר בן ישראל קורא לרעהו אחי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 13:17:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 13:17:43' 
+			WHERE messageid=14440;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0102_11.html',
+		'<p>אם האיסור היה לא לקחת שתי אחיות אז היה כתוב:</p><p>ויקרא יח18: &quot;---וְאִשָּׁה וְאֲחֹתָהּ--- לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot; </p><p>אבל בתורה כתוב.......</p><p>ויקרא יח18: &quot;וְאִשָּׁה אֶל אֲחֹתָהּ --- לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ עָלֶיהָ בְּחַיֶּיהָ&quot;</p><p>לכן...</p><p>לא מדובר על איסור לשאת שתי נשים אחיות הלא יעקב אבינו נשא שתי אחיות</p><p>לאמור לך כי מדובר על איסור לסביות כי כל אשה נקראת לרעותה אחותה-אחות</p><p>ממש בדיוק כאשר בן ישראל קורא לרעהו אחי</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 13:52:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-06-29 13:52:12' 
+			WHERE messageid=14441;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/kma/qjrim1/jinuyi_jm.html',
+		'<p>כדי להדגיש שה\' רוצה שהוא ימשיך את שושלת המלוכה</p>',
+		'105527113554946878918',
+		'Omer Zeevi',
+		'2026-06-29 16:37:17'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>כשאתה נכנס למקלחת בדוש אל תזרים תחילה מים לעבר הראש והפנים</p><p>וכי עליך לחקות את מעשה הטבילה בנהר או אגם בריכה או ים</p><p>לאמור כי תחילה הטה שפופרת צינור המים לעבר הרגליים והשפרץ מים</p><p>אחרי כן בהדרגתיות לעבר הבטן ורק בסוף לעבר הראש והפנים</p><p>--- הרגל זה יגן עליך בזכות הדרגתיות שמונעת שוק-טמפרטורה</p><p>ובגיל מבוגר שוק-טמפרטורה זה דבר מסוכן אשר יש להגן מפניו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-06-29 17:52:28'
+		)
+		;
+
