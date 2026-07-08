@@ -7117,3 +7117,99 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t3101_9.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 08:59:23'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 09:00:07'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 09:01:58'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 09:24:01'
+		WHERE ktovt_bn='tnk1/tora/sdr_mnhigim.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 12:29:26'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1052_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 12:48:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1052_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-07 12:51:17'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1052_3.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/3.html',
+				'tnk1/tora/bmdbr/bm-24-17.html',
+				NULL,
+				'2026-07-07 19:09:26',
+				'2026-07-07 19:09:26',
+				'האם עם ישראל יילחם לבד מול כל העולם?',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-08 01:35:17'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-24-17.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-08 01:39:56'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-24-17.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-08 01:44:17'
+		WHERE ktovt_bn='tnk1/tora/bmdbr/bm-24-17.html'
+		;
+
