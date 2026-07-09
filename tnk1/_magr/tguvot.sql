@@ -9993,3 +9993,72 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-07-08 01:44:21' 
 			WHERE messageid=14476;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>שלום לכם אתם פרסמתם בקשר לסדנת ויפאסנה ברוח היהדות</p><p>איך זה עובד ומה צריך לעשות ?</p><p>תשובה: סְתֹם אֶת־הַפֶּה וְתְּשַׁלֵּם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-08 11:50:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>שלום לכם אתם פרסמתם בקשר לסדנת ויפאסנה ברוח היהדות</p><p>איך זה עובד ומה צריך לעשות ?</p><p>תשובה: סְתֹם אֶת־הַפֶּה וְתְּשַׁלֵּם          חחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-08 11:50:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-08 11:50:52' 
+			WHERE messageid=14478;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p>שלום לכם אתם פרסמתם בקשר לסדנת ויפאסנה ברוח היהדות</p><p>השאלה: איך זה עובד ומה צריך לעשות ?</p><p>תשובה: סְתֹם אֶת־הַפֶּה וְתְּשַׁלֵּם חחחחח</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-08 12:24:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-08 12:24:29' 
+			WHERE messageid=14479;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/daian.html',
+		'<p>איוב כא22: &quot;הַלְאֵל יְלַמֶּד דָּעַת וְהוּא רָמִים יִשְׁפּוֹט&quot; = אני דיין משרת-יהוה מלַמֶּד דָּעַת-אֵל</p><p>קהלת יב9: &quot;וְיֹתֵר שֶׁהָיָה קֹהֶלֶת חָכָם עוֹד לִמַּד דַּעַת אֶת הָעָם וְאִזֵּן וְחִקֵּר תִּקֵּן מְשָׁלִים הַרְבֵּה&quot;</p><p>הרבה יותר מלהיות חכם = זה ללמד דַּעַת אֶת הָעָם = זה &quot;זיכוי הרבים&quot; בשפת הרבנים</p><p>מי אשר דעת-אלהים-לו הוא &quot;מזכה הרבים&quot; האמיתי !!! ואתם אחיי וְנֶחְשַׁב לָכֶם תְּרוּמַתְכֶם</p><p>----------------------------------------------------------------------------------------------------</p><p>וזה &quot;זיכוי הרבים&quot; האמיתי באחרית הימים =  כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יהוה מִירוּשָׁלָים</p><p>ישעיהו ב3: &quot;וְהָלְכוּ עַמִּים רַבִּים וְאָמְרוּ לְכוּ וְנַעֲלֶה אֶל הַר יהוה אֶל בֵּית אֱלֹהֵי יַעֲקֹב וְיֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יהוה מִירוּשָׁלָים&quot;</p><p>מיכה ד2: &quot;וְהָלְכוּ גּוֹיִם רַבִּים וְאָמְרוּ לְכוּ וְנַעֲלֶה אֶל הַר יהוה וְאֶל בֵּית אֱלֹהֵי יַעֲקֹב וְיוֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יהוה מִירוּשָׁלָים&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-09 02:41:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-09 02:41:26' 
+			WHERE messageid=14458;
+
