@@ -7467,3 +7467,35 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-13 08:59:25'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-24-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-13 09:01:51'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-24-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-13 09:24:21'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-24-07.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-07-13 09:26:30'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-24-07.html'
+		;
+
