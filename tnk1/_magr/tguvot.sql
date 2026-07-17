@@ -10536,3 +10536,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-07-15 04:10:08' 
 			WHERE messageid=14509;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_3.html',
+		'<p>משלי טז21: &quot;לַחֲכַם לֵב יִקָּרֵא נָבוֹן....... וּמֶתֶק שְׂפָתַיִם יֹסִיף לֶקַח&quot;</p><p>משלי יא29: &quot;עוֹכֵר בֵּיתוֹ יִנְחַל רוּחַ וְעֶבֶד אֱוִיל לַחֲכַם לֵב&quot; .......</p><p>אם אתה נָבוֹן כחֲכַם-לֵב אל תבקש נקם על אֱוִילים הלא אלה עבדיך בסופו של דבר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-17 01:28:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>המבקש שקידה בתורה ובמעשים טובים יאכל שקדים ויברך כדברים הבאים</p><p>ירמיהו א11: &quot;וַיְהִי דְבַר יהוה אֵלַי לֵאמֹר מָה אַתָּה רֹאֶה יִרְמְיָהוּ וָאֹמַר מַקֵּל שָׁקֵד אֲנִי רֹאֶה&quot;</p><p>ירמיהו א12: &quot;וַיֹּאמֶר יהוה אֵלַי הֵיטַבְתָּ לִרְאוֹת כִּי שֹׁקֵד אֲנִי עַל דְּבָרִי לַעֲשֹׂתוֹ&quot;</p><p> התמדה כשקידה = מדרכי יהוה ועבדיו נביאיו</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-17 01:34:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2690_2.html',
+		'<p>המבקש שקידה בתורה ובמעשים טובים יאכל שקדים ויברך כדברים הבאים</p><p>ירמיהו א11: &quot;וַיְהִי דְבַר יהוה אֵלַי לֵאמֹר מָה אַתָּה רֹאֶה יִרְמְיָהוּ וָאֹמַר מַקֵּל שָׁקֵד אֲנִי רֹאֶה&quot;</p><p>ירמיהו א12: &quot;וַיֹּאמֶר יהוה אֵלַי הֵיטַבְתָּ לִרְאוֹת כִּי שֹׁקֵד אֲנִי עַל דְּבָרִי לַעֲשֹׂתוֹ&quot;</p><p>התמדה כשקידה = מדרכי יהוה ועבדיו נביאיו</p><p>******* השקד סמל הנביאים והכהנים *******</p><p>יעקב אבינו עבר את הירדן במקל שקד ומטה אהרן גמל-שקדים</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-17 04:53:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-17 04:53:16' 
+			WHERE messageid=14512;
+
