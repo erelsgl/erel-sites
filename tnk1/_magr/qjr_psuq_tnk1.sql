@@ -1805,3 +1805,261 @@ SET character_set_connection=utf8mb3;
 		SET tarik_hosfa='2026-04-07 13:17:12'
 		WHERE sfr='שמת' AND prq0='כז' AND psuq0=21 AND psuq1=21 AND bn='פרשת  תצווה - שבת זכור ופורים - מה המשותף?';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ויק','ט',22,22,'פרשת שמיני - מה התנאי החשוב להתברך בברכה?',60,'','','2026-07-23 21:07:51');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ירמ','לא',3,3,'פרשת תזריע מצורע - כיצד נקדים רפואה למכה?',60,'','','2026-07-23 21:08:45');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('שיר','ב',2,2,'פרשת אחרי מות קדושים - לאן?',60,'','','2026-07-23 21:12:30');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ויק','כג',1,1,'פרשת אמור - מה כוחה של דוגמא אישית?',60,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ויק','כה',20,20,'פרשת בהר בחוקותיי - מה מגלה מצוות השמיטה?',60,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','קכב',3,3,'פרשת במדבר - כיצד נצליח לעמוד בניסיונות - בכל עת? ',60,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דבר','טז',9,9,'חג שבועות - פרשת נשא - מה טמון בספר התורה?',60,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','ח',5,5,'פרשת בהעלותך - הדרך הבטוחה לעליה והצלחה - כיצד?',60,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','יג',22,22,'פרשת שלח  לך - הראיה והחכמה - הילכו יחדיו?',60,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','טז',5,5,'פרשת קרח - מהי הסכנה הטמונה לעם ישראל במחלוקת?',60,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('סתר','ג',11,11,'פסיקת הסנהדרין על הסכם ארה\"ב - איראן - כי נמכרנו אני ועמי',60,'','פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('סתר','ז',4,4,'פסיקת הסנהדרין על הסכם ארה\"ב - איראן - כי נמכרנו אני ועמי',60,'','פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','מד',27,27,'פסיקת הסנהדרין על הסכם ארה\"ב - איראן - כי נמכרנו אני ועמי',60,'','פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דבר','כ',20,20,'פסיקת הסנהדרין על הסכם ארה\"ב - איראן - כי נמכרנו אני ועמי',60,'','פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','כ',7,7,'פרשת חוקת - צו השעה לעם ישראל היום',60,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','כב',7,7,'פרשת בלק - אל תבטחו בנדיבים - האמנם?',60,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','כה',16,16,'פרשת פינחס - הוראות משמים לבחירת מנהיג הראוי לישראל',60,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','כד',17,17,'ביאור:במדבר כד17',10,'תרגום','אמר בלעם לבלק מלך מואב: \'אני רואה חזון שיבוא בעתיד ולא עתה ; אני שור (רואה) אותו בעתיד הרחוק ולא הקרוב : אני רואה כוכב העובר דרך כל השמיים, והוא מבני יעקב ; אני רואה אותו קם (עומד) ומחזיק שבט  של מנהיג, והוא מעם ישראל; והוא מוחץ את כל החומות אשר ב פאות (בצדדים) של ארץ  מואב שלך, אבל לא רק אותן; הוא גם מקרקר (הורס את הקירות - החומות) של כל בני שת בן אדם הראשון.\'','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('מכה','ה',6,6,'ביאור:במדבר כד17',60,'כלל','פסוק דומה בנבואת בלעם','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ישע','כב',5,5,'ביאור:במדבר כד17',60,'כלל','קרקר בנבואת בלעם','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ישע','טו',1,1,'ביאור:במדבר כד17',60,'כלל','קרקר בנבואת בלעם','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ירמ','מח',45,45,'ביאור:במדבר כד17',60,'כלל','פאת מואב בנבואת בלעם','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ירמ','ב',13,13,'פרשת מטות מסעי - נבואת ירמיהו מעוררת ישנים - סגולה לנסים!',60,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','כד',7,7,'ביאור:תהלים כד7',10,'תרגום','\"שאו (הרימו) את ראשיכם, שערי הר הבית!  הינשאו (התרוממו) פתחי בית המקדש, שבו ישכון ה\' לעולם !  ויבוא דרככם ארון ברית ה\', שהוא מלך הכבוד!','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דבר','א',21,21,'פרשת  דברים - אלוקים זוכר ומקיים ומצפה מבניו להתעורר',60,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','קי',1,1,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דהא','כח',2,2,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('שמת','כה',22,22,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','קלב',7,7,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','צט',5,5,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','צט',9,9,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('אכה','ב',1,1,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ישע','סו',1,1,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('זכר','יד',4,4,'ביאור:הדום',60,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('אכה','ב',1,1,'ביאור:איכה ב1',10,'תרגום',' איך זה קרה? איך זה ייתכן?! ד\'  בעצמו, בגלל אפו (כעסו הגדול), העיב (החשיך) את בת ציון (ירושלים);   הוא הוריד את  התפארת (הכבוד) של ארץ  ישראל בבת-אחת, כאילו השליך אותה מהשמים לארץ ;   ו לא זכר לטובה ביום אפו (כעסו) את ירושלים וארץ ישראל, שהיו  הדום רגליו  (שרפרף המונח ליד כיסא מלכותו, בסיס לגילויו בעולם). ','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('אכה','ב',2,2,'ביאור:איכה ב2',10,'תרגום','ה\' בילע (השחית) ולא חמל את כל נאות הרועים בארץ יעקב (ישראל);    הרס בעברתו (בכעסו) את הערים המבוצרות בארץ יהודה ;    ואז הגיע לירושלים עיר המלוכה, ושם הוריד עד לארץ ,  חילל והשפיל את הממלכה ואת שריה.','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','כג',2,2,'ביאור:איכה ב2',60,'כלל','נאות יעקב במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('עמס','א',2,2,'ביאור:איכה ב2',60,'כלל','נאות יעקב במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('צפנ','ב',6,6,'ביאור:איכה ב2',60,'כלל','נאות יעקב במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('במד','ד',20,20,'ביאור:איכה ב2',60,'כלל','בילע ה\' במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('תהל','לה',25,25,'ביאור:איכה ב2',60,'כלל','בילע ה\' במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('ישע','כה',8,8,'ביאור:איכה ב2',60,'כלל','בילע ה\' במגילת איכה','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_psuq_tnk1(sfr,prq0,psuq0,psuq1,bn,sdr_bn,sug,kotrt,tarik_hosfa)
+		VALUES('דבר','ג',29,29,'פרשת ואתחנן - מהי שבת נחמו ואימתי נחשב חכמים?',60,'','','2026-07-23 21:51:48');
+

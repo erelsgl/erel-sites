@@ -1,5 +1,5 @@
 #
-# This file was automatically generated at 2026-04-07 13:17:24
+# This file was automatically generated at 2026-07-23 21:52:01
 
 sub wikia_replace_links {
 $_=shift;
@@ -1979,6 +1979,7 @@ s|${OPENLINK}tnk1/tora/bmdbr/bm-25-09|[[ביאור:המגפה המואבית-מ�
 s|${OPENLINK}tnk1/tora/bmdbr/bm-25-06|[[ביאור:והמה בוכים פתח אוהל מועד|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-yldim|[[ביאור:במדבר כד לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-24-24-0104|[[ביאור:בלעם פוקח את עיניו|ig;
+s|${OPENLINK}tnk1/tora/bmdbr/bm-24-17|[[ביאור:האם עם ישראל יילחם לבד מול כל העולם?|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-23-yldim|[[ביאור:במדבר כג לילדים|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-23-2527|[[ביאור:מדוע שינה בלק את דעתו?|ig;
 s|${OPENLINK}tnk1/tora/bmdbr/bm-23-09|[[ביאור:הן עם לבדד ישכון, ובגוים לא יתחשב|ig;
@@ -8315,9 +8316,40 @@ s|${OPENLINK}tnk1/messages/forums_189|[[ביאור:'נח והתיבה' - שיר 
 s|${OPENLINK}tnk1/messages/forums_188|[[ביאור:'הקשת' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_187|[[ביאור:פרשת נח - שבועה אלוקית בפרשה - כיצד?|ig;
 s|${OPENLINK}tnk1/messages/forums_186|[[ביאור:'גן עדן- חלקת אלוקים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1855|[[ביאור:פרשת ואתחנן - מהי שבת נחמו ואימתי נחשב חכמים?|ig;
+s|${OPENLINK}tnk1/messages/forums_1854|[[ביאור:'ה' הוא האלוקים' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1852|[[ביאור:משה נושא דברים (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1851|[[ביאור:פרשת  דברים - אלוקים זוכר ומקיים ומצפה מבניו להתעורר|ig;
 s|${OPENLINK}tnk1/messages/forums_185|[[ביאור:'גילוי הברכה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1849|[[ביאור:פרשת מטות מסעי - נבואת ירמיהו מעוררת ישנים - סגולה לנסים!|ig;
+s|${OPENLINK}tnk1/messages/forums_1848|[[ביאור:'נבואת ירמיהו לעם ישראל' - שיר מאת אהובה קליין(c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1847|[[ביאור:פרשת פינחס - הוראות משמים לבחירת מנהיג הראוי לישראל|ig;
+s|${OPENLINK}tnk1/messages/forums_1846|[[ביאור:'בלק רוקם תוכניות' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1845|[[ביאור:פרשת בלק - אל תבטחו בנדיבים - האמנם?|ig;
+s|${OPENLINK}tnk1/messages/forums_1844|[[ביאור:'מחלוקת במדבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1843|[[ביאור:פרשת חוקת - צו השעה לעם ישראל היום|ig;
+s|${OPENLINK}tnk1/messages/forums_1842|[[ביאור:'שמואל מחדש מלוכה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1841|[[ביאור:פרשת קרח - מהי הסכנה הטמונה לעם ישראל במחלוקת?|ig;
+s|${OPENLINK}tnk1/messages/forums_1840|[[ביאור:'מלך יריחו וגילוי המרגלים' - מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_184|[[ביאור:פרשת בראשית - גירוש האדם מגן עדן - מדוע?|ig;
+s|${OPENLINK}tnk1/messages/forums_1839|[[ביאור:פרשת שלח  לך - הראיה והחכמה - הילכו יחדיו?|ig;
+s|${OPENLINK}tnk1/messages/forums_1838|[[ביאור:'אהרון והמנורה במשכן' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1837|[[ביאור:פרשת בהעלותך - הדרך הבטוחה לעליה והצלחה - כיצד?|ig;
+s|${OPENLINK}tnk1/messages/forums_1836|[[ביאור:'אוצר התורה' - שיר מאת אהובה  קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1835|[[ביאור:חג שבועות - פרשת נשא - מה טמון בספר התורה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1834|[[ביאור:'ניסיון עם ישראל במדבר' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1833|[[ביאור:פרשת במדבר - כיצד נצליח לעמוד בניסיונות - בכל עת? |ig;
+s|${OPENLINK}tnk1/messages/forums_1832|[[ביאור:השנה השביעית - מצוות שמיטה|ig;
+s|${OPENLINK}tnk1/messages/forums_1831|[[ביאור:פרשת בהר בחוקותיי - מה מגלה מצוות השמיטה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1830|[[ביאור:'שליחות עם ישראל' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_183|[[ביאור:פרשת וזאת הברכה - במה קשורה לשמחת תורה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1829|[[ביאור:פרשת אמור - מה כוחה של דוגמא אישית?|ig;
+s|${OPENLINK}tnk1/messages/forums_1828|[[ביאור:'ישראל - ארמון מלוכה' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1827|[[ביאור:פרשת אחרי מות קדושים - לאן?|ig;
+s|${OPENLINK}tnk1/messages/forums_1826|[[ביאור:'צרעת הבית' - שיר מאת אהובה קליין (c)|ig;
+s|${OPENLINK}tnk1/messages/forums_1825|[[ביאור:פרשת תזריע מצורע - כיצד נקדים רפואה למכה?|ig;
+s|${OPENLINK}tnk1/messages/forums_1824|[[ביאור:ברכה לישראל מפי משה ואהרון|ig;
+s|${OPENLINK}tnk1/messages/forums_1823|[[ביאור:פרשת שמיני - מה התנאי החשוב להתברך בברכה?|ig;
 s|${OPENLINK}tnk1/messages/forums_1822|[[ביאור:'בנות ציון והמלך שלמה' - שיר מאת אהובה קליין (c)|ig;
 s|${OPENLINK}tnk1/messages/forums_1821|[[ביאור:חג הפסח - מה מגלה לנו ספר הספרים?|ig;
 s|${OPENLINK}tnk1/messages/forums_182|[[ביאור:'סוכות במדבר' - שיר מאת אהובה קליין (c)|ig;
@@ -9867,6 +9899,7 @@ s|${OPENLINK}tnk1/ktuv/thlim/th-26-0305|[[ביאור:כי חסדך לנגד עי
 s|${OPENLINK}tnk1/ktuv/thlim/th-25-21|[[ביאור:תום ויושר יצרוני כי קיויתיך|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-25-13|[[ביאור:השכר החומרי של ירא ה'|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-25-10|[[ביאור:כל אורחות ה' חסד ואמת|ig;
+s|${OPENLINK}tnk1/ktuv/thlim/th-24-07|[[ביאור:שאו שערים ראשיכם - איך לשער יש ראש?|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-24-04|[[ביאור:לא נשא לשווא נפשי ולא נשבע למרמה|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-24-0304|[[ביאור:נקי כפיים ובר לבב - מי רשאי לעלות להר הבית?|ig;
 s|${OPENLINK}tnk1/ktuv/thlim/th-24-0104|[[ביאור:כי הוא על ימים יסדה ועל נהרות יכוננה|ig;
@@ -11337,6 +11370,7 @@ s|${OPENLINK}tnk1/ktuv/mgilot/jj-01-03|[[ביאור:לריח שמניך טובי
 s|${OPENLINK}tnk1/ktuv/mgilot/jj-01-0204|[[ביאור:ישקני מנשיקות פיהו - חלום או מציאות|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/jj-01-01|[[ביאור:שיר השירים אשר לשלמה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/jir_quq|[[ביאור:הרב קוק על שיר השירים|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/irandeal|[[ביאור:פסיקת הסנהדרין על הסכם ארה"ב - איראן - כי נמכרנו אני ועמי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/htk|[[ביאור:התך ונקודת המפנה במגילת אסתר|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/estr_srt|[[ביאור:סרטים על מגילת אסתר|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/estr_rxliw|[[ביאור:שיעור לכבוד פורים|ig;
@@ -11371,6 +11405,8 @@ s|${OPENLINK}tnk1/ktuv/mgilot/ei-mtnya|[[ביאור:ספר איכה - סדר ו�
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-53|[[ביאור:צמתו בבור חיי, וידו אבן בי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-03-40|[[ביאור:חשבון נפש אישי ע"פ מגילת איכה|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-02-14|[[ביאור:נביאים שאינם מגלים את העוון, לא ישיבו אותנו לטוב|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-02-02|[[ביאור:בילע ה' ולא חמל|ig;
+s|${OPENLINK}tnk1/ktuv/mgilot/ei-02-01|[[ביאור:איכה השליך משמים ארץ|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-22|[[ביאור:עולל למו כאשר עוללת לי|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-21|[[ביאור:אויביי יהיו כמוני|ig;
 s|${OPENLINK}tnk1/ktuv/mgilot/ei-01-20|[[ביאור:ראה, ה', כי צר לי|ig;
@@ -12099,6 +12135,7 @@ s|${OPENLINK}tnk1/kma/qjrim1/hjkina|[[ביאור:השכינה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/hiqwut_hmym|[[ביאור:חוק הכלים השלובים והיקוות המים|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/hgh|[[ביאור:הגה = חשב או דיבר|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/hfk|[[ביאור:הפך = הסתובב או שינה או הרס|ig;
+s|${OPENLINK}tnk1/kma/qjrim1/hdm|[[ביאור:הדום = שרפרף לרגליים, ומשל למקדש|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/hdf|[[ביאור:הדף = דחף החוצה|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/hbia|[[ביאור:הביע = דיבר בשטף כמו מעיין נובע|ig;
 s|${OPENLINK}tnk1/kma/qjrim1/harc_al_hmym|[[ביאור:הארץ על המים = גבוהה מפני הים|ig;
@@ -12831,6 +12868,7 @@ s|${OPENLINK}tnk1/klli/limud/hirj|[[ביאור:פירושי רש"ר הירש|ig;
 s|${OPENLINK}tnk1/klli/limud/hdrka_ktivt_jiur|[[ביאור:מדור ההדרכה - כתיבת שיעור|ig;
 s|${OPENLINK}tnk1/klli/limud/hdrka_bicur_rayon|[[ביאור:מדור ההדרכה - ביצור הרעיון המרכזי|ig;
 s|${OPENLINK}tnk1/klli/limud/hblda_lze_jnisa|[[ביאור:'הבלדה לזה שניסה'|ig;
+s|${OPENLINK}tnk1/klli/limud/goyim|[[ביאור:החשיבות הלאומית של לימוד תנ"ך לגויים|ig;
 s|${OPENLINK}tnk1/klli/limud/erel|[[ביאור:מאמרי הדרכה של אראל סגל|ig;
 s|${OPENLINK}tnk1/klli/limud/emu|[[ביאור:אין מוקדם ומאוחר בתורה|ig;
 s|${OPENLINK}tnk1/klli/limud/byt_hll|[[ביאור:למה נקבעה הלכה כבית הלל?|ig;

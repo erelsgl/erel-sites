@@ -753,3 +753,147 @@ SET character_set_connection=utf8mb3;
 		SET tarik_hosfa='2026-04-07 13:17:12'
 		WHERE av='שירי אהובה קליין' AND bn='\'ציווי  התרומה במדבר\' - אהובה קליין';
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שיר תנכי','ברכה לישראל מפי משה ואהרון',60,10,'','','2026-07-23 21:07:51');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'צרעת הבית\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:08:45');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'ישראל - ארמון מלוכה\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:12:30');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'שליחות עם ישראל\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','השנה השביעית - מצוות שמיטה',60,10,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'ניסיון עם ישראל במדבר\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'אוצר התורה\' - שיר מאת אהובה  קליין (c)',60,10,'','','2026-07-23 21:17:20');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'אהרון והמנורה במשכן\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'מלך יריחו וגילוי המרגלים\' - מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'שמואל מחדש מלוכה\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מלחמת חרבות ברזל','פסיקת הסנהדרין על הסכם ארה\"ב - איראן - כי נמכרנו אני ועמי',60,10,'','פסיקת הסנהדרין על הסכם ארה\"ב-איראן - כי נמכרנו אני ועמי','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'מחלוקת במדבר\' - אהובה קליין',60,10,'','מחלוקת במדבר','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('לימוד תנ\"ך','החשיבות הלאומית של לימוד תנ\"ך לגויים',60,10,'','','2026-07-23 21:18:50');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'בלק רוקם תוכניות\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'נבואת ירמיהו לעם ישראל\' - שיר מאת אהובה קליין(c)',60,10,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('בין ישראל לגויים בעתיד','ביאור:במדבר כד17',60,10,'','האם עם ישראל יילחם לבד מול כל העולם?','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מקדש ראשון','ביאור:תהלים כד7',60,10,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('משל ונמשל','ביאור:תהלים כד7',60,10,'','שאו שערים ראשיכם - איך לשער יש ראש?','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','משה נושא דברים (c)',60,10,'','','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('משל ונמשל','ביאור:הדום',60,10,'','הדום = שרפרף לרגליים, ומשל למקדש','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('ה\' ועם ישראל','ביאור:איכה ב1',60,10,'','איכה השליך משמים ארץ','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('מידת הזהירות','ביאור:איכה ב1',60,10,'','החורבן יכול לבוא בפתאומיות, כנפילה משמים לארץ','2026-07-23 21:47:13');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('ה\' ועם ישראל','ביאור:איכה ב2',60,10,'','בילע ה\' ולא חמל','2026-07-23 21:51:48');
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT  INTO qjr_tnk1_tnk1(av,bn,sdr_bn,sdr_av,sug,kotrt,tarik_hosfa)
+		VALUES('שירי אהובה קליין','\'ה\' הוא האלוקים\' - שיר מאת אהובה קליין (c)',60,10,'','','2026-07-23 21:51:48');
+
