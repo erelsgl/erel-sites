@@ -12042,3 +12042,84 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-07-24 15:52:26' 
 			WHERE messageid=14603;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>במהלך חייו של משיח בן-דוד המלך ביקש שלמה המלך</p><p>מלכים א ג9: &quot;וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ לִשְׁפֹּט....... אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה&quot;</p><p>אחיי ---- דיין כבר נולד עם לֵב שֹׁמֵעַ לִשְׁפֹּט --- הלא דיין הוא --- דיין שם</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-25 17:44:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>במהלך חייו של משיח בן-דוד המלך הלא הוא המלך שלמה ביקש</p><p>מלכים א ג9: &quot;וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ לִשְׁפֹּט....... אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה&quot;</p><p>אחיי ---- דיין כבר נולד עם לֵב שֹׁמֵעַ לִשְׁפֹּט --- הלא דיין הוא --- דיין שם</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-25 17:46:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-25 17:46:20' 
+			WHERE messageid=14605;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>במהלך חייו של משיח בן-דוד המלך הלא הוא המלך שלמה ביקש כדבר הבא...</p><p>מלכים א ג9: &quot;וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ לִשְׁפֹּט....... אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה&quot;</p><p>אחיי ---- דיין כבר נולד עם לֵב שֹׁמֵעַ לִשְׁפֹּט --- הלא דיין הוא --- דיין שם</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-25 17:47:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-25 17:47:11' 
+			WHERE messageid=14606;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>שום סנהדרין</p><p>אני דיין לבדי שופט יחידי</p><p>ישעיהו טז5: &quot;וְהוּכַן בַּחֶסֶד כִּסֵּא וְיָשַׁב עָלָיו בֶּאֱמֶת בְּאֹהֶל דָּוִד שֹׁפֵט....... וְדֹרֵשׁ מִשְׁפָּט וּמְהִר צֶדֶק&quot;</p><p>ישעיהו ב4: &quot;וְשָׁפַט....... בֵּין הַגּוֹיִם וְהוֹכִיחַ לְעַמִּים רַבִּים וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים וַחֲנִיתוֹתֵיהֶם לְמַזְמֵרוֹת לֹא יִשָּׂא גּוֹי אֶל גוֹי חֶרֶב וְלֹא יִלְמְדוּ עוֹד מִלְחָמָה&quot; </p><p>ישעיהו יא4: &quot;וְשָׁפַט....... בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי אָרֶץ וְהִכָּה אֶרֶץ בְּשֵׁבֶט </p><p>וכל אשר לא יכנעו לדיין לא ידעו ברכתו [פשוט מאד בלי חכמות אין פה חכמות]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-26 03:28:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>שום סנהדרין</p><p>אני דיין לבדי שופט יחידי</p><p>ישעיהו טז5: &quot;וְהוּכַן בַּחֶסֶד כִּסֵּא וְיָשַׁב עָלָיו בֶּאֱמֶת בְּאֹהֶל דָּוִד שֹׁפֵט....... וְדֹרֵשׁ מִשְׁפָּט וּמְהִר צֶדֶק&quot;</p><p>ישעיהו ב4: &quot;וְשָׁפַט....... בֵּין הַגּוֹיִם וְהוֹכִיחַ לְעַמִּים רַבִּים וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים וַחֲנִיתוֹתֵיהֶם לְמַזְמֵרוֹת לֹא יִשָּׂא גּוֹי אֶל גוֹי חֶרֶב וְלֹא יִלְמְדוּ עוֹד מִלְחָמָה&quot;</p><p>ישעיהו יא4: &quot;וְשָׁפַט....... בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי אָרֶץ וְהִכָּה אֶרֶץ בְּשֵׁבֶט</p><p>וכל אשר לא יכנעו לדיין לא ידעו ברכתו [פשוט מאד בלי חכמות אין פה חכמות]</p><p>ואשר יכנעו לדיין רק מאלה יהיו ....</p><p>דברים טז18: &quot;שֹׁפְטִים וְשֹׁטְרִים תִּתֶּן לְךָ בְּכָל שְׁעָרֶיךָ אֲשֶׁר יהוה אֱלֹהֶיךָ נֹתֵן לְךָ לִשְׁבָטֶיךָ וְשָׁפְטוּ אֶת הָעָם מִשְׁפַּט צֶדֶק&quot; </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-26 03:45:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-26 03:45:35' 
+			WHERE messageid=14608;
+
