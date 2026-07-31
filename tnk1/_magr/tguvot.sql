@@ -12671,3 +12671,77 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>כאשר &quot;מזכי הרבים&quot; עושים מניפולציות על הציבור להתרים תרומות</p><p>ככה נראה עם ישראל...............................................................</p><p>https://www.facebook.com/reel/1725176671865994</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-30 10:46:11'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>ישעיהו יא1: &quot;וְיָצָא חֹטֶר ***מִגֵּזַע יִשָׁי*** וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה&quot;</p><p>הגזע כן קובע ממש כמו בעולם הצומח כי האדם עץ השדה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-30 13:29:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p>ישעיהו יא1: &quot;וְיָצָא חֹטֶר ***מִגֵּזַע יִשָׁי*** וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה&quot;</p><p>הגזע כן קובע ממש כמו בעולם הצומח כִּי הָאָדָם עֵץ הַשָּׂדֶה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-30 13:32:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-30 13:32:09' 
+			WHERE messageid=14645;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>אנ דיין שופט קדוש על פי רגש אינטואיציה --- כַּאֲשֶׁר יִשְׁאַל בִּדְבַר הָאֱלֹהִים כֵּן משפט דיין</p><p>-------------------------------------------------------------------------------------------------------------</p><p>במהלך חייו של משיח בן-דוד המלך הלא הוא המלך שלמה ביקש כדבר הבא...ככתוב בספר.......</p><p>מלכים א ג9: &quot;וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ לִשְׁפֹּט....... אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה&quot;</p><p>אחיי ---- דיין כבר נולד עם לֵב שֹׁמֵעַ לִשְׁפֹּט ....... הלא דיין הוא --- דיין שם</p><p>אלהים מדבר ברגש עם דיין דרך הלב כי לדיין לֵב שֹׁמֵעַ תודה לאל --- וַיֵּלְכוּ עִמּוֹ הַחַיִל אֲשֶׁר נָגַע אֱלֹהִים בְּלִבָּם</p><p>זה לא רק שהרגש מפוענח ומתורגם למחשבה --- הרגש עצמו הוא כבר שפה שפת אלהים</p><p>ובשפת אהבת אלהים האינטואיטיבית הזאת ניתן להבין ולדבר עם נפש החיה באדם ובבהמה</p><p>תהלים נה15: &quot;אֲשֶׁר יַחְדָּו נַמְתִּיק סוֹד בְּבֵית אֱלֹהִים = נְהַלֵּךְ בְּרָגֶשׁ&quot;.......</p><p>תהלים נב10: &quot;וַאֲנִי כְּזַיִת רַעֲנָן בְּבֵית אֱלֹהִים = בָּטַחְתִּי בְחֶסֶד אֱלֹהִים עוֹלָם וָעֶד&quot;</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-30 18:27:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-07-30 18:27:55' 
+			WHERE messageid=14628;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0128_6.html',
+		'<p>בימי קדם אלהים בחר ביעקב כי...</p><p>תהלים קלה4: &quot;כִּי יַעֲקֹב בָּחַר לוֹ יָהּ יִשְׂרָאֵל לִסְגֻלָּתוֹ&quot;</p><p>אבל אם ישראל לא בוחר באמת יָהּ גם יָהּ לא יבחר בו</p><p> אִם תִּדְרְשֶׁנּוּ יִמָּצֵא לָךְ וְאִם תַּעַזְבֶנּוּ יַזְנִיחֲךָ לָעַד</p><p>דברי הימים א כח9: &quot;וְאַתָּה שְׁלֹמֹה בְנִי דַּע אֶת אֱלֹהֵי אָבִיךָ וְעָבְדֵהוּ בְּלֵב שָׁלֵם וּבְנֶפֶשׁ חֲפֵצָה כִּי כָל לְבָבוֹת דּוֹרֵשׁ יהוה וְכָל יֵצֶר מַחֲשָׁבוֹת מֵבִין אִם תִּדְרְשֶׁנּוּ יִמָּצֵא לָךְ וְאִם תַּעַזְבֶנּוּ יַזְנִיחֲךָ לָעַד&quot;</p><p>עתה רבני ישראל אל תגזלו התרומה והמעשר הביאו זאת לדיין משרת-יהוה אותו כבדו ולא את לבבכם</p><p>שמואל א ו6: &quot;וְלָמָּה תְכַבְּדוּ אֶת לְבַבְכֶם כַּאֲשֶׁר כִּבְּדוּ מִצְרַיִם וּפַרְעֹה אֶת לִבָּם הֲלוֹא כַּאֲשֶׁר הִתְעַלֵּל בָּהֶם וַיְשַׁלְּחוּם וַיֵּלֵכוּ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-07-31 03:28:43'
+		)
+		;
+
