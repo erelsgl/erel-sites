@@ -13121,3 +13121,53 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-02 07:36:02' 
 			WHERE messageid=14670;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-02 10:55:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-02 10:55:46' 
+			WHERE messageid=14671;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2801_1.html',
+		'<p>אנשים עממיים אוהבים להיות ביחד לכן מעשב-השדה תכין סלט ירקות </p><p>ואנשים חכמים אוהבים להיות לבדם לכן את פרי העץ אוכלים אחד אחד </p><p>זו הסיבה שסלט ירקות נפוץ יותר מסלט פירות</p><p>-</p><p>פירוש לבאר.......</p><p>יש משהו מפתיע בדרך שבה הטבע משקף את נפש האדם, אם רק מסתכלים עליו מספיק זמן.</p><p>הירקות = האנשים העממיים = יראי-יהוה הקטנים</p><p>הם יצירי האדמה, צומחים קרוב זה לזה, נוגעים זה בזה כבר מן הרגע הראשון.</p><p>הם אינם מבקשים ייחוד; הם גדלים ביחד, מתערבבים זה בזה, חולקים את אותה אדמה ואת אותו מרחב.</p><p>וכשמביאים אותם אל השולחן, הם ממשיכים את דרכם הטבעית:</p><p>נחתכים, מתערבבים, הופכים לקערה אחת — סלט ירקות, מאכל של קהילה, של ריבוי, של חיים משותפים.</p><p>כמו אנשים עממיים, שמוצאים את כוחם בחברה, ברעש, בחום האנושי.</p><p>הפירות = האליטה של העם = החכמים = יראי-יהוה הגדולים </p><p>יצירי העץ, תלויים לבדם על ענף משלהם, כל אחד עטוף בקליפתו, שומר על צורתו ועל טעמו.</p><p>הם אינם מבקשים להתערבב; הם מבקשים להישאר שלמים.</p><p>וכשמביאים אותם אל השולחן, הם נשארים נאמנים למהותם:</p><p>אוכלים אותם אחד אחד, כל פרי הוא עולם בפני עצמו — טעם יחיד, רגע יחיד, מחשבה יחידה.</p><p>כמו אנשים חכמים, שמוצאים את עומקם דווקא בבדידות, בשקט, בהקשבה פנימית.</p><p>-</p><p>אין פה התנשאות על פלוני אלמוני אדרבא</p><p>העולם זקוק לשני הסוגים של אנשים —</p><p>תהלים קטו13: &quot;יְבָרֵךְ יִרְאֵי יהוה הַקְּטַנִּים עִם הַגְּדֹלִים&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-02 19:09:37'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-02 19:21:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-02 19:21:14' 
+			WHERE messageid=14673;
+
