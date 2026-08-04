@@ -13171,3 +13171,84 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-02 19:21:14' 
 			WHERE messageid=14673;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>שמואל א יב23: &quot;גַּם אָנֹכִי חָלִילָה לִּי מֵחֲטֹא ליהוה מֵחֲדֹל לְהִתְפַּלֵּל בַּעַדְכֶם וְהוֹרֵיתִי אֶתְכֶם בְּדֶרֶךְ הַטּוֹבָה וְהַיְשָׁרָה&quot;</p><p>אם העם טועה בדרך וחמלתי עליו והתפללתי עליו והנחיתי אותו בְּדֶרֶךְ הַטּוֹבָה וְהַיְשָׁרָה אבל אם העם בזדון מעקש דרכיו</p><p>ירמיהו יא14: &quot;וְאַתָּה אַל תִּתְפַּלֵּל בְּעַד הָעָם הַזֶּה וְאַל תִּשָּׂא בַעֲדָם רִנָּה וּתְפִלָּה כִּי אֵינֶנִּי שֹׁמֵעַ בְּעֵת קָרְאָם אֵלַי בְּעַד רָעָתָם&quot;</p><p>כִּי אֵינֶנִּי שֹׁמֵעַ בְּעֵת קָרְאָם אֵלַי בְּעַד רָעָתָם : &quot;רָחוֹק יהוה מֵרְשָׁעִים וּתְפִלַּת צַדִּיקִים יִשְׁמָע&quot; [ משלי טו29]</p><p>עתה אם ברצונך שיהוה ישמע תפילתך הסר רעתך מעליך אל תהיה רשע כי אם צדיק וישמעך אלהים</p><p>תהלים צה8: &quot;אַל תַּקְשׁוּ לְבַבְכֶם כִּמְרִיבָה כְּיוֹם מַסָּה בַּמִּדְבָּר&quot; עתה שמעו בקולי בקול דיין משרת-יהוה</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה         </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-04 04:15:51'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>ספר תהילות פרק נה (טו) אֲשֶׁר יַחְדָּו נַמְתִּיק סוֹד בְּבֵית אֱלֹהִים נְהַלֵּךְ בְּרָגֶשׁ</p><p>https://www.youtube.com/watch?v=4vPsbIHHiW4&amp;list=LL&amp;index=5</p><p>עתה אם אוזן חכמים לכם שמעו את השיר הזה כי בְּבֵית אֱלֹהִים נְהַלֵּךְ בְּרָגֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-04 05:08:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2655_5.html',
+		'<p>ספר תהילות פרק נה (טו) אֲשֶׁר יַחְדָּו נַמְתִּיק סוֹד בְּבֵית אֱלֹהִים נְהַלֵּךְ בְּרָגֶשׁ</p><p>https://www.youtube.com/watch?v=4vPsbIHHiW4&amp;list=LL&amp;index=5</p><p>עתה בלב-שומע ואוזן חכמים שמעו את השיר הזה כי בְּבֵית אֱלֹהִים נְהַלֵּךְ בְּרָגֶשׁ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-04 05:09:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-04 05:10:00' 
+			WHERE messageid=14675;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-04 06:48:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-04 06:48:19' 
+			WHERE messageid=14677;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1002_4.html',
+		'<p>ככה תראה ישראל באחרית הימים</p><p>זאת אמנם תמונה משוויץ, אך ככה פחות או יותר תראה ארץ ישראל באחרית הימים.</p><p>לאחר רעש האדמה הגדול שיפקוד את ארץ ישראל באחרית הימים - &quot;וְנִשְׂגַּב יהוה לְבַדּוֹ בַּיּוֹם הַהוּא&quot; [ישעיהו ב,יז] - כבר לא יבנו לגובה ובצפיפות. מגדלי הנדל&quot;ן, האספלט והבטון - אבן ואוון - יפלו.</p><p>צאן ובקר כבהמות טהורות ירעו באחו, במרעה פתוח ליד הבית.</p><p>https://www.facebook.com/reel/1359939768948998</p><p>ולא צריך להביא מכסחת דשא. אין צורך לעבוד.</p><p>ולא צריך מקרר לבשר, כי הוא זמין בחוץ, חי, ליד הבית. &quot;בְּאֶרֶץ נַחֲלַת עַם יהוה לֹא חֶסֶר דָּבָר&quot;.</p><p>כשתהיה טלפתיה בין בני האדם, לא יצטרכו מטוסים לנסוע לחו&quot;ל ולא מכוניות עם כבישים.</p><p>כי כבישים הורסים את הטבע. צריך לכרות עצים בשבילם, ואם אין עצים אין ציפורים - וזה מחזור חיים שלם שנשבר למען אלילי כספו וזהבו.</p><p>&quot;וְלֹא יְלַמְּדוּ עוֹד אִישׁ אֶת רֵעֵהוּ... כִּי כֻלָּם יֵדְעוּ אוֹתִי&quot; [ירמיהו לא,לג].</p><p>מה שיקרה בעתיד:</p><p>עדרי הבהמות הטהורות רועות באחו ומפרישות גלליהן.</p><p>ואז האדמה &quot;קוראת&quot; - כי יש חיים עליה.</p><p>ואז האדמה מצמיחה עשב וכל צומח פרי הארץ.</p><p>כי אלה הם החיים בגן-עדן - &quot;לְעָבְדָהּ וּלְשָׁמְרָהּ&quot; [בראשית ב,טו] - לתת לבהמה לעבד, ולשמור את העץ ואת הציפור.</p><p>&quot;גִּילִי מְאֹד בַּת צִיּוֹן הָרִיעִי בַּת יְרוּשָׁלַם הִנֵּה מַלְכֵּךְ יָבוֹא לָךְ צַדִּיק וְנוֹשָׁע הוּא עָנִי וְרֹכֵב עַל חֲמוֹר וְעַל עַיִר בֶּן אֲתֹנוֹת&quot; [זכריה ט,ט]</p><p>בלי מכוניות. בלי מטוסים. עם חמור, עם עיר, עם צאן, עם מנורה דולקת בפנים.</p><p>-</p><p>https://scontent.ftlv1-1.fna.fbcdn.net/v/t39.99422-6/753206642_1045489465109897_2289877974249457306_n.png?stp=dst-jpg_tt6&amp;cstp=mx1564x2048&amp;ctp=p526x296&amp;_nc_cat=110&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=FxNNTIhqiZYQ7kNvwEb2uWl&amp;_nc_oc=AdrqtLOsXKOG_3ugs0sTsYAhCezOL8HzaI5zmVfbR8X6dj03g25hvfciB2tMxLzCBM02A7MGYrBSURh_eJkSWxps&amp;_nc_zt=14&amp;_nc_ht=scontent.ftlv1-1.fna&amp;_nc_gid=WQcF_6nMs1xaxEemcPK3nw&amp;_nc_ss=7b2a8&amp;oh=00_AQBcjBz76j5b9nFxUc9UajYFqNeZV6rUmU088KegWrF_8Q&amp;oe=6A6BB18A</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-04 07:08:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-04 07:08:38' 
+			WHERE messageid=14612;
+
