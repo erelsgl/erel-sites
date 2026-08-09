@@ -13770,3 +13770,70 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-07 13:33:09' 
 			WHERE messageid=14713;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/forums_1859.html',
+		'<p>יְהוּדִי הַמְּחֻבָּר לְסֵפֶר הַסְּפָרִים</p><p>יוֹדֵעַ וּמֵבִין רְצוֹן אֱלוֹקִים</p><p>אֵינוֹ מַאֲשִׁים אֶחָיו הָאֲהוּבִים</p><p>נִמְנַע מִלְּהָפִיץ דִּיבַּת אַחִים.</p><p>??????????????????</p><p>-------------------------------------------------------------------------------------------------------------------------------------------</p><p>איוב א1: &quot;אִישׁ הָיָה בְאֶרֶץ עוּץ אִיּוֹב שְׁמוֹ וְהָיָה הָאִישׁ הַהוּא תָּם וְיָשָׁר וִירֵא אֱלֹהִים וְסָר מֵרָע&quot;</p><p>ואמר הצדיק.......</p><p>איוב ו15: &quot;אַחַי בָּגְדוּ כְמוֹ נָחַל כַּאֲפִיק נְחָלִים יַעֲבֹרוּ&quot;  : &quot;כִּי בָגוֹד בָּגְדוּ בִּי בֵּית יִשְׂרָאֵל וּבֵית יְהוּדָה נְאֻם יהוה&quot; [ירמיהו ה11]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-08 17:27:21'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>אחיי כל מי שגבר על חטאות נעורים ועתה מתחזקים שאו ברכה ואמרו כזאת.......</p><p>תהלים עט8: &quot;אַל תִּזְכָּר לָנוּ עונת רִאשֹׁנִים מַהֵר יְקַדְּמוּנוּ רַחֲמֶיךָ כִּי דַלּוֹנוּ מְאֹד&quot;</p><p>תהלים כה7: &quot;חַטֹּאות נְעוּרַי וּפְשָׁעַי אַל תִּזְכֹּר כְּחַסְדְּךָ זְכָר לִי אַתָּה לְמַעַן טוּבְךָ יהוה&quot;</p><p>יחזקאל לג16: &quot;כָּל חטאתו[חַטֹּאתָיו] אֲשֶׁר חָטָא לֹא תִזָּכַרְנָה לוֹ מִשְׁפָּט וּצְדָקָה עָשָׂה חָיוֹ יִחְיֶה&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-09 04:10:56'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_2.html',
+		'<p>ברוך הבא לגן-עדן =======  Welcome To Paradise </p><p>https://www.youtube.com/watch?v=vkQvg5u4E0g</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-09 04:13:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-09 05:13:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-09 05:13:14' 
+			WHERE messageid=14717;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>האום בעצמו תומך בחוקי סדום ואם בדעתך לפנות לאום כבר יותר פשוט שתפנה לבגץ, זה יועיל באותה מידה. וגם אם האום יזרום איתך, איך לדעתך הוא יגרש את כל אותם סדומניקים, ולא יותר פשוט שאתה וחבריך תגרשום? ועל דעתי כי יש למול את כל תושבי הארץ הזאת ואשר לא יאות לנו להמול לא יוכל לגור בתוכנו כי חרפה היא לנו</p>',
+		'110767779824457508648',
+		't z',
+		'2026-08-09 05:47:55'
+		)
+		;
+
