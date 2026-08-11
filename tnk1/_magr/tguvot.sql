@@ -13880,3 +13880,125 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-09 11:14:07' 
 			WHERE messageid=14720;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p></p><p>מאת...</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה       </p><p>מלאכי ב4: &quot;וִידַעְתֶּם כִּי שִׁלַּחְתִּי אֲלֵיכֶם אֵת הַמִּצְוָה הַזֹּאת לִהְיוֹת בְּרִיתִי אֶת לֵוִי....... אָמַר יהוה צְבָאוֹת&quot;</p><p>מלאכי ב5: &quot;בְּרִיתִי הָיְתָה אִתּוֹ הַחַיִּים וְהַשָּׁלוֹם וָאֶתְּנֵם לוֹ מוֹרָא וַיִּירָאֵנִי וּמִפְּנֵי שְׁמִי נִחַת הוּא&quot;</p><p>מלאכי ב6: &quot;תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ וְעַוְלָה לֹא נִמְצָא בִשְׂפָתָיו בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי וְרַבִּים הֵשִׁיב מעון&quot;</p><p>זה האיש שבאמת היה מזכה הרבים ואכן זיכה את הרבים --- ככתוב --- וְרַבִּים הֵשִׁיב מעון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 13:31:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>https://www.youtube.com/watch?v=ty6Llgs89GY</p><p>VOCAL TRANCE: Akkima &amp; Sarah Lynn -</p><p>  - Love Can Lead The Way [RNM]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 13:53:20'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 14:16:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-10 14:16:52' 
+			WHERE messageid=14724;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0518_3.html',
+		'<p>מאת...</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>מלאכי ב4: &quot;וִידַעְתֶּם כִּי שִׁלַּחְתִּי אֲלֵיכֶם אֵת הַמִּצְוָה הַזֹּאת לִהְיוֹת בְּרִיתִי אֶת לֵוִי....... אָמַר יהוה צְבָאוֹת&quot;</p><p>מלאכי ב5: &quot;בְּרִיתִי הָיְתָה אִתּוֹ הַחַיִּים וְהַשָּׁלוֹם וָאֶתְּנֵם לוֹ מוֹרָא וַיִּירָאֵנִי וּמִפְּנֵי שְׁמִי נִחַת הוּא&quot;</p><p>מלאכי ב6: &quot;תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ וְעַוְלָה לֹא נִמְצָא בִשְׂפָתָיו בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי וְרַבִּים הֵשִׁיב מעון&quot;</p><p>זה האיש שבאמת היה מזכה הרבים ואכן זיכה את הרבים --- ככתוב --- וְרַבִּים הֵשִׁיב מעון</p><p>-----------------------------------------------------------------------------------------------------</p><p>תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ </p><p>וְעַוְלָה לֹא נִמְצָא בִשְׂפָתָיו </p><p>בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי </p><p>וְרַבִּים הֵשִׁיב מעון&quot;</p><p>----------------------</p><p>אבל אם זה שקורא לעצמו &quot;מזכה הרבים&quot;</p><p>תּוֹרַת שקר הָיְתָה בְּפִיהוּ</p><p>וְעַוְלָה נִמְצָא בִשְׂפָתָיו </p><p>בְּשָׁלוֹם וּבְמִישׁוֹר לא הָלַךְ אִתִּי</p><p>וְרַבִּים לא הֵשִׁיב מעון</p><p>-</p><p>אז זה נקרא מזכה-הרבים לשוא...............</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 15:12:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-10 15:12:33' 
+			WHERE messageid=14722;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t08b01_2.html',
+		'<p>Sarah Lynn - At The End of Every Journey </p><p>(Jorn van Deynhoven Extended Vocal Mix)</p><p>https://www.youtube.com/watch?v=0j9BVTX9Qbs&amp;list=LL&amp;index=2</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 18:06:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26a4_2.html',
+		'<p>דברים כח52: &quot;וְהֵצַר לְךָ בְּכָל שְׁעָרֶיךָ עַד רֶדֶת חֹמֹתֶיךָ הגבהת וְהַבְּצֻרוֹת אֲשֶׁר אַתָּה בֹּטֵחַ בָּהֵן בְּכָל אַרְצֶךָ וְהֵצַר לְךָ בְּכָל שְׁעָרֶיךָ בְּכָל אַרְצְךָ אֲשֶׁר נָתַן יהוה אֱלֹהֶיךָ לְךָ&quot;</p><p>עַד רֶדֶת חֹמֹתֶיךָ הגבהת וְהַבְּצֻרוֹת אֲשֶׁר אַתָּה בֹּטֵחַ בָּהֵן --- תרתי משמע --- </p><p>לאמור גם מבחינה נפשית שאתה בוטח במגדל קלפים שיום אחד יפלו</p><p>וגם מבחינה ארצית שאתה בוטח בגורדי שחקים שבנית שיום אחד יתמוטטו</p><p>-</p><p>עתה הקשיבו לפזמון השיר -- עד שמלאך הבטון יפול...</p><p>Gareth Emery ft. Christina Novelli - Concrete Angel (John O\'Callaghan Rmx) Live Tomorrowland 2017</p><p>https://www.youtube.com/watch?v=o_3odTxpPxw&amp;list=LL&amp;index=4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 18:43:33'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>https://www.youtube.com/watch?v=cFl7HlCKOuY&amp;list=LL&amp;index=11</p><p>VOCAL TRANCE: Lost Witness &amp; Laura Ly - Carry Me Home (Craig Connelly Remix) [Amsterdam Trance]</p><p>אם איבדת את דרכך אולי 100 פעם חחח --- ואתה חושב שלא תוכל לעשות זאת לבד --- אני דיין DAIAN אקח אותך הביתה </p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-10 19:00:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>לכל הגויים אוהבי אלהי ישראל</p><p>מאת דיין שם --- עבד-יהוה ומשיחו</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p><p>במדבר לה34: &quot;וְלֹא תְטַמֵּא אֶת הָאָרֶץ אֲשֶׁר אַתֶּם יֹשְׁבִים בָּהּ אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָהּ כִּי אֲנִי יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל&quot;</p><p>יהוה שֹׁכֵן בארץ ישראל באדמת הקודש ואנחנו בני ישראל ולמען ישכן יהוה בתוכנו עלינו לאכול מטוב הארץ הזאת למען יהוה שֹׁכֵן בְּתוֹךְ בְּנֵי יִשְׂרָאֵל</p><p>על כן אני מייעץ לכם לאכול מתוצרת הארץ במיוחד לעשות דייאטת-אוכל של שבעת המינים ואתה זכור זאת במיוחד בדרכך לסופר-מרקט ושנן פסוק זה</p><p>דברים ח8: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot; ------- וזאת כדי שמשכנך הוא גופך הפיזי יהיה כמשכן לאלהי ישראל</p><p>עתה כדי שמשכן זה לא יהיה כמשכן קרח ועדתו לכן צוק אתה תוכן קדוש למשכן אשר ציויתך על דבר שבעת המינים ובטח ביהוה אלהי ישראל</p><p>כי כאשר בטחת ביהוה אלהי ישראל הלא אתה שכן עם יהוה בהר-ציון עיר הקודש ירושלים ויהוה שכן עמך גם אם אינך גר פיזית בירושלים</p><p>תהלים קכה1: &quot;שִׁיר הַמַּעֲלוֹת הַבֹּטְחִים ביהוה כְּהַר צִיּוֹן לֹא יִמּוֹט לְעוֹלָם יֵשֵׁב&quot; וככה ניבאו כל נביאי יהוה ברוח אלהים קדושים מבלי לגור פיזית בציון</p><p>על כן דיברתי אליכם לאמור אכלו מטוב ארץ ישראל מפרי הארץ [דייאטת שבעת המינים] ובטחו אל יהוה אלהים צבאות אלהי ישראל</p><p>זאת בשורתי בשורת-דיין עבד-יהוה ומשיחו לכל אוהבי אלהי ישראל אשר גרים בארצות הניכר כי נבצר מהם לגור בציון</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-11 03:40:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>יש אנשים שגם אם שמים אותם בגן-עדן הם מחפשים סיבה לדאגה לדאוג אולי הגנן יאחר לגן חחחח</p><p>&quot;חאליק&quot; תתחילו לבטוח ביהוה אלהים במיוחד שאנחנו בני ישראל וחיים על אדמת הקודש בארץ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-11 06:58:54'
+		)
+		;
+
