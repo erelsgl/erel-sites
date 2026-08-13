@@ -14262,3 +14262,282 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-12 07:26:42' 
 			WHERE messageid=14727;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>https://www.youtube.com/shorts/U5H0ZK36D7E</p><p>רבנים שנפוחים מגאווה חושבים שהם תשע וחצי</p><p>וכשמוכיחים להם שהם אפס הם כועסים חחחחח</p><p>מה אפס? הרבנים הם מינוס הם נטל על החברה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 08:29:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0219_3.html',
+		'<p>https://www.youtube.com/shorts/U5H0ZK36D7E</p><p>רבנים שנפוחים מגאווה חושבים שהם תשע וחצי</p><p>וכשמוכיחים להם שהם אפס הם כועסים חחחחח</p><p>מה אפס? הרבנים הם מינוס הם נטל על החברה</p><p>[לא מדבר רעה על רבני המתנחלים וישיבות ההסדר]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 08:40:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 08:40:09' 
+			WHERE messageid=14748;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>רבני-הידברות שמטיפים נגד גיוס לצה&quot;ל בעת מלחמה פתחו במבצע מיזם לחלוקת &quot;ערכה רוחנית&quot; לחיילי צה&quot;ל</p><p>https://charidy.com/hidabroot.tv --- ציצית טלית וכל מיני שטויות</p><p>הנה רב אורתודוכסי עם &quot;ערכה רוחנית מלאה&quot; ציצית כיפה זקן משקפיים וחליפה [בקישור של הפייסבוק]</p><p>https://www.facebook.com/100018583680962/videos/pcb.2056545831641520/1601307678170597</p><p>מדובר בתעתועי הרבנים שמתעתעים בכל עם ישראל כי &quot;הערכה הרוחנית&quot; שלהם זה למטרת התרמת הציבור</p><p>ומלבד גריפת רווח-כספי מהכנסת כסף תרומות הציבור &quot;הערכה הרוחנית&quot; הזאת היא אשליה שלא מועילה לציבור</p><p>אם רוצים באמת לחזק את החיילים יש לחזק את נפשם באמת שלא ילכו להתאבד כמגיפה במחנות צה&quot;ל</p><p>אני דיין בעד חיזוק נפשי פנימי אמיתי ולא בעד אשליה של עזרים חיצוניים -- כִּי הָאָדָם יִרְאֶה לַעֵינַיִם ויהוה יִרְאֶה לַלֵּבָב</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה          </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 11:35:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מה לאכול דבר ראשון בארוחת-בקר לחם או דבש</p><p>והנה עדות על פי התורה כי חִטָּה לפני דבש</p><p>תהלים פא17: &quot;וַיַּאֲכִילֵהוּ מֵחֵלֶב חִטָּה וּמִצּוּר דְּבַשׁ אַשְׂבִּיעֶךָ&quot;</p><p>דברים ח8: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;</p><p>בפסוק הזה חִטָּה במקום הראשון וּדְבָשׁ במקום האחרון</p><p> חִטָּה לפני דבש --- </p><p>כי חִטָּה מייצגת דעת לפני דבש המייצג חכמה</p><p>ואתה בעת ארוחת-הבקר בקש רֵאשִׁית דָּעַת</p><p>משלי א7: &quot;יִרְאַת יהוה רֵאשִׁית דָּעַת חָכְמָה וּמוּסָר אֱוִילִים בָּזוּ&quot;</p><p>ואל תהיה טיפש לאכול תחילה דבש המייצג חכמה לפני הלחם המייצג דעת</p><p>כי....... : &quot;בִּקֶּשׁ לֵץ חָכְמָה וָאָיִן וְדַעַת לְנָבוֹן נָקָל&quot; [משלי יד6]</p><p>ראה בני כי מותר לבקש חכמה אין בזה פסול אך בתנאי שהדעת קודמת לנפשך ואינך לץ</p><p>קהלת ז25: &quot;סַבּוֹתִי אֲנִי וְלִבִּי לָדַעַת... וְלָתוּר וּבַקֵּשׁ חָכְמָה... וְחֶשְׁבּוֹן וְלָדַעַת רֶשַׁע כֶּסֶל וְהַסִּכְלוּת הוֹלֵלוֹת&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 13:38:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מה לאכול דבר ראשון בארוחת-בקר לחם או דבש</p><p>והנה עדות על פי התורה כי חִטָּה לפני דבש</p><p>תהלים פא17: &quot;וַיַּאֲכִילֵהוּ מֵחֵלֶב חִטָּה וּמִצּוּר דְּבַשׁ אַשְׂבִּיעֶךָ&quot;</p><p>דברים ח8: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;</p><p>בפסוק הזה חִטָּה במקום הראשון וּדְבָשׁ במקום האחרון</p><p>חִטָּה לפני דבש ---</p><p>כי חִטָּה מייצגת דעת לפני דבש המייצג חכמה</p><p>ואתה בעת ארוחת-הבקר בקש רֵאשִׁית דָּעַת</p><p>משלי א7: &quot;יִרְאַת יהוה רֵאשִׁית דָּעַת חָכְמָה וּמוּסָר אֱוִילִים בָּזוּ&quot;</p><p>ואל תהיה טיפש לאכול תחילה דבש המייצג חכמה לפני הלחם המייצג דעת</p><p>כי....... : &quot;בִּקֶּשׁ לֵץ חָכְמָה וָאָיִן וְדַעַת לְנָבוֹן נָקָל&quot; [משלי יד6]</p><p>ראה בני כי מותר לבקש חכמה אין בזה פסול אך בתנאי שהדעת קודמת לנפשך ואינך לץ</p><p>קהלת ז25: &quot;סַבּוֹתִי אֲנִי וְלִבִּי לָדַעַת... וְלָתוּר וּבַקֵּשׁ חָכְמָה... וְחֶשְׁבּוֹן וְלָדַעַת רֶשַׁע כֶּסֶל וְהַסִּכְלוּת הוֹלֵלוֹת&quot;</p><p>[הערה: אתה יכול לאכול דבש תחילה רק אם החלטת שמסיבות כאלה ואחרות אתה מוותר על הלחם]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 14:04:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 14:04:41' 
+			WHERE messageid=14751;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0216_6.html',
+		'<p>מה לאכול דבר ראשון בארוחת-בקר לחם או דבש</p><p>והנה עדות על פי התורה כי חִטָּה לפני דבש</p><p>תהלים פא17: &quot;וַיַּאֲכִילֵהוּ מֵחֵלֶב חִטָּה וּמִצּוּר דְּבַשׁ אַשְׂבִּיעֶךָ&quot;</p><p>דברים ח8: &quot;אֶרֶץ חִטָּה וּשְׂעֹרָה וְגֶפֶן וּתְאֵנָה וְרִמּוֹן אֶרֶץ זֵית שֶׁמֶן וּדְבָשׁ&quot;</p><p>בפסוק הזה חִטָּה במקום הראשון וּדְבָשׁ במקום האחרון</p><p>חִטָּה לפני דבש ---</p><p>כי חִטָּה מייצגת דעת לפני דבש המייצג חכמה</p><p>ואתה בעת ארוחת-הבקר בקש רֵאשִׁית דָּעַת</p><p>משלי א7: &quot;יִרְאַת יהוה רֵאשִׁית דָּעַת חָכְמָה וּמוּסָר אֱוִילִים בָּזוּ&quot;</p><p>ואל תהיה טיפש לאכול תחילה דבש המייצג חכמה לפני הלחם המייצג דעת</p><p>כי....... : &quot;בִּקֶּשׁ לֵץ חָכְמָה וָאָיִן וְדַעַת לְנָבוֹן נָקָל&quot; [משלי יד6]</p><p>ראה בני כי מותר לבקש חכמה אין בזה פסול אך בתנאי שהדעת קודמת לנפשך ואינך לץ</p><p>קהלת ז25: &quot;סַבּוֹתִי אֲנִי וְלִבִּי לָדַעַת... וְלָתוּר וּבַקֵּשׁ חָכְמָה... וְחֶשְׁבּוֹן וְלָדַעַת רֶשַׁע כֶּסֶל וְהַסִּכְלוּת הוֹלֵלוֹת&quot;</p><p>[הערה: אתה יכול לאכול דבש תחילה רק אם החלטת שמסיבות כאלה ואחרות אתה מוותר על הלחם</p><p>כי אם למשל אתה איש דעת-אלהים אינך זקוק ללחם למלא דעתך כי אתה כבר מלא דעת </p><p>ויכול לאכול הדבש על הבוקר מבלי לאכול הלחם אשר אינו לחכמים כי לא לחכמים לחם]</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 14:11:07'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 14:11:12' 
+			WHERE messageid=14752;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0146_2.html',
+		'<p>מאת דיין שם עבד-יהוה ומשיחו לכל בני-אנוש</p><p>אם אנחנו שייכים לדת מסויימת יש לנו נטייה לסמן את כל הדתות האחרות כשקר</p><p>אך אני עבד-אלהים ואף כי מבני ישראל אנכי אהיה מוכן לבחון ולבדוק את כל הכתבים הקדושים לדתות</p><p>כי רק אני דיין כעבד-יהוה אשר בקודש יכול להגיד לכם אם אמת הכתוב כן או לא</p><p>כאשר אגיד אמת גם לבני עמי אם יש דבר בתורה ובמקרא-הקודש אשר צריך לתקן</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 14:53:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 15:08:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 15:08:08' 
+			WHERE messageid=14755;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>רבני-הידברות שמטיפים נגד גיוס לצה&quot;ל בעת מלחמה פתחו במבצע מיזם לחלוקת &quot;ערכה רוחנית&quot; לחיילי צה&quot;ל</p><p>https://charidy.com/hidabroot.tv --- ציצית טלית וכל מיני שטויות</p><p>הנה רב אורתודוכסי עם &quot;ערכה רוחנית מלאה&quot; ציצית כיפה זקן משקפיים וחליפה [בקישור של הפייסבוק] ומה זה עוזר?</p><p>https://www.facebook.com/100018583680962/videos/pcb.2056545831641520/1601307678170597</p><p>מדובר בתעתועי הרבנים שמתעתעים בכל עם ישראל כי &quot;הערכה הרוחנית&quot; שלהם זה למטרת התרמת הציבור</p><p>ומלבד גריפת רווח-כספי מהכנסת כסף תרומות הציבור &quot;הערכה הרוחנית&quot; הזאת היא אשליה שלא מועילה לציבור</p><p>אם רוצים באמת לחזק את החיילים יש לחזק את נפשם באמת שלא ילכו להתאבד כמגיפה במחנות צה&quot;ל</p><p>אני דיין בעד חיזוק נפשי פנימי אמיתי ולא בעד אשליה של עזרים חיצוניים -- כִּי הָאָדָם יִרְאֶה לַעֵינַיִם ויהוה יִרְאֶה לַלֵּבָב</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 15:14:36'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 15:14:46' 
+			WHERE messageid=14750;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p>רבני-הידברות שמטיפים נגד גיוס לצה&quot;ל בעת מלחמה פתחו במבצע מיזם לחלוקת &quot;ערכה רוחנית&quot; לחיילי צה&quot;ל</p><p>https://charidy.com/hidabroot.tv --- ציצית טלית וכל מיני שטויות</p><p>הנה רב אורתודוכסי עם &quot;ערכה רוחנית מלאה&quot; ציצית כיפה זקן משקפיים וחליפה [בקישור של הפייסבוק] במה זה עוזר?</p><p>https://www.facebook.com/100018583680962/videos/pcb.2056545831641520/1601307678170597</p><p>מדובר בתעתועי הרבנים שמתעתעים בכל עם ישראל כי &quot;הערכה הרוחנית&quot; שלהם זה למטרת התרמת הציבור</p><p>ומלבד גריפת רווח-כספי מהכנסת כסף תרומות הציבור &quot;הערכה הרוחנית&quot; הזאת היא אשליה שלא מועילה לציבור</p><p>אם רוצים באמת לחזק את החיילים יש לחזק את נפשם באמת שלא ילכו להתאבד כמגיפה במחנות צה&quot;ל</p><p>אני דיין בעד חיזוק נפשי פנימי אמיתי ולא בעד אשליה של עזרים חיצוניים -- כִּי הָאָדָם יִרְאֶה לַעֵינַיִם ויהוה יִרְאֶה לַלֵּבָב</p><p>https://tora.quest/tnk1/daian</p><p>דַיָּן שֵׁם</p><p>מְשָׁרֵת יהוה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 15:32:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 15:32:46' 
+			WHERE messageid=14756;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דברים יז11: &quot;עַל פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן הַדָּבָר .......אֲשֶׁר יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל&quot; </p><p>דברים כח14: &quot;וְלֹא תָסוּר מִכָּל הַדְּבָרִים....... אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם יָמִין וּשְׂמֹאול לָלֶכֶת אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם&quot;</p><p>-</p><p>&quot;עַל פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה</p><p>לֹא תָסוּר מִן הַדָּבָר .......אֲשֶׁר יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל&quot; וְלֹא תָסוּר מִכָּל הַדְּבָרִים....... אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם יָמִין וּשְׂמֹאול לָלֶכֶת אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם&quot; </p><p>עתה בני ישראל עליכם להחליט אַחֲרֵי מי לָלֶכֶת האם אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם או לשמוע בקול דיין  אם דיין עבד-יהוה לכו אחריו ואם הרבנים לכו אחריהם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 19:17:26'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דברים יז11: &quot;עַל פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן הַדָּבָר .......אֲשֶׁר יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל&quot;</p><p>דברים כח14: &quot;וְלֹא תָסוּר מִכָּל הַדְּבָרִים....... אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם יָמִין וּשְׂמֹאול לָלֶכֶת אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם&quot;</p><p>-</p><p>&quot;עַל פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה</p><p>לֹא תָסוּר מִן הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל&quot;.... = וְלֹא תָסוּר מִכָּל הַדְּבָרִים אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם יָמִין וּשְׂמֹאול....  לָלֶכֶת אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם&quot;</p><p>עתה בני ישראל עליכם להחליט אַחֲרֵי מי לָלֶכֶת האם אַחֲרֵי אֱלֹהִים אֲחֵרִים לְעָבְדָם או לשמוע בקול דיין אם דיין עבד-יהוה לכו אחריו ואם הרבנים לכו אחריהם</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-12 19:22:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-12 19:22:31' 
+			WHERE messageid=14758;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>מה שרצית לומר שהכבוד הולך על המנחה ולא על המלך הוא טעות</p><p> </p><p> 1.כי לא נאמר &quot;מנחתו בכבוד&quot; אלא &quot;מנחתו כבוד&quot; דהיינו - המנחה תבוא לכבודו ולא בכבודה</p><p> 2. כי לא נאמר &quot;צדקה&quot; אלא &quot;כבוד&quot; והיכן מצינו במקרא הביטוי כבוד ביחס למנחה.</p><p> 3. כי כבר מצינו התקיימה נבואה זו עיין דברי הימים ב לב כג, ומשם תבין כי המילה &quot;מנחה&quot;</p><p> עניינה להניח לב האל או האדון מזעמו, ובעת תוגש לפניו המנחה אז ינוח לו, ופעולת הגשת המנחה</p><p> את פני המלך נקראת &quot;מנוחתו&quot;, וכן אמר &quot;והיתה מנוחתו כבוד&quot;, דהיינו הבאת המנחה לפניו תבוא לכבדו ולנשאו...</p>',
+		'110767779824457508648',
+		't z',
+		'2026-08-13 02:15:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://www.youtube.com/shorts/VQ65itVUE6I</p><p>כל הכבוד לרב זלמן מלמד אני משבח אותך</p><p>הדברים ברורים וידועים אבל חשוב מאד שאמרת אותם</p><p>וזו עדות כי אנשי הגמרא היו בני אדם ודבריהם לא לנצח</p><p>וסוף סוף יש רב שמבין זאת ואני מצפה לעוד רבנים להתבטא כך</p><p>כי אני דיין עבד-אלהים וכבר קצתי בהבלי רבני חזל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-13 02:22:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>https://www.youtube.com/shorts/VQ65itVUE6I</p><p>כל הכבוד לרב זלמן מלמד אני משבח אותך</p><p>הדברים ברורים וידועים אבל חשוב מאד שאמרת אותם</p><p>וזו עדות כי אנשי הגמרא לא היו נביאים ודבריהם לא לנצח</p><p>וסוף סוף יש רב שמבין זאת ואני מצפה לעוד רבנים להתבטא כך</p><p>כי אני דיין עבד-אלהים וכבר קצתי בהבלי רבני חזל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-13 02:26:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-13 02:26:45' 
+			WHERE messageid=14761;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>דיין נועד להנהיג באהבה ואגיד לכם [את התפישה והאג\'נדה שלי] איך אני חושב לעשות זאת בפועל </p><p>ובכן דיין עבד-יהוה יודע כי יהוה אלהים עשה אותו לראש!! רֹאשׁ שִׁבְטֵי יִשְׂרָאֵל</p><p>אך עם כל הכבוד לראש הן ראש הוא רק ראשית הגוף והוא זקוק גם לידיים ורגליים ואיברים פנימיים וכולי</p><p>לאמור לכם עמי כי אני זקוק לשיתוף פעולה שלכם למען אנהיגכם ישראל כגוף אחד מאוחד</p><p>אני קורא לכל המנהיגים אשר מכהנים כרָאשֵׁי עָם יַחַד להתאחד תחתיי</p><p>דברים לג5: &quot;וַיְהִי בִישֻׁרוּן מֶלֶךְ בְּהִתְאַסֵּף רָאשֵׁי עָם יַחַד שִׁבְטֵי יִשְׂרָאֵל&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-13 03:09:40'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0517_1.html',
+		'<p>אין המלך לישראל כי אם עבד ליהוה אלהים צבאות</p><p>------- https://tora.quest/tnk1/daian -------</p><p>                      דַיָּן שֵׁם               </p><p>                   מְשָׁרֵת יהוה  </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-13 03:40:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-13 04:56:57'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-13 04:57:05' 
+			WHERE messageid=14765;
+
