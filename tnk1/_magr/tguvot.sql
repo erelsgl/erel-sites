@@ -14855,3 +14855,103 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-14 16:01:43' 
 			WHERE messageid=14783;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>******* לא אוכלים על החטא וכל דבר שלילי כמו כעס *******</p><p> שמואל א א7: &quot;וְכֵן יַעֲשֶׂה שָׁנָה בְשָׁנָה מִדֵּי עֲלֹתָהּ בְּבֵית יהוה כֵּן תַּכְעִסֶנָּה... וַתִּבְכֶּה וְלֹא תֹאכַל&quot;.......</p><p>שמואל א כ34: &quot;וַיָּקָם יְהוֹנָתָן מֵעִם הַשֻּׁלְחָן בָּחֳרִי אָף... וְלֹא אָכַל....... בְּיוֹם הַחֹדֶשׁ הַשֵּׁנִי לֶחֶם כִּי נֶעְצַב אֶל דָּוִד כִּי הִכְלִמוֹ אָבִיו&quot;</p><p>דברים ט18: </p><p>&quot;וָאֶתְנַפַּל לִפְנֵי יהוה כָּרִאשֹׁנָה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי....... וּמַיִם לֹא שָׁתִיתִי עַל כָּל חַטַּאתְכֶם אֲשֶׁר חֲטָאתֶם לַעֲשׂוֹת הָרַע בְּעֵינֵי יהוה לְהַכְעִיסוֹ&quot;.......</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 17:30:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>******* לא אוכלים בעת כעס וכל חטא *******</p><p>שמואל א א7: &quot;וְכֵן יַעֲשֶׂה שָׁנָה בְשָׁנָה מִדֵּי עֲלֹתָהּ בְּבֵית יהוה כֵּן תַּכְעִסֶנָּה... וַתִּבְכֶּה וְלֹא תֹאכַל&quot;.......</p><p>שמואל א כ34: &quot;וַיָּקָם יְהוֹנָתָן מֵעִם הַשֻּׁלְחָן בָּחֳרִי אָף... וְלֹא אָכַל....... בְּיוֹם הַחֹדֶשׁ הַשֵּׁנִי לֶחֶם כִּי נֶעְצַב אֶל דָּוִד כִּי הִכְלִמוֹ אָבִיו&quot;</p><p>דברים ט18:</p><p>&quot;וָאֶתְנַפַּל לִפְנֵי יהוה כָּרִאשֹׁנָה אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי....... וּמַיִם לֹא שָׁתִיתִי עַל כָּל חַטַּאתְכֶם אֲשֶׁר חֲטָאתֶם לַעֲשׂוֹת הָרַע בְּעֵינֵי יהוה לְהַכְעִיסוֹ&quot;.......</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 17:33:02'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-15 17:33:04' 
+			WHERE messageid=14784;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>על פי ההלכה השקיית הצמחים אסורה משום זריעה, מפני שההשקיה מסייעת לצמיחה. </p><p>עתה שמעו נא דבר דיין השולל הלכה זאת ******* כִּי הָאָדָם עֵץ הַשָּׂדֶה *******</p><p>ואם ישך ילד קטן ורגיש זו לא שאלה אם מותר להשקותו מים אלא חובה עליך להשקותו מים ביום חם ושרב </p><p>הוא הדבר אם ישך שתיל עץ קטן ואתה עליך להשקותו ביום חם ושרב פן ימות ......................................</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 17:57:14'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>על פי ההלכה השקיית הצמחים אסורה משום זריעה, מפני שההשקיה מסייעת לצמיחה.</p><p>עתה שמעו נא דבר דיין השולל הלכה זאת ******* כִּי הָאָדָם עֵץ הַשָּׂדֶה *******</p><p>ואם ישך ילד קטן ורגיש זו לא שאלה אם מותר להשקותו מים אלא חובה עליך להשקותו מים ביום חם ושרב</p><p>הוא הדבר אם ישך שתיל עץ קטן ואתה עליך להשקותו מים ביום חם ושרב פן ימות ................................</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 18:09:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-15 18:09:40' 
+			WHERE messageid=14786;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-15 18:10:30' 
+			WHERE messageid=14787;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2637_0.html',
+		'<p>מאת דיין שם.......</p><p> https://tora.quest/tnk1/daian</p><p>           דַיָּן שֵׁם           </p><p>        מְשָׁרֵת יהוה        </p><p>-------------------------------------</p><p>כל הברכות לצדיק אז הנה לכם איך להיות מבורך כצדיק</p><p>תהלים לז21: &quot;לֹוֶה רָשָׁע וְלֹא יְשַׁלֵּם וְצַדִּיק חוֹנֵן וְנוֹתֵן&quot;</p><p>תהלים לז26: &quot;כָּל הַיּוֹם חוֹנֵן וּמַלְוֶה וְזַרְעוֹ לִבְרָכָה&quot;</p><p>כל היום עשה צדקה ומשפט חסד ואמת</p><p>ובכל זאת אל תסמוך על צדקתך כי אם בטח ביהוה</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 18:20:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t3103_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-15 18:20:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-15 18:21:00' 
+			WHERE messageid=14789;
+
