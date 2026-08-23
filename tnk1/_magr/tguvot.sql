@@ -15845,3 +15845,91 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-21 13:57:24' 
 			WHERE messageid=14840;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p>ר&quot;ת --- משכ״ן — מלך • שופט • כהן • נביא  </p><p>**כולם בירושלים — מרכז ההנהגה של ישראל**</p><p>המלך </p><p>קהלת א1: &quot;דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלָים&quot; </p><p>השופט</p><p>תהלים קכב5: &quot;כִּי שָׁמָּה יָשְׁבוּ כִּסְאוֹת לְמִשְׁפָּט כִסְאוֹת לְבֵית דָּוִיד&quot;</p><p>הכהן </p><p>עבודת הכהנים בבית המקדש שמקומו נבחר בירושלים</p><p>הנביא (חוזה־המלך) </p><p>הסמכות העליונה הצמודה אל המלך לייעץ לו ולעתים גם להוכיחו — כאשר נתן הנביא הוכיח את דוד במשל כבשת הרש.</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-22 19:23:35'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p>ר&quot;ת — משכ״ן = מלך • שופט • כהן • נביא</p><p>**כולם בירושלים — מרכז ההנהגה של ישראל**</p><p>המלך</p><p>קהלת א1: &quot;דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלָים&quot;</p><p>השופט</p><p>תהלים קכב5: &quot;כִּי שָׁמָּה יָשְׁבוּ כִּסְאוֹת לְמִשְׁפָּט כִסְאוֹת לְבֵית דָּוִיד&quot;</p><p>הכהן</p><p>עבודת הכהנים בבית המקדש שמקומו נבחר בירושלים</p><p>הנביא (חוזה־המלך)</p><p>הסמכות העליונה הצמודה אל המלך לייעץ לו ולעתים גם להוכיחו — כאשר נתן הנביא הוכיח את דוד במשל כבשת הרש.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-22 19:24:38'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-22 19:24:45' 
+			WHERE messageid=14842;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p>ר&quot;ת — משכ״ן = מלך • שופט • כהן • נביא</p><p>**כולם בְּעִיר הַקֹּדֶשׁ ירושלים  — מרכז ההנהגה של ישראל**</p><p>זכריה ב16: &quot;וְנָחַל יהוה אֶת יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָים&quot;</p><p>-------------</p><p>המלך</p><p>קהלת א1: &quot;דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלָים&quot;</p><p>השופט</p><p>תהלים קכב5: &quot;כִּי שָׁמָּה יָשְׁבוּ כִּסְאוֹת לְמִשְׁפָּט כִסְאוֹת לְבֵית דָּוִיד&quot;</p><p>הכהן</p><p>עבודת הכהנים בבית המקדש שמקומו נבחר בירושלים</p><p>הנביא (חוזה־המלך)</p><p>הסמכות העליונה הצמודה אל המלך לייעץ לו ולעתים גם להוכיחו — כאשר נתן הנביא הוכיח את דוד במשל כבשת הרש.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-22 19:29:03'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-22 19:29:05' 
+			WHERE messageid=14843;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p> </p><p> ר&quot;ת — משכ״ן = מלך • שופט • כהן • נביא</p><p>**כולם בְּעִיר הַקֹּדֶשׁ ירושלים — מרכז ההנהגה של ישראל**</p><p>זכריה ב16: &quot;וְנָחַל יהוה אֶת יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָים&quot;</p><p>-------------</p><p>המלך --- בירושלים</p><p>קהלת א1: &quot;דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלָים&quot;</p><p>השופט --- בירושלים</p><p>תהלים קכב5: &quot;כִּי שָׁמָּה יָשְׁבוּ כִּסְאוֹת לְמִשְׁפָּט כִסְאוֹת לְבֵית דָּוִיד&quot;</p><p>הכהן --- </p><p>עבודת הכהנים בבית-המקדש בְּעִיר הַקֹּדֶשׁ ירושלים</p><p>הנביא (חוזה־המלך)</p><p>הסמכות העליונה הצמודה אל המלך לייעץ לו ולעתים גם להוכיחו — כאשר נתן הנביא הוכיח את דוד במשל כבשת הרש.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-22 19:34:34'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-22 19:34:39' 
+			WHERE messageid=14844;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2303_2.html',
+		'<p>ר&quot;ת — משכ״ן = מלך • שופט • כהן • נביא</p><p>**כולם בְּעִיר הַקֹּדֶשׁ ירושלים — מרכז ההנהגה של ישראל**</p><p>זכריה ב16: &quot;וְנָחַל יהוה אֶת יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָים&quot;</p><p>-------------</p><p>המלך --- בירושלים</p><p>קהלת א1: &quot;דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלָים&quot;</p><p>השופט --- בירושלים</p><p>תהלים קכב5: &quot;כִּי שָׁמָּה יָשְׁבוּ כִּסְאוֹת לְמִשְׁפָּט כִסְאוֹת לְבֵית דָּוִיד&quot;</p><p>הכהן ---בירושלים</p><p>עבודת הכהנים בבית-המקדש בְּעִיר הַקֹּדֶשׁ ירושלים</p><p>הנביא (חוזה־המלך) - בירושלים</p><p>הסמכות העליונה הצמודה אל המלך לייעץ לו ולעתים גם להוכיחו — כאשר נתן הנביא הוכיח את דוד במשל כבשת הרש.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-22 19:35:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-22 19:35:49' 
+			WHERE messageid=14845;
+
