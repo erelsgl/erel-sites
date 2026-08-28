@@ -11495,3 +11495,139 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0234_5.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 14:03:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 14:13:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 14:52:27'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1502_2.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 15:51:16'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 15:53:25'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 15:59:59'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1851.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1852.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/hdm.html' AND `ktovt_bn` = 'tnk1/kma/qjrim1/hdm.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/ewb.html' AND `ktovt_bn` = 'tnk1/ktuv/mgilot/ei-02-01.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/ljon/jorj/ble.html' AND `ktovt_bn` = 'tnk1/ktuv/mgilot/ei-02-02.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1854.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `l` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1855.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1856.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1857.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1858.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1859.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/dmut/dmut/649.html' AND `ktovt_bn` = 'tnk1/klli/mdrjim/gilboa.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1860.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1861.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+DELETE FROM `board_tnk1` WHERE `ktovt_av` = 'tnk1/msr/4nihul.html' AND `ktovt_bn` = 'https://tnk1/sofrim/reuven/prjt-joftim.docx' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/new.html' AND `ktovt_bn` = 'tnk1/messages/new_0.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1862.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1863.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1864.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+UPDATE `board_tnk1` SET `sug` = NULL, `l` = NULL, `sdr_bn` = NULL WHERE `ktovt_av` = 'tnk1/forums.html' AND `ktovt_bn` = 'tnk1/messages/forums_1865.html' AND 1 LIMIT 1;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-08-27 18:31:59'
+		WHERE ktovt_bn='tnk1/daian.html'
+		;
+
