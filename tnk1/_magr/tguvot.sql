@@ -16726,3 +16726,191 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-30 07:54:07' 
 			WHERE messageid=14894;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-30 12:05:09' 
+			WHERE messageid=14876;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>בהמשך לדברי על הכרס בבטן </p><p>בתגובתי מיום 2022-10-13 17:59:03  DAIAN SHEM</p><p>------------------------------------------------------------------ </p><p>כרס = curse = קללה באנגלית</p><p> כרס בבטן זה קללה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-30 12:13:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p>בהמשך לדברי על הכרס בבטן</p><p>בתגובתי מיום 2022-10-13 17:59:03 DAIAN SHEM</p><p>------------------------------------------------------------------</p><p>כרס = curse = קללה באנגלית</p><p>כרס בבטן זה קללה</p><p>הפתרון להיות צמחוני עד אשר תבוא אליך בִרְכַּת-יהוה ואז....... </p><p>דברים יב15: </p><p>&quot;רַק בְּכָל אַוַּת נַפְשְׁךָ תִּזְבַּח וְאָכַלְתָּ בָשָׂר כְּבִרְכַּת יהוה אֱלֹהֶיךָ....... אֲשֶׁר נָתַן לְךָ בְּכָל שְׁעָרֶיךָ הַטָּמֵא וְהַטָּהוֹר יֹאכְלֶנּוּ כַּצְּבִי וְכָאַיָּל&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-30 12:30:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-30 12:30:30' 
+			WHERE messageid=14895;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>כרס = curse = קללה באנגלית</p><p>כרס בבטן זה קללה</p><p>הפתרון להיות צמחוני עד אשר תבוא אליך בִרְכַּת-יהוה ואז.......</p><p>דברים יב15:</p><p>&quot;רַק בְּכָל אַוַּת נַפְשְׁךָ תִּזְבַּח וְאָכַלְתָּ בָשָׂר כְּבִרְכַּת יהוה אֱלֹהֶיךָ....... אֲשֶׁר נָתַן לְךָ בְּכָל שְׁעָרֶיךָ הַטָּמֵא וְהַטָּהוֹר יֹאכְלֶנּוּ כַּצְּבִי וְכָאַיָּל&quot;</p><p>-</p><p>כַּעֲצָמִים בְּבֶטֶן הַמְּלֵאָה = חסר דעת אלהים</p><p>קהלת יא5: &quot;כַּאֲשֶׁר אֵינְךָ יוֹדֵעַ מַה דֶּרֶךְ הָרוּחַ כַּעֲצָמִים בְּבֶטֶן הַמְּלֵאָה כָּכָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים אֲשֶׁר יַעֲשֶׂה אֶת הַכֹּל&quot;</p><p>כָּכָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים אֲשֶׁר יַעֲשֶׂה אֶת הַכֹּל&quot; וְרַחֲמָיו עַל כָּל מַעֲשָׂיו</p><p>לא תזכה לרחמים בכרס = בְּבֶטֶן הַמְּלֵאָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים וְרַחֲמָיו עַל כָּל מַעֲשָׂיו</p><p>והסיבה שאנחנו מתענים בעת הצום זה לבקש דעת אלהים כאשר הבטן ריקה לא מלאה</p><p>ככה משה איש האלהים קיבל את תורת יהוה בדעת-אלהים לאחר צום תענית 40 יום וארבעים לילה</p><p>----------------------------------------------------------------------------------------------------------------</p><p>עתה עצה מעשית איך להפטר מהכרס</p><p>קודם כל ראשית ---- בקש את האלהים בשפת הקודש --- זה דבר ראשון</p><p>לאמור: &quot;אנא יהוה אל תתן צבה בטני&quot; [ולא תהיה לך בטן שנראית כמו צב]</p><p>בעת קומך מהמיטה בבקר הסר את טומאת המיתה דרך רחצת כל בשרך</p><p>לאחר רחצת בשרך במים התפלל לאלהים ואחרי התפילה שתה מים</p><p>אל תאכל [לפחות] עד שעה 10 בבקר שתה רק מים</p><p>במשך היום הרבה פרי וירק עד השקיעה בערב עת בא השמש</p><p>בלילה לא לאכול מאומה ואם אתה רעב נשנש עגבניה או מלפפון</p><p>וכן חוזר למחרת ככה יום יום ובעזרת השם תראה רפואתך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-30 12:33:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1402_2.html',
+		'<p> ynet.co.il/vacation/flights/article/byxeim35gdge</p><p>ערב-רב שעלו לישראל ממדינות ערביות בחסות עליית יהודים מזרחיים כשרים</p><p>הערב-רב הזה גורמים לאנטי-שמיות קשה בעולם</p><p>זה אותו ערב-רב שהולך מכות עם כסאות כתר בבתי מלון</p><p>https://www.facebook.com/watch/?v=1238300300077684</p><p>https://www.facebook.com/watch/?v=1677719483260689</p><p>זה אותו ערב-רב שנוסע בפראות עם טרקטורונים</p><p>https://www.facebook.com/watch/?v=1255933155864354</p><p>זה אותו ערב רב שדוקר בגלל &quot;חנייה&quot;</p><p>צריך לבדוק האם הערב-רב שמתנהגים כערבים האם הם יהודים</p><p>-----------------------------------------------------------------------------</p><p>הערב-רב הם גויים לכל דבר שמביאים נזק לישראל ובכל העולם</p><p>ואם הם יהודים הלא יהודים כאלה בושה וחרפה לכל ישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-30 16:31:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.youtube.com/shorts/-UDtw2x65u0</p><p>*************** מנהיג ש&quot;ס נבלה ***************</p><p>הוא בחר לדבר אל רגשותם העלובים של אנשי מפלגתו המזרחיים</p><p>אפשר לחשוב מי היה מרן הקודם? הוא זה שישב בשנת 1992 עם מפלגת מרצ של ההומואים והמחבלים</p><p>ותמך בהסכם אוסלו זה היה המרן שרוצים לעשות לו אזכרה אז שיזכירו את זה שבגד בבוחריו הימניים</p><p>ובכלל מה היא מורשת המרן הקודם וגם הנוכחי מלבד קללות בפיהם אין להם מה להעניק לישראל</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 02:44:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.youtube.com/shorts/-UDtw2x65u0</p><p>*************** מנהיג ש&quot;ס נבלה ***************</p><p>הוא בחר לדבר אל רגשותם העלובים של אנשי מפלגתו המזרחיים</p><p>אפשר לחשוב מי היה מרן הקודם? הוא זה שישב בשנת 1992 עם מפלגת מרצ של ההומואים והמחבלים</p><p>ותמך בהסכם אוסלו זה היה המרן שרוצים לעשות לו אזכרה אז שיזכירו את זה שבגד בבוחריו הימניים</p><p>ובכלל מה היא מורשת המרן הקודם וגם הנוכחי מלבד קללות בפיהם אין להם מה להעניק לישראל</p><p>-</p><p>ראו בקישור זה איך המרן הנוכחי מדבר בלעג על רבנים אחרים מהימין של ארץ ישראל השלמה הצדיקים ממנו</p><p>https://www.youtube.com/shorts/Aie02XvOp_s</p><p>https://www.youtube.com/watch?v=9qpfSuJwwp0</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 02:52:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 02:52:48' 
+			WHERE messageid=14899;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>*************** מנהיג ש&quot;ס נבלה ***************</p><p>הוא בחר לדבר אל רגשותם העלובים של אנשי מפלגתו המזרחיים</p><p>אפשר לחשוב מי היה מרן הקודם? הוא זה שישב בשנת 1992 עם מפלגת מרצ של ההומואים והמחבלים</p><p>ותמך בהסכם אוסלו זה היה המרן שרוצים לעשות לו אזכרה אז שיזכירו את זה שבגד בבוחריו הימניים</p><p>ובכלל מה היא מורשת המרן הקודם וגם הנוכחי מלבד קללות בפיהם אין להם מה להעניק לישראל</p><p>-</p><p>ראו בקישור זה איך המרן הנוכחי מדבר בלעג על רבנים אחרים מהימין של ארץ ישראל השלמה הצדיקים ממנו</p><p>https://www.youtube.com/shorts/Aie02XvOp_s</p><p>https://www.youtube.com/watch?v=rRsD6Uqc_FU&amp;t=60s</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 02:55:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 02:55:18' 
+			WHERE messageid=14900;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>*************** מנהיג ש&quot;ס נבלה ***************</p><p>הוא בחר לדבר אל רגשותם העלובים של אנשי מפלגתו המזרחיים</p><p>אפשר לחשוב מי היה מרן הקודם? הוא זה שישב בשנת 1992 עם מפלגת מרצ של ההומואים והמחבלים</p><p>ותמך בהסכם אוסלו זה היה המרן שרוצים לעשות לו אזכרה אז שיזכירו את זה שבגד בבוחריו הימניים</p><p>ובכלל מה היא מורשת המרן הקודם וגם הנוכחי מלבד קללות בפיהם אין להם מה להעניק לישראל</p><p>-</p><p>ראו בקישור זה איך המרן הנוכחי מדבר בלעג על רבנים אחרים מהימין של ארץ ישראל השלמה הצדיקים ממנו</p><p>https://www.youtube.com/shorts/Aie02XvOp_s</p><p>https://www.youtube.com/watch?v=rRsD6Uqc_FU&amp;t=60s</p><p>גם הפעם שנת 2026 החרדים בוגדים בימין ותומכים בשמאל</p><p>https://www.youtube.com/watch?v=60ZjwcdZCMs</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 02:58:06'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 02:58:09' 
+			WHERE messageid=14901;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.youtube.com/shorts/-UDtw2x65u0</p><p>*************** מנהיג ש&quot;ס נבלה ***************</p><p>הוא בחר לדבר אל רגשותם העלובים של אנשי מפלגתו המזרחיים</p><p>אפשר לחשוב מי היה מרן הקודם? הוא זה שישב בשנת 1992 עם מפלגת מרצ של ההומואים והמחבלים</p><p>ותמך בהסכם אוסלו זה היה המרן שרוצים לעשות לו אזכרה אז שיזכירו את זה שבגד בבוחריו הימניים</p><p>ובכלל מה היא מורשת המרן הקודם וגם הנוכחי מלבד קללות בפיהם אין להם מה להעניק לישראל</p><p>-</p><p>ראו בקישור זה איך המרן הנוכחי מדבר בלעג על רבנים אחרים מהימין של ארץ ישראל השלמה הצדיקים ממנו</p><p>https://www.youtube.com/shorts/Aie02XvOp_s</p><p>https://www.youtube.com/watch?v=rRsD6Uqc_FU&amp;t=60s</p><p>גם הפעם שנת 2026 החרדים בוגדים בימין ותומכים בשמאל</p><p>https://www.youtube.com/watch?v=60ZjwcdZCMs</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 02:59:31'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 02:59:34' 
+			WHERE messageid=14902;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2728_3.html',
+		'<p>כרס = curse = קללה באנגלית</p><p>כרס בבטן צבה כצב זה קללה</p><p>במדבר ה27: &quot;וְהִשְׁקָהּ אֶת הַמַּיִם וְהָיְתָה אִם נִטְמְאָה וַתִּמְעֹל מַעַל בְּאִישָׁהּ וּבָאוּ בָהּ הַמַּיִם הַמְאָרֲרִים לְמָרִים וְצָבְתָה....... בִטְנָהּ וְנָפְלָה יְרֵכָהּ וְהָיְתָה הָאִשָּׁה לְאָלָה בְּקֶרֶב עַמָּהּ&quot;</p><p>הפתרון להיות צמחוני עד אשר תבוא אליך בִרְכַּת-יהוה ואז.......</p><p>דברים יב15:</p><p>&quot;רַק בְּכָל אַוַּת נַפְשְׁךָ תִּזְבַּח וְאָכַלְתָּ בָשָׂר כְּבִרְכַּת יהוה אֱלֹהֶיךָ....... אֲשֶׁר נָתַן לְךָ בְּכָל שְׁעָרֶיךָ הַטָּמֵא וְהַטָּהוֹר יֹאכְלֶנּוּ כַּצְּבִי וְכָאַיָּל&quot;</p><p>-</p><p>כַּעֲצָמִים בְּבֶטֶן הַמְּלֵאָה = חסר דעת אלהים</p><p>קהלת יא5: &quot;כַּאֲשֶׁר אֵינְךָ יוֹדֵעַ מַה דֶּרֶךְ הָרוּחַ כַּעֲצָמִים בְּבֶטֶן הַמְּלֵאָה כָּכָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים אֲשֶׁר יַעֲשֶׂה אֶת הַכֹּל&quot;</p><p>כָּכָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים אֲשֶׁר יַעֲשֶׂה אֶת הַכֹּל&quot; וְרַחֲמָיו עַל כָּל מַעֲשָׂיו</p><p>לא תזכה לרחמים בכרס = בְּבֶטֶן הַמְּלֵאָה לֹא תֵדַע אֶת מַעֲשֵׂה הָאֱלֹהִים וְרַחֲמָיו עַל כָּל מַעֲשָׂיו</p><p>והסיבה שאנחנו מתענים בעת הצום זה לבקש דעת אלהים כאשר הבטן ריקה לא מלאה</p><p>ככה משה איש האלהים קיבל את תורת יהוה בדעת-אלהים לאחר צום תענית 40 יום וארבעים לילה</p><p>----------------------------------------------------------------------------------------------------------------</p><p>עתה עצה מעשית איך להפטר מהכרס</p><p>קודם כל ראשית ---- בקש את האלהים בשפת הקודש --- זה דבר ראשון</p><p>לאמור: &quot;אנא יהוה אל תתן צבה בטני&quot; [ולא תהיה לך בטן שנראית כמו צב]</p><p>בעת קומך מהמיטה בבקר הסר את טומאת המיתה דרך רחצת כל בשרך</p><p>לאחר רחצת בשרך במים התפלל לאלהים ואחרי התפילה שתה מים</p><p>אל תאכל [לפחות] עד שעה 10 בבקר שתה רק מים</p><p>במשך היום הרבה פרי וירק עד השקיעה בערב עת בא השמש</p><p>בלילה לא לאכול מאומה ואם אתה רעב נשנש עגבניה או מלפפון</p><p>וכן חוזר למחרת ככה יום יום ובעזרת השם תראה רפואתך</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 05:00:01'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 05:00:07' 
+			WHERE messageid=14897;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 06:58:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 06:58:26' 
+			WHERE messageid=14905;
+
