@@ -16914,3 +16914,172 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-08-31 06:58:26' 
 			WHERE messageid=14905;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>משלי ב3: &quot;כִּי אִם לַבִּינָה תִקְרָא לַתְּבוּנָה תִּתֵּן קוֹלֶךָ&quot;</p><p>משלי ב4: &quot;אִם תְּבַקְשֶׁנָּה כַכָּסֶף וְכַמַּטְמוֹנִים תַּחְפְּשֶׂנָּה&quot; </p><p>משלי ב5: &quot;אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא&quot;</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>-</p><p>אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא - עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב</p><p>https://www.youtube.com/watch?v=GDVM4b4gORA&amp;list=LL&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 09:10:27'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בדרכי משיח-יהוה</p><p>משלי ב3: &quot;כִּי אִם לַבִּינָה תִקְרָא לַתְּבוּנָה תִּתֵּן קוֹלֶךָ&quot;</p><p>משלי ב4: &quot;אִם תְּבַקְשֶׁנָּה כַכָּסֶף וְכַמַּטְמוֹנִים תַּחְפְּשֶׂנָּה&quot;</p><p>משלי ב5: &quot;אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא&quot;</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>-</p><p>אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא - עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב</p><p>https://www.youtube.com/watch?v=GDVM4b4gORA&amp;list=LL&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 09:15:42'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 09:15:49' 
+			WHERE messageid=14906;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>משלי ב3: &quot;כִּי אִם לַבִּינָה תִקְרָא לַתְּבוּנָה תִּתֵּן קוֹלֶךָ&quot;</p><p>משלי ב4: &quot;אִם תְּבַקְשֶׁנָּה כַכָּסֶף וְכַמַּטְמוֹנִים תַּחְפְּשֶׂנָּה&quot;</p><p>משלי ב5: &quot;אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא&quot;</p><p>תהלים קלב5: &quot;עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב&quot;</p><p>-</p><p>אָז תָּבִין יִרְאַת יהוה וְדַעַת אֱלֹהִים תִּמְצָא - עַד אֶמְצָא מָקוֹם לַיהוָה מִשְׁכָּנוֹת לַאֲבִיר יַעֲקֹב</p><p>https://www.youtube.com/watch?v=GDVM4b4gORA&amp;list=LL&amp;index=7</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 09:16:32'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 09:16:37' 
+			WHERE messageid=14907;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>משלי כב9: &quot;טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִלַּחְמוֹ לַדָּל&quot;</p><p>מים מבורכים יהיו לך כשמימיך נוזליך יהיו טהורים</p><p>אם האלהים ברך את נוזליך מימיך ודמך טהורים</p><p>אז גם העין שלך תהיה טהורה מלשון מעיין</p><p>אשרי האיש טוב העין אשר מימי משכנו [גופו] .......</p><p>שיר השירים ד15: &quot;מַעְיַן גַּנִּים בְּאֵר מַיִם חַיִּים וְנֹזְלִים מִן לְבָנוֹן&quot;</p><p>  *********** כִּי נָתַן מִלַּחְמוֹ לַדָּל ***********</p><p> </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 09:37:13'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2805_1.html',
+		'<p>משלי כב9: &quot;טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִלַּחְמוֹ לַדָּל&quot;</p><p>מים מבורכים יהיו לך כשמימיך נוזליך יהיו טהורים</p><p>אם האלהים ברך את נוזליך מימיך ודמך טהורים</p><p>אז גם העין שלך תהיה טהורה מלשון מעיין</p><p>אשרי האיש טוב העין אשר מימי משכנו [גופו] טהורים כ .......</p><p>שיר השירים ד15: &quot;מַעְיַן גַּנִּים בְּאֵר מַיִם חַיִּים וְנֹזְלִים מִן לְבָנוֹן&quot;</p><p>*********** כִּי נָתַן מִלַּחְמוֹ לַדָּל ***********</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 09:40:15'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 09:40:18' 
+			WHERE messageid=14909;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.facebook.com/reel/1105946981948870</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 14:45:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 14:46:02' 
+			WHERE messageid=14911;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p> https://www.facebook.com/reel/1105946981948870</p><p> בושה וחרפה לחרדים !!!!!!! גַּם בּוֹשׁ לֹא יֵבֹשׁוּ וְהִכָּלֵם לֹא יָדָעוּ </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 14:49:25'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/tryasr/ov-01-11.html',
+		'<p>https://www.facebook.com/reel/1274816341335825</p><p>https://www.facebook.com/reel/1105946981948870</p><p>בושה וחרפה לחרדים !!!!!!! גַּם בּוֹשׁ לֹא יֵבֹשׁוּ וְהִכָּלֵם לֹא יָדָעוּ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 16:05:30'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 16:05:33' 
+			WHERE messageid=14912;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 16:13:16'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 16:13:20' 
+			WHERE messageid=14914;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1502_2.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-08-31 17:36:12'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-08-31 17:36:16' 
+			WHERE messageid=14915;
+
