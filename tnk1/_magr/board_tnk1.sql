@@ -13473,3 +13473,155 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 08:10:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 08:13:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 08:35:45'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 08:46:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 08:48:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0114_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 11:00:07'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 11:12:34'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0101_23.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 13:34:31'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 14:10:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 14:11:49'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 14:12:42'
+		WHERE ktovt_bn='tnk1/messages/prqim_t08b24_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 15:09:32'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 15:28:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 16:17:44'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-20 16:18:14'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-21 03:38:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-21 04:00:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-21 04:11:54'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-09-21 07:14:36'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0416_3.html'
+		;
+
