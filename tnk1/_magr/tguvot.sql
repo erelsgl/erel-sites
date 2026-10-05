@@ -22305,3 +22305,99 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-04 06:19:30' 
 			WHERE messageid=15236;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/ktuv/thlim/th-d2-03.html',
+		'<p>דוד רק נשבע שלא יתן לעיניו שינה ולעפעפיו תנומה</p><p>ואלא היה ישן מעט פחות משנת סוס שאינו חשוב שינה</p><p>לפי מאמר הגמרא בברכות ג ב: </p><p> אמר רב אושעיא אמר רבי אחא הכי קאמר (דוד) מעולם לא עבר עלי חצות לילה בשינה.</p><p>  רבי זירא אמר עד חצות לילה היה מתנמנם כסוס מכאן ואילך היה מתגבר כארי </p><p>    רב אשי אמר עד חצות לילה היה עוסק בדברי תורה מכאן ואילך בשירות ותשבחות. </p>',
+		'110767779824457508648',
+		't z',
+		'2026-10-04 16:20:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:38:46' 
+			WHERE messageid=14898;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:38:52' 
+			WHERE messageid=14890;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:39:00' 
+			WHERE messageid=14868;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:41:25' 
+			WHERE messageid=14983;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:41:59' 
+			WHERE messageid=14888;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:42:06' 
+			WHERE messageid=14841;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:42:16' 
+			WHERE messageid=14582;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:42:54' 
+			WHERE messageid=14218;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:42:58' 
+			WHERE messageid=14435;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:43:16' 
+			WHERE messageid=11966;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:43:28' 
+			WHERE messageid=10854;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-05 07:43:51' 
+			WHERE messageid=10853;
+

@@ -15026,3 +15026,43 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_1.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-04 16:20:52'
+		WHERE ktovt_bn='tnk1/ktuv/thlim/th-d2-03.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/154.html',
+				'tnk1/messages/dmut_dmut_154_3.html',
+				NULL,
+				'2026-10-04 16:51:08',
+				'2026-10-04 16:51:08',
+				'הקשר הסמוי בין יעקב, \"איש חלק\", וישורון – גילוי בלשון המקרא ',
+				'אביתר כהן',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/dmut/dmut/154.html',
+				'tnk1/messages/dmut_dmut_154_4.html',
+				NULL,
+				'2026-10-04 16:57:20',
+				'2026-10-04 16:57:20',
+				'הקשר הסמוי בין יעקב, \"איש חלק\", וישורון – גילוי בלשון המקרא ',
+				'אביתר כהן',
+				''
+			)
+		;
+
