@@ -22887,3 +22887,59 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-08 06:03:04' 
 			WHERE messageid=15253;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:23:32' 
+			WHERE messageid=14660;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:24:30' 
+			WHERE messageid=14569;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:26:36' 
+			WHERE messageid=13497;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:26:48' 
+			WHERE messageid=13441;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:27:15' 
+			WHERE messageid=12508;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:28:08' 
+			WHERE messageid=12483;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:29:18' 
+			WHERE messageid=12078;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-09 02:29:53' 
+			WHERE messageid=11525;
+
