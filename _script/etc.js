@@ -292,7 +292,8 @@ function kotrt() {
 			authorForTitle = authorLink("יעל פרקל", "syaelp","t2.technion.ac.il");
 		else if (/משה דין/.test(theAuthor))
 			authorForTitle = 
-				"מורה לתורה משה דין" + " (<a href='/tnk1/daian.html'>לתרומות</a>)";
+				"מורה לתורה משה דין" 
+				//+ " (<a href='/tnk1/daian.html'>לתרומות</a>)";
 				// authorLink("מורה לתורה משה דין", "daian1enator","gmail.com") 
 		else if (/אביהו/.test(theAuthor) && /איתן/.test(theAuthor))
 			authorForTitle = authorLink("שלח: אביהו איתן חדד", "eitan-avioh","iec.co.il");
@@ -327,7 +328,7 @@ function kotrt() {
 	if (theReceiver.length>0) {
 		if (theReceiver=='סגלות משלי') {
 			theText += ("<br />" + "מתוך הספר " + 
-				"<a href='https://www.lulu.com/spotlight/erel'>סְגֻלּוֹת מִשְׁלֵי</a>");
+				"<a href='https://www.lulu.com/spotlight/erel'>סÿגÿלÿוÿת מÿשÿÿלÿי</a>");
 		} else {
 			theReceiver = theReceiver.replace(/כפית( של נח.?ת)?/, "כפית של <a href='nachat.ipaper.co.il'>נח\"ת</a>");
 			if (!/פו\'\'ס/.test(theReceiver) && !/ננ\'\'נ/.test(theReceiver) )
