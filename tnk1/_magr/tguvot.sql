@@ -23012,3 +23012,46 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-11 01:49:15' 
 			WHERE messageid=15257;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>יפה מאד. נראה לי שיש כמה מפלגות קטנות שמתאימות לדברים שכתבת: https://bhirot26.online/  </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-11 18:18:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-11 18:18:07' 
+			WHERE messageid=15259;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>יפה מאד. נראה לי שיש כמה מפלגות קטנות שמתאימות לדברים שכתבת: https://bhirot26.online/ מפלגות כמו &quot;גוש התנ&quot;כי&quot;, &quot;שמע&quot;, ועוד כמה. מה דעתך?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-11 18:18:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>המפלגות הקטנות לא יעברו את אחוז החסימה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-12 02:06:52'
+		)
+		;
+
