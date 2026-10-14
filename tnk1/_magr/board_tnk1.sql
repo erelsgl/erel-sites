@@ -15312,3 +15312,35 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-13 09:36:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09b24_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-14 03:15:28'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/kma/qjrim2/mqdj1.html',
+				'tnk1/ktuv/thlim/th-132-06.html',
+				NULL,
+				'2026-10-14 03:26:43',
+				'2026-10-14 03:26:43',
+				'הנה שמענוה באפרתה, מצאנוה בשדי יער',
+				'אראל',
+				''
+			)
+		;
+
