@@ -23079,3 +23079,46 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בדף זה: https://bhirot26.online ישנה רשימה של כל המפלגות המתמודדות בבחירות ה-26 לכנסת ישראל, כולל מפלגות קטנות וחדשות. האם תוכל לנתח לעומק את המפלגות והמועמדים שלהן, ולקבוע מי מהן הכי מתאימה לתורה?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:32:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-15 00:32:47' 
+			WHERE messageid=15264;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בדף זה: https://bhirot26.online ישנה רשימה של כל המפלגות המתמודדות בבחירות ה-26 לכנסת ישראל, כולל מפלגות קטנות וחדשות, כולל רשימת המועמדים של כל מפלגה.</p><p>האם תוכל לקבוע מי מהן הכי מתאימה לתורה?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:33:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_154_4.html',
+		'<p>מעניין מאד, אבל למה זה נזכר דווקא בברכה לשבט גד?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:35:58'
+		)
+		;
+

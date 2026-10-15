@@ -15344,3 +15344,73 @@ SET character_set_connection=hebrew;
 			)
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1878.html',
+				NULL,
+				'2026-10-14 13:18:20',
+				'2026-10-14 13:18:20',
+				'פרשת: נח-כיצד התמודד נח עם החמס בתקופתו- ומה היום?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-14 13:18:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1879.html',
+				NULL,
+				'2026-10-14 13:27:41',
+				'2026-10-14 13:27:41',
+				'נח וליצני הדור/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-14 13:27:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:32:39'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:33:09'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:35:58'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_154_4.html'
+		;
+
