@@ -15414,3 +15414,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/dmut_dmut_154_4.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 15:03:24'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_154_4.html'
+		;
+
