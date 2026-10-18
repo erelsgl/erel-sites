@@ -23134,3 +23134,34 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בנוסח הקידוש של ליל שבת אנו אומרים את המשפט: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת מִצְרַיִם&quot;.</p><p>צריך לתקן את הקידוש של ליל שבת: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת בני ישראל ממִצְרַיִם&quot;.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-17 15:51:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בנוסח הקידוש של ליל שבת אנו אומרים את המשפט: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת מִצְרַיִם&quot;.</p><p>צריך לתקן את הקידוש של ליל שבת: כזאת &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת בני ישראל ממִצְרַיִם&quot;.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-17 15:52:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-17 15:52:06' 
+			WHERE messageid=15268;
+
