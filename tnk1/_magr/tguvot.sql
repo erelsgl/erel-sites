@@ -23165,3 +23165,22 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-17 15:52:06' 
 			WHERE messageid=15268;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>במדבר לו7: &quot;וְלֹא תִסֹּב נַחֲלָה לִבְנֵי יִשְׂרָאֵל מִמַּטֶּה אֶל מַטֶּה כִּי אִישׁ בְּנַחֲלַת מַטֵּה אֲבֹתָיו יִדְבְּקוּ בְּנֵי יִשְׂרָאֵל&quot;</p><p>במדבר לו9: &quot;וְלֹא תִסֹּב נַחֲלָה מִמַּטֶּה לְמַטֶּה אַחֵר כִּי אִישׁ בְּנַחֲלָתוֹ יִדְבְּקוּ מַטּוֹת בְּנֵי יִשְׂרָאֵל&quot;..................</p><p>************* הדבר נכון גם לגבי כל אומות העולם כִּי אִישׁ בְּנַחֲלַת מַטֵּה אֲבֹתָיו יִדְבְּקוּ *************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-20 02:10:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-20 02:11:31' 
+			WHERE messageid=15270;
+
