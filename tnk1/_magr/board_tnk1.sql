@@ -15288,3 +15288,239 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-11 18:18:04'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-11 18:18:43'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-12 02:06:52'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-13 09:36:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t09b24_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-14 03:15:28'
+		WHERE ktovt_bn='tnk1/tora/jmot/jm-1821.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/kma/qjrim2/mqdj1.html',
+				'tnk1/ktuv/thlim/th-132-06.html',
+				NULL,
+				'2026-10-14 03:26:43',
+				'2026-10-14 03:26:43',
+				'הנה שמענוה באפרתה, מצאנוה בשדי יער',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1878.html',
+				NULL,
+				'2026-10-14 13:18:20',
+				'2026-10-14 13:18:20',
+				'פרשת: נח-כיצד התמודד נח עם החמס בתקופתו- ומה היום?/אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-14 13:18:20'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1879.html',
+				NULL,
+				'2026-10-14 13:27:41',
+				'2026-10-14 13:27:41',
+				'נח וליצני הדור/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-14 13:27:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:32:39'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:33:09'
+		WHERE ktovt_bn='tnk1/messages/daian2_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 00:35:58'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_154_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-15 15:03:24'
+		WHERE ktovt_bn='tnk1/messages/dmut_dmut_154_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-17 15:51:08'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-17 15:52:04'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0231_0.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/3elections.html',
+				'tnk1/msr/knesset/bxirot-5786.html',
+				NULL,
+				'2026-10-17 20:25:05',
+				'2026-10-17 20:25:05',
+				'הלכות בחירות - לקראת הבחירות לכנסת תשפז',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-20 02:10:29'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1404_0.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-20 16:38:05'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0215_4.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-20 16:42:09'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b9_1.html'
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1880.html',
+				NULL,
+				'2026-10-21 20:12:41',
+				'2026-10-21 20:12:41',
+				'פרשת: לך- לך, לאן מועדות פנינו-בתקופת-רעש התקשורתי?/ אהובה קליין?',
+				'/ ',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-21 20:12:41'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1881.html',
+				NULL,
+				'2026-10-21 20:18:34',
+				'2026-10-21 20:18:34',
+				'אברהם אבינו ושליחותו/ מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-10-21 20:18:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+

@@ -23012,3 +23012,227 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-11 01:49:15' 
 			WHERE messageid=15257;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>יפה מאד. נראה לי שיש כמה מפלגות קטנות שמתאימות לדברים שכתבת: https://bhirot26.online/  </p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-11 18:18:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-11 18:18:07' 
+			WHERE messageid=15259;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>יפה מאד. נראה לי שיש כמה מפלגות קטנות שמתאימות לדברים שכתבת: https://bhirot26.online/ מפלגות כמו &quot;גוש התנ&quot;כי&quot;, &quot;שמע&quot;, ועוד כמה. מה דעתך?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-11 18:18:43'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>המפלגות הקטנות לא יעברו את אחוז החסימה</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-12 02:06:52'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t09b24_0.html',
+		'<p>ישעיהו כח14: &quot;לָכֵן שִׁמְעוּ דְבַר יהוה אַנְשֵׁי לָצוֹן מֹשְׁלֵי הָעָם הַזֶּה אֲשֶׁר בִּירוּשָׁלָים&quot;</p><p>ישעיהו כח15: </p><p>&quot;כִּי אֲמַרְתֶּם כָּרַתְנוּ בְרִית אֶת מָוֶת וְעִם שְׁאוֹל עָשִׂינוּ חֹזֶה שיט[שׁוֹט] שׁוֹטֵף כִּי עבר[יַעֲבֹר] לֹא יְבוֹאֵנוּ כִּי שַׂמְנוּ כָזָב מַחְסֵנוּ וּבַשֶּׁקֶר נִסְתָּרְנוּ&quot;</p><p>-------------------</p><p>באור לפרש.......</p><p>בישעיהו כ״ח, י״ד–כ״ב, הנביא מוכיח את מנהיגי ירושלים על שהם בוטחים בשקרים ובתחבולות אנושיות, </p><p>וסבורים כי כך יוכלו להינצל מכל סכנה. הם הפכו את הכזב למקלט ואת השקר למחסה, </p><p>אך יהוה מזהיר אותם כי ביטחונם המדומה לא יעמוד במבחן המציאות.</p><p>כנגד שקריהם מציב יהוה יסוד של אמת, משפט וצדקה: ״וְשַׂמְתִּי מִשְׁפָּט לְקָו וּצְדָקָה לְמִשְׁקָלֶת״ (פסוק י״ז). </p><p>הברית שכרתו כביכול עם המוות לא תציל אותם, והם יהיו למרמס תחת הפורענות.</p><p>הנביא ממחיש את חולשת פתרונותיהם במשל: ״כִּי קָצַר הַמַּצָּע מֵהִשְׂתָּרֵעַ וְהַמַּסֵּכָה צָרָה כְּהִתְכַּנֵּס״ (פסוק כ׳). </p><p>כשם שמיטה קצרה ושמיכה צרה אינן מאפשרות לאדם לנוח, כך פתרונותיהם אינם מסוגלים לספק להם הגנה אמיתית.</p><p>לבסוף מזהיר הנביא את המנהיגים שלא יתלוצצו ולא יתעלמו מדבריו, פן יחמיר מצבם.</p><p>המסר המרכזי: אין ביטחון אמיתי בשקר ובתחבולות. כל מי שבונה את חייו על כזב עלול לגלות כי יסודותיו קורסים, </p><p>ואילו המשפט, הצדקה והאמת הם היסודות שעליהם ראוי לבסס את החיים וההנהגה.</p><p>תהלים י16: &quot;יהוה מֶלֶךְ עוֹלָם וָעֶד אָבְדוּ גוֹיִם מֵאַרְצוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-13 09:36:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/jmot/jm-1821.html',
+		'<p>יש מפלגות, שבמשך הרבה שנים רצו ולא עברו את אחוז החסימה, ובסוף עברו. אז גם אם עכשיו המפלגה לא תעבור, אולי בכל-זאת כדאי להצביע לה כדי שתצבור כוח ותעבור בבחירות הבאות?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-14 03:15:28'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בדף זה: https://bhirot26.online ישנה רשימה של כל המפלגות המתמודדות בבחירות ה-26 לכנסת ישראל, כולל מפלגות קטנות וחדשות. האם תוכל לנתח לעומק את המפלגות והמועמדים שלהן, ולקבוע מי מהן הכי מתאימה לתורה?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:32:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-15 00:32:47' 
+			WHERE messageid=15264;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/daian2_0.html',
+		'<p>בדף זה: https://bhirot26.online ישנה רשימה של כל המפלגות המתמודדות בבחירות ה-26 לכנסת ישראל, כולל מפלגות קטנות וחדשות, כולל רשימת המועמדים של כל מפלגה.</p><p>האם תוכל לקבוע מי מהן הכי מתאימה לתורה?</p><p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:33:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_154_4.html',
+		'<p>מעניין מאד, אבל למה זה נזכר דווקא בברכה לשבט גד?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-15 00:35:58'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/dmut_dmut_154_4.html',
+		'<p>כתבתי בעבר: </p><p>כידוע שבט שמעון לא מוזכר בברכת משה</p><p>לכן אם נייחס את הפסוק הבא לשמעון</p><p>תהיה סגירת מעגל..</p><p>דברים לג5: &quot;ויהי בישרון מלך בהתאסף ראשי עם יחד שבטי ישראל&quot;</p><p>שמעון נחשב לשבט הדרומי ביותר (שיחור / נחל מצרים)</p><p>וגד היה השבט הצפוני ביותר (לבוא חמת , &quot;ברוך מרחיב גד כלביא&quot; {לביא = לבוא - חמת} )</p><p>דברים לג21: &quot;וירא ראשית לו כי שם חלקת מחקק</p><p>ספון ויתא ראשי עם צדקת ה\' עשה ומשפטיו עם ישראל&quot; (&quot; ויתאספון &quot;)</p><p>מלכים א ח65: &quot;ויעש שלמה בעת ההיא את החג וכל ישראל עמו קהל גדול</p><p>מלבוא חמת עד נחל מצרים לפני ה\' אלהינו שבעת ימים ושבעת ימים ארבעה עשר יום&quot;</p><p>דברי הימים א יג5: &quot; ויקהל דויד את כל ישראל</p><p>מן שיחור מצרים ועד לבוא חמת להביא את ארון האלהים מקרית יערים&quot;</p><p>דברי הימים ב ז8: &quot;ויעש שלמה את החג בעת ההיא שבעת ימים וכל ישראל עמו</p><p>קהל גדול מאד מלבוא חמת עד נחל מצרים &quot;</p>',
+		'112626326304940971661',
+		'אביתר כהן',
+		'2026-10-15 15:03:24'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בנוסח הקידוש של ליל שבת אנו אומרים את המשפט: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת מִצְרַיִם&quot;.</p><p>צריך לתקן את הקידוש של ליל שבת: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת בני ישראל ממִצְרַיִם&quot;.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-17 15:51:08'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0231_0.html',
+		'<p>בנוסח הקידוש של ליל שבת אנו אומרים את המשפט: &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת מִצְרַיִם&quot;.</p><p>צריך לתקן את הקידוש של ליל שבת: כזאת &quot;כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קוֹדֶשׁ, זֵכֶר לִיצִיאַת בני ישראל ממִצְרַיִם&quot;.</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-17 15:52:04'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-17 15:52:06' 
+			WHERE messageid=15268;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p>במדבר לו7: &quot;וְלֹא תִסֹּב נַחֲלָה לִבְנֵי יִשְׂרָאֵל מִמַּטֶּה אֶל מַטֶּה כִּי אִישׁ בְּנַחֲלַת מַטֵּה אֲבֹתָיו יִדְבְּקוּ בְּנֵי יִשְׂרָאֵל&quot;</p><p>במדבר לו9: &quot;וְלֹא תִסֹּב נַחֲלָה מִמַּטֶּה לְמַטֶּה אַחֵר כִּי אִישׁ בְּנַחֲלָתוֹ יִדְבְּקוּ מַטּוֹת בְּנֵי יִשְׂרָאֵל&quot;..................</p><p>************* הדבר נכון גם לגבי כל אומות העולם כִּי אִישׁ בְּנַחֲלַת מַטֵּה אֲבֹתָיו יִדְבְּקוּ *************</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-20 02:10:29'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-20 02:11:31' 
+			WHERE messageid=15270;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0215_4.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-20 16:38:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-20 16:38:07' 
+			WHERE messageid=15271;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b9_1.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-20 16:42:09'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-20 16:42:11' 
+			WHERE messageid=15272;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-20 16:46:14' 
+			WHERE messageid=13956;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-21 11:59:50' 
+			WHERE messageid=14217;
+
