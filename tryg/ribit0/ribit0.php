@@ -57,7 +57,7 @@ $FORGOT_LABEL = "שכחת למלא";
 $to = coalesce($_GET['to'],'');
 
 class ContactForm extends HTML_QuickForm_Tableless {
-	function ContactForm($name, $method) {
+	function __construct($name, $method) {
 		$this->HTML_QuickForm_Tableless('contact', 'post');
 
 		$this->addElement('hidden', 'sug', 'ribit0');

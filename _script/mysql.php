@@ -1,5 +1,5 @@
 <?php
-
+require_once(dirname(__FILE__)."/mysql_compat.php");
 /**
  * @file mysql.php
  *  MySql specific routines, for use in the generic database routines of sql.php

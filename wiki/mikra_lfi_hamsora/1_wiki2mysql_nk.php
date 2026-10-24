@@ -7,7 +7,7 @@ $TVNIT_MSPR_PSUQ = "מ:פסוק";
 
 
 $CONTAINER = "נביאים וכתובים על פי המסורה";
-$REGEXP_STARTFILE = "@[#][#][#][#][#][^\n]*${CONTAINER}[/]([^\n]+)\n([^<>]+)@s";
+$REGEXP_STARTFILE = "@[#][#][#][#][#][^\n]*{$CONTAINER}[/]([^\n]+)\n([^<>]+)@s";
 $REGEXP_VERSE = "/^(\\s*((?:[{][{][^{}]+[}][}]\\s*)|(?:[<][^<>]+[>]\\s*))*)(.*)/s";
 // [1] = prefix
 // [3] = verse_text

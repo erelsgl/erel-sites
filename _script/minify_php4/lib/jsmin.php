@@ -67,7 +67,7 @@ class JSMin {
 
   // -- Public Instance Methods ------------------------------------------------
 
-  function JSMin($input) {
+  function __construct($input) {
     $this->input       = $input;
     $this->inputLength = strlen($input);
   }

@@ -29,8 +29,8 @@ if ( ! isset($_SERVER['DOCUMENT_ROOT'] ) )
  * %u0xxxx -> char
  */
 function unicode_decode($txt) {
- $txt = ereg_replace('%u0([[:alnum:]]{3})', '&#x\1;',$txt);
- $txt = ereg_replace('%([[:alnum:]]{2})', '&#x\1;',$txt);
+ $txt = preg_replace('/%u0([[:alnum:]]{3})/', '&#x\1;',$txt);
+ $txt = preg_replace('/%([[:alnum:]]{2})/', '&#x\1;',$txt);
  return ($txt);
 }
 

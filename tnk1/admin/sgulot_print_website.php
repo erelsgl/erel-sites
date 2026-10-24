@@ -63,8 +63,8 @@ function print_page($row) {
 	/* 2. Calculate title for current page: */	
 	$current_title = (
 			$verse_number===0? "מבנה $book_name $chapter_letter":
-			$verse_number===99? "סיכום $book_name $chapter_letter":
-			"$book_name $chapter_letter $verse_number"
+			($verse_number===99? "סיכום $book_name $chapter_letter":
+			"$book_name $chapter_letter $verse_number")
 	);
 
 	global $fileroot, $newline, $lang, $direction, $bodyclass, $fullbody,

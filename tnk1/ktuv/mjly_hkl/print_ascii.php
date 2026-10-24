@@ -7,7 +7,7 @@
 function print_ascii($s) {
 	print "<p>";
 	for ($i=0; $i<strlen($s); ++$i) {
-		print ord($s{$i})." ";
+		print ord($s[$i])." ";
 	}
 	print "</p>\n";
 }

@@ -154,7 +154,7 @@ class LightOpenID
         return !!gethostbynamel($server);
     }
 
-    protected function request_curl($url, $method='GET', $params=array(), $update_claimed_id)
+    protected function request_curl($url, $method, $params, $update_claimed_id)
     {
         $params = http_build_query($params, '', '&');
         $curl = curl_init($url . ($method == 'GET' && $params ? '?' . $params : ''));
@@ -262,7 +262,7 @@ class LightOpenID
         return $headers;
     }
 
-    protected function request_streams($url, $method='GET', $params=array(), $update_claimed_id)
+    protected function request_streams($url, $method, $params, $update_claimed_id)
     {
         if(!$this->hostExists($url)) {
             throw new ErrorException("Could not connect to $url.", 404);
@@ -345,8 +345,8 @@ class LightOpenID
         $data = file_get_contents($url, false, $context);
         # This is a hack for providers who don't support HEAD requests.
         # It just creates the headers array for the last request in $this->headers.
-        if(isset($http_response_header)) {
-            $this->headers = $this->parse_header_array($http_response_header, $update_claimed_id);
+        if($response_headers = http_get_last_response_headers()) {
+            $this->headers = $this->parse_header_array($response_headers, $update_claimed_id);
         }
 
         return file_get_contents($url, false, $context);

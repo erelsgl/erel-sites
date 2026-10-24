@@ -303,7 +303,7 @@ function add_to_ancestor() {
 		$link_href = $path_from_document_to_reply;
 	} elseif ($bodyclass === 'magr') {
 		$link_text = $title_with_html;
-		$link_href = "${path_from_document_to_root}_script/display.html?$path_from_root_to_reply+Cards";
+		$link_href = "{$path_from_document_to_root}_script/display.html?$path_from_root_to_reply+Cards";
 	} else {
 		$link_text = $title_with_html;
 		$link_href = $path_from_document_to_reply;

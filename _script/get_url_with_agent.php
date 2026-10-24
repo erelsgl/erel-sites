@@ -16,7 +16,6 @@ function get_url_with_agent($url) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_USERAGENT, 'Erel Bot');
     $result = curl_exec($ch);
-    curl_close($ch);
     return $result;
 }
 

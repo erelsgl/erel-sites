@@ -181,7 +181,7 @@ class Zend_Validate_Hostname extends Zend_Validate_Abstract
      * @return void
      * @see http://www.iana.org/cctld/specifications-policies-cctlds-01apr02.htm  Technical Specifications for ccTLDs
      */
-    public function __construct($allow = self::ALLOW_DNS, $validateIdn = true, $validateTld = true, Zend_Validate_Ip $ipValidator = null)
+    public function __construct($allow = self::ALLOW_DNS, $validateIdn = true, $validateTld = true, ?Zend_Validate_Ip $ipValidator = null)
     {
         // Set allow options
         $this->setAllow($allow);
@@ -197,7 +197,7 @@ class Zend_Validate_Hostname extends Zend_Validate_Abstract
      * @param Zend_Validate_Ip $ipValidator OPTIONAL
      * @return void;
      */
-    public function setIpValidator(Zend_Validate_Ip $ipValidator = null)
+    public function setIpValidator(?Zend_Validate_Ip $ipValidator = null)
     {
         if ($ipValidator === null) {
             $ipValidator = new Zend_Validate_Ip();

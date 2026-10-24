@@ -23,7 +23,6 @@ function get_url_with_agent($url) {
     if ($error) {
          user_error("curl_error: '$error'", E_USER_WARNING);
     }
-    curl_close($ch);
     return $result;
 }
 

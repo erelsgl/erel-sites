@@ -5,7 +5,7 @@ $parashot = get_pages("0_from_wiki.txt");
 $TVNIT_MSPR_PSUQ = "מ:פסוק";
 
 $CONTAINER = "תורה על פי המסורה";
-$REGEXP_STARTFILE = "@[#][#][#][#][#][^\n]*${CONTAINER}[/]([^\n]+)@s";
+$REGEXP_STARTFILE = "@[#][#][#][#][#][^\n]*{$CONTAINER}[/]([^\n]+)@s";
 $REGEXP_VERSE = "/^(\\s*((?:[{][{][^{}]+[}][}]\\s*)|(?:[<][^<>]+[>]\\s*))*)(.*)/s";
 // [1] = prefix
 // [3] = verse_text

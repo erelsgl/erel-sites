@@ -10,7 +10,7 @@ class GoogleClient {
 	/**
 	 * @param int $max_result_count - use multiples of 8
 	 */
-	function GoogleClient($max_result_count=40) {
+	function __construct($max_result_count=40) {
 		$this->client = new Zend_Http_Client(); // a client with cookies
 		$this->client->setConfig(array(
 			'strictredirects' => true,

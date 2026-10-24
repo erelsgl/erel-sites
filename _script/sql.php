@@ -1164,10 +1164,6 @@ function quote_all($value) {
 	if (is_null($value))
 		return "NULL";
 
-	// Stripslashes
-	if (get_magic_quotes_gpc()) {
-		$value = stripslashes($value);
-	}
 	// Quote if not a number or a numeric string
 	$value = "'" . mysql_real_escape_string($value) . "'";
 	return $value;

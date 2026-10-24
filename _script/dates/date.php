@@ -84,8 +84,8 @@ function string_to_jd($string) {
 		$month_name = ucfirst(strtolower($matches[2]));
 		$year = $matches[3];
 		
-		if (preg_match("|@#DHEBREW@|", $string) { # Dorotree Jewish calendar
-			if (isJewishLeapYear($year)
+		if (preg_match("|@#DHEBREW@|", $string)) { # Dorotree Jewish calendar
+			if (isJewishLeapYear($year))
 				$month_number = array_search($month_name, $jewishMonthNamesLeapDorotree);
 			else
 				$month_number = array_search($month_name, $jewishMonthNamesNonLeapDorotree);

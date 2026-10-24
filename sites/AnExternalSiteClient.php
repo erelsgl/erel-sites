@@ -317,12 +317,11 @@ function getValidXMLDocument($xmlstring) {
 	}
 	
 	// Load the feed as an XML DOMDocument object
-	@ini_set('track_errors', 1);
 	$doc = new DOMDocument();
 	$success = @$doc->loadXML($xmlstring);
-	@ini_restore('track_errors');
+	$last_error = error_get_last();
 	if (!$success) {
-		user_error("DOMDocument cannot parse XML: $php_errormsg", E_USER_WARNING);
+		user_error("DOMDocument cannot parse XML: ".($last_error? $last_error["message"]: ""), E_USER_WARNING);
 		print_pre('$xmlstring',htmlspecialchars($xmlstring));
 		return NULL;
 	}

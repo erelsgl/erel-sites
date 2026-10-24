@@ -466,7 +466,7 @@ function niwut($bn_quoted, $path_from_document_to_root) {
 		print " $mspr_jlby_niwut ";
 
 		$raji = utf8_to_windows1255("ראשי");
-		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='${path_from_document_to_root}${path_from_root_to_site}/index.html'>$raji</a>&gt;$niwut_line</div>\n";
+		$niwut .= "<div class='NiwutElyon'><a class='link_to_homepage' href='{$path_from_document_to_root}{$path_from_root_to_site}/index.html'>$raji</a>&gt;$niwut_line</div>\n";
 	}
 	return $niwut;
 }

@@ -153,10 +153,10 @@ function clean_wiki_code($wikicode) {
     $wikicode = clean_links($wikicode);  // must be after clean_urls
     $wikicode = preg_replace("@\"?<q *class=.psuq.>(.*?)</q>\"?@s","{{צ|תוכן=$1}}",$wikicode); // must be after clean_links
     $wikicode = preg_replace("@\"?<q *class=.mfrj.>(.*?)</q>\"?@s","{{צפ|תוכן=$1}}",$wikicode);
-    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}[^<>]*?he.wikisource.org/wiki/([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}/([^<>]*?)[.]html${QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
-    $wikicode = preg_replace("@<a *[^<>]*href=${QUOTE}http([^<> ]*?)${QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
+    $wikicode = preg_replace("@<a *[^<>]*href={$QUOTE}[^<>]*?he.wikisource.org/wiki/([^<>]*?){$QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href={$QUOTE}[^<>]*?/he[.]wikisource[.]org/w/index[.]php[?]title=([^<>]*?){$QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href={$QUOTE}/([^<>]*?)[.]html{$QUOTE}[^<>]*?>(.*?)</a>@s","[[$1|$2]]",$wikicode); // must be after clean_links
+    $wikicode = preg_replace("@<a *[^<>]*href={$QUOTE}http([^<> ]*?){$QUOTE}[^<>]*?>(.*?)</a>@s","[http$1 $2]",$wikicode); // must be last in this section
 		
 		$wikicode = str_replace($WIKIA_REPLACE_LINKS_KEYS, $WIKIA_REPLACE_LINKS_VALUES, $wikicode);
 

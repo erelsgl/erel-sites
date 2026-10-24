@@ -164,7 +164,7 @@ function html_for_radio($name, $default_value, $values, $attributes='') {
 function html_for_radio_row($name, $value="", $attributes="", $label_html_encoded="") {
 	return '<div class="radio_row">'.html_for_radio_option($name,$value,$attributes).'<label for="element'.$GLOBALS['element_id'].'">'.$label_html_encoded.'</label></div>';
 }
-function html_for_radio_icon_row($name, $value="", $attributes="", $label_html_encoded="", $icon_attributes) {
+function html_for_radio_icon_row($name, $value, $attributes, $label_html_encoded, $icon_attributes) {
 	$icon_suffix = 'jpg';
 	$icon_height = '25';
 	$icon_width = '25';
@@ -307,7 +307,7 @@ function html_for_select($name, $default_value, $values, $attributes='') {
  *        EITHER a string (which is then used both for displaying the option to the user, and for sending the option to the server), 
  *        OR an array of two strings (where the first is sent to the server, and the second is displayed to the user).
  */
-function html_for_icon_select($name, $default_value, $values, $attributes='', $prefix, $suffix) {
+function html_for_icon_select($name, $default_value, $values, $attributes, $prefix, $suffix) {
 	$GLOBALS['element_id']++;
 	return "
 		<select id='element$GLOBALS[element_id]' name='$name' size='1' $attributes>
@@ -1054,7 +1054,7 @@ function form_row($element_type, $name_for_display_text, $default_value="", $att
 			$script .= "el";
 
 		if ($GLOBALS['ENABLE_JS_VALIDATION'] && $validatorJavascriptCode && count($validate_on)) {
-			$script .= ".bind('".implode($validate_on,' ')."',validator_handler).closest('.row').validation_push(function(el){return $validatorJavascriptCode;},el).end()";
+			$script .= ".bind('".implode(' ',$validate_on)."',validator_handler).closest('.row').validation_push(function(el){return $validatorJavascriptCode;},el).end()";
 		}
 		// add AJAX support if needed
 		if ($UPDATE_IN_BACKGROUND) {
@@ -1347,9 +1347,6 @@ function get_input($name, $default_value) {
 	$_POST[$name] = $_GET[$name] = $value; // for use later, with form_row_callback
 
 
-	if (get_magic_quotes_gpc()) {
-		$value = stripslashes($value);
-	}
 
 	return $value;
 }

@@ -1,12 +1,9 @@
 <?php
+require_once(dirname(__FILE__)."/../../mysql_compat.php");
 if (!function_exists("quote_smart")) {    // Erel (quote_smart might be defined more than once.)
     function quote_smart($value)
     // Quote variable to make safe
     {
-       // Stripslashes
-       if (get_magic_quotes_gpc()) {
-           $value = stripslashes($value);
-       }
        // Quote if not a number or a numeric string
        if (!is_numeric($value)) {
            $value = "'" . mysql_real_escape_string($value) . "'";
@@ -18,10 +15,6 @@ if (!function_exists("quote_smart")) {    // Erel (quote_smart might be defined 
 function escape_smart($value)
 // Quote variable to make safe
 {
-   // Stripslashes
-   if (get_magic_quotes_gpc()) {
-       $value = stripslashes($value);
-   }
    $value =  mysql_real_escape_string($value);
 
    return $value;

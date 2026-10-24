@@ -30,7 +30,7 @@ class MediawikiClient {
 		var $api_url;
 		var $client;
 
-		function MediawikiClient($domain="he.wikisource.org") {
+		function __construct($domain="he.wikisource.org") {
 				$this->api_url = "http://$domain/w/api.php";
 		}
 

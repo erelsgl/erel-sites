@@ -100,8 +100,8 @@ while ($row = sql_fetch_assoc($rows)) {
 	/* 2. Calculate title for current page: */	
 	$current_title = (
 			$verse_number===0? "מבנה $book_name $chapter_letter":
-			$verse_number===99? "סיכום $book_name $chapter_letter":
-			"$book_name $chapter_letter $verse_number"
+			($verse_number===99? "סיכום $book_name $chapter_letter":
+			"$book_name $chapter_letter $verse_number")
 	);
 
 	$verse_link = $verse_number==0? 

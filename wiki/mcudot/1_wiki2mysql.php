@@ -4,7 +4,7 @@ $pages = get_pages("0_from_wiki.txt");
 
 $CONTAINER = "קטע:מצודות על";
 $MCUDOT = "מצודות";
-$REGEXP_STARTFILE = "@[#][#][#][#][#] ${CONTAINER} ([^\n]+) ([^\n]+) ([^\n]+)\n\s*[{][{]$MCUDOT\s*\\|@s";
+$REGEXP_STARTFILE = "@[#][#][#][#][#] {$CONTAINER} ([^\n]+) ([^\n]+) ([^\n]+)\n\s*[{][{]$MCUDOT\s*\\|@s";
 $REGEXP_ENDFILE_1   = "@}}<noinclude>.*@s";
 $REGEXP_ENDFILE_2   = "@\\|משלי\\|$ALF_AD_TW+\\|$ALF_AD_TW*\\|$ALF_AD_TW+\\|$ALF_AD_TW*}}.*@s";
 // [1] = book_name

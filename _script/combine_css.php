@@ -71,7 +71,9 @@ if ($minify) {
 if ($extra_ratio <> 1) {
 	$css_ratio = $css;
 	$offset = 0;
-	$css = preg_replace("/(\d+)px/e", "($1 <= 3 ? $1 :  floor($1*{$extra_ratio})).'px'", $css);
+	$css = preg_replace_callback("/(\d+)px/", function($m) use ($extra_ratio) {
+		return ($m[1] <= 3 ? $m[1] :  floor($m[1]*$extra_ratio)).'px';
+	}, $css);
 }
 
 if ($outfile) {
