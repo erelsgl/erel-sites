@@ -23236,3 +23236,34 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-21 11:59:50' 
 			WHERE messageid=14217;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-11-06.html',
+		'<p>לקראת הבחירות, כשכל הפוליטיקאים תוקפים זה את זה כזאבים וכנמרים, מתברר עוד יותר כמה אנחנו צריכים את אותו &quot;נער קטן&quot; שינהיג את כולם יחד.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-24 20:11:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-24 21:46:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-24 21:46:47' 
+			WHERE messageid=15274;
+
