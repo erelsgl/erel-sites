@@ -23267,3 +23267,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-24 21:46:47' 
 			WHERE messageid=15274;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p>אם בחרנו בממשלה מסוימת, ובא עלינו אסון גדול ביותר, ואנחנו בוחרים שוב באותה ממשלה, האם אין בכך עבירה על הפסוק &quot;וְאִם בְּאֵלֶּה לֹא תִוָּסְרוּ לִי, וַהֲלַכְתֶּם עִמִּי קֶרִי&quot;? האם אסון כה גדול לא אמור לעורר אותנו לשנות את בחירתנו?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-25 15:36:55'
+		)
+		;
+
