@@ -15548,3 +15548,19 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-23.html'
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-26 09:28:10'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-26 09:32:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
+		;
+
