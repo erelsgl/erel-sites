@@ -23236,3 +23236,77 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-21 11:59:50' 
 			WHERE messageid=14217;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/nvia/yjayhu/yj-11-06.html',
+		'<p>לקראת הבחירות, כשכל הפוליטיקאים תוקפים זה את זה כזאבים וכנמרים, מתברר עוד יותר כמה אנחנו צריכים את אותו &quot;נער קטן&quot; שינהיג את כולם יחד.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-24 20:11:50'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p></p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-24 21:46:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-24 21:46:47' 
+			WHERE messageid=15274;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p>אם בחרנו בממשלה מסוימת, ובא עלינו אסון גדול ביותר, ואנחנו בוחרים שוב באותה ממשלה, האם אין בכך עבירה על הפסוק &quot;וְאִם בְּאֵלֶּה לֹא תִוָּסְרוּ לִי, וַהֲלַכְתֶּם עִמִּי קֶרִי&quot;? האם אסון כה גדול לא אמור לעורר אותנו לשנות את בחירתנו?</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-25 15:36:55'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b2_1.html',
+		'<p>הושע ט1: &quot;אַל תִּשְׂמַח יִשְׂרָאֵל אַל גִּיל כָּעַמִּים כִּי זָנִיתָ מֵעַל אֱלֹהֶיךָ אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן&quot;</p><p>דברים כג19: &quot;לֹא תָבִיא אֶתְנַן זוֹנָה וּמְחִיר כֶּלֶב בֵּית יהוה אֱלֹהֶיךָ לְכָל נֶדֶר כִּי תוֹעֲבַת יהוה אֱלֹהֶיךָ גַּם שְׁנֵיהֶם&quot; </p><p>תהלים קה16: &quot;וַיִּקְרָא רָעָב עַל הָאָרֶץ כָּל מַטֵּה לֶחֶם שָׁבָר&quot;</p><p>מיכה א7: &quot;וְכָל פְּסִילֶיהָ יֻכַּתּוּ וְכָל אֶתְנַנֶּיהָ יִשָּׂרְפוּ בָאֵשׁ וְכָל עֲצַבֶּיהָ אָשִׂים שְׁמָמָה כִּי מֵאֶתְנַן זוֹנָה קִבָּצָה וְעַד אֶתְנַן זוֹנָה יָשׁוּבוּ&quot;</p><p>תהלים ב12: &quot;נַשְּׁקוּ בַר פֶּן יֶאֱנַף וְתֹאבְדוּ דֶרֶךְ כִּי יִבְעַר כִּמְעַט אַפּוֹ אַשְׁרֵי כָּל חוֹסֵי בוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-26 09:28:10'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t26b2_1.html',
+		'<p>הסיבה לעוני ישראל כי אהב זנות ולא גרנות דגן על כן גרנות דגן רחקו ממנו</p><p>הושע ט1: &quot;אַל תִּשְׂמַח יִשְׂרָאֵל אַל גִּיל כָּעַמִּים כִּי זָנִיתָ מֵעַל אֱלֹהֶיךָ אָהַבְתָּ אֶתְנָן עַל כָּל גָּרְנוֹת דָּגָן&quot;</p><p>דברים כג19: &quot;לֹא תָבִיא אֶתְנַן זוֹנָה וּמְחִיר כֶּלֶב בֵּית יהוה אֱלֹהֶיךָ לְכָל נֶדֶר כִּי תוֹעֲבַת יהוה אֱלֹהֶיךָ גַּם שְׁנֵיהֶם&quot;</p><p>תהלים קה15-16: &quot;אַל תִּגְּעוּ בִמְשִׁיחָי וְלִנְבִיאַי אַל תָּרֵעוּ וַיִּקְרָא רָעָב עַל הָאָרֶץ כָּל מַטֵּה לֶחֶם שָׁבָר&quot;</p><p>מיכה א7: &quot;וְכָל פְּסִילֶיהָ יֻכַּתּוּ וְכָל אֶתְנַנֶּיהָ יִשָּׂרְפוּ בָאֵשׁ וְכָל עֲצַבֶּיהָ אָשִׂים שְׁמָמָה כִּי מֵאֶתְנַן זוֹנָה קִבָּצָה וְעַד אֶתְנַן זוֹנָה יָשׁוּבוּ&quot;</p><p>תהלים ב12: &quot;נַשְּׁקוּ בַר פֶּן יֶאֱנַף וְתֹאבְדוּ דֶרֶךְ כִּי יִבְעַר כִּמְעַט אַפּוֹ אַשְׁרֵי כָּל חוֹסֵי בוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-26 09:32:19'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-10-26 09:32:40' 
+			WHERE messageid=15276;
+
