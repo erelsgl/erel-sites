@@ -23310,3 +23310,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-26 09:32:40' 
 			WHERE messageid=15276;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>היום יותר מתמיד, חייבים להחליף את השיטה המפלגת שלנו בשיטה המעודדת אחדות.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-29 07:53:25'
+		)
+		;
+

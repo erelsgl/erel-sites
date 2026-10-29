@@ -5116,3 +5116,18 @@ SET character_set_connection=utf8mb3;
 			WHERE parent='tnk1/messages/prqim_t26b2_1.html'
 			;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/msr/knesset/ahdut2.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-10-29 07:53:25'
+		WHERE parent='tnk1/msr/knesset/ahdut2.html'
+		;
+

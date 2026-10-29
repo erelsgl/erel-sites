@@ -15564,3 +15564,11 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-29 07:53:25'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+
