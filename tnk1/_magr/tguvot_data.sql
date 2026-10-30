@@ -5131,3 +5131,18 @@ SET character_set_connection=utf8 /* default */;
 		WHERE parent='tnk1/msr/knesset/ahdut2.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/tora/wyqra/wy-26-23.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-10-29 15:36:54'
+		WHERE parent='tnk1/tora/wyqra/wy-26-23.html'
+		;
+

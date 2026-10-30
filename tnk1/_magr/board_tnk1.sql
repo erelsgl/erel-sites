@@ -15572,3 +15572,43 @@ SET character_set_connection=utf8 /* default */;
 		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-29 15:36:54'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-23.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1882.html',
+				NULL,
+				'2026-10-29 21:04:41',
+				'2026-10-29 21:04:41',
+				'פרשת וירא: הסוד הטמון ביראת שמים-מה כוח לישראל/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1883.html',
+				NULL,
+				'2026-10-29 21:24:06',
+				'2026-10-29 21:24:06',
+				'עקדת יצחק/ מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+

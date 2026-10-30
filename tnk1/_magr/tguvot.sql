@@ -23322,3 +23322,15 @@ SET character_set_connection=utf8 /* default */;
 		)
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p>שמואל א יב25: &quot;וְאִם הָרֵעַ תָּרֵעוּ גַּם אַתֶּם גַּם מַלְכְּכֶם תִּסָּפוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-29 15:36:54'
+		)
+		;
+
