@@ -5146,3 +5146,64 @@ SET character_set_connection=utf8 /* default */;
 		WHERE parent='tnk1/tora/wyqra/wy-26-23.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1003_4.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-11-02 03:40:06'
+		WHERE parent='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1003_4.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-11-02 03:41:51'
+		WHERE parent='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2026-11-02 03:41:53'
+			WHERE parent='tnk1/messages/prqim_t1003_4.html'
+			;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t1003_4.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-11-02 03:45:06'
+		WHERE parent='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+			UPDATE tguvot_data
+			SET count=count-1, updated_at='2026-11-02 03:45:08'
+			WHERE parent='tnk1/messages/prqim_t1003_4.html'
+			;
+

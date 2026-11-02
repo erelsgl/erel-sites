@@ -15612,3 +15612,27 @@ SET character_set_connection=utf8 /* default */;
 			)
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:40:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:41:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:45:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
