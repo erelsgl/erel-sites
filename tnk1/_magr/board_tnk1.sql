@@ -15636,3 +15636,19 @@ SET character_set_connection=utf8 /* default */;
 		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 17:44:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 17:58:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
