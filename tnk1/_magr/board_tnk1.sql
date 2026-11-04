@@ -15652,3 +15652,35 @@ SET character_set_connection=utf8 /* default */;
 		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/ktuv/dha/da-01.html',
+				NULL,
+				'2026-11-04 03:32:09',
+				'2026-11-04 03:32:09',
+				'מבנה דברי הימים א, והסכמי אברהם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvnex.html',
+				'tnk1/ktuv/dha/da-02-03.html',
+				NULL,
+				'2026-11-04 04:17:23',
+				'2026-11-04 04:17:23',
+				'בני יהודה בדברי הימים',
+				'אראל',
+				''
+			)
+		;
+
