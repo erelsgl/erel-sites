@@ -15684,3 +15684,35 @@ SET character_set_connection=utf8 /* default */;
 			)
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1884.html',
+				NULL,
+				'2026-11-05 16:21:57',
+				'2026-11-05 16:21:57',
+				'פרשת חיי שרה- מה חשיבות קניין מערת המכפלה- לאחוזת קבר?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1885.html',
+				NULL,
+				'2026-11-05 16:30:58',
+				'2026-11-05 16:30:58',
+				'אברהם מנהל משא ומתן/ מאת: אהובה קליין(c) ',
+				'אהובה קליין',
+				''
+			)
+		;
+
