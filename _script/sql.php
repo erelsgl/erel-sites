@@ -21,6 +21,13 @@ else
 //   sql_query - calls mysql_query if it is a MySql database, and mssql_query if it is an MS-SQL database.
 require_once(dirname(__FILE__)."/$GLOBALS[DATABASE_TYPE].php");
 
+/**
+ * True if $r is a query result set: a resource (old ext/mysql) or a mysqli_result object (PHP 7+, via mysql_compat.php).
+ */
+function sql_is_result($r) {
+	return is_resource($r) || $r instanceof mysqli_result;
+}
+
 $GLOBALS['DATABASE_SERVER'] = 'localhost';
 
 
@@ -330,7 +337,7 @@ function sql_query_or_die($query, $comment=NULL) {
 	}
 	if ($debug_select && $DATABASE_TYPE==='mysql') {
 		$explain_query_result = sql_query("EXPLAIN EXTENDED SELECT $matches[1]");
-		if (is_resource($explain_query_result))
+		if (sql_is_result($explain_query_result))
 			echo "<table dir='ltr'>" . sql_shorter_table($explain_query_result) . "</table>\n";
 		//echo "<table dir='ltr'>" . sql_shorter_table(sql_query("SHOW WARNINGS"),10000) . "</table>\n";
 			// don't use sql_query_or_die - endless loop!
@@ -371,14 +378,14 @@ function sql_query_or_die($query, $comment=NULL) {
 	}
 	if ($DEBUG_QUERY_TIMES||$debug_select) {
 		$result_description = "";
-		if (is_resource($result))
+		if (sql_is_result($result))
 			$num_rows = @sql_num_rows($result);
 		else
 			$num_rows = sql_affected_rows();
 		$result_description .= "$num_rows rows";
 
 		/*
-		if (is_resource($result) && $num_rows==1 && sql_num_fields($result)==1)
+		if (sql_is_result($result) && $num_rows==1 && sql_num_fields($result)==1)
 			$result_description .= " (result=" . sql_result($result,0,0) . ")";
 				sql_result spoils the result set!
 		*/
@@ -388,7 +395,7 @@ function sql_query_or_die($query, $comment=NULL) {
 			print "<p dir='ltr'>/*Query took ".($DEBUG_LAST_QUERY_TIME*1000)." ms. $result_description*/</p>\n";
 	}
 
-	if (is_resource($result)) {
+	if (sql_is_result($result)) {
 		$num_rows = @sql_num_rows($result);
 		if ($DEBUG_SELECT_QUERIES && $num_rows)
 			print "<p dir='ltr'>Query returned $num_rows rows.</p>\n";
@@ -436,7 +443,7 @@ function sql_query_or_print_error($query) {
 		$message = sql_get_last_message();
 		echo ("<p>  FAILURE: $message</p>\n");
 	}
-	if (is_resource($result))
+	if (sql_is_result($result))
 		sql_free_result($result);
 }
 
@@ -492,7 +499,7 @@ function sql_queries_or_die($queries_string, $print=TRUE) {
 	foreach ($queries as $query) {
 		if (strlen($query)<6) continue;
 		if ($print) print "<h2>" . htmlspecialchars($query) . ";</h2>\n";
-		if (is_resource($result)) sql_free_result($result);
+		if (sql_is_result($result)) sql_free_result($result);
 		$result = sql_query_or_die($query);
 	}
 	return $result;
@@ -509,7 +516,7 @@ function sql_evaluate($query, $default_value="undefined", $comment="") {
 	$DEBUG_QUERY_SINGLE_RESULTS = $GLOBALS['DEBUG_QUERY_TIMES']||$GLOBALS['DEBUG_SELECT_QUERIES'];
 
 	$result = sql_query_or_die($query, $comment);
-	if (!is_resource($result)) {
+	if (!sql_is_result($result)) {
 		user_error('Invalid result resource for query: ' . $query, E_USER_WARNING);
 		var_dump($result);
 		return $default_value;

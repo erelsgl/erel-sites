@@ -104,7 +104,7 @@ if ($result===TRUE) {    # last query is not a select query - run a select query
 		$result = sql_query_or_die($additional_query);
 }
 
-if (is_resource($result)) {
+if (sql_is_result($result)) {
 	$rowcount = sql_num_rows($result);
 	$fieldcount = sql_num_fields($result);
 	print "<p>$rowcount rows, $fieldcount fields</p>\n";
