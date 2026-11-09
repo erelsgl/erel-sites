@@ -15564,3 +15564,163 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/messages/prqim_t26b2_1.html'
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-29 07:53:25'
+		WHERE ktovt_bn='tnk1/msr/knesset/ahdut2.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-10-29 15:36:54'
+		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-23.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1882.html',
+				NULL,
+				'2026-10-29 21:04:41',
+				'2026-10-29 21:04:41',
+				'פרשת וירא: הסוד הטמון ביראת שמים-מה כוח לישראל/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1883.html',
+				NULL,
+				'2026-10-29 21:24:06',
+				'2026-10-29 21:24:06',
+				'עקדת יצחק/ מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:40:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:41:51'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 03:45:06'
+		WHERE ktovt_bn='tnk1/messages/prqim_t1003_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 17:44:47'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-02 17:58:19'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0206_4.html'
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/msr/amim.html',
+				'tnk1/ktuv/dha/da-01.html',
+				NULL,
+				'2026-11-04 03:32:09',
+				'2026-11-04 03:32:09',
+				'מבנה דברי הימים א, והסכמי אברהם',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/sig/mvnex.html',
+				'tnk1/ktuv/dha/da-02-03.html',
+				NULL,
+				'2026-11-04 04:17:23',
+				'2026-11-04 04:17:23',
+				'בני יהודה בדברי הימים',
+				'אראל',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1884.html',
+				NULL,
+				'2026-11-05 16:21:57',
+				'2026-11-05 16:21:57',
+				'פרשת חיי שרה- מה חשיבות קניין מערת המכפלה- לאחוזת קבר?/ אהובה קליין',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1885.html',
+				NULL,
+				'2026-11-05 16:30:58',
+				'2026-11-05 16:30:58',
+				'אברהם מנהל משא ומתן/ מאת: אהובה קליין(c) ',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-09 07:07:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+

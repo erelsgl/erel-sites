@@ -23310,3 +23310,120 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-10-26 09:32:40' 
 			WHERE messageid=15276;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/msr/knesset/ahdut2.html',
+		'<p>היום יותר מתמיד, חייבים להחליף את השיטה המפלגת שלנו בשיטה המעודדת אחדות.</p>',
+		'117606350813040384070',
+		'Erel Segal-Halevi',
+		'2026-10-29 07:53:25'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/tora/wyqra/wy-26-23.html',
+		'<p>שמואל א יב25: &quot;וְאִם הָרֵעַ תָּרֵעוּ גַּם אַתֶּם גַּם מַלְכְּכֶם תִּסָּפוּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-10-29 15:36:54'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>ישעיהו ג14: &quot;יהוה בְּמִשְׁפָּט יָבוֹא עִם זִקְנֵי עַמּוֹ וְשָׂרָיו וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם&quot;</p><p>וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם? לכן נגזר עליכם להיות יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל</p><p>תהלים קז10-11: &quot;יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל כִּי הִמְרוּ אִמְרֵי אֵל וַעֲצַת עֶלְיוֹן נָאָצוּ&quot;</p><p>תהלים קמט7: &quot;לַעֲשׂוֹת נְקָמָה בַּגּוֹיִם תּוֹכֵחֹת בַּל אֻמִּים&quot;</p><p>תהלים קמט8: &quot;לֶאְסֹר מַלְכֵיהֶם בְּזִקִּים וְנִכְבְּדֵיהֶם בְּכַבְלֵי בַרְזֶל&quot; ---  &quot;וְאִם אֲסוּרִים בַּזִּקִּים יִלָּכְדוּן בְּחַבְלֵי עֹנִי&quot; [ איוב לו8:]</p><p>תהלים קמט9: &quot;לַעֲשׂוֹת בָּהֶם מִשְׁפָּט כָּתוּב הָדָר הוּא לְכָל חֲסִידָיו הַלְלוּ יָהּ&quot; </p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-02 03:40:06'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>ישעיהו ג14: &quot;יהוה בְּמִשְׁפָּט יָבוֹא עִם זִקְנֵי עַמּוֹ וְשָׂרָיו וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם&quot;</p><p>וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם? לכן נגזר עליכם להיות יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל</p><p>תהלים קז10-11: &quot;יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל כִּי הִמְרוּ אִמְרֵי אֵל וַעֲצַת עֶלְיוֹן נָאָצוּ&quot;</p><p>לכן נחרץ עליכם המשפט ככתוב:..</p><p>תהלים קמט7: &quot;לַעֲשׂוֹת נְקָמָה בַּגּוֹיִם תּוֹכֵחֹת בַּל אֻמִּים&quot;</p><p>תהלים קמט8: &quot;לֶאְסֹר מַלְכֵיהֶם בְּזִקִּים וְנִכְבְּדֵיהֶם בְּכַבְלֵי בַרְזֶל&quot; --- &quot;וְאִם אֲסוּרִים בַּזִּקִּים יִלָּכְדוּן בְּחַבְלֵי עֹנִי&quot; [ איוב לו8:]</p><p>תהלים קמט9: &quot;לַעֲשׂוֹת בָּהֶם מִשְׁפָּט כָּתוּב הָדָר הוּא לְכָל חֲסִידָיו הַלְלוּ יָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-02 03:41:51'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-02 03:41:53' 
+			WHERE messageid=15280;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1003_4.html',
+		'<p>ישעיהו ג14: &quot;יהוה בְּמִשְׁפָּט יָבוֹא עִם זִקְנֵי עַמּוֹ וְשָׂרָיו וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם&quot;</p><p>וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם? לכן נגזר עליכם להיות יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל</p><p>תהלים קז10-11: &quot;יֹשְׁבֵי חֹשֶׁךְ וְצַלְמָוֶת אֲסִירֵי עֳנִי וּבַרְזֶל כִּי הִמְרוּ אִמְרֵי אֵל וַעֲצַת עֶלְיוֹן נָאָצוּ&quot;</p><p>לכן נחרץ המשפט על הגוים ומלכיהם ונכבדיהם לעשות בהם נקמה ככתוב:..</p><p>תהלים קמט7: &quot;לַעֲשׂוֹת נְקָמָה בַּגּוֹיִם תּוֹכֵחֹת בַּל אֻמִּים&quot;</p><p>תהלים קמט8: &quot;לֶאְסֹר מַלְכֵיהֶם בְּזִקִּים וְנִכְבְּדֵיהֶם בְּכַבְלֵי בַרְזֶל&quot; --- &quot;וְאִם אֲסוּרִים בַּזִּקִּים יִלָּכְדוּן בְּחַבְלֵי עֹנִי&quot; [ איוב לו8:]</p><p>תהלים קמט9: &quot;לַעֲשׂוֹת בָּהֶם מִשְׁפָּט כָּתוּב הָדָר הוּא לְכָל חֲסִידָיו הַלְלוּ יָהּ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-02 03:45:06'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-02 03:45:08' 
+			WHERE messageid=15281;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0206_4.html',
+		'<p>בראשית יב3: &quot;וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה&quot; </p><p>בראשית יח18: &quot;וְאַבְרָהָם הָיוֹ יִהְיֶה לְגוֹי גָּדוֹל וְעָצוּם וְנִבְרְכוּ בוֹ כֹּל גּוֹיֵי הָאָרֶץ&quot;</p><p>בראשית יג16: &quot;וְשַׂמְתִּי אֶת זַרְעֲךָ כַּעֲפַר הָאָרֶץ אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת אֶת עֲפַר הָאָרֶץ גַּם זַרְעֲךָ יִמָּנֶה&quot; </p><p>בראשית טו5: &quot;וַיּוֹצֵא אֹתוֹ הַחוּצָה וַיֹּאמֶר הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר הַכּוֹכָבִים אִם תּוּכַל לִסְפֹּר אֹתָם וַיֹּאמֶר לוֹ כֹּה יִהְיֶה זַרְעֶךָ&quot;</p><p>בראשית כח14: &quot;וְהָיָה זַרְעֲךָ כַּעֲפַר הָאָרֶץ וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה וְנִבְרֲכוּ בְךָ כָּל מִשְׁפְּחֹת הָאֲדָמָה וּבְזַרְעֶךָ&quot; </p><p> https://www.youtube.com/watch?v=eS5limBHn_4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-02 17:44:47'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0206_4.html',
+		'<p>אלהים לאברהם</p><p>בראשית יב3: &quot;וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה&quot;</p><p>בראשית יח18: &quot;וְאַבְרָהָם הָיוֹ יִהְיֶה לְגוֹי גָּדוֹל וְעָצוּם וְנִבְרְכוּ בוֹ כֹּל גּוֹיֵי הָאָרֶץ&quot;</p><p>בראשית יג16: &quot;וְשַׂמְתִּי אֶת זַרְעֲךָ כַּעֲפַר הָאָרֶץ אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת אֶת עֲפַר הָאָרֶץ גַּם זַרְעֲךָ יִמָּנֶה&quot;</p><p>בראשית טו5: &quot;וַיּוֹצֵא אֹתוֹ הַחוּצָה וַיֹּאמֶר הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר הַכּוֹכָבִים אִם תּוּכַל לִסְפֹּר אֹתָם וַיֹּאמֶר לוֹ כֹּה יִהְיֶה זַרְעֶךָ&quot;</p><p>אלהים ליעקב</p><p>בראשית כח4: &quot;וְיִתֶּן לְךָ אֶת בִּרְכַּת אַבְרָהָם..... לְךָ וּלְזַרְעֲךָ אִתָּךְ לְרִשְׁתְּךָ אֶת אֶרֶץ מְגֻרֶיךָ אֲשֶׁר נָתַן אֱלֹהִים לְאַבְרָהָם&quot;</p><p>בראשית כח14: &quot;וְהָיָה זַרְעֲךָ כַּעֲפַר הָאָרֶץ וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה וְנִבְרֲכוּ בְךָ כָּל מִשְׁפְּחֹת הָאֲדָמָה וּבְזַרְעֶךָ&quot;</p><p>******* וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה = בִּרְכַּת אַבְרָהָם ליעקב = וְנִבְרֲכוּ בְךָ כָּל מִשְׁפְּחֹת הָאֲדָמָה וּבְזַרְעֶךָ *******</p><p>https://www.youtube.com/watch?v=eS5limBHn_4</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-02 17:58:19'
+		)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-02 17:58:22' 
+			WHERE messageid=15283;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>תהלים נ7: &quot;שִׁמְעָה עַמִּי וַאֲדַבֵּרָה יִשְׂרָאֵל וְאָעִידָה בָּךְ אֱלֹהִים אֱלֹהֶיךָ אָנֹכִי&quot;</p><p>שִׁמְעָה עַמִּי וַאֲדַבֵּרָה ... ואם אינך שומע למה אדברה הן לא אדבר לשוא</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-09 07:07:03'
+		)
+		;
+
