@@ -5245,3 +5245,18 @@ SET character_set_connection=utf8 /* default */;
 			WHERE parent='tnk1/messages/prqim_t0206_4.html'
 			;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT IGNORE INTO tguvot_data(parent,count)
+		VALUES('tnk1/messages/prqim_t0505_0.html',0)
+		;
+
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE tguvot_data
+		SET count=count+1, updated_at='2026-11-09 07:07:03'
+		WHERE parent='tnk1/messages/prqim_t0505_0.html'
+		;
+

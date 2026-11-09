@@ -23415,3 +23415,15 @@ SET character_set_connection=utf8 /* default */;
 			SET deleted_at='2026-11-02 17:58:22' 
 			WHERE messageid=15283;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0505_0.html',
+		'<p>תהלים נ7: &quot;שִׁמְעָה עַמִּי וַאֲדַבֵּרָה יִשְׂרָאֵל וְאָעִידָה בָּךְ אֱלֹהִים אֱלֹהֶיךָ אָנֹכִי&quot;</p><p>שִׁמְעָה עַמִּי וַאֲדַבֵּרָה ... ואם אינך שומע למה אדברה הן לא אדבר לשוא</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-09 07:07:03'
+		)
+		;
+

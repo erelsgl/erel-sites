@@ -15716,3 +15716,11 @@ SET character_set_connection=utf8 /* default */;
 			)
 		;
 
+SET character_set_client=utf8 /* default */;
+SET character_set_connection=utf8 /* default */;
+
+		UPDATE board_tnk1
+		SET newest_child_created_at='2026-11-09 07:07:03'
+		WHERE ktovt_bn='tnk1/messages/prqim_t0505_0.html'
+		;
+
