@@ -15748,3 +15748,49 @@ SET character_set_connection=utf8mb3;
 		WHERE ktovt_bn='tnk1/tora/wyqra/wy-26-23.html'
 		;
 
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1886.html',
+				NULL,
+				'2026-11-11 16:33:14',
+				'2026-11-11 16:33:14',
+				'פרשת תולדות-נבואות קורמות עור וגידים בימינו- האומנם?/ אהובה קליין ',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-11-11 16:33:14'
+			WHERE ktovt_bn='tnk1/forums.html';
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+		INSERT INTO board_tnk1 (ktovt_av, ktovt_bn, sdr_bn, created_at, newest_child_created_at, kotrt, m, l)
+		VALUES (
+				'tnk1/forums.html',
+				'tnk1/messages/forums_1887.html',
+				NULL,
+				'2026-11-11 16:45:34',
+				'2026-11-11 16:45:34',
+				'קול יעקב וידי עשיו/ מאת: אהובה קליין (c)',
+				'אהובה קליין',
+				''
+			)
+		;
+
+SET character_set_client=hebrew;
+SET character_set_connection=hebrew;
+
+			UPDATE board_tnk1
+			SET newest_child_created_at='2026-11-11 16:45:34'
+			WHERE ktovt_bn='tnk1/forums.html';
+
