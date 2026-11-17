@@ -23718,3 +23718,15 @@ SET character_set_connection=utf8mb3;
 			SET deleted_at='2026-11-15 10:16:37' 
 			WHERE messageid=15300;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0232_5.html',
+		'<p>ספר שמות ב15: &quot;וַיִּשְׁמַע פַּרְעֹה אֶת הַדָּבָר הַזֶּה וַיְבַקֵּשׁ לַהֲרֹג אֶת מֹשֶׁה וַיִּבְרַח מֹשֶׁה מִפְּנֵי פַרְעֹה וַיֵּשֶׁב בְּאֶרֶץ מִדְיָן וַיֵּשֶׁב עַל הַבְּאֵר&quot;</p><p>משה &quot;התיישב ליד הבאר&quot; --- אך כתוב: וַיֵּשֶׁב עַל הַבְּאֵר --- כי מֹשֶׁה אִישׁ הָאֱלֹהִים וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם מֵי-הַבְּאֵר</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-16 12:25:03'
+		)
+		;
+
