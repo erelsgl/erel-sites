@@ -23742,3 +23742,58 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>תהלים עז14: ***&quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ*** מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>תהלים עז20: ***&quot;בַּיָּם דַּרְכֶּךָ*** ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>******* אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ = בַּיָּם דַּרְכֶּךָ *******</p><p>תהלים פט26: &quot;וְשַׂמְתִּי בַיָּם יָדוֹ וּבַנְּהָרוֹת יְמִינוֹ&quot;</p><p>וְשַׂמְתִּי בַיָּם יָדוֹ = וְשַׂמְתִּי בַּקֹּדֶשׁ יָדוֹ</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-19 07:12:59'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1201_1.html',
+		'<p>תהלים עז14: ***&quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ*** מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>תהלים עז20: ***&quot;בַּיָּם דַּרְכֶּךָ*** ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>******* אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ = בַּיָּם דַּרְכֶּךָ *******</p><p>תהלים פט26: &quot;וְשַׂמְתִּי בַיָּם יָדוֹ וּבַנְּהָרוֹת יְמִינוֹ&quot;</p><p>------------ וְשַׂמְתִּי בַיָּם יָדוֹ = וְשַׂמְתִּי בַּקֹּדֶשׁ יָדוֹ ------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-19 07:18:18'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-19 07:18:21' 
+			WHERE messageid=15307;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0309_0.html',
+		'<p>תהלים עז14: ***&quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ*** מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>תהלים עז20: ***&quot;בַּיָּם דַּרְכֶּךָ*** ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>******* אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ = בַּיָּם דַּרְכֶּךָ *******</p><p>תהלים פט26: &quot;וְשַׂמְתִּי בַיָּם יָדוֹ וּבַנְּהָרוֹת יְמִינוֹ&quot;</p><p>------------ וְשַׂמְתִּי בַיָּם יָדוֹ = וְשַׂמְתִּי בַּקֹּדֶשׁ יָדוֹ ------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-19 07:18:47'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0129_1.html',
+		'<p>תהלים עז14: ***&quot;אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ*** מִי אֵל גָּדוֹל כֵּאלֹהִים&quot;</p><p>תהלים עז20: ***&quot;בַּיָּם דַּרְכֶּךָ*** ושביליך[וּשְׁבִילְךָ] בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ&quot;</p><p>******* אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ = בַּיָּם דַּרְכֶּךָ *******</p><p>תהלים פט26: &quot;וְשַׂמְתִּי בַיָּם יָדוֹ וּבַנְּהָרוֹת יְמִינוֹ&quot;</p><p>------------ וְשַׂמְתִּי בַיָּם יָדוֹ = וְשַׂמְתִּי בַּקֹּדֶשׁ יָדוֹ ------------</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-19 07:19:47'
+		)
+		;
+
