@@ -23840,3 +23840,65 @@ SET character_set_connection=utf8mb3;
 		)
 		;
 
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t2614_0.html',
+		'<p>יש לי ויכוח ומחלוקת עם ההשקפה הרבנית של משפחתי</p><p>כשהם מסיימים לאכול ארוחה בשרית דשנה בלי פת-לחם אני אומר להם לברך</p><p>אך ברכת המזון אינם עושים בטענה שלא אכלו לחם</p><p>אך רבותי ומה זה כל הארוחה שאכלתם ? זה לא לחם ?</p><p>על כן מצאתי לנכון לכתוב לכם כי כל המזון שאנחנו אוכלים בסעודה נקרא לחם</p><p>אף אם לא אכלנו במפורש פת-לחם כי לא רק הפיתה נקראת לחם</p><p>כאשר יתרו דרך בנותיו הזמין את משה לאכול לחם הוא התכוון לארוחה מלאה</p><p>יתרו לא הזמין את משה רק לפת-לחם אלא לארוחה בשרית סעודה שלמה</p><p>על כן כל ארוחה שאנחנו אוכלים צריך לברך ברכת המזון גם אם לא אכלנו פת-לחם</p><p>שמות ב20: &quot;וַיֹּאמֶר אֶל בְּנֹתָיו וְאַיּוֹ לָמָּה זֶּה עֲזַבְתֶּן אֶת הָאִישׁ קִרְאֶן לוֹ וְיֹאכַל לָחֶם&quot;</p><p>ומה חשבתם שיתרו לא הזמין את משה לארוחה בשרית מלאה ורק נתן לו חתיכת פיתה?</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-21 15:53:39'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t1404_0.html',
+		'<p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-21 17:24:48'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-21 17:24:55' 
+			WHERE messageid=15315;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.facebook.com/reel/1834922057753288</p><p>זה בחו&quot;ל באוסטרליה לא בארץ ישראל המקוללת.......</p><p>רק נדל&quot;ן ועוד נדל&quot;ן בצע כסף ארץ אשר לֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב</p><p>לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב </p><p>דברים כט22: &quot;גָּפְרִית וָמֶלַח שְׂרֵפָה כָּל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וצביים[וּצְבוֹיִם] אֲשֶׁר הָפַךְ ה&#039; בְּאַפּוֹ וּבַחֲמָתוֹ&quot;</p><p></p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-22 05:40:46'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+		INSERT INTO tguvot (parent,body,userid,username,created_at) VALUES (
+		'tnk1/messages/prqim_t0529_4.html',
+		'<p>https://www.facebook.com/reel/1834922057753288</p><p>זה בחו&quot;ל באוסטרליה לא בארץ ישראל המקוללת.......</p><p>רק נדל&quot;ן ועוד נדל&quot;ן בצע כסף ארץ אשר לֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב</p><p>לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב</p><p>דברים כט22: &quot;גָּפְרִית וָמֶלַח שְׂרֵפָה כָּל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וצביים[וּצְבוֹיִם] אֲשֶׁר הָפַךְ יהוה בְּאַפּוֹ וּבַחֲמָתוֹ&quot;</p>',
+		'115934331744503251746',
+		'DAIAN SHEM',
+		'2026-11-22 05:42:05'
+		)
+		;
+
+SET character_set_client=utf8mb3;
+SET character_set_connection=utf8mb3;
+
+			UPDATE tguvot 
+			SET deleted_at='2026-11-22 05:42:07' 
+			WHERE messageid=15316;
+
